@@ -1,0 +1,31 @@
+# 🔒 Général
+.DS_Store
+.env
+*.log
+*.pyc
+__pycache__/
+
+# 📦 Node.js (Front-end)
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# 🧠 Python (Back-end)
+*.egg-info/
+venv/
+.venv_api/
+.mypy_cache/
+
+# 🗃️ Données locales
+/data/*.csv
+/data/*.json
+/data/*.xlsx
+
+# 🧪 Notebooks cachés
+.ipynb_checkpoints/
+
+# 🐙 Git backups si présents
+TradingBotAppFront/.git_front_backup/
+TradingBotAppBack/.git_back_backup/
+TradingBotAppBack/.venv_social/
