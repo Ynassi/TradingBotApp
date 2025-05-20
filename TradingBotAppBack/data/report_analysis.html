@@ -1,0 +1,1903 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rapport d'analyse stratégique</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f9f9f9; }
+        h1, h2 { color: #333; }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 40px; }
+        th, td { border: 1px solid #ccc; padding: 6px 10px; text-align: left; }
+        th { background-color: #eee; }
+        img { max-width: 100%; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1> Rapport d'analyse stratégique</h1>
+    <p>Ce rapport présente les opportunités d'investissement identifiées automatiquement par le pipeline d'analyse.</p>
+
+    <h2> Visualisation des clusters (t-SNE + KMeans)</h2>
+    <img src="data/tsne_kmeans_clusters.png" alt="Clustering">
+
+    <h2> Sélection SHORT</h2>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ticker</th>
+      <th>Company</th>
+      <th>Sector</th>
+      <th>RSI_14</th>
+      <th>Momentum_10</th>
+      <th>ValueScore</th>
+      <th>SignalScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AKAM</td>
+      <td>Akamai Technologies</td>
+      <td>Information Technology</td>
+      <td>62.279848</td>
+      <td>16.268082</td>
+      <td>0.667318</td>
+      <td>0.305592</td>
+    </tr>
+    <tr>
+      <td>AXP</td>
+      <td>American Express</td>
+      <td>Financials</td>
+      <td>61.207715</td>
+      <td>15.366377</td>
+      <td>0.669133</td>
+      <td>0.324220</td>
+    </tr>
+    <tr>
+      <td>APH</td>
+      <td>Amphenol</td>
+      <td>Information Technology</td>
+      <td>74.099434</td>
+      <td>26.796662</td>
+      <td>0.647668</td>
+      <td>0.089256</td>
+    </tr>
+    <tr>
+      <td>BKNG</td>
+      <td>Booking Holdings</td>
+      <td>Consumer Discretionary</td>
+      <td>69.542285</td>
+      <td>17.226201</td>
+      <td>0.671930</td>
+      <td>0.196403</td>
+    </tr>
+    <tr>
+      <td>CAH</td>
+      <td>Cardinal Health</td>
+      <td>Health Care</td>
+      <td>78.194561</td>
+      <td>16.040260</td>
+      <td>0.700450</td>
+      <td>0.160971</td>
+    </tr>
+    <tr>
+      <td>CHTR</td>
+      <td>Charter Communications</td>
+      <td>Communication Services</td>
+      <td>64.668442</td>
+      <td>22.941415</td>
+      <td>0.674114</td>
+      <td>0.213839</td>
+    </tr>
+    <tr>
+      <td>CTSH</td>
+      <td>Cognizant</td>
+      <td>Information Technology</td>
+      <td>63.761801</td>
+      <td>15.141053</td>
+      <td>0.679624</td>
+      <td>0.303594</td>
+    </tr>
+    <tr>
+      <td>DFS</td>
+      <td>Discover Financial</td>
+      <td>Financials</td>
+      <td>64.126102</td>
+      <td>15.676613</td>
+      <td>0.668431</td>
+      <td>0.293445</td>
+    </tr>
+    <tr>
+      <td>HLT</td>
+      <td>Hilton Worldwide</td>
+      <td>Consumer Discretionary</td>
+      <td>64.678864</td>
+      <td>17.515522</td>
+      <td>0.617673</td>
+      <td>0.270547</td>
+    </tr>
+    <tr>
+      <td>IDXX</td>
+      <td>Idexx Laboratories</td>
+      <td>Health Care</td>
+      <td>70.955930</td>
+      <td>18.335177</td>
+      <td>0.612079</td>
+      <td>0.201900</td>
+    </tr>
+    <tr>
+      <td>IRM</td>
+      <td>Iron Mountain</td>
+      <td>Real Estate</td>
+      <td>70.836039</td>
+      <td>19.531923</td>
+      <td>0.665073</td>
+      <td>0.193518</td>
+    </tr>
+    <tr>
+      <td>LH</td>
+      <td>Labcorp</td>
+      <td>Health Care</td>
+      <td>65.130166</td>
+      <td>16.732633</td>
+      <td>0.677718</td>
+      <td>0.274187</td>
+    </tr>
+    <tr>
+      <td>MAR</td>
+      <td>Marriott International</td>
+      <td>Consumer Discretionary</td>
+      <td>60.967307</td>
+      <td>15.332186</td>
+      <td>0.636050</td>
+      <td>0.326989</td>
+    </tr>
+    <tr>
+      <td>META</td>
+      <td>Meta Platforms</td>
+      <td>Communication Services</td>
+      <td>61.019438</td>
+      <td>23.836976</td>
+      <td>0.635157</td>
+      <td>0.240265</td>
+    </tr>
+    <tr>
+      <td>MSFT</td>
+      <td>Microsoft</td>
+      <td>Information Technology</td>
+      <td>72.602457</td>
+      <td>21.847848</td>
+      <td>0.613213</td>
+      <td>0.151856</td>
+    </tr>
+    <tr>
+      <td>PNR</td>
+      <td>Pentair</td>
+      <td>Industrials</td>
+      <td>64.450850</td>
+      <td>17.958461</td>
+      <td>0.664182</td>
+      <td>0.268247</td>
+    </tr>
+    <tr>
+      <td>PTC</td>
+      <td>PTC Inc.</td>
+      <td>Information Technology</td>
+      <td>62.929291</td>
+      <td>15.950441</td>
+      <td>0.635078</td>
+      <td>0.302778</td>
+    </tr>
+    <tr>
+      <td>SNPS</td>
+      <td>Synopsys</td>
+      <td>Information Technology</td>
+      <td>66.244885</td>
+      <td>19.398057</td>
+      <td>0.616284</td>
+      <td>0.235477</td>
+    </tr>
+    <tr>
+      <td>TEL</td>
+      <td>TE Connectivity</td>
+      <td>Information Technology</td>
+      <td>66.224378</td>
+      <td>16.925594</td>
+      <td>0.671057</td>
+      <td>0.262250</td>
+    </tr>
+    <tr>
+      <td>TT</td>
+      <td>Trane Technologies</td>
+      <td>Industrials</td>
+      <td>73.886883</td>
+      <td>25.422657</td>
+      <td>0.655178</td>
+      <td>0.103107</td>
+    </tr>
+    <tr>
+      <td>VMC</td>
+      <td>Vulcan Materials Company</td>
+      <td>Materials</td>
+      <td>71.027584</td>
+      <td>15.593372</td>
+      <td>0.655952</td>
+      <td>0.230776</td>
+    </tr>
+    <tr>
+      <td>WAB</td>
+      <td>Wabtec</td>
+      <td>Industrials</td>
+      <td>64.260436</td>
+      <td>15.180175</td>
+      <td>0.668823</td>
+      <td>0.297971</td>
+    </tr>
+    <tr>
+      <td>WDAY</td>
+      <td>Workday, Inc.</td>
+      <td>Information Technology</td>
+      <td>61.134787</td>
+      <td>16.613728</td>
+      <td>0.635807</td>
+      <td>0.312204</td>
+    </tr>
+    <tr>
+      <td>OR.PA</td>
+      <td>L'OREAL</td>
+      <td>Consumer Staples</td>
+      <td>70.807696</td>
+      <td>16.192718</td>
+      <td>0.657708</td>
+      <td>0.225709</td>
+    </tr>
+    <tr>
+      <td>4063.T</td>
+      <td>Shin-Etsu Chemical</td>
+      <td>Materials</td>
+      <td>64.854391</td>
+      <td>17.275317</td>
+      <td>0.674533</td>
+      <td>0.265347</td>
+    </tr>
+    <tr>
+      <td>6473.T</td>
+      <td>JTEKT</td>
+      <td>Industrials</td>
+      <td>61.200260</td>
+      <td>16.934231</td>
+      <td>0.689624</td>
+      <td>0.306341</td>
+    </tr>
+    <tr>
+      <td>4519.T</td>
+      <td>Chugai Pharmaceutical</td>
+      <td>Health Care</td>
+      <td>70.162347</td>
+      <td>21.665490</td>
+      <td>0.622448</td>
+      <td>0.081082</td>
+    </tr>
+    <tr>
+      <td>4568.T</td>
+      <td>Daiichi Sankyo</td>
+      <td>Health Care</td>
+      <td>63.342670</td>
+      <td>19.419355</td>
+      <td>0.668998</td>
+      <td>0.257691</td>
+    </tr>
+    <tr>
+      <td>7741.T</td>
+      <td>Hoya Corporation</td>
+      <td>Industrials</td>
+      <td>68.419247</td>
+      <td>16.936528</td>
+      <td>0.648239</td>
+      <td>0.209964</td>
+    </tr>
+    <tr>
+      <td>7974.T</td>
+      <td>Nintendo</td>
+      <td>Consumer Discretionary</td>
+      <td>70.165543</td>
+      <td>19.478009</td>
+      <td>0.628560</td>
+      <td>0.107037</td>
+    </tr>
+    <tr>
+      <td>AVGO</td>
+      <td>Broadcom</td>
+      <td>Information Technology</td>
+      <td>62.499967</td>
+      <td>21.611213</td>
+      <td>0.671791</td>
+      <td>0.248253</td>
+    </tr>
+    <tr>
+      <td>CARR</td>
+      <td>Carrier Global</td>
+      <td>Industrials</td>
+      <td>68.771756</td>
+      <td>21.981375</td>
+      <td>0.668037</td>
+      <td>0.187725</td>
+    </tr>
+    <tr>
+      <td>CEG</td>
+      <td>Constellation Energy</td>
+      <td>Utilities</td>
+      <td>65.297392</td>
+      <td>29.341674</td>
+      <td>0.666905</td>
+      <td>0.143567</td>
+    </tr>
+    <tr>
+      <td>DXCM</td>
+      <td>Dexcom</td>
+      <td>Health Care</td>
+      <td>68.142334</td>
+      <td>22.114661</td>
+      <td>0.633535</td>
+      <td>0.192119</td>
+    </tr>
+    <tr>
+      <td>ETN</td>
+      <td>Eaton Corporation</td>
+      <td>Industrials</td>
+      <td>60.687774</td>
+      <td>15.770614</td>
+      <td>0.657435</td>
+      <td>0.324356</td>
+    </tr>
+    <tr>
+      <td>EFX</td>
+      <td>Equifax</td>
+      <td>Industrials</td>
+      <td>66.096929</td>
+      <td>22.474335</td>
+      <td>0.646297</td>
+      <td>0.205802</td>
+    </tr>
+    <tr>
+      <td>BEN</td>
+      <td>Franklin Resources</td>
+      <td>Financials</td>
+      <td>64.954374</td>
+      <td>15.360224</td>
+      <td>0.681312</td>
+      <td>0.290401</td>
+    </tr>
+    <tr>
+      <td>GE</td>
+      <td>GE Aerospace</td>
+      <td>Industrials</td>
+      <td>65.888106</td>
+      <td>17.911405</td>
+      <td>0.648570</td>
+      <td>0.255070</td>
+    </tr>
+    <tr>
+      <td>GEV</td>
+      <td>GE Vernova</td>
+      <td>Industrials</td>
+      <td>71.490089</td>
+      <td>28.759426</td>
+      <td>0.662682</td>
+      <td>0.089642</td>
+    </tr>
+    <tr>
+      <td>HWM</td>
+      <td>Howmet Aerospace</td>
+      <td>Industrials</td>
+      <td>73.864672</td>
+      <td>29.907086</td>
+      <td>0.629415</td>
+      <td>0.059305</td>
+    </tr>
+    <tr>
+      <td>JBL</td>
+      <td>Jabil</td>
+      <td>Information Technology</td>
+      <td>63.305616</td>
+      <td>16.362232</td>
+      <td>0.677836</td>
+      <td>0.294665</td>
+    </tr>
+    <tr>
+      <td>JCI</td>
+      <td>Johnson Controls</td>
+      <td>Industrials</td>
+      <td>69.155620</td>
+      <td>19.946282</td>
+      <td>0.670106</td>
+      <td>0.204747</td>
+    </tr>
+    <tr>
+      <td>MPWR</td>
+      <td>Monolithic Power Systems</td>
+      <td>Information Technology</td>
+      <td>62.144553</td>
+      <td>24.567578</td>
+      <td>0.613593</td>
+      <td>0.219546</td>
+    </tr>
+    <tr>
+      <td>NFLX</td>
+      <td>Netflix</td>
+      <td>Communication Services</td>
+      <td>71.809371</td>
+      <td>15.422969</td>
+      <td>0.601472</td>
+      <td>0.214303</td>
+    </tr>
+    <tr>
+      <td>NRG</td>
+      <td>NRG Energy</td>
+      <td>Utilities</td>
+      <td>69.132449</td>
+      <td>25.468893</td>
+      <td>0.675110</td>
+      <td>0.148114</td>
+    </tr>
+    <tr>
+      <td>ORCL</td>
+      <td>Oracle Corporation</td>
+      <td>Information Technology</td>
+      <td>61.028507</td>
+      <td>22.243934</td>
+      <td>0.617900</td>
+      <td>0.256289</td>
+    </tr>
+    <tr>
+      <td>PWR</td>
+      <td>Quanta Services</td>
+      <td>Industrials</td>
+      <td>73.181949</td>
+      <td>27.132835</td>
+      <td>0.672635</td>
+      <td>0.092030</td>
+    </tr>
+    <tr>
+      <td>RL</td>
+      <td>Ralph Lauren Corporation</td>
+      <td>Consumer Discretionary</td>
+      <td>64.208969</td>
+      <td>16.766324</td>
+      <td>0.675089</td>
+      <td>0.282303</td>
+    </tr>
+    <tr>
+      <td>RCL</td>
+      <td>Royal Caribbean Group</td>
+      <td>Consumer Discretionary</td>
+      <td>64.970807</td>
+      <td>21.265371</td>
+      <td>0.657685</td>
+      <td>0.229212</td>
+    </tr>
+    <tr>
+      <td>STX</td>
+      <td>Seagate Technology</td>
+      <td>Information Technology</td>
+      <td>67.655454</td>
+      <td>27.018799</td>
+      <td>0.695132</td>
+      <td>0.146491</td>
+    </tr>
+    <tr>
+      <td>SWKS</td>
+      <td>Skyworks Solutions</td>
+      <td>Information Technology</td>
+      <td>60.362556</td>
+      <td>16.748859</td>
+      <td>0.676431</td>
+      <td>0.318352</td>
+    </tr>
+    <tr>
+      <td>LUV</td>
+      <td>Southwest Airlines</td>
+      <td>Industrials</td>
+      <td>60.395812</td>
+      <td>25.270377</td>
+      <td>0.686175</td>
+      <td>0.231540</td>
+    </tr>
+    <tr>
+      <td>STLD</td>
+      <td>Steel Dynamics</td>
+      <td>Materials</td>
+      <td>63.258494</td>
+      <td>17.833553</td>
+      <td>0.682772</td>
+      <td>0.280227</td>
+    </tr>
+    <tr>
+      <td>TPR</td>
+      <td>Tapestry, Inc.</td>
+      <td>Consumer Discretionary</td>
+      <td>62.054358</td>
+      <td>16.065213</td>
+      <td>0.667665</td>
+      <td>0.309795</td>
+    </tr>
+    <tr>
+      <td>UBER</td>
+      <td>Uber</td>
+      <td>Industrials</td>
+      <td>71.508087</td>
+      <td>17.800334</td>
+      <td>0.661808</td>
+      <td>0.204790</td>
+    </tr>
+    <tr>
+      <td>URI</td>
+      <td>United Rentals</td>
+      <td>Industrials</td>
+      <td>60.719241</td>
+      <td>15.822825</td>
+      <td>0.667491</td>
+      <td>0.322572</td>
+    </tr>
+    <tr>
+      <td>VST</td>
+      <td>Vistra Corp.</td>
+      <td>Utilities</td>
+      <td>64.811794</td>
+      <td>31.881337</td>
+      <td>0.657967</td>
+      <td>0.122765</td>
+    </tr>
+    <tr>
+      <td>WFC</td>
+      <td>Wells Fargo</td>
+      <td>Financials</td>
+      <td>65.617648</td>
+      <td>16.130287</td>
+      <td>0.675993</td>
+      <td>0.276288</td>
+    </tr>
+    <tr>
+      <td>WDC</td>
+      <td>Western Digital</td>
+      <td>Information Technology</td>
+      <td>67.345758</td>
+      <td>26.293109</td>
+      <td>0.660017</td>
+      <td>0.157026</td>
+    </tr>
+    <tr>
+      <td>BA</td>
+      <td>Boeing</td>
+      <td>Industrials</td>
+      <td>66.918751</td>
+      <td>17.124893</td>
+      <td>0.710385</td>
+      <td>0.253097</td>
+    </tr>
+    <tr>
+      <td>GLE.PA</td>
+      <td>SOCIETE GENERALE</td>
+      <td>Financials</td>
+      <td>72.393867</td>
+      <td>16.125002</td>
+      <td>0.760950</td>
+      <td>0.213960</td>
+    </tr>
+    <tr>
+      <td>6594.T</td>
+      <td>Nidec</td>
+      <td>Information Technology</td>
+      <td>63.955727</td>
+      <td>24.988067</td>
+      <td>0.683394</td>
+      <td>0.195271</td>
+    </tr>
+  </tbody>
+</table>
+
+    <h2> Sélection MIDTERM</h2>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ticker</th>
+      <th>Company</th>
+      <th>Sector</th>
+      <th>ValueScore</th>
+      <th>QualityScore</th>
+      <th>PE</th>
+      <th>ROE</th>
+      <th>ProfitMargin</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GIS</td>
+      <td>General Mills</td>
+      <td>Consumer Staples</td>
+      <td>0.677199</td>
+      <td>0.461687</td>
+      <td>12.102197</td>
+      <td>0.268340</td>
+      <td>0.13025</td>
+    </tr>
+    <tr>
+      <td>HES</td>
+      <td>Hess Corporation</td>
+      <td>Energy</td>
+      <td>0.666077</td>
+      <td>0.468571</td>
+      <td>17.997225</td>
+      <td>0.227530</td>
+      <td>0.18150</td>
+    </tr>
+    <tr>
+      <td>MAS</td>
+      <td>Masco</td>
+      <td>Industrials</td>
+      <td>0.720417</td>
+      <td>0.462882</td>
+      <td>16.961748</td>
+      <td>11.165561</td>
+      <td>0.10295</td>
+    </tr>
+    <tr>
+      <td>BMY</td>
+      <td>Bristol Myers Squibb</td>
+      <td>Health Care</td>
+      <td>0.670400</td>
+      <td>0.482861</td>
+      <td>18.628730</td>
+      <td>0.319860</td>
+      <td>0.11376</td>
+    </tr>
+    <tr>
+      <td>GILD</td>
+      <td>Gilead Sciences</td>
+      <td>Health Care</td>
+      <td>0.657339</td>
+      <td>0.520841</td>
+      <td>21.609243</td>
+      <td>0.326550</td>
+      <td>0.20759</td>
+    </tr>
+    <tr>
+      <td>JNJ</td>
+      <td>Johnson &amp; Johnson</td>
+      <td>Health Care</td>
+      <td>0.663418</td>
+      <td>0.492909</td>
+      <td>17.278088</td>
+      <td>0.294470</td>
+      <td>0.24415</td>
+    </tr>
+    <tr>
+      <td>MRK</td>
+      <td>Merck &amp; Co.</td>
+      <td>Health Care</td>
+      <td>0.668180</td>
+      <td>0.508311</td>
+      <td>12.024694</td>
+      <td>0.392930</td>
+      <td>0.27274</td>
+    </tr>
+    <tr>
+      <td>NEM</td>
+      <td>Newmont</td>
+      <td>Materials</td>
+      <td>0.673410</td>
+      <td>0.477993</td>
+      <td>12.055809</td>
+      <td>0.166600</td>
+      <td>0.25772</td>
+    </tr>
+    <tr>
+      <td>PFE</td>
+      <td>Pfizer</td>
+      <td>Health Care</td>
+      <td>0.674087</td>
+      <td>0.467820</td>
+      <td>17.347826</td>
+      <td>0.142170</td>
+      <td>0.12620</td>
+    </tr>
+    <tr>
+      <td>REGN</td>
+      <td>Regeneron Pharmaceuticals</td>
+      <td>Health Care</td>
+      <td>0.666833</td>
+      <td>0.468210</td>
+      <td>15.405487</td>
+      <td>0.159610</td>
+      <td>0.31942</td>
+    </tr>
+    <tr>
+      <td>VZ</td>
+      <td>Verizon</td>
+      <td>Communication Services</td>
+      <td>0.676264</td>
+      <td>0.461625</td>
+      <td>10.376191</td>
+      <td>0.184160</td>
+      <td>0.13144</td>
+    </tr>
+    <tr>
+      <td>SAN.PA</td>
+      <td>SANOFI</td>
+      <td>Health Care</td>
+      <td>0.673912</td>
+      <td>0.473870</td>
+      <td>19.238478</td>
+      <td>0.103170</td>
+      <td>0.13946</td>
+    </tr>
+    <tr>
+      <td>9433.T</td>
+      <td>KDDI</td>
+      <td>Communication Services</td>
+      <td>0.676839</td>
+      <td>0.464853</td>
+      <td>16.694761</td>
+      <td>0.112930</td>
+      <td>0.10745</td>
+    </tr>
+    <tr>
+      <td>8766.T</td>
+      <td>Tokio Marine Holdings</td>
+      <td>Financials</td>
+      <td>0.683900</td>
+      <td>0.467434</td>
+      <td>10.298621</td>
+      <td>0.225890</td>
+      <td>0.13631</td>
+    </tr>
+    <tr>
+      <td>4507.T</td>
+      <td>Shionogi</td>
+      <td>Health Care</td>
+      <td>0.668416</td>
+      <td>0.582647</td>
+      <td>12.407211</td>
+      <td>0.129980</td>
+      <td>0.36906</td>
+    </tr>
+    <tr>
+      <td>9009.T</td>
+      <td>Keisei Electric Railway</td>
+      <td>Consumer Discretionary</td>
+      <td>0.673260</td>
+      <td>0.451189</td>
+      <td>6.544376</td>
+      <td>0.235770</td>
+      <td>0.36000</td>
+    </tr>
+    <tr>
+      <td>3099.T</td>
+      <td>Isetan Mitsukoshi Holdings</td>
+      <td>Consumer Discretionary</td>
+      <td>0.684260</td>
+      <td>0.485591</td>
+      <td>10.593390</td>
+      <td>0.118880</td>
+      <td>0.12851</td>
+    </tr>
+    <tr>
+      <td>8252.T</td>
+      <td>Marui Group</td>
+      <td>Consumer Discretionary</td>
+      <td>0.663211</td>
+      <td>0.526367</td>
+      <td>20.367044</td>
+      <td>0.106710</td>
+      <td>0.10309</td>
+    </tr>
+    <tr>
+      <td>3659.T</td>
+      <td>Nexon</td>
+      <td>Consumer Discretionary</td>
+      <td>0.674009</td>
+      <td>0.485929</td>
+      <td>14.224968</td>
+      <td>0.140640</td>
+      <td>0.30221</td>
+    </tr>
+  </tbody>
+</table>
+
+    <h2> Sélection COURT TERME</h2>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ticker</th>
+      <th>Company</th>
+      <th>Sector</th>
+      <th>SignalScore</th>
+      <th>Momentum_10</th>
+      <th>MACD</th>
+      <th>RSI_14</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BRK-B</td>
+      <td>Berkshire Hathaway</td>
+      <td>Financials</td>
+      <td>0.610500</td>
+      <td>1.360173</td>
+      <td>3.997655</td>
+      <td>45.507343</td>
+    </tr>
+    <tr>
+      <td>CVS</td>
+      <td>CVS Health</td>
+      <td>Health Care</td>
+      <td>0.501264</td>
+      <td>4.505701</td>
+      <td>0.396768</td>
+      <td>54.009368</td>
+    </tr>
+    <tr>
+      <td>DPZ</td>
+      <td>Domino's</td>
+      <td>Consumer Discretionary</td>
+      <td>0.507956</td>
+      <td>2.853058</td>
+      <td>7.485247</td>
+      <td>54.933673</td>
+    </tr>
+    <tr>
+      <td>KIM</td>
+      <td>Kimco Realty</td>
+      <td>Real Estate</td>
+      <td>0.527036</td>
+      <td>3.235439</td>
+      <td>0.009962</td>
+      <td>52.619562</td>
+    </tr>
+    <tr>
+      <td>PARA</td>
+      <td>Paramount Global</td>
+      <td>Communication Services</td>
+      <td>0.549443</td>
+      <td>4.786240</td>
+      <td>0.060518</td>
+      <td>48.460209</td>
+    </tr>
+    <tr>
+      <td>WBA</td>
+      <td>Walgreens Boots Alliance</td>
+      <td>Consumer Staples</td>
+      <td>0.554215</td>
+      <td>1.011956</td>
+      <td>0.011570</td>
+      <td>52.122635</td>
+    </tr>
+    <tr>
+      <td>ACA.PA</td>
+      <td>CREDIT AGRICOLE</td>
+      <td>Financials</td>
+      <td>0.537984</td>
+      <td>1.751151</td>
+      <td>0.153965</td>
+      <td>53.067828</td>
+    </tr>
+    <tr>
+      <td>5714.T</td>
+      <td>Dowa Holdings</td>
+      <td>Materials</td>
+      <td>0.540634</td>
+      <td>3.420753</td>
+      <td>0.869396</td>
+      <td>50.911838</td>
+    </tr>
+    <tr>
+      <td>5713.T</td>
+      <td>Sumitomo Metal Mining</td>
+      <td>Materials</td>
+      <td>0.503585</td>
+      <td>5.808424</td>
+      <td>18.276784</td>
+      <td>51.865515</td>
+    </tr>
+    <tr>
+      <td>ABT</td>
+      <td>Abbott Laboratories</td>
+      <td>Health Care</td>
+      <td>0.473719</td>
+      <td>2.209558</td>
+      <td>0.895036</td>
+      <td>59.540178</td>
+    </tr>
+    <tr>
+      <td>ALL</td>
+      <td>Allstate</td>
+      <td>Financials</td>
+      <td>0.455170</td>
+      <td>7.322815</td>
+      <td>0.230524</td>
+      <td>55.912694</td>
+    </tr>
+    <tr>
+      <td>AEE</td>
+      <td>Ameren</td>
+      <td>Utilities</td>
+      <td>0.499540</td>
+      <td>3.446307</td>
+      <td>0.304267</td>
+      <td>55.372959</td>
+    </tr>
+    <tr>
+      <td>AEP</td>
+      <td>American Electric Power</td>
+      <td>Utilities</td>
+      <td>0.525245</td>
+      <td>1.876247</td>
+      <td>0.771563</td>
+      <td>54.301058</td>
+    </tr>
+    <tr>
+      <td>AIG</td>
+      <td>American International Group</td>
+      <td>Financials</td>
+      <td>0.487602</td>
+      <td>4.938279</td>
+      <td>0.188785</td>
+      <td>55.023185</td>
+    </tr>
+    <tr>
+      <td>AWK</td>
+      <td>American Water Works</td>
+      <td>Utilities</td>
+      <td>0.511724</td>
+      <td>0.785019</td>
+      <td>1.180320</td>
+      <td>56.972100</td>
+    </tr>
+    <tr>
+      <td>T</td>
+      <td>AT&amp;T</td>
+      <td>Communication Services</td>
+      <td>0.493903</td>
+      <td>4.481581</td>
+      <td>0.220940</td>
+      <td>54.842151</td>
+    </tr>
+    <tr>
+      <td>AZO</td>
+      <td>AutoZone</td>
+      <td>Consumer Discretionary</td>
+      <td>0.417903</td>
+      <td>5.951405</td>
+      <td>33.707064</td>
+      <td>60.651510</td>
+    </tr>
+    <tr>
+      <td>AVB</td>
+      <td>AvalonBay Communities</td>
+      <td>Real Estate</td>
+      <td>0.476066</td>
+      <td>4.544335</td>
+      <td>0.982674</td>
+      <td>56.696059</td>
+    </tr>
+    <tr>
+      <td>BF-B</td>
+      <td>Brown–Forman</td>
+      <td>Consumer Staples</td>
+      <td>0.547705</td>
+      <td>0.935945</td>
+      <td>0.167265</td>
+      <td>52.911910</td>
+    </tr>
+    <tr>
+      <td>CI</td>
+      <td>Cigna</td>
+      <td>Health Care</td>
+      <td>0.495971</td>
+      <td>2.962104</td>
+      <td>4.209441</td>
+      <td>56.200192</td>
+    </tr>
+    <tr>
+      <td>CMS</td>
+      <td>CMS Energy</td>
+      <td>Utilities</td>
+      <td>0.556971</td>
+      <td>1.407766</td>
+      <td>0.163100</td>
+      <td>51.380231</td>
+    </tr>
+    <tr>
+      <td>DRI</td>
+      <td>Darden Restaurants</td>
+      <td>Consumer Discretionary</td>
+      <td>0.500083</td>
+      <td>2.922816</td>
+      <td>1.505856</td>
+      <td>55.863610</td>
+    </tr>
+    <tr>
+      <td>D</td>
+      <td>Dominion Energy</td>
+      <td>Utilities</td>
+      <td>0.504371</td>
+      <td>4.629273</td>
+      <td>0.144041</td>
+      <td>53.540478</td>
+    </tr>
+    <tr>
+      <td>DTE</td>
+      <td>DTE Energy</td>
+      <td>Utilities</td>
+      <td>0.488225</td>
+      <td>3.657617</td>
+      <td>1.036181</td>
+      <td>56.352801</td>
+    </tr>
+    <tr>
+      <td>DUK</td>
+      <td>Duke Energy</td>
+      <td>Utilities</td>
+      <td>0.539026</td>
+      <td>0.848801</td>
+      <td>0.827612</td>
+      <td>53.937006</td>
+    </tr>
+    <tr>
+      <td>ETR</td>
+      <td>Entergy</td>
+      <td>Utilities</td>
+      <td>0.467583</td>
+      <td>5.766770</td>
+      <td>0.415906</td>
+      <td>56.279956</td>
+    </tr>
+    <tr>
+      <td>EQR</td>
+      <td>Equity Residential</td>
+      <td>Real Estate</td>
+      <td>0.448965</td>
+      <td>5.318513</td>
+      <td>0.634754</td>
+      <td>58.798560</td>
+    </tr>
+    <tr>
+      <td>EVRG</td>
+      <td>Evergy</td>
+      <td>Utilities</td>
+      <td>0.459762</td>
+      <td>3.719202</td>
+      <td>0.598493</td>
+      <td>59.395246</td>
+    </tr>
+    <tr>
+      <td>FFIV</td>
+      <td>F5, Inc.</td>
+      <td>Information Technology</td>
+      <td>0.487354</td>
+      <td>6.706572</td>
+      <td>0.314800</td>
+      <td>53.088265</td>
+    </tr>
+    <tr>
+      <td>FRT</td>
+      <td>Federal Realty Investment Trust</td>
+      <td>Real Estate</td>
+      <td>0.542388</td>
+      <td>2.838880</td>
+      <td>0.024137</td>
+      <td>51.386521</td>
+    </tr>
+    <tr>
+      <td>FE</td>
+      <td>FirstEnergy</td>
+      <td>Utilities</td>
+      <td>0.428446</td>
+      <td>2.896414</td>
+      <td>0.829623</td>
+      <td>63.711282</td>
+    </tr>
+    <tr>
+      <td>GPC</td>
+      <td>Genuine Parts Company</td>
+      <td>Consumer Discretionary</td>
+      <td>0.476987</td>
+      <td>6.532821</td>
+      <td>0.234046</td>
+      <td>54.411797</td>
+    </tr>
+    <tr>
+      <td>K</td>
+      <td>Kellanova</td>
+      <td>Consumer Staples</td>
+      <td>0.540464</td>
+      <td>0.291224</td>
+      <td>0.133649</td>
+      <td>54.415467</td>
+    </tr>
+    <tr>
+      <td>KR</td>
+      <td>Kroger</td>
+      <td>Consumer Staples</td>
+      <td>0.445695</td>
+      <td>0.898910</td>
+      <td>1.490225</td>
+      <td>64.028999</td>
+    </tr>
+    <tr>
+      <td>LHX</td>
+      <td>L3Harris</td>
+      <td>Industrials</td>
+      <td>0.494354</td>
+      <td>2.359661</td>
+      <td>2.333002</td>
+      <td>57.090610</td>
+    </tr>
+    <tr>
+      <td>LMT</td>
+      <td>Lockheed Martin</td>
+      <td>Industrials</td>
+      <td>0.495876</td>
+      <td>3.202938</td>
+      <td>5.431303</td>
+      <td>55.913094</td>
+    </tr>
+    <tr>
+      <td>L</td>
+      <td>Loews Corporation</td>
+      <td>Financials</td>
+      <td>0.507781</td>
+      <td>4.691629</td>
+      <td>0.118148</td>
+      <td>53.100679</td>
+    </tr>
+    <tr>
+      <td>MCD</td>
+      <td>McDonald's</td>
+      <td>Consumer Discretionary</td>
+      <td>0.510726</td>
+      <td>2.607537</td>
+      <td>2.252418</td>
+      <td>55.035138</td>
+    </tr>
+    <tr>
+      <td>NI</td>
+      <td>NiSource</td>
+      <td>Utilities</td>
+      <td>0.516297</td>
+      <td>3.748935</td>
+      <td>0.133017</td>
+      <td>53.217170</td>
+    </tr>
+    <tr>
+      <td>PCG</td>
+      <td>PG&amp;E Corporation</td>
+      <td>Utilities</td>
+      <td>0.569904</td>
+      <td>0.890734</td>
+      <td>0.044749</td>
+      <td>50.547549</td>
+    </tr>
+    <tr>
+      <td>PNW</td>
+      <td>Pinnacle West Capital</td>
+      <td>Utilities</td>
+      <td>0.567057</td>
+      <td>0.595991</td>
+      <td>0.502974</td>
+      <td>51.172588</td>
+    </tr>
+    <tr>
+      <td>PPL</td>
+      <td>PPL Corporation</td>
+      <td>Utilities</td>
+      <td>0.473746</td>
+      <td>2.874538</td>
+      <td>0.414166</td>
+      <td>58.812659</td>
+    </tr>
+    <tr>
+      <td>PGR</td>
+      <td>Progressive Corporation</td>
+      <td>Financials</td>
+      <td>0.400501</td>
+      <td>9.921918</td>
+      <td>1.847278</td>
+      <td>58.946635</td>
+    </tr>
+    <tr>
+      <td>PSA</td>
+      <td>Public Storage</td>
+      <td>Real Estate</td>
+      <td>0.457917</td>
+      <td>4.849425</td>
+      <td>2.002644</td>
+      <td>58.308942</td>
+    </tr>
+    <tr>
+      <td>SO</td>
+      <td>Southern Company</td>
+      <td>Utilities</td>
+      <td>0.544254</td>
+      <td>1.014068</td>
+      <td>0.481389</td>
+      <td>53.193285</td>
+    </tr>
+    <tr>
+      <td>VZ</td>
+      <td>Verizon</td>
+      <td>Communication Services</td>
+      <td>0.545390</td>
+      <td>1.502447</td>
+      <td>0.087929</td>
+      <td>52.538494</td>
+    </tr>
+    <tr>
+      <td>WEC</td>
+      <td>WEC Energy Group</td>
+      <td>Utilities</td>
+      <td>0.531754</td>
+      <td>1.439791</td>
+      <td>0.743877</td>
+      <td>54.076385</td>
+    </tr>
+    <tr>
+      <td>XEL</td>
+      <td>Xcel Energy</td>
+      <td>Utilities</td>
+      <td>0.507913</td>
+      <td>2.869801</td>
+      <td>0.391897</td>
+      <td>55.097507</td>
+    </tr>
+    <tr>
+      <td>EXE</td>
+      <td>Expand Energy</td>
+      <td>Energy</td>
+      <td>0.456421</td>
+      <td>6.171758</td>
+      <td>0.341337</td>
+      <td>57.048767</td>
+    </tr>
+    <tr>
+      <td>STZ</td>
+      <td>Constellation Brands</td>
+      <td>Consumer Staples</td>
+      <td>0.491866</td>
+      <td>0.952201</td>
+      <td>1.837316</td>
+      <td>58.933065</td>
+    </tr>
+    <tr>
+      <td>VRTX</td>
+      <td>Vertex Pharmaceuticals</td>
+      <td>Health Care</td>
+      <td>0.468813</td>
+      <td>5.283551</td>
+      <td>3.875133</td>
+      <td>56.594518</td>
+    </tr>
+    <tr>
+      <td>CA.PA</td>
+      <td>CARREFOUR</td>
+      <td>Financials</td>
+      <td>0.512521</td>
+      <td>2.339626</td>
+      <td>0.138675</td>
+      <td>55.189376</td>
+    </tr>
+    <tr>
+      <td>ORA.PA</td>
+      <td>ORANGE</td>
+      <td>Communication Services</td>
+      <td>0.449947</td>
+      <td>1.518782</td>
+      <td>0.229549</td>
+      <td>62.910922</td>
+    </tr>
+    <tr>
+      <td>RI.PA</td>
+      <td>PERNOD RICARD</td>
+      <td>Consumer Staples</td>
+      <td>0.492331</td>
+      <td>3.855268</td>
+      <td>0.364115</td>
+      <td>55.703567</td>
+    </tr>
+    <tr>
+      <td>9201.T</td>
+      <td>Japan Airlines</td>
+      <td>Consumer Discretionary</td>
+      <td>0.424921</td>
+      <td>5.772325</td>
+      <td>24.868087</td>
+      <td>60.307021</td>
+    </tr>
+    <tr>
+      <td>7202.T</td>
+      <td>Isuzu Motors</td>
+      <td>Consumer Discretionary</td>
+      <td>0.453904</td>
+      <td>5.304465</td>
+      <td>7.315581</td>
+      <td>58.108874</td>
+    </tr>
+    <tr>
+      <td>5831.T</td>
+      <td>Shizuoka Financial Group</td>
+      <td>Financials</td>
+      <td>0.591149</td>
+      <td>0.978738</td>
+      <td>3.225168</td>
+      <td>48.056634</td>
+    </tr>
+    <tr>
+      <td>9433.T</td>
+      <td>KDDI</td>
+      <td>Communication Services</td>
+      <td>0.462285</td>
+      <td>1.839035</td>
+      <td>33.533323</td>
+      <td>60.377938</td>
+    </tr>
+    <tr>
+      <td>9434.T</td>
+      <td>SoftBank</td>
+      <td>Communication Services</td>
+      <td>0.476496</td>
+      <td>0.876792</td>
+      <td>2.301678</td>
+      <td>60.678815</td>
+    </tr>
+    <tr>
+      <td>1721.T</td>
+      <td>Comsys Holdings</td>
+      <td>Industrials</td>
+      <td>0.443899</td>
+      <td>4.661017</td>
+      <td>12.667744</td>
+      <td>59.777063</td>
+    </tr>
+    <tr>
+      <td>1925.T</td>
+      <td>Daiwa House Industry</td>
+      <td>Industrials</td>
+      <td>0.451017</td>
+      <td>1.863841</td>
+      <td>59.840924</td>
+      <td>60.918393</td>
+    </tr>
+    <tr>
+      <td>1808.T</td>
+      <td>Haseko Corp.</td>
+      <td>Industrials</td>
+      <td>0.510336</td>
+      <td>0.670641</td>
+      <td>25.542620</td>
+      <td>56.639578</td>
+    </tr>
+    <tr>
+      <td>6504.T</td>
+      <td>Fuji Electric</td>
+      <td>Information Technology</td>
+      <td>0.467668</td>
+      <td>6.561768</td>
+      <td>13.618498</td>
+      <td>55.059162</td>
+    </tr>
+    <tr>
+      <td>6703.T</td>
+      <td>Oki Electric Industry</td>
+      <td>Information Technology</td>
+      <td>0.448674</td>
+      <td>7.630979</td>
+      <td>3.727064</td>
+      <td>56.191123</td>
+    </tr>
+    <tr>
+      <td>6762.T</td>
+      <td>TDK</td>
+      <td>Information Technology</td>
+      <td>0.405522</td>
+      <td>10.539478</td>
+      <td>4.859597</td>
+      <td>57.640329</td>
+    </tr>
+    <tr>
+      <td>9501.T</td>
+      <td>Tokyo Electric Power Company</td>
+      <td>Energy</td>
+      <td>0.585399</td>
+      <td>2.566632</td>
+      <td>1.542043</td>
+      <td>46.966102</td>
+    </tr>
+    <tr>
+      <td>2269.T</td>
+      <td>Meiji Holdings</td>
+      <td>Consumer Staples</td>
+      <td>0.442747</td>
+      <td>1.694428</td>
+      <td>67.903138</td>
+      <td>61.804585</td>
+    </tr>
+    <tr>
+      <td>2871.T</td>
+      <td>Nichirei</td>
+      <td>Consumer Staples</td>
+      <td>0.487717</td>
+      <td>2.731371</td>
+      <td>34.323425</td>
+      <td>56.600015</td>
+    </tr>
+    <tr>
+      <td>2002.T</td>
+      <td>Nisshin Seifun Group</td>
+      <td>Consumer Staples</td>
+      <td>0.480945</td>
+      <td>0.819224</td>
+      <td>29.975011</td>
+      <td>59.564620</td>
+    </tr>
+    <tr>
+      <td>9531.T</td>
+      <td>Tokyo Gas</td>
+      <td>Energy</td>
+      <td>0.551646</td>
+      <td>1.193521</td>
+      <td>13.321624</td>
+      <td>51.867741</td>
+    </tr>
+    <tr>
+      <td>5232.T</td>
+      <td>Sumitomo Osaka Cement</td>
+      <td>Materials</td>
+      <td>0.457191</td>
+      <td>3.844086</td>
+      <td>89.873051</td>
+      <td>57.299800</td>
+    </tr>
+    <tr>
+      <td>8725.T</td>
+      <td>MS&amp;AD Insurance Group</td>
+      <td>Financials</td>
+      <td>0.410737</td>
+      <td>8.953469</td>
+      <td>31.340115</td>
+      <td>58.165633</td>
+    </tr>
+    <tr>
+      <td>8630.T</td>
+      <td>Sompo Holdings</td>
+      <td>Financials</td>
+      <td>0.542634</td>
+      <td>1.843525</td>
+      <td>39.314133</td>
+      <td>51.477785</td>
+    </tr>
+    <tr>
+      <td>8766.T</td>
+      <td>Tokio Marine Holdings</td>
+      <td>Financials</td>
+      <td>0.430898</td>
+      <td>7.764212</td>
+      <td>60.882234</td>
+      <td>56.547236</td>
+    </tr>
+    <tr>
+      <td>9064.T</td>
+      <td>Yamato Holdings</td>
+      <td>Consumer Discretionary</td>
+      <td>0.403963</td>
+      <td>5.403349</td>
+      <td>24.131430</td>
+      <td>63.016657</td>
+    </tr>
+    <tr>
+      <td>6113.T</td>
+      <td>Amada Co. Ltd.</td>
+      <td>Industrials</td>
+      <td>0.402782</td>
+      <td>8.879730</td>
+      <td>5.454598</td>
+      <td>59.762324</td>
+    </tr>
+    <tr>
+      <td>8697.T</td>
+      <td>Japan Exchange Group</td>
+      <td>Financials</td>
+      <td>0.496954</td>
+      <td>2.696629</td>
+      <td>10.238009</td>
+      <td>56.236078</td>
+    </tr>
+    <tr>
+      <td>7832.T</td>
+      <td>Bandai Namco Holdings</td>
+      <td>Industrials</td>
+      <td>0.490068</td>
+      <td>2.459350</td>
+      <td>22.104412</td>
+      <td>56.951514</td>
+    </tr>
+    <tr>
+      <td>4507.T</td>
+      <td>Shionogi</td>
+      <td>Health Care</td>
+      <td>0.413265</td>
+      <td>3.802281</td>
+      <td>44.208145</td>
+      <td>63.274089</td>
+    </tr>
+    <tr>
+      <td>3863.T</td>
+      <td>Nippon Paper Industries</td>
+      <td>Consumer Staples</td>
+      <td>0.544393</td>
+      <td>1.327014</td>
+      <td>26.426498</td>
+      <td>52.181409</td>
+    </tr>
+    <tr>
+      <td>3861.T</td>
+      <td>Oji Holdings Corporation</td>
+      <td>Consumer Staples</td>
+      <td>0.415255</td>
+      <td>7.816584</td>
+      <td>15.124369</td>
+      <td>59.339409</td>
+    </tr>
+    <tr>
+      <td>9020.T</td>
+      <td>East Japan Railway Company</td>
+      <td>Consumer Discretionary</td>
+      <td>0.418827</td>
+      <td>3.661254</td>
+      <td>53.765470</td>
+      <td>62.585080</td>
+    </tr>
+    <tr>
+      <td>9008.T</td>
+      <td>Keio</td>
+      <td>Consumer Discretionary</td>
+      <td>0.524831</td>
+      <td>1.179487</td>
+      <td>18.371860</td>
+      <td>54.676952</td>
+    </tr>
+    <tr>
+      <td>9009.T</td>
+      <td>Keisei Electric Railway</td>
+      <td>Consumer Discretionary</td>
+      <td>0.439718</td>
+      <td>5.638298</td>
+      <td>18.526726</td>
+      <td>59.002998</td>
+    </tr>
+    <tr>
+      <td>9001.T</td>
+      <td>Tobu Railway</td>
+      <td>Consumer Discretionary</td>
+      <td>0.468047</td>
+      <td>3.699400</td>
+      <td>12.188537</td>
+      <td>58.224503</td>
+    </tr>
+    <tr>
+      <td>9021.T</td>
+      <td>West Japan Railway Company</td>
+      <td>Consumer Discretionary</td>
+      <td>0.489942</td>
+      <td>1.579467</td>
+      <td>27.625433</td>
+      <td>57.801603</td>
+    </tr>
+    <tr>
+      <td>8802.T</td>
+      <td>Mitsubishi Estate</td>
+      <td>Real Estate</td>
+      <td>0.425499</td>
+      <td>3.140000</td>
+      <td>47.600227</td>
+      <td>62.590404</td>
+    </tr>
+    <tr>
+      <td>8801.T</td>
+      <td>Mitsui Fudosan</td>
+      <td>Real Estate</td>
+      <td>0.449919</td>
+      <td>2.499120</td>
+      <td>27.464625</td>
+      <td>61.145550</td>
+    </tr>
+    <tr>
+      <td>8804.T</td>
+      <td>Tokyo Tatemono</td>
+      <td>Real Estate</td>
+      <td>0.479636</td>
+      <td>2.174343</td>
+      <td>23.672640</td>
+      <td>58.363965</td>
+    </tr>
+    <tr>
+      <td>3289.T</td>
+      <td>Tokyu Land</td>
+      <td>Real Estate</td>
+      <td>0.523375</td>
+      <td>1.482668</td>
+      <td>2.710458</td>
+      <td>54.892200</td>
+    </tr>
+    <tr>
+      <td>5108.T</td>
+      <td>Bridgestone</td>
+      <td>Materials</td>
+      <td>0.468286</td>
+      <td>3.488572</td>
+      <td>45.222237</td>
+      <td>57.604208</td>
+    </tr>
+    <tr>
+      <td>2432.T</td>
+      <td>Dena</td>
+      <td>Consumer Discretionary</td>
+      <td>0.464226</td>
+      <td>5.627706</td>
+      <td>80.609447</td>
+      <td>54.790079</td>
+    </tr>
+    <tr>
+      <td>2413.T</td>
+      <td>M3</td>
+      <td>Consumer Discretionary</td>
+      <td>0.501191</td>
+      <td>1.622083</td>
+      <td>28.884749</td>
+      <td>56.497792</td>
+    </tr>
+    <tr>
+      <td>9735.T</td>
+      <td>Secom</td>
+      <td>Consumer Discretionary</td>
+      <td>0.440246</td>
+      <td>3.421761</td>
+      <td>45.684818</td>
+      <td>60.720349</td>
+    </tr>
+    <tr>
+      <td>8001.T</td>
+      <td>Itochu</td>
+      <td>Consumer Discretionary</td>
+      <td>0.441723</td>
+      <td>6.696970</td>
+      <td>123.723350</td>
+      <td>54.975893</td>
+    </tr>
+    <tr>
+      <td>8058.T</td>
+      <td>Mitsubishi</td>
+      <td>Consumer Discretionary</td>
+      <td>0.468534</td>
+      <td>6.536211</td>
+      <td>33.167583</td>
+      <td>54.503277</td>
+    </tr>
+    <tr>
+      <td>8031.T</td>
+      <td>Mitsui &amp; Co.</td>
+      <td>Consumer Discretionary</td>
+      <td>0.490167</td>
+      <td>6.486797</td>
+      <td>17.763731</td>
+      <td>52.588116</td>
+    </tr>
+    <tr>
+      <td>9301.T</td>
+      <td>Mitsubishi Logistics</td>
+      <td>Industrials</td>
+      <td>0.404703</td>
+      <td>8.173598</td>
+      <td>2.690734</td>
+      <td>60.404622</td>
+    </tr>
+    <tr>
+      <td>GOOG</td>
+      <td>Alphabet Inc. (Class C)</td>
+      <td>Communication Services</td>
+      <td>0.400127</td>
+      <td>11.367279</td>
+      <td>0.445525</td>
+      <td>57.421453</td>
+    </tr>
+    <tr>
+      <td>HUBB</td>
+      <td>Hubbell Incorporated</td>
+      <td>Industrials</td>
+      <td>0.468424</td>
+      <td>8.031105</td>
+      <td>2.948920</td>
+      <td>53.616538</td>
+    </tr>
+    <tr>
+      <td>RJF</td>
+      <td>Raymond James Financial</td>
+      <td>Financials</td>
+      <td>0.410503</td>
+      <td>9.054186</td>
+      <td>0.233041</td>
+      <td>58.859112</td>
+    </tr>
+    <tr>
+      <td>ROST</td>
+      <td>Ross Stores</td>
+      <td>Consumer Discretionary</td>
+      <td>0.442255</td>
+      <td>4.671933</td>
+      <td>2.031090</td>
+      <td>60.210538</td>
+    </tr>
+    <tr>
+      <td>VLTO</td>
+      <td>Veralto</td>
+      <td>Industrials</td>
+      <td>0.414977</td>
+      <td>9.919727</td>
+      <td>0.120707</td>
+      <td>57.415929</td>
+    </tr>
+    <tr>
+      <td>VIE.PA</td>
+      <td>VEOLIA ENVIRON.</td>
+      <td>Utilities</td>
+      <td>0.414758</td>
+      <td>4.040071</td>
+      <td>0.452656</td>
+      <td>63.944573</td>
+    </tr>
+    <tr>
+      <td>6674.T</td>
+      <td>GS Yuasa</td>
+      <td>Information Technology</td>
+      <td>0.409628</td>
+      <td>8.980850</td>
+      <td>40.880267</td>
+      <td>58.017055</td>
+    </tr>
+    <tr>
+      <td>6758.T</td>
+      <td>Sony</td>
+      <td>Information Technology</td>
+      <td>0.413742</td>
+      <td>8.551483</td>
+      <td>36.308600</td>
+      <td>58.159255</td>
+    </tr>
+    <tr>
+      <td>8053.T</td>
+      <td>Sumitomo</td>
+      <td>Consumer Discretionary</td>
+      <td>0.410280</td>
+      <td>8.117284</td>
+      <td>50.406097</td>
+      <td>58.664023</td>
+    </tr>
+    <tr>
+      <td>APO</td>
+      <td>Apollo Global Management</td>
+      <td>Financials</td>
+      <td>0.440064</td>
+      <td>12.287892</td>
+      <td>0.541257</td>
+      <td>52.050014</td>
+    </tr>
+    <tr>
+      <td>BLK</td>
+      <td>BlackRock</td>
+      <td>Financials</td>
+      <td>0.454591</td>
+      <td>8.460773</td>
+      <td>1.496822</td>
+      <td>54.683432</td>
+    </tr>
+    <tr>
+      <td>DHI</td>
+      <td>D. R. Horton</td>
+      <td>Consumer Discretionary</td>
+      <td>0.494814</td>
+      <td>5.146191</td>
+      <td>0.193934</td>
+      <td>54.007352</td>
+    </tr>
+    <tr>
+      <td>F</td>
+      <td>Ford Motor Company</td>
+      <td>Consumer Discretionary</td>
+      <td>0.454359</td>
+      <td>7.074974</td>
+      <td>0.141394</td>
+      <td>56.277792</td>
+    </tr>
+    <tr>
+      <td>KLAC</td>
+      <td>KLA Corporation</td>
+      <td>Information Technology</td>
+      <td>0.414056</td>
+      <td>12.443789</td>
+      <td>4.472005</td>
+      <td>54.611137</td>
+    </tr>
+    <tr>
+      <td>MTCH</td>
+      <td>Match Group</td>
+      <td>Communication Services</td>
+      <td>0.482640</td>
+      <td>5.261350</td>
+      <td>0.021408</td>
+      <td>55.209949</td>
+    </tr>
+    <tr>
+      <td>TXT</td>
+      <td>Textron</td>
+      <td>Industrials</td>
+      <td>0.415536</td>
+      <td>9.701145</td>
+      <td>0.195572</td>
+      <td>57.595268</td>
+    </tr>
+    <tr>
+      <td>CZR</td>
+      <td>Caesars Entertainment</td>
+      <td>Consumer Discretionary</td>
+      <td>0.433645</td>
+      <td>11.059998</td>
+      <td>0.129016</td>
+      <td>54.119549</td>
+    </tr>
+    <tr>
+      <td>TTWO</td>
+      <td>Take-Two Interactive</td>
+      <td>Communication Services</td>
+      <td>0.425182</td>
+      <td>9.538892</td>
+      <td>5.385227</td>
+      <td>56.594473</td>
+    </tr>
+    <tr>
+      <td>ALO.PA</td>
+      <td>ALSTOM</td>
+      <td>Information Technology</td>
+      <td>0.406444</td>
+      <td>8.709924</td>
+      <td>0.120450</td>
+      <td>59.685357</td>
+    </tr>
+    <tr>
+      <td>BNP.PA</td>
+      <td>BNP PARIBAS ACT.A</td>
+      <td>Financials</td>
+      <td>0.434595</td>
+      <td>6.677841</td>
+      <td>0.554694</td>
+      <td>58.859695</td>
+    </tr>
+    <tr>
+      <td>RNO.PA</td>
+      <td>RENAULT</td>
+      <td>Consumer Discretionary</td>
+      <td>0.432121</td>
+      <td>8.207931</td>
+      <td>0.135504</td>
+      <td>57.444648</td>
+    </tr>
+    <tr>
+      <td>8035.T</td>
+      <td>Tokyo Electron</td>
+      <td>Information Technology</td>
+      <td>0.453043</td>
+      <td>6.713781</td>
+      <td>46.264982</td>
+      <td>55.665389</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>

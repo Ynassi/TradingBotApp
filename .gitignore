@@ -2,30 +2,59 @@
 .DS_Store
 .env
 *.log
-*.pyc
+*.tmp
+*.lock
+
+# 🧠 Python (Back-end)
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+*.sqlite
+*.db
+*.h5
+
+# 🔒 Environnements virtuels
+**/.venv*/
+TradingBotAppBack/.venv/
+TradingBotAppBack/.venv_social/
+TradingBotAppBack/.venv_api/
 
 # 📦 Node.js (Front-end)
 node_modules/
 dist/
 .vite/
 *.tsbuildinfo
+TradingBotAppFront/.git_front_backup/
 
-# 🧠 Python (Back-end)
-*.egg-info/
-venv/
-.venv_api/
-.mypy_cache/
-
-# 🗃️ Données locales
-/data/*.csv
-/data/*.json
-/data/*.xlsx
-
-# 🧪 Notebooks cachés
+# 🧪 Notebooks et fichiers Jupyter
+*.ipynb
 .ipynb_checkpoints/
 
-# 🐙 Git backups si présents
-TradingBotAppFront/.git_front_backup/
-TradingBotAppBack/.git_back_backup/
-TradingBotAppBack/.venv_social/
+# 🗃️ Données locales (optionnel : à commenter si tu veux versionner)
+*.csv
+*.json
+*.xlsx
+datasets/
+output/
+cache/
+
+# 🔙 Git backups temporaires
+*.orig
+*.rej
+*.bak
+*.swp
+
+# 🧼 Fichiers de build ou externes
+coverage/
+build/
+reports/
+
+# 💡 Fichiers à ignorer dans tous projets multi-langages
+.idea/
+.vscode/
+Thumbs.db
