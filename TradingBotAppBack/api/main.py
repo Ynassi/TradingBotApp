@@ -7,8 +7,7 @@ from api.tasks import run_all_pipelines
 from pydantic import BaseModel
 from fastapi import FastAPI, Request
 import numpy as np
-
-
+from fastapi.middleware.cors import CORSMiddleware
 
 # 📁 Corrigé : dossier racine du projet (pas "api/")
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -24,6 +23,13 @@ if not os.getenv("OPENAI_API_KEY"):
     raise EnvironmentError("⚠️ Variable OPENAI_API_KEY manquante dans .env")
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://trading-bot-app-psi.vercel.app"],  # ton front exact
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/")
 def home():
