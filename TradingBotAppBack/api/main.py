@@ -23,9 +23,17 @@ if not os.getenv("OPENAI_API_KEY"):
     raise EnvironmentError("⚠️ Variable OPENAI_API_KEY manquante dans .env")
 
 app = FastAPI()
+
+# ✅ Liste des origines autorisées : Vercel + Localhost + futurs environnements
+origins = [
+    "https://trading-bot-app-psi.vercel.app",   # Front en prod
+    "http://localhost:5173",                    # Vite dev mode
+    "http://127.0.0.1:5173"                     # Variante localhost
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://trading-bot-app-psi.vercel.app"],  # ton front exact
+    allow_origins=origins,          # 🔐 sécurisée
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
