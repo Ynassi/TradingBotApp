@@ -1,0 +1,646 @@
+{
+  "ticker": "FDS",
+  "name": "FactSet",
+  "sector": "Financials",
+  "market_cap": 17961121792.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 33.332394,
+    "PB": 8.742197,
+    "EV_Revenue": 8.578,
+    "ROE": 0.28119,
+    "ProfitMargin": 0.24067,
+    "GrossMargin": 0.54150003,
+    "DividendYield": 0.94
+  },
+  "technical_indicators": {
+    "RSI_14": 69.71601135424194,
+    "Momentum_10": 8.919369013112812,
+    "MACD": 8.88824682115063,
+    "BB_Percent": 1.023324506796719,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8707168803948232,
+    "QualityScore": 0.4087458638684377,
+    "SignalScore": 0.5445425038389549
+  },
+  "volatility": 0.0149659848577126,
+  "beta": 0.873,
+  "return_6m": -0.0216386611738771,
+  "analyst_rating": {
+    "recommendation": "hold",
+    "analyst_count": 17,
+    "target_mean_price": 440.68765
+  },
+  "news_sentiment": {
+    "summary": "FactSet Research Systems (FDS) is experiencing a decline in stock performance, with some insiders selling shares. However, the company is expanding its banking technology offerings and introducing new services, such as 24-hour US stock trading for institutional investors. The company's financial data powerhouse has a 28% ROE and a bull case is becoming clearer. Analysts estimate a decline in earnings, but the company is increasing its dividend for the 26th consecutive year. FactSet Research Systems is a long-term holding due to its strong financial position and growth potential. Overall, the outlook for FDS is positive, despite some negative signals from insider selling.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "Is FactSet Research Systems (FDS) The Most Expensive Stock Insiders Are Dumping In March? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVWNSX1p0bUtRX1JuODlWRjlHek5XaGVaQVozNjluY1RiZlc0MlZ0QWZ3N0syblEybWE5cVYteERYU2hWbDUxRjhMUTY3VGw4ZEc2Zjl3RGRQUldKOWlKbm9aNENZOTZvQXFpWlA0VWVZQWNLMTh1RXBmMi1WRnFhYnJHQUNQZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FactSet Breaks Ground: 24-Hour US Stock Trading Now Available for Institutional Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVFwRmlEVG1YWVlCNGgxWEIyVnpKblBBLWxqMmlyZjMtaUxnTXBqNlVkUTFmMHVrS2hlRUJXclg1cEdxSkpHT1VjdTB3ZnhWTDdHRWFLbFl0OFBrX28zX29Oenp0WFJ1MW5QYlJpVGp0VW8tcUpwcGpXRlp0N0IwdTFGRThibEJxU2I2Y0V2VWFMR25jMWdOaGEwT21OM0p0NzUwajhtZ1RyaE1FMGhIMlZ3enUtY29IRnBvOXRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LiquidityBook, a FactSet Company, Introduces 24-Hour Equity Trading with Blue Ocean ATS and Capital Institutional Services (CAPIS) Collaboration | FDS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQV3ZMbDY3R3VtUmVIcW5rMDJkaVRZQW9USHViNGo0M05Lb0ZCTnliOWwtNXF0WkxxRDljOU5zeGF3WV9Qbm1HcGx5Sms5RDdlVjBWRmFoMU40RU5lc3dMc2YtV0c2Q295RWoxUjZsSzF3T3M4cW5xVzZTR0JmU0VPSFpmd3BUN2ZmMXVQOEU3emR0TnFtbE9iTTBzcmNxVm5Jelk0dGRYLVNORVg5XzhzcURCQnBmN2FhLUtvSmkxNUVhcTY4Y0NiaTAwZk5KVW4xMnVoeU5qWmJ1RV85UmdraGNGekhiSnJvZFR2TE42TTR0SFl0SkZ4blZNeDJyUEhoMXB6LS1lRm41TlFOSmd1aUhXSmRKRjlZbVBDemZLVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FactSet Research Systems Inc. (FDS) Stock Analysis: Navigating the Financial Data Powerhouse with a 28% ROE - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObjcwZUVFS3V4bVV6TlpNRDBTMEpmd0duZ3NveHFiVFFDN2EtQ1dKaFBFcENqV2IwM3pTamxoWDlubVB5TVcxWllWUmpVV3k3SUlYZlEwNFJyQlRhR3FiU2IwS1hHWk1vUjQ3cXMxYXF2ck5BR3IxSWRGQWYya0xGX1lUZnZRS1QyY0QtNWVrTlVBU2RjV3lDbWJvQnR0VXpfVGdTR0pxTW41ZFdYMUI2d0RiNlR0UkVENW53WGZJbVpMRk13OFBMd1kyOGdBM0k3VEpncUpMRmZpYkNwWUlVcUFuakZlSTF1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FactSet Research Systems: Reiterate Buy As Bull Case Gets Clearer (NYSE:FDS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzA4a2E3S2dtc0RSLVpwc2FVekVxTFdjSGhfb2FNbE53UU8tVHE2THkyazhNNFMybGFpOHJUNGpaRWJrSDFhNkNBUzgzVG8tU0hONjFDWXFmQXVuUkVRWHptSHdiZ3pEcXBsc2hXdTBpYTBJTlYwczBmXzdiaV9NU0pwZUlpYUR5WUdUUjlRNnhmWFVJcGdsaTN6MzE2WlJ4eWk4NUZrNXFHTUpGOWcxRg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is FactSet Research Systems Stock Underperforming the S&P 500? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUgzZjl3SWNuenZMYm9SNTFnX01LQVFJU1lYWGN2WXVkY3NhVHVyb3I4V1hldlM3N0hGdkNvdlJMSzhWYVpHbG1ZLWdLaTVpbUN2d05tQ1VjZEZybTJsMmFsWUtsQjFIdkNRbUhidk9mcGstOWVpaUtnTUFiUmFud2ZMU01pTkZZN054Y19R?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "FactSet Research Secures New $1.5 Billion Credit Agreement - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHkxSThHS2tvMkM1TmpTZUs2UVpGdUZLX2N2VTVTNmhxV0tFWklKMnhwR25ERHZZUVVReVlVVGdDS3pJN2VyXzdVN0Vpei1ObFBic3Q5TU1welYxOTR0d2xhdC01YXJfMk04YlEydnhpS0dwT1lGMHo3RGs4TDFMZlpTbWRWSWJibk9iU2lVM19adHdvZXI4VFQ3TVB4aXlIVTZCRWliV0tDLUlwX1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(FDS) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUC1tVzh5X20tdFJxbl9QVmhlTjdBMVp2NTltb1dsWVVQZFJCSlZfVFE0TmxrZUJfeVh0bVc3eHpvMnJaRmZ6MTdralRENjhXU2dpUGJXNEM3alJyamV0MzhibFFqNzIxRjJRRWxfX1RVQUlnQXpRbUxfdjdOUVdETHBLSUpXU2RfLVBid1h5MS14U0lnYk5hWVNLOVd0dEk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Be Adding FactSet Research Systems (NYSE:FDS) To Your Watchlist Today? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdUpvVnRnV2lIeUt2RDA1VFpreUs2VXR2Z1JLWEwzX0htN2NibkM3VVk3YjdwYm1YOEtPUFd1cGxKak1QaDhxVXJpb1NYejZUenNPUHhzWE9mWDZNNXI1dkplUm5wN3ByNDlRcFktZ2V5d0ZIQnFfbHlKLWx1NGxiZHBaN1BtTTlXdUM0TEJJQmFHY0dscjN5a1pBQWwzYnpITnZNSWhFOTFodEtnYXRMRUtmU2ViOE9DTVVSTmdicllSRTI3YjBVNkZTMnlnTlFlRHFTdVBlM2JnSVIzaTNZNDk4SGh4Rnp1dEHSAe8BQVVfeXFMTkh4ZDQwdzBieUFDUDU2NHJuaGc1N3FmTXdUU3NIMVlmY2hpM2hXVFJGZ0JBOEhMQmRDdHJYU2FLa2lYRnE0eXpGNE9CTlU4bWNWR3lUYXBrdXNqZzdKRW1ZX1N3dXBrM0NlU19PbFNZcUg0MGpKT1IxWmtHZUhfdXdvWUcxTVktM0lhZFRlQU5RdTZxRF9Ua05WRFE5U1lMQzF6MVF3TS1wSFRkVDNSMzM3WXh0MFBuWTFxSkRIYnhxZXdwTkx6d2tsdnhlZktXbDFvSTlkcENNNXAwNEtxa2pVNnFiY29YQ3NvbkNpYm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FactSet Research Systems Inc. (FDS) Stock Forecasts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORjRjZUNJWFB1MzlOU0U2blpDWkxyTHR6TUppVFY2bkNEdjFzZXZFSWphb3dBaW44djQ2SnJ2ZEpnNmp6V0F0X3hULW5qMDctUUhUOFAxQXdiU0VFS1N6OGRWV0h2SFlDWjBTSGNwVlpWUTFRUWhjMDlPNk1NRjdZZi14eEtaUjlYSFBnenZ0QnhJMTZBVl9HSmhMVmkySVVwck1oVUFsaGQ2ZjZybTFVRHIyY3dfc2J3WExadHdHNmRCanVwVlBKYmVheUpHc0RvemwwaEZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FactSet (FDS) Boosts Quarterly Dividend for 26th Consecutive Yea - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdEtaNTlONXZCTEoydnhTZHJMRFZiRWdSc0ttSkMyS3F1MTNLWmRZamhKNjRRRFJGeDJETzdIam03dUNsdXhSQWotcUxHeEVfY1I0c2N2QTFxNE5WS2pPM3Jhd19HMVpUWFJmb2VEVDktZV8xRllTTklRQVBQaVNBdlNWbkRUZ0doOUhPTHYtNmFrNjh2WGpYNG4wNVZ3Q204RGNYcmN3VS05RlFYVFh6eUFaYTUtZlpf?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FactSet Research Systems Inc. (FDS) Stock Analysis: Navigating Financial Data with a Promising 1.34% Upside - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY1VTdnRic3Q0dm56V2J3dEM0d09ST2hkRUx0R3lKX2xlMjA1QjNXdEdFSGx4dnhnTWFISVc2UjFUdXVXNkVZN0VSTUJ2V3dwbFFwRll3eGxRSnA5bFZkWVFkN1k5OGVxTWF5X1ppSDBqNFZfV3NfSnVPX2NVNHhFc1FwVGNId1pOUGtheGptYkNtUFVrb1NxQ2s3aDBwcEVmNHVOalNNdlM2bzQzQ3JzdG9wR29VUndCX0ZCUkVxMUFHTUZDMEJkR3M4Y0huaGR2OTJhUzZvcmNTWnUxQldhMi16ME9DQ0hQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CredCore Advances AI Innovation in Debt Capital Markets with Data Provided by FactSet - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1hERmhHa3RiNVhGdzM4MGVobFRIYlRPdG5MUktCRFQ1dUF2UnRQZXZHOEU3WWN2Z1BPUzBkbWx4WFpSTURITlhXSk9xeEp4bDExS0o3TVBrWlhVRVUtazdpXy1ubG9BZlBuU3pTZDdTMTFfVjEzYWdVVHhPd0VLZHVZXzBHbDNPNlZ1czBFYWpDb29mLThTZDNHOXg4ZzFvQUpuUFk5aFNNNVpoOHFwVW9VZ3ZfVG5QWDlsbg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FDS Stock Barely Moves After Posting Q2 Earnings Beat, Revenue Rise - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdEFfdURBbjV4WWFVNktvWDlQSWdkM1dSck1kUFE4OGxrQUt4LWdSTDVnZkM0ZEhTcmxlVjQ3WXVIQkNjQWVKZVdrcWZmOHZOci1iX2lVS0YwX3BvVHRkanpDQ1YzZjZXOXBaLVIyWWN1RGdlSElEVC1TU3B1dk1SSElR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FactSet Expands Banking Tech Arsenal: How LogoIntern Acquisition Transforms Pitch Deck Creation - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcUFjMGFRbkxTM0xfRXd4Vkk0elZZOG1Pdi0zWUxfLTdzY0Z0WXo2dkVmeXhzSnB1MDBGUnE1ZzI2OWtPdk5yNmhtUUJsLWxMV09xVVpaZDl1VEJjdXhjRG4wMlNSdDZtSlNZNEhXNmlBQmIwV0thMEQwSm41YXY1N0hR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FactSet Research (FDS) Tops Q2 Earnings Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FSzc1d2daTzlSb1h3REZzcTBtaktwQkh6Zk1aMlo5aGRNUUp4QThnc3R4ZTlURDEyLVgyQ3dCNDcya3g1Q0pIZ011TGUxLXgzbFBLQ3NKNUdoOG9jSEdqUjVBR2RtbGlRckd0d05Zc2hNT21NT2JubWVBTzlINWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FactSet Research Systems Inc. (FDS): Jim Cramer Prefers ICE for More Upside - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXZNN09Bay0zeDY3MjdLeDN2S1lWUGNuSkdwVjRGcm45cVZDZWlnZVREM3ZnWndNS3V2VWRxUjFpQUJOdTgzd2VydXAxRXhPZGM1blJHSjJBSEZ5UlhEWEdySGZpQ242bHhmTzJENGpMdG9IV2s5cjhWNzdZS3dWb3Ftemg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Estimate FactSet Research (FDS) to Report a Decline in Earnings: What to Look Out for - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNkczYUs1Z2VmTUVhUnVqVVNRQnJjeThrUnp6Mjl1c0xiRzNGY0dQeUNyblJqcEw0T0wyZUhMcEU2NUVoSXNQZDAzT0xvWkRqUWctZFA3cHpVdUtMb1ktVXdjWVpjZWtMMWJ6WnRjSTZmWTdnTU5yajdZZ1BRS3pJT0I0aXVFbXR6MnN4Vg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "What Makes FactSet Research Systems (FDS) a Long-term Holding? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOWFibkZNYUpWWU5VT3dZTzdnaktfZ3hSVEhVZTlFMVBzTkh0d3JSR3ZWQzkzdWVXNkwyQm9FMmJwOGhLdGdKMWpCcE1iTlBQcEVnaHBSM2Z2VlpqeVpVWVItanhKVTVUR0Y0bnRQSGQxcU5wRjVqdWNWRXVmQVZIUmdkMjBQQ28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fund Update: Vest Financial, LLC opened a $52.4M position in $FDS stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjc5SWtfanpXWXBxWUp1Y1R3aGc0bk5UNzlJeTNtTC1SX2o5c3FxdTNiZkFqQnY1SE9hMFZjM0xxbmduWjNfZVF3R0JlTzlhR3M5dUFkR25nTTk3cFF4YWg5NDFOM0Vqblp4aVFha3VJdURtQ0pEaXR6a1lqYnVCUl9QLU9oNW5HUGVrekdVdkJUTVhIMm1SMg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 487.62
+      },
+      {
+        "date": "2024-11-25",
+        "price": 491.05
+      },
+      {
+        "date": "2024-11-26",
+        "price": 490.98
+      },
+      {
+        "date": "2024-11-27",
+        "price": 489.5
+      },
+      {
+        "date": "2024-11-29",
+        "price": 490.67
+      },
+      {
+        "date": "2024-12-02",
+        "price": 489.47
+      },
+      {
+        "date": "2024-12-03",
+        "price": 485.52
+      },
+      {
+        "date": "2024-12-04",
+        "price": 483.56
+      },
+      {
+        "date": "2024-12-05",
+        "price": 478.37
+      },
+      {
+        "date": "2024-12-06",
+        "price": 479.97
+      },
+      {
+        "date": "2024-12-09",
+        "price": 477.76
+      },
+      {
+        "date": "2024-12-10",
+        "price": 483.78
+      },
+      {
+        "date": "2024-12-11",
+        "price": 490.04
+      },
+      {
+        "date": "2024-12-12",
+        "price": 488.61
+      },
+      {
+        "date": "2024-12-13",
+        "price": 488.74
+      },
+      {
+        "date": "2024-12-16",
+        "price": 487.59
+      },
+      {
+        "date": "2024-12-17",
+        "price": 488.81
+      },
+      {
+        "date": "2024-12-18",
+        "price": 473.05
+      },
+      {
+        "date": "2024-12-19",
+        "price": 489.73
+      },
+      {
+        "date": "2024-12-20",
+        "price": 483.52
+      },
+      {
+        "date": "2024-12-23",
+        "price": 489.34
+      },
+      {
+        "date": "2024-12-24",
+        "price": 491.35
+      },
+      {
+        "date": "2024-12-26",
+        "price": 491.61
+      },
+      {
+        "date": "2024-12-27",
+        "price": 486.56
+      },
+      {
+        "date": "2024-12-30",
+        "price": 482.68
+      },
+      {
+        "date": "2024-12-31",
+        "price": 480.28
+      },
+      {
+        "date": "2025-01-02",
+        "price": 476.51
+      },
+      {
+        "date": "2025-01-03",
+        "price": 475.06
+      },
+      {
+        "date": "2025-01-06",
+        "price": 466.03
+      },
+      {
+        "date": "2025-01-07",
+        "price": 460.68
+      },
+      {
+        "date": "2025-01-08",
+        "price": 458.46
+      },
+      {
+        "date": "2025-01-10",
+        "price": 453.02
+      },
+      {
+        "date": "2025-01-13",
+        "price": 454.86
+      },
+      {
+        "date": "2025-01-14",
+        "price": 454.17
+      },
+      {
+        "date": "2025-01-15",
+        "price": 453.98
+      },
+      {
+        "date": "2025-01-16",
+        "price": 459.97
+      },
+      {
+        "date": "2025-01-17",
+        "price": 462.99
+      },
+      {
+        "date": "2025-01-21",
+        "price": 466.14
+      },
+      {
+        "date": "2025-01-22",
+        "price": 464.77
+      },
+      {
+        "date": "2025-01-23",
+        "price": 464.38
+      },
+      {
+        "date": "2025-01-24",
+        "price": 467.12
+      },
+      {
+        "date": "2025-01-27",
+        "price": 475.43
+      },
+      {
+        "date": "2025-01-28",
+        "price": 470.62
+      },
+      {
+        "date": "2025-01-29",
+        "price": 464.63
+      },
+      {
+        "date": "2025-01-30",
+        "price": 472.12
+      },
+      {
+        "date": "2025-01-31",
+        "price": 474.41
+      },
+      {
+        "date": "2025-02-03",
+        "price": 469.81
+      },
+      {
+        "date": "2025-02-04",
+        "price": 466.84
+      },
+      {
+        "date": "2025-02-05",
+        "price": 468.82
+      },
+      {
+        "date": "2025-02-06",
+        "price": 469.28
+      },
+      {
+        "date": "2025-02-07",
+        "price": 466.79
+      },
+      {
+        "date": "2025-02-10",
+        "price": 460.66
+      },
+      {
+        "date": "2025-02-11",
+        "price": 454.28
+      },
+      {
+        "date": "2025-02-12",
+        "price": 454.21
+      },
+      {
+        "date": "2025-02-13",
+        "price": 459.39
+      },
+      {
+        "date": "2025-02-14",
+        "price": 456.09
+      },
+      {
+        "date": "2025-02-18",
+        "price": 460.1
+      },
+      {
+        "date": "2025-02-19",
+        "price": 466.18
+      },
+      {
+        "date": "2025-02-20",
+        "price": 466.13
+      },
+      {
+        "date": "2025-02-21",
+        "price": 461.78
+      },
+      {
+        "date": "2025-02-24",
+        "price": 461.56
+      },
+      {
+        "date": "2025-02-25",
+        "price": 462.94
+      },
+      {
+        "date": "2025-02-26",
+        "price": 453.68
+      },
+      {
+        "date": "2025-02-27",
+        "price": 454.71
+      },
+      {
+        "date": "2025-02-28",
+        "price": 461.74
+      },
+      {
+        "date": "2025-03-03",
+        "price": 458.09
+      },
+      {
+        "date": "2025-03-04",
+        "price": 444.72
+      },
+      {
+        "date": "2025-03-05",
+        "price": 445.42
+      },
+      {
+        "date": "2025-03-06",
+        "price": 441.7
+      },
+      {
+        "date": "2025-03-07",
+        "price": 440.73
+      },
+      {
+        "date": "2025-03-10",
+        "price": 442.91
+      },
+      {
+        "date": "2025-03-11",
+        "price": 431.17
+      },
+      {
+        "date": "2025-03-12",
+        "price": 429.87
+      },
+      {
+        "date": "2025-03-13",
+        "price": 427.5
+      },
+      {
+        "date": "2025-03-14",
+        "price": 436.85
+      },
+      {
+        "date": "2025-03-17",
+        "price": 439.65
+      },
+      {
+        "date": "2025-03-18",
+        "price": 439.82
+      },
+      {
+        "date": "2025-03-19",
+        "price": 438.4
+      },
+      {
+        "date": "2025-03-20",
+        "price": 430.93
+      },
+      {
+        "date": "2025-03-21",
+        "price": 432.86
+      },
+      {
+        "date": "2025-03-24",
+        "price": 432.11
+      },
+      {
+        "date": "2025-03-25",
+        "price": 439.4
+      },
+      {
+        "date": "2025-03-26",
+        "price": 441.24
+      },
+      {
+        "date": "2025-03-27",
+        "price": 449.23
+      },
+      {
+        "date": "2025-03-28",
+        "price": 448.76
+      },
+      {
+        "date": "2025-03-31",
+        "price": 454.64
+      },
+      {
+        "date": "2025-04-01",
+        "price": 457.01
+      },
+      {
+        "date": "2025-04-02",
+        "price": 451.72
+      },
+      {
+        "date": "2025-04-03",
+        "price": 437.15
+      },
+      {
+        "date": "2025-04-04",
+        "price": 416.19
+      },
+      {
+        "date": "2025-04-07",
+        "price": 405.58
+      },
+      {
+        "date": "2025-04-08",
+        "price": 398.85
+      },
+      {
+        "date": "2025-04-09",
+        "price": 426.82
+      },
+      {
+        "date": "2025-04-10",
+        "price": 416.69
+      },
+      {
+        "date": "2025-04-11",
+        "price": 425.44
+      },
+      {
+        "date": "2025-04-14",
+        "price": 433.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 436.23
+      },
+      {
+        "date": "2025-04-16",
+        "price": 427.23
+      },
+      {
+        "date": "2025-04-17",
+        "price": 427.05
+      },
+      {
+        "date": "2025-04-21",
+        "price": 413.03
+      },
+      {
+        "date": "2025-04-22",
+        "price": 423.96
+      },
+      {
+        "date": "2025-04-23",
+        "price": 425.52
+      },
+      {
+        "date": "2025-04-24",
+        "price": 428.15
+      },
+      {
+        "date": "2025-04-25",
+        "price": 424.47
+      },
+      {
+        "date": "2025-04-28",
+        "price": 422.9
+      },
+      {
+        "date": "2025-04-29",
+        "price": 428.71
+      },
+      {
+        "date": "2025-04-30",
+        "price": 432.22
+      },
+      {
+        "date": "2025-05-01",
+        "price": 429.89
+      },
+      {
+        "date": "2025-05-02",
+        "price": 434.56
+      },
+      {
+        "date": "2025-05-05",
+        "price": 433.09
+      },
+      {
+        "date": "2025-05-06",
+        "price": 429.82
+      },
+      {
+        "date": "2025-05-07",
+        "price": 440.2
+      },
+      {
+        "date": "2025-05-08",
+        "price": 448.49
+      },
+      {
+        "date": "2025-05-09",
+        "price": 454.62
+      },
+      {
+        "date": "2025-05-12",
+        "price": 456.4
+      },
+      {
+        "date": "2025-05-13",
+        "price": 451.43
+      },
+      {
+        "date": "2025-05-14",
+        "price": 459.87
+      },
+      {
+        "date": "2025-05-15",
+        "price": 469.41
+      },
+      {
+        "date": "2025-05-16",
+        "price": 473.32
+      },
+      {
+        "date": "2025-05-19",
+        "price": 470.39
+      },
+      {
+        "date": "2025-05-20",
+        "price": 470.16
+      },
+      {
+        "date": "2025-05-21",
+        "price": 464.31
+      }
+    ],
+    "current_price_data": {
+      "price": 464.31,
+      "change": -5.85,
+      "percent_change": -1.24
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

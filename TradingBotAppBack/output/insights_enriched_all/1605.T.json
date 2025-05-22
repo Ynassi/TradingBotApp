@@ -1,0 +1,574 @@
+{
+  "ticker": "1605.T",
+  "name": "Inpex",
+  "sector": "Materials",
+  "market_cap": 2262865281024.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 5.341947,
+    "PB": 0.48870572,
+    "EV_Revenue": 1.573,
+    "ROE": 0.0915,
+    "ProfitMargin": 0.19575001,
+    "GrossMargin": 0.59474,
+    "DividendYield": 4.79
+  },
+  "technical_indicators": {
+    "RSI_14": 53.95910858869935,
+    "Momentum_10": 4.449972360420121,
+    "MACD": 2.821501097118926,
+    "BB_Percent": 0.8335643263638411,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8999815341116209,
+    "QualityScore": 0.4796577067777789,
+    "SignalScore": 0.6455871224717147
+  },
+  "volatility": 0.0182452197480431,
+  "beta": 0.316,
+  "return_6m": -0.0535295542715646,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 10,
+    "target_mean_price": 2213.0
+  },
+  "news_sentiment": {
+    "summary": "Voici la synth\u00e8se courte des 5 articles concernant des entreprises cot\u00e9es :\n\n1. Inpex (TSE:1605) est en train d'augmenter son dividend \u00e0 \u00a545.00, ce qui pourrait attirer plus d'investisseurs vers l'entreprise.\n2. Les autorit\u00e9s am\u00e9ricaines de l'Alaska ont d\u00e9cid\u00e9 de rechercher des investisseurs japonais pour soutenir les exportations d'LNG, ce qui pourrait avoir une incidence positive sur l'\u00e9conomie japonaise.\n3. Selon Simplywall.st, Inpex Corporation (TSE:1605) pourrait \u00eatre",
+    "sentiment_score": 0.0,
+    "label": "POSITIVE",
+    "positive_ratio": 0.12,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.12,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Inpex (TSE:1605) Is Increasing Its Dividend To \u00a545.00 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGgwSlZyTjlLRmZsc0JJWF95MHNxbkRCM2FobWh2NkFMX3VpLU9KaW14dzhKcHVmR1JPUlEzNjJZUkJ6MUpFeDVLYVVlY2dqR0MtSXVmSTJhdnpabXVBZlJ3MnR6TnNaSXVNSmZNQWY0WnZWOTNqb0poRjd1Y2psY3NtOEV0OVB5d05wdFEwVGI1UG42YWhrSzEyUURHWG1pTUl4Y3pNZmdLX195SFFQNEhjZVHSAboBQVVfeXFMTkdjOGM3YzR5VFduM0NRVEpSRVM4ZzRaZDRLbEZvbENNbUtFRW1XQy1ESS1tZnVjUFNIM0RmTGQ1dW1SMkhaNTVJRFEyR3NUanZmZkJHbUZfM3REaGtxNDVfMjJmMkNvUTEzOVFxbDJ4Q3ZZaFgzNkQzUnNCVkRib0dOYWhlRXVaZ19oVGhQU0NqWHV1VWpyYWFDU0ZJclQtRDNRM2VfQTBoaHJXeFVSOVJxT0k3eS1xRWxB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alaskan Officials to Seek Investors in Japan as Trump Touts LNG Exports - gCaptain",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUHl3d1E0MGJtc0hlSjA2MFFLR3dyZXpmLU01R0luZ1VyakJDUkZpVjhzNmNONmc5dEJ4VUZrb3FFZU1hSVE0anVDRGVhbTRjNE1DX1hpZlRaemFKOW95b3kzbzJibnJMUWptVTRSRWZucFk1ZjZIOGdxRnJRaXpYN3JBYzNhWC1qZ1l3S0ZncEdWTFo2OTRpOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Investors Undervaluing Inpex Corporation (TSE:1605) By 44%? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOW1oTTdYb01iV2Q1Rk5vWERxU1JZbWd1NXNWOTFLSVlfNjROWFFvcUxwNk9KdzdnaEo4TVVUdDNWZHVvNWx0R3dKMnFDdi1OZ0lmbTVDQ2EzUmZ4aUV6Y1FFZVFRbkJGX0lxb2FyMktQQ1pKWVNIRjZrUnJKdFBkN0FBZlhqNjV1RnF2b0dZSm9hRVpGU1hWNUZzWXVyamhSMFVfODhVNXJaR0VvN1BXeXlLRHdPcnQ1VGtLQmlrcFpWUdIBxwFBVV95cUxQTHR5RzBhODdXZGlDcVFiYzM5UHpkajk2bHhhRFVaYk1UMk5GU3N6UzNBUnBGVjB2dGNkWDFCTThrdHVNZjZVaTYtTGwtcjNfaDM2NUV6MkdVUURlRFMtREFsZ2QzUWdVVmsyWDZyVmJ5bzZsbkZQNEtTa1hHZVpYdlZhMTNJQnlQNWxXQkFYOHNuZzNKV2tYcUtLeVRqd00zMlZCSXl4Y0x2WGtIU1BhWWtoVnJyem13ckZEZlZYalFBb294OENN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Chartreuse Hard to Find Right Now? Ask the Monks Who Make It. (Published 2023) - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hSEpFZVVXVlNseTZ2b2Z6WU00b0RtbkQ3OTN6MHN0Y0xhcmdDTjBEUWIyMWpZNmJ4aDV0aERwYTN4Tzl5NG9XdnFWOTVfX2oxMlROSzdYN08xNUt3bzhwTmRaSl9rejJ3ZE8tamN1N1FVaFgxeXZMVzRXcndPZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nomura CEO quits as insider trading scandal widens - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVNDOTJtbEU4Vy1teWd6WGlUZEI5emwzZ2hCYW5VS3NseEhEYnBnMlcweWZMZDVfaTlwY09saDMtVlBQYl9FRkMwYmhSWGlGZEJqTk9rQUoxUTFNT1NRY2FnSXZVU3puM3g0R3hvUzl6T29yR0puT0lDeFU4OFFWeUJkMlEzWUNXYXliNURzNV9lazBVX2phaGFsWEFtQzZVcmdDX0YzRUxvdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Legends - The History of Winnebago - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqQk5pSEE0ZFpvTzIyY3lTcFhXT19WcUtUU1c3RjJBbDIyY2hkdTFUUW1YbFBqLVRjWWliZXg0SzdjOEEyNl9OX1QzOV9aZXJxQ21MUGJpc1pyX0JGWDVIcTA1X0RlSFhnSkc5Q3ExR2pUMGxaUW80ZWlheWFpSFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Project VW MK4 GTI 1.8t - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIV3cyM2ZKR01jY1ppX21yX0hZSHltWVJxRmtPSDFEOEFhSHBXSDVXNTlmRFZaMEM0aWR3VHNTNTN0clZJb0VCaFJRdm1ubHkwQk9VTVN2OGMySXJsTG9ub1Z1anR4R0VFZVRxclVoUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Big Bolt-On Power for Your Focus ST - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRjFRck9uUWpDbGVfb3pmU1F2dDlLdzhWVDBhdkNuYTFzOGZLUi1OOHd0R2Vvb0l6UjZSSGNBMFJVazQwbWlDUEp0MGg5Ul9rMFdSZHhGUk5NLVd4MDFibUpuUnQyWjMydDNPd2JHOXc3M1JuOHhfRkpIYzh2RlE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 1980.0
+      },
+      {
+        "date": "2024-11-22",
+        "price": 2005.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 2018.5
+      },
+      {
+        "date": "2024-11-26",
+        "price": 1976.0
+      },
+      {
+        "date": "2024-11-27",
+        "price": 1948.5
+      },
+      {
+        "date": "2024-11-28",
+        "price": 1971.5
+      },
+      {
+        "date": "2024-11-29",
+        "price": 1974.0
+      },
+      {
+        "date": "2024-12-02",
+        "price": 1991.5
+      },
+      {
+        "date": "2024-12-03",
+        "price": 1985.5
+      },
+      {
+        "date": "2024-12-04",
+        "price": 1999.0
+      },
+      {
+        "date": "2024-12-05",
+        "price": 1992.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 1993.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 1975.5
+      },
+      {
+        "date": "2024-12-10",
+        "price": 1982.0
+      },
+      {
+        "date": "2024-12-11",
+        "price": 1970.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 1981.5
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1963.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 1956.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 1933.0
+      },
+      {
+        "date": "2024-12-18",
+        "price": 1940.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 1933.5
+      },
+      {
+        "date": "2024-12-20",
+        "price": 1941.5
+      },
+      {
+        "date": "2024-12-23",
+        "price": 1960.5
+      },
+      {
+        "date": "2024-12-24",
+        "price": 1972.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 1988.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 1988.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 1963.5
+      },
+      {
+        "date": "2024-12-30",
+        "price": 1970.5
+      },
+      {
+        "date": "2025-01-06",
+        "price": 2004.5
+      },
+      {
+        "date": "2025-01-07",
+        "price": 1984.5
+      },
+      {
+        "date": "2025-01-08",
+        "price": 1993.5
+      },
+      {
+        "date": "2025-01-09",
+        "price": 1958.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 1950.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 1977.5
+      },
+      {
+        "date": "2025-01-15",
+        "price": 1990.5
+      },
+      {
+        "date": "2025-01-16",
+        "price": 1990.5
+      },
+      {
+        "date": "2025-01-17",
+        "price": 1971.0
+      },
+      {
+        "date": "2025-01-20",
+        "price": 1955.5
+      },
+      {
+        "date": "2025-01-21",
+        "price": 1911.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 1870.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 1887.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 1887.0
+      },
+      {
+        "date": "2025-01-27",
+        "price": 1887.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 1870.5
+      },
+      {
+        "date": "2025-01-29",
+        "price": 1851.5
+      },
+      {
+        "date": "2025-01-30",
+        "price": 1854.5
+      },
+      {
+        "date": "2025-01-31",
+        "price": 1870.0
+      },
+      {
+        "date": "2025-02-03",
+        "price": 1845.0
+      },
+      {
+        "date": "2025-02-04",
+        "price": 1844.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 1855.5
+      },
+      {
+        "date": "2025-02-06",
+        "price": 1858.0
+      },
+      {
+        "date": "2025-02-07",
+        "price": 1863.5
+      },
+      {
+        "date": "2025-02-10",
+        "price": 1894.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 1930.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 1925.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 1897.5
+      },
+      {
+        "date": "2025-02-17",
+        "price": 1861.5
+      },
+      {
+        "date": "2025-02-18",
+        "price": 1876.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 1879.5
+      },
+      {
+        "date": "2025-02-20",
+        "price": 1901.5
+      },
+      {
+        "date": "2025-02-21",
+        "price": 1915.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 1896.5
+      },
+      {
+        "date": "2025-02-26",
+        "price": 1864.5
+      },
+      {
+        "date": "2025-02-27",
+        "price": 1899.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 1906.5
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1933.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 1897.5
+      },
+      {
+        "date": "2025-03-05",
+        "price": 1913.0
+      },
+      {
+        "date": "2025-03-06",
+        "price": 1909.0
+      },
+      {
+        "date": "2025-03-07",
+        "price": 1930.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 1954.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 1958.0
+      },
+      {
+        "date": "2025-03-12",
+        "price": 1962.5
+      },
+      {
+        "date": "2025-03-13",
+        "price": 1985.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 1985.5
+      },
+      {
+        "date": "2025-03-17",
+        "price": 2018.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 2061.5
+      },
+      {
+        "date": "2025-03-19",
+        "price": 2068.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 2104.0
+      },
+      {
+        "date": "2025-03-24",
+        "price": 2101.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 2114.5
+      },
+      {
+        "date": "2025-03-26",
+        "price": 2127.5
+      },
+      {
+        "date": "2025-03-27",
+        "price": 2143.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 2113.5
+      },
+      {
+        "date": "2025-03-31",
+        "price": 2057.5
+      },
+      {
+        "date": "2025-04-01",
+        "price": 2080.5
+      },
+      {
+        "date": "2025-04-02",
+        "price": 2031.5
+      },
+      {
+        "date": "2025-04-03",
+        "price": 1979.5
+      },
+      {
+        "date": "2025-04-04",
+        "price": 1877.5
+      },
+      {
+        "date": "2025-04-07",
+        "price": 1699.0
+      },
+      {
+        "date": "2025-04-08",
+        "price": 1781.5
+      },
+      {
+        "date": "2025-04-09",
+        "price": 1672.5
+      },
+      {
+        "date": "2025-04-10",
+        "price": 1792.5
+      },
+      {
+        "date": "2025-04-11",
+        "price": 1773.5
+      },
+      {
+        "date": "2025-04-14",
+        "price": 1769.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 1789.5
+      },
+      {
+        "date": "2025-04-16",
+        "price": 1766.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 1803.5
+      },
+      {
+        "date": "2025-04-18",
+        "price": 1858.5
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1822.0
+      },
+      {
+        "date": "2025-04-22",
+        "price": 1820.5
+      },
+      {
+        "date": "2025-04-23",
+        "price": 1832.5
+      },
+      {
+        "date": "2025-04-24",
+        "price": 1804.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 1816.5
+      },
+      {
+        "date": "2025-04-28",
+        "price": 1825.0
+      },
+      {
+        "date": "2025-04-30",
+        "price": 1809.0
+      },
+      {
+        "date": "2025-05-01",
+        "price": 1820.5
+      },
+      {
+        "date": "2025-05-02",
+        "price": 1824.0
+      },
+      {
+        "date": "2025-05-07",
+        "price": 1811.0
+      },
+      {
+        "date": "2025-05-08",
+        "price": 1798.5
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1829.5
+      },
+      {
+        "date": "2025-05-12",
+        "price": 1861.5
+      },
+      {
+        "date": "2025-05-13",
+        "price": 1891.5
+      },
+      {
+        "date": "2025-05-14",
+        "price": 1925.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 1913.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 1889.5
+      },
+      {
+        "date": "2025-05-19",
+        "price": 1885.5
+      },
+      {
+        "date": "2025-05-20",
+        "price": 1878.5
+      },
+      {
+        "date": "2025-05-21",
+        "price": 1927.0
+      }
+    ],
+    "current_price_data": {
+      "price": 1927.0,
+      "change": 48.5,
+      "percent_change": 2.58
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

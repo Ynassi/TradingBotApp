@@ -1,0 +1,646 @@
+{
+  "ticker": "VICI",
+  "name": "Vici Properties",
+  "sector": "Real Estate",
+  "market_cap": 33920389120.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 12.6377945,
+    "PB": 1.2747201,
+    "EV_Revenue": 13.335,
+    "ROE": 0.1012,
+    "ProfitMargin": 0.67811996,
+    "GrossMargin": 0.992,
+    "DividendYield": 5.38
+  },
+  "technical_indicators": {
+    "RSI_14": 54.481080418598246,
+    "Momentum_10": 1.2937770058503058,
+    "MACD": -0.0223460836192295,
+    "BB_Percent": 0.5957838997453763,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.862355238022088,
+    "QualityScore": 0.5505669857544886,
+    "SignalScore": 0.659130335264718
+  },
+  "volatility": 0.0138375297023638,
+  "beta": 0.77,
+  "return_6m": 0.0347134333421723,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 23,
+    "target_mean_price": 36.11957
+  },
+  "news_sentiment": {
+    "summary": "VICI Properties Inc. (NYSE:VICI) is a popular stock among investors due to its high dividend yield, with some analysts recommending adding it to their portfolios. However, others are cautious about the stock's short-term prospects, with some short selling it. The company's first quarter 2025 results were also recently released. The stock has been subject to some sell-offs, with investors such as Janus Henderson Group PLC and Laurion Capital Management LP selling their shares. The stock is also being targeted by short sellers. Overall, while some analysts see VICI Properties as a solid long-term investment, others are more cautious about its short-term prospects.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 2,
+    "headlines": [
+      {
+        "title": "VICI Properties Inc. (NYSE:VICI) Shares Bought by Man Group plc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMnVHVG40VVFYdnZIQ3M4UmhUWkhIS3ZjaWxQWGxRTWttSF9HSjBndTFXOWI4YWFCSXRUTW5ZSUZQQTZVc1JpaDRmMmI5X1JkX2pVRXRhaldKVllnTGlzZk1vZVlneFVHYUtrS0lVVGYtdTRBdndpNkNyRmtUM004dkthUUpNY19CTFQyT1hSbHVTR3JkdktsSHJ6bnpjWlVDZEpvRjJzd0lfNEgyXzExbzUwcjM5bXplYWRXQkpReVhyQm5tcE9yRGdVMTY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. (VICI): Among the Cheap Dividend Stocks Being Targeted by Short Sellers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmltR19pRHpyQVJwbnpNa0l6WDFURkJzZnV6VnlQekl5aGpkUDM3aDhoZ0VwSjZ1eEhQU1RPT094Z3JYM1dSU0dsSjZpRmJaQlhqLXFnS2g2ZDRlMDRSZTBvOFp2S1BjNXVINktrTElVWWdvaURyVDNtYk9MbGIycnhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "This 5.5%-Yielding Dividend Stock's Smart Strategy Continues to Drive Growth - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlExWjY3QkdCZm10NUhxU3lvdE5xWlhJSTBVcjdGbk9rdHVzQXVlYmFVQzV6aWZkaDBkeElHMnEzVTk2cUFjNFg1cEdpN21RUnhoRElIenpIaGxUU21NVnNuWXdvbzlEMmw5ZHViVDRSNFdtWWh1THB0S3laTjgwUVo1RlZ0VnlKSTFJSWVCSWxaM1N0X3ZPSw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Key Reasons to Add VICI Properties Stock to Your Portfolio Now - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzFXUUVNQ2V4NkNXaXIzbWpjSm4zNGFyT2RjdFdqQWQzMjZFWjlnYTRRSlFHdWRWUktvWnFkWTV5NXFDaTFNOTBlRkJhRUk4cWI5emR5UlgxZjZvVW9YZG5sRWI3VG9Jd21RM3IySUxqeHVCM2lPRU5QQ0UtWGdwME1SY1dxUjZuanZ6LTVEdjJmajNjMzM5TWVJS3VzbTlvakc5NWhB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties: Worth A Bet, But Not [Yet] For Me. I'll Explain Why (NYSE:VICI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWW54ZG5sc0NCN1VlTk9uSjlEUFhzWDdQZzd4d2hvZVNCX3haNnprT1U0S1I0LW42NTlodFFjdGhScG02QVlCNGd6T0hQMWNQQ3UtNl9qcEV3Yy1XWkJGX3pzMDg4SmtJSnI3MFRVSmNaa19rZmZGUURaeWZaVzRXeDQ5ckM4ZGt3ellSY0I3SThIRkZBVHhOVTZodjdPdm1tYVJTbHlR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vici Lets Investors Cash In On Casinos With 5.3% Yield - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTN2MUgtbmNQY3FEUjB0dzNBM2doekZpMzNNM0UtV1VNUENZUUo0cGFYRHJYajVZdlZHRG1Nd0FrOEhtQlN5eFNfRFRhbS1WOUVuSTJkOE9DM1pKcVRrTVFkdVIway0xTTZPUzVxOEwwSG1KblQ2ZTZ3a1lpNHNYRnhrUGIzWXNzOFUzejZJMzJyaVVVdEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. Announces First Quarter 2025 Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaWVOM1lzYVFWLURhY0ZyZ3M1UHlhaUNHVlZVMjRhVlh6TEk2TTdwQm8yR25BZG5ZOVh3cmdtYzZPdGF3N2JpTVo2Mm4tX1VxLVV6bFFETDQ4TXg4T2JGaUU4SUVkNi1DRzkxaXpBOXZMS0hNQlE2YUVCWmRjWDhoeGJLUVpLTy05ZERDM2tobzVJSkZ0RlhSS0RNUW9mQ3NRMHFpQy0xTjdKRHlPVVI1WlBySTM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. (VICI) Stock Sinks As Market Gains: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjRxUUFOVmRVTWQ1RDJsWmZOclpkdVJkTzQ0bDFqaVFacEhnUURab1hkekNiLTU4ai1KTTVfX3ZFZFdPcmV4V2lwYV8tbzY5MkdGU0F6UVg0bE1YX2wzSldlUFlMM2NBbmFTdWNrTUZla05kZUowRGhYc3dYWWZzWDRncjBObVlCWFhqdlk1ejhhZTNBeGpzUnFBOXIyVnEwS0MteA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Focus Partners Wealth Increases Stock Holdings in VICI Properties Inc. (NYSE:VICI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOGJLc1IyMm9XUWhLTTMyQlFUakp4WGdETGIwR2pteDR0QkZZYlpSai1FS3lEcmtmcDBzY21aVlVfWk0xRnFyclhTY1hUWGJPUUpjbHBFd01ZdHFsakJ3eXhCeklsa050UGtHaWtjNkNoZ0pnTjcyU1I1RlBDRDloTG95a2ZhWHBDWnF2MEtLQS1CZzRrMFNaUC1DQmVtOU44MEx6ZUxYZzVwSkIwTFp6ajB5TWdEXzZuUEtFVXRFWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "VICI Properties: Near-Term Upside Likely Limited, But Still A Solid Bet Long-Term - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlZkaVBYaWJ6YVd5Q0VMdVZ5Q2JxSFRRcDRFaXFERW1UMGNRQ0hIUEdONElhVmEtZ0tkTVFZTlRzZ3JzVDVBYnR0VDlLNnBsNEFMT3RRMlRFYVZfZ2hhLWhUR0FsTnJzWDUta3FBdzFCSHdQcFpYT1F5TWZQdXliN3d5WmVlUzZEeTVJczd0SHpkUGN1TW05QmM0YU1PZE9OakJnWm1DbDl3TW44S3hpbVdPeWJtWHp1N2J0Tw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Do Wall Street Analysts Like VICI Properties Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTN6YmJHdmNOR2djbGo2VVM0SXBhT2hUcVVSSzhJYTE1Yi1tN3VVcmVFZzhZRDduaUFIXy1TNEJRUjJtZENpYmhJSV9SbWUwZkJqcElMZUw0d0YxREJ4Sjd0c0szcXUxTXlCWXdnVVQxZEdjdTZTVURuRnMxUEhoYUFQTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. (NYSE:VICI) Shares Sold by Janus Henderson Group PLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQnFGNlBhNkRwNWQ2Wk5Ha1J0cnZESUlZM3psTHBHc0tjMV9GOXJ3V3VSVGlKd215akZiTWVzWEhPemtnRHJ2V2s2RERzcnh1eGtDazhwcUFoUGVWclpxdms5OVd6OEpSWTJwMi01Q0VnNG05eWE1OGU0VFdyZFhuVUFOQll6REtzSGdHOGx0TFVtNlI4SDNPUXhFTXY4Q1VGZnV5Q2RTcTZuOFNZYnFkbVhEVGlkeUhtRTBXU2ktRnA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. (VICI): Among the Cheap Quarterly Dividend Stocks to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU3RRMUs1WTVWOTRqOUZDOFVGRVpsc3p3dm9IZ0ZCaHJza1VXSnBDVUp0R0VaM2xjRGNELVNQbG1lRHhlMDFRTWZBeERvVkpwRmRJWTVhZmItdUdjT3VVNXRtZzBqYTdHeWR4a3BKTHFlQlp0dk1sdlMtaFBvZzE3aTdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why This 5.8%-Yielding Dividend Stock Could Do Surprisingly Well in a Recession - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1VscnZNRjJmcUppUm9QMG4wVlRQRk4xMGpZaE1pRkEtcUF6RHV2MC02U0NncnktaWZmVldWODdDc0dSSEYwYWZNRU93dzRGaUk0dzBZUVNaMzBGZHg2azJGV1RiYlEtRkVVTW9MRjdodThJV0lWOUthcXZwQ0FsbmkzaFNOZjV0ZlVfRzR1TkFqcDg1dFkwaXpPR3QyT2RGdDJmSHZqU2M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cresset Asset Management LLC Sells 28,643 Shares of VICI Properties Inc. (NYSE:VICI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGx3aGJlLWhZcFYzcV9BeklQcFh2c0stWHJPaDJzNlRTcXhWYmVfYkhvcXlsZzFuV2pjN0ZBRmU3MzFOaEVBeU5NZDBhb3U1a1V5Tm81X2hsQk01WDdJV1A4RkZQVUhwXzNmS3VYU29KSXVVekM4WDJsY05Ea29uRWtRVzFYNFB2bVo1NjFZcVUxQkl4enU5QUdtMGt5cEtHR1pOYzljNDFkVHpkUW0tUmpkRUZ1OEpMNTJweVNmUFV4NGNHY1FjQmhwSkU0UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. (VICI): Among the Safe Dividend Stocks with Yields Above 5% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNblNER0Vuc3JFVGpZM25IUzE2MnFXbE1tX3JyNjlqc1VVaDM1bzF5NVptRmx4LVlkbmpOZEFKOUQ0b2VmNEF5QXEzakx3VEtXZGJ6cGV2LUR3NmVIckdKZDRtLTVTN1pKVkZ3blAzeGlOTEdwUUZDdjN0LWN4Rkh2ekR3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is VICI Properties Inc. (VICI) the Best Dividend Stock to Buy for Long-Term Passive Income? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWnRKZW1CQi1QbEhzREVSRnJxODFoM1JzRXVvWmtMOUpFYWNMSDU5NzBsVWk0dUx3Unl1N0VzUE5Md3JTZ08tbU9tc2hxeFF4SjZBWTZrU1hMVjVtMnZ1c084R2ZLNTVSdkFNVDBPZk0xRzk5cERHWFJ6MThPTkNCeQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties Inc. (NYSE:VICI) Shares Sold by Laurion Capital Management LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX01rLVNuVWlaOWFfNUpLY2JqNXpZUDU5ckN4dElWdlJZMFEyc3VLRW50bXhZNDIwZS1jWWFfRk5JSGs4ZXE0anRwV1NSOVVmNjFIOXlDdmdvb1B6NGFzQy1xdXNWOGc5SlJMSnBLb093M3NpakpOLVM5ZkhRUnRXclNiZ2FId1JVYUo4Z05XdlRyMU1iZXdYaFhoQjNWZkEyUk1KdmJtV1VDTHFvVUFqS2x5dmRUZFBSYlVkQXVIXy1PRG0zdXRXNVYzSTY2blA3ZEVJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VICI Properties (NYSE:VICI) Shares Down 0.9% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkloY25PM0NUWlBMRHJQUlAybUs3enR6ZFA0OGYyOHpPQ09DMzhjS21DTzNQaXotZ2NSOW5LT2FUWEsxSGJoZ2d3azJSakpYVU8wM2hjblF4ME5neVduMGwzSlZ5TGhUbFRuX1ljUkNjbzZWTWxubVBlMkVhcUU4Wlp4eEpfcG9QRDFzWGhYMElOMnU4OFhpQnFGVjRBRkV6ZUJDa2FER21tVmlMTHc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Gotham Asset Management LLC Has $3.39 Million Stock Position in VICI Properties Inc. (NYSE:VICI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb3VyTVdpWVZsdjR6RkVsUUtUTTJKMUtoTTQySnVqMThvbUFlZ1ZsSjBrbm9UVW9lUVpQdWo4VElFVzMwc05LLUt5a00wUjNnVmxmajhpMlBEZFFYbVlKZUJKVVcwMTJkSnVqa3NQdDV0aGgtWjVaejRhTUk5U0JyWVY1V0JFc2tGNXJRQkZpYkhhSENrRm1lSE85Zks0U3VzTEh3ZzlqRk9MSjFhTzg4aTRjZXU2eXdHR19lRWtOcndKT0M2OGtqNmdjQQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 32.23
+      },
+      {
+        "date": "2024-11-25",
+        "price": 32.53
+      },
+      {
+        "date": "2024-11-26",
+        "price": 32.38
+      },
+      {
+        "date": "2024-11-27",
+        "price": 32.6
+      },
+      {
+        "date": "2024-11-29",
+        "price": 32.61
+      },
+      {
+        "date": "2024-12-02",
+        "price": 32.21
+      },
+      {
+        "date": "2024-12-03",
+        "price": 31.65
+      },
+      {
+        "date": "2024-12-04",
+        "price": 31.77
+      },
+      {
+        "date": "2024-12-05",
+        "price": 31.65
+      },
+      {
+        "date": "2024-12-06",
+        "price": 31.65
+      },
+      {
+        "date": "2024-12-09",
+        "price": 31.76
+      },
+      {
+        "date": "2024-12-10",
+        "price": 31.44
+      },
+      {
+        "date": "2024-12-11",
+        "price": 31.31
+      },
+      {
+        "date": "2024-12-12",
+        "price": 31.09
+      },
+      {
+        "date": "2024-12-13",
+        "price": 31.13
+      },
+      {
+        "date": "2024-12-16",
+        "price": 30.93
+      },
+      {
+        "date": "2024-12-17",
+        "price": 30.05
+      },
+      {
+        "date": "2024-12-18",
+        "price": 28.91
+      },
+      {
+        "date": "2024-12-19",
+        "price": 28.27
+      },
+      {
+        "date": "2024-12-20",
+        "price": 28.79
+      },
+      {
+        "date": "2024-12-23",
+        "price": 28.98
+      },
+      {
+        "date": "2024-12-24",
+        "price": 29.24
+      },
+      {
+        "date": "2024-12-26",
+        "price": 29.13
+      },
+      {
+        "date": "2024-12-27",
+        "price": 28.94
+      },
+      {
+        "date": "2024-12-30",
+        "price": 29.01
+      },
+      {
+        "date": "2024-12-31",
+        "price": 29.21
+      },
+      {
+        "date": "2025-01-02",
+        "price": 28.99
+      },
+      {
+        "date": "2025-01-03",
+        "price": 29.46
+      },
+      {
+        "date": "2025-01-06",
+        "price": 29.56
+      },
+      {
+        "date": "2025-01-07",
+        "price": 29.25
+      },
+      {
+        "date": "2025-01-08",
+        "price": 28.83
+      },
+      {
+        "date": "2025-01-10",
+        "price": 28.21
+      },
+      {
+        "date": "2025-01-13",
+        "price": 28.73
+      },
+      {
+        "date": "2025-01-14",
+        "price": 28.97
+      },
+      {
+        "date": "2025-01-15",
+        "price": 28.76
+      },
+      {
+        "date": "2025-01-16",
+        "price": 29.28
+      },
+      {
+        "date": "2025-01-17",
+        "price": 29.35
+      },
+      {
+        "date": "2025-01-21",
+        "price": 30.26
+      },
+      {
+        "date": "2025-01-22",
+        "price": 29.45
+      },
+      {
+        "date": "2025-01-23",
+        "price": 29.29
+      },
+      {
+        "date": "2025-01-24",
+        "price": 29.6
+      },
+      {
+        "date": "2025-01-27",
+        "price": 30.55
+      },
+      {
+        "date": "2025-01-28",
+        "price": 30.01
+      },
+      {
+        "date": "2025-01-29",
+        "price": 29.64
+      },
+      {
+        "date": "2025-01-30",
+        "price": 29.84
+      },
+      {
+        "date": "2025-01-31",
+        "price": 29.77
+      },
+      {
+        "date": "2025-02-03",
+        "price": 29.79
+      },
+      {
+        "date": "2025-02-04",
+        "price": 29.8
+      },
+      {
+        "date": "2025-02-05",
+        "price": 29.92
+      },
+      {
+        "date": "2025-02-06",
+        "price": 30.13
+      },
+      {
+        "date": "2025-02-07",
+        "price": 30.11
+      },
+      {
+        "date": "2025-02-10",
+        "price": 29.95
+      },
+      {
+        "date": "2025-02-11",
+        "price": 30.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 29.79
+      },
+      {
+        "date": "2025-02-13",
+        "price": 30.43
+      },
+      {
+        "date": "2025-02-14",
+        "price": 30.37
+      },
+      {
+        "date": "2025-02-18",
+        "price": 30.36
+      },
+      {
+        "date": "2025-02-19",
+        "price": 30.48
+      },
+      {
+        "date": "2025-02-20",
+        "price": 30.76
+      },
+      {
+        "date": "2025-02-21",
+        "price": 31.28
+      },
+      {
+        "date": "2025-02-24",
+        "price": 31.95
+      },
+      {
+        "date": "2025-02-25",
+        "price": 32.62
+      },
+      {
+        "date": "2025-02-26",
+        "price": 32.38
+      },
+      {
+        "date": "2025-02-27",
+        "price": 32.33
+      },
+      {
+        "date": "2025-02-28",
+        "price": 32.49
+      },
+      {
+        "date": "2025-03-03",
+        "price": 32.65
+      },
+      {
+        "date": "2025-03-04",
+        "price": 32.18
+      },
+      {
+        "date": "2025-03-05",
+        "price": 32.4
+      },
+      {
+        "date": "2025-03-06",
+        "price": 31.97
+      },
+      {
+        "date": "2025-03-07",
+        "price": 32.65
+      },
+      {
+        "date": "2025-03-10",
+        "price": 32.64
+      },
+      {
+        "date": "2025-03-11",
+        "price": 32.35
+      },
+      {
+        "date": "2025-03-12",
+        "price": 32.09
+      },
+      {
+        "date": "2025-03-13",
+        "price": 31.55
+      },
+      {
+        "date": "2025-03-14",
+        "price": 32.25
+      },
+      {
+        "date": "2025-03-17",
+        "price": 32.49
+      },
+      {
+        "date": "2025-03-18",
+        "price": 32.68
+      },
+      {
+        "date": "2025-03-19",
+        "price": 32.38
+      },
+      {
+        "date": "2025-03-20",
+        "price": 32.01
+      },
+      {
+        "date": "2025-03-21",
+        "price": 31.53
+      },
+      {
+        "date": "2025-03-24",
+        "price": 31.97
+      },
+      {
+        "date": "2025-03-25",
+        "price": 31.64
+      },
+      {
+        "date": "2025-03-26",
+        "price": 31.9
+      },
+      {
+        "date": "2025-03-27",
+        "price": 31.88
+      },
+      {
+        "date": "2025-03-28",
+        "price": 32.01
+      },
+      {
+        "date": "2025-03-31",
+        "price": 32.62
+      },
+      {
+        "date": "2025-04-01",
+        "price": 32.44
+      },
+      {
+        "date": "2025-04-02",
+        "price": 32.19
+      },
+      {
+        "date": "2025-04-03",
+        "price": 31.66
+      },
+      {
+        "date": "2025-04-04",
+        "price": 30.59
+      },
+      {
+        "date": "2025-04-07",
+        "price": 29.76
+      },
+      {
+        "date": "2025-04-08",
+        "price": 29.41
+      },
+      {
+        "date": "2025-04-09",
+        "price": 30.79
+      },
+      {
+        "date": "2025-04-10",
+        "price": 30.08
+      },
+      {
+        "date": "2025-04-11",
+        "price": 31.05
+      },
+      {
+        "date": "2025-04-14",
+        "price": 31.59
+      },
+      {
+        "date": "2025-04-15",
+        "price": 32.05
+      },
+      {
+        "date": "2025-04-16",
+        "price": 32.05
+      },
+      {
+        "date": "2025-04-17",
+        "price": 32.54
+      },
+      {
+        "date": "2025-04-21",
+        "price": 32.15
+      },
+      {
+        "date": "2025-04-22",
+        "price": 32.97
+      },
+      {
+        "date": "2025-04-23",
+        "price": 32.72
+      },
+      {
+        "date": "2025-04-24",
+        "price": 32.46
+      },
+      {
+        "date": "2025-04-25",
+        "price": 32.22
+      },
+      {
+        "date": "2025-04-28",
+        "price": 32.24
+      },
+      {
+        "date": "2025-04-29",
+        "price": 32.26
+      },
+      {
+        "date": "2025-04-30",
+        "price": 32.02
+      },
+      {
+        "date": "2025-05-01",
+        "price": 31.51
+      },
+      {
+        "date": "2025-05-02",
+        "price": 31.69
+      },
+      {
+        "date": "2025-05-05",
+        "price": 31.89
+      },
+      {
+        "date": "2025-05-06",
+        "price": 31.54
+      },
+      {
+        "date": "2025-05-07",
+        "price": 31.66
+      },
+      {
+        "date": "2025-05-08",
+        "price": 31.58
+      },
+      {
+        "date": "2025-05-09",
+        "price": 31.86
+      },
+      {
+        "date": "2025-05-12",
+        "price": 31.52
+      },
+      {
+        "date": "2025-05-13",
+        "price": 31.36
+      },
+      {
+        "date": "2025-05-14",
+        "price": 31.1
+      },
+      {
+        "date": "2025-05-15",
+        "price": 31.63
+      },
+      {
+        "date": "2025-05-16",
+        "price": 32.1
+      },
+      {
+        "date": "2025-05-19",
+        "price": 32.15
+      },
+      {
+        "date": "2025-05-20",
+        "price": 31.92
+      },
+      {
+        "date": "2025-05-21",
+        "price": 31.36
+      }
+    ],
+    "current_price_data": {
+      "price": 31.36,
+      "change": -0.56,
+      "percent_change": -1.75
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

@@ -1,0 +1,646 @@
+{
+  "ticker": "FOX",
+  "name": "Fox Corporation (Class B)",
+  "sector": "Communication Services",
+  "market_cap": 23955787776.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 12.67726,
+    "PB": 2.0268157,
+    "EV_Revenue": 1.673,
+    "ROE": 0.16621,
+    "ProfitMargin": 0.1158,
+    "GrossMargin": 0.34535998,
+    "DividendYield": 1.05
+  },
+  "technical_indicators": {
+    "RSI_14": 68.73565573021482,
+    "Momentum_10": 12.3023619892544,
+    "MACD": 0.9524552710428013,
+    "BB_Percent": 1.02564446438344,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8979342373917674,
+    "QualityScore": 0.4017139124765916,
+    "SignalScore": 0.5344351229921074
+  },
+  "volatility": 0.019998648868046,
+  "beta": 0.522,
+  "return_6m": 0.2191220437301773,
+  "analyst_rating": {
+    "recommendation": "none",
+    "analyst_count": null,
+    "target_mean_price": null
+  },
+  "news_sentiment": {
+    "summary": "Fox Corporation (FOXA) est un titre de la NASDAQ qui a \u00e9t\u00e9 mentionn\u00e9 dans 15 articles r\u00e9cents d'actualit\u00e9s financi\u00e8res. Les articles ont explor\u00e9 la performance de la soci\u00e9t\u00e9, ses investissements et ses activit\u00e9s dans les secteurs de la consommation et de la sant\u00e9.\n\nLes signaux forts pour Fox Corporation (FOXA) sont les suivants :\n\n1. Positif : la soci\u00e9t\u00e9 a \u00e9t\u00e9 nomm\u00e9e comme une entreprise \u00e0 croissance solide et a \u00e9t\u00e9 recommand\u00e9e comme une option pour les investisseurs francophones.\n2. M\u00e9lange : certains articles ont mentionn\u00e9 les risques associ\u00e9s \u00e0 l'investissement",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Looking for a Growth Stock? 3 Reasons Why Fox (FOXA) is a Solid Choice - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2FMQ2RrRFJSb2dwLVFFOGQ2MGZwdHE1LTVaQ1JGMUdySnN5U09ZZlFPT3V1RjBnR2RVQkt4aHZqbnRqS2NDRXllUHlOQ3B3dGFRUF8wMzBFZGgtQUx5NWRwLXBpMzRaekZfdWlFdGpHNnJOa09zOW9ETDZiUWd5U0tR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cresset Asset Management LLC Has $329,000 Stock Holdings in Fox Co. (NASDAQ:FOXA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV1dUcnBwNkxMcjBlNGtaM3RhajQtRjVpYzZYUkE1T1FoNUtuWXpwVHFneHIyWXVGem5VZEQzX0JHSjNrcjFDdng3LTNKbUNXRlEzakdMTVNIeDAtODE3MEdaYVJxZ255RU1aeHVBeE5JYkFvUmlxMVBBX3VPbHJ5cVpLa2ZFSngyQmF0elpYc1JUVDdlOWxCOWNlcU1TZWZyOE5jM2dYdWNOZkJfWlk3YVE1OVZNLW5DTEE2TTc1OU9xQUZncVR6aA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How are shoe companies performing in the stock market? - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jby15NjVJOHlKc0h2S2hocnRFVTZGdGRXeEo2SUlOTlFzUC1Oa3RxNjRORlVEdk1fSGQ4VklTWUQ0SWNwc2IyTlppQ2ZETU9JX3FmZjBrNWlLaTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth Group's stock takes another hit after DOJ investigation report - FOX 9 Minneapolis-St. Paul",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbG91REV4SFBZVGx5V19XT1p1dFl3Vm92aWRpcWdreWNRTUhyVDZCcTZ4dWdLdkwyOFZLLXBhN3lkSE9IYTV6b0NJM01FbXdZRGpNaER0TWl1bHRWZkhZS2NlaHBETWVncHg3c0xiVFJlWVJFYVVHZk9Zb0ZtNnhvUUZlM040STRhcEE2S1pDeUJ3LXhST1B0QzBwcEdLNWxDMmfSAacBQVVfeXFMUHpoNlVtek1tRHZUQ1cxQTg1R2NFU2p5U1JPMGN2QmNmMWlMZkh5Qk9RNXVxUFJLQk15dEYzZHpQY2FERlp0ZklUWlBJUldseExrd292b2k5OWpIM3lhZnV2YUxvVk9nMU5KdU5VN1FEUnJzcnp4M21UUmxTUFhndm1sLWYwdFpjMUNqbEVneDBzRUFVd3hZMlA5aGRpRmpyaXd1Wk5ZZFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fox Corporation Stock: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT25kNUdSRVhmYS01cUxLMzBoVDBOOFdKeXFLY0pMelMyWUw2WjdJUXVPaVBqOVFwQ3hkalBEYnpaVWRCQTdSa0o5UnFWNFZ1OWUyS0M1MEl1V1lpWF8ybzlRYm1jWGRVQWhEUFNTSnlGVzBxUHladHZmQjA5ZmZybkF2VTQ1TTFEV1hTMg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rep. Alford to introduce congressional stock trading ban mirroring Senate's 'PELOSI Act' - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT29VWVo4eThRRGY2aE1wc3NLM1Ytd0hBaFBUMms0dVl6VGVpRVF4X19kck93bWQ3dFZHbmFTRURLUVdTcVdoTG5DY25TeDREbXctbTV0MldlcnJOUWd5dWlhZ1hJbmpPTHR5TmFPNXVNLUZHYm5uM2hEaWZrcDBfMVA1ekVnWTFSSXZTMEY1ZC1laTdxNnhCQ3huSy01RWUzamhKd2hLeFNjcFnSAbABQVVfeXFMTUdjZk9vUHpSS09LeDlSVFhyY2MzZ0VRdFZqcG1KUjhscHdHbEVGcFpac0JuN0NjYkluNk50TjRoWjZqVHc5Wm85TndCc3NIUWtZSFRGTWtwWF9aU1NxNkF0aXZsWW1oYnNLMC1FTXJuODkyTExYcTRERHVDMngwR1gxaUFvTndyZ1Q4YmFRZ1F0N3lub0lEY0JKdTBtLU1zRDhvZDM4elR0VG9yakljXzE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock markets seek to hold onto gains - FOX 28 Spokane",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEWXhJWXpBaWRHTDhPZnJhLVZQTy02OUk5VzZoVlFDaW5XQTluN012b2pZZjFHclowbFpGLWRGT29maG1Ld0NxdWwxWjU0YldtSFdmcFZoaU4yWXl6cUNHdzNidGI1QURfNjJoWlRKcGtoUWFHcHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "18,536 Shares in Fox Co. (NASDAQ:FOXA) Bought by Raiffeisen Bank International AG - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1NKWlB5bTYwU2g3eHFodWRwdVVHU3BBaEMtcDNNb3hhWkVUYmpoSGs2TVZOZ1JEYWtJa1dxLW9qMkl0SHdQOEd4bmpnZWQ2MkZkbnNJQ0IzOUJDdVJfZ3lDQ0JFREhfcGF5ODFHN200OXRxR2dYLUJuLWd4MXlXUG1VU21fN0FCNWVfaE03RDZoNFZsQmtHSkI0R2s1UFc2bjBubllnQi1iZDF5eUNfZnViNVVIc09YYVJ1Y2RlUG1pbEw5NG0ta3Vn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Fox (FOX) Outperforming Other Consumer Discretionary Stocks This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUVEweFhuNEVQem1vSGNpYTlrTXN4Qlo2VmhURG9TNU5VWS1OYWRDRFk1VXR3cXBqbGpnWFZJalQtZnBDa1NwZjVMWUs3dllXNGdOVHM3Y3ZMMDBEQ2ZuSTJDT0VvbkFtRXlKZnV4My1vTlFOakNUbVh0YnU2YUNkaUlkZ0JwR2JaaHc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock futures rise despite tax cut uncertainty - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96eU1IMWxWbkxxVEpweVhDUU14elZLd3B3WlAzU19Fa1p3UUJXUlM1ZGNtRkM4MzZVcHdUTFZpNGF1LS1xY2F6YjUwMWJoenB3Yzc5NzFOdDI3LUU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Siemens Fonds Invest GmbH Invests $987,000 in Fox Co. (NASDAQ:FOXA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlc5VVhZOTVHaGdZQl9XTTRfYUJZUWtNYk1yU1YyQk1KeVQ1OXZsZzZ1VlFfd2ViRG1RMXl3MDdFWUo5a0lpVkNYV3ZzSEprSmVOMm9QZkZQTjBiY1AxVWxzZ3FDRzc5ekF3NndRSGdkZUw4cXh6R1hadFFXS0psVWY2TFRQVFFvTkRtY0FHLS1BeG9NQU8wekVVeGMtbzg0UFpfdXlHSDVVejVLSWJta2V0aFF0QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth shares slide as criminal probe report adds to investor fears - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEJ4U25rdUR5ak4wbkRvcDM1cmJFTEFDVVBnMXoyWF9DNnJWaWJILW1hc1JoNkNQR21SN0tjTUZZYUhCd1UzVHY2b1FaaGh2NnFwdVVlSllvOVJwMUwwcVUweExIbVRvdEtjMVBMVkR0YlA1VHVkbEFQMjE0NXFHTmQwUnRoUTJzSmpCUnpEcThIeTIzNFFuYVItUkQxQ3dfTXd6OVJ30gGrAUFVX3lxTE1zMWw4T3JQWTJUNFNnejRvRzM4WmUyaWxrOEhmcFZlSWVtNTJldDJpNFNmWWg1S3pQS2lTNFppRGlBS2NZRnU4Q0NkbEFwNDlWeWpHOHpZN3RzMVNPbmNWMEkxU1FzamZIV0JLZUh5eXRlRm1rMjlOTUt5Yld5UE1XUlpxSEpJcllQQ21UUXFxQllQby1nXzRjMG9xWmNra3BGaF92VHFrV3A0aw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in Fox Corporation (FOX) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRktVNFEtYnlXeEFHOGZUTjExNG9rVWdMNWxpbmpNNDRWdFNrcEY5R20yS0dXYjNQTFVmOVlnUFUtdmd5d0VxZFQ3MmRUdW10d0d2NDJWRnJaeEp1UnNXcUJGbDdCWFdzcG1kWEViUl9lc2VMTkU4YTBfUFVzUmRxWURBZ3ZmWEkz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Redwood Investment Management LLC Has $386,000 Holdings in Fox Co. (NASDAQ:FOX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1dSRUtMSnU0M3l3eUlBbFhUc1ZHcC1QMWpWUjVnVkFUYWpvRWFSblRCd3RBa0tlbDI5Q3UyS0RucHluZ1hxakswWUtRZEdObGZTZlV6Qmp6VmhTWlZqbkZCUTZfd2trZ0JHcGlFRnF3RUlpcmdSSGhzZjY2YzhmZk5jVV9HR0YycVloSUptVTlOUU13clFEbmNyTENxNDZESDZmQVc1R1ktRHRVU1FTZFdZbklVNHhDVWdPeWVPS1dXX3VoWmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fox Corporation (FOX): Among Advertising & Media Stocks That Could Tank If Recession Hits - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS2tJX21rellIWUM3azBlWllET1p4ZFJ0ZmprSjhoZjFxdTRvUGY0R0RuMkdRdWhNVlFJRDFBUTdoc3JkVHZwa0UydGEyYnpRZmluRWZnYnBGVFJyN3FNNVFEQUtGem9FelViWUhwalhNcUc5TGwyaWRlMUJQeGt5cVVENmRlSEdzNklF?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock market lows are in barring any warning signs, expert says - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hcnd3Y0RyYlNTZTcxdll3bk05eTZlZXZRM0hvVkFyanRHeU5HTnJhNWhmdTZQclhvZVl5a0NKdlFkalEwM2dNOGpOeVp3eHR1QkQ5UXFIeE1FQWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Redwood Investment Management LLC Invests $1.42 Million in Fox Co. (NASDAQ:FOXA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaERZSjNmc3A5LUNKR3JXLTFLWHpQbTlUcFlwVnh5LXVjMnZLOWNvd2FMcVhQeHNBUmYtQU1lY0Z5QUR1TkhUOExuSnlFUlNHMXJvWFd6Qm1pQzRlVU5YRkRkYzFsNE5jZEZUNmRhY1NwVG1jVU93c01sclNyYjdLODBjM28xeEUzUEU2ampWWWI2OXpJM2lmRTQxbm13VlI3clhaYzBVQktnNXo3QnFZaUZ2dE9aUDZMYWV3ZlhkbS1IVnlLVjFF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Forecasts Strong Price Appreciation for FOX (NASDAQ:FOXA) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjA5UkhkUTVkMENaOVpYRVNOdFRXazRqTHFwM1dDbEI4WEZiRENVanRLRVZoUVhNdExBWW9sbVlMel9PNE9WR09xQjVQZUdybGZjYzZHa1BHWFIySG9zM3FldEJhMWEzV3FUUzdMMmJVWlh2NDFhNUNFbEo3SWlfQWJXb0xrZE95ODRsUmROZWNKZDgtVzNmM2Q2OGZYNXB6UjZGNkpFdFdiMTlxNVRzeg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Centiva Capital LP Sells 47,298 Shares of Fox Co. (NASDAQ:FOXA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeG94TWV6VVdoUFNEUTBCYW9rSjFpT2tHa0ZFUFQ2SXdURVBNUkQ5dTc0SUFnV3hmMU5iU0lNQ3hQZ0E1MFRIbDBYQmo4d2xySUMwMGZtWFpQbThSZWVsYVc5d21WMElhNWNURWhiVFJKRmh6eFJ4cFo5RzhsRC0wR3dNWEJWV1NydUJfY0JIWjJYVm1HcTRfeU1SaHIzNW5rZnRTTXoxTFh3Ym1PdVpCWFJqVldMdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FOX (NASDAQ:FOXA) Stock Price Expected to Rise, Loop Capital Analyst Says - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR2tkSVQzRU5jQzZ5OHJxazZoUEcyenNYQVRyN0VITmZTZng4cm9jel94Uk9SbjFRaDdpVjZsNlRlRW11b3hfTGY4aGw5dWVUcUlBeWZ2di1yMFBBUkZJR0tXUDlPWm9BeEJtRFRTY3ZMd3FjeERIQ3YyR296UHRwYXlBNEpyeE5RQ25lbjNYaFdYSnEwRHROV1o2N1kwY0s0Y1l1eTFGOV9tUEM2cFVsM1VhT1M4SFV5eE56NmxsQlc?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 44.37
+      },
+      {
+        "date": "2024-11-25",
+        "price": 43.71
+      },
+      {
+        "date": "2024-11-26",
+        "price": 43.81
+      },
+      {
+        "date": "2024-11-27",
+        "price": 44.36
+      },
+      {
+        "date": "2024-11-29",
+        "price": 44.73
+      },
+      {
+        "date": "2024-12-02",
+        "price": 44.41
+      },
+      {
+        "date": "2024-12-03",
+        "price": 44.05
+      },
+      {
+        "date": "2024-12-04",
+        "price": 44.02
+      },
+      {
+        "date": "2024-12-05",
+        "price": 44.25
+      },
+      {
+        "date": "2024-12-06",
+        "price": 44.64
+      },
+      {
+        "date": "2024-12-09",
+        "price": 43.75
+      },
+      {
+        "date": "2024-12-10",
+        "price": 43.93
+      },
+      {
+        "date": "2024-12-11",
+        "price": 43.76
+      },
+      {
+        "date": "2024-12-12",
+        "price": 44.96
+      },
+      {
+        "date": "2024-12-13",
+        "price": 44.72
+      },
+      {
+        "date": "2024-12-16",
+        "price": 44.65
+      },
+      {
+        "date": "2024-12-17",
+        "price": 46.47
+      },
+      {
+        "date": "2024-12-18",
+        "price": 46.53
+      },
+      {
+        "date": "2024-12-19",
+        "price": 45.97
+      },
+      {
+        "date": "2024-12-20",
+        "price": 46.65
+      },
+      {
+        "date": "2024-12-23",
+        "price": 46.61
+      },
+      {
+        "date": "2024-12-24",
+        "price": 47.15
+      },
+      {
+        "date": "2024-12-26",
+        "price": 46.92
+      },
+      {
+        "date": "2024-12-27",
+        "price": 46.63
+      },
+      {
+        "date": "2024-12-30",
+        "price": 46.08
+      },
+      {
+        "date": "2024-12-31",
+        "price": 45.74
+      },
+      {
+        "date": "2025-01-02",
+        "price": 46.24
+      },
+      {
+        "date": "2025-01-03",
+        "price": 46.72
+      },
+      {
+        "date": "2025-01-06",
+        "price": 47.07
+      },
+      {
+        "date": "2025-01-07",
+        "price": 46.81
+      },
+      {
+        "date": "2025-01-08",
+        "price": 46.61
+      },
+      {
+        "date": "2025-01-10",
+        "price": 45.86
+      },
+      {
+        "date": "2025-01-13",
+        "price": 45.94
+      },
+      {
+        "date": "2025-01-14",
+        "price": 46.54
+      },
+      {
+        "date": "2025-01-15",
+        "price": 46.18
+      },
+      {
+        "date": "2025-01-16",
+        "price": 45.94
+      },
+      {
+        "date": "2025-01-17",
+        "price": 45.66
+      },
+      {
+        "date": "2025-01-21",
+        "price": 45.64
+      },
+      {
+        "date": "2025-01-22",
+        "price": 45.78
+      },
+      {
+        "date": "2025-01-23",
+        "price": 46.03
+      },
+      {
+        "date": "2025-01-24",
+        "price": 46.55
+      },
+      {
+        "date": "2025-01-27",
+        "price": 47.7
+      },
+      {
+        "date": "2025-01-28",
+        "price": 47.58
+      },
+      {
+        "date": "2025-01-29",
+        "price": 47.85
+      },
+      {
+        "date": "2025-01-30",
+        "price": 48.37
+      },
+      {
+        "date": "2025-01-31",
+        "price": 48.6
+      },
+      {
+        "date": "2025-02-03",
+        "price": 49.19
+      },
+      {
+        "date": "2025-02-04",
+        "price": 51.55
+      },
+      {
+        "date": "2025-02-05",
+        "price": 51.27
+      },
+      {
+        "date": "2025-02-06",
+        "price": 50.46
+      },
+      {
+        "date": "2025-02-07",
+        "price": 50.1
+      },
+      {
+        "date": "2025-02-10",
+        "price": 50.35
+      },
+      {
+        "date": "2025-02-11",
+        "price": 50.55
+      },
+      {
+        "date": "2025-02-12",
+        "price": 51.45
+      },
+      {
+        "date": "2025-02-13",
+        "price": 52.17
+      },
+      {
+        "date": "2025-02-14",
+        "price": 52.39
+      },
+      {
+        "date": "2025-02-18",
+        "price": 52.75
+      },
+      {
+        "date": "2025-02-19",
+        "price": 53.61
+      },
+      {
+        "date": "2025-02-20",
+        "price": 53.37
+      },
+      {
+        "date": "2025-02-21",
+        "price": 53.01
+      },
+      {
+        "date": "2025-02-24",
+        "price": 54.23
+      },
+      {
+        "date": "2025-02-25",
+        "price": 53.28
+      },
+      {
+        "date": "2025-02-26",
+        "price": 53.31
+      },
+      {
+        "date": "2025-02-27",
+        "price": 52.9
+      },
+      {
+        "date": "2025-02-28",
+        "price": 54.07
+      },
+      {
+        "date": "2025-03-03",
+        "price": 53.45
+      },
+      {
+        "date": "2025-03-04",
+        "price": 52.61
+      },
+      {
+        "date": "2025-03-05",
+        "price": 52.57
+      },
+      {
+        "date": "2025-03-06",
+        "price": 51.5
+      },
+      {
+        "date": "2025-03-07",
+        "price": 51.6
+      },
+      {
+        "date": "2025-03-10",
+        "price": 50.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 48.99
+      },
+      {
+        "date": "2025-03-12",
+        "price": 48.42
+      },
+      {
+        "date": "2025-03-13",
+        "price": 47.12
+      },
+      {
+        "date": "2025-03-14",
+        "price": 48.47
+      },
+      {
+        "date": "2025-03-17",
+        "price": 48.67
+      },
+      {
+        "date": "2025-03-18",
+        "price": 48.45
+      },
+      {
+        "date": "2025-03-19",
+        "price": 49.08
+      },
+      {
+        "date": "2025-03-20",
+        "price": 49.4
+      },
+      {
+        "date": "2025-03-21",
+        "price": 49.7
+      },
+      {
+        "date": "2025-03-24",
+        "price": 49.71
+      },
+      {
+        "date": "2025-03-25",
+        "price": 50.86
+      },
+      {
+        "date": "2025-03-26",
+        "price": 51.16
+      },
+      {
+        "date": "2025-03-27",
+        "price": 50.73
+      },
+      {
+        "date": "2025-03-28",
+        "price": 50.52
+      },
+      {
+        "date": "2025-03-31",
+        "price": 52.71
+      },
+      {
+        "date": "2025-04-01",
+        "price": 51.77
+      },
+      {
+        "date": "2025-04-02",
+        "price": 53.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 47.9
+      },
+      {
+        "date": "2025-04-04",
+        "price": 45.73
+      },
+      {
+        "date": "2025-04-07",
+        "price": 44.53
+      },
+      {
+        "date": "2025-04-08",
+        "price": 43.81
+      },
+      {
+        "date": "2025-04-09",
+        "price": 47.71
+      },
+      {
+        "date": "2025-04-10",
+        "price": 46.01
+      },
+      {
+        "date": "2025-04-11",
+        "price": 45.65
+      },
+      {
+        "date": "2025-04-14",
+        "price": 46.04
+      },
+      {
+        "date": "2025-04-15",
+        "price": 46.34
+      },
+      {
+        "date": "2025-04-16",
+        "price": 44.7
+      },
+      {
+        "date": "2025-04-17",
+        "price": 44.57
+      },
+      {
+        "date": "2025-04-21",
+        "price": 43.95
+      },
+      {
+        "date": "2025-04-22",
+        "price": 44.78
+      },
+      {
+        "date": "2025-04-23",
+        "price": 45.05
+      },
+      {
+        "date": "2025-04-24",
+        "price": 45.74
+      },
+      {
+        "date": "2025-04-25",
+        "price": 45.79
+      },
+      {
+        "date": "2025-04-28",
+        "price": 45.92
+      },
+      {
+        "date": "2025-04-29",
+        "price": 46.03
+      },
+      {
+        "date": "2025-04-30",
+        "price": 46.24
+      },
+      {
+        "date": "2025-05-01",
+        "price": 45.87
+      },
+      {
+        "date": "2025-05-02",
+        "price": 46.17
+      },
+      {
+        "date": "2025-05-05",
+        "price": 45.82
+      },
+      {
+        "date": "2025-05-06",
+        "price": 45.97
+      },
+      {
+        "date": "2025-05-07",
+        "price": 47.32
+      },
+      {
+        "date": "2025-05-08",
+        "price": 46.96
+      },
+      {
+        "date": "2025-05-09",
+        "price": 46.72
+      },
+      {
+        "date": "2025-05-12",
+        "price": 48.72
+      },
+      {
+        "date": "2025-05-13",
+        "price": 51.08
+      },
+      {
+        "date": "2025-05-14",
+        "price": 50.54
+      },
+      {
+        "date": "2025-05-15",
+        "price": 51.31
+      },
+      {
+        "date": "2025-05-16",
+        "price": 51.85
+      },
+      {
+        "date": "2025-05-19",
+        "price": 51.67
+      },
+      {
+        "date": "2025-05-20",
+        "price": 52.16
+      },
+      {
+        "date": "2025-05-21",
+        "price": 50.85
+      }
+    ],
+    "current_price_data": {
+      "price": 50.85,
+      "change": -1.31,
+      "percent_change": -2.51
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

@@ -1,0 +1,646 @@
+{
+  "ticker": "GM",
+  "name": "General Motors",
+  "sector": "Consumer Discretionary",
+  "market_cap": 48427479040.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 6.9958334,
+    "PB": 0.755875,
+    "EV_Revenue": 0.879,
+    "ROE": 0.08557,
+    "ProfitMargin": 0.030840002,
+    "GrossMargin": 0.11969,
+    "DividendYield": 1.2
+  },
+  "technical_indicators": {
+    "RSI_14": 66.93311702125618,
+    "Momentum_10": 11.192052494951,
+    "MACD": 1.0194468220695967,
+    "BB_Percent": 0.9141545897496998,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.9017619584739572,
+    "QualityScore": 0.266139441136547,
+    "SignalScore": 0.5487776771258612
+  },
+  "volatility": 0.0257522517162714,
+  "beta": 1.363,
+  "return_6m": -0.1002285375206847,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 27,
+    "target_mean_price": 53.74667
+  },
+  "news_sentiment": {
+    "summary": "Les nouvelles pr\u00e9sentent plusieurs signaux mixtes sur l\u2019entreprise General Motors (GM), notamment due \u00e0 l\u2019impact des tarifs sur les r\u00e9sultats financiers et les perspectives de l\u2019entreprise.\n\nLa tarification de l\u2019acier a provoqu\u00e9 une baisse des prix des v\u00e9hicules et a eu un impact n\u00e9gatif sur les r\u00e9sultats financiers de GM, qui a d\u00fb retirer ses perspectives pour 2019. La pr\u00e9sidence de Mary Barra et le d\u00e9veloppement de technologies \u00e9lectriques (EV) sont cependant consid\u00e9r\u00e9s comme positifs pour l\u2019avenir de l\u2019entreprise.\n\nUne revocation de l",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why QuantumScape Stock Short-Circuited Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0swY0JWa1VobnRZMFlyV25BU1Y3X2EzUVpSLVVncS1iVXN2MkdoRnhWUk9vcUNBbldJOGpOZnBUMk9Ba1IxSVZOQ00yQjYtSjdLTzZJV044a2NVYjRDc1BhdXBCZDdWTGNzYUVvRGFINV90N3FzOV8tb2xjMkNqZHpWZXdWRkpoZkJDMzN4Tl8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Motors (NYSE:GM) Shares Purchased by Lazard Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaHlkNklybFZNdEg1TnRIMG8xaFVSWVowYUNHaWVtRkItWmVNUE9zX3FVbG9waDd3a1BaR3BXcUVtRXpMQXQwVDRwOU5nNFJlb01CNHFva1k3Y0FfbzNLVkktSGNyY0xmQjZWaUxBZld5T2N1andXRlZzbnMzNHVYdmVubXAtV2NEd1hYTzRkMldsZE1hbnpDTF9hemdVZlhIaEViem0weEE2RGVyeUc3R2d5N0xDNkFuQXhkVUt3M1Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GM Stock Falls After Carmaker Pulls Guidance - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNODJlakhBTkJpclp6ZFBpSTZYOHVsNE5DQmxDejlSaXNsM1NYbGNYZUVfcU1sdGw3TEtDdl9UWklIdEtBNzFFLUhoajhPQ3R5V0M4SklKRjNZYWxhYy1qcHJWYnpoaHBhOFY3bFZDRWtXQ0RGdENUVTdFeFd5cWdBbTdVMlBkcFFpaHhFUXQyc0hwZ2ppQ0F2NldtSkRHX1NxUjBvTm9adWNNbUtjbUhPUDd5Q2UwTW1vSkN1bkl3Vjd2a3F0MlFQTXU3aWNtWTVEN296TFBaN2QtcWk2cG9VTVBBN01ZQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "GM CEO Mary Barra: Tariffs will cost us $5 billion, and prices \u2018will stay at the same level\u2019 - CNN",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0VlRpZUFqT1FaVUg2czJjcWpicGEzSTBGZ1BxZE0xdktPUFdBOU9CbDVMNE9SR2pEWW4wYTdUQmdYNTFoZFVMWnQtMmxIbFJ3WUpHaE5QMVVqV0ljTlZzQ3JkU3pXVUpTU2hxLTFrZlJpaGPSAXhBVV95cUxPOGNNUlpkSGZEVkZBRW9TWkNEZENXRi1kSlN0cEhaYndQVGtWN28tMU9hVUhwcEhLRzJfdjgya1JiMV9fbkhsUTBpbl84emx2QUNTWUFDNmppTWFIczFVQTRFS2JoRlFaNUh6Z1ZMdkFhUk9uS2FwZ1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GM Stock: Mizuho Analyst Raises Price Target to $58 | GM Stock N - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUi05S1VpQnNLbWJUS0VPLUlYZVV3WEZNdDNvQkJGNmhEQkoycnJSTW52aU9xYVcxNXpsRkJTN0V6WUlLREtmeEVJbWVMSkxmUFUybHJtdG5GTnhJVEVuc05aZW1ldUdXYW5yQnNaLURJUXcyQ09xRUpWS0ZkZURoYTdZNXR4Z044RGY2MjRTMXVrY3BXd0lqeFZ2Q0ZuUUdkcmVvRw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "General Motors Seeks to Repeal California's EV Mandate - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPc1drbFdwUkRTTHJhTU9qOHJfeUZSUm5PRGJPQlVqLWE1VVRCYW9RamlsaDdQa1pYbWZUeWstLVg2bUJ6eVktLVVXMXJiS1RvMmN2dklDTTVXQUtOZVNSNjBrbWJqV2xFd3VRdDlDLTktNWRrcDlyTkNzM2RMRDNRYXd1TXRTa3FuNkNHS2xWNDBPbWpsX3NyVm03NlhaWmg4NS0zM3czOWN5cnAxYlJBUzVZOE1WQ3lPdF9oazFCa1RpM3Rqa0Y4SFJxVU9reHctRTJlakprcldYU3M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GM Beats Earnings, Delays Conference Call. It\u2019s Waiting for Trump Tariff Changes. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hOVExMWtaSW5VemtZWnhqaGdlRWpveW9QSWlmY3k5QXRWbkdXMEZSOVo5T2w3OTJMblJZRzl5WmkwcTNpSjEtX3U5aHVVQ2I4NEY4WXg4aUl2d1dhRm1BcVE0WXZ6UHAyNTJaenB6cHRtU2c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "General Motors is said to push for revoking California's EV mandate - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTd3SXJYTDR1WTZ6eXhoU1NNY0cyeHkwMTBWc3hfR0RGczM4NVNPdUtVRzVDRHRPQnVyVkVSclB4MDJXVUxZdFpIVVRIMVQ5UFN3WGR1ZWdubVY5R0R1alRHcWZCS2dtSFRCbFMyWnNfbWxmQVRSZkVzN055c2prLVp0QTRqN1o0ZkRhRm01bDFUX3ZBX3JEeW1fT0V2WGMtTXU2N2Ztcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Motors (NYSE: GM) Price Prediction and Forecast 2025-2030 (April 2025) - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWluWmtvYWNKMlZveUNtbjNRcG94bTBBX0lRVDl0b1V1Sm5IV2ZIV25aNVdZMjliN1RsaWJ2RG1EdkNrbkMxdGJYSVVzQWllVEEta1lEUXZ6ak5jVEgxVWZsMTZwZ3l1ZGV6LV9VTXBwNEN2RHVhUjFUYVp5ZHhSNU5aWTlWRVgzWExiSnE1MnVldjBUcXV1QmxfRHU4UzlQMk8w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GM Earnings: Favorable Auto Tariff Policy Change Should Reduce 2025 Tariff Damage - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFo2Wi1PRC01SEZvNm5kQ082UUFoMWx6QUlzamhOQXFRVTEwN2FXTlJvT2wwSUFvQ3pjZXJwako2Z2F3UTlIQmlxbTlSazF0WU90OXh0R2N6bjRYWE5PaTQ2YzRicmhydmRIa3g2M0hiVjFldTNzVE5wSFZpRnU2V2tseEFlT19FVGo2VlppVlBXOGd0UUZkTGZNYXgxekJRX2ZSSmlWUlZ5UjM0TXBtd29Gel95QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here\u2019s how GM is dealing with tariff uncertainty: pulling guidance, halting stock buyback - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY1Awak5xZ29DQllOTm5YaG1UOC1lTXZBSE9kRzlJMWo3ekNJMXlyVFJEcl92eDdiUVNUNHRacE81QUVKTGUzUjM4UVRHeHIwN2E3TngtWEFqNzctODl6OWwyLUZldU04N3BGT3BUaWhZN0NSeWJXRG8wR1RPQUZrZkJqLXlaM1pDLUdRYnd1N1pzWjVmTFRNa0RSNmJDRmowUGgzd01seWYyZlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trump\u2019s auto tariff reprieve does little to help GM stock after earnings release - Blockworks",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zZnVuRHJnWjNWYWRzeHU2OC1zM2NEZlRCdE5JMEZOOTlNamY3YTF6TzZYZThxVHBCUlFWei1RaXE3QlpBSkFtVFNqV2M0Z3k5UkFkMkVIZGZHcU1OeHJkTkZSUnUySUZQVVh2amZ1NElURHM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "There's 1 Big Reason to Own Ford or GM Stock Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVW93LXlXM0lhc2VYR3hGSFVTUThxSTZkVXd3NzhIbWZnbkVmTVNKMDhSTndkTHhmUEhxdkcwdXVfVzZIT0FSS1loMy13RlV5SG5xa25xZThONm5BUEJpWGZKUnlUVVpxQXJEeWF2RUVQODFvelQ2NDZTY21pYUgwSUNtcVlRZTlBanEwbFRiREhEYVFXM2JF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GM Challenges California's 2035 Gasoline Vehicle Ban | GM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOHRIYVZ4dEhHYno3aFV4VEg1ckNCNmxSdmVIcjRQVXc0elYwWkJOSG15SlZEUGlYY3YxQkdCUHd2SGdZTUtsc0w4Y1NJN1g5aDdKcjFxLWJhV0ZQMWZMQWdQUkxMUlVoS3hnTGxRcHpOdGloVEN0aHM1S3pVOEtBMTVTT2o3WXFzd2loV29mYlJfdVVZcHVZN3V1U3BFQUMyZlVPTzN6TzFEQ3BUZUxyTnNUakhIc0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pathstone Holdings LLC Sells 25,068 Shares of General Motors (NYSE:GM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmhxeHdMR044eFFHdlpBUVdkQUtMMmk3Y3h6NGJRRFQ0WTdrNEhqRjQyOGN5QW1KVnNmTEtqUjB4WG5ub3N5RzhHUzE1czRic2V5VjlpcTZEV2dpSjl1VVpSck45dXdMWVF6dkRUTmdFaTNudzFPUEVJSjcyV20wT2swMkJwWEtUc1Z3WWhRMWRSTnB3a3hucDdGeUhDeVc0akdnMzNmVGs3bUpmMUJhc0dMbkIzMWNrWHhhdA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GM Stock Falls on 43% Price-Target Cut. Auto Shares Aren\u2019t Reflecting \u2018Full Tariff Risk.\u2019 - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkJZTHN2X2tpTGVoZk9LZ05yYzRuZUgwNnZLN2FEdWtZeGJ2czZ4X09icDlCYlVWS29uSzRGb1d3YWg4enkzT3RfUERfMnZBTDJjdjhhRVZlblI1V2pZWmtRQjljazJqeHV3MUl6VWhsaHZIOVlpZFJIWVEzc2Q2M1Q3bGo?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Raiffeisen Bank International AG Invests $732,000 in General Motors (NYSE:GM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPajBLUEFXRC1Tc3lmdVZsRmVHcW5KZ0RpdUFBUE16dmlhSmswU1k0TXFTbk0tQUhCQm9jYW1TTjZnS1VqZ2dnV0pMTDB5RzhRbTJ2VjRpM3FBY0tkMUhXakxYc3pmX2oteEVHdFZ4WFJ2SUR2WE94TE00OFFiNHpxd2pXM0NJUVFZWFJwMzA0RWpJOWoyclJGdlJRT1VUTEtKdm9TS0VhWXpIa0Zsa2p0WGlZeURORjJ5eWZPQ0ZLNzJtTXYy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Great News for General Motors Investors - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUxZdWgyNVJsbUYxOE1KNGRfQkdhb3pFdGxqLXRvNFBpcTM4c0h0Y1FNcVlnNWt4TTVSN1ZHR2tCOGhMeHAyVGNNeDNJWTFKbWhCb21JZHZyakZHTGloMDZValpZNGVOcDRKQW5seHRHVjlkcHRMX3NhSHlPOHd2SnZIUzN6SnFrbEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Did GM Just Kill the Best Reason to Own the Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1V5bk0zYjU2dmR3bkVlWk54cVRicTVRaHFsYU5Tc0U4UW1Sa0xVR0t0MjBQRlpseUFYMjN3XzEzaVZBSWdHbzRMWnJQbzYzcEl2YkxvRkl0aDhEUk52dHRPTGpsMEhCa0FjUzlSNUY2T0JYSXA1eGsxTTVHdnBaenlEOVlyWUUzQW9BV1pvYzdvUnNVX0k4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Motors (GM) Sees Price Target Boost Amid Tariff Changes - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3ZZWVJlSkN1WXVZa0xTaGMwX29GbDBuT3ZoSmFJVGpBVnQ3UjllTmdjWWN2aDRpQ3hJYlpqamZBdHBtTHliaW4wZFJrN29HRVo0NHZwbFAzVHNCREZxQjBWTy1aWWJOZWJQRkZMMTZWdFlOQjJLMHEycXJmQzVqeW8zcHdfai1MOERCRTlZcHp6Uk1LN2FtNDd2UGdjR1FfTkNUZFI0akhVX3VKTFBLTUY2d3M?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 58.53
+      },
+      {
+        "date": "2024-11-25",
+        "price": 60.2
+      },
+      {
+        "date": "2024-11-26",
+        "price": 54.79
+      },
+      {
+        "date": "2024-11-27",
+        "price": 55.5
+      },
+      {
+        "date": "2024-11-29",
+        "price": 55.59
+      },
+      {
+        "date": "2024-12-02",
+        "price": 55.04
+      },
+      {
+        "date": "2024-12-03",
+        "price": 53.66
+      },
+      {
+        "date": "2024-12-04",
+        "price": 53.36
+      },
+      {
+        "date": "2024-12-05",
+        "price": 53.39
+      },
+      {
+        "date": "2024-12-06",
+        "price": 53.41
+      },
+      {
+        "date": "2024-12-09",
+        "price": 52.71
+      },
+      {
+        "date": "2024-12-10",
+        "price": 52.74
+      },
+      {
+        "date": "2024-12-11",
+        "price": 52.04
+      },
+      {
+        "date": "2024-12-12",
+        "price": 52.3
+      },
+      {
+        "date": "2024-12-13",
+        "price": 52.53
+      },
+      {
+        "date": "2024-12-16",
+        "price": 52.24
+      },
+      {
+        "date": "2024-12-17",
+        "price": 51.15
+      },
+      {
+        "date": "2024-12-18",
+        "price": 49.99
+      },
+      {
+        "date": "2024-12-19",
+        "price": 50.34
+      },
+      {
+        "date": "2024-12-20",
+        "price": 51.81
+      },
+      {
+        "date": "2024-12-23",
+        "price": 52.56
+      },
+      {
+        "date": "2024-12-24",
+        "price": 53.51
+      },
+      {
+        "date": "2024-12-26",
+        "price": 54.18
+      },
+      {
+        "date": "2024-12-27",
+        "price": 54.28
+      },
+      {
+        "date": "2024-12-30",
+        "price": 53.66
+      },
+      {
+        "date": "2024-12-31",
+        "price": 53.27
+      },
+      {
+        "date": "2025-01-02",
+        "price": 51.37
+      },
+      {
+        "date": "2025-01-03",
+        "price": 51.77
+      },
+      {
+        "date": "2025-01-06",
+        "price": 53.53
+      },
+      {
+        "date": "2025-01-07",
+        "price": 51.98
+      },
+      {
+        "date": "2025-01-08",
+        "price": 51.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 49.85
+      },
+      {
+        "date": "2025-01-13",
+        "price": 49.93
+      },
+      {
+        "date": "2025-01-14",
+        "price": 50.94
+      },
+      {
+        "date": "2025-01-15",
+        "price": 51.7
+      },
+      {
+        "date": "2025-01-16",
+        "price": 51.84
+      },
+      {
+        "date": "2025-01-17",
+        "price": 50.97
+      },
+      {
+        "date": "2025-01-21",
+        "price": 53.89
+      },
+      {
+        "date": "2025-01-22",
+        "price": 52.76
+      },
+      {
+        "date": "2025-01-23",
+        "price": 54.22
+      },
+      {
+        "date": "2025-01-24",
+        "price": 53.91
+      },
+      {
+        "date": "2025-01-27",
+        "price": 54.92
+      },
+      {
+        "date": "2025-01-28",
+        "price": 50.04
+      },
+      {
+        "date": "2025-01-29",
+        "price": 49.78
+      },
+      {
+        "date": "2025-01-30",
+        "price": 49.5
+      },
+      {
+        "date": "2025-01-31",
+        "price": 49.46
+      },
+      {
+        "date": "2025-02-03",
+        "price": 47.9
+      },
+      {
+        "date": "2025-02-04",
+        "price": 48.57
+      },
+      {
+        "date": "2025-02-05",
+        "price": 47.81
+      },
+      {
+        "date": "2025-02-06",
+        "price": 47.93
+      },
+      {
+        "date": "2025-02-07",
+        "price": 47.39
+      },
+      {
+        "date": "2025-02-10",
+        "price": 46.57
+      },
+      {
+        "date": "2025-02-11",
+        "price": 46.7
+      },
+      {
+        "date": "2025-02-12",
+        "price": 47.69
+      },
+      {
+        "date": "2025-02-13",
+        "price": 47.89
+      },
+      {
+        "date": "2025-02-14",
+        "price": 48.37
+      },
+      {
+        "date": "2025-02-18",
+        "price": 48.13
+      },
+      {
+        "date": "2025-02-19",
+        "price": 47.8
+      },
+      {
+        "date": "2025-02-20",
+        "price": 47.89
+      },
+      {
+        "date": "2025-02-21",
+        "price": 46.29
+      },
+      {
+        "date": "2025-02-24",
+        "price": 46.57
+      },
+      {
+        "date": "2025-02-25",
+        "price": 46.71
+      },
+      {
+        "date": "2025-02-26",
+        "price": 48.46
+      },
+      {
+        "date": "2025-02-27",
+        "price": 47.63
+      },
+      {
+        "date": "2025-02-28",
+        "price": 49.13
+      },
+      {
+        "date": "2025-03-03",
+        "price": 47.38
+      },
+      {
+        "date": "2025-03-04",
+        "price": 45.22
+      },
+      {
+        "date": "2025-03-05",
+        "price": 48.48
+      },
+      {
+        "date": "2025-03-06",
+        "price": 47.2
+      },
+      {
+        "date": "2025-03-07",
+        "price": 47.44
+      },
+      {
+        "date": "2025-03-10",
+        "price": 48.08
+      },
+      {
+        "date": "2025-03-11",
+        "price": 48.28
+      },
+      {
+        "date": "2025-03-12",
+        "price": 47.9
+      },
+      {
+        "date": "2025-03-13",
+        "price": 47.11
+      },
+      {
+        "date": "2025-03-14",
+        "price": 48.34
+      },
+      {
+        "date": "2025-03-17",
+        "price": 49.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 48.67
+      },
+      {
+        "date": "2025-03-19",
+        "price": 49.79
+      },
+      {
+        "date": "2025-03-20",
+        "price": 49.44
+      },
+      {
+        "date": "2025-03-21",
+        "price": 49.8
+      },
+      {
+        "date": "2025-03-24",
+        "price": 51.46
+      },
+      {
+        "date": "2025-03-25",
+        "price": 52.59
+      },
+      {
+        "date": "2025-03-26",
+        "price": 50.95
+      },
+      {
+        "date": "2025-03-27",
+        "price": 47.2
+      },
+      {
+        "date": "2025-03-28",
+        "price": 46.68
+      },
+      {
+        "date": "2025-03-31",
+        "price": 47.03
+      },
+      {
+        "date": "2025-04-01",
+        "price": 47.26
+      },
+      {
+        "date": "2025-04-02",
+        "price": 47.98
+      },
+      {
+        "date": "2025-04-03",
+        "price": 45.9
+      },
+      {
+        "date": "2025-04-04",
+        "price": 44.18
+      },
+      {
+        "date": "2025-04-07",
+        "price": 43.53
+      },
+      {
+        "date": "2025-04-08",
+        "price": 42.48
+      },
+      {
+        "date": "2025-04-09",
+        "price": 45.74
+      },
+      {
+        "date": "2025-04-10",
+        "price": 43.73
+      },
+      {
+        "date": "2025-04-11",
+        "price": 43.63
+      },
+      {
+        "date": "2025-04-14",
+        "price": 45.14
+      },
+      {
+        "date": "2025-04-15",
+        "price": 44.54
+      },
+      {
+        "date": "2025-04-16",
+        "price": 44.22
+      },
+      {
+        "date": "2025-04-17",
+        "price": 44.57
+      },
+      {
+        "date": "2025-04-21",
+        "price": 44.39
+      },
+      {
+        "date": "2025-04-22",
+        "price": 45.16
+      },
+      {
+        "date": "2025-04-23",
+        "price": 45.84
+      },
+      {
+        "date": "2025-04-24",
+        "price": 46.88
+      },
+      {
+        "date": "2025-04-25",
+        "price": 47.11
+      },
+      {
+        "date": "2025-04-28",
+        "price": 47.24
+      },
+      {
+        "date": "2025-04-29",
+        "price": 46.94
+      },
+      {
+        "date": "2025-04-30",
+        "price": 45.24
+      },
+      {
+        "date": "2025-05-01",
+        "price": 45.05
+      },
+      {
+        "date": "2025-05-02",
+        "price": 45.3
+      },
+      {
+        "date": "2025-05-05",
+        "price": 45.38
+      },
+      {
+        "date": "2025-05-06",
+        "price": 45.46
+      },
+      {
+        "date": "2025-05-07",
+        "price": 45.47
+      },
+      {
+        "date": "2025-05-08",
+        "price": 47.35
+      },
+      {
+        "date": "2025-05-09",
+        "price": 47.5
+      },
+      {
+        "date": "2025-05-12",
+        "price": 49.61
+      },
+      {
+        "date": "2025-05-13",
+        "price": 50.46
+      },
+      {
+        "date": "2025-05-14",
+        "price": 50.31
+      },
+      {
+        "date": "2025-05-15",
+        "price": 50.12
+      },
+      {
+        "date": "2025-05-16",
+        "price": 50.37
+      },
+      {
+        "date": "2025-05-19",
+        "price": 50.03
+      },
+      {
+        "date": "2025-05-20",
+        "price": 50.21
+      },
+      {
+        "date": "2025-05-21",
+        "price": 49.37
+      }
+    ],
+    "current_price_data": {
+      "price": 49.37,
+      "change": -0.84,
+      "percent_change": -1.67
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

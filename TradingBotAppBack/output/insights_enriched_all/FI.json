@@ -1,0 +1,646 @@
+{
+  "ticker": "FI",
+  "name": "Fiserv",
+  "sector": "Financials",
+  "market_cap": 92401967104.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 29.497345,
+    "PB": 3.5799286,
+    "EV_Revenue": 5.81,
+    "ROE": 0.116780005,
+    "ProfitMargin": 0.15684,
+    "GrossMargin": 0.60967,
+    "DividendYield": null
+  },
+  "technical_indicators": {
+    "RSI_14": 34.44393031657437,
+    "Momentum_10": -9.605679841680024,
+    "MACD": -8.481996259148957,
+    "BB_Percent": 0.141370902526599,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.882076780956186,
+    "QualityScore": 0.39128550184332,
+    "SignalScore": 0.8134236686378467
+  },
+  "volatility": 0.0296503666950673,
+  "beta": 0.972,
+  "return_6m": -0.2166024285100216,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 34,
+    "target_mean_price": 224.15382
+  },
+  "news_sentiment": {
+    "summary": "Fiserv (FI) maintains a buy rating despite a target price reduction, with a focus on Clover payment system growth. However, recent reports indicate that Clover growth may remain flat in Q2, causing a stock drop. Despite this, some analysts see this as an opportunity for buying. JPMorgan recently adjusted the price target for FI and maintains an overweight rating. Fiserv's Q1 results were solid, with strong margins and client wins, but the stock continues to slide. Overall, concerns about Clover growth seem overblown, and the stock is expected to recover.",
+    "sentiment_score": -0.35,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "Fiserv (FI) Maintains Buy Rating Despite Target Price Reduction | FI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRW5XQVhMNmN0MFduRGlqMC1iSG1oSXMzRkFtRVp1cExiLXJRZEg5ZmF5SUtLOXlHR290Rk9QcktCMVdSdVlWMFpENlgtS1o4dlNKX0F4dnRnbGRxYWpyZDFCS2VLSXZkeDNnRTM4eUxyaHNUSVJENVJRVk5iMlhxRm51QVpUZHVnT3cxRmJWTmJ0OVlEdVR4TlNhNUxpZm5UNC1Mb0FmNzl2c2h4WnlxTm54bm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fiserv stock slumps after CFO comments on Q2 Clover volume growth (FI:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2FGOHBObTZuWk9zWE9mVDY1eVpveTNXWHp3UGhvQTZPbFZKd1FRbjQwWGNwelhQVFZJTTFEWGRySi10aVlGc3hJd2dmTzFlekM2MHhxSkJrOXNZcnYzZWJRdkZHbFBsc2pLVGEtNzhqVV9tLUR1M1M0Ymd2amdyZ1ZiNUczLWIzNHgxVFV1eHhvV1I4SThiZW1TRFAtWkpGdnRrU0RR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fiserv Stock Slumps as CFO Says Clover Growth Will Likely Remain Flat - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUpmaEU5V0FyNHcyRGdIMWhwS2U0ZnZLZEpwOFNUaW9pMGhwVzA2eGtRMEJWLVlhd1VzdWxIeWNxcUh5emZkUS15eW9wVnBjQlRmSHRXWkhhWTduTnRCcnVZc2lkTWlXNm92aTJBeHZSQUhubVlJVjVTcER3QjRXdURXejFOVlU2MXJrZ3JUNlhJZHdPYUFSR1lGOWhRSC1sMG1vZmQwcVliRUU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Fiserv (FI) Stock Crashed Yesterday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pV1RMNXpET0JoVk5EbDZ1UFF0dGZNZlBIcjgzaGc2NlJ0N2RKRnZiUXA2S0JhcTctX3ZlMFRYTkJsc2pfVnpGSGc5eHBXdXVXZHRlYjJNdTN5WWpONmRJdTdwZjUzcUNxV2hiVWxTZ1J1dnA1M0NSZG9xRmpXZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Clover Unveils Game-Changing POS System That Eliminates Restaurant Check Wait Times - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLWJfX0ZRQm83V3pXQVVmSzV1cklSdXdCeEhFMEt0TUgwTGtzSlBCaWdrMzZLOVNfUGI0WkxFMlhSeU5TbmpUdkstYXBOU3d3R1lpejM0czN0RERtRHA5dVM4OU1zdGVDWWJ5NEJVR2k1U002UDdxWjFxeUpxUHZnSk85Q3FJeUJZaTkyTGU4R2JoMy1qOG1FR0pleWhHZmRIcjY5QnFaYk9oTlNFS2hQYmExZHhJVi04ZVFmeG93?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Selloff \u2018Seems Overblown,\u2019 Says Analyst After Fiserv Stock (FI) Fiasco - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ1Rlc0swa2RpR3NVd096NTF5OGh0NGYzX09IUmUxWkVtRjVVWDUzUk5nTGZFS3MtRXgtZ3lHbFBGSU5hbVk3S3ZSX0hpSTVGNWRLNWxKc1oxOGNpRG1aZFpORnQwbnNnRm9VaVVNMXhRS1daTjNiQ0hTdnIzNExHWTVoMEZRYUEzVkhDOGtNZTlRLXhVRzAzbHJVYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fiserv stock (FI) plummets after CFO says growth will be flat - Investorsobserver",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHdHQ2dHSUwxbi0wSmU3NkF4M1dwNG9HWVVPb2FVOFk0cTVUV2ptQ1dCZTZKSWpMZTQ0V1FuSXBaa19VQzJXdzdwUzZlaFNqdVBUUW83dUVMWHRjZEY2Wjk3SHRFTDlydTJpSWFZNlprbmR2NXVmWUVjeXZNVlY2TXlKdlVSWFB2cUFXU0RQeEoyRW45SzU0UmNCMzVGeFU0RzhLbUFEQjloMzYt?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "New Buy Rating for Fiserv (FI), the Technology Giant - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZy1DZWJWamRraVhkUl9URmNxeEVlc3lQLTNaLVhkbWFCTHItY0tCYVRPeWJrTEJrZW9MRk5UYkttNV9QY2Vrd3FTOEZkYXNlekhvQWRLOHkxeWQ0Um5sN3Z2VWt5NVZwZnNLX1BlNVY4M01GU2p0Sjdyd2RPVmNmWWl0anI0YldKZlF5V0hPTG1sTWFDRHpLTGc1ZjJ2VjdSQkUzcEpHT3hFUkVzMXRJdkc2QWVvVFM1WUtlZWp0RXliWV9NQkQzc3RUMFpiUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fiserv Stock Hit A Record High In March. With Market On The Upswing, Can It Do It Again? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRkhHYnVkU2NsZUYxaS10TmRhbmZ1elBOaDROXzlXZGVPOVpEOWdmWmR4WXZJWGVuQ2FjMDRqeGp1eDJXR1BYQjM1Z1J0N2VZWHV3TUNwSkg0R3NJSXdOMzRVNkRGVTZmak42Y2FPUDJlakRHUXNIQ3BuWHg4c0FXaHM4clhoc01HNWpVN1J1QXhQaVhQMS1JQmt3cVVfZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SA analyst upgrades: AMZN, IBM, ORCL, COIN, BABA, FI (AMZN:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTdfX1RPdEdMZ0VGQ2NrWU1WWFFCT1IzdUVLZHNUQkxDSVN1RU5yeGU1YzdmSWpocUJpMktMNE5WNU96N25KeHJ4ck9jWUwtbm9zaE9IMjZmUmY2dkhTM0Yybk4wY3NjWHFiNnZEeFNLMEU0RmZ0TFFuZmw3YUZWX05DdmFEUmx1NjB0aA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JP Morgan Lowers Price Target for Fiserv (FI) with Overweight Rating | FI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFZVbkhmeWI0MEhjZjQxak9VSTBVV3dNRkF4Z2hhYjFqaWNNeFp1SmRWN19xcUozOWsyblJzRm9KV183T2xYVXNrN3lVMlV0emhFTV9GdmdYZUZnYWZTSlI5TFNiVmpwRUlJeGhYWkd3S2pFT1daWl9aXzhlbUp3WDFVVjVzT2lsY0FselAzVXY4TWdsNWtQTE04T3V4RTZlNmRPT0tRSjlhMkQtYnBDTnBKY3B5cDVtbVpR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fiserv, Inc. (FI) Stock Forecasts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjlaYUVETWF5STczZHZSS0Y1SUh6ZU8zMDhEaDJERm93R1lSeDB1OGRUbFQ0NlVFNXlGb3FrTlgzcG9ocTNqRHQ4Y2tzbHdKRG5UcURtUG5kbWFNOE5NTmZiUEZNNm1JVk1NRjJ6NkRzM3IzaUxURVRCWDhhVTV3X1hXOEltT203RnZSZg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JPMorgan Adjusts Fiserv (FI) Price Target and Maintains Overweight Rating | FI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdVcwWWluemxJc2wtM3VTdE82VkdQVnRJRzZDeVFkQnRCVEVWSXZTNUt0MXo1enV1Y3RNS3dpZHlJTUJTc3N4TmxUbVR1QVV2WW1FeEdIT1ZabnZSWFk3akJFMWJDcDdSbkRhcWI2SnlGMlNUcWhRN2hUUHdGbWQzbDVuYno3QTFJZVJIWnVGTkNTQWgtR18zSmVSMDZvbGJ4MndZaXJDVks2eXRabjFSWHVnRXpoU2RDN2JVNFZ3anlmcTNtMmFtcll4ckh5aGtFR09Sa2Y1NDdpZUxGSDYzQU10aFRiYWYtMmw1MDJ4UFNZMGJmMXJzSDdxN2N4OGRMNUF1ZUdaak96QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fiserv stock plunges as Clover growth softened in Q1 (FI:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTZyd1A4QlJOcFdCaWYwXzh3T2hUVUlsbkRfN3Bkd2FzcWVkcDhWU3JwSjAyaWdnVUt0cmdndmZCNHNjU1BzQ1ozbTIyelc1M21IUDdJMUpHcy1OeVBndTVUU3RhTTJ4WUpyNlRtSW5XZlg1ZW1oUW93b0tkNV80dGJrQnpkS2pzdzNPNW5iZEtmMHc1?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fiserv (FI) Stock Drops 12% Amidst Concerns Over Clover Payment System Growth - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW9jZ1oxZURfaXBJVmkxMUtFcmxNRkc4UnlzbkN0WWpOeW1NNEd4bkMtT0xqWlZaZ1dEMWpLSjVOWHVDMTdqU3dFUE9USE1JRTUwYWJoX2lDODVhVkRSWE9NdHBTWHh1aEpmY3hRWFphSVVaaVA0dThCOVlleEk0MEc4NlMyTkppbVZSWl9MUmRGbjduRmhfczhYLWZSLV9sWlFVc09GSDBzdFBuVzI3cW9HUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fiserv: Clover Growth Scare Offers Buying Opportunity (NYSE:FI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWG1pTW1fOEVFTlNaazRlM2xDNEhNdXI4SG1ENEFWTnVfY3FtdTBXZF8zam1OX0tPN1ByTllhb0M2bzdYSVl1alVCcGV5Xzhfay14eVRFUHJKNWZGQllnbTYtTXY5NFNLMi1oVmViWWRDVjAzQngydERFRU1GdHpVdE5hWUEwQnV6bTdyc1BmUm5CcllGMUV1LQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fiserv (FI): BofA Sees Opportunity Amid Clover Confusion | FI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDU5dFg2bWJfQktTb1ppZmdCMU5EOEE5X0lsWHlQQzRQRldINHNlSVZMdVZPNk5TekNHTG93bGlnbmhCckJ4WXl5LTFIOUhOSHFRYUJ0S3FlWWhMSEw4bXZyNWUwajI2M2psbElmQnRsUVZQNWQ3cE1OTlp6VlVtYlhTRXh0UWhBbWRwWTVPZWZsSHZGSzk5SVdxR0RjY1ZuRTJ6SVhMY2Nidw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fiserv Delivers Solid Q1, Strong Margins And Client Wins, But Stock Slides - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZG4zLVQ4N2J0UUcxaWRJLVZyRFVRazhZQ2F0eTk2UlRZQ21Wd3dKTXhfaXdoT2pEMTBYMXhVY29BUUFwSXVpVGJkOUIzdGN0czVUMHRHejd3TmI0aTNZSVlEZlBJaE5KX1dQM01nRTlqZE9SY2Fwd2g2Qml3VFNqMjB4QWxLQk0zRDg2eDM0WVQwdC1CNkFHNnItSlM0WUVlUXE5VmxzSXBieE1fVGdoWVZmTFpvTW9GMWE0M1VSZVo2SmxN?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fiserv (FI) Faces Market Reaction Despite Steady Clover Growth | FI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGtnT2pyc21jeld1bzBIOWQyUENleU1ocmxsOU1JbVR2V3ZIYWdicVRZcjZ5djBiTFB5M1dzcGRWWlNEa0YxSDY2RjVlN2JqbEtuZ01WOGVFXzhCcll6WVF0azRGbDlIak9zUEF1OFhCV2lUVlZZaGFGYVZfREdPTE4wNzJpdEFMZzhuWHM2MGVFWV9zRHdJRFRwQWNWVzBUbDloN1VXOC1fRDhIRnl6NG5mTWY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why We're Not Concerned Yet About Fiserv, Inc.'s (NYSE:FI) 25% Share Price Plunge - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQThYT0RhMEN1QkxEbTZZZlYwRGpaOE4zYnlIREJHVEs1a2NCLVY2QkpnRWFZZ2MwNy1ZQ0RMZ0pYS2oxUGhVWEloYzVZbUptdzJ2UmpHalp4YlFKdVh0eDQ1WnRid045WllYYjVsdmRTbmRSYmY5UW56YU8zNW5pVThEWUdIbF90Q1BWd3JqNmZZLXI5LTZ3Q3JRblQ5WDZjcjViMDZMQlRMdFVtbmRZRGtrMm80SFU1bDJBRmRGb2VUdjV3QVZOVlJ6a01QNTFz0gHWAUFVX3lxTE9PWDZQZmV6MDdGOFcwcEgwSDBiSFloX0pRSm0zcm9YZzk3MmdMZHh4azlzeUtLTWFZZGd3b2hzY2RqbEFkQlpqbWp3MFV4MG91U0htYWFHTXNSdHF5a3ZzZ05INkRCWkxNNXRKNzJrakVvcHlhM0tjMTZ1VU9XWTZNNTB6cFFLbGZFakxDWlBFSmZGMV9HcWQ2bFktYVc4eXFFanY2RGFOa1RSdTQ3Tl8wQXNXcTFBb3ZUcUswT3doQjRpT1prTXRJTEdPNENnYnBtS0loYkE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 221.56
+      },
+      {
+        "date": "2024-11-25",
+        "price": 221.76
+      },
+      {
+        "date": "2024-11-26",
+        "price": 222.45
+      },
+      {
+        "date": "2024-11-27",
+        "price": 220.59
+      },
+      {
+        "date": "2024-11-29",
+        "price": 220.96
+      },
+      {
+        "date": "2024-12-02",
+        "price": 218.51
+      },
+      {
+        "date": "2024-12-03",
+        "price": 215.38
+      },
+      {
+        "date": "2024-12-04",
+        "price": 215.85
+      },
+      {
+        "date": "2024-12-05",
+        "price": 204.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 207.28
+      },
+      {
+        "date": "2024-12-09",
+        "price": 202.89
+      },
+      {
+        "date": "2024-12-10",
+        "price": 201.54
+      },
+      {
+        "date": "2024-12-11",
+        "price": 203.96
+      },
+      {
+        "date": "2024-12-12",
+        "price": 204.85
+      },
+      {
+        "date": "2024-12-13",
+        "price": 204.66
+      },
+      {
+        "date": "2024-12-16",
+        "price": 203.38
+      },
+      {
+        "date": "2024-12-17",
+        "price": 204.15
+      },
+      {
+        "date": "2024-12-18",
+        "price": 201.76
+      },
+      {
+        "date": "2024-12-19",
+        "price": 202.26
+      },
+      {
+        "date": "2024-12-20",
+        "price": 206.05
+      },
+      {
+        "date": "2024-12-23",
+        "price": 206.71
+      },
+      {
+        "date": "2024-12-24",
+        "price": 209.45
+      },
+      {
+        "date": "2024-12-26",
+        "price": 210.29
+      },
+      {
+        "date": "2024-12-27",
+        "price": 207.95
+      },
+      {
+        "date": "2024-12-30",
+        "price": 206.27
+      },
+      {
+        "date": "2024-12-31",
+        "price": 205.42
+      },
+      {
+        "date": "2025-01-02",
+        "price": 205.98
+      },
+      {
+        "date": "2025-01-03",
+        "price": 208.57
+      },
+      {
+        "date": "2025-01-06",
+        "price": 205.63
+      },
+      {
+        "date": "2025-01-07",
+        "price": 203.82
+      },
+      {
+        "date": "2025-01-08",
+        "price": 205.23
+      },
+      {
+        "date": "2025-01-10",
+        "price": 200.51
+      },
+      {
+        "date": "2025-01-13",
+        "price": 201.53
+      },
+      {
+        "date": "2025-01-14",
+        "price": 204.47
+      },
+      {
+        "date": "2025-01-15",
+        "price": 204.25
+      },
+      {
+        "date": "2025-01-16",
+        "price": 206.26
+      },
+      {
+        "date": "2025-01-17",
+        "price": 208.58
+      },
+      {
+        "date": "2025-01-21",
+        "price": 208.98
+      },
+      {
+        "date": "2025-01-22",
+        "price": 209.45
+      },
+      {
+        "date": "2025-01-23",
+        "price": 206.49
+      },
+      {
+        "date": "2025-01-24",
+        "price": 208.84
+      },
+      {
+        "date": "2025-01-27",
+        "price": 213.13
+      },
+      {
+        "date": "2025-01-28",
+        "price": 211.72
+      },
+      {
+        "date": "2025-01-29",
+        "price": 212.51
+      },
+      {
+        "date": "2025-01-30",
+        "price": 215.91
+      },
+      {
+        "date": "2025-01-31",
+        "price": 216.04
+      },
+      {
+        "date": "2025-02-03",
+        "price": 216.62
+      },
+      {
+        "date": "2025-02-04",
+        "price": 214.22
+      },
+      {
+        "date": "2025-02-05",
+        "price": 229.53
+      },
+      {
+        "date": "2025-02-06",
+        "price": 231.24
+      },
+      {
+        "date": "2025-02-07",
+        "price": 230.06
+      },
+      {
+        "date": "2025-02-10",
+        "price": 230.65
+      },
+      {
+        "date": "2025-02-11",
+        "price": 229.89
+      },
+      {
+        "date": "2025-02-12",
+        "price": 227.73
+      },
+      {
+        "date": "2025-02-13",
+        "price": 229.87
+      },
+      {
+        "date": "2025-02-14",
+        "price": 230.6
+      },
+      {
+        "date": "2025-02-18",
+        "price": 236.28
+      },
+      {
+        "date": "2025-02-19",
+        "price": 236.34
+      },
+      {
+        "date": "2025-02-20",
+        "price": 234.43
+      },
+      {
+        "date": "2025-02-21",
+        "price": 232.34
+      },
+      {
+        "date": "2025-02-24",
+        "price": 232.09
+      },
+      {
+        "date": "2025-02-25",
+        "price": 232.38
+      },
+      {
+        "date": "2025-02-26",
+        "price": 229.71
+      },
+      {
+        "date": "2025-02-27",
+        "price": 231.58
+      },
+      {
+        "date": "2025-02-28",
+        "price": 235.69
+      },
+      {
+        "date": "2025-03-03",
+        "price": 237.79
+      },
+      {
+        "date": "2025-03-04",
+        "price": 223.92
+      },
+      {
+        "date": "2025-03-05",
+        "price": 225.96
+      },
+      {
+        "date": "2025-03-06",
+        "price": 219.95
+      },
+      {
+        "date": "2025-03-07",
+        "price": 218.04
+      },
+      {
+        "date": "2025-03-10",
+        "price": 214.62
+      },
+      {
+        "date": "2025-03-11",
+        "price": 213.41
+      },
+      {
+        "date": "2025-03-12",
+        "price": 211.33
+      },
+      {
+        "date": "2025-03-13",
+        "price": 209.45
+      },
+      {
+        "date": "2025-03-14",
+        "price": 214.61
+      },
+      {
+        "date": "2025-03-17",
+        "price": 218.16
+      },
+      {
+        "date": "2025-03-18",
+        "price": 216.94
+      },
+      {
+        "date": "2025-03-19",
+        "price": 220.35
+      },
+      {
+        "date": "2025-03-20",
+        "price": 221.79
+      },
+      {
+        "date": "2025-03-21",
+        "price": 218.09
+      },
+      {
+        "date": "2025-03-24",
+        "price": 221.79
+      },
+      {
+        "date": "2025-03-25",
+        "price": 222.62
+      },
+      {
+        "date": "2025-03-26",
+        "price": 221.69
+      },
+      {
+        "date": "2025-03-27",
+        "price": 219.18
+      },
+      {
+        "date": "2025-03-28",
+        "price": 216.13
+      },
+      {
+        "date": "2025-03-31",
+        "price": 220.83
+      },
+      {
+        "date": "2025-04-01",
+        "price": 222.01
+      },
+      {
+        "date": "2025-04-02",
+        "price": 226.15
+      },
+      {
+        "date": "2025-04-03",
+        "price": 216.9
+      },
+      {
+        "date": "2025-04-04",
+        "price": 198.6
+      },
+      {
+        "date": "2025-04-07",
+        "price": 198.44
+      },
+      {
+        "date": "2025-04-08",
+        "price": 195.59
+      },
+      {
+        "date": "2025-04-09",
+        "price": 210.38
+      },
+      {
+        "date": "2025-04-10",
+        "price": 204.38
+      },
+      {
+        "date": "2025-04-11",
+        "price": 208.14
+      },
+      {
+        "date": "2025-04-14",
+        "price": 212.24
+      },
+      {
+        "date": "2025-04-15",
+        "price": 212.83
+      },
+      {
+        "date": "2025-04-16",
+        "price": 210.11
+      },
+      {
+        "date": "2025-04-17",
+        "price": 208.66
+      },
+      {
+        "date": "2025-04-21",
+        "price": 207.46
+      },
+      {
+        "date": "2025-04-22",
+        "price": 214.29
+      },
+      {
+        "date": "2025-04-23",
+        "price": 217.1
+      },
+      {
+        "date": "2025-04-24",
+        "price": 176.9
+      },
+      {
+        "date": "2025-04-25",
+        "price": 177.53
+      },
+      {
+        "date": "2025-04-28",
+        "price": 178.03
+      },
+      {
+        "date": "2025-04-29",
+        "price": 185.29
+      },
+      {
+        "date": "2025-04-30",
+        "price": 184.57
+      },
+      {
+        "date": "2025-05-01",
+        "price": 183.02
+      },
+      {
+        "date": "2025-05-02",
+        "price": 184.37
+      },
+      {
+        "date": "2025-05-05",
+        "price": 185.5
+      },
+      {
+        "date": "2025-05-06",
+        "price": 184.95
+      },
+      {
+        "date": "2025-05-07",
+        "price": 182.19
+      },
+      {
+        "date": "2025-05-08",
+        "price": 181.39
+      },
+      {
+        "date": "2025-05-09",
+        "price": 184.07
+      },
+      {
+        "date": "2025-05-12",
+        "price": 186.82
+      },
+      {
+        "date": "2025-05-13",
+        "price": 191.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 189.86
+      },
+      {
+        "date": "2025-05-15",
+        "price": 159.13
+      },
+      {
+        "date": "2025-05-16",
+        "price": 166.66
+      },
+      {
+        "date": "2025-05-19",
+        "price": 169.14
+      },
+      {
+        "date": "2025-05-20",
+        "price": 165.87
+      },
+      {
+        "date": "2025-05-21",
+        "price": 162.22
+      }
+    ],
+    "current_price_data": {
+      "price": 162.22,
+      "change": -3.65,
+      "percent_change": -2.2
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

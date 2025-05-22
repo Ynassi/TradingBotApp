@@ -1,0 +1,634 @@
+{
+  "ticker": "7203.T",
+  "name": "Toyota Motor",
+  "sector": "Consumer Discretionary",
+  "market_cap": 34438910050304.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 7.3476253,
+    "PB": 0.959832,
+    "EV_Revenue": 1.274,
+    "ROE": 0.13283,
+    "ProfitMargin": 0.0992,
+    "GrossMargin": 0.18174,
+    "DividendYield": 3.55
+  },
+  "technical_indicators": {
+    "RSI_14": 48.54214067978133,
+    "Momentum_10": -3.1696592158299746,
+    "MACD": 31.2534523313966,
+    "BB_Percent": 0.461349736291771,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.9004044861810901,
+    "QualityScore": 0.4018718901327823,
+    "SignalScore": 0.7037528769408326
+  },
+  "volatility": 0.0240917959911259,
+  "beta": 0.248,
+  "return_6m": 0.0052513490585892,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 20,
+    "target_mean_price": 3088.3574
+  },
+  "news_sentiment": {
+    "summary": "Toyota's share buyback plan and increased dividend reflect the company's concerns about its market position in the face of global trade tensions and rising demand for hybrid vehicles. The company's share price has been under pressure, with insufficient growth hindering its performance. Toyota lost over $15 billion in market value last week after being caught falsifying tests. The automotive industry as a whole has been impacted by the trade tensions, with shares of Asian automakers falling and US stocks struggling. The global economic outlook is uncertain, with concerns about trade, growth, and interest rates weighing on investor sentiment. Despite these challenges, some analysts view Toyota as an attractive investment opportunity, citing its strong financials and market position.",
+    "sentiment_score": -0.35,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.35,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 5,
+    "headlines": [
+      {
+        "title": "Toyota to launch $5.16 billion tender offer for own shares - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2UtVE5Lb05qOExheDhFWk5HYlBZMlpoM2Roek1JU293c3RzTk8tNVo4ZUwzeUkxMU9US3BRamxCVm5GaUN0T1lCMUgtVW5MTHo3ODRkemxadFJJY3pRR1Rub1hzT2YwQmtSZ1lrTkR6UTc0M0JTc25nbVVucHhQX3RhWnVXOGQzdFdxU0dreFE0MlVBbFhmejV5QmhfYkNHWExaQThndmFjcHRVNHlSMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toyota predicts $1.3 billion hit due to U.S. tariffs - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2t5TVZmOHJ4WXpSUkNKUXdoSnZ0MUVKZF9NbW9nRGVnLUwtLTczdVJEZjBuY0tGNF9pcHlib1BORWwwYkRfcVlsMjZ1VEVXempTWGJYSkJxNjVXWF8wSHpadkF3b0ZUM2NTcGY2WUJBbDdwUGJPU0lpOUFvRUl3eGtqZF9TblFhYnpjZTJkLUl5WjlHQmEtOTZaVnRhQ0JQQ1doQlNBNUNPZGlieU5v?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Returns At Toyota Motor (TSE:7203) Aren't Growing - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcEdmLVVENVBnQms2THdzaWZsN25JYUZpeGh0N01USFpsU0dKMGZLNXBwZ1M5OTNaeGsyU2EwN3FOOGFxQ2oxNEJOdmZEZEFiT1lkX1c4VTg5SkdvZkZnVjJkX2lpb3ltaVRYd2t4dnpZOXZGVHoybk5nVjZfLVhRazVqQjFKaVp3NnJMYXJYMnNScHlJcjhaOEMzeXBhYWtuVFFSQlFTemo3SmNOblgxRVJ0Q0JyWnJybnJnTjViV0FIYVF1TEHSAcsBQVVfeXFMT2tNUWpoTi1POTA0c2gxM2tKX25aZm0zcHNuNW1jWlJ5dDZhLVlMcnFUYlBlOWhqT2lSNkZDTlFiUk15UDNyaDZwcFQ3UU90Tnd1RzR1V0FVMWtBWU9zc1BqTTBSb2V4QlZqWVpYakZqSzU0dU43T05jQUJucjVRNnJEX1BjbXVlUW1HUXBVanpteEF5aTlTODJzemRRZFBVTno3R01JUDUxc3BlemRiVjZBbU1MLUdKbzRLZmY2bWI0RGRlbnlUU2ZPVHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla's market value tumbles below $1 trillion as its Europe sales slump - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN053Qy1TNDlka2pqTmxpajdYY2ZfekFTeHNmY1hEYkQ4TDlLZ3d6RmpMdTNpN3p6NjhaaHpSVURxSUVsbEVyRzFTcVFtU19ZMGcwMTg4dmZ5ajdOS1hhbmZPMC1XeUcwSE9OcG9kazZ0SnpmdkJkWExvSFhxUFpTRmE5cjB5SjJXbDBLWUFFbEhIMjBld0RZbGFUV2FYdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Shares of Asia's automakers fall as Trump announces 25% tariffs on car imports - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc24xQXY3bjBWQVdHQTlUV3E3YXVZQ1VyZFA2MlAzbEtEMzh1MUpGdEpUNWdQcThRMzNpczRYOVFSYTZjejJ6dGtCY1lHVG1pcVR0SmcydmJ3ODN6STNlVmpHVFZ5TWE1dGEzYXlzT3ZpNThHNUNiSjVjb3FtY1RGNTJhR25kdG93aTlXZ0hIaVRaaVc4OXd3Q3Nsa0FhVkpKWGpHSnlDdkMwRDBN0gGyAUFVX3lxTE96SUVjX055dG44VTZ1dkdLYWxEYVdVdW42WS03eTgxbGx0OVd1cC0tNU8wZ2piei0wYUxHWUlLZ0oyWlpVSkRrY3YwNlhQSk93MVgyNjhmOGdsOUZGVWh5cUVaZVpxS2ota0xTbnYtSHk3UkdrN3ZsQkNya0VreThGR0Nrb0hmVk40V1AycTBqLXplajBkVFIzNnFTd1QxcEE4N2VKQXdSYWhQT3BKNHNOWXc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan\u2019s Nikkei Stock Average Ends at 2-week Low as Automakers Slump on US Tariff Worries (Update1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbWV2X1pVMmtUSWRSQkFLb1F4WTBCMXJDTUs1R3dMZjJrVGtOOGdyazREblJmS3JOaHM1eXdMOGd0QkFmVDhyWERYTndzQVg4dGNGcHRRZDdEemFsYmdST0FlUVBHc0R6X3dVY2pKTWdNLW1oVXB3S2Vn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stocks struggle, gold at record high as trade fears weigh - KITCO",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFZQNWlWRG1JTGxCc1RUTFpXcFZzZFkwQXd1ZWh6NllZdUphWEdIajR6c1loZlMzNUJERmpsQWxYZUk3R19nTUJyVkpoU0FkY3VZYmJ2R0oxMll5cnY4cHdOVU5oNS0weHdESWl0Y0tjSjVIb2ZlcEZGam91ajItekU5X1d2TmZoVGd5LWhoVm5xa2F2ZFVtakZxenVETWpPbFhZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Toyota Motor (TSE:7203) Is Increasing Its Dividend To \u00a550.00 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNE9QUW9ISXJna3JEcTlBUXlGeHVabFo1LThHSnB3c2pQY2JvNXBITUw1QWdkNTltVHdVT2M2LUJGX1dTc2piSnoxZ2Jkc3ZrOUZhcWE1dkhoOEdBZU94alpUVFEtekpleU8zbkRRM18zWExTZzN1dEIzWmpjYmlZTnVjSDhubEhfSHlGRkZVVk5fMGEtdUxLb2RwQzJzOFdPcmpVM1ZDMnZkTUdCNDIzU0hYakIzZXpRYnlSQXhTTTllZjNlU2tpbE43UTkwZ9IB0wFBVV95cUxPZmx6b1BNbC11MXJ0LVh6U01nRWdVYUZUOWFmZlFRM0d0S2R6UnJIaGZUTXRhZWpiU0JUcVgtMHFaRW04TmU1SllvUkFkZUdJWFZPNHB0YTNRQjRhZjRVWmxURTVaTFBZQlh1Tnc1dS02SDd0TmdfT293N2E2UUctbXAtbmhPRGctNHNlczhaQlZPZWxhM3J6SFlNdG5yUmZJbEdpSWp4VDZwUTNidlBhMmM1ejlBNTJ5OVAyMlJrYU1EazJnQ0VJbmZkZENjem5PQUFR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toyota expands share buyback plan to reflect share drop - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjE1M2pvNGx2cVgzVGlCQV9FMndsbGVueG83am1WcVFaSjFxZy13anJjRVg1RHFGUm9TZUdFenhGenNMcmRmSVBEM3RZYlBkc0RUemVCZEZnSDRpVTlPeXgxSVhhN1FPcmVvdFhvMUdYd3BKMElQcExoOFVrZ1o1dzFSekxlckZ0a085WnVMejNoLUdPa2dTbWtzbUp1cWJDbEM3N1l6ZHFXNXlabHRIcEt3VFNmRUFpRWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "7203 Stock Price and Chart \u2014 TSE:7203 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1leVAxb0NkN29VaXVKaFZvaTVtZ2RqeXBJZkVfQUxRM3hmUF8xcTBORWVrVy1OUkltMEVDZGlQMDQ1eUZYZThOdTNySTFhYjhtZDY1SHpUMkQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toyota faces hybrid supply chain crunch as global demand surges - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXJJWDcyeGxXZnlBdG9sQzdhTGlfcDBTSnJmVkVtdXlNbm40Sm1FdGVfTnNFbERHZ3VySGM2aDdFZldiLWRJeldRa3lDNzJodjdGb1pzeHVyMXE1ekUtVERfVV9HcEQ4cWFTMWp4SjhMNno5eU53ZHJoNDZLRUI2cFJtNW52a1VqblBSdEtwUHBOTUZoS2FUckM4R2Q0eUtNMlc5QTUwREs1dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Toyota lost over $15 billion in market value last week after being caught falsifying tests - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWS1BbHVHVmdCZDJqSE1CSVJYSEZxUWl4X1NaR0JWMjJwSUtNNzVKTEU5SDJISzdJZ2Qwa3gzZmx6ZTU3dUdpZ2h0ZUZZamF0Q0ZRUDhMaDd3RGJEVFo3S3I5SWRYZDFORVVZa3JhSXZlVnpmZHZLbGxEbmZSaE41cFdQVkhnRWJ2N3BfelhMdUpuUmhRNDRhMTdsLVFVdEHSAaQBQVVfeXFMTmRsS21yd2FQT0trWnhmbFNpdk5NZGRBZE1HYTBsMy1jd1drLTdaZ3lXZnhrU0w0SF9xVzVoUVhjUGs4WHdQdU5fQVhPdy0xd1g5Z3RlenRzMXpsRUpmWjNaZGJrU0ZpS090cWRFRFZCczM2YWFlOTZ6WV83dDNISUFUYWdzMXdNd3JacGhEQVUxcGtIX09qQkl1OE5LaTRpN2VGTGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Insufficient Growth At Toyota Motor Corporation (TSE:7203) Hampers Share Price - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQREphVWItWVBPTW5hamdBSkpfempXdTgtTVIyYzQtYXU2ZkUxYjM0MnV6YnRwWUwwSXUyOXNmeWg1cG5OSHp2MlBQeEV4aG9GajZwaExoMHZPYlBZM1ZCdkpSNEdSMlV4S1lqMUk5NUx1U3VHWG1QT012M0l2OGEzeGhBMm9pQWxORnZDMEJuNTlUMklfUHFhUm41cGhMZGRnZlFycDVVLS1ORE02STVqbjhyY1dzdHJJWFlvdjZfWmxYeXdSWVdqNEVQSmVWT1VnN0VMNtIB2gFBVV95cUxNdTJ5eWUycTZSalhEbkt1aEQzQ0hqUU00QzF5dlVZaWtlOTFhX0U1VS03WTVBRFUxOFhsNy11YXN3cEkySWJURFZORWJWdHNPcm1ZT091TGM2Um5POFBYZi11amlLRTVjemY2ZFBwZk9RTldSLXRKUFNydTNpZms3ZHI5Ymo3czNweFFhZ3c0eGFNdFlNRmdOQWRESGtFRDU5V29zZ1ZqWWF2NzZ3eXdiSDE2ekp1UW15NTItTGhBWlk3V1V2ZkEybXFBRlNkX2FQb2JpdGprbmlWdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "US stocks rise, bonds and the dollar steady as tariff turmoil eases - KITCO",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTJUQkFmU0V6M2FRMXFLSnV5ZWpEYmpHRWRyZzJRNk5mZUt1NF9DdV96SFdrMU9VZ3dJbWlBdjBBU1ZOakRBOEp4cU8xb0NzWDhEejJmS19EUHZEZ25sSXRnYVR1ZHNfREZLZ1pMT3ZtczN6OUJiTTNnZHdVZWc1N1NfSkpXbVZtUXlRb2pCUXYzRVg1RmZtZV9ndTBfZXVqTTBmSlVzYV9XWklqTUxz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Japan\u2019s Nikkei Plunges to 8-month Low on Trump\u2019s Tariff Shock - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91eEN4Q19yd0x2aDNsdlZHeGxPbmszd1NCdWttQzJ2WU15WE52bV90blFfQ2xlVW1zbVM2RkRIcE4xNmZ1eVE3SHM5cHVETE9ldlBwLWI1bmJzaFpvSnFFR3FmdUxPM1F0cGZJM0t0V1dadw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "If EPS Growth Is Important To You, Toyota Motor (TSE:7203) Presents An Opportunity - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY3cweWg1UjR2ZWJnMF9OWV81REVEbDBmYmx2MlFhdWxXQXZVLUtKVmJ2aE9QbXcxU1VzVnFocjhBTnJlU3dsbGNJRHF6a3lnQ1VTUVRhSFg1cm9WcElNQlhDeTFIcUJickJ6eVZHWTV5eUxtNlVUZVBQOERuNnJ0NW9oUlRURVp3ZVVIbXNYcU1xcHR2WXBRX3VvMUpuMERtNjJjYjBwZFNUN1NSc2JKLXNTbnhYU09VcXUzeWNoQlVmbHQtZDVPY2NYTHlJNEtFVUV2NtIB2gFBVV95cUxQaUNKdkF2TU1KQkRKWFhKY0JYWExkYnUwam1jeFRXdXNLaXk1NkdFeEdrUFhiM29BZEQxaEViSmZ4cC1fTEp4elpGOFFyQ19scmxWVEdnOFJYS05DSWVDWmxuMzZTTWNGenVOYVJmVlQ5VHo5REM2SC04a1VlazdscnloSDJnU1NRTFlsT3RybVNVSTFXVVRTdUtuSnNXak4wS0FHdzB4REcwa3dIT2JqNWNMMFhEanc0Tlg3WFJiRk43QUJ3YkFBS0Z2QmdET3Y0Y003dXh4ZjdFQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toyota Group suppliers Denso, Aisin scale back cross-shareholdings, filing shows - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWVsaUJmRVZwNms1X25EbTBXZ0JZcDhLZGk4WUZ0Ym9tQWI3QktlMnpxLTMwOGw4dnVVcDA2UmNzZU5ad3hxSHBieWNOTDhJTWhJc0lQNjUtWDR4TFIxWlRaa3h4Z3B0WERYYjU5cWpPQl9iTXhsck1ZRkpWVUh5V0RMNkZ6TXNEZ0o1Umt3VXdMOWJUU0l3bW9MbUFDWjNRa3E2QXRTdHg4SG9PWUh6SjFleGpCVnJLcV8yTFFVQlU1WFZPdTc4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Toyota defies skeptics as stock seals best week since 2009 - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PblZhWm9sWWllRmwyTUhMMzVJUldEclFCQnBnY1J3Z2pWNXhXM2ljT3dZaVJmQU9LbThQSUtLSjE1QjFhU2hjTTVGUDFaOGloWklKTUJxZXFOa0tZRjJZR3ZJc09yaTNnVXllcnFCb1g4THRsWHAwOVNB0gF_QVVfeXFMTVdWZ1JPa2VxX2JsdUpuNHVzQmVYQmxQUmNvN3IwNDNxWDhCRmo1M3U3UzlKaUE3YjNCdXo1ekEwOWdLakx2T1k3eng5WnNkRVlaVlQ4MXRjV25oM0RZZzZ4MkpNTDNSS01lM3AtdTJiR25lamFZbi1tZVFRRUFNZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toyota Motor Third Quarter 2025 Earnings: Beats Expectations - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVHNDTE9JcUxxMzdYcnhDM2tCSGlQdEJYcjl4a3hRSkpYRlZqS0FRMktSM2JFN3FDc1JxbXlYUFJ0WVMzdklSUk40Q0loaXVsckhjWXE2SlVUeFNoTHR3VE9zNkl6TjNlREZaemVUOVl5SGFSMFQyb3Vkbk9xYzY1SWhvWXRGX24ydXQ1dEhvM244NnROaDBCdFNiaTdNc3FjZGpBejFZU2Q3WlBOaFNkQlJhNlZqX1ZocXlubS1RenQwVVcxVmtoMF9RZTdqRDZseHdR0gHYAUFVX3lxTE11QzhWSEVvSFNuNDdmN0VDU2s1SFY5bGpIRk5ycXBRSVNaUHduTnVJUS1ObzF6d2M4S3VHaVRoWEZsbzlWeTNfWFZWX2NxVXVGblpoMDFDdkJSN1JTdlZqOGtBNHgwQmdVQUNYcjNWUHQ4QTQwRlgxS1BUT0lnOWhfeEI5S3lCV1pZSXdtS1VaTTgyOHRLeE5hSjRYTnJzQlRaMkE2ejB6TlNRQmVMNEctN2xhUzVWWTR3LWtld1B1ZnpuaWpFb25hRi1TUjlrRDlORTJWUFNfQg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toyota shares hit record high after earnings upgrade, domestic rivals in focus - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcUJ6ZmdWVGJVdVpSMEVaWUg3T2R3SE0zV2doUUE2ZXN0VV84Sk9ReWVVNzdTSHVuSnVFdTVWaGFnaFhVYVpMalUxYjQxWGxodmE3MkFKUmdTeExPcWlEOHNzbjdCRTJiQ0JVVFdIeW5zdFpONWpvZzY3aG1tRjZnR2Z3ZlZ6V1hhUEhXblo4V091ZjFLaE5Ta0hpN3NVYnNtRVFKNlFwNnR4LWZwYnFuc0hhU0YzdWw3TlFKaVZwbEdkTE5kRXd6ZHBva1hENUpPVzFpVWhkTQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 2674.5
+      },
+      {
+        "date": "2024-11-22",
+        "price": 2664.5
+      },
+      {
+        "date": "2024-11-25",
+        "price": 2694.5
+      },
+      {
+        "date": "2024-11-26",
+        "price": 2667.5
+      },
+      {
+        "date": "2024-11-27",
+        "price": 2571.0
+      },
+      {
+        "date": "2024-11-28",
+        "price": 2607.0
+      },
+      {
+        "date": "2024-11-29",
+        "price": 2551.5
+      },
+      {
+        "date": "2024-12-02",
+        "price": 2611.0
+      },
+      {
+        "date": "2024-12-03",
+        "price": 2652.0
+      },
+      {
+        "date": "2024-12-04",
+        "price": 2631.0
+      },
+      {
+        "date": "2024-12-05",
+        "price": 2632.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 2629.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 2645.5
+      },
+      {
+        "date": "2024-12-10",
+        "price": 2679.5
+      },
+      {
+        "date": "2024-12-11",
+        "price": 2682.5
+      },
+      {
+        "date": "2024-12-12",
+        "price": 2718.5
+      },
+      {
+        "date": "2024-12-13",
+        "price": 2697.5
+      },
+      {
+        "date": "2024-12-16",
+        "price": 2692.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 2672.5
+      },
+      {
+        "date": "2024-12-18",
+        "price": 2726.5
+      },
+      {
+        "date": "2024-12-19",
+        "price": 2724.0
+      },
+      {
+        "date": "2024-12-20",
+        "price": 2771.5
+      },
+      {
+        "date": "2024-12-23",
+        "price": 2837.0
+      },
+      {
+        "date": "2024-12-24",
+        "price": 2835.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 2964.5
+      },
+      {
+        "date": "2024-12-26",
+        "price": 3142.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 3188.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 3146.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 3011.0
+      },
+      {
+        "date": "2025-01-07",
+        "price": 3052.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 3073.0
+      },
+      {
+        "date": "2025-01-09",
+        "price": 3005.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 2932.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 2907.5
+      },
+      {
+        "date": "2025-01-15",
+        "price": 2901.0
+      },
+      {
+        "date": "2025-01-16",
+        "price": 2837.0
+      },
+      {
+        "date": "2025-01-17",
+        "price": 2788.0
+      },
+      {
+        "date": "2025-01-20",
+        "price": 2870.0
+      },
+      {
+        "date": "2025-01-21",
+        "price": 2875.5
+      },
+      {
+        "date": "2025-01-22",
+        "price": 2915.5
+      },
+      {
+        "date": "2025-01-23",
+        "price": 2925.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 2882.5
+      },
+      {
+        "date": "2025-01-27",
+        "price": 2922.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 2889.5
+      },
+      {
+        "date": "2025-01-29",
+        "price": 2930.0
+      },
+      {
+        "date": "2025-01-30",
+        "price": 2949.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 2973.5
+      },
+      {
+        "date": "2025-02-03",
+        "price": 2824.5
+      },
+      {
+        "date": "2025-02-04",
+        "price": 2873.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 2963.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 2903.5
+      },
+      {
+        "date": "2025-02-07",
+        "price": 2824.5
+      },
+      {
+        "date": "2025-02-10",
+        "price": 2825.5
+      },
+      {
+        "date": "2025-02-12",
+        "price": 2800.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 2825.5
+      },
+      {
+        "date": "2025-02-14",
+        "price": 2804.5
+      },
+      {
+        "date": "2025-02-17",
+        "price": 2773.5
+      },
+      {
+        "date": "2025-02-18",
+        "price": 2804.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 2755.5
+      },
+      {
+        "date": "2025-02-20",
+        "price": 2710.5
+      },
+      {
+        "date": "2025-02-21",
+        "price": 2706.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 2710.5
+      },
+      {
+        "date": "2025-02-26",
+        "price": 2725.0
+      },
+      {
+        "date": "2025-02-27",
+        "price": 2784.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 2689.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 2795.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 2753.5
+      },
+      {
+        "date": "2025-03-05",
+        "price": 2849.5
+      },
+      {
+        "date": "2025-03-06",
+        "price": 2822.5
+      },
+      {
+        "date": "2025-03-07",
+        "price": 2803.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 2829.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 2754.5
+      },
+      {
+        "date": "2025-03-12",
+        "price": 2761.5
+      },
+      {
+        "date": "2025-03-13",
+        "price": 2719.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 2746.5
+      },
+      {
+        "date": "2025-03-17",
+        "price": 2760.5
+      },
+      {
+        "date": "2025-03-18",
+        "price": 2839.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 2892.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 2844.5
+      },
+      {
+        "date": "2025-03-24",
+        "price": 2863.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 2882.5
+      },
+      {
+        "date": "2025-03-26",
+        "price": 2887.5
+      },
+      {
+        "date": "2025-03-27",
+        "price": 2828.5
+      },
+      {
+        "date": "2025-03-28",
+        "price": 2700.5
+      },
+      {
+        "date": "2025-03-31",
+        "price": 2616.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 2630.5
+      },
+      {
+        "date": "2025-04-02",
+        "price": 2656.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 2518.5
+      },
+      {
+        "date": "2025-04-04",
+        "price": 2407.5
+      },
+      {
+        "date": "2025-04-07",
+        "price": 2266.5
+      },
+      {
+        "date": "2025-04-08",
+        "price": 2428.5
+      },
+      {
+        "date": "2025-04-09",
+        "price": 2365.5
+      },
+      {
+        "date": "2025-04-10",
+        "price": 2543.0
+      },
+      {
+        "date": "2025-04-11",
+        "price": 2420.0
+      },
+      {
+        "date": "2025-04-14",
+        "price": 2410.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 2499.0
+      },
+      {
+        "date": "2025-04-16",
+        "price": 2499.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 2498.5
+      },
+      {
+        "date": "2025-04-18",
+        "price": 2544.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 2470.5
+      },
+      {
+        "date": "2025-04-22",
+        "price": 2459.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 2582.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 2657.5
+      },
+      {
+        "date": "2025-04-25",
+        "price": 2690.0
+      },
+      {
+        "date": "2025-04-28",
+        "price": 2786.5
+      },
+      {
+        "date": "2025-04-30",
+        "price": 2729.0
+      },
+      {
+        "date": "2025-05-01",
+        "price": 2751.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 2780.0
+      },
+      {
+        "date": "2025-05-07",
+        "price": 2706.0
+      },
+      {
+        "date": "2025-05-08",
+        "price": 2671.5
+      },
+      {
+        "date": "2025-05-09",
+        "price": 2719.5
+      },
+      {
+        "date": "2025-05-12",
+        "price": 2753.5
+      },
+      {
+        "date": "2025-05-13",
+        "price": 2850.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 2749.5
+      },
+      {
+        "date": "2025-05-15",
+        "price": 2657.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 2642.5
+      },
+      {
+        "date": "2025-05-19",
+        "price": 2665.0
+      },
+      {
+        "date": "2025-05-20",
+        "price": 2672.5
+      },
+      {
+        "date": "2025-05-21",
+        "price": 2662.5
+      }
+    ],
+    "current_price_data": {
+      "price": 2662.5,
+      "change": -10.0,
+      "percent_change": -0.37
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

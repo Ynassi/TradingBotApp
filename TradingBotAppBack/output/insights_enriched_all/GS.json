@@ -1,0 +1,646 @@
+{
+  "ticker": "GS",
+  "name": "Goldman Sachs",
+  "sector": "Financials",
+  "market_cap": 189943791616.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 14.306217,
+    "PB": 1.6665052,
+    "EV_Revenue": -1.784,
+    "ROE": 0.12222,
+    "ProfitMargin": 0.28056,
+    "GrossMargin": 0.82837,
+    "DividendYield": 1.96
+  },
+  "technical_indicators": {
+    "RSI_14": 72.41143967193327,
+    "Momentum_10": 9.349948064589237,
+    "MACD": 20.160714873725397,
+    "BB_Percent": 0.9591078778135944,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.9085050838948342,
+    "QualityScore": 0.3896314705297335,
+    "SignalScore": 0.5267270255492991
+  },
+  "volatility": 0.0239542227078491,
+  "beta": 1.311,
+  "return_6m": 0.0632519390726626,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 19,
+    "target_mean_price": 585.579
+  },
+  "news_sentiment": {
+    "summary": "La synth\u00e8se courte est la suivante :\n\nLes titres de Goldman Sachs (NYSE:GS) ont \u00e9t\u00e9 tr\u00e8s positifs r\u00e9cemment, avec un gain de 18.9% depuis le dernier rapport d'\u00e9valuation, et une s\u00e9rie de signaux positifs tels que des lev\u00e9es de fonds et des acquisitions. Cependant, il y a aussi des signaux n\u00e9gatifs, tels que des ventes de shares par des dirigeants de l'entreprise. Les \u00e9v\u00e9nements marquants incluent des discussions sur les tarifs chinois, des lev\u00e9es de fonds pr\u00e9vues, et une M&A r\u00e9cente. L'actualit\u00e9 globale n'a pas",
+    "sentiment_score": 0.3,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "(GS) Trading Signals - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVFI5M3RKcHFvZUR5TjdNYWFWVm84N0swTEVvYWhOSUdvNjVZNDZsQmpIRXdKOHA2NUt6V0ZZYk95QmpHcWgxOWs5VmVfNVAteVNzd05QOW96WkZfcmx3VTA3ZkNNbWhaOHduNnJqWGt5Y3NRY0F4ZE1wbHFOSHpRbmZiV1ZmWlJSbGVYVkw2Y1B1N1YwZjJ1Tg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1,001 Shares in The Goldman Sachs Group, Inc. (NYSE:GS) Purchased by Point72 Hong Kong Ltd - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV0ZHWXRVWExadkxjeEpvYXZHNHdtYm9jeVRlZzFEZ1FJS2RfRGYyR21tRHRDX1BFcjN5MFg4b2Z2QWctaGJJUEhBT3ZlZ1BVbTdGcXZCcDlWZ2dGcHJZVXlFUE5adXBGN1lod296a0YySnhjQ1dRTUVWYjZPTDI4dVYzUjlkRXZ6LTR2NVdRc3RobFJ1OHo2VHBONUJhNXp1WVV2LTZxX1R4c1FYZ3JhbTBISHRKdkJndHJvbFg4T2U3akhhV3hJNlA3Z0dLTXJNMnFtXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "US stocks are forecast to rally amid China tariff discussions - Goldman Sachs",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONmpsUU1fQ3FqZGJWYWVHb0VuNkh0Ykg5c0xScjIxWHRIdi1Ta1ZGU040OGcweWxsWnlpWDR6WTNDMlBpS0FyeXg3UmJta1lyYWlHY0IxbXZWTVNxRG4zNlN3N25ybjNDTEF5OFVUV0RYUG5JQnZURWpBZ2g0M25jbk51YjR4X1JDTHNvcWdiMURDRU9EdTFaaVo5cTE4UzdEOGwxck9jb3plU0JR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Goldman, Morgan Stanley Set To Ride M&A, IPO Rebound, As Analyst Sees Upside In Wealth, Trading Gains - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUi1pN2VZTlBSNGJObXd2Z0Q2eGpYd3lqZ2JXci04TXBTdlloNGlGUy1RcG1QaE1hekEtalYwUWRaNlduZlV3SkI0MWhlbGtTT1VUQkhKXzZ6MGt0X2hYMmlfZlhVQ3NZSzk2b2JxOFVSODJWUnBmYkpwSUZzZWdKVHZucENzcjRYc2Y5R3JtRktyYWdwYzNCTlktWXh4ZEhjZGprMGhUTlE4SmN4VEF1ZmNxZXAzNXNjUFVkRHRLMjBRQmpOS1FiUnpVbnZmaDZqdHJxUjJsVUgwaGRMenFBSjNIOFg5THVadTJhZjhTWEZiV2hjb1Nv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Is Goldman (GS) Up 18.9% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ISUt2RDhhTUNmb1l5S19vU2t4S2NEbXdLeXFkMFZZYTJYaDhVVGJua2dFM3BDd3VhZVJYTjZ5MXhaRzhrVkkyT044SXYzZlZRTHFlQzlNN1hKdVFRTDRDS0ctNkdCUjZoN2UyYlpJa3JLNHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Goldman Sachs Stock: Analyst Estimates & Ratings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSW5KbnI1WG43S3BfRDJUZF9neEJVQlRoYmpSMTBpZkczamFxd2Nwb3JOLVBjaUF3TnRRWVBPZ1NQTnRvWlZBVmo5YnNjbUhkeHRUeFFNUDZCNjhWWGV0T3E1YWZOTEJaVlg3eEJkNTlzSWhXS0l0MFFNdWp3REtTdVNxNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Goldman Sachs CEO Makes a Multi-Million Dollar Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMjBmcERPMGVtUUJTOXlJRVFSeUsxcWUyZ2JYS1hzVjVMa3pjVzFyeTZHSE90dFJNOHpGWVJXMEZNd1NHdWlwNmt6cFhTSjJIc0xxVG1wWExvSGJNUGREYkFSNzBGRzYxVUlyeFM3Tl9rX2pHNHU2YkNIeGUtbWdPWmFiYnQzaWcxSzRoQ2pGMk5ydVpFa1ZTLURQSXctZ0tzMWJlaDJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Goldman Sachs: I See Further Upside (NYSE:GS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPczVmcTE4WnlBcG56cDRxZGwySUFtNjg5RlFCM3JXejIzSWM5YlBvYW5DaDdDN0VsN3RLalVfWlJUUERwWWdJeEJLQ3NpY3RWdEd5TmpBNVFWVEZaNDl0THg3LUNFQVNWa2tHelZJMG5DT0I1amlSMUx5TWVEWlY3RQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "4 Goldman Sachs Conviction List Top Picks Are Blue Chip Dividend Stock Royalty - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQkdqZWpzcDcwenp5WlFjMUZYcmNBM05Rb3lId0NTOUQxTHB5My13MmhURnplRk95dHB0Vm90VzNab3lRQVZPVVpfNGNZTDBrODZrWHUzZk9uUTBBaUJDMWdHZnljOEs4THdwLVpzMERoSnJaT0VHNHh2WWtRdUktZ1BQMlFiVFNvSloyZ1JlYnAxUWlEZmlMRExLeDg2Y3JDQks0cUhWSTllQ01uQnU1dm9ibUJ4eG9lNHdqS0dWeGhSUGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Goldman Sachs Group (NYSE:GS) Stock Price Up 0.4% - Still a Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUU1MzNhQ2x3bDJvaUxhRUh3OXpib2hrSVVGZ2QxNXgxaEw1czA1dGJTWXkyZkJWUk9ncnM2SUxQeV9sSzluR1NHYU5PVmxFQ2hMbWRFZXZ5S2NJUnNFaDY0emFDYzE3MWg3ZVhOaFA2Zk5GcnZzLXRiVGFXU2VlX1dDRERVUUh4N3piUGJZam93QWg2UE5yRmNoZ2pYX3lmUjhEMUd5cTE2WUpCQ09ZNElPWXBDSXdk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is The Goldman Sachs Group Inc. (GS) the Best Dow Stock for the Next 12 Months? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84blR5VVVaZ24wd0ZULWhVb1BXNERZUXZYeU0wZG5iUkI4Y2NtN243Mktfd3hRZ1RPUEVCTlJGTVRQRnZjZEJUMDhIb1lFcEs3bF9LM0VHbXpGN2NFX2FnMXZxdkZQTDJaYnhPTXV3bDJOdVBIRUNXRmZXNVM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow's 100-point rally highlighted by gains for Walt Disney, Goldman Sachs stocks - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDZEdm02MjB2S3RqaGV6TDhzYjZzWEVzdUhVMFhrODRhYjlSUE1uQ1BKdHpCSFNvYjNMQVpqbnl4djlrTkFoZDB0NTlqbGtaNnVxamlfMnpjLTNjbW9pVmMtaDcxWDZESlBxdWV2cHhoNGU3MUtBXy1STW5KT21CR1pyNERlLXJVM3E3ZFpzY0NkUDA1RUt5SnRKZ0xlY1o5ZFBRNWlia3RRRnlhbDdvU09PMTd1Nms0d3dzZWVHMHpfNGszdWhoWFhIVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Goldman Sachs Group (NYSE:GS) Stock Unloaded Sen. Tommy Tuberville - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT2NTQk9tdk5LZWNObW9kZldqbEY2ZGU4bG5FUDV5WGtFZEFNZ2MyUEtZc3RVOVl6Tmt0YjJCbk5vYnM0b2lzUlZoZUFrYW00UlZoRzdOQS1DOUFEek5mNFU1eFFfMGVkYy1xVWQ2dzk5NlhLaVJGcE5rRy1aVllKVVpDYk1NcDJqUGRQVGNINDBSalpQU2NkbDV5T1NUSDhoUGpuY2JYQktKamFkWVRTQVA1ZTBTRmlsY0ZXMVBlaXZRUTZtdDNKaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Goldman Sachs Group Insiders Sold US$69m Of Shares Suggesting Hesitancy - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbC1naXRBZldsR1B1WUhpMS1INC1XX3ZXUFREX1JTdk5uY1NDM3ZuLThLUzBuX2Jpcmt3V19HRGNfVlgwTUxudklSRU0tbEtab01XejBiQy1UUzR1SFBBWXl6bUM2b0llWnJaZ0RRYkxEdVNGbkg5M01teWJyak11X1FoTmFJdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Goldman Sachs Group (NYSE:GS) Shares Unloaded Rep. Bruce Westerman - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWs0bDJNbHBoNjhyTUZsS2dfQy1uTlJtOERxLXB2SDZ5b1BXTVliRFFrTkxvZWZiRUJFZHQ3QnRjeWpvNGFwdE93VGRYOFZmY2k3bUc5R3lBcTlkZ1ZoVFVOdlhSTGJ6Yjc0eHN1dDBVbi1HZFdoMVQxazJGUWxsb0xhaHJoWnpFRlI4YUYzcFpGenN6d3F5b0dBUzY2eWZVWWJ2aDVpY0N1d3lxck5aOFdJRVNwa2R2UWZ1cEFGV2dzSE83SVlB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Goldman Sachs Group, Inc. (NYSE:GS) Shares Sold by Nuveen Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaGNKa2FkaHlGbGwwb1g5MEdHSmRQUEthdWd5TDQ0aHk4VnIyTXgzTGpkUklJVkVYSzFYbVJzQ1V3SFVFREh2N0Z6d0ZoMjJqbHg4VG16em1jemh5dl82Znd2UjdNM2Q1LTQtWXBabFk2RkVDcVY4M2FobmtKVVdFNEF5Q1dMMTRJR0l0T2Y0T0k3czRDSHk1Yk5UMlN1MUEwU3VFWkZEZjE4dHRlNThPdndqZTZrVmlXTFFDS2VfX25Bc2gyMW1RcHNXVzhVTFJab0IxUXlB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Goldman Sachs Group, Inc. (NYSE:GS) Shares Sold by Lazard Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaVkyZkxmcVV4TnNRSHlkbjhNN0xWWjA1Q21hN21KMXBWUTg5VVMtRE5LbnVkX2JzMDBtZGM4bF9VV1kydHFUSE1yTnJveXl0bVhJUk5SbUxteUlDTi1QNERzaW5Pa0g2Zm5aak43Q0RFNldBb3F6eFZma1dzb1VWU2Nzb1djWmtxNUpnRnRlQ05pbERnTjVObTh1dVVseWF5Tm54Z2hPMDJvWTNRcWt2b096d1ZZRlF4SUVUWEZOWTVWTU90a3pTTVlrVEJFSzI4RXVIdGRFSHg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Goldman Sachs Group (NYSE:GS) Stock Unloaded Rep. Jefferson Shreve - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjdZUVQ4TUJfWlpMTFR0R0FiVzl5TnZTQmEyR2NiUVg2djVNb3NBSWwxbGQ1cGw1WEcyV2NwYjFsd0M1R2pXcFRYRm5rRUY0VVkyb01BcXg4VFBpZzl2M0lMRHdfbUh2ZEZXOHR4bk9ZWHNfUGZnOE1XamxIWmI2NDFEX0J3SVRTRk01S1FQc3NaUHlXbEs1VllLZnFUWEVBek9sdkoyN01Cal9zbU9Zd3owTW9wTmp0X2YzQUYzZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "453 Shares in The Goldman Sachs Group, Inc. (NYSE:GS) Acquired by Numerai GP LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblJ2ZEN5aE5BR2R5blRRVHc0b3ZjMS1YdUthYk1JNHJDTHFDeVkydGJkUm9fQTBJTHgtSURYcFIxNWptcXJiRUhBS2p6X1ZDbUk0ZE5XQm1GQ0trSTRnb0o3b3p1ME4xeWRvVTBOUGZQYUZTX1BIZUZxOUNBYkpGT0FwY2xDanVyeHJZWFBvejdDcmFLRWw0VXNiVWloLXdWVFJzRUcxYnNYY1d4MEkxeG9IaS1VUHZTVnhIYmF6ZDJVRF9zLUN1Uw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Polar Capital Holdings Plc Buys 14,483 Shares of The Goldman Sachs Group, Inc. (NYSE:GS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaG1OcmYwYTFaVXpZN2syWEoyM0dNZWxMTm5MRkVxS0ZsZUhPSk9oZ2JZNU9QQU1vT2JwZHA1WU9vT25Ka2tRbklYYWRwNkI2dHJLTlFnMVZEQk5xV3Q2TVUwNmYwX1U3RG5wRmJxbzFVSDBfdHhvQmN6MEp4al9zM0MxOXRwUXhGY3lsSFRJM2JSX3BBVmpNTngtbWZBT0Z6eF95OUdkMTJrRDJncHhBblUyaFNxVkN6VGttNUg1MU9GeEJLM190cDZhdnNoOUJnSWc?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 602.78
+      },
+      {
+        "date": "2024-11-25",
+        "price": 603.03
+      },
+      {
+        "date": "2024-11-26",
+        "price": 605.5
+      },
+      {
+        "date": "2024-11-27",
+        "price": 605.43
+      },
+      {
+        "date": "2024-11-29",
+        "price": 608.57
+      },
+      {
+        "date": "2024-12-02",
+        "price": 601.71
+      },
+      {
+        "date": "2024-12-03",
+        "price": 602.08
+      },
+      {
+        "date": "2024-12-04",
+        "price": 598.71
+      },
+      {
+        "date": "2024-12-05",
+        "price": 596.8
+      },
+      {
+        "date": "2024-12-06",
+        "price": 599.68
+      },
+      {
+        "date": "2024-12-09",
+        "price": 594.12
+      },
+      {
+        "date": "2024-12-10",
+        "price": 585.03
+      },
+      {
+        "date": "2024-12-11",
+        "price": 592.56
+      },
+      {
+        "date": "2024-12-12",
+        "price": 591.61
+      },
+      {
+        "date": "2024-12-13",
+        "price": 585.48
+      },
+      {
+        "date": "2024-12-16",
+        "price": 586.33
+      },
+      {
+        "date": "2024-12-17",
+        "price": 574.68
+      },
+      {
+        "date": "2024-12-18",
+        "price": 550.25
+      },
+      {
+        "date": "2024-12-19",
+        "price": 553.99
+      },
+      {
+        "date": "2024-12-20",
+        "price": 566.1
+      },
+      {
+        "date": "2024-12-23",
+        "price": 570.78
+      },
+      {
+        "date": "2024-12-24",
+        "price": 582.79
+      },
+      {
+        "date": "2024-12-26",
+        "price": 581.23
+      },
+      {
+        "date": "2024-12-27",
+        "price": 576.18
+      },
+      {
+        "date": "2024-12-30",
+        "price": 573.55
+      },
+      {
+        "date": "2024-12-31",
+        "price": 572.62
+      },
+      {
+        "date": "2025-01-02",
+        "price": 574.97
+      },
+      {
+        "date": "2025-01-03",
+        "price": 580.13
+      },
+      {
+        "date": "2025-01-06",
+        "price": 583.39
+      },
+      {
+        "date": "2025-01-07",
+        "price": 580.12
+      },
+      {
+        "date": "2025-01-08",
+        "price": 580.02
+      },
+      {
+        "date": "2025-01-10",
+        "price": 560.0
+      },
+      {
+        "date": "2025-01-13",
+        "price": 562.95
+      },
+      {
+        "date": "2025-01-14",
+        "price": 571.53
+      },
+      {
+        "date": "2025-01-15",
+        "price": 605.92
+      },
+      {
+        "date": "2025-01-16",
+        "price": 612.99
+      },
+      {
+        "date": "2025-01-17",
+        "price": 625.94
+      },
+      {
+        "date": "2025-01-21",
+        "price": 634.74
+      },
+      {
+        "date": "2025-01-22",
+        "price": 632.73
+      },
+      {
+        "date": "2025-01-23",
+        "price": 639.5
+      },
+      {
+        "date": "2025-01-24",
+        "price": 636.9
+      },
+      {
+        "date": "2025-01-27",
+        "price": 633.28
+      },
+      {
+        "date": "2025-01-28",
+        "price": 637.8
+      },
+      {
+        "date": "2025-01-29",
+        "price": 637.38
+      },
+      {
+        "date": "2025-01-30",
+        "price": 645.7
+      },
+      {
+        "date": "2025-01-31",
+        "price": 640.4
+      },
+      {
+        "date": "2025-02-03",
+        "price": 632.37
+      },
+      {
+        "date": "2025-02-04",
+        "price": 634.18
+      },
+      {
+        "date": "2025-02-05",
+        "price": 645.45
+      },
+      {
+        "date": "2025-02-06",
+        "price": 658.22
+      },
+      {
+        "date": "2025-02-07",
+        "price": 655.9
+      },
+      {
+        "date": "2025-02-10",
+        "price": 650.53
+      },
+      {
+        "date": "2025-02-11",
+        "price": 647.24
+      },
+      {
+        "date": "2025-02-12",
+        "price": 649.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 648.95
+      },
+      {
+        "date": "2025-02-14",
+        "price": 660.55
+      },
+      {
+        "date": "2025-02-18",
+        "price": 672.19
+      },
+      {
+        "date": "2025-02-19",
+        "price": 668.15
+      },
+      {
+        "date": "2025-02-20",
+        "price": 642.26
+      },
+      {
+        "date": "2025-02-21",
+        "price": 625.6
+      },
+      {
+        "date": "2025-02-24",
+        "price": 626.14
+      },
+      {
+        "date": "2025-02-25",
+        "price": 614.91
+      },
+      {
+        "date": "2025-02-26",
+        "price": 617.77
+      },
+      {
+        "date": "2025-02-27",
+        "price": 608.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 622.29
+      },
+      {
+        "date": "2025-03-03",
+        "price": 605.26
+      },
+      {
+        "date": "2025-03-04",
+        "price": 581.14
+      },
+      {
+        "date": "2025-03-05",
+        "price": 593.07
+      },
+      {
+        "date": "2025-03-06",
+        "price": 567.67
+      },
+      {
+        "date": "2025-03-07",
+        "price": 559.67
+      },
+      {
+        "date": "2025-03-10",
+        "price": 531.66
+      },
+      {
+        "date": "2025-03-11",
+        "price": 531.43
+      },
+      {
+        "date": "2025-03-12",
+        "price": 535.71
+      },
+      {
+        "date": "2025-03-13",
+        "price": 524.81
+      },
+      {
+        "date": "2025-03-14",
+        "price": 541.41
+      },
+      {
+        "date": "2025-03-17",
+        "price": 551.34
+      },
+      {
+        "date": "2025-03-18",
+        "price": 551.78
+      },
+      {
+        "date": "2025-03-19",
+        "price": 557.34
+      },
+      {
+        "date": "2025-03-20",
+        "price": 562.68
+      },
+      {
+        "date": "2025-03-21",
+        "price": 565.14
+      },
+      {
+        "date": "2025-03-24",
+        "price": 580.1
+      },
+      {
+        "date": "2025-03-25",
+        "price": 585.94
+      },
+      {
+        "date": "2025-03-26",
+        "price": 573.92
+      },
+      {
+        "date": "2025-03-27",
+        "price": 558.92
+      },
+      {
+        "date": "2025-03-28",
+        "price": 543.12
+      },
+      {
+        "date": "2025-03-31",
+        "price": 546.29
+      },
+      {
+        "date": "2025-04-01",
+        "price": 548.45
+      },
+      {
+        "date": "2025-04-02",
+        "price": 563.1
+      },
+      {
+        "date": "2025-04-03",
+        "price": 511.23
+      },
+      {
+        "date": "2025-04-04",
+        "price": 470.81
+      },
+      {
+        "date": "2025-04-07",
+        "price": 465.51
+      },
+      {
+        "date": "2025-04-08",
+        "price": 462.22
+      },
+      {
+        "date": "2025-04-09",
+        "price": 516.87
+      },
+      {
+        "date": "2025-04-10",
+        "price": 489.8
+      },
+      {
+        "date": "2025-04-11",
+        "price": 494.44
+      },
+      {
+        "date": "2025-04-14",
+        "price": 503.98
+      },
+      {
+        "date": "2025-04-15",
+        "price": 507.89
+      },
+      {
+        "date": "2025-04-16",
+        "price": 499.05
+      },
+      {
+        "date": "2025-04-17",
+        "price": 509.49
+      },
+      {
+        "date": "2025-04-21",
+        "price": 501.36
+      },
+      {
+        "date": "2025-04-22",
+        "price": 519.99
+      },
+      {
+        "date": "2025-04-23",
+        "price": 529.31
+      },
+      {
+        "date": "2025-04-24",
+        "price": 545.37
+      },
+      {
+        "date": "2025-04-25",
+        "price": 544.86
+      },
+      {
+        "date": "2025-04-28",
+        "price": 546.4
+      },
+      {
+        "date": "2025-04-29",
+        "price": 548.92
+      },
+      {
+        "date": "2025-04-30",
+        "price": 547.55
+      },
+      {
+        "date": "2025-05-01",
+        "price": 553.83
+      },
+      {
+        "date": "2025-05-02",
+        "price": 566.1
+      },
+      {
+        "date": "2025-05-05",
+        "price": 559.56
+      },
+      {
+        "date": "2025-05-06",
+        "price": 549.36
+      },
+      {
+        "date": "2025-05-07",
+        "price": 551.92
+      },
+      {
+        "date": "2025-05-08",
+        "price": 565.7
+      },
+      {
+        "date": "2025-05-09",
+        "price": 567.1
+      },
+      {
+        "date": "2025-05-12",
+        "price": 591.34
+      },
+      {
+        "date": "2025-05-13",
+        "price": 603.81
+      },
+      {
+        "date": "2025-05-14",
+        "price": 611.6
+      },
+      {
+        "date": "2025-05-15",
+        "price": 615.9
+      },
+      {
+        "date": "2025-05-16",
+        "price": 619.03
+      },
+      {
+        "date": "2025-05-19",
+        "price": 612.3
+      },
+      {
+        "date": "2025-05-20",
+        "price": 606.52
+      },
+      {
+        "date": "2025-05-21",
+        "price": 593.46
+      }
+    ],
+    "current_price_data": {
+      "price": 593.46,
+      "change": -13.06,
+      "percent_change": -2.15
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

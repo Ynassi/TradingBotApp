@@ -1,0 +1,646 @@
+{
+  "ticker": "AMGN",
+  "name": "Amgen",
+  "sector": "Health Care",
+  "market_cap": 146476482560.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 24.742052,
+    "PB": 23.59754,
+    "EV_Revenue": 5.716,
+    "ROE": 1.0567299,
+    "ProfitMargin": 0.17386,
+    "GrossMargin": 0.69068,
+    "DividendYield": 3.45
+  },
+  "technical_indicators": {
+    "RSI_14": 44.362699454141065,
+    "Momentum_10": -3.1327777257491767,
+    "MACD": -6.135775328962211,
+    "BB_Percent": 0.3466075233054561,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8742087487246535,
+    "QualityScore": 0.4838702129006974,
+    "SignalScore": 0.7321394112876549
+  },
+  "volatility": 0.0177171202463928,
+  "beta": 0.497,
+  "return_6m": -0.0148844491050966,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 27,
+    "target_mean_price": 314.0026
+  },
+  "news_sentiment": {
+    "summary": "Amgen, a biotech company, has been in the news for various reasons, with investors showing mixed reactions. The company has recently announced that OMERS, the pension fund of Ontario Municipal Employees' Retirement System, has purchased a 2.705-share stake in Amgen. Meanwhile, Piper Sandler has cut its stock price target to $328, while Measured Risk Portfolios and New England Asset Management have also made new investments in the company. Amgen is facing a $407 million verdict over antitrust violations, and Sen. Tommy Tuberville has sold his Amgen stock. Despite these events, Amgen's CEO has stated that the company is getting into the obes",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 4,
+    "headlines": [
+      {
+        "title": "OMERS ADMINISTRATION Corp Purchases 2,705 Shares of Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVnp5SjR2SUFOVFM2T2MyQ3hUQlpzOUo5VEpEeUJvRFNCWGlmemZSaHg4ZHJ4d0FWTzh2bHZ4bVB6TXdLRDQyQzhLamxXZ3FwemswSHRnb2ZBc3JJTVdUM0Q0VEd0SThoUGdMckY1djlZOThOMDA1WjB3dV9hTGxGMEJod3QtMmFjdGUzR1pPMEk3MkF1eDVfRlpySjUyMkJtb0IydlpnRGxqY3BhYmpkbm1nNVkwREtzVTY4ekpkbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$AMGN stock is up 2% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRV9teDcwOENCclhqb0ROWWpCelU1cUxyZmtxY0cyRGFPLUQxT0VrVFBSX2VabmdlOGlhQUVQSzFWaG9lRzdCcWljZHdSZ3l2blU3S1ViWkV4NmN0azVVMVhVaVF6R2k3blRmSFk5V2ZBNHdrc2RneEVqSWcwN25USzlWNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Amgen (AMGN) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVFDejE0RDk0T3h6WnVNVzBMRE1XcUl2ZVdFckRDU3E3dTJ5TVBWUWR6by1xVzRCX0hPMXpMOWE3VFBldFE3b3hjTkxXMi1pVkRuT3hRZWdXbGdYME5iNDVCVjdEZG5QVmJoRzJhNEpNWVNLaEo0TlhUeHdSaDAyUA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Exclusive: Amgen's Global Marketing Chief to Share Strategic Insights at RBC Healthcare Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTRTSjhHOWZ3RDhjUjZHRklka0JTbXhvQTFmZXRTaE5jZ01ySmtFdTF4Um16UkVuRk51eDFZZDhud0JMRjk5QUh5V3ltMEhkR1lBOXpla3RQOWRPdWZnanFVQUlSa0pnVTl1eDJuUkI4eUpVRlppMTV6Z1FrTWFCc2szbTN1NlRFZ1luM2xkQ1dod3dhNzNHcW1HNHdnZnVPS0JtdDdEOWo0czZCZ1dZTmhkbGJVWjQ5OG1hSk5n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Piper Sandler cuts Amgen stock price target to $328 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVllHdTFXbnV1VkVMcE1ORmNzZnJtNGpYWVVFZG5fQm1ERjhPcFF3NGtlWkdObHNYTm9pbFQwX2FEd0R6NUJWdDZJbzlZNUVTS0xPWDhDRXo0MFpEb05XcjhJWEwzd0lOODhKdkpaRWIyVTBDQV9jdm5LT0l5cVU1UmxHamtzMUxwQVVMZzJSTEVkeW9NVlV4SGNQR1ZrYzhTeWJJR1VTNVQza0UwcmVz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amgen (AMGN) Price Target Adjusted to $328 by Piper Sandler | AMGN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXhXRVlQR3pYeTB2dHVSM2o4N0lnSE1ZQnFTYzRXN3AzVUhfZ2wtbEpGbkJpN0JFeTUwTDByM0U5ZHdHVFNMcENCbWNPZXI1ODFPdTNoODEtU3lETzVUWXloRENTbVhkU0gwVFlzTjF6dEhDbGVqaWRCaVE4U0g0SVFQbjMtaURWMHFLSE92SlZFRjN5TU9lVnZ4SUFLVXZ2MUp4OW1wdWQ5RE1mcEZycHk3RjREWlBLc0Z2eUQ0U3A?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Measured Risk Portfolios Inc. Buys New Stake in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWs2M0lDbzIxbHBoVDZlV3RqRGxkbjE4clFoQXU1SjVzRFJHRlZkSnU1ZGdqREpERnBNRHZOcmk3NDMwUmN1UUo1ejNtMVRydkxOeERCWUktcEptc0twd1hWZjdWMHV4cUxQTi14eW1IbGxVY2h4TXdxczlmR0ZLajQ2VGNoY2M0UjZXSldfa19zUUxUd2pMc2dheURzWjRtb2tyZTlodUZSSHh5d2ZtRG5DZ1lxejh1TVlRZDNPS0RWQkVVc2ZZYg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here is What to Know Beyond Why Amgen Inc. (AMGN) is a Trending Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jTGxqQ3NSZ0lXaU1iSHZSdWlkbXRjR1g4VEJ1YnZnU29SazFac3YzYkdNazlna0daWWoxYXQtVS1iczBMOWlaOGdYejFMbGx1ZnptNE5lcG11d3IyaXh0NVhEVmRaTlUyTnFfenVoRy1OcnBHMDc3ZkxKVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amgen Sets Q1 2025 Earnings Release: CEO Bradway to Lead May 1 Investor Call - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkxXNWRNRUhwaWd1b2NmWk9TbzlxZXpVdHRzWUJSenRCVkE0RTN6OFFlSU5mZmVWWDU3Nmptb2FnVV9ZTWhFNGRpV3kzcm5QcmtFeUZWaGh2NGdqNy1iQ2NHamVJM1RmXzBkT2dWUXNDVzBtWmRWaWk2a19tNDVjXzUxcnVPVjIyRnQ0OFdXX3l1UTUtVUpLSmllZ28zX0lCYjVvUnVnbGZVVGhveEVJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amgen (AMGN) Price Target Revised by Piper Sandler | AMGN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRl82RlE5MFlsTG0xMXJfUEduaV9aeUMtVVBORlcyRkdZTmxiZ2tLRzE4bEdKUVc5cmgwU3dnaFRxek5mRk1Vbjgxb2tkbUo2ZU1EbFk1MkxiRGNzMHItVHRUTGZ5NGg2RGJ6WXRtSDUxNU00Q3ZyYlpiVVEtSWRBS2lLZ0U5VVZfSlo1Rjl6NExacEV4LVA5bFZycG14MDd4d0czamdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New England Asset Management Inc. Acquires 1,085 Shares of Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1pFYlJVMjhMenB2R19HcFBkd0hteFh0OHNZcGVfYjRRampvYWk2d0JmS25PVXB4QmZ4T3Z2OVIxMkpLSzRZX2cxUFJTMDZFX2p4SUlHSDZkVTR2Y2dfcTdYQTBtQldBd2JGU3lacVJQTnQ2am5MWnZsVWROOE0zMTVJbkNpaEdJN1Z0aHRLYkk0aVJ6STlETzBQU0xnX18yV0lJYTVBWkNjMUxwaWJMdE13X3NCUnZzazA1OTd5N0NUZ3JQSUY0WG1VcnI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amgen (NasdaqGS:AMGN) Faces US$407 Million Verdict Over Antitrust Violations - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TcjE5WWxadnpsNUJaRVIxSEVsampvY0kwYzIyYkJ6dFJNYkdDZ1JPM0lYSmlPWFRidzN3cG1WM2M5N212OUlPdzM0SUdfcG03U2VLVjcwM2M2dERfUHh1STZ3YWF0LWdHUjkzNS1DNXRZQTdhLVh0akE2LUVJNUU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mufg Securities Americas Inc. Makes New Investment in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVo1aTdIa2t2VHBRdlZBbGxCMjI4TGJNei1ScFZGbHRIamlNNE9WQ2xtSjJZeWxjTFpyc3VnRU94SUQ1b3d4bm5DZmpGSE9yV0owR3lBTFNYeFFYSi1EQ0dYakwtZTZzUnpBU1dBdWxnUTBSdWt4SXp3TXk3d3kzQ244RnRyeml4cy1ibnA0WWlKclpiX0F4OTVHN0UyZFEtNzMxRkNMWElXNjhnX1I2T2NDblY3VWlIU2FtbGd3XzNMMTR6?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amgen (AMGN) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZU9aMm50VFRTc0pNdk1oYm9tdFJyQUpwMEpITmZRaGRFbnc3VVRzR01tckJCMWxDRUNKS0xCRGlZaTlrMnJtN3RQSlJyV2wxNjhPdUxyeXdrdUVzam9kd1laU2ZTYVNvTlNXM3hSc2JmYlRwMWswZUg1U25uVFdXRXFB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Amgen Inc. (AMGN) the Best Pharma Stock to Invest in Amid the Domestic Manufacturing Boom? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzbDFQWVVUZ0RqZE41bUcxd21IdG81YkJFb193dzZ1OWJQRlZ6R1RrRGktSlJQTHZqWFUzdmhuMlY1d0xobnJhdU1nUXMtd0pRaExLNFRrWVoxNmFiRWNGQlFzbV9ZSWZLTWQtMDE3R0kxMXpJWERNUXFjanQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Silvercrest Asset Management Group LLC Has $30.94 Million Stock Holdings in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONkRPYmxOemZHUkVDbjlNZHF0VkVJT3dLWU9fb191ZTd6ZHo1UTVVeW5pa19rMGgtVGtzRTgwa1ZyY3M0d0JLSU1wOG1wUEIyY1ZBZWNiSkZoUFpBTzRGbkt4ZjR4OV9TVUQzNTNwY0RGR0lDUXdQMWNoaWN0LWVZMG1MdUZqTlBjWlc5aDJHbm10SG16ZWxkTVRMSjdsaVQ0MzJzLWlWaVFaTWJXV0VOTHpnUjlPNHg3SUxROXZlX2lmQ245eDJkanZYSE5Hel8wd1hyaEZsQTIzMjhRYzhJX1FR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shell Asset Management Co. Has $2.31 Million Stake in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWE5fVFpOVTBUbDRCRHp0RC1TZjRwTWlCUXBkcElxTGU4X3ZGLVZ6cEJwbXQwZE04TTFqZUJyZkNoRnhiVk5Ya1B5TW5Pc0tOcU1BTnA3ck5Hb3k5Mm9xV3dWOXNyaXNsdk1ocGpSVzdiV2JFZEtmWW9pa2l6OFF2Uml0alFjVFJlWXJGNlBTT1NrQUI3d3dKcnRYNTZQdU0zbVVJQ1JDZUJSMjRMMjZvbnRpXzN5TkJmVXhSaTB5bjg4YzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sen. Tommy Tuberville Sells Amgen Inc. (NASDAQ:AMGN) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMy1ZOUQ2U0ZmUDRjbFRCU1FOalpneDZ5WjFpWGtkUm1BVkJWRzB1VVpXZTlvSVk3cjcyOGdBVjJqUTc5UnFWQlltT2J1ZjZmR3NBcjh5YmlJSDNYQ1dvbV9LX012el9Na2NXX0gzLTRTRGhmR19Xdk9aMzVtUlBvdG5HaGplR19SeVhoMXAxLTlmNEktMHlGU0NBS0l3aXd5Vmt3T2x0YkVGQzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "It's Unlikely That Amgen Inc.'s (NASDAQ:AMGN) CEO Will See A Huge Pay Rise This Year - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV01CRGh5cENXTzh3Ni1abkNqVEZGOXc4b1pSZjZ4VUZBeWtnVml3bVJmUnBQYUFMWGdjV2xlQ3VrRGFHdWFrakVSVDB6QTdZUi1OYlE2NHd2YVoyMGVmYmg3ZUdHbFc0RXA2UFdzZEJZa1BPbDUwRjNCdVdTbkFwWjZlWm9KYTliVU83czhpS0hyV2ZWbHY3Tl9qbTZCQTR4SEt5X053UjA4UU9FNVFPdHN5ek9nazhaN2c3cjVqLU9neHp3MldycnFnWUZHMWVLUTJOedIB2gFBVV95cUxOQXgtSExYM25CQ3E5cGwzUVZXTkRMLVI3cTBWaWM2RURMZHJLc0tWN0E5eS04SG53WkxUWVlKcTVfVnUtZkIxMUhnZTRSSnBhWGtIT2NXajNIUU1KT3BHSldkQks1RGczc3NUYXktY1FncmxqdnBvTHNmZ0JJTmlUdkhSOEZmVFJGcGJ4aFI0NVFhWHEzWGlBV1lYU2h1SmM3eExXQmE5TzZDV0JCd3RpSjhrLXdEWUxSYVpsSE9UNmgyZjFFWG9vZTdKa05yX21hUU5BSFRHeTZWQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Amgen Is Getting Into the Obesity Drug Business. The Stock Could Become the Next Winner. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZTFhiVzlSdG1uVVhSN0d6a0FIUXVhOTVndjQyOGcwdURrVGFUQVpCQi1FRHZIT2dxWXFtc1VlcWFqYWxGREpfeXhka0VHUVRkUjd4Uk92MFFkWWxnX2V3dHZ1b2g3d1RZTmI4T0tPeW1odHJQMjdV?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 294.53
+      },
+      {
+        "date": "2024-11-25",
+        "price": 294.0
+      },
+      {
+        "date": "2024-11-26",
+        "price": 280.01
+      },
+      {
+        "date": "2024-11-27",
+        "price": 280.07
+      },
+      {
+        "date": "2024-11-29",
+        "price": 282.87
+      },
+      {
+        "date": "2024-12-02",
+        "price": 278.1
+      },
+      {
+        "date": "2024-12-03",
+        "price": 278.32
+      },
+      {
+        "date": "2024-12-04",
+        "price": 278.26
+      },
+      {
+        "date": "2024-12-05",
+        "price": 274.33
+      },
+      {
+        "date": "2024-12-06",
+        "price": 272.58
+      },
+      {
+        "date": "2024-12-09",
+        "price": 277.63
+      },
+      {
+        "date": "2024-12-10",
+        "price": 275.75
+      },
+      {
+        "date": "2024-12-11",
+        "price": 273.41
+      },
+      {
+        "date": "2024-12-12",
+        "price": 274.06
+      },
+      {
+        "date": "2024-12-13",
+        "price": 270.62
+      },
+      {
+        "date": "2024-12-16",
+        "price": 266.5
+      },
+      {
+        "date": "2024-12-17",
+        "price": 265.95
+      },
+      {
+        "date": "2024-12-18",
+        "price": 258.78
+      },
+      {
+        "date": "2024-12-19",
+        "price": 261.19
+      },
+      {
+        "date": "2024-12-20",
+        "price": 263.38
+      },
+      {
+        "date": "2024-12-23",
+        "price": 264.0
+      },
+      {
+        "date": "2024-12-24",
+        "price": 264.49
+      },
+      {
+        "date": "2024-12-26",
+        "price": 263.18
+      },
+      {
+        "date": "2024-12-27",
+        "price": 262.65
+      },
+      {
+        "date": "2024-12-30",
+        "price": 259.3
+      },
+      {
+        "date": "2024-12-31",
+        "price": 260.64
+      },
+      {
+        "date": "2025-01-02",
+        "price": 259.28
+      },
+      {
+        "date": "2025-01-03",
+        "price": 261.22
+      },
+      {
+        "date": "2025-01-06",
+        "price": 258.59
+      },
+      {
+        "date": "2025-01-07",
+        "price": 262.06
+      },
+      {
+        "date": "2025-01-08",
+        "price": 264.21
+      },
+      {
+        "date": "2025-01-10",
+        "price": 262.23
+      },
+      {
+        "date": "2025-01-13",
+        "price": 270.19
+      },
+      {
+        "date": "2025-01-14",
+        "price": 267.1
+      },
+      {
+        "date": "2025-01-15",
+        "price": 268.94
+      },
+      {
+        "date": "2025-01-16",
+        "price": 269.43
+      },
+      {
+        "date": "2025-01-17",
+        "price": 272.11
+      },
+      {
+        "date": "2025-01-21",
+        "price": 274.81
+      },
+      {
+        "date": "2025-01-22",
+        "price": 273.44
+      },
+      {
+        "date": "2025-01-23",
+        "price": 277.88
+      },
+      {
+        "date": "2025-01-24",
+        "price": 275.42
+      },
+      {
+        "date": "2025-01-27",
+        "price": 282.95
+      },
+      {
+        "date": "2025-01-28",
+        "price": 280.3
+      },
+      {
+        "date": "2025-01-29",
+        "price": 281.68
+      },
+      {
+        "date": "2025-01-30",
+        "price": 284.02
+      },
+      {
+        "date": "2025-01-31",
+        "price": 285.42
+      },
+      {
+        "date": "2025-02-03",
+        "price": 288.87
+      },
+      {
+        "date": "2025-02-04",
+        "price": 289.02
+      },
+      {
+        "date": "2025-02-05",
+        "price": 307.81
+      },
+      {
+        "date": "2025-02-06",
+        "price": 297.78
+      },
+      {
+        "date": "2025-02-07",
+        "price": 293.54
+      },
+      {
+        "date": "2025-02-10",
+        "price": 294.79
+      },
+      {
+        "date": "2025-02-11",
+        "price": 296.66
+      },
+      {
+        "date": "2025-02-12",
+        "price": 295.06
+      },
+      {
+        "date": "2025-02-13",
+        "price": 296.97
+      },
+      {
+        "date": "2025-02-14",
+        "price": 291.16
+      },
+      {
+        "date": "2025-02-18",
+        "price": 292.8
+      },
+      {
+        "date": "2025-02-19",
+        "price": 294.27
+      },
+      {
+        "date": "2025-02-20",
+        "price": 297.93
+      },
+      {
+        "date": "2025-02-21",
+        "price": 303.01
+      },
+      {
+        "date": "2025-02-24",
+        "price": 309.72
+      },
+      {
+        "date": "2025-02-25",
+        "price": 315.63
+      },
+      {
+        "date": "2025-02-26",
+        "price": 306.38
+      },
+      {
+        "date": "2025-02-27",
+        "price": 305.82
+      },
+      {
+        "date": "2025-02-28",
+        "price": 308.06
+      },
+      {
+        "date": "2025-03-03",
+        "price": 310.78
+      },
+      {
+        "date": "2025-03-04",
+        "price": 312.19
+      },
+      {
+        "date": "2025-03-05",
+        "price": 316.57
+      },
+      {
+        "date": "2025-03-06",
+        "price": 317.82
+      },
+      {
+        "date": "2025-03-07",
+        "price": 324.86
+      },
+      {
+        "date": "2025-03-10",
+        "price": 327.36
+      },
+      {
+        "date": "2025-03-11",
+        "price": 318.89
+      },
+      {
+        "date": "2025-03-12",
+        "price": 312.5
+      },
+      {
+        "date": "2025-03-13",
+        "price": 312.64
+      },
+      {
+        "date": "2025-03-14",
+        "price": 313.71
+      },
+      {
+        "date": "2025-03-17",
+        "price": 317.17
+      },
+      {
+        "date": "2025-03-18",
+        "price": 318.65
+      },
+      {
+        "date": "2025-03-19",
+        "price": 315.75
+      },
+      {
+        "date": "2025-03-20",
+        "price": 315.04
+      },
+      {
+        "date": "2025-03-21",
+        "price": 316.04
+      },
+      {
+        "date": "2025-03-24",
+        "price": 314.38
+      },
+      {
+        "date": "2025-03-25",
+        "price": 306.86
+      },
+      {
+        "date": "2025-03-26",
+        "price": 305.71
+      },
+      {
+        "date": "2025-03-27",
+        "price": 305.77
+      },
+      {
+        "date": "2025-03-28",
+        "price": 306.95
+      },
+      {
+        "date": "2025-03-31",
+        "price": 311.55
+      },
+      {
+        "date": "2025-04-01",
+        "price": 306.92
+      },
+      {
+        "date": "2025-04-02",
+        "price": 305.7
+      },
+      {
+        "date": "2025-04-03",
+        "price": 309.85
+      },
+      {
+        "date": "2025-04-04",
+        "price": 294.39
+      },
+      {
+        "date": "2025-04-07",
+        "price": 289.69
+      },
+      {
+        "date": "2025-04-08",
+        "price": 280.26
+      },
+      {
+        "date": "2025-04-09",
+        "price": 291.09
+      },
+      {
+        "date": "2025-04-10",
+        "price": 281.41
+      },
+      {
+        "date": "2025-04-11",
+        "price": 285.98
+      },
+      {
+        "date": "2025-04-14",
+        "price": 293.92
+      },
+      {
+        "date": "2025-04-15",
+        "price": 295.3
+      },
+      {
+        "date": "2025-04-16",
+        "price": 282.64
+      },
+      {
+        "date": "2025-04-17",
+        "price": 277.29
+      },
+      {
+        "date": "2025-04-21",
+        "price": 273.68
+      },
+      {
+        "date": "2025-04-22",
+        "price": 278.4
+      },
+      {
+        "date": "2025-04-23",
+        "price": 277.9
+      },
+      {
+        "date": "2025-04-24",
+        "price": 279.84
+      },
+      {
+        "date": "2025-04-25",
+        "price": 280.84
+      },
+      {
+        "date": "2025-04-28",
+        "price": 283.09
+      },
+      {
+        "date": "2025-04-29",
+        "price": 288.56
+      },
+      {
+        "date": "2025-04-30",
+        "price": 290.92
+      },
+      {
+        "date": "2025-05-01",
+        "price": 283.78
+      },
+      {
+        "date": "2025-05-02",
+        "price": 281.22
+      },
+      {
+        "date": "2025-05-05",
+        "price": 280.06
+      },
+      {
+        "date": "2025-05-06",
+        "price": 270.44
+      },
+      {
+        "date": "2025-05-07",
+        "price": 275.84
+      },
+      {
+        "date": "2025-05-08",
+        "price": 272.05
+      },
+      {
+        "date": "2025-05-09",
+        "price": 265.86
+      },
+      {
+        "date": "2025-05-12",
+        "price": 274.76
+      },
+      {
+        "date": "2025-05-13",
+        "price": 270.45
+      },
+      {
+        "date": "2025-05-14",
+        "price": 262.28
+      },
+      {
+        "date": "2025-05-15",
+        "price": 271.69
+      },
+      {
+        "date": "2025-05-16",
+        "price": 272.41
+      },
+      {
+        "date": "2025-05-19",
+        "price": 275.85
+      },
+      {
+        "date": "2025-05-20",
+        "price": 275.01
+      },
+      {
+        "date": "2025-05-21",
+        "price": 271.34
+      }
+    ],
+    "current_price_data": {
+      "price": 271.34,
+      "change": -3.67,
+      "percent_change": -1.33
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

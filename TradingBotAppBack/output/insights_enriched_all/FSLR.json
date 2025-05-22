@@ -1,0 +1,646 @@
+{
+  "ticker": "FSLR",
+  "name": "First Solar",
+  "sector": "Information Technology",
+  "market_cap": 19138764800.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 15.162277,
+    "PB": 2.3376079,
+    "EV_Revenue": 4.435,
+    "ROE": 0.16766001,
+    "ProfitMargin": 0.29716998,
+    "GrossMargin": 0.43608,
+    "DividendYield": null
+  },
+  "technical_indicators": {
+    "RSI_14": 67.18776712107365,
+    "Momentum_10": 36.70906687017954,
+    "MACD": 12.703004772057511,
+    "BB_Percent": 0.8729796633417098,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8889314150560482,
+    "QualityScore": 0.3244724576017196,
+    "SignalScore": 0.4195951465012181
+  },
+  "volatility": 0.0407744659302554,
+  "beta": 1.464,
+  "return_6m": -0.0874411487942622,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 35,
+    "target_mean_price": 199.18913
+  },
+  "news_sentiment": {
+    "summary": "Les nouvelles sur First Solar (FSLR) indiquent que le prix des actions de l'entreprise a chut\u00e9 de 8,21% le 19 mai, en raison d'un manque de b\u00e9n\u00e9fices de l'entreprise, qui a \u00e9galement \u00e9t\u00e9 affect\u00e9e par des tarifs \u00e9conomiques impos\u00e9s par le pr\u00e9sident Trump. Cependant, d'autres sources signalent que l'entreprise a \u00e9t\u00e9 upgrad\u00e9e par des analystes et que ses actions se sont r\u00e9cup\u00e9r\u00e9es apr\u00e8s cette chute, avec un gain de 56% en un mois.\n\nLes titres mentionn\u00e9s ont pour le plus part des titres positifs, avec des conseils d'achat",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "First Solar (FSLR) Shares Dip Amid Concerns Over Tax Credit Timeline | FSLR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWg1cldHYkRxenE2U3NtRmRzZkdlSnRMMEZwR2xGc1VYUjNmZk9oc0lPdUNpRUNXSk5SZzdfejEyQnNNbGxfVzNvS0ZpRklWd3ZBelVua1o1RWdRYUZkQnh0YTBST241WF83azVlbDN3VURkUVVyRnRybk1oYS1BMEtmejJvQ1VmRG5xLXk3UWxpWElRQlVWZDZCVjdVODFNV1g4b1dKSWdwaGljQVJ6eWt1c0NuMW1RdUU2SXNR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Was Jim Cramer Right About First Solar (FSLR) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84ckZwbWJSR3hQNkVtUVJxUFJBX0hDN0lJeE9jcHhNTnVMcTRBZ29icHYtQUVRb0tEMlotR1BJNVRNYW9mak02U3FUZm1iMzNmWU1IRlR5dU5FUHhtdVdIaXVWVTZ0LWIwZlZBd1Mtd1pHa1hiRlNHMkFpSnVwZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$FSLR stock is up 22% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTMtdk9ZX2JSNnJ5SHB4RjctNGRVakROaHBxMUNZeVpzakNZazJfVGdWVTZFRldnOTBYeHNudmdOOWl2SUVFQUQzZ2phVy1GUUp4cFFHTFF3bUJOZXdxT3BTcC0tWHlvdzMxejhGUDh3R3M3YVNkSk55VG9hSjlGcXcySVI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Market Lifts First Solar, Inc. (NASDAQ:FSLR) Shares 39% But It Can Do More - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdHJNdkEzTnItdWpaMGNxSHc0YzNTMXBCY2ZpUXd4REczUHpqUUJjdTJ1c1VNX0JXbWJ2SmN6N25fSEhhN0ctdUhWbFR4YnZyalVlbkpvUW9QclZkYnlzZmExRl9KMkwtRDZWbVVpV2VsbGNPZGFENlhHSFNkSmRkbEk1OGNDbWFDQmU4X052MlpvTlVjYS1aR3RtVjVkb29DMWx3OG9BZFV2b3hiMVM5SEd3YmJqNHg4YVJJc2JLYzZ3S0I3cFpybENhQ3FpYzY3alHSAdcBQVVfeXFMTU1LNjhUU1JNN0E3eXhzN2ZodERObEpmc29ONzRKS203a1hZWUFDTnJlUURYVi1RaVRzU0hKQ3k4ZHRnc1lxTEVTaFk0MEt3aWplV2w2TGpzbHlrMV9UUDdNa2ZQVHFGYVUwUmYyblJXcnFrMDlMRXVjeWlNbk5ZSWdwS2Y1LXBNUlkyTWd0bFZyb3ppQkgyVUk4TXZId21CV2llMkhoT21KNmZDRmxFVHdXMkpmYVQwNHFDbFI2dzZ3ZFFHRENlaUVTVnNGRlFRbHMyR05URWs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Now Might Be the Best Time To Buy First Solar Stock - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1BReHpUMWJvMTNlaVIxOUlBcEFaYjVPN3NXaFlyQ0RLajlDYlVhQkliMUxhOFhFemMySVhZdWMyU1RnbFR6MVB0WklzVjdSdFZXc0ZlV25lT0NnVTNoZ1RpVVJWTjA3M0hEZWpFT3g0eGg2WTNHV1ZnRkhwRENHUEdZQXl3Mk5VVjF6VlMtV0RCWWtGOVdBOGdpTE5OMnpDYjBrUWdiRi1Md1luUUFvclZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Goldman Sachs lifts First Solar stock price target to $255 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSWVET0owVVYwci15bjc0eWlnYmVFSDFlSEhIYjUwOFV3d3RTZ0ltS2ZxeTF1U0N4LVRVWGdQbk81ZTRuOGRVbGs2am5XQzEweTlpNk5ocjZqakhIUVJySW05bGhTZEQ0bE5EY1A5c1YzT2dNdVR0RWxIbFBsRmpvMi1salhoVk0tMnVSRkNOaHJKUUhRSHhlQW5oWlpiemphdGlsS2hlV2JxNzI3VVJtY0w0d1BrVGlr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar Stock Soars. Republican Bill Not as Bad as Feared. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iRzdhaG9jdlRIMm1zU05odWd6QTc0QVhEd1hsaFB4MzhDRmM2VzNScS1IdW5qNk1PTS1SOG5DVFV3SGJjWm5LQXVOMnEwZVVLeFlsbEg5T1M2SHdjaXhrSFlmVi1PU1JvZ3Uyd3dmYm9lNVpBck1jQjJUbjVtNFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Time To Buy First Solar Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWktIMThDN29ieEVJOGxfSTFKVGhTUDg2TDFNMlFzLWptNG9Cb0U1ekh0cUp6Nl9zeDQzMzcySWM3WnhrWHFySjlOb2FTc0RuZ1I0T2NteGlrc0t4VEl0alphdXNMNzVmdjFGNE1mZU1WR0IyUnBiNWZNRFc0ejk5WGtDMXRqSi1SQUNuRGpodFpZdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shay Capital LLC Has $529,000 Stock Holdings in First Solar, Inc. (NASDAQ:FSLR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzExdGhWQ191V2R5aGQwQkVudTJyUnVzbUtRVTBPNGNnVGFmXzNkMTRNVGZBNmhGd01uZWhwbTdIVFRvdTdRQTg1NnVIZWJhMnNqX1NyOFpwWUxZajFtN2NRcFREazk1NXRLbm9RdzNGLTlNaDFLMlBEdi1IeWt5VGtKamtZLWZmZUhCUVhHNzlTd0pHMzJGaF9kaVBZXzkyQno1WkxoSWZrUnFtT3RNZ0FUX25ON3NfWFp5eno1eXd5YzF5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why First Solar (FSLR) Shares Are Trading Lower Today - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXZZZWdYcTBqeVI4cXVkZ2xBSzI4R0V3UFMtTE8xaGVPODRfcUdVcG5sX3NMTXdCR1g0emxyanl6TUdiZzFIV3FTTTJMTVVWX1g2UF9ldmJXTDhheDM0WG8tRFZoUlEyWDdIME5BclJNUGRPMzVJWnhSMzI2TW9hRXBCdzVlOVFEaV9PU01xTFk1M0JMZW1YaUNMUnNEdTlNeFl3VzlZdWk3XzBZOG8tYXZQQmdWRDJlZUdyNTRiTEFPUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Goldman Sachs Raises Price Target for First Solar (FSLR) to $255 | FSLR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWW9HQmtYd3NwUjUzME5wSUxiMy1CcV9KWEQ3Wnlua1FOcTItbkpQdzBaV282ZThmQzFFR21QVDJNZFFacXVYRlpacmkwYldKdkxtaGlON2hRZE0yeHNUUGdsalEtTGRyV18yU3kxc0tXdExvbDFMM2cwbnRHRHVfZ0ZNSThPZ3czdEdLdEFrWjNUR0psU0V0ZkhHU285WkZubkREMzdvdi12Q19VUWVYbEM4UXlBZWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy the Surge in Coinbase (COIN) or First Solar (FSLR) Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaW9xSW51X0h4YnJSZFVGclRLZDBDQXZERHV1c2xjMDVBd2VwZUt6V2VHWGdaamttbFFNdmdtODJKcnBxYTRPZmp3TEZpMGp1RzFhYU5DZU1GT3JyRGpHb0tmV3dDVVlkSS1qWGpLdlQybWdGeHhyQ2JUOGQtaF95RW1FdEpOMTVWWUduc2RNbWl2ZEV6QTJvQ2lxM2tpNEhlNHFmWXZhRjlvcDUx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar Gains 56% in a Month: How Should You Play the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EeURuX1J4QkhJZHdrOWpYMFFGWGRFem82Mlg4a0V0c01WYm1OdGhUQkR4anZKUV9wSUNUQmtSWFd3Y2VuNVZGazRoM0hSUk90Ym5MN1VCa2ZBQmJYbzR3Y0gySC1kaFRfaWpIazJNVkRaTk5JRUEzRExjTFY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wolfe Research lifts First Solar stock rating on IRA benefits - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM2taNzVySERsVG9vb3BLaVNJLTEwWmtqakVmVnozeTRRVzBNSGI4X3RPeEtsZW5JeW12UGlzbk94RFFVTjUzcTJuYmtKUjNOSmdWMnBXdC1RWTZ1OTFBalRxdXdyT3d2Rm5Ick95cGVyMHFWSHF2WE9PQUtlalFjellqdWE5SktxbzE0OFZZdXBhUkMwSU84MzVER2FOR3I4ZURtMVhLTTJCSGJhWTM3YjRtNlF6aXJxZ3NuWkpR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 Movers: FSLR, MRNA - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4bkx2aHI3d1RhTERUTnNhVzlaRGI0ZzJySDFQak11cGdrODRGdW0xRDN2NDVIZndrWnppWDUzUmFySE5WMnZnV0FzNmx4NXhOUERNbWd3cFdULWFIbXl2WHBhck9KQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar Inc (FSLR) Shares Down 8.21% on May 19 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHZFRUtPSUlIVkU4b0c4UWtERERIbTd3d2VTeVo2X2FTNG9uYS1aWWhIelgtTkRHRUNoanpWanF1Rzdzb2JQREpjcnhld1pIOGJsVFhnMHFxaHZHNjVoT1lGTjZWRHZEYUV2eVk1RWZ5clZVVUhCNC12MEY2cVdqZnpoS3ZsbWpDNENfUGRR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "First Solar Misses on Q1 Earnings: Should You Hold or Sell the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjVISEJ2bGRFMlpqYk5FbzRPOWRpNmhpNWNOVWtZU0tFMGtaZjBLTXJ2TXYzV1E4emtwYi1TOTMyeTFsdGR0TG5pWjRZUmxRTmtwVjg2NWpQZjVOdVJDNHJya0xHUUNLRWVIa0M4aldUZUh4T3dpX0tacGhSUU5vdDB6VE9zSm9aWllPX2JwcjBhMHlwanhZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar, Inc. (FSLR): Among the Stocks Analysts Are Upgrading Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QQ3RFN3VJRDBMYzVyajBwVWdvM3dLdVh3RFBlY0I0cjU1dXpWamlFeV9yTUl6RDhSWng1SjlxcXZ3NFFmVk5TendvM2ZhSWJYVkR3RTR2SURvS3g0TGdUbE1ETTNTUU12MzZzb1pUZS0wOGx1TDMwc2pCTnU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar stock plunges as CEO says Trump tariffs pose \u2018significant economic headwind\u2019 - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQjhxZE4tcTQyRV9GLXAtNGhLaVVIeHpEUjNBSGdqU1JHQlFZbHRFeGVkdTlOV0ExcDJRU1VlaDkzdlJ4SUhJWGZEUGxPY0o1aGFxT1ZFYnFBeGhVbzBmVThyY1RaTkxRLVBDYUxuWEIyTlNqdG1pVzEyYmtxX2h6Nllkc0lWUVktRGZ5Mjg2bk1qckd2Qzh4eUJDazI0Nk11WTRmNEZMcELSAa4BQVVfeXFMTTlhdWR0NkhVNFF4cXRPTFk3bWk2ZzFQTVRGVjZzeS1GR2RFbi1ER3c2S1hvWU9VdGxEcmswbzlvRkt2d2psYkFQR2J4SXBNZEk5SnBpQ3ZGVnZUQW1HUllQWGdtWXJWdUNqcE1rRWVvb1dzQ1FqVWNQbXdwQnRQY3lEYVdsUzI2VGFlNkREZ2FEamg4Vk5QZjJYSU8tWEFIZzhwNTBDRUk5T1VKUlBR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "First Solar Stock: Curb Your Enthusiasm (NASDAQ:FSLR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDJZUFFQa1ItZmg0OUF0bjIxMUN0RTIzRFhYb3JCMEZhM2NwVzV6UkdDc1FLYjNlcjNJSWxpaXZiM3NqT05KM05OaWQtQ3RibmJlT0RaUERqSXJYWFNvcS0wNDBhU0lScUI4eWt1VFVibVVGU0pPZlpZX00tbDQxdXFZTjI1QQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 186.05
+      },
+      {
+        "date": "2024-11-25",
+        "price": 192.82
+      },
+      {
+        "date": "2024-11-26",
+        "price": 192.32
+      },
+      {
+        "date": "2024-11-27",
+        "price": 192.57
+      },
+      {
+        "date": "2024-11-29",
+        "price": 199.27
+      },
+      {
+        "date": "2024-12-02",
+        "price": 207.92
+      },
+      {
+        "date": "2024-12-03",
+        "price": 207.51
+      },
+      {
+        "date": "2024-12-04",
+        "price": 201.57
+      },
+      {
+        "date": "2024-12-05",
+        "price": 197.93
+      },
+      {
+        "date": "2024-12-06",
+        "price": 194.19
+      },
+      {
+        "date": "2024-12-09",
+        "price": 200.0
+      },
+      {
+        "date": "2024-12-10",
+        "price": 202.92
+      },
+      {
+        "date": "2024-12-11",
+        "price": 201.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 196.32
+      },
+      {
+        "date": "2024-12-13",
+        "price": 199.67
+      },
+      {
+        "date": "2024-12-16",
+        "price": 190.53
+      },
+      {
+        "date": "2024-12-17",
+        "price": 188.27
+      },
+      {
+        "date": "2024-12-18",
+        "price": 184.27
+      },
+      {
+        "date": "2024-12-19",
+        "price": 175.88
+      },
+      {
+        "date": "2024-12-20",
+        "price": 182.39
+      },
+      {
+        "date": "2024-12-23",
+        "price": 186.36
+      },
+      {
+        "date": "2024-12-24",
+        "price": 186.21
+      },
+      {
+        "date": "2024-12-26",
+        "price": 183.71
+      },
+      {
+        "date": "2024-12-27",
+        "price": 182.63
+      },
+      {
+        "date": "2024-12-30",
+        "price": 178.07
+      },
+      {
+        "date": "2024-12-31",
+        "price": 176.24
+      },
+      {
+        "date": "2025-01-02",
+        "price": 186.47
+      },
+      {
+        "date": "2025-01-03",
+        "price": 186.43
+      },
+      {
+        "date": "2025-01-06",
+        "price": 191.27
+      },
+      {
+        "date": "2025-01-07",
+        "price": 197.73
+      },
+      {
+        "date": "2025-01-08",
+        "price": 191.13
+      },
+      {
+        "date": "2025-01-10",
+        "price": 189.24
+      },
+      {
+        "date": "2025-01-13",
+        "price": 183.61
+      },
+      {
+        "date": "2025-01-14",
+        "price": 185.35
+      },
+      {
+        "date": "2025-01-15",
+        "price": 186.82
+      },
+      {
+        "date": "2025-01-16",
+        "price": 190.89
+      },
+      {
+        "date": "2025-01-17",
+        "price": 192.88
+      },
+      {
+        "date": "2025-01-21",
+        "price": 183.51
+      },
+      {
+        "date": "2025-01-22",
+        "price": 171.9
+      },
+      {
+        "date": "2025-01-23",
+        "price": 174.11
+      },
+      {
+        "date": "2025-01-24",
+        "price": 168.25
+      },
+      {
+        "date": "2025-01-27",
+        "price": 164.31
+      },
+      {
+        "date": "2025-01-28",
+        "price": 160.24
+      },
+      {
+        "date": "2025-01-29",
+        "price": 166.01
+      },
+      {
+        "date": "2025-01-30",
+        "price": 167.39
+      },
+      {
+        "date": "2025-01-31",
+        "price": 167.52
+      },
+      {
+        "date": "2025-02-03",
+        "price": 167.19
+      },
+      {
+        "date": "2025-02-04",
+        "price": 166.23
+      },
+      {
+        "date": "2025-02-05",
+        "price": 162.37
+      },
+      {
+        "date": "2025-02-06",
+        "price": 167.67
+      },
+      {
+        "date": "2025-02-07",
+        "price": 168.34
+      },
+      {
+        "date": "2025-02-10",
+        "price": 162.89
+      },
+      {
+        "date": "2025-02-11",
+        "price": 161.6
+      },
+      {
+        "date": "2025-02-12",
+        "price": 158.61
+      },
+      {
+        "date": "2025-02-13",
+        "price": 160.34
+      },
+      {
+        "date": "2025-02-14",
+        "price": 159.76
+      },
+      {
+        "date": "2025-02-18",
+        "price": 162.87
+      },
+      {
+        "date": "2025-02-19",
+        "price": 162.5
+      },
+      {
+        "date": "2025-02-20",
+        "price": 164.09
+      },
+      {
+        "date": "2025-02-21",
+        "price": 155.44
+      },
+      {
+        "date": "2025-02-24",
+        "price": 152.91
+      },
+      {
+        "date": "2025-02-25",
+        "price": 147.46
+      },
+      {
+        "date": "2025-02-26",
+        "price": 156.84
+      },
+      {
+        "date": "2025-02-27",
+        "price": 141.18
+      },
+      {
+        "date": "2025-02-28",
+        "price": 136.18
+      },
+      {
+        "date": "2025-03-03",
+        "price": 127.63
+      },
+      {
+        "date": "2025-03-04",
+        "price": 131.23
+      },
+      {
+        "date": "2025-03-05",
+        "price": 130.9
+      },
+      {
+        "date": "2025-03-06",
+        "price": 131.13
+      },
+      {
+        "date": "2025-03-07",
+        "price": 139.13
+      },
+      {
+        "date": "2025-03-10",
+        "price": 133.11
+      },
+      {
+        "date": "2025-03-11",
+        "price": 139.1
+      },
+      {
+        "date": "2025-03-12",
+        "price": 136.04
+      },
+      {
+        "date": "2025-03-13",
+        "price": 132.81
+      },
+      {
+        "date": "2025-03-14",
+        "price": 132.51
+      },
+      {
+        "date": "2025-03-17",
+        "price": 133.03
+      },
+      {
+        "date": "2025-03-18",
+        "price": 127.34
+      },
+      {
+        "date": "2025-03-19",
+        "price": 129.34
+      },
+      {
+        "date": "2025-03-20",
+        "price": 128.46
+      },
+      {
+        "date": "2025-03-21",
+        "price": 131.32
+      },
+      {
+        "date": "2025-03-24",
+        "price": 128.82
+      },
+      {
+        "date": "2025-03-25",
+        "price": 131.46
+      },
+      {
+        "date": "2025-03-26",
+        "price": 126.34
+      },
+      {
+        "date": "2025-03-27",
+        "price": 126.6
+      },
+      {
+        "date": "2025-03-28",
+        "price": 127.32
+      },
+      {
+        "date": "2025-03-31",
+        "price": 126.43
+      },
+      {
+        "date": "2025-04-01",
+        "price": 127.57
+      },
+      {
+        "date": "2025-04-02",
+        "price": 129.82
+      },
+      {
+        "date": "2025-04-03",
+        "price": 136.23
+      },
+      {
+        "date": "2025-04-04",
+        "price": 128.69
+      },
+      {
+        "date": "2025-04-07",
+        "price": 130.05
+      },
+      {
+        "date": "2025-04-08",
+        "price": 120.38
+      },
+      {
+        "date": "2025-04-09",
+        "price": 129.63
+      },
+      {
+        "date": "2025-04-10",
+        "price": 122.19
+      },
+      {
+        "date": "2025-04-11",
+        "price": 125.93
+      },
+      {
+        "date": "2025-04-14",
+        "price": 131.26
+      },
+      {
+        "date": "2025-04-15",
+        "price": 126.82
+      },
+      {
+        "date": "2025-04-16",
+        "price": 124.38
+      },
+      {
+        "date": "2025-04-17",
+        "price": 127.98
+      },
+      {
+        "date": "2025-04-21",
+        "price": 122.45
+      },
+      {
+        "date": "2025-04-22",
+        "price": 135.35
+      },
+      {
+        "date": "2025-04-23",
+        "price": 131.1
+      },
+      {
+        "date": "2025-04-24",
+        "price": 136.44
+      },
+      {
+        "date": "2025-04-25",
+        "price": 141.86
+      },
+      {
+        "date": "2025-04-28",
+        "price": 140.73
+      },
+      {
+        "date": "2025-04-29",
+        "price": 137.24
+      },
+      {
+        "date": "2025-04-30",
+        "price": 125.82
+      },
+      {
+        "date": "2025-05-01",
+        "price": 126.57
+      },
+      {
+        "date": "2025-05-02",
+        "price": 130.54
+      },
+      {
+        "date": "2025-05-05",
+        "price": 127.16
+      },
+      {
+        "date": "2025-05-06",
+        "price": 126.76
+      },
+      {
+        "date": "2025-05-07",
+        "price": 129.78
+      },
+      {
+        "date": "2025-05-08",
+        "price": 133.76
+      },
+      {
+        "date": "2025-05-09",
+        "price": 140.68
+      },
+      {
+        "date": "2025-05-12",
+        "price": 156.21
+      },
+      {
+        "date": "2025-05-13",
+        "price": 191.6
+      },
+      {
+        "date": "2025-05-14",
+        "price": 192.98
+      },
+      {
+        "date": "2025-05-15",
+        "price": 186.18
+      },
+      {
+        "date": "2025-05-16",
+        "price": 178.46
+      },
+      {
+        "date": "2025-05-19",
+        "price": 164.92
+      },
+      {
+        "date": "2025-05-20",
+        "price": 167.22
+      },
+      {
+        "date": "2025-05-21",
+        "price": 163.37
+      }
+    ],
+    "current_price_data": {
+      "price": 163.37,
+      "change": -3.85,
+      "percent_change": -2.3
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

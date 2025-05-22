@@ -1,0 +1,634 @@
+{
+  "ticker": "1925.T",
+  "name": "Daiwa House Industry",
+  "sector": "Industrials",
+  "market_cap": 3099724349440.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 9.746562,
+    "PB": 1.1857096,
+    "EV_Revenue": 0.975,
+    "ROE": 0.12589,
+    "ProfitMargin": 0.059809998,
+    "GrossMargin": 0.20259,
+    "DividendYield": 3.13
+  },
+  "technical_indicators": {
+    "RSI_14": 46.40557069265037,
+    "Momentum_10": -2.7934044616876816,
+    "MACD": 7.777724733457944,
+    "BB_Percent": 0.1744308710869261,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.9008789849111652,
+    "QualityScore": 0.3814635616934533,
+    "SignalScore": 0.7174331370067065
+  },
+  "volatility": 0.0119010861327957,
+  "beta": 0.409,
+  "return_6m": 0.0935143190048275,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 9,
+    "target_mean_price": 5312.222
+  },
+  "news_sentiment": {
+    "summary": "Synth\u00e8se :\n\n* Les titres portent sur les r\u00e9sultats des automateurs, la baseball, les investissements, les retours sur les 100 derni\u00e8res ann\u00e9es, les M&A, les performances historiques et les pr\u00e9dictions sur le march\u00e9.\n* Les signaux forts incluent les performances historiques positives de certains titres (265 528 900% et 10 000 000% de retour), ainsi que la pr\u00e9diction d'une crise de march\u00e9 plus grande par l'\u00e9conomiste Harry Dent.\n* Les \u00e9v\u00e9nements marquants comprennent les r\u00e9sultats du show de voitures de",
+    "sentiment_score": 0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Hiway Rodders Mayfest Car, Truck Show winners announced - Perryville Republic Monitor",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSEduallTaldnZWlKWWo3RUx4c3d6Tk9UM2lIMmZXS3VQOVRxVnVGQmpLUXcwZ084WEg0a1BFemV4WDZKblBjYXh5SVIyb2Q2ckx2S1FCV2ItWkVSeTZUdDJkQXd2QURkdEZ1cXVJS25lSmJFMWN4dEtQUUhTOUxTTFhwSXdoeGFxNlNVM0MtTS1yMWwxX0k1blZlUXFNdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "An Investing Lesson From Baseball: Don\u2019t Be Too Scared of Striking Out - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeUtUYjBWczV0VWtlTWp4VFRRejk4cGFCZ0xtZG11alpUZzJ5V0dPaXlBdTlDNzFwRDJCYlBSWEdmS00zWnVBd05QOFpHV0c2Y2dyLVVma2d3NzVUOHlKbHlsVTBIWHJxZ3MtbUNFWDFNdnRTeGpLMEYwVHNBSXczM0t0Ym55MzEyMktVUUlTdlFpWWNwZUZTdlF0ZmV2NjRXMjQxUllRUTgwbldjMDY4UWN2MjlnR0pTMk5LVlBaVlcwYjd0WEprOHNHZlVOVVZnNWRrV1N6cDU1WUlfbGphVHdaMjRraTlpbE9RdDM0X2EzdDZreXFLUGhTeW42c3Y5dERoeGV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Kwung's Aroma Holdings' (HKG:1925) Earnings Are Weaker Than They Seem - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWjlfOTJqeTlRdWIyUjlfWGRHYnNtODFoUm1MRWRGWFBUVTdjcnBJY1ZoV3RtUl9wbExqN01qWDRXYWlFc0dqdTMzRTF3RmlnYy1iZUEyczFXN3hwbHZUYi1HT3F5eE1rTlRpRlRlTDNHLXJZY2JValFwZzJzMDZWR0JWV3VRTTk4WGpPZTJLTUpXaGhXdERxZG1la0c5c0FIVVhnR3F2RUpkNmJJT1N4VFhnQ1lPSndGZ0hET0p1Q0xCM3FqT1o5Umx0MXpoaUh2ODJ4b20taWdmN1k1OFpEZnFiaHJPWFh00gHuAUFVX3lxTE1uQVd4cUZZczAxQ3NoWVhHRkNrWnpWdlhXc2pTNEJaTGsySnRrSlJvRlBBZ3JDaW9YTEF6Zy1aMnFKcGpsdGpxTTA3TmxzMGlsVXpxd2FWUWdGMHFuQzhoRG9QNlFnUVQxVTJSZkcxdVU4YVY4eTQ0S3RId3hiRVJfa0syLXRvV1otMXA5MnFpSEdPU0Z4Q1pRWUlGZU5fd0R4SFZ1VVZKLVZRVWxvOHdDOHg3eDBJNmtnX1pUc2NfNEVkMUxUR2NSalRaWUdBZng0cFRGM0dlSlZ0dHl2Ykl4cWRHeGN2b2l5eFZYNXc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "If You Invested $1 in Coca-Cola in 1925, Here\u2019s What It\u2019d Be Worth 100 Years Later - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQU11NktjUkN5XzVWQ1dIZUpMeVA2U0VUUm1LNnJUS2l2S2o3RVNBUHAzRHBEX0dTZ25ZVDM2emptLWJOLXhDVXp5VWhzVjhWTmhrcU5Qam1OWEtVUHY3bnRxVmhiQ3h6TDJ4R2ZmbXFiazJDbGxfMFpHSC1lbXRfckZ1QW5QNExWc3BxNmdpc0ZyOEZETTQ1QWlvWng3elY1aHVlcUhfU3p4ODdzZWwyamRuQ042MzV2LVZUWmd1bHA3LVdjQjBmbmw1TUk5RmJMUjZvREFya1paR1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Stock Market Crash of 1929 and the Great Depression - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOckg2aUQ2dkROMEViZHpOLUFFRUVmQXRSdEYzWjZwR2FOMkU5TjlsU1FNVk1LUFFrSTdFeFZKMzhXRlZsWEVqT3h3MWhUWG5aV3lUSl9uclg1T1FRaHJhOUhjeWJOQjY1ZTRkVTBjeVJFZzdUTnNuZ2VoYUl1cmRjcVFUM25hLWNsRmRrWDNodjAzY0xwa3E5eXJsR3J0aU5FRHF2OUF2UkNUWG84bTdwaGJ3VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lessons From a Century of Stock Returns: Stay Invested, Let the Winners Run - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0d5M1hxRWdpU0VQTFkzZVhwUThad1F3dE5yaGd3dEN1emVSR0JDWXVxYVJSMmtCcUNLQWUtWFdzMnhjS2M3ZlN3amNHN1k1OG5qSHBtckstamI1YlJlSkhfQjFaQkNwR0hHbVRScHh1VFBUaFNaVDNWMjl1aUpFWUhHNC0xdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "This U.S. President Oversaw the Best Performing Stock Market - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYy00UTVFcTdjSWpSbVlDbWYtbkZvUGRiaEx6YmhBR1RfM3JrUXJHT3RrcW1vcFIyT0EzaEJ2VlQ1YW1kRkd5bkJVT2V0RGRQNjFybHlScC1Gc2cxYmRWUW53YmlvcU9qMXBrb1UzNkplR0VXellMTkZKZkw0aTY5bW9BeWItNkNFWC1Sd0RoVGtUdURNd01zNUxVOUx6aWJBMDhueA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The 17 stocks that made returns of over five million percent - Finimize",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVZbWhPNzlYUlE0N1VqWFNmMzY2NHV3NnZXYnpXRkxjSmljN1BQc0VlaEJ3cW5Tc05jbkMweDRyZjBkMWVaY0JGMlFqV0JrMVFBVzAzUDVqTTVSNzVCbUxld1lrQ2JZblFvUHpGdXVjUEc2akc1UEZwMGQyWmlBMk5lcDBLaktxcWFHaEVaNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The 27 best-performing stocks in the last 100 years \u2014 delivering eye-watering returns up to 265,528,900% - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkk2dG5uOTBMSWNXRUNWNG1mSVV6czFXTzV0a280M080VDNhbE5wRDZpSnlicHZZb2VnMjFILU9ldjh4NmYzVVZvbjFuaUJTTXR0dklNSUVQb0pKUGsyQ0dUZlFoY0ZoTkUya1ZIQnMxTDZCOV9RWVdKLVhaMHJqa0dZNi1zSURzSkNXQlplWjFtcG4xT1BUZGtzeF9tY0c4NzlhN1RGN1lJb2xZLUxaNloxQ0hKQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "10 Best-Performing Stocks Of The Past Century - Bankrate",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FNDVMczAwcFplLXEwQndYNUhRd2RBYktTMURMYmNYU2JqMFBVU1U3UHYtT1VYNnJKd1MxMVlIOUxiTmRMdGcxNERac185QVRtYXVmVG95Ymp4dHlYQnM0NTAzTW5KQVpuTENkT3pQZmNrQ1l0WXk0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ASU study of stock market winners uncovers some surprises - The Arizona Republic",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY1dIcVFIdXJpbDFmTjVVZ3NUdDVKVkdxVFJXTVQ2VWlWS09wREVsamFSM052c04wVnU2WnBOdlQtTzBCSlNHWEZ1YjBLMHpkY2lQNHlCbG1kOC1takFxamRMN2VDZ3ZQOUo5OEpyZklpS0N4WDRLaTFLa2VNZC1IRUhOUnFVaHlQYkVadVZINVNpOUNUZ0R1ZTk4RWNmLTdLQ0xQVUF5ZEpZR0g5X1RRQTF3QUNnR0RCRk14dlpLRXJYaUlVNzdhaloyY29jX1pXVllPZG93?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What are the biggest stock market baggers of all time? - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EUUplWG1kOFZDeWFUb01sRkFNM0pQRl96amNaTnVmOWFmbldMZTJwVXpQaVJ3YjB6YUFEZEswdVBPb3BlZmI1MnBicjRqaVJTMlYyVWc3aEUxMnJWdGNteXJIelItSmJJQlNyd3QxNEY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A time traveler\u2019s guide to the stock market - Sherwood News",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3U3VlWmNUQk40RVoxZUUxbURJT0pUbWlRSmJIZmRQS0pSSHFTYmV0V0pJbUtIMlVzVk5oUThNUmFhUEJBRkZJdVhfN25PN0tFeGFwRzluUXJKc3N4MXB3NkVhYVBLSjdQZER1QXdVb28yS3ZKN2RkOHdVOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Clodagh Finn: How Oonah Keogh made history on the Dublin Stock Exchange in 1925 - Irish Examiner",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkS3dFeFd0aWhZWVg1MlJwSFBVeG5xOVpkMktiY3VsY0lvSjcxUjZJNVNoWU9XR0RmV0EyMjZvNTFyNjNwSzhxS0VndVMzZXdwSjR3X3U0SW5vVXJsQm1VcWJxN3hPZjF2eXFZOTZOMW4yZzUzMlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Economist Harry Dent predicts stock market crash worse than 2008 crisis: The \u2018bubble of all bubbles\u2019 - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWlWa3NEUnhZNDVFLUk2Q192cVlBbk10Qi1LWWtBZHVDT01Sd2xzeC0xQzNiZi1yY1RLNXRXcnRabDZacU5vVzlodWFnM25lV1BTZ3R1VGN4a3dPNFprdS1sSlBpb1ZHaWVKSlU3UGxqeDVuZ0lGVkE4ZzM0cnZ3bnNfOUQySDVjMmZUN2duWGNyWkpHYkRheEtjbTR6dGhUOF9ybTlMSXVCc3dhRmpJY1lLMzZKUdIBuwFBVV95cUxOSFJJbHp0NGlzajQ1eUxNd3dxcUd5MnRjWkFBRE5DVzZsYnQ3ZTN0SlBtQjdGQUJkRksyRXpCTVBrTE1xVmdQR3Y2ZWNZNmU4N2FHOG1HTENPNFdHZU8zcS1PRWNCSndsT2lHWWZ6RWhiQWdoZ2kyYzA2UWhrRS1OQUw3YVpWRkE0TzNseUszQlhSUFhwT2dsZkZ4OWVDZk84RXp6NTF2WURCSGtZSHl4R2V2SDZkSGwxUTlN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What a List of the Best-Performing Stocks of the Past Century Tells Us - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEtuWGFCWF8xVFFxakU5Vkd2UDFXY1R2SGI0RlNxSFlMcURTcHJHYkp3cVRFaHBTMnFLaldKaE1vdXRWZWxhb29NSE0zS09pTzVlUWpaUUVFeU1GWU9QTEZzUHA5b3UzS0YwWC1yeTBLSndtQm1mVWRQZmJNUjRHZVM2bHNYVktscTFiazQ4WFpzQTk2NjkwYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why investors are grappling with a \u2018fear of heights\u2019 in 2024 -- and what 98 years of history tells us - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMGUtZWdnVWhkRFBOaXNhWi10TUdGVlBmd2s5bUduTVFhM01Ta0xSRnYtUVBKcDEtSW1kS2FMWS13UFV2SXc5ZFkydWUxVG1wWE5WWFRaSHVZaTJjR3VtdUFLd3pTbjBxVmE2aE5SU3V3RnZPUHNKS0RfaWtUbG41THNvdmxaN2hJSk5lWUZsMGxRdXNTUV9pb3NHZTl0RlpEVEk1X3dUYWZBN2dEZWRQN2xsWEJzU0tkV19peWpaYXBrU1lpZ1RqQ2VuZFNGLUpwZ0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Investors Fear the \u2018September Effect\u2019? - Fisher Investments",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeno1bHY3a2UwODkzdGJFNVdtV3JFNGxxdjdOb2xXSzRFS1pqaVlhTXZvVFZvYTNmdDd4N253aFpwWjlVOTRPNGZRLXJQc0g5NW8xWVNTQXpGSnNYQ1p6YUxwM1U4cWIyVU9uZERucjAyRnVqOURkaGhuUXFpSVRnbzhZMHRwaGlYTlp3V1hMY3hjZnB5S3ZBSzlvX3A?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "There are 3 possible 2025 outlooks for stocks \u2014 here\u2019s how to find the right one - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmhYOVVJTUd4MFd1R2xkTkU1OWQ0NmV1NGt1R2pocUNhX2pDcGdsVXcwclQwNUZJQTN0Q0ZvV0UyT2tDXzVJenRVNVhwMWV0TTI0NXhUcy1UYWlRdXZXRXVvRVVnczJQTkt2aUlRLUhQM3IxOERIajdzT0Z2dFlka05RRlhueVZNTzdfaC1rQkYwOURxc2ZOTGhJVkZhWHJPMm5IZmFiTEJlcVpwMEdmcjh4cTBnSG4x?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Stock Market Is Doing Something It Hasn't Done in 23 Years, and It Could Signal a Big Investment Opportunity - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNU1ndmdpbURxODlpWnhHTmR5ZmExYUVUUWJkaU1ZNHlCRjhJSFRaRGFwX3JTclFnblRHOWtnSjY5c0NjMDhydXZxSkNDWE5CLVZoSGEzbERQSWZTMlM5YkMtcUV6WGJvUEJleWhBRUE4MHFMbEZyOHZfdE1teXROTUNQcHpMY05sb1c1bko2d1d3YzIwMk01QkZfQW55eDZ6WXhiVFAwY1A4NEw4NjdsT1ZkNzdpb3RwT0E?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 4654.0
+      },
+      {
+        "date": "2024-11-22",
+        "price": 4690.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 4657.0
+      },
+      {
+        "date": "2024-11-26",
+        "price": 4661.0
+      },
+      {
+        "date": "2024-11-27",
+        "price": 4652.0
+      },
+      {
+        "date": "2024-11-28",
+        "price": 4714.0
+      },
+      {
+        "date": "2024-11-29",
+        "price": 4705.0
+      },
+      {
+        "date": "2024-12-02",
+        "price": 4743.0
+      },
+      {
+        "date": "2024-12-03",
+        "price": 4775.0
+      },
+      {
+        "date": "2024-12-04",
+        "price": 4726.0
+      },
+      {
+        "date": "2024-12-05",
+        "price": 4761.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 4764.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 4735.0
+      },
+      {
+        "date": "2024-12-10",
+        "price": 4726.0
+      },
+      {
+        "date": "2024-12-11",
+        "price": 4769.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 4805.0
+      },
+      {
+        "date": "2024-12-13",
+        "price": 4744.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 4750.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 4746.0
+      },
+      {
+        "date": "2024-12-18",
+        "price": 4748.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 4717.0
+      },
+      {
+        "date": "2024-12-20",
+        "price": 4753.0
+      },
+      {
+        "date": "2024-12-23",
+        "price": 4775.0
+      },
+      {
+        "date": "2024-12-24",
+        "price": 4771.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 4788.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 4844.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 4883.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 4858.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 4834.0
+      },
+      {
+        "date": "2025-01-07",
+        "price": 4825.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 4765.0
+      },
+      {
+        "date": "2025-01-09",
+        "price": 4666.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 4625.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 4685.0
+      },
+      {
+        "date": "2025-01-15",
+        "price": 4670.0
+      },
+      {
+        "date": "2025-01-16",
+        "price": 4679.0
+      },
+      {
+        "date": "2025-01-17",
+        "price": 4624.0
+      },
+      {
+        "date": "2025-01-20",
+        "price": 4650.0
+      },
+      {
+        "date": "2025-01-21",
+        "price": 4706.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 4665.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 4701.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 4694.0
+      },
+      {
+        "date": "2025-01-27",
+        "price": 4755.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 4786.0
+      },
+      {
+        "date": "2025-01-29",
+        "price": 4835.0
+      },
+      {
+        "date": "2025-01-30",
+        "price": 4870.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 4898.0
+      },
+      {
+        "date": "2025-02-03",
+        "price": 4880.0
+      },
+      {
+        "date": "2025-02-04",
+        "price": 4886.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 4905.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 4920.0
+      },
+      {
+        "date": "2025-02-07",
+        "price": 4858.0
+      },
+      {
+        "date": "2025-02-10",
+        "price": 4869.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 4845.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 4895.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 5037.0
+      },
+      {
+        "date": "2025-02-17",
+        "price": 5008.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 5008.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 4978.0
+      },
+      {
+        "date": "2025-02-20",
+        "price": 4912.0
+      },
+      {
+        "date": "2025-02-21",
+        "price": 4985.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 4923.0
+      },
+      {
+        "date": "2025-02-26",
+        "price": 4900.0
+      },
+      {
+        "date": "2025-02-27",
+        "price": 4965.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 4936.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 5036.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 5005.0
+      },
+      {
+        "date": "2025-03-05",
+        "price": 5024.0
+      },
+      {
+        "date": "2025-03-06",
+        "price": 5068.0
+      },
+      {
+        "date": "2025-03-07",
+        "price": 4979.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 5009.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 4917.0
+      },
+      {
+        "date": "2025-03-12",
+        "price": 4936.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 4933.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 4932.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 5049.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 5040.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 5076.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 5081.0
+      },
+      {
+        "date": "2025-03-24",
+        "price": 5059.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 5116.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 5139.0
+      },
+      {
+        "date": "2025-03-27",
+        "price": 5152.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 5076.0
+      },
+      {
+        "date": "2025-03-31",
+        "price": 4938.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 5001.0
+      },
+      {
+        "date": "2025-04-02",
+        "price": 4933.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 4893.0
+      },
+      {
+        "date": "2025-04-04",
+        "price": 4916.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 4749.0
+      },
+      {
+        "date": "2025-04-08",
+        "price": 4869.0
+      },
+      {
+        "date": "2025-04-09",
+        "price": 4798.0
+      },
+      {
+        "date": "2025-04-10",
+        "price": 5045.0
+      },
+      {
+        "date": "2025-04-11",
+        "price": 4940.0
+      },
+      {
+        "date": "2025-04-14",
+        "price": 4993.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 5021.0
+      },
+      {
+        "date": "2025-04-16",
+        "price": 5061.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 5097.0
+      },
+      {
+        "date": "2025-04-18",
+        "price": 5167.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 5146.0
+      },
+      {
+        "date": "2025-04-22",
+        "price": 5135.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 5178.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 5079.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 5079.0
+      },
+      {
+        "date": "2025-04-28",
+        "price": 5141.0
+      },
+      {
+        "date": "2025-04-30",
+        "price": 5155.0
+      },
+      {
+        "date": "2025-05-01",
+        "price": 5159.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 5192.0
+      },
+      {
+        "date": "2025-05-07",
+        "price": 5232.0
+      },
+      {
+        "date": "2025-05-08",
+        "price": 5157.0
+      },
+      {
+        "date": "2025-05-09",
+        "price": 5212.0
+      },
+      {
+        "date": "2025-05-12",
+        "price": 5230.0
+      },
+      {
+        "date": "2025-05-13",
+        "price": 5063.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 4950.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 4930.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 5011.0
+      },
+      {
+        "date": "2025-05-19",
+        "price": 5025.0
+      },
+      {
+        "date": "2025-05-20",
+        "price": 4948.0
+      },
+      {
+        "date": "2025-05-21",
+        "price": 4960.0
+      }
+    ],
+    "current_price_data": {
+      "price": 4960.0,
+      "change": 12.0,
+      "percent_change": 0.24
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

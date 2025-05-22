@@ -1,0 +1,646 @@
+{
+  "ticker": "RMD",
+  "name": "ResMed",
+  "sector": "Health Care",
+  "market_cap": 36904550400.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 28.279778,
+    "PB": 6.653713,
+    "EV_Revenue": 7.328,
+    "ROE": 0.25811002,
+    "ProfitMargin": 0.26152,
+    "GrossMargin": 0.59368,
+    "DividendYield": 0.84
+  },
+  "technical_indicators": {
+    "RSI_14": 73.39609109671127,
+    "Momentum_10": 5.120371456723511,
+    "MACD": 7.452285746064035,
+    "BB_Percent": 0.8098255576119526,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8762193829261308,
+    "QualityScore": 0.4308976702575568,
+    "SignalScore": 0.5453568580477357
+  },
+  "volatility": 0.0205570337033862,
+  "beta": 0.783,
+  "return_6m": 0.0558959715516484,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 15,
+    "target_mean_price": 264.488
+  },
+  "news_sentiment": {
+    "summary": "Les titres concernent l'entreprise ResMed (RMD), une soci\u00e9t\u00e9 cot\u00e9e sp\u00e9cialis\u00e9e dans les dispositifs pour la surveillance et le traitement du sommeil.\n\nLes tendances cl\u00e9s qui ressortent de ces titres sont les suivantes :\n\n1. Les titres sont positifs \u00e0 propos de la croissance potentielle de ResMed. Les investisseurs ont confiance en l'entreprise et ses capacit\u00e9s de croissance.\n2. L'entreprise utilise le moins possible de dettes, ce qui est consid\u00e9r\u00e9 comme un signal positif.\n3. Les titres mentionnent une \u00e9ventuelle promotion de la sant\u00e9 du sommeil, ce qui est consid\u00e9r\u00e9 comme",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Here's Why ResMed (RMD) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ib2FtLXF0cmRSVzlERG5HcnpjV3pYTkdvVXBZSHZ4amJQTHZLSW0zUEhpaGVwTDlnNWZIVlBLUjVyV3BXd0xDXzJVMUR4UVVFeVdMZHdfS1dvdS1ONlYzNllndkxkNkFTM01kZ2dMTU5oeWxoWm1pLUEwa2tmdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why ResMed (RMD) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UZE14Nl9EeVJxVDkteEE5cGFtYWpxSE5zZXVUeXEtNmNiQW9ZbHFoaHlycGI1R19NOHZoOVhSeDFXcnNJQ0tQbGZkcXVWTVpuWmE3dW1QTy1RWG44eG05U0VySzBhUzhwZXh3TmRyYktHYzh0Q1hMd3gtYVJ5RFE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GOOGL, RMD: TipRanks\u2019 New AI Analyst Tool Reveals 2 Stocks for Potential Growth - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFM0QXJNNS1Hdl9qcVUxckJLMDF4cXlRUmRDdjdxOS1QV0ZvT1Rib2lNOFA4czRMRjVFVEJ0U0NCUGl5M0pTTDN6WWlRcmFUejlNMVNEdk9zbE5aVm5iekVuZTJDLUJjQ21rMzlOaTB2cXdNSXBYaVliYjU0NWZ1cVliaURCY01FbUpORm04YlJ5RVM1SmNKVlRWSGpzSXdabFNpTnJUUThuQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ResMed (NYSE:RMD) Seems To Use Debt Rather Sparingly - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVVzSGNNRW5fRXlHRnd4N29IeXRPTW9ySjB3MXVZbG9oM3FPb3FLZDF6SWFYejloa0J6ZmlPQTlsUDVyZm83dENkR25uU3I5STB5MGIwVEFSanUxMUxOVU1zeUVuRDYxUllCS1dfS3JJNVF1akQ2MG1SRXM5b3pZOU5jUDFDbXZId09menBUX2VTY0k4a1F4T1doSm45SW9qemlOUXJrZ1hhc2xFQlhDQXBYMNIBuAFBVV95cUxNU05wVnExbFV5aERwODVpb1lrZXpENzVLYUJHZUs0RUFYS2tCYk9ma21BTjRXSHI0YWt2OGxvY2czWHZIZEtSN3hYc2NPQ2xRUzJtV2hfWUFTVm1RbGs4V0dDcFNKT0hsX1BCVEprd1VMam5jTkdTcVhFRklOZFd3WVQxcTQ2enZGWWdkZ1FhMUVOYzM3QTlmMFg1X21KRll4b3dNcmMxU1FzdFFOR2xhaVh2WmVKOUZC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Resmed Acquires VirtuOx - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVS02dWlXeHpUWERHZFRHa2hqNGpmd0l2U1RlaDZZQlBUZ3MtSHg4dFlZUE9xNnlFdnlLclREX0pTS1JvNVUxYU4xeUpqdnNRMF9PcWxyMnM0LW9NXzhDeXRqcjYtRTRBS25ZenczQmNobUlMc2o4eDlLem9yUDl3Nw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Patient Monitoring Stocks Q1 Teardown: ResMed (NYSE:RMD) Vs The Rest - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT3ZacDh0SW42MnU2T2UwZEE2WV9wOUI3N18zdG9QNDROVUJheDNPWExfaU5WRElwWkJpV2MzZDZKLURvMGtub0xBYmw0Nkw3VmFlbHdSTXhkQUlqZjhyUGtCVzdlNVBjUW5Eb0JOUFFXcGQ2bUFMZmpadTVQajZGblBiZ1ZJeGFpLXZZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Resmed (RMD) Partners with Rugby Tour to Promote Sleep Health | - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU21aZ0VtcV96YjFJcmFSQzR3REtNeFZfdVM0UXNJXzhwSHM3aVc0MU1uak5RTUFBc0RyclBndmxPOTVfaEVaS2pTRHpVdVJYUnRIMlpLT1o3eHJsYnhURHVTZmVubzlqeDdVUzhkZTZtZGpCc3BiSVJvZ3gtRS1zTGd0aWtFZ2hGYkV6Q0VCdmVLUjBqOEF6aGNZbklUMzdWdGtNZm5NNjVNanEwOVhVOUpjTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Resmed Inc (RMD): Jim Cramer Says \u201cRemarkable Stock\u201d \u2014 Did GLP-1 Drugs Just Hand It a Lifeline? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmQweUpNOTFUR2FjUGltczV2UTRTTEdSWWwwb1FYd2ZXOEIyVERnNF9hSHRmc0ktejBuRVN4aWNOU1ltY1hTQXc5WEJNN1FfYjQ0RkVYNk03dWE2X0c3U2dWTzhnWm5tRll1RGFwVGQ3NEg3cUNQUU14bDFJZ3J3dmJsS3BpWWZMRFI2ZURRczJLTlkzTEpXNGRSVFRDQTRUdV8zNUdDeXZiM0JJeHpKWldIWmtPYlFCejY3ejdvbDhiS1cxVTdETzk4SdIB0wFBVV95cUxNR3lUVGM2ckNDdGRORXBybGZHLU1BV0NNWF85V0d2bzlmNDZKWldRSkdMelJEN0s4dGg5cWVTYjlDSmFtSDE1cWJNWjhkQTc3NmxLaTkwNEdqbU1ZZDZFMUZoMTRKTTZKSDZ5QndNYVRxdFF5UmhGLUZzMHhhTmlYXzJPOTZmMExwZXZFQVRKbTJ4VFNmMGxaNXpvWVBETzRFWkZRbE9HR0liNjkyejFUcHdHQm9Fb0FVajZPdkhFQjZwdXptbDh0WnN4Y0RyTF9PX3M4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ResMed Tumbles As Organic Sales Growth Steps Down. Will These 'Mega Trends' Save It? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclVnUlU4a002ckk0WEVhRUlFRnM2ekR2ckRSVGtzeTBNTzgtWTZKY05kQXdhdF9jV0FuWjNrVldOaDlDNmRmUmtSRU1DSGh6LWZsUFFEa3VPMmJnelc2M0dXOEZzS1pvdzlCSXZrX2VHaXdkbUVCeHRCdXNGVUxodlE1UXVXUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is ResMed Inc.'s (NYSE:RMD) Latest Stock Performance A Reflection Of Its Financial Health? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmNXWFVfdjFOd3oyQ29QVS01YzJyR1dvWFJUUUd0R3ZRcjNlUXR3bHJqckFMVmpTbzNvNGFOV05rOTdpcjEwSHU0V1Bjc3Z6R0p1d09jSGdFM2NqZmd0X0gzM29UUU5NOFRpR0VaMEQtYjhqRFc2WWs0NVM4UWFKRnFPd3dQTWloT0Z3N1FjUHpVYWQzeFp5TGNUYnpyVnZmT3E5S2ZERW5nM01MRWNra3Q4cEpwb25xY3ZmNVZPSURWY1R60gHKAUFVX3lxTFBKdmQzbFR3aVhOUkxxMlc3MmJGM2hYeWNQaC1RRnRDM0IwX1FBYTFQMGFsODB6Y0FXV0M1TjloVkhQcWE1UER5X1ZZdE5aczhibUd1TEk4elVYdHBjRW53S1h3ZUgycW9MQ1Zia01JNEhCV2J1S0lXYmoydGU5YVJMX2Y0TTVHdUxqSUdhNTVyMW95WGgyUi0yTnpBdGxZcnNnT3Y0WEhCbXpnRVJnUF9JZ2xyNnZPektXbnlkekJSQVZKY3piVTRjSWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why ResMed (RMD) is a Top Growth Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN3FPZFhWWGVVaHd6Tm1MSjQxdFVYXzNvTTZhUFluajkyV0NwTUpzUmVyMkdRa2p2ZDViZ0o1MEZFZDNJQ0dnWVcwbnUxeElPa1ZXbi1lMDY5TllCZ1lIclpKb0Z1TzBSRWRwcl8yVGFHYk51UFhQNm1XdFBTTWx2QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why ResMed (RMD) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55LVVNeVpIU2JrRF8zZWlTaHJOWTVoMjJXYW1mMHpQb1ZRS1c3Z2JOeTN4Nm1pa3pWbW5OdGdONjJrMFZqT2ZZdFl3QkNGZkw5a3NuWEszcUhfZGJwVC1SZ212ZjNxY3BlaE1wMkZhbVluY0hDdkhkeW9VMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why ResMed (RMD) is a Top Growth Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlV2MjB0OVBCYTJyWnJtelQyTUNBRm1pSXF0WUNaaDdtMmJmTDdXVmQxdGhjVjJOUy1QQWo0ck12ZWhIblU0NTJ2eTZiaEk2SnZfaTllTVJqdERLRVlxWlo1aTZWWnB6TFRscmdKbno1bHBZclk4a044cGFLRTdPVg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ResMed (RMD) is a Top-Ranked Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHJaakFqSzlJRHh2LTVqYjBaUVpXbWtSb2JRdUU1X2JOd0hRb3pkNkNJVWdVMnFYOFFHVVBOaExReXFKTDdCcERMbmVDMl8zX241ZFZ1dWtvbDIzajBCdG5HZGwyVGxXVnlWR1hsMjNYdmZBNlRzc0JDSUcwTDFLMWVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RESMED Earnings Results: $RMD Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTZHY2UxeU1HWjExcTVqcmoxeGRPNTFCMlFMcGJGc1YyZGNCSFdfTUQyaWZiMnBMVUphM1NRRE9QQ1ctTEJLYnhpbEp3YmRkYThWS3lUYjRveVVvWXh3VHRfYlhHTmM4WUthT043cUNrMGlEaHFBcWpud2xnbnl6TXh2RFQxUV9McllPZWlQYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why ResMed (RMD) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByaEZQeG5oby03TS1kZ3VsTllzelRrRU9pY0xoREZnMEt1eGtKMjlzR0lHU1haSzU4czJYWHo1WkUtNEVPWUQ0ZTF1OHZRMGNxbmtfRUlFRzB6UzZYTDFVc0ZSUU1LdkhTMzIySjZxazVYOWdlTVJEdTlRS0w0UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why ResMed (RMD) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pOGJCNXVaN0FQV2xaa0VRbVl3TF94Z1Jzckg1VFpOaGRTSlB6RGRYOFYxcU5KMWZkWnBvc2FJTW1YZUljTFNGTklDWlkxTDA3YW5vVmxTQ1dJQm84bjFvbVhORVBJaGhsa1ZjcEVldWpYWUpHYklRZVFqRnFBVTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RMD Stock Benefits From the Launch of NightOwl Across US - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0Rycy14OUVsYmhuYmltYlg2WGZzZ0tnaGtTRi1Xd0p6OWxvQWZTeFhMMldBYktaeXBGNmh2anNTUF9yVmhLcjRuYi1zVmpPM21WaDM4OVc2QXVRNFgyRXpBMm1EVzZva2NzVjFJUDVodDZkUGU4aVFkSEZyamRXbEg3UG5SLXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RMD Q1 Earnings Call: Margin Expansion and Demand Generation Initiatives Define Quarter - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIUDNWOW5XUWNjcXVBODFINjFYWWhLeWMtMUFyNlpra255dUFsT0FZTlJOTUN4MTlOcHB4bncyZ29UaXNBRHVpVlBXOER6T3FYaXRGcXhyeWZ2R2otSVN2c3F0cHJDUWJqVVFmQ3JGZmFpZEZCWEoxd2t4d1B2UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ResMed (RMD) Q3 Earnings and Revenues Surpass Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUJ5NGU4dW9wbEUwbi1ORTJmM0hTTlNQR3g0eGVLeHMxRjdYSTFSVjROY3ZYc2NobF9FaktFWEJELWtWU09kTmJYZFEtWGNmU2xiWHBGQm1ybEFrLWEtWGRIa1FTWlFVQngxNEdxYkdwSnh5ZG8ya3JwLVBoNElaSVNBaw?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 243.78
+      },
+      {
+        "date": "2024-11-25",
+        "price": 249.56
+      },
+      {
+        "date": "2024-11-26",
+        "price": 249.99
+      },
+      {
+        "date": "2024-11-27",
+        "price": 249.33
+      },
+      {
+        "date": "2024-11-29",
+        "price": 249.02
+      },
+      {
+        "date": "2024-12-02",
+        "price": 244.92
+      },
+      {
+        "date": "2024-12-03",
+        "price": 246.91
+      },
+      {
+        "date": "2024-12-04",
+        "price": 245.84
+      },
+      {
+        "date": "2024-12-05",
+        "price": 239.41
+      },
+      {
+        "date": "2024-12-06",
+        "price": 241.41
+      },
+      {
+        "date": "2024-12-09",
+        "price": 244.76
+      },
+      {
+        "date": "2024-12-10",
+        "price": 245.22
+      },
+      {
+        "date": "2024-12-11",
+        "price": 245.78
+      },
+      {
+        "date": "2024-12-12",
+        "price": 242.51
+      },
+      {
+        "date": "2024-12-13",
+        "price": 238.52
+      },
+      {
+        "date": "2024-12-16",
+        "price": 241.02
+      },
+      {
+        "date": "2024-12-17",
+        "price": 242.62
+      },
+      {
+        "date": "2024-12-18",
+        "price": 230.21
+      },
+      {
+        "date": "2024-12-19",
+        "price": 231.58
+      },
+      {
+        "date": "2024-12-20",
+        "price": 237.27
+      },
+      {
+        "date": "2024-12-23",
+        "price": 231.17
+      },
+      {
+        "date": "2024-12-24",
+        "price": 232.58
+      },
+      {
+        "date": "2024-12-26",
+        "price": 233.88
+      },
+      {
+        "date": "2024-12-27",
+        "price": 233.18
+      },
+      {
+        "date": "2024-12-30",
+        "price": 229.5
+      },
+      {
+        "date": "2024-12-31",
+        "price": 228.69
+      },
+      {
+        "date": "2025-01-02",
+        "price": 228.48
+      },
+      {
+        "date": "2025-01-03",
+        "price": 231.67
+      },
+      {
+        "date": "2025-01-06",
+        "price": 235.09
+      },
+      {
+        "date": "2025-01-07",
+        "price": 236.4
+      },
+      {
+        "date": "2025-01-08",
+        "price": 236.17
+      },
+      {
+        "date": "2025-01-10",
+        "price": 233.82
+      },
+      {
+        "date": "2025-01-13",
+        "price": 230.26
+      },
+      {
+        "date": "2025-01-14",
+        "price": 228.83
+      },
+      {
+        "date": "2025-01-15",
+        "price": 233.38
+      },
+      {
+        "date": "2025-01-16",
+        "price": 237.13
+      },
+      {
+        "date": "2025-01-17",
+        "price": 239.78
+      },
+      {
+        "date": "2025-01-21",
+        "price": 247.79
+      },
+      {
+        "date": "2025-01-22",
+        "price": 247.33
+      },
+      {
+        "date": "2025-01-23",
+        "price": 248.88
+      },
+      {
+        "date": "2025-01-24",
+        "price": 250.51
+      },
+      {
+        "date": "2025-01-27",
+        "price": 254.7
+      },
+      {
+        "date": "2025-01-28",
+        "price": 249.94
+      },
+      {
+        "date": "2025-01-29",
+        "price": 252.86
+      },
+      {
+        "date": "2025-01-30",
+        "price": 257.65
+      },
+      {
+        "date": "2025-01-31",
+        "price": 236.18
+      },
+      {
+        "date": "2025-02-03",
+        "price": 240.55
+      },
+      {
+        "date": "2025-02-04",
+        "price": 240.46
+      },
+      {
+        "date": "2025-02-05",
+        "price": 242.58
+      },
+      {
+        "date": "2025-02-06",
+        "price": 237.18
+      },
+      {
+        "date": "2025-02-07",
+        "price": 236.94
+      },
+      {
+        "date": "2025-02-10",
+        "price": 238.56
+      },
+      {
+        "date": "2025-02-11",
+        "price": 237.43
+      },
+      {
+        "date": "2025-02-12",
+        "price": 236.6
+      },
+      {
+        "date": "2025-02-13",
+        "price": 239.48
+      },
+      {
+        "date": "2025-02-14",
+        "price": 232.98
+      },
+      {
+        "date": "2025-02-18",
+        "price": 230.58
+      },
+      {
+        "date": "2025-02-19",
+        "price": 234.51
+      },
+      {
+        "date": "2025-02-20",
+        "price": 232.79
+      },
+      {
+        "date": "2025-02-21",
+        "price": 231.69
+      },
+      {
+        "date": "2025-02-24",
+        "price": 229.65
+      },
+      {
+        "date": "2025-02-25",
+        "price": 236.19
+      },
+      {
+        "date": "2025-02-26",
+        "price": 234.61
+      },
+      {
+        "date": "2025-02-27",
+        "price": 231.28
+      },
+      {
+        "date": "2025-02-28",
+        "price": 233.52
+      },
+      {
+        "date": "2025-03-03",
+        "price": 233.1
+      },
+      {
+        "date": "2025-03-04",
+        "price": 231.48
+      },
+      {
+        "date": "2025-03-05",
+        "price": 223.83
+      },
+      {
+        "date": "2025-03-06",
+        "price": 225.03
+      },
+      {
+        "date": "2025-03-07",
+        "price": 232.44
+      },
+      {
+        "date": "2025-03-10",
+        "price": 236.63
+      },
+      {
+        "date": "2025-03-11",
+        "price": 225.79
+      },
+      {
+        "date": "2025-03-12",
+        "price": 220.22
+      },
+      {
+        "date": "2025-03-13",
+        "price": 219.72
+      },
+      {
+        "date": "2025-03-14",
+        "price": 224.16
+      },
+      {
+        "date": "2025-03-17",
+        "price": 224.74
+      },
+      {
+        "date": "2025-03-18",
+        "price": 220.25
+      },
+      {
+        "date": "2025-03-19",
+        "price": 222.05
+      },
+      {
+        "date": "2025-03-20",
+        "price": 221.11
+      },
+      {
+        "date": "2025-03-21",
+        "price": 219.7
+      },
+      {
+        "date": "2025-03-24",
+        "price": 222.91
+      },
+      {
+        "date": "2025-03-25",
+        "price": 221.29
+      },
+      {
+        "date": "2025-03-26",
+        "price": 221.88
+      },
+      {
+        "date": "2025-03-27",
+        "price": 222.62
+      },
+      {
+        "date": "2025-03-28",
+        "price": 219.94
+      },
+      {
+        "date": "2025-03-31",
+        "price": 223.85
+      },
+      {
+        "date": "2025-04-01",
+        "price": 222.3
+      },
+      {
+        "date": "2025-04-02",
+        "price": 223.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 213.35
+      },
+      {
+        "date": "2025-04-04",
+        "price": 205.17
+      },
+      {
+        "date": "2025-04-07",
+        "price": 213.0
+      },
+      {
+        "date": "2025-04-08",
+        "price": 204.54
+      },
+      {
+        "date": "2025-04-09",
+        "price": 216.44
+      },
+      {
+        "date": "2025-04-10",
+        "price": 210.55
+      },
+      {
+        "date": "2025-04-11",
+        "price": 213.99
+      },
+      {
+        "date": "2025-04-14",
+        "price": 214.53
+      },
+      {
+        "date": "2025-04-15",
+        "price": 213.97
+      },
+      {
+        "date": "2025-04-16",
+        "price": 211.49
+      },
+      {
+        "date": "2025-04-17",
+        "price": 212.91
+      },
+      {
+        "date": "2025-04-21",
+        "price": 210.87
+      },
+      {
+        "date": "2025-04-22",
+        "price": 214.08
+      },
+      {
+        "date": "2025-04-23",
+        "price": 214.44
+      },
+      {
+        "date": "2025-04-24",
+        "price": 236.1
+      },
+      {
+        "date": "2025-04-25",
+        "price": 235.88
+      },
+      {
+        "date": "2025-04-28",
+        "price": 234.14
+      },
+      {
+        "date": "2025-04-29",
+        "price": 237.74
+      },
+      {
+        "date": "2025-04-30",
+        "price": 236.59
+      },
+      {
+        "date": "2025-05-01",
+        "price": 236.49
+      },
+      {
+        "date": "2025-05-02",
+        "price": 239.95
+      },
+      {
+        "date": "2025-05-05",
+        "price": 240.66
+      },
+      {
+        "date": "2025-05-06",
+        "price": 241.95
+      },
+      {
+        "date": "2025-05-07",
+        "price": 244.7
+      },
+      {
+        "date": "2025-05-08",
+        "price": 243.09
+      },
+      {
+        "date": "2025-05-09",
+        "price": 245.04
+      },
+      {
+        "date": "2025-05-12",
+        "price": 247.66
+      },
+      {
+        "date": "2025-05-13",
+        "price": 247.65
+      },
+      {
+        "date": "2025-05-14",
+        "price": 246.99
+      },
+      {
+        "date": "2025-05-15",
+        "price": 248.58
+      },
+      {
+        "date": "2025-05-16",
+        "price": 251.69
+      },
+      {
+        "date": "2025-05-19",
+        "price": 253.35
+      },
+      {
+        "date": "2025-05-20",
+        "price": 248.14
+      },
+      {
+        "date": "2025-05-21",
+        "price": 245.78
+      }
+    ],
+    "current_price_data": {
+      "price": 245.78,
+      "change": -2.36,
+      "percent_change": -0.95
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

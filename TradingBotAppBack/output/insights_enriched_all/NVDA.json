@@ -1,0 +1,646 @@
+{
+  "ticker": "NVDA",
+  "name": "Nvidia",
+  "sector": "Information Technology",
+  "market_cap": 3302080905216.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 45.898304,
+    "PB": 41.77723,
+    "EV_Revenue": 25.047,
+    "ROE": 1.1917701,
+    "ProfitMargin": 0.55848,
+    "GrossMargin": 0.74988997,
+    "DividendYield": 0.03
+  },
+  "technical_indicators": {
+    "RSI_14": 72.92539176603391,
+    "Momentum_10": 18.253269778588972,
+    "MACD": 6.13206635661038,
+    "BB_Percent": 0.9520408115255532,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8035836417044444,
+    "QualityScore": 0.3181165537534958,
+    "SignalScore": 0.4833973328622375
+  },
+  "volatility": 0.0402081633324608,
+  "beta": 2.114,
+  "return_6m": -0.0337367717723473,
+  "analyst_rating": {
+    "recommendation": "strong_buy",
+    "analyst_count": 55,
+    "target_mean_price": 163.21327
+  },
+  "news_sentiment": {
+    "summary": "\ud83c\udfaf Nvidia's AI chip announcements are being overshadowed by market turmoil and negative economic indicators.\n\n\ud83c\udfaf Nvidia's investment portfolio is heavily concentrated on one AI stock, making it vulnerable to market fluctuations.\n\n\ud83c\udfaf The Magnificent 7 stocks, including Nvidia, Tesla, and Microsoft, are being compared for their upside potential.\n\n\ud83c\udfaf Inflation data and a supplier's earnings announcement have negatively impacted the stock market and Nvidia's performance.\n\n\ud83c\udfaf CoreWeave's success has been a significant win for Nvidia, but its stock has also been volatile.\ufffd\ufffd\ufffd\ufffd",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 3,
+    "headlines": [
+      {
+        "title": "Nvidia stock wavers as market turmoil eclipses AI chip announcements - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLU1wal96WkVSb0ZhcC1OYzkzT0pwRHR6T1NuN2pBTDM0ZXdPbC16ajNuRkpySmZidmlrWEd6ZUt1dFBxM21BZDgxYWo0OFh3OHo1WnA2dlFmOGFNeXpoZWdYT2pBTDFualRnN3dWaTdJcEhYRUFkeWRGc3ZZTlVqMVRjWk8zbGNfNzlRUmJmU19HT1doaW9ndTdpWURVWE8tRnFScWM3dUF2V3Q4STRQWmMzNkE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "One AI stock makes up 78% of Nvidia's investment portfolio - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3NYZGVwVVhEUUx6Tms3bmpNMTgyQ1ZSN21ZbUV3V3JrLTRnNUg2WkF5YWhmc1MzcktTTE9LVV9ENEt1TlJnemJXbHNMYUxvYjhaM3R5QlNSdy1nZ25nN0JMaERfRzZvTE1BNjQ3WTR2blpSR1dFMC1jWmtYYW5QazQyY1oyU0xDNnBsY05ISFhuM3VnTE9NaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MSFT, NVDA, or TSLA: Which Magnificent 7 Stock Has the Highest Upside Potential? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0dTME9ZOHpCNTdKYVM4YUtUVWk0QTZuaFppdHE2X19VSmJUVFN2OUpIUEVLYnZxaXBMbTQtVnZjU1ZITHZDbHdINVUxaWJJaVM5ZHA0VXlPYlFadHU1SlVyWnIwUUtKWVVkLUxDcC1EbzIxeURMTll6QUhmS0tKTV9WWFdNdWVVdkhCb3RPekhhVU5reFR2S2hoRHZaTFFhaHQtd0k2dks5dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow Jones Falls On Surprise Inflation Data; Nvidia Supplier Dives On Earnings - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVU5vdWZPQ1pEMjBzdk5sVW5xQjV4UFcyUlNVWDQ2bkNTV183eFJPNUg0WTlGLU5UZWJORENOQjZaTUtTaWs5b3VreWN2R1RBV25xX3p3aVBWWldKWWItZzl4ejllVDBPSDNoMWxXek5ROGRONjNiWEhuLWRvMW1zdVkzanZkYmpSY0YtSGlKNzZob01tQUEzRWNJN2hDS0lJMjZBQVMybDRaeHNnVXlOQTVRSEJyRXU5TzJVQVltQ0dkakxJRUkwU3NhLWZ3MGtSQU1Z?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How CoreWeave Stock Became a $1.7 Billion Win for Nvidia - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3RjNnSFFnaWswOEs0LXR0VXF1WTk1VEQxS1ZTNExfV2dHR3o1M08tN2JwajVWMXRrSVlpcWlRdGpibnN3cVdkSVhtUEozUGp1MmhkRUlxSGFrYWJlUXdjcHp6SDRNWndadC02OU1nM1hPamlTaEtR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Artificial Intelligence (AI) Stocks That Could Soar in the Second Half of 2025 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0dkcG5Hejh5OENuYm1VYlZUeGhwQkkwMHl3b2ZVb0dLTE1MQURSbV9FUGFfOHhUMDA0N3FxSFgzQklYNGpSeTdYRzJjbHBzSDFCbW9qb3ZrZkdYdm9nQTZDZUVIY3BlbWRDQnpGeEpHWmpucVc0N2lhQUdZbHAxX1RnQWxZaUZnalA1aHJzOElRN05Lb0tF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Only 3 Mag 7 Stocks Pass Peter Lynch's Favorite Valuation Test - Tesla Isn't One of Them - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkMxc1hqNVBRZ3JVc2RNRGdJeXV4bDY0azRzYmYwSkkyU3FXMlBBY3ByNHdpU2NBQ2VoWFdxSXZHcDdQakRJREdzclFPRFdya29fVjdBZWZGd2c3cU9vWW8yZll4dzU2WWZleWViOFpQektmcWZIRzlsbE5GbU1STjQxVVNnLWJ0VjFSS0gzTWVjc1diV3lwcWZGaWV5cFJ0WXFsVzJtazhvdVdQb1FXM3BMc2h5SW53X0x5amRaUW5JZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia or AMD: Billionaire Ken Griffin Bets Big on One Top AI Chip Stock - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQWcyZ0ZTYTlKbjRuTmxhLVRVTF9PZjNrMnNWcXpsc084dnI4VHJPa3VEVUVaVDZMZ2JJYy13MGNjX3dHa2x1NnYyZC0tWmI3UVJHYmtxS1UyUGFYTXdoRXRUZG05M1lWWG0tWGNsZU5Eem1CRFh6MDl6U3pNN0RxMy1nOGV6aTRuSjNhNjhFaDRCVnVsNlVPZ0NEQnYwcWl0RjVHbzJpOVBWVkc5Zzl0NjZ4RmR3a1ZBMUdaTUUzQ3gwbmlyc3dTUFdzUFNsQmdHN2hwV3hOQm53aWlfY1U5SDJXSk93SHpIY1RJSml3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wedbush Sees Strong Blackwell Ramp, Reiterates Outperform Rating on Nvidia (NVDA) Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYi14ZGdPdnFuYU9vXzhvVkplc19ZMXBmaUhwX202UDVJd01OZjRGRExIM1J1ZHNQTUp4Szk2R2EwNWJia0Rab0dCR0twU1VDQ0EwcU9teDR0MFAzN0JBck5NSGNXWlR0VmktR2tVU0oxMmFUUExSOUVDdy1tVFRvMUZtWXZsbkk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Morgan Stanley maintains NVIDIA stock Overweight rating, $160 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRk5GUUFYOUI0cFo0V3ZodDVodUJwLTlZTFE5RmVTekpObHFEV0ljbU1LODBkUW5ELWRFVjAweDlWUFJHUGxNSk9aZmZYRDZFeGd6V01pSFlEbjl2cFhNU3pGNEpjdlhXREpQSlliYWZKazBjbkZXdW9lVUVZSnNhX2tVRmp5T2laUU54MWhoVHB6al9Da0dqZk9ReEtkbUhSYkxNc2RsMjQ0RGRxQjdIWjFmWFdHZ0wzUDJGRUVYaFB3V2VR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prediction: Nvidia Stock Is Set for a Massive Rally After May 28 - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0ZQWUlFNDFSUWFYc3BxVFlCZU0yWVMzLVVtU19ibWpFWExUbk1kb0RUMzAtQnRHWG1WaTBWeU83cEtlMHFMN1dIMnZzcmRSQTRSdWhqRER6SjRqcjY1Q2VVb2Ywdzk3eTlIWlhwOUdRTFl2c1FwajNCOU4wUGRJTjV5NFJVbGlOSlJuU093cw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(NVDA) Investment Report (NVDA:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbW5tQzN1eVNPY1hwbDIyU0M5NE9iT0pJQ2dJUGM1NGlDckktWng5ZTB6dXo3aDZScUtRQ1FnS2hsNW10NHV1em9EVWlSb1lJM2pnNHpIQ3dWMTU5WFFQaEgyTkhXSkNIbHdDZVEya2JXV24zRmtvV1lVX05KTGVDUmRUa0g5bGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Stocks to Buy to Play What Could Be a Massive Risk-On Rally Into Year End: VRT, NVDA, AMZN - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkZkYjZwSkUyWVg3STBwa1pjQk5oY0xULVNRMUFsa3cxVU9ScVBoWVJla29NR1hwdDJyeGdzM0pEU1pzQmpvdGhTMzlabVo2Q3M4UlRma3JWN3d6UjI2Y3R5QzBqcGh1N3lVbk40X1o2NnZPUG90ak1QSFhPZ2dDMUNNWXliQWU5NXVTdFNYaURWREh0MmdJNzg3eUN3cUd4Y3lRRF9sMTFoNW9TSFljNW5VZkhPbWRDOUt3WVN4RDdEQVVIeWFxWTAxQ0FqQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia-Backed CoreWeave Stock Soared More Than 50% Last Week\u2014Watch These Key Levels - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUlZMmVPNHVJZk1TX0tPZUluUlJ6VlVyODE0M29wZ2J6RXIyU2U4N0ZBb1pJa2xOdUx1clF3UzdRYUNNUVFUSy0tVTROYThvMFdzcFh5TmJhT3NuVkRoTG9MV2JOeEJ5V08zWkdpVlE0WFk5bTlSTVoyUE0yM2dubFc4WlF2SWJhRTN5V2VzZVRLdkhyeWFJcG5DTkJ1bmZQU1JCdmg1RkpDUmUxY2diLXNRMGpBZ3ZUTGZ0Q0Y2RWpLeGJpRXdJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia Stock Falls. What\u2019s Overshadowing Its AI Chip Moves. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZMWs3QTNwVjdZRzdCQ3JPOWdQak5mOHBpMmMwTjRMaGJ4dHdBbHk4OWpkZk1DNnN4MUk0SFlOb1prZlA0b2hYQ2lyWXNmYmtSYndVRHhrX2tVVE1lVUt1TVJMS003a2w4Y3llcklGbTRYYTFpV1RDVA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prominent Investor Plans to Unload NVIDIA Corporation (NVDA) Stock If It Reaches $140 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRzVVMy1Jb0xUZE1lanZPUC1SUXhfTklmRXRTX1RFeVVjcDRjT2VOWmNfY3QzaEptc1I1VmVCZF9sU2pPX3RCX2hxV2Rud3dLbUFlZmxvQ2plcnJGb0ZiYm14RDk1Z2I3NjktTmlnSlFaeTNxQzRIbGJZM2FybDkwTUJaU05IWEF4dDhDSA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia Stock Climbs Off Lows As Earnings Wait In The Wings - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzhFUjFYUkJ2cElmQmFIc2ltdTdjM0Y4ZHdPQ1FESGFuemVBS2pFNy1EV1Z6N2ZCcEtwV1k0UWU3LWJfZXdyZnlGS2ZBSHdNRU5KbndteDRRR3RfeGo2aWtsazd5X0ltcXdmR3c3VnFXVDRLbkJqaHkxVGJTUVoxRExlM3Uyc0drY3B4NUtGUjZFZ2xjRUxYVmU0OA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TipRanks\u2019 All-Star Analyst \u2013 Who Is the Best on Nvidia Stock (NVDA)? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2ZYd3pjUlpFaFpQVHh5VVQwY1NuN0M0R2VDQjdRR2JxZG5GejdyVXBSU1ByY3E3RE9xVXYyVnJhS21lLXBoSUVib2dNaVFPYW9lTlFaVi1XcDNLVFZuSFR2ZnlNQ3hzT05adW5BVmwxMlFOUTJFWkRSaWRwNmJJT3ZXMFZmRDdrc0V4dDNqdzNWamctOFFV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AI Leader Nvidia To Sell Hybrid Systems Using Rival Chips - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUJETmluREtoRzhQZnBMRWVGeFpOMmx2Z21jQnFCMlB1UURqaUVpaERrS0Z5aDMyTGlmQ1Z5clpQamVsckF5UkpObUJUYUNESmUyMW5ydi1qSEhJODhsUzFRX0d6NENtME1pTnYwZ3RmcGZLbU4tVEk2SkdyRXJWa3pyamlXNWtMX2xlVGVfaE8xaDQ5OXhYZG44UndrczBYY1A3Mkt3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Michael Burry bets against Nvidia, Chinese stocks via put options - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS013eDRlbGZWdThtOFM2dDBrRzFNTDFmM09meWVjLWRVa0RnRjhxTk1fWHVuMGhyRllmNlBWbXFFNmZaY2J3V0VCbDNsbnVsWjI1d3hPZS1LVElHNkdWM3BrdjJ5S19fNS16YkVMZ3dYZHJGRllfWThQUjdueVlWb25fbDB4S1k?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 141.95
+      },
+      {
+        "date": "2024-11-25",
+        "price": 136.02
+      },
+      {
+        "date": "2024-11-26",
+        "price": 136.92
+      },
+      {
+        "date": "2024-11-27",
+        "price": 135.34
+      },
+      {
+        "date": "2024-11-29",
+        "price": 138.25
+      },
+      {
+        "date": "2024-12-02",
+        "price": 138.63
+      },
+      {
+        "date": "2024-12-03",
+        "price": 140.26
+      },
+      {
+        "date": "2024-12-04",
+        "price": 145.14
+      },
+      {
+        "date": "2024-12-05",
+        "price": 145.06
+      },
+      {
+        "date": "2024-12-06",
+        "price": 142.44
+      },
+      {
+        "date": "2024-12-09",
+        "price": 138.81
+      },
+      {
+        "date": "2024-12-10",
+        "price": 135.07
+      },
+      {
+        "date": "2024-12-11",
+        "price": 139.31
+      },
+      {
+        "date": "2024-12-12",
+        "price": 137.34
+      },
+      {
+        "date": "2024-12-13",
+        "price": 134.25
+      },
+      {
+        "date": "2024-12-16",
+        "price": 132.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 130.39
+      },
+      {
+        "date": "2024-12-18",
+        "price": 128.91
+      },
+      {
+        "date": "2024-12-19",
+        "price": 130.68
+      },
+      {
+        "date": "2024-12-20",
+        "price": 134.7
+      },
+      {
+        "date": "2024-12-23",
+        "price": 139.67
+      },
+      {
+        "date": "2024-12-24",
+        "price": 140.22
+      },
+      {
+        "date": "2024-12-26",
+        "price": 139.93
+      },
+      {
+        "date": "2024-12-27",
+        "price": 137.01
+      },
+      {
+        "date": "2024-12-30",
+        "price": 137.49
+      },
+      {
+        "date": "2024-12-31",
+        "price": 134.29
+      },
+      {
+        "date": "2025-01-02",
+        "price": 138.31
+      },
+      {
+        "date": "2025-01-03",
+        "price": 144.47
+      },
+      {
+        "date": "2025-01-06",
+        "price": 149.43
+      },
+      {
+        "date": "2025-01-07",
+        "price": 140.14
+      },
+      {
+        "date": "2025-01-08",
+        "price": 140.11
+      },
+      {
+        "date": "2025-01-10",
+        "price": 135.91
+      },
+      {
+        "date": "2025-01-13",
+        "price": 133.23
+      },
+      {
+        "date": "2025-01-14",
+        "price": 131.76
+      },
+      {
+        "date": "2025-01-15",
+        "price": 136.24
+      },
+      {
+        "date": "2025-01-16",
+        "price": 133.57
+      },
+      {
+        "date": "2025-01-17",
+        "price": 137.71
+      },
+      {
+        "date": "2025-01-21",
+        "price": 140.83
+      },
+      {
+        "date": "2025-01-22",
+        "price": 147.07
+      },
+      {
+        "date": "2025-01-23",
+        "price": 147.22
+      },
+      {
+        "date": "2025-01-24",
+        "price": 142.62
+      },
+      {
+        "date": "2025-01-27",
+        "price": 118.42
+      },
+      {
+        "date": "2025-01-28",
+        "price": 128.99
+      },
+      {
+        "date": "2025-01-29",
+        "price": 123.7
+      },
+      {
+        "date": "2025-01-30",
+        "price": 124.65
+      },
+      {
+        "date": "2025-01-31",
+        "price": 120.07
+      },
+      {
+        "date": "2025-02-03",
+        "price": 116.66
+      },
+      {
+        "date": "2025-02-04",
+        "price": 118.65
+      },
+      {
+        "date": "2025-02-05",
+        "price": 124.83
+      },
+      {
+        "date": "2025-02-06",
+        "price": 128.68
+      },
+      {
+        "date": "2025-02-07",
+        "price": 129.84
+      },
+      {
+        "date": "2025-02-10",
+        "price": 133.57
+      },
+      {
+        "date": "2025-02-11",
+        "price": 132.8
+      },
+      {
+        "date": "2025-02-12",
+        "price": 131.14
+      },
+      {
+        "date": "2025-02-13",
+        "price": 135.29
+      },
+      {
+        "date": "2025-02-14",
+        "price": 138.85
+      },
+      {
+        "date": "2025-02-18",
+        "price": 139.4
+      },
+      {
+        "date": "2025-02-19",
+        "price": 139.23
+      },
+      {
+        "date": "2025-02-20",
+        "price": 140.11
+      },
+      {
+        "date": "2025-02-21",
+        "price": 134.43
+      },
+      {
+        "date": "2025-02-24",
+        "price": 130.28
+      },
+      {
+        "date": "2025-02-25",
+        "price": 126.63
+      },
+      {
+        "date": "2025-02-26",
+        "price": 131.28
+      },
+      {
+        "date": "2025-02-27",
+        "price": 120.15
+      },
+      {
+        "date": "2025-02-28",
+        "price": 124.92
+      },
+      {
+        "date": "2025-03-03",
+        "price": 114.06
+      },
+      {
+        "date": "2025-03-04",
+        "price": 115.99
+      },
+      {
+        "date": "2025-03-05",
+        "price": 117.3
+      },
+      {
+        "date": "2025-03-06",
+        "price": 110.57
+      },
+      {
+        "date": "2025-03-07",
+        "price": 112.69
+      },
+      {
+        "date": "2025-03-10",
+        "price": 106.98
+      },
+      {
+        "date": "2025-03-11",
+        "price": 108.76
+      },
+      {
+        "date": "2025-03-12",
+        "price": 115.74
+      },
+      {
+        "date": "2025-03-13",
+        "price": 115.58
+      },
+      {
+        "date": "2025-03-14",
+        "price": 121.67
+      },
+      {
+        "date": "2025-03-17",
+        "price": 119.53
+      },
+      {
+        "date": "2025-03-18",
+        "price": 115.43
+      },
+      {
+        "date": "2025-03-19",
+        "price": 117.52
+      },
+      {
+        "date": "2025-03-20",
+        "price": 118.53
+      },
+      {
+        "date": "2025-03-21",
+        "price": 117.7
+      },
+      {
+        "date": "2025-03-24",
+        "price": 121.41
+      },
+      {
+        "date": "2025-03-25",
+        "price": 120.69
+      },
+      {
+        "date": "2025-03-26",
+        "price": 113.76
+      },
+      {
+        "date": "2025-03-27",
+        "price": 111.43
+      },
+      {
+        "date": "2025-03-28",
+        "price": 109.67
+      },
+      {
+        "date": "2025-03-31",
+        "price": 108.38
+      },
+      {
+        "date": "2025-04-01",
+        "price": 110.15
+      },
+      {
+        "date": "2025-04-02",
+        "price": 110.42
+      },
+      {
+        "date": "2025-04-03",
+        "price": 101.8
+      },
+      {
+        "date": "2025-04-04",
+        "price": 94.31
+      },
+      {
+        "date": "2025-04-07",
+        "price": 97.64
+      },
+      {
+        "date": "2025-04-08",
+        "price": 96.3
+      },
+      {
+        "date": "2025-04-09",
+        "price": 114.33
+      },
+      {
+        "date": "2025-04-10",
+        "price": 107.57
+      },
+      {
+        "date": "2025-04-11",
+        "price": 110.93
+      },
+      {
+        "date": "2025-04-14",
+        "price": 110.71
+      },
+      {
+        "date": "2025-04-15",
+        "price": 112.2
+      },
+      {
+        "date": "2025-04-16",
+        "price": 104.49
+      },
+      {
+        "date": "2025-04-17",
+        "price": 101.49
+      },
+      {
+        "date": "2025-04-21",
+        "price": 96.91
+      },
+      {
+        "date": "2025-04-22",
+        "price": 98.89
+      },
+      {
+        "date": "2025-04-23",
+        "price": 102.71
+      },
+      {
+        "date": "2025-04-24",
+        "price": 106.43
+      },
+      {
+        "date": "2025-04-25",
+        "price": 111.01
+      },
+      {
+        "date": "2025-04-28",
+        "price": 108.73
+      },
+      {
+        "date": "2025-04-29",
+        "price": 109.02
+      },
+      {
+        "date": "2025-04-30",
+        "price": 108.92
+      },
+      {
+        "date": "2025-05-01",
+        "price": 111.61
+      },
+      {
+        "date": "2025-05-02",
+        "price": 114.5
+      },
+      {
+        "date": "2025-05-05",
+        "price": 113.82
+      },
+      {
+        "date": "2025-05-06",
+        "price": 113.54
+      },
+      {
+        "date": "2025-05-07",
+        "price": 117.06
+      },
+      {
+        "date": "2025-05-08",
+        "price": 117.37
+      },
+      {
+        "date": "2025-05-09",
+        "price": 116.65
+      },
+      {
+        "date": "2025-05-12",
+        "price": 123.0
+      },
+      {
+        "date": "2025-05-13",
+        "price": 129.93
+      },
+      {
+        "date": "2025-05-14",
+        "price": 135.34
+      },
+      {
+        "date": "2025-05-15",
+        "price": 134.83
+      },
+      {
+        "date": "2025-05-16",
+        "price": 135.4
+      },
+      {
+        "date": "2025-05-19",
+        "price": 135.57
+      },
+      {
+        "date": "2025-05-20",
+        "price": 134.38
+      },
+      {
+        "date": "2025-05-21",
+        "price": 131.8
+      }
+    ],
+    "current_price_data": {
+      "price": 131.8,
+      "change": -2.58,
+      "percent_change": -1.92
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

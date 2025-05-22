@@ -1,0 +1,646 @@
+{
+  "ticker": "DD",
+  "name": "DuPont",
+  "sector": "Materials",
+  "market_cap": 29010352128.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 2310.6667,
+    "PB": 1.2704812,
+    "EV_Revenue": 2.826,
+    "ROE": 0.00199,
+    "ProfitMargin": -0.00599,
+    "GrossMargin": 0.37058,
+    "DividendYield": 2.38
+  },
+  "technical_indicators": {
+    "RSI_14": 56.382846712280774,
+    "Momentum_10": 3.0780664607051578,
+    "MACD": 0.5792774539139742,
+    "BB_Percent": 0.8035920817187951,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.562731018452421,
+    "QualityScore": 0.3243157517822056,
+    "SignalScore": 0.6408426360056085
+  },
+  "volatility": 0.0258317438481633,
+  "beta": 1.06,
+  "return_6m": -0.1453620244677554,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 19,
+    "target_mean_price": 84.75474
+  },
+  "news_sentiment": {
+    "summary": "Les principales tendances cl\u00e9s pour l'entreprise DuPont sont la r\u00e9ussite des r\u00e9sultats et des \u00e9stimations de b\u00e9n\u00e9fices pour le premier trimestre, la hausse des tarifs et les effets de la volatilit\u00e9 du march\u00e9 sur le cours. Le prix cible de JPMorgan pour l'entreprise a \u00e9t\u00e9 augment\u00e9, et certains analystes consid\u00e8rent que le stock de DuPont est un acheteur. Les ventes de shares ont diminu\u00e9 pour certaines banques financi\u00e8res, mais le sentiment g\u00e9n\u00e9ral sur l'entreprise reste positif.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "JP Morgan Raises Price Target for DuPont (DD) to $93 | DD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkY2clFESXVlQnk4dmJSaVZ3azNMTC0tdjZRbVZDa2lkaUltTHo5LWZNOGptMFh3ci1nRjV6dUpsTWdwWWhPUTRyZlRjZnRPOEVNVmdsb05hODVJRjhXS0VtY2lMcnR0TlJpS21kX2ZEc0dFaG1Pc3VaQXRjWmk3RElONlFTUUgzMG1sN0JVM0hweXhXZjctWW9nVXZRc0NNbjBQRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont de Nemours, Inc. (NYSE:DD) Stock Position Decreased by Point72 Italy S.r.l. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm82TFhhVkUwSDNoMzNxZDNFN2VBUjJRcHRqZDRTa1dNaHJBZ3RTQWQ1VFdXN3NoMXdtYjZnNVh0dHhWSWhHMmpLVlRxNlF0ZGNXNDNDU25TR1U2Y3JyN3podE4yZzJjcWlOd3VKQTctdElEMTY1S2RqRzdRcmZuMDFWLW4wVEpuai1XakJOdjJwXzBfbW9hZXQtZWE1WFg4dmxyZHgtM2YwLXd3UkxHZy16eWNjMVAwNXhNV3ZEMFNsT0kzN0xB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Was Jim Cramer Right About DuPont de Nemours (DD)? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42V2oySXF2QWRub0NvSWdVS2treTdsNGVDZGJKdGhNWWlSWi1haDV5c2ltVEQ5bFNGLTRwQ21zNWRLY19GYTE4VVJhVmZvc3YtaWlCYUhFTlZFRm5NWWJvRGlsTVRyMFpNdXFNMTZFYm5iei05OHU5LWFtUWd1ZVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Telekom Slovenije d.d Reports First Quarter 2025 Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOajJFV2NVUUdCSzQycy1nZkpDb2NEVHF5M1ozRWRnUnRqQ3p6RDJESVZFcGpjY0UxbWJhNjBaOWt4Sl9WZG9VdkhxSmwxQ043N1dzRFR3cmRNejBnX2RuOGg4VnRTWTgzXzZFRXFGVXBrVXNhSE1tMk5NYzZRT0tlX3V2NzdoWV9sZGMwZkRkRE5vNlZ1VHJiN01JckFXRzdYV0NIMk1iZUYxTGtCRnZqOFJHREx2ekFqRXpJUmRqaW02alRsblUzcmRXVmRSZTB5Qjh1Zy1R0gHbAUFVX3lxTE9BdUJEa0J2VUYyWWk5MlBhYXVrQUdFWVlGdkoxaFFLd0RtSDJtWUhlRjZQNlh5czhmcFVjWVZLa0hDQ2Jycl9CUmxBNVQyVWRvNU5SVldZNFRHWnpHOEJfYkE0Q2gzMXN0RHpiVUk3VnpXWTJYYVI0ZmNjQ0liN2sxYXdlUnVzMVRsdVJXaGJyM1p6NjIzbzhGZHplR0xFd2tveEN0U1FidWRVWm1IWk1wdm1fdnpFampRLW8xdjlORUtyV0UwZzQzaWFxdnRfNHpPLW03WFRfSzNEbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What You Need To Know Ahead of DuPont de Nemours\u2019 Earnings Release - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2pMbWx2REV3Q3FrdGRaRXRWT3M2UWI5OWk3ZDdTUnlHekdQNU5LYldPUkZpNVREYy1MN1gwYjNteWhvOHR0MFdsLTVEZEtRczBSYWxXemZ6dXdLbUhIb1N2WWprSHRBYzM3c0p0QlNOQTU3RWxpTk5zbkRObkFiQUtWZVZ6bWhqVi1VazFxZmE4bGpKZ0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont Tops Profit, Sales Estimates, Gives Estimate of Tariff Impact - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUlFUazBNWDVBQU4zNE93ZjhKUzcydzdxNjFBLXVBRzg4S0lxTHRoX3FGc0NtX2wtNXlVNTdETmpENXEweW0weHkxQUVtUXZhcW00YUVTS0J5THZoQ0dQODNxR0d6M3AyVzQ0Szl3cklDM2RpYzM5a3lhd2RMVURuSlVOMEZvRm9yS2phUk1XU0xDM3FOa3hjU05zaHMyRnpSMURNYXlMYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont Gears Up for Q1 Earnings: What's in the Offing for the Stock? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOXhPcWphNnVqYm5CbTVsNWlNMWtMalhHeFBHMFBYSU5xbWxEM1pCM2ktV2hVUXQyalQzZ1hNZklQZFE1eFR0aDV2NEc3eXJ0TWM3eUZvLUUwcGlaR2N4TDNTeGx0Tk1iaW56ekFfSG1SUS1oMk1JbkZTQkg5VU9abng3T2ZyVTZTX183NklxQXhxUmUxNjhHYlkxYm1WeFFqVjJKaURGcG9Edw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Dupont Stock Looks Like a Buy Now, According to an Analyst - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9teWQtaGtNV0Q1WXNVNjJwYmROQXRpeGxtNHczQkhmS2t6bEFZNmV5QldHaVVKS1RGZkdZS2tObGlaU3Z0Wjg3X2p5WDU0bmFETjA3UXhOSkhucTBZaEU2dW4xQTFBV01mcHpwWEdOZG82YldybHZUQg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont (DD) Sees Price Target Increase by JPMorgan | DD Stock Ne - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdktPb1Q5cU81MUhBVnowazN3ZDBQdnR3eDBKNEFsMnE3VURldk9nUVZRbjgzUWFHdUw2OW45dWR0bW10b0xSc2d5ajh4Z3BsakVBWlhZdDdweENnV3pXTWZoeXF0ekxwUVd4MklNVXY1WmxpbXFmNzBJR1g3Y2V1NzFkVjZaS2NsZmxxRnROdG05LXdKVFR3WEpxVEI4WmZfNzBB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What Is DuPont de Nemours, Inc.'s (NYSE:DD) Share Price Doing? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMlBGTmRhRFJxRzIzYlNMU0tkMEZ1dV82cS1jZTFhQTZrTXNDVmxRX3lkdC1aaU9rMnlRMUthaTFuWkZKYVdtVHphR1M4YmhVTWJ5dzBOTmV2eTF5TFhXdlIyanNkNE1DWXRiaUUzdWJEbXJBbDU0alNVSDM3ek9QOWN0WHVqamk0WGtITEZVNnBsVmd0UzNUNkZvXzZnYzVNTlg0SG5JUTFBUTJsUXRNa2xyeUltSUs3LXJFQVVSTEpRRXVVQzdpRUNB0gHPAUFVX3lxTFBRTnN1OWlRZllUS3N3VDlKM2hlRTZadm9aSEEtalJUZHQzT05PUzdpbFNJUUFIWUs1OHYzQXlEUmdSM2hXdG5vdzEwYzdzaHlzRnV6QVlJWnhtRXVvUElWMWdiS1ZETDY4WHBqQ0x1MDJOSnNGOHRrWDFkOXBwVDhjdmJzdHlRMTJHMDVuRV9NUllUaGxQdHZpYXZZbGIxQzVFeGsyeUY3QmFWWmN2QjZtaXNWRVFPa3E0aUhfcXVmaTd6Y2RoWmowMmxsdUNEZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont de Nemours, Inc. (NYSE:DD) Shares Sold by Man Group plc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDZMZklRWVRzNDdzQlgtbTBUd3JQZTNkc2VMM0RGMjdvVmhXUXlaY2lwSFZpWW5hdmM0cTdaWjRHeW5EM19yMTVUMW1Qb2UtdDlYXy0zMURFcDhTczJjckNwVnU5NDhKblVGVkh2QTY0TFI1NmZOX1l0RXp3QUVPbTJyemJXcGh1bFVDRHA2SmFpS2NBbm1wdkxEejBKSEpBekxfdlMyZnJFMXJLUEtEag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont de Nemours (DD) Tops Q1 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CTmRxWVdzSFVOVGs0U3R1RGRKWFdHMy0weEdrbVIxTGdjajYtd3pVQ3hTaThNSENReVNLN3lGb3U5eWRLMEQ3dzlPNkNDUWZPQ2t0NngxOWd2bG5JRVAxaTdhZ293Wi11ZmlwUHJac3pLZ3FRbmJwLVJMVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DuPont de Nemours, Inc. (NYSE:DD) Shares Sold by Ameriprise Financial Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnZMMGVSdHZ0VXRqblFlemlmR1BqdEhVb3VwM0R6VVowQ0hNZkRvNFhweXVLM0txVlhHWm9OUjltb1RYNURaX1g5SVVyQ0pPdURtVFpsSk5xZmlTSkpFMVV4dzlpeDFTUkdDY2pTcDVWY0pfYnE0LWJycWZ3OHl6TDh6TklpZ3lhc1pqVHpjV0E5bGFPWDBzNjlqNGJrcG5BSXl0aU03ak5LVkhQLUJScy1VY2todjNrdkx2ZU53WQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Some May Be Optimistic About DuPont de Nemours' (NYSE:DD) Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2E4QTBwejdGajI4MjY3ckhsRTdzQ20yUnZXVW01SzJ3cW9xZHY3am02RmdQRnFsTDVpaVpERERIWlZfYmNGV05jbEFLeExEV2VpczFNdFFoZzJzZ3A1WFBObHdfWTRPeGxreXJKaHV1SUgyM3ozU2lab3pxeW54bnl0VXZPLUVfM1RDbE9JRDljdGJZZlFlUEF1eFBYR3BnbDRCZE91MFJpQUt3Q0l6bFh4VGsyYmlmOEpnVkZfdVFHUHdVTmQ0MWU1WHlYUdIB0wFBVV95cUxQSzBGRmtqamVuU0YydjZxZE11LTFyRGdmc2xuU1EtcVRTVDZjWlFQVGt3WTFrYzNoVjJfNmR2QU5tdEQ3UlJFbkRnZFBPQ1dYWnNGUFh0TUZFUkYweVVVY0Z4X2NNdnJYZFRYVUVaNl9NZWpYYXhQNlh4YUYzaEVqNVVERllTWFNyek9JMG5jRFYxdVo3c3VKV2MtT1FRa3kydGZDWHlfN2l6YW1ldVQwbXZVQlpDTTl1Zmp4RlRIcERuRVpFQzhjM0QzMjZNQmdmNjVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont de Nemours (NYSE:DD) Shares Slide 26% Last Quarter Amid Market Volatility - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGlERkR3dU1rQTQ0a3QzbXdZNk5FaHhvd3RqbzJZT0R4M1Z6Y05EYUNjVUJ0UnI4NmN1czNKUi1HdjMyaERfaWxUQ3I1aHFjS3IzNHJCZWZsSWVQc3dNVTRtRVhKMzd5WkhQdUJyeWd0NkU5WkxtYjhodWozVmZfUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DuPont (DD) Reveals Qnity as New Electronics Spin-Off | DD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFJDak10d015bDRWWGt1TEE1YVFweFVPTDRrRG9VUmlMOXlFS05UOUV2enpqVi1RWWFNcHJocTRJTnFMbDZiY21yaEwxQnJoLXNSRE1Kbmc1blVBODlDNVFUSzV6WnY4RUtMb2RjRXFGSzZuUm1ieHRZVFB0enAyeVRvNkY4MjZ2N1F3UUlYMEp6YWcyLTQ4cmdfMkJFbEs0dUlEMHhVYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DuPont de Nemours, Inc. (NYSE:DD) Shares Sold by Focus Partners Wealth - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORUszb1VRZmlqQ0tfN1pPVDdGZWVIcTFaZEtEeENPVlVVSTJpSUJxdGxCblRWQVhXNlVEVVA3a2d4QmJFaUpleTEwLWQzSlFETUxqalZvUUdMZUFTcDB2dW9EX0g1c0NSZVJMSGtpUnBjMld2WnY3SDRKTzVSYWNuLVdIR2toSlFva1Q3RGdOQWV0LXdfZnl2czBnVW9PS096dDVtNG4yN0I0RkRtVFpsd1dLVzYwdVRKZURheg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why DuPont de Nemours (DD) is a Strong Momentum Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wT3RjdWt5eU5uaEljeDZCaFhXS2ZWZGZfd1FRZl9rOE15VUp1bmlTOGVjWWJkbUtvaFM1NDloMzZ6T2Q0NVU4ZXRlcWlEam1MbkJIUW1IR2dzdTdKSmhXRUl3REcwdjhNS0Rlejl3UVhzeGxEVTBoT2ViZVpFQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Petrol d.d First Quarter 2025 Earnings: EPS: \u20ac0.75 (vs \u20ac0.39 in 1Q 2024) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRnpuOGIxZGdNNGtjbjFhektVNnJSVmJSYzIzY1JNZnJXU2FqclhKMlAxSmpmR0R4RExvbmZKNVdFTlNjUG51UUNicEw2RHBjNlhJeUxGZjg1M3dDV3cxaHhELTRQSmV1Q2xuaXhWMWxIRGN4bUZVckpVempqSFlFczZjMzlxUG1aV0hqRzlmd1VPemRYZXJOMV9QU2dOVTZ5MVBFcmRwQUM4VGNEUURqb0JXdXRlSkpHWVRfMUI3RGFuM0dLdHRyQzB2RdIB0AFBVV95cUxNZmZaR0VtdUk2TWdXVFNYVHpIRDRqQjFETDUxcEVDQUVTamxwT2ZvZEJ6NW5tejY4eDlnajlscDVJcEFJRkZicGtNZmMzM1F0U0xWUGFnV0JtSkVjM01CVVNTRHg3X3Y0bTNHa0lPaUpzUDdGVVlZZXJLaktkbU9Hbi0wSGpLby1GRjMxZnVGR2hLWjlCN3hxanBITGVzVmdncVFwQ2ZqcjVueUR2MVBGRTdvY19WMW9CMFdaZkFzVjdyOGZoQUxNQkNsYkl1elN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Point72 Hong Kong Ltd Raises Stock Holdings in DuPont de Nemours, Inc. (NYSE:DD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzJXakN2ZF9KMk1OTWp0aVEwNHp2S2I4ZTJFdXFZLUpsTkpLd3ZEd1lFVFQtUnVFWWZtR3RycVNBdTBPZ2pXTGNkUkk1OVVzNTAxdkZYR3F3YUhWbFd4a3pYLVdQdHpZTHc2RjducFF5bDRVeXlYYUVELU1jZHRxT3gzRWJfMkswamJ4bVV3SHZHOG8yazAzcjcxMTVIOGdvZVU4VVk4V0Y3eVllN0FQbGJtMkRUaG1OdFBac05nMkIyT2NPUGUxVkE1bGE?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 83.32
+      },
+      {
+        "date": "2024-11-25",
+        "price": 84.43
+      },
+      {
+        "date": "2024-11-26",
+        "price": 83.84
+      },
+      {
+        "date": "2024-11-27",
+        "price": 83.9
+      },
+      {
+        "date": "2024-11-29",
+        "price": 83.59
+      },
+      {
+        "date": "2024-12-02",
+        "price": 83.72
+      },
+      {
+        "date": "2024-12-03",
+        "price": 82.94
+      },
+      {
+        "date": "2024-12-04",
+        "price": 82.52
+      },
+      {
+        "date": "2024-12-05",
+        "price": 81.74
+      },
+      {
+        "date": "2024-12-06",
+        "price": 82.82
+      },
+      {
+        "date": "2024-12-09",
+        "price": 83.54
+      },
+      {
+        "date": "2024-12-10",
+        "price": 82.08
+      },
+      {
+        "date": "2024-12-11",
+        "price": 81.93
+      },
+      {
+        "date": "2024-12-12",
+        "price": 81.56
+      },
+      {
+        "date": "2024-12-13",
+        "price": 80.84
+      },
+      {
+        "date": "2024-12-16",
+        "price": 80.07
+      },
+      {
+        "date": "2024-12-17",
+        "price": 80.13
+      },
+      {
+        "date": "2024-12-18",
+        "price": 77.62
+      },
+      {
+        "date": "2024-12-19",
+        "price": 76.85
+      },
+      {
+        "date": "2024-12-20",
+        "price": 77.28
+      },
+      {
+        "date": "2024-12-23",
+        "price": 76.88
+      },
+      {
+        "date": "2024-12-24",
+        "price": 77.25
+      },
+      {
+        "date": "2024-12-26",
+        "price": 77.24
+      },
+      {
+        "date": "2024-12-27",
+        "price": 76.63
+      },
+      {
+        "date": "2024-12-30",
+        "price": 75.95
+      },
+      {
+        "date": "2024-12-31",
+        "price": 76.25
+      },
+      {
+        "date": "2025-01-02",
+        "price": 75.43
+      },
+      {
+        "date": "2025-01-03",
+        "price": 74.75
+      },
+      {
+        "date": "2025-01-06",
+        "price": 75.26
+      },
+      {
+        "date": "2025-01-07",
+        "price": 75.08
+      },
+      {
+        "date": "2025-01-08",
+        "price": 74.45
+      },
+      {
+        "date": "2025-01-10",
+        "price": 72.7
+      },
+      {
+        "date": "2025-01-13",
+        "price": 74.43
+      },
+      {
+        "date": "2025-01-14",
+        "price": 75.28
+      },
+      {
+        "date": "2025-01-15",
+        "price": 76.24
+      },
+      {
+        "date": "2025-01-16",
+        "price": 76.66
+      },
+      {
+        "date": "2025-01-17",
+        "price": 77.47
+      },
+      {
+        "date": "2025-01-21",
+        "price": 78.46
+      },
+      {
+        "date": "2025-01-22",
+        "price": 77.62
+      },
+      {
+        "date": "2025-01-23",
+        "price": 78.21
+      },
+      {
+        "date": "2025-01-24",
+        "price": 77.36
+      },
+      {
+        "date": "2025-01-27",
+        "price": 76.66
+      },
+      {
+        "date": "2025-01-28",
+        "price": 76.33
+      },
+      {
+        "date": "2025-01-29",
+        "price": 76.48
+      },
+      {
+        "date": "2025-01-30",
+        "price": 76.66
+      },
+      {
+        "date": "2025-01-31",
+        "price": 76.8
+      },
+      {
+        "date": "2025-02-03",
+        "price": 76.08
+      },
+      {
+        "date": "2025-02-04",
+        "price": 77.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 77.11
+      },
+      {
+        "date": "2025-02-06",
+        "price": 77.48
+      },
+      {
+        "date": "2025-02-07",
+        "price": 75.78
+      },
+      {
+        "date": "2025-02-10",
+        "price": 76.26
+      },
+      {
+        "date": "2025-02-11",
+        "price": 81.48
+      },
+      {
+        "date": "2025-02-12",
+        "price": 81.76
+      },
+      {
+        "date": "2025-02-13",
+        "price": 84.05
+      },
+      {
+        "date": "2025-02-14",
+        "price": 83.25
+      },
+      {
+        "date": "2025-02-18",
+        "price": 84.32
+      },
+      {
+        "date": "2025-02-19",
+        "price": 82.42
+      },
+      {
+        "date": "2025-02-20",
+        "price": 82.85
+      },
+      {
+        "date": "2025-02-21",
+        "price": 81.65
+      },
+      {
+        "date": "2025-02-24",
+        "price": 81.82
+      },
+      {
+        "date": "2025-02-25",
+        "price": 81.88
+      },
+      {
+        "date": "2025-02-26",
+        "price": 81.45
+      },
+      {
+        "date": "2025-02-27",
+        "price": 80.92
+      },
+      {
+        "date": "2025-02-28",
+        "price": 81.77
+      },
+      {
+        "date": "2025-03-03",
+        "price": 78.83
+      },
+      {
+        "date": "2025-03-04",
+        "price": 77.69
+      },
+      {
+        "date": "2025-03-05",
+        "price": 79.48
+      },
+      {
+        "date": "2025-03-06",
+        "price": 78.76
+      },
+      {
+        "date": "2025-03-07",
+        "price": 78.15
+      },
+      {
+        "date": "2025-03-10",
+        "price": 76.83
+      },
+      {
+        "date": "2025-03-11",
+        "price": 76.32
+      },
+      {
+        "date": "2025-03-12",
+        "price": 75.5
+      },
+      {
+        "date": "2025-03-13",
+        "price": 74.91
+      },
+      {
+        "date": "2025-03-14",
+        "price": 77.09
+      },
+      {
+        "date": "2025-03-17",
+        "price": 77.7
+      },
+      {
+        "date": "2025-03-18",
+        "price": 77.12
+      },
+      {
+        "date": "2025-03-19",
+        "price": 77.57
+      },
+      {
+        "date": "2025-03-20",
+        "price": 76.93
+      },
+      {
+        "date": "2025-03-21",
+        "price": 75.17
+      },
+      {
+        "date": "2025-03-24",
+        "price": 77.07
+      },
+      {
+        "date": "2025-03-25",
+        "price": 76.45
+      },
+      {
+        "date": "2025-03-26",
+        "price": 76.49
+      },
+      {
+        "date": "2025-03-27",
+        "price": 75.96
+      },
+      {
+        "date": "2025-03-28",
+        "price": 74.03
+      },
+      {
+        "date": "2025-03-31",
+        "price": 74.68
+      },
+      {
+        "date": "2025-04-01",
+        "price": 74.88
+      },
+      {
+        "date": "2025-04-02",
+        "price": 75.25
+      },
+      {
+        "date": "2025-04-03",
+        "price": 67.78
+      },
+      {
+        "date": "2025-04-04",
+        "price": 59.14
+      },
+      {
+        "date": "2025-04-07",
+        "price": 57.78
+      },
+      {
+        "date": "2025-04-08",
+        "price": 55.13
+      },
+      {
+        "date": "2025-04-09",
+        "price": 61.95
+      },
+      {
+        "date": "2025-04-10",
+        "price": 57.66
+      },
+      {
+        "date": "2025-04-11",
+        "price": 58.89
+      },
+      {
+        "date": "2025-04-14",
+        "price": 60.97
+      },
+      {
+        "date": "2025-04-15",
+        "price": 60.46
+      },
+      {
+        "date": "2025-04-16",
+        "price": 59.25
+      },
+      {
+        "date": "2025-04-17",
+        "price": 60.14
+      },
+      {
+        "date": "2025-04-21",
+        "price": 60.11
+      },
+      {
+        "date": "2025-04-22",
+        "price": 61.84
+      },
+      {
+        "date": "2025-04-23",
+        "price": 63.06
+      },
+      {
+        "date": "2025-04-24",
+        "price": 66.05
+      },
+      {
+        "date": "2025-04-25",
+        "price": 65.69
+      },
+      {
+        "date": "2025-04-28",
+        "price": 65.67
+      },
+      {
+        "date": "2025-04-29",
+        "price": 65.85
+      },
+      {
+        "date": "2025-04-30",
+        "price": 65.99
+      },
+      {
+        "date": "2025-05-01",
+        "price": 66.05
+      },
+      {
+        "date": "2025-05-02",
+        "price": 67.25
+      },
+      {
+        "date": "2025-05-05",
+        "price": 65.31
+      },
+      {
+        "date": "2025-05-06",
+        "price": 65.04
+      },
+      {
+        "date": "2025-05-07",
+        "price": 64.56
+      },
+      {
+        "date": "2025-05-08",
+        "price": 66.25
+      },
+      {
+        "date": "2025-05-09",
+        "price": 66.77
+      },
+      {
+        "date": "2025-05-12",
+        "price": 71.27
+      },
+      {
+        "date": "2025-05-13",
+        "price": 70.61
+      },
+      {
+        "date": "2025-05-14",
+        "price": 68.23
+      },
+      {
+        "date": "2025-05-15",
+        "price": 68.18
+      },
+      {
+        "date": "2025-05-16",
+        "price": 69.32
+      },
+      {
+        "date": "2025-05-19",
+        "price": 68.92
+      },
+      {
+        "date": "2025-05-20",
+        "price": 68.94
+      },
+      {
+        "date": "2025-05-21",
+        "price": 67.91
+      }
+    ],
+    "current_price_data": {
+      "price": 67.91,
+      "change": -1.03,
+      "percent_change": -1.49
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

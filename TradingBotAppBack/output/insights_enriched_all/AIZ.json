@@ -1,0 +1,646 @@
+{
+  "ticker": "AIZ",
+  "name": "Assurant",
+  "sector": "Financials",
+  "market_cap": 10258596864.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 15.77007,
+    "PB": 1.9644071,
+    "EV_Revenue": 0.859,
+    "ROE": 0.13204001,
+    "ProfitMargin": 0.05554,
+    "GrossMargin": 0.09984,
+    "DividendYield": 1.59
+  },
+  "technical_indicators": {
+    "RSI_14": 56.88252036065239,
+    "Momentum_10": 2.6951565543824176,
+    "MACD": 0.94841398479889,
+    "BB_Percent": 0.8985357807916585,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.9000219827238521,
+    "QualityScore": 0.3465715567702065,
+    "SignalScore": 0.6401800687322403
+  },
+  "volatility": 0.0175357759109661,
+  "beta": 0.581,
+  "return_6m": -0.0802698838876969,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 5,
+    "target_mean_price": 233.0
+  },
+  "news_sentiment": {
+    "summary": "Les titres concernant l'entreprise Assurant, analys\u00e9s r\u00e9cemment par divers m\u00e9dias financiers, pr\u00e9sentent plusieurs tendances cl\u00e9s pour les investisseurs francophones.\n\n1. Morgan Stanley a augment\u00e9 le prix cible de l'entreprise \u00e0 225 dollars.\n2. Keefe a relev\u00e9 le prix cible de l'entreprise \u00e0 225 dollars, maintenant avec une note Outperform.\n3. Morgan Stanley a augment\u00e9 le prix cible de l'entreprise \u00e0 217 dollars et maintenant maintient une note \u00c9galweight.\n4. L'entreprise est attendue de battre les estimations de ses revenus.\n5.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Assurant (AIZ) Price Target Raised by Morgan Stanley | AIZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMjZYR2ZKMk5pTl9FQnFkbG5HVXN2NDJpelZMWkNDcXJvNTFzSW90R3JuOWpwbjI2YzlRYWN1NFZldmNTRFNFTHc1SzZaMUVKcFBYM2hET1AwWEVXeEstS09HekR2MUk3QjFXemFzOUZYY1IzaGRxVmotOHhzSUtfX19JY01PX0RkSHNtMHRScHZFUEp4UnFYdk9Ya0YyektZTTNWUWF5cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Keefe raises Assurant stock target to $225, maintains Outperform By Investing.com - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFNBcDdCd3FpZ2Y2MjFfRTlPb2x3VnZxX1R6Ul8xNjF6XzQ5c1ZYQlQwb1Nob0ZXWDU4OHZ3NW1yMDExMXl5aVdWTm5ma3k3SWQ5Sk82Q3F3N2lZQ2VLb1NHWXJ2bzUxT3VydFkxVW9uYkVjZi10QmprdFVjUjZiWDVWckRxNFp1RW5qYS0zS1YtYXlmb1pvNXI0QnBOWEEyTEJWVjd3bENrT25tbkZmNTh6T3JtZHBobkotRXlR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Assurant (AIZ) Target Price Raised by Morgan Stanley | AIZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbWl6WjVYR2RPMzktVkRuQ3ZmdnVGSWExWmV1VElXMm5kRzJ2c3VuNDFaQnRobWtPV1AxTnItVlhlWl9ueTQzbk85LTlPbzI3UG0tUTA5dmtRTnMwcnVra1M3YTJyTG1tR3p1ZU0yMVFrcFZyLUE2TU1MZkRIRHhOV1lUc195VDYyZmdsMGVwR2d6UXVDZWpDMXl6d0xrS3FTWC1hY3hXcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Adjusts Price Target on Assurant to $217 From $200, Maintains Equalweight Rating - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSHFhNzJ2NkFReHQ4dl9mMDJCelNPY2tKTnJ4ZVdUWXJVNnBoR293Q3d4OHkxMFNmemJjeDkxcDB4bVZyZ1BtNXhvYkY2QXQ3TEFzU0Y1NmV5NmdtODRfTExOSjJiOXJDSFI5V0h3SU1XSmNNVXJMZjFCZzF1LUVzNVU1V0xqQnpfZEtmSDhxcmVpel80QWJ1UlBIZ1ZmdUpVVm8tVUM2dFIwRWZIUzlDZlB2Z1JpOTBVNTFEZ28yWE5mODM4bnM3d3BndTN1Z0dtcnZwNHpiUXNzZkg5bWtNMlY4Sll6cU9QOS1sZ3VYYnlNSVhobTRKZUZCaXRwQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant (AIZ) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzlsSXd3UUx6QTFMdkZCaGJYRG1XaW5pRWpwVWdLMFM3YW03TWNkVDU2VXZQZFBTOE9Ic3ltYkliTzlEV3FPN0JtU3VSSHN1Znkza09YWlVUMUp4cXBjczV6NWlZdXAwVHVoTm5EWVp6eno1MVhMV2Q5VDZjNzdHSEdrNGtXTzB3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Assurant Stock: Is AIZ Underperforming the Financial Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVFdQMTVuVFdzdll6UGdZM2MxYnd1VkdDcjE5NE0teHdKRHdxM05Ybm1wYlVZcS1oVEpJT0dhRFJ6ZjgtcUpXU0stYTVyVmJfNkhkR0ljV2NhczlDVk05X0p0X1ZEcGxKMEh3R1djcXIyRTNlcnNTS1FQZ1B4dk9kdmJ6REd4SVdGZ1Nr?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Global Protection Leader Assurant Readies Q1 2025 Financial Report - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNS1sdFVpMTVOdkxYVWhzTlljVXlWVU8ySFF3d3ZqdExZVjdISFN4azVnRG8xRDBOaW53VXJuVkctZk1wa01KQTNfakhHdFpwTjRnb0pGU0hXNlhFcktsdU9lSDJUazBQVzFBVV94amNyU2xCajZBOFZuVzB0VHRscUJubmRXeERtbno1VEJwb0E4SFUzWmtfS25QaUNPNXJiVThHVEV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant: Consistent Growth Through Strategic Partnerships And Focus - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW5WeUhwTUM5aURYY2x1bXZkelQ4NWQyWlVxLWlJVVM1RG84LVJrSEVxTHB3RU9WaDlkUTlaMW9hTk9QbERYeElNNmI3bm82dFN4Z1p2RDhGNWpiaE92VUtxaHJhdVRMRlVaY0hBdmp6bE1wVHpncy0tXzhiXzZuMFNzTUp4cUwxTGdtb0NOdzNPUW0zV3JQQlNvOGFIamxEX3VraHM3NFJia2JX?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Analyst Maintains Outperform Rating for Assurant (AIZ) and Raises Price Target | AIZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOWNBeWQyb0U5U1JFeHlza01ZVmRILWhmU3hqNzJzNVgyXzM1NVItbE5FRll1TVFoVnkwdTh0WXREUndQd2RmRW1HUTA1TWhZYVZHV0IwN3hVRTJSbHUxUXhOU1l1YmFMRmlDbVF1b3pocVNQdGlJTlNwMnRtckhaOEhqUnBqOE5EVF85ZHFILThHYTNZWjRsNnFPbjYtUlJZcXRyTExYMkhjcTJmZUxXN2NKbWwxSllzMG9JbkZvMUtscFdyeEM1RndWY0ZPaEkxMWlveXpGQzhWTHVGUFc2VGVQTkNuSVBSYlVXZ2tVVVdqeEpKMVBEcDJLOEtFU0Fxel9HcGplSlZ4ZURnSTVvag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Assurant (AIZ) Stock Undervalued Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDhRSTl2a19CeS15SlEwcEMyN1NORkRkTEg1b0w5eUx1ZjJjeDllWE55WE5wLWdqNFhSNFVuTmFlWTFrUTl5endBRmZvTVM4a2toSlFDUm12emlzOFFpRTVqeEpmWklOcTMydDJlaklwakNsbjZiRGxTLXA1cTBVUHNnSGdMdEk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "5 Stocks to Watch From the Prospering Multiline Insurance Industry - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaHJMQ2lZUmlZTVlTY0FXcG9hTHJwb0JWUk9aZlVKS2J0Ri1hdGhUR3F3UjFpQV82VkhJazR4NW8xUzNta1Q3WWttWlhINWVSZlZCRkNXRGtnNkFtaWhWQXlJOU9YVmdkeHZwekJqSExvZDBXYlJiWmpuNjh0OUE2dzdYdzV1cWRBeEJtZk56Y0hvQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant (AIZ) Price Target Increased to $225 by Analyst | AIZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemJkMEw5d25DSmF6dDhkZ3VvUzdnS0hVd1dSM3REakUwRFhSdUM0SE1ab3lkdzIyaTl4N2NnUnUxSlNfVVdnMWR2RmJaWjFtX0ZIdVdRTTJlQ21RRlFxci1LSkNmTk1uQjRXVDZmTFlWaVVNdkFVeFREX3RBTEc3NHoyQ0hCaXFDWUNSY0RPSGVLQm5xOWNKVnJuRGRwU3BfZ3pTZ1BXZDZtM1ZtUUlvbFdvVHlyZXVEa053?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Will Assurant (AIZ) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRnhwbjlUWVlMWVJJckthVXhxY084amU3ZjVEX1B3X3c0a05pVWlFS3VzTmpWTE5YekdRcm1kYTFKWjRoSkhPMHZ2WnNxUzM2TFh5V0U2RmVJbThDU21sdTk1VFNNOG5pWHVCVkhnbVQtRFM4NXdVT0xBM0dicVRNN0JUQmFOdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Implied Volatility Surging for Assurant (AIZ) Stock Options - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVVfWkpGU1BlRzF0bF9PcVdqYUlCZ05ZVXF5Z1hXZFdONjc2WEkzQWhpejREVTBzRG1RUm5hOUF5X3QxbUpWeVFMNDNlMnZaY19QUTdMbDhra3hsbGJGVEZNNW5MZ1VSSkNGOGJlZFN3YzJGVllZaTRRbjRma2U4OE10UVctSDQzYi1SOFgyVnM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant (AIZ) Beats Q1 Earnings and Revenue Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHdyMjJQV3Z4dHJFQmVIT0xZNF9RYW9JbEVuTk1vYVdUN0RiNU9SaHRHVnpBWV8xalhpVDZTd2xaTGZuclBYM19PbTdsZ2pSc01qejJMNXVGdm5ZR0V6UG9XVmFIcVlwdWtyQWQ5QWtMQm1qVzNZM2hfTmR1UUEteUJWZ0lXak1QUU1ycQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Assurant (AIZ) Down 2.8% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ITWVRZW5VTms3NU5NZHFrNzNkUDBQMk96WFJPYVZUODdRRkRKSnB3MnBFekQ5WGNfTjF4TGpYcVVHNVdrdUgwaGpXUXVmQnVySEwxZ3cwRmlDdUctN0JJb1pMOUdvb1NTenJPclcwcEZDc0M3dndoaQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Assurant (AIZ) Reports Slight Revenue Beat in Q1 | AIZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdFJZUW9odnpyQm1zYmhUcG5ic2kyQmtfM19JdnpCeGJaRXdKMTBHaURkZE5iTml5UExLcDJHNUlLRzlTXzRQcEFVNFJCVktndnFFLVFjekh2LWdPang0WW5jRVU1c1ZEb05YMTItN2ZDMmhtaldobVRScDV5OXp6VmhlZ2MyTDVoaXVWTjdDaEtvd0gxNU5WaUhHYUlibDhSaXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Assurant (AIZ) Stock Jumps 7.5%: Will It Continue to Soar? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FM0xIQlRQMjRvTFhlQnZBbWxMSXp1aXJLeVRwRUtjR1NWTGc3MndIZVNRcjJSU1lZbzJxSDJ6RUJrdUpkRFBYZU83UFEteXVRNGx0d3lYUEFSOVVtc3gxNWNQaXl4N3kxanBEdDN2ZUNHcENlZW16MXIxemQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Assurant Reports First Quarter 2025 Financial Results | AIZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3RfMVFTZEpKYUktNmRmRGhMNmdFSE1KWlZxVnNGR2hEb252VUZIMXptbDRZdHQ3cUFxd25kWUtsZ0lEUy1NUnNTSjV5QUNLTDBZZzQwMGUtVG9WVmNNQ0JxVjJ3dmc3UWJWaVhHcVdTWC1vSGhRRlV2UTF6YmtPejBkNFFpREhPU0xncF9LYkc1WXkxbWhiRU91QnRGTjJWQm4yb2M0SkNFNXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fortune Recognition: How Assurant's 400+ Patents Drive Innovation Leadership - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3o5dlV1NFJoUzdHdWoxRWV0M0dzV01Qc3NvLVpxZmcxWDlBY0c3YzVaNjFOdFg3WkUyLV9ud3Z2LWRDX0NaOV9yVHFkNV9LX1Rlc3QxTy1qYVZPNHJsdDNza1E3dUZiT2dGdkpFaTBOYVJJZS1PTjV3dFUwZTFQYTVjNGNKQmdzM0YwQ1VQTFlCbThScHp2ME1RcDNET2N0MFBiaWRKandqVUFrenFxRXJtT3ZER2JfZmpacUFhZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 226.15
+      },
+      {
+        "date": "2024-11-25",
+        "price": 227.44
+      },
+      {
+        "date": "2024-11-26",
+        "price": 228.68
+      },
+      {
+        "date": "2024-11-27",
+        "price": 227.05
+      },
+      {
+        "date": "2024-11-29",
+        "price": 227.1
+      },
+      {
+        "date": "2024-12-02",
+        "price": 225.73
+      },
+      {
+        "date": "2024-12-03",
+        "price": 227.34
+      },
+      {
+        "date": "2024-12-04",
+        "price": 224.38
+      },
+      {
+        "date": "2024-12-05",
+        "price": 225.37
+      },
+      {
+        "date": "2024-12-06",
+        "price": 224.22
+      },
+      {
+        "date": "2024-12-09",
+        "price": 218.63
+      },
+      {
+        "date": "2024-12-10",
+        "price": 216.31
+      },
+      {
+        "date": "2024-12-11",
+        "price": 216.93
+      },
+      {
+        "date": "2024-12-12",
+        "price": 217.62
+      },
+      {
+        "date": "2024-12-13",
+        "price": 217.83
+      },
+      {
+        "date": "2024-12-16",
+        "price": 217.33
+      },
+      {
+        "date": "2024-12-17",
+        "price": 213.12
+      },
+      {
+        "date": "2024-12-18",
+        "price": 207.64
+      },
+      {
+        "date": "2024-12-19",
+        "price": 208.44
+      },
+      {
+        "date": "2024-12-20",
+        "price": 212.27
+      },
+      {
+        "date": "2024-12-23",
+        "price": 211.4
+      },
+      {
+        "date": "2024-12-24",
+        "price": 215.43
+      },
+      {
+        "date": "2024-12-26",
+        "price": 217.19
+      },
+      {
+        "date": "2024-12-27",
+        "price": 215.05
+      },
+      {
+        "date": "2024-12-30",
+        "price": 212.27
+      },
+      {
+        "date": "2024-12-31",
+        "price": 213.22
+      },
+      {
+        "date": "2025-01-02",
+        "price": 211.41
+      },
+      {
+        "date": "2025-01-03",
+        "price": 211.85
+      },
+      {
+        "date": "2025-01-06",
+        "price": 207.66
+      },
+      {
+        "date": "2025-01-07",
+        "price": 207.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 205.42
+      },
+      {
+        "date": "2025-01-10",
+        "price": 198.92
+      },
+      {
+        "date": "2025-01-13",
+        "price": 199.87
+      },
+      {
+        "date": "2025-01-14",
+        "price": 204.74
+      },
+      {
+        "date": "2025-01-15",
+        "price": 209.02
+      },
+      {
+        "date": "2025-01-16",
+        "price": 211.68
+      },
+      {
+        "date": "2025-01-17",
+        "price": 211.59
+      },
+      {
+        "date": "2025-01-21",
+        "price": 209.62
+      },
+      {
+        "date": "2025-01-22",
+        "price": 207.22
+      },
+      {
+        "date": "2025-01-23",
+        "price": 207.4
+      },
+      {
+        "date": "2025-01-24",
+        "price": 210.9
+      },
+      {
+        "date": "2025-01-27",
+        "price": 215.6
+      },
+      {
+        "date": "2025-01-28",
+        "price": 215.71
+      },
+      {
+        "date": "2025-01-29",
+        "price": 216.91
+      },
+      {
+        "date": "2025-01-30",
+        "price": 218.67
+      },
+      {
+        "date": "2025-01-31",
+        "price": 215.19
+      },
+      {
+        "date": "2025-02-03",
+        "price": 212.44
+      },
+      {
+        "date": "2025-02-04",
+        "price": 212.2
+      },
+      {
+        "date": "2025-02-05",
+        "price": 214.82
+      },
+      {
+        "date": "2025-02-06",
+        "price": 214.8
+      },
+      {
+        "date": "2025-02-07",
+        "price": 215.16
+      },
+      {
+        "date": "2025-02-10",
+        "price": 212.53
+      },
+      {
+        "date": "2025-02-11",
+        "price": 212.8
+      },
+      {
+        "date": "2025-02-12",
+        "price": 207.35
+      },
+      {
+        "date": "2025-02-13",
+        "price": 208.02
+      },
+      {
+        "date": "2025-02-14",
+        "price": 202.96
+      },
+      {
+        "date": "2025-02-18",
+        "price": 201.54
+      },
+      {
+        "date": "2025-02-19",
+        "price": 200.14
+      },
+      {
+        "date": "2025-02-20",
+        "price": 200.98
+      },
+      {
+        "date": "2025-02-21",
+        "price": 200.03
+      },
+      {
+        "date": "2025-02-24",
+        "price": 202.8
+      },
+      {
+        "date": "2025-02-25",
+        "price": 206.8
+      },
+      {
+        "date": "2025-02-26",
+        "price": 206.28
+      },
+      {
+        "date": "2025-02-27",
+        "price": 211.04
+      },
+      {
+        "date": "2025-02-28",
+        "price": 207.89
+      },
+      {
+        "date": "2025-03-03",
+        "price": 209.92
+      },
+      {
+        "date": "2025-03-04",
+        "price": 206.14
+      },
+      {
+        "date": "2025-03-05",
+        "price": 204.58
+      },
+      {
+        "date": "2025-03-06",
+        "price": 201.27
+      },
+      {
+        "date": "2025-03-07",
+        "price": 204.58
+      },
+      {
+        "date": "2025-03-10",
+        "price": 205.3
+      },
+      {
+        "date": "2025-03-11",
+        "price": 204.06
+      },
+      {
+        "date": "2025-03-12",
+        "price": 201.58
+      },
+      {
+        "date": "2025-03-13",
+        "price": 204.04
+      },
+      {
+        "date": "2025-03-14",
+        "price": 211.2
+      },
+      {
+        "date": "2025-03-17",
+        "price": 214.69
+      },
+      {
+        "date": "2025-03-18",
+        "price": 212.6
+      },
+      {
+        "date": "2025-03-19",
+        "price": 213.7
+      },
+      {
+        "date": "2025-03-20",
+        "price": 212.05
+      },
+      {
+        "date": "2025-03-21",
+        "price": 206.84
+      },
+      {
+        "date": "2025-03-24",
+        "price": 209.44
+      },
+      {
+        "date": "2025-03-25",
+        "price": 210.83
+      },
+      {
+        "date": "2025-03-26",
+        "price": 212.31
+      },
+      {
+        "date": "2025-03-27",
+        "price": 211.52
+      },
+      {
+        "date": "2025-03-28",
+        "price": 206.31
+      },
+      {
+        "date": "2025-03-31",
+        "price": 209.75
+      },
+      {
+        "date": "2025-04-01",
+        "price": 211.56
+      },
+      {
+        "date": "2025-04-02",
+        "price": 210.77
+      },
+      {
+        "date": "2025-04-03",
+        "price": 203.42
+      },
+      {
+        "date": "2025-04-04",
+        "price": 187.01
+      },
+      {
+        "date": "2025-04-07",
+        "price": 181.41
+      },
+      {
+        "date": "2025-04-08",
+        "price": 179.73
+      },
+      {
+        "date": "2025-04-09",
+        "price": 193.24
+      },
+      {
+        "date": "2025-04-10",
+        "price": 190.32
+      },
+      {
+        "date": "2025-04-11",
+        "price": 189.56
+      },
+      {
+        "date": "2025-04-14",
+        "price": 194.98
+      },
+      {
+        "date": "2025-04-15",
+        "price": 193.8
+      },
+      {
+        "date": "2025-04-16",
+        "price": 190.32
+      },
+      {
+        "date": "2025-04-17",
+        "price": 188.97
+      },
+      {
+        "date": "2025-04-21",
+        "price": 183.87
+      },
+      {
+        "date": "2025-04-22",
+        "price": 188.94
+      },
+      {
+        "date": "2025-04-23",
+        "price": 191.07
+      },
+      {
+        "date": "2025-04-24",
+        "price": 193.19
+      },
+      {
+        "date": "2025-04-25",
+        "price": 190.83
+      },
+      {
+        "date": "2025-04-28",
+        "price": 192.29
+      },
+      {
+        "date": "2025-04-29",
+        "price": 194.15
+      },
+      {
+        "date": "2025-04-30",
+        "price": 192.74
+      },
+      {
+        "date": "2025-05-01",
+        "price": 191.63
+      },
+      {
+        "date": "2025-05-02",
+        "price": 197.02
+      },
+      {
+        "date": "2025-05-05",
+        "price": 196.48
+      },
+      {
+        "date": "2025-05-06",
+        "price": 197.82
+      },
+      {
+        "date": "2025-05-07",
+        "price": 197.06
+      },
+      {
+        "date": "2025-05-08",
+        "price": 194.87
+      },
+      {
+        "date": "2025-05-09",
+        "price": 195.71
+      },
+      {
+        "date": "2025-05-12",
+        "price": 202.07
+      },
+      {
+        "date": "2025-05-13",
+        "price": 202.45
+      },
+      {
+        "date": "2025-05-14",
+        "price": 196.29
+      },
+      {
+        "date": "2025-05-15",
+        "price": 199.48
+      },
+      {
+        "date": "2025-05-16",
+        "price": 202.33
+      },
+      {
+        "date": "2025-05-19",
+        "price": 203.44
+      },
+      {
+        "date": "2025-05-20",
+        "price": 200.65
+      },
+      {
+        "date": "2025-05-21",
+        "price": 192.63
+      }
+    ],
+    "current_price_data": {
+      "price": 192.63,
+      "change": -8.02,
+      "percent_change": -4.0
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

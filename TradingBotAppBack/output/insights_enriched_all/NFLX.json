@@ -1,0 +1,646 @@
+{
+  "ticker": "NFLX",
+  "name": "Netflix",
+  "sector": "Communication Services",
+  "market_cap": 507080638464.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 55.549183,
+    "PB": 21.109203,
+    "EV_Revenue": 12.851,
+    "ROE": 0.40842,
+    "ProfitMargin": 0.23074,
+    "GrossMargin": 0.46919,
+    "DividendYield": null
+  },
+  "technical_indicators": {
+    "RSI_14": 71.156454459056,
+    "Momentum_10": 3.029860989579232,
+    "MACD": 47.500042475617875,
+    "BB_Percent": 0.8771705551655876,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8488829347222137,
+    "QualityScore": 0.3080482443699389,
+    "SignalScore": 0.5581900983133905
+  },
+  "volatility": 0.0237934454328648,
+  "beta": 1.585,
+  "return_6m": 0.4066820689077233,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 45,
+    "target_mean_price": 1116.6874
+  },
+  "news_sentiment": {
+    "summary": "Netflix's stock has been making headlines in recent days. Analysts have expressed mixed views on the stock, with some upgrading it to a \"buy\" recommendation while others have downgraded it. Netflix's recent advertising growth has sparked optimism among some investors, while others are concerned about the stock's valuation. JPMorgan has downgraded the stock to \"neutral,\" citing a balanced risk/reward assessment. Despite this, some analysts remain optimistic about the stock's future performance, citing the company's continued growth and success. Overall, the news suggests that the stock is performing well, with some analysts expressing concern about its valuation and others seeing it as a strong buy.",
+    "sentiment_score": 0.0,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Stocks making the biggest premarket moves: Walmart, Netflix, Tesla, Reddit and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVlMR3JuaHRJQ1F5NG01czRjM3ltcVA5Ni1PZDJiOEFfSHJOMlVmeTg4MDJYT1hNZWlxNlNDTkllRUc5cWdEVmt3TFZwYjZYQUpqQzZRallDZWRhdjVpU2M0TnNoSlNvelJ1bk52N1Z3OXhLOEMxQXV3VHlSdEExeFMtRnBxUlVxalBDY1RHSUxBVXpVaGFwaW92TmZwUFU2Z2Nr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank Remains Upbeat on Netflix, Inc. (NFLX) Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVE1MHZfZG50MVpkUWpMc0lwdERfU1p2MmRTNkQ0ZU0xTkwzNGtiZ01ocnpTMmYyS3M0SWVlcHpRWFpLWnA3Qk1DVzJuSGswRUpkbFVvUWpWcnlPNmg4ZF9NUGUzUGtfM1NtWHB6c1lRQXNGTHhaSWRqTzZuVGIyX1ZUUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix Analyst Throws Cold Water On All-Time Highs With Downgrade - Netflix (NASDAQ:NFLX) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNU2FFY1JuMTJZbzktZWJNTk9lSjdqSEJWQ0RvLWNtenY1a1llYXpJVzJUWUo5MXRrY3c2WU9ha09DOWVHS3FtUGJUa29lZEdHM2duakVJZmJ6Mjd1cW9TOWNRdTRqazQwZG1WRExtdlZqRUt3dWtVZnk3S2pjSHJtVWp0aUJIRURSZnpLcXgyM2xFYkhpM0M2VTktUjlNbWpPcS04ZjdNM3oxeUpWVzhYMlpsTjhUclk5S0NiamJMVm1panI2SV9KemJZTkJDMTFxNVE5WUZKZ2hLemZ5YTlFYURETlZBVHRzYUo2X2JaZjZoNXRkcHFaT2hR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "J.P. Morgan moves to the sidelines on Netflix as risk/reward appears balanced (NFLX:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXZ6UUF0bHFUY2Mzb2F1cTVjR3drTXFHR3BsU3huZHZsUDJ3cWdGYnBMZTY1SFRGcEpzM2NSbXREeXZndWNJdk9OVWVzWmZEaXg2S0UwYmlOR01CcTZpVHNvMjlnWjBSWU1JdGR3QXR5VjV6YldyaEtyRVYtME9uQzBycWlHQjF3N2Q3aElYY09YaEVkdDVJTUg5TFRpYVBQTkRhdWFzSkxoOWFJbFV3elNR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Netflix\u2019s Stock Soars: Ad Growth Sparks Investor Optimism - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjlZS0JhemdHb05xQ1lvNVlvV0V4all0YWYzMGZEb1VUa0d4U2tXMHFuaHNERWdQOGV5eEVtZzRpSXdvakZOWEhOeDdnM0VhU0xHYVV4SVpwdUs4OUE0b1dfMnFMSGdkcGM2RUdJbG5kYzE2OXE3dFh5NXhVeS1Wc0Q1UThKdTZhdlRRemlXU0tZN09KMVREaTJmcHdpdDAwT0Vj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Netflix Nears $500 Billion Market Cap. Why Its Stock Is Still a Buy Even at These Levels. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9abDlQVzNuMFEtQUlOMFFJdkZLdmdUWkxZbW9OUGVEbEpVZ0RSNGFpUUFSTUtmbW5nS1YzTTlqYnUyMmtkcGJqaFBOWG1XQ2FoZ090Z0hnV21IQkdGa0Y2QTVJYllBdWlTY0hrRlZBZEZwRDFxSGNmUUJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix stock is trading at all-time-high levels in unprecedented win streak - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1dmxncmRyVUZXZlJCMU9OTWhiSGl6Y3pLalhuRlNVdW1HeWl2YTR0bk5YMFA3cFNCT2I3c01ITmR3ZDhLeVBmVlRKd0RYclFYaWJCcVpQQWVwSDQ1bmNPV1ZwS19DUzRmb0t6bnZHd1JYTXFZMmxPU9IBfkFVX3lxTE5yWUtxY2JIUDRZRDBfWDdMWkZ6ZEswZWxhT0xLZ3l5R2FZVW5vbWRpa21fUkhtWUNrbGZ1T2I3NGNybFRJaU92WXZ0X3J4Yjl1T1paZGRSckNDLVhGdmRQX0Q5OGl0a2FLcHJLTWJUNDZKY0lDbTJXbWpzWTdwZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Netflix stock downgraded on valuation concerns despite recent defensive strength - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaE9ackxEVDhoOGVJYWVHd3hsclgta3JJVzNONGRlRkkwejJadzhmQTFIb3AzOGlWbF8tTnZqWDV5R3ZZQ0l3eGEtemdvMEplcjNwRDhHSnFobHA4cURseWc3SG1jU3FmV18yMGJBNDJLNXF5QTFiN2R0RnFrZG92LUdydHNMOERzZTYyNlZKU2Y3U1VZN1ZLSktrOV9xOHNVTmxfeDRVUTRCWXJJOU9YcEwyVEZheEs2MlJUX0dwS3ZUazRU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "JPMorgan Downgrades Netflix Stock to 'Neutral' - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTF5OXotekhBbW1EVEk3cVlwSmdpclh0cWZLX1VzTGRQSldfQTU0RkJIeGxNTjZCellGMjJmTldrZ1R6WnpmWG9LdWxUWDhncDR2VDJoYlFSakowZ0tIazE2YVVsX1FoZlBha1JFa1J3YkJRbW9OY0pHUlRtU2JmUDBNTThSRjhZc0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "\u2018Time to Hold,\u2019 as Analyst Downgrades Netflix Stock (NFLX) after Hitting 52-Week High - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmF3dUM3WmhNR2RYUTJYR3BKaUhOQkNrMmhITm10OGpsbmtTWlpTam11SWViMGxFbzlZWlRqYUxubkNJM3RRYnFsbU1uaUw0enBEbmpZUVVKeEpXWC1mRVU3bkxpa203RWdRM3VIYk1pY09YY0ZwLXc4blR1cjdZeHR1cUJ0ZTBCYkd1SGI4M2FudURFNEtqeDg2eDlmR2ZrczVCaVBLVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Netflix Stock Hits Record High On Advertising Initiative - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXExc0tlTmxQRFJvOXM3eXFfd0pqNHkyOU9OVnVKVFNYRUdWSmZVSWthdklPMURQZ0RVOVF0emVCRUtFQ3liMXR5WGM0cU94Y0x2aFBDMV9YZDJpVlVTbEZnS0Y0NlhET1k5a29nOUQwZ0QxTm5mXzhVdFJudHpHakp4UHFrVlpBQVpEc1BIUEh0TnRscHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Netflix (NFLX) Expands Ad Tier as User Growth Accelerates | NFLX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOU5zS05BbHVpZ25hMVBsdjFXM3h1TVh3VG9kc3ozLTFHUEZDc3BlV3NYUGdCN2g3VWlJRU1Sd0ZlSnpSVjU1NnhidTJXR2hYaWo3VVBhNElzTzJ1T1llUEZlbE9EUlU4QmgycUppZldlaHZhSUI2bHV6S21GVXdhaFBEMk9nbkpXcVhUenlVWTI3R3VjcV9xY0s2MUwwdnI5SFE0N081YVZQbEFDRUMzVEtQWlRjaUZEeXoxcXZ4eW0zT2NIOFB1dWdweWdKT3lBX1k4UGF6bE02VmtBYm5IelFnVmkyZkVrTFZwTkp3VzU3V1d3MGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank Remains Upbeat on Netflix, Inc. (NFLX) Stock - MSN",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGd4UTZGRGowWHBzS2JldDBaYjhxUnhjMkdSMXJrOXM4bVhFemxHcVg3emZ2emt5SnlUZWJMaG1xal96V2JMNWcwWnB2Y2hSa0RfYTZScTQwY3JWYmtEZ0Vxc0RVNi1zXzNYa081X3JSaUZjM3RHRTlzTjdQRGhBQ1ppb1hram96V001WGkwWnpWOVdtcHQ4R3Vxdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix stock rating cut to Neutral by JPMorgan - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHZta3phRVFQOGJBNk04RWRKVERRcGItRTdTV2FyeXBTb3dDTi03ai1PVmpfdXB6NXhQZDZkVnRkcEFkY2hseklTNk1PTGFVWVFXcjRYS0drem50UG9yeklIZDlIVlk2SV94RHl3d3ppWVA1THNGcHNPVkFXek82U0dZLVU3UXIxMFp6MWtNck5fZ0JiN1kzc2FOR3loVTVrUmZsdXFIdy1DWW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix is the new home of Sesame Street (NFLX:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3ZLdWpRT3k5aWVuTHJhZHR4Y1dLcnQ0YzhUT3JfenFjZ0RjMldyeXo4ZHRZdEhucmx0MHBDQXZidDNHaEFidm1Ua1F0aUlVOFdBUGN5MjJaNzdVeXZVYjYyUkpQSmZUVXp5c1ZKMXlqdVN2TWk4UGQzb0prbHFyQ2hOazg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Netflix (NFLX) Sees Increased Demand for Downside Protection Amid Downgrade | NFLX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcy0zd0xVRWtnN1hHYmRsZ2tGdDdCT2JqS2lIelZQVExBQXVDajMtOUlzbjlpSWhTM1gwdHNRZTZWencyQldpV0t5bVZielFrZVpkeDUtcndlb2gwSm9BOEdrR0t3bHdicDlpaXlJTHBIMTJTUXYwcGdMQUhTZTdERkJzOWlzTXg1MFQ5SU1UNHpZNDI5NjVBSDRuQW5uX0ZWODVvQVlYdVVNYUMwV3M1bzN6dVd4dkk0MmxhRV92Q1dZbUhNc2hlMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TD Cowen lifts Netflix stock target to $1,325 on ad growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOF9tM1VoelY0OHRjVklzbHNSVUVNNURoYnV3bUZwY3E5TnVjSUJFQWpzNE9lQkUyb2JkX2VMOGJmTkZnUDFwRjZRVWFYeGgtWmhhSDkxSktFeXV4MVkzSU5uWXpjYXREcWlzcExTeXZxYXQ0MTZIVDdoUDhGdGZZTl9XY2N6NmdMamFBUGo4ZjZFc1JhR0kzRzMtRXo3MHVxWHoyVkJTSGx6alhoWDliUjVOS2F1dG8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Netflix (NFLX) Stock Outpacing Its Consumer Discretionary Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaGx0X1E4cXF3TEtjZmxHZmFCTlJuU196UWo3aVJNOFptelczVWpIcWVINm8yQW5HaWt4Z3U2c0hCZGpXY1lVTlJFOHp2Q2s4WFdOeTcxc0NxanFxemVuNGlMWFJPMGNNVEVrblV4cFlxODc4TXVmQ2R5WFlvQ01QdDRwUXZBdC1qNTYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JPMorgan cuts Netflix stock as recent outperformance reduces risk-reward appeal - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWVZIM0ZoeXhDS3lzX1BHcUI0RF9uNzE4eU1jYTBpVG9uU1hQS3MzUTlwQkhTZVRoVkFCMTVUTjZNWXlPNkU5VERWbU84SkJzbG13bnVGVkZ1bmpERW1GVU9HX0VRZHVONE51U21aQ3ItZS04RmRIQW5VOUE5Z2k4aUh2RVV4TW5GVUxkYVB2bHB0V01IX3VpNEREdjVoSXBSTjZndXFUeDljSkNSRWpOSk9meHJGWjZtNUk4dk0tNVdpQTk4eml0V0FNamk2M0FP?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "JPMorgan Downgrades Netflix Stock to 'Neutral' - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkR1c2o2WnlMY2xReFk4elhVU2hobDZHdm5XWS1kZkhaMFRzcjNTU21ybWFxRllkdDUxQzBqR3JjUmtfakQ4Ylhkel9keHBGV0pvTGN1a0NKUldwSUJtTi1PWmtLcm9ZdU1NZl9wblRITWZITjFqWkEwc21obkU5Z3dzeG9YZFJXbkRhRjdrc3JvaVVNRUQxdWI2YXVXSVhxZ3JWMy10TE01YW5kU3JtQ05oY0Q0dlNzSDEyWThRQ09HZw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 897.79
+      },
+      {
+        "date": "2024-11-25",
+        "price": 865.59
+      },
+      {
+        "date": "2024-11-26",
+        "price": 872.6
+      },
+      {
+        "date": "2024-11-27",
+        "price": 877.34
+      },
+      {
+        "date": "2024-11-29",
+        "price": 886.81
+      },
+      {
+        "date": "2024-12-02",
+        "price": 897.74
+      },
+      {
+        "date": "2024-12-03",
+        "price": 902.17
+      },
+      {
+        "date": "2024-12-04",
+        "price": 911.06
+      },
+      {
+        "date": "2024-12-05",
+        "price": 917.87
+      },
+      {
+        "date": "2024-12-06",
+        "price": 934.74
+      },
+      {
+        "date": "2024-12-09",
+        "price": 913.69
+      },
+      {
+        "date": "2024-12-10",
+        "price": 913.35
+      },
+      {
+        "date": "2024-12-11",
+        "price": 936.56
+      },
+      {
+        "date": "2024-12-12",
+        "price": 925.55
+      },
+      {
+        "date": "2024-12-13",
+        "price": 918.87
+      },
+      {
+        "date": "2024-12-16",
+        "price": 921.08
+      },
+      {
+        "date": "2024-12-17",
+        "price": 919.13
+      },
+      {
+        "date": "2024-12-18",
+        "price": 889.55
+      },
+      {
+        "date": "2024-12-19",
+        "price": 902.04
+      },
+      {
+        "date": "2024-12-20",
+        "price": 909.05
+      },
+      {
+        "date": "2024-12-23",
+        "price": 911.45
+      },
+      {
+        "date": "2024-12-24",
+        "price": 932.12
+      },
+      {
+        "date": "2024-12-26",
+        "price": 924.14
+      },
+      {
+        "date": "2024-12-27",
+        "price": 907.55
+      },
+      {
+        "date": "2024-12-30",
+        "price": 900.43
+      },
+      {
+        "date": "2024-12-31",
+        "price": 891.32
+      },
+      {
+        "date": "2025-01-02",
+        "price": 886.73
+      },
+      {
+        "date": "2025-01-03",
+        "price": 881.05
+      },
+      {
+        "date": "2025-01-06",
+        "price": 881.79
+      },
+      {
+        "date": "2025-01-07",
+        "price": 879.19
+      },
+      {
+        "date": "2025-01-08",
+        "price": 875.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 837.69
+      },
+      {
+        "date": "2025-01-13",
+        "price": 840.29
+      },
+      {
+        "date": "2025-01-14",
+        "price": 828.4
+      },
+      {
+        "date": "2025-01-15",
+        "price": 848.26
+      },
+      {
+        "date": "2025-01-16",
+        "price": 842.37
+      },
+      {
+        "date": "2025-01-17",
+        "price": 858.1
+      },
+      {
+        "date": "2025-01-21",
+        "price": 869.68
+      },
+      {
+        "date": "2025-01-22",
+        "price": 953.99
+      },
+      {
+        "date": "2025-01-23",
+        "price": 984.86
+      },
+      {
+        "date": "2025-01-24",
+        "price": 977.59
+      },
+      {
+        "date": "2025-01-27",
+        "price": 971.89
+      },
+      {
+        "date": "2025-01-28",
+        "price": 971.83
+      },
+      {
+        "date": "2025-01-29",
+        "price": 978.15
+      },
+      {
+        "date": "2025-01-30",
+        "price": 973.24
+      },
+      {
+        "date": "2025-01-31",
+        "price": 976.76
+      },
+      {
+        "date": "2025-02-03",
+        "price": 978.94
+      },
+      {
+        "date": "2025-02-04",
+        "price": 994.87
+      },
+      {
+        "date": "2025-02-05",
+        "price": 1011.11
+      },
+      {
+        "date": "2025-02-06",
+        "price": 1015.68
+      },
+      {
+        "date": "2025-02-07",
+        "price": 1013.93
+      },
+      {
+        "date": "2025-02-10",
+        "price": 1027.6
+      },
+      {
+        "date": "2025-02-11",
+        "price": 1008.08
+      },
+      {
+        "date": "2025-02-12",
+        "price": 1027.31
+      },
+      {
+        "date": "2025-02-13",
+        "price": 1043.69
+      },
+      {
+        "date": "2025-02-14",
+        "price": 1058.6
+      },
+      {
+        "date": "2025-02-18",
+        "price": 1035.85
+      },
+      {
+        "date": "2025-02-19",
+        "price": 1043.33
+      },
+      {
+        "date": "2025-02-20",
+        "price": 1024.54
+      },
+      {
+        "date": "2025-02-21",
+        "price": 1003.15
+      },
+      {
+        "date": "2025-02-24",
+        "price": 988.47
+      },
+      {
+        "date": "2025-02-25",
+        "price": 977.24
+      },
+      {
+        "date": "2025-02-26",
+        "price": 990.06
+      },
+      {
+        "date": "2025-02-27",
+        "price": 963.07
+      },
+      {
+        "date": "2025-02-28",
+        "price": 980.56
+      },
+      {
+        "date": "2025-03-03",
+        "price": 973.7
+      },
+      {
+        "date": "2025-03-04",
+        "price": 972.58
+      },
+      {
+        "date": "2025-03-05",
+        "price": 990.92
+      },
+      {
+        "date": "2025-03-06",
+        "price": 906.36
+      },
+      {
+        "date": "2025-03-07",
+        "price": 891.11
+      },
+      {
+        "date": "2025-03-10",
+        "price": 866.68
+      },
+      {
+        "date": "2025-03-11",
+        "price": 895.1
+      },
+      {
+        "date": "2025-03-12",
+        "price": 919.68
+      },
+      {
+        "date": "2025-03-13",
+        "price": 890.17
+      },
+      {
+        "date": "2025-03-14",
+        "price": 918.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 950.02
+      },
+      {
+        "date": "2025-03-18",
+        "price": 929.98
+      },
+      {
+        "date": "2025-03-19",
+        "price": 959.49
+      },
+      {
+        "date": "2025-03-20",
+        "price": 950.84
+      },
+      {
+        "date": "2025-03-21",
+        "price": 960.29
+      },
+      {
+        "date": "2025-03-24",
+        "price": 971.99
+      },
+      {
+        "date": "2025-03-25",
+        "price": 997.28
+      },
+      {
+        "date": "2025-03-26",
+        "price": 970.65
+      },
+      {
+        "date": "2025-03-27",
+        "price": 976.72
+      },
+      {
+        "date": "2025-03-28",
+        "price": 933.85
+      },
+      {
+        "date": "2025-03-31",
+        "price": 932.53
+      },
+      {
+        "date": "2025-04-01",
+        "price": 928.38
+      },
+      {
+        "date": "2025-04-02",
+        "price": 935.52
+      },
+      {
+        "date": "2025-04-03",
+        "price": 917.05
+      },
+      {
+        "date": "2025-04-04",
+        "price": 855.86
+      },
+      {
+        "date": "2025-04-07",
+        "price": 867.83
+      },
+      {
+        "date": "2025-04-08",
+        "price": 870.4
+      },
+      {
+        "date": "2025-04-09",
+        "price": 945.47
+      },
+      {
+        "date": "2025-04-10",
+        "price": 921.17
+      },
+      {
+        "date": "2025-04-11",
+        "price": 918.29
+      },
+      {
+        "date": "2025-04-14",
+        "price": 931.28
+      },
+      {
+        "date": "2025-04-15",
+        "price": 976.28
+      },
+      {
+        "date": "2025-04-16",
+        "price": 961.63
+      },
+      {
+        "date": "2025-04-17",
+        "price": 973.03
+      },
+      {
+        "date": "2025-04-21",
+        "price": 987.91
+      },
+      {
+        "date": "2025-04-22",
+        "price": 1040.34
+      },
+      {
+        "date": "2025-04-23",
+        "price": 1049.59
+      },
+      {
+        "date": "2025-04-24",
+        "price": 1096.87
+      },
+      {
+        "date": "2025-04-25",
+        "price": 1101.53
+      },
+      {
+        "date": "2025-04-28",
+        "price": 1110.38
+      },
+      {
+        "date": "2025-04-29",
+        "price": 1125.64
+      },
+      {
+        "date": "2025-04-30",
+        "price": 1131.72
+      },
+      {
+        "date": "2025-05-01",
+        "price": 1133.47
+      },
+      {
+        "date": "2025-05-02",
+        "price": 1156.49
+      },
+      {
+        "date": "2025-05-05",
+        "price": 1134.06
+      },
+      {
+        "date": "2025-05-06",
+        "price": 1137.69
+      },
+      {
+        "date": "2025-05-07",
+        "price": 1155.41
+      },
+      {
+        "date": "2025-05-08",
+        "price": 1144.43
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1140.22
+      },
+      {
+        "date": "2025-05-12",
+        "price": 1110.0
+      },
+      {
+        "date": "2025-05-13",
+        "price": 1138.44
+      },
+      {
+        "date": "2025-05-14",
+        "price": 1150.99
+      },
+      {
+        "date": "2025-05-15",
+        "price": 1177.98
+      },
+      {
+        "date": "2025-05-16",
+        "price": 1191.53
+      },
+      {
+        "date": "2025-05-19",
+        "price": 1191.64
+      },
+      {
+        "date": "2025-05-20",
+        "price": 1192.02
+      },
+      {
+        "date": "2025-05-21",
+        "price": 1194.63
+      }
+    ],
+    "current_price_data": {
+      "price": 1194.63,
+      "change": 2.61,
+      "percent_change": 0.22
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

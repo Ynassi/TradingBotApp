@@ -1,0 +1,564 @@
+{
+  "ticker": "5803.T",
+  "name": "Fujikura",
+  "sector": "Materials",
+  "market_cap": 1596081438720.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 17.51332,
+    "PB": 3.9168239,
+    "EV_Revenue": 1.636,
+    "ROE": 0.23561001,
+    "ProfitMargin": 0.09304,
+    "GrossMargin": 0.26593,
+    "DividendYield": 2.12
+  },
+  "technical_indicators": {
+    "RSI_14": 56.84039600950894,
+    "Momentum_10": 10.25347817800648,
+    "MACD": 207.5402932654897,
+    "BB_Percent": 0.7157843066644157,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8965144585130728,
+    "QualityScore": 0.3580405602040265,
+    "SignalScore": 0.5593811523250525
+  },
+  "volatility": 0.0511398670051701,
+  "beta": 0.779,
+  "return_6m": 0.0973065250379363,
+  "analyst_rating": {
+    "recommendation": "strong_buy",
+    "analyst_count": 10,
+    "target_mean_price": 7400.0
+  },
+  "news_sentiment": {
+    "summary": "Fujikura Ltd. reported an EPS beat of 13%, with analysts expecting continued growth. The Nikkei Stock Average jumped 6% on market recovery hopes and chip-related shares, while US stock futures gained. The fair value of Fujikura Ltd. was analyzed, and the company was identified as worth watching. Japan's Nikkei Stock Average also made a small gain with the help of tech stocks. Overall, the global market's sentiment appears to be positive, with investors looking forward to continued growth in the technology sector.",
+    "sentiment_score": 0.5,
+    "label": "POSITIVE",
+    "positive_ratio": 0.5,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 4,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Fujikura Ltd. Just Beat EPS By 13%: Here's What Analysts Think Will Happen Next - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWnVhNUdETy1kZWRRX1NmRVA3cGkxZW1OTXFtT2tfVm82UnNydTlWM2tIdHFjallDLS0xRFh5My1VZXpMbjRPQU9DQmh5M0JabWNpTUctLTNHXzZZd205S2JsLXdPZTk0cjZYUk1xZ2IxY1dGVnkyemlHRjhfUU9vMUJxclZoYzVzeVVCX01LdXRtMGdVSGRKMG5HT2NORGQ0WEwwX1JGdFlKOGtLQWJvajBuTkhLOTZ1dzAzeGRnZTM4enN3NzZyN19Gc3lDdUNnV3fSAdcBQVVfeXFMTkZOa3g0SGxpS1gycE1aeTZxZi1pV3JBZ3BxeTNMREZTOEd3OUlISHN0SVVFdUdDUWMyTll0NFI5TVN1ZzViNEdkaWVEYUkxWHRjbTBmY3NWVUhXaEtiSGlOMHEtNThCVXUxQXZtOWxhMGs0NWh2dlAydnNiaFZIQXBHbDBLQUhSUUtQS1IwaUtLUVpieTFGVFpLdC1xWVItR2t4UjdrQk9iY2ZGXzJkWTZHQ2ljaV9NUUJvR0dBdzBVZmF6eFhQc1lOMHk3YWZvM1VCSVhKZ0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan\u2019s Nikkei Stock Average Jumps 6%, Rebounds from Rout on Market Recovery Hopes - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aYi1OUWJOWWFzRTRaYnY1ek13Y0VEejJMemNVWEp3Q3lHV1pWWkJPN3JTV1NZclpuUmxoeXU2UWR3dUo3YXFxOFY5OG1iMHA5V2N4VE1KU2JUOU9odkhIZG1LQ2V3OFZRVEtDNFdUdlQydw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Fujikura Ltd. (TSE:5803) Could Be Worth Watching - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS1FRMDdQYXduMFBJRUFycnhUdGwwOE1zbHB6TnBYWnYwRV9yMEtUT0QxY1VMU2VBTi02ZTFuaVNiYW5pc2NkdUw2V0kxQ24ybkNjZmZPdTRfX1JtaS1PVXFSTGNxblJIMzZvTFFlMGIxSWJFY2VvVlgzaGZ0NXJuTGFXQ3JZS3l4NzAxNnBoaS02TGVlNGJwNlJ5SDd3ek5jLVYwWmFUYjlJYVU0aFVKX2FJdXA1aTYzdXluM1VLNlJqVEQw0gHKAUFVX3lxTE9qN2h4eVh1eklxajhzRC1laUlMbDRJV2xIczBOY2JNekdBdjhLNkxSRWphTWRFMk5udmVWYnVvclNMSzQ5czhzWFBNY0ZycGM3MVFURXpEWkpRRDZzcGxqdWtyWjFVa2M2THI2Yjc0NlNGSFdVSUt0YkFTN1NlV0lXYWxDV284UEVicmp0R3ZxVFg5amtzYldkdUVBTHNpYmprNTdrZkVrLUVYNG9ibnZrZXNGSF9qRXFVSm5vS2txdFoyZHVKUHVaSGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan\u2019s Nikkei Stock Average Recovers on Chip-related Shares as US Stock Futures Gain (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oYTdpa2R3ZGJ2VlpJcWVQRkVYbkdfalM2NV9PM2t1YkRkOS12ckN2VXVBWFFIY3B6dERFVjd2VGlKd1ZOZ2FQQ25sNUIxWktoZTNCZVRXVFMyYWNkZjk3MWVXREtGMGd1bDJMMjZQSlhubWkwc1NQOEZR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "A Look At The Fair Value Of Fujikura Ltd. (TSE:5803) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWp0TTNpcXVuOEtwemlEb0hrVE42YUFrSWxiOWFGT1FnZkZCdGVYUHl0V0lYcGVYMk8zdlAwbzhBeUFES004VmxrQVZRclBLZTFvc09wQk9UWTdZQl8yWExYNWJBWDRrSGFvcTJFTS16ckpLcEZQS09VSk9tVnhLYmhpOW9SbE84ODc3YllKOGhrYlBCaV96cDVya0tuVlV5U2VEQ2JtaHpRblFYQ2JNQ041SzN4MmNZRHBhUUtHNDNCd9IBxwFBVV95cUxQR2MweXd6YU8zMDVXMmJGZVNLSVdVNlFqY3diaFdtU3VOUHNXalRrNU80Yl9OaEFQamZGVldXaF9rTE0zSENmMlBDNmdacl9wcHJlLTVqdjlDR2RDNk1YNEZqbm95NC1uMXd2MWVjajR4UGZ3VFhXNm9YQlkwOVpVWVFwV1VVbG4wZlNIS0djNXJ3alo1VXRJSGpKc3VsMUlneWVBSWRZd3ltT19VdWFMT19sNjRrRjlSeFlDa2tDTVhwZDRXeURj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan\u2019s Nikkei Stock Average Ekes out Small Gain with Tech Stocks\u2019 Help (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OeFgxUGI3TW1MRDJVQUswY09Nem9CUVhHN2s5dV9xdEpUSVc3ZWFZVzduYm9oRGVjanpRR25ndk9kVmtUaDBYSkNGc2x3cUJTTWNaYnhhbWVSenZKWF95SmNMT3BqTlVCZlJTcndnWEQ3bWxpV2EyeHV3?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 5587.0
+      },
+      {
+        "date": "2024-11-22",
+        "price": 5749.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 5640.0
+      },
+      {
+        "date": "2024-11-26",
+        "price": 5259.0
+      },
+      {
+        "date": "2024-11-27",
+        "price": 5330.0
+      },
+      {
+        "date": "2024-11-28",
+        "price": 5280.0
+      },
+      {
+        "date": "2024-11-29",
+        "price": 5322.0
+      },
+      {
+        "date": "2024-12-02",
+        "price": 5662.0
+      },
+      {
+        "date": "2024-12-03",
+        "price": 6012.0
+      },
+      {
+        "date": "2024-12-04",
+        "price": 6182.0
+      },
+      {
+        "date": "2024-12-05",
+        "price": 6375.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 6122.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 6188.0
+      },
+      {
+        "date": "2024-12-10",
+        "price": 5851.0
+      },
+      {
+        "date": "2024-12-11",
+        "price": 5975.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 6130.0
+      },
+      {
+        "date": "2024-12-13",
+        "price": 6273.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 6490.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 6307.0
+      },
+      {
+        "date": "2024-12-18",
+        "price": 6248.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 6244.0
+      },
+      {
+        "date": "2024-12-20",
+        "price": 6244.0
+      },
+      {
+        "date": "2024-12-23",
+        "price": 6346.0
+      },
+      {
+        "date": "2024-12-24",
+        "price": 6150.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 6288.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 6680.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 6701.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 6548.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 6608.0
+      },
+      {
+        "date": "2025-01-07",
+        "price": 6528.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 6568.0
+      },
+      {
+        "date": "2025-01-09",
+        "price": 6293.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 6305.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 6106.0
+      },
+      {
+        "date": "2025-01-15",
+        "price": 6028.0
+      },
+      {
+        "date": "2025-01-16",
+        "price": 5940.0
+      },
+      {
+        "date": "2025-01-17",
+        "price": 5962.0
+      },
+      {
+        "date": "2025-01-20",
+        "price": 6040.0
+      },
+      {
+        "date": "2025-01-21",
+        "price": 6047.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 6943.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 7276.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 7300.0
+      },
+      {
+        "date": "2025-01-27",
+        "price": 6522.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 5921.0
+      },
+      {
+        "date": "2025-01-29",
+        "price": 6020.0
+      },
+      {
+        "date": "2025-01-30",
+        "price": 6043.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 6290.0
+      },
+      {
+        "date": "2025-02-03",
+        "price": 6049.0
+      },
+      {
+        "date": "2025-02-04",
+        "price": 6308.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 6286.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 6340.0
+      },
+      {
+        "date": "2025-02-07",
+        "price": 6230.0
+      },
+      {
+        "date": "2025-02-10",
+        "price": 6675.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 7366.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 7228.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 6932.0
+      },
+      {
+        "date": "2025-02-17",
+        "price": 7032.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 6890.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 6896.0
+      },
+      {
+        "date": "2025-02-20",
+        "price": 6734.0
+      },
+      {
+        "date": "2025-02-21",
+        "price": 6613.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 6117.0
+      },
+      {
+        "date": "2025-02-26",
+        "price": 6321.0
+      },
+      {
+        "date": "2025-02-27",
+        "price": 6625.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 6140.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 6202.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 5808.0
+      },
+      {
+        "date": "2025-03-05",
+        "price": 6239.0
+      },
+      {
+        "date": "2025-03-06",
+        "price": 6130.0
+      },
+      {
+        "date": "2025-03-07",
+        "price": 5849.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 5773.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 5657.0
+      },
+      {
+        "date": "2025-03-12",
+        "price": 5711.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 5749.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 6212.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 6127.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 6198.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 5869.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 5959.0
+      },
+      {
+        "date": "2025-03-24",
+        "price": 6117.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 6212.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 6271.0
+      },
+      {
+        "date": "2025-03-27",
+        "price": 5831.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 5691.0
+      },
+      {
+        "date": "2025-03-31",
+        "price": 5398.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 5231.0
+      },
+      {
+        "date": "2025-04-02",
+        "price": 5353.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 4892.0
+      },
+      {
+        "date": "2025-04-04",
+        "price": 4292.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 3593.0
+      },
+      {
+        "date": "2025-04-08",
+        "price": 4293.0
+      },
+      {
+        "date": "2025-04-09",
+        "price": 4010.0
+      },
+      {
+        "date": "2025-04-10",
+        "price": 4710.0
+      },
+      {
+        "date": "2025-04-11",
+        "price": 4661.0
+      },
+      {
+        "date": "2025-04-14",
+        "price": 4653.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 4709.0
+      },
+      {
+        "date": "2025-04-16",
+        "price": 4565.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 4605.0
+      },
+      {
+        "date": "2025-04-18",
+        "price": 4685.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 4554.0
+      },
+      {
+        "date": "2025-04-22",
+        "price": 4432.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 4696.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 4846.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 5272.0
+      },
+      {
+        "date": "2025-04-28",
+        "price": 5209.0
+      },
+      {
+        "date": "2025-04-30",
+        "price": 5247.0
+      },
+      {
+        "date": "2025-05-01",
+        "price": 5556.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 5529.0
+      },
+      {
+        "date": "2025-05-07",
+        "price": 5676.0
+      },
+      {
+        "date": "2025-05-08",
+        "price": 5899.0
+      },
+      {
+        "date": "2025-05-09",
+        "price": 5995.0
+      },
+      {
+        "date": "2025-05-12",
+        "price": 6056.0
+      },
+      {
+        "date": "2025-05-13",
+        "price": 5743.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 6027.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 5760.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 5785.0
+      },
+      {
+        "date": "2025-05-19",
+        "price": 5794.0
+      },
+      {
+        "date": "2025-05-20",
+        "price": 6122.0
+      },
+      {
+        "date": "2025-05-21",
+        "price": 6059.0
+      }
+    ],
+    "current_price_data": {
+      "price": 6059.0,
+      "change": -63.0,
+      "percent_change": -1.03
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

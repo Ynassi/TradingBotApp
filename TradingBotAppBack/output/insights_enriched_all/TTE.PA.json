@@ -1,0 +1,654 @@
+{
+  "ticker": "TTE.PA",
+  "name": "TOTALENERGIES",
+  "sector": "Energy",
+  "market_cap": 118734299136.0,
+  "source_list": "CAC40",
+  "fundamentals": {
+    "PE": 9.968164,
+    "PB": 1.0020896,
+    "EV_Revenue": 0.791,
+    "ROE": 0.117139995,
+    "ProfitMargin": 0.07247,
+    "GrossMargin": 0.34905,
+    "DividendYield": 6.43
+  },
+  "technical_indicators": {
+    "RSI_14": 53.6312610259685,
+    "Momentum_10": 4.659848414163012,
+    "MACD": -0.2161874546254552,
+    "BB_Percent": 0.8390875703257944,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.9014947897664412,
+    "QualityScore": 0.3739563950458458,
+    "SignalScore": 0.646818521637958
+  },
+  "volatility": 0.014463992691678,
+  "beta": 0.704,
+  "return_6m": -0.057510283250279,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 22,
+    "target_mean_price": 65.07145
+  },
+  "news_sentiment": {
+    "summary": "TotalEnergies, a French multinational energy company, has missed its Q1 earnings estimates and seen a decline in its stock price. However, the company has also reported growth in output and expansion in clean energy. Some analysts see the potential for stock buybacks to be impacted, while others view the stock as undervalued and a potential buy. Morgan Stanley has updated its view on energy stocks, downgrading BP and raising its rating for TotalEnergies to buy. The company has also announced a capital increase reserved for employees in 2025. The performance of TotalEnergies' stock is seen as a reflection of the company's financial health.\n\nAnalysts see TotalEnergies as a potential buy",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "TotalEnergies slides after Q1 miss; analysts see stock buybacks at risk (TTE:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3pRRkVXSVdUbUNnSVhFYTlzLWpZRjhzZktkbmpUMFB3TVRHLWhUYndmcUczN3VfaE11dWpBdzlMWkRoblFucHE0TE9nWEotRWNCNUkxWGNzUF9OREU0anZLcW9DN3RkUmZBaGxfT1cydGtpVWxYWFA3MEVOaG1zcWlIMTAtUlBla0QxbUYyV2J0RENXX0lSLXpzeHR3UUNRRDBzZGJUaUd0MlNU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TotalEnergies SE: Disclosure of Transactions in Own Shares | TTE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVp3QjBLNlRScE9McUcyZHYwZlc2bUlJT0UzT2JhSS1SWUdzMUFhb1Jkbk9wWGN2NXZlYm4wb044N0pUcEVkSmhTZ3lIZ3otYVQ4bnQ0M0hRSTN3Q1IyVXJpck1PRnYtMXF3ckJhdS1VZFRYR0U2XzVFRFJJRUR6a0NvdlRIREdQemFfakdfQmVVNV9keDFxa1RUdDhSeG9ETzFjUU1YNS1FVmxwME9jamVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TTE Stock Crowded With Sellers - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ockJLZDVndmY1ZXBKbmpvVVVWd2xaa19ldWNmSFl4c2FVeU9fTS11bEREOVVfODBUU2k3WjREeGtpdWd3Y3hjM1FYcGhCLWhzRk1mWjRsdlEzU3hSdXd4M2NVTUJpZTJ1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TotalEnergies (TTE) Stock: Q125 Misses Estimates, But Output Grows and Clean Energy Expands - CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm5kRFhtNnhDNDg1QXctMFQ5VG91d0RjMmg2b0piV2pwZlNjc0gtMk80dV9WN3RHcnJCUzdwTmU1VE5pQlZTQ3V6b2lSaVZ1SFlGdkg5Mk5tbUwydVRmZndoYjRXTnpFT1N6Szhoc2Nkc21zbFdQeDU3bmdpNzByaA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is TotalEnergies SE (TTE) The Dirt Cheap Stock To Invest In Now? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHQ0UGRGQ0JvVnFpakJXYXlpb281SHBiNVIwc05tdUE0aTRhcndXUDRKNVdYZENmS2Y2QVRBUmRNU0ZSYXVGUDc5Y3NBWkY2WGJDajZfTjIzLUJyYTQzU1dRdDA3ME1GUVJMb0FVc05QQVk0THYyaWpMTlZKTk9IbENJNXB6Tmo2Rzk3VG5qUmd1a1o5cVJlazhlU25VeW1zY3M1eW9ubFfSAbABQVVfeXFMTmtDdHpqU3c5UmJVLWNuWldCaHRRcm9rWXpRR1p2OTc1VVJXMW1sWW9teUVDZlhaUXBVajVBQzNsTW9JUDRoNGRuYUxDTENZLS1qcGVmblZRM3hiNF9kRWRqWWo0UzhIVm15Z090cEthZ0cxaHF4NmRRY3pDckVzdVN0bWxfcjhDNW5qUHgzMktBYmNNTTlJaS1mTTBRWjdEbmMwR1JpQnNfUDUwYkg5OW4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TotalEnergies Full Year 2024 Earnings: Misses Expectations - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeTVPOXFKamRmRHFkYVkwaXo2Tm4zT3F0eVhxLXpLLXdScjB5cXdKT09lQWlUVU43Z2tZSUFMZzVTVVR3VVU5YmdoX3d1d3J5Sy13TnEteVROdzBtSkhQcmo1cUxrcDJsNVh2RzJFaFZjc1ZESmRzdFdfd09pY2V1eUJranpQa0VaY3lnMFJ1R3laTHdkenpudzR6VFk5cmJ6R0VYWGVaRHFWQmJ1ekQ4VDRXdm4wWXh0REJqbXlnOUY5ampxMTFRd2Z30gHPAUFVX3lxTFBfbXNnOUtVdEJ1a3dWQjRBT1dORzdjMm5sbTF2dVRJTXl6NjVsVGVWZEw2bG9PUldEMjNLLXVQR0syN3hyUWpMd25qLWdFSVRJdHZXWjJoV0JxY3owajg2a1JzMEI4S19EUzB1eW1lQUVWcWVjbXQtdkplMjJ4UnFrVzF4WHJzZ0lIRWtBNjZjdkNuNjF5emYtRmtUYzRFVTgyanhTQzdobUpNdFFBSFdYTkc5UlhEUFhteUx0MTdTcUVSTjFaTXEtQmF4Ym1MRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Devon Energy (DVN) Laps the Stock Market: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjZ05idzN3b2Q0b3R1d2l0QkUwcmRET2JmTVd3X2VsZ0hFUXJnbVFyb2k4cWJ0OVA4TmdOS2doTUxxTGZVM2NaMF9fRmIyd0VXMzcxWnkyZ29pZW5EamZNUW9vR0wzX0xYRnd0S1lHNnp6cUh2MjRNVWpRSXNHdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley updates view on energy stocks: BP downgraded, TTE raised to Buy - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOTBVd0VEa25zZTNLNUZ6ZnpKRUJWcm5xQ1ZWRHpJSjdlSi1FaHdKeFJxZDNNQUJWdWw4STd1SEhEbXctX0g4ZV85MmRCX214WW1TUmZVOE4yNWZGMm9SWHdfamJxbjdjRHB1bm1wTmFONnhtVnZfSFRpLUR6TjVXeVF2ZEpRUzVMYWhHRnd5elhyYldFUENoOHV0VTdqN1dFeWxfN0ZfeHVWYThldTRZRkczYXRxWjJtVzFJbHc4N0xsR2lVUUJBbVozVDZuQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "J.P. Morgan Sticks to Its Buy Rating for TotalEnergies SE (TTE) - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYzlsQUVBY3pBV0gxLWRpVzhRQktwTHAwc09SaW8tU3pJc3lfWDltdmxTT0FVN01QZy1XTVU1N1k3SV94ZDN2VlRYZ2JLeGpreVc3RHpxN3VUeTVmLUxSaWhsOVg0OHRJbnJmTGdrYl9lRTFrV2lXR2FqX1U2TWREb2YwZ05qN18wSHN4bDFUN3dhb3I1ci1PaWxRSDAtend1Uk5yQ1J3YjllakI1Z1k0VkF6Mk1QZlZuX3lnMzRpRGN0dzN2X3JaV29vVDBQRlB1VE45bmt0azNVWEJ1U1dn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TotalEnergies SE (NYSE:TTE) Shares Bought by Mariner LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFAzcDdtRUg4OUtXTUdFTUJDRmJpenhGWkJncWYtTGJ3a014NVBzQkNZVElUTUdJSnBIamQxdFc2UlJFWUxleUN1VDJTRmF1WVdEcmFVZ3JqLWUteHA3aVF5dVZrQUx3MzFDdlRURktZelNFX3VUZm0yeGFJNHdONktoX01uRHVYemJFa3EtcXVMVEJwUmFFeGxFeExZZzkzVmZIYXM1ZnVSbTY5emtfOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TotalEnergies Stock: Structural Earnings Rebound (NYSE:TTE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZHQ2blhHZTE1TldhWjJkS0J2RVVPbXlDZ1hjTHVabzR3eGJOd3p3OUdoaUVpWU82Z2lDSTB0dllXSG12WENLay1HQWxDaDlvU1N3VWtINE1FLWNBSUhyOHdvZjdibDBra0x5MjZZekZTVXM5YUNDa0MzRDdha1R1RVJ4Uk9vSWxZRWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Capital Increase Reserved for Employees of TotalEnergies in 2025 | TTE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejk3UUcyc21vSWM3elM4LURRV1lIYlNoT2Jqem1lQ1hsc3U3cnhSZTF0SUdvX2kxbGo5LXlVRmk3RVVFd0FxaF9vUTBDcXdSeF9pWHpFVGVRcEJ6bVRJLUdyNl9LR0ZJVnVIQmpyLTR3Y3JycktLTEJBQUFwX2JUUW56eEkyelFIQjBHUVBhOUZsLWpvY0xFUENGU251azNrT2dFN0hxVWFnVDJNdTRBSlNvdEU2NGtTWWRCbEljRlh4OEVlVXg4R09B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is TotalEnergies SE's (EPA:TTE) Latest Stock Performance A Reflection Of Its Financial Health? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON0I0UF9KNXJvZEJIdUlKNlc2NTk5VjVkaEhaWGNNWEVRaXNJeWFGb1E2NVFRMDRDeHpzUVFlNGxTY19tdlQzX1lrRlRmX1B1VFZ1VnRkQUpiNk8wZVUzWHlvWHRUUl9QOVUxcXFyanpPb1QtSTVDNnFoT0RkdllSRkY1bTRfXzdrT2dNcHJXcjctcFRZcHAzRzVENGs2azlxVGZlUFRPZ1dDMmhWZDFKMWZmX2RTV0V2T3NyQzU4OFBscTFTQ1BYLUVORTN6d9IB0wFBVV95cUxPWktORDR1ZHM5bUc0cGVjWE9WSm5rLU1uLVVDb0NzU0FYeFJhckx0T1lzYWVCUmhYT0dFQkh5Y0Z0YlB1TVByMVR2b1FQNG15Qk5nUkNRVFhqTUk5elZlWEl5c09GNC1QeXdFak9ac240RVBOdzVpckQzNElDODg2VFpoaE5ELXRjeDAyRFdEcG9Zbnk3TnJLSEpvZUZwbTJfVHVRS3hiOEczMFRsOVBDY29OMVlnU3hhV0JCcHJFVGo4TU9PRUM4MzR4cHdfaGhLM3BZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why TotalEnergies (TTE) Is One of the Most Undervalued Natural Gas Stocks to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0FVTUJhUFRTMElRbVdtUS1ydXM0RnMzcXFPUEdfM3JrRzB2U3ZmdGFfQlhVLVNIWGRJbkJBZmJ2SFpMdDJsYnVJNWlhVDgzVm9peEUtLU01dXVDWVpCX2hOWjV1bVdURlJUVmdLNi1rc2ZYc0U5ZXhWSHFDYVNzMUpn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TotalEnergies SE (TTE): Among the Cheap High Dividend Stocks to Invest In Now - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXNkTTZFRlo0VlE4VFVXSndNMG5xWUV3dDRZVGZEM05OUnQ0MkJnQVRIRXo3eGZUZF9BelhDSjVqNDhBek5jRXhIcU92c241Y18xOW4wek0zS1kyQzF6a2UtX0VkTkVlZm13bUhoOUJ6X2c0Z1dJNUlKOEY4WHhzNGt5Uzdmc0dETVRXVXNvWFd1MUNVQTUyLTlDSlVWdFNLUFlSUnFMOFRIaEZuanVvUEMxMVlHZDI5V1HSAcIBQVVfeXFMT3NaekdDX2FGR0ZYQjlaMUV5MS1tNUlpdUdCWUQwb3NSZHlYbWIzZWdJazdkMW1yZ1ZrYVEydGZFRW9EZXd0alEtMVVWZVhsT0NoeEI0VEEzdy12YUwtYzJmeENCd2x2ZzZFM05YbHozeE9RMjY2dW51Nl9CSEJKMkxPZ2hIU1RpYVVpX09qeWNFR296dnFJeUdEM2xlcHJyVU85dGs1aEU1cEJEWS04N09IaUZ1NmlNVDhzTUxHMFZnZnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TotalEnergies Stock: Drilling For Alpha (NYSE:TTE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeEJCbTdVYWhDT25UMDdjZ3FXQ293azVuV3g2TnlEWVRaVk01c1Bsd2ZZX1NfRGdCTFRVTVQ1cXlEcnR4a3AwYy1nb3lOM1B0ZDZDZWJvWm1KMW5hNUJKR2hMeTl4bU1Hdk1jbzYzNVdfU0R4Wl91NTRjaFNObDNMaXpHWFI2LWFLN0p0ZlF3bWZzMEZVT3hJcWx0SFF0UENOdDVaZ3lOR3o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TotalEnergies SE: First Quarter 2025 Results | TTE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTFqY28wMkphYzNheFNWTF9kQnc5SmZWNUpjVGVIWHVmZnViLW01T3Y1cEdPclVUaUxDU29OY3ZwOE1MUFl3cHFLcVFLSTdNamlfeEJpYmFWWmdnMFEtanFrM1JwNkxWdWhFVE1NNWQxdXdGdUdzakJyMFg1ZnlIbW10RWRyNmZBc3JEVzVlV2V2bGptREd3SkhrNjlQQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UK shares rise on hopes for US-China trade talk progress, gains in BP - Yahoo News UK",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BOG4zMlR1cmNBQzZ5WlFkTWJnTlNZWHdtVG5XTWJiVmFiNWZraHczNFNUc3J3SEVjQWhpaUZXNTRScmNsRmllUS1mX1dBVGJGVlppdTU2eTVkYk9Nc0Vma3pKVVp5eVR3NjRYMDQzcHhsUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TotalEnergies SE: Disclosure of Transactions in Own Shares | TTE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3lEU2gwNHVfbFBYQVdXbWoydWIzM0NQTmoxMWJUZWs1M2NHeHFKSnBndXRpTUs0QmZ1Ui03Q0M5SERTLUpKR2tQV290bklDNlp2d3hqT1YwNVJOZEFFR3ZqM01ERjVoc3RZQUxoOTNQMkgwTjFrc1ZhR0tQM1hyVzd6UDhHZUxfQTlCZXpMYXFIZTdiUWo3bmdyYzVBd0hWam9SaEVZZE55S0NiM3YtSg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TOTALENERGIES SE: Disclosure of Transactions in Own Shares | TTE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSVMwTW5KS3dMNW8zSDdvb2hkek5LOVpzcHNoN0VGTVladWQ1XzA0ek12OGVtb3JhSGI3RnhubGowS0xkNEFTVWd5YzdsUEpRX25CcDI5dGhPR0ZMSzlNMy1yUlFJYWZMeHFmYm94ZTQ0aUJyWlJoSWMzMDFrbThMUTZIanM5YnU0dzBuRnhPZllFZzBNVUF5S0VUTXdfX2h0dzRGTmMxajVDbFI0TjJGdXln?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 57.18
+      },
+      {
+        "date": "2024-11-22",
+        "price": 57.09
+      },
+      {
+        "date": "2024-11-25",
+        "price": 55.88
+      },
+      {
+        "date": "2024-11-26",
+        "price": 54.93
+      },
+      {
+        "date": "2024-11-27",
+        "price": 54.1
+      },
+      {
+        "date": "2024-11-28",
+        "price": 54.22
+      },
+      {
+        "date": "2024-11-29",
+        "price": 54.97
+      },
+      {
+        "date": "2024-12-02",
+        "price": 53.8
+      },
+      {
+        "date": "2024-12-03",
+        "price": 54.14
+      },
+      {
+        "date": "2024-12-04",
+        "price": 53.94
+      },
+      {
+        "date": "2024-12-05",
+        "price": 54.06
+      },
+      {
+        "date": "2024-12-06",
+        "price": 54.23
+      },
+      {
+        "date": "2024-12-09",
+        "price": 54.96
+      },
+      {
+        "date": "2024-12-10",
+        "price": 54.35
+      },
+      {
+        "date": "2024-12-11",
+        "price": 53.48
+      },
+      {
+        "date": "2024-12-12",
+        "price": 53.37
+      },
+      {
+        "date": "2024-12-13",
+        "price": 53.36
+      },
+      {
+        "date": "2024-12-16",
+        "price": 52.29
+      },
+      {
+        "date": "2024-12-17",
+        "price": 51.68
+      },
+      {
+        "date": "2024-12-18",
+        "price": 52.2
+      },
+      {
+        "date": "2024-12-19",
+        "price": 51.93
+      },
+      {
+        "date": "2024-12-20",
+        "price": 51.89
+      },
+      {
+        "date": "2024-12-23",
+        "price": 51.85
+      },
+      {
+        "date": "2024-12-24",
+        "price": 52.01
+      },
+      {
+        "date": "2024-12-27",
+        "price": 52.75
+      },
+      {
+        "date": "2024-12-30",
+        "price": 52.6
+      },
+      {
+        "date": "2024-12-31",
+        "price": 53.37
+      },
+      {
+        "date": "2025-01-02",
+        "price": 53.73
+      },
+      {
+        "date": "2025-01-03",
+        "price": 54.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 54.71
+      },
+      {
+        "date": "2025-01-07",
+        "price": 54.98
+      },
+      {
+        "date": "2025-01-08",
+        "price": 55.16
+      },
+      {
+        "date": "2025-01-09",
+        "price": 55.3
+      },
+      {
+        "date": "2025-01-10",
+        "price": 55.25
+      },
+      {
+        "date": "2025-01-13",
+        "price": 55.92
+      },
+      {
+        "date": "2025-01-14",
+        "price": 55.6
+      },
+      {
+        "date": "2025-01-15",
+        "price": 55.93
+      },
+      {
+        "date": "2025-01-16",
+        "price": 57.38
+      },
+      {
+        "date": "2025-01-17",
+        "price": 57.47
+      },
+      {
+        "date": "2025-01-20",
+        "price": 57.17
+      },
+      {
+        "date": "2025-01-21",
+        "price": 56.64
+      },
+      {
+        "date": "2025-01-22",
+        "price": 56.38
+      },
+      {
+        "date": "2025-01-23",
+        "price": 56.14
+      },
+      {
+        "date": "2025-01-24",
+        "price": 55.84
+      },
+      {
+        "date": "2025-01-27",
+        "price": 55.69
+      },
+      {
+        "date": "2025-01-28",
+        "price": 55.75
+      },
+      {
+        "date": "2025-01-29",
+        "price": 55.8
+      },
+      {
+        "date": "2025-01-30",
+        "price": 56.16
+      },
+      {
+        "date": "2025-01-31",
+        "price": 56.39
+      },
+      {
+        "date": "2025-02-03",
+        "price": 55.97
+      },
+      {
+        "date": "2025-02-04",
+        "price": 57.02
+      },
+      {
+        "date": "2025-02-05",
+        "price": 58.01
+      },
+      {
+        "date": "2025-02-06",
+        "price": 58.61
+      },
+      {
+        "date": "2025-02-07",
+        "price": 58.88
+      },
+      {
+        "date": "2025-02-10",
+        "price": 58.62
+      },
+      {
+        "date": "2025-02-11",
+        "price": 58.86
+      },
+      {
+        "date": "2025-02-12",
+        "price": 59.01
+      },
+      {
+        "date": "2025-02-13",
+        "price": 58.7
+      },
+      {
+        "date": "2025-02-14",
+        "price": 58.88
+      },
+      {
+        "date": "2025-02-17",
+        "price": 58.9
+      },
+      {
+        "date": "2025-02-18",
+        "price": 59.09
+      },
+      {
+        "date": "2025-02-19",
+        "price": 58.71
+      },
+      {
+        "date": "2025-02-20",
+        "price": 58.82
+      },
+      {
+        "date": "2025-02-21",
+        "price": 58.12
+      },
+      {
+        "date": "2025-02-24",
+        "price": 58.06
+      },
+      {
+        "date": "2025-02-25",
+        "price": 57.47
+      },
+      {
+        "date": "2025-02-26",
+        "price": 57.76
+      },
+      {
+        "date": "2025-02-27",
+        "price": 57.82
+      },
+      {
+        "date": "2025-02-28",
+        "price": 57.78
+      },
+      {
+        "date": "2025-03-03",
+        "price": 58.17
+      },
+      {
+        "date": "2025-03-04",
+        "price": 56.61
+      },
+      {
+        "date": "2025-03-05",
+        "price": 55.98
+      },
+      {
+        "date": "2025-03-06",
+        "price": 56.32
+      },
+      {
+        "date": "2025-03-07",
+        "price": 56.54
+      },
+      {
+        "date": "2025-03-10",
+        "price": 56.4
+      },
+      {
+        "date": "2025-03-11",
+        "price": 56.14
+      },
+      {
+        "date": "2025-03-12",
+        "price": 56.63
+      },
+      {
+        "date": "2025-03-13",
+        "price": 57.18
+      },
+      {
+        "date": "2025-03-14",
+        "price": 57.49
+      },
+      {
+        "date": "2025-03-17",
+        "price": 57.55
+      },
+      {
+        "date": "2025-03-18",
+        "price": 57.97
+      },
+      {
+        "date": "2025-03-19",
+        "price": 58.81
+      },
+      {
+        "date": "2025-03-20",
+        "price": 58.87
+      },
+      {
+        "date": "2025-03-21",
+        "price": 58.4
+      },
+      {
+        "date": "2025-03-24",
+        "price": 57.96
+      },
+      {
+        "date": "2025-03-25",
+        "price": 59.35
+      },
+      {
+        "date": "2025-03-26",
+        "price": 60.41
+      },
+      {
+        "date": "2025-03-27",
+        "price": 60.51
+      },
+      {
+        "date": "2025-03-28",
+        "price": 59.21
+      },
+      {
+        "date": "2025-03-31",
+        "price": 59.66
+      },
+      {
+        "date": "2025-04-01",
+        "price": 59.49
+      },
+      {
+        "date": "2025-04-02",
+        "price": 59.41
+      },
+      {
+        "date": "2025-04-03",
+        "price": 56.6
+      },
+      {
+        "date": "2025-04-04",
+        "price": 53.07
+      },
+      {
+        "date": "2025-04-07",
+        "price": 50.29
+      },
+      {
+        "date": "2025-04-08",
+        "price": 50.45
+      },
+      {
+        "date": "2025-04-09",
+        "price": 48.26
+      },
+      {
+        "date": "2025-04-10",
+        "price": 49.51
+      },
+      {
+        "date": "2025-04-11",
+        "price": 48.67
+      },
+      {
+        "date": "2025-04-14",
+        "price": 50.22
+      },
+      {
+        "date": "2025-04-15",
+        "price": 50.61
+      },
+      {
+        "date": "2025-04-16",
+        "price": 51.68
+      },
+      {
+        "date": "2025-04-17",
+        "price": 51.65
+      },
+      {
+        "date": "2025-04-22",
+        "price": 51.87
+      },
+      {
+        "date": "2025-04-23",
+        "price": 51.99
+      },
+      {
+        "date": "2025-04-24",
+        "price": 52.15
+      },
+      {
+        "date": "2025-04-25",
+        "price": 52.76
+      },
+      {
+        "date": "2025-04-28",
+        "price": 52.92
+      },
+      {
+        "date": "2025-04-29",
+        "price": 52.35
+      },
+      {
+        "date": "2025-04-30",
+        "price": 51.16
+      },
+      {
+        "date": "2025-05-02",
+        "price": 50.86
+      },
+      {
+        "date": "2025-05-05",
+        "price": 50.51
+      },
+      {
+        "date": "2025-05-06",
+        "price": 51.06
+      },
+      {
+        "date": "2025-05-07",
+        "price": 50.75
+      },
+      {
+        "date": "2025-05-08",
+        "price": 51.05
+      },
+      {
+        "date": "2025-05-09",
+        "price": 51.89
+      },
+      {
+        "date": "2025-05-12",
+        "price": 53.07
+      },
+      {
+        "date": "2025-05-13",
+        "price": 53.41
+      },
+      {
+        "date": "2025-05-14",
+        "price": 53.11
+      },
+      {
+        "date": "2025-05-15",
+        "price": 52.86
+      },
+      {
+        "date": "2025-05-16",
+        "price": 53.23
+      },
+      {
+        "date": "2025-05-19",
+        "price": 52.88
+      },
+      {
+        "date": "2025-05-20",
+        "price": 53.01
+      },
+      {
+        "date": "2025-05-21",
+        "price": 52.32
+      }
+    ],
+    "current_price_data": {
+      "price": 52.32,
+      "change": -0.69,
+      "percent_change": -1.3
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

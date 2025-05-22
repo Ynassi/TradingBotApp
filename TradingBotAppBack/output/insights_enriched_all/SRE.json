@@ -1,0 +1,646 @@
+{
+  "ticker": "SRE",
+  "name": "Sempra",
+  "sector": "Utilities",
+  "market_cap": 50614910976.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 17.057142,
+    "PB": 1.645186,
+    "EV_Revenue": 7.072,
+    "ROE": 0.09709,
+    "ProfitMargin": 0.22222,
+    "GrossMargin": 0.41252998,
+    "DividendYield": 3.29
+  },
+  "technical_indicators": {
+    "RSI_14": 66.52178908536396,
+    "Momentum_10": 2.835562945587163,
+    "MACD": 1.307765876292649,
+    "BB_Percent": 0.9616911827374518,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8808420872364353,
+    "QualityScore": 0.4134067609549768,
+    "SignalScore": 0.5918288239973948
+  },
+  "volatility": 0.0244327934482503,
+  "beta": 0.642,
+  "return_6m": -0.1513676019324713,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 16,
+    "target_mean_price": 80.87062
+  },
+  "news_sentiment": {
+    "summary": "Sempra, an energy and gas utility company, has been the subject of various news articles in recent weeks. Some of the key trends include:\n\n1. Investor interest: Several investors have recently purchased shares of Sempra, including ProShare Advisors LLC, Raiffeisen Bank International AG, Meketa Capital LLC, and NorthRock Partners LLC.\n2. Dividend payout: Sempra has announced a new quarterly dividend of $0.645 per share, payable on July 15.\n3. Earnings outlook: Analysts have predicted that Sempra will report a decline in earnings for the upcoming quarter. However, some have also highlighted the company's recent insider trading and hed",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "ProShare Advisors LLC Buys 7,162 Shares of Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3lWVjhZY1JQVmJSbEJYeXdjZG5PODFlYVhjM2ozRFVQQ3lKSHByMEx4TUZNQ2RhcVdpSXBjTVFUODN6WDVjZjY0SVhIdlNWelA1RDB6a3NvcXpqUHNuZ0hmMUpnLW5TdzlOeU1ISlJld3RkN1l2Z2twNW10d2JhaXhpaDdZbWRrd2dyVF9WX1ZER0pieDNhODlKWlowNkg2NTVqZ1F5YWd5RlJWenhB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sempra Sets New Quarterly Dividend: $0.645 Per Share Payable July 15 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYUx5SFZxeEswamVyQ1hQUGt0LWtYbkZEd2ZGdGVELWlKYW5zWjF4aW1ONHlRWUdybDVTdzdNSkNVUS1qczhwUFEwUEMwVVZ5WkhFOVNnaXc3OGZ6U2JoZEN2NXhPNFEySkhDVWZOLU1uLW1ETVlPUXVIWWg5aE5mM013?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Estimate Sempra (SRE) to Report a Decline in Earnings: What to Look Out for - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT050RUlyVURaT3Roek1hSmFiV2V2TmpkeUNCSDhIdlAtMWs5WklZaTlEa1FwQUdTY0xDQlQ0QXpCMWQ3X3ROUkY1VUVuZUYtaUxMZUt6X21sZWdzSTdTZlVHVDRaNnl5eDVkZ3ExU2NhN2U2ZUc0RmFqemFvU1pxU3R1dHA0QUc0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "SEMPRA ENERGY Earnings Preview: Recent $SRE Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEoyR3d0NmZMaUIzX3F2Zm41d25ENExvRHpRZXh2eVl4RWF1a09BUHU3Z3E0S1pLNG84U0Ffa1lDQ3RrSEF1UTduMUFJMnhVS3NveEp2RzI0amthOVFMXy00R3RyMG9qcFZIaXR5RzFSWFNobmxQOVYtZXlnd0pVbllHMzdmbGo4emhvb3FlcVMtLUhCejJoSW5QUmRKQllwTnZWNHpjYTJ1ajYyYTFQNXlfQVppNE5wblE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "\u2018It Did Not Deliver\u2019 \u2013 Jim Cramer Slams Sempra (SRE) After Disappointing Quarter - MSN",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM2pINUJBY0NjaVE0WE54YVdLRTBBV3pEclphcVpwLV8yQ1dEQUR3RlFCZ0tsaUNTOVdqcmw1eTk2VGVlN2lQOVlodlhvX3dpT3NyeFZEc3A1WEJkMDdWbW5YQU0zLVg0eGs2TGE4NXhRYUVnWVI0aDZJNXBJbTVoRlNyTlBmUFNHb3Z2akhMWUlNV3htWUg0WldWZ3NqR2xvXzFkTmN3MGptT0Zfb3RtbjI3OExqaTBjbWp5UUtxUWJNVGg5?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sempra Declares Common Dividend - Sempra",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHlmcV9ZdnowUHhvLVVyamJSdFRqX2tYRTVkYUU4Rms3WWVvSm9IMXlUaEhJdmNuSUh5RDV1ODVxaTlSRGpzMlVtNlN5YTNIRmtoQnBRMHVzNlVRUXB1RFZlQ015bDZyOEszdzlzUG5LOHpkSXd4YkJCVGpCeHJfYVZyQ0lKSjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sempra Energy Subsidiary Completes $1.1 Billion Bond Offering - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFVPOUZDcVNCWGpKblJSSS1CTDQ0Z3RROTMtaVRhajFGUlRndWFlcldkem9sVWdYYl9uaXoydDdUN1ZyOS1lRkRKMll5QWpVcUlaS2ZQQTVUZTdfNUhULVVTRWJmMjIxRzFFbkhqTHpFbS1KMmZiTFdOTE44NHV1ZDI2bUp3ZC1zcGRIaEtIWWRSTHBfUU82LWNXVVhmaUdHQ0pXMWE0VVdWRlJUc1VvSmhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cresset Asset Management LLC Sells 28,468 Shares of Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOelFFb0pxaFVGZUtHT2VfYjBxdDNaMVIyQzd6SnFiUFdrNUN0MDFWWTVsX0FVeXZWVVgwb0V1d25XWDNKQzI0bG9ST3lzbkd2ZWttaGVuNHdGZmFMSlFDYTdHZVF0aFQ0amVzaFk1VGhNUlFWeV9lbjZJQjJILS1Ra0NQeE55SFgzZzJpSC1IVGJUQ2I4MEt3Y2JSTm5VYkM3V1ZMWG1hVi1hRzQtdzk4STl0bkE1TFA0LWlBV3FxYVl0QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Sempra (SRE) Among the Most Profitable Utility Stocks to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjVfUlNEYzhPLUgxdWNQdWF6OUIyTEdBczlfVl8xZFJvLXdqd2RVNUFTSzY5Qk9zaXZvZFhOLVc1blV1N1hwOHQyMjJUUjBJQlU4QWpNOXAydHNmRGFtVmk4bkFJUXlzVThNdDdDX1BscWdSNHd4MVhfUXVCcTQ0QzF6ME4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SRE Quantitative Stock Analysis - Peter Lynch - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdXVEaDI0Z2RUeThnM1BKQWRSTlBGMlljMFJONFh6bDVXajZzbkRBX1JCN2JLVVp2ZFFhYVhpRGhzQlVGT09SUVBsTG1OTTVoOHY4NHZ0SjBYQVByWk1QOW1lcEtZWWpFNGdYbDJLby05NzJhWEhrOHVJbVBYUFlwLVFaTl8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Redwood Investment Management LLC Has $327,000 Stock Holdings in Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMURvaDZFd1oxZTNKeHc3ZXdxQzJNVjBkWHlfQmdiWlBWUjlFU25ZaGJpUnNRem84ajNzT2NQSTB4dG0wcURrVDBWbW5kWlFNaThHb3ZoeDZoR0hHSWNYcW0xTGYxb2ZxUTRoZkMwNEh6WXczc1QwTTc0bmtHZXp1ZzhOcEZ5MFNtUnAzWUpIaHhSZ1h6bHNSTV9XTG0wd0dadG93LTRYQzk5SzV1MWhVNGt6RzA3SjJJSDZTdVlmNjlnUzNxTzlkaU5Bdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Sempra (SRE): \u2018A Sleeper Stock with Growth and Yield\u2019 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0kyU05kd0t3d3BZUFpxZFlTU1ByYzBUMWd1TldwQ2JrUlltaFNaRzk5NGpQZUItelo5UlJpZDlrYzY2VF9tMEZ4N1ZkLXJGd2FpMUpuS05wV0NKQzFSRzRLTnVZbDdLNUlXbXZNNkNnenM4TzM4S0NtT2d6bG1PWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raiffeisen Bank International AG Buys New Shares in Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUy04c3NBWFU2UGdoMFM4d20yV19rWk1UVC1CQ2wyakgyTzh0Y0E3Q2VpVnYxLVAta2N4OGRsamVMVlpfOFNIbzhLYjRLQ2cyWTQtc0w1VXBlNGhwVXA1RjhfLXRPM2hhWkZUNDR0Zk9hQk1Ea0FtblhVcjBUZ0E3ZWh0NWNWcVl2aDZGeERkbzRmUDc4bmZSaTVqVkhDQkFsMUdHSE9ZU2NqWHdDUGlEekt3bEpDN25SQkZUdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in Sempra Energy (SRE) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblJPZ0loYVFXYlBMdDc4VTA3WmdaTlJqLWF0TVhWb0Nob3Z5TlBHWmRhTm44WVkxYk5mcGRKYXNqOGoyNF9WakpBTjM0emYwemUzTHhYMElob1BINmFyZ3g3XzZRcXpkWWRUeU03TDNuU0s4N3V6Nk9qSWplRlg3RktMLU5WQzZLT25DOQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Selling: Sempra (NYSE:SRE) Insider Sells 8,015 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTF9ZNzZQaFpVOU5mOGhhZVBHWTJ0MWlqaFM3cml2UHdITnRYVHJNeTlEV185WGJFUXFzNS0zNU1EMVNpZnBNMGIteTJRNGZpa1k3cHhVb3ZhWXFNY2dHR2xtWEljbEVORi1QYzZOMF9NeS02YXk0cDFzRGtBNFFGN2tBRkUxaXI3a01QVmR6bmZtXzhEaThnbzR4RkVaV0s5VGhMeU9oWllxUTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Sempra (SRE) Went Down on Tuesday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zM0otbWFTSkJ6ZjFucHF6WGJ0dHVFQWRidzFCUVN2MFN4ZnRBVVl2TXlpR2RZUWNSZjJjWEh1NWxaUE14SUlUcTFJcVBKWXF6bWhNTVZVSGtMRk1YUHFsUHZtYUt6cWVkbWk4U3RtbHhYNURSeElfMnZn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Meketa Capital LLC Purchases New Shares in Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3hOTGdnYk1leWpyZmh6b053UFJ2bGpGSmEzRHhRSkRYYUZvbjlpaFFXVGdYem80N0o3NFpjUkUxUWpMalN0eFNyX19aeGVSVjlxSHU3Y05uUzRWMmpjWG9LdnpicXo4ZmowTmdUOVVsZmkzOXZUTVZ2OTZzQk41MTJjX2pocnFMWUZCUGFsajJxZy1MT2VOYzh2VmtwVnFWcHFBUmhNWVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sempra (SRE) Projected to Post Earnings on Thursday - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVBlYWN5ZHJ0bWFiNVZoeGVSMjQwcFBWNmtDcE1JZ3YzLWF0WXk4eG02cUs5RTdELWpqOFJPc0p4TUFUQ1p4dFRvU24xZHNFTUxoeURIRmNWTlpEZjZKeUhXZ3hhWFBvaUxwenJZQzJTb1VJcGIwRmdoOUVkaXc1djVLZTVWZGtlbG1aRExOVE9pYkZwQjFXNW9Jam9fSUFTNGctZk9xN0tXZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NorthRock Partners LLC Acquires Shares of 6,715 Sempra (NYSE:SRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQjRHalBhaWhUaHFPd3hxWnB0UmVNWkEyQTRyeHhxZUlBenFzaTJZdFZ5eGVHcmJ0NlkxaVpndE81THNqYnotVU1FcFdkYmlSTWpzNmZjU2s2QXZhakVpUTI2MG9ySFVtV2dlMnFsUHhqak5aM29lTlp4S29UZ19HUTNpREcyRnJKR2poc2JqM3ROR3M1WlhGOUpxQi1JdEUyV0F4S1ZwamFMbVdIdUVIWml2REtOZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sempra Q1 2025 Earnings Call: CEO Martin to Present Latest Financial Results and Strategic Updates - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc01uQUhlb0k2LXJaNGZmZWp3U3RKVmhoOWNXM0Fqc2RCeXh0c0U1UUsyUkNLcUk1T3YxSUdnaGYwUVk1Z1k2TTBpR1hrVFlHV3dVb3l2bHphOFpNTzJIcURPeTE4OGQ3ejlEcV9XdHdERWpUZ0J1UmZ0MHhiZHlyMWRXNm0xbnJVWEh1Q29LLWVEUWc4Q3RiWjBJV05HeW11aXpXVw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 94.27
+      },
+      {
+        "date": "2024-11-25",
+        "price": 94.77
+      },
+      {
+        "date": "2024-11-26",
+        "price": 93.29
+      },
+      {
+        "date": "2024-11-27",
+        "price": 94.28
+      },
+      {
+        "date": "2024-11-29",
+        "price": 93.67
+      },
+      {
+        "date": "2024-12-02",
+        "price": 92.1
+      },
+      {
+        "date": "2024-12-03",
+        "price": 92.01
+      },
+      {
+        "date": "2024-12-04",
+        "price": 91.5
+      },
+      {
+        "date": "2024-12-05",
+        "price": 90.94
+      },
+      {
+        "date": "2024-12-06",
+        "price": 89.6
+      },
+      {
+        "date": "2024-12-09",
+        "price": 88.78
+      },
+      {
+        "date": "2024-12-10",
+        "price": 88.55
+      },
+      {
+        "date": "2024-12-11",
+        "price": 87.41
+      },
+      {
+        "date": "2024-12-12",
+        "price": 87.93
+      },
+      {
+        "date": "2024-12-13",
+        "price": 89.16
+      },
+      {
+        "date": "2024-12-16",
+        "price": 88.63
+      },
+      {
+        "date": "2024-12-17",
+        "price": 86.96
+      },
+      {
+        "date": "2024-12-18",
+        "price": 85.09
+      },
+      {
+        "date": "2024-12-19",
+        "price": 85.9
+      },
+      {
+        "date": "2024-12-20",
+        "price": 86.81
+      },
+      {
+        "date": "2024-12-23",
+        "price": 87.04
+      },
+      {
+        "date": "2024-12-24",
+        "price": 87.96
+      },
+      {
+        "date": "2024-12-26",
+        "price": 87.61
+      },
+      {
+        "date": "2024-12-27",
+        "price": 87.77
+      },
+      {
+        "date": "2024-12-30",
+        "price": 87.35
+      },
+      {
+        "date": "2024-12-31",
+        "price": 87.72
+      },
+      {
+        "date": "2025-01-02",
+        "price": 87.13
+      },
+      {
+        "date": "2025-01-03",
+        "price": 87.67
+      },
+      {
+        "date": "2025-01-06",
+        "price": 84.51
+      },
+      {
+        "date": "2025-01-07",
+        "price": 84.23
+      },
+      {
+        "date": "2025-01-08",
+        "price": 82.82
+      },
+      {
+        "date": "2025-01-10",
+        "price": 78.73
+      },
+      {
+        "date": "2025-01-13",
+        "price": 76.94
+      },
+      {
+        "date": "2025-01-14",
+        "price": 78.11
+      },
+      {
+        "date": "2025-01-15",
+        "price": 82.42
+      },
+      {
+        "date": "2025-01-16",
+        "price": 83.99
+      },
+      {
+        "date": "2025-01-17",
+        "price": 85.18
+      },
+      {
+        "date": "2025-01-21",
+        "price": 86.51
+      },
+      {
+        "date": "2025-01-22",
+        "price": 82.8
+      },
+      {
+        "date": "2025-01-23",
+        "price": 82.81
+      },
+      {
+        "date": "2025-01-24",
+        "price": 82.71
+      },
+      {
+        "date": "2025-01-27",
+        "price": 82.15
+      },
+      {
+        "date": "2025-01-28",
+        "price": 81.75
+      },
+      {
+        "date": "2025-01-29",
+        "price": 81.98
+      },
+      {
+        "date": "2025-01-30",
+        "price": 83.29
+      },
+      {
+        "date": "2025-01-31",
+        "price": 82.93
+      },
+      {
+        "date": "2025-02-03",
+        "price": 82.59
+      },
+      {
+        "date": "2025-02-04",
+        "price": 81.43
+      },
+      {
+        "date": "2025-02-05",
+        "price": 82.3
+      },
+      {
+        "date": "2025-02-06",
+        "price": 82.08
+      },
+      {
+        "date": "2025-02-07",
+        "price": 81.98
+      },
+      {
+        "date": "2025-02-10",
+        "price": 82.21
+      },
+      {
+        "date": "2025-02-11",
+        "price": 83.43
+      },
+      {
+        "date": "2025-02-12",
+        "price": 82.93
+      },
+      {
+        "date": "2025-02-13",
+        "price": 83.86
+      },
+      {
+        "date": "2025-02-14",
+        "price": 84.1
+      },
+      {
+        "date": "2025-02-18",
+        "price": 84.62
+      },
+      {
+        "date": "2025-02-19",
+        "price": 85.34
+      },
+      {
+        "date": "2025-02-20",
+        "price": 86.01
+      },
+      {
+        "date": "2025-02-21",
+        "price": 87.1
+      },
+      {
+        "date": "2025-02-24",
+        "price": 87.18
+      },
+      {
+        "date": "2025-02-25",
+        "price": 70.64
+      },
+      {
+        "date": "2025-02-26",
+        "price": 72.85
+      },
+      {
+        "date": "2025-02-27",
+        "price": 71.9
+      },
+      {
+        "date": "2025-02-28",
+        "price": 71.57
+      },
+      {
+        "date": "2025-03-03",
+        "price": 71.44
+      },
+      {
+        "date": "2025-03-04",
+        "price": 70.63
+      },
+      {
+        "date": "2025-03-05",
+        "price": 71.9
+      },
+      {
+        "date": "2025-03-06",
+        "price": 69.62
+      },
+      {
+        "date": "2025-03-07",
+        "price": 69.3
+      },
+      {
+        "date": "2025-03-10",
+        "price": 69.47
+      },
+      {
+        "date": "2025-03-11",
+        "price": 68.79
+      },
+      {
+        "date": "2025-03-12",
+        "price": 68.95
+      },
+      {
+        "date": "2025-03-13",
+        "price": 67.85
+      },
+      {
+        "date": "2025-03-14",
+        "price": 70.21
+      },
+      {
+        "date": "2025-03-17",
+        "price": 71.06
+      },
+      {
+        "date": "2025-03-18",
+        "price": 70.75
+      },
+      {
+        "date": "2025-03-19",
+        "price": 71.09
+      },
+      {
+        "date": "2025-03-20",
+        "price": 70.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 69.54
+      },
+      {
+        "date": "2025-03-24",
+        "price": 70.26
+      },
+      {
+        "date": "2025-03-25",
+        "price": 69.11
+      },
+      {
+        "date": "2025-03-26",
+        "price": 70.77
+      },
+      {
+        "date": "2025-03-27",
+        "price": 70.06
+      },
+      {
+        "date": "2025-03-28",
+        "price": 69.73
+      },
+      {
+        "date": "2025-03-31",
+        "price": 71.36
+      },
+      {
+        "date": "2025-04-01",
+        "price": 71.56
+      },
+      {
+        "date": "2025-04-02",
+        "price": 72.84
+      },
+      {
+        "date": "2025-04-03",
+        "price": 70.73
+      },
+      {
+        "date": "2025-04-04",
+        "price": 65.88
+      },
+      {
+        "date": "2025-04-07",
+        "price": 63.91
+      },
+      {
+        "date": "2025-04-08",
+        "price": 63.78
+      },
+      {
+        "date": "2025-04-09",
+        "price": 68.06
+      },
+      {
+        "date": "2025-04-10",
+        "price": 66.9
+      },
+      {
+        "date": "2025-04-11",
+        "price": 68.31
+      },
+      {
+        "date": "2025-04-14",
+        "price": 69.73
+      },
+      {
+        "date": "2025-04-15",
+        "price": 70.22
+      },
+      {
+        "date": "2025-04-16",
+        "price": 70.39
+      },
+      {
+        "date": "2025-04-17",
+        "price": 71.12
+      },
+      {
+        "date": "2025-04-21",
+        "price": 70.46
+      },
+      {
+        "date": "2025-04-22",
+        "price": 72.31
+      },
+      {
+        "date": "2025-04-23",
+        "price": 73.31
+      },
+      {
+        "date": "2025-04-24",
+        "price": 74.52
+      },
+      {
+        "date": "2025-04-25",
+        "price": 74.68
+      },
+      {
+        "date": "2025-04-28",
+        "price": 75.6
+      },
+      {
+        "date": "2025-04-29",
+        "price": 75.35
+      },
+      {
+        "date": "2025-04-30",
+        "price": 74.27
+      },
+      {
+        "date": "2025-05-01",
+        "price": 74.7
+      },
+      {
+        "date": "2025-05-02",
+        "price": 75.47
+      },
+      {
+        "date": "2025-05-05",
+        "price": 75.36
+      },
+      {
+        "date": "2025-05-06",
+        "price": 75.07
+      },
+      {
+        "date": "2025-05-07",
+        "price": 75.86
+      },
+      {
+        "date": "2025-05-08",
+        "price": 75.77
+      },
+      {
+        "date": "2025-05-09",
+        "price": 75.42
+      },
+      {
+        "date": "2025-05-12",
+        "price": 75.67
+      },
+      {
+        "date": "2025-05-13",
+        "price": 75.13
+      },
+      {
+        "date": "2025-05-14",
+        "price": 74.86
+      },
+      {
+        "date": "2025-05-15",
+        "price": 76.47
+      },
+      {
+        "date": "2025-05-16",
+        "price": 77.61
+      },
+      {
+        "date": "2025-05-19",
+        "price": 78.43
+      },
+      {
+        "date": "2025-05-20",
+        "price": 78.23
+      },
+      {
+        "date": "2025-05-21",
+        "price": 76.83
+      }
+    ],
+    "current_price_data": {
+      "price": 76.83,
+      "change": -1.4,
+      "percent_change": -1.79
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

@@ -1,0 +1,646 @@
+{
+  "ticker": "SO",
+  "name": "Southern Company",
+  "sector": "Utilities",
+  "market_cap": 97597849600.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 21.27338,
+    "PB": 2.881224,
+    "EV_Revenue": 6.056,
+    "ROE": 0.12244,
+    "ProfitMargin": 0.16537,
+    "GrossMargin": 0.49686,
+    "DividendYield": 3.31
+  },
+  "technical_indicators": {
+    "RSI_14": 47.24311926121712,
+    "Momentum_10": -2.570020745584127,
+    "MACD": -0.7363629097722253,
+    "BB_Percent": 0.3362447606032955,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8828159571176546,
+    "QualityScore": 0.4510069258415886,
+    "SignalScore": 0.7140074582894582
+  },
+  "volatility": 0.0132819448719364,
+  "beta": 0.377,
+  "return_6m": 0.016159326804104,
+  "analyst_rating": {
+    "recommendation": "hold",
+    "analyst_count": 18,
+    "target_mean_price": 91.85778
+  },
+  "news_sentiment": {
+    "summary": "Tendances cl\u00e9s :\n\n* Dividend stocks : Investopedia recommends Southern Company (SO) as a potential dividend stock for long-term passive income.\n* Environmental leadership : Alabama Power, a subsidiary of Southern Company, strengthens its environmental leadership by hiring a former Southern Company counsel as its CEO.\n* Best-performing stocks : NerdWallet lists Southern Company (SO) as one of the 25 best-performing stocks in 2025.\n* Market performance : Southern Company (SO) has outperformed the stock market in Q1 2025, with revenues up to US$7,775 million.\n* M&A : No major M&A activity was mentioned in",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Supermicro Stock Has Gained 40% So Far This Week\u2014These Are The Key Levels to Monitor - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWc0V0UxRW9WVTFEbXh0ZHFHTVM3ak9NTC1yQUctM3hHVnBrM0RnMEJ6X0puTEFBSTFtOEZUMVJzRFFlVEJmcktvNzJhS2VvaFVwRnJEYU1WVUs1c0QtYzNmQkNvR0JISmdsT1o4X0VxSEJtRm9BUmRJZndBd1U5ZUhsbDgtTXNoQ2ZUWDhqYUMyWHkwWW5lXzBmaUN4WXZLbmVVWDFTSEFVajhMZE1yenFqNTJ0QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is The Southern Company (SO) the Best Dividend Stock to Buy for Long-Term Passive Income? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0JRX0pzeVNGRWlTN3pfdkZfcG5DdWRKWXo2YTVXdkw4Sk5aUkljNWFZTUZoU3hvLXpZUF8yS0EwZ0ZjbzZDU1FGbFJfVnBxWktXT3dLc2Y1OW54NlQzeGFMd2ZQMnpQUHhPdVl2b1ZNbTN5YW9qYWg5eHV4NjUxLWNVN19uYzNVdUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Southern Co. (SO) Stock Sinks As Market Gains: Here's Why - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSEFPWGF3U2NJTkpEOXk4bWstbkNLcU5KUjhmekd1bWMtd2tNZHhRcWxzdGZDYWpsTEZnN0dVdk1RWmt6S2E2cDJQNjRYSUJSTnAxWHRxZkNJbGF5MDBzUllrQm93dHRQVGppd3pzUm92ZFZhd085SXY4N1Z1bWVUUzZwWVRRdFpH?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "KeyBanc Downgrades Southern Company (SO) to Underweight | SO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenZUcGpCa1p4Wjh2dEdNZnJSUGl5UDFkUjQ1dXV5VmFQRi10QTYxVVZ2eHRIdzRibnE5MHFGQVJRcWdkVTlpUUR1alBIQkhxcTlscHczRmRhU2pyZTdkNm9wSjE1dExPaDRWUDlRM2daTUlzbTUxOXRpWm44SzN6NDNWdFJCdUUxMm50c0pYbVY0MkdIaXJxNXV6dlNfaG1ZeHJMVWJIS1RBTE0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Two reasons to buy Apple\u2019s stock after its 24% decline so far in 2025 - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGFZOXc3Yjdncnc5WmlheS1BWWtwMGxwTGZGOWFwRGlJMV9jc19NeFdNUUk5Q0MyTzE4Z2I1THNnbktUdEd5Y2tRcVFITkt0WEhWLTlpaEcxeXlkY2I0NEw3NVlPS2tNRUdsZEt6ZmhWTHcteVk5bWwzYWVhNjVFN2hsQlhpQ0ZuX1dMRlB1N0FwS2I1TXE0U1hUS1MyU3VpRmNGY0dOcEh0Wm5zR0lB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Better Dividend Stock: Dominion Energy (D) Vs. Southern Co. (SO) - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjZhVnhkdmRlbmdBcThlMmxBQlBrRENlWmFvWlhRd2xDM1I1VjkzemRKNUl4ZEFEaU9VOVFndGY4TklyeTRzRHV6dmdsa1FyRURRbHQxcGdkWldkVlZfVkVDaDIxaWk2d2lfMzZ1M1NnU2NTa2hPUGczUjJuWVIyOTRTQ05FSkxCTnhPSWVuZENmZWJsWUhudjFrQU0tcVpzZlBj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alabama Power Strengthens Environmental Leadership: Former Southern Company Counsel Takes Key Role - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTdIMjc0eWx4NVpIaEVGN3EyQjhGNG9DeXhuaHljUXF5cVdSbDA1RjRIdGRlVzROaEdndFE4N1lsR0hDdUJidHc3clFtTlRRcE9PRlhvV2RTMHNvZGZnWkZfZkIyOTNIeFIyTGNycG1FWk0yd0F4dHNVTjJIdVkybVJ6RDRqMktzanlqTm5xRktDakRlVDM0dmVBdUdCUjJPMVJJTzd6RUFwOVpSRkUtcE9n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "25 Best-Performing Stocks in 2025 (As of May) - NerdWallet",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43MEZpeExUNWt0RTk3QXFkclBSd3ZzMDU4aTc0OGVpcjNnd2x1NWFsbi1JaWRKNnZ1REVkSFlqenB5TEU0N2x1Z3UxNEw3bW9uUDh5V3FDYTBSSk1MSXlwaXpseV9hOWNCMnRWWVMxdEY4SHkyT1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is AT&T Stock Going to $34? 1 Wall Street Analyst Thinks So. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFA2Skt1Vm90NW1zbng0NHJmYjF1NFN3Z1hLRTJBc2lSR0F6Zk5ucVczWS0yT0tCYXN1LTNxUUVfY2d4c2I1Z3hpd3E5cXg1TlhlYXJGaF9JTE41d2NKSUE3d0RQa0c3UV9JbFR5N2Nlc1ExellaZllPWHNpQXQ1aUFIRl9JUUhYc0k2Zg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Southern Co. (SO) Stock Moves -0.15%: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX2lYdTl2R0tGdE9pQ2pvcmVES2t0WDdOTUgyUG5QUWxGLUpjRG85WEtZQ1l5LUJvWGZyTXZQVV9UMFE4Q2tod3BGVHRENGRVSUhESlVZbml2NzhxX2hvT3BTTTRkWldaMjF4bE9BLTU3d09NRzkwcEJkZW9NbHVaekNFX2otVDdvODlUUXVOWG1rMnpQWVpCdDdBb0hNVURIbVhpU19hTmN3d0hYUHRDd0E5bW5wdTE2cXA2ZHVHOV9LcmlmdHEtdHVJTkQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia Stock Rises. The AI Trade Is So Back After Meta, Microsoft Earnings. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT09STzdFaWp5cVFVTnBxOGlZS3lieUxxcnlqWURPMzFtT08xaC12SzVhQUc2cHlkSTFBT2gxMUoxZ0tpODVjb3plcmwxS2tFUl95Yk1PdFFOTVU3MkxSRWpzNGZEcmRJdmV2RlNWQTJjSDFxYVgtWXRnWmFrSG9BbVZmWnRYU2tIVGhNUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Southern Co. (SO) Stock Moves -0.41%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb0xMV2M0SnFvSU8wQllhaUV1MTRjQlFkYnVGcGRMdE45MTV4ZVRPS1pmcm9HbTJsU216QVZ2V2h4YXNTWmctM1h5OTVZVVEzSE10MDFWUWVHaGNvekVfdEhlSkJsRnpKYjhTaEp4UFhuQ0QzUVp2SDViR2g5WHlsajJfUlZPc3I2WDBV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Southern Co. (SO) Laps the Stock Market: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlhPMGdlS0NyQnJPX21OZ3FVRVZwZ1Zjekx4NVV5V0l1UlRUS2h4anY3VnJIQkZnVnY4dDljOEk3OGxCd1g4bngtNWhnNFVoZnI0TUxVS3FoX3ZBcmZtUi1HUTFETU9qb2hna0xneTFweUhwVER1OUF0NW9NQnU5WQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Big Tech Stocks Have Had a Magnificent Day So Far - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTgxQ3NwSUxqbGdWZzZrYkdfZnJVQkM1c0NnOUxHNjlTOGNjY2F5Y1ZqZ1l0YnRYb3kzUFlmOXBHQ3BJOVJ5dWtVU2twcFRET216ZGpGa2ZMcnlQY0VsbzMzRTB1b2w4OG80ZEZ3NlZPUUJtQVFlclV3ZC05M2lneTlkTmRaNEpwU0hrT0RWTGFzT1RDTWZ2QUdhSmtFdFVyM0xMMGZzWHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Southern (NYSE:SO) Reports Q1 Earnings Growth With Revenues Up To US$7,775 Million - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGhrRGRWX3pJazNmQXY3SzVOaldMdTZva1d2RmNKQmdoNnFKdE9PUTItejBKa215ZERtTVA0UlR0dXhnQzJMd1pDaHFJSEVFMnVhZExld3ROYWstaDhwTFptSkIzbXFuTXM5S2hvWkxTRHV4eWZYZ1dSeDhvOTdvOHl4d3hzZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Southern Company (SO): Among the Best Stocks to Buy During Recession - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeExWMWk0SlpZMllTclFqUGdvdFYwR3FObXMxdnVyc1JFZVEwUUtUV0JzWGlTYUo3Zmhoa1hZY3FmQjRsay1NVlJ5eVJldkRSc1hZeVh5UThkN0FsUW9nNzdEdUFqLU5UeDdRcTNxeHBOWkFPbHAwbWV1dlpxM0lHeUo2aFVhT1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Southern Co. (SO) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYTc4a1E2akJXMUxMcmZwVW1BLTVCdUl0RWU1bnI4SnBSbDE1b2U2VklKOWJEMlZ0TDk5dDBRcVE0eXVYODk2MUlnSExnV1JWZ2dUTVo1Y3U3TGQ3UkZzSDVsbEJ6MGJWQjRpQk05Z0JXc2ZldnlSZENENk5WTVRReTlDVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Spotify Technology S.A. (SPOT) The Best Performing Large Cap Stock So Far in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGFubUpYRjlJdEpjMThPX2dYNUE1NUZCNG95Y3daZHhpZjZUWG5CRVJTMzdZLWhhMFlhSGtrWGFkcTgxWVZ1bkRQMThvUkJaMFpaRkE5QVp4aVhfTGQzck1lQ2g2NE5RcXotZ0Zjdnp0STNiUmR2cXdMZVpDUlBkVWpQSkxJRGFTYXZmOG9R?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Cloudflare, Inc. (NET) The Best Performing Cybersecurity Stock So Far in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVZqRThoY2d5Rm9lYXpmQ2ZfSldNUkF6V3RxMmZMVDBGcW94ZG9SVGtXUkdvajY3WEZ5aTMxblhKYlBFS0d5bG44cVNaMEdkNEM1MVJGYktKQUM3RFF4ZGJPcGExbElaUWZXRE5sY010Ry1Bb0YteVJuRWg5NThDYlZ5dkxrdHM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Southern Co. Q1 earnings on deck: What to expect (SO:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0hOc1VhbXhhV25EemROREtJQlE3el9TRTNrT1AyN0VlbGJPN01ubmNhN1BONFRrTEZhN0JKYzdoUERMMW53eFhpZ211dEoxMUJONkhpQjM5bWkxVElaNlpuSTFtUzZXUnIydkdqaTlTaEFnR3FGMHR0eTE5U1I0U01VYVh3QTdyRElkZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 87.6
+      },
+      {
+        "date": "2024-11-25",
+        "price": 88.42
+      },
+      {
+        "date": "2024-11-26",
+        "price": 89.33
+      },
+      {
+        "date": "2024-11-27",
+        "price": 89.74
+      },
+      {
+        "date": "2024-11-29",
+        "price": 89.13
+      },
+      {
+        "date": "2024-12-02",
+        "price": 87.77
+      },
+      {
+        "date": "2024-12-03",
+        "price": 86.26
+      },
+      {
+        "date": "2024-12-04",
+        "price": 85.85
+      },
+      {
+        "date": "2024-12-05",
+        "price": 86.19
+      },
+      {
+        "date": "2024-12-06",
+        "price": 84.81
+      },
+      {
+        "date": "2024-12-09",
+        "price": 84.31
+      },
+      {
+        "date": "2024-12-10",
+        "price": 84.39
+      },
+      {
+        "date": "2024-12-11",
+        "price": 83.25
+      },
+      {
+        "date": "2024-12-12",
+        "price": 83.37
+      },
+      {
+        "date": "2024-12-13",
+        "price": 83.2
+      },
+      {
+        "date": "2024-12-16",
+        "price": 81.88
+      },
+      {
+        "date": "2024-12-17",
+        "price": 83.28
+      },
+      {
+        "date": "2024-12-18",
+        "price": 81.5
+      },
+      {
+        "date": "2024-12-19",
+        "price": 81.78
+      },
+      {
+        "date": "2024-12-20",
+        "price": 82.86
+      },
+      {
+        "date": "2024-12-23",
+        "price": 83.04
+      },
+      {
+        "date": "2024-12-24",
+        "price": 83.16
+      },
+      {
+        "date": "2024-12-26",
+        "price": 82.84
+      },
+      {
+        "date": "2024-12-27",
+        "price": 83.14
+      },
+      {
+        "date": "2024-12-30",
+        "price": 82.38
+      },
+      {
+        "date": "2024-12-31",
+        "price": 82.32
+      },
+      {
+        "date": "2025-01-02",
+        "price": 82.07
+      },
+      {
+        "date": "2025-01-03",
+        "price": 82.32
+      },
+      {
+        "date": "2025-01-06",
+        "price": 80.96
+      },
+      {
+        "date": "2025-01-07",
+        "price": 81.09
+      },
+      {
+        "date": "2025-01-08",
+        "price": 83.02
+      },
+      {
+        "date": "2025-01-10",
+        "price": 81.32
+      },
+      {
+        "date": "2025-01-13",
+        "price": 81.87
+      },
+      {
+        "date": "2025-01-14",
+        "price": 82.05
+      },
+      {
+        "date": "2025-01-15",
+        "price": 82.34
+      },
+      {
+        "date": "2025-01-16",
+        "price": 83.89
+      },
+      {
+        "date": "2025-01-17",
+        "price": 83.9
+      },
+      {
+        "date": "2025-01-21",
+        "price": 84.73
+      },
+      {
+        "date": "2025-01-22",
+        "price": 82.52
+      },
+      {
+        "date": "2025-01-23",
+        "price": 82.26
+      },
+      {
+        "date": "2025-01-24",
+        "price": 83.48
+      },
+      {
+        "date": "2025-01-27",
+        "price": 86.5
+      },
+      {
+        "date": "2025-01-28",
+        "price": 83.54
+      },
+      {
+        "date": "2025-01-29",
+        "price": 82.83
+      },
+      {
+        "date": "2025-01-30",
+        "price": 84.93
+      },
+      {
+        "date": "2025-01-31",
+        "price": 83.95
+      },
+      {
+        "date": "2025-02-03",
+        "price": 83.97
+      },
+      {
+        "date": "2025-02-04",
+        "price": 83.2
+      },
+      {
+        "date": "2025-02-05",
+        "price": 83.87
+      },
+      {
+        "date": "2025-02-06",
+        "price": 83.79
+      },
+      {
+        "date": "2025-02-07",
+        "price": 84.58
+      },
+      {
+        "date": "2025-02-10",
+        "price": 85.51
+      },
+      {
+        "date": "2025-02-11",
+        "price": 86.45
+      },
+      {
+        "date": "2025-02-12",
+        "price": 86.81
+      },
+      {
+        "date": "2025-02-13",
+        "price": 86.78
+      },
+      {
+        "date": "2025-02-14",
+        "price": 85.58
+      },
+      {
+        "date": "2025-02-18",
+        "price": 85.89
+      },
+      {
+        "date": "2025-02-19",
+        "price": 86.48
+      },
+      {
+        "date": "2025-02-20",
+        "price": 87.82
+      },
+      {
+        "date": "2025-02-21",
+        "price": 88.4
+      },
+      {
+        "date": "2025-02-24",
+        "price": 88.89
+      },
+      {
+        "date": "2025-02-25",
+        "price": 89.85
+      },
+      {
+        "date": "2025-02-26",
+        "price": 88.75
+      },
+      {
+        "date": "2025-02-27",
+        "price": 88.29
+      },
+      {
+        "date": "2025-02-28",
+        "price": 89.79
+      },
+      {
+        "date": "2025-03-03",
+        "price": 90.85
+      },
+      {
+        "date": "2025-03-04",
+        "price": 89.89
+      },
+      {
+        "date": "2025-03-05",
+        "price": 88.65
+      },
+      {
+        "date": "2025-03-06",
+        "price": 88.72
+      },
+      {
+        "date": "2025-03-07",
+        "price": 91.4
+      },
+      {
+        "date": "2025-03-10",
+        "price": 92.96
+      },
+      {
+        "date": "2025-03-11",
+        "price": 90.1
+      },
+      {
+        "date": "2025-03-12",
+        "price": 88.68
+      },
+      {
+        "date": "2025-03-13",
+        "price": 89.63
+      },
+      {
+        "date": "2025-03-14",
+        "price": 90.38
+      },
+      {
+        "date": "2025-03-17",
+        "price": 90.54
+      },
+      {
+        "date": "2025-03-18",
+        "price": 90.23
+      },
+      {
+        "date": "2025-03-19",
+        "price": 89.6
+      },
+      {
+        "date": "2025-03-20",
+        "price": 89.97
+      },
+      {
+        "date": "2025-03-21",
+        "price": 89.36
+      },
+      {
+        "date": "2025-03-24",
+        "price": 88.88
+      },
+      {
+        "date": "2025-03-25",
+        "price": 87.73
+      },
+      {
+        "date": "2025-03-26",
+        "price": 89.06
+      },
+      {
+        "date": "2025-03-27",
+        "price": 90.03
+      },
+      {
+        "date": "2025-03-28",
+        "price": 91.13
+      },
+      {
+        "date": "2025-03-31",
+        "price": 91.95
+      },
+      {
+        "date": "2025-04-01",
+        "price": 91.82
+      },
+      {
+        "date": "2025-04-02",
+        "price": 91.3
+      },
+      {
+        "date": "2025-04-03",
+        "price": 92.56
+      },
+      {
+        "date": "2025-04-04",
+        "price": 88.94
+      },
+      {
+        "date": "2025-04-07",
+        "price": 87.22
+      },
+      {
+        "date": "2025-04-08",
+        "price": 86.86
+      },
+      {
+        "date": "2025-04-09",
+        "price": 87.8
+      },
+      {
+        "date": "2025-04-10",
+        "price": 88.89
+      },
+      {
+        "date": "2025-04-11",
+        "price": 89.86
+      },
+      {
+        "date": "2025-04-14",
+        "price": 91.16
+      },
+      {
+        "date": "2025-04-15",
+        "price": 91.02
+      },
+      {
+        "date": "2025-04-16",
+        "price": 90.47
+      },
+      {
+        "date": "2025-04-17",
+        "price": 91.81
+      },
+      {
+        "date": "2025-04-21",
+        "price": 90.23
+      },
+      {
+        "date": "2025-04-22",
+        "price": 91.86
+      },
+      {
+        "date": "2025-04-23",
+        "price": 91.13
+      },
+      {
+        "date": "2025-04-24",
+        "price": 91.05
+      },
+      {
+        "date": "2025-04-25",
+        "price": 90.43
+      },
+      {
+        "date": "2025-04-28",
+        "price": 90.75
+      },
+      {
+        "date": "2025-04-29",
+        "price": 91.45
+      },
+      {
+        "date": "2025-04-30",
+        "price": 91.89
+      },
+      {
+        "date": "2025-05-01",
+        "price": 91.46
+      },
+      {
+        "date": "2025-05-02",
+        "price": 91.05
+      },
+      {
+        "date": "2025-05-05",
+        "price": 91.05
+      },
+      {
+        "date": "2025-05-06",
+        "price": 91.22
+      },
+      {
+        "date": "2025-05-07",
+        "price": 92.11
+      },
+      {
+        "date": "2025-05-08",
+        "price": 90.31
+      },
+      {
+        "date": "2025-05-09",
+        "price": 90.35
+      },
+      {
+        "date": "2025-05-12",
+        "price": 87.78
+      },
+      {
+        "date": "2025-05-13",
+        "price": 85.57
+      },
+      {
+        "date": "2025-05-14",
+        "price": 84.91
+      },
+      {
+        "date": "2025-05-15",
+        "price": 87.38
+      },
+      {
+        "date": "2025-05-16",
+        "price": 88.71
+      },
+      {
+        "date": "2025-05-19",
+        "price": 89.48
+      },
+      {
+        "date": "2025-05-20",
+        "price": 90.83
+      },
+      {
+        "date": "2025-05-21",
+        "price": 89.66
+      }
+    ],
+    "current_price_data": {
+      "price": 89.66,
+      "change": -1.17,
+      "percent_change": -1.29
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

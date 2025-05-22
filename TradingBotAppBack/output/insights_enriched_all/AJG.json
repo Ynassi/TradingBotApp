@@ -1,0 +1,646 @@
+{
+  "ticker": "AJG",
+  "name": "Arthur J. Gallagher & Co.",
+  "sector": "Financials",
+  "market_cap": 87631577088.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 52.733437,
+    "PB": 3.926842,
+    "EV_Revenue": 7.508,
+    "ROE": 0.092980005,
+    "ProfitMargin": 0.13863,
+    "GrossMargin": 0.43662,
+    "DividendYield": 0.76
+  },
+  "technical_indicators": {
+    "RSI_14": 58.62105090485406,
+    "Momentum_10": 3.370787759674339,
+    "MACD": 2.2329769706444154,
+    "BB_Percent": 0.8849407926635091,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8733370705242359,
+    "QualityScore": 0.3874721389417031,
+    "SignalScore": 0.6280035735528533
+  },
+  "volatility": 0.0161742631185703,
+  "beta": 0.781,
+  "return_6m": 0.1702539293622651,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 14,
+    "target_mean_price": 335.87357
+  },
+  "news_sentiment": {
+    "summary": "Arthur J. Gallagher (AJG) has recently reported Q1 earnings that surpassed estimates, with a strong business execution driving growth. The company has also announced a strategic acquisition in New Zealand and expanded its presence in Texas and California through M&A deals. Gallagher's strong performance has led to positive sentiment among hedge funds and analysts, with the stock outperforming the Dow. However, there are regulatory risks surrounding a $13B insurance mega-deal, which could impact the company's growth prospects. Overall, investors should continue to monitor Gallagher's progress and regulatory environment.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Arthur J. Gallagher (AJG) Q1 Earnings Surpass Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Xa1hSSmIzT2syYU0tMlN4VDZpalJHbUx6d0dac2FjTURiU3owR2hSOGhjdktocEtBbkFvZ1lpMXZPRDZCVGhISzdCbmZEd1ZmTnpCenNNb09ibWhiTFJwZHlsQmt5WVV6RmV1Q2ZEcU9ZYktBWV9SU3NXTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Piper Sandler Adjusts Price Target on Arthur J. Gallagher to $372 From $350, Maintains Overweight Rating - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVmJ0TmM0S2hlcm9BSXBOaU1OSzdhVTI5WVJXUGx1bWNMVzVDWDBsekNhTGdaREtoRmFTVWloZUY1U0ppYjk1X2U5azdqTFkxOEJfU25udEJNQjlRQU9CQURxLXBqbHFsMW5MNWZHUkd5bmRYSm5uSndELThZUWFqb0NnbVAxMnp4QjJJQWtubHF3RGFzeUlLMmxrczVsTG9TTUtDc0M2cWRmRFlBRnpvdTRmZVhPMmZpMF80WnluT05vM1VxYlB2T0I2ZklQLU9GVmRCWDJGUTA0a2lzV1JYRHhvVV9LNHRZTWI3dENsUDRiVUZWZXp0VkZyM2h2bG5aX1NISExxVFNsQVNraUhJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insurance Giant Gallagher Strengthens Asia-Pacific Presence with Strategic New Zealand Acquisition - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSGF2eHZWOXktTkFYVmZyOWhjSnJsNnhUaVFZRzF6T1ZSdF9vblVmaUtEM0RiaG00czMxRFlYYnBZbmlmR1J0QWl0Z0trZU44ajN2cW8ydFpCUmR6U3pSQlpveDkwWElPaGRhX0c2RU9LNmhvaHN2bnc5VDE4UWRqTFVtbl82YnRNUVhGUGhJMDM2XzBPb1BJbjVfRlZsMTA3STZXclBCOFZZUlJ3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Curious about Arthur J. Gallagher (AJG) Q1 Performance? Explore Wall Street Estimates for Key Metrics - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNUmdZVEVkNjJKMlVPMGE3bzBGVjVaU0ROemZ6bWF2clhMaVpWMjh4UTl3M2xpQ21OUXU3MThBekpCM243bmx4VDVDZkxFdWpMNXNJd0p1blJGeXd4ckJMR3h1REhncU5BTDktTUd2UFdFZ0F4dk02bzBHYWhZYjlYQnM1X2NPX2IzaGRjUmwzam1NYjItMGNqNmJwTlFZYUlhZWdPSnZtYjFkaTlrWXZEY1Naazg2ZUJ3ODh0eXJWVkJpUEliTXlBcGo0SlhzaVo0WW5DaDg1ZnlLejEwMDdCNWhzTkY2ZFhXTEdnQU5OWGRJbWdjQTVqSnNPUkhENUN2RmwxZUpnemhiMERTWHRDRTIyNklPTkk4eE1VTnJkWjE0LVpRVTdlTjNVVjVEN3g4M1NuS3BiOVhNa05rSlN1ZWtZU3ltdGdnT0ltNlJHdmNwZmZsS2Q2cDd1NUZ0UmR3NEduc0xaeHk0Q0xKZXZ0RkVPckVLbVlT?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. Acquires Dean R. Casey & Associates - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUk1FTVo4LTlFdGMyVXFrLXN0MkZRX3FEcVdDX2NqMFdtazVBOTlMQTVJNGVMUnpSTFJuRkg1ZEE1ZlZXSHNLcXMtakVuY3NJc0thS3pKenVhenU5R0J3UE5kWHRYZUdvVlRoT0NYSU1pQ2dZb3VVOE5zamhSRkR5QmZwdTZlZDRpRFJYSVQ5TDZZOUFwQ2JaeUo1NThJMDdEazRIZ1BzblFzVk5GNWRyeXdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. Holds Annual Stockholders Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3FyY01XcHBMZUFrbzFJdEZoT25aanNEQWRDNFNoUnlEbFowb2RGZWpPQl9qTkFaN1ZUOWdWRC1aSlpPVHpEWTlfTDdtYmN3WkhfZnVnOGZyRXZYb0VpdEhwZHVpOElzS2YyTklZOGlNX3hBc3FPMHljY0VBQjhtb2FiNzFrcHowdGVtbU9GNXNCU1pOTlF6WnhHMlhHZ0VnaVppcE44YjBBOEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher: Strong Business Execution (NYSE:AJG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajJMQi0zY0Z6dE9uWGhHMlhNY3o5XzZWSTc1N241dkhRWXVMX3dYZUpGMEw4bEp1S1phb2N5bGRxRGhhUnV3WjI1WUlEalVscHlTcXJhZWtRczRTRkZXMzZfLS1xNVpfWGQxWVZWSl9aN2VaTDlhcUJlZTNnNXY4eUdESENKUUxoTmJDaWExdzNoRDVCYTc3a1lGNng2dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Arthur J. Gallagher Stock Outperforming the Dow? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JWmtRb04teXFzRC1VcHJqZmF1WDhwdk5tcnhzWGo0bmc2ZjRGRmlJLWVEdm45UEo1S3l0R1d1S0hDV2xFOE1CbHFKTzNzWHMzdmVuN3dsalZVRTNXcGZTU282cWVCQU1UTlU4TXNSRXYyb25EVVhKWDZyR2ROSk0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. (AJG) Announces Key Outcomes from Annual Meeting of Stockholders - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOG96dnBJWE55QmI0Qk1OaFlpVWo1cWJZcFo3NEdNSVZIT00yVDB5U3ktajhqdzZFWTRrTVEzcHhZQTdOd04zcndEd0hMRVVMQ0VHRllaQTVpd2Z5RHhCSmVMM3F1SVVpRGJnWU4yOFhvakN2N3U3M0xwNjZGb2tWd1o0UXd5UWc2dkdwX0Z5MU1uTjltYTJ6Rmtjel9Sekc4WTVYTjFRcVJ0WDhGaUdfbWRkeWg2RkpJaU0wWm1rcWI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. (NYSE:AJG): One of the Best Insurance Stocks to Buy According to Hedge Funds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mT2xwQ0V3TFpFcUpMS3RVNXpGQ1FCZlAtSm14OTM2aXpSV3pZeGlMMmcySFN3M04ydFBwUjcyVnZyLVA0RFNxVkg1dF9uWDJPLXNzMzFuaTF1MHlESkVURXdGbDdqNlV6blFrYnRMSFJITXVQQkxhcDJDYUg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Arthur J. Gallagher Shareholders to Receive $0.65 Per Share: Key Dividend Dates Announced - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ19xRlI1dU1USzVtZzNtT2x3eUFoZHJyQmFPdzdsTHBuRXlmeHNxVlF3VlBhbkF2TXNDcEdmUFBmeXRqd3N1TmlRZ045MzBBd2FneUt3Wjgxd1JTZmVNa1ROY21OYkJmYUVlMS13aFAyMmd5czNYTndlYm84SmJGdDhqZ0tGN2tSbVRSOWFMVHE0bW9DWlNCVG1QQi1PWmFxOEY0QzA2NXF0Zlhh?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher (AJG) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTVQZ1d5NFFGcUY5MUFPYW9TUkdXNlUwT3MxLVBBY2M2UjNobnp3VDhLZlhsamt4b3Vpa2hFdUtNM2VvcTJlRWNxVkpkTTJwUXctLVI2UjFkYTdhMG1TWGozcHFFMnFGQVFJbFVuSzkzc1Q1WkNSNDM2MUtmblg0amJKbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insurance Giant Gallagher Expands Texas Footprint with Strategic Benefits Broker Acquisition - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZC0zYjgtT2Yyc1dXbWdtMzlGd2VTYUMyYVl1QTBydkxvVGhMMnFWTGdKUWh5Z3N5T29fdWtrTW00UVUtZFRZN2tIRlZ5dXBfZ2E0Vy0ycjhMcDdRcDFpRlhlSVZaSS1WZzc3U05DZmR4QjRnOVRHQThsZEJXMkRhYURzcHZfT3B1MndjenFnTGh3VGo5Q1g3aUZEdGxWdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher (AJG) Reports Q1 Earnings: What Key Metrics Have to Say - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMk8zblhsbjlrNmdQbXRYbVNubmxJQ0VncF9yZU0zUmtCZWFaWXRNS3RDblpPaHRkQTlEbVJheXROR3R4T2JCNXVmM0U5MWl1YV90OUgyOENVc3VXVTNqZVVDZ2I3eTNzSTBpTUF0R2VqVERNY1lpcm9HdGFkS2V2QmRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. Acquires T\u00fcrkiye-based Aspera - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZU9qMUxPM2JXTHdnTHB2T3oybi1TTHRpblFXYXE4XzJhdGRlay0zWUtJcW45NHp6RlFlLWhQeDhMRk5ydk1rRXlLNFVOWjNFVWlNc0paODU0QlNqQWM3MnN2UHVnN01VVXVXS3NkNnZ5bWE3Ym1FRXkxRW42ckdKNTdCbHhmYXgzNVpZb3NzUHF2Yy1WVEYwNW9QaFlEaEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Will Regulators Reshape Gallagher's $13B Insurance Mega-Deal? Key Updates - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2doZEVfcmNPU0pTZ3UzUWNxa1ZDSGpWT0hpT3hmZHZhQmpXQnF1Tjc4eDJDVkRwbkdNRHpXSWJzSWtvMnZXSVdnQzBGWlFtVElNRE9nNDJKTkxaazJRWkE0UWF4MllZWXByV1czbVJEa281X2t3eGdGZTlxZ0xQQnloR1hBcmhwRzY4MUIyWUQzS2hBMUYyQ2stcmZIaS1pZW5HOHdJc1BkWGJXY05vaUJTRFRoUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Arthur J. Gallagher & Co. (AJG) the Best Performing Insurance Stock to Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92OUUyOThWSDRWWVlhR1FwZkZfTlZERWI1cWtuSVlaQkpBNFhTUzlxa196N2VuRWpER0FIcDN4NHhrVUxWQThNaGRWZU9CeEVkbDhJUU5Ub3lScGV0OWFFMkZMWHZxNHlramM3N196Zjc4Rm50T2lyTlBvYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. (AJG): Among the Top Stocks to Buy According to Citadel Investment Group - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtQUQxXzJqc2VoM3REalVkYmh3ajNubXN6SS1ITUhqT2stVFhvLWNHeW4tOHFNLTZUVHVZc0VZMHMxQVBFT3d0elpURlRLTGRDNURIQmtDbWtFdzBOeVBKeFdJdGRmaTJ3WUg5dUowR1VTNVB4dVh1NDVDSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Insurance Deal: Gallagher Acquires Woodruff Sawyer in Strategic California Expansion - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXhvSHdPQ0NKMWoxWXROa01ZYTZiZjFsWGtFS0s2S1UzRVpnWk5sR1E4UnRzS3FaNUVrbUhibzlWMGdnZUVnaEM4Vk5zZlJmd3hlN2FndFh2enFZS3pjc3BtOV9WVXdQUEgtNm8tS0tzVHlIc196LThrUjB6ZGNzcG9YcFlPM3lESDQ3SjVmYW1GbHZkbEQzNzZXcFpxVVMzRE1wYXEzTHE0dzZ6OHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Insurance Deal: Gallagher Strengthens London Presence with Strategic Bircroft Buyout - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlRIZGdUY3F1aGM2RVNleVVrd042RHZ3V2VpU2pPSVkxZkcxamFudjhsU1RWTXhUTjl3czBULWxCM1FwTmwwVjdlT09EeVZ3ZXlxYWFJQjd2WWI3d3JsUUdrRXhzNDR0THlZVnd0MENIOHFfMkZaeXlfOTBGZ1pmeVBFdUZYUjNuUnZaeFRVX0RMNVpwaDhCZFZtN1ZKWVFZcngtQW53?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 304.29
+      },
+      {
+        "date": "2024-11-25",
+        "price": 306.39
+      },
+      {
+        "date": "2024-11-26",
+        "price": 312.96
+      },
+      {
+        "date": "2024-11-27",
+        "price": 315.16
+      },
+      {
+        "date": "2024-11-29",
+        "price": 312.24
+      },
+      {
+        "date": "2024-12-02",
+        "price": 307.96
+      },
+      {
+        "date": "2024-12-03",
+        "price": 309.81
+      },
+      {
+        "date": "2024-12-04",
+        "price": 307.26
+      },
+      {
+        "date": "2024-12-05",
+        "price": 303.58
+      },
+      {
+        "date": "2024-12-06",
+        "price": 296.71
+      },
+      {
+        "date": "2024-12-09",
+        "price": 291.85
+      },
+      {
+        "date": "2024-12-10",
+        "price": 283.74
+      },
+      {
+        "date": "2024-12-11",
+        "price": 283.58
+      },
+      {
+        "date": "2024-12-12",
+        "price": 281.19
+      },
+      {
+        "date": "2024-12-13",
+        "price": 284.59
+      },
+      {
+        "date": "2024-12-16",
+        "price": 286.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 282.91
+      },
+      {
+        "date": "2024-12-18",
+        "price": 278.49
+      },
+      {
+        "date": "2024-12-19",
+        "price": 279.09
+      },
+      {
+        "date": "2024-12-20",
+        "price": 283.1
+      },
+      {
+        "date": "2024-12-23",
+        "price": 284.51
+      },
+      {
+        "date": "2024-12-24",
+        "price": 288.35
+      },
+      {
+        "date": "2024-12-26",
+        "price": 288.36
+      },
+      {
+        "date": "2024-12-27",
+        "price": 286.54
+      },
+      {
+        "date": "2024-12-30",
+        "price": 284.46
+      },
+      {
+        "date": "2024-12-31",
+        "price": 283.85
+      },
+      {
+        "date": "2025-01-02",
+        "price": 275.89
+      },
+      {
+        "date": "2025-01-03",
+        "price": 280.4
+      },
+      {
+        "date": "2025-01-06",
+        "price": 276.42
+      },
+      {
+        "date": "2025-01-07",
+        "price": 279.77
+      },
+      {
+        "date": "2025-01-08",
+        "price": 285.5
+      },
+      {
+        "date": "2025-01-10",
+        "price": 287.01
+      },
+      {
+        "date": "2025-01-13",
+        "price": 285.81
+      },
+      {
+        "date": "2025-01-14",
+        "price": 289.11
+      },
+      {
+        "date": "2025-01-15",
+        "price": 290.19
+      },
+      {
+        "date": "2025-01-16",
+        "price": 295.79
+      },
+      {
+        "date": "2025-01-17",
+        "price": 294.82
+      },
+      {
+        "date": "2025-01-21",
+        "price": 296.77
+      },
+      {
+        "date": "2025-01-22",
+        "price": 293.5
+      },
+      {
+        "date": "2025-01-23",
+        "price": 288.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 289.51
+      },
+      {
+        "date": "2025-01-27",
+        "price": 296.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 293.41
+      },
+      {
+        "date": "2025-01-29",
+        "price": 294.1
+      },
+      {
+        "date": "2025-01-30",
+        "price": 299.03
+      },
+      {
+        "date": "2025-01-31",
+        "price": 301.82
+      },
+      {
+        "date": "2025-02-03",
+        "price": 309.0
+      },
+      {
+        "date": "2025-02-04",
+        "price": 312.21
+      },
+      {
+        "date": "2025-02-05",
+        "price": 316.3
+      },
+      {
+        "date": "2025-02-06",
+        "price": 319.99
+      },
+      {
+        "date": "2025-02-07",
+        "price": 322.33
+      },
+      {
+        "date": "2025-02-10",
+        "price": 324.29
+      },
+      {
+        "date": "2025-02-11",
+        "price": 322.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 324.61
+      },
+      {
+        "date": "2025-02-13",
+        "price": 328.56
+      },
+      {
+        "date": "2025-02-14",
+        "price": 321.5
+      },
+      {
+        "date": "2025-02-18",
+        "price": 326.3
+      },
+      {
+        "date": "2025-02-19",
+        "price": 327.33
+      },
+      {
+        "date": "2025-02-20",
+        "price": 325.13
+      },
+      {
+        "date": "2025-02-21",
+        "price": 325.56
+      },
+      {
+        "date": "2025-02-24",
+        "price": 328.49
+      },
+      {
+        "date": "2025-02-25",
+        "price": 331.83
+      },
+      {
+        "date": "2025-02-26",
+        "price": 328.33
+      },
+      {
+        "date": "2025-02-27",
+        "price": 333.17
+      },
+      {
+        "date": "2025-02-28",
+        "price": 337.74
+      },
+      {
+        "date": "2025-03-03",
+        "price": 341.8
+      },
+      {
+        "date": "2025-03-04",
+        "price": 337.27
+      },
+      {
+        "date": "2025-03-05",
+        "price": 340.79
+      },
+      {
+        "date": "2025-03-06",
+        "price": 339.85
+      },
+      {
+        "date": "2025-03-07",
+        "price": 324.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 321.85
+      },
+      {
+        "date": "2025-03-11",
+        "price": 325.75
+      },
+      {
+        "date": "2025-03-12",
+        "price": 325.08
+      },
+      {
+        "date": "2025-03-13",
+        "price": 322.85
+      },
+      {
+        "date": "2025-03-14",
+        "price": 325.24
+      },
+      {
+        "date": "2025-03-17",
+        "price": 329.14
+      },
+      {
+        "date": "2025-03-18",
+        "price": 329.66
+      },
+      {
+        "date": "2025-03-19",
+        "price": 326.64
+      },
+      {
+        "date": "2025-03-20",
+        "price": 334.44
+      },
+      {
+        "date": "2025-03-21",
+        "price": 331.79
+      },
+      {
+        "date": "2025-03-24",
+        "price": 337.67
+      },
+      {
+        "date": "2025-03-25",
+        "price": 337.36
+      },
+      {
+        "date": "2025-03-26",
+        "price": 336.73
+      },
+      {
+        "date": "2025-03-27",
+        "price": 341.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 340.76
+      },
+      {
+        "date": "2025-03-31",
+        "price": 345.24
+      },
+      {
+        "date": "2025-04-01",
+        "price": 343.86
+      },
+      {
+        "date": "2025-04-02",
+        "price": 344.07
+      },
+      {
+        "date": "2025-04-03",
+        "price": 344.4
+      },
+      {
+        "date": "2025-04-04",
+        "price": 319.25
+      },
+      {
+        "date": "2025-04-07",
+        "price": 310.86
+      },
+      {
+        "date": "2025-04-08",
+        "price": 311.53
+      },
+      {
+        "date": "2025-04-09",
+        "price": 323.82
+      },
+      {
+        "date": "2025-04-10",
+        "price": 325.72
+      },
+      {
+        "date": "2025-04-11",
+        "price": 334.02
+      },
+      {
+        "date": "2025-04-14",
+        "price": 342.92
+      },
+      {
+        "date": "2025-04-15",
+        "price": 335.56
+      },
+      {
+        "date": "2025-04-16",
+        "price": 332.66
+      },
+      {
+        "date": "2025-04-17",
+        "price": 329.22
+      },
+      {
+        "date": "2025-04-21",
+        "price": 319.4
+      },
+      {
+        "date": "2025-04-22",
+        "price": 330.75
+      },
+      {
+        "date": "2025-04-23",
+        "price": 331.79
+      },
+      {
+        "date": "2025-04-24",
+        "price": 331.52
+      },
+      {
+        "date": "2025-04-25",
+        "price": 322.3
+      },
+      {
+        "date": "2025-04-28",
+        "price": 323.81
+      },
+      {
+        "date": "2025-04-29",
+        "price": 317.14
+      },
+      {
+        "date": "2025-04-30",
+        "price": 320.69
+      },
+      {
+        "date": "2025-05-01",
+        "price": 317.64
+      },
+      {
+        "date": "2025-05-02",
+        "price": 331.08
+      },
+      {
+        "date": "2025-05-05",
+        "price": 334.86
+      },
+      {
+        "date": "2025-05-06",
+        "price": 338.27
+      },
+      {
+        "date": "2025-05-07",
+        "price": 339.55
+      },
+      {
+        "date": "2025-05-08",
+        "price": 338.47
+      },
+      {
+        "date": "2025-05-09",
+        "price": 338.18
+      },
+      {
+        "date": "2025-05-12",
+        "price": 331.28
+      },
+      {
+        "date": "2025-05-13",
+        "price": 332.7
+      },
+      {
+        "date": "2025-05-14",
+        "price": 329.64
+      },
+      {
+        "date": "2025-05-15",
+        "price": 338.28
+      },
+      {
+        "date": "2025-05-16",
+        "price": 342.24
+      },
+      {
+        "date": "2025-05-19",
+        "price": 343.82
+      },
+      {
+        "date": "2025-05-20",
+        "price": 340.33
+      },
+      {
+        "date": "2025-05-21",
+        "price": 337.53
+      }
+    ],
+    "current_price_data": {
+      "price": 337.53,
+      "change": -2.8,
+      "percent_change": -0.82
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

@@ -1,0 +1,646 @@
+{
+  "ticker": "LOW",
+  "name": "Lowe's",
+  "sector": "Consumer Discretionary",
+  "market_cap": 131099926528.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 19.152086,
+    "PB": -9.216936,
+    "EV_Revenue": 2.02,
+    "ROE": 0.317925,
+    "ProfitMargin": 0.08314,
+    "GrossMargin": 0.33316,
+    "DividendYield": 1.96
+  },
+  "technical_indicators": {
+    "RSI_14": 60.349402442561946,
+    "Momentum_10": 3.0987249484926047,
+    "MACD": 1.9841908044218428,
+    "BB_Percent": 0.960396002760335,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.9008980368065944,
+    "QualityScore": 0.3430667355143027,
+    "SignalScore": 0.6208617909805139
+  },
+  "volatility": 0.0168026045209821,
+  "beta": 0.995,
+  "return_6m": -0.1297976218564177,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 34,
+    "target_mean_price": 267.1006
+  },
+  "news_sentiment": {
+    "summary": "\ud83c\udfaf Les tendances cl\u00e9s des actualit\u00e9s r\u00e9centes sont :\n\n* Des r\u00e9sultats negatifs pour certaines entreprises en raison de la crise sanitaire (Lowe's, Walmart) et d'une crise \u00e9conomique (UnitedHealth).\n* Une baisse des cours de certaines entreprises en raison de la concurrence (Nvidia) ou de mauvaises d\u00e9cisiones financi\u00e8res (CVD Equipment Corp).\n* Une baisse du risque premium (Barron's) et une concurrence intense (Investor's Business Daily).\n* Des lev\u00e9es de fonds (Tesla).\n* Des perspectives positives sur",
+    "sentiment_score": -0.55,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.65,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "How Will Lowe\u2019s Stock React To Its Q1 Earnings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVhQMlRJeHJFWUdJR0JfOFlNNGpMb2g1U1dVT2tVY0hzOVZXSGxGdXpnVGpSZnROZk9naUxEaVg1eDJ5RG5tVE1PdjJONTFSNDkzdXN2YW1ERE1PU2xZWjk5NGI0aEJHYXN5S05BbHIwNzRKLWw5NFpmNmstRVhnbDk1SnFJRFVLWHBrQ0hMZ1VfWEllMXpiZHFic0dqUVRUQWtScFZHWmg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia Leaves Rival Broadcom Out In AI Data Center Race; Is Nvidia A Buy Now? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14RG1Uc3A0ZTh0WVNLOWh6UDlqOXplaUJvakdCbFlaMnhVXzl2MEpWOTk4dDAxSmdROFJjeXpHMVJ0VGdpQ3Y3YjlSQWRsTGFtb0tQQ3doUGZySk10QzV4dE5MMlVuam9xemhzVU1nNEV1N3ZvSjQxMW53?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Palantir Stock Starts the Week Lower. What\u2019s Dragging the Shares Down. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR0NnNGVaT2xVOFdtZ0lueGE4NzJ1ZmZ4c2l4U1dTblhoem1OUENFc3ZzQUpYaDE1cXI1cEZ3TkFqNnBTSGNlM2RYV3ZXT085ZGp1SmJRSE5xcmYtMDlWS0JNcU8tU1R5bFN5Z1ZsaHZ3T2tkMnBUeTdwWGtsQXVOQzhlTWUzb1NhMUxn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla Stock Falls as Markets Open Week Lower Following US Credit Downgrade - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0pPQTJaLWxtZ1doNWVXZEJXNldkOUl0WWFGVGZ3RkZPWDBNakd3Mm9BTXhWOEh3ZTNaTmZ0bkphLXpCT25OdVF6OUtFcW5Wb1B0emF6M2pmdndBcUt3bjItZ0loT0V4bVlTWWhOeE51b2ZhVVNkRHhGWWJHM1N3c3B2dWhtc1IzX3VKQVQ2SGY2YWE2RUNpWks5djFoZklEXzJ0YXktb2cxUGREUThIMGxn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stocks Fall and Bond Yields Jump on Concerns About US Debt - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ0c4YnRwUnhSQ183aFdJeGRyZDFFRFVSV1VQRjJJelpsSTAxQl9tLXRJSnh3Y3NIVl8xWGlSZjgwTk53amJxRFhMXzRWZjlkc1RJd1dTYnFweTFPQUg4TUFZNnI4QW82dC00Sklxc25MSW5UMUVhRzhHX3g2S3F2SQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cable One stock plunges to 52-week low at $149.7 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUFtaXBzbVFoNDVreU5aZDI3YVZaODdDc0ZFU0o1VFB2Yk5aQl9aSVlhT3RiVU9LRk5PZGhkazR2cjdOS0J5TW9JdF82UUFLV0plSkxmWTVLbjRHckNrNGp2Ykx2b0VrVlYtWnppRHlyZzZVMVBweWVVSGMwa3Q2NlZjUFhOUnZIZTVSaTZackVjd19peEdTY3dQVXBnUTZuT2NqSA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "3 Cheap Tech Stocks to Buy Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHhRUWRCV3YySktmbmxwdFRYZEdhTVpqMi1UWG5STVRxV1I4X2ZEWlpPMVNhUGhMcUtxa0V2Y091bFdERVlkR0pYUFNuWU5QVzBYU050ZzlZVVZlR1Vqam52Y1h4MDl4ZW4wV1dDbkxMSm9qMHAwSi1uU1VFX2ZSVjNkVURiQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lowe's Companies (LOW) Target Price Lowered to $250 by Stifel | LOW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNm45aXNRSDdKYXZsRG16aUhKNGFlc0ZCTHphOUlDdjF6VkdMZWkxWW9DbkVEUkxhdE4zUVprSlBmVjFnVklFUW12NURpU1h6T29vTUpiODZWb3pkbVltYTE4c0xfX05EcVNyMlFfYTVQZURhSW5RUGpNNWItTEpQak9NVVAtR25RVGtrcWRwNll1R181X3pyV2lTSWZYTDNjR3F3VXdSbXlaVzNyVXczOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth stock sinks, touches 5-year low after new report reveals possible Medicare fraud probe - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFZIeERzX29zMk5JVG9UblNDdmlBYmRmQlNCTkdNX0dNMUxBeEZuVTVtVTNmMGtucjVTc1g2OUFrU2tLLVNoYlBKRmxxVnl5NnA0Mk9wckdDZ0RranlVTU5BblVfRVh3Q0FPb0s5UVJ5YUF1dlJRa3owelBQdk8wckR4MGR4aWt0QkFWVmxzVmZDU1kxNEgxSUFWWmJmblQwcFpIMjlWajE5OTlia1FzSUZhOE9pdzlRN1kyRXdKeElwMW5rN3RMTFItLW5UajFCYm5mbDVaY3JlbnBX?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "These stocks are up 50% since the market's low in April. Where analysts see them going from here - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0o0ck1PQ2szQ203ZWs5cmZWYXozZmlreU9QR3Fmd3JTZEpQdW5veHlHbXRYV0hBSUR6YmtSeHhNT25hY2dHN05FZm4xUlFDRm94OHNsMGZXc0pzcU0wVXVmZmhFM2VVeVRrWEpWaUFubDNSR3J1MVowSGVDdXB0VldGdzVZNTZ1MWJ3cXNVSTVFT2pzNzZobG9IRE1TbFE0SkdIUGtORUF0YUZjNElRSnFOYVdVdVY3azhzRG5sclI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Walmart Stock Ticks Lower After Trump Says Retailer Should 'Eat the Tariffs' - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT0s3Q2FXSmVMQjZheUFCWklCZnEtcDA2dC1HRjlGOExvcHUta0hLbFdYUXc0M3pLYmZ6Y2l1LXE2emFWSy1VRGxlZTJaMWs3R1B3X3VYT1dYUXlKbVFBLUlFWXRkZDJZVlNVcnA3cFJjajhyS3VOUnZoRFhFMUFoamw5RVpOYlJFX1NJbHpISWFLUEY4Sl9kbmw3Y3RVVXRjZnpucVFiX3RNakpjcVFvQW1B?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "U.S. Stocks Less Attractive as Risk Premiums Remain Too Low - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU3dsVVVqT2p3TlVrVjk5T2VqaUNnUmlkSXo5REstQUpmTVZZbE1McEVfX0ZsWFRfclE5cU9GUkdERi1yajlheGJVdjBTTGlLSThpY2ZpTHcyUzFWbk03LXZ2bUtXVzBEM2R6ZzR6eGVqcUo5NWI1UWZEaWRjdXd2QXNjdE5mMGtWT0pMUzBqVDN5V01NdFprdFFUT3dhSmxEbGYycTJobmh6RG9Ec1psVXFuSWJEZGt6VW5aUVJHUzFiSkFFemphZDRCVWQ1NlVfOWhTQUZ6WDE5dEp0T0JvRw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CVD Equipment Corp stock hits 52-week low at $2.46 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVNmMFBIbjhKT29hcjc3YUtBODUwOVVfNHNUaEoxVUFjOHZ1V3Q4MktSOVNtNWlvYW5Dd1FTUjVTWUJpcHYyQ01ReHRjMEstT1RiT1NNc014ZFctdjFfM1ZEaDZUMlFrWUc5NlJCRU9GQktKc2syWWdWZVJpYlF6WlY4MUZHamZ5TFZoY3lCRVIxS0lMNUw3dng3NWVtOGVWbkR1X0VYRQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Near a 52-Week Low, Here's Why This 4.8%-Yielding Dividend Stock Is a Top Buy for Passive Income - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQODVuamRMX3pqQ1padHdFYk04WUhlYUthemR4MEMtYUltR01TSEcyd01VeFZBT0hvVDhCalptVVVPeEIwYzVOaDNwQWFQNzdHQ1l1WDM4ekk0MXBteXZsWkY4TUFpM05jNEhYd3hYemtNMEhndzY4NUp5N0tyTW0zcDBnc0x4OVQ2czNXZG5UTVY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lowe's (LOW) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZndMT1hQQmJibVBNc0VmS1RQS0ZCOERzaUV4bzZibHY3WDczSVFLSjBHRmE4RnlwRDhXdlBDODhLZjR5OHNMS3dIVXA1Ynl4NnJFQmpBSUVwblZVUl9JY1RfdGtMV0hkMVRwbzF2VlNLTDRPeElVN0F6bzg5dGV1dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "VNRX stock touches 52-week low at $0.42 amid market challenges - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWxVOUNhaXl3cExVZEJUSkFvY0I2Ukl0WXlyVEdtbjdwbkw3dzMzSWZfRFZmbEZnT2hUUnZKN0pKWHQyZXNTVnJRTnR4cjZ2eUNKal9mYWhyOGtKZ3BiRFV1VW1KSTRBVmhtUXRHM3NUbEdxOHVPWGR6Wi1zX1Y1RVJLdkh4VUtILWFKbk9udWN2MmRpS1NXb2l2TDdFc0FPODlMbVlsYVdDd1NaLUI1aDM2YWlHM2c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Watch These UnitedHealth Levels as Stock Rebounds After Plunging to 5-Year Low - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZTJaUlZ5WFQySHJmTFUwRk5oZkVkWXhzY3ktNjJjdV9OZnJOU29jTVB5NmdTa0FjVFVWSWRmODMtaFlJaU9Ma1pDdm1wWk43Unh4U0liWkd0bUZsSjRiSHhPQTVpMWRmei1abTNTRGllMUxCcDNmUmhJMkp5VHkxNUdFc0NzY3ExUEhwdzJTdG5TcFNpLUxWNTNYcWtOWHkzS2hPSDN3cXI3V1FHRHQtZnZfWUxLeE0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "This 6%-Yielding Dividend Stock Is Low Risk and Poised for Solid Growth - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2I3UFVrZDVHaGs2cFBmZzl4b2V1czJyUXp4Rm5zWXUzRUpfYnRTT1B1ZU0wN1R0MW1xRWlOYXduUUlIUWhxREdqMTN1TThxcTBrZDdxSHFlSE5pZmJYbXhGU2RvV05IVlBqSzlPampQdVEwN1hjRnNncXpkc3RTdGh0MUxLdUNaMnp4MVVvOGpDbEFLLWNJWA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sweetgreen stock hits 52-week low at $14.6 amid market challenges - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2F1YkZFVEN3V1BiYjJpUFJqM0d0Nld5ZU8ycXJDWmRBRElWdXB3QVNod2tJU3RNUmV0WWgtS2VoN3N3dDFzOTJheFByRjlzUWs1Zl94OHh4Uk9fZHc2anoxYUFneU9tNUF2ZEtWOUN2bzRISG84OVJmcDhNNEZMQjdMUER1RnE1bnNtTEZDUW9BWFNoRTFuTUs0OHJFa0pwRmk1WXJzVjlYZjF3V1BuTHEzR3Y3V01RQURN?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apptech stock hits 52-week low at $0.24 amid market challenges - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaC1hTU54X0RPUTY1NjcxbEE1TUVJNXBTQjdyVHJXT09PUENwUEdhdEVqSFZYTEJXYUVKSDhqOFNXY0M3UFljSm1YY0diWkI1Qmlpd01xN2lPc1djNDBpOThsZWY0Y3lQTHFMc1ZTMWxTVUlXTlQya0owTFI0ZDVkTUY1Zk1XdmoyTG9SRVoyaThWdGlqMGV4Qkxvd2h4cXgxRTFWOFJNdEVhTzBWWmZzcW5FT1owamM?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 264.68
+      },
+      {
+        "date": "2024-11-25",
+        "price": 275.32
+      },
+      {
+        "date": "2024-11-26",
+        "price": 274.47
+      },
+      {
+        "date": "2024-11-27",
+        "price": 273.19
+      },
+      {
+        "date": "2024-11-29",
+        "price": 272.43
+      },
+      {
+        "date": "2024-12-02",
+        "price": 272.05
+      },
+      {
+        "date": "2024-12-03",
+        "price": 274.39
+      },
+      {
+        "date": "2024-12-04",
+        "price": 272.27
+      },
+      {
+        "date": "2024-12-05",
+        "price": 270.07
+      },
+      {
+        "date": "2024-12-06",
+        "price": 273.43
+      },
+      {
+        "date": "2024-12-09",
+        "price": 274.15
+      },
+      {
+        "date": "2024-12-10",
+        "price": 270.11
+      },
+      {
+        "date": "2024-12-11",
+        "price": 267.9
+      },
+      {
+        "date": "2024-12-12",
+        "price": 263.5
+      },
+      {
+        "date": "2024-12-13",
+        "price": 262.39
+      },
+      {
+        "date": "2024-12-16",
+        "price": 260.1
+      },
+      {
+        "date": "2024-12-17",
+        "price": 257.75
+      },
+      {
+        "date": "2024-12-18",
+        "price": 249.81
+      },
+      {
+        "date": "2024-12-19",
+        "price": 244.52
+      },
+      {
+        "date": "2024-12-20",
+        "price": 247.72
+      },
+      {
+        "date": "2024-12-23",
+        "price": 247.37
+      },
+      {
+        "date": "2024-12-24",
+        "price": 250.22
+      },
+      {
+        "date": "2024-12-26",
+        "price": 249.43
+      },
+      {
+        "date": "2024-12-27",
+        "price": 248.34
+      },
+      {
+        "date": "2024-12-30",
+        "price": 246.73
+      },
+      {
+        "date": "2024-12-31",
+        "price": 246.8
+      },
+      {
+        "date": "2025-01-02",
+        "price": 246.98
+      },
+      {
+        "date": "2025-01-03",
+        "price": 248.48
+      },
+      {
+        "date": "2025-01-06",
+        "price": 249.74
+      },
+      {
+        "date": "2025-01-07",
+        "price": 246.57
+      },
+      {
+        "date": "2025-01-08",
+        "price": 246.89
+      },
+      {
+        "date": "2025-01-10",
+        "price": 247.9
+      },
+      {
+        "date": "2025-01-13",
+        "price": 248.66
+      },
+      {
+        "date": "2025-01-14",
+        "price": 251.19
+      },
+      {
+        "date": "2025-01-15",
+        "price": 256.72
+      },
+      {
+        "date": "2025-01-16",
+        "price": 258.78
+      },
+      {
+        "date": "2025-01-17",
+        "price": 261.06
+      },
+      {
+        "date": "2025-01-21",
+        "price": 264.35
+      },
+      {
+        "date": "2025-01-22",
+        "price": 258.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 261.32
+      },
+      {
+        "date": "2025-01-24",
+        "price": 262.2
+      },
+      {
+        "date": "2025-01-27",
+        "price": 268.42
+      },
+      {
+        "date": "2025-01-28",
+        "price": 264.41
+      },
+      {
+        "date": "2025-01-29",
+        "price": 261.73
+      },
+      {
+        "date": "2025-01-30",
+        "price": 264.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 260.04
+      },
+      {
+        "date": "2025-02-03",
+        "price": 256.5
+      },
+      {
+        "date": "2025-02-04",
+        "price": 257.23
+      },
+      {
+        "date": "2025-02-05",
+        "price": 258.47
+      },
+      {
+        "date": "2025-02-06",
+        "price": 256.95
+      },
+      {
+        "date": "2025-02-07",
+        "price": 251.94
+      },
+      {
+        "date": "2025-02-10",
+        "price": 256.44
+      },
+      {
+        "date": "2025-02-11",
+        "price": 257.03
+      },
+      {
+        "date": "2025-02-12",
+        "price": 250.26
+      },
+      {
+        "date": "2025-02-13",
+        "price": 252.66
+      },
+      {
+        "date": "2025-02-14",
+        "price": 251.79
+      },
+      {
+        "date": "2025-02-18",
+        "price": 250.71
+      },
+      {
+        "date": "2025-02-19",
+        "price": 246.68
+      },
+      {
+        "date": "2025-02-20",
+        "price": 246.42
+      },
+      {
+        "date": "2025-02-21",
+        "price": 239.17
+      },
+      {
+        "date": "2025-02-24",
+        "price": 237.08
+      },
+      {
+        "date": "2025-02-25",
+        "price": 242.39
+      },
+      {
+        "date": "2025-02-26",
+        "price": 247.07
+      },
+      {
+        "date": "2025-02-27",
+        "price": 245.5
+      },
+      {
+        "date": "2025-02-28",
+        "price": 248.64
+      },
+      {
+        "date": "2025-03-03",
+        "price": 246.16
+      },
+      {
+        "date": "2025-03-04",
+        "price": 239.85
+      },
+      {
+        "date": "2025-03-05",
+        "price": 242.96
+      },
+      {
+        "date": "2025-03-06",
+        "price": 243.5
+      },
+      {
+        "date": "2025-03-07",
+        "price": 242.66
+      },
+      {
+        "date": "2025-03-10",
+        "price": 242.38
+      },
+      {
+        "date": "2025-03-11",
+        "price": 232.67
+      },
+      {
+        "date": "2025-03-12",
+        "price": 228.33
+      },
+      {
+        "date": "2025-03-13",
+        "price": 222.66
+      },
+      {
+        "date": "2025-03-14",
+        "price": 224.44
+      },
+      {
+        "date": "2025-03-17",
+        "price": 225.85
+      },
+      {
+        "date": "2025-03-18",
+        "price": 222.95
+      },
+      {
+        "date": "2025-03-19",
+        "price": 225.51
+      },
+      {
+        "date": "2025-03-20",
+        "price": 226.26
+      },
+      {
+        "date": "2025-03-21",
+        "price": 227.07
+      },
+      {
+        "date": "2025-03-24",
+        "price": 232.89
+      },
+      {
+        "date": "2025-03-25",
+        "price": 230.69
+      },
+      {
+        "date": "2025-03-26",
+        "price": 232.05
+      },
+      {
+        "date": "2025-03-27",
+        "price": 232.17
+      },
+      {
+        "date": "2025-03-28",
+        "price": 228.42
+      },
+      {
+        "date": "2025-03-31",
+        "price": 233.23
+      },
+      {
+        "date": "2025-04-01",
+        "price": 234.01
+      },
+      {
+        "date": "2025-04-02",
+        "price": 235.28
+      },
+      {
+        "date": "2025-04-03",
+        "price": 222.52
+      },
+      {
+        "date": "2025-04-04",
+        "price": 223.29
+      },
+      {
+        "date": "2025-04-07",
+        "price": 216.94
+      },
+      {
+        "date": "2025-04-08",
+        "price": 211.69
+      },
+      {
+        "date": "2025-04-09",
+        "price": 223.2
+      },
+      {
+        "date": "2025-04-10",
+        "price": 221.2
+      },
+      {
+        "date": "2025-04-11",
+        "price": 220.35
+      },
+      {
+        "date": "2025-04-14",
+        "price": 224.14
+      },
+      {
+        "date": "2025-04-15",
+        "price": 220.51
+      },
+      {
+        "date": "2025-04-16",
+        "price": 214.41
+      },
+      {
+        "date": "2025-04-17",
+        "price": 219.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 212.77
+      },
+      {
+        "date": "2025-04-22",
+        "price": 219.07
+      },
+      {
+        "date": "2025-04-23",
+        "price": 217.76
+      },
+      {
+        "date": "2025-04-24",
+        "price": 222.05
+      },
+      {
+        "date": "2025-04-25",
+        "price": 220.91
+      },
+      {
+        "date": "2025-04-28",
+        "price": 221.15
+      },
+      {
+        "date": "2025-04-29",
+        "price": 223.27
+      },
+      {
+        "date": "2025-04-30",
+        "price": 223.56
+      },
+      {
+        "date": "2025-05-01",
+        "price": 222.32
+      },
+      {
+        "date": "2025-05-02",
+        "price": 227.19
+      },
+      {
+        "date": "2025-05-05",
+        "price": 225.19
+      },
+      {
+        "date": "2025-05-06",
+        "price": 223.01
+      },
+      {
+        "date": "2025-05-07",
+        "price": 223.51
+      },
+      {
+        "date": "2025-05-08",
+        "price": 224.48
+      },
+      {
+        "date": "2025-05-09",
+        "price": 222.26
+      },
+      {
+        "date": "2025-05-12",
+        "price": 232.78
+      },
+      {
+        "date": "2025-05-13",
+        "price": 230.77
+      },
+      {
+        "date": "2025-05-14",
+        "price": 228.51
+      },
+      {
+        "date": "2025-05-15",
+        "price": 232.45
+      },
+      {
+        "date": "2025-05-16",
+        "price": 234.23
+      },
+      {
+        "date": "2025-05-19",
+        "price": 234.43
+      },
+      {
+        "date": "2025-05-20",
+        "price": 231.25
+      },
+      {
+        "date": "2025-05-21",
+        "price": 227.37
+      }
+    ],
+    "current_price_data": {
+      "price": 227.37,
+      "change": -3.88,
+      "percent_change": -1.68
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

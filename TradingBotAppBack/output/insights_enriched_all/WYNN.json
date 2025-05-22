@@ -1,0 +1,646 @@
+{
+  "ticker": "WYNN",
+  "name": "Wynn Resorts",
+  "sector": "Consumer Discretionary",
+  "market_cap": 10116644864.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 25.871658,
+    "PB": -28.127907,
+    "EV_Revenue": 2.784,
+    "ROE": 0.317925,
+    "ProfitMargin": 0.061680004,
+    "GrossMargin": 0.68531,
+    "DividendYield": 1.04
+  },
+  "technical_indicators": {
+    "RSI_14": 75.32133903380569,
+    "Momentum_10": 17.299072180881307,
+    "MACD": 4.644840582687664,
+    "BB_Percent": 0.8964866613545074,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.9059298506902772,
+    "QualityScore": 0.3458110872381354,
+    "SignalScore": 0.4765762705475188
+  },
+  "volatility": 0.0283222126879626,
+  "beta": 1.325,
+  "return_6m": 0.0725985957678179,
+  "analyst_rating": {
+    "recommendation": "strong_buy",
+    "analyst_count": 16,
+    "target_mean_price": 105.73625
+  },
+  "news_sentiment": {
+    "summary": "Wynn Resorts (WYNN) has recently abandoned its pursuit of a new casino license in New York, which may have negatively impacted its stock performance. However, some investors see potential upside in the company's stock, given its positive outlook and expansion plans. The options market also suggests a potential spike in WYNN's stock. The company is set to report its first quarter earnings and may face challenges in the US and UAE. Additionally, some investors have been buying WYNN stock after Trump's tariff rollout, and the company's CEO has explained its expansion plans in the UAE. While there are some mixed signals, WYNN's stock has recently risen due to the influence of a billionaire investor",
+    "sentiment_score": -0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "WYNN Abandons Pursuit of New York Casino License | WYNN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzEtMGVzdTBlOXJNTk1ibUxJX0cyUjhVNmtCSTRGUzNNZzVYd1FqaEZRNHRUdEZDX3ZvaTl1NF93T2NOVlpUSGhRT2ktSHAwWE1zWEc1dkd2ZGhLOVpDREozTjh1aUJiNGc1TFhlUHdjc3ltck5KQ3NrUmpzeHNJNlV1NVVsTDB1bkl4SVRLLXZFbnE2U0pCS0IzSEZPdExoQ29GT1h3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(WYNN) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR25vRGl5bEQwa2prQ0VxTmpZazN1UVZ0WDc4bUx1ckZNNnJpd2JfWUgwMjB3UTlEeVZwZW12Si1HZXNONXBpMWVuOVRFZWIzOGZEYkNqb0dUNW03YjVlQ2dkam9uVW1KbWlMWjVrb2NPMi14SmZkbEx6VmlzcUxmY056RFFTUXZiVzBNMkxKWG1BeXNrdXVjaVRPc1FIenZac2drNFZEYXZ6MmlYY2hzTzNDQU9Dc0VvM2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sector Update: Consumer Stocks Mixed Late Afternoon - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYXhOSllWX0Z0dmVKTnRyT0U3LS01VThSWHNjSE5lNWlBMUxKbFRKY3FxNG0xamFzclExemlwZEFDMTkwZDVjZmdKZndvUHRvQXV1ZkUyXzZwV0xrZG9vVlVpOG5ORTNhRC1mSVBvNGlEb3E4WjItejlBRVBab3lGaEJpZ1JUYVpXYXBFajFkUlZfM2JjdlpLVG9kOWZWS0VlM2tEakpiZm4ybi04ZnBldW9fQTZmOWUxdEZZZ3BON1pTUU5Jb09lb3NZNnpLY28?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wynn Resorts (WYNN): Among Billionaire Jim Simons\u2019 RenTech\u2019s Small-Cap Stock Picks with Huge Upside Potential - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQVpFTmwwa0RzVGE3aWJYMmxybl9kQy04c2NQMFBuSmFfODVvQnN0Y2hKZzFHUXR3SzZYbFNRZ0dvZkt5MmhDd05SVHBaaHNtQWxGdW0xUGhBRDhTektoRWZhdXY2NTBHaDVOUXVVSFNiLXpfYmthZFA2Rm1QTjlmSGh6T3VuYl9mUUVhWGhMXzBiUU9RanM2ZWNEZHIxQmlkWWR3a3kxRWhXc2tMTmhpdHlpdDBpVjJCWnJwM0FiV1NwX0NJRTJFNW1BMDlUQmlKU1kxam5OdjQyWEdrd1hRR0RR0gHqAUFVX3lxTFBYN29fRkZlWkczMFF5YWs0YU1heGlna2hFWFQ2UE9uaEswX0pES3NwakZqckhjUGYtYXRqeXRDNlBMMDBKU2NzbXphdWl2QlBOYzVFUjVSaEpyZU9nblJRamFKa1hNWjl6S2xlbW11eGI1VjAxVW51c1NUTFpoRXdROXpkVk1Jb2NHdWdlX1hhdlE0c3FWSEZnaEZUZFpPQTlJNVUzSlhXbkdEWFdnREVpN3FSTWhVcDlUSGNpQ0xKNFduYm1tWUktVlNadkpSamY4Tzkzd2xIZGc5eTVLWnY3cFJ1LXBNeEM0dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in Wynn Resorts (WYNN) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFlaNDNjQ0hvcW1EQUhaWlE2Y3NUbGZpckdVMGJRdjlHQzFFQjVCX0JaRE5IazctdGlkU3dSdmRkcGh0eWY3MERhT3pNOTJSRTFscDBlT2pTZ1JuajRKUlAxRFhLcF83SHZrbHhZMG4xZnFVY3pObXdsREE1R254RERtMkRvRl9MOXBka3Y4THk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How Might Wynn Resorts Stock Move Post Q1 Earnings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHgtdzdKQ0RGMVhBM2tHOVZ0T3VLYWZfb2dpUlBidzR0bzNBUnFOUTRnbVItSi1EQ3BfdHgyU0FfOXRSM1VRVWQ4TTZST2JaeWRJT3FPeFJNOC12UlJYRXkzNk9Tck42ZFAybWJiaTNqTnNvTzJrNTM5MVRMMUZRbE4xZFJ2SW16LUY4RmVnY0ZQZnI1Y2pJYi0yZW1sa3ZONTB1OUdCa05yeVg3SC05Wg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wynn Resorts, Limited Reports First Quarter 2025 Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ21qb0Rud1dhSHpTdXM1M1dTd09sWVpqaTA0d3FRZnJoRi00eVhyUUJMRlRrd1VEOUNKbEMwbHVXeGxwRG9MRUcxbS00dDlKLWsyb21pbjI2bHhORm5xdGhhNHB2MVpjR1VodXRVWG4ydFB5SjkzVjljSzRNNE01M2VKUjNxeFVZS1Yxb1ctbGc0ZzhMZHNYTk5YNTB0V080TThwbmhMMEhjcEJQQ040SDVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Wynn Resorts (WYNN) Among Mid- And Large-Cap Stocks Insiders Are Buying After Trump\u2019s Tariff Rollout? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IOWM2LWNxQ2ZJUUQwS2xXdm54SXFRTlAwTW5xeTdrVVk3S0FkUThkVGt1YVNIT2JtMUhYbnBjTFVKeGpNYUR6ek1sNkUxSzVzY2gxMUNvVnVUN2FTUWdIWHBZNjIwcEtuMmJMQ21GMGFTcTB0SzNaQkFPODhGUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Will Wynn Stock React To Its Upcoming Q1 Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmRONzJCVEM2TGwzR1IxdVhyRkppZFZMVVJzN3hIVHZxRjlkMGJ4bTJaMlgwY0xaWjQ0V1hmVi1YNF9icC0zS05Ca3BxTjVuRVVDTG1fSVB1cHBkX09NWm1KTjZiTHRqLU1VOUxtU0ZpaDdad1o3T2R4eEVkUnJFRFJtcUp4cVhXb3FLMl9ON0hTYjJieERBdmlzYTFMMU9ycnpJU3pKZ2QtYndYQ0lHR3VB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Susquehanna Fundamental Investments LLC Makes New $2.30 Million Investment in Wynn Resorts, Limited (NASDAQ:WYNN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM2k5MTU1ZWRMSG83a19wd2xIdjlTLUhtZk1GRTB6ckN6cFktUlUwcURXQUtOUTY2SU55a2d6VnhCVE8wTnBGTUJBU3loZUhNRE00ZkwyMDAtdHpzN1EtZElfa0JzSWcxdEZHU2tDanZSY0xNOHFnbDE2N3BERlRUZXd2NW9RWVFFc1JZbEpHcHNDX1VVZjRjbUdDR2VUTUZ2RmNBb20tTi11ckhxT05mRzJCUTZDMS1jdDljcGFSRE5OZW83OFcybUIzLVdRUHlubVpzeDQ5Z1NlNHloUTBUa01LUHVnaHVYZDM3RHp1NkxfSGs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wynn Resorts Stock Rises as Billionaire Investor Tilman Fertitta Increases Stake - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmRVekNYenRIajFEZWh1UTN6ZzE2U0hkeEtJSldMbmVhQUh6QTlScWhwbEdsZkxiWVNJT3N6YjVKSlkwZU5EeFF1dUlpcTVqdDVWUFNqVV8yRVp5Ynl6VnhxekgtSXRlTFdyNVcxY096Xy1IMjVUZ29HOGVBTlRKTmRkUl9EejhUemE4SnMzVnYxWmxpbWJMVmgtaGJVbUxkTjJRWlIxaHVTRk9kdldpS3BKNHVLazZPRVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Casino exec Elaine Wynn, major shareholder of Wynn Resorts, dies at 82 - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQk85RS1RZzJZMFA1ZFg1LWxRVkZEQURVaE9nR3ltNHJEaHhUcW9LZXpaQm82aE81YnRQV21SMUNfeEpULVgzTFE5TnZtWUtqaUZlNU9QMHJ1RHVBU2N0WG11WHVVTFhxcUZMY3NMazM3a2duQlNzLW1wbms4UUFrZnBQVWhVN0loTEtkbFNlaEpRMnc3U0RZVnZsZHQtYV9uVlHSAacBQVVfeXFMTzBTc3pZZTNod2dyaVppVzY1dXA4LVdXNWpOb1c2NklTT2dQZjdUeURVT3J3UzV6T3RJYjc2dms3czlWWUFqeHBLZXpJQVBOcUc2UVoxRUpBQ210aUtrTWFYTERkM0NPQmswdDdYUkdvejFTX2EyTzRYTUpqSmpKampRM0dYdE9XWk41SWxGWGhtWDVVdkhQUVpJUTNaQW1jT1BtWUtaaVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wynn Las Vegas gifts employees stock worth thousands for 20-year celebration - KSNV",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUtGdDN0NjZLOEd1bTJKQ0hWTWs2U2VqQ1JRSmUybTMwTS1yM2lVandqd1VPeFFDWnpjNHVRaU5yUXZxTVQ0M0s2VElMdTFwem9tejRLb1RZVEc0bWgyT19iOHB6VERjZDBuUlVNMHRFWEN3UEhiQlo1aVhRMlhiblRQYnNzZWhQQ09HcER3dndYM2M5Nl8wTDU1Q0F5eEFDRzRsdXcySDNhYjZYUFdPdEhrWDNfNlYzZGx3WDFTbVdoS18tSlAwazRFVGU2LUtPUkJEMTRoQzk4Q3hrR1B0b09fTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Houston Rockets Owner Buys Large Block of Wynn Stock - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjLXpDVU1BTmxGTkpwYTFyQVhLQW0ydlI3M19aVGxFM2I2MXVWa0RKSmhpbl9TRlFBaUZ6VUlPUU0tOW1HQzVGclJDRkJIYVhEQ0J4TTliS09QZjNtU1pMSnBqOWR5a012aDN4bFQ0YWVyNmxhRnNnUEF1TTk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wynn Resorts (WYNN) Exits New York Casino Bid Amid Rezoning Challenges - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSW0tMjJ0dHBjZ3o0V3hUSU1DQkxSX0diYUpCcTBDMUxRampxSkJNelZTMkM0djVTTXpzelJwVnkydWFpU1hLUktReDdxX2drQ3g2emtnYl9RWmN2WUZWT1FXZlozLTlpVmdPZkE3M0RPUnd4eFdOckhqZE15XzM0Nm9nV0NNakd0ZkNxZG5FbGRac3RrUk5ZcnVkWS1KRjJHeUdxUEFiNUE5OHM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Wynn Resorts (WYNN) Stock Is Down Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iQ0Zfb0k4cFRUbXBKV1EzaU84dlJIcjVqS2dlOEw1ZGlXM3loQjNYWTJOaHFGR2EzZEktdU1hYUpqQU90YWJVYnkwa3FpT0xwMFRmQ0dDSkREVEdlaWFXUzFmQVFlTjhibERDUE5kbGJJd0FxNXRXUnJaamVidw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wynn Resorts (WYNN) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTENmNXIyZVljSFhTSTNnMWtOQV9xaUxLRzdZRE5BaEQyd2IxTGdRUjgxNFF0ZVVnSlBBNlZrRklSV2NFV016RmhyNWtaRkRBZ3N0dWE1UVc0MnotbGpZWFduSXE2eldYSHktZjBfLW9Tc1dqVDhQVXpmVWlhdHQwOTN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WYNN, MGM, or CHDN: Which Casino Stock Holds the Winning Hand? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SHotYUgyaUZvenVsSzVuMlIyMEJMZkJUZjdUU2xCaTVma1NvWktCQW1DNm53ZUFVSklyMm5uSmFaYVdpQmVsUzU2UjZ6SzRaeEF5THZNVVlGZE1xMXI5T1hkYlZfazJPbFJHY1lpSlNrbGpMcFN6eHJ6UjA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wynn Resorts CEO explains why the company is expanding into the UAE - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkVvOU95eG95Z2NUc2dsNF8zQU0tWkdheFJ4UzhlZDExUGxxVHgxN0EzSEtYSVZmUkJ6dTV4M3M2TzNMdkJvWTFabl9CWXFsY2dlNEZ3Y0hVWHg2bGU0QVBKR3plbzlFZXpneDhOcU02WENPd1ZLeWYxZWYxdHVsTnp5QXg1OUpiUEFwU3BhYlljdHVtQVdEMklKQXpueEF0Yy1nLXhRb9IBrAFBVV95cUxOaEgtUm9LcjlUZU5IVDBrTkR6czUxYVJIR1BISlViOVhsZUlmMHNRNmFWMTF5ODFaT1gtVk0tY2hURUlpWEtyc2ltUC1tQ2tJRTJBWEY0M29BRHJJVF8zbVZ0VGV3bGlHaVNrM3dCSW1CUmwxTHNNd1BpckQwX1diRWZ2NFBTaFF5UDdodFVyU2tJc0RPRTlhXzJTWlhGUUNlSEJTQ2JJYWxBZ1Yx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Sell WYNN and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EdVBmZ3ZkNDVad2xFQjdrYUx6M1k3YzlLRkl1eXlWa1Fia0NFM3I3UE0yYW1lS29nTmdOT05sbVVFQ2h1Q29URDJqY1gxekp5Y29lMFdYZF83SzJlNUxhdTZ3M1RacFhVZFlkMExSNUwwaTBObkE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 91.29
+      },
+      {
+        "date": "2024-11-25",
+        "price": 93.45
+      },
+      {
+        "date": "2024-11-26",
+        "price": 91.86
+      },
+      {
+        "date": "2024-11-27",
+        "price": 91.67
+      },
+      {
+        "date": "2024-11-29",
+        "price": 94.38
+      },
+      {
+        "date": "2024-12-02",
+        "price": 96.16
+      },
+      {
+        "date": "2024-12-03",
+        "price": 93.76
+      },
+      {
+        "date": "2024-12-04",
+        "price": 94.79
+      },
+      {
+        "date": "2024-12-05",
+        "price": 94.4
+      },
+      {
+        "date": "2024-12-06",
+        "price": 94.37
+      },
+      {
+        "date": "2024-12-09",
+        "price": 95.94
+      },
+      {
+        "date": "2024-12-10",
+        "price": 94.95
+      },
+      {
+        "date": "2024-12-11",
+        "price": 95.21
+      },
+      {
+        "date": "2024-12-12",
+        "price": 93.47
+      },
+      {
+        "date": "2024-12-13",
+        "price": 94.53
+      },
+      {
+        "date": "2024-12-16",
+        "price": 89.68
+      },
+      {
+        "date": "2024-12-17",
+        "price": 91.96
+      },
+      {
+        "date": "2024-12-18",
+        "price": 88.7
+      },
+      {
+        "date": "2024-12-19",
+        "price": 88.31
+      },
+      {
+        "date": "2024-12-20",
+        "price": 88.95
+      },
+      {
+        "date": "2024-12-23",
+        "price": 88.11
+      },
+      {
+        "date": "2024-12-24",
+        "price": 88.78
+      },
+      {
+        "date": "2024-12-26",
+        "price": 89.31
+      },
+      {
+        "date": "2024-12-27",
+        "price": 88.68
+      },
+      {
+        "date": "2024-12-30",
+        "price": 85.83
+      },
+      {
+        "date": "2024-12-31",
+        "price": 86.16
+      },
+      {
+        "date": "2025-01-02",
+        "price": 83.8
+      },
+      {
+        "date": "2025-01-03",
+        "price": 83.32
+      },
+      {
+        "date": "2025-01-06",
+        "price": 84.61
+      },
+      {
+        "date": "2025-01-07",
+        "price": 82.45
+      },
+      {
+        "date": "2025-01-08",
+        "price": 81.17
+      },
+      {
+        "date": "2025-01-10",
+        "price": 81.15
+      },
+      {
+        "date": "2025-01-13",
+        "price": 81.33
+      },
+      {
+        "date": "2025-01-14",
+        "price": 81.8
+      },
+      {
+        "date": "2025-01-15",
+        "price": 82.41
+      },
+      {
+        "date": "2025-01-16",
+        "price": 82.5
+      },
+      {
+        "date": "2025-01-17",
+        "price": 84.67
+      },
+      {
+        "date": "2025-01-21",
+        "price": 86.26
+      },
+      {
+        "date": "2025-01-22",
+        "price": 85.16
+      },
+      {
+        "date": "2025-01-23",
+        "price": 85.08
+      },
+      {
+        "date": "2025-01-24",
+        "price": 84.99
+      },
+      {
+        "date": "2025-01-27",
+        "price": 84.77
+      },
+      {
+        "date": "2025-01-28",
+        "price": 84.33
+      },
+      {
+        "date": "2025-01-29",
+        "price": 84.11
+      },
+      {
+        "date": "2025-01-30",
+        "price": 89.6
+      },
+      {
+        "date": "2025-01-31",
+        "price": 86.85
+      },
+      {
+        "date": "2025-02-03",
+        "price": 83.56
+      },
+      {
+        "date": "2025-02-04",
+        "price": 83.19
+      },
+      {
+        "date": "2025-02-05",
+        "price": 81.66
+      },
+      {
+        "date": "2025-02-06",
+        "price": 80.65
+      },
+      {
+        "date": "2025-02-07",
+        "price": 80.58
+      },
+      {
+        "date": "2025-02-10",
+        "price": 78.97
+      },
+      {
+        "date": "2025-02-11",
+        "price": 77.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 78.37
+      },
+      {
+        "date": "2025-02-13",
+        "price": 80.47
+      },
+      {
+        "date": "2025-02-14",
+        "price": 88.82
+      },
+      {
+        "date": "2025-02-18",
+        "price": 91.21
+      },
+      {
+        "date": "2025-02-19",
+        "price": 92.26
+      },
+      {
+        "date": "2025-02-20",
+        "price": 93.47
+      },
+      {
+        "date": "2025-02-21",
+        "price": 90.76
+      },
+      {
+        "date": "2025-02-24",
+        "price": 90.15
+      },
+      {
+        "date": "2025-02-25",
+        "price": 91.03
+      },
+      {
+        "date": "2025-02-26",
+        "price": 91.1
+      },
+      {
+        "date": "2025-02-27",
+        "price": 88.19
+      },
+      {
+        "date": "2025-02-28",
+        "price": 89.32
+      },
+      {
+        "date": "2025-03-03",
+        "price": 88.93
+      },
+      {
+        "date": "2025-03-04",
+        "price": 87.1
+      },
+      {
+        "date": "2025-03-05",
+        "price": 90.67
+      },
+      {
+        "date": "2025-03-06",
+        "price": 88.19
+      },
+      {
+        "date": "2025-03-07",
+        "price": 88.72
+      },
+      {
+        "date": "2025-03-10",
+        "price": 88.42
+      },
+      {
+        "date": "2025-03-11",
+        "price": 87.38
+      },
+      {
+        "date": "2025-03-12",
+        "price": 85.67
+      },
+      {
+        "date": "2025-03-13",
+        "price": 83.23
+      },
+      {
+        "date": "2025-03-14",
+        "price": 86.18
+      },
+      {
+        "date": "2025-03-17",
+        "price": 86.42
+      },
+      {
+        "date": "2025-03-18",
+        "price": 85.43
+      },
+      {
+        "date": "2025-03-19",
+        "price": 85.05
+      },
+      {
+        "date": "2025-03-20",
+        "price": 83.07
+      },
+      {
+        "date": "2025-03-21",
+        "price": 82.63
+      },
+      {
+        "date": "2025-03-24",
+        "price": 84.87
+      },
+      {
+        "date": "2025-03-25",
+        "price": 86.03
+      },
+      {
+        "date": "2025-03-26",
+        "price": 85.83
+      },
+      {
+        "date": "2025-03-27",
+        "price": 86.15
+      },
+      {
+        "date": "2025-03-28",
+        "price": 82.33
+      },
+      {
+        "date": "2025-03-31",
+        "price": 83.5
+      },
+      {
+        "date": "2025-04-01",
+        "price": 82.73
+      },
+      {
+        "date": "2025-04-02",
+        "price": 81.54
+      },
+      {
+        "date": "2025-04-03",
+        "price": 72.88
+      },
+      {
+        "date": "2025-04-04",
+        "price": 70.09
+      },
+      {
+        "date": "2025-04-07",
+        "price": 67.93
+      },
+      {
+        "date": "2025-04-08",
+        "price": 66.1
+      },
+      {
+        "date": "2025-04-09",
+        "price": 75.83
+      },
+      {
+        "date": "2025-04-10",
+        "price": 72.3
+      },
+      {
+        "date": "2025-04-11",
+        "price": 73.19
+      },
+      {
+        "date": "2025-04-14",
+        "price": 73.54
+      },
+      {
+        "date": "2025-04-15",
+        "price": 74.9
+      },
+      {
+        "date": "2025-04-16",
+        "price": 73.73
+      },
+      {
+        "date": "2025-04-17",
+        "price": 74.77
+      },
+      {
+        "date": "2025-04-21",
+        "price": 74.96
+      },
+      {
+        "date": "2025-04-22",
+        "price": 76.97
+      },
+      {
+        "date": "2025-04-23",
+        "price": 79.11
+      },
+      {
+        "date": "2025-04-24",
+        "price": 81.58
+      },
+      {
+        "date": "2025-04-25",
+        "price": 82.11
+      },
+      {
+        "date": "2025-04-28",
+        "price": 82.2
+      },
+      {
+        "date": "2025-04-29",
+        "price": 81.55
+      },
+      {
+        "date": "2025-04-30",
+        "price": 80.31
+      },
+      {
+        "date": "2025-05-01",
+        "price": 80.04
+      },
+      {
+        "date": "2025-05-02",
+        "price": 82.49
+      },
+      {
+        "date": "2025-05-05",
+        "price": 82.98
+      },
+      {
+        "date": "2025-05-06",
+        "price": 83.52
+      },
+      {
+        "date": "2025-05-07",
+        "price": 84.12
+      },
+      {
+        "date": "2025-05-08",
+        "price": 86.59
+      },
+      {
+        "date": "2025-05-09",
+        "price": 87.93
+      },
+      {
+        "date": "2025-05-12",
+        "price": 95.16
+      },
+      {
+        "date": "2025-05-13",
+        "price": 96.79
+      },
+      {
+        "date": "2025-05-14",
+        "price": 97.49
+      },
+      {
+        "date": "2025-05-15",
+        "price": 97.75
+      },
+      {
+        "date": "2025-05-16",
+        "price": 96.76
+      },
+      {
+        "date": "2025-05-19",
+        "price": 96.55
+      },
+      {
+        "date": "2025-05-20",
+        "price": 93.77
+      },
+      {
+        "date": "2025-05-21",
+        "price": 91.5
+      }
+    ],
+    "current_price_data": {
+      "price": 91.5,
+      "change": -2.27,
+      "percent_change": -2.42
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

@@ -1,0 +1,634 @@
+{
+  "ticker": "DFS",
+  "name": "Discover Financial",
+  "sector": "Financials",
+  "market_cap": 50343182336.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 10.686432,
+    "PB": 2.8111124,
+    "EV_Revenue": 4.052,
+    "ROE": 0.28472,
+    "ProfitMargin": 0.35884,
+    "GrossMargin": 0.94364,
+    "DividendYield": 1.4
+  },
+  "technical_indicators": {
+    "RSI_14": 65.09345395485735,
+    "Momentum_10": 5.117968376918954,
+    "MACD": 8.228798840492033,
+    "BB_Percent": 0.7963106505653419,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8905483961215979,
+    "QualityScore": 0.4409720941246761,
+    "SignalScore": 0.5861902245106865
+  },
+  "volatility": 0.0301329417901729,
+  "beta": 1.146,
+  "return_6m": 0.1635954839582321,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 5,
+    "target_mean_price": 211.6
+  },
+  "news_sentiment": {
+    "summary": "La fusion de Discover Financial Services avec Capital One reste une opportunit\u00e9 oubli\u00e9e pour les investisseurs francophones.",
+    "sentiment_score": -0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Discover Financial Merges with Capital One, Delists Stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnB3T0RLT0N5NWQ1V0NUQmp0a0l2WVh5MnowYmczVVdsRVU1OGdLbFNSWlNqWnhIRWNLakpDY3gzM1I0dUpxcXZ4emZuVGpDUXJhTDJjZWFEZnlwcmo1cmd4T25oY2xzLUwyWk1famlaMVF2OExBcWNHYzNHSUtPUUxra2g0QjNYMFRGcndqR0pfUGk4bExEai1uc0pyRUVjQXMwdFNmdjhBdVVj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Concerns Raised Over Capital One's (COF) Acquisition of Discover Financial (DFS) - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNi1BdDg1OTdYRjhUb0dJTlRib0F6Z0RVSnRJVF9IN1dRSHBBYU5nd2lKNTZOR1l4Z1o5ZC1DNVRuQ21YSGotVXM0Unpjd05UVFZUTWZBNkJZMTdIUGVvZE5hRXRJXzdqRzRmMGpra1Ixc1FhZHpWbU9oOG9TRmw1OEJKMnMtN0pFcG1vSks4MXZwVUFDdFJNdUJ6ZWptbkE3ZkxMX0RoR0RqLTZhci1WcERvWEk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "The Capital One And Discover Merger Remains A Completely Overlooked Opportunity (NYSE:DFS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmZVc0JCN1lMTnM3c2tRU2RQaTB2Ym5kQzJXMXktVlpySGhwTktSTzhUYS1oeDZzMDJzUkJleVFmVkl0SjR3MlNTTjhleF9aTUtYamJvejJSQkRVSUpBVmdpSVdZVjdBNTBCeGc3Q29fRFc2WXNwSFdhYm5UWmlDT0l1dVJnQ1NGc3l2dnAtRnZNWmRqQ2VKQmN4NlBYMTFYdTFtazBPRjlXYmFGUHl6QU1nQ2lrdkpvcXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Keefe reiterates Capital One stock with $232 target post-DFS buy - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkFwRl9zdHNidWtQSnBSYzk3RlRsamh0SkV1cU5GU3lYeUlzckVfNGlvQzFBYkl4aEl5dnhkdlBnc0ZNVElvbVhoeHM4OEpUY1BUQVJPLWJ3ajlxZG9RckJuaGEwclRYMmdvRXBoMmVvTGJPQ0s1NmxxMW83RU85MVNnYURhV25YNlQtMmkxcERxVlRLVm5EOUM4TlRGZDQyMzRxZThjZDZoT3JPeWhOZ2FxQXNLN2J3NS1xUFhEVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Discover Financial Services(NYSE: DFS) dropped from S&P Composite 1500 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNend4LVo0T2xqVUhaN1JfSnNSNDhVVExiaGRnOTJJQ1lCb09LcjcwZVNPUkpNYzdEdUlQUWdHU1dPdHh4TFJyWDlxWURFYVQxYkg4SEpEUWh6M0o1QWhZXzlsWVZvYnhEWW1NckJLajRvVnJ5c19vc1Q4eHlaUVFMajFRU2hXOGhkaF9UZHRybFg2R0lGUzAwUm9KVHFwSXp0NzA2ek5DOXkxclVzalNBNGtZYWxBV1VxdHUyNW9DTndkZXZZUkphYmhiUFlLTGVtNHhQWmNibVVRaTlMbmtBaXdwamhUY2pDOHFLNEZJZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Discover Financial Services (DFS) Stock Analysis: Evaluating the Financial Giant's Performance and Investor Ratings - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYzI5RTFzaWt3T25TSEd3Y2txVm5fbVlPRjZKaE45WmxtMXlEbXZTaTlzZ1ZKaWVua1BzLVhVblFEb1pnQTdBU05IaWpIQ3F4YkNyWjV3dzIzdkdlVGZNMzhiTE92el9fSHRXNWxmdTBpYWdOYXEzbmVXWVZFSnVqNXVlRFlmeHByV2JQSS1iVHZuQ2w3XzA5WTB0T2FLSkNtcHEyRU45Wi1aSElRMExKNUFlNUM0anJZbm9OcHNyMkUwWEZVQWhONVp5dzdlUW11TFkxT0dUUi04d2lwZEYtNFZWcW1GbWQzX3FVZnM5THc0Q2h2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coinbase is replacing Discover on the S&P 500 stock market index: Here\u2019s why and what that means - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2FRREs3RGxPR0xTOFBETmN4VFFIc0k2VXhWSndIWVJkZ25XdTE3M3ZzemZYenRXWHZhdGhpcENyYTg2blVYTlFmalNqZ2UtOTFudWhtMHRiVlIxRjI5czRJX2pzM0htT3JSdjhUVVVmRlZ3eVNFUVNmdjlRUUdVaUhheFMtWmdlU3VzQ2VNTWFhVERaNC1zY3RxblAxYjBxN1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Barclays Reaffirms Their Buy Rating on Discover Financial Services (DFS) - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdXRNLWhDYzVXb0J4d1YtbF9GdXhVbll1clpNeTlGdVh3UzFmTTlCNlVoSFlZdkFvY1FLeUtZMWZiT2FnWFEyRExFQjdlWFVveTEtTDNQLW1MNkZSd2ZJa3pQR3NwX1hoOWV3QUZudVM4blhaei02ZnRJZkh0YTU1d3lvUkRGYndyUnowSjBPV210U3FLRmU3dWtXUU9vWFdaa2R2OFdmcWlaXzc4dl92UHZtYTMtcm9sNks1RHJXY3hmY1JXeDNNNVBoNW5EeF92NkM3eEhQTkxUQVowcU1HZUs3UmFyTzFHaTVnak5B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Discover Financial Services (DFS) a Cheap NYSE Stock to Invest in According to Hedge Funds? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbDNqRFZURTNBU0hJQ1UzSlFnRDJ4REFFMkt2TDZCZjlLdktZYjFyZVY0NERiQ0V6bnVoSlEyeWF2M0gxT3ByOGNyd3ZFVUozbzZNdHFoQnEzOXdiUWExaXlxMVJmRk1XdXZLS1R2c1JNQTNpM29BUjFjVDEzTzF5c0tKdnF1ZE53RENR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DFS Quantitative Stock Analysis - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92eXZXN0Y0Y2dnQkp2NVFTNVotdUQzRzBmbWF6czlJRkxaSHRjZG1FbXZSdzRPZ0tVUzVhdWpYSi1zVG5BcU1YRzBYNGIyWTVaMUxBWU9tczFkZlNFcFBORWZCNHJpWjVMX21XOVk4X19ZNWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Discover Financial Stock Leads S&P 500 Gainers on Retention of Interim CEO - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZmhUeGNmQ2xhMWNVdjlpNXY4T1hLaTU5SEwxWEZGQVJ0R0gtWUoxSzdVbTVFSW41bGZrZkVCTUZoejl0VXFyUnM2NWI2WG03NzBpdEkyRWpZSXlEOERyTDZvbDc3clFtb1NuRk1PaGNjU1pEdEhOZ0VDR1FQSW1YTEFJVFY2TlcwQ2hIa3JLb1RXd3VFUWp6ZTRZRWNQbUl5UVE1UUd5V09KTjFQUTVydWZZRmR0dnM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Discover Financial Services Stock Gets Composite Rating Lift - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkptbXBoU3JBSWdfbFdjaFJIZEdkX0FuRkNvWm5tTFJiQ3VJZnAwYmlieklQOWc3VFV3VEd2ZWVuN2w2Tkt1WUpkUHE1T09VSW9Td2ltaVhqdWNTV0NhX0hoRm4yTDZUaTdWTS15a0xjMklHd0dpeWZDY0VSdGJCQWR0c3lZRDRPczVXVFBMeDd2b0pnY2lr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Discover Financial Services (DFS): Among the Best Stocks To Invest In According to Billionaires - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORk5UX3B5UGR3b3k2bmVRRHhMZm1zU3hCcDFJZ2pOb3ZCRWt0Smx2X3FxazRJTDBWbDZ0WDY0Y3JoMW9Ob3l6amZsU0VDUmY3NF9ZMWUwMmdrNEJ5bVBoV0k1aGp4RTNjdk5Wb1FYbTd0QTBLdTJ1akR0ZmN1X2JxamRSMjRsTjdmSWFN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Discover Financial Services (DFS) Stock Analysis: Investor Outlook on a 5.62% Potential Upside - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmlwN0N6QjlWX0xnTnp0ZU80d1BKOXlHaVoyUzFRN0IwRExPNzdfSjZfZXNCR3RMQXJqUkpua2FaRWtrR18wSS1obUJOSUtoMmN6dGptd3QtSEVRX1F4UzhBSDVsU0I3TWdCTXRFR09qem9YR05VV2JEYm1HQndEN3cxb0Vsa1VHUHZyaFFSaC1seGZmX1h0R3A2TFVhQWxZT05WQ3d3aVFCMEU0Tk02QVFYUHJTX0J4SGR0MUZBX19hcmR6MWpGN3pDdTh1TmZsX2U4M19iNlk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Will Discover Financial Services Stock React To Its Upcoming Earnings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMThkRmtZdHlTemI2WEMzRFJXWGFreWt4RTJKaTlQVDJyWVhmcGtfdTRPU3JSWnVhM0FtSkh4UlREN3VoR0NjaGJmcVJrQTZOSnU4TEo3MXduS0hxampmVlYtM01CYVFmeVphWUlhSlU1RU9HUTQtSGNoUDhvc05paS1CVE05NElwdENWR2g3ZUNSLUhvRXpJQ2oxckkwQ2xSMEVHUG1zbzg5cHRMb0VyOS15UTlxRXlYb0JIU0FDZHBucU9fZDc0OTA0b24wQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Discover Financial Services (DFS) Went Down On Monday? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDFENWZ0ZFpNMlJNTnZvMkQ5THlQRGVPV2tiY0doZ3ZPdDhWSE9nY2hjVkt4Q1NLSGNEeGRJV0pwWGZ5NzFVSUhjR3ZuSUpYUjRicC0ySzl5bVFXOC1ybnB0MXhkMDVBZjZSbUVmZGJlazEzLWZpQkxhUU1Xeng5ZTBKdEpNODVR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Discover Financial Services (NYSE:DFS): Among the Cheap Stocks to Buy According to Billionaires - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeE00X2tsWEJKaGZQdkVOQmdPY2g3ME04bFlqM1hNeVBzZW9vVThvREpVLVA0ZEdSV3pxaHRQRFNRQTRra2Q3MFllampnMXI2UEtNeXBGWE9GOFdYN3dEVm1RTUs2ZHdoZ2Y0U1EwOE5xNmk2ak9OS2JQVm4xajZEc2hvTmNPNnFZRGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Discover Financial Services (DFS): Among the Most Undervalued S&P 500 Stocks to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTW0xbktqVFFDTHl4QThmRWMwSmExWjJMWldnWFpzbWo5VnJJZXFFSW1hQy11Wm9RYy1wdS1mVVZkQzJuWXB6RlU3S0FnUmVEVm1hRHRxd3MyX3FjLXIybG91enFENW50TXFNeV9KdGg5a2pmWHdpSS1QSG93TTFJWjJfZ2libEZ1N1k4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jim Cramer On Discover Financial Services (DFS) \u2013 \u201cI\u2019m Betting on Capital One \u2013 Which Means DFS!\u201d - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmpkbkYyb3ZWcGZlUklTQUt1blA5Yjdna3c0VFhTODNvYVItRWo2bVZlb3cwUm1HNnNLRkJMQmtSWXdNbGFyRnl5TF9xR0NwU0hsb0pSVU1MRnhHLW5UR0lIM0lmZ0ZsdUZvMzNHTGVIVDUwV3ZVWk0zMkRScnlFYjczc2J0WnJvMHFHUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Discover Financial Services (DFS) Sees Improvement in Delinquenc - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWHRoenNhVGd2TFlyeWtSSjg4ODBzbUtGWG83TXJVd3FKMEphNW10Mmp0amxKOG1WYTRva1ZOQ2RNWlZoNDN4MzZDaXp3UnBBSWduMnZsSFVsc3hFanJ4Umg4eUN5Vmk4aVRlTmZXRkdYQjRqelNiWmUzNDRsbzNUeWRvdnZNcjZBMEFqV3FaVGFXSW00STJKMjl3Wi1ieUZWTHN5Y1JvSndqTjVMWUtrcXY2eW5YQUw1TTQyYjVhOA?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 179.29
+      },
+      {
+        "date": "2024-11-25",
+        "price": 182.67
+      },
+      {
+        "date": "2024-11-26",
+        "price": 182.62
+      },
+      {
+        "date": "2024-11-27",
+        "price": 182.56
+      },
+      {
+        "date": "2024-11-29",
+        "price": 182.43
+      },
+      {
+        "date": "2024-12-02",
+        "price": 180.11
+      },
+      {
+        "date": "2024-12-03",
+        "price": 178.43
+      },
+      {
+        "date": "2024-12-04",
+        "price": 176.45
+      },
+      {
+        "date": "2024-12-05",
+        "price": 177.3
+      },
+      {
+        "date": "2024-12-06",
+        "price": 179.22
+      },
+      {
+        "date": "2024-12-09",
+        "price": 176.76
+      },
+      {
+        "date": "2024-12-10",
+        "price": 175.75
+      },
+      {
+        "date": "2024-12-11",
+        "price": 178.23
+      },
+      {
+        "date": "2024-12-12",
+        "price": 175.64
+      },
+      {
+        "date": "2024-12-13",
+        "price": 176.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 176.68
+      },
+      {
+        "date": "2024-12-17",
+        "price": 173.88
+      },
+      {
+        "date": "2024-12-18",
+        "price": 168.26
+      },
+      {
+        "date": "2024-12-19",
+        "price": 169.27
+      },
+      {
+        "date": "2024-12-20",
+        "price": 173.16
+      },
+      {
+        "date": "2024-12-23",
+        "price": 174.51
+      },
+      {
+        "date": "2024-12-24",
+        "price": 176.58
+      },
+      {
+        "date": "2024-12-26",
+        "price": 176.92
+      },
+      {
+        "date": "2024-12-27",
+        "price": 174.6
+      },
+      {
+        "date": "2024-12-30",
+        "price": 172.44
+      },
+      {
+        "date": "2024-12-31",
+        "price": 173.23
+      },
+      {
+        "date": "2025-01-02",
+        "price": 174.2
+      },
+      {
+        "date": "2025-01-03",
+        "price": 176.06
+      },
+      {
+        "date": "2025-01-06",
+        "price": 179.21
+      },
+      {
+        "date": "2025-01-07",
+        "price": 177.6
+      },
+      {
+        "date": "2025-01-08",
+        "price": 175.87
+      },
+      {
+        "date": "2025-01-10",
+        "price": 169.64
+      },
+      {
+        "date": "2025-01-13",
+        "price": 175.68
+      },
+      {
+        "date": "2025-01-14",
+        "price": 180.84
+      },
+      {
+        "date": "2025-01-15",
+        "price": 187.54
+      },
+      {
+        "date": "2025-01-16",
+        "price": 185.04
+      },
+      {
+        "date": "2025-01-17",
+        "price": 187.18
+      },
+      {
+        "date": "2025-01-21",
+        "price": 189.26
+      },
+      {
+        "date": "2025-01-22",
+        "price": 197.5
+      },
+      {
+        "date": "2025-01-23",
+        "price": 200.96
+      },
+      {
+        "date": "2025-01-24",
+        "price": 202.1
+      },
+      {
+        "date": "2025-01-27",
+        "price": 200.33
+      },
+      {
+        "date": "2025-01-28",
+        "price": 199.53
+      },
+      {
+        "date": "2025-01-29",
+        "price": 201.03
+      },
+      {
+        "date": "2025-01-30",
+        "price": 202.48
+      },
+      {
+        "date": "2025-01-31",
+        "price": 201.09
+      },
+      {
+        "date": "2025-02-03",
+        "price": 198.66
+      },
+      {
+        "date": "2025-02-04",
+        "price": 198.51
+      },
+      {
+        "date": "2025-02-05",
+        "price": 201.8
+      },
+      {
+        "date": "2025-02-06",
+        "price": 202.72
+      },
+      {
+        "date": "2025-02-07",
+        "price": 199.77
+      },
+      {
+        "date": "2025-02-10",
+        "price": 195.41
+      },
+      {
+        "date": "2025-02-11",
+        "price": 194.78
+      },
+      {
+        "date": "2025-02-12",
+        "price": 188.72
+      },
+      {
+        "date": "2025-02-13",
+        "price": 190.11
+      },
+      {
+        "date": "2025-02-14",
+        "price": 195.97
+      },
+      {
+        "date": "2025-02-18",
+        "price": 196.28
+      },
+      {
+        "date": "2025-02-19",
+        "price": 203.25
+      },
+      {
+        "date": "2025-02-20",
+        "price": 199.9
+      },
+      {
+        "date": "2025-02-21",
+        "price": 194.34
+      },
+      {
+        "date": "2025-02-24",
+        "price": 193.17
+      },
+      {
+        "date": "2025-02-25",
+        "price": 187.73
+      },
+      {
+        "date": "2025-02-26",
+        "price": 190.22
+      },
+      {
+        "date": "2025-02-27",
+        "price": 191.2
+      },
+      {
+        "date": "2025-02-28",
+        "price": 195.19
+      },
+      {
+        "date": "2025-03-03",
+        "price": 190.27
+      },
+      {
+        "date": "2025-03-04",
+        "price": 178.83
+      },
+      {
+        "date": "2025-03-05",
+        "price": 180.94
+      },
+      {
+        "date": "2025-03-06",
+        "price": 172.67
+      },
+      {
+        "date": "2025-03-07",
+        "price": 167.52
+      },
+      {
+        "date": "2025-03-10",
+        "price": 156.99
+      },
+      {
+        "date": "2025-03-11",
+        "price": 157.77
+      },
+      {
+        "date": "2025-03-12",
+        "price": 163.66
+      },
+      {
+        "date": "2025-03-13",
+        "price": 159.23
+      },
+      {
+        "date": "2025-03-14",
+        "price": 164.26
+      },
+      {
+        "date": "2025-03-17",
+        "price": 152.99
+      },
+      {
+        "date": "2025-03-18",
+        "price": 158.83
+      },
+      {
+        "date": "2025-03-19",
+        "price": 162.21
+      },
+      {
+        "date": "2025-03-20",
+        "price": 164.47
+      },
+      {
+        "date": "2025-03-21",
+        "price": 164.83
+      },
+      {
+        "date": "2025-03-24",
+        "price": 170.13
+      },
+      {
+        "date": "2025-03-25",
+        "price": 169.66
+      },
+      {
+        "date": "2025-03-26",
+        "price": 166.14
+      },
+      {
+        "date": "2025-03-27",
+        "price": 162.51
+      },
+      {
+        "date": "2025-03-28",
+        "price": 158.73
+      },
+      {
+        "date": "2025-03-31",
+        "price": 170.7
+      },
+      {
+        "date": "2025-04-01",
+        "price": 170.51
+      },
+      {
+        "date": "2025-04-02",
+        "price": 175.94
+      },
+      {
+        "date": "2025-04-03",
+        "price": 161.26
+      },
+      {
+        "date": "2025-04-04",
+        "price": 147.04
+      },
+      {
+        "date": "2025-04-07",
+        "price": 150.88
+      },
+      {
+        "date": "2025-04-08",
+        "price": 148.21
+      },
+      {
+        "date": "2025-04-09",
+        "price": 170.85
+      },
+      {
+        "date": "2025-04-10",
+        "price": 158.62
+      },
+      {
+        "date": "2025-04-11",
+        "price": 157.04
+      },
+      {
+        "date": "2025-04-14",
+        "price": 159.07
+      },
+      {
+        "date": "2025-04-15",
+        "price": 160.14
+      },
+      {
+        "date": "2025-04-16",
+        "price": 156.31
+      },
+      {
+        "date": "2025-04-17",
+        "price": 159.63
+      },
+      {
+        "date": "2025-04-21",
+        "price": 165.31
+      },
+      {
+        "date": "2025-04-22",
+        "price": 172.33
+      },
+      {
+        "date": "2025-04-23",
+        "price": 178.69
+      },
+      {
+        "date": "2025-04-24",
+        "price": 187.46
+      },
+      {
+        "date": "2025-04-25",
+        "price": 184.86
+      },
+      {
+        "date": "2025-04-28",
+        "price": 185.5
+      },
+      {
+        "date": "2025-04-29",
+        "price": 185.37
+      },
+      {
+        "date": "2025-04-30",
+        "price": 182.67
+      },
+      {
+        "date": "2025-05-01",
+        "price": 182.55
+      },
+      {
+        "date": "2025-05-02",
+        "price": 190.31
+      },
+      {
+        "date": "2025-05-05",
+        "price": 190.24
+      },
+      {
+        "date": "2025-05-06",
+        "price": 188.12
+      },
+      {
+        "date": "2025-05-07",
+        "price": 189.16
+      },
+      {
+        "date": "2025-05-08",
+        "price": 192.03
+      },
+      {
+        "date": "2025-05-09",
+        "price": 190.07
+      },
+      {
+        "date": "2025-05-12",
+        "price": 202.47
+      },
+      {
+        "date": "2025-05-13",
+        "price": 204.07
+      },
+      {
+        "date": "2025-05-14",
+        "price": 200.11
+      },
+      {
+        "date": "2025-05-15",
+        "price": 200.48
+      },
+      {
+        "date": "2025-05-16",
+        "price": 200.05
+      }
+    ],
+    "current_price_data": {
+      "price": 200.05,
+      "change": -0.43,
+      "percent_change": -0.21
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

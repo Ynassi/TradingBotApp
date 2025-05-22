@@ -1,0 +1,646 @@
+{
+  "ticker": "FLR",
+  "name": "Fluor Corporation",
+  "sector": "Industrials",
+  "market_cap": 6336308736.0,
+  "source_list": "AltScreen",
+  "fundamentals": {
+    "PE": 3.6508539,
+    "PB": 1.7804923,
+    "EV_Revenue": 0.3,
+    "ROE": 0.63646,
+    "ProfitMargin": 0.11139,
+    "GrossMargin": 0.037130002,
+    "DividendYield": null
+  },
+  "technical_indicators": {
+    "RSI_14": 63.24824284210935,
+    "Momentum_10": 7.576178500955168,
+    "MACD": 0.8018847973580989,
+    "BB_Percent": 0.9022238979994764,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8678989312402006,
+    "QualityScore": 0.3469212123219197,
+    "SignalScore": 0.6750740739827739
+  },
+  "volatility": 0.0311686322345435,
+  "beta": 1.241,
+  "return_6m": -0.273276695225865,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 10,
+    "target_mean_price": 46.25
+  },
+  "news_sentiment": {
+    "summary": "Fluor Corporation (FLR) has recently been in the news for various reasons, with mixed results in Q1 and a focus on its strategic growth plans. The company achieved LEED v4 Platinum certification for a pharmaceutical facility, secured a multi-billion contract for a weight loss drug facility, and unveiled a new strategic roadmap. However, the stock has been falling, with investors questioning its future course. The company's CEO and top executives are meeting with investors at upcoming conferences, and the stock has been recommended by billionaire Louis Bacon. Overall, the sentiment around FLR is mixed, with some investors seeing potential for long-term growth and others questioning its future prospects.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "Here\u2019s Why Fluor Corp. (FLR) Fell in Q1 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SOC1pYlNCZURFMzhGcFhXWVZrOGZvb2tJM0JiZFJxMGROcjM0OTZEWFVJUlI2MG5SdWpkV0lheEpKWXE3eDZOS2VyR0taVjB3MWxnVnRmRVV4TlJzd3pfZEY2b0lGNEc5SUQ3LXBGMHFrbEZQbGRRWA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fluor-Built Pharmaceutical Facility in California is First Industrial Manufacturing Facility in Western United States to Achieve LEED v4 Platinum Certification | FLR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNV1dEUVVSUWN4c1NldlZoMDFJOFFSVHNWbk13VHYyVVU2Y2NCRGNPLTA1cV8tc2RldERERVBEbk5yanFkbmQ0UEs5UFZNT2FDNndxLXhRNTh5bF9IZFRSWU4wWG5nTXg4NUMySDhSNF9BY0p0aF9aMlR4N0lGQUk4MTlRRE5JaWFkTlRiQzNqLUFDbTlkbkt1NDZheVVuM2RnSFFjNkJzTlFfZUFmN3JSMTJpUUc1UVBRZkhfeXRqQTJiVXc2R0pxbU8zdFFxZjUzMmd1N1ktTVpGdWhRVTAxcmtzMkozRnJHMVdHSDJwcGx3Qlk3dHJHVEZQc3FoMVdNSjZaVGNlZWxJQzhBaW9pV1l1OHF3azRCaU5YeGYyaUFrYkxTbzNwZEVjaE9sdVdjS2FhTVZSWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fluor Earnings Show 76% EBITDA Jump: Strong Growth Despite $477M NuScale Loss - Key Metrics Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNm8wZkV0enVYQVhLbjlkS2sxVHBDLXJJLTNMRVNXYXVwWlhCYnZlWHBfNC1CSVhUNjViX3hrT0o4c29zZTRPSVktNnYzcXlDWnRZY3E5aldVaU1GOXBqWXRKMk9xRm1KWXBVc0FhTG9wWGE1c2loMUhVUlZucFQ5RnpjTG93Yl83QWZPWHgyYw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here\u2019s Why Fluor Corp. (FLR) Fell in Q1 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa28xNGJjRk5QeUdKUG5tbHlXd2JuS0piSlhMZGpETU1PX0Z4SldLNk5iRGhGLUJ3SEdVVzRSNFRBX3FzZlAtaTg3cWFuV1JqY0ZGUnpLc1RONkV3RkNiQkNETVFXbmJEdmtvMkZnbmx5OEZURkY2bVVRbHB0MFo1NlZhbjNtZlBfTldOajdn0gGOAUFVX3lxTFBrbzE0YmNGTlB5R0pQbm1seVd3Ym5LSmJKWExkakRNTU9fRnhKV0s2TmJEaEYtQndIR1VXNFI0VEFfcXNmUC1pODdxYW5XUmpjRkZSektzVE42RXdGQ2JCQ0RNUVduYkR2a28yRmdubHk4RlRGRjZtVVFscHQwWjU2VmFuM21mUF9OV05qN2c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Will Weakness in Fluor Corporation's (NYSE:FLR) Stock Prove Temporary Given Strong Fundamentals? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlZENmI1emJoNllTZVFQRnUxRHhObXRxcEI1Q0JwVmFFeHhCb1IzRXRhUnhjem5QVm5ERlhoaVRjWHlvZXhfZktpMXVvQkI4Q2tHVVh3bE9PZTB2OXN6UWM3RnRDU0RXWnJ2NGpZcmhZa29GQzFpSEM4b0JVSTR5WmRUeTBhcWFzTWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fluor-Built Pharmaceutical Facility in California is First Industrial Manufacturing Facility in Western United States to Achieve LEED v4 Platinum Certification - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNeC1pcTZVWkZZdnNUVHZQNXRtWE9UNm1XVUNyM054QTAzOW1QaWxPUlV6U0pYVjJGcnl2eXg0Zmltc2c1UDFZUFJYMHFZcEJ6TTlTSk9nSDdGOTRTYVJlTmc4eGhTWXhfN05NTHl6ZEVEVXlfdGFXaUpoWGh4OURib2czOGd6X0M4U3BYc09oUzdDRlVLLUltdVZ5cy1aS3BsUUdaX3Bqa2dPZUlKUnAxUVM2d3hUbjdDSmhKazBla1VOTTFNT0hyTnk5cXo4UFFPMXdKeUg0LUVrMUpSU0tiNDc5RnY1UHBoVXBOY0c2Z01KbmFhNnhHZFRzQmFnOFJJRWdJT0kzdktMR0tndUVVMjN4MA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fluor Corporation Stock: Strategic Construction Exposure Across Key Growth Sectors - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkZ3dXhEVEhsV2hRMHoxaUVHbDVsUF9lMzYwZDBaLVpxME1vUE1haDR5ODNjcGthTEdnOVRLMTN0TWpVRDFOeEVwU21xeGc4aE5hZG5WcGNyQ280UzlQQkdZVVBlVHlGNFhGMGZabVlqLTN5MlFtT2dxdW5Ea2FxWF9IY3FwRmdOX0R5ZlVITkU1RFBjT3draVE1d05mc3p6VTJ1b3k2blhtVWluVGM0YUUyYUFhMGtuZVk2VFI0aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bear of the Day: Fluor Corporation (FLR) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOSWYzVVhueXVMR0h5UVFmODU0a1lxRkxxN0RaZ1llbjdEVlJxWkN6UG9Eb0NEb1Y2Q0d3Nlh4amJlVE9zMzZBUmstRThGbm9YeklxRnNiR0ZYejZSanJDdmtDLWZTenZrSVEycGZibw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mega Deal: Fluor Secures Multi-Billion Contract for Groundbreaking Weight Loss Drug Facility - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2swLVdKZG0xdHA5SFliVm5hSWZmOEFKTXNJTF9KWWoxdHM1YXFybk1WSnk0VmlVVGZULW9sa3h3dzBaSGlSM0NicnhsVE51TEhJSEk4T3d6UjVsUTk5R25PMzd2emc5SDh1QXFZXzZzMmdsMTVjRnBidERGMVd2d21NWEFCUE5GdkhrR1UyOGEtQlNpTkhHTlJfREgzeWJhRGlmZ3BzYVZLekJYWGtraExJTjllMDFhdVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fluor Stock: Low Valuation And Long-Term Growth (NYSE:FLR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmpSeFRqM0tnZ2IxTHdvYVdjcTNUV1FTWTlZNktSdnFwcVJCaWdrU1dFN1pTLVZSQzhVcTVXN0lsZFd4ZTBRaU9TX05HelZTVDMyR012N2t0aEJpRUR2WDRWdy1ObzU3OTJpdDFKY0I0TWp0ZkVRTVVhZDRzc0lsM1RSdVMwb1NTd3FXY3ZCTVg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jim Cramer Prefers Other Names Over Fluor Corporation (FLR) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXI4djg5bkpUZVFIMUZZTl9kZzh2MXhKc29mZkN3aGZsMmoyZV9pMHVQNTVENmhMLWNoUFhwc01GWWhqZE1zN3BIUDV5Tlp6UkN6cXNmbmx0N2xiSmJuQ2tsY2lWVmwzSm12N0FOU0ZVZV9tY0xLQlVicnlRVFVlR0lB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fortune 500 Giant Fluor Unveils New Strategic Roadmap: $16.3B Revenue Player Sets Future Course - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUjRMcW5KODdidjNjSG54bW1odWlYX2R4RVVPaXFTQWhYazRFNWE0MGVwaktnTjdiUU41ek9NUjhucjA2WXZTdmZxMVNhQlBnR1FnWDVGOXhMRjZZQnMtcHNIRDYyNmFHNHEzRDdBUGtZLVdyblpMWWthWkZKZ1J3dlhwV2xTNFpleDdzWXcwdWhXZmhWZnQ2Wm04MjhJbGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fluor Corp (FLR) Q1 2025 Earnings Call Highlights: Strong New Awards and Solid Backlog Amid ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1cDYwRG9PQXNBQUdmQzdRSEV6cjlDME9GdTRvRmhoMUw2cXlFYmFGUWotekdVVHlhN20zWlZzdllTMzl0Vi14TGVIMW9xbm5wcXFibTlXZWxoU1BsSjJ3WnJjR2JwZnlXYXkzb096R1ptMkhZX013?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fluor CEO and Top Executives to Meet Investors at Three Leading Wall Street Conferences - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPblZPd3pmV2s5TElmNUVrbEo2T3RkRmZvMV9nUlBhZVB4X293bjBSaGUyWVBfeTFzMGFHakRTZjVSVUJFel9aZDJNbEtSZkRUdGRENV9oY19tTGd6RWp6Z1JrNFdnZ2lhYkcyLW9OTGFzRVFFb3lrUlBmN2Q2dUw2cWpka2UtcVItbXBpVU5OVno0UzBweVd0Y09iUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fluor Corporation (FLR): Among Billionaire Louis Bacon\u2019s Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEhrNEZ2S3drNFdmenVXVVB3UWltczFlSTR1ekYtRnU0bGJ1b1Bwb2NQa3EtcFhvOEZSdFRzemkxSFJrbnNoZ0xwZnhTS3NDMlNYZkJTbURkelNuNmhQUXNzSmNtVzByUlhsY1ZvNFp6LUkwWUVzOUw2Tk1qb3NaU29mRERHbmtLYXdnc1d3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fluor's New CEO to Lead First Earnings Call: What Q1 2025 Results Mean for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1VWeFMxN2hTUG90UzlOQXFKUWxqeVVQSk9aampxUWxuVGdTWGNqWWxnMFFVY0JJODB1SHpOUkJYNDlkM0YxYWUwZEFZZXpLeWFqUC1RN25zTWR6S1NqT2pwWm1JM2cybjNKaGJzc2k3VGI5NVEwZ2tPNjNCamtYcWZibVZmTjlsLTg2RjVsVnZPVzFISk5zbXRrcm1RaGtDUkVnbUxVeWc0Mkg5ZDVJX1Ftaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Fluor Corp (FLR) Is Plunging in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jWTBRZ0RTNW5BR1liZ1FFc3U4U1A3ZV9uNDVWY0tua25GRmh0ZVhMSm53QURuYVhuOFY4dnBWQnVzbnlQWHZ5ZVBlOUlNaTAxSndOaUd5Q1JfUmpJWXBCYjI0ZlJNazFqMnNxSUd1Q19kUWtQOXdXd3RmRi1PZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Fluor Corporation (FLR) Crashed on Tuesday? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUzZMSUFiS095a1lPSU5EdnpHUWdEWGdfVXZKX0F5ODdYM3cxVDlGUVZjaFhTUEs3RnhXZ3d5QjNHTjRkRF9sNG1uMnFHWXBIeFZhMEVsYzl0dWs0aTROTlhxRHFKdlFFdTZuZ2NDbWR5QkR5VkEySEdaWG5jNFYtYUhURHdDdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Fluor Corporation (FLR) the Best Engineering Stock to Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYW9IWW8tX2ptSldvMFUtYTZyQnlDb0JKN2lsLWJnUy03ODFISkpnZFlZWmhMWVJ4X0JGYUlJZDJDM21UMzhpVjJpM0hpNERHM3h6akEyb3VFSk5uVVVvcVpWRmNGaF91UzJVMm1iWjVKQ3MyeS1YaG5jVEJyd1pMZDUyZGVVWnpRcmdoUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fluor's Q1 Earnings Surpass Estimates, Revenues Miss, Stock Up - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYjEwT3BxMHh4MTVnUVhsbVpraUJBaXZNeF9lSEtHeFN4VWR2eUhjUWZlTngzRGxvMGNSREpYMlVfZnRpR0txT1JfOVBOS3cwNnY5QXpzMXpNYzNMOWhOb2lZWGd0T1A4bkc1Sy14UTZUeC1CSTdmTVpMaG5vRmlFd3Rzd29EaDJEQVE?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 55.79
+      },
+      {
+        "date": "2024-11-25",
+        "price": 56.04
+      },
+      {
+        "date": "2024-11-26",
+        "price": 55.93
+      },
+      {
+        "date": "2024-11-27",
+        "price": 55.25
+      },
+      {
+        "date": "2024-11-29",
+        "price": 56.13
+      },
+      {
+        "date": "2024-12-02",
+        "price": 55.11
+      },
+      {
+        "date": "2024-12-03",
+        "price": 54.7
+      },
+      {
+        "date": "2024-12-04",
+        "price": 56.05
+      },
+      {
+        "date": "2024-12-05",
+        "price": 55.97
+      },
+      {
+        "date": "2024-12-06",
+        "price": 55.79
+      },
+      {
+        "date": "2024-12-09",
+        "price": 55.26
+      },
+      {
+        "date": "2024-12-10",
+        "price": 55.19
+      },
+      {
+        "date": "2024-12-11",
+        "price": 55.83
+      },
+      {
+        "date": "2024-12-12",
+        "price": 55.42
+      },
+      {
+        "date": "2024-12-13",
+        "price": 54.64
+      },
+      {
+        "date": "2024-12-16",
+        "price": 54.63
+      },
+      {
+        "date": "2024-12-17",
+        "price": 53.45
+      },
+      {
+        "date": "2024-12-18",
+        "price": 50.11
+      },
+      {
+        "date": "2024-12-19",
+        "price": 50.08
+      },
+      {
+        "date": "2024-12-20",
+        "price": 50.34
+      },
+      {
+        "date": "2024-12-23",
+        "price": 50.22
+      },
+      {
+        "date": "2024-12-24",
+        "price": 50.69
+      },
+      {
+        "date": "2024-12-26",
+        "price": 50.67
+      },
+      {
+        "date": "2024-12-27",
+        "price": 50.06
+      },
+      {
+        "date": "2024-12-30",
+        "price": 49.34
+      },
+      {
+        "date": "2024-12-31",
+        "price": 49.32
+      },
+      {
+        "date": "2025-01-02",
+        "price": 49.27
+      },
+      {
+        "date": "2025-01-03",
+        "price": 51.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 51.68
+      },
+      {
+        "date": "2025-01-07",
+        "price": 50.54
+      },
+      {
+        "date": "2025-01-08",
+        "price": 49.32
+      },
+      {
+        "date": "2025-01-10",
+        "price": 48.23
+      },
+      {
+        "date": "2025-01-13",
+        "price": 48.11
+      },
+      {
+        "date": "2025-01-14",
+        "price": 48.73
+      },
+      {
+        "date": "2025-01-15",
+        "price": 49.28
+      },
+      {
+        "date": "2025-01-16",
+        "price": 49.51
+      },
+      {
+        "date": "2025-01-17",
+        "price": 50.39
+      },
+      {
+        "date": "2025-01-21",
+        "price": 53.52
+      },
+      {
+        "date": "2025-01-22",
+        "price": 54.26
+      },
+      {
+        "date": "2025-01-23",
+        "price": 55.28
+      },
+      {
+        "date": "2025-01-24",
+        "price": 54.57
+      },
+      {
+        "date": "2025-01-27",
+        "price": 46.34
+      },
+      {
+        "date": "2025-01-28",
+        "price": 46.54
+      },
+      {
+        "date": "2025-01-29",
+        "price": 48.1
+      },
+      {
+        "date": "2025-01-30",
+        "price": 48.54
+      },
+      {
+        "date": "2025-01-31",
+        "price": 48.21
+      },
+      {
+        "date": "2025-02-03",
+        "price": 47.14
+      },
+      {
+        "date": "2025-02-04",
+        "price": 47.64
+      },
+      {
+        "date": "2025-02-05",
+        "price": 47.77
+      },
+      {
+        "date": "2025-02-06",
+        "price": 48.8
+      },
+      {
+        "date": "2025-02-07",
+        "price": 49.34
+      },
+      {
+        "date": "2025-02-10",
+        "price": 50.14
+      },
+      {
+        "date": "2025-02-11",
+        "price": 47.86
+      },
+      {
+        "date": "2025-02-12",
+        "price": 46.36
+      },
+      {
+        "date": "2025-02-13",
+        "price": 44.93
+      },
+      {
+        "date": "2025-02-14",
+        "price": 43.4
+      },
+      {
+        "date": "2025-02-18",
+        "price": 39.75
+      },
+      {
+        "date": "2025-02-19",
+        "price": 39.53
+      },
+      {
+        "date": "2025-02-20",
+        "price": 39.83
+      },
+      {
+        "date": "2025-02-21",
+        "price": 37.73
+      },
+      {
+        "date": "2025-02-24",
+        "price": 37.16
+      },
+      {
+        "date": "2025-02-25",
+        "price": 36.81
+      },
+      {
+        "date": "2025-02-26",
+        "price": 37.71
+      },
+      {
+        "date": "2025-02-27",
+        "price": 37.34
+      },
+      {
+        "date": "2025-02-28",
+        "price": 38.03
+      },
+      {
+        "date": "2025-03-03",
+        "price": 36.92
+      },
+      {
+        "date": "2025-03-04",
+        "price": 35.93
+      },
+      {
+        "date": "2025-03-05",
+        "price": 37.06
+      },
+      {
+        "date": "2025-03-06",
+        "price": 36.58
+      },
+      {
+        "date": "2025-03-07",
+        "price": 36.14
+      },
+      {
+        "date": "2025-03-10",
+        "price": 34.29
+      },
+      {
+        "date": "2025-03-11",
+        "price": 35.6
+      },
+      {
+        "date": "2025-03-12",
+        "price": 35.57
+      },
+      {
+        "date": "2025-03-13",
+        "price": 34.94
+      },
+      {
+        "date": "2025-03-14",
+        "price": 36.81
+      },
+      {
+        "date": "2025-03-17",
+        "price": 37.35
+      },
+      {
+        "date": "2025-03-18",
+        "price": 37.2
+      },
+      {
+        "date": "2025-03-19",
+        "price": 38.24
+      },
+      {
+        "date": "2025-03-20",
+        "price": 37.67
+      },
+      {
+        "date": "2025-03-21",
+        "price": 37.66
+      },
+      {
+        "date": "2025-03-24",
+        "price": 38.92
+      },
+      {
+        "date": "2025-03-25",
+        "price": 38.74
+      },
+      {
+        "date": "2025-03-26",
+        "price": 37.74
+      },
+      {
+        "date": "2025-03-27",
+        "price": 37.16
+      },
+      {
+        "date": "2025-03-28",
+        "price": 36.19
+      },
+      {
+        "date": "2025-03-31",
+        "price": 35.82
+      },
+      {
+        "date": "2025-04-01",
+        "price": 36.35
+      },
+      {
+        "date": "2025-04-02",
+        "price": 37.22
+      },
+      {
+        "date": "2025-04-03",
+        "price": 33.97
+      },
+      {
+        "date": "2025-04-04",
+        "price": 31.02
+      },
+      {
+        "date": "2025-04-07",
+        "price": 31.55
+      },
+      {
+        "date": "2025-04-08",
+        "price": 30.86
+      },
+      {
+        "date": "2025-04-09",
+        "price": 34.73
+      },
+      {
+        "date": "2025-04-10",
+        "price": 33.07
+      },
+      {
+        "date": "2025-04-11",
+        "price": 33.28
+      },
+      {
+        "date": "2025-04-14",
+        "price": 33.61
+      },
+      {
+        "date": "2025-04-15",
+        "price": 33.99
+      },
+      {
+        "date": "2025-04-16",
+        "price": 33.55
+      },
+      {
+        "date": "2025-04-17",
+        "price": 33.96
+      },
+      {
+        "date": "2025-04-21",
+        "price": 33.01
+      },
+      {
+        "date": "2025-04-22",
+        "price": 33.88
+      },
+      {
+        "date": "2025-04-23",
+        "price": 34.44
+      },
+      {
+        "date": "2025-04-24",
+        "price": 35.6
+      },
+      {
+        "date": "2025-04-25",
+        "price": 35.56
+      },
+      {
+        "date": "2025-04-28",
+        "price": 35.02
+      },
+      {
+        "date": "2025-04-29",
+        "price": 35.07
+      },
+      {
+        "date": "2025-04-30",
+        "price": 34.89
+      },
+      {
+        "date": "2025-05-01",
+        "price": 35.78
+      },
+      {
+        "date": "2025-05-02",
+        "price": 35.77
+      },
+      {
+        "date": "2025-05-05",
+        "price": 34.42
+      },
+      {
+        "date": "2025-05-06",
+        "price": 35.11
+      },
+      {
+        "date": "2025-05-07",
+        "price": 34.81
+      },
+      {
+        "date": "2025-05-08",
+        "price": 35.61
+      },
+      {
+        "date": "2025-05-09",
+        "price": 35.86
+      },
+      {
+        "date": "2025-05-12",
+        "price": 37.53
+      },
+      {
+        "date": "2025-05-13",
+        "price": 38.77
+      },
+      {
+        "date": "2025-05-14",
+        "price": 38.72
+      },
+      {
+        "date": "2025-05-15",
+        "price": 38.53
+      },
+      {
+        "date": "2025-05-16",
+        "price": 38.48
+      },
+      {
+        "date": "2025-05-19",
+        "price": 37.9
+      },
+      {
+        "date": "2025-05-20",
+        "price": 38.35
+      },
+      {
+        "date": "2025-05-21",
+        "price": 37.88
+      }
+    ],
+    "current_price_data": {
+      "price": 37.88,
+      "change": -0.47,
+      "percent_change": -1.23
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

@@ -1,0 +1,646 @@
+{
+  "ticker": "SPG",
+  "name": "Simon Property Group",
+  "sector": "Real Estate",
+  "market_cap": 62273191936.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 26.292992,
+    "PB": 21.015654,
+    "EV_Revenue": 13.095,
+    "ROE": 0.67307,
+    "ProfitMargin": 0.34248,
+    "GrossMargin": 0.8237,
+    "DividendYield": 5.11
+  },
+  "technical_indicators": {
+    "RSI_14": 56.70078050360014,
+    "Momentum_10": 2.070835603789899,
+    "MACD": 1.8121487594011112,
+    "BB_Percent": 0.7790477061921562,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8523993776872797,
+    "QualityScore": 0.3809818871574147,
+    "SignalScore": 0.6439631680578681
+  },
+  "volatility": 0.0205742678696402,
+  "beta": 1.462,
+  "return_6m": -0.0649519156325347,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 18,
+    "target_mean_price": 185.94444
+  },
+  "news_sentiment": {
+    "summary": "Synth\u00e8se :\n\nL'entreprise cot\u00e9e Simon Property Group (SPG) a \u00e9t\u00e9 le centre d'attention r\u00e9cent pour les investisseurs francophones. La plupart des articles ont examin\u00e9 la performance financi\u00e8re de l'entreprise, mais il y a aussi des discussions sur ses activit\u00e9s de M&A et de divestissement. L'actualit\u00e9 globale semble avoir eu une influence n\u00e9gative sur le sentiment du march\u00e9, avec des prix de baisse et une volatilit\u00e9 \u00e9lev\u00e9e. Cependant, les experts sont g\u00e9n\u00e9ralement optimistes sur la capacit\u00e9 de l'entreprise \u00e0 r\u00e9cup\u00e9rer. Les signaux forts sont le succ\u00e8s des lev\u00e9es de fonds,",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "O vs. SPG: Which Retail REIT Stock is the Smarter Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwZi05M1hYdGJmWXg3cWV3VXJEZGdBTHdhMFFWRGJGZFd0a1MzZGVEczdackcweEJDRkluTUdEX2l4ZmtEaWM0MVdrTlZVSVRsaHZKaENjcDdkc05kQVpQNXljakNsX0ZCNEFsbGxPTmJFUEVX?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Simon Property Group On Sale? - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLRGR5SkY0SHNaUHhNZ0hQR2p3ZExyLXFLOHFWTUZHN0tkXy1EX1IxMUJzNi1sYUFTemVfa3ZxWWlNb2w2dlZrMEJUTXliSE5aUTY0WG9Jc3MyQVFwMXFPRmE0WWtFTTUyRXZZTVRRNkoySXRoQXN2NkxIYjE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EPR vs. SPG: Which Stock Is the Better Value Option? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DekZWXzJaQS1HQUU2bHJHMHN0U0N5TF9rcldrM3E1RHVHMnFZUE5DeWRlSlNFY2kxNXQ1R2dfQmpScHVxYXp5M3U0NnhWVWgybzlsOHFPRFAxVzdDbFBtUW1HSTBodzZMLUVZMDBzVWRQU1dmM3ZNVUc5WXR0NWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group (SPG) Target Price Raised by Stifel Analyst | SPG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFdhaWtaaU1VV28weERJWEU3aWdMYW9CQW9ycTN2Vy01d0Z5bHBsYXdTVl9DdUxRZVhxVEtvc3pwT1ZMVmpVMDB1dEdHYXpJNkY5M29GSHh6WkpXTkZ0QktDcWsxUFBpSkV1U2RWZjFBb3VGektUcEttemFoYnlwVTNhWHozRjg1cy1VaHloX0V2cEFNVkoyTUYtbTFFcTNfdUtjMVo4YmtQUVBlTWNZQ2l5S2ZrVC1q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 No-Brainer High Yield Landlord Stocks to Buy Right Now - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSk84VGhvbXMwamlpbWpjQkNlUFctZ19sMWpwZWh6aDl4Z0hiMEV1SkFWMmRKUGItaTk5S1pZenJwaUpxenRDUmdqLWswR3NVOWxHbkQ4elVMeFN3V2ZDTFZpWEl3MHJQanVpX0xJaVZIX1N2QU1fZzNqM0xXRXEyT3BUYUdmMWlUNE1nY1lHc1BPYlNVTUR4di10cTB4dngzVmUyd2VjZS1OZkU0UXBZbTZyMU1OYTA4bEJYTVRLWUZVN1o5OFppSnptR1R4NUtPN0JNa3lwZzE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SPG stock touches 52-week low at $139.2 amid market shifts - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3I1N29FOFM4czNtVEVZeUJkdlh5bG90TzhVYU5BeXRiZ0pTU0xlQ2gyVU1vSjlHUS1HYnlNMnQtY0dTU1ZQWmRxYmFDd2piVnF0dFVPdG9kUC0xNmwwOGFTWkVuUExnMHREQXIwaE5iUlV0NVRiVVE5dnBpMWY5ck5Wb0ZHQlFWMFBKTldzaEItSlpaajQ5M0lOQjZUWURIUlk0U1ZKaU1KS0FZTmx1YW53?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Simon Q1 2025 Earnings Preview: Major Retail REIT to Reveal Latest Property Performance - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFBQYi1oX19tUWJsREJqakhaYmljOV9rWlBLYnpRVmM2cWVuSElIWHFvNmx4M0N0MmtfMWtHZHM2NUpzandfdnBiRVRoT2Jlc2FsdElUMUJac1VDdEppSWZQaFREam41N2R5RWR6MWNDcjM2N3F5ZjhCc1d2RUJ0MkpqN1AzRzQ0U2NIR2k2RGc5UVBYc2RyQkVxZU40Vm9RNXRkTWNobkhMMWVUc1N1bmU0M2ZzTV9zWldlVVZZSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Approves Redomestication to Indiana - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeHFPcGhWUC1XQWhsV3JyaUFySGIzZU1pamhvVmZncDlxaV9zam92Wk5oOHluRWdnc0RZXzlKWGpva1k0UUZSeDJYbFhJckZkdGRQejFWeVY3Ujktb2NMSnN3TktjOFdLdllfZU84b1pVbGVPR1ZreDhwRHpYX19nUHJnekNrUi1SR01qeHk4ZkRyc2VDVUpjelRLUFZiT1FiU2prcg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group, Inc. (SPG): Among Large-Cap Stocks Insiders Were Buying in Q1 2025 Before Trump\u2019s Tariff Shockwave - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9INUducEVQdFcwS3QxNWpTbjZvdm5JWkdMbnFlZUhqdkcyaFQxOGlMN01mZ3dkNkhjQUg0c1RZRDlkQ0loY21sMnlXOWh4RGJ6SmtTSWdzZUVrT1pjUkV1cnVzYWxnY054cHIwcmZMaTFaeXo1d1ZuMko0Zng3S1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group (SPG) Announces Successful Redomestication to Indiana - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcENENmcwcHFodEJCei1Sbkdrc0NqeFRRQXR4aFVzR2hIeTNlZ3ZWbHJ0X3AzZTdHN3pqV3VmNXNVVlJoN3Ita0JVel8xWmwtX2pUdlNOQlR4T0dhaVhaWnVld2VjaXIzbUZneHZyVDVTODZxTV9RelFIeUZZNmdWZjBlZGZPaUU3MmtIMUx2SzJpTVJQTlV6cFdyVmh5czVyc0xKSVNsOTNLZGJjY3A4Mg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SIMON PROPERTY GROUP Earnings Preview: Recent $SPG Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUkNCc1F3UVZlbWtJb3ROb1E2cTR6d242Y0s4bVFPLU03cW1vWnNEWWVpTVNJQ3N3Ym9PZnZ5YVdDZXV1LXRaZ2gzZUN4MTFtc3dIbHVld0ZHRG5LSkppSHlGS19JNmJUSFhGTkE0V09WQUt4MGwzRFhScnpzUWRFRXRyUDIwcS1sN3BYUVhvRWFjdHdWSUZLVzJ4VkJSSlpmcjY5Vmd4eE5URUVpZ3ZQYjdnazFaRi0yMVNDYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group: Price Drop Creates Opportunity - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcTBNRkdvR2pCeHV3T05SNEdWZWVaNjNHdzhOQjNjenBzMV9BaW9UNE1td1JCWjFnSUhHUlhBQzFNaE9yaTE5ZWkwc1Y4NXJhVVZhU2NRNHF6VEYwZFFfa0w0UkJWQ2QtNUNnVWNpNXQwQWh6RjBFOVpfcVZOMTFtQTAtNzVBc3pZN05Jc0hQUy1yTFVOOGpR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jim Cramer on Simon Property Group (SPG): \u201cShould Be Bought \u2014 And Bought Right Here\u201d - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU0FSQW5CaWdZX2xQYlB3TnVUX3pkUktCYy1nbDJNUVB5anlVczl2enREUEpvWlRRSVRQMWJlQm4wQnpNSUNTZ05MTERacFE1V1RPVlRjY2h5S0dIclJnQkZZaTdHNnZ2X2QwUi1qREhrNFZ0SHFrTnZ0QU9fS2gzU29EVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group's Series J Preferred Stock Shares Cross 7% Yield Mark - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjlMSW5ZeDFVSVVlUkMwbFQtenpaSVFLYXQxcFVQa0tEVEF0MzZKaURrcDIwMzVyRHJVRkZwekJhY0UxMVIySm1wbUx5ajNfeUJscVdaTE9iNHRYc085Z0lSYkVLTy1YTXpqQllMTFhyOFIxMXd0QXh2enZlWk9ObTR2NnBpMVNxVVFVUUpPTDg3Ni1wMVUtTFdQaFBQUWRFQ095bmdDVHlBdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stifel Increases Simon Property's (SPG) Price Target to $180 | SPG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejBBR3FNOVk1QkRob1J2SVRQV3pDRXhaVldsWFBlb2pEc1JNY2d4TEhxWkI0ck53QnBidEUyWXJGcFJWM1Azbk1ORXdyT2s5ejkxUDN2QjJoMzZkcm5RY3BFUTB5REVkbzhGbkVQYkU2WG1JSGcxWlkwZU5PQnV4NzVVN1RNWWh2SGhNaklHZjMxQmdiV2VpbUV3ZmIxMGZaUTdCZUxVLWpLVk1ZNkY4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is it the Right Time to Retain SPG Stock in Your Portfolio Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSnRMMHZuS1dsdTRaZ2FXWmw0b2FPZEpOOUdPaWlXYk9hNUpVTzRwelNPWGYxX1F6RjlkazFXTTNrQkR4bXNuMmtTXzdMVG1nZjFqVGR0aFltRWlQZ1M2S2xjR1lQX0tMd256aU4tU3ZLVnc0dEVVdHQ5U2MxQlZPaUVvNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group, Inc. (SPG): Among the Dividend Stocks That Are Outperforming the Market in 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HYUVDVkZnRFVxQURFbHdZQzQxYmFRNXZvMnhJRmFRTTVqYmZCaER2TkxlclcxMmg2aGtObFRLOVBXai1peFljaG5JaGNzc1VjblJjYTBJcGR2MjhFQUxvWFNYWVpmVDRaYnUtRE5PMFowQWU0TTNHZE9xcWFUQmM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Simon Property (SPG) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHRYdC1iSENGaWZ5ZU9idlFfUDBkQjB0WG1mTFBGMU52X0V6R19CNDhidUNMcE9WS09pX0tweUVkM3V2dU9UR3hmOFdkMDk3RUNESkpmeVNfQTlXV2Y3MDI2dEJERFB0c1NiQmFBbzY1TFgyMzMtN1kyNnVvZVREUXBQb05uUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Recommends This REIT Dividend Stock With 5.5% Yield - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVjVFVWhWODJmWXQzQ21Ocm00NEc2aEhyWGJNMVRnclBTZERpXy1Zdm53VUo1cTlCMHpIRXRwSjNMYkpyUDlRTklZQVZMWmRUTDhSZU9qdmNCTjJlWDJhS0NmUHZRNjQ3ZkVScWxzbnhQZTZ4R3lDYm1MREtlanQ4al9Kak1ieXl6?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Simon Property Group, Inc. (SPG) the Best REIT Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVaEFFTFpHMkFILXp3aXZ0NXBXTHpfRXhIc0lvNXJEVndZUXlvb3ZfSzFoXzlLc2hrSENKZXpWS0VzN0JtcjRUM0JpRGpuRFRJemRfSnZ4YkUyRGtQa1otdEZCZkZ4d2swdE11R0JvdHRaSm1LV2J4Nndud2JwRGc?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 181.14
+      },
+      {
+        "date": "2024-11-25",
+        "price": 180.11
+      },
+      {
+        "date": "2024-11-26",
+        "price": 183.46
+      },
+      {
+        "date": "2024-11-27",
+        "price": 183.75
+      },
+      {
+        "date": "2024-11-29",
+        "price": 183.6
+      },
+      {
+        "date": "2024-12-02",
+        "price": 181.37
+      },
+      {
+        "date": "2024-12-03",
+        "price": 180.63
+      },
+      {
+        "date": "2024-12-04",
+        "price": 181.51
+      },
+      {
+        "date": "2024-12-05",
+        "price": 181.88
+      },
+      {
+        "date": "2024-12-06",
+        "price": 183.84
+      },
+      {
+        "date": "2024-12-09",
+        "price": 182.11
+      },
+      {
+        "date": "2024-12-10",
+        "price": 179.23
+      },
+      {
+        "date": "2024-12-11",
+        "price": 176.63
+      },
+      {
+        "date": "2024-12-12",
+        "price": 177.2
+      },
+      {
+        "date": "2024-12-13",
+        "price": 179.6
+      },
+      {
+        "date": "2024-12-16",
+        "price": 181.93
+      },
+      {
+        "date": "2024-12-17",
+        "price": 179.96
+      },
+      {
+        "date": "2024-12-18",
+        "price": 171.51
+      },
+      {
+        "date": "2024-12-19",
+        "price": 169.26
+      },
+      {
+        "date": "2024-12-20",
+        "price": 171.61
+      },
+      {
+        "date": "2024-12-23",
+        "price": 171.38
+      },
+      {
+        "date": "2024-12-24",
+        "price": 173.35
+      },
+      {
+        "date": "2024-12-26",
+        "price": 173.8
+      },
+      {
+        "date": "2024-12-27",
+        "price": 172.01
+      },
+      {
+        "date": "2024-12-30",
+        "price": 170.87
+      },
+      {
+        "date": "2024-12-31",
+        "price": 172.21
+      },
+      {
+        "date": "2025-01-02",
+        "price": 173.53
+      },
+      {
+        "date": "2025-01-03",
+        "price": 176.07
+      },
+      {
+        "date": "2025-01-06",
+        "price": 174.41
+      },
+      {
+        "date": "2025-01-07",
+        "price": 174.17
+      },
+      {
+        "date": "2025-01-08",
+        "price": 174.69
+      },
+      {
+        "date": "2025-01-10",
+        "price": 170.96
+      },
+      {
+        "date": "2025-01-13",
+        "price": 172.8
+      },
+      {
+        "date": "2025-01-14",
+        "price": 173.57
+      },
+      {
+        "date": "2025-01-15",
+        "price": 171.75
+      },
+      {
+        "date": "2025-01-16",
+        "price": 172.71
+      },
+      {
+        "date": "2025-01-17",
+        "price": 174.14
+      },
+      {
+        "date": "2025-01-21",
+        "price": 175.96
+      },
+      {
+        "date": "2025-01-22",
+        "price": 172.9
+      },
+      {
+        "date": "2025-01-23",
+        "price": 174.86
+      },
+      {
+        "date": "2025-01-24",
+        "price": 174.25
+      },
+      {
+        "date": "2025-01-27",
+        "price": 176.7
+      },
+      {
+        "date": "2025-01-28",
+        "price": 175.62
+      },
+      {
+        "date": "2025-01-29",
+        "price": 173.63
+      },
+      {
+        "date": "2025-01-30",
+        "price": 175.79
+      },
+      {
+        "date": "2025-01-31",
+        "price": 173.86
+      },
+      {
+        "date": "2025-02-03",
+        "price": 173.41
+      },
+      {
+        "date": "2025-02-04",
+        "price": 173.35
+      },
+      {
+        "date": "2025-02-05",
+        "price": 179.11
+      },
+      {
+        "date": "2025-02-06",
+        "price": 180.17
+      },
+      {
+        "date": "2025-02-07",
+        "price": 179.94
+      },
+      {
+        "date": "2025-02-10",
+        "price": 180.56
+      },
+      {
+        "date": "2025-02-11",
+        "price": 184.38
+      },
+      {
+        "date": "2025-02-12",
+        "price": 183.88
+      },
+      {
+        "date": "2025-02-13",
+        "price": 186.22
+      },
+      {
+        "date": "2025-02-14",
+        "price": 185.05
+      },
+      {
+        "date": "2025-02-18",
+        "price": 186.04
+      },
+      {
+        "date": "2025-02-19",
+        "price": 185.93
+      },
+      {
+        "date": "2025-02-20",
+        "price": 186.71
+      },
+      {
+        "date": "2025-02-21",
+        "price": 183.8
+      },
+      {
+        "date": "2025-02-24",
+        "price": 184.65
+      },
+      {
+        "date": "2025-02-25",
+        "price": 183.8
+      },
+      {
+        "date": "2025-02-26",
+        "price": 184.24
+      },
+      {
+        "date": "2025-02-27",
+        "price": 182.58
+      },
+      {
+        "date": "2025-02-28",
+        "price": 186.09
+      },
+      {
+        "date": "2025-03-03",
+        "price": 187.78
+      },
+      {
+        "date": "2025-03-04",
+        "price": 183.58
+      },
+      {
+        "date": "2025-03-05",
+        "price": 183.38
+      },
+      {
+        "date": "2025-03-06",
+        "price": 174.54
+      },
+      {
+        "date": "2025-03-07",
+        "price": 171.1
+      },
+      {
+        "date": "2025-03-10",
+        "price": 165.29
+      },
+      {
+        "date": "2025-03-11",
+        "price": 163.48
+      },
+      {
+        "date": "2025-03-12",
+        "price": 165.83
+      },
+      {
+        "date": "2025-03-13",
+        "price": 159.48
+      },
+      {
+        "date": "2025-03-14",
+        "price": 161.21
+      },
+      {
+        "date": "2025-03-17",
+        "price": 166.86
+      },
+      {
+        "date": "2025-03-18",
+        "price": 164.8
+      },
+      {
+        "date": "2025-03-19",
+        "price": 164.8
+      },
+      {
+        "date": "2025-03-20",
+        "price": 164.45
+      },
+      {
+        "date": "2025-03-21",
+        "price": 162.1
+      },
+      {
+        "date": "2025-03-24",
+        "price": 166.12
+      },
+      {
+        "date": "2025-03-25",
+        "price": 165.76
+      },
+      {
+        "date": "2025-03-26",
+        "price": 168.45
+      },
+      {
+        "date": "2025-03-27",
+        "price": 165.85
+      },
+      {
+        "date": "2025-03-28",
+        "price": 164.28
+      },
+      {
+        "date": "2025-03-31",
+        "price": 166.08
+      },
+      {
+        "date": "2025-04-01",
+        "price": 166.47
+      },
+      {
+        "date": "2025-04-02",
+        "price": 170.41
+      },
+      {
+        "date": "2025-04-03",
+        "price": 153.18
+      },
+      {
+        "date": "2025-04-04",
+        "price": 146.05
+      },
+      {
+        "date": "2025-04-07",
+        "price": 143.34
+      },
+      {
+        "date": "2025-04-08",
+        "price": 140.37
+      },
+      {
+        "date": "2025-04-09",
+        "price": 153.18
+      },
+      {
+        "date": "2025-04-10",
+        "price": 147.69
+      },
+      {
+        "date": "2025-04-11",
+        "price": 148.2
+      },
+      {
+        "date": "2025-04-14",
+        "price": 149.87
+      },
+      {
+        "date": "2025-04-15",
+        "price": 149.37
+      },
+      {
+        "date": "2025-04-16",
+        "price": 148.05
+      },
+      {
+        "date": "2025-04-17",
+        "price": 150.4
+      },
+      {
+        "date": "2025-04-21",
+        "price": 147.2
+      },
+      {
+        "date": "2025-04-22",
+        "price": 150.71
+      },
+      {
+        "date": "2025-04-23",
+        "price": 153.28
+      },
+      {
+        "date": "2025-04-24",
+        "price": 156.2
+      },
+      {
+        "date": "2025-04-25",
+        "price": 156.66
+      },
+      {
+        "date": "2025-04-28",
+        "price": 158.51
+      },
+      {
+        "date": "2025-04-29",
+        "price": 156.8
+      },
+      {
+        "date": "2025-04-30",
+        "price": 157.38
+      },
+      {
+        "date": "2025-05-01",
+        "price": 158.87
+      },
+      {
+        "date": "2025-05-02",
+        "price": 161.77
+      },
+      {
+        "date": "2025-05-05",
+        "price": 160.86
+      },
+      {
+        "date": "2025-05-06",
+        "price": 160.17
+      },
+      {
+        "date": "2025-05-07",
+        "price": 161.47
+      },
+      {
+        "date": "2025-05-08",
+        "price": 163.01
+      },
+      {
+        "date": "2025-05-09",
+        "price": 163.19
+      },
+      {
+        "date": "2025-05-12",
+        "price": 171.44
+      },
+      {
+        "date": "2025-05-13",
+        "price": 160.88
+      },
+      {
+        "date": "2025-05-14",
+        "price": 161.18
+      },
+      {
+        "date": "2025-05-15",
+        "price": 163.03
+      },
+      {
+        "date": "2025-05-16",
+        "price": 165.12
+      },
+      {
+        "date": "2025-05-19",
+        "price": 164.49
+      },
+      {
+        "date": "2025-05-20",
+        "price": 162.94
+      },
+      {
+        "date": "2025-05-21",
+        "price": 158.12
+      }
+    ],
+    "current_price_data": {
+      "price": 158.12,
+      "change": -4.82,
+      "percent_change": -2.96
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

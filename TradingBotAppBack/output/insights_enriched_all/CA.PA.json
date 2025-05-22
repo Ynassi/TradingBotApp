@@ -1,0 +1,654 @@
+{
+  "ticker": "CA.PA",
+  "name": "CARREFOUR",
+  "sector": "Financials",
+  "market_cap": 9180077056.0,
+  "source_list": "CAC40",
+  "fundamentals": {
+    "PE": 13.2429905,
+    "PB": 0.8457177,
+    "EV_Revenue": 0.294,
+    "ROE": 0.06099,
+    "ProfitMargin": 0.0083,
+    "GrossMargin": 0.18274,
+    "DividendYield": 6.41
+  },
+  "technical_indicators": {
+    "RSI_14": 69.04850162277583,
+    "Momentum_10": 3.695573478599835,
+    "MACD": 0.2065019287687555,
+    "BB_Percent": 0.957995484562922,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.9026214491360124,
+    "QualityScore": 0.3498641616574631,
+    "SignalScore": 0.575361383196511
+  },
+  "volatility": 0.0151416354558596,
+  "beta": 0.592,
+  "return_6m": -0.0399729094470743,
+  "analyst_rating": {
+    "recommendation": "hold",
+    "analyst_count": 17,
+    "target_mean_price": 13.89412
+  },
+  "news_sentiment": {
+    "summary": "Synth\u00e8se courte:\n\nLes titres couvrent diverses entreprises de l'industrie a\u00e9ronautique et de la distribution. Parmi les informations cl\u00e9s, on trouve le d\u00e9veloppement des entreprises turque, indienne et a\u00e9ronautique, ainsi que les investissements de soci\u00e9t\u00e9s chimiques et pharmaceutiques. Le sentiment global, notamment les tensions politiques, est fortement li\u00e9 \u00e0 l'\u00e9volution de ces entreprises.",
+    "sentiment_score": 0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Can Frontier convince financial markets that it's a 'premier ULCC'? - CAPA - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1kwUWxnZDNYYXMwU3BBZWROLUtQNnJJNU5BRkJPZHc1XzBGU1BNZWpUQVBIb05OOWw3MC1WdmxLeUIzWllobXBFQ0ozcy1jV2tubzVEZFdmbVA0TWNnS25iTTM5WnE5YzEyblp2U25PQ2I4RUxjVUgzaEd4dG1TM1BEUEFFNkNab3BzSEVUdTVZY0lWT2poMnRaVmpWYUl4UFR1YVlRYkxNaDFfOWRFVHFhcTN2UGpE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Turkish Airlines SWOT: profitable growth continues, network balance improves | CAPA - Centre for Aviation - routesonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdUlEYlluVzY2WFJ0U2pGbzVkdlc0ZXhZbWNxanZSdHlQdjdBNzNldkIyb09tTC1nZUtpRW5UeTEyVUNmSmthd1pvV2REenN0NVNDMWg2eFdiWW9NaGRfOU9WcTNSQ09VdmVzcGRiX1hLb2prbjFSTHNsdFZXblhlV3p6bzRPSTQzbFJBaWhYSUtqZFZBZk1DUFVSY2kwSUJqbDZTa0ZsMkhabnk1LUFOWVNMU1JPRUprWXREcDk4aWZnV3ZQOTl3QzhfZmtid1pEV29jTk1BcDRSUFFmQ1E2OHM5WUlnUmZJRi11UUtsYXdYdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Carrefour shares fall as retailer's 2025 outlook disappoints - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWThHUjlVVElKektRM0NRMEQ1MWgwbzVkNC12WGktYzVQSGRiZHJEaXFLTmtEaUxodVFfNFFZMGFyN0hiQU0yOFRublpKUVdibDZSQU1Dc194WHJhRGY1emRseHZNSXE0TzNwa09FeUt6X19uZmVZYVpDeTkweXZWdGh0cWFzZkwtZG9fRnhR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "IndiGo wins 2024 Airline of the Year award by CAPA - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZThmSDR6ejAxSUM4WWt6d0g0MnQtYVhoMTMzb2xtZ3NjeDZScUVmUHVWQ0xLSFVLbWtmWHVXSzJaREo4WW5OWTh2bEVncHhobEUwLXpMclFJZ2ZGQUNEM005QlVMcmoySE5TejlmaEVLTUlQYVBucTFIbU9pR1ZDR2JtWllvQkxwOV9ndC1Nem1mdktRVk1ZR0doVU1ENld2b3VzU3ZrbFR0cHhnNGhlOS1rY1ZpQ3ZxQTRVRHFKRi1kbE9nMDFIWlUwaTF1UjNhRTEya05PU19tTnpmbzlzXzlNM3ZmNldTYllSWEhPczRoV0Uw0gH6AUFVX3lxTE1zeGozay1sekQwQXZ1ZEphLUNHT1dmWmhyMktWNzRyVWtPZ0FaaWdBQXJxVFdsSFI2TV9maEw2bFJGX01sTlpmaHNaZlQ5Y2ZRU3JoTlRTNXVxREJqOFdlRGdRa1JZWWc4M0hLX0dUOFpxdmtaYjBtQXRLbnl5RDJCNFcxbV9QckpTS3BaaE83VmF2bE9lQUc5aUVqakZpWm5VNTJPVzRnUkFNV3g4QS1CSC0zbUwya053U1N6SnM1T0pIbUNnZE5rSENXcURFR1doWEJ0T1JpcmZlTERuWDRnR3J4VGg4QjNiTjBQZzRjQWQxYkJiejNqNHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "airBaltic: focused on Baltic air connectivity. IPO may slip into 2025 - CAPA - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2pBTFktY2picTNkMDVWNXNaZ0UzZUFhZnJKMDJsM1B6Y0RKWFFEbkp1b3RzWlNfcFNMZ2lZTmhXX3ZieTMzY0pXU3ZGUV9yV3VNS3Q1QjF1bTlaWUg1c0FtLWdsOVRhUzlfLTNlY3BaTUpDWjEwY1VSWVE1VFdpaGtYX0NVOHRVdElBcHJrTW1haGxqSHg4YXlfd2JYUzdLenk5Uk5hb3NKamJuNGQyb2NFSU4wejNmREM4T1pn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ingevity partners with Ultrapolymers Group for European sales of Capa\u00ae caprolactone Bioplastics - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVU5xNzFHQnpyaEpyVS0ya1FZVFJnUVY2bWhDV3RTM010Nm1tQkhBLWhYMGVjNjl5WVFaRXRTWVlXd0Y0alFOOVE0bFNSaTRuaXFmbWJGUkc1YVo5SkFiQ0ZaTS1OdjQ3aE05TXBDcW13REtnQzcxNlFNR09wWUJQWVZodGNJbk56UGFUNTc1d0U4aGtRRUhHOG1zWEVjUnFFRnFtbjdCb1JtNmRVU0RwZjZ0UVY4cll3TGNucDBiVXZkN2lFNTNxZ2lfd3pfdXFBR3kxWjA3T21sdURGMmhNcVRfQWF6OFhIdnBiN193?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CAPA neuropeptides and their receptor form an anti-diuretic hormone signaling system in the human disease vector, Aedes aegypti - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lV3ZReC05Sl9zLXhUQkpSMVZrbzQ3OWVNSml0UHh4NERpVThGdC1ENWRlYm1kX1kwcmpjcnYtb2JuRWtCT0VwN0d2Qm9zOVN1TVVvc1BrNTRRRlpiaXJV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Honeywell - The Future Is What We Make It - Honeywell",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yT0I3VzFhM3hGUE9rSHZuM0czSnM4QVFjSTY0dm5ueU15dDgwTXMwY19KN0JVdWZ3Mmo1aFFyNS1NWEtvTEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CAPA doesn't have to be a four-letter word, Medtronic Quality/Regulatory Director Kathryn Merrill says - Medical Design & Outsourcing",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjExNVNaZ215c1E5WHk1N1dxUk9WOU9QaUZrcHhaOFBfUnQ3Z0d0elE4a3N1Ulk3NDBkdFBHcnNmTUVnTFoxUXU2Wm0xV1NpeWI0a3BFM2Y0bll0VkRpNmd6VEtKd09ob1hMcUZheEZweWhyTTRqUHllb3MzZFZJaHZSOFBwT1ZLN0hkcGFjTFMwLVlEdDRnM0dQQ2Y2NlByTmhSMWhhc0Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIG Insurance Home | AIG US - AIG",
+        "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5qNFNNMjk1cXNvQ2psNlp0enNKdUQ0RmRCck1vSTdUN2N1SWI0MWRPV2k0ZDNTdEdGbnVOQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CAPA announces \u2018Tier 1\u2019 program for parts identical in all but branding - Repairer Driven News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0RMMGs2NGQxemlYa2xTR0VEZnJucU5hQmNWSEZ3U3IxSW42TlA3RllxRUxaT183bjJBWXBWbHZ4LTVXVnp0N09lMFJuRDhyMFc0dHpOdWJiVE9ITnlOaC12SFdwcmNRVFJ6M1c3dWx1TWRpU0p2THllajcwRE1weW5xbkFVX2N3aWI2aFVXSWhOLTJKTDFlZjhSNFN1WEZFdU9pZVpmTmRGWW9hczBNMmowbGFOYlU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CAPA Perspective: Aviation\u2019s Sustainability Question - Aviation Week Network",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU19yRzRsWllPZ21sbFEyWUUzaHpTd0tqYkRZQWstek1VbERpNWVqSEI3TXEyTkdCRXllRW96dXJWR1pEdGZidUFYb09STW9PNFNjRlhkT0xvREUwSmlXOERPTFBja1Y2TGpEMklQWHVGTkx0d1VVWUc5WnhZZHFrMnRONnBFRzR3WTVMU19NSmlzbU04YmsweWg1bWdhSGdfY0ZDa1pNbFZTdXhmR3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "India aviation industry losses to widen to $400-600 mn in FY25: CAPA India - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPazVFbzYzRk5qNmtEQWg3dHA3NmlxRDE4ekFwZ0twRTBvNmVCWndSTWFGLUptdFVfSGZ3SDZueF9fXzlsV2ZUNVJJSE9sXzhKSXVYZGlSWEptR3FrdTdpUWxIZ3dPTVMwMVR4WDE5TEdORU5UQlZQUEVQSXlnTm5Ob084X2FUaUZjTEpPR2J3RlJPaWZzT3hJMkRwb2FKeVhabG5vMmxWQ0Z2em9FdjR3VGtZOW1fQURXZU0xV0FjMVAzUVJ0N1JHQWw4bk5DMUo2OEM4SjNHQdIB3AFBVV95cUxNejlQYnlWb0J1QUUwTmVMUVRNdXlNVVB1X212bmo1NXFjbTktUUFNYWVCRXRhaUhOMHRLSnNNd1Z1ajJUcVNEbHl3NmROMkg3QllRZ1c5V092WEdkbkdsamcyQ0FxcVRqd3RHOGNlRW5IaHJ3Y0pHRFBRZmtSZDM1VFpGc18yLURhbEtLM1VxQWZZSm5jRDNTNnVIYlFMS0xKb3JhTDlzVzExb1dQUHc5SnRIenFoOVlhenpXd0FIWE1BRnJaYXdoWUMwS1Ixa2tFNE5IYzJoZVFrQmI4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "In conversation with Trevor Sadler, CEO, InterCaribbean Airways - CAPA - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXFNOThnRG5BcjcybEtGRFpzeHo3bVBlUlNoZjNROU1rVmVxRzRhREphbjBiVHFjUUFraHM3bzlkNTJURy1KakFXRFo4OGhaWVBWVjNSeEJiWE10cGtMcU1fQ25sRUNUVjI4S2ozbFphR2E2M21TcnJBSENaWFZYZEk4bWFsQUZMT2JPNUZvZ0dWSjlVSEJ1YWRCNldESEFBY2dfQWZqd0hzd0V4ZHRGSU00UE5zdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CAPA certifies first ultrasonic ADAS sensor, manufactured by Taiwan-based Hushan Autoparts - Repairer Driven News",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdmNxQjJCb0ZOTUlyTnpveXFhSHYzbGpENndyX3VPM1Vnb2pQWEVwSHpfUEhSQUF1NWV4Q3p6MXEzQ0tMWmcxd2Uyb21MX2tZaGh6Wk1oMlJyMjhkRW9NRUFZV2FFNVhaM2o4d3RlTEV0Y0RNMHhydTRzM2FzdG5OOHA2NzFVN2FadGVxNTE1QTdReFVlMDBqLUxWNGZWTkY3SE1MaUtGVWdyc3VqRTlDempIdDhwQk8xbXY2S1QwQzd5R09XcEhzd1RVNDdVbnpodnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Australian aviation: Rex looks to drop jet operation; part two \u2013 market implications - CAPA - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTl6N2ZMRzE4YWR1dnZFLUZtWFNsNF90a0RUaVNaSVE1VTVBd0RiSE93WVE4MzFFM1Y5cXRCaFI1Tm9VejFoWHNON0g1S0F0NU1PUm1rejAxRUwyVmJSZXEta0s3bWNUMXpaMjJ2SE5EOE5PQ1Q0TERJa3pyQ2thbk1Rb3JXcjFJak82QmFycWNnbEkwQTY3Q2l0bzFQZzhMOXl6ZTRKWUdpbjIzUHVfdWhn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "European airline margins 2023: ultra LCCs Pegasus and Ryanair at the top - CAPA - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSERHZDdCcHpINFRHUTd6UmxEMlBCRFZXSGdBZVk1R09NaWJfY0k5LWYybmpsYXlPOXo3WVpxMW9XSUN5X1g5eUpoRF9DLVdESnE1MlRTeTZ6cXIyd25UZ2YwellpcXNyeVFidW1LSV9EWEc5bkFVT3FDLTlqOTc1c0NCS1puaGNtMmYtbHlIek5YMG9QWDJVUHdmaWpNUjkxM2o4NC1hanYteHBtdWw1cm5qR1VISUYtckxCUG1nSlR2Y2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Southwest Airlines had a wild week, what happens now? - CAPA - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcm5UNUtDaG1KNmN2NG1CQTBVaDRNSG1rQ003bjBUYm93aUZPR1RMbUZLVkxqMlpsOURFaGV6M3k2MUpnZ2dZdHVMMkhZbGxOamY0YmdodnVtdnVUTWlaQ1oyc0o0V2Q0NV9KZTY1ZmtScFktVVllRU5SWEpQUERYRDJnTmtqZ0RZWE9xREdWN3gtaHVvNTVKbDItVkY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aeromexico leverages a unique position in Mexico\u2019s aviation market - CAPA - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORU1Rai1HUzdpbmhEWnNhbVhobDA1VzVvc1BHYWZxZnJpdmowR1FlN3BWNkdWNmVDSFNyZEhaRW00YldwMWpsNnZXOU1PNkdpeks5Snlrdi1SNGh3M0JRVERmNjRxVGlQUjFNUDVDdWg2eFhfdGhUY0QzdGRWMHlLVEZzOERzQmV3TnhPcldpTFc2YzRubF8tMFdOZnMwM2pObVhEQ2dLRmNiVmFqbURYdHMxVzFDNDMzT19B?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Aviation and the Trump tariffs: clouds are darkening - CAPA - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzlWem9ENC1pY1RPNEVHRzNwV0Zwb0l2WC1WVlNJQnU1V0UxMy13ekxlU1NUWUdfbTkzNW5ObDVqZXVnTGltWmE0ZGhtN2t1anVfakV0RUtHSWlsaDZVZzNNVHVic2dYck5oMDYxUk1Fd3E1QjBQcldPS1FvV2Z0OEdqZWw3M2xGV00zVjZQbjh4WHZxREN6ZWpmcFRqOEZSNFp0Y3VtMWw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 14.46
+      },
+      {
+        "date": "2024-11-22",
+        "price": 14.52
+      },
+      {
+        "date": "2024-11-25",
+        "price": 14.48
+      },
+      {
+        "date": "2024-11-26",
+        "price": 14.41
+      },
+      {
+        "date": "2024-11-27",
+        "price": 14.58
+      },
+      {
+        "date": "2024-11-28",
+        "price": 14.56
+      },
+      {
+        "date": "2024-11-29",
+        "price": 14.4
+      },
+      {
+        "date": "2024-12-02",
+        "price": 13.71
+      },
+      {
+        "date": "2024-12-03",
+        "price": 13.86
+      },
+      {
+        "date": "2024-12-04",
+        "price": 14.03
+      },
+      {
+        "date": "2024-12-05",
+        "price": 14.05
+      },
+      {
+        "date": "2024-12-06",
+        "price": 14.15
+      },
+      {
+        "date": "2024-12-09",
+        "price": 14.41
+      },
+      {
+        "date": "2024-12-10",
+        "price": 14.19
+      },
+      {
+        "date": "2024-12-11",
+        "price": 14.06
+      },
+      {
+        "date": "2024-12-12",
+        "price": 14.09
+      },
+      {
+        "date": "2024-12-13",
+        "price": 14.03
+      },
+      {
+        "date": "2024-12-16",
+        "price": 13.81
+      },
+      {
+        "date": "2024-12-17",
+        "price": 13.74
+      },
+      {
+        "date": "2024-12-18",
+        "price": 13.77
+      },
+      {
+        "date": "2024-12-19",
+        "price": 13.55
+      },
+      {
+        "date": "2024-12-20",
+        "price": 13.48
+      },
+      {
+        "date": "2024-12-23",
+        "price": 13.39
+      },
+      {
+        "date": "2024-12-24",
+        "price": 13.52
+      },
+      {
+        "date": "2024-12-27",
+        "price": 13.62
+      },
+      {
+        "date": "2024-12-30",
+        "price": 13.56
+      },
+      {
+        "date": "2024-12-31",
+        "price": 13.73
+      },
+      {
+        "date": "2025-01-02",
+        "price": 13.66
+      },
+      {
+        "date": "2025-01-03",
+        "price": 13.53
+      },
+      {
+        "date": "2025-01-06",
+        "price": 13.77
+      },
+      {
+        "date": "2025-01-07",
+        "price": 13.81
+      },
+      {
+        "date": "2025-01-08",
+        "price": 13.81
+      },
+      {
+        "date": "2025-01-09",
+        "price": 13.73
+      },
+      {
+        "date": "2025-01-10",
+        "price": 13.69
+      },
+      {
+        "date": "2025-01-13",
+        "price": 13.88
+      },
+      {
+        "date": "2025-01-14",
+        "price": 13.98
+      },
+      {
+        "date": "2025-01-15",
+        "price": 14.2
+      },
+      {
+        "date": "2025-01-16",
+        "price": 14.04
+      },
+      {
+        "date": "2025-01-17",
+        "price": 13.35
+      },
+      {
+        "date": "2025-01-20",
+        "price": 13.54
+      },
+      {
+        "date": "2025-01-21",
+        "price": 13.47
+      },
+      {
+        "date": "2025-01-22",
+        "price": 13.15
+      },
+      {
+        "date": "2025-01-23",
+        "price": 13.23
+      },
+      {
+        "date": "2025-01-24",
+        "price": 13.3
+      },
+      {
+        "date": "2025-01-27",
+        "price": 13.52
+      },
+      {
+        "date": "2025-01-28",
+        "price": 13.68
+      },
+      {
+        "date": "2025-01-29",
+        "price": 13.7
+      },
+      {
+        "date": "2025-01-30",
+        "price": 13.93
+      },
+      {
+        "date": "2025-01-31",
+        "price": 13.69
+      },
+      {
+        "date": "2025-02-03",
+        "price": 13.69
+      },
+      {
+        "date": "2025-02-04",
+        "price": 13.77
+      },
+      {
+        "date": "2025-02-05",
+        "price": 13.76
+      },
+      {
+        "date": "2025-02-06",
+        "price": 13.88
+      },
+      {
+        "date": "2025-02-07",
+        "price": 13.96
+      },
+      {
+        "date": "2025-02-10",
+        "price": 13.86
+      },
+      {
+        "date": "2025-02-11",
+        "price": 13.68
+      },
+      {
+        "date": "2025-02-12",
+        "price": 13.61
+      },
+      {
+        "date": "2025-02-13",
+        "price": 13.82
+      },
+      {
+        "date": "2025-02-14",
+        "price": 13.88
+      },
+      {
+        "date": "2025-02-17",
+        "price": 13.97
+      },
+      {
+        "date": "2025-02-18",
+        "price": 13.79
+      },
+      {
+        "date": "2025-02-19",
+        "price": 13.7
+      },
+      {
+        "date": "2025-02-20",
+        "price": 12.49
+      },
+      {
+        "date": "2025-02-21",
+        "price": 12.51
+      },
+      {
+        "date": "2025-02-24",
+        "price": 12.94
+      },
+      {
+        "date": "2025-02-25",
+        "price": 12.9
+      },
+      {
+        "date": "2025-02-26",
+        "price": 12.82
+      },
+      {
+        "date": "2025-02-27",
+        "price": 12.8
+      },
+      {
+        "date": "2025-02-28",
+        "price": 12.81
+      },
+      {
+        "date": "2025-03-03",
+        "price": 12.55
+      },
+      {
+        "date": "2025-03-04",
+        "price": 12.67
+      },
+      {
+        "date": "2025-03-05",
+        "price": 12.73
+      },
+      {
+        "date": "2025-03-06",
+        "price": 13.06
+      },
+      {
+        "date": "2025-03-07",
+        "price": 13.03
+      },
+      {
+        "date": "2025-03-10",
+        "price": 13.32
+      },
+      {
+        "date": "2025-03-11",
+        "price": 13.01
+      },
+      {
+        "date": "2025-03-12",
+        "price": 12.99
+      },
+      {
+        "date": "2025-03-13",
+        "price": 12.87
+      },
+      {
+        "date": "2025-03-14",
+        "price": 12.93
+      },
+      {
+        "date": "2025-03-17",
+        "price": 12.98
+      },
+      {
+        "date": "2025-03-18",
+        "price": 13.09
+      },
+      {
+        "date": "2025-03-19",
+        "price": 13.18
+      },
+      {
+        "date": "2025-03-20",
+        "price": 13.31
+      },
+      {
+        "date": "2025-03-21",
+        "price": 13.24
+      },
+      {
+        "date": "2025-03-24",
+        "price": 12.87
+      },
+      {
+        "date": "2025-03-25",
+        "price": 12.95
+      },
+      {
+        "date": "2025-03-26",
+        "price": 12.95
+      },
+      {
+        "date": "2025-03-27",
+        "price": 13.1
+      },
+      {
+        "date": "2025-03-28",
+        "price": 13.26
+      },
+      {
+        "date": "2025-03-31",
+        "price": 13.22
+      },
+      {
+        "date": "2025-04-01",
+        "price": 13.3
+      },
+      {
+        "date": "2025-04-02",
+        "price": 13.31
+      },
+      {
+        "date": "2025-04-03",
+        "price": 13.51
+      },
+      {
+        "date": "2025-04-04",
+        "price": 13.24
+      },
+      {
+        "date": "2025-04-07",
+        "price": 12.98
+      },
+      {
+        "date": "2025-04-08",
+        "price": 13.01
+      },
+      {
+        "date": "2025-04-09",
+        "price": 12.81
+      },
+      {
+        "date": "2025-04-10",
+        "price": 13.01
+      },
+      {
+        "date": "2025-04-11",
+        "price": 13.1
+      },
+      {
+        "date": "2025-04-14",
+        "price": 13.39
+      },
+      {
+        "date": "2025-04-15",
+        "price": 13.25
+      },
+      {
+        "date": "2025-04-16",
+        "price": 13.25
+      },
+      {
+        "date": "2025-04-17",
+        "price": 13.2
+      },
+      {
+        "date": "2025-04-22",
+        "price": 13.66
+      },
+      {
+        "date": "2025-04-23",
+        "price": 13.73
+      },
+      {
+        "date": "2025-04-24",
+        "price": 13.77
+      },
+      {
+        "date": "2025-04-25",
+        "price": 13.75
+      },
+      {
+        "date": "2025-04-28",
+        "price": 13.72
+      },
+      {
+        "date": "2025-04-29",
+        "price": 13.69
+      },
+      {
+        "date": "2025-04-30",
+        "price": 13.6
+      },
+      {
+        "date": "2025-05-02",
+        "price": 13.66
+      },
+      {
+        "date": "2025-05-05",
+        "price": 13.56
+      },
+      {
+        "date": "2025-05-06",
+        "price": 13.64
+      },
+      {
+        "date": "2025-05-07",
+        "price": 13.74
+      },
+      {
+        "date": "2025-05-08",
+        "price": 13.74
+      },
+      {
+        "date": "2025-05-09",
+        "price": 13.8
+      },
+      {
+        "date": "2025-05-12",
+        "price": 13.83
+      },
+      {
+        "date": "2025-05-13",
+        "price": 13.79
+      },
+      {
+        "date": "2025-05-14",
+        "price": 14.09
+      },
+      {
+        "date": "2025-05-15",
+        "price": 14.22
+      },
+      {
+        "date": "2025-05-16",
+        "price": 14.17
+      },
+      {
+        "date": "2025-05-19",
+        "price": 14.35
+      },
+      {
+        "date": "2025-05-20",
+        "price": 14.68
+      },
+      {
+        "date": "2025-05-21",
+        "price": 14.77
+      }
+    ],
+    "current_price_data": {
+      "price": 14.77,
+      "change": 0.09,
+      "percent_change": 0.61
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

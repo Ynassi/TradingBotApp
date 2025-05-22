@@ -1,0 +1,646 @@
+{
+  "ticker": "AWK",
+  "name": "American Water Works",
+  "sector": "Utilities",
+  "market_cap": 27800909824.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 25.967215,
+    "PB": 2.6391692,
+    "EV_Revenue": 8.748,
+    "ROE": 0.10428,
+    "ProfitMargin": 0.22243,
+    "GrossMargin": 0.60332,
+    "DividendYield": 2.3
+  },
+  "technical_indicators": {
+    "RSI_14": 49.70509674220485,
+    "Momentum_10": -2.5106898141394587,
+    "MACD": -1.1350267352848675,
+    "BB_Percent": 0.4219683076864342,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.87395388749183,
+    "QualityScore": 0.4314865562322747,
+    "SignalScore": 0.7016467242709007
+  },
+  "volatility": 0.0175487850510264,
+  "beta": 0.728,
+  "return_6m": 0.0558787284807968,
+  "analyst_rating": {
+    "recommendation": "hold",
+    "analyst_count": 13,
+    "target_mean_price": 142.24
+  },
+  "news_sentiment": {
+    "summary": "Synth\u00e8se:\n\nLes titres concernent l'entreprise American Water Works Company, sp\u00e9cialis\u00e9e dans le secteur de l'eau et de l'assainissement. Les signaux forts sont la hausse des tarifs, le d\u00e9clin des performances \u00e9conomiques et le poids des investissements en infrastructure. Les \u00e9v\u00e9nements marquants sont des augmentations de tarifs, des investissements en infrastructure et des investissements en eau. Les rapports d'eau sont disponibles en ligne et les r\u00e9sultats de tests de plomb sont publi\u00e9s pour les clients d'American Water. La soci\u00e9t\u00e9 est consid\u00e9r\u00e9e comme un dividende stock fort, avec une augmentation de 8% des dividends",
+    "sentiment_score": 0.35,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Are You Looking for a High-Growth Dividend Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXM1RFBJUmZnMkduSnJfd2hPaFF3ZUo1VF81SUVUVkd2dkZkWHdTY2VhVGw2c2NCNC1xdkhSblJseHhMNG13dzFoOEtSV0ZSX0JmMDNQT0ZDS245TFZ0bDZ0MkttaEkzWWN2d2JsZmtjZEZYS3Q5WXNtdGlISXhtZHJqZUFzRlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Missouri American Water Rates Rising $9 Monthly After Massive $1.1B Infrastructure Upgrade - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnRfbVVNZDRZNGhEbVE3QWxGQzUtTHR2eUhHMFdrYVdvSXBFdm5NTDRKTzkzbUExd2tkdG5Uanlfa3BlWTNaaTJrQ01mQk52WnRvTHJRbF9ocUxmTklrZlk4NTlMOWVCcEY5YW1McFNMcHpSaXNMeVdRUUlYMWZoVmY0dUlOZW8zZVp2NG1vc2FObzdBb0w5VkZWRHYzVUg0SnRLNk9tbTlncmdZYVBVTDhMLXc3MDJp?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "$100 Invested In This Stock 15 Years Ago Would Be Worth This Much Today - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVNTZzI0SFpZSUxrdHhzVjdWZ0JjZTZuV09FSmxQTmNRQk94bzRBeHBDbHM1TmRtR1pPZy1kZ2RJTlZiZFRVaWhhbTNQSjUwZUg4RzZ0WFN5dXlLNlpvc3RUakEwOXZGT0tVMnZpYVU4MFNOM2RLai1xRHptMGoxeUZUUDliQVdCdmhuNmFrR1R0V01fdUhzMk9DQU1jdEJjdzhHdmtpSi1EZEQwSXZVU0M0RTZjMmdwRG4wZjBJZVdaZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Water Works Company (NYSE:AWK) Reports 8% Dividend Increase - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX2lqX2pLY1o2RV82SnNlQm1CSHFRei0yTm5mdkdDdFJfNkZhcEtJSk9WNjBYcVRQZ2FUbXd1eUwwWjdZZW5hZm00TUh4N3JFdWRLS20zVldZNEJIR2VhS2RRd3ZJQVZYX2pzSGxPVmtodTVXaDJRSzBKOE9VZkkyQkRkakFTVGdWQ0xLUzRSNnBudkVPVm9pRVVFYnk3T2dMcS1aMnVoVklFUmNFMDMza1FqVlVkaGVGXzFvLTAxNWttQ2dBMlp4ZFdvTWVJakpqOVhN0gHYAUFVX3lxTE1OQlp3VnB1ZnJWYUlzWUlEdHFwTC14QTdXOFNodFQ3VTNYSWotUFVLRC0wbmptVzVIaTVNOTMyLTNORHdiTVh5Ny1jQlNBM0FtNUpfdlVzSUtnVzA3NzZQR3JMNWxQVS1taXhvd21oT21Lcmowd0tITU5qcEdGTWdDMThRSHVPRm9PVzJhM0kzcEZSTEE5OHdSbnJYNmF5dEo1WGJoMTA2VzhiMF8tYVFvMmhVUnNib0tEcG5CUC1aazJlMUVLbndjcl9GNGI0SmRPbExrdk82Yw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Water Quality Reports Available Online for Illinois American Water Customers | AWK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmNrRWY5b1ROdTBzSFJ4QWNfYTlnZDNmMVRFQW5UaFlZa0ZrRmExVkhfWnVpS1picnZBWUZNbWtIaUxDZVlySW1wdlJvd1h2QThsMVNsNHQzOHRmeVVwd2lxaWs3N3FyQzdpYzBKaThrM0YzSFREMzdTM2Q1WkJGYkFQYi1CMEg5VnJCWmJNek1vMUVFZ0RqTEFURDJXRVdZWUpqRDlveW54ZGlzMGRVU3dWUURRNDlxNmYxM0gxUUQxUHZqYXdwV2M5QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Water Works Stock: Is AWK Outperforming the Utility Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWXg1SG1OMU5fM2RmTjVjd19UdXRsaEU2cUlhV0hKUGh0VjJyN09KMUh4RzJSNTRYRjdDbXMwaDRRanZsOTZNRWV2T3VPRWx2SURQR29Zcl8zWWhpZHZHcnBMWUNMa1lVaDVCa2gydFY2OVNiSTJlSk1rOG5IVVdfckFPcndlYWlIeVdNdGk5MjAwQVVicXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kentucky American Water Seeks $26.9M Rate Increase After Massive $212M Infrastructure Investment - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTh1WGJCV3JEVjFHejdFeWc5RE1fbG9ha1IyWE5wMFl1MU1Vck1zT0lfZ3d6a1NzcXhaa2tvTVd6SEtSWTNxRDJadjAxTWdPN2l4aUVjOTFRZ1JSVW5rV0lIWnFtX2NjVE5zS1k5eUt0ODdxUHg1TnhPTGd4ZW10Z3JDdllZa2FyenJ3dG1ycmx3TXk1d2ZJU00wYXZjTWJOay04WE0wX1FWaUhDb3RlYW9GcHZLQjIwOGhxdg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "American Water Works Company (NYSE:AWK) stock falls 4.2% in past week as three-year earnings and shareholder returns continue downward trend - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1ZtblpoTlZXcXZXMUhsekdRLWFNUjNHeVoyN0x3R2xNYllVMW1QSW1HOENZYjRhanJWT2sxRks5QWlrT19JRkI1UmtpQkdMWVRlVl9NNjZVeWRvMEo2UVh6c3FCcF9NZ2l6cHlZaXJOT09fTlRsdHhfaUZJdDJWOXh1cHhydw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Water Quality Reports Available Online for Pennsylvania American Water Customers | AWK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORW9CUmo2QUtEa01xMkhyVGZ6MkhQX0wxT1JGZEVQQXZpUG5jNXg3dUJ5XzlKTkpackhmS2E3VUxrc3hrTV94NDdRaWVQWjRBVTFXOFVpN090S2RRaDV4OTNkMmNJVVpvNUtEbGI3MWdHb2ZjaU1FZVhGWmNQeVhnNl9fbTZZdElMcDhtRV9UREtONHJQRjBQNWxKcUt0Q0VHUEZJbGpyd3VCOFRLYTMyTnRjcGZEdFVtWkZVTV9zUDlrZWVfUHFoaG81VXlsb0NU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Illinois American Water Releases Comprehensive Water Safety Data: Lead Testing Results Now Public - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlR4eWEzaHVXVVFnQ2pLQ0JoNzNOcUZjTTdoQ0gzcHY2aEp5SmE5WEVmZmRHbm1sUmk1OWtfY1YtdDcxRl93d3QxREJJN1JlVmNCZzFfZVZGRnprNDRZZGFEa3RxeHVXTFVidlVSSzM0QlpSamVmclMtSXNsUVlCRDI4MldRYjJmcEZyRnl1R3Vld2VNUy1uMklmdDBLQ3RVcnlacjVZMXQxTEZ6b0pVTjhKMDRMbXpOa1BKag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is American Water Works Company, Inc. (AWK) Among the Most Profitable Utility Stocks to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLU1XV3d4bm1MMzJpYm9maDgtUzdHc1M2QlJmd2VwaXZwTnNOZ1lwaTVsVU9KaElfWlVXSUtLVVFDVUpoWWZzSkx2aW0xeVdhallfWjFmOWd5LW9jTi1vS210QU4yOVh6aVJYVGV4OHFxN3ByaXdsaXlEOUN4R3Q3VFRBVm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Missouri American Water New Customer Rates Approved by Missouri Public Service Commission | AWK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX1B3cTVuUWdPQTRvR0N6RmhOSkw4ZHVLaDZFZFBqaHJxWWpKT19ST0FZcjRwZkRCaXE1YUVKaFVxdHBnWGtIVXdjQndVZkRRd28wZmJNS0NERFdMbXhxYlp1VFVrcW5KRjZXNlJCcEk5ZVBiTThsYXpJVXJhWi0tVTFHV3h3azdhTWZvdjgxcndLbUZ5MUlvaU81ZzdFUDE2Q1hUZ01vS3lBZ255aktKcjFydUtGczZ0QjJXQk5RS2xDRlJMUVBjNW5hQk5HSFJDR2tlVmd1b0V4cGs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pennsylvania American Water Achieves 100% Safety Standards, Serving 690,000 Customers with Perfect Compliance - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeG9PaEV0NzEtU1l2bmdvcmVSSFB1SEh0TjFwdGNfbGs2MnZpYTZUN2V1ZXBRM0d2NnM3SXdqazBnUUdjcDBfU2x4bHZKV1pHQ2REODZ0WDhnX0pYRWU2ZXRYMnVJSUx2aGllM2hRcUJnczRZcUxTNXlEa3ZVN1loQ0RoQWtQZ2dHNzM5aDMwYlNJS1EydUg0SzJkeFNKbVNpVHM4cmdpczNCLWNEelE2ajlpNkZmUkE3Q1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "American Water Works (AWK) is a Top Dividend Stock Right Now: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zSndlNlRLTmhXdnNhZXBacG9iN1E2bjd4UU9CeWtaSXVMeDROWnJCcUhkQzZvdGFSV2Vzbld0c0ZjZ0xzak45OWpQRnVBbUtleHRZNDVHYkZPdkZVS2preXpVSG55a2U0ZUdvWGk1amVLR3laUGFORlpDSHZRNDg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "California American Water Achieves 100% Production Boost: Strategic Well Upgrade to Benefit 100,000 Residents - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGJ2eE9EbW0wWTZ4b21lekh6Yy1UT2IwX0g2QV94a2cyM3lrdmtTWjhmYnJlcHNYOU1xR0s4SWktdm5BMjc3d05TaXhVd2M1aldWVjdRQ2FUT1phNENxdS1RUHZiUU9qSmJISjd6aE0tXzYyOFBXclNKb3RqVXJXaHdhckRwVGZNTWVlcFZqZnFMb1NpSHhPb0ZyWlA3enN3OThEeldMbU9EQ25SbElR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "American Water Works (AWK) Q1 Earnings and Revenues Surpass Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zQW0zaFpVcWhyNkFHTjVTY3hQYWswWkx0ME5ZWDlCYkRJN0NySUl6T1pBNEpxM1NsX2RKYUU0dUh6VnlMWGJzal9OWEVBSEIwdFAxT1J3VW56NnExTldnZmsyY0hhWU5kejFVVDZZNTZZYVpKRi1FNkZraWJ2UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is American Water Works (AWK) Stock Outpacing Its Utilities Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3RVdzR2VVgyZ3d4Qk9wNHV3V0NHOWQ5ZTF5ZVpEaFhORlVMU0pWS3RCV2oxM0Z3R1NjMnU0MVIxMDhyYVg0UDgxNkVjQVB3WDZzdDU3Wm9Yd0JqZlM1MTBKSmg0akd6OFVndzl3OWRzVWZGZXE1azJORERTekVmYXVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Water Works (AWK) Is Up 2.48% in One Week: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QZmIxcGotNDVqenF5anVGa2JfLVhFSkhHY3hibHE5UENUaUpnalJ2bjlSLXp1RnJxdzJtQURITVJYWjJtcGRCc2tYOHZWdzFCRlVqODA4a0xrQWI3NnRpMjdiakthV2NEUnpIeS1YRjNsMUhsNUFoNGdNc1c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why American Water Works (AWK) is a Great Dividend Stock Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ec0dvRGdCRzY3U1VUUTEyaXlqR0xXaEc5TUFheXQwSWhRbDZCRHhfbVFmZ2Q3ZkU2NENxRlVWTjNYUGMtWENBSTZndFF1VWdDNW5xV0JLWlBzREVSVGxkbGp6V0tyc0c0ZDVaYXVVeDdwejkyaUtJb2pFLW9OZ1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Illinois American Water Doubles Storage Capacity with $4.5M Infrastructure Investment in Champaign - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjRBMVZnVnVwaDFUM0xTMUZEdWM5UllNVWtYelNSQUg3R3VVQW5UR2FUMjd0SUNOeUZDeExpU3NUUl9tamhmT0V1c2U0bTlEaFViMmxPMmd1aEhIQUlyaFhudng1UnNHdHNIQmlnZW40N2xHQmZpZ2Vpd0ZUQktnbVNHVTJkelZwMkZhSWtPMVJma21LYTJMXzlEZzBIeGtkYUtocllnMFlyaHEzOG5DYUpsR1FQRGFoOW1j?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 137.31
+      },
+      {
+        "date": "2024-11-25",
+        "price": 136.74
+      },
+      {
+        "date": "2024-11-26",
+        "price": 137.59
+      },
+      {
+        "date": "2024-11-27",
+        "price": 138.31
+      },
+      {
+        "date": "2024-11-29",
+        "price": 136.94
+      },
+      {
+        "date": "2024-12-02",
+        "price": 135.6
+      },
+      {
+        "date": "2024-12-03",
+        "price": 134.1
+      },
+      {
+        "date": "2024-12-04",
+        "price": 131.01
+      },
+      {
+        "date": "2024-12-05",
+        "price": 132.1
+      },
+      {
+        "date": "2024-12-06",
+        "price": 132.37
+      },
+      {
+        "date": "2024-12-09",
+        "price": 130.72
+      },
+      {
+        "date": "2024-12-10",
+        "price": 130.98
+      },
+      {
+        "date": "2024-12-11",
+        "price": 130.34
+      },
+      {
+        "date": "2024-12-12",
+        "price": 130.55
+      },
+      {
+        "date": "2024-12-13",
+        "price": 129.59
+      },
+      {
+        "date": "2024-12-16",
+        "price": 128.91
+      },
+      {
+        "date": "2024-12-17",
+        "price": 129.18
+      },
+      {
+        "date": "2024-12-18",
+        "price": 124.43
+      },
+      {
+        "date": "2024-12-19",
+        "price": 123.83
+      },
+      {
+        "date": "2024-12-20",
+        "price": 125.92
+      },
+      {
+        "date": "2024-12-23",
+        "price": 125.98
+      },
+      {
+        "date": "2024-12-24",
+        "price": 125.73
+      },
+      {
+        "date": "2024-12-26",
+        "price": 126.16
+      },
+      {
+        "date": "2024-12-27",
+        "price": 125.29
+      },
+      {
+        "date": "2024-12-30",
+        "price": 124.24
+      },
+      {
+        "date": "2024-12-31",
+        "price": 124.49
+      },
+      {
+        "date": "2025-01-02",
+        "price": 123.86
+      },
+      {
+        "date": "2025-01-03",
+        "price": 123.77
+      },
+      {
+        "date": "2025-01-06",
+        "price": 121.97
+      },
+      {
+        "date": "2025-01-07",
+        "price": 121.63
+      },
+      {
+        "date": "2025-01-08",
+        "price": 122.61
+      },
+      {
+        "date": "2025-01-10",
+        "price": 121.12
+      },
+      {
+        "date": "2025-01-13",
+        "price": 121.01
+      },
+      {
+        "date": "2025-01-14",
+        "price": 122.52
+      },
+      {
+        "date": "2025-01-15",
+        "price": 123.53
+      },
+      {
+        "date": "2025-01-16",
+        "price": 126.36
+      },
+      {
+        "date": "2025-01-17",
+        "price": 126.6
+      },
+      {
+        "date": "2025-01-21",
+        "price": 126.33
+      },
+      {
+        "date": "2025-01-22",
+        "price": 121.68
+      },
+      {
+        "date": "2025-01-23",
+        "price": 121.81
+      },
+      {
+        "date": "2025-01-24",
+        "price": 121.63
+      },
+      {
+        "date": "2025-01-27",
+        "price": 129.95
+      },
+      {
+        "date": "2025-01-28",
+        "price": 126.33
+      },
+      {
+        "date": "2025-01-29",
+        "price": 124.25
+      },
+      {
+        "date": "2025-01-30",
+        "price": 123.66
+      },
+      {
+        "date": "2025-01-31",
+        "price": 124.64
+      },
+      {
+        "date": "2025-02-03",
+        "price": 125.76
+      },
+      {
+        "date": "2025-02-04",
+        "price": 123.85
+      },
+      {
+        "date": "2025-02-05",
+        "price": 123.61
+      },
+      {
+        "date": "2025-02-06",
+        "price": 123.98
+      },
+      {
+        "date": "2025-02-07",
+        "price": 122.49
+      },
+      {
+        "date": "2025-02-10",
+        "price": 123.11
+      },
+      {
+        "date": "2025-02-11",
+        "price": 125.08
+      },
+      {
+        "date": "2025-02-12",
+        "price": 125.02
+      },
+      {
+        "date": "2025-02-13",
+        "price": 126.87
+      },
+      {
+        "date": "2025-02-14",
+        "price": 125.66
+      },
+      {
+        "date": "2025-02-18",
+        "price": 127.17
+      },
+      {
+        "date": "2025-02-19",
+        "price": 127.86
+      },
+      {
+        "date": "2025-02-20",
+        "price": 128.67
+      },
+      {
+        "date": "2025-02-21",
+        "price": 132.68
+      },
+      {
+        "date": "2025-02-24",
+        "price": 133.59
+      },
+      {
+        "date": "2025-02-25",
+        "price": 137.25
+      },
+      {
+        "date": "2025-02-26",
+        "price": 135.06
+      },
+      {
+        "date": "2025-02-27",
+        "price": 134.02
+      },
+      {
+        "date": "2025-02-28",
+        "price": 135.97
+      },
+      {
+        "date": "2025-03-03",
+        "price": 139.57
+      },
+      {
+        "date": "2025-03-04",
+        "price": 139.2
+      },
+      {
+        "date": "2025-03-05",
+        "price": 137.82
+      },
+      {
+        "date": "2025-03-06",
+        "price": 138.18
+      },
+      {
+        "date": "2025-03-07",
+        "price": 145.4
+      },
+      {
+        "date": "2025-03-10",
+        "price": 149.31
+      },
+      {
+        "date": "2025-03-11",
+        "price": 143.43
+      },
+      {
+        "date": "2025-03-12",
+        "price": 140.86
+      },
+      {
+        "date": "2025-03-13",
+        "price": 142.54
+      },
+      {
+        "date": "2025-03-14",
+        "price": 144.32
+      },
+      {
+        "date": "2025-03-17",
+        "price": 144.82
+      },
+      {
+        "date": "2025-03-18",
+        "price": 144.75
+      },
+      {
+        "date": "2025-03-19",
+        "price": 142.05
+      },
+      {
+        "date": "2025-03-20",
+        "price": 141.81
+      },
+      {
+        "date": "2025-03-21",
+        "price": 141.13
+      },
+      {
+        "date": "2025-03-24",
+        "price": 139.7
+      },
+      {
+        "date": "2025-03-25",
+        "price": 139.16
+      },
+      {
+        "date": "2025-03-26",
+        "price": 141.13
+      },
+      {
+        "date": "2025-03-27",
+        "price": 143.06
+      },
+      {
+        "date": "2025-03-28",
+        "price": 146.24
+      },
+      {
+        "date": "2025-03-31",
+        "price": 147.52
+      },
+      {
+        "date": "2025-04-01",
+        "price": 147.0
+      },
+      {
+        "date": "2025-04-02",
+        "price": 146.19
+      },
+      {
+        "date": "2025-04-03",
+        "price": 151.96
+      },
+      {
+        "date": "2025-04-04",
+        "price": 147.23
+      },
+      {
+        "date": "2025-04-07",
+        "price": 142.36
+      },
+      {
+        "date": "2025-04-08",
+        "price": 140.87
+      },
+      {
+        "date": "2025-04-09",
+        "price": 139.0
+      },
+      {
+        "date": "2025-04-10",
+        "price": 143.15
+      },
+      {
+        "date": "2025-04-11",
+        "price": 146.09
+      },
+      {
+        "date": "2025-04-14",
+        "price": 148.83
+      },
+      {
+        "date": "2025-04-15",
+        "price": 146.88
+      },
+      {
+        "date": "2025-04-16",
+        "price": 146.4
+      },
+      {
+        "date": "2025-04-17",
+        "price": 148.4
+      },
+      {
+        "date": "2025-04-21",
+        "price": 147.13
+      },
+      {
+        "date": "2025-04-22",
+        "price": 149.26
+      },
+      {
+        "date": "2025-04-23",
+        "price": 147.17
+      },
+      {
+        "date": "2025-04-24",
+        "price": 146.04
+      },
+      {
+        "date": "2025-04-25",
+        "price": 143.97
+      },
+      {
+        "date": "2025-04-28",
+        "price": 144.27
+      },
+      {
+        "date": "2025-04-29",
+        "price": 145.86
+      },
+      {
+        "date": "2025-04-30",
+        "price": 147.01
+      },
+      {
+        "date": "2025-05-01",
+        "price": 146.43
+      },
+      {
+        "date": "2025-05-02",
+        "price": 147.11
+      },
+      {
+        "date": "2025-05-05",
+        "price": 148.15
+      },
+      {
+        "date": "2025-05-06",
+        "price": 149.2
+      },
+      {
+        "date": "2025-05-07",
+        "price": 148.08
+      },
+      {
+        "date": "2025-05-08",
+        "price": 145.4
+      },
+      {
+        "date": "2025-05-09",
+        "price": 146.94
+      },
+      {
+        "date": "2025-05-12",
+        "price": 138.64
+      },
+      {
+        "date": "2025-05-13",
+        "price": 133.84
+      },
+      {
+        "date": "2025-05-14",
+        "price": 133.82
+      },
+      {
+        "date": "2025-05-15",
+        "price": 140.37
+      },
+      {
+        "date": "2025-05-16",
+        "price": 142.56
+      },
+      {
+        "date": "2025-05-19",
+        "price": 143.71
+      },
+      {
+        "date": "2025-05-20",
+        "price": 143.82
+      },
+      {
+        "date": "2025-05-21",
+        "price": 143.48
+      }
+    ],
+    "current_price_data": {
+      "price": 143.48,
+      "change": -0.34,
+      "percent_change": -0.24
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

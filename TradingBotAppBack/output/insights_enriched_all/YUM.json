@@ -1,0 +1,646 @@
+{
+  "ticker": "YUM",
+  "name": "Yum! Brands",
+  "sector": "Consumer Discretionary",
+  "market_cap": 41158279168.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 29.55489,
+    "PB": -5.274651,
+    "EV_Revenue": 6.821,
+    "ROE": 0.317925,
+    "ProfitMargin": 0.18416001,
+    "GrossMargin": 0.46795,
+    "DividendYield": 1.9
+  },
+  "technical_indicators": {
+    "RSI_14": 50.72934330246982,
+    "Momentum_10": -0.7174413771011144,
+    "MACD": -0.5609662636382211,
+    "BB_Percent": 0.6169218629926234,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8828670395338815,
+    "QualityScore": 0.4036921930223518,
+    "SignalScore": 0.6876527498018183
+  },
+  "volatility": 0.0168389467218005,
+  "beta": 0.769,
+  "return_6m": 0.1155181715275777,
+  "analyst_rating": {
+    "recommendation": "hold",
+    "analyst_count": 24,
+    "target_mean_price": 158.26334
+  },
+  "news_sentiment": {
+    "summary": "Tendances cl\u00e9s :\n\n* Yum Brands, Inc. (YUM) has reported higher profit and revenue for Q1 2025, despite facing a complex environment.\n* The CEO of Yum Brands has stated that the company is \"pretty insulated\" from tariff woes, which could be a positive sign for investors.\n* KFC-parent Yum Brands has topped sales estimates, and Taco Bell demand has held firm, indicating the strength of the company's brands.\n* Several institutional investors, including Cetera Investment Advisers and Scissortail Wealth Management LLC, have recently increased their stock holdings in YUM.\n* Yum Brands has missed its Q1 sales targets",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 4,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "2 Reasons to Like YUM and 1 to Stay Skeptical - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04U2JLRlM3MElYRXpqLTQwTDBxX3hpU2M0dFBQZEdkYm5YV3FGMTJnN0dUTkZ2akRmM0U2QkZuWExPWC0tdFBPRXlQdEl5ck5BdlFWRzVwNDZiWll0UmRpWDBQTTBqYVRlSEplU3EtZEtaMkZh?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum! Brands, Inc. Declares Quarterly Dividend of $0.71 Per Share - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1dNS0w5bHZxQjhSLW5mVlU0aGxZcmJTYlhBQzlEdHRGOGdha2R5SHk2Q3hiUXU2TkxpVGNiZWxiekRBTnJraEdibWNRNG9JMm81MkZudEtPVWZKMllWcmE4V290RUFnYXB0R1A2dmw5bWxJSnRBa1RDSFR5SFBzT1ZPeHpmeHRVT1l2T2gyNjZ3YlhRdEhFVlhJOUJwWS11MEVjYm50cnJxVjBJbUdZZVhOZzZkVGRXZVR1UW53?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ameriprise Financial Inc. Trims Stock Position in Yum! Brands, Inc. (NYSE:YUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOHNjS1Nmd0JrMU1PUHpKREtyN1dmaHdCNnFXcXhKaXM3dzF0ODFweElDdXBtd2NDbExNcndldjJ6cFZOYmQ2U05pbHQyVkh0anl4ZzJGRmUtT2VxZ3FJbkd1aU1WaXRscnZDNjFQRW9iSG9URHAyTjNNMkFHT0dvWnJqT0FoaXlHaDJnMllZNVpSMTdrMmNwckNUT2dnbHJZQTJMLWFhQ2J3TnJhOHJ0R3BRa3E4Vlk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Wall Street Bullish or Bearish on Yum! Brands Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMDBsajVqOXJ5M0M0NmdHdGxmaWQ5Z21oYVlVM29YTi1lY3hnTk81MTdqV1c5Q0ZDZDNyaGtOYWtaRFVrVUhLeGNKejhfOFhpRzc0ZnJFQXp1TnFuVG5EcFVoLTlOQUxESnNra01oNWF2NlU2R21TLVFxZGxlOFJJR2xMcmoxdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum Brands CEO says company is 'pretty insulated' from tariff woes - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWxLSGtEY2gxcUk5TGQ5azdCajZjZGRObFhvXzdIbFdma1Z0LVByN2ljVklvanQzcFRJMmlSQkFDY0VlVkFtTmlDaGp6OWVtQU8yYVVlSmVrSEZhX1hPckdqMTRDVjFMUEhLaFN6M1ZXdjlzU2VGNTVIRGdka2NjNFpJSlU3VHAwOTJNYndCdFM4TTk2VElaMkcyUzd2dlFnMnJV0gGoAUFVX3lxTE91dVRBd0J3TWlkY0ZVeTB3aG9IRU1vMmNBRkRuVGcxRnAxTTE3WThqcGlBb0wtWjRBc3pNTXhzY0pXVlF6ZGhvX2t1c3VWQmcwVlVSdGdZRThjMXZFMEFhUmU2QmJpQXMydnZENmRjSUFLdGhBTDRiWU50SE1ZN2ZfRW12dVVrdkRNZnltUzA4b040Z1FWM2I4TVAzd3lRcDhjUlZJSnE4Zg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum! Brands (NYSE:YUM) Declares US$0.71 Dividend Per Share For June 2025 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXA2WmZIb05kWkxpczNfR01odDd3YkZ4ZmEwWk9oSk42R05nSWhoZFdlNm4tVE93VW1HQVQxSVF0TGRFUTNhV0JGZ2R1OTVjLW0tTkhtOXJQYzBtcVFMeGZ1VzBIdjhMRUlqZzNKb0V6TnE2d2tfc2lEZ1lyVlFJTUdWdVlxM3JSWGRFNDg2aXJfWnJBMlUwd0F2ZTFsY2ZVbDdGZHFJTi1DSHZPWVVkUTZaVFVSUlhMQ3FTTUNaemRKVjVwb0F0Y1Z3eVpPeXdf0gHWAUFVX3lxTE4wWTJNNmtlRmV0NXZIS20xdTlLU3cydU0tZEowNTZiSy1DcXY3RTNZN1pWdUIwa093aC1zRDVJeHRCM2FVRHBpNzl0c2NXcFNPYk90U29KV1lLbmtWWk9vb1haQmpRTjVBR2hva2pOSU5lN28tZDFtM18xdENpX3VfWTdyVGhsS3kzc1dXNlNzS09wX2hEc2xCcmNKOHFxUFp1TE9lOHBCVFJWZDJZQThwTWZ4S3JfMkVjWWxWVTEwWktxNmNwNTJieThiUnl2YXZxV215OXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KFC-parent Yum Brands tops sales estimates as Taco Bell demand holds firm - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDk3TTAtVXhPVFA3TmRGcUh0SVhpMlQzYkl2Ynpob2pjbE82RzVkaTVpcS1qci1MVS1lZC1SeVlUVERVZDJpNHI4Q0pYdU9tMFlvN01MQ0ZKYWpNbDVBUzZCRjZHVVVYSktCVUdXWHl4cmw2eFFRZVhZUDNLckV6bGphcnJlVUg4Q2xUcTU5eUMwMGNGaEx1a3NnQVJMLV9PdzhCVzRBS1gwa3B5bU4yZ0NOeGtCUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Yum Brands CEO David Gibbs sells $1.03 million in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaU04Q0VDNURWajZSOGNEYnJUcmM4SHZmU3BYSkZyNTdXazlTdFJSODI1YTBJYzhpTHlRTE1kaGVrY1lGY1VZU1JWLU9LbzF6NERQaTZUX2VhX3ppdUxZVXRjNjA0NldhZTRqV2tlWWpWYXBOWWRGNWp4emtEZkFVTUJxX2I0cU1VU2xJcUo2OVQ4aVhwODQwV2FkRk1HVVBETFl3V1duMXhOTUZKRFBnaGN6Ulo2WUc0ZGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum Brands Posts Higher Profit, Revenue Amid Complex Environment - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaE9wLTQ5VUNTNGg5Q2hIMFROaC1OZjZiU3RaRkhyWFl5Q1NvVlpEcFRTeHBnSmxhcGxvSnFienA0ZlVjSWF2N01zanVOUFhiY285VUpSeWtyRkxHaVB1a3c2SWo3aTRxeElNdFNQYlpmRElSNDFPaEhzX0Y2VDY1NWtyVEstYWtmeHVkTXdXc2M5VkE3TFRoR19LSXh1Mzl6elJRNkk2LXU1WU9WQzRqb2l5bw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Yum! Brands, Inc. (YUM) Declares Quarterly Dividend Following Solid Q1 2025 Performance - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lTzA3OXVjeDdja2ZGUTZSbm9fcjlqcHRadC1rVVJoTXAwVUotRGNHWF9tMjNnTlpJTjBXcEx2QTRtOVFwR19LSFdSTmVjVTdvU3AyWEJ0dmxseW03MGZFMTJzbFJuNWZCdjdidWVvXzhROHlCdDduTkRRV3Mwdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Scissortail Wealth Management LLC Grows Stock Holdings in Yum! Brands, Inc. (NYSE:YUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGJCQlktTmZRTkhrTUlCbTJDTnQ3dVJqcXNaMHF3VTNuSjJTY2cwdG5Pcjc2azRZOXV1NGRqQzAzUWJBY3hqaEZmaVhSREJtWXRKNE1TdGtjNmlxR1Mya0xEVDdvN3E4eEtlZWNPUS1UUVl3NEpNbDl3UUVza01zajZLeThyMklyalU3Z2txZFF5LUZhbjcxQnNhWWhKY2psOUY4X0hSekVaQjBhZDBhLTlJTWtZMV94Ry1UcC1QUThVSlVVZTZ4Y0ZGRF9fTlU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nuveen Asset Management LLC Sells 180,966 Shares of Yum! Brands, Inc. (NYSE:YUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeXcyLUFyZTk3SmQ4VnhtV0tYbEFDV184R0Z1M0xjSC1EWjdWVWFYbmp1RGhsTTZzMGR5cmFMOG0zV1hKN1RlUTdMNmhsQm9oNUFZZThyMy11dmRnemY1TWQyTDRsXzU1Z1VRQ3dCMjBNTWdhUWlLVWdkZ1lVWVdBN1R4M2NsMWVrUzRDX1htVVAxX0FzRGpBRThSZ1JCa2w0dUQ0UDRWVlFvQUhwckxUY2xGZExsVkFQQUFrdTQ2cVZQNXVMeHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Occudo Quantitative Strategies LP Takes Position in Yum! Brands, Inc. (NYSE:YUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOak1rMHRsbFJWV2RfZnZQNXhSOFVQcWNiOUtyYlp1YjRrNk5jcHhEbWtpSTJXeHRzNENiQlNVakFpU3V5MVAzQ2JRRU5sc042d2dmU29zcmZjVGFoTnZFcDRQei1keE1ZSFY5X1FsY2NuY1FfaTNaSUpQcEYxOVlMek9jV3FBUy1heHhiTXQ4R2JCQ1NZcGhZMUNzNWFmanllaF95Q05FMHNXTERra1VBZGNLSjBYVVdaZl95SHdyQ2hoYllTSVZJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Yum! Brands (YUM) Stock Rocketing Higher Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JVVRqYVB0ejBxU1dnV3BHVHhPVDBpV0NFV1FwZ2M0WUZ2c3E5dGRIQjBjaXlvS0Y2ZHoxVHMtYlNQeWF6R3dSb0g0MW1iSlBaOTZsWHppa3NJVjdnUTJmQWVMZEpIbnpwSVFLbHp1THNvTVh4eHFzSjV3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cetera Investment Advisers Buys 2,807 Shares of Yum! Brands, Inc. (NYSE:YUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUxlbmpqQXA5MGtSSENtYlN2WFRTUmd5QkhlN0RYNFJXdXRqN2x3QUZ5dDdoclpNbVN1Nk9LY0xxSU1MMHo5X0RGaG1MNEotN3E1VE9SSGhJZUlkelRsQzk2ZVBYcDFFNDZBc2RJcE0xUWtHT1ZSVUtINXFWMXRXcHVVbVh0dHBGaEN4aWZLa01XaTBLWndKNjZlYWtyRlZGZEkwWFZPbm9HU2tIYnVjWXctMG1vNnFZU1NBeg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum Brands stock near all-time highs as Taco Bell outpaces peers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWll1eVlRb0NOSG0tRGctamFoSUZYbHVyTzk2Wk9rTVlmR0xweFJfenZ3VURJbVlFSllIaWhncVNkcVNSUkN0RG1OQzdXVFBhRkJoRDBmTWVfLVRMc2RrbHRFbmxpN2o5N1dTblZiZkZPQnVodkh1azVWTjB5bVd1ajY5b0FZZldmRGctV2ZKM25EOWtnX0tkTVRiVk9JT3pja053dUNGd2FWUEZvdjVr?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Yum! Brands (NYSE:YUM) Misses Q1 Sales Targets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTWTFkNnFhck5kaG9xTWZDSWdzcDRMa1YzWDRNVWFiRFNHM2ZGakdyYV9fTHYwTDk4dnQ4U0VXZjRBU0tOamh2bnNjclpMUHFpTGoxVWUwcmFmWHZsSlVOb1dsTU5UbldXYndDc2VrNDNId1ZOT1VnUXNvcmk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum! Brands, Inc. Declares Quarterly Dividend of $0.71 Per Share - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPazlPaW5WVUdIQl9rU0tfR3RQR2Y2VVVVd1YyS0hQZzZGNkZEZ0pFT0NWdWVSa0dqaHFabjUxdjlTa2NfSFdsd3VaZEtGV2xTSFpGelIwT0lDbUtOeG5Od1NTVHR6clhEWVlBUi13ZTlwQ2NNOVNVSEhkMGRFaXpQLWxIX0VrM25RZjc1UXlBclJXeGRkLUlXcXJuOWRJcVZHNlhNZUNrTW5mMTBoM2ZiODcyUTdRR0oteUhyd212clZrbk0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ensign Peak Advisors Inc Has $4.24 Million Stock Position in Yum! Brands, Inc. (NYSE:YUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTdlN1l3RnBNZGtJRDNyZl9ySWhwZ3VYdXQxanNoUFF5US1IUDhkMDAzclFDbUctZ2U2bEVhMzY0SWZ1T05Sa0xyTm55QlROUFdMc1ZvQ2tuZ2tBaGtNNHZmcTlDaXBzSWxGUnRTbGtJRTJQN2ZrcllOXzYtSFZUS2xLR255S201Nk9zTHQycWFMZ0wxNFFRbG5sblpFUE9Yc3llbkM4ZTU5WHVubF9XWS1Ed25Cbkx3YlpoVU1YRzlwZmdM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum! Brands Reports Fourth-Quarter and Full-Year Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUJYbEt2OW1mQURVdGhkNGk1WEdiWUMybW9kSExNdzVxSHNUWjNXckJlOFpCU2ZLZkt1blNkaGlHNHRXSUVpQmhOQlFCSkJxS05OeW9xWllnY0hiSDZuMnFvNkhXekVSc2d4YzNPTThUblpTTUdmaXV5eFBkanlfYUpVVzhoc1YtbDNwQjAwMFRld19QdHFDdXJiUU9lX3diSktkelNheGVmTVZ5aVo3anZzamMxZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 135.27
+      },
+      {
+        "date": "2024-11-25",
+        "price": 137.05
+      },
+      {
+        "date": "2024-11-26",
+        "price": 138.63
+      },
+      {
+        "date": "2024-11-27",
+        "price": 139.33
+      },
+      {
+        "date": "2024-11-29",
+        "price": 138.94
+      },
+      {
+        "date": "2024-12-02",
+        "price": 139.03
+      },
+      {
+        "date": "2024-12-03",
+        "price": 137.72
+      },
+      {
+        "date": "2024-12-04",
+        "price": 138.16
+      },
+      {
+        "date": "2024-12-05",
+        "price": 138.13
+      },
+      {
+        "date": "2024-12-06",
+        "price": 137.63
+      },
+      {
+        "date": "2024-12-09",
+        "price": 139.08
+      },
+      {
+        "date": "2024-12-10",
+        "price": 138.22
+      },
+      {
+        "date": "2024-12-11",
+        "price": 138.54
+      },
+      {
+        "date": "2024-12-12",
+        "price": 138.64
+      },
+      {
+        "date": "2024-12-13",
+        "price": 137.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 135.05
+      },
+      {
+        "date": "2024-12-17",
+        "price": 134.73
+      },
+      {
+        "date": "2024-12-18",
+        "price": 131.46
+      },
+      {
+        "date": "2024-12-19",
+        "price": 130.36
+      },
+      {
+        "date": "2024-12-20",
+        "price": 132.36
+      },
+      {
+        "date": "2024-12-23",
+        "price": 133.86
+      },
+      {
+        "date": "2024-12-24",
+        "price": 135.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 136.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 135.23
+      },
+      {
+        "date": "2024-12-30",
+        "price": 133.52
+      },
+      {
+        "date": "2024-12-31",
+        "price": 134.16
+      },
+      {
+        "date": "2025-01-02",
+        "price": 133.56
+      },
+      {
+        "date": "2025-01-03",
+        "price": 133.44
+      },
+      {
+        "date": "2025-01-06",
+        "price": 130.17
+      },
+      {
+        "date": "2025-01-07",
+        "price": 128.55
+      },
+      {
+        "date": "2025-01-08",
+        "price": 127.74
+      },
+      {
+        "date": "2025-01-10",
+        "price": 123.25
+      },
+      {
+        "date": "2025-01-13",
+        "price": 123.73
+      },
+      {
+        "date": "2025-01-14",
+        "price": 124.71
+      },
+      {
+        "date": "2025-01-15",
+        "price": 125.77
+      },
+      {
+        "date": "2025-01-16",
+        "price": 126.24
+      },
+      {
+        "date": "2025-01-17",
+        "price": 125.32
+      },
+      {
+        "date": "2025-01-21",
+        "price": 125.7
+      },
+      {
+        "date": "2025-01-22",
+        "price": 126.22
+      },
+      {
+        "date": "2025-01-23",
+        "price": 127.01
+      },
+      {
+        "date": "2025-01-24",
+        "price": 128.26
+      },
+      {
+        "date": "2025-01-27",
+        "price": 130.89
+      },
+      {
+        "date": "2025-01-28",
+        "price": 129.24
+      },
+      {
+        "date": "2025-01-29",
+        "price": 129.17
+      },
+      {
+        "date": "2025-01-30",
+        "price": 130.73
+      },
+      {
+        "date": "2025-01-31",
+        "price": 130.5
+      },
+      {
+        "date": "2025-02-03",
+        "price": 131.5
+      },
+      {
+        "date": "2025-02-04",
+        "price": 131.47
+      },
+      {
+        "date": "2025-02-05",
+        "price": 131.25
+      },
+      {
+        "date": "2025-02-06",
+        "price": 144.01
+      },
+      {
+        "date": "2025-02-07",
+        "price": 143.56
+      },
+      {
+        "date": "2025-02-10",
+        "price": 148.15
+      },
+      {
+        "date": "2025-02-11",
+        "price": 146.65
+      },
+      {
+        "date": "2025-02-12",
+        "price": 146.51
+      },
+      {
+        "date": "2025-02-13",
+        "price": 148.75
+      },
+      {
+        "date": "2025-02-14",
+        "price": 147.91
+      },
+      {
+        "date": "2025-02-18",
+        "price": 147.13
+      },
+      {
+        "date": "2025-02-19",
+        "price": 148.29
+      },
+      {
+        "date": "2025-02-20",
+        "price": 150.96
+      },
+      {
+        "date": "2025-02-21",
+        "price": 148.75
+      },
+      {
+        "date": "2025-02-24",
+        "price": 150.23
+      },
+      {
+        "date": "2025-02-25",
+        "price": 154.15
+      },
+      {
+        "date": "2025-02-26",
+        "price": 151.5
+      },
+      {
+        "date": "2025-02-27",
+        "price": 153.71
+      },
+      {
+        "date": "2025-02-28",
+        "price": 156.37
+      },
+      {
+        "date": "2025-03-03",
+        "price": 156.93
+      },
+      {
+        "date": "2025-03-04",
+        "price": 158.41
+      },
+      {
+        "date": "2025-03-05",
+        "price": 159.37
+      },
+      {
+        "date": "2025-03-06",
+        "price": 159.26
+      },
+      {
+        "date": "2025-03-07",
+        "price": 162.53
+      },
+      {
+        "date": "2025-03-10",
+        "price": 158.09
+      },
+      {
+        "date": "2025-03-11",
+        "price": 156.7
+      },
+      {
+        "date": "2025-03-12",
+        "price": 154.4
+      },
+      {
+        "date": "2025-03-13",
+        "price": 153.42
+      },
+      {
+        "date": "2025-03-14",
+        "price": 155.05
+      },
+      {
+        "date": "2025-03-17",
+        "price": 157.13
+      },
+      {
+        "date": "2025-03-18",
+        "price": 157.3
+      },
+      {
+        "date": "2025-03-19",
+        "price": 157.51
+      },
+      {
+        "date": "2025-03-20",
+        "price": 157.89
+      },
+      {
+        "date": "2025-03-21",
+        "price": 156.75
+      },
+      {
+        "date": "2025-03-24",
+        "price": 155.82
+      },
+      {
+        "date": "2025-03-25",
+        "price": 155.8
+      },
+      {
+        "date": "2025-03-26",
+        "price": 158.68
+      },
+      {
+        "date": "2025-03-27",
+        "price": 157.65
+      },
+      {
+        "date": "2025-03-28",
+        "price": 155.76
+      },
+      {
+        "date": "2025-03-31",
+        "price": 157.36
+      },
+      {
+        "date": "2025-04-01",
+        "price": 158.92
+      },
+      {
+        "date": "2025-04-02",
+        "price": 158.23
+      },
+      {
+        "date": "2025-04-03",
+        "price": 161.45
+      },
+      {
+        "date": "2025-04-04",
+        "price": 147.83
+      },
+      {
+        "date": "2025-04-07",
+        "price": 144.93
+      },
+      {
+        "date": "2025-04-08",
+        "price": 141.38
+      },
+      {
+        "date": "2025-04-09",
+        "price": 145.45
+      },
+      {
+        "date": "2025-04-10",
+        "price": 145.5
+      },
+      {
+        "date": "2025-04-11",
+        "price": 145.0
+      },
+      {
+        "date": "2025-04-14",
+        "price": 146.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 144.69
+      },
+      {
+        "date": "2025-04-16",
+        "price": 142.57
+      },
+      {
+        "date": "2025-04-17",
+        "price": 143.31
+      },
+      {
+        "date": "2025-04-21",
+        "price": 140.51
+      },
+      {
+        "date": "2025-04-22",
+        "price": 145.05
+      },
+      {
+        "date": "2025-04-23",
+        "price": 146.16
+      },
+      {
+        "date": "2025-04-24",
+        "price": 147.58
+      },
+      {
+        "date": "2025-04-25",
+        "price": 147.3
+      },
+      {
+        "date": "2025-04-28",
+        "price": 147.75
+      },
+      {
+        "date": "2025-04-29",
+        "price": 147.69
+      },
+      {
+        "date": "2025-04-30",
+        "price": 150.44
+      },
+      {
+        "date": "2025-05-01",
+        "price": 148.6
+      },
+      {
+        "date": "2025-05-02",
+        "price": 149.14
+      },
+      {
+        "date": "2025-05-05",
+        "price": 146.58
+      },
+      {
+        "date": "2025-05-06",
+        "price": 148.28
+      },
+      {
+        "date": "2025-05-07",
+        "price": 149.48
+      },
+      {
+        "date": "2025-05-08",
+        "price": 147.98
+      },
+      {
+        "date": "2025-05-09",
+        "price": 147.13
+      },
+      {
+        "date": "2025-05-12",
+        "price": 146.8
+      },
+      {
+        "date": "2025-05-13",
+        "price": 145.72
+      },
+      {
+        "date": "2025-05-14",
+        "price": 145.16
+      },
+      {
+        "date": "2025-05-15",
+        "price": 147.05
+      },
+      {
+        "date": "2025-05-16",
+        "price": 148.07
+      },
+      {
+        "date": "2025-05-19",
+        "price": 149.65
+      },
+      {
+        "date": "2025-05-20",
+        "price": 149.03
+      },
+      {
+        "date": "2025-05-21",
+        "price": 146.43
+      }
+    ],
+    "current_price_data": {
+      "price": 146.43,
+      "change": -2.6,
+      "percent_change": -1.74
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

@@ -1,0 +1,646 @@
+{
+  "ticker": "ABNB",
+  "name": "Airbnb",
+  "sector": "Consumer Discretionary",
+  "market_cap": 85175394304.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 35.02538,
+    "PB": 10.762752,
+    "EV_Revenue": 6.763,
+    "ROE": 0.3206,
+    "ProfitMargin": 0.22596,
+    "GrossMargin": 0.83048,
+    "DividendYield": null
+  },
+  "technical_indicators": {
+    "RSI_14": 68.22233531470766,
+    "Momentum_10": 10.170842764247876,
+    "MACD": 4.30696111264956,
+    "BB_Percent": 0.913629182911874,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.875169437151916,
+    "QualityScore": 0.4093569070361492,
+    "SignalScore": 0.546736042389893
+  },
+  "volatility": 0.0297790268760078,
+  "beta": 1.146,
+  "return_6m": 0.0439518681540918,
+  "analyst_rating": {
+    "recommendation": "hold",
+    "analyst_count": 34,
+    "target_mean_price": 139.32677
+  },
+  "news_sentiment": {
+    "summary": "Airbnb's latest product release and revenue guidance have sparked mixed sentiment among shareholders, with some analysts seeing it as a game changer and others remaining cautious. Despite this, Airbnb stock has received several positive ratings and buy recommendations from analysts, including those from Cathie Wood's ARK Investment. The sector has also experienced some fluctuations, with consumer stocks declining premarket on Monday. Overall, the outlook for Airbnb stock is positive, with several analysts seeing it as a buy.",
+    "sentiment_score": -0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Airbnb's Latest Product Release Sparks Optimism Among Shareholders. Here's Why. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWZCYUk0TW44QWdvdnRBZmpuSGZBbGJhTEx1akE0dWV5bjNFRU90Yk4wb2t3bGEyT0hTSXJtNjFKd1BnTEpwWjhVeHZfR3lxVEdpT0tFcE9hQ184d2t3R0JqTzBMN2NVX1lXVVVxdmxwOThlU09aSWtkYU9CcUNScUZQaXdaVkx1Z3FiVjdCMFNwNXlBcUNYXzFHSHczWjRfNTF2M2JFLWtnSXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Spanish authorities block more than 65,000 Airbnb holiday rentals (ABNB:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZV9wREdKclJHOThseE1WWDZrM3lCWFFJZ1NyYWxVT28tS0NkZ3d3MWU2dDFLdS01Q0Rjd21XVkpRQzRsdkhxWDYzRVEzN25lMlZmb1Z0WHpYS1B0bzNNVWxzdFVoMWdidFRBXzFUa19VT19DQzVGUDF1TmxQYkNxbGdYQVdSTXBVUWJxU2hEN1ZCZTJIeVhiUjUwRUxFTm0xcWQ3cQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Vacation Rental Airbnb Stock Gets RS Rating Lift - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONDV1ODhDSWpheXZldGdwQzVmTzBWYWtjc0pTbGtSN3FGOHl1SDhad2FhM015aGIyUnYzLVNGRGlYYU9RZGx5R1VGOC1jSC1oaFEtVHdtUmhkY0ZjSmx4cWRlZk1mdHl5bnRlY2lPZ0pKQVpwZS13SmE3Mm1YTnlqYXFsN3ZIMUk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Airbnb Stock Is a Buy for 4 Reasons, Analyst Says. Plus, Norwegian Cruise Line, Hewlett Packard, and More. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNTFYOGE4QzhSSzZLNkt0enBZU3FieDA2bDRkU244cVVCdUJaQXU4R2tzcG5JYUhQdGRtdmF0WlRBUWpZS0huOXZlVG1MTnR4YVU0ekVUd2hrMEFiOXlMenZjcmtUYjE3ZnExdXpGZ19DWGxwN3ota3JfZXVZWkpPSzgtZ3ZVMW1EV0NYS05pd2VldGUwYURwQ2huRm43QUdMamZoVGo2dHpCRkQxVVllRTEtNm90TklndDFEMW9SSDVmSEsyaFBlRlZNQV9uZDYxS3pUalgwTV9WQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 Stocks Down 63% and 36% to Buy Right Now - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0Jfb3RJVnBpVnA0R2hRdmp3R2pvQjBadm9fVF9nTHRXbTVtZ2tuOExTNUFBblhfRnl2M3JsV0NheVBqME9qLUh2VVY2bkxLcFRUUmFYcW41T1I1MV83SzlfRDh1QVA1LUZtTVlGcHUyMVBZaXFReTBqWnZoc2FHT21CeFpYWTBCWnpSZmJ2SkFxNHVHSHFpN3JjX1BjS19EZm9QM2xTMlNWNnBnaWpNNTZOaWZ2Z1VyUk9HVm04TTB0ZS14?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sector Update: Consumer Stocks Decline Premarket Monday - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOWJWcFVfbFRXb3VwbzZTTE9ybzRKbVJQckdUaWU2YUVMTVNkQjZpd2VJUGI4Z3BhdmpQOVBCNlVReFY4UlBCZU9DOUhmQXNENDJTQk5tSWJadXE3dmVOeDkxWjllZzZVUkVDdlZDRDhDcHdoczdNRXBUSE9xcHBkaEdWdUhCanA1R3JYRnNNV0FLUldtVGVjMDRfNE1uY19jczRPRVhQSThRWi1IcmtvSmJLMzQzQl9NdHpYUWFCX3ZSRGVVUG93T1dQZmpOdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Airbnb issues disappointing revenue guidance for second quarter - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15VG1LRDRubWtFeXl6RGJJbHpCVms4SXo1OTVDVktMcHdyQzByVmhpeTk1YU53TGlQN0dsNDlGckxtNlFSWXR6dUN6b0s0ZlVCai1faGV5MkoxOVRoVGxnT3FzWEdYQ1UzMm1QbXM2TUFwUzJ0SXR30gF8QVVfeXFMUFpZVDRKNHhCLWZuektaQzd3cGFHVUpwbzFySW1hTlZHV081a1NEWExXbkRuUUVzWWpoMkcwdFlMT0xxMUQ5R2dRUUxIQllmcTUyMDdYYnBSelZ1MVpTTlROZ2txdFNZNWtKbWIzYnpiU0o0Z000cjM1ZWlxOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ABNB, BKNG, and MAR: Which Travel Giant Deserves a Spot in Investor Portfolios? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTDA2ODhBTm11Tzk0QTZzZm4xTV9xdlQweXVKX0hwQzZ4WDV0MEF4UnFKOWpMdlJfRjY0bmRUc2swQ1hNU3d4X3hUa0cyWDNhVXBaaW5UZW1JNzhQTGdpUWpNTmtwbkhHd2F4aWJZSUllVGlXWWdCM2dDZkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbnb Is Embarking on a Massive Expansion. Is It a Game Changer for the Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGN0NVJMczhHMWlFeXBtTkNQbDNEQzR6ZGx1TkM0YnhQZDMwdTJiVnp4X1NicFMzZXRIOUNFNjdvY2ppUWItbkg3LWFXTjdyT2RPOXdiQi14XzhkNHF4TUFUNmMyWHhERjRoOU5kTlhlLUxucmVZVkJFT3hHcklBYWE0aW5JcE4wSklDQmJlZHJfYkktMnlCbg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DA Davidson maintains Airbnb stock Buy rating, $155 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTFHOEhvMzFjczRuMG04a054elNadXJYbnNwTDdWOHFhczlqbmZsREowd3FDSTg5WVlkenM0RkFuQTlCQ1daRmJRczlrNHNGYi0tV2lzOXdmc3RzWWxmQ21adDNvNUVPTnJ2OVQwQkY0dENNM2otMUpWYVhBQlI2MEFaell3R1FsSGMxemdScExlcWNkQ3V0MDZycnh3UXdfNGJ3bGctRlcxVHlNSWUxOXNzelRmbFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ARK Investment Increases Position in Airbnb (ABNB) with Major Purchase | ABNB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWHFQb1lINWFNNDNZSk91TlRneFF3ekFTLXMteW9SWG5fV0gwQTdJcWNWTzVycnd2OFA4cTlIdDZmbVJQc2N6YV9FaFloY2RvVVBkdFpJdTB5Yl9ucU1BaHpKLVFqUTVrVlpGNkdfd3A5S0hmZVppOEZLZl9Fa0hxcmFtQ0kwMDk3aEFidzA5OGMxU0l2RUlBUk11QVNmWGVLRnAxazFPVFFLLWkwbDhna2R4V01Ja1RidU9jYjdmb09OQmRBd3VvdkhfeWo5alhQcVdxUmN0dko1Wk5HUmx4ZzRRVGJkbkV1dXpTcldIbmxFbWtHY0wwZmpqWjdZeU5HZ1VRbXp4OGk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Airbnb Stock Falls. U.S. Travel Demand Looks 'Softer' Despite Earnings Beat. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjdaSUJ6QUh1LVh2amhHOEU1TlNUUVNKRk0zcENiN04ya1NRekp2ZTd1Um1hX1VNdVl2TWJfRlZZWmxFeXZkdTUyT2EyaXVjMGd4MHhMWjUtLS1kQnM1M29DLXVUM1ZnajZfamFZWWQzVXBkWExIYllOTXk5WnhWcHozSzNaTENqd3c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Airbnb Stock a No-Brainer Buy? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zcWhLWE9jRnhabzdqazBKS0FqR24xYlo4VXYtV1pyQ0pYeG5JSGpOb21ibC1QRDUyaWpEdVVrMFlfQ2RzYWdlOVVYeXlxMDg0aEQ2ZUdqNk5LRDk4ZS1ITUdHTlZMYlRRbHVz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbnb Stock: Long-Term Potential (NASDAQ:ABNB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LS1BIcU5QZUtBdzV4ZGo4UTZXSVFmMl9Fb05senRlWU5hYkFZSVVVRW5TZ29uczFDclRReS1FQXFtX3UyZGQteUtqR1NwOVlJVU90ME9McVZKVkRqQVdRNk5EaGpVMl9CZGFndkVycERGd05MLWhfUjE2d2ZMQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Airbnb Stock (ABNB) Teeters Like a House of Cards as U.S. Travel Slumps - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLW94cGhGN2Q0UlRJYmJ6MTVURHdhNjFjcEJLcm9FSEdwai1BS1AyUm55NjdMeUk2WFJTb1BoRmRpaGZ2Z21TV3J6ME1HZlJhSzgxUkliQVhNeEFTMWhzT2dxdGNtenJkV0dqb1cxcUJCdDR1ZFl0X2R3TjIxVW53cllXbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cathie Wood\u2019s ARK buys Airbnb stock, trims Palantir and UiPath - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSzF5NERZbnhXbEpFV3VHZ3FseWlmNjRQTnhOWGFSZkE4TXhjMGhiZGFrcl9EeEwzTXVVMGJxNC1UWG1DMl9PX1VvVVI1VzZSWWlYNVkwLUI2eDNhQVVnSGtTQ3dyNWhyTzQ1NzJsaWYyV1NaaTNjSWxyVFQ1T2tSeEMxZ2IyYTlRdGRibkdUcjZkMFJ3ZlJNVDNVYmpsQmhpMTJ3SlFFRVFicG1kdDZ4eTNfengzU1dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Airbnb Stock Is Ready For Takeoff (NASDAQ:ABNB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSktDTDFqQ09oRmVGYnk4SkRDNzN0UDJTWVhQbUxqZXBqY1BRd1FtTV90TGZJb0F1UjBkZGctWmNNcHE0dk5HcVFHUThBRHZBWFFJYkpRcnFFMUNhV3paaXdvZDZtTGRpeVBUc1BrajJlUGNoOExhM09abzdXekstR3VGZ3U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cantor Fitzgerald maintains $100 target on Airbnb stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS3l3RXR2QzJYYk5aM0VYQTdmbkZodzliM2pnVG90Znh4T0RyOEw5WWUzcnN2R3lhWllIY1lvWXJQQW01WXZLR0lMSEpTTzJJNjRESFRsbi0tY0NLcE9vUVBRVGVBVVM3RkxBOFotYW1HRnZmLWNTckRfZ2lZNllHWnFmd0drT05qN3hqWXBlSWdScnpMcWhvMzkweksyZVBOamNiTkU2cWk0MklWaWtjZnFqTUM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cathie Wood Scoops Up Airbnb Stock (ABNB) Ahead of Q1 Earnings - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1pJTDFGRDRFaGcwVVpUb0ZrdjQwV3lVS3ZfOTZYYzNCS1U0VnhIbUt2aDZjWEdyUndmdG5uNGNKRDU4NUN3SDVRNV9wUHAtbEFpcUJUNXN3UFNCbl9rbjhaVVdqalFtbDV2bGZsaVdCMFdrWmpFTThlQlJmdVY1eTJtcmw1YlZlTXN0eHk2R1FiTTdP?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Remain Cautious on Airbnb Stock (ABNB) Ahead of Q1 Earnings - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONkVKRmh6RTJxN3BLZC11MUFGZlBnOW5TbjdYcHZyaXluQ0ZqWUlqV1JPTHZlZ0xZenlnR2w3Nm1ScU1pdGxtU3VGVXZRcmstRUs5WXd0OGkwOTJuMlNBa29wS19iSU5zSXktVDVJTnd0YlgzWU5UUnUtYkNvdTlTOGtoQzE5Vjkya2pfQkJzNVdtU3hLdmlVZ01CS25GOGM?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 137.34
+      },
+      {
+        "date": "2024-11-25",
+        "price": 140.93
+      },
+      {
+        "date": "2024-11-26",
+        "price": 139.67
+      },
+      {
+        "date": "2024-11-27",
+        "price": 138.28
+      },
+      {
+        "date": "2024-11-29",
+        "price": 136.11
+      },
+      {
+        "date": "2024-12-02",
+        "price": 137.49
+      },
+      {
+        "date": "2024-12-03",
+        "price": 137.46
+      },
+      {
+        "date": "2024-12-04",
+        "price": 139.07
+      },
+      {
+        "date": "2024-12-05",
+        "price": 136.32
+      },
+      {
+        "date": "2024-12-06",
+        "price": 136.92
+      },
+      {
+        "date": "2024-12-09",
+        "price": 137.27
+      },
+      {
+        "date": "2024-12-10",
+        "price": 138.3
+      },
+      {
+        "date": "2024-12-11",
+        "price": 138.84
+      },
+      {
+        "date": "2024-12-12",
+        "price": 137.47
+      },
+      {
+        "date": "2024-12-13",
+        "price": 130.95
+      },
+      {
+        "date": "2024-12-16",
+        "price": 132.2
+      },
+      {
+        "date": "2024-12-17",
+        "price": 132.24
+      },
+      {
+        "date": "2024-12-18",
+        "price": 127.54
+      },
+      {
+        "date": "2024-12-19",
+        "price": 129.35
+      },
+      {
+        "date": "2024-12-20",
+        "price": 134.21
+      },
+      {
+        "date": "2024-12-23",
+        "price": 134.52
+      },
+      {
+        "date": "2024-12-24",
+        "price": 134.99
+      },
+      {
+        "date": "2024-12-26",
+        "price": 135.32
+      },
+      {
+        "date": "2024-12-27",
+        "price": 133.38
+      },
+      {
+        "date": "2024-12-30",
+        "price": 131.81
+      },
+      {
+        "date": "2024-12-31",
+        "price": 131.41
+      },
+      {
+        "date": "2025-01-02",
+        "price": 131.48
+      },
+      {
+        "date": "2025-01-03",
+        "price": 135.71
+      },
+      {
+        "date": "2025-01-06",
+        "price": 135.2
+      },
+      {
+        "date": "2025-01-07",
+        "price": 131.29
+      },
+      {
+        "date": "2025-01-08",
+        "price": 130.8
+      },
+      {
+        "date": "2025-01-10",
+        "price": 129.63
+      },
+      {
+        "date": "2025-01-13",
+        "price": 128.85
+      },
+      {
+        "date": "2025-01-14",
+        "price": 127.6
+      },
+      {
+        "date": "2025-01-15",
+        "price": 132.52
+      },
+      {
+        "date": "2025-01-16",
+        "price": 132.16
+      },
+      {
+        "date": "2025-01-17",
+        "price": 135.12
+      },
+      {
+        "date": "2025-01-21",
+        "price": 133.07
+      },
+      {
+        "date": "2025-01-22",
+        "price": 132.5
+      },
+      {
+        "date": "2025-01-23",
+        "price": 133.24
+      },
+      {
+        "date": "2025-01-24",
+        "price": 127.09
+      },
+      {
+        "date": "2025-01-27",
+        "price": 128.96
+      },
+      {
+        "date": "2025-01-28",
+        "price": 131.05
+      },
+      {
+        "date": "2025-01-29",
+        "price": 132.58
+      },
+      {
+        "date": "2025-01-30",
+        "price": 131.79
+      },
+      {
+        "date": "2025-01-31",
+        "price": 131.17
+      },
+      {
+        "date": "2025-02-03",
+        "price": 129.78
+      },
+      {
+        "date": "2025-02-04",
+        "price": 130.74
+      },
+      {
+        "date": "2025-02-05",
+        "price": 129.6
+      },
+      {
+        "date": "2025-02-06",
+        "price": 132.57
+      },
+      {
+        "date": "2025-02-07",
+        "price": 134.98
+      },
+      {
+        "date": "2025-02-10",
+        "price": 135.24
+      },
+      {
+        "date": "2025-02-11",
+        "price": 134.52
+      },
+      {
+        "date": "2025-02-12",
+        "price": 140.52
+      },
+      {
+        "date": "2025-02-13",
+        "price": 141.04
+      },
+      {
+        "date": "2025-02-14",
+        "price": 161.42
+      },
+      {
+        "date": "2025-02-18",
+        "price": 160.6
+      },
+      {
+        "date": "2025-02-19",
+        "price": 157.98
+      },
+      {
+        "date": "2025-02-20",
+        "price": 155.31
+      },
+      {
+        "date": "2025-02-21",
+        "price": 146.07
+      },
+      {
+        "date": "2025-02-24",
+        "price": 144.82
+      },
+      {
+        "date": "2025-02-25",
+        "price": 141.55
+      },
+      {
+        "date": "2025-02-26",
+        "price": 144.03
+      },
+      {
+        "date": "2025-02-27",
+        "price": 139.45
+      },
+      {
+        "date": "2025-02-28",
+        "price": 138.87
+      },
+      {
+        "date": "2025-03-03",
+        "price": 140.98
+      },
+      {
+        "date": "2025-03-04",
+        "price": 141.42
+      },
+      {
+        "date": "2025-03-05",
+        "price": 142.58
+      },
+      {
+        "date": "2025-03-06",
+        "price": 134.77
+      },
+      {
+        "date": "2025-03-07",
+        "price": 134.39
+      },
+      {
+        "date": "2025-03-10",
+        "price": 132.15
+      },
+      {
+        "date": "2025-03-11",
+        "price": 125.44
+      },
+      {
+        "date": "2025-03-12",
+        "price": 126.55
+      },
+      {
+        "date": "2025-03-13",
+        "price": 119.38
+      },
+      {
+        "date": "2025-03-14",
+        "price": 122.86
+      },
+      {
+        "date": "2025-03-17",
+        "price": 126.94
+      },
+      {
+        "date": "2025-03-18",
+        "price": 124.56
+      },
+      {
+        "date": "2025-03-19",
+        "price": 126.0
+      },
+      {
+        "date": "2025-03-20",
+        "price": 126.15
+      },
+      {
+        "date": "2025-03-21",
+        "price": 128.8
+      },
+      {
+        "date": "2025-03-24",
+        "price": 129.82
+      },
+      {
+        "date": "2025-03-25",
+        "price": 129.88
+      },
+      {
+        "date": "2025-03-26",
+        "price": 128.64
+      },
+      {
+        "date": "2025-03-27",
+        "price": 125.65
+      },
+      {
+        "date": "2025-03-28",
+        "price": 120.69
+      },
+      {
+        "date": "2025-03-31",
+        "price": 119.46
+      },
+      {
+        "date": "2025-04-01",
+        "price": 121.18
+      },
+      {
+        "date": "2025-04-02",
+        "price": 122.8
+      },
+      {
+        "date": "2025-04-03",
+        "price": 113.97
+      },
+      {
+        "date": "2025-04-04",
+        "price": 106.66
+      },
+      {
+        "date": "2025-04-07",
+        "price": 106.3
+      },
+      {
+        "date": "2025-04-08",
+        "price": 105.69
+      },
+      {
+        "date": "2025-04-09",
+        "price": 121.32
+      },
+      {
+        "date": "2025-04-10",
+        "price": 113.91
+      },
+      {
+        "date": "2025-04-11",
+        "price": 114.54
+      },
+      {
+        "date": "2025-04-14",
+        "price": 113.22
+      },
+      {
+        "date": "2025-04-15",
+        "price": 114.64
+      },
+      {
+        "date": "2025-04-16",
+        "price": 112.64
+      },
+      {
+        "date": "2025-04-17",
+        "price": 112.7
+      },
+      {
+        "date": "2025-04-21",
+        "price": 111.61
+      },
+      {
+        "date": "2025-04-22",
+        "price": 114.91
+      },
+      {
+        "date": "2025-04-23",
+        "price": 118.28
+      },
+      {
+        "date": "2025-04-24",
+        "price": 121.71
+      },
+      {
+        "date": "2025-04-25",
+        "price": 122.51
+      },
+      {
+        "date": "2025-04-28",
+        "price": 123.3
+      },
+      {
+        "date": "2025-04-29",
+        "price": 125.49
+      },
+      {
+        "date": "2025-04-30",
+        "price": 121.92
+      },
+      {
+        "date": "2025-05-01",
+        "price": 124.01
+      },
+      {
+        "date": "2025-05-02",
+        "price": 125.26
+      },
+      {
+        "date": "2025-05-05",
+        "price": 124.89
+      },
+      {
+        "date": "2025-05-06",
+        "price": 121.67
+      },
+      {
+        "date": "2025-05-07",
+        "price": 123.12
+      },
+      {
+        "date": "2025-05-08",
+        "price": 126.39
+      },
+      {
+        "date": "2025-05-09",
+        "price": 127.04
+      },
+      {
+        "date": "2025-05-12",
+        "price": 134.21
+      },
+      {
+        "date": "2025-05-13",
+        "price": 138.05
+      },
+      {
+        "date": "2025-05-14",
+        "price": 137.45
+      },
+      {
+        "date": "2025-05-15",
+        "price": 136.79
+      },
+      {
+        "date": "2025-05-16",
+        "price": 138.0
+      },
+      {
+        "date": "2025-05-19",
+        "price": 136.6
+      },
+      {
+        "date": "2025-05-20",
+        "price": 132.13
+      },
+      {
+        "date": "2025-05-21",
+        "price": 127.52
+      }
+    ],
+    "current_price_data": {
+      "price": 127.52,
+      "change": -4.61,
+      "percent_change": -3.49
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

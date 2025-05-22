@@ -1,0 +1,646 @@
+{
+  "ticker": "DOW",
+  "name": "Dow Inc.",
+  "sector": "Materials",
+  "market_cap": 21340164096.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 75.475,
+    "PB": 1.2711579,
+    "EV_Revenue": 0.899,
+    "ROE": 0.020599999,
+    "ProfitMargin": 0.0068699997,
+    "GrossMargin": 0.09559,
+    "DividendYield": 9.3
+  },
+  "technical_indicators": {
+    "RSI_14": 49.32296038280601,
+    "Momentum_10": -0.7560800186044867,
+    "MACD": -0.3075372725721337,
+    "BB_Percent": 0.6370138881726676,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8915796302089624,
+    "QualityScore": 0.3011706886338635,
+    "SignalScore": 0.694731590059189
+  },
+  "volatility": 0.0285814077217634,
+  "beta": 0.94,
+  "return_6m": -0.2935326067744793,
+  "analyst_rating": {
+    "recommendation": "hold",
+    "analyst_count": 19,
+    "target_mean_price": 35.95368
+  },
+  "news_sentiment": {
+    "summary": "\ud83d\udcc8 Key Trends:\n\n1. S&P 500 and Dow Jones have experienced six consecutive winning days.\n2. Investors seem to be looking past the U.S. credit downgrade.\n3. UnitedHealth is hampering the Dow's performance.\n4. Stock buyers are wading back in, leading to a market bounce from lows.\n5. Tesla is experiencing a decline in stock price.\n\n\ud83d\udcdc Signals:\n\n1. Positive: The S&P 500 and Dow Jones are experiencing a positive trend with six consecutive winning days.\n2. Negative: The U.S. credit downgrade has created jitters in the market.",
+    "sentiment_score": -0.25,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.35,
+    "negative_ratio": 0.45,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "S&P 500 ekes out sixth winning day as investors look past U.S. credit downgrade: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnAxVXlNanBTQUphajVkdWFWZVdNMEhCbW8yMEkwQlNCX3ZpOW9xaGxUdWF2MVVhQ21INGdobEcxd2FqTUNZVnlwTlpqYkp5WE1IajNWcmZoRTVBajVfbzhGWFd5OWlkMjJrTXVvbUk0UXQzQU1fWDhFOE83Z0MtZG43UlRjeFN2aVBETVBhbF9fNk4tOWxqV1diS0tXNjF2cnQ4WWdsZXAxVHNyNW9lWElNWVVJM1ZZ0gG-AUFVX3lxTE81c0dFay1fRnJSN0RlcG5ETlk0U3g2a3h1NjE2MVlNRkVzYmlLak9yWXFBM1hXaU9kaWJuZjNOeUdEU3JMLW9QV0xaci1wYzBxcjQ4cW5XeFJNS0NULXJZS254M05mcEh3NDZRY1RwSzd6UTFvU1BPZlZVb29mWHNYZ1l0WGd4RENaamJuNDlsTGhlaGhjRWpsZFQzeXUtcWxyWk1BeVNxa0lSR2xwRmZiTTdaV09SUTNtVnVkVlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow Jones Index Today: DIA Stock Moves Higher on UnitedHealth (UNH) Comeback, Sheds Moody\u2019s Downgrade Fears - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVJOM05iRGlRUzA1SEdDcThVRmpBeF90NGVHbVlLa2p3anhiekZVLVJJMl9CMlY3OFlHcTg0QTFuQkd3LUtZYnh6UTFaWjVOQ3dwaTk3eklhMm5FaHpMcklnMDEwN0RqMjlvQjFLRmpiXzdrN3NiVHJaREdGRUphSXZYTm84RHhoSjVoRndDYUh6NWJYMTJzWW5mZ1U4cFdJTEVmT21n?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Stock Market Today: Dow Jones Up, Netflix Inks Sesame Street Deal; Bessent Says This On Tariffs (Live Coverage) - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2ZVUk5hX0g3TzJOZmtDeEhJa0NwQU5tN1ZNeDlVQm0yQUN4MkJXS0dYdURxYVQ1R1ljeEpTcUFhX0FRdWdhaW5sZUQ5eVdRVlhwME54VFdQQXhmTWdxTWZLSzRkOTF4NVp0X2pLaV82cGhZSllrZm9jMVBoRVVOamhyaERVQWZaQ3BoVWZ4OGlSbkFHNlpES3NiSjVTbnExTW9pLVg2bEFqVlotaFFuNUhxaHRHaGFTZVhlMEhoR1RCaWlRNk1zREQzZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "US Stock Market Highlights: S&P 500 ekes out sixth winning day as investors look past US credit downgrade - CNBC TV18",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHhjMVlNY3VkOTVvUnl5LTl2cS13ZFRRUWg4Si1nVmFHS3pEcWtmVWwtdTNZalY3ZGRocHg2S0tSdUFoS3JLS2hZSXA4ZkdmeUktYWowLUpVanVINWNybE5QWnNDN1lOby11OGdpV1dlbFRqcGcxUndGWlpvRW1kZS1aaGk0cE9kRUd1SFhjMHZ4RUFJQ1hnalhzSTdrd1lrZ3djM25hOHRJdndRcWd5UHlueUZlWDlMUGJGeXEzb2F0ZDhPbGJRMFp4SFUtQ09YS1BtdDdsSEJMRXVCVE5IYTZ5U2tyYlZNMTBlUG130gHzAUFVX3lxTFBzejllNkhGOE8taU5NUEhiRjJmUnFOUVV0UngwaWI5MWt3X0k3dlh6RFpud2ZvSUJSbHhXZlA1QXRZUWFScmNUWGNPeFN3a3dBRUhGZk5IS1FlMWt5YTdpbzBtWmd3SkVGLUQxbFZUX1lZb1FlRXBGZVZ3QlZCOHVGM1hNbENrYzY2bFNLdDRwUHpxaC00UzB1WW5ST1ZYUFNGYkZUb1BMZkFQbFB4RjFzc09rT3o3NlBpdGN5NUJpR0x4Q2hTdWJGUERhQTZXTHdiWkZRTk9BRzItUldXeFkyM3RLUTZzdk1HSzJ5NVh6UzFDWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "UnitedHealth, one of the worst S&P 500 stocks in 2025, is having a bigger Dow Jones impact - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3RlUm5FRG9wY0hLVkJxZDl1aG9uV3k3MVd0aURtdEhxUmx2QktmYTJhOTduV0QwaDBua05ETi1JaDIxOXpXVUowblpnY3dWTWJZQVhSNEtwZWxjeUFaWThsSGhGaXR5cFNWM1BkaVNEajFmbXFuLVcwc3hUUXRZT3lpUjVZQXFPaWJZblZwWmptbGFrbE5KZEt3ZUNDQUFxVkdxd2FsZkV6YmdZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock Buyers Wade Back In to Fuel Bounce From Lows: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWnpMblk3c3l3ZXlDRVZlVGVqUTdCRkFqdlI3WnpaRk1xTWJnekVJT01DMlpYT2tiRFdXUGZzc014YjVTa21ZV3BURHBCNFVwTFN6SzEyRnhSWGJ1UVo4b1hJdlhzMC1zdmxNSTBLMXBvd0hmNVk3RkVxSjE1YUpDcnZnVG5RWWN5VkFXOG9ZVnJFVFhhU1pqelpYVHF1ODZsMlUxV3RUYmFUa3RHN0hMeVVPQ2Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow Jones Futures: What To Do As Market Rally Powers Up; Broadcom, Meta Eye Buy Points - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUjhkY3JtdzdXbjk2MXZsc2tyWHVBenVWY01IbTNjelpPdEhsNGZDcGVMNEd6TFcyRVo0ejA5TmUydTFURnFKOFJUX293bjMxRldZT0R5SzZhVVVyUG1CZ3QyVHp4S2pXdktDalNJeDAyUTdiZjFYODlJdF9vcThlcUJGZDBoSExfS3VDU0NaeVlCTW5ZM3dNLXBQUzVoT1dIaDJHblNBVlNZLVRsbVpnWlN4TTdCV2xBcHBwdzlMcjVSUlBSNmZhdWhSLXhYcUhUOWFqbVZ2anhKV1R2R3p3OUZielEtN1Rj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P500 and Dow Jones: US Indices Rebound Today Despite Credit Downgrade Jitters - FXEmpire",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0NBV3VCNUFHQXVVOUs3cmdXSXVuUXk3TTFlZGVZTVY1OVVXTGlKYVduYWhVa1hDX1Q0UktjTW1UYVVtX3ZKWkNlaE91RVN6VVhyUzNCNnlBVmNnNzhuR0w1anMtV0hSNDBfaElaeV8tb1NCdWZ1aGxXWDJqMEFzUGN6cjdTcDhlMzBtaUJoMktObFRYSlBaMU1lRmQ3ekZiMjQyN0prUHBzVDVXT2h4RGRtLUJFUlNMVTRqeDJnZ192WVNXdE9R?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How UnitedHealth is hampering the Dow on the heels of CEO's resignation - Axios",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JZVpPMUtGNklFY3d0Rk5fVER5blJESlp3MW1XWi00VDBkNkFJQU5td1pjb0pOTFNVRnRPRU5KOUpFdy14SG5wY01sS3ozWXhRV1B1ZmxsOTg1R3lPRldoSVBrRkFId0pUaXMwY1U2YkZYcTRIQVZIbQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock Market Today: Dow Jones Falls After U.S. Downgrade; Walmart Skids After Bessent Says This On Tariffs (Live Coverage) - MSN",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPWVpmX25EZ096WDR1X0FrWFJSYnA0MUxLTGJ1dmJzNUpfWFh4WWdNRXVyVUViQ0NzTDBTZDNNekFKX1N5dko0NVRFOHdRSWo1c2VEd3ctVk5VcWtIRkEybGk2Q2xuQjJ6S1FaalVVTTVNRHNoMV9wTWNFWnpUYTVfcm9UTEV3eERiNnR6cUNneEJid040SGdZY0E0czZuUjdwdlF4djlkcFFrSUhYQ1VRSHh2MHMxUTZfcFNya2Q3a0R4ZC1ydVVDZC1TNFVOZG95SEhyOTFrc3Q0aUROdW9iOHhYQnI1UWp5Z05kMnJwdkw4cFRlXzJsejRhSDJPRlRVbmtvbkVteW9nb1V3MF9iOUV3a0tkS2JSR29jblFKZzQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "U.S. Credit Rating Cut Jolts Yields, Hits Futures - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblFRVWpMcGN0Z01LWWlsQXRfWUVUWmxiXzNTWmhOWHZXZUxaLW1LczNPdDFFcmw4clcxVXZTZkM3dVJ5QUtwbUFNQkktTDVXZmdzQ3MyXzJHYk0tWVhjeU45WG1FTlZrSFBiZFRyVElEZmFxa0MyOVZKUm9YUW4xOFl0SllaWDZOOGcxcThjU2JxVlBTYXRqeUYtOXZTRk5xVUJwdHcwRWlVMDdOWTVCdUZTRTdFZG1kMWF5ak1xVU5odXc5X19XMA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kneejerk reaction? Stocks trim initial losses and Treasury yields pull back from highs - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOaGQ2LW5VVUQwdkRWV0hLUTc3UUpweUJ4aG11QW5rSWpuUThjeUJfSlZLTXJ4NUJTMnNjTG5mVUJzQXFqdlR4dmdEYlVILW5hbGptVExndFhYXzhaeGYyU21hUUQwWDRSaXpQQ3BLb0R2cWdsYUN5VEF6aHRHaFhMY3hDOENhbkNITHNDQTBzSG5XU1dsX05TbEpUcE93V1d1YUpjcFUtdm53bUIyMEczWlB6WWlpX2VmVm9wZGdnT1B1TlROTHlDSHB3Uko4SHZMeDk3RGF1aUx4YzNkZFZFemhPN0lWUkIwWTg4aWZEVmIxYjItVElqV05yYlFGSUFZUjJwYi1mU1YtNTJFOWtwZ1hzWUxVcXVqMnpmWTFjelB2YXdpcUJQZ1RHLTU5djlNOEwtdUxjTWhsek44VGhsN090bV80RXVuTGtGNWt4LTJERVgyZ2FBT1l3S3k3elZ2b0dwX2JydVJMY0FNX2c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why UnitedHealth's terrible year is dragging down the Dow - NPR",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80RFJWM1pENlRzSjAydGllLXVxSTBralBYd2gyTVVBZENDUUhnZDRsdTVmR0x5NzIxMkRnb2VkMnYxZ2RvZktTdS1TTkRpWWh2RVlrdXg0aVM5dVRrdmRVWHJydDJrOUh1MzlaYUR2ek43Zl9Yclo2RGN2dWJadw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How major US stock indexes fared Monday, 5/19/2025 - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlBSUFROZWVPZTBJVy1jdVNqUExxLTNBZU1ScTVGWWh1N2luQTYtQzk2SjItWGdDSGo0RGhUdkJQVFJ6azJmeW1QX2FVbU5oaUVNbFFobms3dmcwN0FrWEtlaWdjSkI3VDlkNzl6MDRCY3luTDlfQjlLTlBUSElCMHo1STJoZ0V4d0hDb3JsQWRYT0dBZ0hiSnFXbFlSNk5DM0ptSDBDYlZLZlBwU3ZSeUhoaXZVczNKbUc2YjlLZmhZVlZna2Ew?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street today: S&P 500, Dow Jones, Nasdaq slip after Moody's downgrade, Tesla sheds 4% - Mint",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQkZtc01IU3FheDZWSS1UTGZKVG5SVFZHZUlwanllY19keTZHQThQb014akJELTdPX2pycldXWGlUZ0RPMG43Vk1yNHBvVlNieUpRRTI4MDdxdGdYSkpWMmE0WE9LLTFLSU1ibWRfUFJ4VU4yaEdSekRnYmZZRC1xZ2pDYXdKd0k2aVNJYk5JSU1VRC1WTWhZVUVPSnpEMG9NRUNSOHJXak84bmhGZjdBR090LWJqZDl2Q0pQd1VFYm1JWjZuNDdYNGs2bG1GRlpLdkI5YUctVzRVeF85aWlkNkxzcnE0cklsVmfSAe8BQVVfeXFMUHJvNFYwc2dId1FkNE9PTGJGUk9lMElwZlotSEEyUVFZQk1SOVNyc0lmdW5JLWt3S3FzNVJNd2dKQlYwTnVDVVhjRC13S215LVdsbWVRcGJfUnVtTy1pX1YyNnpTbVRINmlnaUdNRlZDZGJ2ZmZYSkdEZ0Uwb1NOanV4Ty0xSjJsSGFya1VaaDlfdEZyV1ZranpDVHRCcWJDMFRTOXhCQk41UVgxSDIwazRPOHlXenAwcmI4QUxTQVNMbmZsUHc4M1hDNGtHR1poMWpjX0MyWWM4RkRPYkhmWVZVNU9qUWhfR3dYdTlpdWs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla Stock Is Falling. What to Know About Today\u2019s Move. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WVXJ3NXRudEJHQy1KMGJ6OEYtMEo5U0EzZXkwZ0VTY19yeUNiY3VJcVFmNHRCWlB6UFk3YXlObENNS253UWx2S3NiQndyRU9OQXpXaGdvazI4NVJqV2d3SnJzOExwTWJIZDA2TDhuemdnSmM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Markets News Today, May 15, 2025: S&P 500 Rises for Fourth Straight Day; Nasdaq Winning Streak Snapped - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCRF9HcTFJOUpvX1dRdzRqTU5wVkFJRml2WUlGMk5ZZ3lod040T3pHQ0VacFZlVEw3NFFBcGZfRjVxamVVZkZyaDBLSEFmMXB3REhJWklQZ1N1VU83QWJMU0VFMkNYNWYtdXlGRk14TQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dow Jones Futures Rise With Inflation Data Due; Tesla Rival Leads 5 Stocks Near Buy Points - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczd1czJ1Y0dNUnpqcHJHWnU4UjJJT2NPd002S0dvOXlycUJqRTF4ZVBOU2pIakpaRW1vUDFCbk85VnRvZnh0cGRwbFNKWlpkOUNDY3BWTXI5T2hhdy1fTDZpU2xaR2JKWi1ZT2s4WWxGQ2JSd0Vmb0ZmSUxZTC1wc3lmZWVCRTF1Qm5ZWndVSlFfeTFWRlNPeGxJYVR2a3IxM0s5dWJNSUhyMDA4VTdOeDI1X1BxaHAtemwwYUtIMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow Jones, Nasdaq, S&P 500 weekly preview: Week of retail earnings, PMI data - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLTJOcGhnM0tFejZQdVB5WldWQ2JyWXFsOFZPMnRicEJjckZiQUtuX2dDa1drOEltMEVERExjdUtrQmk3V1dBSGc2U0R4cmx5aVV6Ti1pS0xSUFA2ZUx3bWhDN0laN3V1ajJGTXdabmpidFVrbFhybEthN0xuZXk3STNULTJSS0x2Q3JhUVBwN3VpeUhKLWNGVV9yTnRQNXR5dWcwTk1MTk5UTTdVUFZvbWU1ZkFjVXQ4dXZONGR5ZEpib3hYUThZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow Jones Industrial Average rebounds after Moody\u2019s downgrades US debt - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0pCSWVWSlJ1cndCZmdjUTFXZjh2RFhrUHFiNU1ySnU0S2VraGY2OUJYejJEa05vUFVKRnROM1Itc05QUXZ4M0UyanNTdjVSb2RXa0hxUndzWWlhWVFzbVQzenZBOFNhWjlnMFBvQW5rRmNSYnFfOWFMR3hDVDkzN1ZuMGhYZk0za3BhRWhaYzZueFY3YW4wWlV4OUZYZzk5SV92aWhncl9KSW1VYjlUcVNB?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 45.46
+      },
+      {
+        "date": "2024-11-25",
+        "price": 45.87
+      },
+      {
+        "date": "2024-11-26",
+        "price": 44.54
+      },
+      {
+        "date": "2024-11-27",
+        "price": 44.64
+      },
+      {
+        "date": "2024-11-29",
+        "price": 44.21
+      },
+      {
+        "date": "2024-12-02",
+        "price": 44.38
+      },
+      {
+        "date": "2024-12-03",
+        "price": 43.87
+      },
+      {
+        "date": "2024-12-04",
+        "price": 42.85
+      },
+      {
+        "date": "2024-12-05",
+        "price": 42.19
+      },
+      {
+        "date": "2024-12-06",
+        "price": 41.99
+      },
+      {
+        "date": "2024-12-09",
+        "price": 42.73
+      },
+      {
+        "date": "2024-12-10",
+        "price": 42.18
+      },
+      {
+        "date": "2024-12-11",
+        "price": 41.5
+      },
+      {
+        "date": "2024-12-12",
+        "price": 41.28
+      },
+      {
+        "date": "2024-12-13",
+        "price": 40.86
+      },
+      {
+        "date": "2024-12-16",
+        "price": 40.11
+      },
+      {
+        "date": "2024-12-17",
+        "price": 40.57
+      },
+      {
+        "date": "2024-12-18",
+        "price": 40.15
+      },
+      {
+        "date": "2024-12-19",
+        "price": 39.1
+      },
+      {
+        "date": "2024-12-20",
+        "price": 39.94
+      },
+      {
+        "date": "2024-12-23",
+        "price": 39.97
+      },
+      {
+        "date": "2024-12-24",
+        "price": 40.09
+      },
+      {
+        "date": "2024-12-26",
+        "price": 40.22
+      },
+      {
+        "date": "2024-12-27",
+        "price": 40.03
+      },
+      {
+        "date": "2024-12-30",
+        "price": 39.44
+      },
+      {
+        "date": "2024-12-31",
+        "price": 40.13
+      },
+      {
+        "date": "2025-01-02",
+        "price": 39.55
+      },
+      {
+        "date": "2025-01-03",
+        "price": 39.4
+      },
+      {
+        "date": "2025-01-06",
+        "price": 39.75
+      },
+      {
+        "date": "2025-01-07",
+        "price": 39.41
+      },
+      {
+        "date": "2025-01-08",
+        "price": 38.92
+      },
+      {
+        "date": "2025-01-10",
+        "price": 38.5
+      },
+      {
+        "date": "2025-01-13",
+        "price": 39.67
+      },
+      {
+        "date": "2025-01-14",
+        "price": 40.08
+      },
+      {
+        "date": "2025-01-15",
+        "price": 40.4
+      },
+      {
+        "date": "2025-01-16",
+        "price": 40.87
+      },
+      {
+        "date": "2025-01-17",
+        "price": 41.04
+      },
+      {
+        "date": "2025-01-21",
+        "price": 41.58
+      },
+      {
+        "date": "2025-01-22",
+        "price": 40.82
+      },
+      {
+        "date": "2025-01-23",
+        "price": 41.47
+      },
+      {
+        "date": "2025-01-24",
+        "price": 41.37
+      },
+      {
+        "date": "2025-01-27",
+        "price": 41.92
+      },
+      {
+        "date": "2025-01-28",
+        "price": 41.42
+      },
+      {
+        "date": "2025-01-29",
+        "price": 41.05
+      },
+      {
+        "date": "2025-01-30",
+        "price": 38.55
+      },
+      {
+        "date": "2025-01-31",
+        "price": 39.05
+      },
+      {
+        "date": "2025-02-03",
+        "price": 37.38
+      },
+      {
+        "date": "2025-02-04",
+        "price": 38.55
+      },
+      {
+        "date": "2025-02-05",
+        "price": 37.95
+      },
+      {
+        "date": "2025-02-06",
+        "price": 38.77
+      },
+      {
+        "date": "2025-02-07",
+        "price": 38.58
+      },
+      {
+        "date": "2025-02-10",
+        "price": 38.57
+      },
+      {
+        "date": "2025-02-11",
+        "price": 38.63
+      },
+      {
+        "date": "2025-02-12",
+        "price": 38.26
+      },
+      {
+        "date": "2025-02-13",
+        "price": 38.34
+      },
+      {
+        "date": "2025-02-14",
+        "price": 38.67
+      },
+      {
+        "date": "2025-02-18",
+        "price": 39.72
+      },
+      {
+        "date": "2025-02-19",
+        "price": 38.92
+      },
+      {
+        "date": "2025-02-20",
+        "price": 39.59
+      },
+      {
+        "date": "2025-02-21",
+        "price": 39.51
+      },
+      {
+        "date": "2025-02-24",
+        "price": 39.05
+      },
+      {
+        "date": "2025-02-25",
+        "price": 39.23
+      },
+      {
+        "date": "2025-02-26",
+        "price": 38.85
+      },
+      {
+        "date": "2025-02-27",
+        "price": 38.43
+      },
+      {
+        "date": "2025-02-28",
+        "price": 38.11
+      },
+      {
+        "date": "2025-03-03",
+        "price": 36.06
+      },
+      {
+        "date": "2025-03-04",
+        "price": 35.62
+      },
+      {
+        "date": "2025-03-05",
+        "price": 37.78
+      },
+      {
+        "date": "2025-03-06",
+        "price": 37.44
+      },
+      {
+        "date": "2025-03-07",
+        "price": 37.45
+      },
+      {
+        "date": "2025-03-10",
+        "price": 37.4
+      },
+      {
+        "date": "2025-03-11",
+        "price": 36.67
+      },
+      {
+        "date": "2025-03-12",
+        "price": 35.75
+      },
+      {
+        "date": "2025-03-13",
+        "price": 36.23
+      },
+      {
+        "date": "2025-03-14",
+        "price": 36.97
+      },
+      {
+        "date": "2025-03-17",
+        "price": 37.51
+      },
+      {
+        "date": "2025-03-18",
+        "price": 37.61
+      },
+      {
+        "date": "2025-03-19",
+        "price": 37.19
+      },
+      {
+        "date": "2025-03-20",
+        "price": 36.61
+      },
+      {
+        "date": "2025-03-21",
+        "price": 36.17
+      },
+      {
+        "date": "2025-03-24",
+        "price": 36.29
+      },
+      {
+        "date": "2025-03-25",
+        "price": 35.32
+      },
+      {
+        "date": "2025-03-26",
+        "price": 35.58
+      },
+      {
+        "date": "2025-03-27",
+        "price": 35.24
+      },
+      {
+        "date": "2025-03-28",
+        "price": 34.36
+      },
+      {
+        "date": "2025-03-31",
+        "price": 34.92
+      },
+      {
+        "date": "2025-04-01",
+        "price": 34.61
+      },
+      {
+        "date": "2025-04-02",
+        "price": 34.89
+      },
+      {
+        "date": "2025-04-03",
+        "price": 31.46
+      },
+      {
+        "date": "2025-04-04",
+        "price": 28.2
+      },
+      {
+        "date": "2025-04-07",
+        "price": 27.52
+      },
+      {
+        "date": "2025-04-08",
+        "price": 25.81
+      },
+      {
+        "date": "2025-04-09",
+        "price": 29.86
+      },
+      {
+        "date": "2025-04-10",
+        "price": 27.29
+      },
+      {
+        "date": "2025-04-11",
+        "price": 28.43
+      },
+      {
+        "date": "2025-04-14",
+        "price": 28.88
+      },
+      {
+        "date": "2025-04-15",
+        "price": 27.7
+      },
+      {
+        "date": "2025-04-16",
+        "price": 27.47
+      },
+      {
+        "date": "2025-04-17",
+        "price": 28.15
+      },
+      {
+        "date": "2025-04-21",
+        "price": 28.12
+      },
+      {
+        "date": "2025-04-22",
+        "price": 29.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 29.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 29.76
+      },
+      {
+        "date": "2025-04-25",
+        "price": 30.02
+      },
+      {
+        "date": "2025-04-28",
+        "price": 29.95
+      },
+      {
+        "date": "2025-04-29",
+        "price": 30.65
+      },
+      {
+        "date": "2025-04-30",
+        "price": 30.59
+      },
+      {
+        "date": "2025-05-01",
+        "price": 30.53
+      },
+      {
+        "date": "2025-05-02",
+        "price": 30.42
+      },
+      {
+        "date": "2025-05-05",
+        "price": 28.95
+      },
+      {
+        "date": "2025-05-06",
+        "price": 28.8
+      },
+      {
+        "date": "2025-05-07",
+        "price": 28.45
+      },
+      {
+        "date": "2025-05-08",
+        "price": 29.24
+      },
+      {
+        "date": "2025-05-09",
+        "price": 29.48
+      },
+      {
+        "date": "2025-05-12",
+        "price": 30.98
+      },
+      {
+        "date": "2025-05-13",
+        "price": 30.77
+      },
+      {
+        "date": "2025-05-14",
+        "price": 30.17
+      },
+      {
+        "date": "2025-05-15",
+        "price": 29.9
+      },
+      {
+        "date": "2025-05-16",
+        "price": 30.19
+      },
+      {
+        "date": "2025-05-19",
+        "price": 30.11
+      },
+      {
+        "date": "2025-05-20",
+        "price": 29.79
+      },
+      {
+        "date": "2025-05-21",
+        "price": 28.75
+      }
+    ],
+    "current_price_data": {
+      "price": 28.75,
+      "change": -1.04,
+      "percent_change": -3.49
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

@@ -1,0 +1,654 @@
+{
+  "ticker": "OR.PA",
+  "name": "L'OREAL",
+  "sector": "Consumer Staples",
+  "market_cap": 208928702464.0,
+  "source_list": "CAC40",
+  "fundamentals": {
+    "PE": 31.28452,
+    "PB": 6.028769,
+    "EV_Revenue": 4.695,
+    "ROE": 0.20625,
+    "ProfitMargin": 0.14737001,
+    "GrossMargin": 0.74183,
+    "DividendYield": 1.85
+  },
+  "technical_indicators": {
+    "RSI_14": 53.03944112433358,
+    "Momentum_10": -3.2228791309528835,
+    "MACD": 7.726952516675624,
+    "BB_Percent": 0.5104116120379973,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8841706153524878,
+    "QualityScore": 0.4238728754977788,
+    "SignalScore": 0.6868068577286064
+  },
+  "volatility": 0.0166703577620643,
+  "beta": 0.866,
+  "return_6m": 0.1715125547512546,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 26,
+    "target_mean_price": 378.0
+  },
+  "news_sentiment": {
+    "summary": "Les titres pr\u00e9sent\u00e9s concernent une entreprise cot\u00e9e et ont pour th\u00e8mes la politique, la sant\u00e9, la biotechnologie, la finance, l'\u00e9ducation, l'environnement, la sant\u00e9 publique, la politique \u00e9conomique, la sant\u00e9 du travail, la distribution, la sant\u00e9 de l'entreprise, la sant\u00e9 de l'\u00e9ducation, l'\u00e9ducation des professionnels, l'analyse financi\u00e8re, la sant\u00e9 de l'entreprise, l'\u00e9ducation des professionnels, la politique \u00e9conomique, la sant\u00e9 de l'\u00e9ducation, l'\u00e9ducation des professionnels, la sant\u00e9 du travail, la distribution,",
+    "sentiment_score": 0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Shapiro Administration Officials Visit Reading Area Community College to Stock Campus Food Pantry and Tackle Food Insecurity Through PA Hunger-Free Campus Initiative - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTIta0tDbHMwUHBOV2dyMWVJelRwYWFNTkpUa3IzeDlZdGdISzVHb3VhX2JXUDFWemF5US01VGRMejdzTjdQY0ZYSjg1UjZrTktzNmNpOWpocUJHX0gyUk9ZaGt4R19sRXBUTnJ2MVQtQk03UFVDTnE5a1NDRnh1VG9LUWJIWWhIUWMyWDRIMWhOMWNGSVJ0TTk3ZUdNMFRZbjkwOV9ydw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Andrew Baker, MBA, MPAS, PA-C, Shares Vision for SDPA Leadership - Dermatology Times",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcW5vOUJJdklJR2VvN2JsQnljdTZ6OEdVUzVGR3E4R1BCWTl4eHNQRkROWU9aOFRDUnFDOHAxbjVabnVCc1RnTlotckN2enZEQnA4RTdNalNTR1p3b2s0SDdJYm1fc1kxMG9SLVR0alJDUGUwOVJGZWhKU0dOTnZkY215MHAtSFlUdW4ybzAyZmRRZHdseFRjMFF2QXU4eDQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "L'Oreal CEO bullish on US as China sales stay weak - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeHVZMEk3RHh0Q00tazQ1X2M5dDgtTThjRUhrd2RUV2NVMnhHazduZ3lLWWlkM1M3QVZYRXVuR1FMZGFOSGUtc1JxTTMzb1h2TXZnSEluNE5tRDlQVUxNamtlcUFhZHhMZTRLVUV5WHZobzZITFRUTlZDS2JCU2p5c2RtU2Q4UQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "The Rosen Law Firm, P.A. Announces Proposed Settlement on - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQbnh4aTlHa2JCbnE5dVAydS1ESE9sLWRGWEZmek5FeE1jRDlJZElBczF2dUV5OEV0dXN0djZab0dwSUdCakE0OV9Fal9OUE5YcjZzVzdYTnNFNTh0eC13YWRRMzN6dnBOVmg3R0NqczFRUlVybS0yblU5U2tiTkZCOFZnV1I0R3k3U0NUSGs5T1ZJNFNBSENmNW5ESThFRl9OSzdGc21JU1ZnOGNyZGZ3b01OanktNDlheHR0eTdYa3Uzd0l5dFAwRzNFa3BNZUN4OGdKcEVhMHFIUnNjV2FuYVlEOGNnTW9wamFCRWc0MElnOXduVU50Mlg0OTJNcDh6QUIzTkFmWjFpeFZlcGh5MjdBMjZEaHA0aHozWDlxU3ZKVE01dWJ2RGRtMERQR2JWbU93SXhicFpNVEpWQ0pLNUdJcU5FT2JjOThhYmpRaTN1THNOaXNrYnN1bVFmdjlaakV1b0t1eERROTVG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Ways The Trump Administration is Impacting Stock Prices - Montgomery Community Media",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUtKeVo3cUQ2ZXlyejdCZ1loVUVqcHBzUjI1X1NtUy1neF9Yb1JQZG1pQ05iWXJNR1BGOG44LW91ZTdmblc1TmhsWG9oaWFlNC02bUFFc0tQUDFsc0RFTVZfUVhoOVpqWnEwMGFiSTNKbVlfdzF3QUoybFFYSVNYRUVCeXpPQzVGT3c2Yw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Best Pennsylvania Trout Fishing Spots - VISIT PA",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52VjhTZENPNUtBN21KSWJKWFhMOWlwOUZ4T0FtaUY2UlhiemJhcmNKcU9lQXJsNXBwdGtENjY4WXJjQjFDTGU0a3NNY2tka1lnUWs3TUVNRjVkekRaLWtWVUhFdU1acllKUkRUdkI0T1lzV0M2em9vWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ohio and Pa. differ on smart meter opt out - WKBN.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWlDLWNwVGFRa1FfTUdHMmdjZElRSGFoWDBoR0sxVkt2TW5WaUkxQURWWkRvQjFqaXZxQk5wbXR6WmZEdGJWV1VYSGRPVExqcWo0Si0zYWNMRG5WU0NnR3dMTGhQZ2pRQ3Z6VEtlSm0teFpJUnlITVFDOWlwOEwxODVlaDI5Z9IBiwFBVV95cUxNX3AweVNuZFc2U19KdFVlekVKSElXVHBjNGtXYkpoSGtJb1NwZ2xYRzFtWjk5UC1RbEJ0WjVuZEluc091RmZud0wyT2dqQ1lDc09wQlFJTnRoYm9qdm5jNzdoMW1uTWFab3RlTThVWGdFeTNuSFFucUk1QjJiYTcxMEpyTnhITXY5Q1J3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Moderna\u2019s stock pops after biotech ekes out a surprise profit, and revenue beats by a wide margin - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU19COWZkNHY1Wmoxb0VIbWcyMko2eGl5cC1QOGpZU2N2U2s4bWpUN1JxRmVKZGQ2STE0SThncHd0a25qV1YwcUFqdkVILXplTV9iUktqTms1SWRNNVhkYjZaTlVqRHM5Tm1GWGZDWVJmUlBpQ19EdThGOWFMeXNTQ0Rvem1ua2xzei11bmFhNEdXS1JSTFlKLUJ2bUFrTTY2QWR6Tm5vR09BclNIUVBvbXI0R2p6QkpQUnBrSDFsZU5CRWgtWGU0X0tZazJuY2RhdUtINlZBSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Understanding how the PFBC stocks 4.2 million trout and improves wild trout fishery - Erie Times-News",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRzV5b0pXcWJweXhoem5jbkxzaTUzOVJHVWMyNU50M3VRbkYtdmJSSlRNb3lQU1pNX3MwUUYyamUtWE1Lekl4dkpQOWo0V2lTZUU0cjNGODBRWlBlWHR1dlNva3ZHUXNPcl9jdDFVNkNHMVdNUl9zclZ1anlBcDZhLUdVMGI4Vm1uNVg2X1h1MGlacW1ZMFFnX0tXRXZ5OXNJZTR4R1NlVms0NmREc0tCQk1QZXlSVXR3aWYxRlNBdmEtMVBOdkU3c0d5RzJmX3E5ZTlLYUJCVTJNT2JiSWNrZ0xiSllBaHJKQnVuZENVVEhobmtl?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2025 Trout Stocking Schedules Now Available! - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2IwZXQ4WUNGbk9KZE9PU01FcjhodVpwZzR5cE8ya1lEcG5odi1UNWxnNWxYcGhtdnNqRXRodkFybG1NOWpKZlZTRGpUTlZtSDdjckpLY0ZRVy1WQmdJamFsVUNNTEJqY1B2SFAzQ296dnVGRTRjYmNaQ2w1LUZVNm5DZ1hiXzR2YWJEY0xmQWFWWHVLeWFYSjlKVG5jMUk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shanna Miranti, MPAS, PA-C, Shares Expert Acne and Pediatric Dermatology Insights - Dermatology Times",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUxWVHMwVlI2YVZuTDI2SHlhNnNRVzdBZi1pLUt6VFktMzJDRzJFb2JaZDNLRk92dXIwX1JPU3c4ZXczNDB0dEh1UjNwcklRYjVsdnlGcnMwbkhDMjdyM1pFMllPVHlpRUF4c2l4S09RVm01VVVBY3RYR21sTnUxaTctYkFQMS13ZlIxVFVzcG5tdkNwOXF5THBTdEVPREgzTkJkcUJqbEEzcEQ5ZTNiWVNFYVN4UWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Rosen Law Firm, P.A. Announces Proposed Class Action - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOLWpoZXpzbDlDNUhiZUVCdHJUOWR4Z1VEWk9XSnpKLXZOWkg2UnNCc25uMVNlTnNRb0Ezbi16QlNsTUctYThBUWdUU19ZZ18xZExNN3BHejNMNmQtYnJ0WjVkb09oWnA4RWRqamhpNnd2cjRZS2JpelhoV2pQeU9uRU5WRjJnVVc3d2xlMnQ1UEJUUmFoZVFyd3pOQmNfTFc5OXZMei1VR3dWcWtZRWgwU3VkN0VxdG0xRm9KN05uMllqTzdqTW9Ra24tOXV0S1dMOElIeE1JQk5sYlVyVzB0Z2RPdTE0enIyYUFVVjZuYXlfRzlpWUxORDdnMmNYTGJQcnpfZmRINDRBbzZSVjJ6ZjdzcC01N2tfX0ZLbmItZGx6V1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Department of Banking and Securities (DoBS) - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81N2h2QXZlSHpSaHRkSS1lMUpPaHc0R2UwWExGckhXSFFXdEZGRUwwUGpFZGRCeFNlOFhtVXVBWEctWmxvX2VYLXh3bWJRZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pa. trout stocking schedule to be released, changes for fish clean and new places to fish - Erie Times-News",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMjVzSm1ONVJXM19FLU9OdU9VNHJsVW1qWHhQRnJHNGNpc0FybXl2N29Db1hSYzc3eTlDalVab2ZweWYzOFp5d3VKNklxSF9DVzhSMHdSbHY3QXRTTmZJZUllUUNiNVdiampJRmpBNEFmeHlaUmVkX3BRaHVKcVB6eDBoZmtYakVSZDZ1dmctekN4bXV5eVltRzRiSHpIQmkwdm9ETkRWbDlXMzhfSElvNURyTkJ5UUtyUkJfMFlpX1kzZTFld28tTE5nUERaaS1ZN19aU2wxVnM4TEVFLUJ0RXYyN0dONnVxanYtSGZJVGJmaWljWFNvQg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Homepage - L'Or\u00e9al Finance",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuUnR6eUJDQTF4OUNVWnZwdm9waVhHTVl5OVRJUDhaV2trckwydlU2cnl5Qk15UWdWX0RZeEswek5tUm9xZ0NpNFlB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How PAs and NPs Can Make Doctor Money - The White Coat Investor",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HUld6RXRGVy1DWF9nZFA5YlpZTG1sLTdUSUEzbzl0SDAxeXZkdTB5T3F5T1FnY3Q2QXJfalZhZnJnT1QwVUp3Z2dMcHdzRTh5RG51Q1lzSXVnaUQtNkxST0FSbzdKNW1jR0R2al85R3owNHJqdHlqS0laVU8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "L\u2019Or\u00e9al Stock Analysis: Is It Worth the Premium? - eToro",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUlVLNWJVZERHcmZQa2REUExycHlsRjZQNnY4VUdlMFpaNE5rOXFCclNHenN4TF9PUXlnRGU4V3pZbGxJWFZGclZha1lKQ012YUdlc0I5WUR0TnhFeDZhaER2VlVJTHI1RXJDWWxEWEsyeWZpRi1Vc25HdkFfTHpUVXlidXR4V2lYMV82VHVWbHN5ZDJzWGlKM1BIWUFRNlIwRjE4QnhJUHNTYkdQZnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PSERS has delivered for school retirees \u2014 and Pa.\u2019s economy | Opinion - Pennsylvania Capital-Star",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFhYekdZdW50Z2FYckNxcTNOM2c2M1N1VVg3ZjhHZDRYaGlQOWx4R0RkUVgzMXl6UlJFeDVucUtFRGQtT1J1MTdxVlJWVXF4NkpJM1VZaVpQMnlIYjhxenZaRmpid1lMd1E4ZjJ4aEszVjVuUU9pbnlJZWFWUWJzNXJGT25Ld0tjcUF1bW5OY3RicnA5OWQ5MlhDaTNLbDMxTVk1U3dJQkI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Opening Day of Trout Season is This Saturday, April 5, 2025! - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVB4cUlxa2Jzb0hqTDdYZEZNemhsc2JEazB4emU5ek81ekRiMXJkQXFPX3VTQm1yejF4TGp5bFdZV0tmbWRXcVN5RmlVOUJQNHg4NVdGZXRTREdBNWpUQVNNWGxzRTNWUjB4ZnJONUdyc2VVSXBESXhydDJrTUxzSXlRYWJxN2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "L'Oreal SA's Dividend Analysis - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3MkhOZlgzeGNKNmZNOGdvR3Vfa1FyS2k0ZTlzR2lMUXc0SW1zM0NmVjh3U0tHUUY2R3NZdDZRSks1NzNUT1E4MWlMZVpXNFU3V05SQVQydVRDSkJWWnh0WWJEM1l4WHhmTmJnQVl1T09tNkFIUEtweGYwNm91N1k?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 322.9
+      },
+      {
+        "date": "2024-11-22",
+        "price": 329.05
+      },
+      {
+        "date": "2024-11-25",
+        "price": 333.7
+      },
+      {
+        "date": "2024-11-26",
+        "price": 332.45
+      },
+      {
+        "date": "2024-11-27",
+        "price": 332.85
+      },
+      {
+        "date": "2024-11-28",
+        "price": 328.9
+      },
+      {
+        "date": "2024-11-29",
+        "price": 328.65
+      },
+      {
+        "date": "2024-12-02",
+        "price": 333.5
+      },
+      {
+        "date": "2024-12-03",
+        "price": 329.6
+      },
+      {
+        "date": "2024-12-04",
+        "price": 333.25
+      },
+      {
+        "date": "2024-12-05",
+        "price": 336.15
+      },
+      {
+        "date": "2024-12-06",
+        "price": 343.6
+      },
+      {
+        "date": "2024-12-09",
+        "price": 349.7
+      },
+      {
+        "date": "2024-12-10",
+        "price": 345.25
+      },
+      {
+        "date": "2024-12-11",
+        "price": 341.5
+      },
+      {
+        "date": "2024-12-12",
+        "price": 344.5
+      },
+      {
+        "date": "2024-12-13",
+        "price": 343.35
+      },
+      {
+        "date": "2024-12-16",
+        "price": 341.6
+      },
+      {
+        "date": "2024-12-17",
+        "price": 344.85
+      },
+      {
+        "date": "2024-12-18",
+        "price": 342.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 339.35
+      },
+      {
+        "date": "2024-12-20",
+        "price": 336.95
+      },
+      {
+        "date": "2024-12-23",
+        "price": 338.05
+      },
+      {
+        "date": "2024-12-24",
+        "price": 339.85
+      },
+      {
+        "date": "2024-12-27",
+        "price": 344.5
+      },
+      {
+        "date": "2024-12-30",
+        "price": 337.4
+      },
+      {
+        "date": "2024-12-31",
+        "price": 341.85
+      },
+      {
+        "date": "2025-01-02",
+        "price": 338.1
+      },
+      {
+        "date": "2025-01-03",
+        "price": 332.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 338.0
+      },
+      {
+        "date": "2025-01-07",
+        "price": 336.25
+      },
+      {
+        "date": "2025-01-08",
+        "price": 331.45
+      },
+      {
+        "date": "2025-01-09",
+        "price": 331.9
+      },
+      {
+        "date": "2025-01-10",
+        "price": 327.4
+      },
+      {
+        "date": "2025-01-13",
+        "price": 328.4
+      },
+      {
+        "date": "2025-01-14",
+        "price": 326.65
+      },
+      {
+        "date": "2025-01-15",
+        "price": 329.5
+      },
+      {
+        "date": "2025-01-16",
+        "price": 338.9
+      },
+      {
+        "date": "2025-01-17",
+        "price": 343.45
+      },
+      {
+        "date": "2025-01-20",
+        "price": 340.8
+      },
+      {
+        "date": "2025-01-21",
+        "price": 341.2
+      },
+      {
+        "date": "2025-01-22",
+        "price": 349.65
+      },
+      {
+        "date": "2025-01-23",
+        "price": 354.55
+      },
+      {
+        "date": "2025-01-24",
+        "price": 358.45
+      },
+      {
+        "date": "2025-01-27",
+        "price": 363.15
+      },
+      {
+        "date": "2025-01-28",
+        "price": 367.6
+      },
+      {
+        "date": "2025-01-29",
+        "price": 356.35
+      },
+      {
+        "date": "2025-01-30",
+        "price": 363.55
+      },
+      {
+        "date": "2025-01-31",
+        "price": 358.5
+      },
+      {
+        "date": "2025-02-03",
+        "price": 353.85
+      },
+      {
+        "date": "2025-02-04",
+        "price": 350.65
+      },
+      {
+        "date": "2025-02-05",
+        "price": 345.6
+      },
+      {
+        "date": "2025-02-06",
+        "price": 353.1
+      },
+      {
+        "date": "2025-02-07",
+        "price": 340.6
+      },
+      {
+        "date": "2025-02-10",
+        "price": 342.45
+      },
+      {
+        "date": "2025-02-11",
+        "price": 341.35
+      },
+      {
+        "date": "2025-02-12",
+        "price": 333.95
+      },
+      {
+        "date": "2025-02-13",
+        "price": 342.25
+      },
+      {
+        "date": "2025-02-14",
+        "price": 343.35
+      },
+      {
+        "date": "2025-02-17",
+        "price": 343.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 341.8
+      },
+      {
+        "date": "2025-02-19",
+        "price": 333.95
+      },
+      {
+        "date": "2025-02-20",
+        "price": 337.9
+      },
+      {
+        "date": "2025-02-21",
+        "price": 346.1
+      },
+      {
+        "date": "2025-02-24",
+        "price": 347.75
+      },
+      {
+        "date": "2025-02-25",
+        "price": 347.75
+      },
+      {
+        "date": "2025-02-26",
+        "price": 350.55
+      },
+      {
+        "date": "2025-02-27",
+        "price": 350.1
+      },
+      {
+        "date": "2025-02-28",
+        "price": 353.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 359.05
+      },
+      {
+        "date": "2025-03-04",
+        "price": 358.0
+      },
+      {
+        "date": "2025-03-05",
+        "price": 364.4
+      },
+      {
+        "date": "2025-03-06",
+        "price": 365.8
+      },
+      {
+        "date": "2025-03-07",
+        "price": 359.55
+      },
+      {
+        "date": "2025-03-10",
+        "price": 364.5
+      },
+      {
+        "date": "2025-03-11",
+        "price": 356.25
+      },
+      {
+        "date": "2025-03-12",
+        "price": 350.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 354.85
+      },
+      {
+        "date": "2025-03-14",
+        "price": 366.9
+      },
+      {
+        "date": "2025-03-17",
+        "price": 363.45
+      },
+      {
+        "date": "2025-03-18",
+        "price": 360.25
+      },
+      {
+        "date": "2025-03-19",
+        "price": 361.85
+      },
+      {
+        "date": "2025-03-20",
+        "price": 360.6
+      },
+      {
+        "date": "2025-03-21",
+        "price": 352.75
+      },
+      {
+        "date": "2025-03-24",
+        "price": 349.2
+      },
+      {
+        "date": "2025-03-25",
+        "price": 348.2
+      },
+      {
+        "date": "2025-03-26",
+        "price": 342.75
+      },
+      {
+        "date": "2025-03-27",
+        "price": 342.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 345.1
+      },
+      {
+        "date": "2025-03-31",
+        "price": 342.85
+      },
+      {
+        "date": "2025-04-01",
+        "price": 353.1
+      },
+      {
+        "date": "2025-04-02",
+        "price": 356.25
+      },
+      {
+        "date": "2025-04-03",
+        "price": 350.9
+      },
+      {
+        "date": "2025-04-04",
+        "price": 349.7
+      },
+      {
+        "date": "2025-04-07",
+        "price": 335.85
+      },
+      {
+        "date": "2025-04-08",
+        "price": 343.6
+      },
+      {
+        "date": "2025-04-09",
+        "price": 335.6
+      },
+      {
+        "date": "2025-04-10",
+        "price": 347.05
+      },
+      {
+        "date": "2025-04-11",
+        "price": 347.6
+      },
+      {
+        "date": "2025-04-14",
+        "price": 350.8
+      },
+      {
+        "date": "2025-04-15",
+        "price": 343.8
+      },
+      {
+        "date": "2025-04-16",
+        "price": 341.6
+      },
+      {
+        "date": "2025-04-17",
+        "price": 341.85
+      },
+      {
+        "date": "2025-04-22",
+        "price": 363.4
+      },
+      {
+        "date": "2025-04-23",
+        "price": 374.5
+      },
+      {
+        "date": "2025-04-24",
+        "price": 380.8
+      },
+      {
+        "date": "2025-04-25",
+        "price": 374.2
+      },
+      {
+        "date": "2025-04-28",
+        "price": 379.2
+      },
+      {
+        "date": "2025-04-29",
+        "price": 388.0
+      },
+      {
+        "date": "2025-04-30",
+        "price": 387.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 393.3
+      },
+      {
+        "date": "2025-05-05",
+        "price": 389.85
+      },
+      {
+        "date": "2025-05-06",
+        "price": 381.1
+      },
+      {
+        "date": "2025-05-07",
+        "price": 374.4
+      },
+      {
+        "date": "2025-05-08",
+        "price": 375.35
+      },
+      {
+        "date": "2025-05-09",
+        "price": 383.2
+      },
+      {
+        "date": "2025-05-12",
+        "price": 394.55
+      },
+      {
+        "date": "2025-05-13",
+        "price": 385.15
+      },
+      {
+        "date": "2025-05-14",
+        "price": 372.6
+      },
+      {
+        "date": "2025-05-15",
+        "price": 376.9
+      },
+      {
+        "date": "2025-05-16",
+        "price": 373.85
+      },
+      {
+        "date": "2025-05-19",
+        "price": 378.55
+      },
+      {
+        "date": "2025-05-20",
+        "price": 381.05
+      },
+      {
+        "date": "2025-05-21",
+        "price": 385.45
+      }
+    ],
+    "current_price_data": {
+      "price": 385.45,
+      "change": 4.4,
+      "percent_change": 1.15
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

@@ -1,0 +1,646 @@
+{
+  "ticker": "FDX",
+  "name": "FedEx",
+  "sector": "Industrials",
+  "market_cap": 54990368768.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 14.434591,
+    "PB": 2.0623994,
+    "EV_Revenue": 3.965,
+    "ROE": 0.14762,
+    "ProfitMargin": 0.04462,
+    "GrossMargin": 0.27183,
+    "DividendYield": 2.44
+  },
+  "technical_indicators": {
+    "RSI_14": 57.91953542913664,
+    "Momentum_10": 4.455667773412678,
+    "MACD": 2.3052971383712304,
+    "BB_Percent": 0.8405823147387795,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8906056610718492,
+    "QualityScore": 0.2855982513263329,
+    "SignalScore": 0.626117849602378
+  },
+  "volatility": 0.0241457621875594,
+  "beta": 1.375,
+  "return_6m": -0.214442820992721,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 31,
+    "target_mean_price": 277.22934
+  },
+  "news_sentiment": {
+    "summary": "Les titres concernent les nouvelles sur FedEx Corporation (FDX). Les signaux forts sont les investissements en EV startup, les positions de fondationnelles, et les d\u00e9sinvestissements. Les \u00e9v\u00e9nements marquants sont la s\u00e9paration du division de transport massif, la chute de l'action et le d\u00e9tournement des fonds. La tendance cl\u00e9 est la pr\u00e9sence de difficult\u00e9s \u00e9conomiques aux \u00c9tats-Unis. L'actualit\u00e9 globale est de nature \u00e0 influencer le sentiment de march\u00e9.",
+    "sentiment_score": -0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "FedEx Reveals New CEO and Chairman for Massive Freight Division Separation Plan - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnJzNXk0NmFJSnpKZENuSEJEWV9kc2xvbEw4ei02dFNhWmQ4UURWVl84VmRiUHg5QkQ1c19PNG5xRTE4aFptbk4wSHQzbFRWWHBtZjFyOTFuYVhBYlRuQWdsT3NGamJiQVRHWnJ6TmE2di1XNjQyZjZRYk1SVGY3MmdhcWhRdkFpX3B0LS11dkRVbnk3dkdEWVVTaU5OemNLcnBQdy1UVHpGWGdvMWxlRWlKalhUa2Y5QS1RSA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx (FDX): BMO Capital Lowers Price Target to $260 | FDX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFluRUJjcWJKLXhBQXI0UXhfQmluSUotS0F5QldITFg3YkQ0dm5YRmJzSGlIX01fNEs5UXFPa1J6Y2p0aU4yTWpsZzJfWE1rLVo3a3E1VlNmYXNUZXpMNVlSSFhHN1RGdzdROThlM2lGSk4wRTM2UklTRjlORWRXSUNlYjNselVqQjBKaHpRWkNSTTk5ZFg2Nm41ZFo4SGhKdjVrUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx (FDX) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZXhyRU1YU2tvV1hTcTNKeGExdW11RmFqWTA3RmJZQjMxbUlpZ0xhVTRVTm1ldVBPdEE1bElybS1QaVg3UkdlSUhGNGwyTl9hZkdZNVRtM1MxQXdhdHA5Zlh0UFA2NW10S2JtazdLMFRRbjN1LUVlZ0hvUWM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "David Tepper\u2019s Appaloosa Sells FedEx Stock, Alters Mag 7 Holdings - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUGc4TkViLVhhanhYbHpEVkpqQUZiU2hkRGoxc0hlWVlQRldJRWFFQmxuejlPX2xDX0FfZ0pWS1lUMnQ3UEE0dDAwTnBPOFdBUGhWQUs5SHk0SmNJMHpXOEtfcml5bXgyUWFkMEFuVnM3WEpnLWd0TW5vLXh6MGRwbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx is the latest company to sound the alarm on the U.S. economy - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFNIYjk0M3E3VllvempPczZSNUxKa3ZTX1RORExsbTlwb2NESVhKTml3WTR5ZFBoZk9lQjlKbDNQSFlEVDdTZ2NkcDJTNXVDNVRielVYWG5DZUh3VWpjbS01TzI5TWxLRmdlOElFa2hYQ1NiZ1V2cGlfZ0p4MzJ3Ym12SkZMMG1sTFJuR19QOW5JUUtkTXZpT1Q3SkRGNEw4bzhXb2hMOWZXVzNJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What to Expect From FedEx's Q4 2025 Earnings Report - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzazByRzlvSklHZDJUX1c4N1Bzb0w2N1pZckNlOXQyX0hqYU5ab0h0a3dWaFVfTy1fMHBsUWJWTVlVbmxpQ2dRSTNlX1kzNHAzZFVfSXlIV2c3WHQyR2dFbzNPS0o3dld3aFVZUUdfd3JSVDhJbWlFRzRIR3NiblU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx (FDX) Target Price Cut by BMO Capital Amid Market Uncertai - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSXIyNFJIb2lIV3pmdFZfcXhXVXM4WXpjMzB6dVBPcUJIY0cwQnF0blBtRHVVMGZLdHh6S19QU19Ib2NleHJxVDZEX0FXY3E4Qmstc1NQSUJ2bVNUaG5waTRuWTd0ZmRqd2ZnZzNSczMwT083RFZEOEh0U0pvQVFLdlhzcENUYWlraHJyS1RMa2dJOEpRWnRGanV6cmxYUnZqenloQmhQdVY5bjdNb3UtLVN5TlRWakFRMkNn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Does FDX Stock's Lower Valuation Present a Smart Buying Opportunity? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNUE0RUROc0ZyQU5NVGUtd3NJZG8wYzZxb0lfU0pobFdPR0N6eGlma2ZRQTRDOF95REdHejNEU3VJTk82UFVsTW8xR3hnMVQ1X3dpTVMxVUs3dVUtR0oyWEc0Y01DZ0haWjI1MWJHNGdhbWFuSFdvNUlJbzM3Y2pXMmZ5dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx, Foxconn Bet Big on Revolutionary EV Startup: $54M Investment Powers Sustainable Ride-Hail Future - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWW9NYWllUWdCSU13SUxaaVpVN2huMkYzWmFDbVVCT0JwajM5VXNsemVqNmZCUjlWbXF2b09JaEZjc1ltOEs2MlNnNmxjeWpWQXlzWFBkSzc1RkZnaVJ3Z0RVRlYtbkNvdzBBWURYYi1ZSG5YbVBWVHFvUlVMLVVNRUM0VzZSN2l4b2w4ekQyT0VtNDY2a2hyREYzUk5UaHBkSHRlMVY4YnJmZkJNYjhkS0phTHM2S21JbmVFZUV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Sell FDX and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mM0ZRdXR1YktHZmk5dU5qb09TTDBLQWxXNDZHRUFRVnVyLUhMTVpsaC1ld2hBUE5FdUFQak4xRUltS0RFVU5BanU3dUNZZ3RzdldJX0toLTZHVkpCUEUwS1hPMnlOUndvazJkeGExTWxzMEFV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why FedEx (FDX) Stock Is Nosediving - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMXNKRTU3REM0YTNDajh4cmFpWlRzM2xtV0ozTXNjYmtvU2tHWnlPbmhzZk1UMVdhMGd6VVo1QUhoLUw0ZkhUMFFLWV9WcERBQkRYdms1d1BIay04MF9UMkdmOWhJUXV2alBJM20yVkxWXzZXVmhqUFJ2cXc4b1ZRcG5n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx Corporation (FDX): Among the Best Stocks to Buy According to the Bill & Melinda Gates Foundation Trust - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWpUb21oXzU0S2M3cWgwdkFJS0I3aTktM0VPRFR6N0F4WmU1UFdJaW9WX3liT0t6QV9CWFV5WTZnR0FvaGFMQWdaQmRzYlVIT05wc2N4NHVzMW5CSkdWNVFjeTlOQ2ZLMzBXbExDSzFoODBTQzRBUnFPejZRMkFlbEY0SUM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FedEx Corporation (FDX): Among Billionaire Israel Englander\u2019s Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDNYZUpERTk5OWN5amh5eWJhaUlnSm1TOXA5VzZkb092Q1YxUFBVOVdXVXhEV2JRVEd2X3hiY05LUHY2dGZwVEZrUDk5d1JEWld5V0tMVnYxNXJYbFZWcklIa2NyN21ZOHdqUzNWUmNnLVpCYnU2VmhiTTE0THdqa1ZOSVdEU0tyR3hBT193?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is FedEx Corporation (FDX) One of the Best Falling Stocks to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVhhNWJDSkZLMVZXNnR5MWlRLThzSXM2eklaU3J5UnZrSE5KRkIzT0hDWU1NZmxJODFSWVVSdk1XTy1xV2lWeXZjNUIwX1ltbDd5NjMtQXJlNUdHdzUxX3B3Z0ZuMjU0U2RSOHlQM0ZFLWZYSEVPcXhrQXBKUVg4SlRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx Corporation (FDX): Among Top Stocks in Bill Gates\u2019 Portfolio with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVldJSURYczJtM2N5T1U2bVB3ckFCSTBlTjV0NFc5ckFBTVFmTXZWTjhxM1dONmQ2aVVyblJXLTJFTUU0YlJhelFPZFkxZG1GYXdBaFB2VUxRd0xiWUdZZzZVTkw0RWczWEx1VDJXX3Z0UUViT0RvcWdpRjJaMnRmLVNwSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx Corporation (FDX) Fell in Q1 due to Macro Headwinds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQlp6dUVQZE1ZWnB0dWhLZmpUazVNQm5KamxnYWEtV29kMXhIbDloT0o1N1dyQVhldTVURWlpcGtYRS0yZDJSN1JUSVhhX2xzQlF1SklvVGNxTGlCLW5PTXVvSkp4R3ZuT1pvOHNaOVZfTjd0RDBsMjVhX2pSZWRwcA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How Should Investors Approach FDX Stock Post Q3 Earnings Miss? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa1poM3JMdG0yUndITUZWcTBMY2tSc2gzU3FRR2tVLWVaTktYcEZON01UOTJTb1c1b3l4WUFwWUkybVpLcXZsYmE0TjI1VDJubHJqa2Y3aGxweC03LU16UlJkT09VZWpWUjRWT0lRUXNZTHUwNXptS05hRHRJU0h1Z0pISGRYQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Thinks FedEx (FDX) Is Running on Robots \u2013 But the Market\u2019s Not Watching - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVzRxZzFPTnhxa2NRalYzTXlpQ1A1WnRXbVg0Rjh3aV9NZGxlcG1COVVqYzZfbXBfRlNFWGl2cVZ3SmtScjF1M3RQbjIzMVFVWEY0TndObVlqcDd5NXp5VEptR0Y4aWxzX3YyLWsxUUNyeUZxbHdUckZrcWxOQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is FedEx Corporation (FDX) the Best Stock To Buy According to Marjorie Taylor Greene? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcjFXbWVVSVljSng2VVFDeVJzX3NzZTYyaUlwUmhvT0s5MnVVTHU3cU9sNzRnTXVwaGF3dkhSMnhRazdKSkM2ZE5hakoyWWVWR3JrU3FyeUN1NDlueEpHQTZ6V21sWjZydHRIb2tVdFVjdktoSWxFdkUwUDk4WV9FUk5sQWI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FedEx Stock: Is FDX Underperforming Industrials Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSmVyQzRsbmtKLVlPSFlndFc4OTFzWVRjaXpGSklOd1JQdWJYVUM3WUNqOFlpUDVoUG8zQjJMdjJkZ1B0MGNpRFlxTEtodDBua0Y4RzVDWVpXcUg5MVZWUkV1aGZmal9EdF8zeHFNajJhMWNhSHZ4VFgzbWFkTjJCQlZFNERJWUVMeEE?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 299.97
+      },
+      {
+        "date": "2024-11-25",
+        "price": 305.15
+      },
+      {
+        "date": "2024-11-26",
+        "price": 302.98
+      },
+      {
+        "date": "2024-11-27",
+        "price": 303.39
+      },
+      {
+        "date": "2024-11-29",
+        "price": 302.67
+      },
+      {
+        "date": "2024-12-02",
+        "price": 296.69
+      },
+      {
+        "date": "2024-12-03",
+        "price": 282.85
+      },
+      {
+        "date": "2024-12-04",
+        "price": 283.43
+      },
+      {
+        "date": "2024-12-05",
+        "price": 279.42
+      },
+      {
+        "date": "2024-12-06",
+        "price": 280.68
+      },
+      {
+        "date": "2024-12-09",
+        "price": 279.53
+      },
+      {
+        "date": "2024-12-10",
+        "price": 279.32
+      },
+      {
+        "date": "2024-12-11",
+        "price": 281.16
+      },
+      {
+        "date": "2024-12-12",
+        "price": 283.69
+      },
+      {
+        "date": "2024-12-13",
+        "price": 283.42
+      },
+      {
+        "date": "2024-12-16",
+        "price": 283.44
+      },
+      {
+        "date": "2024-12-17",
+        "price": 277.43
+      },
+      {
+        "date": "2024-12-18",
+        "price": 273.16
+      },
+      {
+        "date": "2024-12-19",
+        "price": 275.88
+      },
+      {
+        "date": "2024-12-20",
+        "price": 275.73
+      },
+      {
+        "date": "2024-12-23",
+        "price": 269.01
+      },
+      {
+        "date": "2024-12-24",
+        "price": 271.84
+      },
+      {
+        "date": "2024-12-26",
+        "price": 278.66
+      },
+      {
+        "date": "2024-12-27",
+        "price": 280.36
+      },
+      {
+        "date": "2024-12-30",
+        "price": 280.55
+      },
+      {
+        "date": "2024-12-31",
+        "price": 281.33
+      },
+      {
+        "date": "2025-01-02",
+        "price": 274.28
+      },
+      {
+        "date": "2025-01-03",
+        "price": 274.41
+      },
+      {
+        "date": "2025-01-06",
+        "price": 273.97
+      },
+      {
+        "date": "2025-01-07",
+        "price": 275.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 274.9
+      },
+      {
+        "date": "2025-01-10",
+        "price": 270.73
+      },
+      {
+        "date": "2025-01-13",
+        "price": 274.59
+      },
+      {
+        "date": "2025-01-14",
+        "price": 277.62
+      },
+      {
+        "date": "2025-01-15",
+        "price": 276.59
+      },
+      {
+        "date": "2025-01-16",
+        "price": 277.37
+      },
+      {
+        "date": "2025-01-17",
+        "price": 275.1
+      },
+      {
+        "date": "2025-01-21",
+        "price": 275.57
+      },
+      {
+        "date": "2025-01-22",
+        "price": 270.43
+      },
+      {
+        "date": "2025-01-23",
+        "price": 270.03
+      },
+      {
+        "date": "2025-01-24",
+        "price": 273.29
+      },
+      {
+        "date": "2025-01-27",
+        "price": 281.53
+      },
+      {
+        "date": "2025-01-28",
+        "price": 278.65
+      },
+      {
+        "date": "2025-01-29",
+        "price": 275.06
+      },
+      {
+        "date": "2025-01-30",
+        "price": 269.24
+      },
+      {
+        "date": "2025-01-31",
+        "price": 264.87
+      },
+      {
+        "date": "2025-02-03",
+        "price": 247.34
+      },
+      {
+        "date": "2025-02-04",
+        "price": 250.95
+      },
+      {
+        "date": "2025-02-05",
+        "price": 252.41
+      },
+      {
+        "date": "2025-02-06",
+        "price": 258.77
+      },
+      {
+        "date": "2025-02-07",
+        "price": 256.08
+      },
+      {
+        "date": "2025-02-10",
+        "price": 258.23
+      },
+      {
+        "date": "2025-02-11",
+        "price": 261.26
+      },
+      {
+        "date": "2025-02-12",
+        "price": 262.65
+      },
+      {
+        "date": "2025-02-13",
+        "price": 263.12
+      },
+      {
+        "date": "2025-02-14",
+        "price": 267.77
+      },
+      {
+        "date": "2025-02-18",
+        "price": 267.45
+      },
+      {
+        "date": "2025-02-19",
+        "price": 266.87
+      },
+      {
+        "date": "2025-02-20",
+        "price": 268.46
+      },
+      {
+        "date": "2025-02-21",
+        "price": 254.19
+      },
+      {
+        "date": "2025-02-24",
+        "price": 253.54
+      },
+      {
+        "date": "2025-02-25",
+        "price": 256.48
+      },
+      {
+        "date": "2025-02-26",
+        "price": 256.12
+      },
+      {
+        "date": "2025-02-27",
+        "price": 258.54
+      },
+      {
+        "date": "2025-02-28",
+        "price": 262.9
+      },
+      {
+        "date": "2025-03-03",
+        "price": 258.77
+      },
+      {
+        "date": "2025-03-04",
+        "price": 247.74
+      },
+      {
+        "date": "2025-03-05",
+        "price": 250.41
+      },
+      {
+        "date": "2025-03-06",
+        "price": 249.79
+      },
+      {
+        "date": "2025-03-07",
+        "price": 253.92
+      },
+      {
+        "date": "2025-03-10",
+        "price": 246.51
+      },
+      {
+        "date": "2025-03-11",
+        "price": 242.96
+      },
+      {
+        "date": "2025-03-12",
+        "price": 243.51
+      },
+      {
+        "date": "2025-03-13",
+        "price": 240.98
+      },
+      {
+        "date": "2025-03-14",
+        "price": 242.2
+      },
+      {
+        "date": "2025-03-17",
+        "price": 245.3
+      },
+      {
+        "date": "2025-03-18",
+        "price": 245.8
+      },
+      {
+        "date": "2025-03-19",
+        "price": 247.12
+      },
+      {
+        "date": "2025-03-20",
+        "price": 246.21
+      },
+      {
+        "date": "2025-03-21",
+        "price": 230.33
+      },
+      {
+        "date": "2025-03-24",
+        "price": 242.32
+      },
+      {
+        "date": "2025-03-25",
+        "price": 241.07
+      },
+      {
+        "date": "2025-03-26",
+        "price": 243.67
+      },
+      {
+        "date": "2025-03-27",
+        "price": 243.92
+      },
+      {
+        "date": "2025-03-28",
+        "price": 241.71
+      },
+      {
+        "date": "2025-03-31",
+        "price": 243.78
+      },
+      {
+        "date": "2025-04-01",
+        "price": 241.98
+      },
+      {
+        "date": "2025-04-02",
+        "price": 245.17
+      },
+      {
+        "date": "2025-04-03",
+        "price": 215.86
+      },
+      {
+        "date": "2025-04-04",
+        "price": 210.12
+      },
+      {
+        "date": "2025-04-07",
+        "price": 205.23
+      },
+      {
+        "date": "2025-04-08",
+        "price": 198.07
+      },
+      {
+        "date": "2025-04-09",
+        "price": 217.94
+      },
+      {
+        "date": "2025-04-10",
+        "price": 206.4
+      },
+      {
+        "date": "2025-04-11",
+        "price": 207.77
+      },
+      {
+        "date": "2025-04-14",
+        "price": 210.45
+      },
+      {
+        "date": "2025-04-15",
+        "price": 207.35
+      },
+      {
+        "date": "2025-04-16",
+        "price": 203.56
+      },
+      {
+        "date": "2025-04-17",
+        "price": 207.55
+      },
+      {
+        "date": "2025-04-21",
+        "price": 205.12
+      },
+      {
+        "date": "2025-04-22",
+        "price": 206.57
+      },
+      {
+        "date": "2025-04-23",
+        "price": 211.04
+      },
+      {
+        "date": "2025-04-24",
+        "price": 215.69
+      },
+      {
+        "date": "2025-04-25",
+        "price": 211.56
+      },
+      {
+        "date": "2025-04-28",
+        "price": 211.5
+      },
+      {
+        "date": "2025-04-29",
+        "price": 209.85
+      },
+      {
+        "date": "2025-04-30",
+        "price": 210.33
+      },
+      {
+        "date": "2025-05-01",
+        "price": 210.06
+      },
+      {
+        "date": "2025-05-02",
+        "price": 219.72
+      },
+      {
+        "date": "2025-05-05",
+        "price": 216.99
+      },
+      {
+        "date": "2025-05-06",
+        "price": 213.41
+      },
+      {
+        "date": "2025-05-07",
+        "price": 215.56
+      },
+      {
+        "date": "2025-05-08",
+        "price": 219.21
+      },
+      {
+        "date": "2025-05-09",
+        "price": 217.83
+      },
+      {
+        "date": "2025-05-12",
+        "price": 232.95
+      },
+      {
+        "date": "2025-05-13",
+        "price": 231.15
+      },
+      {
+        "date": "2025-05-14",
+        "price": 231.8
+      },
+      {
+        "date": "2025-05-15",
+        "price": 231.11
+      },
+      {
+        "date": "2025-05-16",
+        "price": 229.51
+      },
+      {
+        "date": "2025-05-19",
+        "price": 226.12
+      },
+      {
+        "date": "2025-05-20",
+        "price": 221.14
+      },
+      {
+        "date": "2025-05-21",
+        "price": 216.81
+      }
+    ],
+    "current_price_data": {
+      "price": 216.81,
+      "change": -4.33,
+      "percent_change": -1.96
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

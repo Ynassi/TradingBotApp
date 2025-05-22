@@ -1,0 +1,646 @@
+{
+  "ticker": "MSFT",
+  "name": "Microsoft",
+  "sector": "Information Technology",
+  "market_cap": 3376379854848.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 34.970745,
+    "PB": 10.491224,
+    "EV_Revenue": 12.599,
+    "ROE": 0.3361,
+    "ProfitMargin": 0.35789,
+    "GrossMargin": 0.69074994,
+    "DividendYield": 0.72
+  },
+  "technical_indicators": {
+    "RSI_14": 76.99235911387468,
+    "Momentum_10": 4.554299542927157,
+    "MACD": 18.34917431984195,
+    "BB_Percent": 0.7986591353111349,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8573233998361134,
+    "QualityScore": 0.4316070942153272,
+    "SignalScore": 0.5280737489580065
+  },
+  "volatility": 0.0191440111782301,
+  "beta": 0.985,
+  "return_6m": 0.0990216869989049,
+  "analyst_rating": {
+    "recommendation": "strong_buy",
+    "analyst_count": 52,
+    "target_mean_price": 508.66693
+  },
+  "news_sentiment": {
+    "summary": "La tendance cl\u00e9 est que les titres Microsoft (MSFT), Nvidia (NVDA) et Tesla (TSLA) sont consid\u00e9r\u00e9s comme des stocks magnifiques. Les analystes ont identifi\u00e9 Microsoft comme un stock \u00e0 investir long terme en raison de son position de leader dans le secteur des technologies d'entreprise, et du succ\u00e8s de ses produits dans les domaines de l'intelligence artificielle et des services en ligne. Les trois titres ont \u00e9galement rapport\u00e9 des r\u00e9sultats financiers positifs dans le dernier quartier, ce qui a contribu\u00e9 \u00e0 leur r\u00e9putation d'entreprises fortes.\n\nL'actualit\u00e9 globale a eu une influence sur le sentiment de march\u00e9",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "MSFT, NVDA, or TSLA: Which Magnificent 7 Stock Has the Highest Upside Potential? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0dTME9ZOHpCNTdKYVM4YUtUVWk0QTZuaFppdHE2X19VSmJUVFN2OUpIUEVLYnZxaXBMbTQtVnZjU1ZITHZDbHdINVUxaWJJaVM5ZHA0VXlPYlFadHU1SlVyWnIwUUtKWVVkLUxDcC1EbzIxeURMTll6QUhmS0tKTV9WWFdNdWVVdkhCb3RPekhhVU5reFR2S2hoRHZaTFFhaHQtd0k2dks5dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft Corporation (MSFT) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWU96eVUwWUpQVTV3bU9zTGgzQ1FXQkEzc2FuQ1IwT0pjZlNseDY0Z0M1TDdqenJOeFBNd29MOEJHVmJBaVBpenZ2MkZfTWlTdTRQeEdNZExYU21qaVZpSTBKSkhVeUZ6ZEQwZVpmTTNLbEdVbzVDNnVsZjd3b0doR2o2RnJkWVBPR2tQc2pBNXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft: In An Uncertain World, Stick With Reliability (NASDAQ:MSFT) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONU13bHNHOExoN0FudHFXREZuaFZ2OEdFb1ZNYjBBNTFPX3NXYTVvWXFobmhkNVlOekF0WWZfMkM0SEFnaUtKT00xbVZqa01RX3RXQWc2X09TblVNSDNkUTlQQy1PR2lrcTRJMV9ncUtxaXlIR3dVVVgwNzVBMnA4SUpqMzBVemgxZlF4bUJ4dnhzTFQtcUFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Only 3 Mag 7 Stocks Pass Peter Lynch's Favorite Valuation Test - Tesla Isn't One of Them - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkMxc1hqNVBRZ3JVc2RNRGdJeXV4bDY0azRzYmYwSkkyU3FXMlBBY3ByNHdpU2NBQ2VoWFdxSXZHcDdQakRJREdzclFPRFdya29fVjdBZWZGd2c3cU9vWW8yZll4dzU2WWZleWViOFpQektmcWZIRzlsbE5GbU1STjQxVVNnLWJ0VjFSS0gzTWVjc1diV3lwcWZGaWV5cFJ0WXFsVzJtazhvdVdQb1FXM3BMc2h5SW53X0x5amRaUW5JZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Magnificent 7 Stocks Shift Toward Stability and Selective Growth - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeThqbktjQTF3TVY0V1JSYWczTUtlc0pZdGpwZWxrN3IyTlZvN1p4djBEc1F5dEtXUnJzckx3NWo0MWpDN0dObjVsbzFNcVVHbDVyekQ5SzYzY0Q0VkZHXzhFV0ozZnFERjdNb1FBckxjYWZqTnFyMnRHZlVhNWpGZVpYa201eUF1c20xYTJ6Q0hBcFZfWG1YMl9zal9kVEoyaHFfb0pOVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Citi Stays Bullish on Microsoft (MSFT) After Earnings, Layoffs - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQajhLOTNkT1RCWHg5ZWJXbXl5QUdVMnhHVjRuUkozSkVHZ3ZQdUo5b3JnOUJxZ05yWEV0emFSaU9RYUU3NWJPUFg1bnRoeDU0UFpuUlZBME5VMEZucnlFSVFfR0FrTWtnLS1rT2xma0JsMDQ5V1RTbXktNDBZaG01UFhsWDZqZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Microsoft (MSFT) is a Top Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZTZPYW9NRGhRaXk0SVYxYnFyZmY1ZUFlOTBnNWpFempxMnlIZE5JZkxQaVZwMnVUbzNsTjJ2ZGI5VzhNVTRIZjNzVzZLODF4aTU1NjJFR3dhYzBZSjYyMDVyREcxQ3RxSVlRcGp2MjdYV0VqM3BxelFPZUFfRzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft Stock Nears Record High As AI-Driven Layoffs Hit Hundreds \u2014 Even AI Director - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM2lIYXdtWVQ1ZzlPcnRfdExuY1FsVDJsOXhtWGRvRzlWS0dvTGFnX0NHSzhmVllzcHd2MWhpRGUyX1hJenVaQm9OUE5WOFFVTWpobUhXNDhGYVlNbFg4ZmR4d0dqVkY0UGp4bmtoM1BHejZMOVlFdzJkQ3F2bnZDM2h1alBGejVYZmFCWUk0TVZXMW96OVBuVk9hVUpzckhIdUF2enRoLWFjb0FFZlQxTm9PTTVzLUN2Wnd2RXNwS1k4MU9fTFlmSm5EVzdWOGJ0Ymc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Microsoft Stock Had One of Its Best Post-Earnings Days in a Decade - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmVqQVRhRXRvSDhWR1lUVlB2S1FpaTc0YjlfbVpkV2JFanh6YVFYX3piWlY5VnB4WHR3SXhobHFUdzJKSkVUWTZlVzgxMzJ1dFgxZ0Q5ekp6d2JFYy1heERILVo3SHpSTjdsUktHdmlkVU5YTGhMVmpLRmtkUDBXbGtaZllkUDc3UnljMmNpRjFMOVlNUnNMM21Ta2tSZ243Wlgwc0xKZDdKNS0w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft Corporation (MSFT) Is a Trending Stock: Facts to Know Before Betting on It - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekJFbTVsS09XbHh0UmVsdngyMG5FNGFGQThQbl9oOHZXM2ticW50V2t1a2M2eF9uRFU2WTFTYlVxLW1QYmJRTE50eUNRZWtaOGo0bl9FRExXMXh2QThxY20wa2lfRVZ2bmJHcmxKX3JndFAyZTRFOG5nWU83R094ekJ2Mlh0VUpoV28tYU0yR1plOFRscHVJTHRtRzFFUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What's Going On With Microsoft Stock? - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcm84dkNiMGE0Mk1jY0JUTng1Q0tnWWhZNXRvMGlZUmczc0IzTHhZVnZfMUFSbXJRajR4NHJ6SGs0RFotcEFYNjZVSzczdkhvQ0RycWgzR0toZ3VrdU5NOGVRMUM0WjdWLUQ1NzBXVHgwbEdjM3NfM0hhSTZTNmUtQUw3YXJSLWFXSVE1UXVfM3hnc2I0WUpVcEpqV1I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts reset Microsoft stock target amid post-earnings rally - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWM5eDRYS2M0amdoRDZBSXYxUGZVU21LZHRnTzdIR0FwNDVNLVRobGt4X2VrcFg0Y0NPQ1BMRktfTU1mTlp0NDJQWmFHbHJYb0t0SjhaRTNveHZPTFZNWFpUYWZlRXRzZV9RdWI1UXlCLVRBRndMNV9PQUpZaktNM0N5WW9JRlZzOEZPWXdsOFZyUk05ZFdNLVV0UHk4aUFT?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(MSFT) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXN5SGo5YnRCYlRzQ081Z0g3UGpLVl9tVk1aM1hSVzZlTlpfblY2SXQtV0Ewdk1KMGJGU1FOYUhGUmtMbExFaXZvUlY3SmpoRURTV1otaDcyVTJBVWd4SERPZmN4YWpWbF9qQ3FCTnhSNk85dm40aVpkNkd2NDRxQUQ5TnE3Ym1MT3AwYl9vZE0xOTdVczFhRWJwaXpZOFdQX004SzFSNDEwbVJDMWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft Stock: As Nvidia And Tesla Rise, Only One Mag 7 Earns This Honor - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLTJOY0FiejJ4Ymt4S1g1YjFRUlJxTjJJdF91and2VXpFMjVxdzFDdUEyVWg1djlsSXZxaEpmb09TcFphb0JhSFBWRTR3UlItUVhMc1VJSzRRWEtaeXVvb09RQmNTcU5tbXdCMGtENENEVTFiZFNwenJ1S1Zya0lIcmpndlRaS09JUFBxZmtfMDY3WXdlcmNVYWw2aExPaFVrajF6ZXFaN3Y2LW9OOE9GZVhYZFdmMEYxb1ROc1lLMzVGUW1EY093N2pNQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft and OpenAI Just Hit Reset-Here's Why MSFT Stock Wins - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPb1lNMUZwelpZVFh3VFlRbWlUX3hSb1RLWTNJY1BxZl9BSGZYNGs2Y3NsTFpUV05SY0FJWUpLS283N08wdU5RVHhsdWZ2WXVDQ3NvdEVobV81TlZWLVhNVGZnenZTSnB3a2RMa3JnUEx3R3I0bGJZOVJ5LTVtQ2dvTk15WGNqQ0R3N0g5TzhnYmlxbXBCTTVfTGUwMjltQlZ6ZHdVZHpURWRxUGtyLU51WmtOdGFTd3JHdTNNcTVtcTVDblRjNXNNSE1VeUIyMmg3MDUyLUVjWldnbWt5ZlducGNVaFVCRnkxUHBORldHOG9HanFteVdmZXZNVXBKdER3Tko2VUVVY2l6RnhBb21KSlBBS2JpS3lOOWNLUkNld3VkdlM5SzZpX2pxYklGWU5YM1JyVjdyeDdBQ0Y2QmVsN29qWEt1aDZMVE1zVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "US Stocks Brush Off Moody's, Echo Past Tech Booms - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZmdBT040U2pQZlFIUlVEMmFscGxJVUR2TjNjcEdXaURHOUtwalBCS3BLZ2lwTTN4aVBrU1ZPWkg3dWdITzJLRW8yYmJYMl96WTJtNmtKTmdZSXVMaUxWay05b2EySmpmVW44dGdkb0EzMmxyWC1nZTlPemJnMEpyOUZaWGNFNDI4YXI1eDF5TG8wM2xIVmlQbGNVaDMxWUJUVE84TkszN2lUSmV4SFpZX3NwOERRXzBIalNWUDdBOHZ6MHM1VWw3ZW5uVjZsZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow Jones Software Giant Microsoft Stock Hits New Buy Point After Big Earnings Move - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWlkZkNUNVZsMU1rUXFlY3VFSjNEYnhyb0FZUDBuaWNvUVlBSFlZWVNnaUkxSDZTdkdpai1MMzJIWVdTU05INDJZb1RPZFBxbkNCaDlNSUw2dVBkd29COXRhTzhnTkNnSjRHMzJKdjYxckpac1FGbGRYQm92TThiSFduMEZjUDBVaDNzYWN5SG9rQ1pEYW9abFdwTllyd1g2VVM4Yw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Microsoft (MSFT) Stock Soaring Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEFLVVFrbmVic0Nub21nbHNCdzg2cU96R05XaFNTN1dpSTZ4dzFSV1I2Ul9TV3h4SjZDZ0Q2YlYxN0J2REo2dURITXhpX0ZxanNteFU0UHdQVjk5VXh0WVRjeWZ6bUxOS2d4UjhNMEd5Ym85WGpDaEt0OF9Ed1gxRVFvYlo?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Microsoft Smashes March-Quarter Targets On Cloud, AI Gains - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0J3TDA4OWIzYUkwc1RsSlNGZnUwQk5hNkNDQjN5VG5YUzZLc1dsWmNhVHNHelR0RFRCVnZwcU9sQzNXcWNCbUQybXI4d2FxV2FBYUZqNEc4bHlvQy1sV0hrLVo5aXYxLTBDZ1ZpTTNTdHhxemRWdDBPeFdWUnV1OFFSZkw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Microsoft Corporation (MSFT) Is Overvalued, Well-Known Investor Says - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM25QMUdZUmk4dEkybXVBd1B2alNEbnJjbzFURUotX0dGNXpPVW4tdkFTOVFkdGY2YXhCVEVjY3pBMUwyUUJqek4tclcxOGZEOGhsNVVGdXRFLU8xdGlnYXVFZW9qYTdpSlZvVlRGTFBpVHViZlZPdHpGZVlHSU1GZy1iLV91MW5mbU9CY05rdFZsUQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 417.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 418.79
+      },
+      {
+        "date": "2024-11-26",
+        "price": 427.99
+      },
+      {
+        "date": "2024-11-27",
+        "price": 422.99
+      },
+      {
+        "date": "2024-11-29",
+        "price": 423.46
+      },
+      {
+        "date": "2024-12-02",
+        "price": 430.98
+      },
+      {
+        "date": "2024-12-03",
+        "price": 431.2
+      },
+      {
+        "date": "2024-12-04",
+        "price": 437.42
+      },
+      {
+        "date": "2024-12-05",
+        "price": 442.62
+      },
+      {
+        "date": "2024-12-06",
+        "price": 443.57
+      },
+      {
+        "date": "2024-12-09",
+        "price": 446.02
+      },
+      {
+        "date": "2024-12-10",
+        "price": 443.33
+      },
+      {
+        "date": "2024-12-11",
+        "price": 448.99
+      },
+      {
+        "date": "2024-12-12",
+        "price": 449.56
+      },
+      {
+        "date": "2024-12-13",
+        "price": 447.27
+      },
+      {
+        "date": "2024-12-16",
+        "price": 451.59
+      },
+      {
+        "date": "2024-12-17",
+        "price": 454.46
+      },
+      {
+        "date": "2024-12-18",
+        "price": 437.39
+      },
+      {
+        "date": "2024-12-19",
+        "price": 437.03
+      },
+      {
+        "date": "2024-12-20",
+        "price": 436.6
+      },
+      {
+        "date": "2024-12-23",
+        "price": 435.25
+      },
+      {
+        "date": "2024-12-24",
+        "price": 439.33
+      },
+      {
+        "date": "2024-12-26",
+        "price": 438.11
+      },
+      {
+        "date": "2024-12-27",
+        "price": 430.53
+      },
+      {
+        "date": "2024-12-30",
+        "price": 424.83
+      },
+      {
+        "date": "2024-12-31",
+        "price": 421.5
+      },
+      {
+        "date": "2025-01-02",
+        "price": 418.58
+      },
+      {
+        "date": "2025-01-03",
+        "price": 423.35
+      },
+      {
+        "date": "2025-01-06",
+        "price": 427.85
+      },
+      {
+        "date": "2025-01-07",
+        "price": 422.37
+      },
+      {
+        "date": "2025-01-08",
+        "price": 424.56
+      },
+      {
+        "date": "2025-01-10",
+        "price": 418.95
+      },
+      {
+        "date": "2025-01-13",
+        "price": 417.19
+      },
+      {
+        "date": "2025-01-14",
+        "price": 415.67
+      },
+      {
+        "date": "2025-01-15",
+        "price": 426.31
+      },
+      {
+        "date": "2025-01-16",
+        "price": 424.58
+      },
+      {
+        "date": "2025-01-17",
+        "price": 429.03
+      },
+      {
+        "date": "2025-01-21",
+        "price": 428.5
+      },
+      {
+        "date": "2025-01-22",
+        "price": 446.2
+      },
+      {
+        "date": "2025-01-23",
+        "price": 446.71
+      },
+      {
+        "date": "2025-01-24",
+        "price": 444.06
+      },
+      {
+        "date": "2025-01-27",
+        "price": 434.56
+      },
+      {
+        "date": "2025-01-28",
+        "price": 447.2
+      },
+      {
+        "date": "2025-01-29",
+        "price": 442.33
+      },
+      {
+        "date": "2025-01-30",
+        "price": 414.99
+      },
+      {
+        "date": "2025-01-31",
+        "price": 415.06
+      },
+      {
+        "date": "2025-02-03",
+        "price": 410.92
+      },
+      {
+        "date": "2025-02-04",
+        "price": 412.37
+      },
+      {
+        "date": "2025-02-05",
+        "price": 413.29
+      },
+      {
+        "date": "2025-02-06",
+        "price": 415.82
+      },
+      {
+        "date": "2025-02-07",
+        "price": 409.75
+      },
+      {
+        "date": "2025-02-10",
+        "price": 412.22
+      },
+      {
+        "date": "2025-02-11",
+        "price": 411.44
+      },
+      {
+        "date": "2025-02-12",
+        "price": 409.04
+      },
+      {
+        "date": "2025-02-13",
+        "price": 410.54
+      },
+      {
+        "date": "2025-02-14",
+        "price": 408.43
+      },
+      {
+        "date": "2025-02-18",
+        "price": 409.64
+      },
+      {
+        "date": "2025-02-19",
+        "price": 414.77
+      },
+      {
+        "date": "2025-02-20",
+        "price": 416.13
+      },
+      {
+        "date": "2025-02-21",
+        "price": 408.21
+      },
+      {
+        "date": "2025-02-24",
+        "price": 404.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 397.9
+      },
+      {
+        "date": "2025-02-26",
+        "price": 399.73
+      },
+      {
+        "date": "2025-02-27",
+        "price": 392.53
+      },
+      {
+        "date": "2025-02-28",
+        "price": 396.99
+      },
+      {
+        "date": "2025-03-03",
+        "price": 388.49
+      },
+      {
+        "date": "2025-03-04",
+        "price": 388.61
+      },
+      {
+        "date": "2025-03-05",
+        "price": 401.02
+      },
+      {
+        "date": "2025-03-06",
+        "price": 396.89
+      },
+      {
+        "date": "2025-03-07",
+        "price": 393.31
+      },
+      {
+        "date": "2025-03-10",
+        "price": 380.16
+      },
+      {
+        "date": "2025-03-11",
+        "price": 380.45
+      },
+      {
+        "date": "2025-03-12",
+        "price": 383.27
+      },
+      {
+        "date": "2025-03-13",
+        "price": 378.77
+      },
+      {
+        "date": "2025-03-14",
+        "price": 388.56
+      },
+      {
+        "date": "2025-03-17",
+        "price": 388.7
+      },
+      {
+        "date": "2025-03-18",
+        "price": 383.52
+      },
+      {
+        "date": "2025-03-19",
+        "price": 387.82
+      },
+      {
+        "date": "2025-03-20",
+        "price": 386.84
+      },
+      {
+        "date": "2025-03-21",
+        "price": 391.26
+      },
+      {
+        "date": "2025-03-24",
+        "price": 393.08
+      },
+      {
+        "date": "2025-03-25",
+        "price": 395.16
+      },
+      {
+        "date": "2025-03-26",
+        "price": 389.97
+      },
+      {
+        "date": "2025-03-27",
+        "price": 390.58
+      },
+      {
+        "date": "2025-03-28",
+        "price": 378.8
+      },
+      {
+        "date": "2025-03-31",
+        "price": 375.39
+      },
+      {
+        "date": "2025-04-01",
+        "price": 382.19
+      },
+      {
+        "date": "2025-04-02",
+        "price": 382.14
+      },
+      {
+        "date": "2025-04-03",
+        "price": 373.11
+      },
+      {
+        "date": "2025-04-04",
+        "price": 359.84
+      },
+      {
+        "date": "2025-04-07",
+        "price": 357.86
+      },
+      {
+        "date": "2025-04-08",
+        "price": 354.56
+      },
+      {
+        "date": "2025-04-09",
+        "price": 390.49
+      },
+      {
+        "date": "2025-04-10",
+        "price": 381.35
+      },
+      {
+        "date": "2025-04-11",
+        "price": 388.45
+      },
+      {
+        "date": "2025-04-14",
+        "price": 387.81
+      },
+      {
+        "date": "2025-04-15",
+        "price": 385.73
+      },
+      {
+        "date": "2025-04-16",
+        "price": 371.61
+      },
+      {
+        "date": "2025-04-17",
+        "price": 367.78
+      },
+      {
+        "date": "2025-04-21",
+        "price": 359.12
+      },
+      {
+        "date": "2025-04-22",
+        "price": 366.82
+      },
+      {
+        "date": "2025-04-23",
+        "price": 374.39
+      },
+      {
+        "date": "2025-04-24",
+        "price": 387.3
+      },
+      {
+        "date": "2025-04-25",
+        "price": 391.85
+      },
+      {
+        "date": "2025-04-28",
+        "price": 391.16
+      },
+      {
+        "date": "2025-04-29",
+        "price": 394.04
+      },
+      {
+        "date": "2025-04-30",
+        "price": 395.26
+      },
+      {
+        "date": "2025-05-01",
+        "price": 425.4
+      },
+      {
+        "date": "2025-05-02",
+        "price": 435.28
+      },
+      {
+        "date": "2025-05-05",
+        "price": 436.17
+      },
+      {
+        "date": "2025-05-06",
+        "price": 433.31
+      },
+      {
+        "date": "2025-05-07",
+        "price": 433.35
+      },
+      {
+        "date": "2025-05-08",
+        "price": 438.17
+      },
+      {
+        "date": "2025-05-09",
+        "price": 438.73
+      },
+      {
+        "date": "2025-05-12",
+        "price": 449.26
+      },
+      {
+        "date": "2025-05-13",
+        "price": 449.14
+      },
+      {
+        "date": "2025-05-14",
+        "price": 452.94
+      },
+      {
+        "date": "2025-05-15",
+        "price": 453.13
+      },
+      {
+        "date": "2025-05-16",
+        "price": 454.27
+      },
+      {
+        "date": "2025-05-19",
+        "price": 458.87
+      },
+      {
+        "date": "2025-05-20",
+        "price": 458.17
+      },
+      {
+        "date": "2025-05-21",
+        "price": 452.57
+      }
+    ],
+    "current_price_data": {
+      "price": 452.57,
+      "change": -5.6,
+      "percent_change": -1.22
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

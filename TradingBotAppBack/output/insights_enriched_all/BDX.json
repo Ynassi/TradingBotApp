@@ -1,0 +1,646 @@
+{
+  "ticker": "BDX",
+  "name": "Becton Dickinson",
+  "sector": "Health Care",
+  "market_cap": 50273734656.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 33.928432,
+    "PB": 1.9917564,
+    "EV_Revenue": 3.3,
+    "ROE": 0.058870003,
+    "ProfitMargin": 0.07179,
+    "GrossMargin": 0.46322,
+    "DividendYield": 2.35
+  },
+  "technical_indicators": {
+    "RSI_14": 37.712856271822666,
+    "Momentum_10": 3.928193465318213,
+    "MACD": -10.067781923730706,
+    "BB_Percent": 0.3790882659298606,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8898687225736527,
+    "QualityScore": 0.4332302667438557,
+    "SignalScore": 0.7310884145340053
+  },
+  "volatility": 0.0224382899224893,
+  "beta": 0.34,
+  "return_6m": -0.2099722018512994,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 14,
+    "target_mean_price": 225.25
+  },
+  "news_sentiment": {
+    "summary": "Becton Dickinson (BDX) is a medical technology company that has recently reported mixed financials. The company's stock price has been struggling, with some analysts citing a lack of growth potential. However, others see the company as undervalued and a potential buy. The company's M&A activity and product launches have also been mentioned. The stock has recently touched its 52-week low. Despite a Q2 earnings beat and monitoring platform launch, BDX stock has fallen in pre-market trading. Additionally, BDX has been downgraded by several firms following the Q2 results.\n\nThe global economic outlook is likely to have an impact on BDX's stock price, as the healthcare sector is often affected",
+    "sentiment_score": -0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 2,
+    "headlines": [
+      {
+        "title": "BD Stock May Rise Following the Launch of FACSDiscover A8 Platform - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUFGNVBrTmlsMTRnc1RXMW5BMXEwc0pCVU0zMmxHZGdPb1dnekEwa0prbWJHdDRhSzAwZVJrcTVnWlFkbTllT0xMUmQtd0RqTlZXTy01RkZEM2RwWkpuT3hWME9Cdi1xMlVuMzRtNmxUcjZJWG1zSUdidWt3WXdRZ184ejJFSC1DM3lOeUR4UzRCUUtXcVFuQjF6cHQ1WWE5SVpFMEFvUWc0MzcxclFiT2ZmQmRTS1hJVFJ3T1FqVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Becton Dickinson Vitals Drop: Analysts 'Have Been Wrong' On This Med Tech Stock For Years - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT0lnN2g0VV84YWRFSS1uOFBteXdMT1JEbWFqN09TbFVpdmtFTU02Y2NkaDZ0aElYbDZtNEExYjJpWTh1clluMko0a29Fbm93R1FjQ0hTWGNrOGJuV3puSWxQd2VSTGdsQmJRd05rWjRvLWpxUTYwN0hjTWE2QjViYXVwdEdiZ1FHVTVlSFRoNTR2eTBoeEF4SmRoY3hlQTlCYW9zcld3YWtrbFJrekpNLVpVOTFuUC0wTDBpZW9BOFJvMVBGbmZlaV9MUWJvWko4aU9KaEJtRHZ6NWZweHlB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Becton, Dickinson drops after guidance cut; BofA, Wells Fargo downgrade - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFd0MWM3dG5MRC1NZ00zeW9lODNXYi1HZ2tWX3Aya2lxVXFNMUQ0bVRTdFNITGtVT08tV2g3aHF4aDM2dGUzdGhDcmVTSFczN2Q3ZlN2aFpIR1dnR1lzSVUyMFBSb3VZWUF4cDkzVmNoYkVDdW1DdGR1T2ZhRk13cVVhZERxQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Becton, Dickinson and Company's (NYSE:BDX) Stock Price Struggling As A Result Of Its Mixed Financials? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR21jTmVhdjd6TnpxSmdvOV9HZVZlT3pTXzlDVXZPUkFmQkVCYVFZTG1ERVlPbnczNERPc0xURnZZbUZvMDB4SkszaGc3b1dmMkl4Y01hN1hoNHZwSTZUZGRqbGp2ZWR5TVE3c2JkdHlVdE1iMmhQR05yNGN0SFg5RzI3WWc2bUV2WUdTSmFqSWswQndjNWlNR2trQkFFb2RMOEtJLS1rSUVyZG1CYWdyOW4tM0J2Yl92UkxsclJaNTBTTEpPWlptdF9xRUd0azDSAdQBQVVfeXFMUGVMV1Z2ckhEOXZlTzBubFRiZEdhYXdKelBCY3RoZmREdHhueEl3THhMVTVkbGtFa0IxVWFnNEIzRlZqWXhhWm5DUW9hZ1hPTHRXZU9HMXlVX1A4UDdKNmZKLWI1cnRsb29QTTJuTGRsa3YxbHA4dXNPRndrQ3BtRzI3WkhTT1BmUWw1VUNMMndXQUR2YkNCVV94RWxmNm9qS1NsMnA0emlKU0Y1b3IzbjJadzZwNHVPZzIxSGJ4bUY1LXVTMjlzSFJvakhIa3ZCZGtYd3o?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Becton, Dickinson, and Company (BDX): Among the Best Falling Stocks to Buy According to Analysts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORUhQemhpVjBkWnE3ai1MeXQyVHFlYXRsN1ZxSlktWXhMRTFkdWNBeFYyNHM0VXk5NG1IWUM4TmxzcHQzdnNBMlk2UlFNUVR4U2ExenNqdm8tZWVZMkJjZU1PaG1CQ0F1a01LeGwwQnJFc0o5TloxSVRxQlAzaEx4UUwyblFMSDQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Becton, Dickinson and Company Stock: Analyst Estimates & Ratings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUtUTzM4YWl5NXVObWVPNENmMU1KSXdOcmZOb2xnVXR5Uloxa3l6RmVUMVU3R2d5T1M4eE1URGgtbTJKek5Hd1d5Mmk1ankyNGhtSUxaNlVyWkExWDlkU2lSZkZNVkdod1BTV0Y2Mm9uUHhKbXUxcTdva3lQeXBYNTM1NWVUNDJURGtwb2Y4VHNoMS1yLTJz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UNH, TGT, BDX: 3 Ridiculously Undervalued Stocks Set to Surge in May 2025 - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3NzWE1GNmIzUk9EUjNDeTh6elQ3SURKbkNwNVFFLURpNFB6RTVNNWQwTWZqWl9FcXQtU2V2RXoxOVc4cGx2cGlKZkNBcHNuZW5XV0hXRkVwTzZRSjdkQjNRTGExVW5NWnJHN3FZQXBKX3BYTjNOYzJnZ2tBZTZfY1hmU0V1cXkzcXh5c25rQmctRnZuZTg4b2xWZHZGWGVXY2tGWHo0aXZXeXJRSEN5eWZzNWE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BDX stock touches 52-week low at $186.01 amid market shifts - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFVIYTJyd0pWVkxYUTh1SDZpWmhEeUV2dW5UQUhScm4yVmZGZzM3VHhhOTJpOHdUaHhRSDhQWkpaOTZqckM4c3dQb29CLU5CTG9HM3E4ZW9MaVVGTGJTSThxck50dnBldEVTZ1ZVOVBoYnpvLU02alNzcWRZOGhZUVVfaVgwNTdNY3RKWEhiUnpMSTBvS2VmRWtTbWFod0hiWnkzdGZMY0JsVGU2MUhTMGdKcw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BD Board Declares Dividend | BDX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmJMNGdEX0w0dUt3VlU4RlVXWDZ2bTRYOVd5U3FsYUJzMlFFeU4zY2ZUX3RSMmVjY0hvR3VDVExwbVEzNm5iQUtreTBuUWEycnBLbFBBRWIwMlpVcnAwRzJpZHdIZTFYNWh3T0YtaGFpSDR5QzNDNHY0TnlMQmRYQUV6VGwxd00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Becton, Dickinson downgraded at more firms following Q2 results - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0tDdXBSRTJyRW40RFk0alExclhCQ0dxbHhJM092VEtYXzhMZXlyZE93VlJXb1QwZFBNVHNHNUc4V0J0S3NRdjZydGFUQ29taV9uaUZtSFdGaDI0cHZMSUt3bk1FUzRYbU11UzdtWk81WG5xM3F5bDdjZVVuQXNYNUlJNFRqY19Ic24yZHgzazdTR1NMVW1ESHBtZTFlZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BD Stock Falls in Pre-Market Despite Q2 Earnings Beat, Margins Down - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRQlNkM2c5dGYxcjBsSGplbE1FVU80aERMREVmcTAzVlQxdnlGUDhWekNhWDRDR0dTbGc4S2Y5Q3dqU2hia0VsOUdLbVJKdlhvUkpUNURXc1FpcFF5azJQZS12ejl2NFc0RVJpN1BSWEJ6bHp6b0lObkR6aw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BECTON, DICKINSON Earnings Results: $BDX Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkJsX25XdmZ0N1diNlZtanJTeFprMDVNWVF0amNlTHNpN2hnZ3lfcXBrRms2cXJlRE0wT0NLdEF5ZksyQTIzRzJNcHR5cFFLZ05DNnh6TGN0UjJUVHF4U3lpcDVON1R4cjFlSFhIU2RpLXEtY3ZNUkI0MG13TV9JOExiMjZPeFl1bU9TOHEzMnBUekpVMFBpS1V3V3o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BDX Quantitative Stock Analysis - Peter Lynch - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYkJad3o5RmpIUFRYdHdMRUtON2tYc1lIMDBuQ3RXWElvcVNmY3ZmVDgzYU02dU9pQXEwc3JPalp3bDlSUk1ILUVOc2p5WlNwelJyaHZmdl85R29tRkNjX0p3UXo3RVI0MkF3NmJocTBpUkhDdGJXMzFUQklnM0pCUHBsakw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BD Stock Down Despite Monitoring Platform Launch to Boost Patient Care - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdm5LazhNSVRKMWxhWEVlSDUwUVJsNkgwc1c2emY1R2lPR0UwMGtlZHJ4S0NPYVJicVROWFZFcldibXNZQnFzR0Z0U1EwVXlMdkVRT216bEtYRkVfRUx4VUdjUkR3VUJCOXJvWVFYdVc3SHNQNEpkVk1mRnI0enpHZXEwMVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Becton, Dickinson, and Company Stock: Is BDX Underperforming the Healthcare Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXy1tanNOczFsQVlPczRIaFF6Vm55NTh5Y3ZTRW5jcWh3cU5wTTZFbEVqdldBN084VWp0a2hHeEptcUZKaFJPeVFSYmNleGd4dURadlltSkNENFNpRnNncmZzMk9CYjJVZE9lelc2ME90ZWl1R0szLUxWUjBfTEpKNU1XbVRvd1pXQ2dWd2N6d3ZuM2J4MXo4MEduY0oyOEh4NFRtcDM2TQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Becton Dickinson (BDX) Q2 Earnings Top Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEFZZFZBS2pBX1EtRVFmVDM3VFVONHA2YlVIcXpNQkNkbU5jY29BZUpkcFRUaFVYd09WclJlZ1dyZjBTRDFWRjNVemI3X2M0OWUwM1FINnJRMHEzSTZfTk1HdmJibnJ0V01nSEx1LVFXLTZyQjRIUTZFVTBieVF0VWRxR2M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Can Sustained Product Demand Drive BDX Stock Before Q2 Earnings? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMGVUVy0yY1lmYVczMGRRMGx1X1djVXJBZlVMb2JUWTRaR1lfNnFjSFZNRDVWTTBobWxvQTJzZGhnN05BMDFpSWx6WTBSdlBHd1FnUDg5LXJIVHEzdDNHdlIxOFRpMU0ySFplN25oLVVfbHMwU0pqaVJPU3c2UGxZcEZaQWhuOWp3b1dOS0xTUFotdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fund Update: Liontrust Investment Partners LLP opened a $114.0M position in $BDX stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pSc2F0UmdRazZ1dTdZaEVaWE5udU9vRkpQWHo5TXJYRlVNTkYxSkRDVFJxemVhaFFfbk1PYThtOE13aVE3OXpfSjc2MWRjZ1Z2dkxidG4teFByQ1FCY1lmVmotVjZSSHh1UmFacWUwVG43RGs2WmNjSGt6eGRKY0VGdVdDbFpZemUtZFNNN0lJTWxpUmVEaEVnblNIWjB0NUFXRzBMUjgzN2ZLUWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Do Options Traders Know Something About BD (BDX) Stock We Don't? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFVPelhodGc5TndNdUpVdFpDWUtHV2RjS0VoNFQxQjUwQ2JCNk12WS1sMzdqVUc3NW8za2ZDTmlzMlU4ZmNKblJwS1BSY0lzNWtKOVdfcWFqTzJyQmpua2xuVXl3WkY4TTFPUVFGYk56MFJHVy1EamNhcTRLZW5MamJweEo5ak92OEREa0h2R0ZyMmVkMzM4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lobbying Update: $10,000 of BECTON DICKINSON AND COMPANY lobbying was just disclosed - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWUtLUtfdUJ1ZHB1X0ppVjJnUUE1VW5BbFBXNGZZWmNCTGZKQXdiVWx3ZElpZTdkc0NWb2RvdzM1WUpyamMtcVVZc1UxX2l3OU53OVNkSVVCSy1OeDdRTkJNUGxTRVlBM1BrbDAyeVhQVlZNRk4yOVVhR25nYWZZVnc4VDBOSUFpSHVoNDJQNW1VVXhLZzBlWm5CTEJYVVVPc2h3UFN5eDV0c3ctNS1V?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 224.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 225.48
+      },
+      {
+        "date": "2024-11-26",
+        "price": 224.25
+      },
+      {
+        "date": "2024-11-27",
+        "price": 221.98
+      },
+      {
+        "date": "2024-11-29",
+        "price": 221.9
+      },
+      {
+        "date": "2024-12-02",
+        "price": 222.82
+      },
+      {
+        "date": "2024-12-03",
+        "price": 221.26
+      },
+      {
+        "date": "2024-12-04",
+        "price": 221.43
+      },
+      {
+        "date": "2024-12-05",
+        "price": 222.24
+      },
+      {
+        "date": "2024-12-06",
+        "price": 220.02
+      },
+      {
+        "date": "2024-12-09",
+        "price": 223.01
+      },
+      {
+        "date": "2024-12-10",
+        "price": 221.44
+      },
+      {
+        "date": "2024-12-11",
+        "price": 221.04
+      },
+      {
+        "date": "2024-12-12",
+        "price": 227.17
+      },
+      {
+        "date": "2024-12-13",
+        "price": 225.56
+      },
+      {
+        "date": "2024-12-16",
+        "price": 227.56
+      },
+      {
+        "date": "2024-12-17",
+        "price": 225.64
+      },
+      {
+        "date": "2024-12-18",
+        "price": 224.09
+      },
+      {
+        "date": "2024-12-19",
+        "price": 223.83
+      },
+      {
+        "date": "2024-12-20",
+        "price": 227.68
+      },
+      {
+        "date": "2024-12-23",
+        "price": 226.44
+      },
+      {
+        "date": "2024-12-24",
+        "price": 226.95
+      },
+      {
+        "date": "2024-12-26",
+        "price": 228.12
+      },
+      {
+        "date": "2024-12-27",
+        "price": 228.49
+      },
+      {
+        "date": "2024-12-30",
+        "price": 226.51
+      },
+      {
+        "date": "2024-12-31",
+        "price": 226.87
+      },
+      {
+        "date": "2025-01-02",
+        "price": 226.49
+      },
+      {
+        "date": "2025-01-03",
+        "price": 228.46
+      },
+      {
+        "date": "2025-01-06",
+        "price": 230.7
+      },
+      {
+        "date": "2025-01-07",
+        "price": 232.15
+      },
+      {
+        "date": "2025-01-08",
+        "price": 234.43
+      },
+      {
+        "date": "2025-01-10",
+        "price": 233.67
+      },
+      {
+        "date": "2025-01-13",
+        "price": 236.19
+      },
+      {
+        "date": "2025-01-14",
+        "price": 235.8
+      },
+      {
+        "date": "2025-01-15",
+        "price": 232.59
+      },
+      {
+        "date": "2025-01-16",
+        "price": 236.3
+      },
+      {
+        "date": "2025-01-17",
+        "price": 237.38
+      },
+      {
+        "date": "2025-01-21",
+        "price": 240.37
+      },
+      {
+        "date": "2025-01-22",
+        "price": 237.92
+      },
+      {
+        "date": "2025-01-23",
+        "price": 240.47
+      },
+      {
+        "date": "2025-01-24",
+        "price": 243.45
+      },
+      {
+        "date": "2025-01-27",
+        "price": 248.7
+      },
+      {
+        "date": "2025-01-28",
+        "price": 249.08
+      },
+      {
+        "date": "2025-01-29",
+        "price": 246.9
+      },
+      {
+        "date": "2025-01-30",
+        "price": 248.49
+      },
+      {
+        "date": "2025-01-31",
+        "price": 247.6
+      },
+      {
+        "date": "2025-02-03",
+        "price": 247.61
+      },
+      {
+        "date": "2025-02-04",
+        "price": 242.42
+      },
+      {
+        "date": "2025-02-05",
+        "price": 245.06
+      },
+      {
+        "date": "2025-02-06",
+        "price": 227.21
+      },
+      {
+        "date": "2025-02-07",
+        "price": 229.85
+      },
+      {
+        "date": "2025-02-10",
+        "price": 229.55
+      },
+      {
+        "date": "2025-02-11",
+        "price": 229.52
+      },
+      {
+        "date": "2025-02-12",
+        "price": 225.85
+      },
+      {
+        "date": "2025-02-13",
+        "price": 225.01
+      },
+      {
+        "date": "2025-02-14",
+        "price": 224.8
+      },
+      {
+        "date": "2025-02-18",
+        "price": 225.13
+      },
+      {
+        "date": "2025-02-19",
+        "price": 227.56
+      },
+      {
+        "date": "2025-02-20",
+        "price": 227.93
+      },
+      {
+        "date": "2025-02-21",
+        "price": 227.43
+      },
+      {
+        "date": "2025-02-24",
+        "price": 230.31
+      },
+      {
+        "date": "2025-02-25",
+        "price": 230.05
+      },
+      {
+        "date": "2025-02-26",
+        "price": 227.59
+      },
+      {
+        "date": "2025-02-27",
+        "price": 224.16
+      },
+      {
+        "date": "2025-02-28",
+        "price": 225.53
+      },
+      {
+        "date": "2025-03-03",
+        "price": 228.45
+      },
+      {
+        "date": "2025-03-04",
+        "price": 224.27
+      },
+      {
+        "date": "2025-03-05",
+        "price": 224.12
+      },
+      {
+        "date": "2025-03-06",
+        "price": 225.34
+      },
+      {
+        "date": "2025-03-07",
+        "price": 229.54
+      },
+      {
+        "date": "2025-03-10",
+        "price": 227.45
+      },
+      {
+        "date": "2025-03-11",
+        "price": 224.92
+      },
+      {
+        "date": "2025-03-12",
+        "price": 223.82
+      },
+      {
+        "date": "2025-03-13",
+        "price": 222.79
+      },
+      {
+        "date": "2025-03-14",
+        "price": 225.98
+      },
+      {
+        "date": "2025-03-17",
+        "price": 227.83
+      },
+      {
+        "date": "2025-03-18",
+        "price": 232.12
+      },
+      {
+        "date": "2025-03-19",
+        "price": 231.79
+      },
+      {
+        "date": "2025-03-20",
+        "price": 231.85
+      },
+      {
+        "date": "2025-03-21",
+        "price": 230.23
+      },
+      {
+        "date": "2025-03-24",
+        "price": 229.19
+      },
+      {
+        "date": "2025-03-25",
+        "price": 228.08
+      },
+      {
+        "date": "2025-03-26",
+        "price": 228.0
+      },
+      {
+        "date": "2025-03-27",
+        "price": 228.71
+      },
+      {
+        "date": "2025-03-28",
+        "price": 227.5
+      },
+      {
+        "date": "2025-03-31",
+        "price": 229.06
+      },
+      {
+        "date": "2025-04-01",
+        "price": 226.04
+      },
+      {
+        "date": "2025-04-02",
+        "price": 226.42
+      },
+      {
+        "date": "2025-04-03",
+        "price": 221.59
+      },
+      {
+        "date": "2025-04-04",
+        "price": 207.34
+      },
+      {
+        "date": "2025-04-07",
+        "price": 205.08
+      },
+      {
+        "date": "2025-04-08",
+        "price": 200.83
+      },
+      {
+        "date": "2025-04-09",
+        "price": 209.35
+      },
+      {
+        "date": "2025-04-10",
+        "price": 199.12
+      },
+      {
+        "date": "2025-04-11",
+        "price": 201.78
+      },
+      {
+        "date": "2025-04-14",
+        "price": 205.71
+      },
+      {
+        "date": "2025-04-15",
+        "price": 202.04
+      },
+      {
+        "date": "2025-04-16",
+        "price": 200.4
+      },
+      {
+        "date": "2025-04-17",
+        "price": 198.71
+      },
+      {
+        "date": "2025-04-21",
+        "price": 196.61
+      },
+      {
+        "date": "2025-04-22",
+        "price": 199.88
+      },
+      {
+        "date": "2025-04-23",
+        "price": 202.32
+      },
+      {
+        "date": "2025-04-24",
+        "price": 204.45
+      },
+      {
+        "date": "2025-04-25",
+        "price": 205.08
+      },
+      {
+        "date": "2025-04-28",
+        "price": 204.63
+      },
+      {
+        "date": "2025-04-29",
+        "price": 206.44
+      },
+      {
+        "date": "2025-04-30",
+        "price": 207.09
+      },
+      {
+        "date": "2025-05-01",
+        "price": 169.54
+      },
+      {
+        "date": "2025-05-02",
+        "price": 168.78
+      },
+      {
+        "date": "2025-05-05",
+        "price": 167.0
+      },
+      {
+        "date": "2025-05-06",
+        "price": 165.15
+      },
+      {
+        "date": "2025-05-07",
+        "price": 167.14
+      },
+      {
+        "date": "2025-05-08",
+        "price": 167.95
+      },
+      {
+        "date": "2025-05-09",
+        "price": 167.22
+      },
+      {
+        "date": "2025-05-12",
+        "price": 175.34
+      },
+      {
+        "date": "2025-05-13",
+        "price": 175.34
+      },
+      {
+        "date": "2025-05-14",
+        "price": 171.02
+      },
+      {
+        "date": "2025-05-15",
+        "price": 172.27
+      },
+      {
+        "date": "2025-05-16",
+        "price": 175.41
+      },
+      {
+        "date": "2025-05-19",
+        "price": 177.05
+      },
+      {
+        "date": "2025-05-20",
+        "price": 176.67
+      },
+      {
+        "date": "2025-05-21",
+        "price": 173.14
+      }
+    ],
+    "current_price_data": {
+      "price": 173.14,
+      "change": -3.53,
+      "percent_change": -2.0
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

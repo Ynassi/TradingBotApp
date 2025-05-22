@@ -1,0 +1,646 @@
+{
+  "ticker": "PGR",
+  "name": "Progressive Corporation",
+  "sector": "Financials",
+  "market_cap": 167677657088.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 19.30027,
+    "PB": 5.788909,
+    "EV_Revenue": 2.188,
+    "ROE": 0.34338,
+    "ProfitMargin": 0.11102,
+    "GrossMargin": 0.14977999,
+    "DividendYield": 1.7
+  },
+  "technical_indicators": {
+    "RSI_14": 58.57734911149493,
+    "Momentum_10": 1.138574042113201,
+    "MACD": 2.9577018546421527,
+    "BB_Percent": 0.7712899786561573,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.893729076849886,
+    "QualityScore": 0.3854216310913168,
+    "SignalScore": 0.6390393970129931
+  },
+  "volatility": 0.0171975726683308,
+  "beta": 0.404,
+  "return_6m": 0.1369060128174732,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 17,
+    "target_mean_price": 294.88235
+  },
+  "news_sentiment": {
+    "summary": "Les titres concernent la soci\u00e9t\u00e9 Progressive Corporation (PGR) et les analyseurs financiers ont \u00e9mis diff\u00e9rents avis sur sa valeur. Morgan Stanley a relev\u00e9 le prix cible de PGR \u00e0 $330 de $320, tandis que d'autres analystes ont consid\u00e9r\u00e9 PGR comme un bon investissement. Certaines personnes ont cependant critiqu\u00e9 le prix \u00e9lev\u00e9 de PGR, tandis que d'autres ont soulign\u00e9 sa croissance forte. Enfin, le sentiment du march\u00e9 n'a pas \u00e9t\u00e9 significatif pour PGR.",
+    "sentiment_score": 0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Progressive (PGR) Price Target Raised by Morgan Stanley | PGR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHl1b3p2eGx4MnMzLW5LMGR5bXlDcENINDdjd080WWZ4cllTbjA2VVg0c29fbndXajktVWs4ODlmSGlaTGl4VThaU1lkb0JwZ2N2dm5QMlVRcktWYmxULXhLUFlBWmR5eWxkUjdFSmpsdjRTaFgwUGlPaFZIS0Ytb1ZvYl9USFNUZlF1UUktUWUtZ0Y3SUZHQ0ZuLWJraTZSTlotcUdDX2UwLTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Progressive: Snapshot Is Key Differentiator, Initiate With Buy Rating (NYSE:PGR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONXhxU3pRbUZoZ3lDdFpVaU5Rd3dCZlNDWGwzTENpLWRIT3o2eUV6OGlqamRpVi1PMmh0Q0YyOGFEdnp0REoxRGhnYXlPQ3RCUWxwdTVZV3pzWkpScmMyRVZHdTB0LUhJa0gtb2lhREhEb1N1Q1hjRWZubk01cDJmQlU0QjJwYk91Wmc0UGpUSmg0bjF6ZjB3azl5NkJjUTlGLVFHRTZGWU0tRy1C?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Progressive Leadership Opens Door to Investors: CEO and CFO Ready for Your Questions - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDA1ZGJLVTVDalE5QllPUUhNODRnLVZtUXpwREtrYzJnQjhLZlJhYmtTR29raTVjOW9GdWwwcm0xLV9sWlZndWUyeFh5U2VESjlQZ3BlZUYwOUd2MlI3TmNoY2dSM0d6eDNNeDNsMEhEc2VSajhtMEl0ZUZKOUVqMnVFWVgxUUY0UHNYZnlQQjRBMnBkMEh5RWdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Raises The Progressive Corporation (PGR)\u2019s Price Target to $330 from $320, Maintains Overweight Rating - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYThhUkw3MkVCZ3B4eld1WXE5MkpESGNhZDhuZmNiay1YSXQ4bFRWYkZMcWVMVDV1MzdELUdUN3MtcjRIcVNqaGl2dVFiZVZ0dmdyRzhVZndZeW1PNUdFX0JEMUJ2RF9WUVlaa1BfaDFDZUR2X3Z1NDJ2eVcyZFFTX2dkVFVzRHR4U3R6Q3Y5X20tSTJ4VXk2M0s3OEJsMzVjdnZtekRJX3pvUzJnYmVGRnJzUW1jeFAzb2xQb0RtVElURHBuTkdSWVp3dVBjWTJOLTU5S2gwNHk1dWM5QUZVeUlfeVdGUjR1UEJ30gHzAUFVX3lxTE9wLTRxSVNacmlqaVB6aXVpZVhQRmtWeWZTZWZoWDc3MHNWamYzcE94TF9XNm9ZTWNfcFd3c3ppNXRqcGREaldHSTRaci1QREROR1V3eVpIY1EwNWRZSGU0dndoZTNNVi1oR3ctcU9ROWFVR0lleVhxNGVBWURPekVEbXg4SGk3aVhtTEdnVzZNZ041eThUeHI3U0w4YzZUeU91MGJPRG94U3A1b0ptQUcxR1Y4WjdhalgyVHFCVHlhcEE1a25xclZTR0hyYmszNUZmOHZiNHdta3NUSTFiMjRRU0MxOHpnOVRWNTlCbWhEYUFVMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wall Street Analysts Think Progressive (PGR) Is a Good Investment: Is It? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2VwUUI5MUpET0t6WjNVdFVoVm83Z0dYRWRKSlJkSHBMQTVvQVdXQXNWRUYzeUkxdUd4blhlY2RyeWlmSjFNUmFPaTBLQVJaaHdORGN2RUpwYW4tcEp3bG92aVEzN1RPc3JRS0hveHJTbExfdWNmb0k5eGJ6VzJqdEdQa1BYM2ZWQU9ETg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Progressive Stock Got Slammed on Thursday - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUdNMnFydFYwa1pRWndnU3ZITzZ0Q3BvUFltcDl3VUFXYUFtZ0lQc2hpZ3oyTEVxQ2hhdTgteWc2TklCZTNaVjdtRmE0VlFYcW8tYUtSaUstM3VyS05CMGlTWk8tMlBoRC0xcm11WldERVZtR3hxRjE4WDFuTjc0QUtLTjQzSEIxbEhUeVZqeGxtZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Progressive (PGR) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVzNGYWF5YkVvb3d3Ym5uOGlhbDZaMWxlc1UxSHpSclpfZlZmU29KNVdlTDNjdmJYNkxOZDFhSnN1T3hNNGx4OU1lYXZXWHpBUDRpZ0s2c1NYb204WERPTmY4TWFvX2lka2NGVEw5WmlCVTFqUC1RNUt5b1dJaHgwSDV2NjdBek5nUFRsT1Uwb0ljZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Progressive (PGR) Receives Increased Price Target from Morgan Stanley | PGR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVk1UV0NTMXV6cjFBbGZvWExPN0tJMzNYWmY1Ulhna3czQ25vd1FJT3h0ZzBQbGlqMl82T0QtMHpKS0h5QTBwZUxDVmE5Sno5d0JLOGN2TktQMm5tVnF1ZUJ5NEUyNEh6NDJ3eDdMM3RXN28wZnpZTlo2V3JHVGtXNmNCUVAySHlmZFlueUJoUENpbVFSZjRFQlE1YXkwMVZ0dVhvQm1lWW10Y3VsenJxRTRmQVF2RFBSQ3RxUV9B?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should You Remain Confident in The Progressive Corporation (PGR)? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb1BCNmFmdDJZalViMHBCZ1l3NWlfczg2RV9pX0IteWJjTFl0LWF6TlZxcTJaTzBEYndFWm83RXhBTHlUeWRPM1ExLUVaaFRoMnpKQWxqWXRBVFRNQVZySGFTVTJPck1LMFZZeTB4UlRfa0ZYd1lUWll2RjdrWUhabGgzd0NoeFl6WkR0bVJPbXhhUzJhY1htVzJzYzl2UnRoY1AyMk1HWGRqVmJ0YTVBNkVnaG5DWlEzbHB3UlFHOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Lifts Progressive Price Target to $330 From $320, Maintains Overweight Rating - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOajFSTmdBaG9mYjZzbW9jR2QycUNpSW5JZTFnN3NweVUzd2xtTEJCb3pfX2dOd0czYzN4SDFkQW1vdXZ0bGUyOUFoSDlKS284dW1QX25nSXlOTkd1bmtacE1EOTl1VDg2ZVgxTUpVNFJqcjVadWJzaDRyZlFqNVNLMGFhV1pMd3VocVlISHpUdm5ZdGlscnhMNV85Y0RualEwazYxa3dUalktZGlMLXBSemxzVEFrbUhsNUo2RzZDaU9ZVEQ1VXN5NlFEVTNPdE1GbnZJckdJdFdnTGJSOHp2cmhuSndEaXlwMXY4WFFjdXdmMk9VdnpHcndseWRieVFXbFVXRUlqMU0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should You Add PGR Stock to Your Portfolio Ahead of Q1 Earnings? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjM3T0ZqX2FOcm50b19BQldsZmlYTnRid0NHMVJwM3ZGMjk1Qm9FRE1nZm8xbi05cnV1Z01OUHd4MDVOTHZwMFlqcGJhd1MxVUxoZ0xTT3N1OXhxYjlzLUJyY0Z3TVdSUHA2RER6ZnlUamRvQXVlVXNuVW1lTUpWcEZuX0txRHRibVV3UGo2b2VCeWRDVWVzYV9EbXVYMHZ4bWx2NUZ6UDQxYnlveF8ydmEzQ3p6bk5IVWE4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Progressive (PGR) is a Strong Value Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1NSNHoxYUEwZXdnWE40cEZGejJKcDExVGZGWDRhTjZwS2lUamtHa0UySnhKbFE3QWJqRE12NkVQY0MwV19MMVFWdEh4TDFRSDV1ZkROMEh4X1gyT0xXcWFNRkhaMGNURGtjXzRCTFduY2w3N0xydXdrTVdXT3NVRDU0VlA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on Progressive Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkRuZ0Z0aVNoRlZjTFZRNjMxaFUwZWVudzRPTlRIY3JNS3pTcEhXODBGVFZjQ2RGUy1uX0JLWS1vR2k0ZHRBa0RNY3FOX284RDhtWUpzZ0lXVUVMdDNBMWhhTkJLcnpYOTFrNkpWYno1b29EbWJGcF9sWGVzWGRrNEF5cEdjdHlKclpRWlYwODQ4Y3FnalBUdjFDY3ptVGI2NlVubGF4TTl2MnM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Progressive (PGR) Up 5.9% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xU1FEU05mRXdoSDJkR1F3em1ld1ZPNVdpcEh3VlBaTENOSm9YbnU2R29GU1p6RzNwVkJCWE9PNDJYSGltM05BY3BnLVRtMC11V2swT01nUi1MYW50dHV0ajh4RzlIRFNuVlAwU0FONi16RVkwOXM1Ulppbw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Progressive (PGR) Stock Slides as Market Rises: Facts to Know Before You Trade - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0U5cjR5SzBzem4ydEZzc3dNU0UzTlhiOVVRbC1zRGR6ZVNLX3gxdnFIVlVibmtDMUMwMjRFMlNNQm9GTGxPMFVFYi1kLThiN0ZHSmRPTWZFMWxEb1Q3R2ZMZVFYN2JhQVhPdFFCSm90bkRYdXRQMG5EdXZTaDlMTzFLOVU1aEhGSUw1bFZTQU5WUFc1alB0TUUzcXA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Progressive (PGR) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVl3Y21wby1FUFpfSWhQSGJLbGNQMFoxNEZTOWxVamV4TW1yNWZPMHJuTTBndzhrdGRFaUF1SU9FdVZsMUlzWjhLcEVVaFBwZ01BcnZ1UkZxOHluMWtIdFp5NUUxT3dSWDBtNFFSR2xjaWttUDVULU5MMmhwekEzLUlTRWo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street Bulls Look Optimistic About Progressive (PGR): Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOam42VTRWbFRGREpPUXBOUXAyalI1SWxWTXRZaUZ6Qkp4RU1CNGF6RDd6d2hOYkN4MHp4R0k1Zkl0c1E2bGJXdFBudlRyd2lnYm42RnJ5WUFKaExETENRZ1l0SFc1aHNTbVVmcS1xWC1DbXpPZVExd0JVN3hWM3QwSHdTOGh6Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PGR Stock Lags Industry: Is it Still a Buy Despite Premium Valuation? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDExbXh4MlAyQzMtb1h4SlBLbmFpdU1zemJRWXJPQVZDZm9oNUFFZ1I0UGNXck1FMmExRW83WEpoTk9ieU5fNjYzcmFjZE9Pd0hsZFRXb010eW81V3V4VFdaOVY2VzhSbUc5OENQTHUxSUlyVlR3UHZWTHkxNEpVYg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is The Progressive (PGR) Stock a Solid Choice Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmJ5Nkh2blF0a24wdlRLMDBoU1FERmJHNVdqUllKYlR1SGNUTnZjLTROY1pvR3ZMUmpETDNhNE5Dc1NHbjlhM25uSkNuYTRuaXYyQzhISldwOU5kRFNhU0RKb1NKNEhIdXhJYmx0QS05UUhtbHduUmhNcHBEU1o3dXBR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Progressive Stock Revisits A Buy Zone As Earnings Loom - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUdHVk52VHBVQ2pwajVqbENic1pNaTgyZEdfYW5taFJ1eGtucHFBV3V2NlJBcS0yT3V2Mmg5bm53N1N0SUVjdnc4TFVpZnIyN2xDdUFTcnFpNW56NTBXeEpFcE5vY1hyRTR5aGtTanVCMEdWMVcyYlRLMlAyRlNuWFlQbG5mbXFMamxMMzdB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 266.06
+      },
+      {
+        "date": "2024-11-25",
+        "price": 265.88
+      },
+      {
+        "date": "2024-11-26",
+        "price": 268.02
+      },
+      {
+        "date": "2024-11-27",
+        "price": 266.86
+      },
+      {
+        "date": "2024-11-29",
+        "price": 268.88
+      },
+      {
+        "date": "2024-12-02",
+        "price": 264.04
+      },
+      {
+        "date": "2024-12-03",
+        "price": 262.61
+      },
+      {
+        "date": "2024-12-04",
+        "price": 260.35
+      },
+      {
+        "date": "2024-12-05",
+        "price": 261.29
+      },
+      {
+        "date": "2024-12-06",
+        "price": 254.56
+      },
+      {
+        "date": "2024-12-09",
+        "price": 247.86
+      },
+      {
+        "date": "2024-12-10",
+        "price": 247.27
+      },
+      {
+        "date": "2024-12-11",
+        "price": 243.73
+      },
+      {
+        "date": "2024-12-12",
+        "price": 242.76
+      },
+      {
+        "date": "2024-12-13",
+        "price": 251.8
+      },
+      {
+        "date": "2024-12-16",
+        "price": 250.25
+      },
+      {
+        "date": "2024-12-17",
+        "price": 247.53
+      },
+      {
+        "date": "2024-12-18",
+        "price": 240.28
+      },
+      {
+        "date": "2024-12-19",
+        "price": 239.71
+      },
+      {
+        "date": "2024-12-20",
+        "price": 239.97
+      },
+      {
+        "date": "2024-12-23",
+        "price": 241.01
+      },
+      {
+        "date": "2024-12-24",
+        "price": 243.24
+      },
+      {
+        "date": "2024-12-26",
+        "price": 243.19
+      },
+      {
+        "date": "2024-12-27",
+        "price": 241.02
+      },
+      {
+        "date": "2024-12-30",
+        "price": 239.6
+      },
+      {
+        "date": "2024-12-31",
+        "price": 239.61
+      },
+      {
+        "date": "2025-01-02",
+        "price": 240.65
+      },
+      {
+        "date": "2025-01-03",
+        "price": 242.22
+      },
+      {
+        "date": "2025-01-06",
+        "price": 239.59
+      },
+      {
+        "date": "2025-01-07",
+        "price": 242.28
+      },
+      {
+        "date": "2025-01-08",
+        "price": 243.59
+      },
+      {
+        "date": "2025-01-10",
+        "price": 235.61
+      },
+      {
+        "date": "2025-01-13",
+        "price": 235.78
+      },
+      {
+        "date": "2025-01-14",
+        "price": 239.76
+      },
+      {
+        "date": "2025-01-15",
+        "price": 242.47
+      },
+      {
+        "date": "2025-01-16",
+        "price": 245.54
+      },
+      {
+        "date": "2025-01-17",
+        "price": 243.68
+      },
+      {
+        "date": "2025-01-21",
+        "price": 241.01
+      },
+      {
+        "date": "2025-01-22",
+        "price": 239.17
+      },
+      {
+        "date": "2025-01-23",
+        "price": 239.51
+      },
+      {
+        "date": "2025-01-24",
+        "price": 238.82
+      },
+      {
+        "date": "2025-01-27",
+        "price": 246.91
+      },
+      {
+        "date": "2025-01-28",
+        "price": 245.05
+      },
+      {
+        "date": "2025-01-29",
+        "price": 246.4
+      },
+      {
+        "date": "2025-01-30",
+        "price": 249.22
+      },
+      {
+        "date": "2025-01-31",
+        "price": 246.44
+      },
+      {
+        "date": "2025-02-03",
+        "price": 248.92
+      },
+      {
+        "date": "2025-02-04",
+        "price": 248.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 249.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 251.35
+      },
+      {
+        "date": "2025-02-07",
+        "price": 250.6
+      },
+      {
+        "date": "2025-02-10",
+        "price": 249.69
+      },
+      {
+        "date": "2025-02-11",
+        "price": 257.57
+      },
+      {
+        "date": "2025-02-12",
+        "price": 256.79
+      },
+      {
+        "date": "2025-02-13",
+        "price": 262.13
+      },
+      {
+        "date": "2025-02-14",
+        "price": 262.6
+      },
+      {
+        "date": "2025-02-18",
+        "price": 263.93
+      },
+      {
+        "date": "2025-02-19",
+        "price": 269.62
+      },
+      {
+        "date": "2025-02-20",
+        "price": 267.67
+      },
+      {
+        "date": "2025-02-21",
+        "price": 266.19
+      },
+      {
+        "date": "2025-02-24",
+        "price": 272.63
+      },
+      {
+        "date": "2025-02-25",
+        "price": 278.52
+      },
+      {
+        "date": "2025-02-26",
+        "price": 273.43
+      },
+      {
+        "date": "2025-02-27",
+        "price": 278.77
+      },
+      {
+        "date": "2025-02-28",
+        "price": 282.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 285.08
+      },
+      {
+        "date": "2025-03-04",
+        "price": 283.19
+      },
+      {
+        "date": "2025-03-05",
+        "price": 281.86
+      },
+      {
+        "date": "2025-03-06",
+        "price": 281.17
+      },
+      {
+        "date": "2025-03-07",
+        "price": 279.82
+      },
+      {
+        "date": "2025-03-10",
+        "price": 278.69
+      },
+      {
+        "date": "2025-03-11",
+        "price": 276.94
+      },
+      {
+        "date": "2025-03-12",
+        "price": 277.55
+      },
+      {
+        "date": "2025-03-13",
+        "price": 279.4
+      },
+      {
+        "date": "2025-03-14",
+        "price": 283.69
+      },
+      {
+        "date": "2025-03-17",
+        "price": 291.22
+      },
+      {
+        "date": "2025-03-18",
+        "price": 283.28
+      },
+      {
+        "date": "2025-03-19",
+        "price": 273.29
+      },
+      {
+        "date": "2025-03-20",
+        "price": 274.62
+      },
+      {
+        "date": "2025-03-21",
+        "price": 272.86
+      },
+      {
+        "date": "2025-03-24",
+        "price": 274.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 274.43
+      },
+      {
+        "date": "2025-03-26",
+        "price": 272.54
+      },
+      {
+        "date": "2025-03-27",
+        "price": 274.67
+      },
+      {
+        "date": "2025-03-28",
+        "price": 278.86
+      },
+      {
+        "date": "2025-03-31",
+        "price": 283.01
+      },
+      {
+        "date": "2025-04-01",
+        "price": 284.29
+      },
+      {
+        "date": "2025-04-02",
+        "price": 281.23
+      },
+      {
+        "date": "2025-04-03",
+        "price": 287.0
+      },
+      {
+        "date": "2025-04-04",
+        "price": 257.64
+      },
+      {
+        "date": "2025-04-07",
+        "price": 255.27
+      },
+      {
+        "date": "2025-04-08",
+        "price": 260.38
+      },
+      {
+        "date": "2025-04-09",
+        "price": 270.11
+      },
+      {
+        "date": "2025-04-10",
+        "price": 273.18
+      },
+      {
+        "date": "2025-04-11",
+        "price": 275.64
+      },
+      {
+        "date": "2025-04-14",
+        "price": 278.56
+      },
+      {
+        "date": "2025-04-15",
+        "price": 276.11
+      },
+      {
+        "date": "2025-04-16",
+        "price": 275.13
+      },
+      {
+        "date": "2025-04-17",
+        "price": 265.45
+      },
+      {
+        "date": "2025-04-21",
+        "price": 257.41
+      },
+      {
+        "date": "2025-04-22",
+        "price": 265.08
+      },
+      {
+        "date": "2025-04-23",
+        "price": 265.03
+      },
+      {
+        "date": "2025-04-24",
+        "price": 265.19
+      },
+      {
+        "date": "2025-04-25",
+        "price": 265.01
+      },
+      {
+        "date": "2025-04-28",
+        "price": 269.58
+      },
+      {
+        "date": "2025-04-29",
+        "price": 276.31
+      },
+      {
+        "date": "2025-04-30",
+        "price": 281.74
+      },
+      {
+        "date": "2025-05-01",
+        "price": 277.66
+      },
+      {
+        "date": "2025-05-02",
+        "price": 282.81
+      },
+      {
+        "date": "2025-05-05",
+        "price": 282.16
+      },
+      {
+        "date": "2025-05-06",
+        "price": 283.66
+      },
+      {
+        "date": "2025-05-07",
+        "price": 286.38
+      },
+      {
+        "date": "2025-05-08",
+        "price": 283.92
+      },
+      {
+        "date": "2025-05-09",
+        "price": 284.51
+      },
+      {
+        "date": "2025-05-12",
+        "price": 280.25
+      },
+      {
+        "date": "2025-05-13",
+        "price": 282.59
+      },
+      {
+        "date": "2025-05-14",
+        "price": 278.17
+      },
+      {
+        "date": "2025-05-15",
+        "price": 281.15
+      },
+      {
+        "date": "2025-05-16",
+        "price": 286.03
+      },
+      {
+        "date": "2025-05-19",
+        "price": 288.24
+      },
+      {
+        "date": "2025-05-20",
+        "price": 285.63
+      },
+      {
+        "date": "2025-05-21",
+        "price": 281.0
+      }
+    ],
+    "current_price_data": {
+      "price": 281.0,
+      "change": -4.63,
+      "percent_change": -1.62
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

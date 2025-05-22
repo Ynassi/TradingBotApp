@@ -1,0 +1,634 @@
+{
+  "ticker": "6758.T",
+  "name": "Sony",
+  "sector": "Information Technology",
+  "market_cap": 21687177314304.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 19.156742,
+    "PB": 2.6538835,
+    "EV_Revenue": 1.889,
+    "ROE": 0.14214,
+    "ProfitMargin": 0.08811,
+    "GrossMargin": 0.28252,
+    "DividendYield": 0.66
+  },
+  "technical_indicators": {
+    "RSI_14": 51.26248446205238,
+    "Momentum_10": -4.455051710421639,
+    "MACD": 44.46830946953196,
+    "BB_Percent": 0.581007886043958,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8960558527754876,
+    "QualityScore": 0.3593391875345212,
+    "SignalScore": 0.6938381145503636
+  },
+  "volatility": 0.029005098962323,
+  "beta": 0.77,
+  "return_6m": 0.238167494844635,
+  "analyst_rating": {
+    "recommendation": "strong_buy",
+    "analyst_count": 23,
+    "target_mean_price": 4266.9565
+  },
+  "news_sentiment": {
+    "summary": "Voici une synth\u00e8se courte des titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Sony Group Corporation (TSE:6758) :\n\nLes titres concernent la situation financi\u00e8re et la strat\u00e9gie de Sony Group Corporation (TSE:6758), notamment ses plans de spin-off de ses activit\u00e9s de fabrication de puces, de son investissement dans le jeu vid\u00e9o et ses achats de partenariats. Sony a annonc\u00e9 une hausse de son dividend et un plan de rachat de actions, qui ont contribu\u00e9 \u00e0 une hausse de ses actions. L'entreprise a \u00e9galement annonc\u00e9 une hausse de ses revenus et",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Sony shares rise in choppy trade as PlayStation maker announces $1.7 billion share buyback - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRkpHM0dTeVRiVm1zc2pvLTVnS1dmV0NXdHVibzlLaVVFSTJyd1hzeUNCNkxzUlpiWXNtMThWVU9SaGJYRjFlTkFCX0NPMHVfNlVucjc4UUIycHh3cFhueFlZV3hId3dOZm1VNlY5RldEYnFFU0pic2hEdnNHeXFFLVJPRVRhRloxa2dxbUxJN3htWWZFR1JISERKN3dEYzB0Ty1UUXdnbHRCRkpKcGNqNzdTVkcwZXN4dHZxSFF5NDk2WkXSAcgBQVVfeXFMT2g5VktTVmE2OUljaHlaWlltc0ZRMkRoT2Qxa3IwcnE5aUY4QVBlaWxlSVY2QXpPY25iSkFIdjFQUDVFNHVHZ0owakZhcTV3dEcwV3FkVC12LTNHR0x1eVZrVkdQLWFHSjZ2cm9DNHdGV2xXLWRpQ1I5ZjlLZ2s4N2JQUkVVei0zWnprWEFWY3JTT2hnZTNjb1U0WEJrV3hBdWVVbTVUNUYyS1ZsRnM1enNxRWU5SW44M3I3NmEwOFd6UVY5aVdLVEs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Exclusive: Sony is in talks to buy media powerhouse behind 'Elden Ring' - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkNwX1BHal9iMzlwWTVvcFVGalRNYTJ3UUdvSFF1cjgxZ2tabi02aVpzdENxYjlTcEFSODN1T1UwY21QYWp5REdJOWlOZFh1RTNnTmY2cmdneTI3Y1ZuSFlSRl83cm1ob2hQdmtHSXdqQUlZckUzV296S2JlaWlPU1NROW5USXJxVTg0MzNOY1BYOUFzZzhmMi1qd2tRMDNpZDhoVi1QT0ZIVEVEWXU0WA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sony Group's (TSE:6758) Dividend Will Be Increased To \u00a550.00 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkFRX21fWXlyeXd3d3c0M1FnV01aMWx3dURfbm4tLW5HUWhtbTRqVWl1elQxaFFLeURySndjemVtMTNpLXBMTGVjTnlPZ0FIRUZQWGhZNVFsQkZIVmcyeW5uaVRzOXZIOHlRbllJUkFITTE0WVdGWndXbFNyRDJnNEdJaHJYV2ZweGNHb0ZQSU83OGtJbEc0ME1fc05XZGtmVEdKLUhKckZkUmZKb3lUZ2ViazkwXzdGdkF1MmdYenZzYm5JbElLS2dxazRaejZVd3fSAdcBQVVfeXFMUHVUX1NxRVpsSXJEbmI4dm1DWXNaYW82eTlLOXdxS0taWWUyVEpNMzViTE5TNWtGZ0puSmJKQ2h6TFBScmM0aGZURDRwdjRJaC1iVGxSYzJESGxlV1BSUnVlaDJRSTd1TExfczdQd2NaQWZEbW4yX19LTUF5bHQxOWt6R1pXeU9Nc2czV1VUUjg4RkRDdmZOWEFudU4wN0Q3VmdnMGhESzZGdUpmSGtXbDA1ZUpxWnNwZGF2Q01sOHZzOFVKTE4wOEZLa2EzRHFyT1RRR0ZDYzA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Japan\u2019s Nikkei Stock Average Ends Lower on Profit Booking, Stronger Yen (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JT21WVDBtT29iV3B5WG5uam9TMUhuRl9kbE9sUzdxVUdRdjJzWW1aTzRzNkZBd1libHJMMEh1aVRQaGVrUk1tbjBoc05DbjA5dC1VMmtjQ0JzV0MzUVRvcGRXY1BCYThKMVNmdlZHZlFSNmxIRXcxSHJ3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sony raises guidance on gaming strength, quarterly operating profit beats estimates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0pCeW56LXZmMDNGV0p3QzU1U0hacDFma1dPQVYyd2Jaa1ZjeF9Lem84aFp5dlc4QnM1UFdXQlBYUjZibUltUTdMUk54WGZUUThDaGZzekdxUDVYaGh3OXN1VFhkSDk5QldEVDhkZVFnSHp6X2dRZ09qS1EtRkx1bXZsOVN2Q3BQS3VkM0MyNXdVSzM3QTV6MlE4aHdXSFQ5cklmUjhScjLSAa4BQVVfeXFMUGNDSDRvajhENmxqUFVHS3BrY0RiWWlzN0g3RVl4Q1J0ckExdW9yWkcwUHdtN0Zia24tVHU1dzlLWk5KUG53MjNMZU16eG05bUtVcG1rNGYtQnJ3dUl1OGpGeUptQTIyQS1udVlFQzRkVXVZNllZT0ZXS2M5Umg4X3czMThNakZqcG1GdzItMEpQTjI1Wnk0Q2Znc19RYWJESVUxNDhsSzlKSW5rcGFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "6758 Stock Price and Chart \u2014 TSE:6758 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IU0tCTGV2VVh2Z3JmTWh6ajU5TXNpNUJMZk5qdXM1d1Rybzg1S0cwNEtMZDVQT3pvV2dKbnQ3d0RsVXg3X0ZFS19wUlRlenBULVZTbnFzTnk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sony Group shares soar as it\u2019s said to consider chip spinoff - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QMFMwWTA3SVRHTTQtaVBGVjh1MC02LWp6SVRPWUdPWFlEYmMweU5qY0pMRlpPVXBlVGlYSWV5SUJCSmhpdTVCOUV3RGxveE53TlpNQWxfVjFyVENzTldqSFBWSnNubHhwbGV6ejNJM0JJRTdsZWk1ZnFMZXR3QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nintendo shares dip despite Switch 2 announcement - Cyprus Mail",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVWFsTXRJVVdlS29XZ1ZfMEU5ZVVmM0pDdTJPb3VWTWVRM3RrdlFLbDRXb1UxZlVVODQ1SVpoWW9VTklkbjdicENOYUExbEJLRHh5SEpPNWNRSU0yc09lbHpaNUh1NWRVa2xvaG5ESmV5N2F1aWxVWUZ2czUwLXhNZDZYNkZyQ1FITEk5OQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nintendo to Release Switch 2 This Year; Shares Slide 6% - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IYk02RkZveC0wcmZoVjc3V0wtOUw5Um5RVTZtblBLZHEwOXZqdmhWTHZRWDFfSlRBS1FYOE1udmt3bGlnZlB6UVV4UWhuaVM1aHFHbEtrSmZuazV1eTk3TmtfbE5mSXZvWEZYb05reHAyVVFTZUNwOUZ3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sony shares leap 12% on buyback and dividend plans, higher profit outlook - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFpqWFd4TVdra1Bybkd5Y2hRNmREeWFaOHVFSE1kekIyVVE1amcwTVp2cGxKZlBxWHlyVlpWQzFobmtMMmZNWjlJTzNibFZiYW11Q05NTWtTRUYtUUJRcjdTS0kxc0pySHdtQ0RUcGVSVnBYTGNfXzI0eW1wVUc0UWVYYjhGb3ZyQzA2QXdzd0s5dXRVWHNjYWFWVVdmd0N6akl0ckVMeUw4LUNRRlNESA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should You Be Adding Sony Group (TSE:6758) To Your Watchlist Today? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFFqc1VDTDJQS1VIeHRBOGpJRUJJd2hadGlESVRLbkRPT0tSNWRMcWFpVF9OUUltZWp5d1IwbDBuSGU2NHNHeEh4cEpHdWpqcF9NUGplck44WC1Day10NG00X2xEVmpBRXhHaHhZLUdaWTFvM1pLbkR0d1h5LTRaZXB5MWxJVzJMbDU1Y0ZuZWNGM3NTcDNTQzBwVnFhOHRlWUFocWE0N3JuWkc2LXdSWFItaTdwR3ZQQUZWS1RrdnJYb0ViczhRTHZMSFJnbEZIQ2Q1ZHo3ZnRyd9IB3wFBVV95cUxOaElvN2g2cEtaVDVxclBoQy1sS2FTQXRJMG1fa0RjWGhxRTVoZU5zcTh2d05xUlpWa3JrQkpJWjBjbWlQa3ZWSUtTVzRHdlIwd0JkXzFpSmV4MzZMRmZMem9jTDhGdDlBaFBrSjQ4MVctSGlXV3pBMWRYc01OTTlCUHg1UU1Tb0hsS1A4M05HY0RlNjVZOWo4X0tLS3JCUk1IdTVpRXF1akQ5WHlSLUF6eVo1RjduQlpPLTJuX1lpU0VrZTRQTmdrblRvU0tJWnVjcm1RTW5YSzNNLWtFY0xZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sony rules out renewing offer for Paramount, says it wouldn't fit strategy - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1BwbkQxLTQ3d0ZuMXdiclhDX1pIYUVFY2djYWlLMy1VMHFyMU50X0ZEU2tLWENSbDU1MS1KaG4xMUZXaEs1RzNrMy1MM2gtWXBRdTdWSXd5dGJaYWVoS25la1pzc2oxUEJKR1ZPUUxjTUVhTkxDdG9pN0hiNE4xcWE0XzlUWGlaMWNzdVZSb3RKV2tPNmxfd1VhRWpnY1JDQUNvRG5tNjLSAa4BQVVfeXFMTzd3YlIyMUdkMkVaYXdoaVUwdVM3N0xVNkVSdmhRREdoNGVtc2dGTllRU1Q1ZGNwcFZ3cWpTQWJ2cENlR09sa0g0eUt5b1pBUmo3U2NPRGVkemhGeUlFX3BnN1FPS3gybVgwaEJ0UjRnbzhVcGh1WDh6OGplV01mOGhhVVdnVHFNbHZsNTRQbV81MnVrLVgzWEtKQzRyeXlfQXRZZEZWMTFuREtnSzh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "If You Invested $1,000 In Sony 10 Years Ago, Here's How Much You'd Have Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03eDJ6R0JLRlIwVEhEOVFrelRRcmdXdTRodmx0R1JOZUJuRlVMRUxQSkx6WlhoYkVZcG9FUVE1LWV6THRXTlFqdUxwdjB1bTBDMHBQeWNUQms3VjZPc3NHUXF2eGdtVXE2TXVQdFpsQWFIcEl2cG9r?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paramount shares fall after CNBC reports Sony rethinking its bid - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEhyODN2UTdQRS0xRnhycVFnOWNrc0xGaEtLbFFLTDlFX3N2WTJDbDhZa3pDc1VRckhNZ3V0NHVaOU9hVndDU09oUk53Y1V5eWdsSTR1b2RyZnoxU2pyZVZpMFJaMXZyZ180M0pHd3lGdzFtTVBIc2JnSmJCOUhiY2Z0OFNoUnU3Y202LXBlRjJWZTZ2cnpoOW9xZWhDendreDloTm0wbTY?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Now An Opportune Moment To Examine Sony Group Corporation (TSE:6758)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOE5mVlRMLVhfM05JcE9wSkVfZVVuWWVSMEUxZ2QyVXZzNHgyVVJ1RnBrWHFJd2xiRVI3NlhYWUV2bUczNXYxUDZDTHl4MWRPN2hKQWFaejdxYjQtcG5hVFJSbUVURHhHY3lMTi15c01Ec2FzWjB0SlUyZVVPNUplTXZKT1ZOUHFFbkNpQi1BRkJiMmhwckJfMkMtRTNqb2tUQkFSOWlmWHVJRmJqUnpuZ3RXb202NU5QLXVzZ2MzV1dHM3NHbHBZVGptdk14OW91bmtPUzk3TUliQdIB3wFBVV95cUxOT3BnU2p1ZFRXZVJRZEpzZUZxSnBXTklVLWp1UUwyWFl3ZF9CZjRaVzRxbnNrdFo0RjNxajRlcVc4WGEyTWlQTFhhZjJpQzAyT0VQWEM0UFg0M1dyelZCNVRmcG9FSjRlbzRWS2doTEFtSlBRVHNWSmdGNUJYbWJXWkwwbmppQ05GdDQtZXgzZm1XX1J6dWIzNXFnS1pfM0M4ems4c19lVEdJUEhYbTE4TWhNOXRsR3lKbFZYaFJQUkNvUDNfRmN0LUl2YmdHU3ZQS09oZm12b0RtWEpEV0dR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sony hikes price of aging PlayStation 5 console in Japan by 19% - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDBjSmJpSmJuMnI1bXUyTDUtQ3laNGxuOXNJczRGb3AwV2l6RjZMdGxMSVR5WGs2NU5iQTYxVXJUbDhfc1JfT3Z2Qi0yT0Q5MloxLXYzcHNqOG1QUDBuakh2VkpSOEEySVhqTmU0M1A2QkZDSU9Db0ZUSnVIdDVvV3V3TjQxcWhoQlVyV0J0cENGZ2pSUWUySA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sony shares slide after earnings highlight concern about games, sensors - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN1Fkc0s4NGlsay1vZUNfZkk0TnliZGtqNGtuZl9MNUdFTXVCNzRaVDVWamJNQzh0UmxvbGt4aUhyQjluTkpLVWdBN2c1UTBHVS1RcVdFdGpiaXFRRmlvVDZFYlVhdk9ob05SelJ0aDNMd3V2eXUtdjZOUVVBWFh3emV4dEM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sony shares surge over 10% after it forecasts stronger revenue and profit for fiscal year 2024 - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2c0dW9DS0NjYVJaX2ctU0hXcjdOM29lUkVWanhFSFdSTGVFSGlaTlhzamg4dkJQcDdyT3FYdHVfOXR6anlGTkRXZklwLXo0VWpKdWZPM2l3SlhsUHk5aVpLeUJWX3k2UEdYR2xzYmNiVEgwOEt0bnd6dXhfakw4d1M2ejZRNWpmTXRUUXB5cFFrWjY0bGRjdkY2Z0VzT2VOZ0dqMUQ2UU9EQ2c10gGyAUFVX3lxTE5uTzBFUGI4ckJfNWNkZjhsMWtGa09CbUZtbTNYaDAxVXExN3QtU3ZIanB2TUdubXozMFF4S2dmOWNDVmRFOHl1WERaWmdlZFBYRzQyWUdfcHFoZ09uZzZTeDlwSjd2SFhEMkszSE0xQ3liX0tBeDdmOUpMWmdzdHl2b3ZyNk5pTllBWnl3OUJBcFhaVGJ5TjJBSkZ2N0VFbU51QkpldGJ0ald3LUVVV09fUGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Japanese companies warm up to employee stock incentives - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGRyeTdDYmV0bDJuNE5NNDJTMjZxYW9yT3JGNVFPcWJ6UDRlVmtyeGVxdFpuLWZJZF9BZXVRRDhHQzhLcFhXdlctVDRNdEFHQXd5ZW1rZ1JJSy1hM0JEYWJpS21FVXJRUEc0MUQzTUxzdmlWeVZ0RW55TE5GdEgzMWZfMjRBLXJvQ0ZpY3FlanR0R3loaHZ3RGk1RnBJOTVQc0t3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "See opportunities for Sony's platform business in the AI era: Analyst - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3lqek0xekxpM3VXR1o3YV85UjJwTnpmaWJLMXBlZEVLZS1zN0h1ZWVDclJVZGFFR05HMFBCd0NsOGVRd0VjSnhfejlqUnpTbkRGaVBOVXpSRzNNUmhRR2FteU8xbUNKejlXVEdQajI5dHpmNXZLUkl6azNTZE5ET0oybHZxVWVwQTVMQ2RzSmpGeGZaUExaTVZ5THZxaVk?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 2951.5
+      },
+      {
+        "date": "2024-11-22",
+        "price": 2948.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 2977.5
+      },
+      {
+        "date": "2024-11-26",
+        "price": 2983.0
+      },
+      {
+        "date": "2024-11-27",
+        "price": 3018.0
+      },
+      {
+        "date": "2024-11-28",
+        "price": 3058.0
+      },
+      {
+        "date": "2024-11-29",
+        "price": 3007.0
+      },
+      {
+        "date": "2024-12-02",
+        "price": 3014.0
+      },
+      {
+        "date": "2024-12-03",
+        "price": 3070.0
+      },
+      {
+        "date": "2024-12-04",
+        "price": 3170.0
+      },
+      {
+        "date": "2024-12-05",
+        "price": 3167.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 3144.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 3206.0
+      },
+      {
+        "date": "2024-12-10",
+        "price": 3338.0
+      },
+      {
+        "date": "2024-12-11",
+        "price": 3362.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 3462.0
+      },
+      {
+        "date": "2024-12-13",
+        "price": 3358.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 3324.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 3380.0
+      },
+      {
+        "date": "2024-12-18",
+        "price": 3291.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 3260.0
+      },
+      {
+        "date": "2024-12-20",
+        "price": 3284.0
+      },
+      {
+        "date": "2024-12-23",
+        "price": 3301.0
+      },
+      {
+        "date": "2024-12-24",
+        "price": 3298.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 3305.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 3350.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 3417.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 3369.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 3301.0
+      },
+      {
+        "date": "2025-01-07",
+        "price": 3341.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 3290.0
+      },
+      {
+        "date": "2025-01-09",
+        "price": 3245.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 3235.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 3155.0
+      },
+      {
+        "date": "2025-01-15",
+        "price": 3206.0
+      },
+      {
+        "date": "2025-01-16",
+        "price": 3198.0
+      },
+      {
+        "date": "2025-01-17",
+        "price": 3214.0
+      },
+      {
+        "date": "2025-01-20",
+        "price": 3239.0
+      },
+      {
+        "date": "2025-01-21",
+        "price": 3235.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 3275.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 3336.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 3251.0
+      },
+      {
+        "date": "2025-01-27",
+        "price": 3261.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 3357.0
+      },
+      {
+        "date": "2025-01-29",
+        "price": 3484.0
+      },
+      {
+        "date": "2025-01-30",
+        "price": 3452.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 3440.0
+      },
+      {
+        "date": "2025-02-03",
+        "price": 3380.0
+      },
+      {
+        "date": "2025-02-04",
+        "price": 3475.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 3513.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 3517.0
+      },
+      {
+        "date": "2025-02-07",
+        "price": 3483.0
+      },
+      {
+        "date": "2025-02-10",
+        "price": 3429.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 3372.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 3410.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 3705.0
+      },
+      {
+        "date": "2025-02-17",
+        "price": 3857.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 3782.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 3773.0
+      },
+      {
+        "date": "2025-02-20",
+        "price": 3732.0
+      },
+      {
+        "date": "2025-02-21",
+        "price": 3813.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 3797.0
+      },
+      {
+        "date": "2025-02-26",
+        "price": 3805.0
+      },
+      {
+        "date": "2025-02-27",
+        "price": 3818.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 3739.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 3713.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 3628.0
+      },
+      {
+        "date": "2025-03-05",
+        "price": 3583.0
+      },
+      {
+        "date": "2025-03-06",
+        "price": 3727.0
+      },
+      {
+        "date": "2025-03-07",
+        "price": 3569.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 3458.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 3389.0
+      },
+      {
+        "date": "2025-03-12",
+        "price": 3511.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 3489.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 3518.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 3589.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 3651.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 3682.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 3782.0
+      },
+      {
+        "date": "2025-03-24",
+        "price": 3764.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 3766.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 3852.0
+      },
+      {
+        "date": "2025-03-27",
+        "price": 3862.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 3831.0
+      },
+      {
+        "date": "2025-03-31",
+        "price": 3765.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 3765.0
+      },
+      {
+        "date": "2025-04-02",
+        "price": 3690.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 3512.0
+      },
+      {
+        "date": "2025-04-04",
+        "price": 3345.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 3009.0
+      },
+      {
+        "date": "2025-04-08",
+        "price": 3218.0
+      },
+      {
+        "date": "2025-04-09",
+        "price": 3107.0
+      },
+      {
+        "date": "2025-04-10",
+        "price": 3527.0
+      },
+      {
+        "date": "2025-04-11",
+        "price": 3266.0
+      },
+      {
+        "date": "2025-04-14",
+        "price": 3294.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 3366.0
+      },
+      {
+        "date": "2025-04-16",
+        "price": 3340.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 3438.0
+      },
+      {
+        "date": "2025-04-18",
+        "price": 3466.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 3377.0
+      },
+      {
+        "date": "2025-04-22",
+        "price": 3347.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 3537.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 3528.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 3535.0
+      },
+      {
+        "date": "2025-04-28",
+        "price": 3520.0
+      },
+      {
+        "date": "2025-04-30",
+        "price": 3771.0
+      },
+      {
+        "date": "2025-05-01",
+        "price": 3663.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 3732.0
+      },
+      {
+        "date": "2025-05-07",
+        "price": 3581.0
+      },
+      {
+        "date": "2025-05-08",
+        "price": 3500.0
+      },
+      {
+        "date": "2025-05-09",
+        "price": 3583.0
+      },
+      {
+        "date": "2025-05-12",
+        "price": 3592.0
+      },
+      {
+        "date": "2025-05-13",
+        "price": 3654.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 3788.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 3682.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 3603.0
+      },
+      {
+        "date": "2025-05-19",
+        "price": 3610.0
+      },
+      {
+        "date": "2025-05-20",
+        "price": 3777.0
+      },
+      {
+        "date": "2025-05-21",
+        "price": 3671.0
+      }
+    ],
+    "current_price_data": {
+      "price": 3671.0,
+      "change": -106.0,
+      "percent_change": -2.81
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

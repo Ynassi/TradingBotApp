@@ -1,0 +1,604 @@
+{
+  "ticker": "2914.T",
+  "name": "Japan Tobacco",
+  "sector": "Consumer Staples",
+  "market_cap": 7871190794240.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 43.86069,
+    "PB": 2.080115,
+    "EV_Revenue": 2.704,
+    "ROE": 0.11771,
+    "ProfitMargin": 0.14324,
+    "GrossMargin": 0.55705,
+    "DividendYield": 4.33
+  },
+  "technical_indicators": {
+    "RSI_14": 57.90821719708025,
+    "Momentum_10": 0.5899705014749262,
+    "MACD": 82.63013976816092,
+    "BB_Percent": 0.6018606319808438,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8902303673067642,
+    "QualityScore": 0.4790572747366086,
+    "SignalScore": 0.6281292004117638
+  },
+  "volatility": 0.0118468309879428,
+  "beta": 0.204,
+  "return_6m": 0.0886253095518381,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 10,
+    "target_mean_price": 4640.0
+  },
+  "news_sentiment": {
+    "summary": "Japan Tobacco (TSE:2914) affirms its dividend, completes acquisition of Vector Group, and plans to quadruple smokeless tobacco output. The company's largest shareholders are individual investors and states. Big Tobacco is close to a $24 billion settlement to end Canada lawsuits. Electronic Marlboro competes with Japan Tobacco in the heated tobacco market. BAT agrees to buy Reynolds for $49 billion. Nomura CEO resigns amid insider trading scandal.",
+    "sentiment_score": -0.143,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.07,
+    "neutral_ratio": 0.71,
+    "negative_ratio": 0.21,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "Japan Tobacco (TSE:2914) Has Affirmed Its Dividend Of \u00a597.00 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUkFjTmVyQWVqdk43bmR1dkFmZ0J2YVFvbU9MMmx1S1lEa1hacnRSMUY5UTRtdVFZNEpFaFBmZlJsN2d2UUNvWlphLVBPeFl5UkhLTmhnSEVRRnpNVUV1VzMxOTVuNWlGSEdHRUZMXzF3Vkl6eVJwc2ZLX0pRSThrckduM3JYbGVNODdRYTdoakNHd2dhNDdVUGVLUEhxaUkyNG1yV213Q1pZS0Utd0tPd0Y1Zk1jVUxKd3lYMFFiWlF4bXNNVDJMYWpGU09VdVM4WFhQQlkwYVNBLWVI0gHiAUFVX3lxTE1PelVEczBqdzFlOG1NTU9GTC1MY29aMTF6Rm1ERDRjWW9HWGNYaWtxSnExMFJydWY1ckhpY0x0TThtVDFzdmt0c1M3end4dk9QTVhFakVwTWFLSFdaX0o0MUdFdlRicEtfUmxGRFIydmp2R3o0bXEtcWRXc2d3bTFEWFhGQUg4dndPSjQ0eXVZYjFURXREMTRuSEQyWVEyaFN1NWJ0SktzajdIck5LV1c2VU5wblRmSXpqY2ZCdlZfMzYwcDgwc0RnTkFPcmY2aGlCUzZMbkxoUnlMOEdnMEhPQ3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JT Group Completes Acquisition of Vector Group Ltd. - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmVZZ3AzallMM1ZRYVJkT0NnSzRraFpsMjIxMGxsMEFWZUZZWXJXckVsYlhnUjZlV0VaajFIMGFtamJHc0tPTFNUM2JFT1BWbGlrTjJjV1dlOXFNVTh3Z2pfZkkwNXBrQXEyQ1J5TjAtbDJwTU03ZTdMUWFKLVNqTGJMSjgzeldyLUlEMVdWYkk0SGlhUHM2YTdiRXp6UXQtdmVKdGhhZU1lWnhZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan Tobacco Inc.'s (TSE:2914) largest shareholders are individual investors with 42% ownership, state or government own 38% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUHFYZ3NzMjU0SHBHYzZiQlBRbnBQREFka29TUDhwQ0JSSFloTGcwQzR2cmVnVXRVbTdwWnNBU1pZWm1TTHZPYUlhT1NuNDVkSHdPYzd6RC1PMG5WaUtUZDQ4WEE0dnVfOW14c09zS0ZhRThkOWRzejQxbFhjN2pNaTgwbEotdTdYcHR6aGd0ZTlLamlYVnNPWlVOVVdLcDRJS1N6Y0hfOWYteHZpUUpaYTRNdEd4V0tHNi1QaEpHLUljYTFsMEtaSVRBVVlsMlkwXzh6Zko5bF8wX21IWloyN1ZZM0FIQdIB6wFBVV95cUxObTJFbFoweXRkRnhIdWdVWGxmNG9Rc0c4Ym9BUWpiS2tJUFhBNXBkdjlwNHRRM3h4bTQwYk1Pd0ZDZU1wM1hYdEhaRVJmMmJjSUFlQ28yM2pCUGxRaEctRGlSbDBBZFNucDUxV1lnR3VhN0dvcXY1anBYb21tc3VuX3VNZkpXUkpzdF85alpqZktzZW02cDNBcjl3b2dBbGpZRjF5M0F6N3Bab2V0R0JwMm83bE5JXy0tanVwRXl1RXN1YW9Rd3hzNVBoYUNuNDRQbV9HaHAzZWpxSmNXWUpVNlZoOUJ2Z1N6WVJj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JT Group Recognized on CDP\u2019s \u201cClimate Change A List\u201d For the 6th Consecutive Year - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWUcwV3Y4M3otLVdMMXloLXUzdGtRMFhHS3Jrbk9oTlJvOHdPcEYxT3hnM19PRHhjLWppOXRJd3dSbUMyQ1d4d3JzTFJ5c0JIUzZ2ZTYxNEZiVTV0OXlTeE1FMWo5V0tRVWxvZnRqd01nWGxxeWlMcEhQU2JOYXdmZWozQ2sxTFR0Y2Jsc0t0bGl4OXp6R1NGZHpTYWtnUlhLOXF1cWQxTVBfYmktVlI1aVAtN21RUV9Scm5uY0EyTFFiNEtmcWJTT0VsV2dfMERlTlZDSXZZbHF5UzNDUTdWNEN3ZGtpT2c2R3pXanM0VWJyNTRk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Big Tobacco nears $24 billion settlement to end Canada lawsuits - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnNpS1h1bGRrb0ZrZTZPYnlSYllCaTJLQ1UzQWt5SGY5Y2lEbE1ocFJwdm03SktRTTdYcFpxeVJyWDdlandhNlRQQy1xQlRVUUNBNVZpd0JMT3RsaHotUjN6OXE5RldrZmpHaUhCRC13UmJra0haUUFOWlNhdEF3TGRXSnEtQUVUSFJLdnhlcWpORjF0UzZZWDNIbHpqUnc0b0NFQW1Sc2luMWIwa3pRQWpmUVpCbGNSbGFhUHZnNVpVRDQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MML Investors Services LLC Purchases 2,914 Shares of Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdC1LczJkYk1fa2g2R09HcmNXVWZWM2Iyd2ZBWjRMV1JPV3lfQmQtSVlQTk11UXhJLXJZQ0g0OVVwb3JGMWNQOUNneERvQno1WVpiY2djR0FwZGZEVFJSVnNpYnRxZDFBbUFaaDRINlB5TTRCU2RpMHNBVm1PWHFJcnRWSGl3ZERCck9uUnVibTlNR0owWGFQbjF6VGdxOGh3MHBjWWtUaHEzMWwwdER0VkVDelFxNFBaU0pycExyOUI3TnJzaUVVWUdLTXBsWkpWTDY4cnN0MEdKSlRU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JT Group to Acquire Vector Group Ltd. - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZk1EZE9mMHY3YkF2NlZvODlEeFV0ejViRVJBUm1hU3R4cXEwVHJNUkdkMm5LQnFGeFF4enJGLTRtc1ZXS2JNbENyd3NpUWc4ODFfXzdvdzdtb0ZUeDRtcUJiY3BiOXlBOGRYQzgxdTM3Ml9FWW5ZQnhBSlpJS1h0M0w0TE1rNFpPd0kzdlJMcDFaRHFTdnhsdDF3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Electronic Marlboro Sucks Japanese Smokers Away From Japan Tobacco - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUdrM0J3ZkhqLU5Ub2Q1NEJ4cjQ4WEJMVmxENFRUYUI0cTJfbkVkcGVwcGZRQTZBekVTS0JCMno1dWRjdzl4MmEyY1owcVNSNzdYWTJyQUZydnBBbGNWN3RZNGVWWFI3QmNRZGgwYzJFMFAtcmZqZmJuazdxbW5qZjctR0lXZkFHeUtxdUFqMlBIMWgwUHdyUlJLVHJBQ3pQdm83ejlISXdQMjg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "British American Tobacco p.l.c. (BATS.L) stock price, news, quote and history - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oYUs0UHNhRHhldERFSVhLMjZ2VElNLW1PZ2pZbW9ldkdHXzN6MkI0YVd1UGtnaTROWnpXN2lZYV9kNUxsMWI5TnE2cVJMb20wTWFqbQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Juul in Talks With Three Tobacco Giants Over Possible Deals - vapingpost.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUpDbk0taURxRXJUTnBFdExCN2ktZDNoM2VMdkxJbmt5a0pjMkMySXB2Znc2VHc2QzJjTWxJak9mM0dTUjZPekhYdi1MQXNDdTMwSU9kZkRtaldPcUx0NVhXaHpIaUFpLUpxOV9pN2laWU5ldGVudUN1Q3R0OHBLanlYdkM5ZzlMVE1SQXBrRlQzTzhzQ0N6MjZqWUVwMmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan Tobacco to cut heated tobacco prices in battle with Philip Morris - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWxTekVYaDQ4ZGtrbGFMbG5Zc0FQQVdBdktGNUJJWThTMkZCY3o5b2JkeDBuWHRqRm4ybzFGcU5aakhFeEd0TGFNZzN2SmZ0WFlPRTExbzVlQ3pGNl9Zei1oWWFDbUJ0WHU0SWh1THp2WHFpSDdrMy1WN2RoaDJHRVYwU0szTEhjSF9tTzMxU0dYcHd2ZGJ4Zmc1N2ZlUjdrUkFhSUdyTWVyTDVNbTJRZnZ0S2tjcnVKckI4b2llX1l5a1lIQWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan Tobacco Plans to Quadruple Smokeless Tobacco Output Capacity by 2018: CEO - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTVaRWZvN0drY0Z1NG82WVlnc3lMZi1wUjVXQ0dFTkg4LUxSaFpCcmNwRjE2NFNsc1R6SU1SVE9vSkwzamp1RF9iS3Ftc1cwa1VEYzBVSFZndVc0c2VFNTRhRFNudDEtZnl1dEpxRHpzN2poLVJpOXVqc1pvUDlIVWRQREh0V3hSc3NIVWhuZ1lBZUV3TUFuU3V1dExNcnd3ZnNLYmhsSC15UFZVNXZFaDdYYVVNQ195N0VF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BAT agrees to buy Reynolds for $49 billion - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdi1lWlJKMU1aSHIyQ2ZhTG5rNHRSYVRROFN2Mjkyb0dfNXdmNVN3RTBGcld1VU5uYkl6amVRVk1BRTdLNGloSUphSWNGbWFPZWd4VkNrd0luY3g4dnAtYVJFT1d3NnBXMFJ0dVRMQ2pRU0RxRGpUNW9lSnpjVjdKUUN2YVNYaGc3TURvTmlCNnNkQVgtSnBMLWxXR0RJQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nomura CEO quits as insider trading scandal widens - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVNDOTJtbEU4Vy1teWd6WGlUZEI5emwzZ2hCYW5VS3NseEhEYnBnMlcweWZMZDVfaTlwY09saDMtVlBQYl9FRkMwYmhSWGlGZEJqTk9rQUoxUTFNT1NRY2FnSXZVU3puM3g0R3hvUzl6T29yR0puT0lDeFU4OFFWeUJkMlEzWUNXYXliNURzNV9lazBVX2phaGFsWEFtQzZVcmdDX0YzRUxvdw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 4204.0
+      },
+      {
+        "date": "2024-11-22",
+        "price": 4236.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 4247.0
+      },
+      {
+        "date": "2024-11-26",
+        "price": 4253.0
+      },
+      {
+        "date": "2024-11-27",
+        "price": 4243.0
+      },
+      {
+        "date": "2024-11-28",
+        "price": 4258.0
+      },
+      {
+        "date": "2024-11-29",
+        "price": 4219.0
+      },
+      {
+        "date": "2024-12-02",
+        "price": 4221.0
+      },
+      {
+        "date": "2024-12-03",
+        "price": 4231.0
+      },
+      {
+        "date": "2024-12-04",
+        "price": 4201.0
+      },
+      {
+        "date": "2024-12-05",
+        "price": 4213.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 4213.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 4206.0
+      },
+      {
+        "date": "2024-12-10",
+        "price": 4195.0
+      },
+      {
+        "date": "2024-12-11",
+        "price": 4185.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 4215.0
+      },
+      {
+        "date": "2024-12-13",
+        "price": 4173.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 4170.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 4160.0
+      },
+      {
+        "date": "2024-12-18",
+        "price": 4154.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 4158.0
+      },
+      {
+        "date": "2024-12-20",
+        "price": 4143.0
+      },
+      {
+        "date": "2024-12-23",
+        "price": 4123.0
+      },
+      {
+        "date": "2024-12-24",
+        "price": 4135.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 4120.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 4132.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 4088.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 4080.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 4049.0
+      },
+      {
+        "date": "2025-01-07",
+        "price": 4009.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 3942.0
+      },
+      {
+        "date": "2025-01-09",
+        "price": 3963.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 3945.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 3902.0
+      },
+      {
+        "date": "2025-01-15",
+        "price": 3945.0
+      },
+      {
+        "date": "2025-01-16",
+        "price": 3902.0
+      },
+      {
+        "date": "2025-01-17",
+        "price": 3866.0
+      },
+      {
+        "date": "2025-01-20",
+        "price": 3874.0
+      },
+      {
+        "date": "2025-01-21",
+        "price": 3877.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 3893.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 3890.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 3882.0
+      },
+      {
+        "date": "2025-01-27",
+        "price": 3952.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 3996.0
+      },
+      {
+        "date": "2025-01-29",
+        "price": 4005.0
+      },
+      {
+        "date": "2025-01-30",
+        "price": 4001.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 3973.0
+      },
+      {
+        "date": "2025-02-03",
+        "price": 3960.0
+      },
+      {
+        "date": "2025-02-04",
+        "price": 3965.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 3934.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 3924.0
+      },
+      {
+        "date": "2025-02-07",
+        "price": 3921.0
+      },
+      {
+        "date": "2025-02-10",
+        "price": 3905.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 3929.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 3952.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 3833.0
+      },
+      {
+        "date": "2025-02-17",
+        "price": 3771.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 3761.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 3724.0
+      },
+      {
+        "date": "2025-02-20",
+        "price": 3713.0
+      },
+      {
+        "date": "2025-02-21",
+        "price": 3727.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 3767.0
+      },
+      {
+        "date": "2025-02-26",
+        "price": 3750.0
+      },
+      {
+        "date": "2025-02-27",
+        "price": 3747.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 3750.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 3811.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 3819.0
+      },
+      {
+        "date": "2025-03-05",
+        "price": 3861.0
+      },
+      {
+        "date": "2025-03-06",
+        "price": 3858.0
+      },
+      {
+        "date": "2025-03-07",
+        "price": 3863.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 3865.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 3857.0
+      },
+      {
+        "date": "2025-03-12",
+        "price": 3864.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 3887.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 3910.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 3944.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 4028.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 4053.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 4060.0
+      },
+      {
+        "date": "2025-03-24",
+        "price": 4060.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 4135.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 4149.0
+      },
+      {
+        "date": "2025-03-27",
+        "price": 4175.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 4199.0
+      },
+      {
+        "date": "2025-03-31",
+        "price": 4114.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 4158.0
+      },
+      {
+        "date": "2025-04-02",
+        "price": 4120.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 4048.0
+      },
+      {
+        "date": "2025-04-04",
+        "price": 4066.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 3849.0
+      },
+      {
+        "date": "2025-04-08",
+        "price": 4027.0
+      },
+      {
+        "date": "2025-04-09",
+        "price": 4005.0
+      },
+      {
+        "date": "2025-04-10",
+        "price": 4150.0
+      },
+      {
+        "date": "2025-04-11",
+        "price": 4089.0
+      },
+      {
+        "date": "2025-04-14",
+        "price": 4155.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 4209.0
+      },
+      {
+        "date": "2025-04-16",
+        "price": 4201.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 4250.0
+      },
+      {
+        "date": "2025-04-18",
+        "price": 4250.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 4240.0
+      },
+      {
+        "date": "2025-04-22",
+        "price": 4262.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 4416.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 4341.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 4354.0
+      },
+      {
+        "date": "2025-04-28",
+        "price": 4382.0
+      },
+      {
+        "date": "2025-04-30",
+        "price": 4407.0
+      },
+      {
+        "date": "2025-05-01",
+        "price": 4440.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 4488.0
+      },
+      {
+        "date": "2025-05-07",
+        "price": 4502.0
+      },
+      {
+        "date": "2025-05-08",
+        "price": 4559.0
+      },
+      {
+        "date": "2025-05-09",
+        "price": 4569.0
+      },
+      {
+        "date": "2025-05-12",
+        "price": 4506.0
+      },
+      {
+        "date": "2025-05-13",
+        "price": 4472.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 4370.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 4348.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 4433.0
+      },
+      {
+        "date": "2025-05-19",
+        "price": 4458.0
+      },
+      {
+        "date": "2025-05-20",
+        "price": 4477.0
+      },
+      {
+        "date": "2025-05-21",
+        "price": 4455.0
+      }
+    ],
+    "current_price_data": {
+      "price": 4455.0,
+      "change": -22.0,
+      "percent_change": -0.49
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

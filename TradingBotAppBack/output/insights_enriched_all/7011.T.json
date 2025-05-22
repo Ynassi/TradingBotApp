@@ -1,0 +1,574 @@
+{
+  "ticker": "7011.T",
+  "name": "Mitsubishi Heavy Industries",
+  "sector": "Industrials",
+  "market_cap": 9501979705344.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 38.761814,
+    "PB": 4.049174,
+    "EV_Revenue": 2.009,
+    "ROE": 0.10848,
+    "ProfitMargin": 0.04882,
+    "GrossMargin": 0.20513001,
+    "DividendYield": 0.82
+  },
+  "technical_indicators": {
+    "RSI_14": 59.25659160457993,
+    "Momentum_10": 1.1979259789021992,
+    "MACD": 63.868324060253144,
+    "BB_Percent": 0.78050407062896,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8922374726301316,
+    "QualityScore": 0.4018850014368053,
+    "SignalScore": 0.6224662638771983
+  },
+  "volatility": 0.03627248762246,
+  "beta": 0.2,
+  "return_6m": 0.2192949709741511,
+  "analyst_rating": {
+    "recommendation": "strong_buy",
+    "analyst_count": 15,
+    "target_mean_price": 2805.3333
+  },
+  "news_sentiment": {
+    "summary": "In summary, the recent news on Mitsubishi Heavy Industries (TSE:7011) highlights both positive and negative signals for investors. The company's 35% jump in popularity with investors and its ability to manage its debt responsibly are positive signs, while the company missed its EPS forecast by 7.5% and its P/E ratio remains high. Additionally, the dividend analysis indicates that the company's payout ratio is high. Meanwhile, the acquisition of Areva NP by EDF (EDF.PA) is a significant event, as it further strengthens the company's position in the nuclear power industry. The global economic environment appears to be influencing the market sentiment, as the pandemic and geopolitical t",
+    "sentiment_score": -0.125,
+    "label": "POSITIVE",
+    "positive_ratio": 0.12,
+    "neutral_ratio": 0.62,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 8,
+    "bullet_negative_count": 3,
+    "headlines": [
+      {
+        "title": "Earnings Miss: Mitsubishi Heavy Industries, Ltd. Missed EPS By 7.5% And Analysts Are Revising Their Forecasts - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdnJ4M1pYRjA3VUJmNm0zTzVWanpXeS1IMnI5UnVWdXYyallYbU5qZlVMMW9CbG0zbndMTmJXWVExVWhBRmdERWhNWWhvRFBxWmFuV2hKb0FTSnQ3Rkl0Z3pjNmRKWTg0R1kzT2VPazRvbndhT3o3UkpjMW5zQ0wxVl9XY3hZdWVNU0dwYmVES1ZJeTFrOG8wWHBZTWVxSmFJLVo0SUtUUmc4WXVhekh4UlVBblhvSkdHU21rME9xYkloYnk4X2RHXzdZeHFjdHowVjZOZXRsZnRHOUtiQldIOGlaWTJhRnQ0MmfSAe8BQVVfeXFMT3dJRm1zR0pCcTlWNVJ4VkZzdVFvWHhBTE5tMy1GMmt6N3pIWkZSMktYa3hNU0YxRTgyNnF1OEFxLVBmLUpXS3VsS28yS0hBR0RKenlTM2hyc0tLS1N4UjVhS3p0T1FoRFdpaEQ1NGhlUUVNWDZRYTQwNlFuV0JrM2liUGJ0bHA2Wl9SVUJQeXpLWmwzRjJmeHBrNG9IV2kzZXVtZlNfcTdOSjB2ekEyRXlnUmU0V1pQNXRHY0hMdzU3S3JNNFhFMkZVZUhwZFgyRUg4MmgxWUhkXzVJcm1DaHA5X0tQbXJNejlNQWtZMFk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mitsubishi Heavy Industries, Ltd.'s (TSE:7011) 35% Jump Shows Its Popularity With Investors - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbGwteEVmUmRqN3BRMWZodGgwOUhDQWFfU2g5WnkydHZ2SzExSDNjR2E4Y2NNeXMxUHpqX21vdkJualFSNEV2eXFySVRBTlF0NzlMVHdzSkRYYk1OTmtiUkRJb0JHN2pSSE1iSm1nUXBCSVhKeEpVNExCblMzc2Nwdk5uUTN3SkU2eEhZazFtNTJtMElFbjNIdVVrdkRwd0FJTVRHc2ZIeUh0NVBEdkItNFkwTDhRRmJsQ3FYWkZ2S2JnM1g5RnE5MTJQcjdYZUJzNEE5RmFYQTFZNnFPZURQX2g2eHRfd1dPNUVV0gHwAUFVX3lxTE9qNWVmVnZmY0h5aVJuZzBfWFdFQ19POGhNNHIzWVdwaHFDX3RkTUxHbndXQkl6MzFHRFJDanlNY3ZQY05qRHl0UWtSTDRCUFdORjZjYU5qajI3NHlNVFRUWlNuQ0lzWDY1ZjZ4R1hONVl3VjhYVG8yZUFRanNyUERmbnYtVU9aZl9QVTMwMHMzUkxzQVNFSVBZckpLOFpkZ1MyVEdzV2x6dUhEOXBZSXZJUnNkaEZ6YjU4Y2ZmZzZLdmdOX1pJLXhEZUtZTkt4YlVJU2ZUTXBqYlZFYVNfRTd3c2hNSE12aFppNl9iMWZRQw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "If EPS Growth Is Important To You, Mitsubishi Heavy Industries (TSE:7011) Presents An Opportunity - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSFNVQVNkc0c2aDdCb0tGVlR6RFBEQ29RZlk2N3dqTEhWRWQ2MHlSeklNak1QeDNYVkRyOThCZGgzcXV2b2NMUFBfOU82OTZoVlJqV1ZnUXk5em5UVGlUWjVvZ0JLSXVHTkdQaWYwOGZwTm9CX1NJTDlnQmRBRnR1V19PTGZlRUFqZGFSTUZEYXIyaFlvc29nUFFySFp2SFVaQVp1ZlFQOFBGWnZnVlU5SjMwUG1BUkZrZkp3QVVraEVtZ0ZMcGlKOXJZY2VlYmhVU3hOaFBSX3c1VE1FMFNkV0w2YU43Qlg5UnZZ0gHwAUFVX3lxTE5sRkRWd0llSDFSRWp3eWpGVHhNUkZxNnh0YTNybGVuaXJ1cEtJYlhFZVBMeENET04xRkRxZUVWM2lMaXpaUEhacFFYWFR0TzV2QXlaa0ZycDdPNkh0VHQ0TkdWU2tGMklGb2F3WThiNEp6N19pOU8zWnZYYzc3cFpaUzRfTV9HclJ2dHJUMk1QNy12Sktma1V3YnlMM202QVB0b2tRelk5QXdnbDd4a2dzNUpqbjh1WkZ4VjhCWDdMaVVwTHl6a2NiUjRNME1NT2VBUmxfckZCNDBPVWk3X1NJalZYWWdDejByOFdOTVlvMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mitsubishi Heavy Industries Ltd's Dividend Analysis - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkVIb1I4d01iR1pnOWMzNXNJN21FOHlmZWVtaUlzU0pWdlBXZVYyZmc2MkdfcUlBWGJvMFRiUkg4c2k4bThNM09LTGxIQ1hyNFk0cXpQeXVIZ0xvMXU5Zmd6ZE9Ka3BSYXhsMnRaM3UyZno0X0N5VFR0ajhJVU9QTTJvenJ2LWRGM2RxOEU0VmU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Mitsubishi Heavy Industries (TSE:7011) Can Manage Its Debt Responsibly - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkZwUmQ4VVRoY05KVmJuZ3FOLWJHZ3VzbXhLT1NzbTJBRG1qaXl0Tkl1Yk42MWZDdHBwZ0ZNa1MycWlva2RfMHBDRmxZZEkxVWFvTUhWVU5MMENOd0w0Yl9NOUlNU0dTQzRXaHJicktTbmRTTEE2VkRtTjJJaFBUbWg1WU9wcHhQclNSa0dTZmtpbFM3dDFiQVB6U1JnWUdYMFlrdW9kN2hzM01NMlBnaEx3MlJ1T2FDUGhNYmVlYU1NYUhucXdqVDZRTHhSMnljRW1jSmN0V2NGM21qckdtamRRdS15d1lNSnVz0gHwAUFVX3lxTE5abzQ3UWs2eHVSQ0VYRm9IWDNvc2V0SVJqNG1RYXAzdEhnQ3FwcUV0clhDQUhhX2lyUkkwS2JZQjJoNHI5aUZYSVYtUmpHaEVWOWZETTd3V3pqWG5ZZExKeS05bmxNdEZfclFhVUZvby1WRlJJTzBhdVZpanF2TGhKVWZhN3lSelhXS180c2NHUzJ3TXVuczd0a2cybEdRWW9tNk4xZzI1SzF4d2FUYWxSZ0dmTC1yekxoOUVtUzcwanRqZzVZeUJqN29tdk5YcUZYT25HTjc4dU5zNDBJREJ4Wm91MGozejZYQzJqMDc0cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Mitsubishi Heavy Industries, Ltd. (TSE:7011) Worth JP\u00a52.5k Based On Its Intrinsic Value? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVlh3NmpfOG8yRmpuWHJWVmNrUkNBd0NlQUlzZjNReUg4WnVJekIxdVFRLUxaSmJXZEEwdUJ1elN4eUtIc0hVQ0xUeUJhV2FWdnQybUVKNGdDbTQ2YXAwNDBROVY5T0NBRnRqX2lldnlmakgwMURiUjctVmJzNGZBaVhIVmpDMVZneUJCeGU4N1JtMk94dzFIbFhQUk1FdHk4SUpDaVFoeFhIUHc3bHM5RElTUktoZnIzUW5NQlVsamtBV3Z3OHlFM21EYS1TWUx6MTJVVnB1Y013bHRlZFVuRHQ5QmM5SFp0Vk1J0gHwAUFVX3lxTE1GZ0YzdVphQ0EtbDhOZnpOWkwteVlaV1kxNXdPQVVSRmpQLVNQd1FtV0VGT1lCZ1JlbHVpTWdMTm1XblJPUWNoVzFiV2hIck1lTDE3RWVtb0FNc3VGMDFza2dQdU9FUG0yQkFMcHpkalhwVWhLVE5UTG45enRDT2NmcUFmenFuYzItQ09jLURvY1VBV0NKZEtGMFNfRi1Oal9uaHhHb2hFX2QtdjFuaXJHYVREUzU5S00yMUhndXl5VFJ4MzdMa3pud0dKUWRKNjcwd0o1Wi1zTW1USy11YXJESkhVYTAyN0V4Z0JNbUJKMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mitsubishi Heavy Industries, Ltd.'s (TSE:7011) P/E Is Still On The Mark Following 37% Share Price Bounce - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLXVueXVnMWUycG9EcEF0S1A1TFJUelV5aFNGNlZFdVhJd1U4NWZTM2JISFEyd0pHM1ZlRzVNX0lWcEthRkk2Tm81NF9pa1BrejJoZldjZVhGS0tNZVNHNUNMSWRXRTZDUWFjY2l6WEpPX2hjSWYyUlhKS0NRdkp5VnRITlhCMWthZ09nQnRSV0dNSHVfc0dCbzBDRm9WSlQxQ0N2c2hRVTc4X25JT3NfZmhjMGx1YmRtRVBpZTc2OXBKMHl6WlQ2VGVFTUxVUDlwT1JLMUhnazhRR1B3Z0NUQ0lTUjBqS2otV2NwTG8zeHVoUdIB8gFBVV95cUxNLXVueXVnMWUycG9EcEF0S1A1TFJUelV5aFNGNlZFdVhJd1U4NWZTM2JISFEyd0pHM1ZlRzVNX0lWcEthRkk2Tm81NF9pa1BrejJoZldjZVhGS0tNZVNHNUNMSWRXRTZDUWFjY2l6WEpPX2hjSWYyUlhKS0NRdkp5VnRITlhCMWthZ09nQnRSV0dNSHVfc0dCbzBDRm9WSlQxQ0N2c2hRVTc4X25JT3NfZmhjMGx1YmRtRVBpZTc2OXBKMHl6WlQ2VGVFTUxVUDlwT1JLMUhnazhRR1B3Z0NUQ0lTUjBqS2otV2NwTG8zeHVoUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "EDF completes 75.5 percent acquisition of Areva NP - statement - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbHB0ak9JUl8zSkFXeUdRYTExZ0ljc1I3d2NBX1BqaE5FNUIwSC1xektuZTd1MGlFdkJZU1pidTN6QVZvTF9vUC1SZ05zMlNPVHZ6YmZXSVNtcDViS0tyX2JLbXFZT0EzVkk2cXFhQjlnUXhIam5oSVdQVHdlMzZPSmRKZUQwT1dNaUh4TmtJV1V6MGtOV2VNY0NBNkpzUWEtLXA3LTlISVBYQXhzUENpamI2MW9HZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 2310.0
+      },
+      {
+        "date": "2024-11-22",
+        "price": 2309.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 2335.5
+      },
+      {
+        "date": "2024-11-26",
+        "price": 2259.0
+      },
+      {
+        "date": "2024-11-27",
+        "price": 2215.0
+      },
+      {
+        "date": "2024-11-28",
+        "price": 2229.0
+      },
+      {
+        "date": "2024-11-29",
+        "price": 2197.5
+      },
+      {
+        "date": "2024-12-02",
+        "price": 2246.0
+      },
+      {
+        "date": "2024-12-03",
+        "price": 2279.5
+      },
+      {
+        "date": "2024-12-04",
+        "price": 2388.0
+      },
+      {
+        "date": "2024-12-05",
+        "price": 2335.5
+      },
+      {
+        "date": "2024-12-06",
+        "price": 2309.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 2294.5
+      },
+      {
+        "date": "2024-12-10",
+        "price": 2256.5
+      },
+      {
+        "date": "2024-12-11",
+        "price": 2348.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 2390.0
+      },
+      {
+        "date": "2024-12-13",
+        "price": 2291.5
+      },
+      {
+        "date": "2024-12-16",
+        "price": 2281.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 2281.0
+      },
+      {
+        "date": "2024-12-18",
+        "price": 2257.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 2296.5
+      },
+      {
+        "date": "2024-12-20",
+        "price": 2236.5
+      },
+      {
+        "date": "2024-12-23",
+        "price": 2226.5
+      },
+      {
+        "date": "2024-12-24",
+        "price": 2216.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 2226.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 2250.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 2270.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 2223.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 2243.0
+      },
+      {
+        "date": "2025-01-07",
+        "price": 2243.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 2230.5
+      },
+      {
+        "date": "2025-01-09",
+        "price": 2171.5
+      },
+      {
+        "date": "2025-01-10",
+        "price": 2167.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 2100.0
+      },
+      {
+        "date": "2025-01-15",
+        "price": 2072.5
+      },
+      {
+        "date": "2025-01-16",
+        "price": 2104.5
+      },
+      {
+        "date": "2025-01-17",
+        "price": 2074.5
+      },
+      {
+        "date": "2025-01-20",
+        "price": 2089.0
+      },
+      {
+        "date": "2025-01-21",
+        "price": 2059.5
+      },
+      {
+        "date": "2025-01-22",
+        "price": 2087.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 2265.5
+      },
+      {
+        "date": "2025-01-24",
+        "price": 2321.5
+      },
+      {
+        "date": "2025-01-27",
+        "price": 2284.5
+      },
+      {
+        "date": "2025-01-28",
+        "price": 2125.0
+      },
+      {
+        "date": "2025-01-29",
+        "price": 2203.5
+      },
+      {
+        "date": "2025-01-30",
+        "price": 2232.5
+      },
+      {
+        "date": "2025-01-31",
+        "price": 2296.0
+      },
+      {
+        "date": "2025-02-03",
+        "price": 2230.5
+      },
+      {
+        "date": "2025-02-04",
+        "price": 2217.5
+      },
+      {
+        "date": "2025-02-05",
+        "price": 2185.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 2240.5
+      },
+      {
+        "date": "2025-02-07",
+        "price": 2209.5
+      },
+      {
+        "date": "2025-02-10",
+        "price": 2166.5
+      },
+      {
+        "date": "2025-02-12",
+        "price": 2178.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 2172.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 2114.5
+      },
+      {
+        "date": "2025-02-17",
+        "price": 2115.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 2173.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 2152.0
+      },
+      {
+        "date": "2025-02-20",
+        "price": 2162.5
+      },
+      {
+        "date": "2025-02-21",
+        "price": 2104.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 2027.0
+      },
+      {
+        "date": "2025-02-26",
+        "price": 2040.0
+      },
+      {
+        "date": "2025-02-27",
+        "price": 2070.5
+      },
+      {
+        "date": "2025-02-28",
+        "price": 1987.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 2121.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 2285.5
+      },
+      {
+        "date": "2025-03-05",
+        "price": 2275.0
+      },
+      {
+        "date": "2025-03-06",
+        "price": 2520.5
+      },
+      {
+        "date": "2025-03-07",
+        "price": 2489.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 2345.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 2315.0
+      },
+      {
+        "date": "2025-03-12",
+        "price": 2440.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 2483.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 2556.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 2867.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 2796.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 2890.5
+      },
+      {
+        "date": "2025-03-21",
+        "price": 2874.5
+      },
+      {
+        "date": "2025-03-24",
+        "price": 2811.5
+      },
+      {
+        "date": "2025-03-25",
+        "price": 2754.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 2679.5
+      },
+      {
+        "date": "2025-03-27",
+        "price": 2668.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 2641.0
+      },
+      {
+        "date": "2025-03-31",
+        "price": 2526.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 2504.0
+      },
+      {
+        "date": "2025-04-02",
+        "price": 2564.5
+      },
+      {
+        "date": "2025-04-03",
+        "price": 2517.5
+      },
+      {
+        "date": "2025-04-04",
+        "price": 2369.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 2065.5
+      },
+      {
+        "date": "2025-04-08",
+        "price": 2312.0
+      },
+      {
+        "date": "2025-04-09",
+        "price": 2223.5
+      },
+      {
+        "date": "2025-04-10",
+        "price": 2511.5
+      },
+      {
+        "date": "2025-04-11",
+        "price": 2484.5
+      },
+      {
+        "date": "2025-04-14",
+        "price": 2460.5
+      },
+      {
+        "date": "2025-04-15",
+        "price": 2561.0
+      },
+      {
+        "date": "2025-04-16",
+        "price": 2564.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 2630.0
+      },
+      {
+        "date": "2025-04-18",
+        "price": 2635.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 2586.5
+      },
+      {
+        "date": "2025-04-22",
+        "price": 2528.5
+      },
+      {
+        "date": "2025-04-23",
+        "price": 2643.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 2696.5
+      },
+      {
+        "date": "2025-04-25",
+        "price": 2749.0
+      },
+      {
+        "date": "2025-04-28",
+        "price": 2815.5
+      },
+      {
+        "date": "2025-04-30",
+        "price": 2796.5
+      },
+      {
+        "date": "2025-05-01",
+        "price": 2814.5
+      },
+      {
+        "date": "2025-05-02",
+        "price": 2791.5
+      },
+      {
+        "date": "2025-05-07",
+        "price": 2844.5
+      },
+      {
+        "date": "2025-05-08",
+        "price": 2892.5
+      },
+      {
+        "date": "2025-05-09",
+        "price": 2731.5
+      },
+      {
+        "date": "2025-05-12",
+        "price": 2736.5
+      },
+      {
+        "date": "2025-05-13",
+        "price": 2696.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 2678.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 2746.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 2830.0
+      },
+      {
+        "date": "2025-05-19",
+        "price": 2916.0
+      },
+      {
+        "date": "2025-05-20",
+        "price": 2920.0
+      },
+      {
+        "date": "2025-05-21",
+        "price": 2999.5
+      }
+    ],
+    "current_price_data": {
+      "price": 2999.5,
+      "change": 79.5,
+      "percent_change": 2.72
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

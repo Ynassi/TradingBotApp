@@ -1,0 +1,634 @@
+{
+  "ticker": "8001.T",
+  "name": "Itochu",
+  "sector": "Consumer Discretionary",
+  "market_cap": 10789381472256.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 12.360919,
+    "PB": 1.8628055,
+    "EV_Revenue": 1.006,
+    "ROE": 0.15325,
+    "ProfitMargin": 0.05928,
+    "GrossMargin": 0.1611,
+    "DividendYield": 2.84
+  },
+  "technical_indicators": {
+    "RSI_14": 65.3930242714813,
+    "Momentum_10": 4.504257072232903,
+    "MACD": 211.33528390407173,
+    "BB_Percent": 0.8393741550361822,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.9001066525710095,
+    "QualityScore": 0.3635434005962226,
+    "SignalScore": 0.5446192732785471
+  },
+  "volatility": 0.0205863489569691,
+  "beta": 0.519,
+  "return_6m": -0.0132380740551362,
+  "analyst_rating": {
+    "recommendation": "strong_buy",
+    "analyst_count": 9,
+    "target_mean_price": 8494.444
+  },
+  "news_sentiment": {
+    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant ITOCHU Corporation (TSE:8001) sont rassembl\u00e9s ci-dessous :\n\n* ITOCHU's (TSE:8001) Earnings Are Of Questionable Quality - simplywall.st\n* Japanese trading house stocks climb on Buffett's comments - Yahoo Finance\n* Japanese trading houses lure investors with healthy returns amid US tariff uncertainty - Reuters\n* Warren Buffett\u2019s 2025 Portfolio: What Stocks He\u2019s Betting Big On Right Now - Investopedia\n* ITOCHU Corporation (TSE:8001) Stock's 27",
+    "sentiment_score": 0.0,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 2,
+    "headlines": [
+      {
+        "title": "ITOCHU's (TSE:8001) Earnings Are Of Questionable Quality - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb0dxMlNMRldkaXpMLVd5aG16MnlpSHFvTnJhUWpkNG05QzhPNjhYQlVyZzhLXzg2Wm9mU2lyakN1WjdqV2tXVHVJRmczTTJHTlZnWXNEeGpWdkJZVGVQSzRNaEZsUzgxX2NyWEJiVGVoN0hvQ1NZSU82YmRUaVk4VTlJdFhLclRlbXJqUTdWVEY2R21JUDU0M3hJQ0ZaQjZvWkM3YUZ6QUplRWNrRklWaHR2OGZCcDVrYjNrMzI1R0R1Mk9z0gHKAUFVX3lxTE5hWmtFVlZGOUZkRnhCX21DbjRwMDMycGVZTmI5OW0tcUpScXAyNXE4bi01UHdXY3A5QmlfQVVGN3MwREhKaVBicVJOa0JDXzRNRy1sb3Jta0J0RDdjbG9teXhHMXlnLTFzWXlCcGhjYURaWENvTE5qT0lxUW1ZTFFRLWVSWlctUU1oOG9KTHp4RkNldlpTYkJtTUFzU2lwYVRHc2JPRG1iUDJ2SWNGMWNMclI1a3hROW5UN25MMnBvRlZ6V3NENmdfVEE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japanese trading house stocks climb on Buffett's comments - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjJobGR2Smh5b2NDNzVxX1JhZ1U2N05FY25FN05iQklQb09kbG5nSXA5VEJkMUoxMWhRMjM5cXlqX3B4a21xb0FSVTE3RFJRck1waTY3STlIdjJVWDVjZHMyZXkyRXFaWmhpNnR4UU9xQ2JBcTFFQVFRanNDRkJwc1RyNzhiRmhHcGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japanese trading houses lure investors with healthy returns amid US tariff uncertainty - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWlXblN3OUo2SVp0TDJqSVcyeG1QMElMVF9TUUM2cm5FSThCQlpoQlFYc3QtWWdDNHRKckR4UkFyTnVMdTJ1SGcyTlhPaldGLUhkVDhKQmlzaTBJVzhiRmx6dzBqaHJNcjZxQzVIWnlhYXBIWmIzUmNsMmN6NGlIQ2FRczcxeW05M2tfV3ZjMnVPTDhQY3J0U2V0amdzeGdmZzNqUC1rR3FyZ0hJcGZfNXhkQkxJQUlEU0Ew?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Warren Buffett\u2019s 2025 Portfolio: What Stocks He\u2019s Betting Big On Right Now - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaVlGNGs3Z0VsY01qRUNTZ2FFM09LUGwtN09fSFl1VlF4dlNpWXdfZjVmd0ZKUWFBTWQxTVhYXzdzcmUzQkZLNkZzb3gwRHMtLXpvUXdySVUyQUY1bjI5WDRKYUdjOWpocFhVTEQwMExyT0owUlpSMmZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ITOCHU Corporation (TSE:8001) Stock's 27% Dive Might Signal An Opportunity But It Requires Some Scrutiny - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTk4xVTRZV2UyZ1Z5NkMwWEk0X1lLb1I0WDRpUUJnck5VbzlGVHdxWmZGYWZpZ2lnWWlhcXNFVVRzb2gyMVZlWXQyU1R3SUE2RmtFbTlEcHRacDJQcE5mcHBTV1VINGRKaWFmZmJZdEt6anNlMEViTURHU2EzZExqMktqaXJoOWxyMlQyTkdQbjhiblAxZGE1WW1sVUJIdkxvWkNoblhKMlNxYThkRTA2MGRyYjJXMTJlRHdteUdsbVVEZFQzWHBfTzVZamdGemPSAdQBQVVfeXFMUGNsMXRlR2xwS1FlbTlwLUN1MEVlTTlJUEhZNGU2VHFFTC16RDM1bnFzcUVmMWZWTlJXRTM0QzlWS0pXQWlfMXpUcmxHMy1RSWIwSXpDYnlfby1ZZmdqME9MN2JZTU9CUkVwSzFJVnlZUDU3VjdLQnBsN2ZDZnNHLUtCT0VQSEx1MkFCUWMtZ01ReFZFaXZaYTcyRXVRSzNZV2FsZHJFeWw3WXFUVElTUHJPSU5FdVZOYlB2aHp0R1RqM0NqVVhUOXQyZzJXekJPc1JRMi0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "As the US stock market starts to rebound, here\u2019s Warren Buffett\u2019s advice - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmE1WkhlMmJBYmxzcEJPWlVXakw5RFNlWU5OcldSS21BSmtpaWx1VnVwdFZkcTZzdEE4eHZoeEh2V0RUMGt6ZjM1dGt4RXBYYWx1RDE2ZFRSalNqeFZ4NFJIOUQ5dkNhYlZZSlp6SWNOb1U0VmExbzJtUG1qZmNJeGVWLXhDUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japanese trading companies' shares jump on Buffett comments - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNNNmFKbWhVb3oycjBDaktXQTkzV2hjZXZ4OGZYWHVSNHhaQWw4QTZ1d2tUanR1VTBpUXloRzdmcnlvaHVpb0dqSnNDLXJ6VzNyRFlCSnZ3ZUIxSlNDMjJVM2p4WGl5NzdNWXJSeHVsRlVaS1Y1NTNiWl9nMGdGNkQ3V0JhbFlDUC1LME1ja0JqSkhCVVpIRTctSFZSQkEzOF9KdVlXTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Does ITOCHU (TSE:8001) Have A Healthy Balance Sheet? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWc3ZzNKVjgwQUJPaDRUZ0tJXzVUWVA2amdzZG9fTVNQTmJIbzBDNFQ4UGg2c0preV9ZMlRyS0hWdkkyQWp1ZGRTOTRTZi16bkJWdkszdWdQTklzVHRQblhnV2wwNmIzUHpPb3JTb2oyVGtqeTljYThYTUpJWk9JVWE0THRScTVMMTlzbElrZ3p2VUdBaDhTNS1UWEY5WlJjUUZPTEx2OGoyQllBTnJjWUpISXZ5a1ZjcHhFOVFaUdIBxAFBVV95cUxQbVdMdklNQnhBaENncXZua2Jmb1pLeHY0Tms2Q1hwYmdnNE1RR0RwOE43MnFEQ0U3c0hUNEdpWVlqRktJcF9GY0lIZEt4d3lOWmZBMHRxUEZySHlacjNSV2VUMkszeGdLV3FpYXREVE5YV0NJaFAybmI5UGVEQ2RRZW9lczFkME40a1c2b3JkX0lZQko2MVFHR0Z4WFhzX2tVWmxFUVVvS2ZRTnVrNUUtUHlvaFhkcmxZOXdsUFFfUzRZakZC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock market today: Nvidia, Tesla lead Nasdaq lower as bitcoin sinks, consumer confidence plummets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzlqV3h5Qzd5V21wLXFkUm9ORkdrY3hUTFdtNjVDTXQxM1RnWTQwdllVZjRzdUc5akpEZFZ0eU4wQmszaVl1Mk9rWENyR1dlN0lHcUtncVF3MjFwdDNpWUhtWlpSRnZ2ZHRsVFhaelVqTWpsMzBsZzRyMFFwUW5WNWNuTDU1bFRsaEFDSDktTDdBZHFGYWRBZ2ZBYkRZYmRIZmV5UzQ3ZFRUZHhMN1laUWdVR2ZZOW1RUEZTemNEZFlRWkFSUWoxV3g0N2NfRG1Tc2Qzd1BPdHY4T2VrTG1F?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Berkshire raises stakes in five Japanese trading houses to near 10% - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm5zN0g2eDFDeVV6RlJXeWF1eUFIaHhNNFhyeU1UaW9ZSEs0aHRER1VhdEZUeDJEUlM1SDF2RVdzV0p5NXpBeTlhY29zSmx6UWNkeTlBMldodk5Ja0lVUWpPSE5sajA2QTVzRVo4N05OcHdlenhaYkI5ZGQyTThXdGdWa0luVFNHT2M3Q2RWdTBGYXYweEJ4WFhVUF9uMXZ1YVdQYUVkYWJnaFdQcnNhOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Warren Buffett Loaded Up on These Stocks As the Market Sank. Should You Buy Them Too? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmtYYjItMlAybzRJNWdPYmlCekJDYWNTQlFjanBnU25PVmtkak5zZzRvSkVGUnFvS2RIWkFUd1hKNm9JVHo3WUNObGZoNkp4eF9KLUtvV1VRVWtxWlBxa0RUYUI3YVdOZWwwSUNCQkY1ZlRIUTljOGZiWGpxWTZzUGxtQmJDa0Zp?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ex-FamilyMart minority shareholders secure another landmark win over Itochu buyout - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnNlZnJ2enY5Ni1PbW1fNk05RlNfaGZITlFiYlRYT24tbXF3d21pWU1GZFQ1enVUd0YyeFgwVVduVTNraHBpTXZQNWFTdlVaT3ppVE5iTXFwNkZVUkVfRFVRbWctTjFXQm5lTjR3ZGpDTHpDY3FRdktfNUMySTFCODR5MExIWlc1ZDBGQ1ZLaENQRGlDekp0QjgwQWhiX045djdwWFYwVkNxSFUxZkdZeDREQWJaT2hqWHM0V3lzUE5CNzQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Berkshire Hathaway raises stake in these 5 Japanese trading houses - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFNTUDM4UUg3bUM2T0IwTHk0V08xQ0pXTWx3RzQ4R09UWXdFc0lERWgxaThOeUFpTEJvMzlNbXZJS0kyNk9lc2tEWWhwQTBaWHdLeUY1dU9LXy1kcFVabXVKQzBTTzBoSXhheUEyODNPSDh2MGY1QjV4eWRiQWwzRFo5ZFVld28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Breakingviews - Japan\u2019s virtuous M&A circle starts with 7-Eleven - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUm5HSjhkR1JtYU9lcS1lSDBXcU52MXVRUE1TS1FRbzNJYTdzN0o4TVlBZkR1Z3RQOVptWmN2RnNmNmNhcjNFbE4xallwRlN6Q1dwLVV2NldXdlYtamk2TzZGNGx3a2NQcWs1U242dHRMTmVSaHItT0l5SUNaWmlfQ1V2SkFwSFdpbkU5Y3N5MjBFbEdFTll5UEtQLU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apollo considers $9.5 bln investment in Seven & i buyout, Bloomberg says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUFkd2pfX0F4UVJCUm95RjdwdUJNNFpEdUdlWVRSZl9XMWktRDZ0T25uLS1WYy14NlVSa3ZVU2FiUGhDek96Zl9qbF9wN09tQjdQTEt6eWNFbmtFNFhrOTVTVmxmWDk0SHBRVkUzRno5dm5RMlE0ZEdjYlBCUlZFeFkzVl9XVVZFVG5QU2RPTzdHUFd2eEZEbG0xeG5kcHN3R2gxSGNYWlozU3Q1a2NZOFo4OWZreGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Which companies back ammonia-fuelled ships to help cut emissions? - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWNXUHcyWUhmdU80amg3UThoMlprbVJvZDNhMmZQOEZCV3Y1ZGZ0X2k4RlZjV1ZDZ1JFTEc5dTJkVWx4dFZUQ19QMThxX1dMQ2RrbVFZNmNCNzNTWUpKYjg3OHJqRDZNV3VPUWpoc0FuUjZnR2Iyb3RDUHZXaGFpVWtwS1BtZFF4LUZXUzJYWXBaclJtVG9zSFVhRDBuMG1MTmhBdUdMRUFQYmc5cTFrUDVKdzBUalpj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan's Itochu plans record 1 trillion yen investment to drive growth - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHYzZXhoVGxoWm5TWldmb1FKRWRnRUEyc0lxajB5QjFZVDhQVHhZc2dONHJIQnllZml0c1hfbTVZM2lkZWN4ZjVDbW9pTTlMQ29VbHMta29XNkQwTXNZMFlBNVV1UjNBTnVoUndwNXozTm5pYk9fY1g2Z3NtY2FacDVHRTJocm41OXB4NVd4bnBvOFFhNUpRZklobmJ0aDdwMlBiZFZWMVZ3OWxldTBpc0Zhd0RXaG9kU3Zj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buffett boosts stakes in Japanese trading houses, may invest more - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTZlMVk3MzBpOW1HTWlVekFBRzZMVkRMRGl2czg3TC1rb0lLWDRPb3NTN21sczR3S2QwN1pvUGp1c0RJMHZka1diX0RTMUNFeWtuMVBUS2o2N3VYV1ZTNTF5TktNZUVYcUMtc0tJeWZsRFpXWDNMWVpJcExjTXBRZXRXTTRYTFg1U2tLRm52SThzNDNzRVowcGJwWkpfNlBwS1RidkFwVkloVTlxRlJJOVpkNjRDS0hCbDJPUjVFczlxZk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Family behind Japan's Seven & i pulls $58 billion buyout bid, shares dive - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVmg5T3o3akFCTGFTRDRZSkptNGdnSjItRVFjOFF0X19zRGd1VVRDaVRMSVZPM2ZkV0FzbFJNLTdZQjk2YkV2OGE2eFV5VDVVbUxGQ2tMQzB4NUF0OVozVm1ldkNFWDBoYWUzSHRkOGJJUzdKNXdWSWRNRm4wM29weWR0T0NlMzNkVERSdkpmLS14V2QyOUVBaHJhZmNNX1VYcmxZYmRZX0hrTnBNYmphUlUtNkdna3hIbjdVR2U3TVhwM3JkcnNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exclusive: Japan's Inpex selling stake in Russian oil project to Itochu - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQy1NUkstdzk4WTZUWDBmbHpNNjBzTEZPZTQxdHg3eXhyc0NFc2lidXYtcFV0MV96UUg2eHA4REdNRHZURTRYNDg5TjdBV1hyRERUX2xpSV9TNl9NVzdHWjgzbnF6ckhqbThUNVVhdloyYWl6VThXOXp5bEdUSnE0R0s0UDVWa05ZTjBJeEV6YUF1eVZ4U3RRRFVoc1kwdGRqYnFoWGhTS1JfdmhIQ1llYlFfNjh6NkFHRnJPeGpB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 7585.0
+      },
+      {
+        "date": "2024-11-22",
+        "price": 7581.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 7540.0
+      },
+      {
+        "date": "2024-11-26",
+        "price": 7450.0
+      },
+      {
+        "date": "2024-11-27",
+        "price": 7325.0
+      },
+      {
+        "date": "2024-11-28",
+        "price": 7370.0
+      },
+      {
+        "date": "2024-11-29",
+        "price": 7384.0
+      },
+      {
+        "date": "2024-12-02",
+        "price": 7502.0
+      },
+      {
+        "date": "2024-12-03",
+        "price": 7704.0
+      },
+      {
+        "date": "2024-12-04",
+        "price": 7741.0
+      },
+      {
+        "date": "2024-12-05",
+        "price": 7702.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 7580.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 7673.0
+      },
+      {
+        "date": "2024-12-10",
+        "price": 7705.0
+      },
+      {
+        "date": "2024-12-11",
+        "price": 7700.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 7820.0
+      },
+      {
+        "date": "2024-12-13",
+        "price": 7737.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 7680.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 7649.0
+      },
+      {
+        "date": "2024-12-18",
+        "price": 7623.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 7500.0
+      },
+      {
+        "date": "2024-12-20",
+        "price": 7483.0
+      },
+      {
+        "date": "2024-12-23",
+        "price": 7612.0
+      },
+      {
+        "date": "2024-12-24",
+        "price": 7647.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 7655.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 7768.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 7885.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 7832.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 7797.0
+      },
+      {
+        "date": "2025-01-07",
+        "price": 7770.0
+      },
+      {
+        "date": "2025-01-08",
+        "price": 7754.0
+      },
+      {
+        "date": "2025-01-09",
+        "price": 7467.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 7353.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 7354.0
+      },
+      {
+        "date": "2025-01-15",
+        "price": 7199.0
+      },
+      {
+        "date": "2025-01-16",
+        "price": 7135.0
+      },
+      {
+        "date": "2025-01-17",
+        "price": 7104.0
+      },
+      {
+        "date": "2025-01-20",
+        "price": 7163.0
+      },
+      {
+        "date": "2025-01-21",
+        "price": 7152.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 7075.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 7090.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 7063.0
+      },
+      {
+        "date": "2025-01-27",
+        "price": 7128.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 7112.0
+      },
+      {
+        "date": "2025-01-29",
+        "price": 7149.0
+      },
+      {
+        "date": "2025-01-30",
+        "price": 7181.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 7183.0
+      },
+      {
+        "date": "2025-02-03",
+        "price": 7103.0
+      },
+      {
+        "date": "2025-02-04",
+        "price": 7077.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 7124.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 6832.0
+      },
+      {
+        "date": "2025-02-07",
+        "price": 6683.0
+      },
+      {
+        "date": "2025-02-10",
+        "price": 6571.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 6531.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 6688.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 6501.0
+      },
+      {
+        "date": "2025-02-17",
+        "price": 6428.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 6373.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 6209.0
+      },
+      {
+        "date": "2025-02-20",
+        "price": 6104.0
+      },
+      {
+        "date": "2025-02-21",
+        "price": 6141.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 6551.0
+      },
+      {
+        "date": "2025-02-26",
+        "price": 6492.0
+      },
+      {
+        "date": "2025-02-27",
+        "price": 6774.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 6669.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 6859.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 6844.0
+      },
+      {
+        "date": "2025-03-05",
+        "price": 6795.0
+      },
+      {
+        "date": "2025-03-06",
+        "price": 6832.0
+      },
+      {
+        "date": "2025-03-07",
+        "price": 6827.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 6813.0
+      },
+      {
+        "date": "2025-03-11",
+        "price": 6710.0
+      },
+      {
+        "date": "2025-03-12",
+        "price": 6779.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 6790.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 6834.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 6945.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 7115.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 7393.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 7249.0
+      },
+      {
+        "date": "2025-03-24",
+        "price": 7155.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 7119.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 7178.0
+      },
+      {
+        "date": "2025-03-27",
+        "price": 7247.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 7134.0
+      },
+      {
+        "date": "2025-03-31",
+        "price": 6901.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 6995.0
+      },
+      {
+        "date": "2025-04-02",
+        "price": 6854.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 6632.0
+      },
+      {
+        "date": "2025-04-04",
+        "price": 6508.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 6039.0
+      },
+      {
+        "date": "2025-04-08",
+        "price": 6330.0
+      },
+      {
+        "date": "2025-04-09",
+        "price": 6211.0
+      },
+      {
+        "date": "2025-04-10",
+        "price": 6790.0
+      },
+      {
+        "date": "2025-04-11",
+        "price": 6538.0
+      },
+      {
+        "date": "2025-04-14",
+        "price": 6552.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 6552.0
+      },
+      {
+        "date": "2025-04-16",
+        "price": 6569.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 6600.0
+      },
+      {
+        "date": "2025-04-18",
+        "price": 6761.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 6712.0
+      },
+      {
+        "date": "2025-04-22",
+        "price": 6914.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 7060.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 7043.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 7128.0
+      },
+      {
+        "date": "2025-04-28",
+        "price": 7275.0
+      },
+      {
+        "date": "2025-04-30",
+        "price": 7282.0
+      },
+      {
+        "date": "2025-05-01",
+        "price": 7266.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 7042.0
+      },
+      {
+        "date": "2025-05-07",
+        "price": 7288.0
+      },
+      {
+        "date": "2025-05-08",
+        "price": 7373.0
+      },
+      {
+        "date": "2025-05-09",
+        "price": 7473.0
+      },
+      {
+        "date": "2025-05-12",
+        "price": 7488.0
+      },
+      {
+        "date": "2025-05-13",
+        "price": 7617.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 7470.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 7517.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 7610.0
+      },
+      {
+        "date": "2025-05-19",
+        "price": 7533.0
+      },
+      {
+        "date": "2025-05-20",
+        "price": 7524.0
+      },
+      {
+        "date": "2025-05-21",
+        "price": 7603.0
+      }
+    ],
+    "current_price_data": {
+      "price": 7603.0,
+      "change": 79.0,
+      "percent_change": 1.05
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

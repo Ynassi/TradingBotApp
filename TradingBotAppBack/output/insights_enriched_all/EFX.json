@@ -1,0 +1,646 @@
+{
+  "ticker": "EFX",
+  "name": "Equifax",
+  "sector": "Industrials",
+  "market_cap": 34611777536.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 56.873466,
+    "PB": 6.9485865,
+    "EV_Revenue": 6.891,
+    "ROE": 0.12519,
+    "ProfitMargin": 0.10679,
+    "GrossMargin": 0.56438,
+    "DividendYield": 0.71
+  },
+  "technical_indicators": {
+    "RSI_14": 69.64222481743651,
+    "Momentum_10": 5.428822620392504,
+    "MACD": 10.077715477911283,
+    "BB_Percent": 0.8125741215892867,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8733041055537465,
+    "QualityScore": 0.2904019870700566,
+    "SignalScore": 0.5618143596770633
+  },
+  "volatility": 0.0255572625207285,
+  "beta": 1.675,
+  "return_6m": 0.1397219959206432,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 20,
+    "target_mean_price": 285.367
+  },
+  "news_sentiment": {
+    "summary": "Equifax stock (EFX) has been experiencing significant growth recently, with multiple news articles highlighting positive developments such as strong earnings, new product launches, and a strategic plan for the future. Many analysts are bullish on the stock, with some predicting continued growth and outperformance compared to industry peers. However, there are also concerns about potential regulatory risks and competition in the credit reporting industry. Overall, the recent news suggests that Equifax is well-positioned for continued growth and success, but investors should carefully consider the potential risks and uncertainties.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Is Equifax (EFX) Stock Soaring Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0dGeGJGbVA2ejlfNUtJQjRBblprZUVzSlVEdE9xOTlhUnEyUHhJWElISGJWVU5BVWNHVkxXU0IzR3RwR3Z6SHI2TDJyOC1PQ25fSE9taGF6aXp3MkQ4bWhHUE1FRFRFYnltWlhlSWJrVktwVWQ4cnAwSktUU0NTWA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fund Update: Findlay Park Partners LLP added 224,700 shares of EQUIFAX ($EFX) to their portfolio - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0Y0T1RjYnhtTVJFbXFPZjk2Z1dVVE4yX3FzLWMwS1hpZEpHelNMUWpsSHY3ODJFa3diejRKNV81R05aa2EwSjBZX0RXcjVUbzNyX3MybTkwU0JlV1ZBTHRVNEFGZy05T1g4QVBicVNqa0tzYVZOckZUYnJzNDUycFlEbDJfNmM2bHpqc29PYWFONlp6Ny1XWjlQRGdldFpyaXgwV3pncHl4SUtVNngzUWg0T3lPYXQ5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equifax B2bConnect Launch: Access 67M Business Records in Minutes for Smarter B2B Marketing - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0FYUGNvVEIzVmFVWXduMGdNU2NuY05hRWNhQW4xRnF0TWp3cDFoNzJfZG9uTTVQQTVVdDZQVEhwUTd4a2IzSUtUMlpBOWdEY2lqeVZmekFsTG0zTXpFUDlvZ0tWMEVOTmNIM2FZVWgyX1NnUDhlWHhPSTVyaGlOX3U1RklfcmpxZ0lLbmRlRldJd19OWmdjTnV5SkhyQzFMcFQxX0lsYXZRd1lRR3Y4QzlCSUZwZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(EFX) Pivots Trading Plans and Risk Controls (EFX:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUJtNWJsTTBRSlFpODA3S0hzcHVEbll4TXJ5QnFQRjFVRVpaclBPcWotUFVxV1ktbFNNU0xKQ05FbUFsM3RUTnBGY3duYUhLSWZiUmhpRXg4bkJkSU5UbDAyR0NPTDlSc2I2ejdEZEI5WlhiOTVXcWF1OUZhbmg5WTQyN0xtWjBXUEJ4UVNXcGxSTHhJeldDYm1pa0FBTUhmT0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 Gains and Losses Today: Equifax Stock Jumps as Earnings Show Resilience - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTB1TThYbHMza2pnV1RUbzRkSklETXpGWm9vUmVFQlB4QkIwYm55eGp0Q3BaWWZpYmt2c01zSUxnOTJxZk8tdTVmRkhZaWJSYzcyTFMwUmF4R05OdnliaTQ5NGkxY2VBaGhYdk5JNUt6dHB5QURVQnRZakNQX3VIb2I1aWdkYXpXeTktdFFZSkxncF9DMnFFdzlEd1BWcUp4ZHBTMDVfUW15b1l4RGgtSllTNUZaUFJTNUJaMg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should You Think About Buying Equifax Inc. (NYSE:EFX) Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFRyNEVVWEJ3bHF1bzd2b2FRS1prSXdieEktOEtYWmx6RGY0UXJXNHRrU2xFVlhZcUZCTGxKdlVZSlNDSVlENE9zRlZYbnNkVEhVQzNuS0xXS0txR1JoVEVUbW91X1plbThEVVBNRzBnWTBwTjRUZklpYmNiaWhFMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Tell The Story For Equifax Inc. (NYSE:EFX) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWpiZkxRYnMyemU4WkhOcVZYTmNtaWNsYVBGVklRWUUtX3pQSWc4eTVtZzFHTFVqNGd6bkFZUTZKTC1ENUViVXJqN3dKRUxHV0s2dDJzY0x1bGczR1dTRG5Saldac2I0NWN3RVZZdkRmY2ZZV0pFNzRmeGctZUFMc1A2cUNlak1rUUVKX2pkOFJObFhXcTZ0Z0Vfd3I2THhRSk9rSUprVFdOT3YtTG8yZVpTdEhfeXo2MmM2aE130gHDAUFVX3lxTFBPRURpRTZHdXp2bWpDWHJqSFZFTDZhYWVCMUIzLXc2QTFfNEpjWlJHVDA2cUxKd25CQWdPRlZ3dTg2Qzc0T0NmWjc4cE1tZ3JGM0IxZkFJbnVNVm1OTng2MFhiVDg3R0JzWDlESjhDUVRpb0VYdW91SVY4MFRxX2tGMEcxX2JFa1pfM2hrYXF1MHgtaVdDLVNaWUFieGI5WnpNWjFOWENYc1F2LTZQRTI4S1Q4UzZZMkFjOWpfa3pyZmVfZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EQUIFAX Earnings Preview: Recent $EFX Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnJLT2tzQUh3VE9maVptYUNJaXMza1A2aXZCMXc2enZRU2k0YXdXcDlpb2IyUDVpbWlocC1BU0tBak5xZFdCdHJISFhOTTk0MU85Y1lEVUVkMmlUTmRrdFhXMHV1NVhxVEFjUnYwd1g2Y21EUjFNWTJCWDNIdktsa0hNMzJuX245S3VibnZJOGoxTlR5UEtGUVp1ZnFFaGVhMjU5c0pjWFB3OTFHWV92Z2t3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equifax Stock Pops as Results Top Forecasts and Firm Announces $3B Buyback - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakxqQjBnVWpUbUxFeVNqcjE0UjhfUXNvX2tMajdQVUV3dVEwcHkxODBIejcyUUc1ckJabjBmWG11ODI1U01DaVgtaXhOX0loa1NYbWxkM2g4cDFOSGdHZFVjZkZkMlVYWVVEbzE5blJNRW9FRmpJOEs3UDZiM1FzdmR3M245Mnl2VjZxejZJdXJVS0VCcVR6aFo4TExzaU0xTWgycUtFQjFjSzNUQnJjWVRFOGg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Equifax Reveals EFX2027 Strategic Plan: Cloud, AI, and Product Innovation Take Center Stage at NYC Investor Day - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLTZOYnB3ZV9OYUVWVkxPT2lpeF9pS3poTWxWSWM1SklzZ2xTbmRLd05RSkZ0T3lab2NaM0c3cHpIMnRhZDZrVVk5ckZ4VkRsdkRJRE0zZElINWQyOFhKdUo0YUVHb3ZFc3ljeklFVXVzUFNXejVUXzRpMXJJQjR1MmlyWTRXcDdIUzF0bDgwUUZNb1hoQXBIa2d1V2JWS1FGSDFHamdhdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "III vs. EFX: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11VHg4d19iaGM3Ynd4UHFSVU1Vblc1SHJIeW9yWXh0WWlhNUxjTm90QzNkUUhIWlIxMTVOVXExSXE3VVducXlWaG9ncXhBOXB0ZGRTdFotV0dpSkhMQzB4ZzhZNXhVS3ZsS01PcjAxUnUyWUtpMGtV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equifax Sets Key Q1 2025 Earnings Date: What Investors Should Mark on Their Calendar - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWm9DZ2xQRm56S1dweHBJY0JCUl82UU1QSlBrNnljZXJrSG1LRWNpeThYNGxiTHptVDlFVURyZlc1R3dUMHAtNkFCVXkzTmdvZW1UdTY0cTFhZkVpSHlyaUNnRXpwNDFHMm14MlQxLTZJQmUzSkJlNi1aR09ZWEE0a3E5SUJIOXJWN0pVOWZPZGZBbWxsMWw4ZnZFVHVSVXYwTEV5cEdJeUEyWHNOdWZKb2xqOVV4SVVJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "III vs. EFX: Which Stock Is the Better Value Option? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MDBjN3ViYjlxVkNyeWIwZG4xSXpvV3N2VzRpekJDRE9ZT3dGcDZRdlhUX3NOMkN6R2ZWMHRTTEJHQmJPM21SZE9WMUdTZTNfNWFGTXFxbV9fbTlmRHB4djVfMWJ3Ujc4Z2tQVkkxSFc1V3Z3U1JTYUlmQ3pvUGs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Equifax Inc.'s (NYSE:EFX) Recent Stock Performance Influenced By Its Fundamentals In Any Way? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9idmVkYjJ2OXRqVG53S2MyTjR6cEdoZG9ybUVSa04wX1ZINE5weG9kdks2VUV5VnBNdFVYMXNJWHdGWHBQdVBQUWpRWmhWcUxfYldsemFlVUQ4TFU5Z0NLeHVVQm5hVWdVN3JtYmc3VG9tN1NzazBCUWdzM1pjdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equifax CEO and Top Executives Set for Strategic Presentations at Wells Fargo, Bernstein, and Deutsche Bank Forums - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORVpYcE84S2RuSGIzc2dMWWlET2V0Z2F3bHVDZDJWYmZKTVVBeXAzejMxdUtHYjRqWkg4ZXBveFB1MXh1eTRWX0pXMHpBQ3psWjdzMTdFU0dXS0F3QnJPRFNVc1ZPck5jazdCS2tpeDZZUjBqaDl1X0V4cW1yR3NHNnVEaTB2WFhBaDJ3VjgtQTZqTUFwd01uVDYycFZIQ29yUjJZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "III or EFX: Which Is the Better Value Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdlNSdVY4Z1RvMWNsM09tNF90YUJJajM5UXkxVkFPX2haLVZ4YnR4U3Nfbnd4S2NOYlZ5VzZFTmRyMjNPTmc4cU11SVR2SXBwOTZGZHBoajdva3RseVBLRjQweVJJeWRnUkRtRjg2YV9YYl9YSVF6NUFtU3BGLU9iU3g0aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unlocking Equifax (EFX) International Revenues: Trends, Surprises, and Prospects - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjlSWkVaaWhTaTVVT0VrelBoLVoyLWJmTHFDRFU1RGVLSjl3ZGtfNDdPZGN3Xzh4MVJodHc3eEZiTTkwc0YyM1dabUlCRk9KVEN5QnQtM2NMTV9OX0pnZjVUZHBGZnZDQmVGY0NCSXA0ZjBOUXl2UnRkc2t5UWxfbExLSmo3aldIbHNGWHVaZm16M1BJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$EFX stock is up 13% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUo3Q0MxNXpHYTlTN29EdXFUSUZZLUR6NGFzVGdsa0hRZVZxeFJMc1dLZUVDbDRlX01KUnpJOFRIVklCaC1WdERmZUY0dF9xcGNRelVTQ0ZCS3hEN3ExOTVScTNyY2pIRHUyTTNFdTBXc2ExSU9hOTFtRUwyYmM3dXpodw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Reasons to Sell EFX and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55OHhOb3ZCdUZ6Z0ctdFVQU3h3UFh4Z1JPUGlKc0JXN2llQ2M2bWY5Mm9sTTFDQ2hMYXdhWTRuU2pqSndCem9pd3RCdnFoa21VUWxMMF9ONUxZM1EwRzdRWDFyQ3dkYUp4ZnpvU0xncWJBYzUy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes Equifax (EFX) an Investment Choice? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2FiT1Y1Uk1kOGt5bHR0dk5OZlVkNXFjTXNKMmE5czdEY3B2azF3T0xraXJOdDNrbVZ2dnlNbjNxdk5BVFhLMnZXTlRhOTZydW1uOW1oemktSEE4Sk9PdURpUXIzdE9xT1gyejFkQ1BwdFZjTkwyYzZDcjVFWmZaX2lKU2hNUTNQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 253.58
+      },
+      {
+        "date": "2024-11-25",
+        "price": 263.89
+      },
+      {
+        "date": "2024-11-26",
+        "price": 258.94
+      },
+      {
+        "date": "2024-11-27",
+        "price": 261.19
+      },
+      {
+        "date": "2024-11-29",
+        "price": 261.56
+      },
+      {
+        "date": "2024-12-02",
+        "price": 258.7
+      },
+      {
+        "date": "2024-12-03",
+        "price": 261.23
+      },
+      {
+        "date": "2024-12-04",
+        "price": 263.58
+      },
+      {
+        "date": "2024-12-05",
+        "price": 260.78
+      },
+      {
+        "date": "2024-12-06",
+        "price": 266.82
+      },
+      {
+        "date": "2024-12-09",
+        "price": 264.86
+      },
+      {
+        "date": "2024-12-10",
+        "price": 260.55
+      },
+      {
+        "date": "2024-12-11",
+        "price": 262.74
+      },
+      {
+        "date": "2024-12-12",
+        "price": 265.29
+      },
+      {
+        "date": "2024-12-13",
+        "price": 265.81
+      },
+      {
+        "date": "2024-12-16",
+        "price": 273.5
+      },
+      {
+        "date": "2024-12-17",
+        "price": 273.67
+      },
+      {
+        "date": "2024-12-18",
+        "price": 256.83
+      },
+      {
+        "date": "2024-12-19",
+        "price": 253.66
+      },
+      {
+        "date": "2024-12-20",
+        "price": 258.43
+      },
+      {
+        "date": "2024-12-23",
+        "price": 258.49
+      },
+      {
+        "date": "2024-12-24",
+        "price": 261.27
+      },
+      {
+        "date": "2024-12-26",
+        "price": 258.8
+      },
+      {
+        "date": "2024-12-27",
+        "price": 255.98
+      },
+      {
+        "date": "2024-12-30",
+        "price": 255.22
+      },
+      {
+        "date": "2024-12-31",
+        "price": 254.85
+      },
+      {
+        "date": "2025-01-02",
+        "price": 251.13
+      },
+      {
+        "date": "2025-01-03",
+        "price": 253.39
+      },
+      {
+        "date": "2025-01-06",
+        "price": 248.76
+      },
+      {
+        "date": "2025-01-07",
+        "price": 245.5
+      },
+      {
+        "date": "2025-01-08",
+        "price": 248.11
+      },
+      {
+        "date": "2025-01-10",
+        "price": 244.35
+      },
+      {
+        "date": "2025-01-13",
+        "price": 247.56
+      },
+      {
+        "date": "2025-01-14",
+        "price": 252.34
+      },
+      {
+        "date": "2025-01-15",
+        "price": 263.53
+      },
+      {
+        "date": "2025-01-16",
+        "price": 264.24
+      },
+      {
+        "date": "2025-01-17",
+        "price": 262.87
+      },
+      {
+        "date": "2025-01-21",
+        "price": 272.27
+      },
+      {
+        "date": "2025-01-22",
+        "price": 271.88
+      },
+      {
+        "date": "2025-01-23",
+        "price": 268.88
+      },
+      {
+        "date": "2025-01-24",
+        "price": 268.82
+      },
+      {
+        "date": "2025-01-27",
+        "price": 274.94
+      },
+      {
+        "date": "2025-01-28",
+        "price": 273.35
+      },
+      {
+        "date": "2025-01-29",
+        "price": 271.18
+      },
+      {
+        "date": "2025-01-30",
+        "price": 278.34
+      },
+      {
+        "date": "2025-01-31",
+        "price": 274.78
+      },
+      {
+        "date": "2025-02-03",
+        "price": 267.52
+      },
+      {
+        "date": "2025-02-04",
+        "price": 266.77
+      },
+      {
+        "date": "2025-02-05",
+        "price": 270.23
+      },
+      {
+        "date": "2025-02-06",
+        "price": 247.48
+      },
+      {
+        "date": "2025-02-07",
+        "price": 248.28
+      },
+      {
+        "date": "2025-02-10",
+        "price": 252.9
+      },
+      {
+        "date": "2025-02-11",
+        "price": 253.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 254.36
+      },
+      {
+        "date": "2025-02-13",
+        "price": 250.87
+      },
+      {
+        "date": "2025-02-14",
+        "price": 249.5
+      },
+      {
+        "date": "2025-02-18",
+        "price": 246.67
+      },
+      {
+        "date": "2025-02-19",
+        "price": 243.24
+      },
+      {
+        "date": "2025-02-20",
+        "price": 241.22
+      },
+      {
+        "date": "2025-02-21",
+        "price": 238.03
+      },
+      {
+        "date": "2025-02-24",
+        "price": 239.87
+      },
+      {
+        "date": "2025-02-25",
+        "price": 245.39
+      },
+      {
+        "date": "2025-02-26",
+        "price": 243.62
+      },
+      {
+        "date": "2025-02-27",
+        "price": 242.62
+      },
+      {
+        "date": "2025-02-28",
+        "price": 245.2
+      },
+      {
+        "date": "2025-03-03",
+        "price": 244.51
+      },
+      {
+        "date": "2025-03-04",
+        "price": 243.13
+      },
+      {
+        "date": "2025-03-05",
+        "price": 244.92
+      },
+      {
+        "date": "2025-03-06",
+        "price": 245.76
+      },
+      {
+        "date": "2025-03-07",
+        "price": 254.69
+      },
+      {
+        "date": "2025-03-10",
+        "price": 249.92
+      },
+      {
+        "date": "2025-03-11",
+        "price": 239.45
+      },
+      {
+        "date": "2025-03-12",
+        "price": 239.38
+      },
+      {
+        "date": "2025-03-13",
+        "price": 236.73
+      },
+      {
+        "date": "2025-03-14",
+        "price": 235.92
+      },
+      {
+        "date": "2025-03-17",
+        "price": 240.26
+      },
+      {
+        "date": "2025-03-18",
+        "price": 235.63
+      },
+      {
+        "date": "2025-03-19",
+        "price": 242.26
+      },
+      {
+        "date": "2025-03-20",
+        "price": 243.45
+      },
+      {
+        "date": "2025-03-21",
+        "price": 244.0
+      },
+      {
+        "date": "2025-03-24",
+        "price": 245.36
+      },
+      {
+        "date": "2025-03-25",
+        "price": 243.32
+      },
+      {
+        "date": "2025-03-26",
+        "price": 241.73
+      },
+      {
+        "date": "2025-03-27",
+        "price": 243.81
+      },
+      {
+        "date": "2025-03-28",
+        "price": 240.33
+      },
+      {
+        "date": "2025-03-31",
+        "price": 243.56
+      },
+      {
+        "date": "2025-04-01",
+        "price": 243.86
+      },
+      {
+        "date": "2025-04-02",
+        "price": 247.57
+      },
+      {
+        "date": "2025-04-03",
+        "price": 231.8
+      },
+      {
+        "date": "2025-04-04",
+        "price": 210.07
+      },
+      {
+        "date": "2025-04-07",
+        "price": 208.69
+      },
+      {
+        "date": "2025-04-08",
+        "price": 205.5
+      },
+      {
+        "date": "2025-04-09",
+        "price": 224.44
+      },
+      {
+        "date": "2025-04-10",
+        "price": 217.73
+      },
+      {
+        "date": "2025-04-11",
+        "price": 220.24
+      },
+      {
+        "date": "2025-04-14",
+        "price": 224.32
+      },
+      {
+        "date": "2025-04-15",
+        "price": 225.55
+      },
+      {
+        "date": "2025-04-16",
+        "price": 219.28
+      },
+      {
+        "date": "2025-04-17",
+        "price": 221.25
+      },
+      {
+        "date": "2025-04-21",
+        "price": 215.29
+      },
+      {
+        "date": "2025-04-22",
+        "price": 245.08
+      },
+      {
+        "date": "2025-04-23",
+        "price": 249.31
+      },
+      {
+        "date": "2025-04-24",
+        "price": 257.2
+      },
+      {
+        "date": "2025-04-25",
+        "price": 256.48
+      },
+      {
+        "date": "2025-04-28",
+        "price": 256.33
+      },
+      {
+        "date": "2025-04-29",
+        "price": 258.66
+      },
+      {
+        "date": "2025-04-30",
+        "price": 260.13
+      },
+      {
+        "date": "2025-05-01",
+        "price": 260.61
+      },
+      {
+        "date": "2025-05-02",
+        "price": 264.33
+      },
+      {
+        "date": "2025-05-05",
+        "price": 262.35
+      },
+      {
+        "date": "2025-05-06",
+        "price": 262.18
+      },
+      {
+        "date": "2025-05-07",
+        "price": 266.06
+      },
+      {
+        "date": "2025-05-08",
+        "price": 271.16
+      },
+      {
+        "date": "2025-05-09",
+        "price": 269.91
+      },
+      {
+        "date": "2025-05-12",
+        "price": 276.37
+      },
+      {
+        "date": "2025-05-13",
+        "price": 273.76
+      },
+      {
+        "date": "2025-05-14",
+        "price": 271.07
+      },
+      {
+        "date": "2025-05-15",
+        "price": 275.16
+      },
+      {
+        "date": "2025-05-16",
+        "price": 278.68
+      },
+      {
+        "date": "2025-05-19",
+        "price": 280.54
+      },
+      {
+        "date": "2025-05-20",
+        "price": 277.02
+      },
+      {
+        "date": "2025-05-21",
+        "price": 258.52
+      }
+    ],
+    "current_price_data": {
+      "price": 258.52,
+      "change": -18.5,
+      "percent_change": -6.68
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

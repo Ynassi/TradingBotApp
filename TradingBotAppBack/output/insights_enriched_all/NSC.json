@@ -1,0 +1,646 @@
+{
+  "ticker": "NSC",
+  "name": "Norfolk Southern",
+  "sector": "Industrials",
+  "market_cap": 55481769984.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 16.787176,
+    "PB": 3.8234475,
+    "EV_Revenue": 5.963,
+    "ROE": 0.24542,
+    "ProfitMargin": 0.27403,
+    "GrossMargin": 0.49488,
+    "DividendYield": 2.22
+  },
+  "technical_indicators": {
+    "RSI_14": 69.92490881093575,
+    "Momentum_10": 9.68978669728218,
+    "MACD": 4.77669691311192,
+    "BB_Percent": 1.027043370472819,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8833341858706274,
+    "QualityScore": 0.3516220084561509,
+    "SignalScore": 0.5405964519258748
+  },
+  "volatility": 0.0183629082243026,
+  "beta": 1.294,
+  "return_6m": -0.0506305717674551,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 24,
+    "target_mean_price": 257.875
+  },
+  "news_sentiment": {
+    "summary": "Les titres pr\u00e9sentent l'analyse fondamentale de Norfolk Southern Corporation (NSC), une entreprise cot\u00e9e de l'industrie ferroviaire aux \u00c9tats-Unis. Les principales tendances cl\u00e9s sont les suivantes :\n\n* Positifs : l'entreprise est consid\u00e9r\u00e9e comme l'une des meilleures actions ferroviaires \u00e0 acheter selon les milliardnaires et les investisseurs, et ses r\u00e9sultats financiers pour le premier trimestre 2025 sont positifs, avec une croissance de 8% des b\u00e9n\u00e9fices par action et une am\u00e9lioration de 200 points de la taux d'exploitation.\n* N\u00e9g",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "How the (NSC) price action is used to our Advantage - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0JTUWRPOVFJZ3lnMGotNlhTSnlaUlI0UzZDLUx3c3FONlZMX0RIcUxiYXZqUFN6aUdBOThZV1BaMC0zeC03czRKTko3blQ0dEVTb25TcmVvNHdsWVNrbld3S05BdFZCVlNrQVY2Ul9Ld0dhakVpQXBpTm92Zm1JTXA1Y0VqNnFmNGViOHd2Zm42N0VkWHhMSERUQUVjcDFEN1lIekR3RElsaktmakRGSk5DclpnaTN1ZjlpRWl4OXVGUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Norfolk Southern Corporation (NSC): Among The Best Railroad Stocks To Buy According To Billionaires - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbWZKZWRrMkJrbXNDT01jalpRTDM3cFJlVUU5SUgwVlIySU5NTjRjcUFtcnpIRHVVVDdwRVpnbFM4WVVFR0c2cUpqT3ZHTjlJWG8wSHctcThCSW5OTnRoRlJnN2tsR1h3TlBnVzR2YUdJZVk1Y3d2NHFOMWNTTGpWakFzQXdXYl80RzNZRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Norfolk Southern (NSC) Price Target Increased to $280 by BofA | NSC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2UwdFhBdC1ONVF6WjYwaWczUF9SV0NpWTllZFlpNWg4SThac2N5RVpScEdERDYzQVJ0Q3Boby1aMXZOSkFJRDlYWV9fLVNBVTQ1SkVtZXcySEFBZTZfeDc1OHlvN2JGQTRBNVdzVTVlZWR4S0lqMHl4ZEozc2FYaVZkdnVCM3JXOXNiRGxVeVNRTnJqWG8tWXFxeGFBVDFYaWNxS3J1eFFDWHd1NUxWVnUySQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Norfolk Southern (NYSE:NSC) Reports Q1 2025 Net Income Surge to US$750 Million - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjhlOFRESWluLUpDOUJ2c1hCYllHQ0JSODN5d25RRnBBUG1DdmdwY094Zlg2QjhDRmlmck1acTQteC0yU01Ycnp4SEx5em1TcmtsalVKOU9mTXUxRWRpLU5HejN1WGhxUUFOdlh1TjJZQW5OV2Vib3FlVVVrTW93WkVhemllT2pBRTZFZnZvOVA0Sk1GTjFDVThvZjhnWU9LU1lNeU1wSEprWkliQVZ4bDYwcXdyaVVpbVVtNnU1TC05RWdRYmZUNTFQTFVTZnRXenBIZ9IB2gFBVV95cUxPMzY1RlRQOHFHaTlwa2VEa1RMUHVHRFZoRTdacVBiNjllZVowUnB1dkI5YzAtWGlDZzlFc2ZvNWtFZzJOWTNQQks5TWlnQXBmUW03YTgxV0ZBdDJka2pDRWs1QmhyU2pJd09EQkdabS1vaWNCbUZQcFh4aEFSMndtcTdaMDdpZDh2ZWdQb2VXdklCaTEtU0dQVm5TZ01QYlpkeURwWFhCSzJpOWNYQnpVY2dmLW1EYy1sWm1CbXF6Y2FxVXItTHYzRFl3Snh0ckFqNFNfbjFNa0ItUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Norfolk Southern CFO Ready to Reveal Latest Strategic Updates at Major Transport Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGlWODF4Tk5NYmdNWDc1QVd2U2ZpWUV2aUlkM3lZQVJhYTVUTGNZNWRvRDUwM0hBdkUwOEhYY0JxUkUweWNzNE0tLUVQUmplbDR3eW5wUVBkWVNUbGFqTXdwVlNUdDB5bFNpdV9ONHlrR0lWcWp2OEh0Q1VuTG5iNW5wTXhWOHVjYTdIRkVWb1Y4bHZvTE1KcXg0UDdVZl9BbjRvZWFTbWVYaXVNa2Zzazd4SGZJRUFMenc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$NSC stock is up 5% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjgtN2tUalFGOTVhSEgyYXRsQU5ud1Q1blBZMjRCb3pra1JGQnhwdDBEaUlPWGs3QVNZZ0FIbzM4R3I5SzBJa0VYbC1kOGpqa0Rvd3BoWmtxUkthdGNIeTMySGQtU2ZmS0s1LUE0RDRkTFprZTdaV2UxSkpLSXRmV0F3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Norfolk Southern reports first quarter 2025 results - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmx5d09qTzU0RXY0V1J5VnNNNXc4SVU3d3E2Y3dVZ01yYVJ6aHZkQWpEVk5teElsSmwzbTB0REthcm5ScVdSSTMyZUtLcXlDc0NMUnV1VmJCNnAzZDM4Slp3NjNUdHo4SjB3Q2FyTzd3cU9PbVZwX2RvSUVTS0hPbFp5T0VlMjRrTWhPTU4yMEpJWlZmSVI3aFVldjdZVm4wR0VHN2JvTGEycmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO cuts Norfolk Southern stock target to $255 amid weak demand - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcF93YWpMaEY2RnZENV9xRWpIb2xybzBuNnlHTnY2ZEQ3VGJXUDlZMWM1UFlqYWV6eFZPaGkxZ0UzcVotNUU5dE1adFpVMkUtSWpNTkNBd2hGaWNfaFN0UGRFVmtYcG5MMEx0SFFyRkljZ3Z6Szl2eDhmOU4xeGFVUER5dHdwRk1ST211cGR1T0swVkE2VXFEUHRWd3hRX1FVY3BLZWhWaThVc0JYSGJIZkYwTVZMb2dFZGFRR1VFbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "NSC Set to Report Q1 Earnings: What's in the Offing for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sakV6WTl4M0NCVWpnekdqd2x0TWVQdXY1TFhPdjVUVUREamFKUGlNazVYMXZNRWN5RHIyQ3c3eE5xTVMzTmk5dGdHOHRSXzg1bi1Vd1B4NlE2UDVOVjRaNVB3ZFBZWjhxVVdQajY5eVRnRWNXbVVJWE1FbE4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Norfolk Southern (NSC) Target Price Raised by B of A Securities | NSC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFFFZjM3ZEhqY2djU0xGaWk1LTVJY1EtLTZzTk1lVDZ2akVtYkJQZlJXNTlhUVQ5MEJTRGJHODRCd1RwTkF1U3ZjYnVadDgzUHNySmZ6eGZaMnBrLWpDdXBBbnpQWFlvdl9ldEc2Z1pxM016dzcwNERTdXFJNzd5MVhkLWl6LVlrM2NpazJUQVhuWlFnYlBKcDBMcXVnTGtLR01yT2xlMjBfUTRvdVc5SkVpbUNWZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fund Update: Phoenix Financial Ltd. opened a $110.2M position in $NSC stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEE0NVROdGE5eFRzZDE0dXRscm1YSUwwRUREZUpldl9OUlNZNjRQZjlfYWxmRjR5eXpYcGJWdFMzcURZWk5rSktyTVBjMEotbjNGeXU1YTZUOWhSZUx5bkN6LXhoVm9vZFlVWnYzbXZENVBhaDJwOEZOSzRNbjFhdndBaTQwRUw3VXVIeFpOZHBWaWdYR3EtZ0QwZkZOZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Norfolk Southern Q1 Earnings: 8% EPS Growth, Operating Ratio Improves 200 Basis Points - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZC1tWjAyc1NnaDVIVE55U0hnUjVCOWlYTGlhYjczcFpoWmlncVNkMmt0UFdlMlN6aWJsN0NpWWd2VUxaSjVlQTRZeUFpWGcxRW9Tbmt2QUVybFNGN3dBcE1xY2gxTnJXY05EenEtMDI4S084djFEQkYwM3V1eGZZNXl5Z2gtVHB2dkdtVjNYZFdoS0ZHcnN4a2RSaERTUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Norfolk Southern Insiders Added US$5.45m Of Stock To Their Holdings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUy1QMWlsVXp5MkthZ3UtSTNIblR1elpCeWdNM1U2eGdRdC0tejR5OFdoNTU2VkNXSEN1V3NiWHJONHJtMkJxQjJ6M21jNzg5Tkl3ZHVlUTMtbEEyT1FPRk1JREdSTXAzRU1NRXdLMlFDTUlETUNlb0Z1ajd0dkczMjdubi1IVElSc0d3bkRGUUNPaUFxYWxRbEZhRU5fNURjUkVoNU9vbXotTnV0RTlucmh6ckFadTVtd2ZNeFVKZ3FKMjBHWWJMdnBIQWlZWU5pVU4xLdIB2gFBVV95cUxNQ0xyTDgzWGR4QUR2WWxSd004b18tWEpyclVpa3NLaHdBWnA3bXozYXNBNXQ1OWtKWmZoYWhFZmtNU2RGeFk1cWhNMFA4cjRWM0EzWV9odkdPYmRmWDVpTDVUeTg1amNZa3JnVnkyOFlpOEdMR1QwaGhTUmF5V2RDNVVOSFhnZVM4a05NNzNSczVwMHJpU3N4MGNob3ZWQ1ZOWk81Q1NmQWpUeUxCc3dhekNvRlJud3h6bUl5bGxPb2p6X2FkU2x6YjRjNGUzMko4b1lrc292YW8wdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Sell NSC and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMSk1SaWQ4MWZtb3Q5d3F5blN2ZVV6Y2RfVEZzcGkzVGw5YnptMjhOOWNjWHFLdkF4YXJGQWtfbExrWUs5RU9TX0JPQUJmNHFHeW55SGUtdzl5ZUhvbk9zTk5CZFlmRUxtZTZaVGF4d3B5bDNC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NORFOLK SOUTHERN Earnings Preview: Recent $NSC Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNajBEbGJNUkFpY19Wd3Z4ejNxazQzVFRuN3JyeDRya1ZHcnJCd2NaNTVFTDRiN1V4TmhKUllvZ08xUndpWmlVdGVueXNVTWFrZEtnVlE2ZElnaEE4SGp4ZDFhVE5PVDNMY3pjMGlXa01RV1lrdzZiWlpvUGo1WWxpQWxkcC1wWHczajd3ZjMtczFfdVpRWEsxX2Qybjl0akZCNTRpTVBLa2VEaVNYT0tTUGNOSU1ZVDIxQmRUbkVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Norfolk Southern Corporation (NSC) The Best Railroad Stock To Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNjBraFVzdDVSZXhSYmVwNDJhNVYwb3p3WVd2Nlc3YVpqR0Z5SktETFNEWFlPbXlXb0huVlcxcHNjblM4TDNUdlIyX3ZmQ1FPMFFnRHJnT1lVdndyamxDa2dobDVXclpEc2x0aW0tdWwyWWEzZTVDdlRxei00U3JfMmxYVklWdnZBZG1V?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Norfolk Southern Stock: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOajducU5CenVORXJzMUJfaG4yVkFzNThIeXAxSjFaZktWVFo5OE8xMlI1aTNONjFEMWRzdml5Q0F6VGsyX0w4U0M4bmQzSlZaZy10NHlrNFJhanRaZUgzUTU1eGt2akNHamJuOHpUOHk4RmlrUVBXSVprN1Y3ZkdGbDVKRklKS0RralgtSVZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Norfolk Southern Corporation (NSC) Is Skyrocketing So Far In 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTUhHVks4UVNNMUd0el9zS3pMZDRMSENlVWlzSzB5RDJuT1UxQ1paXzl2aWgwbHNkdDlFcnhOTzVfRDAyRk9mYWpLbDhTVkVGYnlibzNkSGR2T1BhbS1nMkIwUlRKbThBRkJKZU9KVXg3WWQtMjM3TzFoeTF5R25LamxPUmNBVU5oUmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unpacking Q4 Earnings: Norfolk Southern (NYSE:NSC) In The Context Of Other Transportation and Logistics Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHRrWXdsOFpqbC1HbzJGU2h6SEJ6ZTlucTRYUm4yOFZ1bElGVWJBYU9LQlZDS0VtNDg0dm5sRWN5RHJLaE4tdldldnRTNE5qYkdTMDdNZ2J4elBhdl9fcE55SkdNYS1EbUZFVmlKZTAzWDYyS0Y3dzVaempxQXpHZTNXOXJDVjlNWXJ4NQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Norfolk Southern (NSC) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblUtVC1pbFpaMTlzQlIySVZPamh6U2Jwd05saU40bDhodjhIVkRSaGhvLTZUZUxKZ0JWNEFKMUhya3RKQ29VUVRkZHo3WG5qMGRLWG4xTS1UMVo3Zk5FbHUtX0dCLTNreUw5SkZSdEFoeHNScGlMSHVjT0paQlJDTHlYN0ZVQXBNU2RtTA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 268.95
+      },
+      {
+        "date": "2024-11-25",
+        "price": 275.93
+      },
+      {
+        "date": "2024-11-26",
+        "price": 276.09
+      },
+      {
+        "date": "2024-11-27",
+        "price": 275.38
+      },
+      {
+        "date": "2024-11-29",
+        "price": 275.85
+      },
+      {
+        "date": "2024-12-02",
+        "price": 272.75
+      },
+      {
+        "date": "2024-12-03",
+        "price": 270.12
+      },
+      {
+        "date": "2024-12-04",
+        "price": 267.63
+      },
+      {
+        "date": "2024-12-05",
+        "price": 264.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 260.78
+      },
+      {
+        "date": "2024-12-09",
+        "price": 256.84
+      },
+      {
+        "date": "2024-12-10",
+        "price": 256.08
+      },
+      {
+        "date": "2024-12-11",
+        "price": 247.25
+      },
+      {
+        "date": "2024-12-12",
+        "price": 248.31
+      },
+      {
+        "date": "2024-12-13",
+        "price": 246.22
+      },
+      {
+        "date": "2024-12-16",
+        "price": 242.82
+      },
+      {
+        "date": "2024-12-17",
+        "price": 242.47
+      },
+      {
+        "date": "2024-12-18",
+        "price": 237.8
+      },
+      {
+        "date": "2024-12-19",
+        "price": 230.6
+      },
+      {
+        "date": "2024-12-20",
+        "price": 234.15
+      },
+      {
+        "date": "2024-12-23",
+        "price": 235.77
+      },
+      {
+        "date": "2024-12-24",
+        "price": 237.92
+      },
+      {
+        "date": "2024-12-26",
+        "price": 237.18
+      },
+      {
+        "date": "2024-12-27",
+        "price": 235.25
+      },
+      {
+        "date": "2024-12-30",
+        "price": 233.49
+      },
+      {
+        "date": "2024-12-31",
+        "price": 234.7
+      },
+      {
+        "date": "2025-01-02",
+        "price": 234.6
+      },
+      {
+        "date": "2025-01-03",
+        "price": 235.88
+      },
+      {
+        "date": "2025-01-06",
+        "price": 236.96
+      },
+      {
+        "date": "2025-01-07",
+        "price": 237.76
+      },
+      {
+        "date": "2025-01-08",
+        "price": 236.91
+      },
+      {
+        "date": "2025-01-10",
+        "price": 233.94
+      },
+      {
+        "date": "2025-01-13",
+        "price": 237.36
+      },
+      {
+        "date": "2025-01-14",
+        "price": 239.24
+      },
+      {
+        "date": "2025-01-15",
+        "price": 240.36
+      },
+      {
+        "date": "2025-01-16",
+        "price": 247.11
+      },
+      {
+        "date": "2025-01-17",
+        "price": 245.34
+      },
+      {
+        "date": "2025-01-21",
+        "price": 251.85
+      },
+      {
+        "date": "2025-01-22",
+        "price": 251.85
+      },
+      {
+        "date": "2025-01-23",
+        "price": 256.14
+      },
+      {
+        "date": "2025-01-24",
+        "price": 254.67
+      },
+      {
+        "date": "2025-01-27",
+        "price": 259.76
+      },
+      {
+        "date": "2025-01-28",
+        "price": 252.32
+      },
+      {
+        "date": "2025-01-29",
+        "price": 256.74
+      },
+      {
+        "date": "2025-01-30",
+        "price": 257.2
+      },
+      {
+        "date": "2025-01-31",
+        "price": 255.3
+      },
+      {
+        "date": "2025-02-03",
+        "price": 250.32
+      },
+      {
+        "date": "2025-02-04",
+        "price": 252.92
+      },
+      {
+        "date": "2025-02-05",
+        "price": 252.51
+      },
+      {
+        "date": "2025-02-06",
+        "price": 251.48
+      },
+      {
+        "date": "2025-02-07",
+        "price": 249.1
+      },
+      {
+        "date": "2025-02-10",
+        "price": 253.43
+      },
+      {
+        "date": "2025-02-11",
+        "price": 256.45
+      },
+      {
+        "date": "2025-02-12",
+        "price": 253.91
+      },
+      {
+        "date": "2025-02-13",
+        "price": 257.22
+      },
+      {
+        "date": "2025-02-14",
+        "price": 255.99
+      },
+      {
+        "date": "2025-02-18",
+        "price": 258.42
+      },
+      {
+        "date": "2025-02-19",
+        "price": 249.05
+      },
+      {
+        "date": "2025-02-20",
+        "price": 249.41
+      },
+      {
+        "date": "2025-02-21",
+        "price": 247.76
+      },
+      {
+        "date": "2025-02-24",
+        "price": 244.1
+      },
+      {
+        "date": "2025-02-25",
+        "price": 245.1
+      },
+      {
+        "date": "2025-02-26",
+        "price": 242.06
+      },
+      {
+        "date": "2025-02-27",
+        "price": 242.18
+      },
+      {
+        "date": "2025-02-28",
+        "price": 245.75
+      },
+      {
+        "date": "2025-03-03",
+        "price": 245.14
+      },
+      {
+        "date": "2025-03-04",
+        "price": 238.51
+      },
+      {
+        "date": "2025-03-05",
+        "price": 238.64
+      },
+      {
+        "date": "2025-03-06",
+        "price": 238.2
+      },
+      {
+        "date": "2025-03-07",
+        "price": 242.22
+      },
+      {
+        "date": "2025-03-10",
+        "price": 239.1
+      },
+      {
+        "date": "2025-03-11",
+        "price": 232.98
+      },
+      {
+        "date": "2025-03-12",
+        "price": 230.96
+      },
+      {
+        "date": "2025-03-13",
+        "price": 227.69
+      },
+      {
+        "date": "2025-03-14",
+        "price": 232.3
+      },
+      {
+        "date": "2025-03-17",
+        "price": 234.39
+      },
+      {
+        "date": "2025-03-18",
+        "price": 234.55
+      },
+      {
+        "date": "2025-03-19",
+        "price": 234.66
+      },
+      {
+        "date": "2025-03-20",
+        "price": 233.54
+      },
+      {
+        "date": "2025-03-21",
+        "price": 231.75
+      },
+      {
+        "date": "2025-03-24",
+        "price": 235.55
+      },
+      {
+        "date": "2025-03-25",
+        "price": 234.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 235.76
+      },
+      {
+        "date": "2025-03-27",
+        "price": 235.21
+      },
+      {
+        "date": "2025-03-28",
+        "price": 230.55
+      },
+      {
+        "date": "2025-03-31",
+        "price": 236.85
+      },
+      {
+        "date": "2025-04-01",
+        "price": 236.61
+      },
+      {
+        "date": "2025-04-02",
+        "price": 238.57
+      },
+      {
+        "date": "2025-04-03",
+        "price": 220.74
+      },
+      {
+        "date": "2025-04-04",
+        "price": 210.93
+      },
+      {
+        "date": "2025-04-07",
+        "price": 208.05
+      },
+      {
+        "date": "2025-04-08",
+        "price": 206.34
+      },
+      {
+        "date": "2025-04-09",
+        "price": 222.02
+      },
+      {
+        "date": "2025-04-10",
+        "price": 215.46
+      },
+      {
+        "date": "2025-04-11",
+        "price": 218.31
+      },
+      {
+        "date": "2025-04-14",
+        "price": 221.4
+      },
+      {
+        "date": "2025-04-15",
+        "price": 217.72
+      },
+      {
+        "date": "2025-04-16",
+        "price": 214.03
+      },
+      {
+        "date": "2025-04-17",
+        "price": 219.84
+      },
+      {
+        "date": "2025-04-21",
+        "price": 218.94
+      },
+      {
+        "date": "2025-04-22",
+        "price": 220.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 221.95
+      },
+      {
+        "date": "2025-04-24",
+        "price": 226.68
+      },
+      {
+        "date": "2025-04-25",
+        "price": 221.71
+      },
+      {
+        "date": "2025-04-28",
+        "price": 221.73
+      },
+      {
+        "date": "2025-04-29",
+        "price": 223.36
+      },
+      {
+        "date": "2025-04-30",
+        "price": 224.05
+      },
+      {
+        "date": "2025-05-01",
+        "price": 221.77
+      },
+      {
+        "date": "2025-05-02",
+        "price": 224.36
+      },
+      {
+        "date": "2025-05-05",
+        "price": 222.28
+      },
+      {
+        "date": "2025-05-06",
+        "price": 218.63
+      },
+      {
+        "date": "2025-05-07",
+        "price": 219.98
+      },
+      {
+        "date": "2025-05-08",
+        "price": 224.07
+      },
+      {
+        "date": "2025-05-09",
+        "price": 223.5
+      },
+      {
+        "date": "2025-05-12",
+        "price": 239.11
+      },
+      {
+        "date": "2025-05-13",
+        "price": 240.26
+      },
+      {
+        "date": "2025-05-14",
+        "price": 241.18
+      },
+      {
+        "date": "2025-05-15",
+        "price": 243.91
+      },
+      {
+        "date": "2025-05-16",
+        "price": 246.1
+      },
+      {
+        "date": "2025-05-19",
+        "price": 243.77
+      },
+      {
+        "date": "2025-05-20",
+        "price": 244.08
+      },
+      {
+        "date": "2025-05-21",
+        "price": 239.42
+      }
+    ],
+    "current_price_data": {
+      "price": 239.42,
+      "change": -4.66,
+      "percent_change": -1.91
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

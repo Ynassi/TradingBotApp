@@ -1,0 +1,564 @@
+{
+  "ticker": "6594.T",
+  "name": "Nidec",
+  "sector": "Information Technology",
+  "market_cap": 3210900144128.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 19.157534,
+    "PB": 1.864847,
+    "EV_Revenue": 1.389,
+    "ROE": 0.09623,
+    "ProfitMargin": 0.06432,
+    "GrossMargin": 0.20598,
+    "DividendYield": 1.54
+  },
+  "technical_indicators": {
+    "RSI_14": 66.85478937064326,
+    "Momentum_10": 10.42242400315831,
+    "MACD": 121.73116011861202,
+    "BB_Percent": 0.8074422671173431,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8979442801864518,
+    "QualityScore": 0.3325468778027823,
+    "SignalScore": 0.5273269826890195
+  },
+  "volatility": 0.0305395827436405,
+  "beta": 0.876,
+  "return_6m": 0.0283222992890925,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 16,
+    "target_mean_price": 3640.625
+  },
+  "news_sentiment": {
+    "summary": "Les titres r\u00e9cents concernant Nidec Corporation (TSE:6594) font \u00e9tat de son stock qui s'est retir\u00e9 de 29% malgr\u00e9 une attention des investisseurs sur ses r\u00e9sultats. L'entreprise est en concurrence avec KPS pour l'acquisition de l'unit\u00e9 Innomotics de Siemens pour 3 milliards de dollars. Le CEO de Nidec est optimiste sur les nouvelles r\u00e8gles japonaises pour les prises de participation faciles. Le Nikkei Stock Average de Japan s'accorde avec le march\u00e9 am\u00e9ricain qui a \u00e9lev\u00e9 ses prix.",
+    "sentiment_score": -0.167,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.83,
+    "negative_ratio": 0.17,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Nidec Corporation's (TSE:6594) Stock Retreats 29% But Earnings Haven't Escaped The Attention Of Investors - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObEhraHkyZGRDYWwyMUg1QVpka0lWd2FYRnpLRnRjdnF1VGlDNHpvTk92VHBBY1l4VnIwNUo5bnBSRlE4ZmZBX2FSaDhkVXJqOU1kdmQ0d1lNYUlHZGhyZE1ENktGZk9RRlhsYXFpQXZ1aXlNaFdDYURicU12UzVIaWpNWjcxX1duUGQwNEV4ekw0R0d2ejl4TmhnSDNQSk8wQVd6dTh2NmN4Z1dvYUtvcFl3UTkwdTl3RmdQdDhpbFgxY2MtY05CdGRWSDFQUdIB0wFBVV95cUxPdWFEVUQ5OE50dXhhTnZkMXY2NUJ2SUFVNDZmMnBUU2pOcHg3MWVKaWtDbXYxRV90TXlIcklpTDdaREN2Z2V3dzl0cmE5UWN1WEllRldOZzZhZVM1UlNjeUF5eVNkTlZ4YUIybUpUekF4SjZveU9yVTdLQVFmR2lRWFcyd2JaSncyeTNSNDdBbExUdlhWbE5PZC11c2hNcFJNZk11dE1KcmppSllkREtTV1RITkhUdFV4SF83cFplV1ZyNG1yWmVjN0ZzbHZWMzJIazhZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mergers and acquisitions - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbjRFWmpnd1BqVkpTT1RDMUhIdjJjQnpCOTVUdDRsS0M0RVBJODJpY2VfeWxVbTdiTTh6NGpwcWNkNFRTVkdjQ3RwV0Q4QjFSWUhTLXVBMnNyejJfcmltODljV000LWQyZWNSandPaHZkM1I4NThkaVBnYkc1UWZtRGJyMUdyazZSM0FTYnA5RmpMYWMzZFBNWG5B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Does Nidec Corporation's (TSE:6594) Share Price Indicate? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQelJRdmxwQVNsbU1LUnpiWFZOb3h3NUQyZ3BUaVg4b2tDcjJsRGsyQmpnZjNLa0Z6aFhLcEdZam9lLXhRZFllYmlSTXNTQ0Q1Yi1KRDZXcHZrV0EtbnlZQ2hXZXFHd2NrVkxFYloxVTNzZi16SmsxNXJyeEVldUJOdzZMX3ZPVU1EOXQ1c3Z4cHV2X3gtMlk5M0pPX2dyMHlkVTRTYUxEcGxHMVpGd1RITHd6OVJEblcxWGRGWmt1eDRMR25lZy1zbFRn0gHPAUFVX3lxTE9MRXJLQjQ1a2lhYjZjaUJwcFV6R1gxTDN4U0FzTW1JZVAwZG1zRkcwTGJITF9yUFQ2R09idWhNbnVFU2tTZnhOWkpSaTVOZkl3LVNzNHhHM2NHWlJzZDlWMlRZV2x6N3FIRldDbGVXXzFPblF3VXVkZlpsblF0UmlRVEpyaEp1c0hHdlpDZEdDZl9SbGVmcE5oc0EzeVg4ZTZjQ1k1RlhCUUl4SFFvbEwtQzRMUDN6ZUU2U3p1NGZTYW9pYm50THNWSEZ1RWx4TQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan\u2019s Nikkei Stock Average Tracks Wall Street Higher as BOJ Decision Looms - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JN0V6RFFwbXZMeS1GNEMtVExJVk55YmxJSmJ3RHlXeVpTZWs1VVltNDB6N2dKbHoxMnU1ZWNWS1E0ZVBMc3B3emJNb2dNSDFBcmhVamtUd0JHX1RWQ3hDZXY4SzJrZTYxM3JXUWs1b0dIRnFNQl9pRUtR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nidec, KPS compete for Siemens' $3 bln Innomotics unit, Bloomberg reports - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3BkVWQ3TkIyUTBUaUV6M1BEM2FHM0c4aGctRHFuM0FleE1HMlhqb0tKWG5mUUV5VklQREJjcWFSQ1ZJYWNoLWM0MFpaSkVGVnRmaTFoeThJc29hX1lCcG1vX19qN1NRcE5zLUdiWDl2eGtmX1h1LVBENzdTZVItNFBidFZxYWlieVVrY1JhTUFXZ1hXcGxTSWtZWWI2cU1iaWt3TDd5emZNaTJFZ1hLa3BjQXhhQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nidec's acquisitive CEO hails new Japan rules aimed at making takeovers easier - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmZlWHlfWU8zWVVJQTd0Z2gyYXh0SXI0dlBCNEFwOURSajRCOWNDejRNeEZ3aXRMRDhFQkxMbWlyVVdWQlh6T2RRRkdCLTg2MHQ4UzBVMG14Mm9yNEc5V2hpODRZWlJXZ1puaU1fNGJGOVd6VmdyUjgzVnY5ZktvUzNjNzdJOGdQbU52R2tjZjEwN0VJZmJoeVlYNkV6RHNZWWNYVG5yVGU5TEI5OWt0TEUyZHhaOHUyajNJ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 2908.0
+      },
+      {
+        "date": "2024-11-22",
+        "price": 2858.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 2866.5
+      },
+      {
+        "date": "2024-11-26",
+        "price": 2819.0
+      },
+      {
+        "date": "2024-11-27",
+        "price": 2807.5
+      },
+      {
+        "date": "2024-11-28",
+        "price": 2818.0
+      },
+      {
+        "date": "2024-11-29",
+        "price": 2755.0
+      },
+      {
+        "date": "2024-12-02",
+        "price": 2748.5
+      },
+      {
+        "date": "2024-12-03",
+        "price": 2868.0
+      },
+      {
+        "date": "2024-12-04",
+        "price": 2852.0
+      },
+      {
+        "date": "2024-12-05",
+        "price": 2802.5
+      },
+      {
+        "date": "2024-12-06",
+        "price": 2807.5
+      },
+      {
+        "date": "2024-12-09",
+        "price": 2824.0
+      },
+      {
+        "date": "2024-12-10",
+        "price": 2836.5
+      },
+      {
+        "date": "2024-12-11",
+        "price": 2827.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 2858.0
+      },
+      {
+        "date": "2024-12-13",
+        "price": 2816.5
+      },
+      {
+        "date": "2024-12-16",
+        "price": 2798.0
+      },
+      {
+        "date": "2024-12-17",
+        "price": 2815.5
+      },
+      {
+        "date": "2024-12-18",
+        "price": 2820.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 2763.0
+      },
+      {
+        "date": "2024-12-20",
+        "price": 2750.0
+      },
+      {
+        "date": "2024-12-23",
+        "price": 2742.5
+      },
+      {
+        "date": "2024-12-24",
+        "price": 2708.0
+      },
+      {
+        "date": "2024-12-25",
+        "price": 2700.0
+      },
+      {
+        "date": "2024-12-26",
+        "price": 2730.0
+      },
+      {
+        "date": "2024-12-27",
+        "price": 2843.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 2855.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 2805.5
+      },
+      {
+        "date": "2025-01-07",
+        "price": 2886.5
+      },
+      {
+        "date": "2025-01-08",
+        "price": 2933.0
+      },
+      {
+        "date": "2025-01-09",
+        "price": 2928.5
+      },
+      {
+        "date": "2025-01-10",
+        "price": 2915.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 2858.0
+      },
+      {
+        "date": "2025-01-15",
+        "price": 2861.5
+      },
+      {
+        "date": "2025-01-16",
+        "price": 2828.5
+      },
+      {
+        "date": "2025-01-17",
+        "price": 2799.5
+      },
+      {
+        "date": "2025-01-20",
+        "price": 2797.5
+      },
+      {
+        "date": "2025-01-21",
+        "price": 2793.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 2840.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 2946.5
+      },
+      {
+        "date": "2025-01-24",
+        "price": 2853.5
+      },
+      {
+        "date": "2025-01-27",
+        "price": 2807.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 2711.0
+      },
+      {
+        "date": "2025-01-29",
+        "price": 2742.5
+      },
+      {
+        "date": "2025-01-30",
+        "price": 2709.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 2689.5
+      },
+      {
+        "date": "2025-02-03",
+        "price": 2553.5
+      },
+      {
+        "date": "2025-02-04",
+        "price": 2560.5
+      },
+      {
+        "date": "2025-02-05",
+        "price": 2560.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 2597.0
+      },
+      {
+        "date": "2025-02-07",
+        "price": 2618.0
+      },
+      {
+        "date": "2025-02-10",
+        "price": 2657.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 2741.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 2725.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 2694.5
+      },
+      {
+        "date": "2025-02-17",
+        "price": 2657.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 2650.5
+      },
+      {
+        "date": "2025-02-19",
+        "price": 2780.5
+      },
+      {
+        "date": "2025-02-20",
+        "price": 2778.0
+      },
+      {
+        "date": "2025-02-21",
+        "price": 2821.5
+      },
+      {
+        "date": "2025-02-25",
+        "price": 2799.0
+      },
+      {
+        "date": "2025-02-26",
+        "price": 2782.5
+      },
+      {
+        "date": "2025-02-27",
+        "price": 2792.0
+      },
+      {
+        "date": "2025-02-28",
+        "price": 2684.5
+      },
+      {
+        "date": "2025-03-03",
+        "price": 2681.0
+      },
+      {
+        "date": "2025-03-04",
+        "price": 2611.5
+      },
+      {
+        "date": "2025-03-05",
+        "price": 2663.5
+      },
+      {
+        "date": "2025-03-06",
+        "price": 2683.5
+      },
+      {
+        "date": "2025-03-07",
+        "price": 2695.0
+      },
+      {
+        "date": "2025-03-10",
+        "price": 2690.5
+      },
+      {
+        "date": "2025-03-11",
+        "price": 2644.5
+      },
+      {
+        "date": "2025-03-12",
+        "price": 2695.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 2650.5
+      },
+      {
+        "date": "2025-03-14",
+        "price": 2686.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 2695.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 2720.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 2789.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 2718.5
+      },
+      {
+        "date": "2025-03-24",
+        "price": 2712.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 2690.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 2705.0
+      },
+      {
+        "date": "2025-03-27",
+        "price": 2669.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 2603.0
+      },
+      {
+        "date": "2025-03-31",
+        "price": 2492.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 2481.0
+      },
+      {
+        "date": "2025-04-02",
+        "price": 2449.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 2309.5
+      },
+      {
+        "date": "2025-04-04",
+        "price": 2181.0
+      },
+      {
+        "date": "2025-04-07",
+        "price": 1907.0
+      },
+      {
+        "date": "2025-04-08",
+        "price": 2018.5
+      },
+      {
+        "date": "2025-04-09",
+        "price": 1880.5
+      },
+      {
+        "date": "2025-04-10",
+        "price": 2162.0
+      },
+      {
+        "date": "2025-04-11",
+        "price": 2087.5
+      },
+      {
+        "date": "2025-04-14",
+        "price": 2142.5
+      },
+      {
+        "date": "2025-04-15",
+        "price": 2146.0
+      },
+      {
+        "date": "2025-04-16",
+        "price": 2064.5
+      },
+      {
+        "date": "2025-04-17",
+        "price": 2095.0
+      },
+      {
+        "date": "2025-04-18",
+        "price": 2129.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 2090.0
+      },
+      {
+        "date": "2025-04-22",
+        "price": 2094.0
+      },
+      {
+        "date": "2025-04-23",
+        "price": 2184.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 2232.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 2510.5
+      },
+      {
+        "date": "2025-04-28",
+        "price": 2550.5
+      },
+      {
+        "date": "2025-04-30",
+        "price": 2533.0
+      },
+      {
+        "date": "2025-05-01",
+        "price": 2564.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 2618.5
+      },
+      {
+        "date": "2025-05-07",
+        "price": 2621.5
+      },
+      {
+        "date": "2025-05-08",
+        "price": 2580.0
+      },
+      {
+        "date": "2025-05-09",
+        "price": 2609.0
+      },
+      {
+        "date": "2025-05-12",
+        "price": 2663.5
+      },
+      {
+        "date": "2025-05-13",
+        "price": 2765.5
+      },
+      {
+        "date": "2025-05-14",
+        "price": 2794.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 2861.5
+      },
+      {
+        "date": "2025-05-16",
+        "price": 2797.0
+      },
+      {
+        "date": "2025-05-19",
+        "price": 2787.5
+      },
+      {
+        "date": "2025-05-20",
+        "price": 2766.5
+      },
+      {
+        "date": "2025-05-21",
+        "price": 2732.5
+      }
+    ],
+    "current_price_data": {
+      "price": 2732.5,
+      "change": -34.0,
+      "percent_change": -1.23
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

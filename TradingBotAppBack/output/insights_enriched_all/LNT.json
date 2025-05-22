@@ -1,0 +1,646 @@
+{
+  "ticker": "LNT",
+  "name": "Alliant Energy",
+  "sector": "Utilities",
+  "market_cap": 16049612800.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 21.544827,
+    "PB": 2.2627022,
+    "EV_Revenue": 6.536,
+    "ROE": 0.10712,
+    "ProfitMargin": 0.18269,
+    "GrossMargin": 0.46493,
+    "DividendYield": 3.21
+  },
+  "technical_indicators": {
+    "RSI_14": 57.4899367267768,
+    "Momentum_10": 2.141574975485409,
+    "MACD": 0.0714175362075195,
+    "BB_Percent": 1.0181637769810392,
+    "SMA20_above_SMA50": 0.0
+  },
+  "scores": {
+    "ValueScore": 0.8815717080721238,
+    "QualityScore": 0.4235796427875857,
+    "SignalScore": 0.6400891636917354
+  },
+  "volatility": 0.0129680120121855,
+  "beta": 0.577,
+  "return_6m": 0.0280103233124429,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 12,
+    "target_mean_price": 65.0875
+  },
+  "news_sentiment": {
+    "summary": "Alliant Energy (LNT) is a major utility provider in the United States that has recently reported strong Q1 earnings growth and announced a proposed offering of $500 million of convertible senior notes due 2028. The company's stock has been performing well in recent times, with many analysts expecting it to beat earnings estimates and continue its upward trajectory. However, some concerns have been raised regarding the sustainability of the company's growth and its ability to maintain its high profit margins. The company's bond and convertible note offerings have also raised questions about its debt levels and financial stability. Overall, while Alliant Energy has shown some promising signs, investors should exercise caution when making investment decisions based on the company's recent news.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Alliant Energy (LNT) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVldCb1U4RE43d2Jab293VWN4bjY1XzI3NHRNVnBGN1dZdEZVQlVfakoyWVVZdkxTM3ZwYm9FWlFPVFdTU2JQenZjSGhlMmxfcGhya0xBLUxwQS1zWk9USWJ3a3hkSUgtZktDVjdoNDFhZmUzdzBOLVBZZlJtMDV1MFdSanY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alliant Energy\u2019s IPL Prices $600M Debenture Offering - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW5mdWJXZ3hNeS1fN3pmYjR1ZzVGRklIc2czWnB4Tk1FaXA1bkVhcGZnbEQ2YjZZNmNpb3drc2xLLUd0NWg1Q2FVcVRjZVZKWS1VZWVQbUtXX0FwZTZ1RjdOWGN1OXo5Qk1oN2NrMGFkb0FiUUVTV3JoMlJ2QkNEdVhnYzY5eXhmVGFYVzBuSmtCRmNpZVQ5cWhNVTF3ZmVqVkp2dg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alliant Energy Subsidiary Launches Major $600M Bond Offering with 5.600% Yield Through 2035 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXdzMXBhcEtPdDhaYXl3c1gzRXBGYWFiNTlHMm1HT292dWEySTEzcTIzRGg4WmhrcVRRVHRIOW5CRWpuUjFCZllGNjBoYlh3bFpRc1lqbWY3Ymw0d3d2eUMyV2pOa09XeWQ4VkdncHlodFF6NF9jb0ZlaFlub2EwVmNZMlVoeWEzTE51NmpGZ1BTVng5MjJsVVNMRnJnNDVnc1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "We Think That There Are Some Issues For Alliant Energy (NASDAQ:LNT) Beyond Its Promising Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeklQeW13M09wMlB5dnhMLVhuTUkycktzYkhfSXZBVUNHTXk3WGtfVlRUVVhXbC0zb1Q1X0VibjlUX1dGdENrWTN4bkRfS0lGTVpNRkwwaFJSaUNnSUdJMEtXbUNUSGstdWVJZjRlQnVyVTlrOE9hVVJVT3BDekg4UU84N0JtQnZpRWdRanZJakRxcTRSLUt6NFo1UlVUN21MT3JXNHFIVEp5SXVqTEZMUE5MM3pEWTFWR1lmaXl4SktBZk1rUVhuV0lmWXBUZ9IB0wFBVV95cUxPRnZFZXZaaEU4cWtaVlNPRzZUSVN1MVhLQ0FpRHgyZE43NlVpb05Rb09SOTdnSGZacmRZdFJTb1loeTZucDlELVNQemhBYk5hZ2I3RXhuVmVRblRiLUFQNVFzYWx5QmJ5ZDdWcVdYQnBrTnk1emJ1dzRpSUJtWWZCX3VaRzFEVWtPOG4ycDRNbDN3c3ZoUDcwN0pMMUpVRVRuOGxfTmhFbUFJa2QxTmFnTXdxQlhJYzJKQ1JQMF9nRjQ5dXhkcHJuZkwyaERoVlBJaDRJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alliant Energy's Q4 Earnings Top Estimates, Revenues Rise Y/Y - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGFiSzJCaWpYbXdGN2xBVlpGenRlWHRMRWxMOFdXc0lKb0ZxdjJHU0F2S2RRRDJaYUVXdzhYNFg5clMzUWdUenlLd1BJci1xYXBjZ0hEUFVTQllGQTFaRWxncTRtSnRBd0xFUENKRjkzcm9mc1hjWXJDd1EwSFFmbmxCZWRaYnNhRnhmSkh2eW02N2huWnREeHZNSmRXRWZpRmpaSUFJZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Interstate Power and Light Company Prices Debt Offering | LNT St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLThGbTdjM3FYbXdnQlNiR3huZ2ZaQ0E4N2xtUVZNaG5nelFpc2VMaWV4TlBGd3dfWmJFUXl1WTVJbjVSR1BkMzFZMW5tTm9iZnJxSHVETHVFVXRMSUpEa1U0LWJJcDhXWEgxVnhVQjNEc01pWTZRNkhQZXc0MWZnZmo1WlUwWUxNY2VVYnlHeVU5X2x3VDAzMWxNdGVmOEV5Sk10VURHelJBcThnTEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ALLIANT ENERGY Earnings Results: $LNT Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRU85dzYzMWFZeUx4VF9uaURQRjFyQmdqYkVueVpQdTBkbVVFc25CaHd6NFZ6MmhtVU5jUXBjT0FzbGE3dWkzWjZFb0hsSGhOM1BGdkhjcV8xOEZrOGRTMHBGN3I0S2tWcGRTN1N1ZDZmR2lUVlFOclRnbU5sOVB6a3k5Z3Fzc1hPM0UxV19pT1EyMnJPcnZsMFJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alliant Energy Announces First Quarter 2025 Results - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDlDem13eTVDcHhBc090YkZqTUhxSjdLNE1YeDZseEhIU2tRNExnWVNxcll3UjBnUUF5S2w3alFodWhoMF96N041QUJyOUQ2TWxiMTN2VWF4VkdZa0FZSHNiUDJhVTFXOTlRNS1jUExQSzVTRldxSnZLRTMzRUw2VjBvLVBTZWgwTzA2OWpjTFZrbGtFX1pSeUpiNFRUdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alliant Energy Completes $575M Convertible Notes Sale - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEZTRGtKV3hYUGtrT19EZFNta1RJZlF4V2ZwSEY4S0dCa2d5LUZMU0l5UlU3R1JkVjctTjRhNGVRbVRnSHdlNkE2NkFVMmxSb3hKbU9ldUJoUENLdHE0dThMSmNEdXZfZ3oxb1RXVFV3eVJTZVBWZm9KMUtIOVRxMGRDY3k4b0F3TXVLa0dFUzZJVmljWGhaOFFFMVZ1V2M0Q2VSS0t3UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "We Think That There Are Some Issues For Alliant Energy (NASDAQ:LNT) Beyond Its Promising Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2lobjRsWTNFSVdfVjNDU0dQZkhKT2xxWlR0WnpTZWExUW82Y2RyR2pfV0FnQzJ6di1uNm9PUzdyUjVPcldNMHpGUFBTVmV3TFZYTmN4UmZUMzBDaDNqOElpRUtVU2xqME51ZXZ4QUdNbnVWdjk0dGV5OUpkSDRhcHVnOEdzRk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alliant Energy (LNT) Receives Market Perform Rating from BMO Cap - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmk5QXdjVEE2emRjcllDWm83Q3JuUkxGSUNReDVwd3huQmdUYjJ3d2Z6NWZlVUhJVjYtdWQ3RVhIUTUxNGtBRkRmOHlDLWRBWXFmZ3NlZ2J3MXdYNmdXSGxBS2JLMWtSVnctXzJ3UkJ6TjNZTjZFVGxmV056aU1aNmNHX3VieUZoaFRtR0VFaHVQNHBwWWEtc2lQd3JjRlg4dk53QTBvSFJIS2Y0ZXV3WUhaVzhfdG4tOU5FLQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ALLIANT ENERGY Earnings Preview: Recent $LNT Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1BIdUtfU2gxMHE4a0tuYW1rR0pKaWY4TjQxZHVfdnFxbnUwNGEtenpQTVZSZUd5Zkk1UnlFeWhfdzZKYlJPeXNXSFNhOHBoTUgyc2RRNUNwX2FYQzBmT1FnWS1yMENVb1dKNTZVd1otbTVVVFNSUlJsTC1IXzVEWjlEbFlhOHdOUl9pWHhYUW53eXpIcmRTWk5QdGUzSXVCdERhNlRqWlgyYWFadEFQcDVYWnU1TFhIZHFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dividend Alert: Alliant Energy's 318th Consecutive Quarterly Payout Extends Historic Streak - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdklRcGtJTkdnOTRDcDkyWlhTaDdmV2RWRFoxTGIza29LczRpUDNta2NQNTh1WmVPTjZpRERZenNYb2ZlV1RkV0YyWUtFTG1WZXFZRWd3dUJ2MElYUVJka3pEYl9jcUVnVGR0QXNxZkFiU3lTdjAxd0JYdUlKUnI2bFVzTHlWMENaS0U0R3VKTmVjTHpoLWdCOGRIWm9YWnkwRFM4aC1WZGJsNTgxLThnbDl3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alliant Energy Announces First Quarter 2025 Results | LNT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3dJaWd2aXF4d1NsQnlGNDFqNnZOSy14Zkl4T3l6VTVaVHJYWVpiX1BDbUpBUGpfemxMTHZGYjNON2RMWmlCTkQ3Q2RvaFRUUDVNUVJxODdEZ1FnUzl6VDFRUFkwckl3ci1Sb1hhdDNLRVFuRGU4QWRKUm1Ub3lzMWxkWTJnQTNDbnEtZzlmVW02RlNHVzZCWENKeEtiU19HUGZWMGwxd2E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alliant Energy Prices Offering of $500 Million of 3.250% Convertible Senior Notes due 2028 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2h6Uk5ESzVJM2ZQRGh3b1d4cWlNamUxaFdBYVdPT2ZESUUtY0J0bWxfMDZic2dSSXg1d3cxaGJWQkFIc25ycFl2cjVBYk84WjliWTFIZl81UHB4SG14UVdvNlY0ZHlDOVI4V3BydEQ1TGtkVFFLeVRnRXJiS1U5QjdpWjZMTmNrVXYzbldtTzFCLXJDNm4wa3RhS3pGUmhDMHRxWk5UeDU1NDRYM19sNFdkY0xwUkxiWTlucw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alliant Energy Prices Offering of $500 Million of 3.250% Convertible Senior Notes due 2028 | LNT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcTBNMUhKbWNDeUFGbUtvWVd5OHJkWnhoemFaSmNTa3otRE9NUUJja1ZwUC1PY3RpVTlUblhyU0piMjhpenlfazJIU3kzTUVZcWVEQkhQczdDemdqNkJmZ0NTS21GcTkwck1mRlNlMm00MVhzQU9xdXdNcVBWbHBLOEVVWjloRW5ubVlpMXl5cmEwVy1tdTZGRjBzVk1tdzBlSDlNd0ZHX1pVR1NaTElGUHExOEZ3QzRvblhxWXFUaXUwYjN2SjFNWlB3RllGUV9lejV1UDdocjNRdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alliant Energy Announces Proposed Offering of $500 Million of Convertible Senior Notes due 2028 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEc5bDRBYldzbndRZDJvVkV3QmJ2a0hYaWJyc2d5M0NSaTU0OVRnVm9kaDhRLUtWWlFYallKT2hmRGs2SGtsZ2VYSWlGNFdDMy0tWDlUX3QxLVk1YmRqTW03cmV5NWYwTHdNbVdSZGgwSjRKMEdJN0tuUldCeTJPVXA3SnZhaktLQTh1bWpIRk41cU10N1pXbVhVM2FDc1ZDaERiMTFuSjZhSXMxZ09qMGV4eUs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LNT Reports Strong Q1 Revenue Growth and Expands Energy Plans | LNT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblF1dDVkZ3dQM2tiY1E1V19ydC1GZldGSmdwdFRsVTFKaGJPaG40clRCeWpKcEtLTTF3Wkc4cDlDMkotdHRJUWhRaDZMY3o1eGZIVzVnMUQzV0JWcHhrNjZ2YXRiWkVTS1A5V3IyaURPWGZ1enBwT1ZUTjBFR0FOSHV2N25JVGJZQ0VEMldfOFRpdFlmU084akRmMkF1dmYyVzhoUGM1WGQzenU4dm1HajZIbkswMHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Major Utility Provider Alliant Energy Sets Q1 Earnings Date: What to Watch - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2cwMjFqT19HQVlCdGM1RjFZcU9QMVg0MmJ5eUxBaTUxWERKdXktdk9qdElKQjdfd1czOHpnNjZIUndJTUdBMmRqVnBzT2VWd3VQSkxwcTBRRm9HdldzeFBSbEVSVXJjMnRiMnZGc1ZlUENTeTVCSWI1WVlZMmI5WGkteWNZMjQtelhOdHlxUy1BbmJMUXAydzlaRVo3VndLdWpWNmRnQWhJNWZUcXJlRmM4TzExNlhwNDNHZ0h3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alliant Energy Corporation Declares Quarterly Common Stock Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblZIQWlYbjVIMmlHU2NSMXNnZFNyZ2loYWt1THBTR2s0aHp4aFNyMTA4WUxCMUFySjdOLWVHc1pwSHFaRkROYkZ5R1FUOFZjSzMxaHoza0FFdjhnb3N1SnhfZ1pQamtvcDVJWWZEc3pzZVM5cV9Ha3UzTEItMHNha0NfdXdaWDdOTXREQlpNamEtcWpGclNXVHhrbHBSdXBod0d2bW42eXN6QUR4RUVBY0NweDFpelkwY2M5SEZ5NTAzZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 63.32
+      },
+      {
+        "date": "2024-11-25",
+        "price": 63.63
+      },
+      {
+        "date": "2024-11-26",
+        "price": 63.34
+      },
+      {
+        "date": "2024-11-27",
+        "price": 63.59
+      },
+      {
+        "date": "2024-11-29",
+        "price": 63.2
+      },
+      {
+        "date": "2024-12-02",
+        "price": 62.28
+      },
+      {
+        "date": "2024-12-03",
+        "price": 61.83
+      },
+      {
+        "date": "2024-12-04",
+        "price": 61.78
+      },
+      {
+        "date": "2024-12-05",
+        "price": 61.54
+      },
+      {
+        "date": "2024-12-06",
+        "price": 61.06
+      },
+      {
+        "date": "2024-12-09",
+        "price": 60.91
+      },
+      {
+        "date": "2024-12-10",
+        "price": 60.7
+      },
+      {
+        "date": "2024-12-11",
+        "price": 60.41
+      },
+      {
+        "date": "2024-12-12",
+        "price": 60.47
+      },
+      {
+        "date": "2024-12-13",
+        "price": 60.45
+      },
+      {
+        "date": "2024-12-16",
+        "price": 59.88
+      },
+      {
+        "date": "2024-12-17",
+        "price": 59.57
+      },
+      {
+        "date": "2024-12-18",
+        "price": 58.15
+      },
+      {
+        "date": "2024-12-19",
+        "price": 58.26
+      },
+      {
+        "date": "2024-12-20",
+        "price": 58.95
+      },
+      {
+        "date": "2024-12-23",
+        "price": 59.26
+      },
+      {
+        "date": "2024-12-24",
+        "price": 59.62
+      },
+      {
+        "date": "2024-12-26",
+        "price": 59.65
+      },
+      {
+        "date": "2024-12-27",
+        "price": 59.54
+      },
+      {
+        "date": "2024-12-30",
+        "price": 59.33
+      },
+      {
+        "date": "2024-12-31",
+        "price": 59.14
+      },
+      {
+        "date": "2025-01-02",
+        "price": 58.51
+      },
+      {
+        "date": "2025-01-03",
+        "price": 58.34
+      },
+      {
+        "date": "2025-01-06",
+        "price": 57.31
+      },
+      {
+        "date": "2025-01-07",
+        "price": 57.36
+      },
+      {
+        "date": "2025-01-08",
+        "price": 58.2
+      },
+      {
+        "date": "2025-01-10",
+        "price": 56.66
+      },
+      {
+        "date": "2025-01-13",
+        "price": 56.98
+      },
+      {
+        "date": "2025-01-14",
+        "price": 57.79
+      },
+      {
+        "date": "2025-01-15",
+        "price": 58.47
+      },
+      {
+        "date": "2025-01-16",
+        "price": 60.07
+      },
+      {
+        "date": "2025-01-17",
+        "price": 60.55
+      },
+      {
+        "date": "2025-01-21",
+        "price": 61.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 59.09
+      },
+      {
+        "date": "2025-01-23",
+        "price": 58.69
+      },
+      {
+        "date": "2025-01-24",
+        "price": 58.77
+      },
+      {
+        "date": "2025-01-27",
+        "price": 60.0
+      },
+      {
+        "date": "2025-01-28",
+        "price": 58.87
+      },
+      {
+        "date": "2025-01-29",
+        "price": 58.59
+      },
+      {
+        "date": "2025-01-30",
+        "price": 59.34
+      },
+      {
+        "date": "2025-01-31",
+        "price": 58.88
+      },
+      {
+        "date": "2025-02-03",
+        "price": 59.27
+      },
+      {
+        "date": "2025-02-04",
+        "price": 59.24
+      },
+      {
+        "date": "2025-02-05",
+        "price": 59.73
+      },
+      {
+        "date": "2025-02-06",
+        "price": 59.54
+      },
+      {
+        "date": "2025-02-07",
+        "price": 59.47
+      },
+      {
+        "date": "2025-02-10",
+        "price": 59.87
+      },
+      {
+        "date": "2025-02-11",
+        "price": 60.31
+      },
+      {
+        "date": "2025-02-12",
+        "price": 60.63
+      },
+      {
+        "date": "2025-02-13",
+        "price": 61.1
+      },
+      {
+        "date": "2025-02-14",
+        "price": 61.33
+      },
+      {
+        "date": "2025-02-18",
+        "price": 61.67
+      },
+      {
+        "date": "2025-02-19",
+        "price": 61.64
+      },
+      {
+        "date": "2025-02-20",
+        "price": 61.62
+      },
+      {
+        "date": "2025-02-21",
+        "price": 62.81
+      },
+      {
+        "date": "2025-02-24",
+        "price": 63.85
+      },
+      {
+        "date": "2025-02-25",
+        "price": 63.75
+      },
+      {
+        "date": "2025-02-26",
+        "price": 63.98
+      },
+      {
+        "date": "2025-02-27",
+        "price": 63.85
+      },
+      {
+        "date": "2025-02-28",
+        "price": 64.53
+      },
+      {
+        "date": "2025-03-03",
+        "price": 66.04
+      },
+      {
+        "date": "2025-03-04",
+        "price": 64.26
+      },
+      {
+        "date": "2025-03-05",
+        "price": 63.44
+      },
+      {
+        "date": "2025-03-06",
+        "price": 62.2
+      },
+      {
+        "date": "2025-03-07",
+        "price": 62.49
+      },
+      {
+        "date": "2025-03-10",
+        "price": 63.27
+      },
+      {
+        "date": "2025-03-11",
+        "price": 62.62
+      },
+      {
+        "date": "2025-03-12",
+        "price": 62.18
+      },
+      {
+        "date": "2025-03-13",
+        "price": 62.23
+      },
+      {
+        "date": "2025-03-14",
+        "price": 62.95
+      },
+      {
+        "date": "2025-03-17",
+        "price": 63.53
+      },
+      {
+        "date": "2025-03-18",
+        "price": 63.35
+      },
+      {
+        "date": "2025-03-19",
+        "price": 63.51
+      },
+      {
+        "date": "2025-03-20",
+        "price": 63.55
+      },
+      {
+        "date": "2025-03-21",
+        "price": 63.05
+      },
+      {
+        "date": "2025-03-24",
+        "price": 62.98
+      },
+      {
+        "date": "2025-03-25",
+        "price": 62.1
+      },
+      {
+        "date": "2025-03-26",
+        "price": 62.86
+      },
+      {
+        "date": "2025-03-27",
+        "price": 63.12
+      },
+      {
+        "date": "2025-03-28",
+        "price": 63.58
+      },
+      {
+        "date": "2025-03-31",
+        "price": 64.35
+      },
+      {
+        "date": "2025-04-01",
+        "price": 64.42
+      },
+      {
+        "date": "2025-04-02",
+        "price": 64.49
+      },
+      {
+        "date": "2025-04-03",
+        "price": 64.85
+      },
+      {
+        "date": "2025-04-04",
+        "price": 61.36
+      },
+      {
+        "date": "2025-04-07",
+        "price": 59.81
+      },
+      {
+        "date": "2025-04-08",
+        "price": 58.79
+      },
+      {
+        "date": "2025-04-09",
+        "price": 60.42
+      },
+      {
+        "date": "2025-04-10",
+        "price": 60.21
+      },
+      {
+        "date": "2025-04-11",
+        "price": 60.59
+      },
+      {
+        "date": "2025-04-14",
+        "price": 61.81
+      },
+      {
+        "date": "2025-04-15",
+        "price": 61.6
+      },
+      {
+        "date": "2025-04-16",
+        "price": 60.42
+      },
+      {
+        "date": "2025-04-17",
+        "price": 60.8
+      },
+      {
+        "date": "2025-04-21",
+        "price": 59.29
+      },
+      {
+        "date": "2025-04-22",
+        "price": 61.03
+      },
+      {
+        "date": "2025-04-23",
+        "price": 61.23
+      },
+      {
+        "date": "2025-04-24",
+        "price": 61.33
+      },
+      {
+        "date": "2025-04-25",
+        "price": 60.74
+      },
+      {
+        "date": "2025-04-28",
+        "price": 60.9
+      },
+      {
+        "date": "2025-04-29",
+        "price": 61.61
+      },
+      {
+        "date": "2025-04-30",
+        "price": 61.04
+      },
+      {
+        "date": "2025-05-01",
+        "price": 60.55
+      },
+      {
+        "date": "2025-05-02",
+        "price": 61.17
+      },
+      {
+        "date": "2025-05-05",
+        "price": 60.99
+      },
+      {
+        "date": "2025-05-06",
+        "price": 61.11
+      },
+      {
+        "date": "2025-05-07",
+        "price": 61.8
+      },
+      {
+        "date": "2025-05-08",
+        "price": 61.11
+      },
+      {
+        "date": "2025-05-09",
+        "price": 61.76
+      },
+      {
+        "date": "2025-05-12",
+        "price": 59.52
+      },
+      {
+        "date": "2025-05-13",
+        "price": 60.46
+      },
+      {
+        "date": "2025-05-14",
+        "price": 60.47
+      },
+      {
+        "date": "2025-05-15",
+        "price": 61.71
+      },
+      {
+        "date": "2025-05-16",
+        "price": 62.48
+      },
+      {
+        "date": "2025-05-19",
+        "price": 63.09
+      },
+      {
+        "date": "2025-05-20",
+        "price": 63.16
+      },
+      {
+        "date": "2025-05-21",
+        "price": 61.86
+      }
+    ],
+    "current_price_data": {
+      "price": 61.86,
+      "change": -1.3,
+      "percent_change": -2.06
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

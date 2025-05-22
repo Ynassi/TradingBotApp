@@ -1,0 +1,646 @@
+{
+  "ticker": "HUBB",
+  "name": "Hubbell Incorporated",
+  "sector": "Industrials",
+  "market_cap": 20933801984.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 26.113182,
+    "PB": 6.4186826,
+    "EV_Revenue": 4.039,
+    "ROE": 0.25917,
+    "ProfitMargin": 0.14294,
+    "GrossMargin": 0.34213,
+    "DividendYield": 1.35
+  },
+  "technical_indicators": {
+    "RSI_14": 68.30904117400672,
+    "Momentum_10": 10.202016573005745,
+    "MACD": 10.404934620920017,
+    "BB_Percent": 0.9747984713119916,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8867658008197818,
+    "QualityScore": 0.355194207767942,
+    "SignalScore": 0.5448604688838399
+  },
+  "volatility": 0.023391511884783,
+  "beta": 0.965,
+  "return_6m": -0.1127531987376668,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 12,
+    "target_mean_price": 415.21332
+  },
+  "news_sentiment": {
+    "summary": "Hubbell Inc. (NYSE:HUBB) is a key player in the infrastructure industry, with a strong financial position. Despite a decline in sales, the company has reported growth in earnings, thanks to healthy demand for its products. Hubbell's CEO recently sold a multi-million dollar stake in the company, which has caused some concern among shareholders. However, the company has announced a new $500 million share repurchase program, which is expected to boost investor confidence. The upcoming Q1 earnings report is highly anticipated, and analysts are closely watching the company's performance. Overall, the outlook for Hubbell remains positive, with growth drivers firmly in place.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Hubbell CFO Sets May 21 Investor Presentation: Key Financial Updates Coming at Wolfe Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlM2cFptVWZlQjdGUThKckYwZHl3Zi1PYWdHUnVCSXhiWlIyYVVIN1RZU09ZN1RsOXJHTXhqelNvTzVPMkRybmRDaVk0b0RpYjJSQjI1aGVzbkRqTDUtMzNJWnUyU200QjRWeFVMSjBmYkpBVFFwUU00NFc5WEl4SExYcEpFdUJlZ25oSjZ6NjVhRmVpd0xUXzZ4ZzFMTmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JP Morgan Maintains Neutral Rating on Hubbell (HUBB); Raises Price Target | HUBB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNTl4S2hJSmh2LTdkZF9TbC02TVRjNWZ5WWFhbTlWWThDSHA2bnpzOE1NcmdCbjR3RHhUNlRwaHctVFR5NmFyREd3VHM4MXl2ek83SXUtcEx2NERhekU5UEpDUDlTcXY2cmhWdmw3WWNpdWVFZmdzTXVpNU5jUHlWV3RaMTdQa3RGRXRFem1mX291YzBzcklUZjBPTnpCTkZtTjZEYXB1cGdHUmtMWEVBWTdIWnZLZmMxOWN2LUp0a01hVmp3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's What Key Metrics Tell Us About Hubbell (HUBB) Q1 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80ZGtyWFh5OEJZQjRKUHFDaGp1OUdrc0lFRDFsTEo2NnZCYlNhUHlBZklHeHZ5aFIxYzl2cU1BdTR4RU5PbThpbVFMcDk2c2FUYks2ZHRHTTlzRDhKT0FleVZIR3lXbkZkdFlZcERQSXlYMUpvQlFNZkpVcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hubbell (NYSE:HUBB) Reports Growth In Earnings Despite Sales Decline - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnNzdW1DV2VSX0NKNVlSS3dpX1oyOENITWpWZ2ppRnh2MG0xRENwZG1zVWdXLXpjS1pUQWR1T1RLMDFiUWYzSGc0dXNJTHdLOC1uVWdETDJzVnE3UTR2MF81bWhEM05Ec0dydmRKVmpibWhOQlNBX3FiYzcxRHhQS3o5YkZiSGpIeXMzSWJpcFZfWG1pN2JmY09PTl9iYjVfclNaNGdZNTIzNXplZW9uSkk0bjg4VldjTUN5NExMLTVqYXVvcXVletIBzgFBVV95cUxNS1c3aDVuOERjRFVES2ZwbE1YNS1ITWtsVVlBYkFEME5PcmtGdzgzVVRKR0tBZ3hVLTZQRXA1V3Jpb0lMVUxmQmpJMF9xMjNjSloyYnV4U0hEcFV0Y2ZRU3ZYNWplWDA2ZHhmcUdSZ2lVS1dwZlhiVG9TS2tOUUwzU0dEU0EtS2x3Z0Q3LTF1MzF0YVd4TFI2YWdXY3RyT3RidkJhWmdrbXg3VXM5WllxaDRaOTYyR0l0Y1dFRzZJTXVfWTVkMll2T0RNdzg3UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CEO\u2019s Multi-Million Dollar Stock Sale Shakes Hubbell B! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdm1pZTJ0RzA0SlhhelZ3SDR0MjYtMTlhdGF0Q0JBQ3JjNGpSNGE4ckowaHBEcG9iNXpvUkxiNXc3Y2lUbGhxN0dfV3FraWRkMTdsN0tSc2ZSTm9ST0szUWw4VGhfb1JkbGVLVG81OE0ybzV5Ml9MYW9lcHkwVXV1TDVocDd5M09mWmJPR1FlT0FfX0FHOVV5NXM2anhMeVlx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hubbell Named Top Dividend Stock With Insider Buying and 1.48% Yield (HUBB) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXVST0FRZXo3ZFNaQ3VvdlFfZk5zV2NHRVFCZHFVa2JkSkdCYUktb2ZPcHcwWXV1cUZmMkN2V2ZsNGpwRnNnbEZSbkJqeEs1YWZhZjZmV09BbmlTaTBCVjN4d3k4QlliX3FfUGw1c2VKLWJMQk53V0dvOHA5RFFPeTlOejNJM2R6elJRU2lQcG5GUG1nQ3YyTXBEbnVGOEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hubbell: AI Demand Is Healthy For HUBB (Rating Upgrade) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU3VTSXZaTUxveVQyci0xQS0wNE1kTW80ZzNYSjIzdjIwUU1ReDgtOXJEMjF6Q1JUTGYtUFBuSVhiXzEzMGY1UEs3cnZIVDlyYVBXOVRzc0NJeXA2YmM4UGNnZTkyMmF6aDNOOWpzNVc5NUZNN0pTTVcwcXVXN3hpeS05VDBRLUxObzFGS0ZGbjVBNnNROGRuVVFWWHFxZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hubbell (HUBB) Sees Price Target Increase Amid Sector Re-evaluat - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0NUTmVJVjk1M3dkdnBKX2ZtM1ljR1YyU2ZvXzZQSVQ3ZG9hMTB3enI4SW1Vc0o0YVpQa1VIdHNzb2pncTR3aEhERTdYS0hBNTdFQkN5UGlVZk5GM1lyQWdGWm04dFNWWGl1bGMtWXgyaDFaUGdCVlB2WlFCSXVYdlBGZGRUUTQ3TjFsdGJ1YU9pOWRmX0dSSGJFb0Z0b3E1dVYxOGxubU01VVc3ZHRMZWM0aXNqWjNveE5B?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Countdown to Hubbell (HUBB) Q1 Earnings: A Look at Estimates Beyond Revenue and EPS - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmRPdEwxLTZjaE52ZGppN0o4UUN3a1g1X1dtQ1JzRjdPdmJHV3htSXc2Ung4b21nWHkweXVMbEl0czlFYlBIRFZ5LXZXM2hlVmlLME1teVR0clBfYk9FV1U4dTFQcWVBakxFMkZqbEFsTmxfWTdRUk9IZ0h5ODlwQ3c5TElRWXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hubbell's Strong $5.6B Revenue Powers Steady $1.32 Dividend Payout - Key Infrastructure Player Delivers - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclBmQnFOZS01WlJSQkRXQzhjZTBKOThfRjZpODE2c3F0OFlURkVQODVwSmFWNXZubDNFQ0l2MVh5Vk1WbG9DVkNOVjh1dnlDM0ltU25TSUZ6eFF2ZUc3b2JzS0FjXzF3N0JWcmJjX3pOYmw2OE1QWHlzY1Q1SnR3aUdhdkdYbFRsZ09lNm1yOGlsQ0lQZm4wZE9sUjV5ZnFfQjJhRg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should You Think About Buying Hubbell Incorporated (NYSE:HUBB) Now? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQjBRY0dDVVI5UHFSWFc4cVZQVnVRN0xkSE01dmMxTVJoNjdQTlJrMENYc2F1ZUdKZGY4bzhlVC11Y3dFQl9nZXFiT19FVjNFcWx2TnBCcnlJRGN6QmdMZnh2RFBGWVRjMlg0c3RSc3FOSjdRTzdoeDA4WWdFTTJPUzl0YmRrdDNCQ0NMN1JJeUt5NTNUaDNWRW82UFNSaVFIb0FpYzVHT1FxeUl0T2xIWnNLVDl6OF9JREFPQVIzM2dyQU5rd0Q4T0V30gHPAUFVX3lxTFBxZjBKQXhuN1dESFF3cmNuZlhleEx5M3NiLVFpWnpIRkdMa0lyZ0JkMi1NX0JULUZqWk04Tml0bk1hZkYyR1k4eTZsQlI4Z0FCakh5aVh1WF9SQ19nY2JPTmpYZEpObThFdXVsQWF4Z1BjQkg2QjdpbHZpSGg5aHkxQ29oOVRIcUZ0RmlYMXEtWk02Vzk1WlNtLS1fR1FjdTlWNUpwbXh6UnY5anhNSEU1cTVaNjNSVkM1NTN5bmdQTENHbmNsdkhNbFJqZkdBdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hubbell (HUBB) Price Target Raised by Mizuho Amid Positive Outlo - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkNXMmdRbEdaeFdtSHNwZjRSTGZIY3pqVVlXSEk2a1hyazd2bzZBM0dyZGU1dWFKbVktUlZWU0NNQmNCNms3cDU1SC1KMlJ1OXMtcmxWOWdnN2w5NWlqdHhTRUp2cEJFZ2U5eXh3T2V6UnRlRVE2N2pKTEM4bGpWRzE0ZjZuR2JjWmpRREI1YW4tcUxGWW5HQVBEZ1FhNllOS21UdTg2MUNndl9VRmJSQ1hhLUI5UEhFeVdR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Hubbell Inc. (NYSE:HUBB) a Small-Cap Manufacturing Stock Hedge Funds Are Buying? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9raWI3Z25McVhZaF9XeWtyRUYtV29MUVgwb1pmZFZVaDdQSnNtOUxEWUFuTjZ4UGd2UGQ5MDRpQUtuNG8yUDJjcTZYSW9DQWxzdDdFcmlDMmRrTWp5ZGJZX2stNDB5eFVkWlZ0d0tacG8wNWt4QTBzWW4xSGJkdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Watch: Hubbell to Reveal Q1 Performance After $5.6B Revenue Year - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWZrem5tUVMxMVdaRmZyOURiWW9fcnh5VHE4Z0x6bmQ1dHdIWTY2XzNVZkdrLTN2UXozUkZHZ2Vsa0xhWXp2VENWQUN6THJESXF5R1I4NDdlZlhMYmI1UEJiSGtOMEltNmlXaXFwVy1oMjNpZjkxWEpHdEF2aFVTMVFLNnpnOGRMbmtPTVEtSjM0OHYwbjQ0S1ZoOGxiZ29yNmh6TXN2cExwSEwzSldJ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Massive Capital Return: Hubbell Unveils New $500M Share Repurchase Program While Previous $260M Still Active - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzNmM2VYXzVWYUQwRFBraklIM25VZV82TDZNSUpwVkNKYUcwUUFXM2RWUU43OEVvNG5BaXd2QTN6b09DTnVMM3JBMHlVSmlUYzFzWEVndU1nSklwZ1liUlB4U2lyZ2Y5WG5laXRJWVhSVzNRT05iTGVzdVA2S1JNRkZIYmJTWFdkZjJqbzN6R2tDZ01BZng0TEpZb1NqQk5CMVprR1F3Tko?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hubbell (HUBB) Q1 Earnings and Revenues Lag Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2VPbHQwME5NbWM1Z1pzdUx5Z1NyenlMb2UzaFlEWWRrWmFMbndwVWl1S0FqeTVOaS1QdjRBYzV6MzhodVkxV2xMeE93Xy1JZHhIb2pyU1l2RzVORXQxajZWc2lfeFlUY1BSWFZDUUNlY3pyc3ZqYzZLMGVOZFg0bzRCS0FvUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hubbell (NYSE:HUBB) Projects 2025 EPS Growth Despite Q1 Sales Decline - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTERfU2hUZHBTSWZ5UF9Vd0N1VlZ4WUdyM2pjN1BvazFGMW55TlhsYVViLWVfUG5nN24taTJpOHBWM2hQNVpLZlljY0VfWUxWTnlya20yanV3ZEkyWlB0T3NQckhpNkZYWFlHZWRSRE9wa3gzVzUxSC1TdFB0el83U3VTbw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Hubbell (HUBB) an Undervalued Stock to Invest in According to Goldman Sachs? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX203Q05wUjNKdmNpeFItb0hMV2diSkhOclo3b09EUTEyV0xsX0VSVXEtdXkzN0piZFFTYWVlMV9Lcmx1SHRyUTN4NVBDbG5ERm9nMlZHUjAzVlNZRm90UHZwVDgtVGhRVWhUOERqNmFjMm5HMGxWM1V6eExTbzBXUVJCNjZIMWtjbkt3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hubbell: Growth Drivers Are Firmly In Place (NYSE:HUBB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjZ2WkVqOVBQQXJldlR4dTVGSS1XSWppZF9VdGJQN2lnU3NoMElFS0hWaDJCUm9zODBBUU9fMUEtdG9QUEhOMWhMMXh1RGg0RkxDQW0zblg2Vy1iaDhUUFNiNnp5ZXBKOWRla0VhNWdEbkpfRTZJbVZTS3NpbEpWVlhTcURBQW1QS1A0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Some Shareholders Feeling Restless Over Hubbell Incorporated's (NYSE:HUBB) P/E Ratio - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUS1aMmhqQ0ZuYUFmUnIwbTE0bHB2Wi0teWFPUzhoZm9KYWRUN1B3NnN2ZE9hSmNDZnp6TFJ1bTNwbXp4LUlOU1hFT0dvSW5OLXRHLWtHakhhWHoydGtxbGY3cS1LRmNJNGVkWXV0c2phY1RjRHpiMkVXeVczSm13c0VjOG41VG1YeV83Rmw3MUNTaW96c2d4UkwyTDhrNDctWElfNW5jM0hqeTlpWkVjY2RlLUdOWnlETVZDczdIRjQ1NmNfMUhZStIBzgFBVV95cUxOakc1N3dJYjlEdFpsQlZXWVlhbGlBSVExcWhhSUNoRjhYS3lFSEp2VEdvdlJISDZFRWU3VWZCRl9OU1Q3a3RSV3BEdjV4SzB2dDdkdlhIWUs4WGdKQnFiYUlfeWFnMC14NWZWOHdLRzV2NHVVSXNIcHdnNFZNOERYRmxFUnVxMEZSU0FwME9kTXBPNG5yZHhuVi1IY28zSU1VdmFBX3BmekJkQ3otYXl6QmFDVGxnNEpSVjdIUXdBVERSMzcwUHVQWmxOQWItUQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 460.81
+      },
+      {
+        "date": "2024-11-25",
+        "price": 463.86
+      },
+      {
+        "date": "2024-11-26",
+        "price": 460.74
+      },
+      {
+        "date": "2024-11-27",
+        "price": 458.85
+      },
+      {
+        "date": "2024-11-29",
+        "price": 460.09
+      },
+      {
+        "date": "2024-12-02",
+        "price": 457.23
+      },
+      {
+        "date": "2024-12-03",
+        "price": 457.82
+      },
+      {
+        "date": "2024-12-04",
+        "price": 469.38
+      },
+      {
+        "date": "2024-12-05",
+        "price": 467.12
+      },
+      {
+        "date": "2024-12-06",
+        "price": 461.97
+      },
+      {
+        "date": "2024-12-09",
+        "price": 452.22
+      },
+      {
+        "date": "2024-12-10",
+        "price": 448.59
+      },
+      {
+        "date": "2024-12-11",
+        "price": 457.0
+      },
+      {
+        "date": "2024-12-12",
+        "price": 455.34
+      },
+      {
+        "date": "2024-12-13",
+        "price": 453.62
+      },
+      {
+        "date": "2024-12-16",
+        "price": 455.82
+      },
+      {
+        "date": "2024-12-17",
+        "price": 439.53
+      },
+      {
+        "date": "2024-12-18",
+        "price": 425.42
+      },
+      {
+        "date": "2024-12-19",
+        "price": 424.55
+      },
+      {
+        "date": "2024-12-20",
+        "price": 426.8
+      },
+      {
+        "date": "2024-12-23",
+        "price": 425.9
+      },
+      {
+        "date": "2024-12-24",
+        "price": 432.04
+      },
+      {
+        "date": "2024-12-26",
+        "price": 430.46
+      },
+      {
+        "date": "2024-12-27",
+        "price": 423.11
+      },
+      {
+        "date": "2024-12-30",
+        "price": 419.19
+      },
+      {
+        "date": "2024-12-31",
+        "price": 418.89
+      },
+      {
+        "date": "2025-01-02",
+        "price": 419.99
+      },
+      {
+        "date": "2025-01-03",
+        "price": 430.96
+      },
+      {
+        "date": "2025-01-06",
+        "price": 440.55
+      },
+      {
+        "date": "2025-01-07",
+        "price": 433.96
+      },
+      {
+        "date": "2025-01-08",
+        "price": 434.77
+      },
+      {
+        "date": "2025-01-10",
+        "price": 420.25
+      },
+      {
+        "date": "2025-01-13",
+        "price": 420.51
+      },
+      {
+        "date": "2025-01-14",
+        "price": 428.21
+      },
+      {
+        "date": "2025-01-15",
+        "price": 428.93
+      },
+      {
+        "date": "2025-01-16",
+        "price": 433.92
+      },
+      {
+        "date": "2025-01-17",
+        "price": 437.38
+      },
+      {
+        "date": "2025-01-21",
+        "price": 450.38
+      },
+      {
+        "date": "2025-01-22",
+        "price": 456.86
+      },
+      {
+        "date": "2025-01-23",
+        "price": 453.79
+      },
+      {
+        "date": "2025-01-24",
+        "price": 455.26
+      },
+      {
+        "date": "2025-01-27",
+        "price": 414.53
+      },
+      {
+        "date": "2025-01-28",
+        "price": 413.36
+      },
+      {
+        "date": "2025-01-29",
+        "price": 417.71
+      },
+      {
+        "date": "2025-01-30",
+        "price": 426.57
+      },
+      {
+        "date": "2025-01-31",
+        "price": 423.01
+      },
+      {
+        "date": "2025-02-03",
+        "price": 408.73
+      },
+      {
+        "date": "2025-02-04",
+        "price": 400.91
+      },
+      {
+        "date": "2025-02-05",
+        "price": 400.07
+      },
+      {
+        "date": "2025-02-06",
+        "price": 394.99
+      },
+      {
+        "date": "2025-02-07",
+        "price": 400.93
+      },
+      {
+        "date": "2025-02-10",
+        "price": 399.8
+      },
+      {
+        "date": "2025-02-11",
+        "price": 397.07
+      },
+      {
+        "date": "2025-02-12",
+        "price": 391.21
+      },
+      {
+        "date": "2025-02-13",
+        "price": 393.23
+      },
+      {
+        "date": "2025-02-14",
+        "price": 390.14
+      },
+      {
+        "date": "2025-02-18",
+        "price": 395.55
+      },
+      {
+        "date": "2025-02-19",
+        "price": 392.38
+      },
+      {
+        "date": "2025-02-20",
+        "price": 389.42
+      },
+      {
+        "date": "2025-02-21",
+        "price": 377.48
+      },
+      {
+        "date": "2025-02-24",
+        "price": 369.25
+      },
+      {
+        "date": "2025-02-25",
+        "price": 372.21
+      },
+      {
+        "date": "2025-02-26",
+        "price": 377.39
+      },
+      {
+        "date": "2025-02-27",
+        "price": 369.27
+      },
+      {
+        "date": "2025-02-28",
+        "price": 371.59
+      },
+      {
+        "date": "2025-03-03",
+        "price": 354.95
+      },
+      {
+        "date": "2025-03-04",
+        "price": 351.79
+      },
+      {
+        "date": "2025-03-05",
+        "price": 353.85
+      },
+      {
+        "date": "2025-03-06",
+        "price": 346.28
+      },
+      {
+        "date": "2025-03-07",
+        "price": 354.47
+      },
+      {
+        "date": "2025-03-10",
+        "price": 337.68
+      },
+      {
+        "date": "2025-03-11",
+        "price": 340.42
+      },
+      {
+        "date": "2025-03-12",
+        "price": 334.69
+      },
+      {
+        "date": "2025-03-13",
+        "price": 331.8
+      },
+      {
+        "date": "2025-03-14",
+        "price": 340.82
+      },
+      {
+        "date": "2025-03-17",
+        "price": 344.06
+      },
+      {
+        "date": "2025-03-18",
+        "price": 336.38
+      },
+      {
+        "date": "2025-03-19",
+        "price": 342.21
+      },
+      {
+        "date": "2025-03-20",
+        "price": 339.18
+      },
+      {
+        "date": "2025-03-21",
+        "price": 338.36
+      },
+      {
+        "date": "2025-03-24",
+        "price": 349.5
+      },
+      {
+        "date": "2025-03-25",
+        "price": 353.62
+      },
+      {
+        "date": "2025-03-26",
+        "price": 346.63
+      },
+      {
+        "date": "2025-03-27",
+        "price": 342.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 332.01
+      },
+      {
+        "date": "2025-03-31",
+        "price": 330.91
+      },
+      {
+        "date": "2025-04-01",
+        "price": 332.86
+      },
+      {
+        "date": "2025-04-02",
+        "price": 341.62
+      },
+      {
+        "date": "2025-04-03",
+        "price": 321.35
+      },
+      {
+        "date": "2025-04-04",
+        "price": 315.94
+      },
+      {
+        "date": "2025-04-07",
+        "price": 316.89
+      },
+      {
+        "date": "2025-04-08",
+        "price": 317.5
+      },
+      {
+        "date": "2025-04-09",
+        "price": 351.95
+      },
+      {
+        "date": "2025-04-10",
+        "price": 341.84
+      },
+      {
+        "date": "2025-04-11",
+        "price": 353.43
+      },
+      {
+        "date": "2025-04-14",
+        "price": 350.51
+      },
+      {
+        "date": "2025-04-15",
+        "price": 346.59
+      },
+      {
+        "date": "2025-04-16",
+        "price": 338.78
+      },
+      {
+        "date": "2025-04-17",
+        "price": 338.97
+      },
+      {
+        "date": "2025-04-21",
+        "price": 329.22
+      },
+      {
+        "date": "2025-04-22",
+        "price": 340.52
+      },
+      {
+        "date": "2025-04-23",
+        "price": 345.95
+      },
+      {
+        "date": "2025-04-24",
+        "price": 360.28
+      },
+      {
+        "date": "2025-04-25",
+        "price": 359.84
+      },
+      {
+        "date": "2025-04-28",
+        "price": 357.98
+      },
+      {
+        "date": "2025-04-29",
+        "price": 359.47
+      },
+      {
+        "date": "2025-04-30",
+        "price": 363.18
+      },
+      {
+        "date": "2025-05-01",
+        "price": 343.12
+      },
+      {
+        "date": "2025-05-02",
+        "price": 355.91
+      },
+      {
+        "date": "2025-05-05",
+        "price": 353.51
+      },
+      {
+        "date": "2025-05-06",
+        "price": 348.31
+      },
+      {
+        "date": "2025-05-07",
+        "price": 352.39
+      },
+      {
+        "date": "2025-05-08",
+        "price": 354.57
+      },
+      {
+        "date": "2025-05-09",
+        "price": 356.72
+      },
+      {
+        "date": "2025-05-12",
+        "price": 378.41
+      },
+      {
+        "date": "2025-05-13",
+        "price": 386.66
+      },
+      {
+        "date": "2025-05-14",
+        "price": 385.68
+      },
+      {
+        "date": "2025-05-15",
+        "price": 386.64
+      },
+      {
+        "date": "2025-05-16",
+        "price": 392.22
+      },
+      {
+        "date": "2025-05-19",
+        "price": 390.77
+      },
+      {
+        "date": "2025-05-20",
+        "price": 389.08
+      },
+      {
+        "date": "2025-05-21",
+        "price": 381.91
+      }
+    ],
+    "current_price_data": {
+      "price": 381.91,
+      "change": -7.17,
+      "percent_change": -1.84
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

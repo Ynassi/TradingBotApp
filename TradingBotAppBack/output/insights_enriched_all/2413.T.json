@@ -1,0 +1,559 @@
+{
+  "ticker": "2413.T",
+  "name": "M3",
+  "sector": "Consumer Discretionary",
+  "market_cap": 1339392655360.0,
+  "source_list": "Nikkei225",
+  "fundamentals": {
+    "PE": 33.112305,
+    "PB": 3.539285,
+    "EV_Revenue": 4.434,
+    "ROE": 0.11377,
+    "ProfitMargin": 0.1421,
+    "GrossMargin": 0.54182,
+    "DividendYield": 2.12
+  },
+  "technical_indicators": {
+    "RSI_14": 71.27253582035613,
+    "Momentum_10": 10.411418975650712,
+    "MACD": 66.67353177650784,
+    "BB_Percent": 0.9248195363232626,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.8858103414142118,
+    "QualityScore": 0.3842041660381396,
+    "SignalScore": 0.5172586104299106
+  },
+  "volatility": 0.030595890939863,
+  "beta": 0.937,
+  "return_6m": 0.5124678972915506,
+  "analyst_rating": {
+    "recommendation": "buy",
+    "analyst_count": 12,
+    "target_mean_price": 2122.5
+  },
+  "news_sentiment": {
+    "summary": "En r\u00e9capitulant ces nouvelles, on peut observer que :\n\n* La performance des capitaux de M3 (TSE:2413) est un signe n\u00e9gatif pour les investisseurs francophones.\n* Un membre dirigeant de Service Co. International (NYSE:SCI) a vendu une grande partie de ses actions.\n* Le directeur ex\u00e9cutif de Cyclone Metals a achet\u00e9 plus de 20% de ses actions.\n* Les s\u00e9ries t\u00e9l\u00e9vis\u00e9es d'excellence ne terminent jamais bien, selon The Guardian.\n* Le directeur m\u00e9dical de Price T Rowe Associates a augment\u00e9 ses actions dans Funko, Inc.",
+    "sentiment_score": 0.0,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Here's What's Concerning About M3's (TSE:2413) Returns On Capital - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbFQwZFVaME9sdTlHT0tuUndCTEw4TlRYZGoxU21BMHhIcVR5dFR1ckhaZGVXVWg5R1piMkRSbm5SR1BmYUN4Tmp4WnVDTHB4QllJT2NOWk12d2Y4eUE1SUtLMWlFTUtoWXItYmZrWGNraS01Q2pQZmFDcGd3NXdjNWhYWVF0dkQ5NjRKX09KSnNWcE85UWVMMTFwMk8zQV9ZV3U1Ymp6eFdTZi0wU3BZWFNydVVnVGViTGJ6OFA3MEh1LXhS0gHKAUFVX3lxTE1xa0lQeHd1MmlxR2Zic3pia0tPZDhnNjVoc2VaSWlEZVFjYllfcTRQUXNjSG5NVVdPcnVoOEdTSzRJSDNwVkxoSUdIV051Q2FyRklMLVJaOVh2WjZtb21SS0t0T1pVZ21uTzVUZGI1V3JoQk90Yl8zTFhQYmcyQk44ZXIxeHVVbWFFcllfeFJCbWxicERVTDdvS1JsTDN4VUNkU1RQdk1Cb0lyWXpFeTFnQXk5d2xkN2hlZ3dtcW9BQm5mY3F2TUlDZUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Price T Rowe Associates Inc. MD Sells 9,277 Shares of Service Co. International (NYSE:SCI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcWt4dzZJQUJhV1ZBaWtMNTAwc3RjREJBSWNUa3VUa3ZCaTRlVDJkMEJxb0ZJTmx6SC10ellZWjkxWmtaLUtDRklhTXlpaXZOTEpBdkpoMkFTamJZZG5DNmJPb01GamF4NlV6ZUYzYXp5NU1JMkhNZ0xXMGJYdHRJcEtWRlk4REFqVmFIY25UMnJPSUduajlrRlZESDd4QlJDcENYQUZDM0NYVmlnQ2JvLVZwWTQxcTJ5Tnl3ZkZqT3NyaFBmSG1zVjlWS3Y4NE1PRDh4Z3d1blN1Xzg2NGUzWS02UGRCSTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Executive Chairman of Cyclone Metals Picks Up 2,413% More Stock - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdDRJTTFjUldZMXRlSUpNOHQ2SEFfWFFMVUctU0hEMkRlZDZkUmtHUUVkc29Lb2pRN0ROZ1VmM1k4M2ZlcW1sNGI3RkNmU0x6TWc5aFhyaDlfMVJfSHdCcmFjMzZUVlpUUnVnbmxJdi1mMEExNEdDWGxERWdHNkU4MTV6TU80RWlfcUFzcDJpYURpWmdRVkVZbHNRSGhXeU9wdUVhYUlOS3hIbXFHVldmcDRCNFhvYXQwdG05YlhpU1BTRUxDc3lmdTY5dFFfcFFyRXBv0gHYAUFVX3lxTE1ZQzJ6aDUxZ0ZyZWtlS09uaW9TbmZxQUg4YVFCR0l4VVBneWc1amdIR0d5dHZFbi1hVzd6YUpna3gybWJRSEFJQ3BmNnJGMnQ3UHltN0N3Nm5wR0NmeGVPbTdCM2tlMFZNckJRdWFxT1RFSFAxbGtpczAtcHphZ1VuZnZLcDhyeFo1VDZCQldLU0JPSXVUVzBZMnpQTTJqS3dTcXNCcGJzaTNLQldfMVFVSFA2WmRWdmk2dWlrWFFZTnJmWWdrMVNEOEt1WW54UVlyUkNGbGM0SQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "\u2018Tarnished for ever\u2019: why don\u2019t great TV shows ever end well? - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT0l4emFJczBsdXFkRERLajFiczh4dzFmUWlvWDZRNDZEQ1lqNU4xX3RlZTdGam9DSXBBRGN1S1pIZFd2LUFGN095N3JJZGg3YUI0VG1DRVZvbnFONlZkYUhseFRXR2tPVmdJVXdoaE9wQm9vRDMxdk85ZUhjb0NMQ0lDWHlyM3BrcGxERmluUU14N19JeDJTSlNXTm8ybnhQNi1JYWMxUGVuZExEY1pPRko2T21mT1RkN1N2Y0E4YjUyUmp4enFfaE5zVjBKU203VHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Price T Rowe Associates Inc. MD Raises Holdings in Funko, Inc. (NASDAQ:FNKO) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTQ3M2ZLWWp3TEwzc0FJbDZxUTR5Uy0wTVB0SXViMHF0ZnJ2dWNRLXhvSFUwQlBEdFhzUG1NYVM1X0NZT1JWaU9TRFZrS0FMSnYwZGUxWEJIYXZJdVNpTmFNdVpHNmc1MTRCMVdDZHpjRDdsNkg4ellaekJNNWhPTnJKOGIzbmZhS0dHaEVzaDhZNUJPY3J4TWkwck50d3ZlUDZvb1lXcXVUanl0dUJ6LVNlbzZ2QQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-21",
+        "price": 1437.5
+      },
+      {
+        "date": "2024-11-22",
+        "price": 1425.0
+      },
+      {
+        "date": "2024-11-25",
+        "price": 1408.5
+      },
+      {
+        "date": "2024-11-26",
+        "price": 1465.5
+      },
+      {
+        "date": "2024-11-27",
+        "price": 1466.5
+      },
+      {
+        "date": "2024-11-28",
+        "price": 1471.0
+      },
+      {
+        "date": "2024-11-29",
+        "price": 1450.0
+      },
+      {
+        "date": "2024-12-02",
+        "price": 1491.0
+      },
+      {
+        "date": "2024-12-03",
+        "price": 1495.0
+      },
+      {
+        "date": "2024-12-04",
+        "price": 1498.5
+      },
+      {
+        "date": "2024-12-05",
+        "price": 1470.0
+      },
+      {
+        "date": "2024-12-06",
+        "price": 1455.0
+      },
+      {
+        "date": "2024-12-09",
+        "price": 1459.5
+      },
+      {
+        "date": "2024-12-10",
+        "price": 1450.0
+      },
+      {
+        "date": "2024-12-11",
+        "price": 1422.5
+      },
+      {
+        "date": "2024-12-12",
+        "price": 1445.0
+      },
+      {
+        "date": "2024-12-13",
+        "price": 1425.0
+      },
+      {
+        "date": "2024-12-16",
+        "price": 1403.5
+      },
+      {
+        "date": "2024-12-17",
+        "price": 1405.0
+      },
+      {
+        "date": "2024-12-18",
+        "price": 1391.0
+      },
+      {
+        "date": "2024-12-19",
+        "price": 1351.0
+      },
+      {
+        "date": "2024-12-20",
+        "price": 1365.5
+      },
+      {
+        "date": "2024-12-23",
+        "price": 1375.5
+      },
+      {
+        "date": "2024-12-24",
+        "price": 1375.5
+      },
+      {
+        "date": "2024-12-25",
+        "price": 1366.5
+      },
+      {
+        "date": "2024-12-26",
+        "price": 1359.5
+      },
+      {
+        "date": "2024-12-27",
+        "price": 1402.0
+      },
+      {
+        "date": "2024-12-30",
+        "price": 1397.0
+      },
+      {
+        "date": "2025-01-06",
+        "price": 1372.5
+      },
+      {
+        "date": "2025-01-07",
+        "price": 1415.5
+      },
+      {
+        "date": "2025-01-08",
+        "price": 1420.5
+      },
+      {
+        "date": "2025-01-09",
+        "price": 1427.0
+      },
+      {
+        "date": "2025-01-10",
+        "price": 1410.0
+      },
+      {
+        "date": "2025-01-14",
+        "price": 1455.0
+      },
+      {
+        "date": "2025-01-15",
+        "price": 1431.0
+      },
+      {
+        "date": "2025-01-16",
+        "price": 1421.0
+      },
+      {
+        "date": "2025-01-17",
+        "price": 1394.0
+      },
+      {
+        "date": "2025-01-20",
+        "price": 1391.5
+      },
+      {
+        "date": "2025-01-21",
+        "price": 1385.0
+      },
+      {
+        "date": "2025-01-22",
+        "price": 1457.0
+      },
+      {
+        "date": "2025-01-23",
+        "price": 1440.0
+      },
+      {
+        "date": "2025-01-24",
+        "price": 1444.5
+      },
+      {
+        "date": "2025-01-27",
+        "price": 1438.5
+      },
+      {
+        "date": "2025-01-28",
+        "price": 1458.0
+      },
+      {
+        "date": "2025-01-29",
+        "price": 1450.5
+      },
+      {
+        "date": "2025-01-30",
+        "price": 1440.0
+      },
+      {
+        "date": "2025-01-31",
+        "price": 1420.0
+      },
+      {
+        "date": "2025-02-03",
+        "price": 1355.0
+      },
+      {
+        "date": "2025-02-04",
+        "price": 1352.0
+      },
+      {
+        "date": "2025-02-05",
+        "price": 1360.0
+      },
+      {
+        "date": "2025-02-06",
+        "price": 1394.5
+      },
+      {
+        "date": "2025-02-07",
+        "price": 1377.0
+      },
+      {
+        "date": "2025-02-10",
+        "price": 1391.0
+      },
+      {
+        "date": "2025-02-12",
+        "price": 1659.0
+      },
+      {
+        "date": "2025-02-13",
+        "price": 1805.0
+      },
+      {
+        "date": "2025-02-14",
+        "price": 1790.0
+      },
+      {
+        "date": "2025-02-17",
+        "price": 1736.0
+      },
+      {
+        "date": "2025-02-18",
+        "price": 1822.0
+      },
+      {
+        "date": "2025-02-19",
+        "price": 1888.0
+      },
+      {
+        "date": "2025-02-20",
+        "price": 1951.0
+      },
+      {
+        "date": "2025-02-21",
+        "price": 2025.0
+      },
+      {
+        "date": "2025-02-25",
+        "price": 1999.0
+      },
+      {
+        "date": "2025-02-26",
+        "price": 1893.0
+      },
+      {
+        "date": "2025-02-27",
+        "price": 1789.5
+      },
+      {
+        "date": "2025-02-28",
+        "price": 1762.0
+      },
+      {
+        "date": "2025-03-03",
+        "price": 1792.5
+      },
+      {
+        "date": "2025-03-04",
+        "price": 1791.0
+      },
+      {
+        "date": "2025-03-05",
+        "price": 1773.0
+      },
+      {
+        "date": "2025-03-06",
+        "price": 1784.0
+      },
+      {
+        "date": "2025-03-07",
+        "price": 1742.5
+      },
+      {
+        "date": "2025-03-10",
+        "price": 1735.5
+      },
+      {
+        "date": "2025-03-11",
+        "price": 1705.0
+      },
+      {
+        "date": "2025-03-12",
+        "price": 1724.0
+      },
+      {
+        "date": "2025-03-13",
+        "price": 1715.0
+      },
+      {
+        "date": "2025-03-14",
+        "price": 1755.0
+      },
+      {
+        "date": "2025-03-17",
+        "price": 1791.0
+      },
+      {
+        "date": "2025-03-18",
+        "price": 1869.0
+      },
+      {
+        "date": "2025-03-19",
+        "price": 1786.0
+      },
+      {
+        "date": "2025-03-21",
+        "price": 1723.5
+      },
+      {
+        "date": "2025-03-24",
+        "price": 1727.0
+      },
+      {
+        "date": "2025-03-25",
+        "price": 1697.0
+      },
+      {
+        "date": "2025-03-26",
+        "price": 1706.5
+      },
+      {
+        "date": "2025-03-27",
+        "price": 1750.0
+      },
+      {
+        "date": "2025-03-28",
+        "price": 1736.5
+      },
+      {
+        "date": "2025-03-31",
+        "price": 1702.0
+      },
+      {
+        "date": "2025-04-01",
+        "price": 1688.5
+      },
+      {
+        "date": "2025-04-02",
+        "price": 1656.0
+      },
+      {
+        "date": "2025-04-03",
+        "price": 1643.5
+      },
+      {
+        "date": "2025-04-04",
+        "price": 1580.5
+      },
+      {
+        "date": "2025-04-07",
+        "price": 1516.5
+      },
+      {
+        "date": "2025-04-08",
+        "price": 1610.0
+      },
+      {
+        "date": "2025-04-09",
+        "price": 1551.5
+      },
+      {
+        "date": "2025-04-10",
+        "price": 1666.0
+      },
+      {
+        "date": "2025-04-11",
+        "price": 1648.5
+      },
+      {
+        "date": "2025-04-14",
+        "price": 1663.0
+      },
+      {
+        "date": "2025-04-15",
+        "price": 1698.5
+      },
+      {
+        "date": "2025-04-16",
+        "price": 1647.0
+      },
+      {
+        "date": "2025-04-17",
+        "price": 1757.0
+      },
+      {
+        "date": "2025-04-18",
+        "price": 1801.0
+      },
+      {
+        "date": "2025-04-21",
+        "price": 1792.0
+      },
+      {
+        "date": "2025-04-22",
+        "price": 1812.5
+      },
+      {
+        "date": "2025-04-23",
+        "price": 1794.0
+      },
+      {
+        "date": "2025-04-24",
+        "price": 1776.0
+      },
+      {
+        "date": "2025-04-25",
+        "price": 1734.5
+      },
+      {
+        "date": "2025-04-28",
+        "price": 1775.5
+      },
+      {
+        "date": "2025-04-30",
+        "price": 1786.5
+      },
+      {
+        "date": "2025-05-01",
+        "price": 1783.0
+      },
+      {
+        "date": "2025-05-02",
+        "price": 1785.5
+      },
+      {
+        "date": "2025-05-07",
+        "price": 1843.5
+      },
+      {
+        "date": "2025-05-08",
+        "price": 1904.5
+      },
+      {
+        "date": "2025-05-09",
+        "price": 1902.5
+      },
+      {
+        "date": "2025-05-12",
+        "price": 1912.5
+      },
+      {
+        "date": "2025-05-13",
+        "price": 1935.0
+      },
+      {
+        "date": "2025-05-14",
+        "price": 1938.0
+      },
+      {
+        "date": "2025-05-15",
+        "price": 1954.0
+      },
+      {
+        "date": "2025-05-16",
+        "price": 1972.5
+      },
+      {
+        "date": "2025-05-19",
+        "price": 1950.0
+      },
+      {
+        "date": "2025-05-20",
+        "price": 1983.5
+      },
+      {
+        "date": "2025-05-21",
+        "price": 1957.0
+      }
+    ],
+    "current_price_data": {
+      "price": 1957.0,
+      "change": -26.5,
+      "percent_change": -1.34
+    }
+  },
+  "extraction_date": "2025-05-16"
+}

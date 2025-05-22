@@ -1,0 +1,646 @@
+{
+  "ticker": "BRK-B",
+  "name": "Berkshire Hathaway",
+  "sector": "Financials",
+  "market_cap": 1093453938688.0,
+  "source_list": "SP500",
+  "fundamentals": {
+    "PE": 13.530913,
+    "PB": 0.0011305664,
+    "EV_Revenue": -0.589,
+    "ROE": 0.13187,
+    "ProfitMargin": 0.21788,
+    "GrossMargin": 0.27872,
+    "DividendYield": null
+  },
+  "technical_indicators": {
+    "RSI_14": 48.09759790023943,
+    "Momentum_10": -4.722117601112518,
+    "MACD": -2.5064330328061715,
+    "BB_Percent": 0.3578749502035149,
+    "SMA20_above_SMA50": 1.0
+  },
+  "scores": {
+    "ValueScore": 0.9056725154458476,
+    "QualityScore": 0.3662083572767317,
+    "SignalScore": 0.7207450224452068
+  },
+  "volatility": 0.0143867704019113,
+  "beta": 0.869,
+  "return_6m": 0.0891782809465489,
+  "analyst_rating": {
+    "recommendation": "none",
+    "analyst_count": 3,
+    "target_mean_price": 525.0
+  },
+  "news_sentiment": {
+    "summary": "La tendance cl\u00e9 des nouvelles est que Warren Buffett est en pleine activit\u00e9 d'investissement dans des stocks dividendaires. Il a r\u00e9centement acquis des positions dans plusieurs compagnies telles que Coca-Cola, General Electric, et American Express. Le signal fort est que les stocks de Buffett ont g\u00e9n\u00e9r\u00e9 des retours positifs depuis leur acquisition. L'\u00e9v\u00e9nement marquant est le changement de direction de Berkshire Hathaway vers des stocks dividendaires plut\u00f4t que des entreprises de construction ou de services financiers. La globalisation de la crise financi\u00e8re et l'inflation sont des facteurs qui peuvent influencer le sentiment du march\u00e9.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "After Earnings, Is Berkshire Hathaway Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSjFTNjdYWUt1M2ZQdmlKOFh3bDFlTE9OemxEUUpWNnM4dWt5bkQ5dmlland4QmlyOXhmM3o2TE14UDV5Y09TeWZueVFlVWJXVFFfcVd6enVuUkZOcWtLSDVGLXJYdHQtRm1MdmQ2b2o5UklOelJNd2p1RUJmOGRqYlBiUjFyQkd4MmRIT09SVVgxWVhGNlJJWjFscWxMMmQzN0FJRkMtd3Y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Is Buying a Secret Stock Again -- and Based on Clues, This Is the Company I Believe He's Building a Position In - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblhuc3JhaFY1VWZSdlBkUWE3MFhuSVhWM2hCQk9yVlNPVlBPdVozQi0wSDhlbTVUNTJYWWh5QkJFcGEyY2p3SUR3NWFkU0Q0Rk1COTZBTFJIeGJtanNrMkZBTTJOcTlRajlteVN2WUhIMjlrRDd0QWN2WUwybl9ybW0wMlkzNGZhQjNINHpSQlgtUTVwN2Zv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Stocks: Berkshire Exits Citi, Nu Holdings; Cuts These Names - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpNmlIVFdaNjY3WHFBSnlfdFk4bXBEdDBobjFJZWFxbTNtSHB0RW4xdVBsZDVvYTV1UXpiQW5Lc292aF9vY0E2am9ROXdxTnJuTzhVX18xZGFRUnNrTWxpUzVWOXliU3d6R3p1U1lXU3MyVUVPZUw4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Berkshire\u2019s Class B Stock Has Delivered Class A Returns Since Its Debut 29 Years Ago - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKM1RZTWxVdXE5Tld6cU1FLWZtRGYtdDNrbTFDbUZDWTJORjlJdERUVzlwcUFERVBLaVNGUGdlejQ0cE1wcGl6eTg0YnAxal9Tc3JZbHVuN3NyTTA4eE1CRWdQTmFxdWRraUdoUmdwM3J0RkxiZ3JwaXpRZE91QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Berkshire Hathaway Doesn\u2019t Pay Dividends\u2014But This BRK-B ETF Yields an Ultra-High 15% - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWN6RkFvQTV0bTJnWHdyN29UTUVueWJ3OElxTEVFajY4WC1uNnJBVUJaaEw2Sjl5QkhmYmU1SDJaNlBmMDlaaWwxNTN6cG1BTVQyazRveWhHdldlZUJhcEp5THpTU0J2TjFDQVh2NkhPLTZ1cFdWeFlBQVJiSTFWYi15OWJvUFBpUmZYZG5KNF9UT1FqQVF4eTRZSy0tMVpnMndISmp0Qk1xRmxEbVEwUEpBYlhiMFc2NUVkUmlGdXl2MWJ0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Stocks: A Look at Berkshire Hathaway's Holdings - Kiplinger",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlBuU3VzSkpYc2ZwNm1FaHpGMW50blQxaDJoenVIbDI2OXgtNThBWHdPZmRZNmsyTU9IVnRLdFBEWVZvTUpiQ0dDU1FoOXMtVG9vY3hJeXh6RGVjc3BvVHdsbWsyOGhhUlY1dnB5YmRwMUZDTVhGcWNPS25Xd2l6Ymx4X1VxX0pnRGlrTzM4QjdleXpab01wNw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 No-Brainer Warren Buffett Stocks to Buy Right Now - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEdMeXA1STVzSmwxYURWVHFzbnBxNnV0TkFCRmJZcnVDdVQ0bFhIMENUTUZFOXNWQ3JadjZKYW5MZmFBcHRRYzRnVzN6a01VejhHcUpyc2R3OGUtRDgtalBWUmRsempPNUV4d2M2WTkwNlc2c2RLa3hldEUtQzUxR1BuWHlOMEtGenA0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Will Not Take Stage at Berkshire Hathaway\u2019s (BRK.B) Future Annual Meetings - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFhCOC1iQVpNZktJWXU0V3VxMFNlSW5ac0IwLVRVRDAwc1M4aDNoZkpieFctVXhhVnI5b3YxbWFYVWlNbDhXaHg0UWQzeVVfMzJjY0ZUSDRMdDJkUFBET0V2MVpSYU1LNTZnNzRCc1hGbm5mSVQ2UE93RXRycnUzVHBkVWNfN0xpbnVZSEQ1NVZUWm91UEtiWWFmMXQ4UEZ6Q3VncjhwWVNvUU1OWmpITGRMdmdBR1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Buys a Dividend Stock Up 4,400% in 15 Years, but Sends Wall Street a $348 Billion Warning - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNY2wtMHItbGFMaTVnTHoxLW12TXdoQV9FbEJPeW5JeHJtbS0teGpMbXNyRUlWd0JubkF3c3p0a2xHc0pseTVSQ3RXSlFtc1N5aVJaS25rWDNkdEVGSzlFV2pKUDc4Y1d4MHRuNVN5Tkw3TTBtZzEtUFVxUjdUNnhQdTBiQXZqVU1lMGRJR3N3WUZKMjNlbVdEVnptMUxOUDBJVVFWX1Q5S1hqdWM5em9yZjY3c2JjbWxuajFMX0YxVVVERlcyU3dqbnBabDE2Ti1uTFFpMHE1SkxHVEVjR3ZZUFh5eWgzcXBtdWdzMEJvUGN1MTJJTUhJVXlKaFdOd2RWWTU2Wm1SUlZsa1haUlpoN3JYWC1CNjA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Warren Buffett Buys a Dividend Stock Up 4,400% in 15 Years, but Sends Wall Street a $348 Billion Warning - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUFTSXpnQUl0NWt1NHVaX21BMmY5V2M3UTdKYVNoQ1ZrNFJ2U0xfT2pVLWNTdUxKMVd5RVJxdmNBWk1HU3ZFUEpBWHd2Q0VWNWxpRWJuRzc1NzNMQmY5WWFNNW15Xzlvb0NnMHFEUnU1U0c2SS1oeTR1WjVtQVlZNXNrS1NrT081QldWc3VVZGdrQzdhX2M0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "This Warren Buffett Stock to Own Forever Is a Buy Today - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTS1CX1lEMWN0RkEyWm9iZi1qX2RJQzJ3a1k1aHRkWTZoOUdUandzeDBjOGg0eUNKLUY4SE1WX2V0eUNQekdfYjd2ZFNXZTRRMHk5TjlIUXBpc1lWTTg3MWl2akY0ZUYyVHdhcGZHNVZraWQ4V2syYjdXQXVNLTBBVTdidkJDR1NPWmJGZVVCVEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "7 Stocks Warren Buffett Is Buying (and 8 He's Selling) - Kiplinger",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3VXREp5VWk4TFh1bkotd3o4Wlh6Q2NycV9uWl9ZZjZmbTdUMVdVd0UwSENMcDh0X1pvbzdmcWR4NC00VkxoMG1fVU9MbjRPSzlUU1FwVjRDQ1lEOXNOT2VET2M2QkYzdzVFYjdsTGJlV1RUaVRJR0JyS3RndDRXeHBIUm5SckF5cm1vSmd1azV2QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Warren Buffett Stocks to Hold Forever - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ySWpiRHZnaUE3RlJqbDB1cWRUQVgzdk9yMjZNWkFPWnNmVVhvRnN2MHlfSDZqQzhJTDhiYmRPRzljelNJM1k0MEtzY2l4bnpPdEFHSHI0bFVGTzVtaGN5SC1IbEZZZHFOYjJBQmswMERjZGtYaHdQOFFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla and Waymo Are Poised to Poke Buffett's Golden Goose: Is Berkshire Hathaway Still a Safe Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU1xckR6S0Rpa2RXdXNocGFTc1dYMWlONHJNUmEyRDVVSE9qcVNhOV9qa0otVlppSDNhelZ4eXpZNVlwSDNrQzVwMll4cEtkZE00WldlZWVKdkY5ckprc0JlN1dkU2RkbXh1R0tTQS1WS1cxdFhwcWZRelpnM1QzeFlWMUlyZlhndF9kSDA0WW16Q1JkZnZVZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Berkshire Hathaway\u2019s Stock is Beating the Market in 2025 - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXladnpjcEZKYjFmQWFmWjMwUTR4MUhhejMzVkdSZHZkaXB0cFllZmhlUURlUkpYZndUWEV0SllsZnNCTm9LVm45ZmVtVTlrblh1WW41YjJ3VklzYlV0NmVQT1hJejNpN3lQMTBzai16Y01tY1VGUlRhWVJkM1FBRVhhRi16UG5SZGNpVXJEbDc3LUZiRnU1ZnBfZ1I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Best Warren Buffett Dividend Stocks - Kiplinger",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUHE3V2FyV1hsYXQ1bXE3YjdBbzN3U01aQkxJbmNZUE11cTl2NUd1S2dBSXQwWjR4aTBtMW90Rl9PenNfVXVZRjJyVmpHVkl2MUtvazBDTDliZkcyMm9BZnZ6Q1BaZEZsMkFrMzVrSjJVTVZGVjM3MVY4YkRMYmR5Mzhqem4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Does Warren Buffett Know Something That Wall Street Doesn't? Berkshire Hathaway Is Pounding the Table On a Stock That Has Struggled. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVzhfQW03dk5zT2xSN2xuUnF2NmNPMHU2dEwzXzd2WWlnWjUwREpIWXNwbGFmd04taEEyNjZXTFF3ajBkbG5YeWdsUThET0tjd2ptMzF3ZVZtdjlmMTE3ZXVTVHFNRTVpTWFFc2pQa05DbGJXV2ROeFM3VUpNSGZqVEhwZ0w0ZnMwWTNmcWs1WER5QWJZNG1SUA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "The 5 Warren Buffett Stocks to Buy After Berkshire Hathaway Files New 13F - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZG9OdTlucUdtdlBDTWRWaEo3RGF4MUZfUVFjXzVYNDJMSFVfaDhwNTlmTGYyUk1CYzdaVHVWU2xXZk4yMEE5cUNZaEtYaTZ4WXRmSUdjaVJpR2RORmNmcGpqb2YxeU43cXBnY3VVLUVyV1NrMkdLVkRaYXF0My1OY1owSk4tbERiN0gzYzFtSW16Yjd0ejF0NmJMY2JVbFdJRlZN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy Berkshire Hathaway B Shares While They Are Below $550? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakc0c0tWZ1B6VlZRUnhqSlBpZ0ZIMWlWeXdSblFtVEpIYlpCdkJpaE5mSkxjN2MxRVFJelZ1YVVxTm1NNE1QMXNRejU3aDQyRE5UazRmV0JnbXFhSjFJX0NzTU5OWXljeVNjWGVMVDkzMjZvNmg0X0JYX0NpTkVFdVpsQmRaLWh4a1ZJMTYySXJPT2RxVTY2dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tracking Warren Buffett\u2019s Berkshire Hathaway Portfolio \u2013 Q1 2025 Update (NYSE:BRK.A) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXh3X2tUMnVTci1oQl81WXctbVNLTHpBdTJzVEdFbHItbkVYd3dSY0dnUTY0M3RJNlBkTVhRMHdIWnpuYzcyYWJnUlRSTVh1M0VlaXBRd0tXTnl3R1JQSnFFdFpwTDJfQ2VycDloN3BQMko2RDNUeUxtVEZPTDV4eUtiNUJmY2puS09mM2FoTDBpMHJzb1FYN1NiU21RVXVCb0VMQ0Z0Q0lwdHpSV0E?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "visual_data": {
+    "sparkline": [
+      {
+        "date": "2024-11-22",
+        "price": 476.57
+      },
+      {
+        "date": "2024-11-25",
+        "price": 477.43
+      },
+      {
+        "date": "2024-11-26",
+        "price": 478.56
+      },
+      {
+        "date": "2024-11-27",
+        "price": 483.08
+      },
+      {
+        "date": "2024-11-29",
+        "price": 483.02
+      },
+      {
+        "date": "2024-12-02",
+        "price": 477.33
+      },
+      {
+        "date": "2024-12-03",
+        "price": 470.19
+      },
+      {
+        "date": "2024-12-04",
+        "price": 468.32
+      },
+      {
+        "date": "2024-12-05",
+        "price": 470.57
+      },
+      {
+        "date": "2024-12-06",
+        "price": 470.5
+      },
+      {
+        "date": "2024-12-09",
+        "price": 463.87
+      },
+      {
+        "date": "2024-12-10",
+        "price": 462.49
+      },
+      {
+        "date": "2024-12-11",
+        "price": 461.39
+      },
+      {
+        "date": "2024-12-12",
+        "price": 458.63
+      },
+      {
+        "date": "2024-12-13",
+        "price": 457.9
+      },
+      {
+        "date": "2024-12-16",
+        "price": 455.2
+      },
+      {
+        "date": "2024-12-17",
+        "price": 455.66
+      },
+      {
+        "date": "2024-12-18",
+        "price": 446.59
+      },
+      {
+        "date": "2024-12-19",
+        "price": 449.34
+      },
+      {
+        "date": "2024-12-20",
+        "price": 453.2
+      },
+      {
+        "date": "2024-12-23",
+        "price": 454.35
+      },
+      {
+        "date": "2024-12-24",
+        "price": 458.66
+      },
+      {
+        "date": "2024-12-26",
+        "price": 459.08
+      },
+      {
+        "date": "2024-12-27",
+        "price": 456.51
+      },
+      {
+        "date": "2024-12-30",
+        "price": 452.16
+      },
+      {
+        "date": "2024-12-31",
+        "price": 453.28
+      },
+      {
+        "date": "2025-01-02",
+        "price": 451.1
+      },
+      {
+        "date": "2025-01-03",
+        "price": 453.56
+      },
+      {
+        "date": "2025-01-06",
+        "price": 451.41
+      },
+      {
+        "date": "2025-01-07",
+        "price": 452.92
+      },
+      {
+        "date": "2025-01-08",
+        "price": 451.84
+      },
+      {
+        "date": "2025-01-10",
+        "price": 442.66
+      },
+      {
+        "date": "2025-01-13",
+        "price": 443.91
+      },
+      {
+        "date": "2025-01-14",
+        "price": 450.03
+      },
+      {
+        "date": "2025-01-15",
+        "price": 458.51
+      },
+      {
+        "date": "2025-01-16",
+        "price": 462.81
+      },
+      {
+        "date": "2025-01-17",
+        "price": 467.95
+      },
+      {
+        "date": "2025-01-21",
+        "price": 468.57
+      },
+      {
+        "date": "2025-01-22",
+        "price": 460.51
+      },
+      {
+        "date": "2025-01-23",
+        "price": 459.83
+      },
+      {
+        "date": "2025-01-24",
+        "price": 463.19
+      },
+      {
+        "date": "2025-01-27",
+        "price": 474.7
+      },
+      {
+        "date": "2025-01-28",
+        "price": 469.97
+      },
+      {
+        "date": "2025-01-29",
+        "price": 469.26
+      },
+      {
+        "date": "2025-01-30",
+        "price": 472.35
+      },
+      {
+        "date": "2025-01-31",
+        "price": 468.67
+      },
+      {
+        "date": "2025-02-03",
+        "price": 464.61
+      },
+      {
+        "date": "2025-02-04",
+        "price": 467.49
+      },
+      {
+        "date": "2025-02-05",
+        "price": 473.73
+      },
+      {
+        "date": "2025-02-06",
+        "price": 477.22
+      },
+      {
+        "date": "2025-02-07",
+        "price": 472.74
+      },
+      {
+        "date": "2025-02-10",
+        "price": 470.17
+      },
+      {
+        "date": "2025-02-11",
+        "price": 472.61
+      },
+      {
+        "date": "2025-02-12",
+        "price": 471.73
+      },
+      {
+        "date": "2025-02-13",
+        "price": 480.49
+      },
+      {
+        "date": "2025-02-14",
+        "price": 479.59
+      },
+      {
+        "date": "2025-02-18",
+        "price": 482.82
+      },
+      {
+        "date": "2025-02-19",
+        "price": 483.77
+      },
+      {
+        "date": "2025-02-20",
+        "price": 481.8
+      },
+      {
+        "date": "2025-02-21",
+        "price": 478.74
+      },
+      {
+        "date": "2025-02-24",
+        "price": 498.42
+      },
+      {
+        "date": "2025-02-25",
+        "price": 499.82
+      },
+      {
+        "date": "2025-02-26",
+        "price": 494.1
+      },
+      {
+        "date": "2025-02-27",
+        "price": 502.41
+      },
+      {
+        "date": "2025-02-28",
+        "price": 513.83
+      },
+      {
+        "date": "2025-03-03",
+        "price": 510.08
+      },
+      {
+        "date": "2025-03-04",
+        "price": 495.86
+      },
+      {
+        "date": "2025-03-05",
+        "price": 498.5
+      },
+      {
+        "date": "2025-03-06",
+        "price": 497.84
+      },
+      {
+        "date": "2025-03-07",
+        "price": 495.62
+      },
+      {
+        "date": "2025-03-10",
+        "price": 497.1
+      },
+      {
+        "date": "2025-03-11",
+        "price": 496.25
+      },
+      {
+        "date": "2025-03-12",
+        "price": 495.94
+      },
+      {
+        "date": "2025-03-13",
+        "price": 504.25
+      },
+      {
+        "date": "2025-03-14",
+        "price": 514.6
+      },
+      {
+        "date": "2025-03-17",
+        "price": 523.01
+      },
+      {
+        "date": "2025-03-18",
+        "price": 523.14
+      },
+      {
+        "date": "2025-03-19",
+        "price": 525.27
+      },
+      {
+        "date": "2025-03-20",
+        "price": 528.73
+      },
+      {
+        "date": "2025-03-21",
+        "price": 521.91
+      },
+      {
+        "date": "2025-03-24",
+        "price": 525.85
+      },
+      {
+        "date": "2025-03-25",
+        "price": 528.87
+      },
+      {
+        "date": "2025-03-26",
+        "price": 533.21
+      },
+      {
+        "date": "2025-03-27",
+        "price": 534.52
+      },
+      {
+        "date": "2025-03-28",
+        "price": 526.31
+      },
+      {
+        "date": "2025-03-31",
+        "price": 532.58
+      },
+      {
+        "date": "2025-04-01",
+        "price": 532.99
+      },
+      {
+        "date": "2025-04-02",
+        "price": 537.72
+      },
+      {
+        "date": "2025-04-03",
+        "price": 530.16
+      },
+      {
+        "date": "2025-04-04",
+        "price": 493.54
+      },
+      {
+        "date": "2025-04-07",
+        "price": 490.38
+      },
+      {
+        "date": "2025-04-08",
+        "price": 492.64
+      },
+      {
+        "date": "2025-04-09",
+        "price": 521.41
+      },
+      {
+        "date": "2025-04-10",
+        "price": 515.81
+      },
+      {
+        "date": "2025-04-11",
+        "price": 524.11
+      },
+      {
+        "date": "2025-04-14",
+        "price": 529.52
+      },
+      {
+        "date": "2025-04-15",
+        "price": 528.17
+      },
+      {
+        "date": "2025-04-16",
+        "price": 516.45
+      },
+      {
+        "date": "2025-04-17",
+        "price": 518.21
+      },
+      {
+        "date": "2025-04-21",
+        "price": 506.92
+      },
+      {
+        "date": "2025-04-22",
+        "price": 520.79
+      },
+      {
+        "date": "2025-04-23",
+        "price": 526.81
+      },
+      {
+        "date": "2025-04-24",
+        "price": 531.64
+      },
+      {
+        "date": "2025-04-25",
+        "price": 530.96
+      },
+      {
+        "date": "2025-04-28",
+        "price": 530.94
+      },
+      {
+        "date": "2025-04-29",
+        "price": 534.57
+      },
+      {
+        "date": "2025-04-30",
+        "price": 533.25
+      },
+      {
+        "date": "2025-05-01",
+        "price": 530.23
+      },
+      {
+        "date": "2025-05-02",
+        "price": 539.8
+      },
+      {
+        "date": "2025-05-05",
+        "price": 512.15
+      },
+      {
+        "date": "2025-05-06",
+        "price": 512.33
+      },
+      {
+        "date": "2025-05-07",
+        "price": 518.22
+      },
+      {
+        "date": "2025-05-08",
+        "price": 513.25
+      },
+      {
+        "date": "2025-05-09",
+        "price": 513.74
+      },
+      {
+        "date": "2025-05-12",
+        "price": 514.3
+      },
+      {
+        "date": "2025-05-13",
+        "price": 511.88
+      },
+      {
+        "date": "2025-05-14",
+        "price": 503.4
+      },
+      {
+        "date": "2025-05-15",
+        "price": 507.33
+      },
+      {
+        "date": "2025-05-16",
+        "price": 514.31
+      },
+      {
+        "date": "2025-05-19",
+        "price": 512.39
+      },
+      {
+        "date": "2025-05-20",
+        "price": 508.74
+      },
+      {
+        "date": "2025-05-21",
+        "price": 507.03
+      }
+    ],
+    "current_price_data": {
+      "price": 507.03,
+      "change": -1.71,
+      "percent_change": -0.34
+    }
+  },
+  "extraction_date": "2025-05-16"
+}
