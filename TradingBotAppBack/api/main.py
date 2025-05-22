@@ -46,6 +46,19 @@ def get_df_final():
         return df.to_dict(orient="records")
     return JSONResponse(status_code=404, content={"error": "Fichier df_final introuvable"})
 
+@app.get("/api/df_final_merged")
+def get_df_final_merged():
+    path = os.path.join(DATA_FOLDER, "df_final_merged.csv")
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+
+        # 🔧 Remplacer NaN/NaT par None pour JSON-compliant
+        df = df.replace({np.nan: None, np.inf: None, -np.inf: None})
+
+        return df.to_dict(orient="records")
+    return JSONResponse(status_code=404, content={"error": "Fichier df_final introuvable"})
+
+
 @app.get("/api/list-short")
 def get_list_short():
     path = os.path.join(DATA_FOLDER, "list_short.csv")
@@ -196,15 +209,23 @@ def get_index_data(symbol: str):
 
 @app.get("/api/companies")
 def get_companies():
-    path = os.path.join(DATA_FOLDER, "df_final_merged.csv")
-    if os.path.exists(path):
-        df = pd.read_csv(path)
+    directory = os.path.join(OUTPUT_FOLDER, "insights_enriched_all")
+    companies = []
 
-        df = df.replace({np.nan: None})
+    if not os.path.exists(directory):
+        return JSONResponse(status_code=404, content={"error": "Dossier JSON introuvable"})
 
-        return df.to_dict(orient="records")
-    return JSONResponse(status_code=404, content={"error": "Fichier introuvable"})
+    for filename in os.listdir(directory):
+        if filename.endswith(".json"):
+            path = os.path.join(directory, filename)
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                    companies.append(data)
+            except Exception as e:
+                print(f"⚠️ Erreur lecture {filename} : {e}")
 
+    return companies
 
 MISTRAL_API_URL = "https://8ug9pcnn4g0xwy-8000.proxy.runpod.net/analyze"
 

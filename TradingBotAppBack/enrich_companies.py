@@ -62,22 +62,27 @@ def get_company_enriched_data(ticker, row):
         print(f"[ERROR enrich] {ticker} → {e}")
         return None
 
-# 🚀 Génération des JSON pour tous les tickers
+# 🚀 Génération des JSON
 errors = []
-for _, row in tqdm(df.iterrows(), total=len(df)):
+for _, row in tqdm(df.iterrows(), total=len(df), desc="Enrichissement global"):
     ticker = row["Ticker"]
     data = get_company_enriched_data(ticker, row)
+
     if data:
         output_path = os.path.join(OUTPUT_DIR, f"{ticker}.json")
-        with open(output_path, "w") as f:
-            json.dump(data, f, indent=2)
+        try:
+            with open(output_path, "w") as f:
+                json.dump(data, f, indent=2)
+        except Exception as e:
+            print(f"❌ Erreur écriture {ticker} → {e}")
+            errors.append(ticker)
     else:
         errors.append(ticker)
 
-    # 💤 Pause aléatoire entre les requêtes (anti-blocage)
-    time.sleep(random.uniform(0.6, 1.2))
+    # 💤 Anti-blocage API
+    time.sleep(random.uniform(0.6, 1.1))
 
-# 📊 Résumé final
-print(f"\n✅ {len(df) - len(errors)} fichiers générés dans : {OUTPUT_DIR}")
+# 📊 Résumé
+print(f"\n✅ {len(df) - len(errors)} fichiers générés.")
 if errors:
     print(f"❌ {len(errors)} erreurs (exemples : {errors[:5]})")
