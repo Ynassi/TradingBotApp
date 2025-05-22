@@ -29,9 +29,11 @@ origins = [
     "https://trading-bot-app-psi.vercel.app",
     "https://trading-bot-jvfhrlofx-yanisnassi-gmailcoms-projects.vercel.app",
     "https://trading-bot-app-git-main-yanisnassi-gmailcoms-projects.vercel.app",
+    "https://trading-bot-eet8dl4pr-yanisnassi-gmailcoms-projects.vercel.app",
     "http://localhost:5173",
     "http://127.0.0.1:5173"
 ]
+
 
 
 app.add_middleware(
