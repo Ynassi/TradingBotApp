@@ -26,10 +26,12 @@ app = FastAPI()
 
 # ✅ Liste des origines autorisées : Vercel + Localhost + futurs environnements
 origins = [
-    "https://trading-bot-app-psi.vercel.app",   # Front en prod
-    "http://localhost:5173",                    # Vite dev mode
-    "http://127.0.0.1:5173"                     # Variante localhost
+    "https://trading-bot-app-psi.vercel.app",
+    "https://trading-bot-jvfhrlofx-yanisnassi-gmailcoms-projects.vercel.app",
+    "http://localhost:5173",
+    "http://127.0.0.1:5173"
 ]
+
 
 app.add_middleware(
     CORSMiddleware,
