@@ -8,9 +8,9 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </React.StrictMode>
 )
-// 🌍 Patch global fetch → redirige les appels vers le backend Render
+// 🌍 Patch global fetch → redirige tous les appels vers le backend Render
 const originalFetch = window.fetch;
-const baseURL = import.meta.env.VITE_API_URL;
+const baseURL = import.meta.env.VITE_API_URL;  // défini dans .env
 
 window.fetch = async (input, init = {}) => {
   if (typeof input === "string") {
@@ -34,16 +34,4 @@ window.fetch = async (input, init = {}) => {
   return originalFetch(input, init);
 };
 
-// ✅ Import unique (pas de doublon)
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import App from './App.jsx';
-import './index.css';
-
-// ✅ Point d’entrée React
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
 
