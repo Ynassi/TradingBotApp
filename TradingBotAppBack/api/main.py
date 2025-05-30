@@ -9,22 +9,22 @@ from fastapi import FastAPI, Request
 import numpy as np
 from fastapi.middleware.cors import CORSMiddleware
 
-# 📁 Corrigé : dossier racine du projet (pas "api/")
+#  Corrigé : dossier racine du projet (pas "api/")
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 DATA_FOLDER = os.path.join(BASE_DIR, "data")
 OUTPUT_FOLDER = os.path.join(BASE_DIR, "output")
 
-# 🔐 Chargement sécurisé du fichier .env depuis la racine
+#  Chargement sécurisé du fichier .env depuis la racine
 dotenv_path = os.path.join(BASE_DIR, ".env")
 load_dotenv(dotenv_path)
 
-# 🔍 Vérification d'une variable critique
+#  Vérification d'une variable critique
 if not os.getenv("OPENAI_API_KEY"):
-    raise EnvironmentError("⚠️ Variable OPENAI_API_KEY manquante dans .env")
+    raise EnvironmentError(" Variable OPENAI_API_KEY manquante dans .env")
 
 app = FastAPI()
 
-# ✅ Liste des origines autorisées : Vercel + Localhost + futurs environnements
+#  Liste des origines autorisées : Vercel + Localhost + futurs environnements
 origins = [
     "https://trading-bot-app-psi.vercel.app",
     "https://trading-bot-jvfhrlofx-yanisnassi-gmailcoms-projects.vercel.app",
@@ -38,7 +38,7 @@ origins = [
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,          # 🔐 sécurisée
+    allow_origins=origins,        
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -70,10 +70,7 @@ def get_df_final_merged():
     path = os.path.join(DATA_FOLDER, "df_final_merged.csv")
     if os.path.exists(path):
         df = pd.read_csv(path)
-
-        # 🔧 Remplacer NaN/NaT par None pour JSON-compliant
         df = df.replace({np.nan: None, np.inf: None, -np.inf: None})
-
         return df.to_dict(orient="records")
     return JSONResponse(status_code=404, content={"error": "Fichier df_final introuvable"})
 
@@ -242,7 +239,7 @@ def get_companies():
                     data = json.load(f)
                     companies.append(data)
             except Exception as e:
-                print(f"⚠️ Erreur lecture {filename} : {e}")
+                print(f"Erreur lecture {filename} : {e}")
 
     return companies
 

@@ -86,7 +86,7 @@ def wait_for_mistral_api(max_attempts=30):
     print(f"⏳ Attente de la disponibilité de l'API Mistral sur {MISTRAL_API}")
     for _ in range(max_attempts):
         try:
-            r = requests.post(MISTRAL_API, json={"inputs": "Health check"}, timeout=10)
+            r = requests.post(MISTRAL_API, json={"task": "news_summary_global", "input": "Health check"}, timeout=10)
             if r.status_code == 200 and "outputs" in r.json():
                 print("✅ L'API Mistral est prête à recevoir des requêtes.")
                 return True

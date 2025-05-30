@@ -18,14 +18,14 @@ JSON_PATH = os.path.join(DATA_DIR, "news_summaries_full.json")
 
 # 📄 Tickers
 df = pd.read_csv(os.path.join(DATA_DIR, "df_final_merged.csv"))
-tickers = df["Ticker"].dropna().unique()  # ✅ toute la table
+tickers = df["Ticker"].dropna().unique()
 
 # 🤖 FinBERT
 print("🔁 Chargement FinBERT...")
 finbert = pipeline("sentiment-analysis", model="ProsusAI/finbert", device=-1)
 
 # 🔗 Mistral API externe
-MISTRAL_API = "https://8ug9pcnn4g0xwy-8000.proxy.runpod.net/analyze"
+MISTRAL_API = "https://fzhvs2csuz2ezl-8000.proxy.runpod.net/analyze"
 
 # 🌍 Traduction
 def translate_to_english(text):
