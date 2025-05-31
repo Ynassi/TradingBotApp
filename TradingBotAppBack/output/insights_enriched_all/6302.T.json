@@ -11,7 +11,7 @@
     "ROE": 0.00166,
     "ProfitMargin": 0.00058,
     "GrossMargin": 0.23886,
-    "DividendYield": 4.23
+    "DividendYield": 4.13
   },
   "technical_indicators": {
     "RSI_14": 51.16673972141982,
@@ -35,34 +35,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-11-21",
-        "price": 3222.0
-      },
-      {
-        "date": "2024-11-22",
-        "price": 3287.0
-      },
-      {
-        "date": "2024-11-25",
-        "price": 3263.0
-      },
-      {
-        "date": "2024-11-26",
-        "price": 3195.0
-      },
-      {
-        "date": "2024-11-27",
-        "price": 3122.0
-      },
-      {
-        "date": "2024-11-28",
-        "price": 3146.0
-      },
-      {
-        "date": "2024-11-29",
-        "price": 3169.0
-      },
       {
         "date": "2024-12-02",
         "price": 3249.0
@@ -510,12 +482,68 @@
       {
         "date": "2025-05-21",
         "price": 2957.5
+      },
+      {
+        "date": "2025-05-22",
+        "price": 2907.0
+      },
+      {
+        "date": "2025-05-23",
+        "price": 2911.5
+      },
+      {
+        "date": "2025-05-26",
+        "price": 2932.5
+      },
+      {
+        "date": "2025-05-27",
+        "price": 2954.0
+      },
+      {
+        "date": "2025-05-28",
+        "price": 2980.5
+      },
+      {
+        "date": "2025-05-29",
+        "price": 3023.0
+      },
+      {
+        "date": "2025-05-30",
+        "price": 3035.0
       }
     ],
     "current_price_data": {
-      "price": 2957.5,
-      "change": 4.5,
-      "percent_change": 0.15
+      "price": 3035.0,
+      "change": 12.0,
+      "percent_change": 0.4
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "1. Sumitomo Heavy Industries (TSE:6302) uses debt to take on some risk, resulting in mixed Q1 group results.\n2. Syntara's SNT-6302 shows promising results in a scar treatment trial, with a positive outlook for future developments.",
+    "sentiment_score": 0.333,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "Sumitomo Heavy Industries (TSE:6302) Takes On Some Risk With Its Use Of Debt - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWl9idUlTNGxfcjRERV9hMEg2Ung4WEw2NXZPb2VOYkc3cWpaWlBVRFBtM1VMVVJJYTVlWVdDVkMyQmFqbWRDZXN3Vk0yZGdCS3RnNUJDTlV3T01CRG9hazgxN0tXUUNRVWFtRWRzRTdUbFpsZnFkYi1BdFAzdDR2VjgxTUNWaXBaekQwVDQydWtLSXBZM2JqODJfdm84aG1hR1MwY0N1TmVINWdvSF8xRUczVDlSWTI4X0lDdnJ0ZW96bG5wZzNFWlBkREhzLU9XS09oM3JpVzEwaHdCWnhfLXNRZlRXazhp0gHuAUFVX3lxTE9PNmxScXVnbVROTjRLSlJ3YXBWcFJrSEVqLW9YemhNbjhxd1lCdkdGUVljM1d1dkM4YnUtZU4wUk5VZVA4dWYwcDJySk1Gc2JQb1RfUHowc2ZFRjFvMGlncXFIdXF0eHZkX3Jkd3ZMbjNTdHI0UE5uYjdwQ0Z4RS1NMXk3anUyX01kcF9odFk4VXlsNXNNNUh0bTNSb2JhNXhxSjdxdUNlQzVPZzFCV1dlMGl1UDUwdUJ5SXluM2pwdWFfcnpEWkVxRDlCcktJNWJCT2dya0hUUTBFNmk1OHZnQndoMzJZaWxZVHZaMWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TABLE-Sumitomo Heavy -Q1 group results - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnA1WDcwMDVlVktSMEMxaXVsa1BEa3JiM0lFQzlYNlRfdlhuQ2RUZUN1OXNHSldIMjd4b2ZTQkJLbkVhZjV3dzM2UmFHSkRFaFJvMWJhTG1UX005MUhxX21kOGprUlVzRUltTVZ2LVRjb1IxUGdjeUlPNGZ6ZmtueHFYelE0Q0NaNXNJcXJ4NHpvQU5jVXZKTnJReExkam81bTlMYTNZQll5Z0VTbEhEUXltQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Syntara\u2019s SNT-6302 Shows Promising Results in Scar Treatment Trial - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjVCLVNUd29yc1Z5b2MwazRoYy16Y3loOU9yY3lhOTkyRVd2RnR3WElaalZIR1dBQ2s2ejdDc1AxU09CdDJKNTMxeXk4Z0wwVzZqZzRxQVdqUlZwVzk0LXY5WEJlMkJmMDRiUmFnZHNncThOVXNsODRBZnI4cHVHbnVHUEhkdTZ3OTFzXzNhNFNBY0RPNDNFNlB2VG1OZWp2X1RwQzkxSFdlZ2RHYlBuV1FnZW1aM0lt?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-05-16"
 }

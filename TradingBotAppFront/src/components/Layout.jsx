@@ -7,36 +7,38 @@ export default function Layout({ children }) {
   const [listesOpen, setListesOpen] = useState(false);
   const location = useLocation();
 
-  // Fermer le menu au changement de page
   useEffect(() => {
     setMenuOpen(false);
     setListesOpen(false);
   }, [location]);
 
   return (
-    <div className="min-h-screen w-full bg-gradient-to-br from-gray-900 to-gray-800 text-white relative overflow-hidden">
+    <div className="relative min-h-screen w-full text-white overflow-hidden bg-gradient-to-br from-gray-900 to-gray-800 fade-scroll-mask">
       
-      {/* Header global */}
-      <header className="flex justify-between items-center px-4 sm:px-6 py-4 z-30 relative">
-        <div className="flex items-center space-x-4">
-          <Link to="/" className="text-xl font-typewritter tracking-wider transition">N a s t r a d</Link>
+      {/* HEADER FIXE */}
+      <header className="fixed top-0 left-0 w-full z-50 bg-gradient-to-br from-gray-900 to-gray-800 px-4 sm:px-6 py-4 shadow-lg">
+        <div className="flex justify-between items-center">
+          <div className="flex items-center space-x-4">
+            <Link to="/" className="text-xl font-typewritter tracking-wider">
+              N a s t r a d
+            </Link>
+          </div>
+          <button
+            onClick={() => setMenuOpen(!menuOpen)}
+            className="space-y-1 z-50"
+            aria-label="Menu"
+          >
+            <span className="block w-6 h-0.5 bg-white"></span>
+            <span className="block w-6 h-0.5 bg-white"></span>
+            <span className="block w-6 h-0.5 bg-white"></span>
+          </button>
         </div>
-        <button
-          onClick={() => setMenuOpen(!menuOpen)}
-          className="space-y-1 z-40"
-          aria-label="Menu"
-        >
-          <span className="block w-6 h-0.5 bg-white"></span>
-          <span className="block w-6 h-0.5 bg-white"></span>
-          <span className="block w-6 h-0.5 bg-white"></span>
-        </button>
       </header>
 
-      {/* Menu latéral global */}
+      {/* MENU LATÉRAL AMÉLIORÉ */}
       <div
-        className={`fixed top-0 right-0 h-full w-64 bg-gray-800 shadow-lg transform transition-transform duration-300 ease-in-out z-30 ${
-          menuOpen ? 'translate-x-0' : 'translate-x-full'
-        }`}
+        className={`fixed top-0 right-0 h-full w-64 bg-gray-800 z-40 transition-all duration-500 ease-in-out
+        ${menuOpen ? "translate-x-0 opacity-100" : "translate-x-full opacity-0"} shadow-lg pt-16`}
       >
         <nav className="flex flex-col p-6 space-y-4 text-lg">
           <Link to="/fonctionnement" className="hover:text-teal-300">Fonctionnement</Link>
@@ -63,11 +65,9 @@ export default function Layout({ children }) {
         </nav>
       </div>
 
-      {/* Contenu de la page */}
-      <main className="w-full px-4 sm:px-6 lg:px-8 py-10">
-        <div className="max-w-screen-xl mx-auto">
-          {children}
-        </div>
+      {/* CONTENU */}
+      <main className="pt-24 relative z-10 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-screen-xl mx-auto">{children}</div>
       </main>
     </div>
   );

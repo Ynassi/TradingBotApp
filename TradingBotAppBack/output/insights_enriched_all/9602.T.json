@@ -11,7 +11,7 @@
     "ROE": 0.0915,
     "ProfitMargin": 0.13845,
     "GrossMargin": 0.4616,
-    "DividendYield": 1.13
+    "DividendYield": 1.11
   },
   "technical_indicators": {
     "RSI_14": 49.16256786899912,
@@ -29,40 +29,12 @@
   "beta": 0.297,
   "return_6m": 0.2928988965024688,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 9,
     "target_mean_price": 8261.111
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-11-21",
-        "price": 5990.0
-      },
-      {
-        "date": "2024-11-22",
-        "price": 6019.0
-      },
-      {
-        "date": "2024-11-25",
-        "price": 6081.0
-      },
-      {
-        "date": "2024-11-26",
-        "price": 6209.0
-      },
-      {
-        "date": "2024-11-27",
-        "price": 6191.0
-      },
-      {
-        "date": "2024-11-28",
-        "price": 6329.0
-      },
-      {
-        "date": "2024-11-29",
-        "price": 6543.0
-      },
       {
         "date": "2024-12-02",
         "price": 6535.0
@@ -510,12 +482,58 @@
       {
         "date": "2025-05-21",
         "price": 7357.0
+      },
+      {
+        "date": "2025-05-22",
+        "price": 7499.0
+      },
+      {
+        "date": "2025-05-23",
+        "price": 7620.0
+      },
+      {
+        "date": "2025-05-26",
+        "price": 7756.0
+      },
+      {
+        "date": "2025-05-27",
+        "price": 7831.0
+      },
+      {
+        "date": "2025-05-28",
+        "price": 7662.0
+      },
+      {
+        "date": "2025-05-29",
+        "price": 7662.0
+      },
+      {
+        "date": "2025-05-30",
+        "price": 7615.0
       }
     ],
     "current_price_data": {
-      "price": 7357.0,
-      "change": -137.0,
-      "percent_change": -1.83
+      "price": 7615.0,
+      "change": -47.0,
+      "percent_change": -0.61
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Tendances cl\u00e9s :\n\n* Divisional forecast 2024/25 pour Toho\n\nSynth\u00e8se :\n\n* Le march\u00e9 est positif pour Toho, avec un diviseur pr\u00e9vu \u00e9lev\u00e9 pour les ann\u00e9es 2024/25.\n* Le tradingView a publi\u00e9 des pr\u00e9visions sur les revenus de Toho pour la p\u00e9riode en question, qui indiquent un potentiel de croissance.\n* Investisseurs francophones peuvent se positionner sur Toho en exploitant ce sentiment positif.",
+    "sentiment_score": 0.0,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 4,
+    "headlines": [
+      {
+        "title": "TABLE-Toho -2024/25 div forecast - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa01qQ2ZPMUQ5cDlEMjlxWlhlMmlfZU1PaklFeW85REp1X2RGRXdoNWgzclljMnlOVkRKNms2UkhLYm9GdzVsdm5rbnpIOTVnS1RVSDhNaUtNT0ZOZGxvb05pX2VKYXFxdWkxeUEwMlp5R21xSVlWZUEwZzQzQ0ZsVDFtM0RJMzZVT1poQU1vcHIzZ2owamtMRnl1YjFYNm5vTzJfRGdTN2dmR2M?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-05-16"
 }

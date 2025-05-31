@@ -30,143 +30,11 @@
   "return_6m": -0.1955793970581096,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 17,
-    "target_mean_price": 68.37294
-  },
-  "news_sentiment": {
-    "summary": "The stock market continues its winning streak, with the S&P 500 and Dow rising as Wall Street shakes off Moody's downgrade. Nvidia leads the tech industry with strong gains, and the Nasdaq and S&P 500 are also performing well. Investors are looking past the US credit downgrade, and the global market is not significantly influenced. The economic outlook is generally positive, with few major events on the horizon.",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.45,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Stock market today: S&P 500 notches 6-day win streak, Dow, Nasdaq rise as Wall Street shakes off Moody's downgrade - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONG5pOTJZMGMteEN2Y0xfa0hmTWNmNzExd2poU3g1clFfTUZWOWtPRG5sckFBNVR4dUVnREduRGVDaHloX2ZHdmJDUWdzOXFWX2E0dVBnYzFiU1hoUFhnNDBJTnIxZ0RDY2ZSeVEyWmhMTi1RQWIxQUdQUkVyUng4WUwwRmZqTFh5RHFrUUgwSVdjcFlJYkhBNmc4X04zZkZFS2JZc2FhY3F1ZG5lNGlDSHdteDFJWUFZdFpYcnFaZmtEM3J0cmJuRlVaeUhSbkxMSkJHUTNKbi16bENia1drblN4aVZibmRTQ01mSmk4LWZMdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Nvidia Leaves Rival Broadcom Out In AI Data Center Race; Is Nvidia A Buy Now? - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14RG1Uc3A0ZTh0WVNLOWh6UDlqOXplaUJvakdCbFlaMnhVXzl2MEpWOTk4dDAxSmdROFJjeXpHMVJ0VGdpQ3Y3YjlSQWRsTGFtb0tQQ3doUGZySk10QzV4dE5MMlVuam9xemhzVU1nNEV1N3ZvSjQxMW53?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "S&P 500 ekes out sixth winning day as investors look past U.S. credit downgrade: Live updates - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnAxVXlNanBTQUphajVkdWFWZVdNMEhCbW8yMEkwQlNCX3ZpOW9xaGxUdWF2MVVhQ21INGdobEcxd2FqTUNZVnlwTlpqYkp5WE1IajNWcmZoRTVBajVfbzhGWFd5OWlkMjJrTXVvbUk0UXQzQU1fWDhFOE83Z0MtZG43UlRjeFN2aVBETVBhbF9fNk4tOWxqV1diS0tXNjF2cnQ4WWdsZXAxVHNyNW9lWElNWVVJM1ZZ0gG-AUFVX3lxTE81c0dFay1fRnJSN0RlcG5ETlk0U3g2a3h1NjE2MVlNRkVzYmlLak9yWXFBM1hXaU9kaWJuZjNOeUdEU3JMLW9QV0xaci1wYzBxcjQ4cW5XeFJNS0NULXJZS254M05mcEh3NDZRY1RwSzd6UTFvU1BPZlZVb29mWHNYZ1l0WGd4RENaamJuNDlsTGhlaGhjRWpsZFQzeXUtcWxyWk1BeVNxa0lSR2xwRmZiTTdaV09SUTNtVnVkVlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What is closed Memorial Day 2025 in NJ? Is Costco open on Memorial Day? Target, ShopRite? - Bergen Record",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcm5EU29ZZlNTY3VwbFV6OU1KSXVINktFR0dHR1I4a1I0NTlXU0hWc3U1djdld21lYVlMSnJFbmJmZnh6cEZoWE8xbGdZSFVvV0dTTGhBRTMxaFdNZTR5aGw1MnlRMTh4U1E3ZjJnQW02YVhYSW1kNE1ETUQ3a1ExOWhnZnBpYlFZdEpubmI2aXpOaXB3SW9QVWRYcGJuSmVfd0RVODQ5cGNaY0JEZTg5MC1DM0hLRkpzU0k2VWZDR1hhSEIzZWVYZFEyRXhXcEpOVHNRV016MnlmWjFlQ2ZIUHpBOU9NODJmYUlSZ0ZQSVY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Memorial Day a federal holiday? Here's what's open and closed - NBC New York",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM05kU29hMk9lUV9FUEEyMGRyVGM0M1Q5Y1N3VU83SHAzN0NwT0RDZmlzam9YaXlpWUg4LVcxYmZtbFJIemNEcFZPVzFXTXhtdjB5NHNSUTdVTGxvM2Nvcl8xMl9oMDFlb3JleEd3Y0FLYzJwUzZEcFJPOUwyX2J0bzA5YnVlMElhWFpHQ1RWdTlNaWhUM0o2eUZCSm9BMHRNSERz0gGrAUFVX3lxTE1SLWxLVmJWYkEwMHdYZ0dQZnBJenUxYWg2QTF1X2hBa0V5X3lzLXR6OWtsZG5kSzJiWjNPWnhIaHVyU2hXN2wyaVFMV2RKcHlZUTlCVlRyYnNFX0hoV1Eyd0VlX3lhWTZyTXU1ZUJPR3c3WXNkLXpoUUR4N3JYTTZtTFNXamN6Z0NmV2dEalU4ZVNETGNrQ08wVUNMY3dzXzNCOXlLV0w0bjduRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nintendo Switch 2 pre-orders live \u2014 latest restock updates and retailers to check ahead of launch day - Tom's Guide",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVGcxcTl6MDNVZVVDQWNrc3ZhMzFOZVZtcGRFWU5hV0JoRWRjZ2hMV3hnajRRdlBGcm9OZjh4d0hoZEdVc0RIRlZKQmFvc0pkQ0tTaGc1SzdYekZTMzRGakZvUEJ6WVRMd0ZvcTNUYkZzbUlNTThfMXFZR1puTldUSXB0V0lXWFhKRUtNTkZpdzhpZnRnLWRReTMzd3Y1QQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "US Stock Market Highlights: S&P 500 ekes out sixth winning day as investors look past US credit downgrade - CNBC TV18",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTHhjMVlNY3VkOTVvUnl5LTl2cS13ZFRRUWg4Si1nVmFHS3pEcWtmVWwtdTNZalY3ZGRocHg2S0tSdUFoS3JLS2hZSXA4ZkdmeUktYWowLUpVanVINWNybE5QWnNDN1lOby11OGdpV1dlbFRqcGcxUndGWlpvRW1kZS1aaGk0cE9kRUd1SFhjMHZ4RUFJQ1hnalhzSTdrd1lrZ3djM25hOHRJdndRcWd5UHlueUZlWDlMUGJGeXEzb2F0ZDhPbGJRMFp4SFUtQ09YS1BtdDdsSEJMRXVCVE5IYTZ5U2tyYlZNMTBlUG13?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Memorial Day 2025: Is stock market open in US on Memorial Day? Check details - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOExYcldXS2FoMGpCODdZTFktUTJScUlfUm5qWWt5UVphcEF3Z1poZUFHMGFvVHBGcWE3X1VxUmp6UVdfNjV2U1hFRVdWTWJXNkF3UDBvSzYtd1B0RzR4dmRSc0dpcnRCQWwtZ0pjNm5QQnRmTDNUUW9rVmM3bE1JcjQzeGpTNUk5Z1VDV2R1NzdnQnhqU2JPZUtOMGJrMDVzTEZtRlZ2WGZ3N1hUZ3NnZlVWNUVsdjQxT2tqd0d4aFRjMmJUcmtsZENLS0lnUXZLdkZGUmhfeDB2Njk2V2s4bG5EZkM3bE9CUWY2aFFwWm13R1XSAfgBQVVfeXFMUFJQTFhjS0MzQ2d4dW9ndVpvbFFzT25Wa21fQkF4elN4eG9JeVI5dkF0LVdIVE9yNk82Snp1MjVpNUJBWjYwOXJ4eklFV1ZfWlJkSWJfZHhxQ1MybmZnWE14bzlVZjRGQmliei00MHFQZ2dJcWxZYU5ERktUVG4tQWlPOHhRLXhoRmw5b0RtNHZHeWh6VzhjNXROQWNLVlMtc0Nia1lxeldHNmhkbHYwNGxQMDVCM3FYX3h1VzVveGc3ZElHTTdwM256UnBlcGRYdUtmSi1YYkJ1TTNSdFlIdHBlakdKQlR4QjZKYUhISjVWZGFpU2pnVGc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Broadcom, IBD Stock Of The Day, Sets Up Ahead Of Earnings - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWZKa2hzazNHS1dfODdtVGdSUkxqMDhmUjlFUnpvbVltYkhGZ20zYzlqa2ZoVmMwdEx6YU00XzJHdnJQa2ZDSnFCZldyNXhCLWtTNlNyYTNFdm5vQk9Eb2JaNjNiUFRiVzFVcExiR1kzRV9Ed2JTWk5ncHdWQV9XNW9vdkh2X2NHNHg4RXhkVkc0NFVELVNEbmdRak13TEo3QVpfUjVYRjA2NXE5WjFGRVRWZUl4ZUo4UGhTTFZpb3JSZ1NZaTRadUJoMk9wN0VF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Day 11 of Gains Streak for Snowflake Stock with 11% Return (vs. 19% YTD) [5/18/2025] - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd2k2dDhDQXlkUmR2MlZTVUpab0E0ZTVkenZYSFRmcDIxTVdlS25ycktWTzhaSm1hdGxHSGVzZ1VPakZMQ2x4MUdBR3JJcVlyRzJoWDU2OW5SbTEzejlnb1J0NHVRNk95dmRXYnU1QU1fVGhzMl8wengta3plcUZOcE1hMmNRWVZEOHoyQmNxWWllNVpQRkdVZkdQRlhVekVSV29rU2JnY1ZrYklKbTBCcVBydVdlakhzbllraDZfcnJ6c01XWXdFYmRjcW9mTlZtZVI1Y3NqbEF0MDB3R2VCY0NB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "AG Pam Bondi sold more than $1 million in Trump Media stock the day sweeping tariffs were announced - Louisiana Illuminator",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52R1l3MDlzamxlRmRmMkN6aUFEZEhHa0lCVUl4dzM3QWxQVWJXbG9zX3dUZ3UxaDBBaU1MdllMeUxGdGJzU0JvNXIwYmNibEFnU2NfQ24tTXhzc2JpQUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "FIVE Stock Trades Above 50 & 200-Day SMAs: Time to Buy, Hold or Sell? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDVMb2dmbXFLTF9FRWtJVkhVZ1oxSDlEQWRQZldUekVyaWJLNkltQ3FxbkFnLWJkMkY0UnpucmM0TnlVSG5KbVdWTmJtamFsa1hnV2V3TVF6OTc2UlZfelNrLUh5T1NMYlRETWoxYUx0dE5kTHdUNHFoV1dEdFpuTnoxQTludEc2bG5VUGVPLS1aTnFLcjMzWEE5VXNuSzIzTXY4a3lCZ0pYV2l1dnprSi1nWjdjNGt2Zmlndw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "90-Day Tariff Reprieve Papers Over the Cracks with Nike Stock (NKE) - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnQxUFBVclV1S1k3ZFVRVmlnYllHQnZpZHFLNHRFTm5CR3MwakJjd2UxSlpZT3hualowRWhsNWhjQXY1Nm9kYVd6SlQ5a3JPTTc3ZWItcm5zTzV0UDZ5NGdzZ2UtZ245N0pFM2ZDZngtT1BsNkM4bHEyVkw0TVpYSDA3MnZRZUpVT0NVUnoxSGxBOG83UnpxbFEtOA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Newmont Stock Slips Below 50-Day SMA: What Should Investors Do Now? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcGdBVDFhVmRWTWZKNF90NjZzdm10d0VIRGdRX3JPNjk4dzNJeEE2dE8xZy1yb1d1NGk2dlJmWVVrVXRyemtOU2pDWlZtR3FOSkJRSzFTbk9tNDhaMFViYTdnYTZWSHJ6Q3lLbG03ME9sODRYZkNyNGQtYXFZUHo0NUhSTmpyR2pfSjVIM25Zb0FiVkZwWDUxUUQtMm1RZzZNWVdUYnpsUEsxUFVnMF9yOFI5TDZEVGNQcFVRLUlWUkRpRU9kUVZObFV5Zmd2OUFKR0dTVGZEYWVIa01TU05vaDVHaHNkSUU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock market today: S&P 500 notches 5-day win streak, Nasdaq gains 7% for week as Wall Street shakes off trade war worries - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRE9aSmRISmpuLVdBSDAwTGpmaUI2eVdnVHQxOEFzZTlUeG1BSk42bnNxWHNWNnJSakkzVXRheFFFN1hYVENaaWt2ZGo3NkZ5aUdCMDBISzVtMDh6T0Yxdjlpa0pfLWhvUnZNam9pakhRdEUxWS1CZUtHM2w4UEZGVWJramh1YzJURnZSOVg3ZVh5Ri1sVlp0Y1lDLTlGNFJaWlE5bzRqOG5ZdFFpbmcteXhCdGVXMjZyUmtBMk9fRzNDUFhTZV85ZlIzTEkzeVNMeGVCemhNLVhQM2VBNnBrX0J1SXFTYnVQNlhXM183bG5KcV9UMEJxeldiNHByZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Day 11 of Gains Streak for Dave Stock with 92% Return (vs. 113% YTD) [5/18/2025] - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTU82eHVmSGpOcHUxMmlfUnBPSlcyTFNRdW1GUG0tYVpjX0NBbUp3UThSSlVKUWpXelpUR29TUXREYkhvTmh2OWJEdU9CXzB5M18tT0Z0d2ZTdlVDUnI1M2MxRE55OEp3bXoxQWViSUdqM0tQZDZlRDhqWE9IQ0piRURrUjFCclF1U0FRRW5kQVEwd3czcFFNWUZOakp1S2JJd21aR29idnpMSXdCaUJiSm1TTUxhcnZPcGIyczdEMFlna1paNnRwRl9nT2dISTh2aVJ2NW50T2xsZ3Rs?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Day 14 of Gains Streak for Bank of New York Mellon Stock with 14% Return (vs. 19% YTD) [5/18/2025] - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdHhBSEV6YzNFMDFYSXdRWHZFajdZNnY4SGhuZEE3eFdtcmZiVWN5bnJSVjlxbkhMN3F6cVZRVlR3cDQ4WmsyQkZTSnBKbjZfT1cwVldIRWNubXNxZERUV0Jqb0Q3RFFiV3dTdE5VRjdpSURTQVZrS1pKcXB3SkhodnhpOEE0UXd0TzVzNHFDN1RzekJ5Ri1tZ3BCZlV5ZUpacV9sSlQya1dVUHEtX1FKeTBrYmNudVUzbkp3c1MtQjVZZ0RoV2g4ZkR1cE13UmxEWnJGY2pGUGt2VlRRQ1VXRkQ5WFl6VHIxYVRnNlRvbkp6QQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Stock market today: Nasdaq notches 6th day of gains as Nvidia, chips lead tech rally - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS1dObDVoT290d18xS09wTFJfcUZGdVgxd29NOG5rZEVsV0lXN2hBemVDazl0TUozd1BZbDJqYVBXdl9YaWVDZkJMRWtSSUhWTzhKanlULWE2cTR5ZVFGdmI3aEZKbTZyeXF1MjFHam9TMW9RNXRvT1gyZldfR2k5LXk3WWhYZG4tdzA3bG1qSkdsSUZrQVpCbmhwTDgwTmRiLXlvbXJ3dm1QRlBZcVhId2VBVVVjZWU2QlJNcVZSaWlWaWZPalNnRVBhNVBuZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Day 11 of Gains Streak for Shake Shack Stock with 34% Return (vs. -8.2% YTD) [5/18/2025] - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdHp2U1dpaDFvTEpCLV9ieGlhNnNlUHVFSUwtODVCYXRsSEpYcy02dmxiUXB2T3hnU21GUlJxOUZKMURobDBURkt0RUZkTnJNeUNDUWRyMHR6cWFEcE1rNmNPVmhFNzk0ZUJJalZxelc0MDI1M3FQNklWX1pQS3kxTExqSnhTTFhaTm9CcGo1WFozY0hVN2kxczhyS055dGpNbFBBSTJPdlJvVDljTjE2YUpGdlRnYTlvalYwUmZLS05JN0p1Z0c3MHZrWkZLRFZhRkp4clRQMER4OTV2eWNDODNYVDVCZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Markets News, May 16, 2025: S&P 500 Extends Winning Streak as Major Stock Indexes Post Big Gains for the Week; UnitedHealth Surges After Sell-Off - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wdm1PY3FPTnV6NUxjeHRPazBhVnlzUE1pcHB5U2NTZDdtX0s0NFI4eHIydUs5N2tLdWtVNHZPTDNURXVyRE9ObzFQelBiRFNoeDJhRnMtRU1rck1qY1c1YkRnRXZkS005V0xoZXVIWQ?oc=5",
-        "label": "POSITIVE"
-      }
-    ]
+    "analyst_count": 18,
+    "target_mean_price": 67.07444
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-11-22",
-        "price": 79.79
-      },
-      {
-        "date": "2024-11-25",
-        "price": 81.8
-      },
-      {
-        "date": "2024-11-26",
-        "price": 79.68
-      },
-      {
-        "date": "2024-11-27",
-        "price": 79.87
-      },
-      {
-        "date": "2024-11-29",
-        "price": 79.99
-      },
       {
         "date": "2024-12-02",
         "price": 81.39
@@ -634,13 +502,149 @@
       {
         "date": "2025-05-21",
         "price": 57.55
+      },
+      {
+        "date": "2025-05-22",
+        "price": 58.35
+      },
+      {
+        "date": "2025-05-23",
+        "price": 57.23
+      },
+      {
+        "date": "2025-05-27",
+        "price": 58.43
+      },
+      {
+        "date": "2025-05-28",
+        "price": 57.68
+      },
+      {
+        "date": "2025-05-29",
+        "price": 57.7
+      },
+      {
+        "date": "2025-05-30",
+        "price": 59.08
       }
     ],
     "current_price_data": {
-      "price": 57.55,
-      "change": -1.28,
-      "percent_change": -2.18
+      "price": 59.08,
+      "change": 1.38,
+      "percent_change": 2.39
     }
+  },
+  "news_sentiment": {
+    "summary": "Synth\u00e8se :\n\n* Les titres concernent des entreprises cot\u00e9es telles que Costco, Nvidia, Tesla, Palantir, Enphase Energy Inc., etc.\n* Le march\u00e9 boursier a \u00e9t\u00e9 instable ces derni\u00e8res semaines avec des mouvements marquants concernant la Chine, l'inflation, etc.\n* Les signaux positifs concernent les performances des entreprises cot\u00e9es, les prix cibles, la hausse des prix, etc.\n* Les signaux n\u00e9gatifs concernent les probl\u00e8mes de tarification, les risques li\u00e9s \u00e0 la Chine, etc.\n* Les signaux mixtes concernent les performances des entreprises cot\u00e9es",
+    "sentiment_score": 0.25,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Costco, IBD Stock Of The Day, Breaks Out On Earnings, Price Target Hikes - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaVQ4OGN1WmZLRFQxZnNWdzFLVU9WRkhXaW9UdVRjaTNJZXB6dk4zb1k1ekFUQ2dKdzZCUURSZzZHT24wZ09BXzROWXdaNENHeWdZSjA5Y0dvUWhidTRkZkZzM0tHTjd6cUFUMUR4U2pKQ2FLdEhyYmFoQWJVRmpCVkU4QUwzdmFoNXNqRHVZM1h3LWZOaWFKM2xmNFBibWY1clZUSmJtNnNUTkpSbklF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Market Today: A choppy stock day; a tweet on China; inflation cools; Nvidia, Tesla, Palantir - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMndodHYyX2R2anZReU9MTzB4U1NuWlphTERCdWY2R295Yk1kSDF3WUs0LXJLRWo1bkRqT3BCc3o0eEZkQVhyNGt0N055R2NTN2FFQzhCemRGdFc4TFBqaS1nZlV4UUJUSjZrZ3AzSkl2RlVHVE00OWJzbUJGTlpiTFBhcHVnX3ZXZHlyVW9YZjlxeWdfTzNQdUxsSGJCcjYzOUoxaEt4Z1g2TjBfTURFbk52b2Z3cTg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Enphase Energy Inc. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM0F0Z2FXZG5NZjRpc2pLU2xITFBmWGNfbUl3UnkybnZIckE2MjlrYWRpTnQybDU2YlhDZ0xLNlRLbFYzOXBtWWY3SUgwMjFXd3o2NzQ5OHh6eWYwQk5zR0x4TEFyNy1lekprOXNTb2RBZm5OdkE2UUIxMUZFY0JmcjZmTmkwWTE5Nk81RmxSNHgtSGVfeDhCRmNWVmhmSi1vWFlJNng5T1RwRVRsWklSa1dQUG9lbVFPX2sxWGZOallfOXBRTll2SzR3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is the stock market open on Memorial Day? Here's what's open and closed - NBC New York",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGRKeklvZU5DZHZpbk1ucjhEU19CWWE4ZzN2ZGlYVzlLcFBGTkxZem9Sc3RFUkRobm4xSlVrRTVpT2pJeV9BWlhmRzNwZl91WElvRnZvaFM4V1lfQkdJNks0N0phOFhCTUVIcEtxQ3UwMWVLa3RpTVJVUm5QX0JrTE5SNFJKMEo4RkJxQWtiZG5mQzUwUWNtbFJVYWJPRHFBNzY1ZVhKUm5uWTVSN2lDdmtQMnpvd0JMUFHSAcIBQVVfeXFMUHRKdGQ3YjE2dVVZZWl1RDdibDVDSVFkcF80MFRJTDFJVWRteERMbEFPSHZJUU1obVUyanJ6NUpvTHhONDBYM1dzMmlNOXVVTFpsUFA0V2R0R0F0LXZiZm05NkczQjQweWpQVXZkSXRGSktVSjFPaGVENEpzQmJfeHh1OE5oUFNpZ1JqVlQ3N2VJNjgtdDAwRnF5NGVGQlhNYWhPMFNVSVRndzhHRlRqSDRNei1ONFlwWEJ3LVpyMURnN3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lyft Analysis: Is This Ride-Sharing Stock About To Breakdown? - Lyft (NASDAQ:LYFT) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQV95dWV5azZsMVY5TFprSU1xb3d1eWd4SVNWVEU3SlRuYXNLZDBTa1J1Wm9yalRhMFJyVERITXBNRUtkSnpZcG5rMXppZFhJMnJtbHgxVUE4WXVRc0s2a1lMUnd6bTlOck84V2I4TlJPc1NidmwtMnlkSUNuWUlpd3B0SHlRSi04SHlrNlpxbzRKZk9ZR2ZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nintendo Switch 2 pre-orders live \u2014 latest restock updates and retailers to check now - Tom's Guide",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmdjc3NOaTFrWHRtZkFlTFpfR2ZLMlZ4NDJiZVhDYmRwNjlIQjREaU5xWGlQaml1VE1IcWVwRGNRdjMxdUV0eVgxbXVhaUUyeGozWUVPVTVDLWxIbkZ0dVJPaC1RbkVFYklCV0U4bVJzc1ZNWjRZT3lSRHlnX2xaZ1E2UHRjamhWQURpT2dn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the stock market open or closed on Memorial Day 2025? See full holiday schedule - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVdLWXJwcXlvUnNudk9UejZqZEdFTThxNlI3cEQtV25zWmw3ektScHpCSGtIY0VKeE1fNzFyQUQ5aGY5bmJjbkx2U0dGZ0U3ZUY3NC1xWkE4R29PZTc1MVV6NGlCOXVZX3VEQWtkbjBFMWpxd0ZWeW9qT1dKYm5QS2R6NWF4TDlCLXRBUUlScjI4TDc2VllodGtIY2o4ZzM3a0FjVnROM1VRd0RsYmJiakxaNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the stock market open or closed on memorial day 2025? Complete U.S. market holiday schedule including N - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOeU5IcllqbHJpc1NjaWJERHFNWEZBRWJMNG95N0M5OFEwM2lyb0VkUzcxQ19DRFVnTjltR3dkdHpjaVNpd0hwRmlCd1EtM3dOVjVUUkt6S2hyU3hnNWxlVHlaSWNhb3gwdU9WSU14NW43RVJaZWN3MURmbEtQZGpxLXYtMzM2SXpvRVBUaXY3YnlnSHRrUjNFNlFuRDl4cjRuTFFIaEd5ZUF3NUtrT0pORzFOV1BLR21yOXAyRGpoTVJhT3VYYldGWUFIMTdkaXYwSFdwWmN3Nk1CbWhRNnphNWRfVDRtVlIzZllQU2VVa0xUaEp5VUstXzNBdS0yOENqUEpjOUZOTzdCa2pnRHJyWlNIel9JaGtlYl9HUm5FLUpDY3c0OWl2Y0dEeEE3MkMwYWZ3ZFFYZ2RBZlnSAcACQVVfeXFMUFFVNUhSMlFLcW5WeWtha2RqUERoY1F6OWhFbWVSOU0xZHFHUG15WExWWmNZbFNlT252NWFyWUM0aUsxVWhpOVdWYTdYVF9rVUdLWGtNZUhzT1pFQzRNRUxZQ05JdEV6MndTSnlBZ2ROVktFTE0zcGVsSU9Lb1RSMnhaVnFycTdPLTBPWVNZWUl3LU5xVU95bXQ1d1h0eDhWLWRzNVNJQkJybzJhMjBXX0JFMXEyX0hSak0xZjBsY09RWE93OUFWTkdkYVBuMWhrQ3p2SUdvS3N4Q1BxdkdrZkFxbTNXV0Ezc2YxaEtUREVhNHU0Y2lraDB1ckh1ZEFxZFJRRnJtdXYxT1NxUTlUM3lRa0Z0VE1nVVdtTWVYdXlLWnlkVjM2LVEycU5oRG1BVVNoZkhpalJIcFpNV1pQV1A?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ROOT Moves Above 200-Day SMA: Buy, Hold or Sell the Stock? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjJ5WWF2WnlhY2RxbzRVcGFBSjA0aHRCeksxc2pQYnZ3dXlpTEU4UUxCOTBORTdxcmI4aHd5alZDc3oyRXF6Z0c1dGlMTzJ4LTZNS0NCM3Y5OWZ5YXFvWEs5UnlCYkdJVzNZNHg2TDNnRGVxbklTZnlIYWNCbDM0ZHpyXy1nbFlzNTNuRS16YzNsdGZHNmpKWDFsTmloSWR0V3RmMmY2WjVGd2lZVXRrcA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is stock market closed today on Memorial Day 2025? What to know about banks, mail delivery - Lansing State Journal",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUE44S1RCMjBJZXlUa2ZoYjFYR3IyeTlYSkV4d050SmZNcDgwLU1qdU16cG0tZ3FaTGlaRTVacXlSa3RBMWNBWXJFU3NoYUNDa0NlNVpkLW0yT1FWbF9DTDFKaXZVMV8tWEl4aE9HVHB2aUxvNW1GcjJhRVF6cTItNy02UlZOc3hzZWtfMFNqMHNDT0RsS0RBVlloV0lWdzFzQ1FNZVZ0cDM1ZDZTb0R3UGhYM0NKd2VSOFBOUEdVM1FTd092QTdqdExzQ0p1SmY0Njh1Ui03SDQxUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 climbs on strong Nvidia earnings, but trade policy confusion caps gains: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xY0g5b1c0czJNSHZ0LUJYdHc5Nm1xc2tLZV9aZzl5R2thZXcwaDFoelJhMU9RTnhtWXl0NnRyZzRzeXZnWnBuVzI4MS1MVU9hSTh4ak0wMTAyNmpGVERXdkVleU9NV05CM2xlaG5XQkxfcFd3c0Vn0gF8QVVfeXFMUEdKQW5Ha2xRTi1TM0ZuNnF5SWxZOVBWbGROV3ZFdm5FczNLWnpmbHhwWWNVVXc3eUUwLXN6dkFQS1pVWmxwaTRhODM2Wk14bmFiNlpNd2dnMEttSVVLclp5a3V1a2w4R3ZRQWJMVXI2bGJLdmtLeHNJYTQ1TQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Memorial Day. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMUNyUklvMzdNdjJ0ZGp1QnBXaWFLaVlvbTRBckdqSUtOelBHaEJsU25xWW5Eb0VxMUMwenJFdHRhaEY4R0J4TDRVclB4Q1lzQm1YYjZTeTJsajl2SEZqS2JaSjVsNlpsM2VkRnJWbmpuTnFuam1FTGM5YmJwWTdYd1lCRkc1TEk1ZVNKUmJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Markets News, May 27, 2025: S&P 500 Snaps 4-Day Losing Streak as Stocks Surge After Trump Delays EU Tariffs; Tesla Soars, Nvidia Rises Before Earnings - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5laUNKNVpwN0dTdGdUeF93WlFGc1FSRG5fQmROcXlNU003MFF0SXVfeHFSSEVIWUstTjU0X282alVHOTZpOGplaUU1OHk5U01HaGkyT0tfUXVjbE1lSV85WmhPZDBKeHZYOERLTTZ2Yw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nvidia Falters. Powering Robots That Fold Laundry Is Still A Pipedream. Is Nvidia A Buy Or Sell Now? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14RG1Uc3A0ZTh0WVNLOWh6UDlqOXplaUJvakdCbFlaMnhVXzl2MEpWOTk4dDAxSmdROFJjeXpHMVJ0VGdpQ3Y3YjlSQWRsTGFtb0tQQ3doUGZySk10QzV4dE5MMlVuam9xemhzVU1nNEV1N3ZvSjQxMW53?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lamb Weston Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT3V6dFV0dzdfNUR2Ylg3LW1VTEVWNGNMcFpyQ2xIWWpDY1JHaUcyam01RTBNY0FHWmdyOHZYWjk1cVJyOWtDZHJGdWZjdDl5Z0JrN2d3b1lmYnRvck80dmstUlpnRmJzR1g3QXJNcUhUSmM3MDlwUWZUdzlFb2J1OWNCeC1YeWhuM2pLbUwxWG4xNDVBa0RoeWRjYU42Z3ZqeG5tR1NvLXotaElySWxfTUdHOUMyN0FOdC1Oc3B1WFQ5UHhsZ21saVY3Rktvb1p2eEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Enphase Energy Inc. stock outperforms competitors on strong trading day - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeWhYenZFLTFUZjFRNEJRNk9TenVSZk9iT2xFR1l4T0RsNS0tNjQ1YUpONFVueW1hRFdiX3I4VlVxWFBpU3FMSEd0TjNtSksyc1lJS25IQm5iWjJhNk85Q0U5RldoMGUwNVhZOHYzY09hamZrTi1KdnlVaEhFc3ZyZHdTMzJEYmJKUEw2WjZZb19IMF9pR1B5c2hFNDRGQkxUbmFkbnlsWlpvZno4a1FRQUV6bkRJc0ZnRXl1YWVSYi1XOUZZT0pGTHE2bE5rLXJpNWxFd2dhZFZoNGhvSk1iZzhjN0M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nvidia Stock Had a Solid Day, But Microsoft Remains on Top - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWVlXWHRsSE05YVpIUkduLW9jbVpqVVZTMnQ1RWg3TVpqRXhuRXNtUGd3YzM2ZHVOOHZlTzl0UmxXdmdXNjZ1QjZaY1J6Uzl3QThXWE5MWGpWS296MVRkaF83YnN2ckVudzYzNnllM1pYak04LTg4WHkzZGQyWFBvODFfOEgycmg2U2ZSc3hQRF9wVllKM1owMVBPSEpvUFl2NEdmeXF0cDBiNnNPYUlxeVZNQlBKdUhKZENEcm9oeWNKR00zdWRLZW5xcGdJbWt4QXIwUkU3ZDltc0dKZVNUNXM5RDExYjNkRXF5VU4tRkhXRWJp?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "IBD Stock Of The Day Positioned To 'Substantially Absorb' Trump Tariffs; Eyes Buy Point - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3BHT0w0dHhlSG5kQVJta19UaXJVb0xhT1U1ZTl2cWtKUlJLWkJta1pmczRzM2FnRnZJTzc2Q1R4OGJyeTlzNmt4cTYyUjNhYUhHc3ZoTDJuNzhjQ0kwQ0xJTnhqSXdMb1N2UWZVaktHUDI2b3JldnV3NThBUzFHZ2VqSmp1dzZsM2Nyb2RmcFZRVzQ3cE9ZUFdtQlZSZGw1UFZ5bFM3Z2c2aGxDNFNnVDR4NWE3Q3BnQUtwRDhvc2w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the stock market closed on Memorial Day? Are banks and the post office open? - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcDV0QTVxb0NMNUY4TkJJMDdUNDFObmJTeGhCRm53Y1FnQjkxV0xDWlhzZ1hRNlZQRjJWNnYzaHl2SWtnUkpoc1VneE9oTVlWbnR2Znd2MEZIeXUteDZBcVZrOUZuN29CLWl3ZWMwaHY2OWdjclJxUDJ6OW01TFdCai0wX3BpZHFxaXM2aktoXzVMS0ttQzVnekpPcWs4Wm8xQVpWcXEzNXRvdzMyVEtVTU9jWXJJbzd5bXhNZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yanks continue to roll with 'clean,' 'aggressive' ball, yet feel more is in store - MLB.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50X0gxd2xRQU5vM29VOGVJRXl0M2dVcGpVc0wtcFBpTXRQS2gwMWhmdG9DS3NWTHpWVjZSVWhPMzFPN3hOS3lNRFNsczc5c2s3cUgtbUV0cmFtei1nSjF2VFp2TkdmQ2htQUtvR0VjQ0R0dlV0aXNj?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
   },
   "extraction_date": "2025-05-16"
 }

@@ -2,23 +2,25 @@ import subprocess
 import time
 from tqdm import tqdm
 import sys
+import os
+
+# 🧭 Se positionner dans le dossier racine du projet (là où sont les scripts)
+os.chdir(os.path.dirname(os.path.dirname(__file__)))
 
 PIPELINES = [
     {"name": "1️⃣ ETL Indices majeurs (S&P500, CAC40, Nikkei)", "script": "etl_pipeline.py", "steps": 14},
     {"name": "2️⃣ Enrichissement Small Caps (filtres supplémentaires)", "script": "enrich_etl.py", "steps": 2},
     {"name": "3️⃣ Fusion finale des données", "script": "merge_uniform.py", "steps": 2},
 
-    {"name": "4️⃣ Analyse & Clustering", "script": "analysis_pipeline.py", "steps": 5},
-    {"name": "5️⃣ Sentiment - News", "script": "enrich_sentiment_news.py", "steps": 3},
-    {"name": "6️⃣ Sentiment - Social", "script": "enrich_sentiment_social.py", "steps": 3},
+    {"name": "4️⃣ Données Overview Générales", "script": "generate_overview_data.py", "steps": 5},
+    {"name": "5️⃣ Résumé Marchés (GPT)", "script": "generate_overview_summary.py", "steps": 2},
 
-    {"name": "7️⃣ Génération Insights", "script": "generate_insights.py", "steps": 3},
-    {"name": "8️⃣ Fiches descriptives enrichies", "script": "enrich_insights.py", "steps": 4},
-    {"name": "9️⃣ Données Overview Générales", "script": "generate_overview_data.py", "steps": 5},
-    {"name": "🔟 Données Boursières Indices", "script": "index_data.py", "steps": 3},
-    {"name": "1️⃣1️⃣ Résumé Marchés (GPT)", "script": "generate_overview_summary.py", "steps": 2}
+    {"name": "6️⃣ Enrichissement Compagnies", "script": "enrich_companies.py", "steps": 3},
+    {"name": "7️⃣ Raffinement Compagnies", "script": "refine_companies.py", "steps": 2},
+
+    {"name": "8️⃣ Analyse News (Mistral)", "script": "enrich_sent_mistral.py", "steps": 3},
+    {"name": "9️⃣ Fusion News", "script": "merge_news.py", "steps": 2}
 ]
-
 
 def run_pipeline_with_progress(pipeline):
     name = pipeline["name"]
@@ -30,7 +32,7 @@ def run_pipeline_with_progress(pipeline):
     progress_bar = tqdm(total=100, desc=name, bar_format="{l_bar}{bar}| {n_fmt}%", ncols=100)
 
     process = subprocess.Popen(
-        ["python", script],
+        ["python", f"{script}"],
         stdout=subprocess.PIPE,
         stderr=subprocess.STDOUT,
         bufsize=1,
@@ -64,10 +66,41 @@ def run_pipeline_with_progress(pipeline):
 
 def run_all_pipelines():
     print("\n🚀 Lancement des pipelines de traitement complet...\n")
-    for pipeline in PIPELINES:
-        success = run_pipeline_with_progress(pipeline)
-        if not success:
-            print("⛔ Arrêt du pipeline suite à une erreur.")
-            break
-    else:
-        print("\n🎯 Tous les pipelines ont été exécutés avec succès.")
+
+    # Batch 1 - ETL Companies (séquentiel)
+    for i in range(3):
+        if not run_pipeline_with_progress(PIPELINES[i]):
+            print("⛔ Arrêt du pipeline suite à une erreur (Batch 1).")
+            return
+
+    # Batch 2 - Overview (parallélisable)
+    overview_proc = []
+    for i in range(3, 5):
+        name = PIPELINES[i]["name"]
+        script = f"{PIPELINES[i]['script']}"
+        print(f"▶️ Lancement parallèle : {name}")
+        overview_proc.append(subprocess.Popen(["python", script]))
+
+    # Attendre la fin du batch 1 avant batch 3
+    if not run_pipeline_with_progress(PIPELINES[5]):  # enrich_companies
+        print("⛔ Arrêt du pipeline suite à une erreur (Batch 3.1).")
+        return
+
+    if not run_pipeline_with_progress(PIPELINES[6]):  # refine_companies
+        print("⛔ Arrêt du pipeline suite à une erreur (Batch 3.2).")
+        return
+
+    # Attendre la fin du batch 3 pour lancer enrich_sent_mistral
+    if not run_pipeline_with_progress(PIPELINES[7]):  # enrich_sent_mistral
+        print("⛔ Arrêt du pipeline suite à une erreur (Batch 4.1).")
+        return
+
+    if not run_pipeline_with_progress(PIPELINES[8]):  # merge_news
+        print("⛔ Arrêt du pipeline suite à une erreur (Batch 4.2).")
+        return
+
+    # Fin des scripts parallèles (overview)
+    for p in overview_proc:
+        p.wait()
+
+    print("\n🎯 Tous les pipelines ont été exécutés avec succès.")

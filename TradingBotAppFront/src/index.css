@@ -1,9 +1,43 @@
 @font-face {
-    font-family: 'typewritter';
-    src: url('./assets/fonts/AmericanTypewriter.ttf') format('truetype-collection');
-    font-weight: normal;
-    font-style: normal;
-  }
+  font-family: 'typewritter';
+  src: url('./assets/fonts/AmericanTypewriter.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@keyframes pulseGlow {
+  0%, 100% {
+    filter: drop-shadow(0 0 0px #007c9f); 
+    transform: scale(1);
+    opacity: 0.9;
+  }
+  50% {
+    filter: drop-shadow(0 0 20px #007c9f); 
+    transform: scale(1.05);
+    opacity: 1;
+  }
+}
+
+.animate-logo-pulse {
+  animation: pulseGlow 2.5s ease-in-out 1;
+}
+
+.fade-scroll-mask {
+  position: relative;
+}
+
+.fade-scroll-mask::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 150px;
+  background: linear-gradient(to bottom, #111827 0%, rgba(17,24,39,0) 100%);
+  z-index: 30;
+  pointer-events: none;
+}

@@ -33,140 +33,8 @@
     "analyst_count": 14,
     "target_mean_price": 530.2857
   },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se:\n\n* Le groupe financier Tidal a annonc\u00e9 un splitsage en revers de ses actions pour le fonds MSTR (SMST) de 2x court (2x short).\n* MicroStrategy a fait une nouvelle acquisition de bitcoin et a r\u00e9v\u00e9l\u00e9 une action en classe d'action.\n* Coinbase a \u00e9t\u00e9 ajout\u00e9 au S&P 500 et trois titres de crypto-monnaie am\u00e9ricains sont \u00e0 observer aujourd'hui.\n* Un investissement de 1000 dollars dans une action de stock am\u00e9ricaine de 10 ans aura \u00e9t\u00e9 valu 12 000 dollars aujourd'hui.\n* 14 \u00c9tats am\u00e9ric",
-    "sentiment_score": 0.05,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Tidal Financial Group to Execute Reverse Stock Split for Defiance Daily Target 2X Short MSTR ETF (Ticker: SMST) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVFljb3VxdG5QOUpJS0tmVTFQTXNTOUo1VlV4SzFWTGttU0kwZTJpaUVyQURlYUpDbGFMR1M4SjVqSEdWWXR0SUJDTnRLNzJ4NVl4R0JoWTRvbVVFTWVrLUs4dVJNOWp1SzBMa2xUaWZOT0M5VTdLakhfbXFQVzNYelBmWHNoVmxZQW9J?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MicroStrategy acquires more bitcoin, discloses class action lawsuit - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTZkRmI0T09KcXczaW5FczF5YU9QZnNTb3BxdkhPS2tvTWtjcEpveWFzX3BxeXB0dmI1ZWtxRWxlLWlkdVdlb2owSzAyZFQyX0R3X01uR1JNR0tRSjBSUU82dmtrQXczYWxDRzBQSWR0YVMzRTRzYVJmYkJXX28zR0FpMGJTenF3WXptTFVYc0VSLVRGdmtEOXprUmRkOGg3LWtBamk4MWRCMF9ad1ZtRnFscmdsb0dLNXhHaVVHSmlIb3BCbDVB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tidal to implement 1-for-20 reverse stock split for 2x short MSTR fund (SMST:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY28zRW5aYnoxVkR4RFVCM05xM1l5Q0k4c2FweWZGOEV6RDhpb3p6QURFeEtjNHcxSVBmVXBka3B6UTZRdmthQWZFRTZDUUEwZzh0S24tLVhlN000OW9Bdi13c0JCTGlTb25GX2pzV0M4b0RFLVNYcWZuaU9Oaml3ODBXUGZRTHhmTm9aTlA4aWk2dUJmd1VvcHVSQ0J0RDItbVRta3kyanhCdGp3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Coinbase Debuts on S&P 500 \u2013 3 US Crypto Stock to Watch Today - BeInCrypto",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSSHVjMWJ0WDBXSUEyLW5rZXNKVFE3RUc0TVptUlFWQ0tTelEyaGpQN0d6NkNwNGVtaGtzSTlzdUtEZ29aMUZYeFh4QTVtNnZUc0R1VHI3WVJ3RUk2OU1hZDhFYXVWMjMteEZ5MTF0RWlNbkpLYmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "$1000 Invested In This Stock 10 Years Ago Would Be Worth This Much Today - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejBzOUE3cWJnUnNiSE1BVUJHZi1XaEY4THFCS3FENm5DQ0xleUt2YURvTHJEd2ZKQ2cwNWNHN21Ld19vdjB6VXpSVGVXaWdhaUNTclBXbTNiYXFneU04T3F3TDlYQUwtalkzQ01BWnY0cmc0OVE1MEZJbkFJRGxZX2Z2YXQ0a01JZXRKM1BwTkJBeUNaRGNBREdlLVhpMVBzLVBTQXhZRHJTMFhQOXZqOVN2WGhXZU1SaTRodFBEQmV6Y00?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "14 US States Hold $632M in MicroStrategy Stock as Public Funds Increase Bitcoin Exposure - The Crypto Basic",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGFHeHk5MXl4TTFQRUdQOGFJRVZramhvb1Z0dEhfRVk5eDNRQkVxNXNrUzJ1SkVNRUZrUTJhajlNQ0ZxVkNYRkxYODJQZUpSTmRuZUF3Z3h5ckVIV0FBVG5OYTlvN3pkSnVmXzFYVF9BbGdaRmt6WnRkNTgtSjJYNS1VeW15UDdaN0FfcWFqNHFhMmhqbTBZRkFlMjNzWE94Vzc4VC1HaGg4NXFNbjBJai00LXcwYUhtZXR2Z2VRY3B4MUJj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MSTR vs. MSTY: Growth or Income? A 12-Month Showdown - CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam8tR1hIUnJfaUZqSkU0YWR2NlA3RlZra3phYndJUExtRTVibV9fWkJTZ2J1Z19RLS05QW9QSkYtY2RIUmtLQThWUzNfbUo4S2t1UHhzSk1LV0NLY0tsVlEySklnTktJcUMzVExwNXVEWlNldUJidnNqT1BZM05NT3BJdjJmb1ZvbzZQSXkxNlV6NW0tWFRlRA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MSTR Saw Over $180M in Failed Trades in March, in Possible Short Squeeze Signal - CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWU5ZY1JEVEpPQmpEa2JSaExDblVJLUp1Uzl1U2dCTV80OFU3VGR6aHlta0kyc2lfbWpFZ3VQVGM1UXpDUFRUY09wVzdJcmV2N2xUQWRSSzRVTlVKNkNHalhCdEY0M2NzanlVcEkzcTZLS1BwaFNjdV80UEs0NVV3U3o4cmhfU19yb1RacWRsTWtFbEpHMzRwWjhGbS1OZmNreW9Gbk1qZlFRZHpVSkdGOXBHYzNJWEpEX01wZ2lYejJDUjc0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "MICROSTRATEGY INCORPORATED (NASDAQ: MSTR) INVESTOR ALERT - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOaDJnbjhCS1V1OUFDTDRwLWpNZVZ2R1laclBTMHlqcFJOTXd1OC1iZzk1ZjQwUEtEczhsRlhrOGFWX1pvNUpGc2Jnc0ZxemtwdElmT05yLU9CdmowV2NzYnhLYmg2cWVKc1NyRDBzS3A0SEhkVENaaXVMMzhPMUZyRl92YU12ZUw4M3BQZFFYTUdBQUoxTzcydGNEeXo3MVNOTTdvbGIyaFA5WXVtLUoyRDJOdjdzZnhBT1RjZkEyRWhWS3p4Z0VCWUxWbFc0RUE3cDljMVBFc19JUXZjZXI0SVk0dzB3eEh5Qm05S1pFVE9oVkcwZUhRcUg2dVB0Z1JobW9vem5WVHB2WnpNX0J5SzJEOXVlemtOZ3NyY1ByVlk2cUt6aG9RZTk2T0ZoeXZQX2Y5akpJSTRVTGIxQTBPT1pOSGktNmExZnNvcnF4WnVPLURJQThFQkd5RE9UQk5JOFpR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MSTR Shareholder Alert: Robbins LLP Informs Investors of the MicroStrategy Incorporated d/b/a Strategy Class Action Lawsuit - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcjBXSHJHNEk4cWZKaU1MamJqZzNZdzdmQmYyQldkTzRoeXBXakFtZjlNbHplNVNxM3hOeEFkM2xWSzF1a3YxVTZPU2swSWlTQlBYamtTYWZ2TVNieW1sWUYxRjJRSDd3UE5CdFlKbTlCV0NLaFlhVXpwVXJvb2kxTF96V2FCR19FRmFUUXZUOUR3LXpKbnhLSV9vZzBkWTlxS2ZfcklmWGU0QVp5UlZiUEZWS3pLemFzNHRkWUdmOUhMMDJndnM5alRUdFNJdUU5X05OLUZOajJzSUwweWZVSy1zbTBDRGd3NWxHNXcxNV9tR21wVGV6VkhIaGJ5Qk5XdFVyOUxzMFdMcUxRcVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Analysts Say MicroStrategy Is A \u2018Turbocharger.\u2019 Should You Buy MSTR Stock Here? - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWx2YjB4N2xVYldOa2psbjZqR0ROTGVsdGVFdi1NSWlWNFpaRVhhbVhVaV9PNHFfZy1ST1VKN2c3Y2FUUEQxc0NsUWlQSEU0R3owd0FMckEwVHBITnAwNGI1Q3RILWgtWnhvZUUwRTRWQS1RYkJuRjdSeDVRQUJpQzhhZHQ1SEloS0dybDg4ODNsMHdSRmlTV19wSlJRTmpwY3FpX0htQWRpd1AwTmJ3Sl9BZDJvdjJVb1pfOQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "\u2018Load Up,\u2019 Says BTIG About Strategy Stock - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IUlJGYVJhN3lmSGFHSWJGbzR4Z2NhRmh2VXZWcUVTYnBiNkZnMk93X1BYWmgxTnAyRFNqT2ZQRUlBZGFVV21UZDVPTGdhTHZYbk5XSjQybG40MjBhOWVCekdUQThjTGl2djFjWEhsZHo4V3k0UTQzZA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Strategy (MSTR) Acquired 7,390 Additional Bitcoins - StreetInsider",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTk5uTXhNWmN3OVdaSkxKM1JyOHJfVjVLdExMTGZlT1FwcXRfOE9PcjNuQWJSUUhQU1Q2YmxfaVhSUjlGY1ZLWFBiaXR2a1pCZjFTR0dBMmx3N2lpUzR4a0ZXT2VWRTNJT2tuNjZrdkZJSC1PM1MtVVM1UW43dE9PbWFLeVRod0xYWU56ZjlfOTZvY1AzcGp4bGNfVl9RVG14ZGZsblpTSVppeDUtUFN0amhmbDJIUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "MicroStrategy (NasdaqGS:MSTR) Launches $21 Billion Equity Offering Amid Q1 Losses - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd01PNllaVGJxMG55bF80endCS2xpdUZmclByazA4TVpOTFZfUHNzdFc1bXhyOVlISm5RVWd3ODlwMUhQQTJxeTVlQWp1d1FhVFBOdm1FVmRvNlR6UW1lQXBnbnVtZWp4MWRHdTVyRE14cVhDNE1FTzFMTG84QjVpeXBkU0pkbzdpSC12ZGRn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "MicroStrategy\u2019s stock surges to highest price this year as bitcoin regains $100K - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRG5yM3JVQWI3Qy1CV3pwZTc2dERZbG5ESGZkbWMtNHF3azM0RF93V05DRzMzZVA0cmxUcWJ1ZE8za0V5cUFoWk5PM21Zck5aX291RTFCckY5eWc5Mk5iRHhoRjdPdnViYlVrS2g5U0lwNVM0MzlIR3JvQXF0YXJVcWdXNV9hYTV1MHU3OXRyTnlIYS1pd3lNcUNwbUtvd21xb2otamppcFcxUDloM3I0MXdMNVpMZWJYUWZaZU1B?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "MSTR Stock Jumps Over $400 After Huge Bitcoin Purchase - investx.fr",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDBRSUhwWHNzZkFNd3d4RjgwaWhZZXdyRlBIOEViUWNQd21LMUZNRjU2bm5xTlVWUTVKdlpmTU9nSmdfbnBqRy11Z1N4U19iaEM5MEFVNC04b0VSWFVQcXlmQU5OdG51T09rZ2VySlUzNEZhWmRGbDBrUmFfbDVVTGlB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Jim Chanos is doing an aggressive long and short trade involving MicroStrategy and bitcoin - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUGN6aXZJNWZrNU1Nc2c4RmtlR3k5dFJPNGlEM0E1djcwRGlwb1JkNDlmRWx1Qk10UGt4MXQ0NVR5OHFEZGhhdHBGUm5tMV9vZl9UZGhmQ3lOSWc5THRxaExxQVVlR2wyRDNmVFQxUGZtM2Jfd2p0OVhidkpYbEdoRk9iRnJvVlpmYk5MQU40UEswTnRFelJFUERZcXN0elp5SFpuZ2RVbTAydko1TGgzTnVCWm1DUDBUX0pSUDB1ZXhDZGxzWGfSAcsBQVVfeXFMTnl4OUhUQTZSaDdHVy1WQmxjWmc4RUN0UmlnSVZOU0VnNGhMaHBfZ3JVaTBfUHVJeU8tQmh4bGVSUEpPQmhFc0swTEtKd2NEa0ZSUGR4V0hiaWZPQ3Y3RFpNTGdtTXFRbnYwcDFnY25nNkJNTllabXpLU19wdEQ5UDBaOWNKSVFEM0t4ZE1tTHFYSnBEZDRhSk1nR1I2Z2xtMGVJb2tWOURoUzJiSDZVUF9HUy00ZEdoZUdjRUR3dVNrV0F1VjF2LXVhYWM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Michael Saylor sends strong 3-word message on assets - TheStreet",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTUZpdDNlckJlRERGRnV3TngtUDRpVVBqMWE2YXQzckZTOVZwdDdTS3pwaWhvWUpaRWVTYUxaYkwxN3NYMWRxTGJvRW5jLW5sUENjZTg3RjBHdWJSQzlmbUhIU01TNG1WcnQteVJXODlwMWx3WEpGaGZ1dDBJSURGNnRwYTdMQW9UcUFnaE50M205cm9mMVdHcw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Strategy adds $764.9M worth of bitcoins last week (MSTR:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPalNzN0VmcjhsakJ6czk0cDlzZ0Nrc01makRISFRYRDdjQ2p6aWdOUjcwbXhRLThsQ3BpX3B5UWwyWGk0dGtjZGFWRzRDN21kUmxoZ0VPNmZQTTdpeHhpdVhFUEpVMGQwanJHcVNlc0xMeEtKMmpsU3BXN2VrNy1yVFNBZnpic2FYQlhaSlVn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Strategy Incorporated (NASDAQ:MSTR) a Reddit Stock with High Potential? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0VGRDJYMlhrMjJyUENXTzVLVEFzelpyVm9nM2lTM2o1S0xpZWg5S0M4dEplU193aUpUN2VybzdxNklMVVBJSlZMYm96Mk4yYUdQdW1wM1lDNG9nYWZ3OXVNSjNwWGhYSTZaaXBXek1OTlJZXzIyWXhNYVUycHZvTVhwQXdHVXZqWGYzZDJXbw?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-11-22",
-        "price": 421.88
-      },
-      {
-        "date": "2024-11-25",
-        "price": 403.45
-      },
-      {
-        "date": "2024-11-26",
-        "price": 353.69
-      },
-      {
-        "date": "2024-11-27",
-        "price": 388.84
-      },
-      {
-        "date": "2024-11-29",
-        "price": 387.47
-      },
       {
         "date": "2024-12-02",
         "price": 380.3
@@ -634,13 +502,149 @@
       {
         "date": "2025-05-21",
         "price": 402.69
+      },
+      {
+        "date": "2025-05-22",
+        "price": 399.46
+      },
+      {
+        "date": "2025-05-23",
+        "price": 369.51
+      },
+      {
+        "date": "2025-05-27",
+        "price": 372.2
+      },
+      {
+        "date": "2025-05-28",
+        "price": 364.25
+      },
+      {
+        "date": "2025-05-29",
+        "price": 370.63
+      },
+      {
+        "date": "2025-05-30",
+        "price": 369.06
       }
     ],
     "current_price_data": {
-      "price": 402.69,
-      "change": -14.23,
-      "percent_change": -3.41
+      "price": 369.06,
+      "change": -1.57,
+      "percent_change": -0.42
     }
+  },
+  "news_sentiment": {
+    "summary": "La tendance cl\u00e9 de ces nouvelles est la performance de MicroStrategy en relation \u00e0 Bitcoin. Les titres mettent en \u00e9vidence le fait que MicroStrategy a fait une hausse de 28% en 2021 et que le stock est consid\u00e9r\u00e9 comme un instrument financier int\u00e9ressant pour exposer son portefeuille \u00e0 la cryptocurrencie. Les titres \u00e9galement signalent que MicroStrategy a bulki\u00e9 ses holdings en Bitcoin, et que l'entreprise est consid\u00e9r\u00e9e comme une \u00ab turbocharger \u00bb pour les investisseurs.\n\nLes titres ont \u00e9galement mentionn\u00e9 l'influence de Bitcoin sur les prix de la plupart des titres de la soci\u00e9t\u00e9, ainsi",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is MSTR Stock A Buy Or Sell At $370? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2Q3R0RXbVkxRm9TNGw2WGpmdjNNTFZWeGYtYngxUXhtS2dnaW1rRGZ4bElRaFJvZjFnYmpMdEZQY1pUSF9oZ084YmZkSlVwdVpqYnVuRDhjRmdWUnJkWlRITFVOTnpWT3FrNnhMNjB5ei1vOUtvUHRyeERJQWUyZTcyRDlseTRXN3hrT3NOYnVMNWNyQS1ONg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MicroStrategy Rises 28% Year to Date: Buy, Sell or Hold the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUm5VekVaWVkzQVN6V1VfSS1kYkJOWF9XQVRhRDF5NFQtUTl3anFJSTExU2pCYWhURUVybnhfMXVSWjI4bnExNUFwX0lJdjM0ZVl2WXdDUHhpX2pkQURHRVAxS2lhTkM1RlBJSGRtLVBkaEJGR2xObTVDZ3dRWWZEZE5kdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why DJT Is Selling Stock to Buy Bitcoin\u2014and Why It\u2019s Not the Only One - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DdFNJdndDN0d2WWJPVi1YM3c1OS1EeVhBVkR0R2JWbE5BNWk1bzd4VWNkd3hOYk1RTjlkTVFZb2k1ekxTNm1Sc0tONlNCa1U5RHBtbGNzd1JJLTA1OFFOQU5UbWR4ZEVHLUhPRWRuXzljSDNpVEM3cF82ZTE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "As Bitcoin Tops $110,000, Is It Time To Buy MicroStrategy Stock? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnNCX1AwUERfMl82WUZOZFp1akoyY2hycUFqbVV4YmZEVVJRcUtlbGdBUUttdkRhTDkwQlVWRFNPOVBEcjVnLWhQRnVRRHh2NnU3ZGhETmFhN2xsX0RoTTNFZVB2Q1FQSVdIVzZaNWNjNl9NZ1hFd1JqQS13Uy1JOWVSX095bnJWWjF3SXFfR19MSTFaeDFGZ1NrQTNEUkM3QW1YRlpTRVhHUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Top Cryptocurrency to Buy Before It Soars 9,105%, According to MicroStrategy's Co-Founder Michael Saylor - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTBmZHhLTWlTdmpHMGphRTlCTXlEaF9rX0NnNTB4SEViSVFzbmZ1c1otRDFZd21DclF4UFlOaFlGenU1clRXNDVkeGxyRW1UNG9fcjZ1eXdyeWJxcWxCOFg3REtpRUpHTDYxSjYxb0d5bTh3d1VtWEJTdjRzTDducmN3SjF1cEFLX2dKU3h4YnBiQkRQWDR5UA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Strategy Stock (MSTR) Still a \u2018Compelling Vehicle\u2019 for Bitcoin Exposure, Says Top Analyst - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWpMa2tpbEd2TWI2dUd5aFBoOUhZdjBFMU5ldHpSNjNMV3M1MkdiNlktMmdoNEVma25DT2xhOGtlNGZfM2RwekFORVMyR0VwSk45bTk3bU1oWXRuTXZNSENJWW56NUU4eG15Z3prZ2J5ZnFISk4tUjJLYmlXd3lpUmdTSGJpU3BWM2ZhZjZGVV96eVlyblhZcVhIbkg3SGpKN25fSjJZblQwLWxPb3BiRzl2eUk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Brokers Suggest Investing in MicroStrategy (MSTR): Read This Before Placing a Bet - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWDAyN0hlTGtpaVRpRWFXajVqZ1BNSklYVDZpM0JXVVlCem56c1QzUXl5MVc0Mm91TjFBVUhoNTB2YlpYLXVYNm0tbG41VDRjdUtBd3ZCNF9tTVNqcnpRaGlMdnBPcndSTmdUdkFfYzE1bkFzaDJ2LWQ5Tkd6TkpqczBxa2JJYk9GUTNLWXNSVXByWlZi?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MicroStrategy (NasdaqGS:MSTR) Sees Q1 2025 Net Loss of US$4 Billion - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMU94YTJ5MU55RVcyUk95ZWlsWllvc0tZX25DN2VuU0E0OU5BNGFfUzdFNXRLdFduaGFqbmhtT0RHaERXTVh0VG0zOUprM0tOWWE2Njgyblkya3hoZ0lNR0xpck1CUFdJamQ4MU9wenAwaUhTbW51MDR3SGhoc3VwUDZPOXU2LU1U?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "MSTR vs. MSTY: Growth or Income? A 12-Month Showdown - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam8tR1hIUnJfaUZqSkU0YWR2NlA3RlZra3phYndJUExtRTVibV9fWkJTZ2J1Z19RLS05QW9QSkYtY2RIUmtLQThWUzNfbUo4S2t1UHhzSk1LV0NLY0tsVlEySklnTktJcUMzVExwNXVEWlNldUJidnNqT1BZM05NT3BJdjJmb1ZvbzZQSXkxNlV6NW0tWFRlRA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What\u2019s Behind The 500% Rise In MSTR Stock? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcnpCaDJvN25xeTktYTdkREVjaG9qSFEtYWhpcXRkNVYzMnMwVjY1azl4ZVVVUmpXb2Q5Y1NsQmZoYzhlb2RBejN5VVpxQWVYdlkyZ0JvR09RUmFfT2plVWdacXRMOWFiNFE3N092VHJRQmR1UFgyTWRnbTVId1N4OUY5dnNCWmFkbjJzUlYwOTRBM1FJb1pTc0txTTdkNHFJeHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Strategy Is Lagging Behind BTC's Rally, And That's Ok (NASDAQ:MSTR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVRHSjBIaUpKTUgxZU1DU21jVWFRNzNJd1BYXzNSRUlnNk95RzliS3lRZVBpeXQzcjFCT1VKdjZKZUJlemhuQTNNUzVKeHRBUzRfdTVVYm1FMUVMZEtPWE1EUVJud25ndWNjYzFiQjZRZVdaeXZrM20tM3FubWNHWU40TmlCZkdXNmNvcm81c3VHZ1Bv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "MicroStrategy Bulks Up Bitcoin Holdings, Bringing Total to More Than 580,000 Tokens - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdWR1cGdFdy1OR1oxekV6a0E5cTBOMWhTYVJBSi1wSVpKNE9hUkstcEFVSmJha3A2cHdhQ3Z0SVozdXRSVEFzQkhYRnBJMmVkOVp4SXVQLTJoUnpZc3gzWUZfdkdrN084THl0MEZSWlNSR0pPRUJ0cVBWYUhpblNkT2RVMU14RW1qN1JKMg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deconstructing Strategy (MSTR): Premium, Leverage, and Capital Structure - VanEck",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR0JzaGNadUhid21UdFR6ZFBJNUZtdV9jMTNHejFfVnpPZ2pfWTB6ZGlfd3ZSdDY1U2RDY3ZoT3oyQ08xQlk2YV9LYV83YVVYcml6T3FlNms5V3Jla1JmdjhsZ09XU20yU1NLbC13SnhNVUQ1TVltRkpEZGdiSUNteUJMMmVpWDZSZV94RjdBbWEwUEk3SkhoRjRraml5czJhNVJsNlJHa2hIdllsUkk5NHFld0ZoV2xfU3AyUFJpUVRzbVc3Z0o3VjdIc0U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Say MicroStrategy Is A \u2018Turbocharger.\u2019 Should You Buy MSTR Stock Here? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWx2YjB4N2xVYldOa2psbjZqR0ROTGVsdGVFdi1NSWlWNFpaRVhhbVhVaV9PNHFfZy1ST1VKN2c3Y2FUUEQxc0NsUWlQSEU0R3owd0FMckEwVHBITnAwNGI1Q3RILWgtWnhvZUUwRTRWQS1RYkJuRjdSeDVRQUJpQzhhZHQ1SEloS0dybDg4ODNsMHdSRmlTV19wSlJRTmpwY3FpX0htQWRpd1AwTmJ3Sl9BZDJvdjJVb1pfOQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "This $4 Billion MSTR Stock ETF Has a 140% Dividend Yield: Is it a Buy? - BanklessTimes",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcFpDRUpRSHdUUnhjSl96dGc4VWxzbFBzTFRFOHdQQktNcW9IbHhnWXBsQUV0Z2ptdzNVZERDTWxlYkw2cVZEV2pCM0ZyaTViNFZBVXJYY0RoNnprM0FkYWEtTHA3eHJVN1VZaF9QWFVYbnVtMzZTNXRWbXpEZHdRQ2lka1JaWkg0SEdZWUNpY2MtUGRWakRIRDNKaUFZTFZVeGtjdDFDcE1lQmo1VUVSM0dR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "As Bitcoin Tops $110,000, Is It Time to Buy MicroStrategy Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYk9yWEZfZDFmNkstZVYxX3R4NmhJZWR6UnVkcGtxNG1odS12Y1o2Ym9RVnZ5cFpPUFl6YlJ1VkZiR3FOWDJRQ0F1SWhJT1VuMG1NeWRGUFBxSUpKaW5HVEkzdWJ6dER1N20ySmt2OGNTQk5nclI0a0tsMl9kQ3J5T0MzQUhPNmFEa0V3dkthSzRaNFg3cFkxZ3FzdEtDTjctdXpRMHNXbEJqUWZfX3A3aGo3TEFZODFlNnhkcFJNUjRQQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 US Crypto Stocks to Watch Today: MSTR, GME, COIN - BeInCrypto",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5ekhuNk0ybnR5dFVBTWR0WnVoVGhaRFZiYy02YnJuLUw1RHVJem15TF9MOHlleGVnMHd6X3FtUWVMaXZTRElDN3Jxb3pIN1dPa2RZWGlGekVxWGZmSVJBUTlUODJscS1sUllkWDdyRU5aUGh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The only thing better than Bitcoin is...MSTR? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQemNlYWowMHNfTnhhVkp3bnNEb2ZtOVhhVlIzWTl2aHFLRXYwZlN2LVo0MHQ3VU03SmFNWWtzZVF3bjI4V1IzY3dyVkpSQlJwS2RzbDV6Wm1NX3hpN1lFVDlKUG03Q1JyWndLWWFiaUZrbWZ5RHRzVWFoSFp6d193RzZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MSTR Stock Analysis: Where Will Strategy Shares Be in 2030? - BanklessTimes",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWRqVk9aOVpEZDY4eTQ0TTlqX3RxeG9leHgzR1NhcHZPVHctYmJFTEdCVXJtUHRDQmtjWWpzMnhGRm9kQWhZRzdKVjgtRlh1QUpkbEVyNHBFSWs4VUJFeXZzM3lkQXNQa2lCU293cGFBXzFQT1hSQzNrWlpRU3phZlJNa1FhdUJWelJWb2gtTUlabjJFYnpFYU9PYjF6OHpCR3dSd2J1Nl9GM2dl?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Another major news sends MicroStrategy stock surging - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXh0UzZpRXBoejYtOTZINHJhdFZhaEp2WXpKSEJNeEdOWlFuZFR2WGdzR2FCTHlKYXpRaDNIWGJGcWQ5bkhnMjB0YXo3Mmh3dFZFd2RsS0NNWmgxc2dqcWx0bnJWQkZOaVlpaHVvZWMtUThkc1NWcFBFak9CbzhRYlpLbjlDTWZWNDgwVQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
   },
   "extraction_date": "2025-05-16"
 }

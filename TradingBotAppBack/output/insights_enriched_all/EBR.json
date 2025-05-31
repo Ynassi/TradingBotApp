@@ -31,142 +31,10 @@
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 3,
-    "target_mean_price": 9.43333
-  },
-  "news_sentiment": {
-    "summary": "Ensemble de 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant une entreprise cot\u00e9e : Centrais El\u00e9tricas Brasileiras (EBR)\n\nSynth\u00e8se courte :\n\nLes nouvelles concernant Centrais El\u00e9tricas Brasileiras (EBR) mettent en \u00e9vidence plusieurs signaux positifs pour les investisseurs francophones, notamment l'approbation du WiSE CRT syst\u00e8me par la FDA et la pr\u00e9sence de nouvelles installations d'\u00e9nergie renouvelable. Cependant, l'entreprise est aussi confront\u00e9e \u00e0 des d\u00e9fis financiers, notamment les co\u00fbts de production de l'\u00e9nergie \u00e9",
-    "sentiment_score": 0.05,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "EBR Systems Enhances Employee Incentives with New Equity Issuance - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPanNmQXRZZ2tfaWJIRTg0aDc4LUxqc0x5NEdGSXpJb3YzdDFXVzQtampjNzdxc2JWcHF0M01lbkxVWkdaM09hVjJMWGJnNzh1a29aTkhHYkJvcFZlTE82QzdlRlJJYS0zaUItR1E3VHhaTTFFZFlVNGtPNXdheGxmOXRxbDhXRC1UNmFxSWZockdkWUJOa3hyYUlyQlY5THUtZ2YyOFZ5V19jSVU4VXdELS1hT3YxTFN0?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Centrais El\u00e9tricas Brasileiras (EBR) The Best Alternative Energy Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVjhQQUt0X0R2dWJVbTV0VWUzSDVreHNCa25LYjZBQXFsanZ5WDMweVlYSW5OMWRNaTZLNk55YnR6Q2Z6Um9KbE9QWUhZdnhZSmdtVUpmT0Q2YjZUbHJUeVo5c1hUand2ZnRvUFlwdFNhRXZZTVVyRE1sUjVIT0tqM1RDUGJtQ2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Centrais El\u00e9tricas Brasileiras S.A. \u2013 Eletrobr\u00e1s (EBR) Among the Most Profitable Utility Stocks to Buy Now? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZklJclVobFZocXo3NkJ4bnA5OEhFTkJsNlJiZ05mR2p5MGxqSk40M0lERXVLOFFHeHlURFRKLUZDa2JJWWVYazBjOU5wSGZKeS1Zd2RSaXJyS2hzR3VzRko1TGJLR01CdXdtTzkzbkxsQUJ1SkdwN3Y5YWxnZjJsTzZ0aVpGYm00Zl9ZR1ZQSHVpbmhKQ0V6QkE1Wm85ZG53T2dIaFF0VF9PNHVjejdjNl95dGhRZzZmMklZTUMwSVcxNk1CbmJyZTU4VV9CMFBWc2NZd3U2NE9raGY1OHVGREJRMFBZOUxDSThwSEJUanVOTjVVTnVJdEE1YWVxMHBmdGlqdkNRWnhfMThHS3BhUWdxOXlja2ZYZ1lIMw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Cubist Systematic Strategies LLC Lowers Position in Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s (NYSE:EBR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM0RSV1VYNGU3YTFSWVBXbnBvSWYzR2RZclBfR3Yyd2syYUl1dmg0dkRiTUtLVWkyTURxcWZ3d1NTLXFZSzk1M3J4eG1WX0VMVWJORG01ZUd5ZktZNHM2YmNlZGlYRU5UUHRIMWtlSVVncUhoZEZWZHY4bEpzUklFZndNZEoteWlwZk1GY2EtNmFta0lnNHFPOVRxZUhhWlBTbXpLZHdwcnZJbDJuWTFCZ1dSYzkzeUR2MWZfZVBEc04tdTRERHhhZVBPNlAzMHhMSzZLNmVodm41YXBlSkFybWV5bUE2QTA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "(EBR.B) Investment Analysis - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUS1Wb0xjU1ZCenBTUlYxeDN2R3BfU3o4Q29FXzkwR2xhcjhQbHpzTmFLMEdEeVVsekxQdmU0dU9jU2Y2LXk5dV9aMkJGUGFNRldnYlVSODktQnZnTjVjbHV0b3MzWTFYS3d1V00xZUV2M0ljY0dnX18tWTZlTVVXV1g5T1FWUjJfa2pjMkRXSEJrUmhIUE96NkhaN2ktSHZwSkE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's Why Momentum in Eletrobras (EBR) Should Keep going - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWdwdTA0TnQ4UjBScFNFUlE4QTFTbE9VcW1YWkswb1JmdGhxM1hFakFQdmZHNlg3V1o5UGU3T2ttMDNqV3lxd1FCVEwxYWNwNTJjd0tGY2Z0YUZpVWxuZ0lEdlpnVHlqMkZOMUk5QlpsZmk2ajV2QnhBNnJCU2dXVFVVTzhIR043R0tV?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "EBR Systems Secures FDA Approval and Expands Operations for WiSE CRT System - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWVJUmlLTG5yMHc5ZkRIcVBEQ1pnLUJkZHhlWlc1cXBzUkcwSno0X3Rybm5tZGFqVkItUDJRbUtENkd5Vl8tRTI0Sl9CYzM0WE5ZWURXMGgtYy1VTVJGcVE4YkxKY015QnFsYnhJeGFycHppZmRkdzNPTDVrYmFpd0gwZ3NMb3lqZkxQZmRjbHNFaDVNdThKQmZaaERsOWZLYS1keHdiNVFvYUYxaUVER2tWX0dMLWd1ZmlDRTg1dkxqbVJlYlE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Centrais Eletricas Brasileiras DRC earnings beat by $0.03, revenue topped estimates - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWQtdVlkOTItRHZKWjFZVG0xSkJzR2lPTVJoeW9TdnFSMWhEYVRoRHNIcS1YRm1xektsOFZRc1F6OHIyc2tkMWNTclJwajlaek9LZ0J5WFpjWFktQVdhZVJVSFlIU090WUNhaGtCWEUycnJoSHZ5UkYzWkI1dW5kY2ZjdXBqMDU1cTFlNXlpR1JKcndCa3JxWGdZRlk3QXpTSVNSZXF5ZmtWSkJPMHVMWThSUzBHZzVfWF9UeUpXdFpZX2R1ZzZJ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Proximus PLC's (EBR:PROX) stock price dropped 3.1% last week; sovereign wealth funds would not be happy - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkg4R1FJcDY3WmFFcFlGdTIwY25GdjdtbzAtWHYxdXhqZ2RfckFfaXpPZEo3ZzQxNWRCcXVqYVQ5WnpWRVI1Ym1rSWR6OXhtMzBsWDN2cmN3VzNTN0tFdEdYeWp3Z0lRTUlmNFpmTEpvRUFCemIzbVNFdmhtY1dKTFU3MWNLTTlYUFhTa2ZuRUZRQXJSRnNhTTRnbUpjWV9kWmVRV2hIY2ZxbFk3bVJPMFJnYWYxaEk0X1k3SlpGT1NrbkpyTVBNUERB0gHPAUFVX3lxTFBkZjBlZi10SXZtcG5fNmZKdWltbzFWNW9TUWl1cVYxck9TamQtTXNQQ25OU3VGRlBTX3JRWFVyVUlwSG1jOUFxcHlWZnlfSG8xSkdXcDdBSVZaYm8yb3dSb2xkTjFfRDQ3SWhwV1pNeVVjeE1YQXlhU2VDNnFCMFZJSEdIeFhsNmVLdlh0QmU4NjNZMTB5T1ZOeGp1d2lGQk9GeVZYWHc5RkNZcnVoN2paV2RiaVpjQ29TWUZkaXprWmE0QmY3U29WRXJ1cFEwRQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s Q1 2025 Earnings Call Transcript - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQzdtZFhSOHllSkE3eFhlV3phQzFLaHBnWG4xOHprRDQ5VU9RVWxDYnRZZTlRN1c5QzBGWnJzV19MT3JnUEptOUdBNGVicHV6UUNNSmE0Z2h3WXktNUUycV9nREpKcGdXdEt4T2ZFc2g5dFZpenJiY2Z2N2JheTI5R2V3VFVfZ0l1Nm9kanJSOW1peTAwOFl2ZkZ2QmNRYVA4d1dwVzl6Zw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "How to Take Advantage of moves in (EBR) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlVaTlhsbVlDenpSTWhJVU1aQlFyVUpjXzNGUmhUN2FDM2NVQjcwSGNqc3FwNEh0ZlRPcDg3dnZ5QVpjN0h6dlR2VFBFaWFfUXFPZXdhczlGUURHdW5kem5mQUxKTXhmWTZMYXdQMGItN0w2NEUybG96Z0I3Q2JGdXNUc0RRMm52TmctaFpwaFNBYVd6UWNQU3J4cWdnZUZWNkxfRDRVWlpFLWF1YS1JY3Jn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Eletrobras Shares Slide Amid Earnings Challenges - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkVDZlh1ZjJNWVNtbTZaT09Cc3N1US1PcklzYnZxaTQ5ZEIwZTN1MFpDTm92cnZmWHQ2emY3bHBaMGJwX1FodlBFYzlvenk0ZWg2X1djUXZUOTUwWEVoUkQ0OE1nLUQwb0JCS0tuNkJGV0tiUXRPdWpfX09PSkNsakEyREhOVVowS19ZX2RjTGM?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is Centrais El\u00e9tricas Brasileiras S.A. \u2013 Eletrobr\u00e1s (EBR) Among The Most Undervalued Renewable Energy Stocks To Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3pVSnJScGU3V082Nnk4RnJMLWdZNTBBUWhlMXZvcVBIUGJsb2gyamdPblJvejBVcEs3RlhZbW5JaVZfTm9xXzZ0MUUycS1wOWFXTHlJQ0JoLWNkUm1pcDJlbVpkcmZia1RXaFFXZzgxMTlya2RLbTdsRm90QmdEQ2ZGRHVDR01odE9WeUxR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Schonfeld Strategic Advisors LLC Acquires Shares of 119,043 Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s (NYSE:EBR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX01yS1VXR2lVeG1ha0F2aDhyZU9KMS1KRGpJaVg3OWsyMkV5S1JjZlZOZVdFRWNIR0w0WXdORXVjYmdhX2tENjdzSFRLMzNRQThWWjFzUy1lSHpBOXVzT21IemlvUmJaamdPdVJQN1ZJMXcwVjNTT2ZnNXhVRzk3bzVfU0p4dWlLYmtOd0Jka3RGSW9CWk91cW9MVExRd1prU3JGWjU2RVZxajVfMkxnRVpsbFlvWERSZGV0VDdSYWg3NDQ0X2ZKZUNwSmVMLVdLQ0lYNFRWLXE3VlMyN1N4WENiVG54eUtDRXo0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "EBR Systems Announces FDA PMA Approval Webinar - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWIzSUFmQzZGZkdiY2xjY2hoV3ZpbldCRHJnMWhJMjNZcjkwMzllQnlVSkFqZFk2MmN0enk1SHRUYTRnVmp5S2M1UzRyQ21DeGdKcmRRbDItN05SY3lSQjNJZEdkZHkzUTU1V05ZYjlBSXB3LXhBLThldUlyMzQ1cGJqRmFfTkNZZ0VvX05rN0pkTnpXMW5ma3IzSTd2WFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Kapitalo Investimentos Ltda Sells 206,468 Shares of Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s (NYSE:EBR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZENWcTEybkxtMmcyZXhNdXRtcFZIaHV5T093U3RIdFBjOF9vQ2dMMzE1Mm5Hd203OVJ1aG94YmMwbDRGVWtmWWZlVjYyNFI0QmdueHRVZ3pUSnZUSEh2OHJ3VUtxUVVJYTRGemlORWdyb2lOUTZQNjJTck1uUmg1MERPZm5ISEhFMkdYc0NkaTBCeXRCazViZ1ZTUklKQlRHcG9wU2R0WWNEeXUyQmlNTGhWTkZTTFNuMGpjU2NKcHBwMFM2UldWMWZ0RndWZkRmdDhZTHdnUHRIOEFZMEI0ZHJQeEhFQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "EBR Systems Enhances ASX Communication with New Appointment - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcG5saW5qbzNkUFlBUWNsMk9IREUyTmgtZXFsemxYT2NORE5nTVdYOUtVdVpacmZZcHdOY2dVQ1RLbDAwekVScGdIV25weFVqY1Bzc016VHZVNUlaRzhZdzB6WEtFWkhXQU5tX3phVm9paDNuU2lKc2pzVHVsR3RRT1lqeTlaZ3FYMERhLWtJZGhLRVZjUEp5cXRVdEdDMUxaUVdXVF9VRTNZTTFaS3NiNw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "EBR Systems Announces 2025 Annual Meeting and Releases Annual Report - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGR6OW9Dck9kb2Fad2pna3ZkWmRwNG45SDg0aURRa1pNM2ExZ0o5VmhRSkY4WlhmZ21hbXdoazladFlJQVp2b0h4OHdsWUR1Vm5oSGdUeWtIVnVwbjZoanFNYlhDei05Zk5pMXctRTE3TTJydU91bDdEQ29iR28yZ2tHZnQyQ1pOaFJEMDd6LU8xOFBadTZ1Tkd3bmhqeDNyQzhfdHBnUl85aF9UQWxMNjNXWnNjWFdaNWZMag?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "EBR Systems, Inc. Releases 2024 Annual Report Highlighting Innovations in Cardiac Pacing - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQak5jbDVhUmdTbUxfY2tqcHVjMDNkTDN3WFBCWWFoQ1FGTGZsQ3hDblRQRy1sclpVcGRvcXpKaTRpM2txVjhaVV9NMWFWODk5emRCbkk0endXLTBvUThwMndtVUtKNGNEV3Z3ajlCM3JHZG1PNGlEeUV0RHV4cDVzVzA3VFo0cHRtYkxaemhvS1c1MGxEUmpwcU1rRmQxNEtxaGIzelBkUWlBRDNlZElHTml5V1JFXzZmbzhMbnFidnVaZ1Nyd2hWX0Q3ZkYxMk5sZWxpcQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(EBR) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3ZjUDZQNXRwdGRwZkh4OXJhcUw1ZUlIYzJ0Y1hZaWZaYUp4c203R182TURld3hsdGJrenVlXy0yR1o0elM5RER4NjdrY2NzQzREYUQ2UmU0YnJXVTFvb0JBVy1HV1BSczJtRWV5bXZNalhLckptVVNmVEVvSWVDdU9kbllTUUZZaXBVVGFrSnF5VzhQbzU1N3JOUHlJZ3FYbk1pZzZmdDByQ3NwamRidkxUT0Y?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "target_mean_price": 8.76667
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-11-22",
-        "price": 6.08
-      },
-      {
-        "date": "2024-11-25",
-        "price": 6.2
-      },
-      {
-        "date": "2024-11-26",
-        "price": 6.3
-      },
-      {
-        "date": "2024-11-27",
-        "price": 6.01
-      },
-      {
-        "date": "2024-11-29",
-        "price": 5.71
-      },
       {
         "date": "2024-12-02",
         "price": 5.71
@@ -634,13 +502,149 @@
       {
         "date": "2025-05-21",
         "price": 7.28
+      },
+      {
+        "date": "2025-05-22",
+        "price": 7.35
+      },
+      {
+        "date": "2025-05-23",
+        "price": 7.4
+      },
+      {
+        "date": "2025-05-27",
+        "price": 7.47
+      },
+      {
+        "date": "2025-05-28",
+        "price": 7.31
+      },
+      {
+        "date": "2025-05-29",
+        "price": 7.37
+      },
+      {
+        "date": "2025-05-30",
+        "price": 7.33
       }
     ],
     "current_price_data": {
-      "price": 7.28,
-      "change": -0.09,
-      "percent_change": -1.22
+      "price": 7.33,
+      "change": -0.04,
+      "percent_change": -0.54
     }
+  },
+  "news_sentiment": {
+    "summary": "1. Eletrobr\u00e1s, the Brazilian utility company, has been the subject of various recent news articles, including changes in ownership and stock acquisition by major investors.\n2. Eletrobr\u00e1s has been downgraded to a \"Hold\" rating by Wall Street Zen, while other analysts have expressed optimism about the company's future earnings trajectory.\n3. Millennium Management LLC and Schonfeld Strategic Advisors LLC have recently acquired large stakes in Eletrobr\u00e1s, indicating ongoing interest in the company.\n4. The news suggests that the company's stock price may be affected by these developments, and investors should keep a close eye on its future performance.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 2,
+    "headlines": [
+      {
+        "title": "EBR Systems Announces Changes in Beneficial Ownership - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVk3RnBPdlkyZmVKdDdUU3k0Uk5ZZWJXOW80d3N4SmRZMGpkQi02bUcyWWFzTU85b0NJN1R4NjBTdGo3dURNcGxwS0FIWUpBVGYtZ2JTRHpCOHFnRTBDWTBfaEdKUFRzSjRnTTNzNWVDTnQtNHhfSkRDWEhrVW1ic0FYalVsSmJVMnBvV042UmpMTGRJc1U4WXJFQWJ6NTZZN3pfZUdJQ1I2TVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EBR Systems Announces Changes in Beneficial Ownership - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWNXdURGN3ZpdE92SnNYNUxXRnl5aDdEdnh0Vl9RRHhUOG1TeW0tc2NBT2dpNXRrb3k3SEc1aXI3RzllNFFESlRjdDdrcTVWdGxnaUFkOGJDUkVka0swSUloWTdnX2MteV9hcnp3UHJYQ2x1bzNnVUVEUjBVZTBza1FaX2JCZFg2NjdUdVZoUWtscHdjWER1dUlaRjF6Z1FzdW5qN1l3bTY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s (NYSE:EBR) Downgraded to Hold Rating by Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZlVFY0JDMTZQWEpRVjFaTG1fcFF0VUx1TE1qQk9xSTA4V2ZTbGpOcDF6NDVkYWI4SThXSVM3YjN5a3lUUjk1QUJxTnc2Z1hnZjFYSzA4REhXcGlFSkFGeGVLLS12aTJIRVJadUFUN0o2S2NlaThXTnc1UWhLRXVjNnlCc1hQeW0wWC1WdHZDWVJDYUV1dWlxYVlMSXk4eW14a09pRE5TdHJKSFZPRk5mUmVpWTlOUmt0N2dSWDdyVU1LcF9CdDNBRllhYUNGNjQ4Rk5kaWdWLTJldw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Etex's (EBR:094124453) earnings trajectory could turn positive as the stock increases 5.3% this past week - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ0VqeEJwclBxV3lBRDhQT1Y2eXFJQmNrNXo3bEdzVVMtVlBxX1dVNEw5ZFJuZXpSZlZmYktfZU1ZSVdZYXB0OUphd052Y2lFbTZpa0VtRWJxRFdwWXpJb01jbThWMXowYkJrTklUQTNIY2J1VGpyUzNOSXFDdlF3MkNmMFdxd2h6YzZHM1hFYUtlQnlRMFZuSTZTazBPMzdLQ3lxRmVuanBRa19lTl9SV3FaZG5IbjhBM1pvdzRfVVBRTWNLXzNNYmxtaE1TNll1WldR0gHYAUFVX3lxTE9kX19YS1pBbld3RG1idUZUbzhqbEozMWp5TU5vR3pVcUUtaGlqaUYzRTNkTU9MUEtUUU9vb1ZYclU2SDM5Z3EtZjRGTTFaRTJvUDJNRUtsSThTXzFSWXZmOTN5X1h2OVMwXzRnenRMaGtNTWhQaFdmNjIyazRRd0tEOEpFYnJ2cFptLWdycDZrLUhxVFdyLW1Dd0hyUVlUUXhJZVhlal9FdEFLczNzcnhUZjdGaWN0eWF5LTBQOGF2Z0xOZ0hoRTZoNEZSbW5YaG1hbXN5VGtPRg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(EBR.B) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUS1Wb0xjU1ZCenBTUlYxeDN2R3BfU3o4Q29FXzkwR2xhcjhQbHpzTmFLMEdEeVVsekxQdmU0dU9jU2Y2LXk5dV9aMkJGUGFNRldnYlVSODktQnZnTjVjbHV0b3MzWTFYS3d1V00xZUV2M0ljY0dnX18tWTZlTVVXV1g5T1FWUjJfa2pjMkRXSEJrUmhIUE96NkhaN2ktSHZwSkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "245,800 Shares in Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s (NYSE:EBR) Acquired by Point72 Asset Management L.P. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeVlySFpEajNCbDJzUUtPYTZaRkFTa3ZHdUFXRmRaXzFFajZsVkpacEZjb252cnMxUk1ZUjAtaUJDb3hZc0ZMSjhLcGxMcGVIVmNUVFkyMEpyc0dyVEladG1MSHY4T1dKNklsRV9ST2h3VkpaNUppbWFJVVgwMVJFTzBIMlVrdk5OX1lTaXVZVXgtdlNxdVdwdVJvMVdpQ01Dd2ZFQ0M2T28ySXZRV3Y3aG9JejlzZTRGb1ItOURNR3lSV1dNREk3WDJXS0RGTWR1dDV3TC1DbWx2Q2FReHEwUTJ2S3Z2RnNGa0ZWdERhVGpIWC1oZ3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Centrais El\u00e9tricas Brasileiras S.A. \u2013 Eletrobr\u00e1s (EBR) Among The Most Undervalued Renewable Energy Stocks To Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3pVSnJScGU3V082Nnk4RnJMLWdZNTBBUWhlMXZvcVBIUGJsb2gyamdPblJvejBVcEs3RlhZbW5JaVZfTm9xXzZ0MUUycS1wOWFXTHlJQ0JoLWNkUm1pcDJlbVpkcmZia1RXaFFXZzgxMTlya2RLbTdsRm90QmdEQ2ZGRHVDR01odE9WeUxR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EBR Systems Announces Securities Issue to Bolster Growth - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTQyX1ZQd2FkTlZOeWdWWWVzSlVqd2psTEY3NS1lRm51RE9BSmh4WmVvbEV0WVFXMkJaQktiX0g0NktMTUxQc0FQRHFfMDRtdW5HTEFuZjdDVkk2bGJmVXZhZG1nOTI5NTU3SEpKRk9zTHVDaWFBaVZSM3dpRGJ2VnVia0xnTy02UlF3QmVBek51bjN1T2RhTENJMS13YnVFTjRtN3Z0a2Nib1c4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "MELI: 3 Emerging Market Stocks with High Upside Potential - StockNews",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTERuQVRyYzNtVS1OWWpZT0hpSU90MWVDdXAyTUpuZ0Z4eGhwcTZ3Z0YzeEluWklsMTNsdjJFWlh0OU5FQkdPc3A3MVJjcDhSbHNXQ1ZjUFZiRGtCSDc4Q29aODYxQ2hPMXk3RFo5Y2FPQ1kxTjZsRmxrU0ZGdlhDVVZYOGFIMFpCTVFiYW5UaUhXcUw2UEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EBR Systems Announces New Securities Issuance on ASX - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWlpOTdYVGszbFc3bDVGWlRxTzN2dElfMXV2WXJBY203OFFzMG4xZ3JUcEI1TlpFemMxT0xyc3hXV2FwMUU1bXFoVTF4eF9yVlhHVkxYdzJwY2NJTGdjd2N4WXJyN1NyajBVU1QxT05QaGtWZDBFbENZQTVvWDM3Z1AtNlpzajRBYlZjX1JwcGJMc0NyWlRpRGw4RmxvZTNKTTA5alBKVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Proximus PLC's (EBR:PROX) stock price dropped 3.1% last week; sovereign wealth funds would not be happy - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkg4R1FJcDY3WmFFcFlGdTIwY25GdjdtbzAtWHYxdXhqZ2RfckFfaXpPZEo3ZzQxNWRCcXVqYVQ5WnpWRVI1Ym1rSWR6OXhtMzBsWDN2cmN3VzNTN0tFdEdYeWp3Z0lRTUlmNFpmTEpvRUFCemIzbVNFdmhtY1dKTFU3MWNLTTlYUFhTa2ZuRUZRQXJSRnNhTTRnbUpjWV9kWmVRV2hIY2ZxbFk3bVJPMFJnYWYxaEk0X1k3SlpGT1NrbkpyTVBNUERB0gHPAUFVX3lxTFBkZjBlZi10SXZtcG5fNmZKdWltbzFWNW9TUWl1cVYxck9TamQtTXNQQ25OU3VGRlBTX3JRWFVyVUlwSG1jOUFxcHlWZnlfSG8xSkdXcDdBSVZaYm8yb3dSb2xkTjFfRDQ3SWhwV1pNeVVjeE1YQXlhU2VDNnFCMFZJSEdIeFhsNmVLdlh0QmU4NjNZMTB5T1ZOeGp1d2lGQk9GeVZYWHc5RkNZcnVoN2paV2RiaVpjQ29TWUZkaXprWmE0QmY3U29WRXJ1cFEwRQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Millennium Management LLC Purchases 3,235,114 Shares of Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s (NYSE:EBR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOLVk5REpfWkI1eHhtZEFjQkNaLXdWVFlRRFVIZjBHU1h2Y2dLZ01fQkN3eDNzbWhacmExODFiTEMtZFBnMDZWZUxuQkJqYnRNMjlHODMyS0l5VHhqMnZPVmxSbjhGZ0xyNGZKdEMtbTNWdE5fTzlpaGdrdDlPSmR6eDFyOEFGSzFSSEtMMzktaHlWWDdwUFdFTU80VU1teW1DeUVJZE1lcnYyNVBWVFoxTzYtYXRMdG5MS1dFa09oRUttQllTZ0tHcGE5bzAxcUcxMUNPMkdlaVM0dkxUcmFxR3BSRHkwcXdQdTZGcVpOZng4S0FLa3BtSg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EBR Systems Enhances Employee Incentives with New Equity Issuance - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPanNmQXRZZ2tfaWJIRTg0aDc4LUxqc0x5NEdGSXpJb3YzdDFXVzQtampjNzdxc2JWcHF0M01lbkxVWkdaM09hVjJMWGJnNzh1a29aTkhHYkJvcFZlTE82QzdlRlJJYS0zaUItR1E3VHhaTTFFZFlVNGtPNXdheGxmOXRxbDhXRC1UNmFxSWZockdkWUJOa3hyYUlyQlY5THUtZ2YyOFZ5V19jSVU4VXdELS1hT3YxTFN0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "UCB's (EBR:UCB) Earnings Are Of Questionable Quality - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmtaWlJNbUx6NkU0TGVGS0NRWVNGN0RfcGI3T0FSN3E0MkJiZkhYaWxUa3RVLUwzMXFJRmxDb0RKTjlwd0pLekdQQzhzUzIyeWRHOUtkWm1mNElmX0tCdENzSDlaV3VQMHgxb3hsNXRtN3ItWkRtV3lObzUtTXpSSDhyLVRZb2MxQldMTDM0dXJhSnp4Umt2aUlwVTcyQmcxTEwxd2F5M1o4SHUtYUtNYVN1aV9uRFhlbHJjcW5BQjBNa1JZX3lR0gHMAUFVX3lxTE5ZT2REa3hXVE14cF9DaWI2UTlrLVBpREx3REozVXZkOThSajFqODlJOGR4YTdES2NnRHU5b0h1MTVRcXpUNWFfM2xldjIzNUgwbm5nckNWc3Q3SUhwRm1CVklNNm40QldSVUtHOHRxY2p2dWJac0FHMk54bGJDQUhNMGJ1aV92WXNSSjhCTmw5ODZCdmFEb09jVTdaN3Bmb2V2TTZBcFhVWXZtcm9aY2ZXNlFOa2ZrbThVUDBCNnlxZEpBYkJOR3FHWTg3Rw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Balyasny Asset Management L.P. Lowers Stock Position in Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s (NYSE:EBR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbWFVc0pEakNTSzZFVzRFZ0N2cFoza05xMW9qbmdmcy1iQnJmaFM1ODNGbkxEWmp4c09NZnhRUDFHZG5Xd2diVFB4cUc3UXdIOUNxWG16TU8zRTJ0dmN1QmlPNG1TLXpGOFVJNDFqYmFUX3RZc0swb2NFYUtLTHZDOEU0Q09TZjJfR3hwQmx4LUVUVXY4YUYxaS16SnI0OVVDTjZ5akp6bGZVWXdsa3VndHZyTFlkWmxLMEN0ZW9SSU5Kd2FUbkZycXVOWF8zc3B1VlR5YWoycnB6Z01WTGtlaFBDTEdnNUVNajRZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "EBR Systems Secures FDA Approval and Expands Operations for WiSE CRT System - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWVJUmlLTG5yMHc5ZkRIcVBEQ1pnLUJkZHhlWlc1cXBzUkcwSno0X3Rybm5tZGFqVkItUDJRbUtENkd5Vl8tRTI0Sl9CYzM0WE5ZWURXMGgtYy1VTVJGcVE4YkxKY015QnFsYnhJeGFycHppZmRkdzNPTDVrYmFpd0gwZ3NMb3lqZkxQZmRjbHNFaDVNdThKQmZaaERsOWZLYS1keHdiNVFvYUYxaUVER2tWX0dMLWd1ZmlDRTg1dkxqbVJlYlE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Poor Financial Prospects Dragging Down UCB SA (EBR:UCB Stock? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVZscTZzZ3pqSlRkTzdFNzhXYzlLRnh4ZW83RHJqWDBuRURaWmF1NGhRWTY3bTBJVk9ZT2d0VlhoZFNYTGhhNm11UTR4TDdZS0hyYmpKUTQyVW5sOV8tUWZEblVLLUp1b2JVbE9KZFNFWUJqYWxNbmJOSF9lT0J4RlZzUkM3Q1lxWWQ5dUdPNTB2S0tMWDRua0RKbFIxWUdMeXV5aklnMXZJSmJMZWliaWVUYUdLeEFuemNXREhIXzJUMVZyR1h4Yng0aERudGYtMUpYcnlwQdIB3AFBVV95cUxOMlJWWTNFaDhFZ2lrTnU0RjJBaWJLcDRCV3JVeHlJZkFRUVBWd3Vld3Q0Skt3VHlRZTR4b2NjUzlvUnVFVG9pc0VQOUJ6SURoOTRSNzdqZ1hBVWdTRkNYNTB3ZFY4VkhIbG1MWFJTTmxZN3dfWnB4NTJxbTdhV2N2RnpzSktsd0dLNzNVSW91TlRoRjNsWndoY21JVkxnazNuS3FBbjNSdzVUdmxTekFSZGVJcnB3SU1NeV9OcDdBLV84Mm10NktTZTVtSmhzdmpvWm9pV0pJVXdUTXBJ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s Q1 2025 Earnings Call Transcript - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQzdtZFhSOHllSkE3eFhlV3phQzFLaHBnWG4xOHprRDQ5VU9RVWxDYnRZZTlRN1c5QzBGWnJzV19MT3JnUEptOUdBNGVicHV6UUNNSmE0Z2h3WXktNUUycV9nREpKcGdXdEt4T2ZFc2g5dFZpenJiY2Z2N2JheTI5R2V3VFVfZ0l1Nm9kanJSOW1peTAwOFl2ZkZ2QmNRYVA4d1dwVzl6Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "bpost/SA (EBR:BPOST) stock falls 25% in past week as five-year earnings and shareholder returns continue downward trend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTll4clZVamZaMDh6THI4R0t1VEt5R1F6bmM5YUpVZllUOUxDSmhpUERWRTZZSDFsRVpLeF9XZF82ZzVWVWxqNi1Rd1VPUXlCVHRibzhncFRHY3dUaFdJNWVOSkRfdzNOejlzR2twVS1mQmRDNFhrX0hoX1oyYWVNNGxyUm8ycU1aODlvaUg4ZjVtQ2FrVThiOFNPSUktUFlBYzR2M1VmQnVTdXJtWWZSRmZUNF9CcjVIcG5nS21OaXVZYlhFNk5SVWlPc0p4WmFkUG9WUdIB2gFBVV95cUxQeU90d0xzeTRqT211WnBRWWJUTVRZaFpDRk43Z0NyTXI3VXJCeURRSnFtRC1MaHF3ODBfRFYzek81RkVMeU9CaE1qc0g0U1MtMGw5bUlEREtHOTBTdEMyV2ZtMjdlTFRObXBhTEx0cWFYakhHU19WT0Z5WHdwVmpTdlFwQ3d0dV9aVmR5RjBOMmhFSUZiR3ZKZ1J0VzI5VjlTdFpvSnEyZ2RUNlVqZ3BGS29oX3lOLU9IRHAzSGVQbUthb2pHSWZyTUVBdmJkRl9mQnZ3U1pzMlk5Zw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Schonfeld Strategic Advisors LLC Acquires Shares of 119,043 Centrais El\u00e9tricas Brasileiras S.A. - Eletrobr\u00e1s (NYSE:EBR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX01yS1VXR2lVeG1ha0F2aDhyZU9KMS1KRGpJaVg3OWsyMkV5S1JjZlZOZVdFRWNIR0w0WXdORXVjYmdhX2tENjdzSFRLMzNRQThWWjFzUy1lSHpBOXVzT21IemlvUmJaamdPdVJQN1ZJMXcwVjNTT2ZnNXhVRzk3bzVfU0p4dWlLYmtOd0Jka3RGSW9CWk91cW9MVExRd1prU3JGWjU2RVZxajVfMkxnRVpsbFlvWERSZGV0VDdSYWg3NDQ0X2ZKZUNwSmVMLVdLQ0lYNFRWLXE3VlMyN1N4WENiVG54eUtDRXo0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
   },
   "extraction_date": "2025-05-16"
 }

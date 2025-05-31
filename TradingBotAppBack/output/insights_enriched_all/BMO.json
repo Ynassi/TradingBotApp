@@ -31,142 +31,10 @@
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 3,
-    "target_mean_price": 102.95547
-  },
-  "news_sentiment": {
-    "summary": "Les titres d\u2019actualit\u00e9s \u00e9conomiques concernant une entreprise cot\u00e9e ont \u00e9t\u00e9 analys\u00e9s pour d\u00e9terminer les tendances cl\u00e9s, les signaux forts et les \u00e9v\u00e9nements marquants. Les principales informations sont pr\u00e9sent\u00e9es dans la synth\u00e8se suivante :\n\nLa tendance cl\u00e9 est la r\u00e9duction des cibles prix par les analystes financiers pour plusieurs entreprises cot\u00e9es, qui s\u2019est produite dans plusieurs secteurs. Cette tendance peut \u00eatre interpr\u00e9t\u00e9e comme une r\u00e9action \u00e0 l\u2019impact de l\u2019\u00e9conomie globale sur les entreprises cot\u00e9es.\n\nLe signe fort positif est l\u2019appr\u00e9ciation de plusieurs entreprises cot\u00e9es, qui a \u00e9t\u00e9",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.35,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.15,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "BMO cuts FedEx stock price target to $260 from $275 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjhJUWpjOTFrUkxKWjZINnlHMkFiM3d6NGhxaGZWOTZuZk0zY0dYM1U3S0U2ekZIWWRuOVgyd29BLVgzV3k1UV9WSEFiUWd1dXcxOVhlOXdLTFBxOVFyOGF0eDAyNE5zR3hHV2JCZEtfUFAwNW8ya1BXZ0I4dFNxRkFZcTVqUFRpcEdlV0gtU0s2OEY2WHVUZmp2RWdGcjdrS0tpVnBpN1F1eDU2enc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Alphabet Inc. (GOOG) Stock Has Multiple, Positive Catalysts, BMO Capital Says - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdTVDS0ZhTUx4VUpNMGV5Q2Y0cGNLODVlcWFuSjFKdXJKZHhxRXJJYzNOMEo0d2V4WTNmYURPRFRPSU9WRlFnYk41VTh0akpkWURkckY3MjI1LU95akxReEZmNUw1TGNwTXBKc0ZoS3VkYVU3cmg4Ti1yY3h0MGRNQmVnVng?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "NorthRock Partners LLC Takes $1.74 Million Position in Bank of Montreal (NYSE:BMO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDZRYU1aMDNXRXAxVkpzanFxZTZ0WlZ1R0c2Zm16cTFfUnJMQUJoUXpObXotMjQ5MHIzSzdwQWZlQ2dDTjh3SFY4NUNObVJyRFV0aW4ySlNXQWI2UHBtZDBCSmxraVFXQ3BEdk15Ql9TWFh5NmlrWlRKeDF1WHJFQXFOWWFRNXZjODdWc0xPN09lUHFPdnBnT2tuR0M1NmNCbEZJSi1wRUZNZEhJTU9PNUhvdHp2Ql9wUFQ3aS1Wcw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "FedEx (FDX): BMO Capital Lowers Price Target to $260 | FDX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFluRUJjcWJKLXhBQXI0UXhfQmluSUotS0F5QldITFg3YkQ0dm5YRmJzSGlIX01fNEs5UXFPa1J6Y2p0aU4yTWpsZzJfWE1rLVo3a3E1VlNmYXNUZXpMNVlSSFhHN1RGdzdROThlM2lGSk4wRTM2UklTRjlORWRXSUNlYjNselVqQjBKaHpRWkNSTTk5ZFg2Nm41ZFo4SGhKdjVrUw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Bank of Montreal: Undervalued, Diversified, And Offering A Safe Yield (TSX:BMO:CA) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTB5ckJqRUQtX0F2SXl2ZEEyTU9OMWZ2OTFmUG1JVmZSZU5kOU5sSGFKNTBPY2Q3ejk1OFFfZl9iTWZlRDUwU3FhSk8wNHJKOFM5TFU0cFhzdWZTcndKRGZ3dkVremI0WmxULWtyTzcyYTY5UjRGTFRuTTY5M2FBWldELW90dmRQYjY1akswd0JyTDY4TlpZNk5wWURmaktSQjMwVlBKSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BMO maintains Novo Nordisk stock at market perform, $64 target - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0RJcU1teDJwSXdQdU5ydTBYaGdlU0R5M09EcXJpcUU5Uldzc3EzckZpb0V5TktZMWIyc2Y5Q215anA4VnhFd29kd195X1c1NW41aFFWMjdaaXRrNklwR2tLMU1vd3ZrRC0wVVJzWWJKQWpCS0N6aFNlbk0zWVhZdWxvaUhUUGVhSjhSWlF0OTdJaHZ1Vk91MktuR0IzV1BJaTJJWHpOZUpkTU1mLVM2YkQ2cTY0WFBaQWlYeQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Captrust Financial Advisors Grows Position in Bank of Montreal (NYSE:BMO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNS1DOVVFMnUyYzNzT0Y3VUgyaGhEU0t2bmVNY3M5eW5ST19ONlBHWHhlSlF6UmxHc2xhNkotM1VpNzZMLTZEZnptQjVIdDVBaGh3QXA1RUd4YXFzMmlDMUpuQk8wQlhhcTcxUHg5SWxlb2NDY3R6QkZIRGltSWtBZlVpeS1hb0VVVmJlT3o0d1U3ZUFJalpwdlJQTTlrWTNYOXdCUmROeVNEcEZja2ljWjM0OHdubDNIZUVvVjdsRVktQQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BMO's Price Target Reduced Amid Economic Challenges | BMO Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDlWSXg3SHN4cnhIZi1jWHZocThWRXY0aXZKdWswbWVCMW1jUncxeHYyMG5HWlk0SEswOGhHc24zQktuUDc4R010ek1KMGczTE9wVE9vLUp3TTJYMkFQU1RMYjBKWG1IM2FyZlMtbDBac0tLdVZVY0NrS29HcjdXX2hfaHJWVXJGZzNucUFCSFFocjJQUUpxZmMzdE9naUhCU3cyLWVvOA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Bank of Montreal (BMO) Stock a Solid Choice Right Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY29EQlpucHV4MFRhNjhHamVrQjE1T1gwSUJwM05PV2dmYV96aEloV0NXOFV3SDR5WkVZVmtOT05CN1kyQlRQdnAtbUpFSFpJVmJEaDFaZG4wMlVlZF9nV01Rb3pjRUtkSjNUallvZjZpa2I4VlVxRmFCaVp6LWc5Qg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Neurogene stock target raised to $22 by BMO Capital - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmpXM2YtYzJqTndvMmF3UWI0MVlUeUZ5TDFUblIwQW94Uy1uVEFjbnJ1SE9wTUdLTkNjZk1hUTNRUC01aVF4YS1vdzZZdGNaeTU5ckZhZ3NEY1dTYmR0MVRwdW45OWhsWG9OTzBKZlNkUU56djJLaHNUSWFRTm92NkVNcTMxX1JIOXdtbUpJY0pfT0NjRnBUak1iVlduLUlIZDVQLUVOWG9SQ1RLZEVZ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Cetera Investment Advisers Purchases 36,195 Shares of Bank of Montreal (NYSE:BMO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOGppMzVnbDRaVWlZUFpRWm9RamRycTJvTDUtempSckVuUHNzQjRUSTJWbGVpZDBoaTFNTXdLeXZtUXpnREFJbGxtQzhVb01sVHplOWxySWx1Tkt5T0dXQTduYlVMcERQWnpuR0ppemlleTdMYkdHQV91RkhfUEtETnJfVTdFbjlscTkxYUYxWTJoRVhieFV6LWJaT1hBVzZ0c2pxUWJVUTY3c3BXYXdYZF92QkJIRVplSWlIbW5QN1owUkE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BMO lifts National Vision stock target to $19, retains rating - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFFwNW8tVm83dFZBV3FJSHd4ZEhfTWxGU1BqQ3hrMW5fblZXXzNRUVdydGdKcTFSU1pxcmhYTGFmSEJweUV4bW85RjY4RkhnVFBQMlNmQ1I5dmJmWHAxUjBiS2U0emUwSnJuSV91NGUtOGt3dlRuUFFkV1JtbjVJaE5jVjZkdXNSYk9wekhzMEVZVWtiaVNrcVdYUmxzTlg0dGcyLTJybnROYkpQTVoxc19Tc29aNkY4NDdN?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BMO keeps Bath & Body Works stock Outperform rating, $50 target - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2p3d0ViMHJ6eVdjcWwtZ0NmWFU2SzNObmk1czFycnJFQU9aajF4QXc5d01iaE9aUEVDcER1Tzh5N0x0NVB4bEZLSXNMZ1lfS1A3dnFXd2tBYXRldFc2NER3Y0MyTlNoS2dPNVRCYTljMm9Gb0R0Q1BwRTBGMU40NDc2ZFhNVzk5bVItcTcxWm4yUENSNjV3bkY0V1RPZUg0Y1hZT1pHdDRzSjEwM1piZ2QxZURINnh3YlFQaA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Acadia stock target lifted to $28 by BMO on IP protection - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUpXa3RZRGtoenJoQlpCZGdXNURmTDhwVEhUY2xBUGxrZ2pFam9UTFRoWWFHQXZBZHd1emtwV2FRMzNWSjZIdXlqZDRFUkFhcEZhSWZwTzd0Zms5ckJfNGI0YXV3VmpJcU5KLXlwRWNZTHo2X01BOWFUTVpQRWR6MG1vbnpZUEtFUDJoWVF3QlN0UnduWkp4UlRZUFVZMU5jdVFnR0xNU3BYWklhOVk0SThJVW9ZNTA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BMO maintains AutoCanada stock with Cdn$20 target - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa1lLZG0xNVQ0Q0RPdnlGOXBIMjd1NEZiLVhzNFN5Ym11bHNzcDg2QUxqWF9lV0RGdTBHN2RFa3dqXzhXNTYzOVdvNXpkSjJ3UUFtUXRjTk14SUNPaURRNHg0dWFpaWdmaTFPR3ExeUZHdWlGMXJqVTN5TlE5bFVYTU5fWTBqVHdYTnNWOV9FUU44b3pPZlk2VEZKVWQ5M003NVd4eXpFWkF1RGhm?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BMO raises Aritzia stock target to Cdn$75 on web traffic growth - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGFYV25CczlqXzl3WEtXSXQ1bERZckdxLTNDbmxWRkxrRG5BaV80cGJ5S1lzVUo0WUE5Mk1EMGVaeTk0WXRnRlRseWdFN08tRk8tMG5jWnE1VXR4Y09EampfNzloaFVsYmowV2t5VE43NEc5MDIwenIwTGs3aE9iaGdQYVV1RkZWSDEwS2U3LUhMbWtWdUh4MXpocm15VTNRbFRmRnhGZUJENUZnOWwyUUljY2c0X2o3WU5TS1owaw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BMO cuts FedEx stock price target to $260 from $275 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFpVVUU5Z01jN1BIOTZkWnp1NDlhMjZ4b3BRMFJOSDFLcXdkdElLTG0zYk1QOEppbzFZYUtfbkY2UnlLNlFZaHRFS19PckJXRnBHTjR6RlBfTTVjWm4xVjA1YndiR2hRUGFWWC1xTGtKSkJzSlFwTDF4cEFsdlhuNFZ0c2J1VHZzQTQ1ZUZsNUE1ZXNPQlptLXMzUVctWV9sZ3JiOVA3a3lDTjRpVFE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "BMO Capital maintains Netflix stock Outperform with $1,200 target - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXRDb3F1UkJlRVZ1bklwS0FaakpBUXViLVVxQzQ4RUgyeERyckhUX0R4bVIyUHhvVDhCQWxibl9FRWtYeTNBQkNhVlp5UmxsX3JxaGRMYTFNaEplcmw1THJlbVJXRmhyUlFPSVY5T1ZZMDAtaEVkSF96WkVvNEVXQVZ3b2xLcW1uRzZoc2VGMVZCR0xVeVpRZlpvdnpBaHdhLWNzV01yd2c1dUN0MjFTX3Zla0l1Nzc1NGdveG1MRHc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "The Bank of Montreal: Analyst Updates and Stock Forecast - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkhsbXdhY1dKRG91NW9VRHRMbE5KZXowM1ZZYjBrWHBJTVM2cUJ6NHlhODNaaDFrYUF2cjV4XzJZdEFRVm1wZ3RJLTZWNHBlYXhjcm5jYlRvYXB4ZUNYdWprX01zVmY2NmdvYlhoSnJ4NFQ0cWRuV2FSb0ZnRmZSQTZqdnIwOV9EWjBKMHJRUFAyTm9jWjRIa2c1bkVsWWtTS2tLLVFJSG9ZY2Vob3VpblhEamdLSDZZSm40a1MzbXpBdXNHazgxWkVXX1hHZ0wydHhZTzIwSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Bank of Montreal (BMO) the Undervalued Canadian Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnZjbUtvMk9DczE3TlY4VE1WandJUHdqWU5QQU9MWi01S2hoWmlwSHhlNDFUNGk4ZzRER0FYaUVyVW0xOTBBZVpkb2lzSHlXNWVkVmI2bm1IcWNsNjRwOTROWDlQUEpOZzRVeVQtZVlsSkdjVWhWTE1saDBtTXhGellObWI0VzFmQzhxZg?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "target_mean_price": 107.23531
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-11-22",
-        "price": 94.92
-      },
-      {
-        "date": "2024-11-25",
-        "price": 95.57
-      },
-      {
-        "date": "2024-11-26",
-        "price": 94.4
-      },
-      {
-        "date": "2024-11-27",
-        "price": 94.96
-      },
-      {
-        "date": "2024-11-29",
-        "price": 95.25
-      },
       {
         "date": "2024-12-02",
         "price": 95.09
@@ -634,13 +502,149 @@
       {
         "date": "2025-05-21",
         "price": 103.38
+      },
+      {
+        "date": "2025-05-22",
+        "price": 103.64
+      },
+      {
+        "date": "2025-05-23",
+        "price": 103.94
+      },
+      {
+        "date": "2025-05-27",
+        "price": 104.81
+      },
+      {
+        "date": "2025-05-28",
+        "price": 106.29
+      },
+      {
+        "date": "2025-05-29",
+        "price": 106.98
+      },
+      {
+        "date": "2025-05-30",
+        "price": 107.35
       }
     ],
     "current_price_data": {
-      "price": 103.38,
-      "change": -0.15,
-      "percent_change": -0.14
+      "price": 107.35,
+      "change": 0.37,
+      "percent_change": 0.35
     }
+  },
+  "news_sentiment": {
+    "summary": "BMO Capital Markets maintains several positive ratings on various stocks, including Eli Lilly, Burlington Stores, and Costco. The bank also raises its stock price targets for some companies such as Zscaler and UiPath. Additionally, BMO reiterates its \"Outperform\" rating for Vertex, Regeneron, and SpartanNash. Despite this, the bank is cautious about the performance of some companies, including Bank of Montreal and EQB. Meanwhile, BMO raises its target for Roblox based on its DAU growth. Overall, BMO's ratings are mixed, with some positive and some negative signals.",
+    "sentiment_score": 0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "BMO Capital Markets Reiterates \u2018Buy\u2019 Rating on Eli Lilly Stock (LLY) - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFAzTFBPUmhrRlllMlFLd0N6NFJ5TGZCT0w3aFF6dmJDUEpEQ3NJaVdxMjlCZ3dURW5LZFFabEVqdFVyTkk1VG9fWk52U1pnQUxyNmRKdG5haDRlYU5mYTl5UFBQZEQxVU5kbHdlTC1GcFRza3pvSHFBY2VFOVItTV9hZVJ0aGNlT3NzSWhJalBhY3V1bkxGbmxn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Value Partners Investments Inc. Has $5.46 Million Stake in Bank of Montreal (NYSE:BMO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQclNOYlRSbkJMbmdVd0E4aVppclhBRzFNd3ZrSThHTFUtWDRybXA2ZVdWZTYybDUtb0VlNWRWSVVsaTVLQVR0LVduTm5xNll2NVk3VU9HVE1GcFc2WTRKUC1pMmpQbUV1YXlFVm95elJfbkZWYUczcjZ6eGV1b0FHaW5BTkUzS1pFMnBNU0RxSkEwYklCTFNmZGxaMmM3cXFtTWFxQWRyWWNTV1kxQnBlbzh6RkxuUi05V3NkS0pIT0RZN19QdjdTb1JIaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Performance Food Group Company (PFGC) Stock Rated Outperform by BMO Following Growth-Focused Analyst Day - MSN",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQ1J5d0x4SF8yRWJTNURQWlZCZUxBMmNtRFJrS2NKMF9KS0NuLU5Bd2NuUFF2Uk5ieHYzZHowUXptYXNpcUpZVmRRWkVtSVYwXzRZWUxCVVBGWlluUHBSNW9zU3k3Qzh2bEJYNzNtczlROGFZR21FY3FacklfeFRXQldHVFNHMFE0VFRxUDY4Tjl3aEg5TjF2a3NkTkx2N1dMMUNPUkliZEpYN3hya0FDMFBfbWo3VV9PdmMzLWQ2ZUt5c2VmMVNMMERjSmwzeUpJbElHZE05TlgxTWpuMHlKSmRIeEpIRU1NMVp2V1dQbE1USVpaQXFVUUhqaVdwVjFPX3U3THBHYm5FZl9rZnRR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BMO maintains EOG Resources stock Outperform rating, $135 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzRudklHWElUUTFXVTNPV2FmQUlEQjZWanFSUUdOcDdaaUNFNi1BaVh4RWozRU01TFFoYlU0WDZiZzI5WWdjRFFDN3dhcE5UZm4xaExuVGctVnZhWHI2WUV3T1lkQ0xWdXVuRmM3UVpqSXJrVUZoOHZhVUNJdHY0TTdUbHVMTmFCeUh6VS1ObjZOTnR5NFRMQklVcExjUEppVWxwQ04wVVVjV3pqREZaSmQzN2VVSVR1RFpZR212WQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Canadian Imperial Bank (CM) Target Price Raised by BMO Capital | CM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQjEzeGJPLUN4VEtuZ1M5cXRNZmpjRmZrRHRSa0hxOXhyZGdvQTdjMzM4WVZwOVFxSU1sQUxjeHpUWXZTajVKMmlYU0s5S0doc2NwSldaSnpYeHRKb25oaTA4RTNKSTF0RzZKdjBqTFFsV1gycU5KUi1XTWk4Y25YRXNpNGdTQkRkS2lCcjNJWlZxUVBNNkNUcGQtOG9nZng4dmE5UDliNTNEWlB1YnoxQVR0VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Forum Financial Management LP Acquires 2,481 Shares of Bank of Montreal (NYSE:BMO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQakp5M3lnbE9vekdTUjJDZEpVbGRzcFlTUk5Xa1JpTE0zNjhadms3dnI1SlJvRi1rVy1sVVE1OFhoejAzRHBYU1BhaHNqZ001TUpKaXpXZGxTTjZENk1vOFVTc2Ywb2lhUXptVlY4Zzh3eExtbkxEMnYzQTdYQWVXVHBSRjVQa2hyandsT3p6cG90X2lCSV9yNWw3c3gzZ3FqSjRvUi1lTGJBYlhnRndaeHJ0OTBkUE5pS3FlNUdhMFRiWnlSZGVyN2JNdkFTejg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO maintains Burlington Stores stock Outperform, $277 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjdOampLZUhTckRqQWxkU1FadXZDNlVERzYzeVZ2ZUhBdUhpblc0OFZnUkxHX3pONlNFM2ZVc0Zxak5DYUJzLW41Y29vWk5pdkhJejUwaERQQ2ZnM1RaNWluQmgyNzY3ZFB2aWNIQnEzUkJWQl9ZM2MzNGZWOWZGQndoX0p3eDNhWTc2alB2alBNcXhNMjc4Rk1tZ2RfaG5QU0RqT0pJcWNGZVJXbElUODRYSzZTMG1xMGZN?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "\u201cWe Remain Cautious\u201d: Bank of Montreal Stock (TSE:BMO) Gains as Earnings Arrive - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3FoZldNTHR3RUpuMVN0eDhxSE9MVk9ROXo4YnZrVVBXMkJPS1BWS0FuSmNqdEdMbmEzWVZMVnhRbi1ISnVCY0FMVmhleTlTc0x0ZkZiaVFWTlhZU2pQajliMHQxeEtQUUVJVlFsZU5JSlRxb0g5S0xaMkt0ODlONVZBWWxzQl85VmMzWU55WkRhZE9kMGZHNUhZMGp1YXJ6N2VXZEZ3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BMO Capital cuts EQB stock price target to Cdn$115, keeps Outperform - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSWpnSjMwNEJpbXdSbFg5UEdMdS1kQ3NvdmtScWNXbE5SUXZyOTcyeG9hOWJZeDQ5T25WRGlrZUdYcWF3RGM5eFd4cjcwbWVvODdjUFRxdHE3NmF6V0tpR1Y5eGxZNkh4SGVoSTdnY05qU0xJWWE5ZnU1YnhoeFNjLXBBR2NhZ1FjdFFhb2FyZ1dpaDNhNWdZWkRCUzlsanN0Sl9nWDZmNmRxcjNiVTIxRno4MEtEWUdzMEtRZjN4NHBwYWFp?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mackenzie Financial Corp Grows Stock Position in Bank of Montreal (NYSE:BMO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY2VTNzlETHppajJuVmtMSVBqRzYwNHhJbFV1d1pic1ZYVWtWRGR6anlObGp3SmR6dTVYQ3BCQ1FHRmk5ZjdIQXpsY2E3UzZvYkJIc1FtRXZxem9NZWl6VUZLbnN3X3pDSTE0ZktVa091YTlxVnBkdko4N0lpVnRxOUJBQmxpNWJyMGpFUjNNaUg3Q0xrdUNxTDNvZlp6SHhaa3UwLWtKa01FZWptQWp6dXd6QzJoRnAwZU1LM185ZDFWcFpDM0VPQ2VhVUFYTGJFSy1uMw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BMO maintains Vertex stock Outperform rating, $557 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQU9kdy14SWZVUmdmWjZUQVhUeXpkYVpXM29OckVVcWZYMEpBOXVaNHl4M19xMW9kbWJ3WVlOR1Q2V21UTDhzVURiRmxOUlkyZkFMNjRMNGNjTkxDZGVSc2NLZmMxQ1Q1Q2JYUGZIVzk2cHNIbm9fQnViRkRrZGcyQV8tRUtsY2pPT1AwRzFqUVEyZTNrUm9hWFhDM0NFT3ZxVmNPZ1ZqSzBlOFVKWHVLX3VoOWEtdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO maintains Regeneron stock Outperform rating, $800 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1piakF4QjlfTlRjaFI1dXYwYlVHSkZEOV9pWEJtU0pjdDdta2JDRlZoNnJRMGNqVmNOMzV5RkREdEk5dnNPQlZkdTJQUkZpRHZkaUpCQ1JBYTdMVTBSUVgzYUVVVTdDa2xENUhfeU42VWgwQU1aMGpfVzl5c3dCekl3NmdKSmI2NkVhNmpSSi04SUZDaU1hekxlOEZnNHdzbmNVTTZfbkxWTUJ4VDZwVVFnLWktOUdFeUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO maintains Outperform on Costco stock with $1,175 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXc5ckdGUmJsX2xQaFJoWXNjWlNWc1owT0dSSjlJelV3OVVnQzB3WmI0RkQ0cVZ4XzRrRUVwSktxakFTSjZqYXVKNHhxQ1daSTJ3TjZJN1JhbFhWQXpQVkRVbU82YU56Yk9lWGdiYmRvSlF4WHpZQUc4S0lWTjV1QXNOay15ZjlOajU0QmU0VVo2NE5IeHJrdkxWQ0JrNmdzQWtYdGFFaWVuSHcxQ1JlOGlDMzNtQUpN?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UiPath stock target raised to $15.50 at BMO Capital - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbHN3cGItdnNWYXVJdjB3cTBuY3RpVVZ0dk1PS1JTaGhHdGxNZzVHWHJXenBGemMwYTBYbmZ5d1RfcjFNVEdIeUcwWXQ3dmQ2QzVsMTJMRGQ4a3hTN1c5ZWVYOGZtSWVYNjRlV21jQ2ZoX0V3MnNRMUZPYWN1elpfMmtzN2lETmpJazZWejJCb0xEOGlMNG8tSS1GSV8xOUc3ZE1uX1NjTHdDVG10aVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BMO lifts Zscaler stock target to $295, maintains Outperform - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWV9CamFBcWJGbGVIcHVEUXVmSjRkbklVeEplblhxQVNVYUt1TjhjZlhIUG9ZS29KdVFOeG1hOVZDc0FIQUVjaE9NQkNidnh6SnJoc1NDaTQydnF6MTJ2RjJYWlhUSFdyaE5fei1UYTBRQWVqaW9fbGNLVDhIbnVxVW1jdlRQaEVEVlB4SkJyR1E1eWxXSTdQXzJ4THdlS1lZOXBFWk0zZENoODIyTFJnamNVTTNucjlMeVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BMO maintains Bristol-Myers Squibb stock at Market Perform - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1ZkZ1F0Uy1xSmFWQkVYMXA2ekY1WVFfTzJPZlJJNFJyc0xnRlZLS3pOUTF2NVoxZXEyd2JscjU3enphVWhwUnB5QVFmNE9QQ1pibnZZcGh6QmkwWnltbll4SktPZGhRSzhXWUdXdC1HXzEtMVVzRjZZaWZaMkJETFZDdVgtOVFFVmFpVFFSTTBuc2NpSng0TzVISDRzemFId0FnRUhfbzMwR2t6UHRlbTNvSThKU2sx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO raises Roblox stock target to $95, cites DAU growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmo3TGNwV21HSWhwaTJDckNBZ29LcHVaMlVGd0wtcmpEVnU2MGdyOWd2RzM2RUFRT1F2SWxNZmtKbjBBd1hBYktBWXJVdm5BV24tcl84MHlmazZ6d283NktlVVE1TDJzUVZaa3FWSTZrZkotR1Z6R2tWb09Yb2ptZ2tKdEFPWFVsUWdLa1hBb2dFWkVKdWg2VjVlV2J2QU9SbkZ0M0NEaW5wWndNMVNPbjdlZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO maintains SpartanNash stock at Market Perform with $20 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNG9tYmhURWMwdHJJc3R0SXVrdGlVNFI4QmRtTVljNnpyd2MyUFZLeWdZaEpfcHB3TkEtOE9iY2prdDU5WF9wbW5uTERwUE5RRUpjYW5KTlVqa3ZnZkl3WjdzTDFpb0ZnaXFLTFBhbzJOdUxrMWpNVjVoYlA5TkNoUTBFQUVfR3JtLXVubFJ1clBPbXFWZlhXOVBrdGIzb29HZkdEYVRoSUZRWTVlY3JmcWJzVW1sNDZQdHpSNU0yeEZwQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO raises BRP stock price target to Cdn$75, maintains Outperform - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXZvVGRTY3g0eXJPZ3htWXlPNk5nR3IyWkVjMkdIcFZfU2x0aEdQMEt2NkFkRlBlQVhVNm9hZTc4Mm0yc0FaUHY1LVFQbHl1QWpEVjQySzFBeVZkOEdGRVZBMWlyZ2VfbEtvdGN4cE4tamI0dkoyMU1sUDhvTDE5YUtCVXA2bXhXMGRSaXFPYlpYNU4xNWRjTXJ0SW9sbjIwNXVucGVUXzExc3NrdEVVczQ5Szg1STloUWVqZGxoVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Uber Stock Is Still a \u2018Top Pick,\u2019 Says BMO Capital Despite Tesla (TSLA) Robotaxi Jitters - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVRZdFltWGo4NGlxS2hhamhEdVFmaV9oNS00dWxyVl8wUVdfTDJ5dTItcXdFbC1HMHhPS0Jyd1lRWVphQWJxa3NzYTZ2dFVmdk5rRUxycE85U3FubVd0UXdNSFJtUnFiOXA2TzhwTVJ0V0pQWEtRYkpQaDNaWDBtYnJMOFN2eWppM3YyUVZEZ0NkWHVtQzB5eGlqWlRyOFhLTmJsSXZDbmd1NWpyOWtsR2EtOA?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
   },
   "extraction_date": "2025-05-16"
 }

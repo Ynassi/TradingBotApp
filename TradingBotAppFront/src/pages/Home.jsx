@@ -1,27 +1,26 @@
-import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import React, { useEffect } from 'react';
 import Layout from '../components/Layout';
+import ParticlesBackground from '../components/ParticlesBackground';
 import logo from '../assets/logo.svg';
+import '../index.css'; // Assure-toi que ce fichier contient l'animation CSS
 
 export default function Home() {
-  const [menuOpen, setMenuOpen] = useState(false);
-  const [listesOpen, setListesOpen] = useState(false);
-
-  const handleCloseMenu = () => {
-    setMenuOpen(false);
-    setListesOpen(false);
-  };
-
   useEffect(() => {
-    document.body.style.overflow = menuOpen ? 'hidden' : 'auto';
-    return () => (document.body.style.overflow = 'auto');
-  }, [menuOpen]);
+    document.body.style.overflow = 'hidden';
+    return () => {
+      document.body.style.overflow = 'auto';
+    };
+  }, []);
 
   return (
     <Layout>
-      {/* Contenu principal */}
-      <main className="flex flex-col items-center justify-center text-center h-screen px-4">
-        <img src={logo} alt="Logo NASTRAD" className="w-32 h-32 drop-shadow-xl mb-6" />
+      <ParticlesBackground />
+      <main className="flex flex-col items-center justify-center text-center h-screen px-4 relative z-10">
+        <img
+          src={logo}
+          alt="Logo NASTRAD"
+          className="w-44 h-44 drop-shadow-xl mb-6 animate-logo-pulse"
+        />
         <h2 className="text-3xl font-bold tracking-wider">Bienvenue sur NASTRAD</h2>
         <p className="text-sm mt-2 text-gray-400">
           Plateforme de screening stratégique et d’analyse boursière automatisée
