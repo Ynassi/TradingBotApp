@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <Layout>
       <ParticlesBackground />
-      <main className="flex flex-col items-center justify-center text-center h-screen px-4 relative z-10">
+      <main className="flex flex-col items-center justify-center text-center min-h-screen pt-32 px-4 relative z-10">
         <img
           src={logo}
           alt="Logo NASTRAD"

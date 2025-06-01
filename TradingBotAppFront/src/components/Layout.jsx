@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import logo from '../assets/logo.svg';
+import ParticlesBackground from '../components/ParticlesBackground';
 
 export default function Layout({ children }) {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -12,9 +13,16 @@ export default function Layout({ children }) {
     setListesOpen(false);
   }, [location]);
 
+  const hideAnimals = location.pathname === '/' || location.pathname.startsWith('/fiche');
+
   return (
     <div className="relative min-h-screen w-full text-white overflow-hidden bg-gradient-to-br from-gray-900 to-gray-800 fade-scroll-mask">
       
+      {/* PARTICULES EN ARRIÈRE-PLAN */}
+      <div className="fixed inset-0 z-0 pointer-events-none">
+        <ParticlesBackground />
+      </div>
+
       {/* HEADER FIXE */}
       <header className="fixed top-0 left-0 w-full z-50 bg-gradient-to-br from-gray-900 to-gray-800 px-4 sm:px-6 py-4 shadow-lg">
         <div className="flex justify-between items-center">
@@ -35,7 +43,40 @@ export default function Layout({ children }) {
         </div>
       </header>
 
-      {/* MENU LATÉRAL AMÉLIORÉ */}
+      {/* ANIMAUX EN BACKGROUND */}
+      {!hideAnimals && (
+        <>
+          {/* Desktop (≥ lg) : côte à côte */}
+          <div className="hidden lg:flex fixed inset-0 mt-24 items-center justify-between pointer-events-none z-0">
+            <img
+              src="/images/taureau.png"
+              alt="Taureau"
+              className="h-auto max-h-[70vh] glow-animal opacity-90"
+            />
+            <img
+              src="/images/ours.png"
+              alt="Ours"
+              className="h-auto max-h-[70vh] glow-animal opacity-90"
+            />
+          </div>
+
+          {/* Mobile + tablette (< lg) : en colonne, fixés et centrés */}
+          <div className="lg:hidden fixed inset-x-0 top-[45vh] flex flex-col items-center gap-16 z-0 pointer-events-none">
+            <img
+              src="/images/taureau.png"
+              alt="Taureau"
+              className="w-[300px] sm:w-[340px] md:w-[380px] h-auto glow-animal opacity-90"
+            />
+            <img
+              src="/images/ours.png"
+              alt="Ours"
+              className="w-[160px] sm:w-[200px] md:w-[240px] h-auto glow-animal opacity-90"
+            />
+          </div>
+        </>
+      )}
+
+      {/* MENU LATÉRAL */}
       <div
         className={`fixed top-0 right-0 h-full w-64 bg-gray-800 z-40 transition-all duration-500 ease-in-out
         ${menuOpen ? "translate-x-0 opacity-100" : "translate-x-full opacity-0"} shadow-lg pt-16`}
