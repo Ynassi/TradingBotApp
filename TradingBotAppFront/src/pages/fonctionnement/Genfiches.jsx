@@ -19,9 +19,10 @@ export default function Genfiches() {
 
   return (
     <Layout>
+      <div className= "mt-6">
       <h1 className="text-3xl md:text-4xl font-bold text-center mb-10 tracking-wider">
         Génération des fiches
-      </h1>
+      </h1></div>
 
       <p className="text-gray-300 text-sm leading-relaxed max-w-4xl mx-auto text-center mb-10">
         À l’issue de l’enrichissement des données, chaque entreprise est résumée dans une fiche descriptive automatisée. Ces fiches contiennent toutes les métriques clés — scores, ratios, indicateurs techniques et avis d’analystes — et servent de base à l’affichage interactif des profils d’entreprise dans l’interface.

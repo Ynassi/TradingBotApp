@@ -6,9 +6,10 @@ import ColabLink from '../../components/ColabLink';
 export default function Selection() {
   return (
     <Layout>
+      <div className= "mt-6">
       <h1 className="text-3xl md:text-4xl font-bold text-center mb-10 tracking-wider">
        Sélection stratégique
-      </h1>
+      </h1></div>
 
       <p className="text-gray-300 text-sm leading-relaxed max-w-4xl mx-auto text-center mb-10">
         Cette étape permet d’identifier les actions les plus prometteuses pour chaque type de stratégie : court terme (rebond technique), moyen terme (investissement de valeur) ou opportunités spéculatives à shorter. Contrairement au regroupement par clusters, ici les entreprises sont filtrées selon des critères quantitatifs précis, basés sur les scores et indicateurs calculés précédemment.

@@ -23,25 +23,9 @@ if not os.getenv("OPENAI_API_KEY"):
     raise EnvironmentError(" Variable OPENAI_API_KEY manquante dans .env")
 
 app = FastAPI()
-
-origins = [
-    # ➤ Domaine principal
-    "https://trading-bot-app-psi.vercel.app",
-
-    # ➤ Domains temporaires Vercel (dev/preview)
-    "https://trading-bot-jvfhrlofx-yanisnassi-gmailcoms-projects.vercel.app",
-    "https://trading-bot-app-git-main-yanisnassi-gmailcoms-projects.vercel.app",
-    "https://trading-bot-du4p1q1wr-yanisnassi-gmailcoms-projects.vercel.app",
-    "https://trading-bot-eet8dl4pr-yanisnassi-gmailcoms-projects.vercel.app",
-
-    # ➤ Local dev
-    "http://localhost:5173",
-    "http://127.0.0.1:5173",
-]
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,        
+    allow_origins=["*"], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

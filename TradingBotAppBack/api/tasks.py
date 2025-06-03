@@ -5,9 +5,7 @@ import sys
 import os
 
 # 🧭 Se positionner dans le dossier racine du projet (là où sont les scripts)
-SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
-ROOT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))
-os.chdir(ROOT_DIR)
+os.chdir(os.path.dirname(os.path.dirname(__file__)))
 
 PIPELINES = [
     {"name": "1️⃣ ETL Indices majeurs (S&P500, CAC40, Nikkei)", "script": "etl_pipeline.py", "steps": 14},
@@ -20,9 +18,7 @@ PIPELINES = [
     {"name": "6️⃣ Enrichissement Compagnies", "script": "enrich_companies.py", "steps": 3},
     {"name": "7️⃣ Raffinement Compagnies", "script": "refine_companies.py", "steps": 2},
 
-    {"name": "8️⃣ Analyse News (Mistral – Étape 1)", "script": "enrich_sent_mistral_stage1.py", "steps": 2},
-    {"name": "8️⃣ Analyse News (Mistral – Étape 2)", "script": "enrich_sent_mistral_stage2.py", "steps": 2},
-
+    {"name": "8️⃣ Analyse News (Mistral)", "script": "enrich_sent_mistral.py", "steps": 3},
     {"name": "9️⃣ Fusion News", "script": "merge_news.py", "steps": 2}
 ]
 
@@ -49,7 +45,7 @@ def run_pipeline_with_progress(pipeline):
         sys.stdout.flush()
         if any(kw in line.lower() for kw in [
             "étape", "step", "extraction", "nettoyage", "short", "midterm", "shortterm",
-            "résumé", "visualisation", "enrich", "fiche", "json", "bullet", "finbert"
+            "résumé", "visualisation", "enrich", "fiche", "json"
         ]):
             progress = min(progress + step_percent, 100)
             progress_bar.n = progress
@@ -81,29 +77,26 @@ def run_all_pipelines():
     overview_proc = []
     for i in range(3, 5):
         name = PIPELINES[i]["name"]
-        script = PIPELINES[i]["script"]
+        script = f"{PIPELINES[i]['script']}"
         print(f"▶️ Lancement parallèle : {name}")
         overview_proc.append(subprocess.Popen(["python", script]))
 
-    # Batch 3 - Compagnies
-    if not run_pipeline_with_progress(PIPELINES[5]):
+    # Attendre la fin du batch 1 avant batch 3
+    if not run_pipeline_with_progress(PIPELINES[5]):  # enrich_companies
         print("⛔ Arrêt du pipeline suite à une erreur (Batch 3.1).")
         return
-    if not run_pipeline_with_progress(PIPELINES[6]):
+
+    if not run_pipeline_with_progress(PIPELINES[6]):  # refine_companies
         print("⛔ Arrêt du pipeline suite à une erreur (Batch 3.2).")
         return
 
-    # Batch 4 - Analyse Mistral (étapes 1 puis 2)
-    if not run_pipeline_with_progress(PIPELINES[7]):
+    # Attendre la fin du batch 3 pour lancer enrich_sent_mistral
+    if not run_pipeline_with_progress(PIPELINES[7]):  # enrich_sent_mistral
         print("⛔ Arrêt du pipeline suite à une erreur (Batch 4.1).")
         return
-    if not run_pipeline_with_progress(PIPELINES[8]):
-        print("⛔ Arrêt du pipeline suite à une erreur (Batch 4.2).")
-        return
 
-    # Batch 5 - Fusion News
-    if not run_pipeline_with_progress(PIPELINES[9]):
-        print("⛔ Arrêt du pipeline suite à une erreur (Batch 5).")
+    if not run_pipeline_with_progress(PIPELINES[8]):  # merge_news
+        print("⛔ Arrêt du pipeline suite à une erreur (Batch 4.2).")
         return
 
     # Fin des scripts parallèles (overview)
@@ -111,6 +104,3 @@ def run_all_pipelines():
         p.wait()
 
     print("\n🎯 Tous les pipelines ont été exécutés avec succès.")
-
-if __name__ == "__main__":
-    run_all_pipelines()
