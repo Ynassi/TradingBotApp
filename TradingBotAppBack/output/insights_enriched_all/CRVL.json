@@ -2,32 +2,32 @@
   "ticker": "CRVL",
   "name": "CorVel Corp.",
   "sector": "Financial Services",
-  "market_cap": 5840043008.0,
+  "market_cap": 5687090176.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 64.97714,
-    "PB": 19.414375,
-    "EV_Revenue": 6.55,
-    "ROE": 0.33009997,
-    "ProfitMargin": 0.10123,
-    "GrossMargin": 0.22374001,
+    "PE": 60.851646,
+    "PB": 17.666294,
+    "EV_Revenue": 6.221,
+    "ROE": 0.33413,
+    "ProfitMargin": 0.10626,
+    "GrossMargin": 0.23417999,
     "DividendYield": null
   },
   "technical_indicators": {
-    "RSI_14": 54.60763719920834,
-    "Momentum_10": 1.4995986106234296,
-    "MACD": 0.1353078233047568,
-    "BB_Percent": 0.8221665733687394,
+    "RSI_14": 47.18380855475281,
+    "Momentum_10": -2.6031123984740674,
+    "MACD": -0.1796685385364185,
+    "BB_Percent": 0.2853665374893251,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8395824351736565,
-    "QualityScore": 0.3696387956979804,
-    "SignalScore": 0.7441230035417576
+    "ValueScore": 0.9057657228544748,
+    "QualityScore": 0.3823617692408151,
+    "SignalScore": 0.5126143812235453
   },
-  "volatility": 0.0217952041810412,
-  "beta": 1.105,
-  "return_6m": -0.0417158640221528,
+  "volatility": 0.0218154589442851,
+  "beta": 1.023,
+  "return_6m": -0.0860703109333983,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": null,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 111.27
+      },
+      {
+        "date": "2025-06-02",
+        "price": 111.6
       }
     ],
     "current_price_data": {
-      "price": 111.27,
-      "change": 0.54,
-      "percent_change": 0.49
+      "price": 111.6,
+      "change": 0.33,
+      "percent_change": 0.3
     }
   },
   "news_sentiment": {
-    "summary": "Les titres concernent la soci\u00e9t\u00e9 CorVel Corp (CRVL) et son actualit\u00e9 r\u00e9cente. Les vice-pr\u00e9sidents de l'entreprise ont vendu des actions pour un montant total de 116,959 dollars, et des dirigeants ont aussi vendu des actions. L'entreprise a annonc\u00e9 ses revenus et ses profits pour le quatri\u00e8me trimestre et a fait une split de stock de 3 pour 1. L'entreprise a aussi annonc\u00e9 une augmentation de 379% pour les investisseurs qui avaient investi 5 ans auparavant. Des dirigeants ont \u00e9galement vendu des options sur des actions de l'entreprise. L",
-    "sentiment_score": 0.15,
+    "summary": "La suite de ces titres d'actualit\u00e9s \u00e9conomiques se rapporte \u00e0 CorVel Corp (CRVL), une entreprise cot\u00e9e qui fournit des services de sant\u00e9 aux \u00c9tats-Unis.\n\nLes tendances cl\u00e9s ressortent comme suit :\n\n* L'analyse de longue dur\u00e9e (LTA) de CRVL a montr\u00e9 que l'entreprise est en position forte pour continuer \u00e0 g\u00e9n\u00e9rer des revenus et des profits, avec des opportunit\u00e9s pour cro\u00eetre son activit\u00e9.\n* Un avertissement d'alerte d'insider a \u00e9t\u00e9 lanc\u00e9 lorsque Mark Bertels, un vice-pr\u00e9sident d'affaires de CorVel, a vendu des parts de l",
+    "sentiment_score": 0.0,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Corvel\u2019s vice president sells $116,959 in stock - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSW5jbnIwVTRQcmlCM2VNLWRyb011VFlaWXFlNS00VG53VzNiMjhZUFdHNmxlNTZUMS0tX0g1RTkxLTllRTZub3BTNFl0SGVLM0IwY0hhdTBiSUFCUmw3M2Q1SURETXg5Uk1xSFBJMkprd2RSaEpBMElhamIyaGN1YVNiY2cyNFotOUR6a3dKMGxmQmw5a2NhQlFMdUlUS1J6SlZvU3l2MjJQMlA4dXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Insider Sell: Jennifer Yoss Sells Shares of CorVel Corp (CRVL) - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSEg1R2NnV0ZaemxtRDV3NHFrd0N0UWU0X2NZUXJValZ5NjlYM3M1TGZmVzNTTmFvWkRoX29sb3NmdTJwY045dV9NRWx5b1NnU0hYcFFjVTR5R3IyZ18tbFA4dUxsRlUtMFBZa085RFVGZ29MRE4xa1hocVp3WktkZ1JCV1NCWmhvdkltTXlOSFpTVHE4SE1Td0NfU012VnJldkVvSGZNN1hrYjFmYWJyclJucWxhNTcyaTNKcEZFU3hpeVkzSUpMeXByVC1WdFNkbWxFTHZ1eFN5RVljQzE4dnRfMnM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Top Executives Cash In on CorVel Stock Sales! - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkhKUHFzbU80dGF6M2dyZUdwbXM3RVlHTjZ0cDltUG5Jcjdia05OcTZGa1RBTjlQdWdueVc0MHBqYVg3YXlNZ2hLcVQ3UU9heXhMQTJzZUVqUXdGLS1kSEVUeFI4cVdIN3Q4RjdxR2ExbWVHUzBObDVBRTlTMm90cUZVY1VWXzF5dW45Zm1OZ0ZXOHVr?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Corvel Corp Executives Sell Shares - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSnFRbGxTMlh5Nk9kYlhLdWRNbVVyQV93cXNQMlpwWjc1em14RTNxMTlpVmpicGV4VnRLMDhjMHdQQlNXdFRaTV9vY0ZvdFJvQmZfZkRTM0M5Nnpyb3h1NGpBTk5JNUtuRmg0bjN2SjFwZnVOZFlvNC1CbWNWdThBLWtYZVY2ZmVxN3ZLTmlaeHdGcl9EZFJWelY1ZFo?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Those who invested in CorVel (NASDAQ:CRVL) five years ago are up 379% - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXdXUjRVbkVrRWJkRjFDZE85UmdfbFFPRnRacENvNEhNWHJSSllQUUlOS002ZUo5RlE3Qjh4aEFCRXJfN05IWnZoRXdKOVJDN1FlOEZUc1ZmY3Nlb2ZwaG5FYnN4bi12OGhUbEU5Tkx5MDFYcU9pOXZmUjNTTkoyeFJvdDlTM2dnYkR0SjZYM2o5QW9uVW9GaDY4WEl4dy16LUpSbld4Z3g0UDVoT0V1M2k5ZmtJbXJ3OTRHVWR5UnhROVdfdDc2X9IBzgFBVV95cUxOM08wWU1pZ0xHZ2pwNmhsbmY1V0pJTHZEVmEzUWh3S3dtaURMa05raC1QektHaVdFeFlONHR6cm11VFM3RDVyUmdvYm9CWXJnTXJZY09PcVgzSFRwR2tYbVlvYzVUR2pyZVJtbmlwRXVBc1pRdDhKSHh3U0NaakhQMkp4enBQeklFTEZxVHdBTHVueFB5QlUwNGRSQnM2M1BuMTF0OU5qbDI5dldYN0RsV19Nd1BCelZGZkMyeVBKeG1EbUVaZDBtNS1hTUg4UQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "CorVel Announces Revenues and Earnings - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1NITngwWHRhVGN3M29nS2lJRFVtdUNlQmFHUVlIU2xKU3kybjRPUEprdFE5ZWxwLU1qdFNYM0JNeUlqRHNYMDNCZ2c0c0lKOTlUdDR5WXpzcUJZWGpOQngzSW1iSko3aVpiYUlOQTBJb0h6QllGTVZoS3VnM2RMd3FtYk9BODBtdV9JZ3J5QW9XUVhBcms3b2NLeXFwVzZzVm1fUk0zdlY0TDRDUkRoS1lheS0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CorVel (CRVL) Announces 3-for-1 Stock Split, Trading Begins December 26 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVFSMHRzSjNhYVotQUlvWGNGR1UxR0hMTFRwNC1YVnJvZUhXdUtPQWx6SXN1NDhRbk1xZkVwNWxrUHNRa1NmX01qVGRUYU1hS01kaEF3ZzR4VFlDQXZ0cHg2SWdxT294YjV5Z2pEUVNMZzRCb0M0OXhUTm1MbmxhbjlMWHc0TS1MNmJYMlBXSVlmVXpGam53VnYxY3FYSk01WWVQX080WGdmcHluaFR1dnVCb3Q3MkRB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CorVel: Fiscal Q4 Earnings Snapshot - MySA",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWN5TW5vZHpIQlZXS2d3ZzJvcFRfaDhEUkd5M2Z5M2pQanNsWmZZUElzalRyTm5Sd0JNZmtoVmw5VlhYX1MzMjdadHdGV0VhY0Z0VC1KWUpEcnFlSG5DR3B0WVl5b202YzRpRXJhekR2TkRlRkNzemJMR2lKV1VaVVpTaVFwejBYNWVqQ3FYZTNEeWFlQmowYQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(CRVL) Trading Advice - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3loYjR5ZHYzLUN3dUMxSUJWTWNYR2pkRkthakYwLUQ2SUhpb3UxUmwtb3NSVmtBVlVVajZhYldtLXc5NnU1S2hud3d6UTh2c2I5V0lfSV9jdlVDTDY2czZFZmVrWGR4TXFOa3FNWlQzVFp1bjRvcjVsMGh0ckhrYzc5ZDVJLUxEME85Q21WdTBndG5saWNkc3ln?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Earnings Flash (CRVL) CorVel Posts Fiscal Q4 EPS $0.51 - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkdKd1d3cjFMclBTS2tCVXE4N0FOZE5uRWdpVC1zcEl5RVBmM1VvYVdrc2xRVWxjaFZoNE9nUDFnZ2hKOVZLcWNya0JFOC1KWWhsLURRS25LRExzUUloZG15WWY3Y1lLWWp3THg1cFVlRWNIUDVibkxxRGdoMWdWWmx3Z18yT3VoSDhmS1NxRWU1Y0hWOXF5eEU3VXk5bl9TYi14UDU0OTVBVkRIb0JHSzhNYkhsRzZqay00cUMwQzFOd2NITjFKVVpVNzNtQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Insider Sell Alert: Mark Bertels Sells Shares of CorVel Corp (CRVL) - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEZKV3E1ZEF3V25UOGFTVTdQdW5jdmF1TnRIT29mTjdPUHZ2MzVOZ0w5S3FSSTVkYjF0alFMd0phV21sZjY1Nk1fZ1BnWW95UFFVUHpsMDNtV3JCeFpSMGl4R0dhZ3pSbDh6VmdRd25wdWQ3WF9obVc2bHVfazR0T3hTSHZucmxsSXp3d3prWi1TMHpGTXp5MmNTUlJmcG9Ba1pZWWJn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Witness A Substantial Acquisition As Maxim Shishin Acquires CorVel Stock Options Worth $13K - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUWpjd1NCaE1aVVNYV05KajZ1SlBZMUFqY0dQb0xIXzY2dFRXeWU5emlpTEpHM1lUaTlNdnpnT2JGUWdSSi1TMlJKdVlyRWdKNWxmamNVNVZPUEJyZ2Q2bEdISUpVUUlwc21QMEJYOEpna3A5emZkWDNNT18yQkQ1ampfT2lrWUxXOEpJbE04Ung5VTlOTk5qaFhtdDcxei1oTXZlekEzZWc2allSb19HNE00YWcwcnpHaGJrTjh0OWI1SHMyaG5lN0RwSkJMQ0FJQV9yZU44V3RaemZj?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "CorVel Corp (CRVL) Q3 2025 Earnings Call Highlights: Record Revenue Growth and Strategic Challenges - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3MHdVSGlBYms5ZWxWUVVONkpUQ1RKUkc3YkJ2UTIwcEg3bExqS0ZIY0FrWVAwbi14ZkNGSl9KMmxfWFJ3Y3NiTk10U21sM2lBUFhpdlNEMmQ2aHNuYmg2WHluR1h5MFNIWjlSdHY3UmxEM0R5N3dKelBB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Stocks With Rising Relative Strength: Corvel - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHdsVnJaeWJFV0dOMWZDZC1kdDU4VEprUmlWMWU4MjVVVzh0NDVpRWMxdndLTGU0cXFGcGVTWUh3NENxWURPMHNJWDZMRHRYeVAxenNpNTJfcG1nTGp4c3ZoQ1BWSF94RUE5LWZVaFJ2VEg2V1htLThIT2V4WVRXWFo0VFJHSW9uTmJtU3l5enI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CorVel Announces Effectiveness of Three-For-One Forward Stock Split - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkFRNTk4dFE0dDJuVlhOY1BpRDU4QTk3MUxCeE5VcHdDcW5FeVE0WHZaYzBJUnUyYV9maG9nZnRuQmdFczdOMTZrakpDZFYzTTByNlBqZnhpWXJ1REVVbXB3ODQ4QnpvdjFZcUZoaTZ1cHI2MHdfWXhGSTRkOVpuQTZSN1lWRDFsLU9PZ0wtSlNKd1U0UU9XMG02SG9ZZGUwNVdPU3pNaWNPU05rQi04eXhxMlMxWWNsYmpFV1pmdzktU0FjZUVkRTEzeW02NlpVNE9CWFJfVDlOT2M?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Declining Stock and Solid Fundamentals: Is The Market Wrong About CorVel Corporation (NASDAQ:CRVL)? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZWtIMTBQZEFGSE5DODh1U0hsVGlLTml0T2JLMzM0QXpuM2U5VGctWDByRlBtOThUVkFJWnJhTzlXdmQwNDdtZ2tUWGN3WGhUUVNOOVNkeVc3Rmt6ckxKUGdCRlNGTi1tcmV4c2pQbFZTdkh3ZlBCOHc0c2VzSk82YmF6QVNubnpfR2JkZlVCS2NrSDAwbmFsYWlnamhYZmxkSW1Ud3VQWE5KMU82RUdSdHBCMkUzQzk2SGVWSjNsRUZTTGVZZl9YcHZPdkLSAdIBQVVfeXFMTmlmZk5mM2tEeC1sNnNIUlFWWHdEYjNtcjg0UE5VRlhNNlA0M0hHRVl6TDM3TEpzaHVna3duajJKZl8xYkpsbkdTc3BkS3hIRlJFczFldUM3MmhVRDRkcFdEMjR3cERFb0JXRVVlbko5c2ZyaGlDaV9pRlhUbnVUNko3U1pMS3FKRHFCVmZ6MUVHcVdET3loaC1sSXZjUzU1ZjhPYXI5NXlOY20xUktVN1pVcThDcnFxT1RvUFZISVFTNTEtaHZydUxlT240aVlIb0x3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "CorVel: Fiscal Q4 Earnings Snapshot - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaENhY0FLaHNROGRzaWZHN0pLTnhwdFF5UHdMaTZXcThlVS16QTdjY2F6ZWctTkcwNnVMdkdENms0aEFMc0xKWkcyY2pCSlZ3Q3M1X0xhR1ZDMUVVWW1PbVZDSkdLd05CWGtua0JwdnRmQ3RscUM0bzRBWDhvNXVwUkpnNGNLcV9uVlFvTXdnOGdIeU9DbVJhS09NLVpYSlV0VlFLMDJUR3RyeXRfU3JZdVFubkNkb1U?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks To Watch: Corvel Sees RS Rating Jump To 80 - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDd4SEdyUDFFY0t5bk1VLWhZY09ES1ZvR3h1c1dqbHhiOXYwekRuWHhMSng1Tk90cTRpcVpUeFM4S2ZfRmRxRmdqc0plQlRZVjh4UnFIWVMzTXFmS09WYnBjblhMb05GOHR4YVJJSTJTLUE3MkZLTVNxQ3d6clJxc2FMNHA3b2NQX2s5eWZOay04Nkp6Y1E4?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "CorVel Announces Three-For-One Forward Stock Split and Authorized Share Increase - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQajlXV1FSRDc3cEpfbUxTT29vbUdRX2NzeDlpVTVaa3pKWkZlWWpQNUdUMXQzX1E1NWZGZUJKaDYwMnR0WUxweUJwMUFkSUdrSEtMT1BMYTlqUk9qUWcxMWppOF9LNGZvLV85VGpkbkw5ZmE3bFkwdVNNbGlOalZDQWJRM2lMakl6LV9RYVEtdGJmZ2pIaWI3WFp4YWlrSG85SW9MejZXRnNObkZHQl9GU2JLc1QxNzVPRnc2dDlMZGU1MGN2S0VPSEJ2SXhJSmgtMVIyT3F5VldkQkpZSEN1cUI5QjViQzN2WUxZdQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Transcript : CorVel Corporation, 2025 Earnings Call, May 22, 2025 - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX0VhZUViOUxkc0lqWWtWWnlTN1YxSHpBQXlQTFJrbFhGNXFJT1M2SFJWNmtLOU1FN3NWcktud0xJWVRHM2wzR2lCRHNKRnZSbklSM09PcUtwNDdNRTdNY0JNbUprOGE2N1cyZ0dDTVhuS0pjXzlfTWFudTByZHJkalU0aWxPQjRhVEZNLWloelppcU85eEN3TVVPSHFzam10Mzd3dmtkdURjdndCM1lMbzIyWUdER0NjbERCYUVBeVdFY0tmczBoTm9LaG9JdDZCNVpEWjFCOFBmZw?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

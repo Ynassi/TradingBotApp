@@ -2,36 +2,36 @@
   "ticker": "LOW",
   "name": "Lowe's",
   "sector": "Consumer Discretionary",
-  "market_cap": 131099926528.0,
+  "market_cap": 126219042816.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 19.152086,
-    "PB": -9.216936,
-    "EV_Revenue": 2.02,
+    "PE": 18.612808,
+    "PB": -9.515591,
+    "EV_Revenue": 1.951,
     "ROE": 0.317925,
-    "ProfitMargin": 0.08314,
-    "GrossMargin": 0.33316,
-    "DividendYield": 2.05
+    "ProfitMargin": 0.08221,
+    "GrossMargin": 0.33365002,
+    "DividendYield": 2.13
   },
   "technical_indicators": {
-    "RSI_14": 60.349402442561946,
-    "Momentum_10": 3.0987249484926047,
-    "MACD": 1.9841908044218428,
-    "BB_Percent": 0.960396002760335,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 48.634079590248014,
+    "Momentum_10": -3.895743571038775,
+    "MACD": 0.0584346973970468,
+    "BB_Percent": 0.379485714089313,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9008980368065944,
-    "QualityScore": 0.3430667355143027,
-    "SignalScore": 0.6208617909805139
+    "ValueScore": 0.8994877400753689,
+    "QualityScore": 0.3513388351632758,
+    "SignalScore": 0.6523298469907794
   },
-  "volatility": 0.0168026045209821,
-  "beta": 0.995,
-  "return_6m": -0.1297976218564177,
+  "volatility": 0.0160383771876163,
+  "beta": 0.922,
+  "return_6m": -0.1641510444763664,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 34,
-    "target_mean_price": 264.65942
+    "target_mean_price": 264.66205
   },
   "visual_data": {
     "sparkline": [
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 225.73
+      },
+      {
+        "date": "2025-06-02",
+        "price": 225.29
       }
     ],
     "current_price_data": {
-      "price": 225.73,
-      "change": 0.8,
-      "percent_change": 0.36
+      "price": 225.26,
+      "change": -0.43,
+      "percent_change": -0.19
     }
   },
   "news_sentiment": {
-    "summary": "Les tendances cl\u00e9s des nouvelles concernant une entreprise cot\u00e9e sont la suivante :\n\n1. Une entreprise est d\u00e9list\u00e9e de NASDAQ pour une prix baisse.\n2. Des stocks technologiques sont jug\u00e9s peu rentables pour les investisseurs.\n3. Une entreprise de mat\u00e9riel informatique est consid\u00e9r\u00e9e comme un acheteur ou vendeur.\n4. Une entreprise de march\u00e9 immobilier annonce une hausse de dividende.\n5. Une entreprise de march\u00e9 immobilier d\u00e9cline malgr\u00e9 une hausse du march\u00e9.\n6. Des stocks de march\u00e9 se terminent en baisse apr\u00e8s une r\u00e9union de la",
-    "sentiment_score": -0.8,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.2,
-    "negative_ratio": 0.8,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "MetaVia Faces Nasdaq Delisting Notice for Low Stock Price - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRElTbWw5MXNIZ0twcGtyZUVUdFlSMENoRDVIRzFUZ2gwNTJVbFpMM0lJeGhvYnA0QWZrWXc3UUkzVzFzc3ZKVWhIc1llNUN4VjlBbTlhTHZoWlJXQjN6U1JMN2dsQlREMktNeGxDWjV3RVFRRlhIZWs2QWs0Mm1lRXlCUHRMS2dsRUdDb0dVOUtQc0FlSENLTzlxMHdHcHdiaklKQmRaa0M1VGhqNFE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Nvidia Falters. Powering Robots That Fold Laundry Is Still A Pipedream. Is Nvidia A Buy Or Sell Now? - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14RG1Uc3A0ZTh0WVNLOWh6UDlqOXplaUJvakdCbFlaMnhVXzl2MEpWOTk4dDAxSmdROFJjeXpHMVJ0VGdpQ3Y3YjlSQWRsTGFtb0tQQ3doUGZySk10QzV4dE5MMlVuam9xemhzVU1nNEV1N3ZvSjQxMW53?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "FOXO stock plunges to 52-week low, touches $0.39 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUl3dld0SEV1MGp1WC0zMzRQdDRjZHpwaDhsd1lLdUpGcE9mbGRvc0lHbU9iNlRnUWMyOVg0al8yeGRWOE1mcTlNdWY0alJ0cXVMa0kyUXhfWW1HbmN2cGY5T25UNW93YkZIQS1mcGlER2Q5bnAzcmZFdWREbElpMS01bnlLUzluNGNZOGo2Qkh0U1Fic0NmLXo3WTVjM3FGR0w4?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "2 Cheap Tech Stocks to Buy Right Now - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2a21yVzJ6Yi1sSzlVd3k0SWlWOHI3MzhLcFB0MXdQLXdTLXVkenN0ckhxTnlKcE1qVmNrUU81b2J3UlI3RHVDTmVHWWVoZnN6QVdyUE84X1BwYWM4R2JwR2c0QmdNTzBqSDZneml2RXBKZXY4S2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Lowe's (LOW) Declares Increased Quarterly Dividend | LOW Stock N - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcEZHRHRYcEs5Q09wbXpQbFhBekU2cnQ4S3AyQWNUTG1jaERnU2hhREswMzJwRkIxSmxMRU1VOHd4cmtzcU1qeEpJZUdWZERMa0ZBWjdrcEFGNFpNVGppTWVUSEo4TWtHakgzOFpiMmFlX2ZhREhId1o1d09lSWNNTWV5empScGJjT3lpT0dDUGZoeVBqMGJXc2JFWWhORGlZWFRV?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Lowe's (LOW) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZndMT1hQQmJibVBNc0VmS1RQS0ZCOERzaUV4bzZibHY3WDczSVFLSjBHRmE4RnlwRDhXdlBDODhLZjR5OHNMS3dIVXA1Ynl4NnJFQmpBSUVwblZVUl9JY1RfdGtMV0hkMVRwbzF2VlNLTDRPeElVN0F6bzg5dGV1dw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq end lower after Fed minutes; Nvidia earnings on tap - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWUFZaW1KSXRSd2paVXZlSkE0RlhycVhEQlRPYVJpTkRYVE4zSVNuVmlONmtKRUpEQmFyLVBaNTItY2YtVjFDSi1wTUVKYXlKQVZzRWZ5bFVZY0xMMmxwREdTaTlCenNrcWhMZjJVb0tNemt6NFk0bGlJcUpFMm5ucjhGVVRNUDBDSXpjaGJ0SEhobUFKNS1MUFN2YW1ZS0tCZUZhT25oXzN2ZTRoMlA1UjBMWUxLcUUxa0N0WVBiUU53eUU5Vkh0UU5NbTlkb2s1LUE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Markets News, May 28, 2025: Stocks Close Lower Ahead of Highly Anticipated Earnings Report from AI Chipmaker Nvidia - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LTm4tVGhhOEI2czVLTDdkVktqbllOZ1dBWDZfd211aWV4ZjM0bFBweTFOSElWOWl2RFVqYmxxZDdSMmZWOFZhcWppY2ludllNckxuZUJ2QUY1NzdOSGZmWUdDRV9rcjVQeVNaTTNlQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Buy These 5 Low-Leverage Stocks Amid Volatile Market Sentiment - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzVGMWFOTUo5SmRNVW5xRGlOdWtaRF9SQ2k4MkVweWh0NzZYMDd6MUc2ZnB0OTdhVVJ5NllFZWRiVTlOMm5Xeko1RUt5N3B0UzhKdVgzdDhSTnBqLXhRck00cVNtMFN6bWRnTHp5SjJsZ3lvLVBIVWVkbkZGWGt6Skg3QlNkcmRmVlEyamhkdzlfOEh5RDlZZ045cDZjcXhPUFhYekhwTTlPT2JSZHZFcnA1Smt6ZGRTVlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock market's intense comeback from the tariff tantrum low hits a setback - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdUJJb2dxLTJ2NUYyM1hsSXVGWG5GTnJhQjhEV2p4RGZfd3VVQkJfMmQxMkx6TkxpaUt2MC1XWmZScE9kTTFvUndobVo1Mm5rNGc4czkxSUNadGxEZzJkYlhmNmo5dDlVM05pNlBnQ3ptVTdjSGxFNnNESm1RMkVndkJLalRfNjVTbEV1Zi12YjlVc19pemlWcUk1X3RIOXVKN2ZtTllEZzNWNWxDNDYw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Bosnia's stock indices end mixed w/w on May 30 amid low turnover - SeeNews",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVFBMRk9Lc3ZZQ1ZtZVFTYnl3ZGFZRHZEYnFXckdFLUdZc21NUlJKXzdUYlZLM3VuMkFHaVJiVFRIZDY2SkMxbl9rbnhhZXVJR2VBaVl3X09JMnlNWDhfX2psdE5ueHpZZ09HNFdLVTE2Wi1lMVdURndrVEJlb0QwbmlkeVY2bXpnaC0xWWtIUXNBU0RQdm5RWC1sTQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Opendoor Faces Nasdaq Delisting Risk Due to Low Stock - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXBCeVdOdGRZbTlYLXZudHlKNks4a0s2X1VlTFNQMUk3ZTlHWnRPX0t4ZnBQaFE1R0VGOVFCeGdPdklGVjZvdzFoWTJzQVptS2lTYVZiT2FfZ1pkSjJSTVZKOV9WWFNyamZsLW9YeVNZTVUtNkxVWXZlWDA3RUdSUk5MWEQ0cVlKY3hUT0ZMSGxuM3ZyRHQ2bC1KS2p0VWZxaXdENnB1N18?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "RVYL stock touches 52-week low at $0.52 amid market challenges - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmdIbWhMTWlXNHNBUVJWWTdRWk5BaEN1YXBSZGZDd2o0N2poRVY3SXVnejJTU2t5YV9QTF9tWUVIZlc3bGswR2xjaHp4YUhlZnZHektHdk5ySEZJaUlmR1dVQlYtM3Qwc21rdWItVDFMRlBQUEcwTlBQWTVKN205Ui1SNXdtMG9JNmtIM0djN0hsSEhSSHdudjBzWDAyY01NLUdYOWd1ZmJPVkxpWUM5R19iSi1CRVU?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Expectations For Apple's WWDC Couldn't Be Lower - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdV9KNWhNaWJYcDd1elJ0bkRzTEphc3FrRWMtZXhGa0FVVDRNcGNNdlc4cm9NclkzS1hiWWZNeDF6cEdxZ3pzRmdNSHJLOUdjU2RKMlJ0TFd1OHlHVzFyOXZKX3lfTGVVeFhjTWV1Rlp5RUtjVVRRZWxjSXUwZk1OQUdXbGdvWXRV?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Berkshire Hathaway (BRK-B): Low Beta Stock in a Volatile Market - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10SVVBbzhxT2FsSXFHOWZTMXdlbDhPLU1JMlYzbnlBc1RtNUw0MUQ3dldYWEVxTUpLbnhuNkZieEpHQ3lJdGNwdDViWFVTRF9XZFpUWUFaVU5xamdQclFkbkVmZXV6aUdDbFQ4UEFFa21DZlROSVA5ZnFpLW9LX00?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "CETX stock plunges to 52-week low of $0.85 amid steep annual decline - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWpyYjBGaHVsMktFcHhJdzg3N2stTW1xVFYtQ0g2WWJ5WXB2c0ZWbVRPWm5vdVpVaXloTE5CM0htVl9BQm1XVVhZQ29DYzNqRERhZjN6aGJ0cVZrcHZfc3F4NTdhdDcwalZndjBSS0R6bFN5MjVOb1hQeUV4dmFFV0FubWYxUjhkX0loSFUwckNXcW5Gc2lwU1pESm9SNzBENGpiN3BZa3p2QzNVX0ZyVWttcTNyQl9taFl4cXNKaw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "MTVA stock touches 52-week low at $0.64 amid market challenges - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ0NqNEg2SnhyRmdXM0tCT1UtNTFRRG0zNjNraUcyMnFIcEdWNDY5bjdwenV2QUtGdEdDaGZOdWNsVUhiTFl3aHBEbEhNZjFqUVFwY0dyN0VCUUktb2FmLU4zMThBYmNhMzRvQzBCZkRwX01nWGdtMkJ2STlPbGZGOHdVRHVlZ3M5LXR5ZEZfWHlmN0EzMXVVcE5rWGwtRlhSQXdBZExxLVo4WkJzRjg3MUFJVXlWWms?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "3D Systems stock plunges to 52-week low of $1.54 amid market challenges - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDNyQUlJVjVjeG1xR3NPOTMwSXpyS0FKSE1UaS01MGROSHlFcUdwX2dpU3pzcXRlSXVtSDhqVzUxX2xCbmtNdU1wMV9QRHRMVnBwZm1FRTJkbTZlTUVJazJMbnpKbHFEZW92U2J2N240S2hCSHNNVnB1a2FzX294Rjl6V0h4YjlIcTBpZzdWOXpWZkM2cENvVFFrNkp6V1RYbjJNM2RhUHloTkdJOTAtY0E2Ml9UTUJ6VlBSa1pRcmdfOUk?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "STAI stock plunges to 52-week low, touches $0.75 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWQ4Qkp0aXJDNjhjeDRvWncwY0dnRHlSbmswYktyQXBGWXVuZ1VDQWtVWnpDV19jbzN4VlhZUjlJS3ZaRHpUbnhLLTlVSkFMV0VJdEs2aFYtR1lHczdHY3paRW5NR1E1Wl83WGFqZExUVFhxZFJRZ1cyWEE2UjA3SVJCQUluSm9ISkM4cFRVZGhWSWVzUnhtWWtBX2U4aG1ISzhB?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "NEHC stock touches 52-week low at $0.52 amid market challenges - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObFo3ZUEyZklQNWUxTG5oV1RMeHVJaldaYnpETG93OUpBdy1GdTVWSElKYUducGFxdkt0c3RfNVByOGZKOXJ2WjBmTm1heXB1MkJtamUteUx2UE9sYmxqNDZrR2tCQTVGdE91bkpVZl9DN2ZWMVJ5S3hmMVRGWkxUNGZmOWkwaWRqOU9zeDRBdy1HY1NzanVsV3FENXdxLU1OQWVIR0MtWGd2dS1YYUYzNGFNakpzT2M?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
+    "summary": "Boeing stock is up 63% from its April low and has been upgraded to \"buy\" as a \"Trump game piece\". This is a positive signal for investors. Apple's WWDC 2025 is coming up and the stock is expected to react. Lowes has made a bold $50B market move with the acquisition of ADG to dominate the pro contractor space. Healthcare triangle faces delisting from NASDAQ due to its low stock price. Lowe's has completed its acquisition of Artisan Design Group and its first quarter earnings have beaten expectations. NBC Securities has increased its stock position in Lowe's Companies. Daqo New Energy's stock is a hold despite its low production guidance for",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.3,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 2,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

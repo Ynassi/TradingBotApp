@@ -6,9 +6,10 @@ import InfoAccordion from '../../components/InfoAccordion';
 export default function Transformation() {
   return (
     <Layout>
+      <div className= "mt-6">
       <h1 className="text-3xl md:text-4xl font-bold text-center mb-10 tracking-wider">
        Transformation des données
-      </h1>
+      </h1></div>
 
       <p className="text-gray-300 text-sm leading-relaxed max-w-4xl mx-auto text-center mb-10">
         Une fois les données extraites, elles sont préparées pour l’analyse stratégique. Cette phase comprend le nettoyage des données brutes, leur normalisation et la création de trois scores synthétiques : Value, Quality et Signal. Ces scores sont ensuite utilisés pour prioriser les entreprises les plus prometteuses.

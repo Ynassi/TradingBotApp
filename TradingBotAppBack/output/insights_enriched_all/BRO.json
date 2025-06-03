@@ -2,32 +2,32 @@
   "ticker": "BRO",
   "name": "Brown & Brown",
   "sector": "Financials",
-  "market_cap": 32036411392.0,
+  "market_cap": 32420493312.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 31.133705,
-    "PB": 4.702739,
-    "EV_Revenue": 7.289,
+    "PE": 31.506966,
+    "PB": 4.75912,
+    "EV_Revenue": 7.355,
     "ROE": 0.16519,
     "ProfitMargin": 0.21214001,
     "GrossMargin": 0.49424,
-    "DividendYield": 0.54
+    "DividendYield": 0.53
   },
   "technical_indicators": {
-    "RSI_14": 47.2936327430275,
-    "Momentum_10": 1.221680051726299,
-    "MACD": -1.7272917637920102,
-    "BB_Percent": 0.4916762713523311,
+    "RSI_14": 53.04568933433642,
+    "Momentum_10": 1.2346827630491013,
+    "MACD": -0.4561256297172065,
+    "BB_Percent": 0.9447339384691892,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8767892076036494,
-    "QualityScore": 0.3962051748847957,
-    "SignalScore": 0.6953278291811861
+    "ValueScore": 0.8746428543060272,
+    "QualityScore": 0.400513130096207,
+    "SignalScore": 0.5956238107594043
   },
-  "volatility": 0.0150994900778968,
-  "beta": 0.873,
-  "return_6m": 0.0209468823764265,
+  "volatility": 0.015030967271137,
+  "beta": 0.839,
+  "return_6m": 0.0160643885926516,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 112.9
+      },
+      {
+        "date": "2025-06-02",
+        "price": 113.2
       }
     ],
     "current_price_data": {
-      "price": 112.9,
-      "change": 1.2,
-      "percent_change": 1.07
+      "price": 113.2,
+      "change": 0.33,
+      "percent_change": 0.29
     }
   },
   "news_sentiment": {
-    "summary": "Brown & Brown, a leading insurance brokerage firm, is experiencing strong revenue growth and interest from investors. Despite Goldman Sachs cutting its stock rating and lowering its price target, other investors, including Insight Wealth Strategies and Twinbeech Capital, have boosted their holdings in the company. Additionally, several other investors, including Voloridge Investment Management and Capital A Wealth Management, have purchased shares of Brown & Brown. Overall, the news indicates that Brown & Brown is performing well and attracting interest from investors.",
-    "sentiment_score": 0.1,
+    "summary": "Brown & Brown (BRO) is an insurance broker that has recently seen strong growth in its stock performance, with a 1078% increase in crypto stock value and a bet placed by Martin Shkreli. The company has also seen positive earnings reports and financial prospects, with options traders potentially betting on a big move in its stock. However, Goldman Sachs has cut its stock rating and lowered its price target to $119.",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
     "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Crypto Stock Bolts 1078%, Pharma Bro Martin Shkreli Places A Bet - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlNUREROMVcyV2hQZF8zY0lCX1FrU2dtOVJTT1dUeUdpYjdlT09NWlhwM3hVNGcycE1jdy1SQk94RzA1bXJqVWtTNVBwOXZsc1NpTDRoRzdTMy1LUXVLd2dpOWFWY0FUWC1sR1RiS1R5ZUdqSXpQaUlCbXpzeUVMeEZGV09kdEtGQllpRVVRRC1jRnVpRTFPSG40WlY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Crypto Stock Bolts 1078%, Pharma Bro Martin Shkreli Places A Bet - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMXFXb0ZZQlMwd1hRZlEwb3YwUGh1ZU8wRlJQcDVhc2RQNVJrM1c0bUJEVXZIOGRMNWlFOVdQdEVScTI1d09Kb1pGalB6ajFRSmFUWWlVMng4Z2VLMDN4THdPMHJRMTlQNmVwdnB5Zy1EWkIzMUdYS1RjdXNpbUtya2NEOVc5d1ltMTZINDBySjN5U3BfZmNWbW0waENCZ256Q0gwZV9lUXVzVXZzT3FKdTgtbmkwTFZ6Wmp0RmVqajF3U3VQcTJ3Mnd0UUtJRVEtZlBHUDE2WE52dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California State Teachers Retirement System Sells 11,773 Shares of Brown & Brown, Inc. (NYSE:BRO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcFNaTXdOZk9LS1hzRzJGTlRqUEVvTWs3ME1OUXlucl9vYzFENG5TNjdoX0Jxd3A0MUM0LUZpemxRZWp4dE81TWhqd09fb3BseUphYWdSQlJtbHk0a2RPTVhJNWxaNHNFSFM2STUzeUliQ05SemRmNElrUzRKeUtjN2RDa3Njd1JDS0U2dWI2T2JpQXlPQmxBT01KbzROd1BrbzhHSWVRVl85YWxwZnI5aVJ1WHRaSW9RU2VBYldnVkpSRFFjWkJKMmlfX2l1ZEw5Qk51Nl9NM0Q2WXVhZS1xTzRfb2o?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Brown & Brown (BRO) Up 3.8% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Bck5ydU9wZ2gzd3dBRmNTMV9zalhwcjVQbXV1eDNNYkZoTXZHMU45aTJfTmpkMWhLTGV1dE1JZDRRQXEtTXJnZUs3RFlDOWVLZUp0M25kMEpwaWNDMWI3STFQaUc2aHFHaXoyYjYyZklITm8?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "(BRO) Trading Signals - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQclNBaWVvQ0Y0SExqVlFGV1F0MnVrNGFNSXlpZVMwVGZycm42ZVRXTG9qSjYzeC02UFl3MGJpdGd2NThROEpyMXUyRE1STF9nYjFfenFRZ0RqMlZlWnJWZTNma2ZjZGhzczZEOVpSemxxRmI3RXJuSXNfVE42RjBaemhGcExzU0RrUHdMWEtRbWxSbXJnLTBJYjdn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Goldman Sachs cuts Brown & Brown stock rating, lowers PT to $119 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZFlUZVUyUkQxaHdJRnNFeFBxaHlDdEtQUDZSaHVGZXB2WWl3R1A4Wmxqblc1bjV3TnZVa1JfUnVsNXU4UlAwSlRMQm44WTJLdldjZEsxWGFCMHI0UnhKdjQtS3B2aTFYYjFEQzBqS1ZqaXM0RWtfTGNZYXFYUWZaaTBhNVlCWnh3RjJMQTZyeTIzcFRERlBpYmQwb1pYMko4anNOOTBnQ0NvNTRuckJmTTBFOEtOOHZCVFgxVjhn?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Insight Wealth Strategies LLC Boosts Holdings in Brown & Brown, Inc. (NYSE:BRO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORGRtTjNMYnVhbENBQklqR1dmYU5oZHladWtXSDBfeXRLbDNQUzlMTWVReWxfd0V3TzNDaTFMMXdMSFVoQzg4cFVJakk1eElpNnVkRmFrdVBEaEhHYXBmbXFpenhNTUh6NG4taWwzaVZxdmNtRExkRVBPajB3WDlUQWtyS08tMzZTcWFHbEJlcUJ5R1RpcjBMZUNXVXlZT2QzN2R4RmI4ZjNWYi11bzZ3T2RKWnBkMVR6SGJVdUUySWMzcUFHVHN6TEhtenFqZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Dutch Bros Stock Just Plunged 18%. Is Now the Time to Buy? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnZ4TWF2S0R4Q1dGMU9wTDlBR0JNZV90Xy1nYkFxN0dmczE1T3R2WEVUOVlLdkNWSGNWaGFzY0dlcmw0YmVYVnp1eXQtRWNFVUZ3Q2pOYmJZNmJnSzRNOVgtYTlwNld0UVNMMVNaQ1JIclNLbUJ6MF9YMUt0bEFsVGt6NWk3SDNicTh4VTB2NUdISmtRVV83aw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Brown & Brown Inc (BRO) Q1 2025 Earnings Call Highlights: Strong Revenue Growth and ... - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9renNmS09JYzlIcWppQWdLZ0lyNlYxanVseGM2QURER01yZjhhMVloNnlLcEZTZk1oYmxVTkN6eEJmT3dRWDJGNU5wQ1JzSEJiX0NoNEFyNlZVcG5tc18wQTRYNEpnaTh6YkFSRHVuLXJpZFB4TUFn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BROWN & BROWN Earnings Results: $BRO Reports Quarterly Earnings - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaW1wTHZ5ZjBIWkNGN0R4dlZBX2RMVDJMX3ZGb3J1LTZ0YVZ6S3JULTREaHZHd1hVMlUtYi1HRnEzRG1lNXZqa1ZERGlqNnBFYWNEcnZHYTgweklwWV9uU2dJQy03T25zcGczSmh2UTlCaUU1QWVRcE90WFpjYjFETUJTT2Z0dEdlV01HM2NMa3lRWDVrb0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Brown & Brown, Inc. (NYSE:BRO) Shares Sold by Voloridge Investment Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN1ZLWnRLZ2hYSnVQcFNjcXViTjBpTkxMcUNtazJPblM3NXJfT2ZHcUJXM0Z0N1pjMGpGQUxTVDNZai1fRU9oY3FwMTlpSWF3YnZ3b00yNHFCOUR5WlNLUGlOTHVFWFN5OHFKZ2x6SllidDlPUkxlSEJTYXZkUTh1WUJXTlBfTmZyY1F3UVJ2NTlEVUhtNzNlZWpkVWhLNWpMSWxmSEhiTVFMNXZxel9oR2RZLTN0eUNtOHo2X3N5U2NZdHQ3TzN3SHllby1jdmNNd3lOZFpDaw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Brown & Brown (BRO) Outperforming Other Finance Stocks This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmpJR2VZbVBETGROZmtDMVVTV0J0VU1KYWpWRW05WWYzY3hXUWZmZ3hvam1raW9sV0E3c0NMRHJlejFiNG5rYmJ2bWVwS1pBeENiLXJCV1VuMVF4MFo1WGdhNjh6ODI2STRBQ1R1alhoc2kyR3EwbFZMLUFhQy02d052RVJKNmpB?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Brown & Brown, Inc. (NYSE:BRO) Shares Purchased by Two Sigma Investments LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT3dQZFI4b2pDcTY3VTRtWktmZVJJREVwQUhwZm1BNzV0X0ZCU2lwUTFXUUdJVkZwcHFsbFJRTmM5elg3VG0zVjFzbjFvdjdwLWFoT0dhWTQ0NzhqYl9kTGZCTlEyR2xMR09BaEtWTXE3U0JVTzBIdFN3U3VfRXZhdmNqajhtVjlqU0lVa0xEZVA2RFFvTlREOUZIU0U1TjA1T1lQM0JRTDFXWWQtdTd6WHBXeUdGUWxOTy1YTzA1YVFnclJV?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "First Hawaiian Bank Sells 3,495 Shares of Brown & Brown, Inc. (NYSE:BRO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNlVjOEpMUERLeVpYdTk3OUQ5QTR3WjQ3NjQwRDNsa3FGMTFuTWZKRzByNlFWUXp3N0hmZWNab1l3Rl9zQkQ4SVktdmk3bXF6MmdiV2IxVHNqeDVWV1ZvRDBvREFwYUlqSFphQWRHcHZ0OXVDRDdTX1JNamM4OXhSLVZLVnFEMDdHSzBPSTNrOF9Xb0x0bmRGSG9zQnUwNVpabWtKVUxrd1VnVWVwM21ubk01dEg2RXlneDljS0Y1aUJ0Q0k?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "2,365 Shares in Brown & Brown, Inc. (NYSE:BRO) Purchased by Capital A Wealth Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVVhmU3piR2ZvaGVpaFFTRUZlV19qRHJHRWhiaFZ6WURfX2pLY3VoQnY1ckVzdDRJU0MwUlVpME02LVFaZkFsR3pIakcySTJkZ2htMnZ3YTJkTmNTd2NIbENTM0ZfQjVVWE5uczU3d2h0UUtUN094Uy0zRUZMVzFVZFE1UEpjWFVUbUxZRXRQd3dQa09IV3hkQ2w1TElqWDVtcFVFVmgtZjc2ZHNUSC1wUGxNOEVEM3pBemdWVWc5aTlac3plcTE5a2dTVEFVS1JDUnAtc2tLU1FGYmgy?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Brown & Brown, Inc. (NYSE:BRO) Position Boosted by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOand0SWp2aDlXTlVHczRoeEwyd29HMnlFMEh2RnRZZWlCUjl1cEZoc0FHZ2YwY3lsRG9YbUctajVHam56cEYwTFV4VXJxUlQ5LWxjZS1NTnNmTlV0SS1HaF9wX0FTSEZLVGNWOWtUeEVxRDdvN0ljTk9ubXNxMDlLUXNiRTIwNThpZkFXTGMtVzNTTXdfVzBwZDMyRzM4c2U1ZVl1WlZpWkRiZFRnQ0sxanRVMVVLRmRHNC04c3pTNzhTWWxGM1FYTQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Novem Group Purchases Shares of 7,552 Brown & Brown, Inc. (NYSE:BRO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT3JxbGhsOEhXQmRHRjRPVi1VaTFFQmtDdHhsYUViaXdQVWZjT2pTcTEyeWJkeWZSdVJ3R2FmaFNhTDVzUlJNa21pTHVCYzZJXzFUX09vREtwc2RxNmlKRUxIejFTTVRSYXBsc1h1dV9CWXdDanhwZUtEQWx5eGFnRmNTUFJ5Z1dfOVFISjNrdGVmR1AxXzlzQ1U4bXpyVGlhVVJQR3FTVkpiMmp1S2NHdEFQSzhVdzVGeWp1Tg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Brown & Brown, Inc. (NYSE:BRO) Shares Purchased by Twinbeech Capital LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjhNT0VEMTRxNld6N0otU2VxZ3Y3SEtmQzAwXzFmS0RNRzN5ZkFWS2lTT0VmbnZYY3pjdW1MWUxRLWpXWGtmdXAzY2xMNUJLakVVNlpqdFRLT2VpQkR2Z0FQTVNxR1hSR1JrYUVkLTVha0ZEaEl0LTdDZHliN25zUTlldkRWM2xvWXVoZzVsZy1GSlhjYlYwUTdJYXJvT0E2QzdodHlISFpJcFdJcmlCdVdUQkcweXJWZ2tfOVJkTFRVUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Waverly Advisors LLC Makes New $241,000 Investment in Brown & Brown, Inc. (NYSE:BRO) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVU2a21jdTBicWJnOUstTVBQTUNzTkcwNWNxeDNUYTBFcl93VS1WSWV0R0V6eVNfZWgzU2JtM3ZMcDREVy04b1ZEanVpaWN5WEstNGJDVFMyWEJzMzBOaU5WQ3V0dzk2R3dkUUI3b3pkUXl6QUdXclExazR0OTBiZl83VDVXODg1TmhGQjV3b2E4YlpHZzctQWhFeGw2QW45M2s3OXdWczR4ZERLSW9VNl9WLXQ0Nm9ySnk5UXhjakY1eUl1NDhVM240NUxEaXo4dFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Dutch Bros (BROS) Stock Moves -0.92%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96YUJnMFdoYmRBQllEeEZPSVc2YnhSQXEzNGdJT1VyR256bHJ3Ym9ndWs5bDR3TzBXaVZDYTJ4RUx0bUJ1TTRtbnJjZVlldmo3Q1ZkRTJGUnA4dnExYVBjU0Y2V2JjVFgtVWY2WGd0SU0tN3VNaEJhd3d0aFN5dw?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 1,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

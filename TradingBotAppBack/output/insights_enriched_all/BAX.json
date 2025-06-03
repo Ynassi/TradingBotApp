@@ -2,36 +2,36 @@
   "ticker": "BAX",
   "name": "Baxter International",
   "sector": "Health Care",
-  "market_cap": 16247120896.0,
+  "market_cap": 15159190528.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 27.249507,
-    "PB": 2.2940366,
-    "EV_Revenue": 2.25,
+    "PE": 27.379175,
+    "PB": 2.1404247,
+    "EV_Revenue": 2.195,
     "ROE": -0.03506,
     "ProfitMargin": -0.05199,
     "GrossMargin": 0.39216,
-    "DividendYield": 2.21
+    "DividendYield": 2.23
   },
   "technical_indicators": {
-    "RSI_14": 55.38741413645979,
-    "Momentum_10": 3.0934574772416226,
-    "MACD": 0.1120533032332211,
-    "BB_Percent": 0.8361295927237141,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 42.42022427019138,
+    "Momentum_10": -6.176600265510926,
+    "MACD": -0.1014312205216967,
+    "BB_Percent": 0.0275197202080935,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8939338800229758,
-    "QualityScore": 0.367614481450311,
-    "SignalScore": 0.6457801400777163
+    "ValueScore": 0.8920547834779109,
+    "QualityScore": 0.3692497771863,
+    "SignalScore": 0.6993215288824695
   },
-  "volatility": 0.02349328512523,
-  "beta": 0.628,
-  "return_6m": -0.0315782484888171,
+  "volatility": 0.0236762323856729,
+  "beta": 0.613,
+  "return_6m": -0.1103112880030707,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 16,
-    "target_mean_price": 38.4675
+    "target_mean_price": 38.3425
   },
   "visual_data": {
     "sparkline": [
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 30.5
+      },
+      {
+        "date": "2025-06-02",
+        "price": 29.48
       }
     ],
     "current_price_data": {
-      "price": 30.5,
-      "change": -0.03,
-      "percent_change": -0.1
+      "price": 29.48,
+      "change": -1.01,
+      "percent_change": -3.31
     }
   },
   "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques concernant Baxter International Inc. (NYSE:BAX) r\u00e9v\u00e8lent plusieurs signaux forts pour les investisseurs francophones :\n\n1. Positifs :\n- Les investissements de fonds publics, comme le Public Employees Retirement System of Ohio, signalent un int\u00e9r\u00eat croissant pour Baxter International Inc.\n- Les revenus annuels sont en hausse et les r\u00e9sultats d'exploitation sont en am\u00e9lioration, notamment apr\u00e8s la pr\u00e9sentation de produits r\u00e9ussis.\n- Baxter International Inc. participera \u00e0 un congr\u00e8s financier international prestigieux, ce qui permettra d",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.65,
-    "negative_ratio": 0.15,
+    "summary": "Voici la synth\u00e8se courte de ces 10 titres sur Baxter International Inc. (NYSE:BAX), orient\u00e9e investisseur francophone :\n\nTendances cl\u00e9s :\n\n* La Californie State Teachers Retirement System a r\u00e9duit ses parts dans Baxter International, le 1er f\u00e9vrier, mais a maintenu son investissement.\n* La CFO de Baxter International, Jay A. Jasnoff, a partag\u00e9 des informations strat\u00e9giques \u00e0 la conf\u00e9rence de Goldman Sachs Healthcare, le 11 f\u00e9vrier.\n* La FDA a approuv\u00e9 le produit Hemopatch Pad de Baxter International, le 28",
+    "sentiment_score": 0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Exclusive: Baxter CFO to Share Strategic Updates at Goldman Sachs Healthcare Conference - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGJWWmdicWxqbTItM00yZmdGTlJTbXRtMGprUVFnTDJJQ05Sb1FmZ2VKMkNFdVdZQWRvOWtRQzNFcThkaWYwT1QwSEpUdDZFZG05WU0yTjR5Wm1WXzh4cE1QVTdjd3JPS1ltTFd0d2hIVmNkX19jRFVCX2VqektlQXYxeHlUQ2QzeC1uYnlQb0h4TWpVS1hJaXFWRkZYWW84S2trMURBd0Uxd1Z2YmtSVzZaSVdLVk9heUE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Public Employees Retirement System of Ohio Invests $5.10 Million in Baxter International Inc. (NYSE:BAX) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNW1fQkZGRkJNYWZDc05leGZZNFh4MkNBVkNIQ3pVUzloR1RLTWtfdkVsbGxHbnpGOHRVc2Rxa1lQaW02SGlieVVlZlAzNWJDVlYtUk12QWxFalh4MnZEWXpXdlBCbDdWU1Qxc0R3YjhLMEtOUlg2VU56VklsTEppQlNBR3dfSGJXS05jd2htV2d6V0s2bkhXVDUxWFBLQnBkODM5LXc2UTVWcTd6Vm1jN0EzbzhPbkNBSzk3dVE2enVfR3FkNmlKSllWM0U0U1JzQ1BmZWZ2cmN6TXVtNkpxN0RoRlpMSDRQMk91QUdOZ0g?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BAX Stock May Rise Following the Launch of FDA-Approved Hemopatch Pad - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CTEhVLW1FS3NYVVU4VVNQQ2hLNGRwT25MVlpxS0paMjVvbi1vSXNfZF9GeE5LLWdYWE9SOFhBUjVoZVQ0OVJFbXhlejhYVWtRZHJ6QldsRWZrSW9pVU01OXpMajc2UUZRMF9aNjhJdTVlYkRkNmY2QlBucmJQSDQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Baxter International (BAX) Traded Higher Despite Tariff Disruptions - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWNTckZnbGNSaEUwblo0UXM0ckZ4eWM0azIyVFpzakxDMDg2X21LVWtPMHZPRXI0MFYtUXhtVUFVS0p2QU8teHFoQktmV3BzTk9FQlFySVNBVGJNRVU2WW5xUnF1ZXQtVV9NeWF4MFFNSUZJVE1neTZaVnNxaU8xS2dNMjNoUzU0WWlSb19ZNEcxSmd6cE1RSlZpOFRiaWxzM2ZSd3ZqM3drNUNrV1HSAbYBQVVfeXFMT3BUOWNNNF9XaVFQU1ZxazBnX2ZGcEtnYXdTTm1vMUFJdU1zd0Q1eW43a3l4SExidlRjNVR1WmVKV2d2X0NwQmZlZUFlSVZOUlEtd0FiUU52ZEt2WDBBcGN1ZVdVWWpOR3FaU0xBNFdyYjRSTmdOc1VwTzVrcW9rblFkaEw0S3RVQWI0MzJzVU1sT2paQWt3NE4xMng0bms5V29FYXBieUp0UkJNMm9PM0xsdzlrdFE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "(BAX) Trading Report - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0lUOXBfYk1VdEVrNnl6T1dJempJNV9wd1VVcXpTaWpOMHpwazNyaHNhQUktSDI4RWpib0Y1U1l4NnAteDJSWnpBd3d0ZW5iMG9ST1ZFcmtBZElDUzJfSnVUUXY2ZjJBM2pBbjJZMzRRVHhYWE5IdHp0OUlvTExaV2taV3dUa25scHF6a2xhdzRjckdoVHVUMA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Do These 3 Checks Before Buying Baxter International Inc. (NYSE:BAX) For Its Upcoming Dividend - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGxFTnN1Nm1xSjBIcU9leWE2LWxBNDZzVGV1R0tucXNHTE9hdUNHMDBNbzZXUVE0WmhtSFNYUGF6N2VNb0pjMUZwMzhFWl9xNDRIVVpPVWtMZzV3SUF6S1F2Nk1qNkJETmZmei1heW02WXM4a3ZEYm5NWU5pU3BrOURCWnVrOE02VjQ3RU9Ic3BxcFNBY04yS054dVdkX1N0QWhsdF9QeDkwWDY2ekNzeHhCZEZqVS1VR2tZREVUSmtQRFJuZGhqcHZzLUREWUFjWW55Y9IB2gFBVV95cUxQVkMzRDY1Mk5YcTI0RlhPbXVlSXJKaUFDM0Z0MVZ3ekdza2NvVjEycXJhZklwMy1CdFQ0Y0dSN3o1OE4zY255ckNEem1ZV19nU2ZPUzRXV205LXV5TlIzWElLYmVxeUYtcDRyRUE3MU1hVTNhUHRqam1QMXlfbElfbjBqQkNZcnl3Tk9reU9Sc0hVNjF4ZmI5eDlGWVBHVGNCYmpvX19sOEFnSHhwRERDa3g1MFRTZ3JLSDdnM2xMckZTU1plV1dwMWJkcmM0RURFeXlzZUJyR2tNUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "This Ultracheap Stock to Buy Is a Compelling Value Investment - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNak5QcHYwaUg1MmtWX2tYY1JqcGo1T3FRUW54d0xrYzFyNnRjaEIzUTdwTk1BYVhsNm1rcVdfYzEtRWFnVnVJU0F3czJ6MXBhMFJ0VmNPUk9IRVRVTlB5VU02bUJsVm5WbENqYzVQQ0V4YzBFZ2FlSTktQXpIMk9GUjVoeW4xeTEzZE5CZ0FIaERCNVNsVWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Baxter International Stock: Is Wall Street Bullish or Bearish? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRmpEMkxkQ2RuY1ljYkxtazBaTFdLdTBqTHBMRzVOQ2JIU2Fhc1VvdEtfNFBPMnI3ZHhrV0k5SHZLcjVJZXgyRGV5RXlwYmVLUXdLS1VmeGg2N0VFOHVoZ0Njanh2UmI5TjYxRGotNEdjQXFWQ3RORGpoQWNaOWhzRVg1TkZHVGxqM3dRYjR0V25TVGM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Baxter: Messy, Yet Appealing, If New Management Can Deliver - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUgtRUNNZl9SNzJKbHhPckFJdVNDV051QXRpRlN6MUZ2STdvWW8xdUpIVkhuV0drQjFyMVNicG9teW1JTXAyWVIySFVWcUpSVm85cGNIXzRIRDNCVGIta3RjY0ZPSDlYUWI1ZmN3amc3R2pIT3pybWhDYkFpNURfRXBxcnUzalJMVXJVa3gzS3R0Z0YtVUVSNDlKcTVDQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What is Zacks Research's Estimate for BAX Q3 Earnings? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVBEcFJNNk9CazdxeWJLanBSRkVQaTdVUkFRTERDN3ZDVGZSTlEzTVQ2LVhPSGNpR2tCNFY5N0VjXzV4UjVwRWpvRGdMUFpqZU9DUFhwMnF0NDVWWU5GbGZvMjc2OS1URzNLX2s0aHNILV9mdmlfR2VyeE43d0tTem9TSFlSNFBBRFlERXlsZXItNzF0aE9ZUlBHdDVHQzJDTldKMmd0eVdLb280Tnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BAX Stock Gains Following Q1 Earnings Beat Estimates, Revenues Up Y/Y - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LODNvZ3RGZ2RIcHlzWHI5X2xUVlIxcC1HSUlVRzdtQllZeFAybW5FY2JZT1Jwb0xlLWZ1cnhaLWZjX3NQV0VQWWZ3TnNUSm83ZmFPMG1QTnRZd3NibkNpRGZtb3Fnel9FT1U1azYxV3Z1NG9IdlpGc2szWG91XzQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Baxter International Stock Underperforming the S&P 500? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTZyWjhKNW1jc0hTdDBzc2NzdXZLSnJiSnFRS0pmT1FPSTl0aVpYZzlCRUN4VC10XzdhU2s1bEZ5X00zcDYwNmVEUnhCMDlEVWpKYnRKSDRtbHNkalRleGJQQ0ZXT2VfaUxqQ0J2MWdpUTktdHZSWlZSVUhxRF9uLURuOTRvZVlN?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Baxter Stock Likely to Gain Following the Introduction of Voalte Linq - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVV5a3NRSl94N2IwTFBTcEp3NDNuSkZ1cFRGY2dfVE10ek5JWGdLQklVVk1XTlhKSVdsYUlDYk51VWVFMU51U0dFeHBYcFZQTkVCSURxZ25WUGRCOFctYnZGa3FGZ1VseWFBbFB5R3A1NnpCb2U2bUdvMDdneDFXcWJWNGk4d0U?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BAX Stock Declines Despite Latest Product Launch Boosting Patient Care - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTHBlT1BLVEJvOXRVbEp4Zk9uLXFBcXlGOXJOczJHYi00XzdVbjNBbnJMTjBKX3dOeGlyWkpqTWZNeXcwbWsxZzkzeWhIU2FyV3JwbGtla2VYRnJrd2FiVkFOVjJETUp3dlJVakJLUWZGNmlyNmNhdHp4OHFlNzJqLS1pbjBaZw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Baxter (BAX): Buy, Sell, or Hold Post Q4 Earnings? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nOVRkQ2cxZXJfXzlhb2RPNzJGSGVlMGwyTEkzdVZoYjByLUF0S01lZXgzR251THItdC0wZmpLbUFLak4xTWxjRGtZVXQyTFZORXEwLVdvdVFMckVVRWJWd05oNG1FZzg3WHo5bUh2Yy02OE9wY2U4NUVR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BAX Stock Surges Following Q4 Earnings & Sales Beat, Margins Decline - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU09IV2FFemRaWnYweWVEZjAtSzVnXzBrRVR4VDZZN0l5WmNyT244Q2VqQXdYeDRpZzlQMVY4R3FDNlk4SVR5cGhYb0RIWmpQQ0R6Y3oxUWJ1dE5icktBaEFCYzdYVkdDUldISlVwQWEyaFpkS1pyRHJvN1E5NVR4Vg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Baxter (BAX) Reports Earnings Tomorrow: What To Expect - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTHlZOHhKeUtVOVpQVDJhVVVGbE5YU0RQdzh4TnNSZ21melJWT3NTRU9fYjF3M2ZiZnlSb3QxODVsZDFLVmVXRndDWncxQ041TE11TkpDVURrYmgyNGtsTzRSYTlQVkhxeVI3MjB1NVcxNTdyTmZBZTBFb0FOLUp0QmotX3FKaDJuSFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Baxter International Inc. (BAX) the Most Undervalued Healthcare Stock to Buy According to Analysts? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQWlXV0JzenJVRWxVVFQ1OHk2NzFTMlU4U0t2b09lZnNHaWNMWXgyLVNkNzZsTmJMMVRWR09XR3ZPbFB6ajlLQU9kVFRjc3ZOS2hTRWNDVXEtU1B0NzdudDNHWVpvYzYzVmQ1cDhwWi1XemR2RWJNNWFGemxKRDZ1bWx1N1d6UQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BAXTER TO Present at Goldman Sachs 46th Annual Global Healthcare Conference 2025 | BAX Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU3piWlhDRC01THp1d0ZGcHgwc01KRE5YVGpPVDJhRXUxS1k2Q0xxNjk0M2lubEhCRG9iUVUxRk5fVDBRZTc2dnpLOEtCRWt4TkV1MXA4NkFZTE5Xd1lMSzRaY1QxcWVxTnItbEdpV0dvNWp0VWdVdzI3aC04bng0MVU0ck1nRDFWOXlSSGJ1N3BTcFl3SkJrLURnTVRGUXhjdk9yNFRBMVVBNnhLTEZFQm1VZ291dE52LWt2Z0JmUExuLVctRFZ3eUxUSDE3dW8?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Baxter Declares Quarterly Dividend - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3dDdEVDcWxnN0lGZjdCYm5wRkd0NmdoYUZBV0lDMVl3NEY3bHpKS1NLQzJCcXI4MnZFYTFJZjRmRDM1eHF5X1ZHWlFkcWs2LXJXbzBja19CeVNxRWhYc1p2ZzI4U2M4RkRIcmxZQjVJM2hsSm8tWFVZVmlzcXh5S0NVWlJBRkktSEJhcExiQlJMU2NFQ3c?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

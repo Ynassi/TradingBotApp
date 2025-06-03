@@ -2,32 +2,32 @@
   "ticker": "8697.T",
   "name": "Japan Exchange Group",
   "sector": "Financials",
-  "market_cap": 1664096010240.0,
+  "market_cap": 1654215540736.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 27.247955,
-    "PB": 4.8843923,
-    "EV_Revenue": 9.923,
+    "PE": 27.248587,
+    "PB": 4.8553915,
+    "EV_Revenue": 9.917,
     "ROE": 0.18189,
     "ProfitMargin": 0.37212002,
     "GrossMargin": 0.54273,
-    "DividendYield": 2.73
+    "DividendYield": 2.69
   },
   "technical_indicators": {
-    "RSI_14": 50.02542465400439,
-    "Momentum_10": 0.5025125628140703,
-    "MACD": 23.77852898593096,
-    "BB_Percent": 0.5135205124970939,
+    "RSI_14": 52.474320206931175,
+    "Momentum_10": 0.315357931251971,
+    "MACD": -3.8447985862603673,
+    "BB_Percent": 0.4610499484447885,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8691580352793107,
-    "QualityScore": 0.4850047003134842,
-    "SignalScore": 0.6799641540049892
+    "ValueScore": 0.8675101651563457,
+    "QualityScore": 0.4916840792666491,
+    "SignalScore": 0.6052479606803174
   },
-  "volatility": 0.0179690609001754,
-  "beta": 0.442,
-  "return_6m": -0.1162697402687154,
+  "volatility": 0.0178642170247896,
+  "beta": 0.393,
+  "return_6m": -0.1312936803355674,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
@@ -510,30 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 1599.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 1590.5
       }
     ],
     "current_price_data": {
-      "price": 1599.0,
-      "change": 24.5,
-      "percent_change": 1.56
+      "price": 1590.5,
+      "change": -8.5,
+      "percent_change": -0.53
     }
   },
   "news_sentiment": {
-    "summary": "La synth\u00e8se de la nouvelle est la suivante :\n\nUne nouvelle rumeur se diffuse sur le march\u00e9 financier, affirmant que le Tokyo Metro, une entreprise publique de transport public, est cible d'une \u00e9valuation de 4,7 milliards de dollars lors d'une possible offre d'initialisation de bourse (IPO). Cette rumeur s'appuie sur des sources anonymes. Selon ces sources, le Tokyo Metro serait en pleine discussion avec des banquiers pour l'\u00e9laboration d'un plan d'IPO. Le succ\u00e8s d'une telle offre d'IPO d\u00e9pendrait de la capacit\u00e9 de l'entreprise \u00e0 g\u00e9n",
-    "sentiment_score": 0.0,
+    "summary": "Japan's value push is facing challenges with a decline in margin trading, higher listing-related burdens, and pressure from shareholders. However, Tokyo Metro's IPO is expected to raise $4.7 billion, indicating continued interest in Japanese assets. The global market sentiment may impact the overall outlook, but there are mixed signals, as breakingviews predict a potential pushback against value investing.",
+    "sentiment_score": -0.5,
     "label": "NEGATIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "$4.7 billion valuation targeted in Tokyo Metro IPO, sources say - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1U2QkZWSzFZYjNaYUpPOW1kUEJibWxTVzRZWDU4dkhDRmw4c0NEbGQxMkFKSlJiR2VQdUN6NEVlbHlXaGJPelZQZ1RGSFVpZENVVnI2OHhfUlZHY1J1OFJiZmlOREpmM2FwcHAySGZ1eHdaTUNvMlhZUjgtM2JwdkRkODBrRTVtbF9DNjRxNmFsX2xpNmt3a0dma2lHTWpCWWdfbnVPY050STQ2SFdoYzhwbGVPckMtNWFfYTZ4aEhuRUE?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 2,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

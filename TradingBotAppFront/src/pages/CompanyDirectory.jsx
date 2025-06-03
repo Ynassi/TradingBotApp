@@ -77,19 +77,19 @@ function CompanyDirectory() {
 
   return (
     <Layout>
-      <div className="p-6 flex flex-col gap-6">
+      <h1 className="text-3xl md:text-4xl font-bold tracking-wider text-center mb-10">
+        Répertoire des entreprises
+      </h1>
+      <p className="text-gray-300 mt-2 text-sm max-w-2xl mx-auto text-center mb-10">
+        Toutes les entreprises actuellement suivies par NASTRAD, triables par indicateur et filtrables par recherche.
+      </p>
 
-        {/* Titre */}
-        <div className="text-center">
-          <h1 className="text-3xl md:text-4xl font-bold tracking-wider">Répertoire des entreprises</h1>
-          <p className="text-gray-300 mt-2 text-sm max-w-2xl mx-auto">
-            Toutes les entreprises actuellement suivies par NASTRAD, triables par indicateur et filtrables par recherche.
-          </p>
-        </div>
-
+      <div className="mt-[-20px] p-6 flex flex-col gap-6">
         {/* 🔹 Dashboard Exploratoire */}
         <div>
-          <h2 className="ml-10 text-xl font-semibold text-teal-300 text-left mt-10">Dashboard Exploratoire</h2>
+          <h2 className="ml-10 text-xl font-semibold text-teal-300 text-left mt-10">
+            Dashboard Exploratoire
+          </h2>
           <div className="bg-gray-800 border border-gray-700 rounded-xl p-6 my-8 flex flex-col gap-10">
             <CompanyStats data={dfMerged} />
 
@@ -108,7 +108,7 @@ function CompanyDirectory() {
           </div>
         </div>
 
-                {/* 🔍 Barre de recherche */}
+        {/* 🔍 Barre de recherche */}
         <input
           type="text"
           placeholder="🔍 Rechercher une entreprise ou ticker..."

@@ -2,32 +2,32 @@
   "ticker": "SAP",
   "name": "SAP  SE",
   "sector": "Technology",
-  "market_cap": 345788940288.0,
+  "market_cap": 354264186880.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 54.089417,
-    "PB": 7.5670776,
-    "EV_Revenue": 9.77,
+    "PE": 54.81498,
+    "PB": 7.752546,
+    "EV_Revenue": 9.984,
     "ROE": 0.12905,
     "ProfitMargin": 0.16308,
     "GrossMargin": 0.73632,
-    "DividendYield": 0.86
+    "DividendYield": 0.84
   },
   "technical_indicators": {
-    "RSI_14": 62.197101116752215,
-    "Momentum_10": -1.759909033909083,
-    "MACD": 6.904149694117962,
-    "BB_Percent": 0.6692030675910516,
+    "RSI_14": 62.861932590090206,
+    "Momentum_10": 2.4509915458659908,
+    "MACD": 5.764436916561124,
+    "BB_Percent": 0.90827946051137,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8520031283359859,
-    "QualityScore": 0.4563934764137287,
-    "SignalScore": 0.689163801009119
+    "ValueScore": 0.9173395498683964,
+    "QualityScore": 0.4580405657314948,
+    "SignalScore": 0.3787126221217057
   },
-  "volatility": 0.0200441919558668,
-  "beta": 0.952,
-  "return_6m": 0.2814958917046877,
+  "volatility": 0.0200198441326199,
+  "beta": 0.941,
+  "return_6m": 0.2569849430696018,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 302.86
+      },
+      {
+        "date": "2025-06-02",
+        "price": 303.88
       }
     ],
     "current_price_data": {
-      "price": 302.86,
-      "change": 5.93,
-      "percent_change": 2.0
+      "price": 303.88,
+      "change": 0.79,
+      "percent_change": 0.26
     }
   },
   "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte des actualit\u00e9s r\u00e9centes sur l'entreprise SAP :\n\n* SAP a \u00e9t\u00e9 maintenue dans son niveau de performance par JMP Securities.\n* SAP a vu sa cible en bourse augmenter apr\u00e8s l'\u00e9v\u00e9nement SAPPHIRE.\n* UBS a relev\u00e9 la cible de SAP \u00e0 EUR307 apr\u00e8s l'\u00e9v\u00e9nement SAPPHIRE.\n* Insider Monkey a r\u00e9v\u00e9l\u00e9 que SAP a obtenu une cible de EUR350.\n* Les signaux de march\u00e9 de SAP ont \u00e9t\u00e9 positifs apr\u00e8s que la soci\u00e9t\u00e9 a battu les vues de l'\u00e9conomiste lors",
-    "sentiment_score": 0.15,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.05,
+    "summary": "Synth\u00e8se courte :\n\n* SAP SE a connu un important d\u00e9clin de la courte int\u00e9r\u00eat en bourse - MarketBeat\n* JMP Securities maintient sa classification \"March\u00e9 Performant\" pour les actions de SAP SE - MSN\n* SAP pr\u00e9sente des signaux techniques et des patterns - news.stocktradersdaily.com\n* UBS a relev\u00e9 le prix cible de SAP \u00e0 EUR307 apr\u00e8s l'\u00e9v\u00e9nement SAPPHIRE - Investing.com\n* Les actions de SAP sont en hausse sur les commentaires de brokers - marketscreener.com\n* Les actions de SAP se sont \u00e9lev\u00e9es",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "JMP Securities Maintains Market Perform Rating on SAP SE (SAP) Stock - MSN",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVl9NdnBUUlZqMDFqQnJhMlc4X1ZNS3d2WDhFT1lERnQxajJTT19yRlZzRlhkYzdYT1JiZHZlMnY5SHJaSmJUQnFCTDNRZVNOM2YweGo1RTltVU0tWnEwWTA1RFBXRVZTcjdVZXNuSXNfSWdhcllnWkxtc2k1Nnp2NmNGTVRqSHY1NndFTWxWSUxKYkJodWU3YTh3N0FHbThydGFTaHFMSXpqSmlVYWZhWDBEWG9KR2pLRE5uZA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "SAP: stock up on broker comments - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWdiXzROc3NGUWxBWU9PQ1A3Vi1qS2RhRG5kakZadkdNMm5PNjFHY3pxTkVBdW5sZXFtUEtsdGNVVzdySXcySXFxYWN5cG1VX0lhNVVUb3lvQ3VPdmcwbFRIaHZzSWlORTlld2NzQ1JkT1JfcUdUVVpXNTU0djlpXzZzRTZSOWVjNkFLSzVVLWJZYkN1M3o3aElwZ0ZXM2FoTXR5bEt3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UBS lifts SAP stock price target to EUR307 following SAPPHIRE event - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDVuRi01YWFjVXdlcFhsV0NWUmxmV2dLRWVKUWtSSkphWUN5VDNuODc2T2FHTU5OZS1XSkdldnFWVF80UjN1Ynp6cEh1MkhqLVNSMi1yaFpuWFJpSkhpV1FMT1h2ZUxBSzQwTFgzWjFKc2RBOGtFbExWUDJoeldtd282MmRYcTFtbXZIV0lIcEtURTc1RHY5YVUteUJOZzR1dC1VRUFxcW9IUnJhVGVDU1h1Wm5VSWppVlFNT2ZWdGFFWWw2YXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "SAP (SAP) Just Got a $350 Price Target \u2013 Here\u2019s What\u2019s Fueling the Surge - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa3hWdDQ2YUlXN3pUdWl0aTVWNzZ0b1VzVkhjODdleURRZVdhZE5zeGR4SUduMDB5ZlRzbFZ5MkYyLVd2eDFnckFmZUxtRVg4Z0dUVGxuRnZscjZ4RDhkM2d5OFNSN2FhYWh6eFB2bkNSSzhVT1l6VVk3SkdSRHRtWFpaV1ZlTktpcnloNk1lQnpERkZ1aUlFRlZUTldrWXZWc2lJV3hKUGs1SzZVdUHSAbYBQVVfeXFMTkdYcnoyQmtLbFZMbXVTSm1ndTJRbWdOSE1nZ0h0elUwT0dPRGI5WGdOaEtPQkxHNm9XT3h5Zno0N1RDczJmZ3lreko3b3BCbUFlaHFrbGZIb0lwM1BHcDNuSGJsLVpuNjctVkh6UEt1LVBadFA1aDMzeWhOUVY3ZEZZNW16blFqbzNlODJnVnpKSjVHYXAtMVBxb2lHRlFtU2ZmRmJ3QWc4dS1uTVM3UVprOEtjYVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(SAP) Trading Signals (SAP:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNlhndUdNVlM0LUsyY0V5dW5UdXQ0dGFGZjhEemdpQUc0Vnl4YzFONk5EajN3aTZMZ3BQM1FWQXRqa2NMdk5qekNwTXZuZldIQjhkZVhWNHhVanZZTXBDVkhuNkhBdkpKOEVUNE1hYTRmdDNPa3NjS0dwWG1zREk0YW9FSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Boston Common Asset Management LLC Cuts Stake in SAP SE (NYSE:SAP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX1BQUzZSR1hxbzBKbzB6a25vQ3ltRDRXZ3B1X0pvMENXaEZyUzE3QXhRNDR6NF9FZ21kaDlXR3lYbF91TzV0UWg5SmpJNUlDbDJYUk1yMXU4VHJpeHFQakJGeHZXdmZhdVVxZ21IV255Um1UQ2JUV2VybHVlekFJSW55eDJYN09DMnlRdlQyMWQwQnVjTzg4NGxJX05DMWVqYkVob09ZUDZvaFdod0xRQXE1RUFtNmFtV0dDaHJ3ODFjUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "SAP CEO Christian Klein Set for Exclusive Fireside Chat at Major European Investor Conference - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGVNNTJpSnZrNXpoN2RJYlVaaEdrQmNBc0ZQRVdTOWI3N29ZTDVESWtUU2ZIeFFEODgzWEEyYV9Xb2JmbE5TWU1ZSWZiZ2VObjdTTHBrbTdLM0ZnRlItOE9zWVdCelZOQzdXQ2lmdGtDbFJzNjl4ZW9qLTl4dTRQTXQ1Q1pjZjNtOEZLVGZXaGtHVmVZbHBtNUxmVHM0MEJLVDNwQTAzSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "SAP shares surge as first-quarter earnings beat market view on cost discipline - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZm1XeWJjV0xubWlnbHh4VFFjaUxCeVV5Rkh5MmZoU01sUTZVUTV5SHFuVzJsSFFpd1VsX1l6aGZ1dU1EOXNvR0ZNZEJoVDNJRG1PaUVsYmNRS3NKV1I0dmFWQnNfbm96bkxIaGY0RF9mcnIxWWJ5bGRQdjhhUlM2ZnFKZ1ZuRkNUajZsalJXYTlCQUdseWliZUhjcHlNSnhCT09RTXM0amtjbUdPQzZrbmNFVllvT1JOY1ZB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "SAP SE (NYSE:SAP) Shares Acquired by Forum Financial Management LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWkzaWhhbnhmR0s0Qk5Ubm5VMUZSRWZfdGlMWXpWRV9XODBCcVFTTmlmbkloOEhKaHRRT1dqMjRZSE8yNFRMM3RvRGRxQXp6a2pxc1VOYzZVSWtYQmpFU3c4Ui16cGV1Vlk2OWdkdzZRbTFna2l5OHFLMjFHV0VubGJjZEZfYm5GWE90VjJWMmRNekxfclVUZzVIOVF2VjJDQUJGNDBlLTRwLW9PMlR6SE5ZR3I5ZFJSZ0R3NkZGZFJ0WlRFX09LeA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "BMO Capital Raises SAP SE (SAP) PT to $330 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvSG5GSlU5WDNEYVpxTHJKQ3BpaGpvcFQ2ajVHbUdfRGFsX0pDbW9NcUJEMHNDMmdYNVV3ZmV3Smd2YzlvMGdfejlLUl9ZWkNrSHNta0MxYkViRDJwcGZCSlJFQlltM0RPMWluZmU5cHhKWms3TDZWNDQzOA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Deutsche Bank AG Buys 1,396 Shares of SAP SE (NYSE:SAP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR0V1TTZXQUlubHNYNnhuc3lEMEp0VjZvdmZOeTNDWVRjMDN1R01tNDdHN1A0Tmhiekw1dTRjOU91b1pMejVlTjd1b0pib0p6SEZOQzdUQWx5M19yclpIMTdLcFpYRUFPMDcyN05lcXh6X2F2ZVVqbXdoV0xPM2lzTTNXYTZRY2dNbjlPRlZsM21Ed3Z3QlFqOWFCUDZrQ2lONExjRmhMek9Sak9pVTE5NWZwUHo1dl9r?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "SAP Jumps 21% YTD: Where Will the Stock Head From Here? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XR0JEeHhmazFqVkwxZ0VqV1B4V3JwUjV1T0FCVmRTUGx2ZC1MY2dtZ2VrY1BoSE5mZkI2SzJjaE1ERlVvb05WQ2k0RE14d2dDUkNDams0cFNWMXNjQmlSanZfZmplZGNldW81Nkd2aTAxYmZkMGJN?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "SAP SE (SAP)\u2019s Strategic Pivot Drives Optimism \u2013 JPMorgan Reaffirms Overweight Rating - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS21Jdkd1MmlhaUQ0aDZGRnF0UTBfai0zLVpoVUtyaTRKbWpnQ0U4WnpUM21VdHliUjB1el9MbmZ1MlZ3Y0lmUjlEYlppRFhhODZQT1pvNm56VzBxV05ObmVod3pxREtKc0pkX3lNTnJYZG51MWQ2bjI4aTZwcGFvV3diNHp0dEEwMlJKVTBON3ZHRjlXWWRmZGhraDEzM1FpTEpvWEJrLXdrMFZXZTZKM0drTUpPS2RWbDY0eWc2bzBqRmIwUFYxd3FMTEJpbndZNnZ3R3pGWjhGa0duNzhxLUxLZUVEQmE2a0VETlRtUWM?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "1,261 Shares in SAP SE (NYSE:SAP) Bought by Rafferty Asset Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaDYzUHBNV2UwdHJveUxFOWJpdFdSVGV5RmNpMWthWVBtNnpYU2QyeGJoNVlFMUhlcXljRlJGZklQSUFCSWxJcUhfOWpKWkpQVmtneEp2cHlSd25PRTUwWnJYLUdLc0M1cEMyYXdOOTNlVXpmYmRGU01jM09FNUdVcVpjaVZsU24zU1EyU1p6dHpiN2Y1NTNTLWVsV296anJadEhRVXhYb2hSVzNzMjNEbmVWNjJ3Q2lrNTdaSWk3ZnFPZnJQeDQ1UGJLaFZjbVpEUXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Saputo (TSE:SAP) Stock Passes Above 200-Day Moving Average - Time to Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2JLNWV3b0NoaGRiUmo1X01oMFlIbWtzVi1LcElxMjJ1TEZUSW92OE1sZVJEZkYwZDZTVHd6ZHR5dTQyX0Nqbkk3Y0Jib1pjeDlFeHlrbmVKWkl4ZktkQ1ZZNTN2VGcyUG80S0lQSEp2WDJBeXVYZmk2X2RBci1pNGh4SDU4dEw0RjBuTzRzd2N5WXIwQXdsbWxVX0RlRHpacEhFaUNWQzMtc251eElxMFlvLS0xb0ZlY2NkOFBSOA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "SAP (ETR:SAP) Shares Pass Above Two Hundred Day Moving Average - Here's What Happened - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1Bwa1Q5Nm5id19LM0lyNjMwc0RNTlR4cE5YZ1poRVljcjRSZTRYbzZERDdKWDlHSjg3NjN2SDRzYnFFblVaQThDQXluc3A1aXlwSWpScU9zTzhwZ0NNbWxwbGRGMFBTUUNtN2xpbHNKTFF3eV8wQWdVMUJxaDZuUms3aS0xLUxnZVZYaDZzdExCOHpmWmVLNWZYMTRIeW1ZYUhtN0w4cmZKaC1QYlViSjN1M2V0TzdmeWpnWVFkZ0p1aFU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "SAP (ETR:SAP) Share Price Crosses Above 200-Day Moving Average - Here's What Happened - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmtvcEtIYVZfNGFUUHhWOEhjc3pSdlFaRVhBbVFJR1diVkdCMG80ZmtTNkx1MWxDN3QxcEx5SVppMnU1OG44Nm5hTklwdi1JeVlJU3NLSHpWNWEtSTZIVW5WWDF3b21tYmctLUJsMHBpMFowRmJEOEUtWWRhYS00VWUzZmg3UTBuakpnZ2VJN1hESl9XOWJGMEQya3dUaVNDcWNxbUFNenhtdG5YR0pSdWpjOUVOaHJZYjBwTG5RVXBMbWxyaUJEbnN3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tidal Investments LLC Acquires 1,537 Shares of SAP SE (NYSE:SAP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMHlpMWQtNDVEVFZPRE5VMlcwcTVYczBBZm9HTzFvOEsyU3Z6VV9IelhLcHBzQjF0VHFnZ0tRRm10cGNGaHBJRFN1Wi1xVFllZktQc2R4cnl5enRISzlkMzlsOThsaGg0NWROX2tDUDFPSmI1ak8yMjZ0VVRBakZyeG52bmh6TVZTNTBwTVlhcWwwdXpLTkJYTF9mSVg1OFQ0T1h1WUtFM3I1OFdLbWNSWE1MOVJJbG9H?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Infor bets on \u2018micro-verticalisation\u2019, sees uptick from SAP customers - Computer Weekly",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDZjZEtMeWFlSW9vZHFCbDFHZmN1eXdndWdiLWl2dnJaQS00eDFhUk9IVGFDYmZ4U3pfRzUxaWlnekptWEhXWGpYOHJLUDNGNmNUOGdzR0p0SjJMUW02LUU1WmtSQm84YkFxYnY2dDhFeTdiNWg5b0puWFBRSEpBb010anVJQ2Q5M3RDMXFkZmZ2WFJIUmd4U1hjc1JoOEZyNHQ3MUxCQlV2LWhSME9TdEV3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Brucke Financial Inc. Purchases Shares of 3,786 SAP SE (NYSE:SAP) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFd3dXdraUxSSC1aQ2dOcTZmaE1pSHIxQ09Tb0lCc0ljTTh0RUVlLXZmTXRnWUFGNkdoY3dKMF9lQnoxTmFUR3JnUWNkTVNSRXVYaUpEYlEtU244RVhBWTZuaXNPVWEzS1hiSDVZNW01N2dUN1B4VXNZQi0yLWpweW9TWC1hRG1CMm1mRmJGWGtxdG55aDZodnBQbzNlYVR2VlhBV3RiTkN3VWROTU83ZEdOaFM?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

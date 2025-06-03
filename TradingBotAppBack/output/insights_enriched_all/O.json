@@ -2,32 +2,32 @@
   "ticker": "O",
   "name": "Realty Income",
   "sector": "Real Estate",
-  "market_cap": 50789220352.0,
+  "market_cap": 50906619904.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 51.127274,
-    "PB": 1.3012193,
-    "EV_Revenue": 14.456,
+    "PE": 51.245453,
+    "PB": 1.3042271,
+    "EV_Revenue": 14.519,
     "ROE": 0.02507,
     "ProfitMargin": 0.18100001,
     "GrossMargin": 0.92692,
-    "DividendYield": 5.72
+    "DividendYield": 5.69
   },
   "technical_indicators": {
-    "RSI_14": 50.17242837165398,
-    "Momentum_10": -1.264040410074605,
-    "MACD": -0.1703281641860741,
-    "BB_Percent": 0.3766805127423895,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 52.41495502625521,
+    "Momentum_10": 0.2844947415308669,
+    "MACD": -0.0256788078235175,
+    "BB_Percent": 0.6476356892709814,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8533305326432467,
-    "QualityScore": 0.4639298169958297,
-    "SignalScore": 0.6930062402940496
+    "ValueScore": 0.851603363465393,
+    "QualityScore": 0.4669620380219462,
+    "SignalScore": 0.6051185844008651
   },
-  "volatility": 0.0127468165422124,
-  "beta": 0.787,
-  "return_6m": 0.0191895209221732,
+  "volatility": 0.0126970946239334,
+  "beta": 0.766,
+  "return_6m": 0.0183218668909534,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 21,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 56.62
+      },
+      {
+        "date": "2025-06-02",
+        "price": 56.52
       }
     ],
     "current_price_data": {
-      "price": 56.62,
-      "change": 0.26,
-      "percent_change": 0.46
+      "price": 56.52,
+      "change": 0.18,
+      "percent_change": 0.32
     }
   },
   "news_sentiment": {
-    "summary": "Les titres pr\u00e9sent\u00e9s \u00e9voquent Realty Income Corporation (O), une entreprise cot\u00e9e en bourse sp\u00e9cialis\u00e9e dans les propri\u00e9t\u00e9s commerciales et r\u00e9sidentielles. Les titres d\u00e9crivent plusieurs signaux positifs pour les investisseurs :\n\n1. Realty Income a annonc\u00e9 son 659e dividend mensuel cons\u00e9cutif, laissant une opportunit\u00e9 pour les investisseurs qui cherchent des dividends r\u00e9guliers.\n2. Realty Income est cit\u00e9 comme l'entreprise de r\u00e9f\u00e9rence dans le secteur des REIT.\n3. Le CEO de Realty Income a \u00e9t\u00e9 invit\u00e9 \u00e0 pr\u00e9senter ses plans de croissance \u00e0 REITweek",
-    "sentiment_score": 0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.85,
-    "negative_ratio": 0.05,
+    "summary": "Les titres pr\u00e9sent\u00e9s sont tous li\u00e9s \u00e0 Realty Income, une soci\u00e9t\u00e9 cot\u00e9e \u00e0 la Bourse de New York (NYSE) sp\u00e9cialis\u00e9e dans le secteur de la propri\u00e9t\u00e9 immobili\u00e8re.\n\nParmi les titres pr\u00e9sent\u00e9s, les signaux positifs ressortent clairement. Realty Income a annonc\u00e9 sa 659e distribution mensuelle de dividendes cons\u00e9cutifs, ce qui attire les investisseurs en recherche de revenus r\u00e9guliers. De plus, les titres mentionnent que Realty Income est consid\u00e9r\u00e9 comme un des plus grandes entreprises immobili\u00e8res en mati\u00e8re de dividendes.\n\nEn revanche, il existe des sign",
+    "sentiment_score": 0.0,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
     "bullet_positive_count": 1,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Is Realty Income\u2019s (O) 9-Year Low a Golden Opportunity for Dividend Investors? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9obERnNjFfMzBpTEF1eFJQQ09MR1RzXzNZdnJqTGV2S3N4Yndvb1pZUGJBSDR1S3FKQklsR0xUOWJJSW13TFRHOWRodjRCajRrVndiQjRSR3V4cjhZOWg2VlI0eThDeFFKd0IxVDc1Y2tWNG5CM0E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Realty Income Announces 659th Consecutive Common Stock Monthly Dividend - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjdfSWZjUUh5eS1GY1M0ZmJ6d0VYT0h4Sm13SFJ0U1pSNVdLS1I1NlZLNE5aa1hkLXNuTHNDaG82cmdPQzRDeDdvNjFPVENBcmhYcDVTOTNXeVJwUzJPYi0tMHIyWTVod21JbTVlMXNTRjRUOHQxdWc4a3Z3QjZDeFItX0hTMnRlem9LWTJoSVdLSzNieV94dnZZSVVtMFIzY3REQlhJV1NvTWZBekM1eU93ZmkwaHNkRzh4WlkyYmNoYjVaaGc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sandler O\u2019Neill maintains sdsds stock with {REMOVEPT} target - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTWZNWk9LZjZhSUNNaHRSN0xWT3ZIUlIwWEl3T2l2QzBaV1JDdHByVllhLVVKeHl3bWFRR19wWjRYazIxelBzM3dDV0tZVFVCMUoxbTZCLThDeUZRQ2szd3VOR1BKY3RwVTFReVlETGNHU0FBVmxQdmtBaTBPamhQUjc2cDVwZU5TTDlkY0dxVUlRbnZld19MSjNqRGRPMXd3X0pDbnNfUVlNX1BDbGtoaU9UcV9ERG5D?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Park National Corp OH Boosts Stock Position in Realty Income Co. (NYSE:O) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWFVsNlJYLVBaVEc1UW1DUTNLUEI5Tk5jclBaZnJ5UTM2Q2owOC15ci0wY3Zua3M0SU4xREdTemRhTkdFOHl3Wkl6eGZOUExCNVpDX3p1T3oxUFlQRUx3SnlNQm9VOWxDSXVCSFRNWm9tangzcTJmaGFzTGMxR1R3WktNV1d1Z3dtLTZ6dXgyQjhfNUhWWUNnRUUzNFdpWFJTV0tIWVBnTFJKX2cybVdNQXpHS2F1XzBrN3FWalB5S0V3T0QzMXNZVlJR?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Realty Income (NYSE: O) Stock Price Prediction and Forecast 2025-2030 (May 2025) - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT0RxLTZXVEV3SS1WcGstSHBSbngyVDA3dUZENDIwcHBDYjdYTUVaTDBjNEVVNlRudDA3aW5uTGxoZFAyNmk2Sm5EbWFkX0Y1b0RoVDltWGZPTWJmYWZtSERTS0Rnb2kwQVc1SHJpVjNhNF9yRmZ3NWx3cXZ6OEdpNEpLLWw2Smd6bDIyZDFZOE5iM3NiRnNJX3hjeHctbUI2MDlQN3gxVlM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Realty Income: The Next Growth Frontier - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHdHUnBteG5fdFdlc0Vxc3BBNTBxeUN6YWRSS0NpN2JKZG81aTVZdlU2dGtvRjNMRVFudFR0b2ozLTRrWi1FVTJ0X29ZOGpxSFduSVpoZ29SbW9fZG14cERKVlBITkxrZEUzRVNaWHVOTjZEenh5Z1A2cG1ZMG1OLTVKM0VyYlBTX01WbWFuZ1FHb2FQSDItSFRn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczdDQTVhb1BVb1J0NVVYem5odEFVdzF0aElEZ3FKaDhsb1FIcU5lR1QxOXVVTUptMnZBZVNsdmlFUWdIci1HRmVNRFprOXBsVThGNldFbnVYTFFFak9LVVo5OHFpVWEyNHFOZ3dKQVVVMmFLbXJielZxVVVRUk5qSzAyTjFoZUVWRG5vTF9XZEMycndUWW5DOQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Monthly Dividend Giant Realty Income Reveals Growth Plans: CEO Set for Major REITweek Presentation - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXptYXRILVgxcXhNeWlvVmZwQm5aa29HMWU4WU9mYTFWdnF6d1ZUczd6Zk9ON21mMDdyeG4wX3ZOWHJ4V3doY0FyakRCMzVRV2xLYXY3Q2w5ZjY4bXVGaUNiQlNyWEE5NXVOcGZFVFFLWVhBRUZwUjNqVzJFN3BmUElnUDgxQk1EVGhSWkJJMG5MTXU3ell6UWRPMnVlWkdFLWNiYXQyaGhEOEVHT3kyRkhR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should You Buy, Hold or Sell Realty Income Stock Ahead of Q1 Earnings? - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGtPQVJ5SmZuVjkyT01OeDZLRFFsSEtOaGpmODktQVhGdzVFOVd6dmdUSjNGa2lUdFZSRmJ0WkxWRHhXQWRJRHVPT2pZLWNleEd3TG9KX2ltaUlwZmVLV0hnTTFBaXROclphZEhaTWhOb0JKLVNLY1FnYXloa1RoczNtVHpKUGRFbnRJYUs4OC0yUHVHOWhrOE5KR2dZUE5rR1FLTTRkSzU4Z1V2ZVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Realty Income to Present at Nareit's REITweek: 2025 Investor Conference | O Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWJOZVZ4NHNOOHAxVTN0T3M2Z2JFQ0toRTFWd1dmNEJqQVJfMkJaVmhmc3pUUHRZODVrS0RUNXlEZkhTNFdERTd1QXV1dEN0SlY5dWluaFJkMkpHQVQ3ZHh5REF1QmpFak5nODJwaGVKRm1aeTI2Ry1wcDRVY0cxTnZRZ21HMERtY2VzVDR0aGZxWnk3cE9sS0FsSUpUUXlGcjNPd2lpeDMzMHhNWC1iVzdLRWtzZUxTMTNzME5B?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Realty Income Co. (NYSE:O) Shares Purchased by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNTVUMnhCZjFob0ZnQVJfVi11X2lyVk42Qi1VREFydkg4OEZlMzJUZkNySzZENGxaLTJIRndGWGcwaW01SHB1WFZseTF4TWk4ZERLQS1aMk01a0VfQnk4dExFUnpMeUlGOVVEVXhIMFRWcUlXU0c2SXl0cHE0LWJXMWgzcDNEMkM1aC1kN0xqaEZic243SHVWM3BDRkxFYlJRelNOTGRrUm01Mk9HS29HTWFWNzJ4MHplbmRLaTFYTURMVlFPUXI0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Alphabet (GOOGL) Stock Outperforms Nasdaq \u2013 Analyst Sees Promising Signs After I/O - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMnVYdnJqeVdzUGIwZHpiYmh3TVB6T2pFWTlKWm9BRXNrY3BpOWZwcUpLMDRQNEJsdnhKMzVXdVBMUy1PQllYcVQ0ZHhGX2x3aVMzNFA4VjVQSmtPdmxqWFJuRU55MTlwcEtWajdHd3lPOUJ5NHVWMnVYdnpMcC1LMG1uY29kb0ZvcE9OekV3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "1 Top Dividend Stock to Buy Without Hesitation for a Lifetime of Passive Income - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3hVT3BOaGhFZGNtX2ZSYV9kclpfVlh0NVFfcVh2ZGYtM1lMVEJqT2hNQXhjQ1pWamhfbnR0S0hSQzhGQ3ZqTGJ2dXFCUkdRbWdmTHlZYzRXNTZkV3lYMUV4WnBpa0Q4NWdrTk1ncVh4emRPODBreUNpT29BUzNKbkdCemdnZnZnbEZLNUNKQWdKLUxhbHBqdA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "3 Cash-Cow Monthly Dividend Stocks to Buy and Forget - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVV3cXU4V1Z4M1lXYjZBNzZlcHI1dXZKT2htOE0wbzQ3UG9wLTlOM1J0VUhLOTFJUjEtc256UzRCakljdjlQSm1JdWV2eEIxWDRyMWtVcU5scXFsYldacDFKbS1rRVplWlFaZlc2ZmNrSjNJZ1ZobHVvU0t1T0V4cEZRV0U4ZlpfTEpCcHRXdmRtczJmYjdiYWp4dHQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Eos Energy Enterprises, Inc. Announces Pricing of Common Stock O - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTNjV3F5RWw2bDhmWTNXSUd5TjlRTzR2c1M0a1hVNUVXUF9PRndNSTBYNmFlMTMtVEczLUpQdDFLZUhDV2I3YmFOMFZHbm9RNXBWUmh5dlQwcGpsanV2aVRpbTc4aUNWUWdqeXc1dHRkbVZ0RTZTb1JwNkZFLTZFZ2tYVU5aSkhjeXlVSm1GNVdZRDcxTGZGcHRiUEJRbnhIQTlkS2d0ejhKZEtFSTNyb1VtOFQ3czFaOFc3M2NWYlBVZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Realty Income Stock: Buy, Hold or Sell This High-Yield Dividend Play? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQa0xCUXNSNzg1TjVmVUNqdEhhSlU4bjNTcU5DOERoN3Jvc2M4WnFOQXdQSFgxS2ZfVERyYjdqeng3VTVYOC1va0dyUWJRM2ZmOHBYMWZpbE1xUl9EQXQtZ2hPWVoxQjg3S0ttT2g1R3FZRnh5Y3Bxc3dmMjlVMnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Realty Income (NYSE:O) Stock Price Down 0.8% - Time to Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUGhlbl9Dc3RrT21BTTRBNXp2NGkyY3h1RDEwanJkZE11ZWdyUkx3cDNDRkpud3V1NDBJZGVGMVRJQUFVUFlYZVRoQ0VoeHVfSkU1dlRrSkRYc09KU3NfR1NHSjIzdjEtNHpIX2hzUW9kTVJVcnpvVHpKZTdScUhIUkdwa0ViTmFyOEpjYlBoRWhpQ0tHd1o1N2tHMlBpUmc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is Realty Income Corporation (O) the Best High-Yield Dividend Stock for 2025 and Beyond? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTFNTMlZ0ZG5EbWRrNEc0TTFxNmVSZlJBU1JReEZ0VmpwUVJXSkJJZGg3VnhNRjNNNHZoTWJmcEdQVnBwT0tNVEJVTWI0ZlB6ZW1ndExRcFN6UnVSZDREN21sSGlISWZ4ZGtBLXhJcmduWmNzZEdYWERkTGswUHh1eWhfa3M?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Woodline Partners LP Acquires Shares of 52,339 Realty Income Co. (NYSE:O) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0w4Tm1jUk1BTk15c0h5TWFscGhOSnd5WVlqR3hwVDdGQ3pjQTJrdUt3bUM3S0x4YldFSzl3UWtzVEdOOGdmN1VMOFNmbVNEWmtKWEh5MDlzS3ZvOXhYRWV0MVVHMDZGdmVRa0RycEZZX3d2ZTZmUTUxQXlLTHFuQmVZLTZpbFN6NG91b0V3bzNXY19ua3F2Z0QyQkxrTlpzTWN1aGZSWWJCSS1QUXBybFRhcXZ4VldHdUVTNXBvWmVlU2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Realty Income Co. (NYSE:O) Shares Acquired by Employees Retirement System of Texas - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN2pzWmw3RHp3UEo5eFQ1U1F5OTZjTDAtZ0RMeTNWZG5jNWJCRVdRSEMxaFhxYjU1SnZCQUk1UXZMc1l1M21jMC11WmNLdW5DWE5ycVVTblE0dW5uMXF5Q0s2SnJtdTlhWDhjSkxnRldpSmE4a1FJazkzNHJwSTA3QWJyekstRzBBQnVqcEZCdTUxRkpOQ0R5dHdTdHVTYnlFbmltcGZvUzFkVmxPYWh6YlRwQmtTZW5McDM4SXF5Tm5yVW12UkxiTW9QQWcwTF9iRU9HU1lYd3I2Zw?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

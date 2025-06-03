@@ -2,32 +2,32 @@
   "ticker": "6361.T",
   "name": "Ebara",
   "sector": "Industrials",
-  "market_cap": 1121604468736.0,
+  "market_cap": 1055763660800.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 15.47953,
-    "PB": 2.369224,
-    "EV_Revenue": 1.309,
-    "ROE": 0.16427,
-    "ProfitMargin": 0.08239,
-    "GrossMargin": 0.33111998,
-    "DividendYield": 2.36
+    "PE": 14.571775,
+    "PB": 2.2655952,
+    "EV_Revenue": 1.244,
+    "ROE": 0.16551,
+    "ProfitMargin": 0.081870005,
+    "GrossMargin": 0.33298,
+    "DividendYield": 2.41
   },
   "technical_indicators": {
-    "RSI_14": 64.18356162719736,
-    "Momentum_10": 12.802044609665428,
-    "MACD": 82.63126289229513,
-    "BB_Percent": 0.8067029037182682,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 47.52367301681343,
+    "Momentum_10": -5.8702368692070035,
+    "MACD": 34.0486587043456,
+    "BB_Percent": 0.2049499231519242,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8984991688003285,
-    "QualityScore": 0.3586386645325953,
-    "SignalScore": 0.5371139673174825
+    "ValueScore": 0.8968145912713174,
+    "QualityScore": 0.3571501839088813,
+    "SignalScore": 0.6655028734960542
   },
-  "volatility": 0.0293214001960211,
-  "beta": 0.835,
-  "return_6m": 0.1134332272535734,
+  "volatility": 0.0287554112597413,
+  "beta": 0.85,
+  "return_6m": 0.0219222777147949,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 10,
@@ -510,30 +510,16 @@
       {
         "date": "2025-05-30",
         "price": 2326.5
+      },
+      {
+        "date": "2025-06-02",
+        "price": 2285.0
       }
     ],
     "current_price_data": {
-      "price": 2326.5,
-      "change": -49.5,
-      "percent_change": -2.08
+      "price": 2285.0,
+      "change": -41.5,
+      "percent_change": -1.78
     }
-  },
-  "news_sentiment": {
-    "summary": "La synth\u00e8se courte de ce titre en fran\u00e7ais pour un investisseur francophone est:\n\n\"Il est d\u00e9montr\u00e9 que la colonisation ectopique de bact\u00e9ries de la bouche dans l'intestin induit les cellules TH1 et provoque l'inflammation. Cela pourrait avoir des implications pour la sant\u00e9 humaine et l'immunologie.\"\n\nSignal fort:\n\n* Le titre fait r\u00e9f\u00e9rence \u00e0 une \u00e9tude scientifique de haut niveau, qui peut indiquer un avancement dans l'\u00e9tude des maladies inflammatoires.\n\nEv\u00e9nement marquant:\n\n* Il n'existe pas d'\u00e9v\u00e9n",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Ectopic colonization of oral bacteria in the intestine drives TH1 cell induction and inflammation - Science | AAAS",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHT2xKS1l4eUdhSlVrMEpDcUxvZ3JXZ3RZU0xKTVU0NnlVT0c0d1gxamJPNkI5RXR1eUtMaWU4TVFsQWdBSmVDVUtwdkUzUEdSd0VuazJ3eEZSZkY3RVhNcQ?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-05-16"
+  }
 }

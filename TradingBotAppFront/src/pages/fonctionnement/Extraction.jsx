@@ -50,9 +50,10 @@ export default function Extraction() {
 
   return (
     <Layout>
+      <div className= "mt-6">
       <h1 className="text-3xl md:text-4xl font-bold text-center mb-10 tracking-wider">
         Extraction des données
-      </h1>
+      </h1></div>
 
       <p className="text-gray-300 text-sm leading-relaxed max-w-4xl mx-auto text-center mb-8">
         Cette étape vise à centraliser automatiquement les données financières, techniques et sectorielles des entreprises composant trois indices boursiers majeurs (S&P 500, CAC 40, Nikkei 225). Ces données sont ensuite nettoyées, normalisées et archivées localement afin d’alimenter les étapes suivantes du processus analytique.

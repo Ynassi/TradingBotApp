@@ -2,32 +2,32 @@
   "ticker": "ROST",
   "name": "Ross Stores",
   "sector": "Consumer Discretionary",
-  "market_cap": 50285293568.0,
+  "market_cap": 46480687104.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 24.196201,
-    "PB": 9.126828,
-    "EV_Revenue": 2.425,
-    "ROE": 0.40282002,
-    "ProfitMargin": 0.098950006,
-    "GrossMargin": 0.32731,
-    "DividendYield": 1.17
+    "PE": 22.330175,
+    "PB": 8.23526,
+    "EV_Revenue": 2.199,
+    "ROE": 0.39566,
+    "ProfitMargin": 0.097950004,
+    "GrossMargin": 0.32706,
+    "DividendYield": 1.16
   },
   "technical_indicators": {
-    "RSI_14": 74.846490778475,
-    "Momentum_10": 8.847599252450784,
-    "MACD": 4.1003121148388,
-    "BB_Percent": 1.0059520173219991,
+    "RSI_14": 46.55854613485496,
+    "Momentum_10": -7.572588261648522,
+    "MACD": 0.2383361731568243,
+    "BB_Percent": 0.3018337512384001,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8908170336312851,
-    "QualityScore": 0.3247037592457501,
-    "SignalScore": 0.5205847128890053
+    "ValueScore": 0.8900049890410631,
+    "QualityScore": 0.326745812098804,
+    "SignalScore": 0.687454513360648
   },
-  "volatility": 0.0166415284703726,
-  "beta": 1.177,
-  "return_6m": 0.0883023540329921,
+  "volatility": 0.0182525382518108,
+  "beta": 1.157,
+  "return_6m": -0.0909293958357396,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 140.09
+      },
+      {
+        "date": "2025-06-02",
+        "price": 141.67
       }
     ],
     "current_price_data": {
-      "price": 140.09,
-      "change": 1.16,
-      "percent_change": 0.83
+      "price": 141.67,
+      "change": 1.58,
+      "percent_change": 1.13
     }
   },
   "news_sentiment": {
-    "summary": "Ross Stores (ROST) Announces First Quarter Earnings and Sells Shares to Vise Technologies Inc.\n\nPositive Signals:\n\n* Ross Stores reported an increase in same-store sales for the first quarter\n* Vise Technologies Inc. purchased 2,993 shares of Ross Stores, Inc.\n\nNegative Signals:\n\n* Several analysts have issued pessimistic forecasts for Ross Stores' stock price, citing factors such as tariffs and competition\n* The company's rating has been lowered to \"Hold\" by Wall Street Zen\n\nMixed Signals:\n\n* The company's stock price is up 5% today\n* Some analysts have",
-    "sentiment_score": -0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
+    "summary": "Ross Stores Inc. (ROST) has recently faced mixed signals in the market. On one hand, Jim Cramer recommended selling ROST and buying TJX instead, according to Insider Monkey. However, GAMMA Investing LLC purchased Ross Stores' shares, as reported by MarketBeat. Additionally, Ross Stores reported its first quarter earnings, but its stock price dived 15% after an outlook update. Evercore ISI also issued a pessimistic forecast for ROST's stock price. Overall, while some investors have shown interest in Ross Stores' shares, others have expressed concern about the company's financial performance.",
+    "sentiment_score": 0.0,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
     "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 3,
-    "headlines": [
-      {
-        "title": "$ROST stock is up 5% today. Here's what we see in our data. - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzFKMlBFMWhldF80MVI3MllHd2IxMUFGV3JLSjhIa2FFR1pfS0VHYU9TYjlqbGxZVllkeVgxNmFrUmlQVnY0bWZqdmFiUndnR1dIUV83Z01DRlpzMzVzV0lFWDFBLVkwWnR6ZTRHM19Wb2gxakFTT0ZVdDNQQzBjV2g3Zw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Ross Stores (ROST) Announces Results of Annual Stockholders Meeting - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVBScGR0VVFtRVp4QVJCVlprcU9kRTJ6Yl95eUZIeVQxenZDLVhhT1RENFpFUVFTZ3VsdzZaWGxKVXpHWFFoaUMxWEExZGRsdF94aU94dFVXaklLVTkwMVNWQnRzVDZxMm14elFJT0NjMEo2V19lLVV3UEtVb0toRlExQ2s0bGxLWTFfRU9zeldoSXlBT0M2dHE4aTA0S3lIMkE3UUs1NA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Evercore ISI Issues Pessimistic Forecast for Ross Stores (NASDAQ:ROST) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHVwRGtmS01oc0NmbEpHU1B1Ynl0cklhbTJzZUZlREVSeWw4S1E4VmwxMXh3NlNqM0J1X1VfMjZ6UjJVaEpMNWxLUGQyWGE0Zm9MLWFlMWpFWWpLUkd6TXZ1Zi1hNTF1ekhtekFyM0FRekF4Tm9jYUpQRk1sbE9lelBlbl9WMHpiVnpkYUJ2aFBoYmQ0SHEzb091RWpjUkNYTEJDdE9nNE9oR0x5MkJGUGxnNGUxV2M?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "DG vs. ROST: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kXzdxRjQ3RVFwWmZvRk5BWjI1dWpmYW1EYjU5c1BZT1VKdmZ0aFBWMUJhYm82YVJNWThydXI2UUpsZnczOVlYdW9sek12NFNKNEpfSWY1d2dyTm1PZ0FySUVZT0ZSZmFMekFTaVF3bk04WVRNUHBF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ross Stores Reports First Quarter Earnings - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSHo4TjhzeW5PVVJ5bXdsRDBJaEltLWdVd0x6a2ZCdC0wLVdsaGV0eFlwRDFXYjZxYklpeXlhNy1qQ3JDMVZmTVV1LUxCOTRtRnQ1TmJjMzc3UnZYQ2F2X0ViRE9zbUdDUTNmdmtrMW53dzM2NnBOSDNrV2hTYThxYUhMRkFndWJlbWxJYnp1ZmQzZ0FnQ19YRlljVVdNbXNW?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ross Stores: Tariffs Add Another Huge Layer Of Uncertainty (NASDAQ:ROST) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnlxNndOcFNJRzZSWUY1b3hhQVVtWS1TX0kwNUJYM09YQnQ1UXY4aEx3ZFEzRnBpVFAzUm9NZzkyMlczZmxodnQxODJEVEo2alZvNmtpS3pPbHZmRmFJWUlQQ1gxWkhpQllibXpuZ2huN0gwVGIyWkpaNnZfLTR4Y1h5UnJRTXdNNFg4Sl9yYVhkbXU2M0I5WUswWE5ZQVNWUS1RdzlpN3lDOHkw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Can Ross Stores Be the Safety Cushion In Retail Stocks? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOE1reTF1QUpFQjliTFdoWFhxbFJVSWVDVE5ESzU4V3phV0tmVEp5Wkd0MjZOaGlNWjEyM1Nfa1NoeWFMNHFKT3YwNS1iU2d6bUJpTTVCakthd0RabEU1bEVGT2VicWFJZFBGdTRGUmtteXFzbXhxSmxwdlpHM0U4Um83TFBaZ3Y3Yll0TlZ3elJoRUNNNEdXY2xaekhxVTB1dGx3ZVQ2dUk2ckJqTXl1cjA4NFVGWTlMWE5xNFF4RDlxV0ZsVHoxQV9YeExrdDhpeGtEdUxoT0dEdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Loop Capital Issues Pessimistic Forecast for Ross Stores (NASDAQ:ROST) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkgteEJVeTBDUElmU2ZtOVlHWTZtWC03WU5ZY3BEX2x6Y2puTmUyMmZKc2pzQ2pCWWcxM28zVDdPaEluR3dKTW1kMU9jbUdxVkZHTVBfYUNwUXpHelRjeUxDYXNUcWlwVE5BRDN2TlJVdXlhRGpYcUtneW8wRVV1d0Exd1NDcVk0eHIweVdnSzhabnc1SHFBMlhuSGcwYzJDLVdycDRvWVFfY1hrTDdSS3NjaEEtcTl3SkdTeWt5OA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Ross Stores Inc (ROST) Stock Price Up 5.11% on May 27 - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZjRaY0xtOFcyRHdqLUNzejFldkFfWUY2cmtKRlFIdF9Md19fWEtFeGQxdC1sUFZ5cjdiQTNTTVZGYWpmX3ZfZ1lka1hnX2ZLbTZUTXNqejl1LXJTWTI0cDBTS0FGbUx4Y0hUb2tDUTNsZHJsLUx3M2dTUzd4ZWJqM1FaSGM0bzhVOFBtYnQ4ODJYbGtoanJZVUotYzloRnJoSENTTjBTd2NCR0pHWnRuak9WYnBxNEpEcXZmZklKUXhJN0VtY3Fnd3hWWDJsU3hRR0ludXl3Mjk?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "ROST Quantitative Stock Analysis - Peter Lynch - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZUl5Z3phTlBMUWZ2VTUxTGVhQ0xIRjRwR3M4NmRWZGdmX0ZWZG5QR2FZZjFIbUJQOEN0b2ZSNnBhMDBhOTBTNXlfYVViVmRiSGNlVjlpbEotcjF3OU43REtMczZnWHZucnZ1NWE1OGk2VmRmTHA1dDNJNVN5cmhMWGUtekE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "JPMorgan Chase & Co. Has Lowered Expectations for Ross Stores (NASDAQ:ROST) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGZ1QU52TDZMN2pDTTV6Y3llN0Nvall3RXZNM0pPS0prQVlHSnhWNkZnUHByckIzdmRYT2ZCZzNmSmpVUzZNVmFjcDhmR29iZjNWVm52ZU10ejhmM3VhWG9uVGdWM25qWF9nZzRWVWJmNUw2cDM4U0tSUWZrSF9sWEFEdG9pYi1JMl80blRmekVNUXRiZW5ZVWJzWkNQN0RFdWhFYTQzUDVMcVpORjBHT1ctNnZBMG01dTBMZkc2RGtKMTNrb09DUmkzS2V0N1d0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Wells Fargo & Company Lowers Ross Stores (NASDAQ:ROST) Price Target to $150.00 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUGE1NWY3WWUxMEYwSGhqUnpXVC1JZU1YYjFjVzBDcFl6N29UUmFPaXRrRW9hY29CTS1faWdZTnNJTlhvbC1DdGFKM3hNOU5BaF9WQW9yRy00T0RsbXkzN2E2azNNczg5dEtheXJ2cWRIOUFnaTFDUHloU0VxMzh5Zk8zQ0RrZ2pRdVRkanVxaWlnRHRMRUw0cVF2MVF6d3pDb0xHcElDZzRxalczREJ0bXM2SDRDWVJaTjYyQUhNZ09nNk5BUFEyaUE3YkxtRkp0c2o0WWtKWQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Morgan Stanley Cuts Ross Stores (NASDAQ:ROST) Price Target to $126.00 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXZGOXZiOU9KalNxSS1HY0xtbmZaNDFqUVJvUlZxX3VWZ09GUGlMUm5qUkhHUzZnQjNmdExmc2FkZm91QkZETEhXc21JcGExR256LS16OFlBLUdKeDFUNGp1ek03dW9Cczg5VWlGY2pObHF1RC1iaVRVcGxXSWJZaFJqbkI4aU1SVzNRUlBzS0lEQXVEU2l1a2hMX01HRHJzZ1pfd3VWcUpURmMwV010Mm1tR0Utci0yamc1SzFUa2t3UQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Aurdan Capital Management LLC Buys New Stake in Ross Stores, Inc. (NASDAQ:ROST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSHZ6LTlaTFRDSk1KcFZpNHQtM3VfMjVNQ0xjbVl6TDZtOEZwLVpZcjkwR1lhQ19reTV2elZpLW9CUWNfWUpCMFNOTFdIMjFHcm5wSlg2MWNhOW1BbHh2TXFVb0psMGZyVE9EdlFOMWtPcVhqR1R0SFdVd25JbEhoTTU5M2VZUWEyU2NOaVNQRVZBYXptdmJyaUdpaW55bFVrcUxhaWFvRkxEQW53MTJ6QzB2OG9VcE1FdkFhcFc3QTR6OU1rdGZrY2c2OHo1UGZLWWVsS2RUbw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Vise Technologies Inc. Buys 2,993 Shares of Ross Stores, Inc. (NASDAQ:ROST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdmhwbVBjUjJVRmMzWDZjSzJrRmlxQy1ubTZWX3FKb21qWDJRV0ZiVjdKNWI0LWZsV1JIVTFtNTJJV3ZjeHA3TTVFbG5fM2l5MElPZUU3YWhaU1lGaEJ6c3ZWUHU5OTVNdk1YU2hrTllFcE12R3NJYkhoZWh5N2dwMnBmQXQteUlsZUtRUlhOT2kwdWtXQzdCUWxmVUJyeVhrZldtcTdMMGpwTGlGMVcwUF9vUWVMQmh2cmE1ZFNuSmI4YUVwM1BZ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Has $265.41 Million Holdings in Ross Stores, Inc. (NASDAQ:ROST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOb2ZfZHZJZURZdnFNTUJqdG5SZTI0OVdEeW1Eamg4OC1ENzlKMmpUckVIVTdIOHlpQlFfN2UtZmdnZk9VY1dXU0NZUXZ1WFozTlRLME9MLXpxR3F6bzJJQnJIb3BWcDcyM0gxcElYblFVZ1oxQUpaaWZGUExpVFIzT0xXbVdiUW5LMHV1Q0gwSHFobmdGM0EyV1NZa1l3cXhkci1wVVp3QVE4YW5tdkd3UnlMYlhDWVlhdldrdHc3YUg5OF9VNjl1ZTgwOE1mbzRKSTEwSUpwa0s3SkVMS3ozbF9ZQzFBeHV2S250RG54Z1VOQ0pKODhIX1lkbHRNRDYzMUFZMUhR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Berkeley Inc Sells 31,189 Shares of Ross Stores, Inc. (NASDAQ:ROST) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORk9kbWM2bnNYU1lvMVJPNjBmb3A0YzdrdFAyUGY1UzdqWUlsLWF0R1c1dUgtS0cyeDZ0UW43dE9GTG4zTHhrVXZSNGY3bVBWdEdYcFdFQ0hCMFR2cGYxUDJzU1p6TDNCRlEwWmZsVFRZVHY4akdHd0lBUnY4XzZRZDFlRFowSXNadWZDcExYRnVzV1JqWjMzMkE5Snc1WjNQQXlQOTBvOTFBQVBUUXdqLTBnV2FFQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "350,877 Shares in Ross Stores, Inc. (NASDAQ:ROST) Acquired by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTlljLVAyU0Q2Q20yaTMyS3R3bmdhVFZIMTBkLWRLaDJDTHd0MnNjaWtTOXp6dVRqc1RhNnpoZ0Y2eVFSbDBjajZIeVFJT2xQX0hURVhELW1Da0JUdU5RMllPRWt4dXhjUnZxcXdnOVVJYVRTZUhZM0JGQS1iQzNPU2lYdnNvakRIN1B1SjZqOXJTUjdKeGtTblJ5cHhnaElLemljUUNDVXMyNjNVRTBocHQ2TmZRNFZYU2JPdXFhLU5relVSMzJzOHY2THVkS0t1MVlMZG9STlpxeGFLUjFBbXhfc1l5bV9GNE1Pb2xzLTE0U3ZxLWtRM05DTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "4,319 Shares in Ross Stores, Inc. (NASDAQ:ROST) Purchased by Fairtree Asset Management Pty Ltd - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMGd0OVRiV1A2d1JxMzVSNnYxSVhOSkJoTjA3M0VKQmNSXzlXLXZya0Vya3RTXzhpUElHdUVFVXl3aXVsYjl6bEpXOFVIaXFmOUdRV1M3Unp0R2hlbWt2MGduVGN5U2lkVmJpQzdHcFd1QWlzYWNmdDRVUVc5aHpsbGNYUTctakt4LVpPSjFvSlF1bk9jVVI0Skw2SS03M0tndjBKb09aSXo2dWRlN2VGdWlJeUpBZzZUN2puYmxteVl2QzVrTzd3NE51N0VKaUQ4aFh6dlVYcnk5c1BJQ2QtcEJ5S2w2MDA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Ross Stores (NASDAQ:ROST) Rating Lowered to Hold at Wall Street Zen - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRFl2OGZzQ085R25iUS1rc08yaWdraEZuTnZ0SXkzZ0RjcDJNbGxJLUxWOUp3WXgtQmhJbGNYTkJvb014TGpnby1iSlFwTkx1MVFXVVZkREVienVteEZkYmxENkVaa19nNjBtNUktc1YwMl9rcWdCVG5XZnFWNi1OclpZbk5JSzlyRm5vckdtSXhhVUJ6MWJXbDRFRGJEY2dnQloxT1VvVElTZ2Rf?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 2,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

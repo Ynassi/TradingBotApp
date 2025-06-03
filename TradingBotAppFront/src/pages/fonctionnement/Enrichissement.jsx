@@ -20,9 +20,11 @@ export default function Enrichissement() {
 
   return (
     <Layout>
+      <div className= "mt-6">
       <h1 className="text-3xl md:text-4xl font-bold text-center mb-10 tracking-wider">
       Enrichissement des données
       </h1>
+      </div>
 
       <p className="text-gray-300 text-sm leading-relaxed max-w-4xl mx-auto text-center mb-10">
         Cette étape vise à enrichir les informations disponibles pour chaque entreprise sélectionnée à partir de sources externes reconnues telles que Yahoo Finance et Finnhub. L’objectif est de fournir un contexte plus détaillé pour chaque titre retenu dans les stratégies d’investissement (Short, Midterm, Shortterm).

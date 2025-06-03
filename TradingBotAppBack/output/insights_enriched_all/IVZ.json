@@ -2,32 +2,32 @@
   "ticker": "IVZ",
   "name": "Invesco",
   "sector": "Financials",
-  "market_cap": 6910264320.0,
+  "market_cap": 6449282048.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.351999,
-    "PB": 0.64653903,
-    "EV_Revenue": 1.985,
+    "PE": 11.528,
+    "PB": 0.6034086,
+    "EV_Revenue": 1.914,
     "ROE": 0.05092,
     "ProfitMargin": 0.13142,
     "GrossMargin": 0.28774,
-    "DividendYield": 5.69
+    "DividendYield": 5.81
   },
   "technical_indicators": {
-    "RSI_14": 65.16422891122838,
-    "Momentum_10": 8.605135522866561,
-    "MACD": 0.3807326280201373,
-    "BB_Percent": 0.86590678206602,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 48.13868140736121,
+    "Momentum_10": -6.541446260728759,
+    "MACD": 0.0974205672875747,
+    "BB_Percent": 0.3187339017725907,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8976301771205921,
-    "QualityScore": 0.2900596913139817,
-    "SignalScore": 0.5703631310215409
+    "ValueScore": 0.8960191137542051,
+    "QualityScore": 0.2899466516836957,
+    "SignalScore": 0.6725223575883572
   },
-  "volatility": 0.0285079831895002,
-  "beta": 1.434,
-  "return_6m": -0.0940965469606768,
+  "volatility": 0.0286942622505742,
+  "beta": 1.435,
+  "return_6m": -0.1835061319797349,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 13,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 14.46
+      },
+      {
+        "date": "2025-06-02",
+        "price": 14.38
       }
     ],
     "current_price_data": {
-      "price": 14.46,
-      "change": -0.29,
-      "percent_change": -1.97
+      "price": 14.38,
+      "change": -0.08,
+      "percent_change": -0.55
     }
   },
   "news_sentiment": {
-    "summary": "Invesco Ltd. (IVZ) has experienced significant growth with recent strategic moves, including a $1B stock repurchase and major partnership with Barings. The company's shares have been acquired by various institutions, including Royal Bank of Canada and Toronto Dominion Bank. Despite some investors trimming their stock positions, other investors have increased their investments, indicating a positive outlook for the company. The recent acquisition by Woodline Partners LP and Twinbeech Capital LP also highlights the company's strong financial position. Overall, these developments suggest that Invesco is in a positive growth phase, with a focus on expanding its partnerships and attracting new investors.",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
+    "summary": "Invesco Ltd. (IVZ) has recently experienced significant events, including a stock acquisition, dual power move, and growth strategy reshaping. These events have sparked discussions about the company's underperformance and its potential as a cheap asset management stock. Despite these events, the company's recent earnings preview and insider trading activities have been closely watched, and its assets under management have been announced. Overall, the actualit\u00e9 globale may influence the sentiment of the market towards Invesco Ltd. (IVZ).",
+    "sentiment_score": 0.0,
+    "label": "NEUTRAL",
     "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 2,
-    "headlines": [
-      {
-        "title": "Mackenzie Financial Corp Buys 226,902 Shares of Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWFWMV9McHp0QnNtMGFJSVBTaEU4d0VqRTRObHI4UXRfSmZBaGFPeDMzTTJrYVowakV1SHlpZDZVcFZocUpCVjdOempjMEJvMi01ZkFuenNwUVNlRGZjQTBlOElaZzdvbE9DdmRFYWlJTzIxbG9Td2ZpeU9IekZrVzNDNUJ1aU1fLWltWkZXR0djWDJ1VG1UY1NheVZyalV3UzN2QU5vRzVQX0h3TW1nOTNrN3lEdllMYTltai1LdWFXWGVRdmc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Invesco Stock: Is IVZ Underperforming the Financial Sector? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQVVQX2oyYld1dVVRV2Q1OTQ4WlBCWXlWa3B2UVpzSkU2eEh4RF9kNmFpYll3QkEtMUc2OGNNZGwyUU1NTUZnQVFYOHAzYWhudkFHa3BOMy1lWVpBelFNaWE5THAxTHlPV3JlXzRySEwyc2V2ZV93M0loMHExVFJPVHBaVTk0eFVnbkE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Invesco Strikes Dual Power Move: $1B Stock Repurchase Plus Major Barings Partnership Reshapes Growth Strategy - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0VqV1c1ZXhiZ0xwQXhYYlNuY3diRDc4Yk1mLXpISGJmN19ReGRta1NTZ3pSaU1tMFJYVG1ERXN2dmdPSkFXQ3RCd2dkYXFNMWZjaXRsYTVteU5ldnVaVmdQUThzTldyTE50MDNxckwwa0VHVHpnYzZtZWdOTTc0TTUwR2p1djJMaUhqa25rNm8yZEpxU3JDZ3RZZUxzNkNjZ3JiRnFFb2ZjdnhIbUVCN3ZGRnNMMloyX3ZhMUNB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is Invesco Ltd. (IVZ) the Cheap Asset Management Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JN05iSTRtWlV3VUVpRFdXUUp2cTBYTzJXbi1VYk1seWZjcXZTYVhlODk4Q3Z3a2lRSTMtWnoyMFVXcEw2ZXVBbm1mcTVCbGFmY2IweTJiaDRqb3UtWDJyRmd3b3o2VFoyX0RjYnhKTFdaeU5wWGZCbUZKSHBDQQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "REG - IVZ Nasdaq-100 Swap$ - Net Asset Value(s) - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVBreS1PWkxrcmhjUUthbVoyekRKTGNfVktaQVNEZjBYRTNxVUtEejUyZ2E3SC1VdGtvb1JVNlZ2czEydW9rZ1ZxdTd1V196Tk0yczVqNGpUVFdoQjBJTjhpWnZXcU91SkZjTzNuZ1B2ZTdfaWEwR0xtaTZWMVdGYlNPeU1VdVRkQ2otTHQzTmhJT2x3cU4xZmxacUJEQWhrWlFjdkc4dEI1LVVGNlVMaWdjMVdJRjMw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "GTS Securities LLC Sells 73,412 Shares of Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeURtc0pqWFZyUm0yVE5hTll2T0lybVVnLVBfYXVmU09FdlFkM2lUWTFkd2hEUHRHeldwTkJNbkJvbzMxYmliWkFVUVhwcUtzMllwcmVxZ3ZnY3FVenAwMnlfVWs2NV9BYnBfZEY2aHA0NkhVdUF6ZUZDZmlFdEVWWU15eTRDdHVrVjh1TkplbUxTS3ItN3VDVGh6WllqVHl1Z2xfeVplemlHWWs1UHQ2dU5sNUoxLTViUTF3bjZB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Invesco Announces Strategic Hybrid Investment Solution - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHZRcDVMcGw1WmcwNHZJMWRadUZiNm11MzJ2OEp3bF9wRkVQc29Qc3FkTTAtZzRmZUJXcWlRemg1bndHV0NKYkJfUVR3TVpGZDZVTnlHNDZTcHV3cGg3d2dQc01MLVo2ZWFBX0ZoT0xKbWZMeFZsRTRrVHNrOVBlbkE2SUlIMW5SdkdzV0lLYkR2cWdhQU1NaGZEWUl5aC1DbG5PeW1mSDRXdw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Invesco CEO Set to Reveal Strategic Vision at Elite Bernstein Conference: Key Insights Coming May 29 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDlXVXRhVFlUV1VSa3BBX19iOXJTRGJ1YU1Edm1iWkZ1aEpTU09jYnJ1NU8tdHA2NU1EaHdFbkstS3c2YzNYUnhXal8wTGpkSlprLWVvWlJVd1RMb3FFUS0yYTRXdXRpZy1VWHlmWTdVWnhWczd5RTJCYjRLeEQtbjJsamM5YmRvcXRBSUtzZkQ3OXZDdnloOEJvODlObmh3QXBpYTJZT2pnTEJxd3ppcjM5U0N0VXMz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Invesco Ltd. (NYSE:IVZ) Shares Acquired by Royal Bank of Canada - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcW5Ya3hVSURBTzczYkZxczFWOUxQVEVTUEZYSGVaeUR1WUdNZEY5S1RYM1RCTjQ5UXNJS0pNeldGd3Z3Si1HNmNhSTdfczVFanNpS00tMTJTaTVzTlpwSUoxUE1maTVGUWhxLWhsM3RDbVJWNUJjYkxGUmtEQlFobnlSVGRfT1VhUFRqbzF0MmtOUXNCRDZCM0Y5LTZwSnNNS2JKaThiTExPY0NvZ3Z5akd0bEdrZ185ZVBXVkJVMFJzQV94?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Invesco Ltd. Announces April 30, 2025 Assets Under Management - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWtnNDdfYkE0QmszMEpwMXVqRnB2d3gwd0pKRW1ucVZoVTJlWlVnZWM3OGNvc1Q1TThJYWRKUkdmYmJoWTd5Mjh0UTQxd0JTZlRsTnpWalhtZnRhTjNMUEdXRzNkdEJ0ajgwUFZTWlY5bEJRX1RNdVQyM2pTZDYxZFRXN0MyNWpmSXdLNVBFV1ZHd085SzFEWnJWLXZMejVBcWhCeA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Invesco Ltd. (NYSE:IVZ) Shares Purchased by Nuveen Asset Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWEIzYVg3QlUtdUN1OFlBWFJNaFRBMHpsQl9maFhtT3dqOXcxT0t5V0Y4QnBWcnMtaUpjYm8xd0xVQ2lJSXRWeFFJMnZlWmJnaWFabEtOQzlFNUNxbXRpUUdWUjBqcmV6R0VHdXV1S2pmSjJUdHBkR0xNSzJzTWRnTDJ3YWZfTVpxQ1VrTW51ZnBheVFKTU0taFg1RG42YmtRVjJpUHhkd0NYZWdFWGJBSXpTTWZzR2RWaW1xY3gtV3FoMDFpMnZOZVRDd1NlZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Invesco Ltd. (NYSE:IVZ) Shares Acquired by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMVllSEpTOVVxOGZMeXdPa0F5X2ZvVUhnd29TdWRaWkVSaTVtdGU1eHhfMEhjNld5NkFnSEQtNWRTVzFwME1qTFVXWVNQLTJZSXY0YnFuMTcxSVVfcDB3OUJfdVZvSWMwcHA3M1EwZEVGQVNMZE5QSWdLNjVOdUdVWmFTQ1dSSklKMGJPSEs5SVZuTmwxblgwYnZCd3VlTXhZSzc1SFZmMU41Qk9qSW1XUGR1ZHZXbHlJd2lSdXcteXBiTG9BWDVHbHRyc2wzT2xIQmQtOG9HZ2lNblpzcHQtOW1VZTZ3M2ZpNUd2cjNjNTRZQWRycVVPZlBKb0Q?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Invesco Ltd. (NYSE:IVZ) Shares Purchased by Toronto Dominion Bank - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3JBdWFOLU5DOVBjblRzOEtDYXRQa2xXVmJFaldONFRvby15eFp1ZHppcDVrUHEtdGh2OEJyclFvM2VMR3R4WHJfZk1qaFhzbWRrbFRXNnZPNEtFTVNxYzdYMGh2cGhZbEVQWUp3Qm93SENkV2FKbnV2ZGZBeXdKTkxWM3hSUkZjTUhWNnpKNnBSMTIwV1gtZFV3TW5DQzFIbzVLOXJKdnkxNDVNaFRlUGpkTE84RXp6Ynl4ZEp3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Woodline Partners LP Makes New Investment in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORXdWd1NpRTVPT1pndDhmTk9CdFVLSks1eXQ3Um9NMWtvVFdRSk1WXzJRVmxNVnowNnlDYTBtR1VlMHlnNlF0Q29pSUtfNW16UjVYVFNVOGdGdmcxTE9jR01yaVpfMDdFQUpybElmZ2VKdE8yZ0dST2l1LWp2cURzZzJyUVBvQVV1aUh1N0Q1S2NOazFCSVd0R2ZIX3ZWQnFxRm9QaGU4bEpwOFZtOHNsazU0SUViemVDZWc3YWtvdTZoRVU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Twinbeech Capital LP Purchases Shares of 30,032 Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOTFGNXhsQ0Nwem8wQzRrN1MzU21rd0ktYTk1MUdIQnV5OHJwUUhuYTZpNnQzRVZjYnVmSWJheXBiTEJ3dmQxeGROUlEyb1Q0SUZ6U3BnZDVrVXBKNTRDQmZreHhGRjhSdjVnaEVUaWVGZjd1Q09OWjdVenNIZVcxVWxrSllzSklabVBUNUxXS1dLNjQtQ2t5UnhtLUlvS2JEekhtWUxwT25UZGZPUk9sdjQzTzhhLWg4ekI4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Valueworks LLC Trims Stock Position in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXJNdU9kdmtrZ0lGdThQdHp3WWktU2FVb2tMNVcwQUN4YzVXWDdDQW9mblF1aVd3U1Q3NmhJSFZNdWZQT3ZKZ3dNSUU5YW1wZzBlYzRPVUZxaGtfS0h6U3kzVVkzd0s3Q0pFSDlGcmxKQ2RYbmQtQThIWlpkWjVtZ0tZQ2ZXMWFkNEFGQmVwbmljbWpkX3IwV25kTHVNeDdaSkhSX3NQamQ5S2g1X3VPN010V2h6VmUy?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Two Sigma Advisers LP Buys 466,400 Shares of Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRllMcGQ3bklEdnpZTFZfQlpuS3dUZklqamxoUmIteGI2S2dndnZRMURyZ0lVc2NuN1lQRzE3MnhOVTdqM0QyT2hJVUs2eGVSeFE0Q2RQY1RLR3piWU90NHF6YlRaSVl0WEhhUHd0SDBXbE9rak9VSDR5MzlvS2JEbDlabEJEdWRubTdLR3hUU2c5U3NveFBiWXB6SnFwNjBFc2RjUHNZYnFYbUhEaWVhc0MxaHdkcFRoQzRWc0E1SDJib0hUYVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Wesleyan Assurance Society Decreases Stake in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2RoUTIycmhaSktLb01lREVjWXBna2F5WE8yazhwQnhlS3VXaUdndEl3VDBLREU1ZjBXc1lsaWx3Zk1PYWJKXzI2UFJ6S0hUdzNCSFNTLVVpM1lKdTRTUGNSSUJfZkJySmJGc0VpTDAtX205cm82MXlvM0FwUzBVUHBTeTE2LWZ0Rjd0RUZjZE1NbDdxYmN0WnBGOFJXb052b1dBeWpwbVZnRVhkbmNxS0psdTAtZkRrRGMzUV9xNEtaUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Voloridge Investment Management LLC Sells 358,338 Shares of Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQVUwSC1OQmd1cmllTUhTM3lLU1ZSay1QMDhEY2oxaGpER0ZvYjhmaTVkSEJjM1lRMV9selpwWk1scTE3bHl4M0o0UExNVGp1SVdoeGtMeWRQLTl2RWp6VEdGZm5pTXVpWW5yZ1dxS2xlZ1V2RGIxbUZsRloxZktvU0c0YlFHQ2tCZ0xocThYS1VTRHVKODZMYnFld3Y1Zzl3V09WLU44SWt2ZFRqV2lmQTNFU0ZnZ3NnbVRhRThvLWNwRWs0QzM2T0p2ejZRSGJudGtpS2tB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Two Sigma Investments LP Trims Stock Position in Invesco Ltd. (NYSE:IVZ) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaExyZm5wYVh2NG9NM1dsN0VHTGNfMWFTRkIzNkoxb01XWmZHMXFEWkZoaUFFTzdJY3J4ZEpZbkRfWDlMOEd5SndsWlRSTFNSSWNzcVpoTzhGOVBVUER5ck1XU21DNTUzdmxMUk90VWZtbi02MHdJZlN5OVd2RjJpLXRvTE1OdkEtUEVDOXZidEF1UmJic19LcW9PbWd0MFh2bGNHVUZmcEV6RnkyR21uTXdBQTYxQk0yc3Z3YThLYw?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

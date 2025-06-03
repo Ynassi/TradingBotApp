@@ -2,32 +2,32 @@
   "ticker": "1928.T",
   "name": "Sekisui House",
   "sector": "Industrials",
-  "market_cap": 2157508165632.0,
+  "market_cap": 2132880523264.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.910687,
-    "PB": 1.0994865,
-    "EV_Revenue": 0.904,
+    "PE": 9.799017,
+    "PB": 1.086936,
+    "EV_Revenue": 0.897,
     "ROE": 0.116059996,
     "ProfitMargin": 0.053639997,
     "GrossMargin": 0.19365999,
-    "DividendYield": 4.38
+    "DividendYield": 4.39
   },
   "technical_indicators": {
-    "RSI_14": 54.50114922141955,
-    "Momentum_10": 1.617826617826618,
-    "MACD": 19.194899045226062,
-    "BB_Percent": 0.7380308442727349,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 51.30567013715792,
+    "Momentum_10": -1.0225563909774436,
+    "MACD": 0.9566235979204976,
+    "BB_Percent": 0.457409552817772,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.901112038738486,
-    "QualityScore": 0.3767090693591331,
-    "SignalScore": 0.6533593396405877
+    "ValueScore": 0.8991299298928457,
+    "QualityScore": 0.3794518405166065,
+    "SignalScore": 0.6193481839871791
   },
-  "volatility": 0.0135777322596585,
-  "beta": 0.429,
-  "return_6m": -0.0638357705286839,
+  "volatility": 0.013473326441188,
+  "beta": 0.403,
+  "return_6m": -0.0817522321428571,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
@@ -510,125 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 3283.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 3291.0
       }
     ],
     "current_price_data": {
-      "price": 3283.0,
-      "change": -8.0,
-      "percent_change": -0.24
+      "price": 3291.0,
+      "change": 8.0,
+      "percent_change": 0.24
     }
   },
   "news_sentiment": {
-    "summary": "\ud83c\udfaf R\u00e9sum\u00e9 de l\u2019actualit\u00e9 \u00e9conomique :\nLes titres concernent les tendances cl\u00e9s des march\u00e9s financiers depuis 1928 et leur influence sur les investissements actuels. Ils soulignent le retour au niveau des march\u00e9s \u00e9conomiques apr\u00e8s les \u00e9lections pr\u00e9sidentielles et le sentiment positif de l\u2019investisseur francophone.\n\n\ud83e\udde0 Signaux forts :\n- Positif : Retour au niveau des march\u00e9s \u00e9conomiques apr\u00e8s les \u00e9lections pr\u00e9sidentielles, sentiment positif de l\u2019investisseur francophone.\n- M\u00e9lange : Retour au niveau des march\u00e9s \u00e9conomiques depuis 192",
-    "sentiment_score": -0.05,
+    "summary": "Les titres pr\u00e9sent\u00e9s traitent de l'impact des \u00e9lections am\u00e9ricaines sur le march\u00e9 de l'action et de la comparaison avec les rassemblements post-\u00e9lectionnal du pass\u00e9.\n\nLes titres 1 et 2 soulignent une forte performance du march\u00e9 des actions apr\u00e8s les \u00e9lections am\u00e9ricaines de 2020. Les titres 3 et 4 offrent une analyse d\u00e9taill\u00e9e de la performance des actions depuis 1928, et de la possibilit\u00e9 d'apprendre des le\u00e7ons des investisseurs \u00e0 partir de cette analyse. Le titre 5 mentionne le crash stockistique de 1929 et la Grande D\u00e9pression, et le",
+    "sentiment_score": 0.0,
     "label": "POSITIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.85,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
     "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 2,
-    "headlines": [
-      {
-        "title": "The 1928 Rally Was Just Like This One - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1QwdlNFTWhHWFJUNW5WSVBFQlpGT3VpWDNVaFZQMjk4UldSWDBydG03MnJOY1FkSjVaYVhKcVhzNEdnQkFReTNzSjJhcnBTejV1eGo3ZGV1eTB2M0Rud2d4NnJUdE5oa0hvRW1wYl81YWdycW1GR3lCdXVra2xsamlhWlVCR3NydFkyc0dRb3ZKOUZhdXp2b29RUHpwTW50dl92UDVRQW5rQkE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Returns On Capital At Sands China (HKG:1928) Don't Inspire Confidence - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGZZTzRVTVB5RUJxeXRoUmctYkdLYllHNUhqZmgxLTBpclJMMjVBTXBMdEFsZHhtVzlES3hCNHR4QlhIcURtMHBxcVZ4ZWRUMmVLTWY2MDdZeHdPRzhoR2xPTTJwajVnSVFWSEhhSW1KRjRPbnJVNjdpZDR3Yl9kTUUtZS1tX1JYcjFfM1FXSVZzV1N3RTZneHUyR3pGWGZqUU9kSTd2LThWYTBkeTZMS200eWNWRXZFamYxZEo1bk9fT055c21iMlpoeGlsR3J5N0dTV1FZb21tTWvSAeABQVVfeXFMTTlHWTRWYkZLSS04NGlGSGo3Uk5qajNNWHctdTd6YnVnZk5Sd1JrRUFHUlhHMzhkNjczcWRmanNHTWtyaFYzUVQ4NE9nbXNGTEMtcGpTdEdWbGlTcTVybUI5Yzd6RHJ4WkI2dHhNVFN1WUZQQlhSQnBhZkgtUmNKYXJmc1QxVkhEUDFROGl6RXZocUtqWHJvT2FmVzhQMjhkYjdKN0lMblM1a3JsUVg2OGp5bHpkRDRtbWhxMU1naW15TWtiaF84N2Y0bDdIM1BDaE8wZF9rX0NaLW40dXg5ZFI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "2024: It Was (Another) Good Year in the Stock Market - A Wealth of Common Sense",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFIzZUotam9qcm1WUEplWnhIcVpFRU1MYy1QS1BYLVFrTU1pRjE1ZFpySG00TGdsN09KaGNiUTVPVFFFRjZlSVZTeEwyOTdZMkczYkFlTDMyWDczWDBBdGQ4ZDROM0NoSHQ2ejhsZ3FXVGR0NlR2dTllYzRHYVNFTkFWSTh0LXVQSjFhcEMwM1BlMWNvMHc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "What investors can learn from the S&P's performance after presidential elections since 1928 - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaF95eUlWc0MzNkpodjB5SzhacW1FNnN1SkpSTkZyZmsyZTFkZkxmNUVIZmFQczdjQXNQa0VyTmQwYTltRGc4VW5qZjNDVkxYbnptekxnVGJPWWVIeTJ0TVYtYWRHc3Zla0JmemNjTktSMGx3X0RyTXkxdzNVSldRRkVCZzR4MTg2NWYtVW5PTlhxbVE2aDRnWGlXMmo3b3JEckVRb0VnTjMwVDVGeGRGNVRmZXAzZ1VxbGcwZTQzdFV1d9IBVkFVX3lxTE81dkJ0NE10YWFwQzFWRmxaZkpqRC1fOVJldjlQYjFLaHdub1QzRTNaNHVKWXVWOGZuRWxlbTNobWlZa3VOTXFCOXJwaUpJLU9RMDRfeldR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Stock Market Crash of 1929 and the Great Depression - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOckg2aUQ2dkROMEViZHpOLUFFRUVmQXRSdEYzWjZwR2FOMkU5TjlsU1FNVk1LUFFrSTdFeFZKMzhXRlZsWEVqT3h3MWhUWG5aV3lUSl9uclg1T1FRaHJhOUhjeWJOQjY1ZTRkVTBjeVJFZzdUTnNuZ2VoYUl1cmRjcVFUM25hLWNsRmRrWDNodjAzY0xwa3E5eXJsR3J0aU5FRHF2OUF2UkNUWG84bTdwaGJ3VQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks just did something they haven\u2019t done in nearly three decades - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xMW9BbWhJZUZ3cXNNUVFVRUFxaU1KVFpwS3Zha25WZjhDOFFUemlUS0dQczJyX1ZkWms4ajhSaEwwckJNcGlOSUxyNGR1N0RGcnFkM3FCaTRIYXZ5RlI2ZjhITWxFM1M4b01QeFNueWFiLWdidFhDQW1B0gF_QVVfeXFMTm9VNWI2cGxsWmJ1WVUyM21sUlk2YWZrVjNzczh2clFsTkJzdHF1Y01FbDRnRUMycFZKYWdudHFrb2VDZzZaVXNuZ0hyTTN2UExyZjZ4Z3hQTUZXYkxqN2VHTW9RMGdEbGxZc2FDeklkcXlBRlY0RFU3MEI5elNlUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Analysts say there has been one other post-election stock rally similar to Trump\u2019s - it was in 1928 - The Independent",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzdKdUdtc1E3ZFRJTHZ0RDFxTlZLNkhOMERTamZXQnEtcTRyVFYzRkZxWWo1eU1aekdTOV9IdHVJWm85YWNJLXlYNXZVM2c5NjJqMnFRR0FFMVlhYUh3VFVSUUpIX0hoM09jUDg4bXJEMGJ6Qi1CN19wUTdPbGgxNzNxZnBVTFJSSDVxa05NUm01MWNxTk9ITkxvd1JOY00yU2JkN3ZpTFRQeUhTaF9DZnN0TW9EUXhudGVr?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Don\u2019t buy the dip as the summer slump is officially here, says Goldman strategist - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQek1TTnM2MndlVmlkWTFpTUVhWWVWajFlR05PUE5JVnNoZHRJMW5Jc3c4bkJ6a0FlekdkVHQtQjVqdEk3NUtMLVFJbmlLTkx3bkhZdE53OTBYVndsX3NaSlcyZlFpcnM2QUxvSUNhb1hCQjVZM0YxSGJjYXhPejZOM0pQZ1ZpZkd3YzdocF9ubXdQRWRra3AyWkFBbmhHYVI1aldMSEVhTUZRTEdCWHJsUkhsODMzM1JabTd5MTRSOA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "How do U.S. elections affect stock market performance? - T. Rowe Price",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcG9CQ2ZHdGhzNkFGWUVPdzVDTDVuOGZUYlFkVy1ZMWtnWHZvQ2R1RzBhTF8yRGxiYmV6a1I2LXpWRFpFdThYRzdHZXBlMGNHeHpqMTVIenJvaTAyU3dmWl9DekhOeE9DZ2o1NXVvd3pXdGhrUFZjU3p2VTBnWW5SbDl2dWx0UWpLN3ZoRmhTQTl0NUdwOHZiSw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Election 2024: How Stocks Perform In Election Years - Bankrate",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yYUM4QkdSV3BsdHI4Njk3bjZaYTVKV1BqRDExYlFCeWJqLXRjaTlSYkUwa3ZVNnIzQWdrVlNydmZneXNuZ3JWby1pV1VBeWVaVDYxRm9lSzJOVmlOd1pxbmNRSmctVDNVOWUzY1lqdmNxTVo4MVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "How the stock market can predict the outcome of the presidential election - markets.businessinsider.com",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYm9UOE80aTV6R04tNzBONFhlNVliZDZSVXZ0eEZkd1ZSN28yd0o2SW5UWnVPRUtqMUJCaXkzbDNqVE84Z1ZENzFLYmNJOFJkSHRSNGVDOWJpOVk5eE5pUk5TY0Z6d2d2NTkzVFNtYkJ0czc4M0UwT0plcGdiOHBUdU8zbU1qS3ZaY0ZYZktrWjkxSlpJU0tlLVRybERPVVR1cDJTTF9nMlNSaWpSU2tYdUtuUFpJYVZwME1XcUtvbXp2VDVmMWFWaFBiOUhiMms?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The path of the stock market since 1928: Morning Brief - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWJDaVlOczlNWmJNTVo3TzNiTnV1ckNnc0pJTk1qUnRBc0dvbkYwdk1IenBQYjdpNS1HcmppLVJUOWFIUkNaN21RVDYzckt1TmI0Z3RCTEtPTFhwbHNqRFk1VklodEVwLVl3V2FnNnpwLXdTZGJGOWs0Wk5acWluSEczME9la0Exd3ZKN1JOd0RMYXd2RkNvRnRhMDE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Opinion: The elements for a big stock market drop are aligning. Here's why investors shouldn't panic - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUxINEMwaGFLdG55UlRJcnRqQmdPNzAzTUZfajlTd3RjNk0tcXB4NmZTRG13YUR1Y1p2UFdfUk04NjBHS3Y4ZWFDaDhGS3o3WVBkTUhDUGJRNHJUQVd6OGpxdDdzSDJxUkhIZXp6WXpmZFFhbVd6akNVZ25tRXo1SXEwTHgxVkRDVk5kNU9UTHJDYXJsQ2N1NFJtMk1rWTZOemtZTVdNOXBTRTBqOXZNR0h2NmFLSEw5cWRzNDdzU0J2OUXSAcgBQVVfeXFMT2FOaTF3RFAxeDd4VElIcFRxOVdUVDNidTk4RXdOS05QNGt6R2tCS3Z2QUtZRTBkdW1TTmlJUm1Ba04wZ0ktaHVoX2tBMUl6andvMGI4REpuYWtfaEVjeEk1a19Mcnp0VDBFdFYzbTR6cGd3QUE0V1NHYVVGWTBjeWp3ZGVaWURfX3dkRGlvWERwcUVia2ZNMFBZemZwVWhzdWYxQm9EaENya0RGUk1sdXFnVVN3aXhHeElOWWxlQlE3ekNsLWZNanU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "S&P 500 set for 14th best Q1 since 1928. Reversion to the mean won't sink stocks in 2024, says Deutsche Bank. - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQNzdLSU1HX1h0a3BiR1lCZzdGNDBNUHd4SEFZMW1Jdlk1VHR0UUF5bnQ3OElXZ0VJdmNCeC1Fem1UTk9TRERZVEh0ZlluRFBHSXFxcHg2bUI4QTBCVUVOcG9icUVnbDBfZWY0c2llT1hQaTI4Nlk4RWV4c0VLYmM3S1NOMnBhSmlwN3MtVS1HVzBXOGgxYUNjYjJacENRRlJ0d2lkUDJha2IzNkRVUmR2T2QwVVBybU1mZS1KSDJUdFRRam9zNHNyeFJnZjBvZF80ZEZPX0dlQjZlbW5FOVFzT1l1MXNEVVBOWlQzSTlZSjliRWJCNU52SFlubENMenNBR0VvaW5XWnQ3QjF0S0VORGhXN2owSGxGM3NUWC1pMHlVSkltak1SdVBoUFVOTjg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "U.S. Stock Market Gains & Losses By the Numbers - A Wealth of Common Sense",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObGc0TWZOODJ4Z3YzU2ZZMXFXaTgzb0dLeGJMNmczTndVWHJJVkF2VlJjLWNKS1hQVUlvUGhxUUloYXhCelJRNndzamRkQURJVVdPRWNNTWU2V1VzYmFUWS1mMTkwUFpjdjBHRHNvanpjVjZmTDZlMzVoV3Y1QVVZeXBZNDc2NEZQa3pJdFdkdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Average Stock Market Return Explained: What You Can Expect In 2025 - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFM5a3EyampYQVNYSDZFelJqbE9VcGxENFZkSDNpRGRSdk85TDBzSFhsYWMzZjNyWVZmUHpJbkljOWwzdkhlclpEM0VVa1ZzV3A3M2VxQkhmeUg0a201bllaRUc5U25HUVZBN25fY2RIRFZmcEhIM2czeEhEaXhRSnFSVzctc2JrbjNEZjlmNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sekisui House (TSE:1928) Has More To Do To Multiply In Value Going Forward - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmprb00tWXlNVmpZaU10UER0c1UxdlNQRkpNSjZZc2FCSi1KdjZ5d0hrRVE0b3JSc1BLemNHSFpYLXBYckpuR3MyTklQbkN2clp1eUVubTVLR2N6cmhaNGtqN01iamlPaUJKblh2SC0xdTJ3QUtqWmxTLW1VNVpuNWh1YU05aE84SExIZm01Y24ta0hxbEVCc19fOU5vWFFMYzJlWmxFcVJBOGJMWUVnQU9FbGg5Vm5mMXEyMF9sOWUwU1FRRGE1QWhNN3JQbmxzY2FvclJ1RWZEMmFoUHfSAeMBQVVfeXFMUEhobGJPb2k1TGEtbWlNMFFGcno2Y24ybTc2bzZiWHFwSVJZcnVRQktjY2E4eWpJMVhLSjZtVWlXclhKRVV4Z0U3amNwTHQ4Vm9ndGRfUzY4ZmF6U1NKTFNYQ05GYTFSaUFrOEdTZXVRdmlZaGFUZlhQYnI5dk1qbHNYZ3FTWTVzaXpCaEl3R2JWRDZjOGxxNWFZYjBFTU5tOVhJMDBWcjBKNTh2RDc0WGxUeG04VlF3LXp0bTl6T2NBLXBuRDFfQ1JRTVhJOHBOejBVeGlueEgzYTBJWnFkSWtTS28?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "4 Charts That Explain the Stock Market - A Wealth of Common Sense",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2Vjbkc3eXRPeHRISFNWSTR4ODB4MzRtMWpnX2cweHVBQnVBZ21nWU5lWDloS0xUYllyb3pxNkxvMUNFWXI3andDR0c1VE5ILXcwRjkzWmdPcW8xb3VUU0xRMnJsM3BfUUFNZ1hzMFktSExlQmRCVzg5eVdvQ1RVU2Vvc19KQlU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Rolling the Dice on the Stock Market - A Wealth of Common Sense",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGVQVEdqQ29JYWRmOTlTRjA5R1dIbmkzOWVzWDkwYlFhSzc5SkIwVmVDY1dJYWw2bHVMa2lCRGV0QnY3YktKRlJjRmlxSnczLTgzTm1HN1JOZndsQVVRZVdud3IwREsxbGR3V1dhWDVCekNRZUE3QWtNYy1YNURRS1g5b0s?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "U.S. Stocks Are Off to Their Worst Start to a Presidency in a Century - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM29GNHBCTk44UHk5ZGN5aUxBMXJRWVNnLTVubl8yWlBKOVlDOVpjblF2Z3dCUnNrbDZvXzdrS0Npb0RyNjJxa1J4VjN4TkVVUnZZUGVGbGlUZ2p1X0lBSmlhTElKbmpGR1QxNEVJVjBpQWFpOC0wNGl1LXQ4ZGVxeHVqd2g2UUFwLUJKelhBM3V1SVRXVURQZnFR?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

@@ -2,32 +2,32 @@
   "ticker": "9202.T",
   "name": "ANA Holdings",
   "sector": "Consumer Discretionary",
-  "market_cap": 1351378665472.0,
+  "market_cap": 1335634821120.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.891301,
-    "PB": 1.195575,
-    "EV_Revenue": 0.66,
+    "PE": 9.771696,
+    "PB": 1.1816463,
+    "EV_Revenue": 0.657,
     "ROE": 0.14035,
     "ProfitMargin": 0.06766,
     "GrossMargin": 0.18494,
-    "DividendYield": 2.09
+    "DividendYield": 2.1
   },
   "technical_indicators": {
-    "RSI_14": 63.45273403506022,
-    "Momentum_10": 5.098684210526316,
-    "MACD": 35.00163556779171,
-    "BB_Percent": 0.8750716735490432,
+    "RSI_14": 53.671224393630695,
+    "Momentum_10": -1.796821008984105,
+    "MACD": 21.122513462013103,
+    "BB_Percent": 0.4822884887288188,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9018238630161176,
-    "QualityScore": 0.3739617754593925,
-    "SignalScore": 0.5887020054235181
+    "ValueScore": 0.8998151257654746,
+    "QualityScore": 0.3748085612515451,
+    "SignalScore": 0.609066601747756
   },
-  "volatility": 0.0115955376225497,
-  "beta": 0.467,
-  "return_6m": 0.0125984513273385,
+  "volatility": 0.0117362999551202,
+  "beta": 0.459,
+  "return_6m": -0.0110068598424164,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
@@ -510,12 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 2857.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 2842.0
       }
     ],
     "current_price_data": {
-      "price": 2857.0,
-      "change": -16.5,
-      "percent_change": -0.57
+      "price": 2842.0,
+      "change": -15.0,
+      "percent_change": -0.53
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Synth\u00e8se de l'actualit\u00e9 \u00e9conomique :\n\nLes trois titres \u00e9tudi\u00e9s, ANA Holdings Inc. (TSE:9202), les soci\u00e9t\u00e9s japonaises qui se warm-up aux incentifs en actions pour leurs employ\u00e9s, et Japan Airlines qui pr\u00e9pare un IPO de 8 milliards de dollars, sont tous li\u00e9s aux tendances positives dans le march\u00e9 japonais.\n\nLa performance de ANA Holdings Inc. a besoin de nouvelles forces pour \u00e9voluer, en tant que ses actions ne sont pas encore en plein essor. Les soci\u00e9t\u00e9s japonaises ont commenc\u00e9 \u00e0 s'int\u00e9resser aux incentifs en actions pour leurs employ\u00e9s",
+    "sentiment_score": 0.333,
+    "label": "POSITIVE",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": []
+  },
+  "extraction_date": "2025-06-02"
 }

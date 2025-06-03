@@ -2,34 +2,34 @@
   "ticker": "7911.T",
   "name": "Toppan Printing",
   "sector": "Industrials",
-  "market_cap": 1190402064384.0,
+  "market_cap": 1127993704448.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 13.244882,
-    "PB": 0.84166473,
-    "EV_Revenue": 0.63,
-    "ROE": 0.06962,
-    "ProfitMargin": 0.05195,
-    "GrossMargin": 0.23913999,
-    "DividendYield": 1.44
+    "PE": 12.546954,
+    "PB": 0.8366408,
+    "EV_Revenue": 0.54,
+    "ROE": 0.06664,
+    "ProfitMargin": 0.052010003,
+    "GrossMargin": 0.24043,
+    "DividendYield": 1.45
   },
   "technical_indicators": {
-    "RSI_14": 48.33518712500812,
-    "Momentum_10": 1.6004001000250063,
-    "MACD": 52.59874448371556,
-    "BB_Percent": 0.51418463748853,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 34.920007459244786,
+    "Momentum_10": -5.744520030234316,
+    "MACD": -62.80456630387471,
+    "BB_Percent": 0.0887307896173173,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.901588142963092,
-    "QualityScore": 0.3810348094489353,
-    "SignalScore": 0.6767936364283054
+    "ValueScore": 0.8999054628710432,
+    "QualityScore": 0.386033509016531,
+    "SignalScore": 0.7452229434530326
   },
-  "volatility": 0.0258181932799257,
-  "beta": 0.448,
-  "return_6m": -0.0017252312110348,
+  "volatility": 0.0259274784675916,
+  "beta": 0.403,
+  "return_6m": -0.0656385672292481,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "strong_buy",
     "analyst_count": 4,
     "target_mean_price": 5077.5
   },
@@ -510,30 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 3850.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 3741.0
       }
     ],
     "current_price_data": {
-      "price": 3850.0,
-      "change": -41.0,
-      "percent_change": -1.05
+      "price": 3741.0,
+      "change": -109.0,
+      "percent_change": -2.83
     }
   },
   "news_sentiment": {
-    "summary": "Japan's stock market ended lower on profit booking as the stronger yen negatively impacted the country's exporters. The Nikkei Stock Average fell 2.1% on Tuesday, marking its biggest drop in over a year. This trend is a concern for foreign investors, who may be hesitant to invest in Japanese companies given the weakening economic outlook.",
+    "summary": "Japan's Nikkei Stock Average has been on a downward trend due to profit booking and a stronger yen, which has negatively affected the country's exports. This news has raised concerns among investors about the stability of the Japanese economy.",
     "sentiment_score": -1.0,
     "label": "NEGATIVE",
     "positive_ratio": 0.0,
     "neutral_ratio": 0.0,
     "negative_ratio": 1.0,
     "bullet_positive_count": 0,
-    "bullet_negative_count": 4,
-    "headlines": [
-      {
-        "title": "Japan\u2019s Nikkei Stock Average Ends Lower on Profit Booking, Stronger Yen (Update 1) - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JT21WVDBtT29iV3B5WG5uam9TMUhuRl9kbE9sUzdxVUdRdjJzWW1aTzRzNkZBd1libHJMMEh1aVRQaGVrUk1tbjBoc05DbjA5dC1VMmtjQ0JzV0MzUVRvcGRXY1BCYThKMVNmdlZHZlFSNmxIRXcxSHJ3?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
+    "bullet_negative_count": 5,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

@@ -2,32 +2,32 @@
   "ticker": "MS",
   "name": "Morgan Stanley",
   "sector": "Financials",
-  "market_cap": 212059013120.0,
+  "market_cap": 205665812480.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 15.495896,
-    "PB": 2.1881568,
-    "EV_Revenue": 1.927,
+    "PE": 15.028724,
+    "PB": 2.1221879,
+    "EV_Revenue": 1.823,
     "ROE": 0.13884,
     "ProfitMargin": 0.22347,
     "GrossMargin": 0.86549,
     "DividendYield": 2.89
   },
   "technical_indicators": {
-    "RSI_14": 72.96109218855048,
-    "Momentum_10": 9.948420673463186,
-    "MACD": 4.679426763422541,
-    "BB_Percent": 0.9252993902667448,
+    "RSI_14": 59.69040250034462,
+    "Momentum_10": -2.9105755027273728,
+    "MACD": 2.933470437255977,
+    "BB_Percent": 0.6040215984539337,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8966734702729532,
-    "QualityScore": 0.388968337620733,
-    "SignalScore": 0.5243573475678869
+    "ValueScore": 0.8950629835770223,
+    "QualityScore": 0.3902648987461354,
+    "SignalScore": 0.5888082071222887
   },
-  "volatility": 0.0246643318889068,
-  "beta": 1.3,
-  "return_6m": 0.0025947529255638,
+  "volatility": 0.024705218331431,
+  "beta": 1.291,
+  "return_6m": -0.0072239702566173,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 19,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 128.03
+      },
+      {
+        "date": "2025-06-02",
+        "price": 128.29
       }
     ],
     "current_price_data": {
-      "price": 128.03,
-      "change": -0.13,
-      "percent_change": -0.1
+      "price": 128.28,
+      "change": 0.31,
+      "percent_change": 0.24
     }
   },
   "news_sentiment": {
-    "summary": "Morgan Stanley (MS) :\n\n* Shares Sold by Integrated Advisors Network LLC - MarketBeat : Negative signal, potential dip in stock price\n* Shares Purchased by Mackenzie Financial Corp - MarketBeat : Positive signal, potential increase in stock price\n* Shares Sold by Inspire Trust Co. N.A. - MarketBeat : Negative signal, potential dip in stock price\n* Shares Sold by USS Investment Management Ltd - MarketBeat : Negative signal, potential dip in stock price\n* Shares Rise 10.5% in a Month: Should You Buy the Stock? - Yahoo Finance : Mixed signal, potential increase in stock price but also potential volatility\n* Se",
-    "sentiment_score": -0.15,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.05,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 3,
-    "headlines": [
-      {
-        "title": "Morgan Stanley (NYSE:MS) Shares Sold by Integrated Advisors Network LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9PSHE3WDN0a01mTkhJbHhmblZTMEZ4eHp5SGpyVVlOZlhISDB6LW5HdVBKVEZjYUNjcW43WG0zck9pYUVzWWpzOWI0eXcta3VJUXRjNXhKZ1hSNGxyODRHczdOemJoYnNmeGdIVmVuN1ZLZzI2UFpuYktUajc2c296ZVdteF9wM2pWMmM0SjRpT3JsT1AyRmJBTTRnVEVXdm9XUW15MW9PaFVFcG5LZ0swdURuMGU1ajRvbUtLWWN1anZidzF1b3U4bUxFUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nvidia Stock Slips. Why It Might Be Entering Its \u2018Apple Era\u2019. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWhxaUpYaEtFRHBIVEdXQ3F5Y0hlcW9Sd0hiOE9pREJFd2VpY1pnRXhLdkRKVEYyaHRnX29RaDl0eW1Zb2dBSUMzRWpMMktPenJMcDExRDZqMDJJTldRczJ4QzlnTDFveVA3dW1feDFELVFZdFdVbVhGM1p0ajhDSjh0c2s2RzJl?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Morgan Stanley (MS) Could Be a Great Choice - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeGRrdDAzRnBzV2lDVWk0cjh6NmNpYWJkbXlTM1ZzVVhOOU5zdDMtd3ZCNmttdE04aFRHSkh0Zzc3OEVac0ZjaEZRUFp6Q2YzNkRpNHc4T0p3enhnM24tbm1VbW1Hdk9yalpHLUxlZFM0NldieHZmeERBSkVSU2NfZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is There Any Upside For Microsoft Stock? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkNVNC15S2lyZXJ1YTJWYlIxZTVGUGtFWmNhdGtvdXZ6REZfVVFZV2NNaTVVdkVNaEFYS1h0OWwyZ1JXZjNGSnFqV0MtODFPcFNwSXVSc3RiSzhIb0k3bHdUdWM5bUc1U054UTh2S0JEV2Q5MlZYSmxvRWtkMzhWR0F5bDg2aFZLaE4ydXY2eFl2dW81UXpCVm9lZzVzS2o4OVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Best Stock to Buy: Apple Stock vs. Microsoft Stock - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXcxZlFzWlM4Uy1YVGcxSlA2RmVmNTh6LUZSOGZHNllFODFKa3ZQT2ZNWjNFeWZaeEhOZjlVT3ByOUFqMG40THpmUHk0RGJ0bm9qbGVoZlUwT3hPQk1SVV92VVFQalhBUFFqN1pUR2k5QnZEV1FRcXZNMG9ZTGhtekpfTDVwS2Qyd3V6U2FCUjlZdklUb1ZCdQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Temu parent sees stock plummet after earnings miss - Quartz",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzlvRVhBbHVTWUhKN3RUZ2VHVGIxSEF1X1JPbFRsakFUNklwMFlPRlhmdG5Ba2tuQTZ6OUtpeXFyZHpOVWJhM056NXJybHlzOWNkdkF6ZlhUanFjdXpaU3hwMWV6TVRxeW4xekdKUmpKU2QyaVcxUkRldVNFUVhvMw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "(MS) Technical Data - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmNSYkFtR0NYcnVBQ0JyaWNvdk5hU2g5SmtsOEJNc3V3UTdmZHFNeFFjcEU0U3JRcDZZX2lOMTFGb0d3M2JLRHNVajIzeHo3WHM1YUo4VElqU253NTRQeExaR1N4TmxRRVNGOG5FWFN0QzhaaG4yZm44LW8wZnQxOTRSR2lnT2Q0ZDJ0N2Nwa1JSOFRQcGtj?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "PDD Stock Dives On Temu Parent's Big Q1 Earnings Miss Amid - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZFVVcnV1MVgxMVdSZDNaUmJBRjBJR1RWaVAtREVxSUFTQjNLOWU0ZHluUDZUMUFiemVHS0EtWkhFenNFdTM0MWpCNE1kWTBmSGdnVmZPU3diZGpESk9kcl9ybnJyb2I5bzJuSlFSeXVianJYeGYwQU1uU1BnSWw5anVIT0FRb01XWnIyWDlXQy14dw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Microsoft Stock (MSFT) Rises as Leading Analyst Forecasts Azure AI Boom - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFgzM3lvTE5kYXpqZkx5SnJfZGg2MENwQkVMVVp5QUV0SV9yRTk2U084WUwyYktCUzY1TktXMDNxaHZPMzVDdDdpX2RiUjVRTDAxNzNnS0JfSDFlTnVQWk1hMnQySVZFakU5cTlmN0loeUIzbkJkeEdNN3hTcU9uTGRWZVFEWVFfVy1IYnJtVWVXd2pQOG9HTkNpd2w3cml0?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "MS to Lead Netskope's IPO Preparations | MS Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMklacXp2UEpZV2pzcmRxdGRBemRLdm9SMUIzRTkxbGd1cEFHWnFwVGU2ZG5ReE9XRHpjV2dZUEtBX3ZndDV5UEYyb2J3aVZGMmJKS25Sb2dyVTk4V1J4ZDRzcEZySXFQX1BVWkpIVEJIVnVTWHc4Y0VydUI2bTVmdWpuYWswal9TTkxlblN6bzZLT1p4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Microsoft (NASDAQ: MSFT) Stock Price Prediction for 2025: Where Will It Be in 1 Year - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcHlycGlmV0pfM243SkdqNFFESHRrUVlFV1BISy14LTVaamNSVkpsTlliUm5NazlvbHA5b2VGU2daUVdYMi1nSWhkYktwVk92NnlzX3BneVlLdmhVRzNuS0QxNXI5MmxJRzN3R1ZGSG5qNXV6TC1GeHBiY0FIeDc5bHFQRExjU3phQjgyMXcxSkZvSHRoeU13S294RlhrMzJEb3lGSS1BR2xIY3JpQ2x6bGttVHlaS2ZXX2kwNTNsVm5mdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Morgan Stanley (NYSE:MS) Shares Purchased by Mackenzie Financial Corp - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXNobk55NTZCVmkxcHF5d2FueG1YeWU1YnpaNE5WUGU3SjhNTnBrX2t0NFhfQkxnZVNSUDRKZHpidHQ1VldlQkZBZmQ5OWdJemMtU1BCM0dWUXVfR0NvNExobTd1bEQwN1dsNW9YYXpaTWJqbHE1Z1I1VEpCMFNJUnRkM215bUFXTTVNY3dkSXp0SU1yQkhrR3NOLWNSdGQ4Q1JkZm12MGpTZ1FkRDZ3MjZrNzF2OTBaN3RNZGc1azRXNTFl?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Morgan Stanley Shares Rise 10.5% in a Month: Should You Buy the Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDhlakFoZ3pDSXN4UUFvdGx2LVo2cHRNc3RMVWw2cDdhdE5hUkZYdWhQNERLcklTcUF1UTRUWkc1S1B0SDhrQ3c4bDhJbWp5QjdKWjhHaF9lamR4ckRFMG5aay1yRy0tMDhwbVJyQ056cE1TV2Ryb0ZhR05kWkR5Xw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Multiple Executives at Microsoft (MSFT) Sell Company Stock - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQWFTZFdLOVRuMklNQzBzU1JRQWN4d0FVQWpqLVgyYWEzdzRkWnFxTDZYQ2tPdUVSc0M4SERGWHdzT3JLOGVIY3Ata1V3UHdnZGZ0UzAzRHFVajZjX0pmd0J6emhlSG1xdUNieVJUSUdmWncycEpGNE5tY1lOS2lLVTdpcVZGbDcwRGdPVjVtRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Morgan Stanley (MS) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mQVBZMkwxeGJaMkFCNmtrVHpJT0ExUUNFa0g4M0c4U3RjVFJhSFBxTlVCMkFrTW1DOHBzRWNvWEc0QTlyUUxpNVF4aUFzX0RSQUJMX0tndklNQWd6aEdlY3ZQanBQWnBLVDRLdE8wdUt4allGQjJqazF3aURqUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Morgan Stanley (NYSE:MS) Shares Sold by Inspire Trust Co. N.A. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSm0xTEJaVTFpOHVjT1I1SzA2SUp2TGR3X0pFMGlTZ1h6U0NhbUdiWjlKU3FBUkN1cmhWSWd5ajJ4Y05NNmZjZFZ0V1FuYm9uVEZMaTRXcEg5T1JxZHZnM0d1RF9WeG5VWFR2OFgyekxnOG12X1VRUWR3T3hjZjBBLUVjN0l4MTcwQm04TlBnN21vMjkwdHplbDRrQy1VWVlUQjNyWkhvNVNaVkZvU25IdGVnNTMzYXVrLXFyQjEyc0NyMF9pQkdVY1JR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Legacy Wealth Management LLC MS Raises Stock Holdings in Matador Resources (NYSE:MTDR) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOejVPZEdTWG12VGF1Z3Y4a29FcjhlRkZPY2tOSHgxRnBPdnlReU1Wb29sRDN6VVhlYnI2SzNqejltWHlNY1pXeTRyaUhpejVJaW03d001bHlGQzZ2c1NsYVJEd2JfUW81Z090V1lsdWhJNElObnkybkxCeWFxWnA4TnFxd0tpM2V4eUVWN0RiTU9jTWhIOW1KNE1zenNWRGplYzMzNHd6WXFFWk5fcDRlVlg1ZDhGU3lYMjhjeUVZSnBaTUM4czJNa1F4dkdRSFR3ZjlmSUw4VkNCNGoz?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "JPM, BAC, and MS: How U.S. Bank Stocks Line Up in the Trump Era - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40cFpCdDhRdHVsVC11S3RDVVNQYUFzSldvczFGWTMxeHFpbldybVJJLU1XeE9jdGpjeDBxNHRfQUVyVzFzcElGMlFRNzdTTkQtVGZpOGZLeUV1bUJSenI3amNVOF93MFU5M2Y0dTZFTTk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Morgan Stanley (NYSE:MS) Shares Purchased by DCM Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUHhKcHZhOGx6OExvOFFIVTZyc0NFRTZZWGVJSmYtdU1RNWl3eWZRMEE0WUZ5bWJ2OVc0XzZfOS1Od2QzZ1lOYnZTcTVDNU5STUdYbUdQUjJ3RW42SnF5V3Q0QlpvdkMwZ3ktX1puNmFOM216dXdtQ293eE5xTENFTUR0VXRLLXJOQjZ5WnE3WlFSVVRUMWU4dzFXODItYTVLd2RrMkJBWTh3dEMwaTZxQzdnQzgwQkZzeFpJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Morgan Stanley (NYSE:MS) Shares Sold by USS Investment Management Ltd - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOTQzUlV6VWtGa19tZGZaX21rRkdzS1d3RFUycHE1U0tHTW42WVpna05CdkJZZkxyWHBZckJPbi02cDN5LXVGSUc2bXB0RGYydVdRenY0UEVzV1JnOGI3VDNuZ0hIa0N1djZ6Um1HOGRrS1BMYU9MUG5YV0pzRUpZaF9vS2tUa1BwSzl2S200Z2czdDZBcXhpOGY1Q0ZTNVRmTW5QLVVvd21qTHpvdzhBZ0tNY2syNHE4cUZTRkpRLTlrUFlPVmVkT3lOSS0zTzQ?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "summary": "La tendance cl\u00e9 ressortant des articles est la forte performance des stocks de Microsoft. Des investisseurs ont achet\u00e9 des actions de Microsoft, et la compagnie a enregistr\u00e9 des gains. Ainsi, dans l'article de Yahoo Finance, il est indiqu\u00e9 que Microsoft est le meilleur stock \u00e0 acheter, tandis qu'un autre article de The Motley Fool compare le stock d'Apple \u00e0 celui de Microsoft et conclut que le dernier est le meilleur. De plus, le stock de Microsoft est au sommet du march\u00e9, et des experts ont d\u00e9clar\u00e9 que la compagnie est en position forte pour le futur. N\u00e9anmoins, l'article de Barron'",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 6,
+    "bullet_negative_count": 0,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

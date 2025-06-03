@@ -2,32 +2,32 @@
   "ticker": "5714.T",
   "name": "Dowa Holdings",
   "sector": "Materials",
-  "market_cap": 271008858112.0,
+  "market_cap": 267793203200.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.9899025,
-    "PB": 0.68023723,
-    "EV_Revenue": 0.481,
+    "PE": 9.870717,
+    "PB": 0.6721716,
+    "EV_Revenue": 0.484,
     "ROE": 0.06968,
     "ProfitMargin": 0.03997,
     "GrossMargin": 0.12764,
     "DividendYield": 3.47
   },
   "technical_indicators": {
-    "RSI_14": 50.365346238856006,
-    "Momentum_10": -0.5897771952817824,
-    "MACD": 14.077693546273622,
-    "BB_Percent": 0.5406450864273887,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 45.80048424184198,
+    "Momentum_10": -0.8160564622849581,
+    "MACD": 10.796116962062117,
+    "BB_Percent": 0.1544880026751277,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9025886036122884,
-    "QualityScore": 0.3467648135851111,
-    "SignalScore": 0.6857149765909003
+    "ValueScore": 0.9005568832896589,
+    "QualityScore": 0.3505251588672474,
+    "SignalScore": 0.6444370752227484
   },
-  "volatility": 0.0178522704386683,
-  "beta": 0.588,
-  "return_6m": -0.0196036191296854,
+  "volatility": 0.0173477405802004,
+  "beta": 0.551,
+  "return_6m": 0.0304759351575467,
   "analyst_rating": {
     "recommendation": "underperform",
     "analyst_count": 7,
@@ -510,30 +510,16 @@
       {
         "date": "2025-05-30",
         "price": 4588.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 4497.0
       }
     ],
     "current_price_data": {
-      "price": 4588.0,
-      "change": 1.0,
-      "percent_change": 0.02
+      "price": 4497.0,
+      "change": -91.0,
+      "percent_change": -1.98
     }
-  },
-  "news_sentiment": {
-    "summary": "Dowa Holdings, a Japanese industrial conglomerate, is facing criticism for its conservative accounting practices, which may be contributing to soft earnings. Investors may want to investigate this further before making investment decisions.",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 1,
-    "headlines": [
-      {
-        "title": "Dowa Holdings' (TSE:5714) Conservative Accounting Might Explain Soft Earnings - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjNoRzgtTVBQWXhlY2lKR3NkQjlIVzZGRUx3UFNBYl8xNFJ4d1JnYjRqcEhVeml4Wjhwb0R2a3ZmZ1V3V01aWEg2MW4tcmVEc21HOGxyTXhfRkw5QWN3NERKdWMxcV91Q1RQN3FENjNxWTVFZmZIa3M3X3JmZmtDT09yOGhwTG55bElqcy1ibG8zdGZDcllsRUlmLUk3X2xPZF9RTXhHRHQtblVidV8xVTI4RGtrNkM0SC1La1d1V2kwczV1elB2RXRYWmpUT056SkHSAdcBQVVfeXFMUE9nVXVzdXBfbHBsalZOdmEwZDAwLVpsaW02eVZhYzR6UkdoR2VIUlZ0ajNWNldJZm5vX0NTVUQzUVNJZW5yb2VVWTM5R25JUU1ZbWZBR1phaV9iRjZXbHRKNUJhamZrdnhLOEh2VFNYWnAwOEh1OVNlYWtDdXBoZElZdnFfbHN3SmV3YU5fRTd0WG5FRUExcTgzekh5dUFLakZVM2pMak01U3BmdVh0azZUbXZSd0xLVGdvMk5jMmdUU0tTaWdHUWhpSWtlMEpjXzhpMld2Yk0?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-05-16"
+  }
 }

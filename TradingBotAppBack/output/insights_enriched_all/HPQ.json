@@ -2,36 +2,36 @@
   "ticker": "HPQ",
   "name": "HP Inc.",
   "sector": "Information Technology",
-  "market_cap": 27640051712.0,
+  "market_cap": 23326844928.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 10.546762,
-    "PB": -25.8326,
-    "EV_Revenue": 0.662,
-    "ROE": 0.17424999,
-    "ProfitMargin": 0.05045,
-    "GrossMargin": 0.21846001,
-    "DividendYield": 4.64
+    "PE": 9.551923,
+    "PB": -18.328413,
+    "EV_Revenue": 0.6,
+    "ROE": 0.17839001,
+    "ProfitMargin": 0.04636,
+    "GrossMargin": 0.21154,
+    "DividendYield": 4.65
   },
   "technical_indicators": {
-    "RSI_14": 71.72709964841357,
-    "Momentum_10": 12.986508026225712,
-    "MACD": 0.7656531546012353,
-    "BB_Percent": 0.9845699076700558,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 35.06992459016075,
+    "Momentum_10": -15.109141716525317,
+    "MACD": -0.0942399960591053,
+    "BB_Percent": 0.0974694089731562,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9136650627418346,
-    "QualityScore": 0.2840688564384557,
-    "SignalScore": 0.51634399675118
+    "ValueScore": 0.9089993431627454,
+    "QualityScore": 0.2855446958068098,
+    "SignalScore": 0.7965116648821292
   },
-  "volatility": 0.0276372657328707,
-  "beta": 1.339,
-  "return_6m": -0.2020806363371167,
+  "volatility": 0.0263130796949472,
+  "beta": 1.313,
+  "return_6m": -0.3059648563972621,
   "analyst_rating": {
     "recommendation": "hold",
-    "analyst_count": 15,
-    "target_mean_price": 27.92133
+    "analyst_count": 16,
+    "target_mean_price": 27.21062
   },
   "visual_data": {
     "sparkline": [
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 24.9
+      },
+      {
+        "date": "2025-06-02",
+        "price": 24.84
       }
     ],
     "current_price_data": {
-      "price": 24.9,
+      "price": 24.84,
       "change": -0.05,
       "percent_change": -0.2
     }
   },
   "news_sentiment": {
-    "summary": "Voici la synth\u00e8se courte des 15 titres d'actualit\u00e9s \u00e9conomiques concernant l'entreprise cot\u00e9e HP :\n\nLes mouvements les plus importants sur le march\u00e9 pr\u00e9-ouvert concernent notamment Nvidia, E.l.f. Beauty, HP, Burlington Stores et d'autres.\n\nLa chute du stock de HP de 8% apr\u00e8s un r\u00e9sultat d'exploitation manqu\u00e9 au second trimestre et une croissance des revenus de 1% par an a g\u00e9n\u00e9r\u00e9 des signaux n\u00e9gatifs. Le CEO de l'entreprise s'attend \u00e0 des prix cibles tarifi\u00e9s.\n\nLes mouvements les plus",
-    "sentiment_score": -0.7,
+    "summary": "HPQ: Negative Outlook and Increased Costs\n-----------------------------------------\n\nHPQ has missed on earnings and guidance due to added costs from tariffs, resulting in a 15% decline in stock price. The company expects \"targeted price increases\" to offset the cost increases. While some analysts see the stock as oversold, others are concerned about the company's weak outlook. The stock has fallen across various financial platforms, including Yahoo Finance, Nasdaq, and Barron's. Additionally, some investors, such as Milestone Asset Management LLC, have sold their shares. Despite the negative sentiment, some analysts, like Seeking Alpha, are not buying the dip. Overall, the trend is negative for HPQ, with increased costs",
+    "sentiment_score": -0.6,
     "label": "NEGATIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.3,
-    "negative_ratio": 0.7,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 5,
-    "headlines": [
-      {
-        "title": "Stocks making the biggest moves premarket: Nvidia, E.l.f. Beauty, HP, Burlington Stores and more - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEZRQ2t2blRwQWNERWxqSFAwYWtfR1hpb3JDSG1naHJsd2pXdkpMSzZmYm80VEVxdXRPVENmTEViZHdnUGVnWmxFX3J2NHZSYThLQWI2Um10VGVmV0RPUHpnT251MzZVcWxHeDNnSng4akNSY19Pa1RsTVYzSC1JZk42N1l3M2htdVBPLWd3RXlyUE1GQnV4YWdGTU0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "HP Stock Falls 8% on Q2 Earnings Miss, Revenues Rise Y/Y - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91c2oxbTgyajFUbHJNV2s0a3Z6elFOM1pnUUpZYjNvOEhzeXJ3Vzd4S2YxSEdjaDZ6OHpvMUVVSUZ3OUx0Zk9CVVdpRE9PSnhtdHpQQlRPYWpqYklkc18zRU5kWlF2T2drNWxpTzFEc2hmbDQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP Stock Tumbles on Earnings Outlook as Tariffs Lift Costs. CEO Expects \u2018Targeted Price Increases.\u2019 - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RU2p6N29udy16cnotSzNkNlIzZ0VCVHVwaE4tMi1rRU0wclQ3cGtwdjdBUldZTXY1Wnl4SzZzRlpZWE9BLXdRcHpidnRrVVFSZ01Wdm9zelJrWHNoWGZ3WGxySkhlWmVfc1F5bXhCV0gydEJsNGZFSA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Biggest stock movers Thursday: NVDA, AI, CRM, and more (HPQ:NYSE) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmYwLVE3THZHNFRsT0VZLXRBcGtuQ1JyLWtHeXI0QWI0NTJlLUhkV01OSHE3TnpCYkRZX1Y3Ylhrb1ZrLXhfTUZBTVVURnRiLVhOcG0zRE8yVFF0b2pIakZqYTdmUmctYjlULXItRDdNSFZxcXh5d2FSZ3VKMVpBUkEtTnEtU3Q2WjhEaw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "HP Stock Drops 10% Post-Earnings Miss, Outlook Disappoints - HP (NYSE:HPQ) - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMjh0S1JJNmx4Z1RUSDNNUjF5U01JXy00WDNxMzNtZmFieEF6VWVpM2luZndwRnpmNmMwWExWMGF2R0ZMTjdzb2MxWHBLZ0tILXVlQU15ZFVSU0p3SUZFOVFpYjBxdDBJdk90dVpBcFA3WE1TN2JtQ21wRUtuNlBLVk9nYU1qdmd5OTJsdEZadUZvTTZUQXNOVU1mWUR6OEVBdjNVNmVmeWY?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HPQ Earnings: HP Stock Plunges 15% as Tariffs Blamed for Profit Miss - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVml1aEcyZFpKMEdxcm1qZkZUS2hWODAzOHlxNFVYYV96UVpTeEtwN1pfaXhnRjYzRndKazNNM1lnLWpMUVI1LWc1RE84dnMwWmNyZlBfMW1zWjMwdmc2a1huT3pwT1p4dGtlTnMxTEZJODNROTZ6bG9wV0c3bUkzU0xieXkyUVFXMWtma2pVQkVUMnZZNkYzNHVwdEE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP sinks 15% as company misses on earnings, guidance due to 'added cost' from tariffs - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CdlVqa2sxRGNyblpCUVM3d0tRYVV3QnVUaXd2UWJJR0x5dm5ieGMwTnFYX05MYml6R2lDNmRMN19BOGlERVRQdDhpUjYzenI5bWpMZFZNb1A5RnhiZmcwcm1XWElDYTkwWmcxetIBckFVX3lxTE5BcG1ROS03NFBtZlVOUE9wek9tMTlfNnptSVNoNEdlSTlBazBTZXdmSV8waXhITnFDeFNiVjZSWDNPMGxSX0hFeENjUDdlbWtzbS1HRWZzaXRBVTN5U0lCVnZxZ3FpQzZpYTZnc0tQQWdLQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP (HPQ) Q2 Earnings and Revenues Lag Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DWHV1ZW5nbGRkZnNJWnhDRlQ1eTZpdHppZDdaYmlfTFd6VHRnT3hhSUEyQzYyb3hLMERmUk9ZTTVtQU1qa1JQcWFLV0NieHZxZFpCSGhfemJuTmhzdFlhWDVPajBVdmk4dmhOWk5Sbk1lWHFQZ2VucF9XTjUxUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP\u2019s (NYSE:HPQ) Q1 Sales Top Estimates But Stock Drops 16.3% - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96dG1TUlBxR0JLelpmam1BRTV5V2d0WU9mQmxrQmxfcnVFSVQxYlNiQWZ2MFdGNV9uaXZyY0JGaXFiRGM4U0xwcW5feERnQmY2cUxlYkt2X3JmVjN4VUFoV2U5NjBXNThzdGlRY1lhSXQ1QnB5?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP Inc. (HPQ) Misses the Mark: No Positive Catalysts to Pull It Off the Sidelines - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xak5hV252ckRBTmtRSkJwTzhoR0M0anpaY3pyRlpBaTh6RmVaWXRRaFlKTUw5WEpIOG9PbHk5WjZ6U1NvOVVBamFvT3hDUndfTnlUOVMwTUIycWhqenZVcEFwWTNuMUNRT2pFdmtLUmlIa1VYNFQ0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "HPQ Stock Drops as Earnings Miss and Guidance Disappoint - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2R2Nld4ZFhrVDA5RUFaWmJFREtacXd1R21zWDFHZHpGRWU5M3RxVElDY09vSDQ4ZUF2ZngwQmcyUE94Nl9DZmVUNVdmRkJ1Z2x1NXFlMVRnRlp1cWwzaW1sTmRGYktKVFQ0SnNNTnVpc3l5ODFSRlpuaEN1aHBJbmo1RjZqQl8wdGhITTV3UEJWYmQ5d2lnUDdOdw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "UBS Group Has Lowered Expectations for HP (NYSE:HPQ) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc19fV1Q4Z1REeFp4MGxEajYzRmJad2w1NlBZWmtKSUtwekhUSzFTeVUySTRER21DTDhtblJUTVJGRGNPQk5mTl80U1dqZ0s5Zjh3dWdBU3FXRDNMVFVSVGk1M0hWSm9FVDFHcEN0NzQ5Y0NrMDNSdnItQklfRmp1OS1ZT3k0X1R3OFFXZDBkMDNhNl9wdWNTUWdfc09iQy1QbjNwMDRnNzRfWkV3dzFvbHFjVkNtUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why HP (HPQ) Shares Are Trading Lower Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iMkRwam9mT0M0R1N2WWdEY29DdWR3Y0JGamRseHQ2NnJveTNsOW52cVVJdEFYbHpycjhxV0twQlNWN3dhSEdCNl9OUXZRcEF2X1Z5QVhuelZlck41czF0UXJyb2c2NVppc1pqUy1zalBjU1dXMFdfYzFtRQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP Inc. Q2 Earnings: Why I Am Not Buying After The Dip (NYSE:HPQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjRUajBjNm52Rnkwb2tWcGUxaENPU0QxbHdTYUs5cXlXNHVoZ3F5Slc4N2ZzSHNqbzJUOUpiVzlWVzlWYWQ2TW9EOURsUEo1RmpMa1ZlTGFzcnMyMmhoVmdVV0lBVnVENEtlYk9RNlhqQXFTZWF6c1dleDVJMnRsS3FuZXFxNWF5VmY1RnZxcVNabVdBbGRNZHlR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why HP Stock Sagged by 11% This Week - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3haTDFMSlJVLTAxSU10eEQyQUNIcjQxMHg5WDdhTnRMN09RYmdnYkptUUxuU3NwVEM3OXJkYnp1YXA1MXJ5YkNYV1h5UC1qaDJRYU9PYkdlY3JOUDE0TlphVFUzQXVCOXpRSGk1cGlGZmFURXdybVYycnRIV3pDQ2J1S0c?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HPQ Earnings: HP Stock Plunges 15% as Tariffs Blamed for Profit Miss - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNl9Hdm82R1NmRVlvalJYLVlLa2RYSzFEbl9ub0xGR29HYXdabnZ4eERmTkpONHJfeTI1S19GUlM1U21EcmVjSzY1bVFEbHV3NXFtNmhIMzUxYWEyVkhBdk5BZWdZNk1wcnhZdFhIVzBxTE9kbnFMU0FHLUloM2tpaEhHTE1GLUtzMzItU20wRGtkQ2NqcWRhT0Z6SEx2UDgyQVJGc3ZCWThGbFNUT2Z5MDJ6VXBWamJEVkF1MWRLVWFDOXJGTFFmalE2T1RWYmZuSER2bTIzS1Z0b2xLamgxN3ByczJwTnUy?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why HP Inc. (HPQ) Went Down On Thursday - MSN",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdllFUTJUZkRpSVFFMU9yanNLT2VRblNsb2p1YTRVbEd6Nmp3aTktXzJkNXpqMExGWV9tb2JBOUNlZ3M3c2Y4LW0xLTV4X0dfQlBCYU9XWWRRS3dZZDd0ZUZrdnEyd2RRSDI2R1g4ZHc1emhSTGFtVUVXcHpLbXVYbG1LQ2w0VEQ5QzNpWW9PcHdBUHBUR1dDSzRkd0kyY0M5Z1ZnUjh6Q0t4eVJkQjlqOGlDek9iVGs?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "HP Inc. (NYSE:HPQ) Shares Sold by Integrated Advisors Network LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbXpaNW43dS1kaDNkcGt4d2l4NGZZVGxCc0dQZ2ZWREh3RERRTGVEamJNblVQRjRKVjk0ZzI3NTFjdklSYmRDeTREWVZ2RzJ3TEJjbFNnYVIzMWVBUTc1RmMwM0dtVnpIenBQZzMwbU9EUEo4eHZWaXQ1SEFvTHo1Z0ZKM0hsOGx4Si1xVmUwc2hoU2tLZWI3cmU3eDI4SmtXQ2V3T0g4T1B6dWF4UWhUMlYxV2ZNemFzOU9RNUQ0Y1l4RDNqQXRWcg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "HP (NYSE:HPQ) Updates Q3 2025 Earnings Guidance - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTF9IM3lYMnM2V1BPNGpEXzV4VWhzZk1WWklUR244c3BVUnlIbTZOSTl0T3kzWVNPX3JLdFY5elYyQTlXQzZsMHJCV2FsMzMxdWpiRTdJZ3dkbEZoWmg1VjhfYTA2TndCTmJ1a2VPdmpMNFc2dFJ4eHBDM0Q3SXlZTnJvLXYtY011dUtCb094SzhqZDF0cGJXM3YzdlNGZ3M?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "HP (NYSE:HPQ) Shares Gap Down After Earnings Miss - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdjkwZzZuUjVJSXNzWWlOQURraS1qcW5KMlc0ak1WUm5sOEFEVkNfSFNHdTltQ1FKbXVoN1RlMkRaR2lpTDdza3dSaEVIYjEzdkdvQ1JGR1NrckdpeTZabHZMVW9jZHdacGNfaXI0bFk0M1lSVVZwWEphbXdKM2FfdkpXblVSb2tZWk9hS1Fnb3d6VC12X1VOZWZYLWVOZHdZeUE?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.6,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 6,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

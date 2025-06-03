@@ -59,7 +59,7 @@ export default function Fiche() {
       ) : !data ? (
         <LoadingSpinner />
       ) : (
-        <div className="space-y-10 animate-fadeIn">
+        <div className="mt-6 space-y-10 animate-fadeIn">
           {/* 🔹 HEADER */}
           <div className="text-center space-y-2">
             <p className="text-sm text-gray-400 flex flex-wrap justify-center gap-4">

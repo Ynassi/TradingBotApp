@@ -2,32 +2,32 @@
   "ticker": "HAS",
   "name": "Hasbro",
   "sector": "Consumer Discretionary",
-  "market_cap": 9418068992.0,
+  "market_cap": 9245711360.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.181519,
-    "PB": 8.050066,
-    "EV_Revenue": 2.857,
+    "PE": 21.77558,
+    "PB": 7.9027433,
+    "EV_Revenue": 2.84,
     "ROE": 0.39041,
     "ProfitMargin": 0.09988,
     "GrossMargin": 0.64394,
-    "DividendYield": 4.19
+    "DividendYield": 4.2
   },
   "technical_indicators": {
-    "RSI_14": 70.17782626026042,
-    "Momentum_10": 8.84210378052252,
-    "MACD": 2.3187925852184748,
-    "BB_Percent": 0.8542948985773222,
+    "RSI_14": 59.530928765192535,
+    "Momentum_10": -0.784366168139021,
+    "MACD": 2.015697840918122,
+    "BB_Percent": 0.612454708328996,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8902533569887288,
-    "QualityScore": 0.4483647749621479,
-    "SignalScore": 0.5440369423094691
+    "ValueScore": 0.8883069173175688,
+    "QualityScore": 0.4459047891913477,
+    "SignalScore": 0.575576302012861
   },
-  "volatility": 0.0284696709829134,
-  "beta": 0.537,
-  "return_6m": 0.1139456512413414,
+  "volatility": 0.0283905569241821,
+  "beta": 0.556,
+  "return_6m": 0.0410488817892336,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 66.71
+      },
+      {
+        "date": "2025-06-02",
+        "price": 65.72
       }
     ],
     "current_price_data": {
-      "price": 66.71,
-      "change": -0.09,
-      "percent_change": -0.13
+      "price": 65.72,
+      "change": -0.99,
+      "percent_change": -1.48
     }
   },
   "news_sentiment": {
-    "summary": "The stock market has been experiencing mixed sentiment in recent weeks, with the S&P 500 experiencing its best month in 30 years in May, but then falling in June due to renewed trade tensions with China. The tariff relief that Wall Street was betting on did not materialize.\n\nInvestors have been looking past trade concerns and focusing on the strong performance of certain companies such as Nvidia. The retail sector has also been performing well, with a particularly cheap retail stock that has shrunk to just 5% of Walmart's value.\n\nTesla stock has had a good month, but the rise of robotaxis is seen as a threat to car sales. Apple stock has also been performing well, but there are mixed opinions",
-    "sentiment_score": -0.05,
+    "summary": "Voici une synth\u00e8se courte des 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9cents concernant une entreprise cot\u00e9e :\n\nLes titres d'actualit\u00e9s \u00e9conomiques r\u00e9cents concernant des entreprises cot\u00e9es sont orient\u00e9s vers les signaux positifs. Le Nasdaq s'est ferm\u00e9 sup\u00e9rieur \u00e0 ses cotes pr\u00e9c\u00e9dentes, tandis que la Chine a r\u00e9proch\u00e9 aux \u00c9tats-Unis de \"seriousement undermine\" le truce sur le commerce. Apple a \u00e9t\u00e9 class\u00e9 comme ayant des opportunit\u00e9s significatives \u00e0 long terme, malgr\u00e9 les risques. Les actions d'entreprises d'AI sont en attente d'une d\u00e9monstration de vale",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.55,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Stock market today: S&P 500 marks best May in 30 years as Wall Street bets on tariff relief - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMzZOUHd3YW51a1J4RTgzU1hkaHA3OVBiQ3FBRnY0QlN1X0pFTHBGSGpuaWxFVVM5MXIzdl92bk1qQTRlLWlaZXQtdk41X0lJS2djMmRMak1QOUhxQ0pxckxUbjV2ZTFZTWJoM1NhcjlnZWVnZDB5RTJ6aUN4R2NUQWFxcFZBanhIR1NCRGpLekFjTlhyeFQ1TG5XMEY0ZTl6aVkwb2hLSlF4T3pkZmpPTXVPOWtYcjhvLTFQRmVkSFVmLUxHckM5RmQtT0VzQzdjMm9CRGN5VQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "S&P 500 falls as China trade tensions return to end a big winning month for markets: Live updates - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RQjE1Q2JFbEhSZzZSOHhRcDYxWkJZTGRVU1NpemUwU2l3akc1RDFhc0xiTmdIWWRqVjFRM0JWVWJKM01Pb1JCeHdtUVBQUUQwb29paEprdEI0aW9sVFFYOU43U1FSdnIzbFZrUGFTNE1Qc1VMc0NueNIBfkFVX3lxTFBuTmJTLTZ5Z3JqcHItZ0ZyUk5tRzBzZGpKT1BCZ09NbHJPb29vSmFtNTVvVldhTHc2Yjl5V3pJckE2LUtaRlBHUERCVG5pTHRvazd5bFJkaHZYZzl6cjFNTk9Ub2tiaE8zMjdQZ091bGR5X2FQY2NEQ2ZxajZuQQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Nvidia Falters. Powering Robots That Fold Laundry Is Still A Pipedream. Is Nvidia A Buy Or Sell Now? - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14RG1Uc3A0ZTh0WVNLOWh6UDlqOXplaUJvakdCbFlaMnhVXzl2MEpWOTk4dDAxSmdROFJjeXpHMVJ0VGdpQ3Y3YjlSQWRsTGFtb0tQQ3doUGZySk10QzV4dE5MMlVuam9xemhzVU1nNEV1N3ZvSjQxMW53?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The End of the Easy US Stock Bet Has Been Good to Contrarians - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFFCVmJvT1Z0a3pHZmxhMlRBdWZKTkY5Zng4WVZnMTJ5ZExKNk40c0lucnZTTkVDelFzS09qb1lnQ2Q3QXFwX3Rfc3NWVkxtcWxKRGFtVHBTMUhrLVZBSWZxZHE5eU9RT0hoRXo0VlVES3kwUUNnWVZsS3dsVFVqVEMtMkpMSVhzZmFjWnExa3pvOElMXzhtYk12UUE3OVp2VVNKQnA5a1owelZXaUREQ0N3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "You Should Have Bought in May. Should You Go Away in June? - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX011NENrdm01QlBvMWVHekhTc29teUkwSFRTQkZ0UWlVekQtN19HRTV4UGFQdkIyTnA3bks2RGdDa0dscU1LOTRnY3BsQ3dBcnlIUEUtXzFEak80UzZDNmJfQ2lqc1AzLWZQc1B6YjBnZDJRNGJqaDR6ODh2QjJkcw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stocks ride May gains to best month since 2023 as investors look past trade concerns - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGFJbFRrUUxtVXpScjJkaWFOU2QxdzQ3OGh4Y3hFaDNlWTV6bnZNZnF2SHdRV01pMk5pUXZKb2U1OXN5UE9mb253UWMwRlJudW1RbVp6NmdnU3d0OUdnVXZNUENYeGEzLVpheW5Jd0ZUSXgwTHFRc0JJUjJyZjk0Z1VWWUYzM3k2STJHeHI3OUNNdVE1V0N2RlJEbGNjdk1QZGJEa25mVFhjV0xJblNJ0gFWQVVfeXFMT2t2dnp0ZENpWkJUTmU5T3U5UVJoNDdJaC01THR1S3kwU3BrRXBzSThOYkl6RTE2UlY0ZkxKbUoxY01lS0xjZWlDNk1CNjhMaGJPZ010Q3c?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "This Absurdly Cheap Retail Stock Has Shrunk to Just 5% of Walmart's Value - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2hZNHJ5a0p4U2k3WHlnbWZJZHRvcWNBaUZUTFpKdjRYMTdvbDFZcUVRbFdmVFlSb2pNRHZDUE80akRYUjAzV2RmSHE2S19CaDVPMHFZYWxpY0hHcV9tZ0l4Sk9QZVRMaW9JUUFVZ1Y3QnFRQ0F3TXpCZjFVMFBsdS1KTDlrOE5KRWMtTmJZNlFycFk?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Has U.S. Steel Stock Moved 60%? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HbVZ1eWZzTDNNYU5TNnRtS1ptWmR4QmpBRkhzbkdxZU9ONjVhMTNHaVg3cndzdE9wZHZRc3BvVVJ2R2pCUE41bFFIRnNJX3g5SEg0UDgxV0U4SHl5QzNla3lja0xKZlRiRzBnU3lJeEk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Hasbro (NASDAQ:HAS) Stock Price Expected to Rise, Morgan Stanley Analyst Says - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHN5WjJ2NXA1MUVSQUhJd2NqX3pFTVgwUUQ3dUVuc0I1Vlh4VF9ielVtWVBpbmgyNEEwdU8wbHhlNVhsUXF6NUk2bFRtMWo4a0dVNFpjOUQySU83QzVjYXBOVEZHSXI3blZlNENsOWgyQ1QtUWdhZHp0c0U1ZFpBNEd0cUcxdldyWjFYc3lHRXZPMnZ4N2tON0NBU3FHdHluLUw5N0o2SXNNVlBTUm5hQXBxa3A0clBaLVJoVUZHdVFzWkRwQmc?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Tariffs Have Spooked Investors Out of the U.S. Stock Market - Inc.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcTRsVEJReUJjYjh3dTZ2VnhVVmJJb0lCbUFHZHM4UWpiMGhUTk1JNFlVdFpNb2RYTFctTXdwS2VPZG04YWZ0cmR3cnNYdDdabDY5bG9pLTk4bklwMlJKSnplZUU1RDFxU05KRXlwcVdlQVA1d05WV1JrczVjLWlWdFR6MjBRNTNjMHJsNjJSX3FycGwxUTVqallITENvM2pxUEJoVHJ6Yl81VkpqcU1qem0xUGJVRWlk?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Tesla Stock Has Had a Good Month. Why Robotaxis Trump Car Sales. - MSN",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlBFV2lrU09jd1NDa3h5SDhMOTBOOWU0UmVCaTJZaHp0RDAtRy1aNHNZSEV6aXVJRG04MVBSTkxlUTc4X25HSXVLVFJNbWgwVGszNnZNYVdUTEN4dWpVTXFsdWhMLTMxTkQzUFBVenkxVkZFVWtkQVJKdkk3X242dXpNb3hxRVp0eTJuZVpkXzFiQ2c2VjNtZW5WUmNFQXA3NkxOdU1lWEcxLXBBaFNheWtR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should You Buy the Dip in Apple Stock? What Market Pros Have to Say. - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEI2ZWFNd3E5Y2cwYkhrSWt1ZzJ5TUJSVlRjT2o4VThNR3FtWjZBUTBYVkRzNmJBLVU5amN5VFFCcGZrZGpQNzdVMTlLWnZqaDhGZXlmbTRtT0VrZFE5cVBCTmFaZU9RU2JJVDFPVjJtUWpmWlB2TjNLRER6dXNERFFjMFY3Tnd5N3RQZWlxNno?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's How Much You Would Have Made Owning Moodys Stock In The Last 20 Years - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa19mMU84MW8zWlVNMkZ5VS13Uk9BZ2lHemtFNWc5ZkJNdkowRXRFdWN3VmdUdHRUaGtiYlcyalZNb1NjLXdUZ0lxYjhhclRYajFpMHFMbFRmck1kWmktdWhnazZKYnpuNTBMV24xbDI4Q2VlendfanVPTkZnaXJIR0Z5ZHh3STZsUDNEdDR4TzMzTko1bUZjQ3R0ODNiR0t3YlA3YlM4NjRDRWs3R3NsVmhORkxKTnplbTBzX2phakVmdnZlZjZ0bA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "S&P 500 posts best month since 2023 as Wall Street tries to ignore the trade war - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZZEI4aV83WHhsWG1GTmJ1bWJPSG5pSVJyOF81dm1DMUR0R0g4M0RiUFR0bjRBYmQ2U1JBNDdMb0pSRmdsYmdhRTdzLXg2Y0xlTEdabHNLM1hNVllZTjByQ2JkQ25sTkHSAWxBVV95cUxPOExjeXBRcHQwbnYwZWNpZDJ3VVhWUlB5b0RrQWFiVWJISGNVUFFmNm9PRnAzUS15OHNHNE1BOVYtdXFwdmZ1c0lQYVlGaGs5by0wd2FERVJGSll0bFZjdzlKZlNJMDA1TEN6cE4?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "S&P 500 climbs on strong Nvidia earnings, but trade policy confusion caps gains: Live updates - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xY0g5b1c0czJNSHZ0LUJYdHc5Nm1xc2tLZV9aZzl5R2thZXcwaDFoelJhMU9RTnhtWXl0NnRyZzRzeXZnWnBuVzI4MS1MVU9hSTh4ak0wMTAyNmpGVERXdkVleU9NV05CM2xlaG5XQkxfcFd3c0Vn0gF8QVVfeXFMUEdKQW5Ha2xRTi1TM0ZuNnF5SWxZOVBWbGROV3ZFdm5FczNLWnpmbHhwWWNVVXc3eUUwLXN6dkFQS1pVWmxwaTRhODM2Wk14bmFiNlpNd2dnMEttSVVLclp5a3V1a2w4R3ZRQWJMVXI2bGJLdmtLeHNJYTQ1TQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "SBUX vs. BROS: Which Coffee Stock Has the Stronger Brew for 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OU2NfSjRkSktlQkh4a2d3bm1EVXRjT2l3X1VKQ1RYdm42ZnJ6cHhnTmQ5cDktaEp5bmU0UzBSWS1zSlAycjJXQzd6VEgwbFdyRWV3MVZ5UEF4LWFHSk5jdjlWbWFBdC1VRkphRkxJLUdUNV94U3JES0FwSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is IonQ Stock a Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzUFpSTVprWVVjcVBzOHcyY0pnaGE3X055aE9NNHFvR3Y1MkV3b1dLYW5RTTMzOVN3ZHkwZTJwVEhzME54ZWNYYWNyZTZWdTBhdmpRVEhiVGNRTjNXdFNXemgxUzhURTJ1azNnSHNWN2tCdw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq soar as Trump pauses EU tariff hikes for fast-tracked talks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMDYzam9IYS1iNk02YzRSQXZHamVPV1RnQklIOGZYSFpzTnFyd3FpWmtkOUk5bmEzSW5HS1ExNF9CX2FCVjYwREhLMl9pWmUwanRORUFaRmg0RXBVV0dKNE9ieDVmM1ZqMzRINHRESVRxNTlpOXJmd2FsUnp1V293LS1CV21CNGZRWFhXRk5idXFDQWlhWG12UjQzcE5IXzNSdm9sQUIxNXZzQmZzakZUZjFEYlphN3pZWWtobmNJaUNPNm9oUjI0M1h3eDU4Q2pCMnJGMlVhS2NIZ3prdjRBMw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Prediction: This American Industrial Giant Could Be Warren Buffett's New Secret Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVEJfS3ZLMGl5VWZFUXI4b2dRTWxUVS1Cb04yamQtQXFpU1JzbWxvZnZxaEVmOUxIaXRfX2RrdVVSSjJvMzM3NlJNN2hrbFZvQlhsUko1WEZ0Q01samZvZjlFcGwycElZdEpST29kMlNiMm9wR1hPYm5hb0NiV3QyM2ZXUHE5UHlzaDJSNmpMUllxZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "UBS Group Has Lowered Expectations for Agilent Technologies (NYSE:A) Stock Price - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ3R1UGhZbjZRTHZzTkpvWHpnY1NlUXhOUk01c1hiaGxBUWx4RnlkbnlhRDBuckZyNllJZWJHR0VaUmIzS2NrWkZvY24yaVNrMl9kUy1ZWVpDZXU0d3Nkb2VIeEZ0cWZ0ZWxtaVczcjZ6UFEtWEgwNWxHbmRoNmxyYnFoODF3aTFhVTQ1T3lNekQydDBGZmpWdDN2bmhKS1Y3SkwyZWtDMVhXTEYwWkRWbnpQLUdSbnVfU1pfWF9ncWpfM3ExNUFTNC0zbw?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

@@ -2,32 +2,32 @@
   "ticker": "9001.T",
   "name": "Tobu Railway",
   "sector": "Consumer Discretionary",
-  "market_cap": 521412673536.0,
+  "market_cap": 507001798656.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.320031,
-    "PB": 0.9403186,
-    "EV_Revenue": 2.014,
+    "PE": 10.041511,
+    "PB": 0.9143986,
+    "EV_Revenue": 1.995,
     "ROE": 0.093669996,
     "ProfitMargin": 0.08129,
     "GrossMargin": 0.31306,
     "DividendYield": 2.55
   },
   "technical_indicators": {
-    "RSI_14": 47.59654649984573,
-    "Momentum_10": 0.3457548981943911,
-    "MACD": 8.614144999092787,
-    "BB_Percent": 0.3345498847206284,
+    "RSI_14": 39.796583204159944,
+    "Momentum_10": -2.5700038358266206,
+    "MACD": -20.81711722664022,
+    "BB_Percent": 0.217180798998261,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8977046139619316,
-    "QualityScore": 0.4409122827285682,
-    "SignalScore": 0.6959437025015768
+    "ValueScore": 0.8958572994254861,
+    "QualityScore": 0.442705976225557,
+    "SignalScore": 0.6920974611326474
   },
-  "volatility": 0.0133009542402943,
-  "beta": 0.067,
-  "return_6m": -0.0024823372159633,
+  "volatility": 0.013011660185549,
+  "beta": 0.051,
+  "return_6m": -0.0124416796267495,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 4,
@@ -510,70 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 2552.5
+      },
+      {
+        "date": "2025-06-02",
+        "price": 2540.0
       }
     ],
     "current_price_data": {
-      "price": 2552.5,
-      "change": 0.5,
-      "percent_change": 0.02
+      "price": 2540.0,
+      "change": -12.5,
+      "percent_change": -0.49
     }
   },
   "news_sentiment": {
-    "summary": "Synth\u00e8se:\n\nLa tendance cl\u00e9 des titres concernant une entreprise cot\u00e9e est l\u2019importance de l\u2019ISO 9001 et 14001 dans le d\u00e9veloppement des entreprises. Les titres Stock Titan et Quality Digest se focalisent sur les avantages des standards ISO 9000 et 14000. Les titres Fierce Biotech et simplywall.st concernent l\u2019impact de l\u2019ISO certification sur le d\u00e9veloppement de l\u2019entreprise Sarepta.\n\nLes titres Panerai P.9001 Calibre et Cigar Aficionado se focalisent sur la qualit\u00e9 des produits",
-    "sentiment_score": 0.111,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.22,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.11,
+    "summary": "La certification ISO de WorkSport a ouvert des opportunit\u00e9s de partenariat avec Toyota, GM et Ford pour des produits de sport - Stock Titan. La FDA a ordonn\u00e9 une r\u00e9union du comit\u00e9 consultatif pour une th\u00e9rapie g\u00e9n\u00e9tique pour la maladie de Duchenne (DMD) de Sarepta en changement de c\u0153ur. L'efficacit\u00e9 op\u00e9rationnelle et la qualit\u00e9 sont des th\u00e8mes cl\u00e9s de la revue Quality Digest. L'ISO 9000 et l'ISO 14001 sont deux standards ISO qui offrent des avantages pour les entreprises. Une \u00e9tude de recherche sur les avantages des standards ISO",
+    "sentiment_score": 0.0,
+    "label": "POSITIVE",
+    "positive_ratio": 0.14,
+    "neutral_ratio": 0.71,
+    "negative_ratio": 0.14,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Worksport's Game-Changing ISO Certification Opens Doors to Toyota, GM, Ford Partnership Opportunities - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVdrOGdfTWNzWFNMZ2RmMk8xMXhOcnZleW9uQkxIQ2FTSUdSOUVPYk5zZDVMSUQyWHh1bXZidTRHMjMwTm5RZG95VjFuT0t6QXR4eXVENEp6dE9JVGVaQmVqdElZVWFqamJiUDhnZENDM3VFZUw2bE9TMGV5cm1rMU5uVXBTOW5BeUVHcXk4MXVmX3BvQndTR1IxUzIwT0VqeTBOb2hQaDl3bkxqNVNjcUNna0wxNzhzZHRRTg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Tobu Railway Co., Ltd.'s (TSE:9001) Low P/E No Reason For Excitement - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVndMRXVCLWhGWi1qYmE4VFZVZk1mUzIyd1VGWm9VdzZTVmdtM2E3bVRNUmpNNjR6V1B2WmVxN1dscmlxSXdORzBlX21aY3JGakpTcnNkcTBGa3p0cUNQVUtqOGt6elBzakM1al90anZodlA1aUlIWjBzLWNJR05yb3o5OURZbDdjbFFkM3JTWGNZd1padU9YWmpqNDZTbFpGYzJ6ZDBleEpaVXpTTVU4cDBrLUJyY0d1bEQtWVliOG0zRXNyV0ZoYUlzU0RZbTBzMmFSRDJIeUrSAd4BQVVfeXFMUFpPZXk1WGhXNUR1RVhrLUZZUWlaaVo5MFVoUGJuVW4yVUZaSnloMUtDMFBsMjU2VEo4VTZLa3ExUGMydGd5U2JNbWpRV2x1TUZNc2F0NmhwbjRSc0R0WW93SVU2Y2FicEM0U2ZLR2VvcVdWcVNHVFJCd2xodXprWGtyamYtTW9QVkhSdWx2ckZtYUNLck9INWwxTmVXUzhnNHN3WjRaYWVHd05YdnRidGVKeXh5Qnp3RFlRa3lYVXBVR2dqejY4cE1HblpEVlNFdDF5QXE5MmlJQzI5c1NB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Sarepta's ELEVIDYS Trials Paused: DMC Confirms Positive Benefit-Risk Profile - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnZsdXQwMWZKdTZNZ0lySW9jdDUyZHRqRGdSWHJGclk1Y292MVZ1YS1STFNRVFFHTWNjd3U1R0M0YUU3TDdFOUJVUmNtRkVFT0Z0bjkzOHEwX1dMcEVkcGFoSkpvX19paGhQdUkwbGkyUHdxMW5Ia2c4aTFCeEdkLWVoU3V2clJIUEc0UTFITVc4Sk9rTk10WGJ3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "FDA shocks Sarepta, ordering AdComm for DMD gene therapy in sudden change of heart - Fierce Biotech",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGloY1JQNHRRZTFiQjQwbUVvWk9USFh4TEhIRGNTeEd6dzc0ZnJldnExUEg2ZnJxNGVMWFNwSElOSXdMQk42TG5JT3VUenBBOE85ampKMmdYbDZqeURDeG0yNEJoblNwWjRlSXUwb1l5eWNrMnBUY2Y2aVZkQ05ES2ZoSTh1cmxMM2d4NUxTZkpjZFk2MFIxdG5NOWJmMXBJVXpnaVIzalFjazNFdFE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Operational and quality effectiveness - Quality Digest",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHczUTZqV3Y2RWhlZ256aFJhQ3NHVExUNzNic3k1V1V3OWk4cGdVVnVkeF9oWTI5UDhPWG1DSWFXb3h1MmdfWXpnYVppY0EzZ1J0WnRCSnFwWHNEMnF4cWxKQVp6QVc5UURJS0ZmU0E0aWZKMEdGTGdGZHVBZ1h6R2c4VQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ISO 9000 Standard: Benefits and How to Achieve - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ndG4wVzhCVy1odkpTeGZvdXZJcGlRcmJPLWhoLWw3MzIza1Z0Y0dqRzdNUDFLWlBKTGZGR3hETTh4d1g4blpJd1Vac0NtTlljZTcxNmhyVUNhTW9BQVE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(PDF) Benefits of the ISO 9001 and ISO 14001 standards: A literature review - ResearchGate",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOW1EQnpVakhjWDJTbVBaRk9fbkZGNmJtR0RJa29uTnlYRXlDX0FEekQ5TnpIYThDZmFPUnFjRmJkX2t3Q2I1TWlXdjE0ZkZ1YUFqdmxuZzVmQktPQ1A3Qk5nN2RjR1Bvd3I5OVJ6SjY3d3VTdloyQU9rYWh6Y0hzM3NFeTY2MnEtNnJ4dWlJbnFGZkpVc1BWeHpQMDdQV2MtSE02TFZpaVdpUjBqRGk2aExlSVlUV2JnRGlv?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "FDA's nagging doubts about Sarepta's DMD gene therapy won't quit as advisory meeting looms - Fierce Biotech",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVdENHNlZVhaRTljWVBEUFVkem1UX0IxendMbE5uZERYQmZfbW90MWdIcUJNc1ZSV01tRDAtUjVvQm9EbFFTQm43cTFQY3JYdGtqS3RENUNOYXMwb3Y2VjAyajRBSV9KWkZoMWJhbWN0bXlhZ1NuWXZnYUJuX2RZNHVRbV9UWmlxTEVnc2lUMGhBRWZXM3hsZkp3bFlJLXRzWmFMTWdSVk84NjhvM2dJc1Q0WElEb1piZ1E?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Panerai P.9001 Calibre - Cigar Aficionado",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwdDlERUVVRTR6UWc2OEdxZUNHaE9YVDhSV3M4MUFxQWJJTFhkWWJtcU41SXQ4eE15aWlDalVrZ0NRMHF6eF8zUDlsOG1Vajlvc3VDRmp5QXg2TmJnN2p2TVVNeTQ5S2hyM3JtT1F3WGZ4S1U?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

@@ -2,34 +2,34 @@
   "ticker": "9008.T",
   "name": "Keio",
   "sector": "Consumer Discretionary",
-  "market_cap": 422084214784.0,
+  "market_cap": 410376077312.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.090757,
-    "PB": 1.0179594,
-    "EV_Revenue": 1.812,
+    "PE": 9.811961,
+    "PB": 0.9897223,
+    "EV_Revenue": 1.796,
     "ROE": 0.10628,
     "ProfitMargin": 0.09462,
     "GrossMargin": 0.24982001,
-    "DividendYield": 3.02
+    "DividendYield": 3.0
   },
   "technical_indicators": {
-    "RSI_14": 32.39189430250663,
-    "Momentum_10": -7.849212496772527,
-    "MACD": -62.54063949612282,
-    "BB_Percent": 0.0194840353528851,
+    "RSI_14": 32.106135158763124,
+    "Momentum_10": -2.801120448179272,
+    "MACD": -100.36830094750349,
+    "BB_Percent": 0.3108254307920426,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8983255582983817,
-    "QualityScore": 0.4084427900571023,
-    "SignalScore": 0.8263924852047239
+    "ValueScore": 0.8964583543927118,
+    "QualityScore": 0.4116294569690356,
+    "SignalScore": 0.7462168822112745
   },
-  "volatility": 0.0184967442958729,
-  "beta": 0.283,
-  "return_6m": -0.1453544061302681,
+  "volatility": 0.0182572912420227,
+  "beta": 0.254,
+  "return_6m": -0.1138917262512768,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 4,
     "target_mean_price": 4300.0
   },
@@ -510,16 +510,20 @@
       {
         "date": "2025-05-30",
         "price": 3505.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 3470.0
       }
     ],
     "current_price_data": {
-      "price": 3505.0,
-      "change": 23.0,
-      "percent_change": 0.66
+      "price": 3470.0,
+      "change": -35.0,
+      "percent_change": -1.0
     }
   },
   "news_sentiment": {
-    "summary": "Les titres r\u00e9cents concernent la politique \u00e9conomique am\u00e9ricaine, la gestion d'ordinateurs portables et la gestion d'ordinateurs Android. L'un des signaux les plus forts est le signal de l'administration Trump sur la possibilit\u00e9 d'une r\u00e9cession en 2022, qui a provoqu\u00e9 des incertitudes sur le march\u00e9 boursier. En revanche, les outils de gestion d'ordinateurs portables et Android sont utilis\u00e9s pour r\u00e9tablir des p\u00e9riodes de fonctionnement normaux apr\u00e8s des probl\u00e8mes d'unbrickage.",
+    "summary": "Une synth\u00e8se courte :\n\nLes nouvelles \u00e9conomiques r\u00e9centes concernant l'entreprise cot\u00e9e ont pour tendance de mettre en \u00e9vidence des signaux n\u00e9gatifs. Le pr\u00e9sident am\u00e9ricain Donald Trump a d\u00e9clar\u00e9 r\u00e9cemment qu'il ne peut pas exclure un recession ce qui a amen\u00e9 de l'incertitude sur le march\u00e9 boursier. De plus, le changement de politique tarifaire a eu un impact n\u00e9gatif sur les march\u00e9s mondiaux. Les \u00e9v\u00e9nements marquants concernant l'actualit\u00e9 globale ont \u00e9galement contribu\u00e9 \u00e0 ce sentiment n\u00e9gatif sur le march\u00e9.",
     "sentiment_score": 0.0,
     "label": "NEGATIVE",
     "positive_ratio": 0.0,
@@ -527,38 +531,7 @@
     "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Trump doesn't rule out recession this year as tariffs bring uncertainty to stock market - WFAA",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcUt4UHY4aTI3XzBMNHBLS3kzRDAxRV9mU2N5UG9LMnJSOHo2WTF2S19TbzluX0JLdXR1SEVlQ2NvcUQwZExxLVZZMUMyQWdDRS1BZzU0RkY1WkRhZ1N0b0xDcUJnaWVsSXlPRW54UjFEalZLYTRKcHBaWHlYWmk2LVg4dXNVbGpiUUExQTRMQ2NJOWJCbHh3d0FqZ0dfWnBfTEVSaGlzdnpvSmU1SGdsVWs4X2hSc3hEZ0xHdHdtbWRvQWhzbTYtLUpHeXhHczA5SVE4bjdxZWJRdnhTdUZXUlcwc0JJSmpWU0ZPeUI4QTNyNk01YkI4N1RfcUNoTlZpUW1pRGt3ZFMtazlZVU5jOHNhS08?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here's how to revive your Nothing Phone 1 back to factory firmware with this unbrick tool - XDA",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04bGtDQlliT0U1MzRvLVpKYmpJMmRNOUg4ckMtdzM4eVNQYkdyZloxQ0JzeWxpc1F6aDhiQXpnY21WTFBLYWstamw0U1U1RWFQbmFmNUR4bWROYzh1VGxUSDU5b3kydkVudFA4NlRvUkFIZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "64 bit) - Get Droid Tips",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3RzFKdGRZYUZacjhCeTEyYTEybVM1ckd6dzBPdUYwNExVQXZwbFhhX3pSYVNkM2RYNmp3OEVoazBrOGtaNEMyYk9lMGY0MDhXOG5ZRDMxOHRRbU9NQl9RdFdDU3dqbGlGWE1zR0QyTHhxRi00WFpEcnl3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Download Qualcomm HS-USB QDLoader 9008 Driver | April 2022 - Android Jungles",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zaDlWT25JTkhiMVl4ajVzMjFmR1c1dEhLTV9WWGtJRFZxZTZsYjktVmhpNTk1djVXQnJYSzcxVTB1bXpuaGlQV1I5TmpmbHFPdHQ0NUtVOW1FVmY5MWNWQm9SRFVSSUVoNnM0X1hvVjdweGI4dndR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Realme C3 RMX2020 ISP PinOUT | Test Point | EDL Mode 9008 - Get Droid Tips",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSEpGNi1acVkxOUdUYm9BQl9nNHZEb2ZsSElkbjR5ODBaZWl3X0ZyZ29xVWlXUTBQZUhMR24ydUlucS1NbUhONXEyNmR4T1hRRmdaaWYtdmRpYWpwbGx2SjMzbkNoTEw3Unc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Download OnePlus MSM Download Tool to Unbrick Their Device - Get Droid Tips",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NcW5WQjFJSjBBWEVMWEdONWJKdVh4NmVSNGV4Z0ZrWVkxcUV5Y28xMm5EWUJRQkZUTVVTc1U3OHdpWEU1TmVTTWhLdWsyVDF2a1dLZ2E3T1BCSGk3SEs5dDFxX0VBQQ?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

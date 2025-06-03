@@ -2,32 +2,32 @@
   "ticker": "POR",
   "name": "Portland General Electric Co",
   "sector": "Utilities",
-  "market_cap": 4675152384.0,
+  "market_cap": 4660916224.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.874564,
-    "PB": 1.2161007,
-    "EV_Revenue": 2.923,
+    "PE": 14.985916,
+    "PB": 1.2123975,
+    "EV_Revenue": 2.914,
     "ROE": 0.08325,
     "ProfitMargin": 0.0884,
     "GrossMargin": 0.46845,
-    "DividendYield": 4.94
+    "DividendYield": 4.95
   },
   "technical_indicators": {
-    "RSI_14": 52.29460906737049,
-    "Momentum_10": 2.227012314548476,
-    "MACD": -0.2024807176323548,
-    "BB_Percent": 0.6683887263092272,
+    "RSI_14": 51.52051567768036,
+    "Momentum_10": -0.3045145411099545,
+    "MACD": -0.0266116773371081,
+    "BB_Percent": 0.6387344448124128,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8660328402965878,
+    "ValueScore": 0.9334382914305822,
     "QualityScore": 0.4543040672554009,
-    "SignalScore": 0.7552804594421255
+    "SignalScore": 0.474211203649334
   },
-  "volatility": 0.0133794406305708,
+  "volatility": 0.0135949073585883,
   "beta": 0.597,
-  "return_6m": -0.0663161790582138,
+  "return_6m": -0.0776376390444735,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 42.4
+      },
+      {
+        "date": "2025-06-02",
+        "price": 42.58
       }
     ],
     "current_price_data": {
-      "price": 42.4,
-      "change": -0.15,
-      "percent_change": -0.35
+      "price": 42.58,
+      "change": 0.2,
+      "percent_change": 0.47
     }
   },
   "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant l'entreprise cot\u00e9e Portland General Electric Co. portent sur divers aspects de la soci\u00e9t\u00e9, comme ses revenus, dividendes et projets. Les signaux positifs ressortent des trois derniers titres, qui la pr\u00e9sentent comme un dividendaire divis\u00e9 en deux et une entreprise dont le management est consid\u00e9r\u00e9 comme comp\u00e9tente. Les signaux n\u00e9gatifs se trouvent dans les titres qui signalent une baisse des revenus ou de la marche, tels que la downgrade de Keybanc ou le manque d'\u00e9clat des r\u00e9sultats de Q1 2025. La synth\u00e8se courte",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
+    "summary": "Les titres portent sur les performances financi\u00e8res de Portland General Electric (POR) et sur la croissance des revenus de l'entreprise. La majorit\u00e9 des articles signalent la forte position financi\u00e8re de POR, avec un dividend hike de 5% et des revenus croissants.\n\nDeux articles mentionnent la croissance de l'AI data center de POR, qui est consid\u00e9r\u00e9e comme un facteur positif pour l'entreprise.\n\nL'article de Benzinga cite trois utilit\u00e9s avec un rendement dividendaire de plus de 4%, dont POR, et il offre des conseils d'analystes pour chacune de ces entreprises.\n\nL",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
     "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Portland General Electric Co Submitted Regulatory Filing With OPUC To Request Recovery Of Revenue Requirement Associated With Seaside - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYkJSY0hxTmpjZHhSSWF0MnFrMXc1d0tZdUlZMThkYXc0Mk5Jamt2MmVlelg5ZU9aZzN1WXNmUzYzV0JuUjViRFBnRWsxRENXLVM0MW1TWkFxbTIzVzFJVHNnc2IyZVpXSVFXaHg1YVdhVTFDUW80akZEQnVkbnNpOVU5RGMxNGJrWC1ub1JnU2pXa3ZkbmU5cmhTQXZ0cDRaYUVxdEgyeDBoNzBGb1Z2YjFEUmF2MWNRVm13aVJZMkhIQ2FjSXZ5Mnh4Z2YzbExYUE5nVzhZdUZ1S3pRQ3kxWjJ3eU44VEtUYU1XVEdZM1Q4OG5PMXh3WE5hT0J2Y2prQlFsTVNDNkZrTWdfbEdTcTluTkYycThQaXc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portland General Electric Boosts Shareholder Returns: 5% Dividend Hike Signals Strong Financial Position - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEFyXzBGelU1Z0prUm82ZVA3cHJ6eVBDaEtvTFFFTHhKWm11XzVvTkxyYVBCNHNITlJtWU9qaHRla210MWRmVEpfVjhwUmZOZGtEb1gwNlRNQnVZTVY5el9MWUNsdEZZSzZlOElCMV9HcFlyZlpJYjNDblkwWmhOX21YMUk3eWI3UHNnM19YQ2xFZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Portland General Electric Company (POR): Among the Overlooked Dividend Stocks to Buy Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONnBUVGpGQXQ5cDlrYXFPMk1qSXRMUlQ3OUdPMW11blhmejV0aDRqR3FkRHdwVG5rZklTQXZsMnZfX1NKVUkwRmFVV2tKS196TkxMMmp1Z2ZUeVBEV1k4NEowVlBmY2pVemRBMnYwVGNObGdJOXV3OHVxQUdKRS1lcG9RdnFOQVROcmE4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portland Gen Electric (POR): Analyst Rating and Price Target Update | POR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmxVaG00bzVGNHNPQ25FbUlwYlpHUUpMaTFrR19oTGRlQnhBZGZBSGVrLTZ0azRPOTRhNEZhUVgtTDlUUUNKLW5iWmdwTGpxOVBEVmJOeHBPM0NSSTVNMEF5dnJJWm41Z0xBQWdudm1QMTlwYWRfUlBtSVdad3VDQlo2SnVHejFXODBuWFVCeFR2THdxMXY3dzRlZmZwbUlEcU8tZmRZR3l2U0R1WGQtWUltYjJ2UXJqZWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portland General Electric: Bullish AI Data Center Demand Amid Environmental Risks - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWV9VYnZLNDFsc2ptMWxrTFY1M2NVUkt4Q0huS2RRTVVVR0hBRElteG5GS09kcUtsY0MwUzJyRVJqUndyM2tVVUZkSm5sdGdRNU5qSTRCYzNsYjFqOXNra0VRZm1GSnpZcnhicUprS1F2R0dwOVZJa2h3MFcyejA4cnV5YjJzWVozOWRYekY4R2tKLXZERVNFT012TjQ3N3BuSDZnRWU3elZuNGY0SjlneUlTZGsxdjVZMmlURmZn?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Wall Street's Most Accurate Analysts Give Their Take On 3 Utilities Stocks With Over 4% Dividend Yields - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQW9OVXZyWThWQnR5MTJGRWpPZjRnNkJmejV5RXpVdDR6T3ZDNklZR1JWdHJ0ZWNmcFhPM3cyVlNrT3cwT1JDVlJxcFJ4RWtuaG43ZHlKQnpzQlREZG52bmVBdFJDeF9MejVlU0lGZ1FaclJ1UUIyRjlVSHdiRHJ0bWFRcWhVOVJsdmdxV0NtMExLTlBvVHdSZUxybFFOOUg3MkdRY09oeXpBTDFIWHpYN1cwRkY5c2lSdUlOTURBdHJDWEp1RUd0aHdXVGphN3J3YVJoeDdOWVV2NW40ZDdldEFENVZsUTlqVENMd2FXQ2pyNE01NkZRWUNhU3N1VWVyWWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "We Ran A Stock Scan For Earnings Growth And Portland General Electric (NYSE:POR) Passed With Ease - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmQwUUphZmo2WkpKMG1tTFVQOGxNaDR5bDBMNnpSbnVQNU9YWDVPTVlsclpBQlhucWQ2WjlYLVZMS0tETzA3MkwxTjBKQ1FETVpjVXZzYkVQVC1CNjVHb0d6RVRpRFh2QTZTWXMwckNhYVB2VkJ1bTM2alA2QVg4RXcyb1VRTkZxU2FFRnJ3aEREMS0xa3BIMDVrWEZwUHRHOGp2blB1VG5GVEZNLTRueFVLMXlNNVNwLWxqTm1yRVVmdWZfVnYyaTVCd3VuNG5Lb01KNUpvN0QyQdIB3wFBVV95cUxQN0Q3VF9acGdSMk5Nbm9UUDlMX0JlVjV5SWR4VDdwcVJTRndKeEhRdEpTM1VobExFRC1GZW0yLXlIR2ctd3MtTjBEQm42T1ZtNTNUdTc1WVlYTi1SRWtnNkVNeDY3bEc5bGduSDVEM2l1NXRJQk0xNnBtWWVWR09uci01X1JpaDZacXdUVzdGUk1DcUQwWUpwR3NIbVc2d0NWeVNhVDFOaUlSRXBQQUJRZ0NYYjZYU0Z5YU1BbTRQSDNRdU9MX2dvUGRLal9nUXJ6QVBzY0JJT05jVkp3RzU0?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Q1 2025 Earnings Preview: Portland General Electric Leadership Team to Present Financial Results - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZW5RYTJ6WElNVGgzX0FGbHZWRzB1dXVWSUdpVjV3MUhrVzVMN3gwNkRKX013S2tTblFjbEdQX2dYVzUyMG9jRDRRVV93SWY1dEFOdUpRRmNyMG9FN05Zb3BGSUIwRWdLbWVGMDlBdjJYc1pDQUpXanEzNzBkbTBOYVJpRHFoUGIyRUhwOHhMQ25TSEVDQU11M0hiUzBtaXJEZnZRNzFabVFRdjdmcUE2a2RST19OSzhWazJpSXhn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portland Gen Electric (POR) Downgraded by Keybanc | POR Stock Ne - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFNkTUp3VUdma09EUTVEbmFKVkxYMUhiYmlydV9ZbzZMT2pjWmNiazB1LVNYWi10al9NcUNndk9HUVdkR21xUVppM3pVNmF5VTJSVVJqb1U1OWlLOGNlZkh5RERJSHBiZWh3elJnNW1XUVpXZDJ2aGJrZFBzU2FGTHZPWWFmeTMyWGgtdG5sMUdvM0FNeHRnRmN6OWZMWnJsdVA4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portland General Electric (POR) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONU5HdVVKdnNyMDJjeWFpV0ZJMGVLanQ3cTJSQmtwc25POUdvUlBlT0RnSzkyeEtvT2FlZno4QkJ2NkpLQ0JEZ195X3RpZUxxaVNCVU5JcGsyVjNmaERJZk5LdUNhT01VbmF0M1NlMTN0MXR2Z0VhRTRNWGVBalJSakVzZy1rYTNFVUdpWg?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Portland General Electric: Small-Cap Dividend Gem (NYSE:POR) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT2x6SFdhbWo4b2VUR3FVREp6N1JuZzRhV0RNZVY4S2gxWHRveXA4UjBjS3VtZ25ieGp2dzNTX04ybjFCUW1Zd2JkTDAzbnVBM2pfSFh0Q1pOZXpORHdjZ3dCdkZOaU9INVN5ZXVWNjdhZmU1ZWFnWmxBTHVFWGFwMlhHYWpYeW10ZDIxUTYxRzV5MlE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Portland General Electric Company (POR) is Underperforming in 2025? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVmZRaVBpNHZ1eF9VTHJwRVljLW1xUVlFTU03M1pCRHRRVFFXQXp5YkZZU085WWhucTdYMVdjQ3VKb0I2U0tpRGMxYVBHTWxFYkZmZ3VwRU0zaU94SklTMHgxY19fVjV3d1QwNElORkZGQjZXZm9xWURKZ0Fwb2w2cVpOalBnYW1ESVNJ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Portland General Electric (POR) Downgraded by KeyBanc to Sector Weight | POR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNem9DeVVCbzdYNjRpSUhwSU9fRVpoajY5N2FOcGdKUExBbVp1MTVTVWlPZ2Nrc1lPd3lFMEhkNUNJZmw1WEs3ejBwTjdUckFIQmRjcnpRRm1odmluREtOemN6X2ZQRDdUU19yV1ozWFM5el92Wm1RU3phWlJmQkxLeDUzdFl6eXBUbU12bHB0MTI0bVhMT2hSbkVLV1FZSndUTkZYbGg4ck9YeGc1TVZJbWVoRVNsb2RRTW5Yb0ljMA?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is Portland General Electric Company (POR) the Best Mid-Cap Dividend Aristocrat to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZzRtcVZ6dmpUNWlzeGk0VU8ya3JadWQxdEZOWm9RVktIZWxwWW5Oa19yeHl3MXpDc2twcFdsRjg2V05YMFFXbWI2bGZiQ0JEcFV2TWphZWdRWTlFNWRVV1F6VlpBQXBLR01QLVU1eExtMUVsa0wzTFEwb2VuaFFGNFZzbnc2UEY1TWdF?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portland General Electric declares dividend | POR Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmtmSHZCQmphYkFMaXJPQVdlZEVvMzZzcHNiRkc1UTNFWWxyYS1oNl9Ma2t4Rnh3WjVDYS1EcEMzZHdaSWIxVGw0X3lpV1ZBdEJTOFBmQnJUQVJiRHU0RVJuYjBOcnV2Y3ZtZDF6a1IzcEIySmt5OXFQeG5QSmlfLTV1TXJjSFRsdXlUU1BVSVNnWW4tNDdkdUtyMHZEZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Portland General Electric (POR) is Poised to Beat Earnings Estimates Again - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2xtS3k4RWktMUZkTTZLU0JxOGlSX1o3Q2hCUkp2bDljVXFVcVdlUEQ3UU9sRXo4M1pBMlVDWjhLM0ZjbjlLYkhZRHI4YjV5QlQ1MFF4dExsNHlpN1lIYndLd3lrdG5ibzBIWDNHN01zb3dNbmY5RlF0UXBtSjFuSmpLY3djZw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "BMO Capital Analyst Rates Portland General Electric (POR) as Mar - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1h0TzRjdzl1MjlSeHNmbTJ6SGNmUmk0OUlMd1ctc09EdVQ4Qktja2lLczluWnZUQWl5ckp3ejMtRVVWUEY5dkExUW9jdFE2QzVES1JFVXVFTGo4NDI5Q2FvZGltOU9rR0I2NHZ5dENFVG9WSjY0cldXOHRFbVV6V1RGYTA3SjM5ZGdFMUlDYlVzUHhwS180YWdrN1k3SGV6QWZyR05JZWtkZjRDNm56N29CQVVaenFYaHB0NEdjM1VNZFpaenc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portland General Electric (POR) Q1 Earnings and Revenues Lag Estimates - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGh1dGZEcFM2MVl2SmJ3d1liaWhYUEkwdmRiYnk0OVFncFRaeUg0eTFiVjFnQU1veS1sTlowMmhSa3RPVjFzTk9qaU5TM2JxcFNFdmFNR2dxNTRZdEJULVFYNGdYaElWUzl2VWYtU2J5ZVZfM2V5V09fa3BJVnlhaTF0ZHM?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Portland General Electric (POR) Upgraded to Buy by UBS Analyst | - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVAtVGxTektvcjdrcTNQcHh4ejhUZ1B3SFlFc0t1WlZ3YUVCWl91TlJZZWNFVENka0llWmRSVy1UbERzSlpwalJkV3lkcG54TXVPUlVBX3doYVdaVlZLM1YwbVc5clItMU9KUFZWTjVUQ0VWNkhBcTBQQ3duUUpxdUhQRGJnRzhUeHFCMGFwTk0xQVJpOUhDeWF2NndPbGxMTzJ0Rk52MGhJR2VFYXNtdnhKQm8?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Portland GE Reports Q1 2025 Earnings and Dividend - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1ZtUVNtZ1R4ZVhuODlKZlk0SUplRlJhaXYxWEltOUs0Szhvdm80WnVSc1ptQVJUWk9NTS1WWUdBSmlNQmRURWdDUEdBSWQzR0F1dHFOMGtYWGppT0ZRbHNSY3A2R1c5TmRNb1VUTkM3Y05uZmJtSEs5eG9rbTNkN1N5bVNjS3hub3dpY1FTNDZkUHZ1djItOUo2dnlhMlNSTnRn?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

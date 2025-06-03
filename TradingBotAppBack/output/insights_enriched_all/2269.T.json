@@ -2,32 +2,32 @@
   "ticker": "2269.T",
   "name": "Meiji Holdings",
   "sector": "Consumer Staples",
-  "market_cap": 869563301888.0,
+  "market_cap": 873897590784.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.24138,
-    "PB": 1.1620646,
-    "EV_Revenue": 0.765,
+    "PE": 17.33663,
+    "PB": 1.1678568,
+    "EV_Revenue": 0.768,
     "ROE": 0.06848,
     "ProfitMargin": 0.04402,
     "GrossMargin": 0.29383,
-    "DividendYield": 3.29
+    "DividendYield": 3.26
   },
   "technical_indicators": {
-    "RSI_14": 37.335868393453126,
-    "Momentum_10": -8.65110984632897,
-    "MACD": -35.781864572997165,
-    "BB_Percent": 0.1058541978336451,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 43.198408005247266,
+    "Momentum_10": -0.3090234857849196,
+    "MACD": -45.93894640787675,
+    "BB_Percent": 0.4104648146007065,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9004534342356337,
-    "QualityScore": 0.4271145890824538,
-    "SignalScore": 0.8002490407002558
+    "ValueScore": 0.8983368516434509,
+    "QualityScore": 0.4330224240748853,
+    "SignalScore": 0.6638265070999385
   },
-  "volatility": 0.0136131694814325,
-  "beta": 0.096,
-  "return_6m": -0.0015641566197814,
+  "volatility": 0.0134549494628553,
+  "beta": 0.042,
+  "return_6m": 0.0212522584345482,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 7,
@@ -510,12 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 3225.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 3226.0
       }
     ],
     "current_price_data": {
-      "price": 3225.0,
-      "change": 32.0,
-      "percent_change": 1.0
+      "price": 3226.0,
+      "change": 1.0,
+      "percent_change": 0.03
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Synth\u00e8se :\n\nLa synth\u00e8se fournit un aper\u00e7u bref des tendances cl\u00e9s des entreprises de chocolat du monde entier, d'apr\u00e8s Insider Monkey. Les titres de l'article sont :\n\n1. Nestl\u00e9\n2. Hershey's\n3. The Hershey Company\n4. Cadbury\n5. Kellogg Company\n\nLes entreprises de chocolat enregistrent des r\u00e9sultats positifs, notamment Nestl\u00e9 qui se classe au premier rang du classement mondial des entreprises de chocolat. Les titres de l'article sont des entreprises am\u00e9ricaines et europ\u00e9ennes qui sont c\u00e9l\u00e8bres pour leurs produits",
+    "sentiment_score": 0.0,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": []
+  },
+  "extraction_date": "2025-06-02"
 }

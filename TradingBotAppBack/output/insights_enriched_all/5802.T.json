@@ -2,32 +2,32 @@
   "ticker": "5802.T",
   "name": "Sumitomo Electric Industries",
   "sector": "Materials",
-  "market_cap": 2070533636096.0,
+  "market_cap": 2350504214528.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.683675,
-    "PB": 0.9040058,
-    "EV_Revenue": 0.578,
+    "PE": 12.136587,
+    "PB": 1.0262424,
+    "EV_Revenue": 0.641,
     "ROE": 0.08939999,
     "ProfitMargin": 0.04141,
     "GrossMargin": 0.18807,
-    "DividendYield": 3.28
+    "DividendYield": 3.29
   },
   "technical_indicators": {
-    "RSI_14": 68.31100854174042,
-    "Momentum_10": 15.98951507208388,
-    "MACD": 89.46475738406662,
-    "BB_Percent": 0.8931599202939408,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 76.14335341691311,
+    "Momentum_10": 15.656178050652342,
+    "MACD": 175.8904657135563,
+    "BB_Percent": 0.8883334310016402,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9020907625522766,
-    "QualityScore": 0.3763835118532729,
-    "SignalScore": 0.4996181225265337
+    "ValueScore": 0.8995756119371741,
+    "QualityScore": 0.3703195552734146,
+    "SignalScore": 0.3518678376054049
   },
-  "volatility": 0.0367135879249681,
-  "beta": 0.4,
-  "return_6m": -0.0570058604155567,
+  "volatility": 0.0369531866433695,
+  "beta": 0.458,
+  "return_6m": 0.045679106668494,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
@@ -510,35 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 3036.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 3014.0
       }
     ],
     "current_price_data": {
-      "price": 3036.0,
-      "change": -12.0,
-      "percent_change": -0.39
+      "price": 3014.0,
+      "change": -22.0,
+      "percent_change": -0.72
     }
   },
   "news_sentiment": {
-    "summary": "L'actualit\u00e9 \u00e9conomique r\u00e9cente concerne deux principales entreprises cot\u00e9es, la BPCE et Total. Les titres de la BPCE ont plong\u00e9, d'environ 8%, suite \u00e0 une d\u00e9gradation des r\u00e9sultats financiers du groupe. Le prix des actions de Total a \u00e9galement \u00e9t\u00e9 affect\u00e9, d'environ 2%, apr\u00e8s le report du projet de gaz liqu\u00e9fi\u00e9 d'Arctic LNG. Enfin, le prix de la Brent a chut\u00e9 d'environ 13%, suite \u00e0 une production en exc\u00e8s dans le monde et \u00e0 une baisse des demandes.",
-    "sentiment_score": -0.5,
-    "label": "NEGATIVE",
+    "summary": "1. **FTSE 100 plummets and US stocks volatile** - Bear market looms amid Trump tariff worries\n2. **World's biggest gallium buyer says clients stockpiling**\n3. **Toyota Motor To Restart Vehicle Plants In Japan**\n\n**Investisseur francophone :**\n\nCette synth\u00e8se pr\u00e9sente trois nouvelles \u00e9conomiques r\u00e9centes concernant trois entreprises cot\u00e9es : le FTSE 100, le gallium et Toyota. Les signaux forts sont des plomb\u00e9es du FTSE 100 et des stocks am\u00e9ricains, ainsi qu'une hausse du gallium et une relance des usines de Toyota",
+    "sentiment_score": -0.333,
+    "label": "POSITIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "FTSE 100 plummets and US stocks volatile as bear market looms amid Trump tariff worries - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFhDN1VvaExhYnV4S2lJcUxRaFdvY0JKbjU3NGVLblVucVRVRkR1N21fX0RRaDhiN0NBNGxodks5YXhCVWVoV0JZQm5VLVB3RjY0eDM5anFpb3hVZktkRkNQd0V2RkRvTjhlRjlRT1B1SGJoZm8zeUNCdmh0RFRaRG1YZ1BiZDVHSWo0TzFkNU9oZTQzdW5KQTBqYlNqbnliaUE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "World\u2019s biggest gallium buyer says clients stockpiling - Mining.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHg5cGFCT0tCc1lOMUVTNjJ5a05DcnlUQU02RVpJM0hSU3FRd05feU5DYXFPYkx3VGM1ZktjaG14RmZmNEtJQzNxdElKZVZmbWx1RWg0ckpVQ0djRm5PVUhwLUEzTlIxUzYzLURROE5QZHhCaFN4LWptR1JjVEhYdUZoTEVSVW9E?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.33,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 2,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

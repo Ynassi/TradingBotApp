@@ -2,34 +2,34 @@
   "ticker": "ALLE",
   "name": "Allegion",
   "sector": "Industrials",
-  "market_cap": 12532219904.0,
+  "market_cap": 11992260608.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.455057,
-    "PB": 7.799914,
-    "EV_Revenue": 3.713,
+    "PE": 19.573736,
+    "PB": 7.4638495,
+    "EV_Revenue": 3.647,
     "ROE": 0.42051998,
     "ProfitMargin": 0.16279,
     "GrossMargin": 0.4449,
-    "DividendYield": 1.42
+    "DividendYield": 1.43
   },
   "technical_indicators": {
-    "RSI_14": 68.02139980330247,
-    "Momentum_10": 3.342089660575566,
-    "MACD": 3.883948868995475,
-    "BB_Percent": 0.8133073942859502,
+    "RSI_14": 49.068950632189825,
+    "Momentum_10": -4.202138933558995,
+    "MACD": 2.0159655238504968,
+    "BB_Percent": 0.0688182026734139,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8879769657860208,
-    "QualityScore": 0.3657468111035049,
-    "SignalScore": 0.581388966551321
+    "ValueScore": 0.8864068947662852,
+    "QualityScore": 0.3658702074635263,
+    "SignalScore": 0.6518279794761712
   },
-  "volatility": 0.0181133709364519,
-  "beta": 1.036,
-  "return_6m": 0.0584889877216487,
+  "volatility": 0.0182099239435477,
+  "beta": 1.035,
+  "return_6m": 0.0001861641694202,
   "analyst_rating": {
-    "recommendation": "hold",
+    "recommendation": "none",
     "analyst_count": 11,
     "target_mean_price": 145.47455
   },
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 142.7
+      },
+      {
+        "date": "2025-06-02",
+        "price": 139.15
       }
     ],
     "current_price_data": {
-      "price": 142.7,
-      "change": -0.65,
-      "percent_change": -0.45
+      "price": 139.15,
+      "change": -3.53,
+      "percent_change": -2.47
     }
   },
   "news_sentiment": {
-    "summary": "La soci\u00e9t\u00e9 Allegion plc a connu une activit\u00e9 financi\u00e8re active r\u00e9cente, avec plusieurs investissements et ventes de shares. Les principaux signaux forts de cette activit\u00e9 sont les investissements r\u00e9alis\u00e9s par des entreprises majeures dans le secteur, les ventes de shares par des fonds sp\u00e9cialis\u00e9s et le changement d'attitude des gestionnaires des fonds d'investissement.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.05,
+    "summary": "Les titres concernent des actions d'Allegion plc (NYSE:ALLE), une entreprise dans le secteur des produits industriels. Les tendances cl\u00e9s de ces nouvelles sont les suivantes :\n\n* Un investissement de Universal Beteilungs und Servicegesellschaft mbH dans Allegion plc (NYSE:ALLE) est r\u00e9v\u00e9l\u00e9.\n* Kera Capital Partners Inc. a pris une position dans Allegion plc (NYSE:ALLE).\n* Deux Sigma Investments LP a r\u00e9duit ses actions dans Allegion plc (NYSE:ALLE).\n* Des ventes d'actions d'Allegion plc (NYSE:",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.1,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Royal Bank of Canada Raises Position in Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWxSMEYyWUJjZnBsbktwRnU5TlVDM3JmU3B3cWtZM2FrRU1uSlpsTjRMOGJsVlJqUThKeExQNXFpb2FWZ3BiS1p4M2RFMlpsdUV5SDdwdFUydEE3b3gyU2tZMXB2dk9tdnpwQ2lFay1NaFdmZ1h6bEdLM25uSlhpOFpMREFXMzBXdzA3TjYyNmFhMUtlb2laZFJaR1BhbnFxdU0ycDFBai1nb0VXSXBaR3JYdU5yZXIzYjJvbnVLMA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Allegion plc's (NYSE:ALLE) CEO Will Probably Have Their Compensation Approved By Shareholders - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM1JkdW93RDJLbmpBVG9FcE1LdGZwUnpzNjB6T2JvRXhUbHEwT2FPM1kyR2tTUlRMZXNwTFREZUhXd3VXTjE2VkJET0FfclFBazYwUUEwQk5OazFfRjZ1dkJPRS1TZnVIN3BOZGJQcV8wYWdHaHdVaUxHLU5FQngzZ2VqemlZTkQwR2hBdUJPalNRdklBbWk3YXI4NEUwanlVUWRiWUNXTTVJYVFZY3hicXJxTG5yam01M3F5NHpzcHIxbFhGZ0FpNWdn0gHPAUFVX3lxTE9taFJBeXg2THBjYzc0cWt2bzBfRk5xUG15NW5RX2NJeUFrZ2ZXRnFOX2hkR0s1NmdSbXdQZjBpWEtMd3o5R1JfMzhWTGdfc2pMbllORVR6SkxvaTZxNkwtNi1xbUpCOGljemg2Rjk3V3B2UEhNMjZjMVNoOHFWN1JkSXZTVG03Z0pabGJkNkoyTTFRUk9GalRiSHlBWnRMSHZBZVdFQnc0MF9PRUlLN2dnaEhZWHFVMm5wYm1KTlNzTW5uUkZWNXhxX0pENV9QNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What Are Wall Street Analysts' Target Price for Allegion Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOLVBhaF8yRVVLWk90bTM5dV9jOC0xODM5aUkyNDhaLVVJXzIzYUk2NXhkaWIxLV9jeGd0UllzVEQtWW9Yd3M1Tlg1VlRzbnc2RDBSSkNxb05FWEdYX2hOSG9CLTJMcXEtbmV2RU9jQkFlWm11WmN4VklmXzVmNUY0Si0wMzRGa3VNLTUteGQwV2Z3dnJ5QTdtSy1hZDE4aWt0WVQ0UDFMUF85azI4M1plSHhmN0pmUGZNM19iZTM3RHBpajdlYXZyN2U4eTMtZHRCdGl1ckp5cG9ialE4bU83c004aTBNTE5hOXVYWkJoVGpGdkgtRmFmSkhPTW9QcXJVZkh0Qm5XZXkyQmJxODRpUW5IbFdjMUZCTFh0ZUxkNWkzbFVZRW1MYjJKUEUxRkVBNGJNelcxTkxndEw4MWtVM3hGSk55emNyb0dsLWsxeXJOYlJyd0NfdDVFY0ZYNmZQU21fM3gtZF9jbHUzc3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Allegion (ALLE) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGpaRGVEWXY4VDM2RkNMWEdTb2EyN3c0eFdVa29PdlB2OE8tSWlxdGEwNlEzbnJJYkF4TmNXQjBvUDBnWkFaOWFhbEZmdW5reW5xYmtqcjhUTldYeHNEMDdRTlpMZ1BmVEdrbnYzcWkwZFUtRmpQTzVTMkZZOGR3MGN3?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Amiral Gestion Makes New Investment in Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlV2dDZpVWxtc2dreWQ1YmhtQXc2SEtlSUh4VTJBUzVWUU9vN20xM09KdFNPdENiMVU3NUc2WEJXclZJeWJGN0ZmcXpYZFp3UXU3OFROejJrOUR4dnA3MGI3ZmxrOEJ1SXpwNTBLRmVNd015MkVyMVBaNllhNFozSl9ST2hRVE5wRXROWklGbnJPMmpjSEZCUDVxNlhxOWVzdVJKUkYyMThSYjBvMGlnUUZHaFB3N0d6blE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Allegion (ALLE) is a Top Momentum Stock for the Long-Term - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjJRLWd6Ry1rdlNyVXZPNHFYM2R5eEJUekdOdW83YnRienRsR1FYQktJMjV6SHVCaHdaS0JVQWVVbmc2UmNHTVY5MzVtT1dpNUdVWjZkRWNUZ19kRjN6WGtxRmx5eWJucVVXTmpBaThMOGhQcEZTbjloak01SlpOa043MDYzbnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Allegion (ALLE) Stock Outpacing Its Industrial Products Peers This Year? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTkpvblROaEpDSF9kOGJaMVJwRm1zTGxLckFhcG51X0dxLWJENEpKdTZyVmI3d3oyQVhrYWFwd2xpMHVuanQ4U3RiRkJKNTZuVUpNdnItU3NsRlk2a2d4TVEwVDJ6VkNLa2FGMVZjb1lVQzRoQi13S1NRbVU2WmhVU2lIbk9pTjhPR3pYd2x4dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Jefferies Financial Group Inc. Acquires Shares of 10,168 Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcDZyYUNYbXJYVnhuNWdlVlpJNFRHeUxpYi1fc0hkOHZyMkpnV1BOLVcwdjRHQWpHMGo4QkRnRTg3cWpxU29Cc3BoT2ZTc0ZtTmRNZWZCLU5JSzVOYWpyQk94M1BEQ2V5Rm0za0FhcmR5ZGNNc3hOMXdSdWtpVVZBSGItZ1VfaEtaQ3RWbG02NER5a2ktc0E2eGlXeERDS3RQQWNSaTJxaF8xZEt5T3N2Z0pXaW1FNGhmMlFvMGJUUzZjRm1RR183dGp2bFg3U0JPS0ww?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Makes New $25.84 Million Investment in Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOazlfUlhKT0JZcUxQNEZndU9ZVk04ajlSNTJPQW5VTDhCQXktLUZySHhVSGVIVVM3VFpaZGMyeWV6RF9mWTBBdWMtcW1YUG55RDRsWGZ1QW42WVVsM2JoYTdVbmRTZUNXZkM2Ykw4TE84ZVFySVdtMDlSR0RCSmNaYW5Ja25qUHZWa2Zud3lvR0tEWTE3eFlpNGY4UHRXTjRudFdGZU5DQlZDdGM5WVVXeDFWS0NYQmdmbVhuLUVxLUFrWFdiSXdjcWNBRi1iNVBoZzBqQzdTdmtCUVN1NXhEem5VMEwyaE5ObUc0R1Y1Z3ZyZjRaVmdpLV8xc0NDckk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Allegion plc (NYSE:ALLE) Shares Sold by Janus Henderson Group PLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHMxVGdLMU9kWGFMY2N1SDNoWVdfNWV6RXVrc2Z1TS1mb1o3T3hzTzktRUFxeDZlS3ZERlN4ZUtLeWt6TWV1Ym92dERtNW8yenBDUEQwSnJmemdSSHZBSU1ZRjdJYUZDUVFRd29Pb3pBc2ZnRDdWd1ZuZGJlN0QwbkIxci1CdzVmT2JUa094NEFnUEs5QjFZSWI5YVlac2dRNUVrM05aNjRRUGVKX1FGYlJYb2hNTldhQUJPRnBpWHplazVXMDdTdVBURk1jUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Allegion plc (NYSE:ALLE) Shares Sold by Two Sigma Investments LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0dZWGZkajV4S0FKTDF2cmhYVGd3eGtRV0gtRHl6U2xPQ1N4ZEdaZENUbklDZGpYTmp6ZVNvZnJPTnZaa1NwbWFwMkhVLVBYNGVTVnZnUHlsSWdtRDdwN25TSUwzRkFpRG9IUTNYTXA4RVRnWVZCY013RHFnS19Ta2JKSFBjS1VQVlFiWF9IbjRnQlFJbnVoYmRzQ3ExNUl4d0NSZlpuY3NiOGJhVm9JazhXMlNLQ2ltUU9xS3lmVQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tidal Investments LLC Boosts Position in Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdDdDS2ExbUo5MU9zY3puVUlNSmtuWmFfWUFNc1RJRkRWcGhpeVZKcDMtQ3dXUURUbzh2THFsb1lOelJSMXZOR3FPUk4yTjZYZTY5Z1UwX1B6Y1JTZDliTWx6V3FCNWtrTWtRZEZiWmZMbGR4REtUdUJtYkxtTkJCTjVVNmladU9Ra1hxbDhlaFRqVFhWT3dnS0VEZC0xWk9MRjNfWFlLLXhaQkgzWnBzVTBCdHhoTTRnOHpXNDNiRy0taDQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Focus Partners Wealth Makes New $308,000 Investment in Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQXFrVUhZZkxhNjdRU3FKZUVvVGpnWm5McXQzSFg5bUhtVDA0bFFLZllRX2xSNWtSVlRyTm5fTk5GTFZlc3dZWEw0cFRDQnBmNnhqMHhpX0lvX043cjBNdWdEU0swajZpQkJOZlhNMHY2Zi0wNzJPYmpLQjZFVjVXV1VqVDhzc0d5ZTNSdlRFelFZT192MXp0MzdoNWpjVW41cXNvN0haWUF5QXBhZXRFVEhzTmp2WGg3NkFHQ2REUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Nomura Holdings Inc. Purchases New Position in Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUEwdEVqU1VrM3ZwTEJZaFZZY3NaX1MyVzFqN3BTRERiaGpEY0s0SnhSNzlldGJKNU9jS1g5bTZPYXNpRHdEMEh2bEY4RzBzTDRCQm9VOS03VDBKYWlPQ3ljMDJfTEYzX1pHTzc3emtnc3Q1dXBnY2dMTElUVF9yWFFWYVUwNXd0dVdhdGZja0pnclRFbm1JemZMYVVIWGN6ZlctX24tTEtrMlUzSlVSY1N2VWswX1laUE1neEM2b0Y2ZWJhOS1OTy1BS3h1UQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Worldquant Millennium Advisors LLC Sells 10,486 Shares of Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUZJNHllWjFrQW5GYnlyLUpZbWVEN0dxQ0lsVDVTbWUyYnlVLWJwNEFtQzFYMFpoc0xfejBhQnppcGtGMlVBeTJHNkJPa2hYSkZud3I2RC1sdUZaa21RNGp5cTdsU0N2Sm9UYnBBU20yVUZuNGtaWmxlYnE2WFJDeUhGZ0ZrdUpSSWF1Z2pNWWYxdHJad1JHdUtORUF3M2piWE9yQndvRDJKZ09RVDJyeFpOWXBScU1BQVQ5T3NFQWtQUnU2dHZlYjUzWDI?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Woodline Partners LP Takes Position in Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFVxMU0xYVdWV2FtTkFyaU55NDNaVXZtSmpZdHJsTEp5STZXNEh6bFNfZXM5ZFF1UXJEUmtqOGJWM2hnb3FHcGN6bmFUSGF6WTIwTGRqQ3ZWeGxMUDRRdzRkMnd5Z1JBYTNOa1pKU0E3R1QtU1RWYXRrWm9ITi02VXhvZHZ0MS00UjlKTXdobWhTaUw1YV8xRlVBb3BuWlpaeWQyWHRqMGdPZGpfajBubF9ERV9sWjhLazB3aDZkM0tiaUZjaDY4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Allegion plc (NYSE:ALLE) Holdings Cut by Millennium Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYWtLOWlPdHZqS0twaGQtNGRmRkhZOFF3YjNuU1VRMjRVZzV5SjlLZmx1TmFSX3JtdU4zQkFzUlhORzljWjN1Rkt1bGFpU1phRWhxRHl5U3haUUU5MTRmWnhxbWdVWE9Cc0w5VklBMWh1YjVHcHBEMEg0azgzempvRE53VzhPYXNRR0sxYTFlcktfM0NncHJiU1c0cXZVUXFSX3JnVW1tTTYtNUh3VnJockY1QlFPenZVSWZ1dTQ5bFhXUGNpS1E?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Squarepoint Ops LLC Boosts Stock Holdings in Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS09iTThqTWNjb1ZLa0lVLXRFQnFRNlFab3VucHhZVzRzbHEwNERhLXFCM0hZQ0NKcGs0Ym93bjNkQTdvQlVrZ0VHUXppd0VJVENEYTJER1lzOE9YTVpvT3JfUnBHSFdrOEVSaWc5NEJfSHBXS2tON0MxT05RcGdXMG8xMkxrOWxoWjVLQ0tKMU9RcjFvZVBzRGw4V2YzcW0tOXhYUWlRU1hvcmxqRVBfQkp4MUZ4U29mdF9IZUJxdklsOTBjYWZaeVJ3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Reduces Stock Position in Allegion plc (NYSE:ALLE) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSmpyeF85S0QzM1RBdGY0U3A2VlFEd1lBX01XQURkUS0tdnVrTDBaTk1wQW5pSF94Yllfc3loRmZ2Um0yVVF0cXRNbUQwcTFSOXZzZm1sa2hJVjJEVGo5YV9WOWRiaURJeW5PRFFvTDNlVUtJbUNubWRCZm9jUzZTZFdlYlVPR19xdUdBVlFhc2VsX2N0OGN4Zng2UmlHLTE0V1gtZ3VXQnNFby1jNk0tZUQ1UXlIZG1MRjFYRUliRnRuUU5mX09JSWs2MGZYa0RpVnNKSW92akVwcl9zY19wVUpPVUxzLXlVYkFWTHBvMzdOZXR1Uk5Cckc2dHA5NGVQSGg4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Allegion plc (NYSE:ALLE) Shares Acquired by ProShare Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZHZYVzh5czZDYjB5cS1sRU9QeW1IOVY3VDZaZGtRbTNTTllhcEs1OG15ZTFnTkVFdXhpMHozTUloRVY2YXlnUkIwRzBZZmRiTC1BR0gxM0VNV1VVUEdKSEhudzktcy1xckRNNU1fUEhPV19RVU40QW4tTVNfcDFIUFJTV2hhZ3NTbHFkdVZ4TFhmU1VjbnJhV0ZoMzhJWEtnSU8tTDZsaFF2QjB2UUtXMFRCdk94TTBTbG1KUTBYVVY3QQ?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

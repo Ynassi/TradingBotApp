@@ -2,32 +2,32 @@
   "ticker": "9532.T",
   "name": "Osaka Gas",
   "sector": "Energy",
-  "market_cap": 1438648238080.0,
+  "market_cap": 1462466904064.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.8695,
-    "PB": 0.85187966,
-    "EV_Revenue": 1.098,
+    "PE": 11.0584135,
+    "PB": 0.8659836,
+    "EV_Revenue": 1.107,
     "ROE": 0.08076999,
     "ProfitMargin": 0.06497,
     "GrossMargin": 0.19601999,
-    "DividendYield": 2.88
+    "DividendYield": 2.86
   },
   "technical_indicators": {
-    "RSI_14": 58.61625794786428,
-    "Momentum_10": 0.1935305501797069,
-    "MACD": 69.46411730680165,
-    "BB_Percent": 0.6017056098426486,
+    "RSI_14": 63.081435518026986,
+    "Momentum_10": 1.32013201320132,
+    "MACD": 40.125678661486745,
+    "BB_Percent": 0.8755873698668682,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9004854352060854,
+    "ValueScore": 0.8984061990946911,
     "QualityScore": 0.4238033773326044,
-    "SignalScore": 0.6293773626875376
+    "SignalScore": 0.5370171403944541
   },
-  "volatility": 0.0148274498649807,
-  "beta": -0.16,
-  "return_6m": 0.1172926237962437,
+  "volatility": 0.0142643958974007,
+  "beta": -0.172,
+  "return_6m": 0.1326904752646869,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
@@ -510,30 +510,16 @@
       {
         "date": "2025-05-30",
         "price": 3673.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 3684.0
       }
     ],
     "current_price_data": {
-      "price": 3673.0,
-      "change": 24.0,
-      "percent_change": 0.66
+      "price": 3684.0,
+      "change": 11.0,
+      "percent_change": 0.3
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se de l'actualit\u00e9 r\u00e9cente concernant Intel :\n\nIntel a sorti trois nouveaux processeurs Xeon E3 v4 de la s\u00e9rie Broadwell, avec des consommations de 95W, 65W et 35W respectivement, et avec des modules d'ensemble de m\u00e9moire (eDRAM) int\u00e9gr\u00e9s. Les performances sont positives et les nouveaux mod\u00e8les offrent de meilleures capacit\u00e9s de stockage. AnandTech a publi\u00e9 une review d\u00e9taill\u00e9e de ces nouveaux processeurs.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "The Intel Broadwell Xeon E3 v4 Review: 95W, 65W and 35W with eDRAM - AnandTech",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamllV2VpTTV6WG9VMDlDZGNoZHhOdkVzODVZSEdPQzQyTVlVVzhmRTF2RlRNYXd6WUlSbF81RGtfZWgtOG5uRUN4OEtvZ2xuaktYMzFFdDEyTGt2WVF3MFFEZmZxZFhTa3FsV25zWEZqcllKdjg4OHJUc2JfVzJKb2t4ZEZRczBSeU1Tc2xsRUI4ZjhmV01qbl9nNGp4bGlFZGhj?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-05-16"
+  }
 }

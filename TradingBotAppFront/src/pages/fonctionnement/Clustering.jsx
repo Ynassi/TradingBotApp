@@ -6,13 +6,14 @@ import InfoAccordion from '../../components/InfoAccordion';
 export default function Clustering() {
   return (
     <Layout>
+      <div className= "mt-6">
       <h1 className="text-3xl md:text-4xl font-bold text-center mb-10 tracking-wider">
         Regroupement par Cluster
       </h1>
 
       <p className="text-gray-300 text-sm leading-relaxed max-w-4xl mx-auto text-center mb-10">
         Dans cette étape, les entreprises sont automatiquement regroupées par profil d’investissement à l’aide d’un algorithme de machine learning. Contrairement au filtrage fixe utilisé dans les étapes suivantes, ce regroupement est dynamique : il reflète les similarités observées entre les entreprises à un instant donné, et peut donc évoluer chaque jour.
-      </p>
+      </p></div>
 
       <InfoAccordion title="Méthode de regroupement utilisée">
         <p className="mb-3">

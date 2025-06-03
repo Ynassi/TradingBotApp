@@ -2,34 +2,34 @@
   "ticker": "5101.T",
   "name": "Yokohama Rubber",
   "sector": "Materials",
-  "market_cap": 548597661696.0,
+  "market_cap": 564992540672.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 8.764197,
-    "PB": 0.64921194,
-    "EV_Revenue": 0.944,
+    "PE": 9.028162,
+    "PB": 0.6686137,
+    "EV_Revenue": 0.967,
     "ROE": 0.07677,
     "ProfitMargin": 0.05696,
     "GrossMargin": 0.35331002,
     "DividendYield": 2.8
   },
   "technical_indicators": {
-    "RSI_14": 67.30998634122747,
-    "Momentum_10": 11.36,
-    "MACD": 67.92417761647766,
-    "BB_Percent": 1.0283607457981692,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 65.31378646154204,
+    "Momentum_10": 4.428904428904429,
+    "MACD": 116.73390836379532,
+    "BB_Percent": 0.8121708211761846,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9013534248095008,
-    "QualityScore": 0.4258678795939609,
-    "SignalScore": 0.5318911056543574
+    "ValueScore": 0.8992282252836319,
+    "QualityScore": 0.4240638324471503,
+    "SignalScore": 0.4920445351205241
   },
-  "volatility": 0.024859019160508,
-  "beta": 0.223,
-  "return_6m": 0.1550511772153293,
+  "volatility": 0.0249993174699479,
+  "beta": 0.239,
+  "return_6m": 0.1946452781607099,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 9,
     "target_mean_price": 4026.6667
   },
@@ -510,60 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 3642.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 3584.0
       }
     ],
     "current_price_data": {
-      "price": 3642.0,
-      "change": -5.0,
-      "percent_change": -0.14
+      "price": 3584.0,
+      "change": -58.0,
+      "percent_change": -1.59
     }
   },
   "news_sentiment": {
-    "summary": "Voici la synth\u00e8se courte :\n\nLes tendances cl\u00e9s des actualit\u00e9s r\u00e9centes concernant l'entreprise cot\u00e9e sont orient\u00e9es vers le d\u00e9clin du march\u00e9 et la d\u00e9gradation des r\u00e9sultats financiers. Les signaux forts sont n\u00e9gatifs, avec des divides n\u00e9gatifs pour les entreprises cot\u00e9es en question. Le d\u00e9clin des cours des actions pourrait se poursuivre, et les investisseurs francophones doivent rester vigilants sur ce point.",
-    "sentiment_score": -0.143,
+    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant une entreprise cot\u00e9e que tu as \u00e9t\u00e9 charg\u00e9 d'analyser sont divers.\n\nDans la premi\u00e8re nouvelle, il est signal\u00e9 que Legacy Wealth Management LLC a achet\u00e9 5,101 shares de Meta Platforms, Inc. (NASDAQ:META) pour un prix de march\u00e9 de 302,82 USD. Cela pourrait indiquer une confiance positive de l'investisseur dans le secteur et l'entreprise en particulier.\n\nLa deuxi\u00e8me nouvelle rapporte que le FTSE 100 a chut\u00e9 et que les march\u00e9s am\u00e9ricains ont \u00e9t\u00e9 volatils r\u00e9ce",
+    "sentiment_score": -0.167,
     "label": "NEGATIVE",
-    "positive_ratio": 0.14,
-    "neutral_ratio": 0.57,
-    "negative_ratio": 0.29,
-    "bullet_positive_count": 1,
+    "positive_ratio": 0.17,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.33,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Legacy Wealth Management LLC MS Purchases Shares of 5,101 Meta Platforms, Inc. (NASDAQ:META) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYXh4b25tc2ZVMGhiS01UcHhDQXo4S0lPU29KZzZyMmRBZFF5RFlURXFQREpHNFNRcWFaVnlnbXJNVktmXzh1dTdZS2NtMzhYUHhpYTlTNk14S0pBeHN4ckQ0dExVMkEyQ0g3X1FPbFNDOHAzTEdrVnFKcWt3Tmw5N3U5aG9Vd3VIYnQyYlZVcDY5bzliNkRIYS1nbU0wb0Zvdzh2U1JFd05fZWNTcnZFcGJwNmpSOUZhNm5MaEFaVFlPODlNcXVFbTZId2hxUThmX09FbFNLTHcwejEzQ3c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Yokohama Rubber Company's (TSE:5101) Dividend Will Be \u00a548.00 - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVRYNlk3Z2N3NG1MeDB0NmhIaWg3YXliU2tvOG1aNHAzOC1MOWs2Z0pQVVFEbUtRUmtMbWhQZmkwNVdoNENjU1BPdTVndWNEOXBWc1NvTUhEdkhaM0JIejRDR2Q5RUpHX2J2eHI3YlpwaHRwZ3dvQUZUcXUweHNtQVdIVE5iWlJlWWJpMTNINUlyNVFXMkZGQXhyT0ZNWk1RTWlNcE11TkJZY2F4X2hvazl5VDRFTU9uTDhHMVZRQlVfTHRIelNOdmYzUmdTRERl0gHWAUFVX3lxTE1EY1lIUHhsSWl6dkJtbm1VUFRQcjlBQXZiMXN4T01IUGV5clFKTXk5dUwtajZySThINlJBdTRkTlZ1LVVCLWJQM2JwWDhEYVk3akxIUUJGOWszbWtpSUxoNTktWEtfdHlxdXQ2Y1R5OW5OREh4enBSMGZ6VVlPaUdfQ2xzaDIzaHZqNmtyMzBucGYwNV90OXdINkZ2c2E1bUUwUDBPUlZVYUJ3TEJmdFB0SmNuaHpScl9LWkh3dnFzOWJpQ20wN2hwYWthUTdFQkVDbVZZdWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Damon Motorcycles Is Probably Getting Removed From Nasdaq, As It's Lost All Value - RideApart.com",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1RTbG5RZGFrWFNibzZ3ZkRiaHhuWFBCTW1UdTIxVWY2a3BkRUNGVm1CREx0Q3B1cl95YjFsak8ydml0bGJ4ejc4SFlVRzl0M3FIWlczRGF1ME5XWEFiTERMMGYxYkZwUlFQcXhidTVyMzdzM0tzZEVGQTM0cGpPeDdjRXUySXVmUmpFbU1wZXg5dFl5c1hmSmVkRHlBRjg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Analyst Estimates: Here's What Brokers Think Of The Yokohama Rubber Company, Limited (TSE:5101) After Its First-Quarter Report - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHR3eUNOM2dHX1ByYzJWbDBENExTN0Rwd0hpMGE4enYydktHNVlFZ1g5M2lZb1hlNWYyTVpNZWtoQW1uOGViY3NGSk9wUllrZHExYlJxTEs5T0JyN3ppTXlkaEx5Z3BXbmdfcjBxeU5PelV5MFYyNFNaT2gzWm0tOXM5TmJEOW5USVY1Tm1ZOVlhOGQya3VieTVfeXhWRGU2eWVPQWNFOGhOUFlZZDNVM2E2RGZQQkdBZm43NXFNcFBaQjJycTFETERBQ1pYNFpEV2Z5NzR5V03SAd4BQVVfeXFMTW9vd0xKQ0NTUXB4Q1Nob0ctUlh3cllSVTdlb0dYT29uTXRHZTBWdmdUREhFejlTVERWNlE3U1lTbTlLRjQ3MWVyVnVUWjcwbXJpSjVJeWhZTjN6X2tYbXBlRkd2cUlINXBBQWpHMWZzQ29mNnBVZ0Z0d3BJZS15N0dvcjNMcDBlVFRXRmFRaHMyckRDNTd5V3dnZGZuQnNNS0xSUDZBaDU2Mk55c3pnaEo5V2lqM2pRenZWOTN1TmxCZEN5VXV0RjJrMGJITThCVDBaZVhWcEZ3dUlaSXZR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "FTSE 100 plummets and US stocks volatile as bear market looms amid Trump tariff worries - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFhDN1VvaExhYnV4S2lJcUxRaFdvY0JKbjU3NGVLblVucVRVRkR1N21fX0RRaDhiN0NBNGxodks5YXhCVWVoV0JZQm5VLVB3RjY0eDM5anFpb3hVZktkRkNQd0V2RkRvTjhlRjlRT1B1SGJoZm8zeUNCdmh0RFRaRG1YZ1BiZDVHSWo0TzFkNU9oZTQzdW5KQTBqYlNqbnliaUE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Disount To Net Cash For A Promising CAR-T Company - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVwXzlHbUJNNTR6bVh0UEEzOWg1Wi1IM2VPWXdURjVjaVBrQ0JNRGRQVWx0Sk90b0kwS1V6VVY0dEdXVW05MFA5OE81M1VtS20xSFcxOHBaRi0wMUpJQ19VSXBZODdrT2hQcmp3cWs4c0ZBd1N4ZnZ2YWp1N0M4OUNqaXJfM0FiX1daSVFla2xJSnVx?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Why people are paying more for tires - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZTZEZ2tScExJTUFQY1h5RWRHSThDZlNfS2JKRS1vLVBOSk9BWWdXV3R5cHdockpiZVZaaDNEcnZDS0ZRa3JaSm4yXzBlVjdhYm9Kcks5cFZMR2pvODBpYjc2MHV5ZWs5b2FWczZ2ZW1yM0tSY2ZDaGVucFpVd9IBgwFBVV95cUxPTUV3c1JSN1ZnMER5Yk5BNXh5QXJQUUdva1B5REpQdmdiNjZtYjlCdUpISUFOeXI3N2ZDTG5ja0g4dUktVWxhY2d6Ml9OX3FQUmlGRENpREgzZjczcFdYY1dTNGRxZVdEV0wzN3A3SHQtMHNuQXl3b19kYkktTWtYRi1nZw?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

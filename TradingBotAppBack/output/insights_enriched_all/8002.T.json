@@ -2,32 +2,32 @@
   "ticker": "8002.T",
   "name": "Marubeni",
   "sector": "Consumer Discretionary",
-  "market_cap": 4645379375104.0,
+  "market_cap": 4833839415296.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.284959,
-    "PB": 1.2842779,
-    "EV_Revenue": 0.869,
+    "PE": 9.737254,
+    "PB": 1.3363802,
+    "EV_Revenue": 0.897,
     "ROE": 0.14049,
     "ProfitMargin": 0.064559996,
     "GrossMargin": 0.14718,
-    "DividendYield": 3.41
+    "DividendYield": 3.4
   },
   "technical_indicators": {
-    "RSI_14": 74.84828884024967,
-    "Momentum_10": 11.15506329113924,
-    "MACD": 124.9159484046104,
-    "BB_Percent": 0.835830006020002,
+    "RSI_14": 72.59426551953064,
+    "Momentum_10": 4.671558976194738,
+    "MACD": 112.22780171369322,
+    "BB_Percent": 0.8893985264379191,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9012285829434332,
-    "QualityScore": 0.3437636238251785,
-    "SignalScore": 0.48358895099382
+    "ValueScore": 0.8990245179685953,
+    "QualityScore": 0.3370048108945565,
+    "SignalScore": 0.4539981985270093
   },
-  "volatility": 0.023199258027596,
-  "beta": 0.694,
-  "return_6m": 0.1747491638795986,
+  "volatility": 0.0229308656687902,
+  "beta": 0.759,
+  "return_6m": 0.3068261942582899,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
@@ -510,125 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 2945.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 2924.0
       }
     ],
     "current_price_data": {
-      "price": 2945.0,
-      "change": 14.0,
-      "percent_change": 0.48
+      "price": 2924.0,
+      "change": -21.0,
+      "percent_change": -0.71
     }
   },
   "news_sentiment": {
-    "summary": "La tendance cl\u00e9 de ces nouvelles est l\u2019int\u00e9r\u00eat des investisseurs pour les entreprises de n\u00e9goce japonaises, notamment la Mitsubishi Corporation. Le sentiment positif est renforc\u00e9 par les commentaires de Warren Buffett, qui ont entra\u00een\u00e9 une hausse des prix de la plupart des titres. Le risque pour les investisseurs francophones est le volatilit\u00e9 des march\u00e9s financiers li\u00e9e \u00e0 l\u2019uncertainit\u00e9 des tarifs am\u00e9ricains et la chute des prix du bitcoin. Les entreprises de n\u00e9goce japonaises semblent faire preuve d\u2019une gestion des dettes sens\u00e9e. L\u2019actualit\u00e9 globale influence le",
-    "sentiment_score": -0.15,
+    "summary": "Synth\u00e8se :\n\nLes titres concernent la performance de Marubeni Corporation et les actions des soci\u00e9t\u00e9s de n\u00e9goce japonaises, notamment face \u00e0 l'incertitude sur les tarifs am\u00e9ricains. Les r\u00e9sultats de Marubeni sont en dessous du march\u00e9, mais Warren Buffett a \u00e9mis des commentaires positifs sur les soci\u00e9t\u00e9s de n\u00e9goce japonaises, entra\u00eenant des gains de leurs actions. Exxon a \u00e9galement convenu de fournir Marubeni avec de l'ammonia \u00e0 basses \u00e9missions de carbone. Warren Buffett a \u00e9galement conseill\u00e9 d'investir dans les soci\u00e9t\u00e9s de n\u00e9goce japonaises lorsque le march",
+    "sentiment_score": 0.0,
     "label": "POSITIVE",
-    "positive_ratio": 0.15,
-    "neutral_ratio": 0.55,
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.4,
     "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Japanese trading houses lure investors with healthy returns amid US tariff uncertainty - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWlXblN3OUo2SVp0TDJqSVcyeG1QMElMVF9TUUM2cm5FSThCQlpoQlFYc3QtWWdDNHRKckR4UkFyTnVMdTJ1SGcyTlhPaldGLUhkVDhKQmlzaTBJVzhiRmx6dzBqaHJNcjZxQzVIWnlhYXBIWmIzUmNsMmN6NGlIQ2FRczcxeW05M2tfV3ZjMnVPTDhQY3J0U2V0amdzeGdmZzNqUC1rR3FyZ0hJcGZfNXhkQkxJQUlEU0Ew?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Marubeni Corporation's (TSE:8002) Business And Shares Still Trailing The Market - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZFpGN1hqMXdWM3JMcUE1bm1QRnBza1Y5WG41SWdlZzNiTnY3Q0hZX290SFl4cFRVYmw5NWNUZEwzaU5lQUlTUExIVjdaRDlHNnJPaVhySXpqSXV4ZDFUa3JJd0FNUEl0bnh5UFdTeFQyNWlBdE91Rzk5OHp5WDEybUdrVjU2QUdtV0RFSEx3US1oajZDNC16Ml8yeDVxS2I5YUZ2VVJTUktFTEV5MDVEcE0xNEZiMmFLTF8yV1h4NHEzY1RYOWNaN282b2pmTTkxWGfSAdcBQVVfeXFMT0JTWHRNcE5iaHl0RW5jbjYzd3AwTzRubHg3Vk1TSDd4TktCblhrMFNFOHJyNnhKSkhPYnBCLUEzSWVneW9yYm1DNXRqZjRVUzR0eEpDQnZCS0ZzTmw5SGprMDJ1YUR0UmJwbWV6ZkN4X0c2YnVlXzJSc1Z0VzhQTjNYN0lqdVNBaENsczdIR3h0NWRVZ3VXTWJNZjVMWTRUNVZZSVU1RXJndUdZYkNaSVFkNW81TlU3bm1fY0VFUnczWFhBWmRONkRjdFE2QjlYbGpMeUV0V1U?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Japanese trading house stocks climb on Buffett's comments - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjJobGR2Smh5b2NDNzVxX1JhZ1U2N05FY25FN05iQklQb09kbG5nSXA5VEJkMUoxMWhRMjM5cXlqX3B4a21xb0FSVTE3RFJRck1waTY3STlIdjJVWDVjZHMyZXkyRXFaWmhpNnR4UU9xQ2JBcTFFQVFRanNDRkJwc1RyNzhiRmhHcGc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Marubeni Corporation's (TSE:8002) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORmNrd0dNV2J6M0htUmg1aU5jY1lmVXVXUTBaTmZDOHBhVXV6M3k2RmQyMHZTWm5kZTN2eFdySnQwSkNNY3RRLUVBLWFSZ05hWUFOLUlMRjBwMlo5RkJoenZ2M0RvWkdyT0ZVZWpGQnFQazFjU19fdXZUemdOSFJVRC1RYThKRTlZZlFqYVRIVDhLWTRXQkJabWlBNW42RUw1cUhIUk5Db1NWSUE4N2g4X0dwVzVxSURHZUg3d1VkR24wanpFTUg0MWN1T3p1OGtDb3fSAdcBQVVfeXFMTW1aS19ha0l3a0hGYlN4UkdrVGNQdjIwS1JXZ3FIaVFyMmlDU3ZQWTZYRkcxLXFNbXhWcXRlLU1sa0Zfd1l3SXcwU1M2WkVOZE9sOFN0Y215VFVSdEFfR1E4ZU5pVkZkZjFvN1Ftb0VlY3pic3hoS1pBNThjVjN2SEhoRkJ3d3BLWmxqYXFvUnYtNjFBZkxPMXBva3JBX2N1Wlg2TjJqZUhpOUhva1ZZdWZMY084N0FNeDZDaXR1S1NCaUozQUlTSkk5eW5wa2Q3RzJtZ2s3MTQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Berkshire Hathaway raises stake in these 5 Japanese trading houses - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFNTUDM4UUg3bUM2T0IwTHk0V08xQ0pXTWx3RzQ4R09UWXdFc0lERWgxaThOeUFpTEJvMzlNbXZJS0kyNk9lc2tEWWhwQTBaWHdLeUY1dU9LXy1kcFVabXVKQzBTTzBoSXhheUEyODNPSDh2MGY1QjV4eWRiQWwzRFo5ZFVld28?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Japanese trading companies' shares jump on Buffett comments - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaHNNNmFKbWhVb3oycjBDaktXQTkzV2hjZXZ4OGZYWHVSNHhaQWw4QTZ1d2tUanR1VTBpUXloRzdmcnlvaHVpb0dqSnNDLXJ6VzNyRFlCSnZ3ZUIxSlNDMjJVM2p4WGl5NzdNWXJSeHVsRlVaS1Y1NTNiWl9nMGdGNkQ3V0JhbFlDUC1LME1ja0JqSkhCVVpIRTctSFZSQkEzOF9KdVlXTQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Buffett takes the stage at Berkshire Hathaway meeting - The Financial Express",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDdGQUFaS0pqVnV1WGJSYVBTaVp5dVdockl2QndSNjd6SFNzRklabVRCQzJCc2lFY3J5UTZLRUlDWGZNaTh2ZDFKQ0JRR3dsSGFEdTVoeERXTm10c29LaEhSQ2VlbVk0eS00cDY2ejdIUWZ1X2VjRnNfcklTLW5rNm1tTUZJczk2bmk5WldGeE1NR1NCMkh2MjJOblZEV3paeHBhQXpNNGE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is It Time To Consider Buying Marubeni Corporation (TSE:8002)? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcXctSkZORVpqbGNNRW9QS21ZekZ3aERuZk44Z2pJeG90Q1g5YnB5bGsybXhjMnc3VjRoUU5aUkdCZzI1ZVJJMzBIdTFvMmVKTnFyWkt0MFpUSjh1V3hWWm8xRmhrVkxiZVh1Mnp0THRVNVdPbUtkMml1MGNabWx0VXN3MUZPNDMzVnNkWUJ1c3ZNaVgtLUlMT2NXVUs3WXQ0dExEUHIwNHpsNVMySmk0di1yT09wdEpmSjdkLWh1ampQWU5Lb2tlQ3FqbmpwNEnSAdQBQVVfeXFMUEdNd1UzWkpMekY1SkJ2TXk0Ni1QbFJPVXRTM3k3bkxZX0llbkFqdTZzVWNzcE5zTHpKUzBMaHVlUjlsQjY5bEpSSncyb3NvdGpQS2tubnJ1bG9IcG9BWUdUcVVqVm4zT0JLSDRtcWVqWEpWZEVJWFFKeGZHRjVZN1pjSVIxemYtX0haOEkyRUJ6WDBNSXI1QU91bnFHQTM5YUstYm55OGlJeTZLQ255MXdBUG9xV2ZUT2ZLNndnWDdyeUh5eDVfQ2N1TzRFdkVYSTR2RDY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock market today: Nvidia, Tesla lead Nasdaq lower as bitcoin sinks, consumer confidence plummets - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzlqV3h5Qzd5V21wLXFkUm9ORkdrY3hUTFdtNjVDTXQxM1RnWTQwdllVZjRzdUc5akpEZFZ0eU4wQmszaVl1Mk9rWENyR1dlN0lHcUtncVF3MjFwdDNpWUhtWlpSRnZ2ZHRsVFhaelVqTWpsMzBsZzRyMFFwUW5WNWNuTDU1bFRsaEFDSDktTDdBZHFGYWRBZ2ZBYkRZYmRIZmV5UzQ3ZFRUZHhMN1laUWdVR2ZZOW1RUEZTemNEZFlRWkFSUWoxV3g0N2NfRG1Tc2Qzd1BPdHY4T2VrTG1F?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Berkshire to boost investments in Japanese trading houses - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT3FxVVB5RkZXXzFOcjhtYmxJdURWUktNbENyQW9WeXV5ZUczanhBc0pjS09zSzdOWExkUkRUSDB3cUpJUGR1ZWdpSXVQeDdlZ3JCTUd6eUctY2c4Qy1yZk81VE5TM1VpblNwOUdNQmFaVm1vZlZrUFpDQmdkNVpZQmJNdkxNa1VDcm13aVpWNUx1ZjJrMTJpNS1Fd2c?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "As the US stock market starts to rebound, here\u2019s Warren Buffett\u2019s advice - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmE1WkhlMmJBYmxzcEJPWlVXakw5RFNlWU5OcldSS21BSmtpaWx1VnVwdFZkcTZzdEE4eHZoeEh2V0RUMGt6ZjM1dGt4RXBYYWx1RDE2ZFRSalNqeFZ4NFJIOUQ5dkNhYlZZSlp6SWNOb1U0VmExbzJtUG1qZmNJeGVWLXhDUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Marubeni (TSE:8002) Seems To Use Debt Quite Sensibly - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN2E0NklTMnU0bXVQS19GUVd0ZDd1N0hGNFpUY2d4RXFfYWxGSFVHYnRiVFl6Slh4eGcxZjg5V3o2c3gxamp0bENrano2dFNGdm14c1IwMFBSa0xtNUlMd240NjFQOGRjNWF1dnpvUUJZVXpPWkpSdF9hLWdYTnh2eFlWWW05cFhJTG16ZnpDRW9QY3dvTGxucy1ZSFhCUTZiTTRnMENNN3ZXaTJuRF9sOG15ZEtQdTFRd3hZRl9VQkRxeUHSAcgBQVVfeXFMTWFxZjMxTWRXSU9kSTlDNV9aZXUwd0tlZTQ4cmpPdWd3enh1VGpuNVRJRTRlZHR5TlFWMVV3enJFTTJpMTFHQUdJUzVkYVJsQXZadUJKSDZSZGQ4RF8zTUg0N1hiQ2hvME9VbHRuMjg4Rms4WXdiUHdwTFV0cVR0c1l4S092UmNDcXdjOWhIQnlWM2pjNkV5N2lDenA4aW5DQ2dscmpTU2puQmlJZERCck9CU2FIQ1MyZVBjMGd3cEFvZkVnb2VCdmY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock market today: Stock futures waver, bitcoin tumbles below $90,000 for first time since November - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOemVLbmdRVGx3M0xVYm9FaDUzX01FR3BuS3B3UjcxNGNxOG0xMGhjVGd5TFNGcGtLY3dBOTVsYk1TUHdqenJVTUp4Y2J6STRweHZtSTg1S09CWkR2cldMeW9ibm5SVzc2QnRfU2NmZXNVcjVULUNaODJnSHRvd2htczRwaTVfaTFZNmlhLW51RVg1ZmMtLWVtc2stdjVOREo4UTV4SzZtN0NabVB3a2tEM09vXzdLZEJlMmF3am92aTlQeHVHZFN0VFNDekE0dEM3SGZ6Qk1KdkVCaGtCYXlOdQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Japan builds gas markets in Asia to boost LNG trading, energy security - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3RrQUJIUGpqbnJLd2JmMDZyc2Y2TzhBT3JTb3QtZThWVXRIU214dS1xdXBkei1mOWFXWEFjTnBZVEdFay1pazJOZU51LXdkM211TnY0alV0NERQNkk3YjJGQk1NdXV4MUlHcWpwSTBoWDVfelM0QkZwWG1xMFk0dzFLTno2U2o4c0VHQm1VS2pJcVlPUGlOdW1rdWxneFFwalB6bWJFV2FoZUhRR1cxMnptLVVSUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Buffett boosts stakes in Japanese trading houses, may invest more - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTZlMVk3MzBpOW1HTWlVekFBRzZMVkRMRGl2czg3TC1rb0lLWDRPb3NTN21sczR3S2QwN1pvUGp1c0RJMHZka1diX0RTMUNFeWtuMVBUS2o2N3VYV1ZTNTF5TktNZUVYcUMtc0tJeWZsRFpXWDNMWVpJcExjTXBRZXRXTTRYTFg1U2tLRm52SThzNDNzRVowcGJwWkpfNlBwS1RidkFwVkloVTlxRlJJOVpkNjRDS0hCbDJPUjVFczlxZk0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Buffett adds to his holdings of Japanese trading houses - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObW5EZG9OcVZTZmwzX3BZUWk5RGd6RWs0YjhnV3ZVbS1wV1A0TkdVUkdvYTlUZ05jQkx3bUlta0VHczUzUEU2ZWJHc3pzN29OQkxRWTVQVDkyUS1mUE1SRldFSmZjNmt3clFHbjNTQlV3SXZwQlVRVTVRY2VfU2gzU3BEVEpaRGsteENjMTNpczkyMWo2R2NQNXo2MGRtUGs4ZERsNTBQVQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Stock market today: Nasdaq leads stock declines as bitcoin sinks, consumer confidence plummets - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUkR1TFJpZjVXZVduNE9uQTM1alg0MTVocWNXZDZRQmlDTTRsaU9iZ2x4VHhDR3AzWXFQZTllQUNzNWJTNUJTRVhqeG5BV3ktb2V1WVd0cUdwcVhNQmR5dXVwWUdmV0N3ZEN0RWVIdUxueVpGQzRiZW5yaGZTc3Z2UlJUYUVuNkgxa2xWQWtEaGNZdGxsMEg2MkpBNGgxZTNkT2ZxblM5M0dFNVdjZUlxb2tJY2hXSXMzVlpyNVFJbmtmb1QxRmlxNTVMZEh1TGdIbkVWZTBWaTZMelU?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Japan's TSE starts market maker trial in carbon credit market - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUllFOVo4ZmxkbjlNcTBqTU0zX290bHBMdDN5NlUxdXc3cWdVZ3Vtb0w5OGRIdEpxTjRUdmFvc2g3SnB6cHdoVUozVFc1SGFTV2ZKRUQxekVtSXdOSjZYUTNiRTNCU3laZGJoMDV1TzMyVHBkZGVTQ2ZJZWUzWDdLWHFTS1lURmVhZXhSZVVBbUZIeUF1ZUFrdTdLNjhMalFCemhoalhrZmVWOFMxdU90dDF3VXFEVWw2Y3VCeloya0N6bU53Z0VkNkloX3N5eUxaQzdkcA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Berkshire raises stakes in five Japanese trading houses to near 10% - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm5zN0g2eDFDeVV6RlJXeWF1eUFIaHhNNFhyeU1UaW9ZSEs0aHRER1VhdEZUeDJEUlM1SDF2RVdzV0p5NXpBeTlhY29zSmx6UWNkeTlBMldodk5Ja0lVUWpPSE5sajA2QTVzRVo4N05OcHdlenhaYkI5ZGQyTThXdGdWa0luVFNHT2M3Q2RWdTBGYXYweEJ4WFhVUF9uMXZ1YVdQYUVkYWJnaFdQcnNhOA?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Warren Buffett's stamp of approval helps Japan's Mitsubishi shed conglomerate stigma - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdFNFc2RnU0FrdFlYMnctN1JIbXQ3Q19qUDI1QjdBNGFQWkl1NUhsbDNOOXBNemhyTHRWQk9RR1BadVFLaFFtUk9YVjRLY3k4UG9HSWx2SzNPNEU0UVZIa0JpTk01d2Ruc05hX1p5WlJLT0IteU42V3o1NE13aTZoSDgyTF8tRHRPOF9POWRjVTdZaU10QjRKRm9jWWVPMU1wR1E5N242clo4YWpqWXRSZUtoNUNDQUxmNmZUZldKTVdldw?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 3,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

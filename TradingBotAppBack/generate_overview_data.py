@@ -161,12 +161,12 @@ def get_sector_data_fmp():
                 "abs_1d": abs_1d, "abs_1w": abs_1w, "abs_1m": abs_1m, "abs_YTD": abs_ytd
             }
 
-            # 🔸 Volatilité sur 30 derniers jours (% std)
+            #  Volatilité sur 30 derniers jours (% std)
             returns = df.pct_change().dropna()[-30:]
             volatility[sector_name] = round(returns.std() * 100, 3)
 
         except Exception as e:
-            print(f"⚠️ Erreur secteur {sector} : {e}")
+            print(f" Erreur secteur {sector} : {e}")
             sector_name = SECTOR_NAME_MAP[sector]
             heatmap[sector_name] = None
             performance[sector_name] = {"1d": None, "1w": None, "1m": None, "YTD": None,
@@ -225,7 +225,7 @@ def get_sparklines():
         try:
             df = yf.download(ticker, period="5d", interval="1h", progress=False)
 
-            # ✅ Correction ici : bien prendre la série 'Close'
+            #  Correction ici : bien prendre la série 'Close'
             if isinstance(df, pd.DataFrame) and "Close" in df.columns:
                 close_series = df["Close"]
                 if isinstance(close_series, pd.Series):
@@ -250,8 +250,7 @@ def save_csv(df, name):
     df.to_csv(os.path.join(DATA_FOLDER, f"{name}.csv"), index=False)
 
 
-# 🚀 MAIN SCRIPT
-# 🚀 MAIN SCRIPT
+# MAIN SCRIPT
 if __name__ == "__main__":
     from datetime import datetime
     print("📊 Génération des données overview en cours...")
@@ -280,5 +279,5 @@ if __name__ == "__main__":
     # Timestamp de génération
     save_json({"generated_at": datetime.now().isoformat()}, "generated_at")
 
-    print("✅ Tous les fichiers overview ont été générés avec succès.")
+    print(" Tous les fichiers overview ont été générés avec succès.")
 

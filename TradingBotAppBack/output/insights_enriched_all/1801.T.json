@@ -2,32 +2,32 @@
   "ticker": "1801.T",
   "name": "Taisei",
   "sector": "Industrials",
-  "market_cap": 1353035284480.0,
+  "market_cap": 1386539909120.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.534067,
-    "PB": 1.5974283,
+    "PE": 11.938965,
+    "PB": 1.6172041,
     "EV_Revenue": 0.666,
     "ROE": 0.13745,
     "ProfitMargin": 0.05748,
     "GrossMargin": 0.1073,
-    "DividendYield": 1.88
+    "DividendYield": 1.86
   },
   "technical_indicators": {
-    "RSI_14": 67.08603950764528,
-    "Momentum_10": 1.6785022595222725,
-    "MACD": 295.27264655630825,
-    "BB_Percent": 0.7586470643398079,
+    "RSI_14": 68.367363278089,
+    "Momentum_10": 2.43749214725468,
+    "MACD": 221.45948599603528,
+    "BB_Percent": 0.9431154682141576,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9013905028809276,
-    "QualityScore": 0.3671680341617488,
-    "SignalScore": 0.5323378263925509
+    "ValueScore": 0.8992581913876304,
+    "QualityScore": 0.368797176853537,
+    "SignalScore": 0.4722375100880359
   },
-  "volatility": 0.0187085033785771,
-  "beta": 0.394,
-  "return_6m": 0.1920509536740233,
+  "volatility": 0.0184204234660819,
+  "beta": 0.378,
+  "return_6m": 0.2425510609725261,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 7,
@@ -510,16 +510,20 @@
       {
         "date": "2025-05-30",
         "price": 8053.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 8153.0
       }
     ],
     "current_price_data": {
-      "price": 8053.0,
-      "change": 75.0,
-      "percent_change": 0.94
+      "price": 8153.0,
+      "change": 100.0,
+      "percent_change": 1.24
     }
   },
   "news_sentiment": {
-    "summary": "The study found a correlation between Wikipedia usage patterns and stock market movements, suggesting that investors should monitor Wikipedia activity as a potential indicator of market trends. The findings were published in the scientific journal Nature.",
+    "summary": "Synth\u00e8se :\n\nL\u2019article de Scientific Reports de Nature \u00e9tudie les mod\u00e8les d\u2019analyse statistique pour quantifier les tendances de l\u2019usage de Wikipedia avant les mouvements du march\u00e9 des actions. Il est conclu que les tendances de l\u2019utilisation de Wikipedia peuvent \u00eatre utilis\u00e9es pour pr\u00e9voir les mouvements du march\u00e9 des actions.\n\nSignal fort positif :\n\n* La tendance de l\u2019utilisation de Wikipedia peut \u00eatre utilis\u00e9e pour pr\u00e9voir les mouvements du march\u00e9 des actions.\n\nSignal fort n\u00e9gatif :\n\n* L\u2019utilisation de Wikipedia ne peut pas \u00eatre utilis\u00e9e comme seul indicateur pour faire des pr\u00e9dictions sur le march",
     "sentiment_score": 0.0,
     "label": "NEUTRAL",
     "positive_ratio": 0.0,
@@ -527,13 +531,7 @@
     "negative_ratio": 0.0,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Quantifying Wikipedia Usage Patterns Before Stock Market Moves - Scientific Reports - Nature",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xMGZQd1hmelJidjB2RzlJM1d6VXVlZDItQVRuY1VPNVpXeTduLVVWc2JVYmNUZmdxcjBwdE1MRGVaVVhYMWJ6MWJ5RGd0SkFNNndj?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

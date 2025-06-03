@@ -2,32 +2,32 @@
   "ticker": "PSA",
   "name": "Public Storage",
   "sector": "Real Estate",
-  "market_cap": 54234497024.0,
+  "market_cap": 54218706944.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 30.639246,
-    "PB": 10.397188,
-    "EV_Revenue": 14.313,
+    "PE": 30.630327,
+    "PB": 10.394162,
+    "EV_Revenue": 14.285,
     "ROE": 0.20121,
     "ProfitMargin": 0.41589,
     "GrossMargin": 0.72893,
-    "DividendYield": 3.92
+    "DividendYield": 3.89
   },
   "technical_indicators": {
-    "RSI_14": 62.42530812661181,
-    "Momentum_10": 2.9985008105993556,
-    "MACD": 3.397786399827055,
-    "BB_Percent": 1.0028183285533927,
+    "RSI_14": 60.49526079296464,
+    "Momentum_10": 0.0016189173253472,
+    "MACD": 2.57134361254191,
+    "BB_Percent": 0.8561146831077621,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8527118795882748,
-    "QualityScore": 0.4552877590753429,
-    "SignalScore": 0.6108066656769906
+    "ValueScore": 0.8512590321395104,
+    "QualityScore": 0.4585198761129865,
+    "SignalScore": 0.5653096602365546
   },
-  "volatility": 0.0155357608332725,
-  "beta": 0.901,
-  "return_6m": -0.0655387643286226,
+  "volatility": 0.0156143026959243,
+  "beta": 0.879,
+  "return_6m": -0.0842192254065536,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 308.41
+      },
+      {
+        "date": "2025-06-02",
+        "price": 309.53
       }
     ],
     "current_price_data": {
-      "price": 308.41,
-      "change": 2.39,
-      "percent_change": 0.78
+      "price": 309.53,
+      "change": 1.12,
+      "percent_change": 0.36
     }
   },
   "news_sentiment": {
-    "summary": "Public Storage (PSA) is a real estate investment trust (REIT) that has recently seen a range of news articles discussing its stock performance and market prospects. Here are the key takeaways for investors:\n\n1. Positive earnings report: Since its last earnings report, PSA has seen its stock price increase by 2%. This could indicate that investors are optimistic about the company's future performance.\n2. Retained stock: While some investors may be hesitant to retain PSA stock in their portfolio, others may see its continued presence as a positive sign of confidence in the company.\n3. Price target increase: Mizuho has recently increased its price target for PSA to $309, indicating that analysts see potential for further",
-    "sentiment_score": 0.0,
+    "summary": "Public Storage (PSA) is a popular Real Estate Investment Trust (REIT) that has been in the news recently. In the past 2% since its last earnings report, PSA has been performing well, but investors are wondering if this trend will continue. Mizuho has raised its target price for PSA to $309, indicating that it expects the stock to perform well in the future. Rhumbline Advisers has also acquired a large position in PSA, signaling its confidence in the stock. GAMMA Investing LLC has also recently acquired a significant number of shares in PSA. The Czech National Bank has also invested in PSA, further indicating its confidence in the company. Overall, the sentiment around PSA is positive, with many investors",
+    "sentiment_score": 0.2,
     "label": "POSITIVE",
-    "positive_ratio": 0.1,
+    "positive_ratio": 0.2,
     "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Public Storage (PSA) Up 2% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuN3dVOE9oNHUybUtEandyVC10X2N0bFF2OGFFZXJIVURUbjhmLXJWVWZFVDBMRDhISkpFbWl6QTVpNGljUnYteFZjeUtXZXFnN1ZjVUtkT1lHMFItQjRTYllxTEttS29XOW95aDVUcGgxaEZNMlRIQ1FJMVk?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Is it Wise to Retain Public Storage Stock in Your Portfolio Now? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTdCenlIV2VMQlRVT2RtUHk1aEtvWDJwOEI4VkNJUHdOZXpya3FMa1FqcGREVC0yVkRpZWsxYmRxRnd4RnFtOUppZEVwZkNyTXdkSXZ6SE1IRW81U0p3Tl96aW5HM2ZGWEdlQmVCTFV5cmItV19haVRMRW9ZZGZKNVNzalhHZU16NTEyWU93UGZfc0JoUmlYUHh2bnVTa01OcWotcWl5azZraGhMbEZ6U184c1NBU1Vh?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Public Storage (NYSE:PSA) Stock Holdings Reduced by Public Employees Retirement System of Ohio - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVWh3eDJyZEhMM1Y5dGFraG9LSDI0OFRONk5SUU96REdyRjVseGJEcFZhTXY3RF9CQmljZElTdVBSS0tEbjBWbkhXbjEtc19EMHVYNDlJMEVsRG1naXY2dVRGanpKVHl3Q3JZQ2ZiRzFxZk5jVlpDLXJTVnJISkprUzJhd2xaN3MySW14MlVadWJFejRjOXJEeEJKeFczb00xSW13QmY3SUVFc1FURno3RlBUdjdtakVqSkFnb0tkd09oT3ZVS1J1Vmc2eHladTEycWtMS29qSjQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Public Storage (PSA) Price Target Increased by Mizuho | PSA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkt3azBKUDZKRW8tMlZYNUZCNFp4RnpYSXdLQy1VX2JYRUszeFdLSjNxS0VkU0pPOGllOThDLWFpcnFhSTloZWdoQmVmc1Z0Y3lVZkpDcHh6bGhJaWhCcTNlc0lWT0JfZ0pfVjZYN3FYZlFFLV9vZEt1MjREZVlFMnBNckJFLW5mNUQzZkJHV0NfRDN2dFgtX2YzOWZ0QzVJcnZsalBWdHc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "(PSA) Daily Stock Insights (PSA:CA) - news.stocktradersdaily.com",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOXdndDdPZ2VrZnBHSi1iVzRmcGx2T193V2ctQlR0UlhZci1PTWd3YTJSeDJ3MkZfN0ozdmVTRnZDaXpnVzM1N1VOWlluOHBMaGVZZUlXX0ZHdjdRV2JXTGRRbzM2T2ZZNEQwYnpDMUdEbjNuN2xzVFREWmJPOEdYdS1QdU1CMjhEamc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "If You Invested $10K In Public Storage Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVU1kUjhjakFoS1YwcW9KTi1kanBDU3otbFh3QmNJell2MUdaOU15dmEwdkhNdGNidkZJTGxVTGs1a2g4TDFMaXBBUWpYMVdNWjV4MktYSkN4Z2V5Vm8wejJyYUpsOVZfbjVqaDZjMWs2Mk1DcEVJQ0VxX3Jrdmk1OGIzUUR1QQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Toronto Dominion Bank Increases Stake in Public Storage (NYSE:PSA) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWlZPTndPanN3OVpyeUh0NXV3ZDdTalhacnB1WC00MVRKLU5uS0U5ZGJsRE1BTlB5ZVNPbDYzaXJDUXNhM1dnXzBEcWtzaDFHUmtfVGR3LWM0bmFlNkxWXzdYb1lia0UzX2o4ZjRfQkZheXQzcEVrRkMwRWxuSm9qTEdUMUs4M0NJU3VEUWlPa19ZUm41elBaMGFnXzItemZvSW5ITXFPa2JHVDNyQnN4ZU5ocmhGbmZBc1E0YWVpSUYwUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Public Storage (PSA) Target Price Raised by Mizuho to $309 | PSA Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMWw2UkMzTWRQY3RaSEVJQ0dsbGl5RlpWQVk1cndoaVl2MkFDRkFHaWZRLVdXYjljUmdJZndjRGZRSHljLXFFYXJyM2RKNVQtc1NHZFFzX0pCSXE1VTdtS0FrcnR3aFR0NThfdDFRcmZyN2U2ZnYwMGxURnlQX1c0LWtFQVRjWjhueEtmS0czNW1BQUNaNFpodmFDTzVUdnUyZkpFMlpwb1g3RWpZNFE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "What Are Wall Street Analysts' Target Price for Public Storage Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOd2E1dEFXWGVnQk5OTWEtaU9wMmVVcUpSTG9CdE5SZzR3ODA1NTNJeXdiZHpCYjJubE1iU3pjY0tNMElHbWJ1dWtvQmtPQ25kOTVCWFR6TkRoaXhjT2JPb3RYY3MtMzRael9Ddmc4eWRVV0U2emlnVDVvcmVjVUZDRDlQdDhXUFVtMXVSUy0yU2ZhZk91ZWt5RFRkZzVSbUx6ZnNhNmJIOFc5SEFKNF9qOFBwOUM5dUJmWDlzekdJaFUxYThsRzdpWkxmOGlGc18wUDhVVUFzX2NCY2s1cjdIWHBYampQU3Q2cV9HVWxXLXY5SUxSa2NlZUlRemRHdkdLZndwejBLT2M2bGh4VW9sMkVOSG82OXdGUWo4b3gxTTRpeDVsR1h4dmpHZElYYjZQS2NlZ0F0dlRxaWp0SE5LOEl1QzNkQnFHMTVxdDhFTjJSaTY5X0VoNmN5N3FMa3c1RW9qX3A5cjJUalhPb2N6WUQ1T1hTTDg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Public Storage (PSA) the Best REIT Stock to Buy According to Billionaires? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MZzNUcW45VVNaRnpHWHVVWFRPcTRicDBCWDRQbS1sWWJPampFSVRaN2FKLUNVcGRPZDM5TWs5bjIwTWVGVzUyd0dycnFPdjR5ZE5XU0FXOFNWWXMxN29YLVZ2Rm83TnRFV0dvRFhiYkx1aDZNeFNpQU5DRWx2WDg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Tidal Investments LLC Sells 1,428 Shares of Public Storage (NYSE:PSA) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFEzZUxQdjJrbjZQTnJOVUhfUGxwemZxVmhyNkNucmhqSVZGT29ULXVSUTgweldhY0JIVllidGQxd3oxcWM1ZWhDelNxOVY5dXlockM2UUtOSEgwd3VDREgxdEhZZmtDRG5UMnRKZTA2WVpEbFNDZlhNRjRlV3BsOEhSNWhBcVZoY3JkR3NOODNQOTJUOFUxZEVGZkJfeld5UE5rT0FOMk1oWWRVMFFpRkRBTU9NR3NRMDZSVEotbWV2VnNaMDZ1RDRicw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Employees Retirement System of Texas Reduces Holdings in Public Storage (NYSE:PSA) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOam83b3BZTDdjbUJjT3BGLWJSSzE3WWdCN0ZfNFFNRjkxQmRDNU9NOEdZXzRZZnd5NUJIUmpPZHdjUjNYUmtvWUktNkFBTjIzc0FLUUp4eXAzSFRiWE9FdS1QOV85NktycldUdjhBaUFuX3FYNjIxWVdkaXRvdmlsSGNyRXRIWkE1ZVFZbEx0X0tjY1ZybjMzVGxQZklWd0RZb1BfYjJzZ1F5OGRic1lSNFF2UU9MNXdWcFZ0cUg1bGZjZm4xRDEtZXAzRjRTVWFFSzNsdnowY0lwRFJmMU1BS3BtZ0dQd0lHRFlv?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is Public Storage (PSA) the Best Real Estate Stock to Buy According to Billionaires? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RSGRPV1NGd3F0M2VGY2xpdDZSRmFOMkdncVJ4UzFGVFJWMVFwWndDRldLTGVHQ0RGLVlhVkJfRFdVTktZMXBhQU10M2xFT2dHN25DeEZUb0Z6Qy1nRkl1NGV4STdDRWIxVDFMdGxYNHlmSUZIc0RoTmg0TFhRMzg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Public Storage (NYSE:PSA) Shares Sold by Vident Advisory LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVlrM0w3VDhiZWlhd2xvZC1wYVRmMFBXUW1adl9xc2lRVmNTVUlfWVkyVEc1aVBLZFdNSGJTSDVWRERLTjdXdlphYy1lR1dibFJON2FpeHJfRnFWTXM4ci11ZURrRllRWmFpQ3VQbE5ORWQyV2ozZ2oxTngyaDNabUYwUk8yaGp6bDFZNlRGYU8ycno5WmdnOS10VVZseFdud2RCdjBpMVB6cmttS3NHRXNOSGhmeS1QYU5udWhyTDFBNVRYUDhV?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "CTC Alternative Strategies Ltd. Takes $273,000 Position in Public Storage (NYSE:PSA) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORWxzakZMMTJQdXZ0VkMwelBta2MwQ1p5M3VScHNDdlhwOGlEekY5RzIxbmgxdE1lZDZDNEpKQU81NDVlcUNVX0F4S0I4THI1dGtENUNJWGE1VldzbTgwa245Vk8xa1ZUV3djSEczOHYtekRWUVR5dnJuWkpaSXpReFZ2d1FIUEplaTAyWW9kcHJha0hDTVY3SGY4VjJpVXJSVERiTW9CdHl5c3AwY3hPNHJuQzRtUkUtSWtVYVU0dFg0R2lGLWNVM0k4QVNDZkgyZFBrazVR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mizuho Raises Public Storage (NYSE:PSA) Price Target to $309.00 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXVrbUE5VFh4ZTZnay0tZ1lYU25MMl9fM0NIaVJwVVJPdDh3VDNjQ3BQWjZneVUtaVEtTE96OExWVkhxY1VMQVVkMjRHNkxLc0xJbS1QN3Z2SnhSWVM4MW9qelZKcUh0alRZRTdnQ05INVFFZ2Y2U3l3b1p5ZUtkeHBiVkRGWnRPczdKcEUxbkwtVjFraFIydGU0eXFBVlhnVVRhQnBsa20xZkFqMFNNaU5n?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Universal Beteiligungs und Servicegesellschaft mbH Buys Shares of 331,140 Public Storage (NYSE:PSA) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRFQ4UTNOOFBSTGE5VU9zN1BPem9DcFBRS05ZQXJTZGdlaHlzaVBhU0JRVGFpWUlWZFo1TEdzM3F3Sk1TTEJQcFlHMGFhX1NEaGhrUGNJUFRUTnpXY1dMeDVpTnVPc1FELXFScEp6ZDVWTXBCWU4xcE9QSUJ3XzllQ2NHSmVuUGFTVmVpM051UXZmMWtoU0hxQ09rbnU3T2xDUjdoNjJKWEd6OTBGOWVpZ2Z5OERTQVUwM1NZenNzTmVXaThDdDNtZUxTMmdKSzB4ZklfdW5DZExCcU5rUlBJWEg0WHBIejU3cFFERlZVQTlFRjJ5cnlGNGpTVW5lVWxw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Westwood Holdings Group Inc. Sells 3,610 Shares of Public Storage (NYSE:PSA) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWmNaUzdVNUxXYXpmX1oyMUVKckIzNFViN2pNSHpmNGJXV29pR0w4Vl93QjNVRXF4cXJwSWFyaDBCRVpST21ib1dGQXJyd0dqTVR6MkFCU2ZPRjlZMkl5ZXAydFhpT3c5ZFNBeFpxdTMzc3ZOSXk2dDhlcUJocF9PQXBBc2Utc19SNFNQVngycTdnX2YzNHBkQnpCaThoMnFJbmhCbkl6Um5jaVZJaFgtdnNWSERtMFVDYTdGZ05SODVOZ2FZRWlJWDItTFY?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Public Storage (NYSE:PSA) Stake Cut by USS Investment Management Ltd - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSWVYeWlrUXZCZEY2X0VQZmgyQ1J2WllIdnV3eXVVdXJONkN4TWdjNzlqZnlaUGcycDFJbHMwZTBQMEdRVWcySmNqQ05XeE5lcUVXWVRaQXVwSFhRMkN4SW5wSGdnOWZLeWFld3BZLVRDcGx5bGRReEFnYzd3N3lOQ2RxSnYta0dtZE9OdHVlcF9rbC11QWFXMFVXUGxMUW1VUXJ0MjBBS05sYnJEMWNKeTM0VzBnNGlQbjhCcmhSY2ppMmItRGxfb19Zb0FCUjcxakFBZlFzaWE?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Is Public Storage (PSA) the Best REIT Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DMDBjZ18zWkJkbW5WUVhJM3dOZmFseUVjOVlQMHFheVkzTHFPdWJVa2FYZ0thUkp0bHNlRHVwa1o1VnJadzg2OXhkaXpzOFFuMHdNTU5PTmVnWC04YW9lMEVrRVhMQkd4NWh3RXRkSlB2Mi01dkZrOHljOGVwaFU?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

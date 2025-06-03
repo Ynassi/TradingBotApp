@@ -2,32 +2,32 @@
   "ticker": "BBY",
   "name": "Best Buy",
   "sector": "Consumer Discretionary",
-  "market_cap": 15622427648.0,
+  "market_cap": 14380888064.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.24299,
-    "PB": 5.555974,
-    "EV_Revenue": 0.431,
-    "ROE": 0.31633,
-    "ProfitMargin": 0.02232,
-    "GrossMargin": 0.22599001,
+    "PE": 16.569511,
+    "PB": 5.2125373,
+    "EV_Revenue": 0.409,
+    "ROE": 0.30214,
+    "ProfitMargin": 0.021300001,
+    "GrossMargin": 0.22607,
     "DividendYield": 5.73
   },
   "technical_indicators": {
-    "RSI_14": 63.37072805763584,
-    "Momentum_10": 8.417810169858546,
-    "MACD": 1.5388285868337022,
-    "BB_Percent": 0.897419940985522,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 46.45059559757076,
+    "Momentum_10": -7.818433650218534,
+    "MACD": 0.0514668622469969,
+    "BB_Percent": 0.2691688275655731,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8995404730989132,
-    "QualityScore": 0.2879214924714235,
-    "SignalScore": 0.5798919496200587
+    "ValueScore": 0.897675939188517,
+    "QualityScore": 0.2903901331241131,
+    "SignalScore": 0.6896788994880227
   },
-  "volatility": 0.0318270623373883,
-  "beta": 1.296,
-  "return_6m": -0.1512347138717218,
+  "volatility": 0.0319501888579495,
+  "beta": 1.27,
+  "return_6m": -0.2353271217460234,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 66.28
+      },
+      {
+        "date": "2025-06-02",
+        "price": 68.18
       }
     ],
     "current_price_data": {
-      "price": 66.28,
-      "change": -0.04,
-      "percent_change": -0.06
+      "price": 68.18,
+      "change": 1.9,
+      "percent_change": 2.87
     }
   },
   "news_sentiment": {
-    "summary": "Les titres pr\u00e9sent\u00e9s concernent Best Buy, un grand distributeur d'\u00e9lectronique am\u00e9ricain. Les titres \u00e9voquent diff\u00e9rentes actualit\u00e9s \u00e9conomiques qui ont influenc\u00e9 son stock : le tarif d'importation de 25% sur les produits am\u00e9ricains export\u00e9s vers la Chine, l'annonce de son prochain rapport d'activit\u00e9 et son dividende r\u00e9gulier.\n\nDans l'ensemble des titres, les signaux n\u00e9gatifs sont plus forts que les positifs. En effet, les tarifs d'importation ont impact\u00e9 ses prix et sa marge, entra\u00eenant une baisse de ses ventes et de son outlook sur",
-    "sentiment_score": -0.55,
+    "summary": "Les nouvelles concernant Best Buy indiquent que l\u2019entreprise a r\u00e9duit son outlook sur le profit en raison des tariffs. Ces tariffs ont d\u00e9j\u00e0 entra\u00een\u00e9 un prixage et ont eu une impact negatif sur les ventes. En outre, la soci\u00e9t\u00e9 est confront\u00e9e \u00e0 des difficult\u00e9s financi\u00e8res, avec des prix \u00e9lev\u00e9s et des marges contractantes. Une compagnie de gestion de fonds a augment\u00e9 sa participation dans l\u2019entreprise. Les analystes ont pr\u00e9dit que les actions de Best Buy continueront \u00e0 \u00eatre affect\u00e9es par les tariffs et que les ventes pourraient \u00eatre affect\u00e9es par les prix \u00e9lev\u00e9s. Le sentiment du march\u00e9 est",
+    "sentiment_score": -0.6,
     "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.45,
-    "negative_ratio": 0.55,
-    "bullet_positive_count": 0,
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.2,
+    "negative_ratio": 0.7,
+    "bullet_positive_count": 3,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Is A 50% Drop Ahead For Best Buy Stock? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQk1NS1ljanpiZ0NkTlNUZlIwRV9GNXE4ZkRvcG11MzRsWTRhSHZNa3JabFhrQTNwcFQzWnBaWl8xQjd2ekNOWk42OFZSUGJvSmk5eXhBa3FyMWhKa1dnanpTV2d3NEQyaVNxV2s4RGRYNnVfYlRWS3BuWnZIR2kzOHFmVTlxLS1uN3l3RHAtSXYtZldQczg1azRJaFZxUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Best Buy cuts profit outlook due to tariffs, says it already hiked some prices - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BZ0JCd1BHZnR5Um5PNEYyQlptNUZtLTRnV21lUmN4dmRkTUt2aU5QNFZjRDNkVHFkZ3htVms4RWNza2tBdTFaSjhjZVAxX3hfdnA4N043bzUxRy1zcDdmd1p4RE42eml2TnFYQjlOaXRveUhNOUHSAXtBVV95cUxNQmdWcThCX1cxeFlHUUVOSUdoZ2tLRXViOTVyMEJ3U3ZJX3dwc2Z0d25GRXpaWG5aMGp3d0ZBSElTSTFZc2xxWkpZUklTZkNWWThhTVN1d1hLZUIzVWE2cl9uUDZ1UnBDXzRsSDZzd0oweUlpWFFpdFZVQU0?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Barclays Updates Best Buy (BBY) Price Target Amidst Market Trends | BBY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOUk2dTJ6YWp4N3RDcmJGWnBiTEtsVjJMS2pndXdjRDIwZTFzT2hIazNTWjFwNF9OUzJzd29Lc19SXzY4azNFWm9IZzVEbTIzX3VrWlJZM1hoQ29LZkRXcUtEdUd0T1JyODRUWjh0SXQxV0ZaclZlbHpzQTEwb2xsdllRRFg5SGVfbDJkR3JqWWJDRk94WkZjblJpQ1pvZUMzdllieUF0Z2tzbURTa0hHV2VTOEFHU2N1bWF3bDJRTXUwYnFLaGNQWFJxV3A4dkE5RGpQX0JKX1Nma2oteDNGa3FyRlA4Z3U2ejJQVzZWWUxNWmExQjRYbkU2X21zYWc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Piper Sandler cuts Best Buy stock target to $82, keeps rating - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUtHNndTZ2o3Nk1oUURDaDV3SkkyLXFyNHRoV3NONkFxbExENkhhMFhYZGswMEVZWVhqVExNN2NLUk90bnFqb2ZFeWpkLUZ4cVdHSnJUNmg4elFvSTdSMTF3SWhWZzNsQTFaZUx1VllfaXBaWkwwNGtUOWY2dlhnbG1rUHZDOWJ0cm5MYVE4UEdMcWpQNklBc2wxMTk2LXpTSDBOZkhFcXhNOG03el9xVkpBWWVEOWxQbjZJ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Best Buy (NYSE:BBY) Shares Gap Down - What's Next? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdUxZQlpVOFdtWWtacmV0MXk3R3NqZGlhQmd5dVpSVXNNYnJhaFdVVnYwbXE4N296emc4UnE3UjFvM0FhVE1NQ0JET0NEQTl0Ri1IeXc3OWlVRU1namxaMElzNm03QkxOWEoxZzg0N2lxLXlzLXVZSUpBbmlMdEVOZldfQ3U5LTZwNzdaM3BHeVV3SGZSS2J6dHFFbkdRUQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Why Best Buy (BBY) Shares Are Trading Lower Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4X1Fpd1U0N0lKSk1iUk04cHFpSWsydk1pb2JPUllTb0ZkZks5VHphRFl3azl6elUzYVN3Y3kxVEpaZ3B6TDA2ZFdEZjNHX1VCNk1ncjdWYnJja2RWS1lOMG1nOExSQzlHVXhuUmc3SHJCZlVhLVItNQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Best Buy Stock Tumbles as Retailer Lowers Outlook on Tariffs Hit - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUXdKZUZWRDdwYnoxX1N6djdqM0RLZnQwZEVPUTd5WGR0Zm91eHo3UUNrNUE4X0pLNGNNbTRTLUZSdE1ObDRMeHJ4dXJmYnVDZW1uOGpGNHo3TURZUDJFOUhvTWc4dUlvVS1pNzl3NnQ2dEVBNDZoVTNTTVNaSFdXWTFkbXlkNzI2R1BCRVIyX21saGs3QVprQTFmZnhZRWVRam5YYw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Will Best Buy's Stock Rise On Its Upcoming Earnings? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc19pS3pMdVdjVjZyaWNPZDVOWjZKNjdxMEhlV0hsWGZOQmlpRGpwQzZocnhxM3B5Q0xBR1JuR01lT2FJQ2dWS2s5YTdaYThvTm96djNWbkRzRzAxZGo4Qkp2S1BpWDBYckRPYzZVR2lQN1JvRERfYnlOSHpyWkJyUXBHb0RKZw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Best Buy Falls After Trimming Outlook on Hit From Tariffs - Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUUtX3ZWUlZ4MXdxZWU2VXBqbFZ2eWZYT2E5TDlyc2pLRjdqUVkwOENXbzVEeTlLUF9DNFkyVnFSazU2M1FTV0toRXIzVzdTTXNHTVRLMEtLS2dRYTJvdTVtdklPdDhQd19fUnFHTTFjcmw5bjVPYjhyM2hzN3dxQm5HREhKamJ5SlVhMC1taW1NeElRRFdYaGZMNHBqZ3Uwc0tTLXJfN0VTRG9i?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Best Buy Delivers Mixed Q1 Report, Cuts Outlook On Trump Tariffs - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGxQV1hXVkFsX3poc05wVmZ2TVJPWkV4X3dlUldvTjZmb1FVd3JLem5LVWtkTkVrUVdIeXFJQ2xUc25IMmgzb21GVzRYVGR6eW83THl5dTNGN09DZkJjb1d6c2pvNEROMER3MXBIN1RINW9IbGdCVGV1UWF5UVBLd3N3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Best Buy Stock Slips on Slashed Sales Outlook - Schaeffer's Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3hyN0pENjV4aHlOZmlzZmU3c1BCNHBvNTY5N1YyLTBQMzNlMGR2ckxuRUdJZTFlR3d4ZlgxbzJaWDRMWjhSeU5HdlFGYVFjRUpvUC10Z0RSdlZWR04tMWVwajJaMEVyQjJlR1JlWDVJeHQ2TEtYUmk4WGZ3SERzdmRUTlo5aVdaMEZJS1BvaTBRVmpuWHl1OWJoNXJYR3E4Qzk4UEJSYw?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Best Buy Co (BBY) Maintains \"Hold\" Rating, Price Target Raised to $69 | BBY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLWlic21EbXJtWG00Tk9ONmhkTXRCakdURldJSnZOdWxiN3BFZTV4Rnd4VWZvdDdWMEF4M3I2ZGdHUS01Y3J1dk5aRTFIVHhwajAwNjVMODB6QW9RT1ZmZWpSRVJHdlRLaHc4UVhYN0Z4aDB2OU5SZzF5ajJFTzFNRzV2em1CWXdRRER0bFh5dm1ZMVBiN0JxYWZCNUtsaEFZaHFXc1J5eF82bU8wTHFjWndXR1JqVmsy?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Mackenzie Financial Corp Raises Stock Holdings in Best Buy Co., Inc. (NYSE:BBY) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXZoV0RCeHZXNHkyeG1YeHlIRVJUbkhkaGF5NTZrQkpJZG16YjRTMFphZWgyV0RfbnpyVlJEaU1CUU54OGxoc20wcFhFcmVtV1Q0eHd1VTZ0aGRLRVRGUVEybzFhVjFLTHV6VW81YmJyMkdpc19GZjlxczdsWGd6OTBrMHI0WDE4QmRHV0ZrZVNqV1c3dEFpejZqYl84VmVfMi1CS0JTbTlzNzZwQzJVY0szOGVDYWhTMUJpdW5ZX0lXQmlvdFFNekV6M3NXaUU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Top Stock Movers Now: Nvidia, HP, Best Buy, and More - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU28tWU9xck9HcDhiTG9xdlVMaHFrdGVPXy1OdVJSTXdyQnVaRUVzel9ZY29GMVNrREl3WHNHanFoTmdpSi1xM0lWMzJ5TzRmTzFYUTUydmJtcGY1MWN3RWFISnQzbzlDNGM3N0x2V1VDUmREZHhjVElvX3ozSm5iUWEtcU5VQmxmRE9VWFJhOA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Best Buy Announces Regular Quarterly Cash Dividend | BBY Stock N - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX3hDbXlxbjRZWWZBWnptMzRuY2V1bXR3a3F4NTdQTTZMLWpSZGhXUDUtLU5EZVBuTlRVbFZvM0gtUWJBX0hBaTFlV0lRaGhQWDRMVm1lRnpYR3M4RVpJUmdaVGVheUhGYjVPcWJpMWpMX3kxdkFLckM3V0xjal84NW5TakFjd1NLMmVVQzdKWFQycjJ1dmNpYllHOVY4cVY4NEFqbHJLNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "S&P 500 Gains and Losses Today: HP, Best Buy Stocks Drop as Tariffs Weigh On Outlook - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HYU5qcnNUZG4xVENUci1Rc1BXUmZab1R6aG1fbTVUWEcyNHhWdG1HUmF6QjJoUUFUZXNLR0puSlUxN3loZ2pLMEY5dl9zeGZCOEZaMjlYdWJHR3lVaExLc2dFaUNZME5oNjNoY0F0RXNPNGQ4ajJvQk0wNmg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Best Buy (BBY) Price Target Lowered by DA Davidson | BBY Stock N - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXhweXhSaWw5RWJxTzRiRWVsb3lySUxJWmctR1pZOXpBQXJaME82WElLSUlpbjBrQTdMeWhjb3ZEVktIc1dLYTNXclRzRjhoYVJRMWJiNFZFMVRJRVlFT0N3c2c5T29hVGZ5S0J3VkFXY3B1b0hHWEs1ZHkwTWQ0UG41UG1wZVlQNjlMSmx4RFJsaTNUUDFPNUZaNUJWRENOV3dHZA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Best Buy (BBY) Faces Price Target Reduction by Piper Sandler | BBY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWFmaGhhSndiakdjZGx1bWt6OERTZFVWRU1KVnRlXzhmREtlamtLRkdsQ2JUWW5LTG5FUmZiblJpQWVzeldDMWZLTDBFOFZlSVphUjBLUDhxN1lET0tSWW96Y0pNVlVTeGxkbkZxRUs1QWV5Z1dGeWNWaldUSzJtQnpDZUt5RTNXUkp2SndZb3h0aVFoWFVwSjhHckRfMnlnSWdpQVM5dTRUU2VQUXhIYWxB?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Best Buy (BBY) Price Target Lowered by Loop Capital Despite Buy Rating | BBY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXY1bWE0NmRWVHJtazV6ZG1aUUh0Sm54d3cxX05iLUZ4bk53TnZsYldIel9DSm5BMWJDd2VkYkFYUnozbUZTc0lfTHRwMTRDUmtkbjRUN3FnaVFtR1g2YjhjWFA3RjY3QjZXVkxPT3RNaEo4a1A1cTRjc0pCWmMyTVd4MjJYR1pZZzdzZXRta09aM0tqalA1Tld0cFhqb2dMcVZDYXo0MWlWbkRFZHcxQ25GVy01U01mMTAyUExHYw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Best Buy (BBY) Price Target Reduced by Morgan Stanley Amid Tariff Concerns | BBY Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQazgyVVQ1T3ozbEQ4VEFvbkhUelVKdHhZVEVXZndZQXRWNkNCSFpkQ3RwMWNXZ3hpWGR6NXJMWDliQkdCOG82OHdOamhuenRKTW5xaFIydVU4UUxjd0FKeGJpU0ZscTZxb2hRNDRFeUl3bnVkZ2pLZmdsaGNZX19NQXpEQnlVZEQyUXRYSGFEUHd2NWVOMzRkdDFhTmxORFZaQWIyenV3SlZaLWtJMzBtZDlQNGhEQVFSRTVBUHBobjF3WGVqZmc?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

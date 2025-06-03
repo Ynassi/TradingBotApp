@@ -2,34 +2,34 @@
   "ticker": "BEN",
   "name": "Franklin Resources",
   "sector": "Financials",
-  "market_cap": 11761159168.0,
+  "market_cap": 11225128960.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.43478,
-    "PB": 0.9524215,
-    "EV_Revenue": 1.782,
+    "PE": 30.956522,
+    "PB": 0.90901357,
+    "EV_Revenue": 1.737,
     "ROE": 0.02799,
     "ProfitMargin": 0.046490002,
     "GrossMargin": 0.37884,
-    "DividendYield": 5.87
+    "DividendYield": 5.91
   },
   "technical_indicators": {
-    "RSI_14": 78.6907343991254,
-    "Momentum_10": 11.565302874325024,
-    "MACD": 0.933555371704628,
-    "BB_Percent": 0.9121701192115574,
+    "RSI_14": 55.41947794900322,
+    "Momentum_10": -4.557634444433554,
+    "MACD": 0.5915536570271058,
+    "BB_Percent": 0.4498707487031003,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.895218910042778,
-    "QualityScore": 0.2921975591301449,
-    "SignalScore": 0.4889189078772515
+    "ValueScore": 0.8934607573190364,
+    "QualityScore": 0.2877823306117119,
+    "SignalScore": 0.6220100118373835
   },
-  "volatility": 0.0240506783116506,
-  "beta": 1.419,
-  "return_6m": 0.060355956273832,
+  "volatility": 0.023974157726344,
+  "beta": 1.458,
+  "return_6m": -0.0233632353047622,
   "analyst_rating": {
-    "recommendation": "hold",
+    "recommendation": "none",
     "analyst_count": 11,
     "target_mean_price": 20.0
   },
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 21.64
+      },
+      {
+        "date": "2025-06-02",
+        "price": 21.29
       }
     ],
     "current_price_data": {
-      "price": 21.64,
-      "change": -0.16,
-      "percent_change": -0.73
+      "price": 21.29,
+      "change": -0.33,
+      "percent_change": -1.53
     }
   },
   "news_sentiment": {
-    "summary": "\ud83c\udfaf Synth\u00e8se courte :\n\nFranklin Resources, Inc. (BEN) est un des plus anciens et des plus importants gestionnaires d'actifs \u00e0 valeurs mobiles aux \u00c9tats-Unis. Il s'agit d'une entreprise financi\u00e8re sp\u00e9cialis\u00e9e dans la gestion d'actifs diversifi\u00e9s.\n\nLes principales tendances cl\u00e9s des actualit\u00e9s r\u00e9centes concernant Franklin Resources sont la performance financi\u00e8re, les investissements en stock et les dividendes. Les deux premiers signaux positifs sont la performance financi\u00e8re de Franklin Resources, qui a augment\u00e9 de 6,2% en trois mois et a annonc\u00e9 un dividende de 3,",
-    "sentiment_score": 0.0,
+    "summary": "Franklin Resources, Inc. (BEN) is experiencing strong investor interest, as indicated by the increase in shareholder returns and the fact that the stock is being targeted by short sellers. Despite analyst skepticism, the company is also offering a high dividend yield. The company's earnings preview is also generating excitement, as CEO Johnson is expected to detail Q2 performance. However, there have been recent selloffs by major shareholders, which may indicate a mixed sentiment towards the stock. Overall, investors may want to carefully consider the potential risks and opportunities before making any investment decisions in Franklin Resources.",
+    "sentiment_score": 0.1,
     "label": "POSITIVE",
-    "positive_ratio": 0.05,
+    "positive_ratio": 0.1,
     "neutral_ratio": 0.9,
-    "negative_ratio": 0.05,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Western Asset Inflation-Linked Opportunities & Income Fund (WIW or \u201cThe Fund\u201d; CUSIP: 95766R104) Announces Notification of Sources of Distributions | BEN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQmUwRDFYdEpPNjFydmJQNWkzSXh4b25kSXZKOUhIYzc4NzBOS1k0WGd5Q3NobEM1ZDdsWEhWcDdvbG9xWUhyNTZiU001Uzd5Q2ZrY2JWYVJCczZhaVMwSjh5T0tmRzdGTHV4S3p4dE1QVWd2cWpMd2dldEMzMmgwUEEwMDVWRGdMelA5QjNySUFBYzZRYUVUQTFpTW92cF9uQjdkN3FwQXhkOFRFc1hwUTIxbm1MMV9XbHdJZkZJbkJ4NE9fQzNzX3o0bG50OUU2Rnprc2dMal9NT28waUYwZm4zQTVZRDE0ZUcwaU1FZFBSZUZ5M0ZBdnFRaXJfQXNKTUdsV015VHRYNWV1MkxFMG0wTTlabzNRYVRWVQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Franklin Shares Up 6.2% in the Past 3 Months: How to Play the Stock? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdFN5dzc2SUJaYXg1SWh6VDRKSnRHTEQ1WnJfWGc0NE84aDRWUE1NZTRvX3drQ0ZMRHQ3X2x6WFAxMHhic3R6NzN4aEMtaWlCdkpWUWZ5X3dOdkJ5dDMwbEJJVm5ISFBsNWxYcGIwUUlsdnZObkNyWnRxLXZWS2RPM09UcTN4MFVSMkdXTGtyS1RQT29nQVhCMkw2MDN5OUpNVHZTaE44bEt0NmNFWjBRWlhjTGtaaXJyQl9XTzFB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Franklin Resources, Inc. (BEN): One of the Cheap Dividend Stocks Being Targeted by Short Sellers - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMHpicXlxZVdLbmJ4WFAzSkZ2c3BTaFhQVTdzWU9vODJ3bjU0bGs0R2NEVkFPWGZLZkFaNUwybUFQMmJrUE1BVnNBZ0xuNEVUa2lVNEF2cWxXc3pVNEo3czJobm8yemNuY1M3b3FXeko2a3FFV2tOam14NWJfLTcxODZB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Wall Street Bullish or Bearish on Franklin Resources Stock? - MSN",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZ0Q4aXpyQTdNR280S3JtbzZHbWZzZUloajE4SG40b21PdTJYbHBjcE9FeXBxRFFacVhLWHFmYXZHU3NFNjlDelpuT0xJU3YzVEFhOXN6bndpVVhUOUs3YlplVUJMTW9PdFVXTEVWd3Q3ZzFMVnVMSnFEUS0zTURISC1xa3c0TTc4bnpzRzJfMm0tWUttSjNLYWlJX2RMWnl4Mzd1aW9zcDQ4bmpsdlhfdmN5cFp1VlFyOHdLR3ZCY3VXUnU5Y1FvS29VVDZ4ekNSWHQtRU1fd04tby1PWWhyVXFQUTJvRlotR1NDc0NVeUM3NEVhZ2o5bWctMGp5TWtwYXZFY2ZwM19DR3RhWHZaMW95d0xsZE0yWERoUVFvX2sxVm5DM21yc1hJRlJRMFJRbF9peldRVHZKb3AyZ2M5blBodS03VnR3d1ZV?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Franklin Resources Boosts Shareholder Returns With 3.2% Dividend Growth - Key Dates Inside - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWGF4eWdGdmtqWDVveVN4alpzQTgwU01Dd3Qwa3l3dDlPbmNlY3dwWi1jU1NCRVZ1TnVsTjYwV3hiQWxPQnROMnhDZno5bzdWY1ZJZlZZTWJaVE1FLXZmU1V5Q2FjTVBjQWZXX3pWb1NEU3A0WUFvdVFValRFMUtOZDIxMkR6ZTFVUVhjU3hyS29oTE5CTkd4elV6Q0U?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Cetera Investment Advisers Sells 166,976 Shares of Franklin Resources, Inc. (NYSE:BEN) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaGVmYVFiSnlBcUt0anFBM1VFa2VZVFZGQ3I1WFhPeUhZSkI1WUVuVm5Bdl9XU29LMFkyTDQtRkNKUXhFa2hFeld0c0hSLTU5NE80Qi1FVW9fQ2VoME1obmlaSnRXSGZreU5neFJYdWFJaU5lVml3VUZvTVF5Rm1PenJsSmg5ZjFVeFZ5QWZWZ2lrcF8zbEtlYkZEX3NVNFdEZTFzTUU3NHdMOGExUWQwVEc3YVJ5a1luamlYenB0QTZGQTVESGRzcU14dElSeXlQLXdyMXpfRF9sYV9X?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Franklin Resources, Inc. (BEN) Stock Analysis: Exploring a 7.09% Dividend Yield Amidst Analyst Skepticism - DirectorsTalk Interviews",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYk43anpNaUJDMHRFOEt6c2Z3dFYzMXc5blEtdDQtbXJ4R3FwZjJJTWFBanAwVkY1N3pEYVVHR0lULVlTaEpaVFRpOVdRZ0xNZVhSanRlanhseWZfa1EzYWxRWGhFX0VVbzFSSlhHNmhZV2Z1NWJZMWk0WW9VekFBRVZ4b1cyVGo1LVZ6dE9vdHAzeHlXY04zZjJkOU8wa0VkbUEzdVoxcG9qOGRaZ2oyUDZ6TXpLUzBwckxBS1hoMEwxb1J2blQxejFGWUdLZlY3R0RwYkM4X3YtTkl6WjhjUkk0bmg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "ETF Alert: Franklin Templeton Sets August Liquidation for Western Asset Funds - Critical Dates for Investors - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb1JVVndDZ1dFdFdwUHFObHVVVnZBWk1VbWtUenVsRnczV0F1dTNwMzg1UnVXMW1INUlySDNfMU8tbWhaR19yTWxaWHZkN2J0blVoN0o0MXBPSUxBdm01SGgzZ0FUUExKTEM5Tk83MWdWdi1US0REZl9tLWVGLXJLSUd3UTViNXZJN0x1SHU3Yl9scGFlY3RDdzVhT3dWb0k5cnRHa3JFTktxU082OEsyZTN4WHh1LWRr?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Franklin Resources, Inc. (BEN) the Best Stock to Invest In for Passive Income? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOenMwYzlkaU9BRkhPcDBQSVhHVTk1SEF1ck1NUDBpcjNNc2o4cjZhV2lEUUhDTV9hNDR6dEJIb3hxd08zbnZRNU00ZnBGODlVcWU1ZUYwMHExRlEzcENIR3kyMVdEV1FIcHlnSXdTQklGbEtRTUhYb1FQYm8tUjR6Tm9RNA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Shareholders to Demand Action from Mark Zuckerberg and Meta on Child Safety | BEN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZWZZWlMzNmtLV1l5ai0zMjJzSHZQTlNfalVpeG91R09HUjlDU3NuYXNhOEZpa01WYnlpV2VWaV91NmdNMEdOU21lYm1CU2FlUWt6ellGRVNMdEgwcTNzWnh6cVRvUl9YUmVZLWpnbWJHOXFrUmx1M1lranNTUnJ1SHVfUEM2ZTE0NnJwOUphYi12WlIzdk9YbTdGOWVjWEFoWFZFdkVaV1JLMHRjeHQ1WUhaOEp4dXRXR21hMUVTcHhyTmljYkYtZg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Franklin Resources, Inc. (NYSE:BEN) Shares Bought by Two Sigma Advisers LP - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNmpreW84M3JJRmh4U2U5QzhSUzUtZ1JmTV9KeVhlV0s5eXdKSFc0VGxLUlFoRThKSFFyRTJMVDRXU1NEbTliNVd0ZmpWWW9KSEpRZ0E1bXFXaU5SZmtNU0R5TXVzVFlJX01mUm5TbWRoTHdjN0pDcmRibGFGd0ctWWpvSXZpMGRQVnNKZkIxMzctemJMTkJWaHA3OHZkWWF5b08tZ3NQVzQ3LUlYdnZQQ1pOQ3hhMEwyLV9hVUExU2lsaFcxclRMY29FYUc5dHhhV25jc0Vn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Franklin Resources Earnings Preview: CEO Johnson to Detail Q2 Performance May 2 - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTFBOLWtwZXIwYzVrU3FaZE9xbWgxd1NDVjdxcVk0TjktcmtFdXVZTmZCcnNGcHlQZl9FN1Z2MXFGNTVnQ3UxdUJRU0s2c3BQRjlPUGxxcTgyb01hdXFORVBBUzZyRFBhVThCQlhtcjB2VHN1VVhOWFNIRmNDQWlLR21ucXl4U24tYXRwQ1RSX2dpeTVndDVRLURPNHdHVHN0U29fYzBieEtsRkFLeHBMeG1EdEtjNlJidHBnbA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is Franklin Resources (BEN) The Best Low Priced Dividend Stock to Buy Now? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZUpaTXFRWE5xbGxRMktwNnhLMzdWWmYteFgyY05TY1g0VmdxY0xDaXp0c2VlS0J4ZEx6azdRcGZaREE4TlFYeldQNk9kLUZ2NWJ6QXhqNVdidkJWd1RPSGliMFhqT0FUOW1VUjA2eGxiQVpFdVBPYkpnT2tmNG41dkYyRQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Franklin Resources, Inc. Announces Quarterly Dividend | BEN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSUpWNnlFdC1jR2Vxc0xTazJWSUV1VVAxaDZmNEo4RHNLVE9ibkIwbjl2d004OG9UTjA3cUM3UnkzakRlOFA3WUpCQU1sUHlhRlA4dE5tSlBscGI3REVPZmVobUR5QVFYWDQ3V0xRWnp5YUQ0cjRyTmF0WGxWdWZpVzhfWVVJZnhfeHZTeE51MXNWdXVqNW9INTBKTlV4YTV1dVJJQ2V2S1VqM1VsSjFNWV85RWNBVWFJTDl1R0VLQ0FpSVI5c3I2ZUJ5YlZaVVAxa2RBQy1Ed3pvSjl0V1RkcUtqdHIwa0VaYy1sSlNjS3k?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Market is not liking Franklin Resources' (NYSE:BEN) earnings decline as stock retreats 5.7% this week - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQkRzel9NR3pzNXZ2OGRWOTN6enJtcC1sOE1MNHRpT1ZmZHlyOU1hbnRyQ2tIX0ViSTgyWWthUDhHRFNSd0JlaUFQazhWTTNWM3Q0NG0tVEUxREFCYl9KMkpCY1kxVkhqeGc4bEhYbl8xTEZGbTcyTWxyOGRxMzZvUUVrWnlJa19kVGc?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Franklin Resources (BEN) Upgraded to Buy by Analyst | BEN Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTXc4cDM5Zm44dGVSZTBkLUNta05MRFBMSU1nQXBkYV9IQl9RMVZSbllNT1QwRWw5SDhoMW92elQ2RXgxQzNzRUxtaXFGN1hpRmFYbkFQY2hnZGhycDA0ZTgyNkVwOFI5czNxbG5kbHFnTFJGMThySmQ3d3BMOVVJVXBWX1FGNjVrUVoyUllibkRkRmZSM3RVdnFPZks3dmt5MWdEaEVHMA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Franklin Resources, Inc. (BEN): Among Incredibly Cheap Dividend Stock to Buy Now - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWxXYVZSc0ctT1JMWnBnRWdGN0FwYk5XSm1RcnRBLU01bWgtcVY4dE1mbFdrcHlmN0tBNXJ0VEllUTRFVlVnVk5na09IOE1XbFh2dWFwU1FkMld5c21ZTkY2R1pvMWtsNHhlOUZYMjdzdmFWZ0hsSk5PVHhHbU4yUXRSWGk?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Bullish Franklin Resources Insiders Loaded Up On US$13.3m Of Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaUM1ZTUtMVhoX01FbnBPczk1TGNnYndDaVF6TWlzTXo5SWhleGJIT2FYWlNvMUUzbkhhTFVYZ2hHdG4wZGZBZ3BsbHNpdFZoWk9TUWluZ3ppaUt0RTlmTXI3Q1Q2eHFXTmgzcUxKNkI5WjEyQl83a1liaXZvM21NaHh3Yk40TjJXSkUtdXNHR3NlUQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Franklin Resources, Inc. (BEN): One of the Safe Dividend Stocks with Yields Above 5% - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPclRibTRaMTE1SWhKcmtiaDhCbXBnWTVoSGpmY3lBSDNHWGpKX0h1NlhjczZRX3k3ZHZpc0FScFhkR1F4UkJ0VjBkRFQ4VFNra2dmbGVMd3dmWmd5Z01GMU5lQklaRWpEMnVsWlFUZk5JbkM1UUhEckY3YzQxX2FnOWFR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Here\u2019s Why Franklin Resources, Inc. (BEN) Is Among the Best Dividend Stocks Under $30 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzdfanFHb3M3SGlVU0JTX3dQRWUwUDlsUFJ5dEdMR0tRd1RKbGtUeDIzd0tXWnRZMWVUalQyZFg1V3pOeWdfejhrRXIxOXIwOUh2anZGYlJORkZIRDk2Ukk3bUxrRUVVQ29pNWZJckFicWNHTnhQV2Z2aTRWb2ZLdzd3?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 1,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

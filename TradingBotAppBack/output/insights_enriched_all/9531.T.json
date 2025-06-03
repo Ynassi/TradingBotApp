@@ -2,32 +2,32 @@
   "ticker": "9531.T",
   "name": "Tokyo Gas",
   "sector": "Energy",
-  "market_cap": 1688873467904.0,
+  "market_cap": 1772733726720.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 24.096136,
-    "PB": 0.99199694,
-    "EV_Revenue": 1.081,
+    "PE": 25.276838,
+    "PB": 1.0412542,
+    "EV_Revenue": 1.111,
     "ROE": 0.04112,
     "ProfitMargin": 0.02814,
     "GrossMargin": 0.15406,
-    "DividendYield": 1.68
+    "DividendYield": 1.65
   },
   "technical_indicators": {
-    "RSI_14": 43.5570944419754,
-    "Momentum_10": -2.340290955091714,
-    "MACD": -2.4135855469885428,
-    "BB_Percent": 0.0823029039832866,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 60.36692088214459,
+    "Momentum_10": 3.866695150608844,
+    "MACD": 25.83865150525253,
+    "BB_Percent": 0.937202113567602,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8985650553191378,
+    "ValueScore": 0.8961529962672264,
     "QualityScore": 0.4086509235941087,
-    "SignalScore": 0.7314302987383516
+    "SignalScore": 0.5362614719260401
   },
-  "volatility": 0.0209643412093637,
-  "beta": -0.193,
-  "return_6m": 0.2093994778067884,
+  "volatility": 0.0166602817020033,
+  "beta": -0.21,
+  "return_6m": 0.0854932364998444,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
@@ -510,50 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 4845.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 4862.0
       }
     ],
     "current_price_data": {
-      "price": 4845.0,
-      "change": 84.0,
-      "percent_change": 1.76
+      "price": 4862.0,
+      "change": 17.0,
+      "percent_change": 0.35
     }
   },
   "news_sentiment": {
-    "summary": "Les titres concernent les activit\u00e9s de plusieurs entreprises cot\u00e9es dans le secteur de l'\u00e9nergie. Tokyo Gas a annonc\u00e9 un achat de shares de 40 milliards de yens, et a indiqu\u00e9 qu'il pr\u00e9voit d'effectuer d'autres acquisitions prochainement. Woodside Energy est en n\u00e9gociation avec au moins trois partenaires pour la construction d'un terminal LNG en Louisiane. Woodside Energy a \u00e9galement signal\u00e9 une baisse de son profit \u00e0 un niveau trois ans. Japan Gas a annonc\u00e9 qu'il investira dans le d\u00e9veloppement des march\u00e9s de gaz en Asie pour am\u00e9liorer la s\u00e9curit\u00e9 \u00e9nerg\u00e9tique et le n\u00e9",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "summary": "Le secteur de l'\u00e9nergie est marqu\u00e9 par des mouvements positifs et n\u00e9gatifs ces derni\u00e8res semaines.\n\nLes investisseurs institutionnels ont perdu 3,9% dans Tokyo Gas Co.,Ltd. (TSE:9531) dans la derni\u00e8re semaine, mais leur perte a \u00e9t\u00e9 compens\u00e9e par des b\u00e9n\u00e9fices \u00e0 long terme.\n\nTokyo Gas a annonc\u00e9 un achat de 40 milliards de yens de ses actions et planifie de faire plus dans l'ann\u00e9e suivante.\n\nWoodside est en n\u00e9gociation avec au moins trois partenaires pour la construction d'un terminale LNG en",
+    "sentiment_score": 0.0,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.17,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.17,
+    "bullet_positive_count": 0,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Tokyo Gas unveils 40 bln yen share buyback, plans more next FY year - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUE5d3JFeHVwb3NBc1VKQXZSTkJTSVh6bEN4bENfTVhSSEtrR0ExckhlTUY1Zk91c0tXc3JVMWZmb0tEa1dxWVFaaEVVbEVYb1Y2ckJGNEV2dDlkOU81V3VTWnVfNVo1OFlCTE9YSHVsblhVX2gzQldHNXVDNjVRU2phY3Z5M05RQjJRWU1yeWppUUs0U0loWXpjR291cDNna3hQSjJVTGZLVzlqeTZSTGhwZGxEWEU?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Woodside Negotiating with at Least Three Partners for Louisiana LNG - Offshore Engineer Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0Z2Z3FyRVpWMHpxZnVTUG5LalRXVUtaSlJNN3N0eTNXVnUwVFFka09rcC1pZkpESG9YdmQ1cjRnQTdrYTluM1hWeG5TMEVzN0UyLUdMYWFUVDhnVTFHXzdxMkV6Rkk3eUNsTXFGRUhRQlZfNHlwUUwwZHc2ZTZBWWVyS0JyUERJMXVyZS03TTR1UFBWZ2VCTmVoNEQxMVNUekQxNjJseV8?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Woodside\u2019s Profit Hits Three-Year Low - Offshore Engineer Magazine",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRzhzdVF4U0lOY2dMdTBUTVhoXzNtTDRIRDF3TzAxaEp2cDB0a3VMaWNYVTRqQXhqTm9YRjRsWVhzX0wyYnVQdkhPb1F6Wk9jc2xvR282T3dEVDBzR2xzajhZdnJFV2pSMGw5Mm9UN2ZZX3VuQkp1STNvSHVVTVdWRQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Japan builds gas markets in Asia to boost LNG trading, energy security - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3RrQUJIUGpqbnJLd2JmMDZyc2Y2TzhBT3JTb3QtZThWVXRIU214dS1xdXBkei1mOWFXWEFjTnBZVEdFay1pazJOZU51LXdkM211TnY0alV0NERQNkk3YjJGQk1NdXV4MUlHcWpwSTBoWDVfelM0QkZwWG1xMFk0dzFLTno2U2o4c0VHQm1VS2pJcVlPUGlOdW1rdWxneFFwalB6bWJFV2FoZUhRR1cxMnptLVVSUQ?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Tokyo Gas unit to buy U.S. natgas producer Rockcliff Energy for $2.7 bln - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC12V3k4UFp5UVQ0QUlvUGdULThxV3JoQ2hkOE1DaFlUcEZOaURpTDVldHlGNDNoTzdEemtzNWRMMlg1SVlfNDBYMFlhRjViN21qYnlycWY5bnNOazNQNkwzMEZvaXAzb1hDV2ZuZ0JCMFJyVXZTWm9idTJOdzhJWERUQ3dJU1NlaFVEOXZZQzlkSVVKbTl2SGlZclpLTVBaTlRERmVEVzFjd3UwSTZrZw?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

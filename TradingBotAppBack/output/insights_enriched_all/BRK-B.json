@@ -2,11 +2,11 @@
   "ticker": "BRK-B",
   "name": "Berkshire Hathaway",
   "sector": "Financials",
-  "market_cap": 1093453938688.0,
+  "market_cap": 1083578515456.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 13.530913,
-    "PB": 0.0011305664,
+    "PE": 13.387836,
+    "PB": 0.0011033084,
     "EV_Revenue": -0.589,
     "ROE": 0.13187,
     "ProfitMargin": 0.21788,
@@ -14,20 +14,20 @@
     "DividendYield": null
   },
   "technical_indicators": {
-    "RSI_14": 48.09759790023943,
-    "Momentum_10": -4.722117601112518,
-    "MACD": -2.5064330328061715,
-    "BB_Percent": 0.3578749502035149,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 42.33792431283733,
+    "Momentum_10": -2.296279989627904,
+    "MACD": -4.053780923400893,
+    "BB_Percent": 0.1472991902947407,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9056725154458476,
-    "QualityScore": 0.3662083572767317,
-    "SignalScore": 0.7207450224452068
+    "ValueScore": 0.9035710005581008,
+    "QualityScore": 0.3692493720608885,
+    "SignalScore": 0.6744882497020319
   },
-  "volatility": 0.0143867704019113,
-  "beta": 0.869,
-  "return_6m": 0.0891782809465489,
+  "volatility": 0.0143522749305355,
+  "beta": 0.843,
+  "return_6m": 0.0514948102597834,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 3,
@@ -526,125 +526,28 @@
       {
         "date": "2025-05-30",
         "price": 503.96
+      },
+      {
+        "date": "2025-06-02",
+        "price": 502.64
       }
     ],
     "current_price_data": {
-      "price": 503.96,
-      "change": -2.22,
-      "percent_change": -0.44
+      "price": 502.64,
+      "change": -1.03,
+      "percent_change": -0.2
     }
   },
   "news_sentiment": {
-    "summary": "Les titres trait\u00e9s concernent Berkshire Hathaway, une entreprise cot\u00e9e dirig\u00e9e par Warren Buffett. Les analyses portent sur le prix des actions de la compagnie, les strat\u00e9gies d'investissement de Buffett et les performances de la soci\u00e9t\u00e9. Les titres sont r\u00e9partis sur plusieurs sites financiers comme The Motley Fool, Barron's, Yahoo Finance, Morningstar, The Globe and Mail, 24/7 Wall St., TradingView, CNBC, AOL.com, MSN, The Motley Fool, and MarketWatch.\n\nLes tendances cl\u00e9s de ces titres sont :\n\n* Les titres soulignent la performance des actions",
-    "sentiment_score": -0.15,
-    "label": "NEUTRAL",
+    "summary": "Berkshire Hathaway (BRK.B) is experiencing a significant decline in its stock price since its last earnings report, down 6.6%. The Buffett premium, which has historically driven the company's stock price, is starting to leak out. Many analysts are questioning whether Berkshire Hathaway is a buy, sell, or fairly valued stock after its latest earnings report. Some investors are looking for value in the stock, while others are concerned about the company's slowing growth.\n\nWarren Buffett recently sold a significant portion of Berkshire's stake in Bank of America, but he is also loading up on a famous consumer brand that has skyrocketed in value since its IPO. Some investors are looking to buy Ber",
+    "sentiment_score": -0.2,
+    "label": "NEGATIVE",
     "positive_ratio": 0.0,
-    "neutral_ratio": 0.85,
-    "negative_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.2,
     "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Is Berkshire Hathaway Stock a Buy Now? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb21HSXc4ZzRJWjgtakhfRE92dUVsTm9DM3B0aDdzSUlZajN4YkU1bVRhZFdhVWlBVnlGWlJvSWt2X1EtVnpXemk1cHk3RjJjeTBFVUZ3cWtlUl8zS0gyMXRycF8wV0pXT2VMdU51R2k2eHdFa21kc21HR1U0UVk0M2xSYWpGZE0?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Berkshire Hathaway Stock Is Slipping. The \u2018Buffett Premium\u2019 Is Leaking Out. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1c4Ykt4MmVZZ3g1bTFla1lkbDFtclJmbXNzMzloelZiczlOdVVGdDRGcFVHdDJhaTFoZnNSem9hb0MtbWVpMmVyN0swVjF6MTQzbDJfTTJJM0l4cTBLTEF5Z2psdWtvQlZPN1ZlTjY1SUxqdkoyLU9QWVNaanEtYzBkcThlTzlI?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Should You Buy Berkshire Hathaway B Shares While They Are Below $550? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ05iX0ZEcV9CMVpEcDlBZGdTX1ZlcFZaWXB5bWhCOXF1ejFuZktiVkRPVzA5aXFwWEFqUTVSZmtKZDZEU2gxNkswU0VhVFUzMVdvY1NPaDVLOVFfWGFRTGtOMjRJY19MMWV0NkIyUDlZaUJJbXN2Vmo0cFZ6OVAyQmc4dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "After Earnings, Is Berkshire Hathaway Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSjFTNjdYWUt1M2ZQdmlKOFh3bDFlTE9OemxEUUpWNnM4dWt5bkQ5dmlland4QmlyOXhmM3o2TE14UDV5Y09TeWZueVFlVWJXVFFfcVd6enVuUkZOcWtLSDVGLXJYdHQtRm1MdmQ2b2o5UklOelJNd2p1RUJmOGRqYlBiUjFyQkd4MmRIT09SVVgxWVhGNlJJWjFscWxMMmQzN0FJRkMtd3Y?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "This Is Warren Buffett's Biggest Warning to Wall Street Yet - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd0tPY1hLWE9VT2RPTjJYbVIyNTd4cWRWTDd3VnJia0hGZFRNQU41RE1JeW9zVjRmbXhsR1ZkNFVFZmxsYnhVRmxOUTd2RVJkcEJXNW9Bc3FOWTNSakRGMElvdWcwMXZZMHczT1BEYTlkRVFCclVhOWY5Sm9MbUIzNlJwc1NCMk44Ylh5MUlmNFh5TjhHVFRDdlpwRkd4UXVyOVl4UkNDOV9wdzlZWDVZVXdhWVhKb0VqT0lrbktaLUU0amZkckNBOWlnYjZDdnpGT0hsVFpMWXQ0dE1RbFhyZA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Warren Buffett's Secret Portfolio Was Dumping Walmart and Buying These 2 Stocks Instead - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSzlpYl93dUdac2Q2UUYtbEV6S1U2REdXN1FQNFhVUFlZUmlvVnFIRk1BVEp0cGx4VWktbnB4TVhJWnlvQkhiVG4yVXE4UUcyRkxkUDNrbk9YSUFhQzhGcnBjRngtU2ctVUxJYTZDRTNMTVVRT1Q5S2VsWWFRUDN4Nm8zZVhvQlEtX2pUTzRvN3dyZkhkam5fZlZfMnV1ZXMzak5nWWYwMHhiSFZpdVc4a29saEJuZ3czVEtwZTNlRHh0empoNHJROE5R?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The Zacks Analyst Blog Highlights Berkshire Hathaway, Chubb and The Progressive - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZlY0TU1FaDVKQi1ialFGd3RiWUFNZnl0WnJtakFhbml0dG5pN2RLdm1qbmNaVi1SVU1tR2VyajFFOFNKUTZJSmNGLXZ2UmNva09iMExtU3dqRDNfRlF0Z21OMlJsRkd2ek43RERIUHYxVFVlRGhHVUVudDU4SHRKNFloLXd3QnpVcUN0RDNxTzk5VnlQRmYxOVVSMGpVYWhqTExZNWJhd2FBYU5hVFRKbUR6b1hSN1Z2QkN5anlyWDdCVVQ0VGFucnVNWms2dDg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "If you invested $1,000 in Warren Buffett's Berkshire Hathaway 10 years ago, here's how much you'd have now - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaHZ4QWRiazVOWE5VRWhieHJ4anRWSzNQdU9lV0w1MHQ4RUFtQkxMNnF6X1dBZDhQMUlDQlNRWndjZDJpNFNwWnAxR3dFVVgwXzhwRGo0REU3SmowbjNXUHFTSmkwcHNtOWhkYU9MbGxYUktmMEZJMUtFaTJvZWhjUHRzWjRTYjN6NktpaTZ0ZmVSVkl1VGtEMXEtdjk5VTBiMW96SnBn0gGrAUFVX3lxTE9adlUwRGVZR29NSTh1akw2bHNkeUQxeDNiMVg5R09GT0diOElwdXRrbDZwdUlxY1dMZ0lMQTVzMEVUbUNaSGtqU3Bod0ZnYkhaUnZZZkpISWI0U2pHNHQ1dklRcHFsaDVZYlZGT0sxMWY5LXcxTkxZajZZNWJ1WnNYLVhtalJXeDBXTnJqQjVKaG5nS1NRZGpMY0JuOUtmNzl0c1pGVjd6cEFSaw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Warren Buffett's $348 Billion Warning to Wall Street, and Why the Stock Market May Crash - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeFp5VFZ5b1A2NGg4dFE2Z1U0bjBJOHNYYlBiZUdGd3I2VHFfYUxZSGc1SUFJb1U3R2VyWmVwZ1MtU0hlc2xQWG4tZzRLWkRGTVFLdWI2VGZTUnJRclkzYVZuOU9PaUdsdm45YUNZeHpjVXhBaFFZUm42bUotbldUTURzRTlGVkl4QlE3RHlTaEFJTWtCamFNb0JPRUd6bFBxMlVkYkdIZFQ1WHlMUV85MS1pMW5QbkZWWFpjTlp1c3BPWlJiblhr?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Berkshire Hathaway (BRK-B): Low Beta Stock in a Volatile Market - MSN",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY2ZXMUozUDhDYm9NcEIzX2ExanB3bTNzYmVGS2Q0bjd1NklCR2prLVhBZ1hPc3VMSDd6M2JWX1ZHUTlzdi1mU1Q4cFZtVUNMeXhSb01YakFZZUxVNmpPSWJPYXVKTk85LVpJODdmdzdPQ3k4M2FUc2lIQ1lQRkdPMHFsTHh0NUFBWjJ5UUZNTGtsOC1RN2hOVk1vMUxFSHZwTW1SYUVLVXp0alFsV3BaaFZvTEVvUzQ3Tkt3N0RHYkZSZWE0QVBpQWExWFNSeXNJVzZLYmt6UjFaUkJyLWxwanJhTQ?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "Warren Buffett Doubled His Position in These 2 Stocks Last Quarter. Should You Invest in Them? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3BrS24wdjJ2TnNxM2hiMkdsY2JPVjNjWTJhekJqejNXYkFGWE9IRk9xUUJLRGtDVXFXYTZkZGF4a3BoWmJBY0YtMDZFcFBETnBSRTFnd2l4cTk2QWlWZEJzRDRYSWU0MFk5MlFRUnI3V3VZdlBwOWtKR1BJTWhKNURBUnotY3Nja0RTZWNFbDVYQjAycjNuSQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "This Warren Buffett Stock to Own Forever Is a Buy Today - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTS1CX1lEMWN0RkEyWm9iZi1qX2RJQzJ3a1k1aHRkWTZoOUdUandzeDBjOGg0eUNKLUY4SE1WX2V0eUNQekdfYjd2ZFNXZTRRMHk5TjlIUXBpc1lWTTg3MWl2akY0ZUYyVHdhcGZHNVZraWQ4V2syYjdXQXVNLTBBVTdidkJDR1NPWmJGZVVCVEE?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Berkshire\u2019s Class B Stock Has Delivered Class A Returns Since Its Debut 29 Years Ago - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKM1RZTWxVdXE5Tld6cU1FLWZtRGYtdDNrbTFDbUZDWTJORjlJdERUVzlwcUFERVBLaVNGUGdlejQ0cE1wcGl6eTg0YnAxal9Tc3JZbHVuN3NyTTA4eE1CRWdQTmFxdWRraUdoUmdwM3J0RkxiZ3JwaXpRZE91QQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Berkshire Hathaway\u2019s Stock is Beating the Market in 2025 - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXladnpjcEZKYjFmQWFmWjMwUTR4MUhhejMzVkdSZHZkaXB0cFllZmhlUURlUkpYZndUWEV0SllsZnNCTm9LVm45ZmVtVTlrblh1WW41YjJ3VklzYlV0NmVQT1hJejNpN3lQMTBzai16Y01tY1VGUlRhWVJkM1FBRVhhRi16UG5SZGNpVXJEbDc3LUZiRnU1ZnBfZ1I?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "My 3 Favorite Stocks to Buy Right Now - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXVTd1VsZTQ0QVAteHlPeDVZSkVfYWpSM2NiUnI1X1JHTXJCWFR6ZVl3SHBNX19pbjFJNWlIS3JLSmpPR0JOSzhHeXJsenVvRkszRnVua0I0eVp5ZXAyLTVKakZaMlpLT1NOdjhGc2dhXzd5VDRXMjlGY0pkYWNWSHo3eFlxZnc?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Possible Bearish Signals With Berkshire Hathaway Insiders Disposing Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkMwMk5GcUluNGtxVW9BNUZzUGpUeTZDWndwTm5tTEhTZnEzdEJPcGZoTHBkQ3RWTU5jYWZUY0pzcnVoRkFCTm1ZRGpLSDM5bW1ySUZGXzY2ay1ZRVFjR2d3bUc5ODU1QnV6bGQyY0JuaDU4MnB0bFZFMXFfWFVtLXJoY1ZEazJmSUNocUJ0cmRKQTg?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "This Is Warren Buffett's Biggest Warning to Wall Street Yet - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnU5bjVJWXVzb2YxUXVqdDk3MHZTOEMxbnoxcDhjU3dkUnpWbzA2QWpDb18zODZDZlk1ZmR0NWp0Nl9UR3BEd0s4eVRtRG1oTXhVNkxFYi1wZHJQbVEwLVRSNXVId0ptNzUxcDZja0d3WmJqWnZPOVBuS3I3R3RvSWh3SHRaTExMNnZmV3ZMTEI3b2hhNFg4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Should You Buy Berkshire Hathaway B Shares While They Are Below $550? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakc0c0tWZ1B6VlZRUnhqSlBpZ0ZIMWlWeXdSblFtVEpIYlpCdkJpaE5mSkxjN2MxRVFJelZ1YVVxTm1NNE1QMXNRejU3aDQyRE5UazRmV0JnbXFhSjFJX0NzTU5OWXljeVNjWGVMVDkzMjZvNmg0X0JYX0NpTkVFdVpsQmRaLWh4a1ZJMTYySXJPT2RxVTY2dw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Prediction: This Warren Buffett Stock Will Become a $2 Trillion Company by 2030 - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckZ3SkQ0ZVpHdXlQUjY2WW5lMmw5SExwYWxnZWdFN3hqV2JQTTJwM21KZVJXWk5ER2p2SUsxbUZhSVVyQ0phY21ISlduY213M3FoN255YUE4d3drc3IxWjJlVk9hMXlGUlVUc21oNzZIQkx6OEc5Slh3QnIwcU9QTDhadUt1dUZzS0xtMExuR3MxbC1GSUhfSg?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "How investors should think about Berkshire\u2019s stock price without Buffett - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcG9xMmg2Ni1HX1NFMDR5emZZS1JXOFVnZmdzWnJtYlM4d1ZBWmNKUDdtWUVlaDJnU1JFT045bjUtT0RYc25MLWg2bzMxT3dFcUJreDlMUkVmYmZVY20yUmZsdFZTUnlpa1lGMFJXYjVBOGgzN284V0huVk9VVTZ2emdJQWg2aTFyTm5SNjBkZkV0ZjJoaUZkckRMSlFXelByMlNpdE9kemN4Zm94RFl3ZUx6MEY?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "bullet_negative_count": 3,
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }

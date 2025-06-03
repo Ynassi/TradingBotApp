@@ -2,32 +2,32 @@
   "ticker": "9735.T",
   "name": "Secom",
   "sector": "Consumer Discretionary",
-  "market_cap": 2220991709184.0,
+  "market_cap": 2205645799424.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 22.221762,
-    "PB": 1.7522268,
-    "EV_Revenue": 1.693,
+    "PE": 22.041697,
+    "PB": 1.7401199,
+    "EV_Revenue": 1.663,
     "ROE": 0.088290006,
     "ProfitMargin": 0.090100005,
     "GrossMargin": 0.30931,
-    "DividendYield": 1.84
+    "DividendYield": 1.9
   },
   "technical_indicators": {
-    "RSI_14": 54.407904977822554,
-    "Momentum_10": 2.0388719512195124,
-    "MACD": 42.65222944457764,
-    "BB_Percent": 0.6412591646332158,
+    "RSI_14": 50.063250611646104,
+    "Momentum_10": -1.427247451343837,
+    "MACD": 24.053823974811166,
+    "BB_Percent": 0.3597050646757425,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8966150875104808,
-    "QualityScore": 0.416003558598989,
-    "SignalScore": 0.6467709181508634
+    "ValueScore": 0.8946562936824152,
+    "QualityScore": 0.4170143663817619,
+    "SignalScore": 0.6245331230152591
   },
-  "volatility": 0.0129909900439425,
-  "beta": 0.296,
-  "return_6m": 0.03538283062645,
+  "volatility": 0.0132881868039299,
+  "beta": 0.287,
+  "return_6m": 0.0117960426179604,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 6,
@@ -510,40 +510,28 @@
       {
         "date": "2025-05-30",
         "price": 5268.0
+      },
+      {
+        "date": "2025-06-02",
+        "price": 5318.0
       }
     ],
     "current_price_data": {
-      "price": 5268.0,
-      "change": -153.0,
-      "percent_change": -2.82
+      "price": 5318.0,
+      "change": 50.0,
+      "percent_change": 0.95
     }
   },
   "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nDans un contexte de forte croissance de l'activit\u00e9 de l'entreprise et d'un sentiment positif des investisseurs, les actions de SECOM (TSE:9735) ont connu une croissance moyenne annuelle compound\u00e9e (CAGR) de 9,8% sur les trois derni\u00e8res ann\u00e9es, selon Simplywall.st. De leur c\u00f4t\u00e9, Ensign Peak Advisors Inc. a r\u00e9centement acquis 9,735 actions de Wingstop Inc. (NASDAQ:WING) dans le cadre d'un investissement significatif. Enfin, les investisseurs sud-cor\u00e9ens ont augment\u00e9 leurs positions dans les",
+    "summary": "Synth\u00e8se :\n\nLe march\u00e9 boursier international est en pleine \u00e9volution. La tendance cl\u00e9 est la p\u00e9nurie de titres de valeur aux \u00c9tats-Unis, qui attire les investisseurs \u00e9trangers. La performance du march\u00e9 boursier sud-cor\u00e9en est \u00e9galement mauvaise, ce qui pousse les investisseurs \u00e0 se tourner vers le march\u00e9 am\u00e9ricain. Ainsi, les investisseurs fran\u00e7ais ont aussi rejoint ce mouvement en investissant dans des titres de valeur am\u00e9ricains, tels que Wingstop Inc. et South Korea.\n\nLa performance du march\u00e9 boursier fran\u00e7ais est donc impact\u00e9e par le march\u00e9 international, et les investisseurs fran\u00e7ais do",
     "sentiment_score": 0.333,
-    "label": "POSITIVE",
+    "label": "NEGATIVE",
     "positive_ratio": 0.33,
     "neutral_ratio": 0.67,
     "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
+    "bullet_positive_count": 2,
     "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "SECOM (TSE:9735) shareholders have earned a 9.8% CAGR over the last three years - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZHFBbG9EeWtwalJvdmhuOUJqc2o4WVZqVUQ3Sk9CN0gwT3hjVzBKUWl2UThPckZnNXN2UFo2YWJSbHRkQ3hCQ3JtMjNrc3E5SHJHd0ZkUjFvdGdoanp5enVtTi1ZMThNWGhYRjFsTElUQ0RYNmdlV1hybHF4ZWx6cEgtQTZJLUU5OHhLcjNQQjdZYXpFOHB1ekFiRWNDRi1MTHY1enpIbGduUEp3aWg1bHM0clQxUFpNcmY2MFlKZWVsNVdheTFiSmJkbDhJWC0tRTQ3LWNB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Ensign Peak Advisors Inc Buys 9,735 Shares of Wingstop Inc. (NASDAQ:WING) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGtzaFdIZG1rRmo2NzY1d181UnZiTjMtWEV4b1VsSGtLWWoyaGdoOWJvTmtNbWRTN0JXNjNrcER5UkdSMDQzdUZ2UW56V205ZmVDMkNIY2ZVQTFFb2RjQlFNaV9pUnhVdkNCaEtHMHFuWFF1XzdaQ2V1X3NMMnROeXEtM3ZWUWFaU0xFdXdHRTAxWWtDYTM0Rzk5aWlqOXEyNW9oamJIaGxfeVhNVm9PeVYyMjhKbXgxVlFsTzFB?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "South Korean investors pile into US equities as domestic stock market languishes - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YR1ZIeVNiTlJnZTRJMTVyNXEtc1VmeVBqT3NySEdRVVdsSlpvYW05SmdaZW5jRmROcnlRMnVMTVdCQ1AxVkFzNnAyZjdRR196QVpsQnNUQTlwTHJLXzhVRnNZS1h6a2ZGczFFU2tGVXk?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
+    "headlines": []
   },
-  "extraction_date": "2025-05-16"
+  "extraction_date": "2025-06-02"
 }
