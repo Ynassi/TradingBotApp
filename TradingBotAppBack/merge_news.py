@@ -23,7 +23,7 @@ sentiment_df = pd.read_csv(
     on_bad_lines="skip"
 )
 
-# === Fonction de parsing alternatif (format brut "titre (URL) → label")
+# === Fonction fallback parsing brut
 def parse_headlines_from_string(source_str):
     headlines = []
     try:
@@ -48,7 +48,7 @@ def parse_headlines_from_string(source_str):
         print(f"⚠️ Parsing personnalisé échoué : {e}")
     return headlines
 
-# === Charger la date d’extraction
+# === Date d’extraction
 try:
     df_merged = pd.read_csv(FINAL_MERGED_CSV_PATH)
     extraction_date = df_merged["ExtractionDate"].dropna().iloc[-1]
@@ -63,7 +63,9 @@ if possible_ticker_cols:
 else:
     raise ValueError("⚠️ Colonne 'ticker' introuvable dans le CSV. Colonnes disponibles : " + str(sentiment_df.columns.tolist()))
 
-# === Boucle sur les fichiers JSON ===
+# === Boucle principale
+errors = []
+
 for filename in tqdm(os.listdir(DIR_JSON), desc="Fusion sentiment + date"):
     if not filename.endswith(".json"):
         continue
@@ -71,53 +73,66 @@ for filename in tqdm(os.listdir(DIR_JSON), desc="Fusion sentiment + date"):
     ticker = filename.replace(".json", "")
     filepath = os.path.join(DIR_JSON, filename)
 
-    # Charger le JSON existant
-    with open(filepath, "r") as f:
-        data = json.load(f)
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
+            data = json.load(f)
 
-    summary = summaries.get(ticker)
-    if ticker not in sentiment_df.index or summary is None:
-        continue
+        summary = summaries.get(ticker)
+        if ticker not in sentiment_df.index or summary is None:
+            continue
 
-    row = sentiment_df.loc[ticker]
+        row = sentiment_df.loc[ticker]
 
-    # === Parsing des headlines (JSON si possible, sinon fallback custom)
-    headlines = []
-    if pd.notna(row["source"]) and isinstance(row["source"], str):
-        try:
-            parsed = json.loads(row["source"])
-            if isinstance(parsed, list):
-                for item in parsed:
-                    title = item.get("title", "").strip()
-                    url = item.get("url", "").strip()
-                    label = item.get("label", "").strip().upper()
-                    if title and url and label:
-                        headlines.append({
-                            "title": title,
-                            "url": url,
-                            "label": label
-                        })
-            else:
-                raise ValueError("Pas une liste JSON")
-        except Exception:
-            # Fallback : format texte brut
-            headlines = parse_headlines_from_string(row["source"])
+        # === Parsing headlines
+        headlines = []
+        source = row.get("source", "")
+        if pd.notna(source) and isinstance(source, str):
+            try:
+                parsed = json.loads(source)
+                if isinstance(parsed, list):
+                    for item in parsed:
+                        title = item.get("title", "").strip()
+                        url = item.get("url", "").strip()
+                        label = item.get("label", "").strip().upper()
+                        if title and url and label:
+                            headlines.append({
+                                "title": title,
+                                "url": url,
+                                "label": label
+                            })
+                else:
+                    raise ValueError("Source JSON n'est pas une liste")
+            except Exception:
+                headlines = parse_headlines_from_string(source)
 
-    # === Injection dans le JSON final
-    data["news_sentiment"] = {
-        "summary": summary,
-        "sentiment_score": round(float(row["sentiment_score"]), 3),
-        "label": row["mistral_label"],
-        "positive_ratio": round(float(row["positive_ratio"]), 2),
-        "neutral_ratio": round(float(row["neutral_ratio"]), 2),
-        "negative_ratio": round(float(row["negative_ratio"]), 2),
-        "bullet_positive_count": int(row["bullet_positive_count"]),
-        "bullet_negative_count": int(row["bullet_negative_count"]),
-        "headlines": headlines
-    }
+        # === Construction safe du bloc
+        news_sentiment = {
+            "summary": str(summary),
+            "sentiment_score": round(float(row["sentiment_score"]), 3),
+            "label": str(row["mistral_label"]).strip().upper(),
+            "positive_ratio": round(float(row["positive_ratio"]), 2),
+            "neutral_ratio": round(float(row["neutral_ratio"]), 2),
+            "negative_ratio": round(float(row["negative_ratio"]), 2),
+            "bullet_positive_count": int(row["bullet_positive_count"]),
+            "bullet_negative_count": int(row["bullet_negative_count"]),
+            "headlines": headlines
+        }
 
-    data["extraction_date"] = extraction_date
+        # === Injection
+        data["news_sentiment"] = news_sentiment
+        data["extraction_date"] = extraction_date
 
-    # Sauvegarde du JSON enrichi
-    with open(filepath, "w") as f:
-        json.dump(data, f, indent=2)
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+
+    except Exception as e:
+        errors.append({"ticker": ticker, "error": str(e)})
+        print(f"❌ Erreur sur {ticker} : {e}")
+
+# === Rapport final
+if errors:
+    print(f"\n⚠️ {len(errors)} erreurs rencontrées.")
+    for err in errors[:10]:  # preview
+        print(f"- {err['ticker']} → {err['error']}")
+else:
+    print("\n✅ Tous les fichiers ont été traités avec succès.")

@@ -218,6 +218,7 @@ def get_companies():
     if not os.path.exists(directory):
         return JSONResponse(status_code=404, content={"error": "Dossier JSON introuvable"})
 
+    erreurs = []
     for filename in os.listdir(directory):
         if filename.endswith(".json"):
             path = os.path.join(directory, filename)
@@ -226,7 +227,14 @@ def get_companies():
                     data = json.load(f)
                     companies.append(data)
             except Exception as e:
-                print(f"Erreur lecture {filename} : {e}")
+                erreurs.append(f"{filename}: {str(e)}")
+
+    if erreurs:
+        return JSONResponse(status_code=207, content={
+            "error": "Certains fichiers ont échoué",
+            "errors": erreurs,
+            "loaded": len(companies)
+        })
 
     return companies
 
