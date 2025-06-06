@@ -1,56 +1,164 @@
 {
   "ticker": "EL",
-  "name": "Est\u00e9e Lauder Companies (The)",
+  "name": "Estée Lauder Companies (The)",
   "sector": "Consumer Staples",
-  "market_cap": 24088993792.0,
+  "market_cap": 24373198848.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.801556,
-    "PB": 5.543964,
-    "EV_Revenue": 2.085,
+    "PE": 22.625,
+    "PB": 5.6093726,
+    "EV_Revenue": 2.131,
     "ROE": -0.15976,
     "ProfitMargin": -0.058909997,
     "GrossMargin": 0.73928,
-    "DividendYield": 2.09
+    "DividendYield": 2.03,
+    "DebtEquity": 215.926,
+    "CurrentRatio": 1.414,
+    "QuickRatio": 0.891,
+    "FreeCashFlow": 1570625024,
+    "OperatingCashFlow": 1560000000,
+    "FCF_Margin": 0.10622379531967036,
+    "ROA": 0.03877,
+    "PEG": null,
+    "EV_EBITDA": 14.65,
+    "BuybackYield": null,
+    "PriceToFCF": 15.449436323255728
   },
   "technical_indicators": {
-    "RSI_14": 59.93799903464852,
-    "Momentum_10": 3.1342278128006074,
-    "MACD": 1.8170141057374136,
-    "BB_Percent": 0.7640342279622041,
+    "RSI_14": 58.84481539815527,
+    "Momentum_10": 6.496296157990439,
+    "MACD": 1.98294675983648,
+    "BB_Percent": 0.7425640831722938,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8916680727348288,
+    "ValueScore": 0.8884585997916254,
     "QualityScore": 0.357426077055583,
-    "SignalScore": 0.5473606309241941
+    "SignalScore": 0.5063695436375517
   },
-  "volatility": 0.0339090547802765,
+  "volatility": 0.0339438671915733,
   "beta": 1.117,
-  "return_6m": -0.1099314968468347,
+  "return_6m": -0.1246605397730576,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 25,
     "target_mean_price": 68.6404
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Estée Lauder a récemment connu une forte volatilité de son cours de bourse, avec des hausses et des baisses significatives. Des signaux mixtes émergent, tels qu'une augmentation de 4% du cours aujourd'hui et une baisse de 34% sur les six derniers mois. Malgré des résultats trimestriels solides, la faiblesse en Chine a provoqué une chute du cours. Le départ du responsable de l'innovation soulève des questions sur la direction future de la R&D. Les investisseurs doivent surveiller de près la capacité d'Estée Lauder à rebondir face aux défis actuels.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "EL Stock Down 34% in 6 Months: What Should Investors Do Next? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pM0swYUxUUDhXN1lNalZyaDUycGZaRldoTHV1R2o3OVpwWE13VWI5a1RKY1R1VVRqWnQ2WVhsQ3RIT3ZwODN1YmJ3Z2FkV21sQnMxTV93cmJ3aDU0NUpielJuRU9QMDV4WlprMHlQU291UQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Estee Lauder: Short-Term Pains Cloud Entries Now - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRjJxYmx3QXJMZkVkdnlWQzI5LTRaWTJLbl9SR0pkQ3dEdnUyTE9OM2dfQTNXMXFPb1JGdS15czF4aDF6QmhqaktUSEZRV1BqaWxBbE9pMDFRTDExWXNqRGNGYWh3X29CRXZXcTl1MDBDb2drY1hJWkI2QnZpQzNWRVRyZkdNa3FHM0pwVWJGeTRFZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$EL stock is up 4% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDc1UWRLMUFDM25PMllIWGI2WllvTmt6SV80T0R1WWVQYUkwN2M3cEtsTXNkT0dJbGlXUU5vZXM4R2kzZ2hBaGx1cUw0bHliVU1PdVlJeS1zOUxfWTFDcFFMbU5tSEs1WUthOUtXS1VWbjdMMnd0NXJ1ZnJ1bTlFSA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What’s Next For EL Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQclBTaS1tWllQRUJtWUhEVW9aeVFtT0hweW1GUTUtOGZQQ1A5dXBaMWlESmtkZnZfZHhnSWI1NDJXb00tSFZoWFZycTVRMUtkNm9STDNDbUE1OXhiVUFGT0dlUDVvLV9TTFJ6NlVxdGh3TWxEWmM5cUVIdnZyOFNFS3NOMHljems2Vmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Estee Lauder Companies Inc (EL) Shares Up 3.29% on Jun 3 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSUVsQ2hvenVvRWxac3NKRWlkR3A0cjFmYWE3elFTUUZtTnpyeTAzSzBiZFgtN0xiZ0tvc1dLMzlPVEVVcVRpdWhmQzlmemhmVTJ3bnRSTE5ucnBwSEdKczlEMnVCeExrSHVPekJKY0JlQ3NNVEtybU5QbTlVSVhKSF9CZTFpdzdSMl9weGVBSTh1elFuRkhUeXFZZ25kWG9kei1aeGlsX3pqRnhjWHh5NzNBSTd5ZjV3aEFwdGFIXzlqbm9rcUpxakpETmprdC1GYTJjV0RpazQ1ZFJ1b000VXZR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Estée Lauder Companies Inc. (EL): Among Michael Burry Stocks with Huge Upside Potential - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3Bsek95TWEtS29mMU5HRUhfMmlveEdqX0E5aEM0WVFfbTFOa1BoV212SEl2VlkzUGNlZU5WNDRHLWg5WmdDUUlQQ0Q3X2RHbGJfTnhjT0JvX0psVmtwdGpmZEM1OUdRMFprOGc0cmVNcXVJWkxtUjNpWEVsaDhoWmlkTlotZW05aUhoWmU4N0hzTnZhVnNIQkNKMC1IX3BWYVd3OFRHQWtXM215Yi1jVExRMXpacFl1eS1aemR6X3JvNkVkeEh6cVp3WdIB0wFBVV95cUxQeDJVQXROTVc0OHU0S283ajZPeFdZWDVydXdsdVV0bVVfcmE4VGtwbndCLUFHU3FseTRWd1hVclFJVU9LOFB2Vk5CVVoyZ0sxcDVaMWtISFlmcXR2bEJOcE9fMGl5aGVfaFpmY05nRDFjdmdQSkhpZXRjSlp4Nzkwem5TQ0EtRWpUY1hCcndRV25NcWZsLVgzU0poZWg2cHg3SVlWRmt6Tkladmc3UXhiMllRdjRKMDNYcDM2NWdDSWtMbUllZDk2RVg2NEw1TUJkU2JJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Sell EL and 1 Stock to Buy Instead - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaGU1Zndpdm9jNnVyOTQzaHpLOUdhSnpmUUF3Rm5GR1ViMmRVT2x1Q0xyYmxWRmQ4b0Nvek1DTVFoMUlZUXZEczA1X053WUU2QmRzdGpib1Z5bVpBRG5JY1NMWDl2dWZEbDk2TUNob05oSzVFRG41bXIzRW9HdGtPSDZRY3VxdHhMeWhNSm44ejZoLVFtQmtXTHE4NzBfdUVrd1pzT0lrN1ZNWk54TmNNQi1rREpwS2RkOTFr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Estée Lauder Innovation Chief Steps Down: Major R&D Transformation Ahead for Beauty Giant - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVkNEMUFoX0Q5NlBPM0tNN2xKYXQ0UXB0RnM5MzYtYmxXMlJMMlkwT0Y2Vi1RXzV2TEFsZUhVdEVaeWswZGxHcFZiV3BrX0xtVnRhdlF6T0ZadjNQQ0Z0RWQ1YklfdndLQmlwckhDWlhLVVVuX21uV2E2QUV0N1RBQW1jRS0tbkZ4UHJQbkpXdmR4Y1h1WDZ5aVpSYnhCOTJoTHpscmxwek9mSjBxNFRnNk83Szc0RnZoYTdn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Estée Lauder: No Sign Of Recovery In Sight - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDZVZ3ZKZ0tPSUJtdUlMZ2N0YzdkMVZGMUJNSUZmY3hJd3FHS2MzV2E5N0J5QnRHbFluZnBfVENqdWR3eElJbFcyRl9seXFOa0EwUmgyX0dqdFR0d05DQzlGVW5VTlBmaF9kYzU0QV96NTJDYi1NMTVxV3VVclZ2VUo4NEZhUk15?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Can EL Stock Bounce Back in Fiscal 2025 Amid Challenges? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nR0huSk43QnhveWN6MHljbjlHZDM3cE1QdnJMT3pZa2NCSXZIRk9uNWJZUTdpalJ5aXZldHNzUUV2V2IxdTZJNGtSRmFZMGVGb18zc1ZUQ3RqRjc4dFgyeU9VZDhhcjRQWjZCblVZSVY4SmphVzIzb05wbDY2dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Estée Lauder Stock: Is EL Underperforming the Consumer Defensive Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWJSRUs5T2pCbnZiblpLZjVucXdCaGtFTUJmR3Zsa25fREFMSUJFMTFYQ0dwUkFFR3k3UWJUcVZ5VzVwb09Bbm82ZVZmSW56eWxDYXBHS09rbDJWbUd3bXFkLTFDLXcyNTNTbGR3WmpGQWNxdnZJcFFmUDdkRWZya2ktUUFPVmhnUEU4WDE1bDZsajU0SHZxLTRaZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Estée Lauder (EL) Stock Trades Down, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0d3NfdGdKdlNtdUxNZ00yb1BIeE9OaGpGVFJqNng5cnVua0g3UDBKNlpxbXl5UFJLYnNNeDRVMy10Q1g5NmF0MXZYZ1M2eUVYWDZjQ1pEQ0RYSWVjZjFrd2g3MGtGVmxkdkNpZ0pHWV80c1UtOEE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fund Update: Scion Asset Management, LLC added 100,000 shares of LAUDER (ESTEE)S ($EL) to their portfolio - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUmRFQlhGRHhJU2lXN3hWN3p2MnYxaXdxemo0TGtjNWhtUWpMSlppUFdhSm5ydlBNNlE1eldqUU5RYlNtTmdqTXNDa0NBSGV0dVZ2a2tLeFVJQ2k1aUhFVVhWUnhyOUhhZkN6REQ1MWp4Vk1nZHRrSGJOYWV6NHB4Q3lzWEZCTUxBYVlXbHBnMVF2TkZONzNIY2hsNERPM1RVOE05VjZqMWRicUFBWndERGVNcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EL Stock Plummets Despite Q2 Earnings Beat Amid China Weakness - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ybDJla3dHMjRaanY4bXdIdEVVNzRBY2dHSVhnYUZLY1dvWmhIMzVOeVNVOGJVcFp3WWhmSUpqekdKbnhjX3FhQ3lSM0dwcmZ0dWJzQVlaeFV1dUhDOE5Dem9IQUZZWmRORGhOR0JEUWFpSXVrdDRVdm9oUmpJZ3c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Implied Volatility Surging for Estee Lauder (EL) Stock Options - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOekVTajlOOEdUZ0pWSS1nZ0ZqdmV2c196WnY4QVhTSHQtSEp3U1RrbklpS1ZGclNCeEdYLVBHU3p0REVkS2UxV25mU25pamdMdzktOUthbnRXRmZoRURvMnR5UXBMaldrbDU0RWNxQXJKSENfcXFIUE8tN0lxYWxtNFFMUll5MnJuanUxRXk3NHFoRU04?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is The Estée Lauder Companies Inc. (EL) the Best Cosmetics Stock to Buy for 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNy05N0NzdVZmSF9NaU1QenJpZTJSZ3lLOGIxS3dTVlRiVXFDYmNEMUVMcDhCZjdfalFXZkhYSXBvc18xc3p4T0dKeVYwcTlXR0YtcmpkajNQTi0wWDZpM3g1SjJxbjVkR3NSZVF6d1laVFV5dVoyNDFyd3E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on Estée Lauder Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRy02aWMzdXFCX3lEeU15RHBsVnZhaXNnV1d5b1pvRlBhT0Zra0NyY0ZLaXR2QU82OFh6dzhhT3EydHd3YzlpWHh3NmVRejV2ell1b1E5VkJHVmp3S285QmZPdDhRbnR2RVg5V2NHVFlCZnNlc3gwNjVDTnB1MHpNcHNDT3N3Ym1QT2VB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Estee Lauder (EL) Surges 12.2%: Is This an Indication of Further Gains? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMTUp6UkJuUDV3NC03YmJGWEdIZlhfczNQbTNYZ1BtMTJPdDBIUnkzZnoxNzdoS3I0R0Q4ZEl1eEVXTVd3VFNNT2x3YllvUVh3YmNIalRBT2dqdlhDdlM0RHZjYkhDRk1iX1ZHazF4bDI5OUZVejZsZ291cw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "EL Stock Plummets 39% in 6 Months: What's Next for Investors? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96dnNEUWlLdl83NlJrN0J0YkpSbUo2RGVBSVk2c3hLT2pUc2hMUjA4VEpIenp6RnEwd0UyY1NlYVlLYW9KdmMyVkk4R2lyLVBtZnNNa0RFMXBHOG5PaVVDUGd3Ukc1TUtjTXhYQmRHZ1RWTkxtMkNj?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is The Estée Lauder Companies Inc. (EL) the Best Skincare Stock to Buy According to Hedge Funds? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nMnVadGRJaThoX2hUeVZWZTV2dkc1aVFORWdiMkhnb3o5bTI2M2VGVFlaUG5lMEVLWDVIdmNET1Z1ZTB0Q0tHOHBoVVRCSGYwbXMyNFJoSnhPd2podGllV2VMQnlZN0VQdEZTX21vV09xS25GWkNDR3hVdGs?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 75.98
-      },
-      {
-        "date": "2024-12-03",
-        "price": 77.48
-      },
-      {
-        "date": "2024-12-04",
-        "price": 79.29
-      },
-      {
-        "date": "2024-12-05",
-        "price": 78.17
-      },
       {
         "date": "2024-12-06",
         "price": 79.32
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 66.61
+        "price": 66.65
+      },
+      {
+        "date": "2025-06-03",
+        "price": 68.93
+      },
+      {
+        "date": "2025-06-04",
+        "price": 68.83
+      },
+      {
+        "date": "2025-06-05",
+        "price": 67.45
       }
     ],
     "current_price_data": {
-      "price": 66.61,
-      "change": -0.32,
-      "percent_change": -0.48
+      "price": 67.45,
+      "change": -1.39,
+      "percent_change": -2.02
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres trait\u00e9s ici portent sur l'entreprise cot\u00e9e Est\u00e9e Lauder. Des signaux positifs apparaissent dans certains titres, notamment l'augmentation de 4% du prix d'action aujourd'hui et l'appointement d'un nouvel executive. L'influence de Michael Burry est \u00e9galement mentionn\u00e9e dans plusieurs titres. Toutefois, les titres ne fournissent pas d'informations suffisantes pour former une opinion sur le sentiment du march\u00e9.",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

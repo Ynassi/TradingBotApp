@@ -1,56 +1,164 @@
 {
   "ticker": "HVT",
-  "name": "Haverty Furniture Companies, In",
+  "name": NaN,
   "sector": "Consumer Cyclical",
-  "market_cap": 325947264.0,
+  "market_cap": 317126400.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.779298,
-    "PB": 1.0684247,
-    "EV_Revenue": 0.617,
+    "PE": 15.2734375,
+    "PB": 1.0341727,
+    "EV_Revenue": 0.587,
     "ROE": 0.06974,
     "ProfitMargin": 0.02962,
     "GrossMargin": 0.60952,
-    "DividendYield": 6.11
+    "DividendYield": 6.52,
+    "DebtEquity": 71.306,
+    "CurrentRatio": 1.809,
+    "QuickRatio": 0.87,
+    "FreeCashFlow": 17395000,
+    "OperatingCashFlow": 61928000,
+    "FCF_Margin": 0.024143995360177833,
+    "ROA": 0.0215,
+    "PEG": null,
+    "EV_EBITDA": 9.474,
+    "BuybackYield": null,
+    "PriceToFCF": 18.25887070997413
   },
   "technical_indicators": {
-    "RSI_14": 50.14406734568054,
-    "Momentum_10": -4.2772518306704725,
-    "MACD": 0.3756378304445782,
-    "BB_Percent": 0.439551848205256,
+    "RSI_14": 46.82993723498583,
+    "Momentum_10": -4.044951519897007,
+    "MACD": 0.1733244055052303,
+    "BB_Percent": 0.209521413538909,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9341410387129362,
+    "ValueScore": 0.9325282917618428,
     "QualityScore": 0.3748186530147072,
-    "SignalScore": 0.5054610189485047
+    "SignalScore": 0.5972289916266287
   },
-  "volatility": 0.0275348670776547,
+  "volatility": 0.027497887676251,
   "beta": 1.278,
-  "return_6m": -0.1398482248562765,
+  "return_6m": -0.1124272037520792,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 2,
     "target_mean_price": 29.0
   },
+  "news_sentiment": {
+    "summary": "Haverty Furniture Companies, Inc. (NYSE: HVT) a récemment annoncé des mises à jour stratégiques clés lors de la 5e conférence annuelle Evercore Consumer and Retail, suscitant l'intérêt des investisseurs. Malgré des doutes sur l'attrait de son prochain dividende, les actions de Haverty pourraient être sous-évaluées de 43 % selon Yahoo Finance. La société maintient son dividende trimestriel de 0,32 $ et poursuit son impressionnante série de 88 ans de versement de dividendes, même face à l'incertitude des tarifs. Bien que Haverty Furniture ait surpassé les estimations de bénéfices et de revenus au T4, des questions persistent quant à une éventuelle mise à niveau en raison de l'incertitude des tarifs. Enfin, le changement de PDG avec Steven Burdette à la tête pourrait avoir un impact sur la stratégie future de l'entreprise.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Havertys Investor Presentation: Key Strategic Updates Coming at Evercore Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX1pJRTlpXzluLWdBNWtNeWpMRElWc19xMURPaEVVTWljSGVKdFJKWW5MdkxDR0Jjd2tqdVU4cHhyZEVLMlN3ZkVDNGRkY01wVFNhaWx4bklWOEJrN19QdFkyYzBFeTdhLXBRMndyWXZmMXBzWmF2eVlwRThNTGliVy1vR3psU0ZVYnJYZkMzMjlXLTVmZU5IQV91bmJma2M3UDNYcWNFTlpnQ01PWTNBZWxkNUNDMTVXdUdVTWVHOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Havertys Announces Participation in 5th Annual Evercore Consumer and Retail Conference | HVT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMmlzczBHckx4ajZXUzRhUE1VLTFFVWEzdGkwSUoyQjVBNmxrLTRubmdNbm5Xc0NQTnBOc3piZmpIMWphVmRvRm1hbzlNU1BxWTJvQm1oU2NWYXUwdTc4WDBiazVFdGRHR3hqdUE3WlV6aDREdUpFWkg5Zm90Mk9fX1RTaWducGtxSTMzQ1MxZjE5MUxVUk1RVDNvczkxZ21tZmc5dy1HaGhUMzl4TGNfcENEWXhJTl9hQkxEWGQySThYejRncm0yTExCMDNSOExwRVlnX3dZYlQ5dmlFWG1DWWpKcDV2Um1xN3dGY0ZzX0prWTV5ZHktY2xoWEdVVTgycVhhTl9NMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameriprise Financial Inc. Buys 40,218 Shares of Haverty Furniture Companies, Inc. (NYSE:HVT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQW1hWTZIUk5JMFpfSVBab3hJQ2Vkbzh1Y0JQUlcwOVk1RFRiOGNxUUNVUENFR2dObXZtczUtQy14aHhHMmVIdWFRRmdPNDBJdTVMTERvUjZpT1VuejhNX3NiZWVnT1ZxR0RzR1NXWWJydmQ0WlpHYk1ZbmxES3BvZEdPcGFETjZfd3phZk5xcTdoRXpRcmdZdzBCQXpDQ1A2cFVHZHozTXNPREVhYTVqa0c0VzU3MUNXclJvUktKMXdmbUU3ZFUxWjRuYmlxcDZpU2pDUGJXNndxSVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why It Might Not Make Sense To Buy Haverty Furniture Companies, Inc. (NYSE:HVT) For Its Upcoming Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUEstby1iWjEwV2JmT1NOQkhGNUM2dVgzb3JrOFRkNWtEUGY0aGR2bnYxeW1mSk9sMzRnOURjaW1nVHB6S1FObWRLbWlHWFE0VVYxMEl2bmpNVlBHTlFKLVk1VHloVUxXaHpzLVJ6ekh2TUp1SXV2X3FZUHBOTXltR0FXQlp3MnJlcnNLdlVuenJNdC1iSm1jNGRreF8zSVlkWDNnc2R5bTNtcVh4V2xDeEZNLWFjb1dnWmYwZm1acHVHVmJiVFhHLUV2bm1heHc2Y3BtV0tqLWHSAd4BQVVfeXFMUGpnYlNuMjdsTE9HUzlIUUszY080Wmt3Q2pQZUh4SDNmSmxkUHZVdVVZVFlaSzJlSkJOTHZ6UzhhTXRkVkpjazRrNXpqMkY5aTZFQUhzeXMwWF9KUENyNkJaLWZzZWM2VVl4NVFNMVVrWVVVR1lKYlZvZzU5cDc1NnBUeFZvX2NrNXUxREd5c01QUG5iU1NFUWQ5Wk9rcFZEdnM1YV9ObnBCM1dqdHM0Y2piaVV6QUZiNVV5VWpQZks3S2p5VnFWblVCLWVRa1pjN2FEckJ0bUxZY3lQczhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Haverty Furniture Companies, Inc. (NYSE:HVT) Shares Could Be 43% Below Their Intrinsic Value Estimate - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUVE4Yzk5MkYxSjZMLWJ6VTRkLW56aFlCWGZ3dVRwMUxVWDBGYUlxQU1GeUZCRnJKMFA0WDAtMVZmcDJXdUZ5SnAzRmF0WnI4YkFYUXdETHpqUmpDOGdtck5QczF6TkExVlV2LUMtR1VhUGdiMEFoc3NPZGdfUG1EMUtubzhqcXJJakE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Haverty Furniture: Solid Financial Position, Reasonable Valuation, But Limited Upside - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjlUQWtJdE0tejVFbm45dGxRMUpkU3ZjdGlFajFnRWRzaU9TeXVLNjE1WUYtOVVqRmF1MVBQVlpSbi1nOFV3LThRSVA1ZGRfODVYZnk3bzZCVjdoNmFRUlV3VS1SaXQwZVZibW5YX18tNS1pcjZaVzQ2TkU4UFE2dUdTYW5LTFI5TWtQNGRxYW1rVmFVbGM1Zm1kVHRfbkVfbllRODVOand3N3VzMDA3WDAtbHdxQ09la2huckRfeWtsNEU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Furniture Retailer Havertys Announces Q1 2025 Earnings Release and Investor Call Details - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkRmX3N6T1paTmJsLWNNWXBlRW9uZDVNVHV2Vk9XaGM0RWQwVDdSYXg4aUJRT1phWXUzd1JWUmt6N19PQWtQdEstSGxPV0czcy1JdW9IeHNLXy1GZVlDb09fY21QcEtfTTl0OTVNLWRuRG50OG5hUE9Cd0VObkE2YnlndFRWT0gycmpHSkR0aVNnV3lkOGdFS3FFNExxZDBBNjZxU2hGMjgtQ003S0d0NXYtMU16eFRwOFEyWWVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Makes New $1.66 Million Investment in Haverty Furniture Companies, Inc. (NYSE:HVT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTFJSemxwTHcxV2xvUWZCdUI0TFQxVlR0RGxYX2RCa0FYT3FIcGl2c3V0WXVvLWZGb3pnX2JldEFSWUo0bUlRMkVHSDdWdDFBeTZCa2s1RXFISzZOVUd1RHdGbHMxd05XdDFfUVFzSFlZalNnYldnUXFrLWRqWTZvM3VRX0R1UFJ5ZmVjR2daRkZlODJTNVV6UmF4bl9oZHN6bmExRWxXWDJaWXJZbkxoX042UzRfSXFXdjBCQk80TVdUMXZTUnotQzNuSkdRdGxRTnNiM3JiSDhGUmxja01RdWlwY1ZsWWlGMlQ4aUZUR2N0ellILWhCNzZyQTByMGsxS2hWSUVn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Haverty Furniture Companies (NYSE:HVT) Has Affirmed Its Dividend Of $0.32 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUDl1VVF2dXplc25sN1RuU3ZJY3B6amNra0JRT1M1SWJpeEd5VkN0UlE4SGpnWF9oMHRPRzJ6YXZObld5cTZYLWxQVHYtWFBNVVZURHRIUDV1NlFSbkd5S1dkcFZRUHA3NWVTQkVJRWxXcDlhSnM3cGw5bUVCVDczV21sMEI2YTFnSHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Havertys Announces Second Quarter Cash Dividend | HVT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0V3M29WZ2RCSFR0ZmdudHp0alBlbl9EdVlaaWdPemFnZl9ZQ21lRGJ6VW5KS3g2cmFhbmpOeEZoWGtEQk1ZcHRpNEU2YlluRkdPa2oxYWpCUGVVMWJpeXNJY1h4RUkxdnhVcW05SUZPaktPODJDdnVIMURlVW9RRUMzb0xsd2xmeTRhZ1l3bEZqRjM2U09PWUFXR1NFN3lBVVNZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Haverty Furniture Companies (NYSE:HVT) Is Paying Out A Dividend Of $0.32 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQzl2ZEN2Zk1aVXFVaUlNQzNfUVJmUFZQaWhMd0pZcmRrYWhZNWZPejVfdUpTY3dMeDVNTUtKSU5zVi1ISHpVVk5EWE1nVVBJZ1RBZ3VSOGVERHJzY2FFYzlBa0haV2wwV2o3T29yazVKTGczaGxaOXNXQ0tSN0lJWktuVDFoTWhKcDVnSFhZRUpraFhHWmp2YmhKUjJWMnBqakhDTF9pYTM5c3R3LWp2VkVGTG5HLTBMR19lWXBxdXRyNmhLc1hkdjd2LW81YXEyQWU5TUlUeUTSAd4BQVVfeXFMUFN6ZFppY0hnY0lkdzF2ZFFWOUp3NGlkT2NTT2stbG9Hc3pJMTR0VVVtMk1HNktwRk9fREdTcGRFcnF6YTlvSllVYWpDVVBSTHVhVmE2VjItb1lqX1VLajFGWVc3NlBGbVEwajRpWFR2Sk1YelZXUXpoTWxiUFIwOG04UUFUSDJPb0VXTVk3cFdjT1VPSXVfVkp3Qmk2TjVkZm1mUXlFVFhPcE1lYmo0MHNDRlpiX0J6MkZWVTVWM3N0UGxUSklBYVB2SUlhRUV4U2pZWFpzQWFUWE1UTXZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Havertys Continues Remarkable 88-Year Dividend Run with Fresh $0.32 Quarterly Payout - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN19QOEZlUkYwU3VtY09ia2U5YTFPQ25pYmVialU3c29vc0FNRi1vVWVKT3gwNFI5UG0tSGVaQmx5VmR6TUZnbXUzN0t3ZHVJX1ktOG9MRFR3RUVYWVdzTDVueWItOVBvUHl6enplanZrNVJMNVUwSmJXek1QLWJBSFBBOHhaU2l3V3VYbWVGQ3RyQ0RTWFFj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Haverty Furniture Companies: Too Soon To Upgrade In Light Of Tariff Uncertainty (NYSE:HVT) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkRYOHM5bnV1TW44NTFwYjN6a2hMOXFfYTBLcmlFRTVGamFWYVNUOHFyMzhOQ1JkVUpINEYyMnJEbWluTHpyLXRnekc5SVpjWVB4WUNGdEx1TUFVTEVfM1MwRm5iaEprZ3RXUjRobFlQWktRcTRhVkNycXlwYzRMcnpTVlprY3JKa3ZvTGNBV1dPSnkxaU0xWFhoaXlLV285bzVrUDU5YnlfVGFLVTVyby02NXJiSms4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Haverty Furniture (HVT) Beats Q4 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcEZqbDg5RUFVZTgyUVQtZjBxbjhIOExPSm54eGxoS3dnb1VNSGhqdlpjZ1VZa0FLczVZbWdpb21vV3MwUkp4WmNPcGJhQmNacGtnU3YxVHBuN2pSOF9wYklqeUZkWXZKZWpsczNXb1BiV3pNanVxNVlZS0ZjaTl5N1lR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Balyasny Asset Management L.P. Has $495,000 Stock Position in Haverty Furniture Companies, Inc. (NYSE:HVT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTc5STRaWGZmSUNveW5nRXJ5dloxMVhVeGhkWEJmdzdUM3lFVEVsa0YwOHhVeU1ncEZ2NFpTR3RrTWdWbmhQdWRhUXd0M0ZRRVVRaXA2U0M4T3Mwb3RNdktGdXhTYW9Xb3NHYkRvNjFhSE9DMXM2UWUxRXhteWFpc2o1SW1pWUcwcTZxQW9CV2ZpQURrQmFTSHRfVXlydVc4Q1VSOEFmb1E3ZlhZanpWcDlVQVk0a3dZd0NlNl9YVjg3ZndkUUhmVVFLQmpSYUxaRS1oVHliYTJIekw1VWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Havertys To Host First Quarter 2025 Earnings Conference Call on May 1, 2025 | HVT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOExGR21TdmtUVUpqMUo0Q1dhRWpxNHlmTXhfaHc5aUs4Q3cwdXY4dUhwS1JEcVJmTklvLTgxTTBBN2Q3NDFiQUhGbkpjNTNTUEx4aU9fZzRMVzRraktkbGRyS0xEV0FTSjFPWExSek9MZy1iZWtLdjFtWDU2VE5kODQ1aVktejBnNlNJWmFTY0N2Qm1ZOTFGZzFKVzNDd2xlbjc0cXZqeGhvaG9RSGhpZWNfZjJJNTNxS2RKZ2RBZmp5V2ZsbnhN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Havertys Teams With Tempur-Pedic to Give 78 Mattresses to Military Families, Hosts Nationwide Appreciation Event - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFpNdjdScl9KVG5ZY0xVYm1OaVA0bzNkRll0d3RKeUxjNTIzQ2piUzhKWnJCM1NuRnA3TlppY3N2RDV5dE1OTFZSV1ExUmVHbGJodGxUNXpkdzNTSFBLZF9vRmlibXBtRGhZSmxoNWo0T05BUEczQmxZMl8xdXdlM0l3T2thdE9jZkRCd3ZBUUFQTTM4SnhsTlhOZjl3alFhSlVvdnJqMVgweTJJT2lyek9WLWRZaEU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Barclays PLC Increases Stake in Haverty Furniture Companies, Inc. (NYSE:HVT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3JOQmQzVFlFaGZvY3ZJLURaUzRDRTZFX2JhSVBuZzZaQl9xRkdPXy1HYTkyTVIyVV91YURabkhtcU1HMFgtRVdsSXVXT0RjZ3FHTjg2ZlN1QTQwcXdFei0xY1VPbVpWWUhkQ2N1dlVHOVRCcXhmdW9DbTRBODNsaVdSVXpoaUFwNzJEby1GaG9OOVNRMWxrc1pHMXQ3aTNLcENVNGp1MUZfQW1TcGxrazFfdU9lVk1CNUpzM1lrOW5HVEhWQmUwVElnWkY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Home Depot Stock Drops 12% in 3 Months: Should You Buy, Hold or Sell? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yQ21YNG1lSWFia09CaTRqVWFPQUV2UzliNHpveVNKTk1MclVKZ19sVDFMU0p0MVhqWkpTdXF3VUpsRXF2eE1LOHlhdmNKNHdLWm92cjhMSnZLVWIyVUgta1ZveExMS2pSWjdLVW93Um1Bc1haZXV6cHBHdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Havertys Announces CEO Succession: Steven Burdette to Lead 139-Year-Old Furniture Retailer - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZVBvdFE5dXJFMjNNTG9STnJQSjk0a21JbE9WRVU1UlhQWGdweFQ1dW1FMWRLX2ZIQ3FyNE5oeVhOdmtoUWROSE9hVG9CY3NXRGxfTWxqWlBFaUR2dktQUzdqOU5EOWVCSzhGUGJfMFJEQ1RnZFYza0cxblhfekxydU1fYlhwZ1AtamxRd2dxa0M?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 23.83
-      },
-      {
-        "date": "2024-12-03",
-        "price": 23.31
-      },
-      {
-        "date": "2024-12-04",
-        "price": 23.26
-      },
-      {
-        "date": "2024-12-05",
-        "price": 23.35
-      },
       {
         "date": "2024-12-06",
         "price": 22.7
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 19.95
+        "price": 19.85
+      },
+      {
+        "date": "2025-06-03",
+        "price": 19.76
+      },
+      {
+        "date": "2025-06-04",
+        "price": 19.63
+      },
+      {
+        "date": "2025-06-05",
+        "price": 19.58
       }
     ],
     "current_price_data": {
-      "price": 19.95,
-      "change": -0.75,
-      "percent_change": -3.62
+      "price": 19.58,
+      "change": -0.04,
+      "percent_change": -0.2
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres r\u00e9cents concernent Haverty Furniture Companies, Inc. (NYSE:HVT), une entreprise de mobilier de meuble bas\u00e9e aux \u00c9tats-Unis. L'analyse fondamentale de ce titre montre que la soci\u00e9t\u00e9 a un positionnement financier solide et une valeuation raisonnable, mais son upside est limit\u00e9.\n\nDes rachats d'actions de Haverty Furniture Companies, Inc. ont \u00e9t\u00e9 faits par des entreprises financi\u00e8res telles qu'Ameriprise Financial Inc. et Northern Trust Corp. Une r\u00e9union d'appel des actionnaires a \u00e9t\u00e9 annonc\u00e9e pour le premier trimestre 2025, tand",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

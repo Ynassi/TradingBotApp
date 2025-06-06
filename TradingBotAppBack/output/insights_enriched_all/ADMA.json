@@ -1,56 +1,164 @@
 {
   "ticker": "ADMA",
-  "name": "ADMA Biologics Inc",
+  "name": NaN,
   "sector": "Healthcare",
-  "market_cap": 4846300160.0,
+  "market_cap": 4760355840.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 24.166666,
-    "PB": 12.971245,
-    "EV_Revenue": 10.333,
+    "PE": 23.738096,
+    "PB": 12.741214,
+    "EV_Revenue": 10.588,
     "ROE": 0.78452003,
     "ProfitMargin": 0.45011002,
     "GrossMargin": 0.5258,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 21.963,
+    "CurrentRatio": 6.576,
+    "QuickRatio": 3.197,
+    "FreeCashFlow": 52615876,
+    "OperatingCashFlow": 101215000,
+    "FCF_Margin": 0.11453646736868033,
+    "ROA": 0.22062,
+    "PEG": null,
+    "EV_EBITDA": 30.41,
+    "BuybackYield": null,
+    "PriceToFCF": 90.47375434745209
   },
   "technical_indicators": {
-    "RSI_14": 48.65584237083154,
-    "Momentum_10": 3.098012628023145,
-    "MACD": -0.3123297230547699,
-    "BB_Percent": 0.4525972211529287,
+    "RSI_14": 45.77099452166576,
+    "Momentum_10": -0.8946336862212553,
+    "MACD": -0.2366360341175166,
+    "BB_Percent": 0.4269346501137471,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9159759867365636,
+    "ValueScore": 0.9137945069746304,
     "QualityScore": 0.5786419673597725,
-    "SignalScore": 0.4692214996894911
+    "SignalScore": 0.5886367412089533
   },
-  "volatility": 0.03661073591528,
+  "volatility": 0.0366448291620626,
   "beta": 0.473,
-  "return_6m": 0.0309801262802313,
+  "return_6m": 0.0060545328497021,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 4,
     "target_mean_price": 29.49
   },
+  "news_sentiment": {
+    "summary": "ADMA Biologics, la société biopharmaceutique en pleine croissance, a récemment suscité l'attention des investisseurs avec une nouvelle approbation de la FDA et des résultats financiers du premier trimestre 2025 en deçà des attentes. Malgré un récent plongeon en bourse et des incertitudes liées à une controverse comptable, ADMA continue de se positionner comme un acteur clé dans le domaine des thérapies plasmatiques. Les analystes de Wall Street restent optimistes quant à cette valeur, tout en surveillant de près les mouvements du marché biotechnologique.",
+    "sentiment_score": 0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why IBD 50's No. 2 Stock, ADMA Biologics, Just Plummeted By Double Digits - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0V6U1dDOW5wNGswdjJuVWZfYi1PaHVPNWpsaXZFd0NHUVhRWUpONG40dVZoa3l0YVU1RmN2UGl1V3hJLW5FNmdEbFozUnBBdXdWSUdxWVZ1RFVtVWNCTTFpT3E0bGxFSU9mUURBYTNqRkk0emdIMExsWmM0VFhUVUxXTXVGeU4wSzhOWHJB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ADMA Biologics Holds Annual Stockholders Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMW9TYW1Kdy1qbXJFS3AtaW5iZjliMVdINW1ZRW8xTDBWelhsT1ZrODFHYmRqWGFoei1xVDhQanZ1Q2xKTzM4bm9NU2pkUmZacFdaUFA2WG9rdm1jZ3prY09EaVJTRlp2bnBuV3BGZTZpY3g1UmJjU0Vvek9HMk1lREhVS0VwTktKOFkxaEVVaFVyeW5xNldOTDRMN3dKbjE1WlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ADMA's Q1 Earnings and Revenues Miss: Buy, Sell or Hold the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPazI0Z2pmdk9vUEcyaG9idUExdXhPWDFwLU1KSHp0UTA5VDU5ZlM1V1U5d0ZyM0FYc2NXNzdqTVdJY3JOaGttVUVyQWx0eTdnQkZfX0JaWFJNZDBEc01hbGlKNG05ckRHWXZjcW1PbTA3VDBBWjZlclgxN3hSbzJZanB5Yw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ADMA Biologics Announces First Quarter 2025 Financial Results and Provides Business Update - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaEo1VVFoMldZNV9mTXdrODRhTWZza2lpVGVybGZVdExJei1EaUNkMkZjWFNGSzlRNmpFbUw2eHlFVUg4NERMcEhiVFdwckJCQ3ZUQkZoTUVXLXEwSFRzZS1pd3ZiWFZMWlZSZW9OUWs0VFlrTzlBVmN0YUxKOW1LbDRmWHhNOWZlRDdtWkpnYWtDNGxOaUo1dDh2MDdsZGtPRTNpT1NWUWJtS2pqemhCVnRfWVRyWE0tNVVLenMybm9tenNVN2xubXlYZjdFcFdiWTNBNzNvWGVjNHRBdzVoMEpzNHFrMzd5ZHdCbEZNSm5FVUpr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Adma Biologics (ADMA) Stock Moves -0.15%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOERXYkRFdlB4cmRiSWgzS0FnZDI0Y3BIMXRJVGNQRHpGVnRJd1R6X2FnSUswZmJ1VkdCRDVMREgxMl84cG95aVpNMFZUVm4zN3Vkd2haRkRheURoLWpwOUFaQVFoOGQwbGFrV2I5SUVCMnNsTmV2MHBwSktYTXB6amJST3VScWE1NVc5LVF0SkI0QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ADMA Biologics Q1 2025 Earnings: Key Financial Updates Coming May 7 for Growing Biopharmaceutical Leader - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXJKcEtoRDlGbzdEYk1HR1l3ODljejcwbXd1RUppLVBvNlQ0UkJFN2N1Y3V3Y2Z2M2VfTk9Fd3VVNmthUHhHU1hFbFNyMklTbUY0Yk1BVnJyem1TRlNiSEU0UFljMzVteXZNVEpyc3FTMDVGS1ktZy10cUdnaTRkT1pDdFBSc014UUNIYjVRcEh3a1V3ZmtYY3l0TmRUNUFPaDJEWUNBUldrQ19hU2owWFhwcFd0VWdnNXlGcFVPM2w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IBD 50's Top Seed, ADMA, Just Rocketed On A New FDA Approval - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmpLOGhYWkxnNFpRRnlTRnowMTRiSWpILWtJSmlhWENyTzlma0lIRUZhOG1nRUtrb083YXZPUE84cFZBZmd1Y3RYblFxQlBwcXRYZGNybHNBbTFGX05CcXJtQjBrdGdoT1Nad2ZKQlJ2YzlqRk5UX2VzTHZmVGhZc2hlN2I1T3NINzVBYXppS2pvamZLRlFaVWluNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is ADMA Biologics, Inc. (ADMA) the Best Multibagger Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxWmMwazRmQ010OGRrVXUwWC1UTUd3S0FaTlVHdWRvVjNpaTFWNEpUS0I5c18yTEdRMEh3TWlyRjZKSXYzbW9UelYya0dIUVhSSjBxRkVXc2xjWVdBNE1SeFkwMS1DMTM2MDhEWmhDbTBCZTJlb082b3FNSmRtSFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should ADMA Biologics Stock Be in Your Portfolio Pre-Q1 Earnings? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzB0YnRydW5KS2RyM2hiV0FKSk43UFJqdkVkR3FMTUFULTdTZlIwOFdkWFF5VjI4Z1cyN283eXFEWnVGcU1mNG12a0NoYWFBS3dWWTQ2V2dFUTZMdGZrYnNIUE0yQ2x5eFdPa0dyVUNVQVRmYnlWeFEzZGxiQjFaakZPd1lnaDBCb29yOGdTNDcyM21KR21kYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top-Rated Stocks: ADMA Biologics Sees Composite Rating Climb To 96 - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTllRcnNOMWNWamktMXhIWjZoU0VDb1RrZm1DTTZyTjZXS1ZhNFJhOFMxZXJVX2ZVekhzNlZpRWk5QXhjclZFQ2FuUElaRmIzS09jcjFmdnh5M0dKbEh2bGtaQ0dBb1V3aTdYNWRSZmNZZTV2eFQxSG9xWVhHWEJJTmVpZXJNS2xiMU9UY3BTdlZqMmQzZ3VWVHpMZ2VaN1k3QmtLS1Y2U1JndUNvcUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ADMA Biologics vs. Grifols: Which Plasma Therapy Stock Is the Better Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0hlMGNyMTRyUlo2cldDbE94M1B2S1V5ajAtUzJaUzUwNVlTT0wweUJLRkZUcXd2b1F6MFp5Rkx5VnlyS3RjSzJHQlVFZjZTSUNlUW9mZm5mS3pqa19sRzBiSGtnZU5zNnAyeklWTXBQZXVBTjdPcUVOa1hDSzZUTmxTRjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street Analysts See Adma Biologics (ADMA) as a Buy: Should You Invest? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZjg2VGFYUlNmTGl5NTJnUmt6RlU4QUxuX3EzNHE2d1EtRTNWTlNVMVItbFU2UHpic2ZZbmRGbFk4Yjhzc3J4dl9xWFV0bGl0dkZVbmlsS2Fmc1lwT28tNjlzRmVQdmwwYUVYUGNtVG1nT0ZMdFhIM3NJcnJLeGhGTUdXdnFyUmZ2Qks1Vzh0LWYzMHhBdE9wNDA1MjIwTnM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ADMA Stock Builds A Base As Profits Continue To Soar - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ydDhWS3IwOEJGVGVMa3FoTXdnODIwZEY5bHUwWnVGUWx6bGFac3FZZDlQV1ItbWJ6SGQxcVdOZFNJVFBPOFhzb0JSaXZkUC1VM1F5QnZENzhFVEFqQ05NeWFQVWQwRHp2cjdmRU5PbWMtQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Adma Biologics (ADMA) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGxnUkNRZllKSU5mRXVLS1pjV3RHNEh3WFMzckdLZWZyT1J3T0JaUDJReTZ1ekVsYlVrY3ZQaUZiZS1mLWNSSjh2OXZPVWNFRVJtLUVOYU1RQmUyOURqUHYwT0daSGJxRm1fUm5ZeDhMcXd4WGxoVHBEclBrVW0tMlN1SG8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ADMA Biologics (ADMA): Among Louis Navellier’s New Stock Picks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWwwR3BrLS1qM2RDQ09jN3JLN0RqWFl1dFZDSXhZWWFFcGRyOU5mLW9Xb19DX29CRDhXQWdKVTFFN1FiazluUVY5NUQ1MFk3SHNHR2ZtdDhtUEtmLVZrY3VDWTNibW1lV1pIM0NfM0ZybnB0VkZqNzM4M0h0c0U0bnZQYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How IBD Stock Of The Day ADMA Biologics Shrugged Off Accounting Debacle For A Bullish Comeback - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHZWRjRqZUUzcVZRWnI0WDZlVlZMNHBrZG52R1lCY3dicjZXTV9BNndvMnpLSk9JSmxWR2FKZ2NwX1h5RzlrTGxXSWJfSTcyNVpaZDBjQ29OQlIyOGNORmstY3BUajZacno1Ui1acXNGNkRDdGc0dkpjNTl1eDQ5T0JhdjBQOVR5UFM0dlVDRGQ2WnhxQ2lOWg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in ADMA Biologics Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTy1GRGVBcWRFR3VVVnp6V2xPaEpRRDZyVVlmSmpKRi0wdHRTM2ZYa2xGSmU3UjBRUEx4cHNocWZ2VVRIVVk1M3hQNG5kaUxzUEZXSG9FZTBacUxfQ1ZEQlVjaUt4UE8tNXh0U0lFaG9HNGxoMllqYWlMRFp3ZjU5VUxWblM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Biotech Stocks Are Tumbling — But The Top 5 Are Standouts - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2pCWDdhRENyTFpPQzU5XzFOYW1hRnY2NktsRndfMkx2TFUtYXVCV29FRWRwVnNmTXNTMF9la3RDb1R3UGdNaUhNc2RWbi1xSHhodWNVRmRQdmRKRzdycmFFTzZEeWhHRVNuYlFpTGF0Q285MzltdVVmNm1rSmZYM0wzRHg0UlFDRUs1SmVRMF9INlIxQ3B1NGZ0NWZtUkpj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Adma Biologics (ADMA) Moves 7.8% Higher: Will This Strength Last? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UNTNDS0hOc2xWcmU5QjhHTEwtZl9RWmNpNWgzdDFCMXVUYzRxbW1OYTZjU29lb2N4M1h6NmM5LXBxYXJNbnpQeTZzTl93eUtzd0RDUWVMTUh2U0RVanY3amYyTURacGRUMWthT2k0VW9hVk1oOTRxbjNIUEI5dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ADMA Biologics Achieves Industry First: FDA Green Lights Revolutionary 20% Plasma Yield Enhancement - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUm1DaHB5UkQySmhzLW9LcmdqNzJKandaRzJ0WHQwelVOV1NFaktXSTRWSzZBVGpsMEl2dVpRcGw0WWlYVTUxWURWdEhCMlV4QUVMckFncC1HczgyLUtMQVVkWlc5dWcxNnVkYUxSWVRfTWZtYTJpbThoWGUtMVpPZkswcTNoY1Vlajh5YUR5Q3pOTk4yaXE2OUUzVFpURnVQMG1yTmF3UFhITDlVZmlHMUc2bi1QSVJPbzE3Yk9B?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 19.69
-      },
-      {
-        "date": "2024-12-03",
-        "price": 19.92
-      },
-      {
-        "date": "2024-12-04",
-        "price": 19.95
-      },
-      {
-        "date": "2024-12-05",
-        "price": 19.32
-      },
       {
         "date": "2024-12-06",
         "price": 19.82
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 20.26
+        "price": 20.43
+      },
+      {
+        "date": "2025-06-03",
+        "price": 20.46
+      },
+      {
+        "date": "2025-06-04",
+        "price": 20.33
+      },
+      {
+        "date": "2025-06-05",
+        "price": 19.94
       }
     ],
     "current_price_data": {
-      "price": 20.26,
-      "change": 0.42,
-      "percent_change": 2.12
+      "price": 19.94,
+      "change": -0.39,
+      "percent_change": -1.92
     }
-  },
-  "news_sentiment": {
-    "summary": "ADMA Biologics, une entreprise cot\u00e9e en bourse de biopharmaceutiques, a annonc\u00e9 ses r\u00e9sultats financiers pour le premier trimestre 2025. Les r\u00e9sultats ont \u00e9t\u00e9 inf\u00e9rieurs \u00e0 ceux esp\u00e9r\u00e9s, entra\u00eenant une baisse de 14% des actions de la soci\u00e9t\u00e9. Le sentiment de march\u00e9 est mixte, avec certains investisseurs recommandant d'acheter les actions, tandis que d'autres conseillent de les vendre. Le biotech a connu un march\u00e9 bumpy \u00e0 la suite d'un changement de politique commerciale et un d\u00e9saccord entre les \u00c9tats-Unis et l'Europe. Les deux",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

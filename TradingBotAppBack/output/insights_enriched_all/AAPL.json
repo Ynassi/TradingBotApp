@@ -2,55 +2,163 @@
   "ticker": "AAPL",
   "name": "Apple Inc.",
   "sector": "Information Technology",
-  "market_cap": 3005904584704.0,
+  "market_cap": 3004186755072.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 31.29938,
-    "PB": 45.01342,
-    "EV_Revenue": 7.617,
+    "PE": 31.281494,
+    "PB": 44.987698,
+    "EV_Revenue": 7.69,
     "ROE": 1.38015,
     "ProfitMargin": 0.24301,
     "GrossMargin": 0.46632,
-    "DividendYield": 0.52
+    "DividendYield": 0.51,
+    "DebtEquity": 146.994,
+    "CurrentRatio": 0.821,
+    "QuickRatio": 0.68,
+    "FreeCashFlow": 97251500032,
+    "OperatingCashFlow": 109555998720,
+    "FCF_Margin": 0.24290648435068304,
+    "ROA": 0.23809999,
+    "PEG": null,
+    "EV_EBITDA": 22.172,
+    "BuybackYield": null,
+    "PriceToFCF": 30.812580123473648
   },
   "technical_indicators": {
-    "RSI_14": 46.38626312196017,
-    "Momentum_10": -4.738234766219326,
-    "MACD": -1.5848056098343193,
-    "BB_Percent": 0.4156808939160217,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 45.94262076827401,
+    "Momentum_10": -0.5789490772166168,
+    "MACD": -1.249417626399861,
+    "BB_Percent": 0.3586763091483832,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8553579116558215,
+    "ValueScore": 0.8518393599288421,
     "QualityScore": 0.3697202597665955,
-    "SignalScore": 0.6697101224982284
+    "SignalScore": 0.6197229158336506
   },
-  "volatility": 0.0256566715489005,
+  "volatility": 0.0256486051952148,
   "beta": 1.211,
-  "return_6m": -0.1579761572790166,
+  "return_6m": -0.1704444037048526,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 41,
-    "target_mean_price": 228.75928
+    "analyst_count": 40,
+    "target_mean_price": 228.85326
   },
+  "news_sentiment": {
+    "summary": "La récente actualité entourant Apple (AAPL) est marquée par une série de déclassements d'actions, en raison de la concurrence accrue dans le domaine de l'IA et des inquiétudes concernant la croissance ralentie. Les analystes pointent du doigt le prix élevé des actions, les risques tarifaires et la pression exercée sur les bénéfices. Malgré des avancées dans l'IA et des partenariats en Inde, la récente tendance à la baisse du titre suscite des interrogations quant à un éventuel piège pour les investisseurs. Les incertitudes réglementaires et les risques liés aux tarifs pourraient peser sur les perspectives à court terme.",
+    "sentiment_score": -0.35,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.55,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Apple stock hit with downgrade by Needham analysts, citing stiff AI competition - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVWF5SVBsa3JmQWtQYkdNS29DTFVfa09ua3pPMlAxS0hCZngtenlUQWNwcEZNcDhET3I2b2tFVjBDaWtvY2NmeG5RRHFLMFV3YWdoazlNeVhKM3BNZTlxemNDRUhEbEdhWDY0YzBVTkl4VDl6ckd2YVV4OS1SZWQ5ZDZ3X2VBSkRvdnBTSjRKN2hVQzZ3ZzQ2Tlc3aW9sNFpqTHk3dlk0Q0kxN0xDRGs1MktDM3dacnF4SEJQcGctWGpCUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple Stock Downgraded On Slowing Growth, AI Challenges - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMl9XaXJzUndjbkVObW1fTHMzN09oMFM4Y2NXdl9mYklsS2k2cC1sY0VZRXVTVi1FMnNlem45Mk1LOHdmeW14N3RmX1JOYmRMOC1EcGF5Q1RfNnFHaHVwSlJ6ZmJibGNfZ1g0NmdGTWtVRHJfUnlQZGt6NW94Yk9vX2hIZlBvYnNWbWdJMWpxbjNrR0VuTmFMRWxR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple’s AI Stumble: Why AAPL Stock Is the Weakest Link in Tech’s 2025 Rebound - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVS1oc2hkbDdQMXQyZEsxTnpwV29oSE9JRHA1TWhtak9GcTJvd3N0MW9weVg2WWt0UVo3dW04N2hzQ19CLUx1WkYxNnZSX0ZQOERDSzc2QkhaQ196UG1nUUZnXzJWXzI2SW1xTm52WmhwNWVBQzV6Vjl1ZXFkWTBiS3ctMV9jZWswS2MwbUE4SWk5MUFJbkdDU3BNcWk0bk9TX0xZcThfbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple Stock Is the Mag 7’s Biggest Loser. Today’s Downgrade Just Confirms It. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzc5MlVkanJETlZ1Y3pkeGxyWXRsbWNKd0ZGa3Zud0lvSG9fSXRMT1pSWGI2aDc3a0pZVWxjZVRhNGNuRG1jWnFPaXVoNHpfVi1FN1BCWmNjOEZYWHhiWXZDaXFmMnlLbjdnQjdEYndLT3RNRXh6azE4VnZ1Smtpc0ZDTlNzbWJjcnV0SA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple gets a rare downgrade as earnings and high valuation come under pressure - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGtuRjdKcHNmQnl4cDM5Z1o3VjRXQUtTNjBQRVhzbnVVV3NUYmdXMEtQX3RLUlFOTEVDbURvUXdDb0lDTElFMnlHZEVWQktjTHl2ZHJ6cHoxRTgyNG5YLVcyZ19DN05BN0NQUEtOZG1UQ1dKRXpUWWNnTU9jbnlTb05PREY5S2lsZlJoaWlBSzFCUGFuUGo1UnJ2T1dZRjFiVGZQTXBYdmlnRmhGQXpUQS10ZmpFUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "4 stocks to watch on Wednesday: AAPL, DLTR, MDB and PVH - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN05sakhQWjI3YlVfMHdHUVItWlh5UnFFTUhxZlphaU03WW5STUViTW9CbUw4TU9sa09QMFFOWXl6bFpmMGpWb0poRHJaNlh1ckhKQ21fZHAtR3pDS25heml3TlpPeDdoQTRpbFVJWHZSRWswTWViaTZWMFB4YkhycjZvZ3NIOHZBb1FBajhsbHNWYWFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apple Downgraded by Needham Over AI Risks, Limited iPhone Upgrade Cycle - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSXFUcVR4cE1NMDFuQkdYS3VCS0NqWVV2a0U2RnA4MElXNWVtM00xd0F0V2tVTmlLbW4wdHRfVXBURVVEcjdIZFdDOGRKc2wtZmJya0gtNW5NMVB5ZDIzU0RLdlczUE5fUkxtRElUTVJVWHh6cXhNTXdFRFNTcU0zNlNCVXhrRWJQeVNEYUV6bWdJSURxZzFKSGZMa2dabXRmdVFkTTBGUS1QUHRDRkpLRUo3VFU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple Stock Too Pricey? Analyst Warns Of Rising Competition, Tariff Risks, Favors 2 Tech Giants - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNXc0dmYwRFJVNXdxNzFuamhoMEVVQTQweDQ1YVBlenZabTl6X01EVm5fT3hJZTZYTTVIUzZrT1VZdHZUVUwtakxIanBXbHNxeEZqMVI3OFZUWU9QWVZpSks3RGRGc1F1QlZyUC1SQ2Nvc1dYVVhRTnFOTElrWTdHR1AybkdUSkRWS281QmxLQjNWRDZlaXZkS0xoVnVDUkpwQklyV1pLcVV3dTB0WllIcUREVGpPNFJzNW9XMXpka0NvUWhncmJ5cW1aZWJ0Ym5sdloybXZVdFF5RktSczhFTEhJb2FnSGlvUlZhZGwyNWs1ZklPb1Y1bw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple Inc. (AAPL) to Show Off Incremental AI at WWDC, Analysts Temper Hype - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rc1RWNjBLVjRPbHNfWFNvdFhTZ1lKU2N1LTU2b1lWWU55N2ZZY2pEYThEeVk3ejJzLUtCOTJ2a3lJVU9ydV9EekhIYl82d3AxZUVreXRGd0sxa2I1N0tuX0pxbHNLSXptNnRyN21MWTk4TXhnUkZocw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should You Buy the Dip on Apple Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzY2tzbFl5R1ZJZ1dsako2SHFuTWRCNk8taGVGdngwbWVDOVhHam52M3JpYzNGM3Q0Z1M5UHV0ZjNvRUVIYWl2a0lvMm5vM2tBRExmVm9uM2Z0aUgtYW5LNWF3OWdnb0sxUExOZlFwT1hFekk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apple Stock (AAPL) Advances as it Deepens Indian Smartphone Ties - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0VhSlFMaU1jSnp6S2E0bFBtUUF0SGFsMVNLMnQtNmFhOFh3VXg4ZE00SHB3QUxNeklQYm1IRmJiME9BUFB6NTZEUG5uNGcxcXlObllsN3VkTnJtaG1TMDRKc3Jma1hLQm1mdVcwOGgzMDk3MVV6TkxMUGlCazhfdmMybEFFQ0hONFhQNW1TS2dhcjczZFlr?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Apple (AAPL) Faces Legal Setback Over Payment System Changes | AAPL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdVdyTm4tN1ZTOEQ1ME14Wk1oOXNmRTdEaTNKdFFTR2tFWW1WbDJHYi1lbGg3Q0xWeS10SjhnbU5MLTYzV2FMZGp4dndPd1JfVzVldDNoLUF3MUlsdWJNdmpDd2k1bGM3enNXcnFXeE1rX0QwTmJtajB0TEpTNzNXbTg5RjR2ekZsOGFDQm1ocUM0TGNZeURVZjFzZkZFWHk4WTYtTmhLakhiN1diT0VrcnA3UQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple Stock's Rebound May Be A Trap (NASDAQ:AAPL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEOWJybTRnUXJsenZkWjlZSW9GYTI0QWVhRnk0SkJBTF9KeE1aY2V5bXI1Q1VQdDVtN2pwQm1Td2R6ODJ6NkVPbFMtVUhIcEhMSWpreThYWXpiRFRTOVVSS0Y1ODB2b0JLUmdpR21YSXlUNEwxVFl1Y0V3Vmdwcjg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Is Everyone Talking About Apple Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UM1o0dFo1SmZmMnB3US1aNlB1Z1RKamh0SzFzZUlXbERRUElXVkRYeS1oQjBxV1RkMG91dFVfY3V4ZW9ZNHRIUmp5eTA5VDB2STJaRjRaUHpjT2J2cnhGNXcwcmRnd2JrcTNPNW56VTlNN1JwT3lrNjVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apple Stock: Did President Trump Just Give Investors a Reason to Sell? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2Z3OFg1RVFoZDlEVlVySnU5a2NQQzVrR1ZHT1dsckcwUkZRMFcxN3dtaEV5VXF6Q1dEN29CZWZUUnUzRnktSTRxZ0NiN2tLMnl3LVRVek1NRTVoQ3hsSjJoNHZyS09TOG9zeXdnQzEzSW52bENRQjRmc1JwbFRxQW1wdk5maTVEd1hFMkpyRjlXcnhtU0M0LQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BofA Maintains Buy Rating on Apple Inc. (AAPL), Keeps PT - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcjRDdkRPRDV1Q1U4bTBrbE4zNmFoZU1Ic1ZudDZSWlRyRVB5eWtLVXRCSmoyZmlSM0w3Q0E5TEhELU9DNDg0Z3NjQ2xmR05jWDdHUzdtSXhza3BLTXlRalRiM1ZzVGNtTkx1ZmwyRVI2QkxDYi05NEt3UWU2MG0ydjdZU2ZqdXd4di1majZtR2dPZmhfMnZNM3hNYXpOTjdHSG5xYnpHNkllSjBnMFAyNy1HQUtJUWdDZkZjRkJzWmc2WGhmNlg1TVNTcUs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why 43 Analysts Could Soon Downgrade Apple Stock - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZElRa0FZMW40QzV6RkZ5UkM4eHFqVTVmcVRQNHZrUWhIX1AtY3JiMVhuQVB2bmFQcndnV21uWHk1M3VMRVBTajl3ZkNUaTFQWGRXdEY1cFk4TDlsMjJVUmo5NFc4WTNrZDFfNmEyeXdpS1lVN3F4dXJ0TC1HYTlWanVUWTRpb05EQkhRRVlvMXJrblJIZ1BYbmtsWmEzU0ZQbkNXQTM4NHVYd1FVUHNrdzF2N0pQN2NmcVVWc1Z0aGZaMGN3RDNFdXZvMUp1eWFGX0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jim Cramer Notes Apple Inc (AAPL). Faces Tariff Pain Over India Shift - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQQVRkMnVvZkFlbHlMcC1UakVyMWhfbGdLWFRNWlUzcFRtYnJpdGRyQjhFUkMwdTZXcV82NERrbzl0bHQwYmxCdnVfMkdfQVk0Z1Rjb3pYeVc0NS13czlsQkpfM1RaRWFHZzZmSGNmXy1rb2I2enRZX2dLV2g?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple (AAPL) Sees Rising App Store Revenue Amid Legal Challenges | AAPL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWtsUW0tWXZzUEFZYnljUVpUMUF6b1pnZTM0eWI1dXIyOXdTUmFUR0pvaDhwWWhLNU5aYnktOTlaX1pRNnJyRUhlcGhVaF9GY2ZDZkphY1IxRW80U0NjUjRoRmRxMFFjWmpva2ZmeGFIWWFfQXJGUExCcExXbDhBUjUtUFRiaWI1SzI3el9fYVlRTXFzNHAzd0lLY2NrUnJLWFBfRGhRTGRaOFZ4QlNWWTlEX1NYNlRS?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Apple Stock a Bad-News Buy? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0dCaUpFUXJkbTBQX3FkcmM5U1I5b3YyV3ZzSnJZNWpPUnlrOU9DeDdiTk9IdDlaZjZjaG13S3I5cVpkbUg5ckJsSVNObWJQeUtxNkVOMVhnUjUtZ080UjY0c3lqTUFNTTJMZk1yYXMtOWdMYnlHNDZUU01QQ093ZFNEU0VoNF85eWV3LVhwZWh4Q1NQX0U3WDFwZURETjd6MG1pN1RibTBWS3hWWHh5ek94d2hOUQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 239.59
-      },
-      {
-        "date": "2024-12-03",
-        "price": 242.65
-      },
-      {
-        "date": "2024-12-04",
-        "price": 243.01
-      },
-      {
-        "date": "2024-12-05",
-        "price": 243.04
-      },
       {
         "date": "2024-12-06",
         "price": 242.84
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 201.6
+        "price": 201.7
+      },
+      {
+        "date": "2025-06-03",
+        "price": 203.27
+      },
+      {
+        "date": "2025-06-04",
+        "price": 202.82
+      },
+      {
+        "date": "2025-06-05",
+        "price": 200.63
       }
     ],
     "current_price_data": {
-      "price": 201.6,
-      "change": 0.75,
-      "percent_change": 0.37
+      "price": 200.63,
+      "change": -2.19,
+      "percent_change": -1.08
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques concernant Apple sont vari\u00e9s. Apple WWDC 2025 et Apple Stock: Did President Trump Just Give Investors a Reason to Sell? pr\u00e9sentent des tendances mixtes, tandis que Berkshire Hathaway Offers Attractive Indirect Ownership et Should You Buy the Dip in Apple Stock? offrent des signaux positifs. Apple Stock Gets Bull, Bear Cases From Analyst et Apple Stock Could Rally After Tariffs Are Blocked By Court pr\u00e9sentent des tendances mixtes, tandis que Apple Stock (AAPL) Slides Despite Discounts Boosting Chinese iPhone Sales et Jim Cramer on Apple Inc. (AAPL):",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

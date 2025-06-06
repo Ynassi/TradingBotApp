@@ -2,55 +2,113 @@
   "ticker": "6902.T",
   "name": "Denso",
   "sector": "Information Technology",
-  "market_cap": 5471367331840.0,
+  "market_cap": 5303987339264.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 13.531468,
-    "PB": 1.0950615,
-    "EV_Revenue": 0.761,
+    "PE": 13.11108,
+    "PB": 1.0761031,
+    "EV_Revenue": 0.737,
     "ROE": 0.08509,
     "ProfitMargin": 0.058520004,
     "GrossMargin": 0.15399,
-    "DividendYield": 3.26
+    "DividendYield": 3.3,
+    "DebtEquity": 13.478,
+    "CurrentRatio": 1.854,
+    "QuickRatio": 1.057,
+    "FreeCashFlow": 416583385088,
+    "OperatingCashFlow": 758742974464,
+    "FCF_Margin": 0.058167598901493894,
+    "ROA": 0.03767,
+    "PEG": null,
+    "EV_EBITDA": 5.897,
+    "BuybackYield": null,
+    "PriceToFCF": 12.732114455653516
   },
   "technical_indicators": {
-    "RSI_14": 54.69253663083164,
-    "Momentum_10": 0.3630705394190871,
-    "MACD": 24.59353998177403,
-    "BB_Percent": 0.525879080174538,
+    "RSI_14": 49.10663477601636,
+    "Momentum_10": 0.1052908660173729,
+    "MACD": 17.03972104726131,
+    "BB_Percent": 0.2298657310998094,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.898969675451601,
+    "ValueScore": 0.8962399762830889,
     "QualityScore": 0.3537033908504773,
-    "SignalScore": 0.5888458961137468
+    "SignalScore": 0.5961695256917563
   },
-  "volatility": 0.0207161726438068,
+  "volatility": 0.0208128691545328,
   "beta": 0.591,
-  "return_6m": -0.0926576194511888,
+  "return_6m": -0.1089827439813059,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 17,
-    "target_mean_price": 2460.0
+    "analyst_count": 15,
+    "target_mean_price": 2474.6667
   },
+  "news_sentiment": {
+    "summary": "DENSO Corporation (TSE:6902), fournisseur clé de Toyota, a enregistré une hausse significative de ses bénéfices au T3 mais a manqué les estimations. Malgré cette performance, la réduction de la prévision de bénéfice annuel de 21 % a suscité des inquiétudes chez les investisseurs. De plus, le recentrage des fournisseurs du groupe Toyota sur leurs participations croisées et la vente de 8 % de la participation de Toyota dans Denso indiquent un changement stratégique. Par ailleurs, le renforcement de l'industrie des puces au Japon pourrait impacter positivement les activités de Denso à long terme.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.5,
+    "neutral_ratio": 0.3,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "2 UK shares and ETFs to consider holding to 2035! - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWcEVHZXhCRDVoNmFYRTVzLUwxc0xSeXMxTmZSb0xOeDY3VHplbG5FOE5fenNDbzVOTkYyRm1zQnRRcTlWU3EtaGp6YUk5QkZOeVNTTUhXc0xqQnNZNEdTb0x2ZFkzLXBXQVNaWlI1TEpfUHJxWlhxWFFsNy04QmM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DENSO Corporation (TSE:6902) Doing What It Can To Lift Shares - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1RwMzJ1NUl3aEZNSDZuRXRQSjJfM3BVbDRUazlhU3d3UFpJOTVXckRvTHI0QzlVbldaTTlWWTczSHJudnFHcHZlQW9jbEFsT0wxU1J5aC1ha2JwZlAzZnFlaWxUNU1yY1AwZWNYMDlCc0k4bnhwMHJTVjNKWGw1TTZrRExDS0J4NDdnc1ZaNG1nakY2SHV6OGx5UkJ1Z0drYmRyTkJqWTRudlVoYm04OElWek9KM0cwZ2lSUVRHYXdUZDN4ZTdTV9IBzgFBVV95cUxNUEZRYWJNVS1KS2NVR3FKVXM1ekxVNHBZZ0xrWHJ5cGI0SUJ5MmRxR08xazN4M1F5LTUwRmJYUzJjODgtTzVFYUpIUFptRHlaZDItMFZEYTZ6a01HV3cwazlQSC15M3hWa3U0RUhNWS1mZV9MZi1DZllraTVEclJpM01GUWd1TDlMRF84RmU3TEtMRElDTWpCQnpRQTlyUXRfT0l1Y2JKMl9jcmlqWVFhbkprUjExODEwQWhtSmJLWVNnOGJjUnM0MlFoWnZ6Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toyota supplier Denso posts surge in Q3 profit, but misses estimates - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTjZNcmdXSzBIWGhITUtsTVY2VE9WUGxMYmZHd1ZENEl4enVoTk11cW9fNU5adV9kVlZPUkZzVGkwcmJtSGNyMEtCMVNQSzJhcVVydGtSSmZndGtLSHVGcnh4YmpDeXFFblM2dU9JVmJ2LXRUZVV5TnFlZjljRFFyZFBDWmJ0dmhzU2VoRVV1bndLY3hlVmFuR2EtRExZckxiYVktU0hsVnpPYWFEMHgzVUhn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DENSO (TSE:6902) stock performs better than its underlying earnings growth over last five years - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSW0tOXB6ZUltYzhyTThVV1dESThEY3Awa0g0amh3SVgtWjFBLWF6OFB1S1R3czd0bjFkX0c2YU0xVHBZVUlSeW1NUE43VE5KRDdnbXlySEFaRW0xWFEtai1XaGRGMDFRaEdfODVwWEZuT29wRi1IWGl0MktvMVdVZFVNdEJRaUZCQVltdXRFTWV5UXZyRmtiWXdYQk9sNjBQdi1XNGNXUlNjLXNjUlRobkZVY0ljR2U2aG13RnJZdTJ0clE2NzcwX3NYZ9IB0AFBVV95cUxObVFLRGVPajMzcnRyX2hxSkU2MVE1aVdjODNZSlhWbTdXZXhJZllCNThuaXdKVngxWWZ0MXVuN0d6a25ocU5DSnc5VUlvUWZfT05iUnk0MUsxVFVJWVppUGN1YzlWajlKWEtkNUQ0TU1uVld3ZEZqbmtwRVdpTURpVnlsbW82MUNZOWdFYmFLaUJoQU9iYXdDb2htYkpnSU9HUHVZZzBVYUdRbDQyclVNN3NwUDVDLUZnUFVkakFyZGdnb0pCaHpORWpCRGRkdS1o?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "US stocks rise, bonds and the dollar steady as tariff turmoil eases - KITCO",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTJUQkFmU0V6M2FRMXFLSnV5ZWpEYmpHRWRyZzJRNk5mZUt1NF9DdV96SFdrMU9VZ3dJbWlBdjBBU1ZOakRBOEp4cU8xb0NzWDhEejJmS19EUHZEZ25sSXRnYVR1ZHNfREZLZ1pMT3ZtczN6OUJiTTNnZHdVZWc1N1NfSkpXbVZtUXlRb2pCUXYzRVg1RmZtZV9ndTBfZXVqTTBmSlVzYV9XWklqTUxz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toyota supplier Denso cuts full-year profit forecast by 21% - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjJ0bUIwb2QxWV8yRnJuQWZ5eUhLSG9kbVBqNi1tUkF6OUlpS0V0YXhEbm5jbTdESUxFYU9oS1p2aEdjbm9IM3VWUTJGeUlvNVlaNUpiaVBXbndJejkyZmFzbW5KUnBkaUoxcGV4MWk1c1BRT0QzZVVIb09JdFIyRUVlMy00dmNRVHc3VXdGanFaLV9VYUlnb2tUeVRSazRHNnZOMjRoU2NRbzl3ZENPam5JWkt1QzlkbFYxekpKUzZfUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DENSO Corporation's (TSE:6902) largest shareholders are retail investors with 36% ownership, public companies own 33% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMnIzYm1zRzVTajRyMWc1aF9acEQxMmg4MVdPdmhCNERCVGdYbDNONjV6ckh5N0JURi1LS0NUYVNTd2o2QUhsQjhvalQzZGpSWmhWZ1dfWldpNEZoNzdsaDRHNFUzcmFfc0hDR2ViQUtwRlQyNlZZcUJ0Mkh5R0FLd0NTY0w1empCOWwzaGZMNURBOE85QzVZdjhyTDRYd19lWUJqOERxWkVqUjVxTlFQcDAtdTV0Ukd1REE3VW5lTDdvLXduYTJqMHVia9IB0AFBVV95cUxQQ2FlNUpEaGF4YlUyY21QdFF0Sm9jTmNpNlBhUmc2eVdaNDFKemgzdWRlZGlHWVI3RmF3MUxYejdvRXQtVWdCdkFuZjdPRUZMMmpwWWd4bFBUMlpyX2gzOFBkbkt5dkRLNTJPY1dxNWJlRERMOW5TcEVZZTlTT2tVSUs2alFmRWdUekxuOFM1ak1wRjVfNGxYc01mcmhhVVNsby1hdGhqTFp6YmdyNEtNdHJtUkliRVhmcHJzdDU5TTBORW43V0FTOXl5MVEyZl9l?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toyota Group suppliers Denso, Aisin scale back cross-shareholdings, filing shows - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWVsaUJmRVZwNms1X25EbTBXZ0JZcDhLZGk4WUZ0Ym9tQWI3QktlMnpxLTMwOGw4dnVVcDA2UmNzZU5ad3hxSHBieWNOTDhJTWhJc0lQNjUtWDR4TFIxWlRaa3h4Z3B0WERYYjU5cWpPQl9iTXhsck1ZRkpWVUh5V0RMNkZ6TXNEZ0o1Umt3VXdMOWJUU0l3bW9MbUFDWjNRa3E2QXRTdHg4SG9PWUh6SjFleGpCVnJLcV8yTFFVQlU1WFZPdTc4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Toyota group to sell 8% Denso stake, investors want more unwinding - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbVFKOHdDT2JWTHNVUzNiWTJaakM1VEF5ZEFMWmxpQkJYMVh1b0tFSkNaSUo0cFdHX0JuWmNDSW9nZHRMZWtOUDMyWjNQS1RBRE5MSXNfb1VvbjVmdHVNVkhWYW1zVnVwaV94TlJscWhjUHFpczkzSDNWMlpnSTBSZFk4NE9yX0R1YU5RZmpJWVdpWmRUblZLc002QXlnZDFyTWNMQjBGRzZhZ2xtazN6ZzhYU3o3dVI4LU1KY0RXclFCUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan ramps up efforts to strengthen its chip industry - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN2NWaVpXejhVa3dwd19BaHhTb3RIdGlxSTVmTjhpZlE4TkI2em5laGduSWV1MVhwOFA0OHkwdnJINTFNOTM2THBYMC1HbjJmYU5QY2N6dVp0NXZMMzVJM0RYMXpOaDFZVGN0R0hvejBUOU1GaXZxNHFzd3hJUjVMUXF6WVY1cTBlNHNfV2V4MFU0NGxaT0cyUUQxa21MUk50Y1E?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2167.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2197.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2185.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2169.0
-      },
       {
         "date": "2024-12-06",
         "price": 2153.5
@@ -514,24 +572,28 @@
       {
         "date": "2025-06-02",
         "price": 1935.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1913.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1941.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1901.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1923.5
       }
     ],
     "current_price_data": {
-      "price": 1935.0,
-      "change": -26.5,
-      "percent_change": -1.35
+      "price": 1923.5,
+      "change": 22.0,
+      "percent_change": 1.16
     }
-  },
-  "news_sentiment": {
-    "summary": "Denso, a Toyota supplier, has reported a surge in Q3 profit but missed earnings estimates, and has also cut its full-year profit forecast by 21%. The company has also announced plans to sell an 8% stake in Toyota Group, with investors calling for more unwinding of cross-shareholdings. The global economic sentiment has been influenced by the easing of tariff turmoil, leading to a rise in US stocks and stable bonds and the dollar.",
-    "sentiment_score": 0.286,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.57,
-    "neutral_ratio": 0.14,
-    "negative_ratio": 0.29,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,73 @@
   "ticker": "6762.T",
   "name": "TDK",
   "sector": "Information Technology",
-  "market_cap": 2914652258304.0,
+  "market_cap": 2926985871360.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.454546,
-    "PB": 1.6192522,
-    "EV_Revenue": 1.342,
+    "PE": 17.543655,
+    "PB": 1.5886804,
+    "EV_Revenue": 1.262,
     "ROE": 0.09664,
     "ProfitMargin": 0.07582,
     "GrossMargin": 0.31206,
-    "DividendYield": 1.88
+    "DividendYield": 1.94,
+    "DebtEquity": 33.59,
+    "CurrentRatio": 1.672,
+    "QuickRatio": 1.171,
+    "FreeCashFlow": 147435880448,
+    "OperatingCashFlow": 445839015936,
+    "FCF_Margin": 0.06687023157616394,
+    "ROA": 0.04028,
+    "PEG": null,
+    "EV_EBITDA": 6.617,
+    "BuybackYield": null,
+    "PriceToFCF": 19.85260211059909
   },
   "technical_indicators": {
-    "RSI_14": 49.16456449753419,
-    "Momentum_10": -1.2218649517684887,
-    "MACD": 18.85007076976035,
-    "BB_Percent": 0.263248328546349,
+    "RSI_14": 46.05863238913019,
+    "Momentum_10": -2.2063595068137576,
+    "MACD": 7.291466703919696,
+    "BB_Percent": 0.1260907463466265,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8963781217733611,
+    "ValueScore": 0.8937403691520132,
     "QualityScore": 0.4103941922765102,
-    "SignalScore": 0.6286210218050019
+    "SignalScore": 0.6291087494915664
   },
-  "volatility": 0.0300297076499926,
+  "volatility": 0.0300591716990135,
   "beta": 0.33,
-  "return_6m": -0.2356307539188853,
+  "return_6m": -0.2642282198549976,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 2033.75
+    "target_mean_price": 2043.75
   },
+  "news_sentiment": {
+    "summary": "Les rendements sur capital de TDK ont stagné, signalant un possible ralentissement de la rentabilité. D'autre part, Stablepoint Partners LLC a acquis des actions de Micron Technology, Inc., indiquant un intérêt croissant pour le secteur technologique. Ces mouvements pourraient refléter une divergence de performances entre les entreprises du secteur électronique, avec TDK rencontrant des défis et Micron suscitant un intérêt accru des investisseurs.",
+    "sentiment_score": -0.5,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Returns On Capital At TDK (TSE:6762) Have Stalled - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWpVUWNQbkthRHdCeFhXeHd0ZkY3RzBZTkRFYzRDZHNMMFlXS2lYZ1NYTGhHbHNtd0k0aEhiTGdlZ2ZqUGVXWGhBa0xNNkhoRTJ5LU9XcEVkZGpqYjN3ZmM2VW1TejJnT1JVaFdsTGQ3NUktOWxlRndUMUp6WGU3UGxnbFMzQ19lUnRkTFBpT1RTOE9vc3BsMHpvMVhoTEJJTWo1YnRucWl6aWZL0gGyAUFVX3lxTFB3bUhDb2pXd05lUVFFWDFjeGVNeFozQ2R1WXc2bjI5WWN0UzhGREYzXzI0SU1LbFF3N1dxWnJjT3gyRmllVHg1UlN3WUdkWnZLSTJ4STVGU284Z0EyV3BuaG5YMDI0cThyTzN3LS1pM2t2d0VQbGZCSzM5UjV2bDF0N3dPSktGSUowUkM0dDBNdmoxRXZjb090cy1YRnJpdnpfNzBoSVNQbFEyZlF0S2lTdGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stablepoint Partners LLC Purchases Shares of 6,762 Micron Technology, Inc. (NASDAQ:MU) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNalJDUVRvTzVRQWV0WkFubGZtTW03LVhHcTk4TkJoM0Q5elUxeGhkVllsSnBSalQ5WkFwNGcyT1diRmg1UEl4bzg3RTJTUjN1dGo3M1I3OHdWUU05Sk0weE5Kb2dVSUptSl9VQUlSQjN6Y3N5c2FJTW9ENF9yU1JpT1B4V2RRZFJkUk9QMno1QUowekltbFpxRUlPcVppa245bEY0RnNackVPbHZWNEJ1N3J3RkFHdnIxdzV5ZkpXdkJQbkFnMWZKLVBzM25nUQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2009.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2047.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2030.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2068.5
-      },
       {
         "date": "2024-12-06",
         "price": 2027.5
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 1536.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1508.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1542.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1507.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1506.0
       }
     ],
     "current_price_data": {
-      "price": 1536.0,
-      "change": -64.0,
-      "percent_change": -4.0
+      "price": 1506.0,
+      "change": -1.0,
+      "percent_change": -0.07
     }
-  },
-  "news_sentiment": {
-    "summary": "TDK, a leading supplier of semiconductor devices and equipment, has seen a stagnation in returns on capital. This development may be concerning for investors.",
-    "sentiment_score": -1.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.0,
-    "negative_ratio": 1.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

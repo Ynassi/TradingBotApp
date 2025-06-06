@@ -2,55 +2,163 @@
   "ticker": "CMCSA",
   "name": "Comcast",
   "sector": "Communication Services",
-  "market_cap": 128383270912.0,
+  "market_cap": 127991619584.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 8.469212,
-    "PB": 1.4860193,
-    "EV_Revenue": 1.783,
+    "PE": 8.443375,
+    "PB": 1.4814858,
+    "EV_Revenue": 1.779,
     "ROE": 0.18049,
     "ProfitMargin": 0.12714,
     "GrossMargin": 0.70364,
-    "DividendYield": 3.82
+    "DividendYield": 3.83,
+    "DebtEquity": 113.542,
+    "CurrentRatio": 0.645,
+    "QuickRatio": 0.507,
+    "FreeCashFlow": 9956500480,
+    "OperatingCashFlow": 28118999040,
+    "FCF_Margin": 0.08058028776488085,
+    "ROA": 0.05451,
+    "PEG": null,
+    "EV_EBITDA": 5.743,
+    "BuybackYield": null,
+    "PriceToFCF": 12.832543379739786
   },
   "technical_indicators": {
-    "RSI_14": 46.51574328918437,
-    "Momentum_10": -3.156425490994444,
-    "MACD": -0.0021762660911335,
-    "BB_Percent": 0.2776825504698903,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 45.61187091287685,
+    "Momentum_10": -2.4074001217660115,
+    "MACD": -0.0482248249480505,
+    "BB_Percent": 0.2189735049875179,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8964732327554779,
+    "ValueScore": 0.8935595668815964,
     "QualityScore": 0.4042630478671292,
-    "SignalScore": 0.6582202255344878
+    "SignalScore": 0.6340384514419202
   },
-  "volatility": 0.0206803398220972,
+  "volatility": 0.0206833908742774,
   "beta": 0.948,
-  "return_6m": -0.1917638074257883,
+  "return_6m": -0.1846976441285458,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
     "target_mean_price": 40.17259
   },
+  "news_sentiment": {
+    "summary": "Comcast (CMCSA) suscite un intérêt croissant des investisseurs, avec des achats massifs de parts par plusieurs sociétés de gestion d'actifs. Malgré des mouvements de vente par certains fonds, d'autres, comme Czech National Bank, augmentent leurs positions. La performance boursière de Comcast face à d'autres acteurs des services de télécommunication est mise en avant, notamment grâce à des résultats financiers solides au premier trimestre. Ces indicateurs positifs pourraient renforcer la confiance des investisseurs dans la capacité de Comcast à évoluer vers un écosystème numérique, tout en offrant un attrayant rendement en dividendes.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Roku vs. Comcast: Which Streaming Stock is the Better Investment? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1U3d0NZOFdENWRXWkU1N1A4cTFhTlBBUEppYnp5dDkzWEFGNXpfeGtMT1piWTBMMlFQd0JWdTVKcldpLUNVYkRnYWFaYW9MSTRiZXl1VnJ0bzFXc3RRZXZMNVU0ejB2cmZxUHVrU3ZjNl84NjNZS1k0OU1qVjgtNHpuRHEtWWx2NC1BRmVUcC1YRy02U1Y0bFhrUEdRRmZVOWYyTWVhSi1tWnpGY3BMZzhrUzBQZFVWY1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comcast Co. (NASDAQ:CMCSA) Shares Acquired by RFG Advisory LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFRqSFBPX3N3czZMOHFkWk1HTU96alNDanJaSE9rY0dXSGJQRXlTenhEZV8yMUN0VzNLUGlaQWkwVmpEUjZteVFfb2F1WW9SSUpGZUtaSGpQSFQ4R2pHOVUwdWF1WTI4OUJLaXBvUWh6VDFYX2VuUXZvX0tRbnFiZUNyRWhvcVQtT2VVcEtfdXBmY3plMWtqbUFUOGlCX1lPeEM3Mk9lSHpxdVUyX05FMXZ1XzlVRHBBOXhz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comcast (CMCSA) Outpaces Stock Market Gains: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0lpaUVWZnB1NmluMGd2bWhTejNlZzVaUmtRbzhOdTg1UTdXSEZOdE1VVFFMX1Q5ZjFoc2NaVF9XYmFhX3M2ZnNZRXd6Y29fa1pDYlF4NFk5Z2VnSnAtUUdTMXQwdGRRb0xuUVUtSjI4dmw5S3VvRVBCdEtqemNzYWxQWENVTy1YRnlRQlhTQmp1X2YxYW8wQzN6QXo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons Why I Bought More Disney and Comcast Stock Last Week - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnpzdU9rNGVfX3BKV1NfUUZRRl8yVVFFMGxLczZmZkpuUzhZTy12Y2EtcW9fZDVyTXpIUzduR1ZsenhSMEt4MmRNejFNNFd6Y2RXTTlzRHU2dERNczJsZG5FcWRPWWF1RXI0d3BpbHlRbE91WWp0M1F0UERxbDhqZnN0VVJhaGJ0eUlXZTRtVF9xd1JyZHpaRA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comcast: A Telecom Giant Evolving Into A Digital Ecosystem (NASDAQ:CMCSA) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2ZnMjA2QlNLWm1XX29wLWNOMkFsUTVUa20zTDZaMVNyanlPQmhjdEo3anZlWXpNaGVaTUwtY3V3cHNKVktmQ25RNllwSktiUmstV3U3MGJrcUFRQjFXN1kyRmNKd0pfOVVhMmFFVk4wcUxkNE9oVjlpMjFlSU9QZDFOY2RFMmxxWHI3UzZ6N3dLcS1xN2ZXT3dmM2hwOTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Is Comcast's Stock Performance Compared To Other Telecom Services Stocks? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNlVvbTc5YmxNZE12eWNYZjBKSVU3c2U5c0VVSnoyd0h4Y092UmlOenR0N296eGtIY29HRkZtbm1ULS1mT20zTFIxU3d6a0MtajJXazJBc09HQjdXZmZPOXA1eEtMM1RfckNteG1ObUdNS2RjWThOdDk1VFNYZzdrSkNCaFRSdjZ3djRibzhucDVPdURUSGxCV2U4eWVPcGhnWENIUXRwQ3hIdGxIMkFmUFRlN3hmUzBLMWN5MW1n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Purchases 50,100 Shares of Comcast Co. (NASDAQ:CMCSA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNEFBb3FrZmZ6ZENVbnF0NnFkZEdjS1IyS1hkSkVZeUxUaDlocWhDMW03akw0YmREbnprbEpLdjdqbWRSU3kyVG5LR0lfaHpHa2swQU82SHFmOEJyb3ZKdU1uT2pjVnN1RFA3bkRKMHFtZE5iZWtmb19pYktZV1MxSW9OakpkaEdYeDVWemltWV9MLWVlV2lXcTMyVDZWY2RyWVpiSkxXQVZUQWFwVld1Q2lDS0w1S3gwc3VzTXowd3ljWXVqcU5rOTR2akFZMmVZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Interesting CMCSA Put Options For July 25th - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8weXduVEFuZzF5aHVxYU9wWFZxM3NzWFJmNTZyVWplWTBLbnk2OWpFWTgwdk01NkdhTERrUnh2Wm1Oam00eU1BMDc2Vkl2cTJkUnpNU0l1VjVZSTNYT0ZjbDU5d1VjbTA5VTJ0TXJfMzlQVTFOTUt2TWZ1UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comcast Corporation (CMCSA) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbV9HX29iSnhZOWVYWTlMdTdEcWFsb1Q5RW82U3czT1ViZTcwdklyNzdkVzhQUGdpLTItRFBKVzVLX1R4LVRqekt6Nmw3eTJxT0ZoenNibkMwRlM2WVlfdjBYRFVNem5lTnF3YXludXQzNE5OMkN3M2s2RFU4akJnSzVBVkdONnpRQ1hNRHFhUTV6ZEtwaHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Buys 38,652 Shares of Comcast Co. (NASDAQ:CMCSA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNVhCRGhnVFJ6d2JiaFBPcEdIbC16cm5lSlQ1UF85MTMtWDRiYllHN29FSzdyaEIxdU5UeWtFUDh5b0N4Qm9wT3B2NU1lWG1vNEpJcFBWdWp6MUVRWmJ1WjMxcmFiMnNvckR5R0VMWWxLZzBabkY0R1VNZDctTE1ud3RmblRFNW16b19pZzh3SjJfNnB5MlRzYkNPSlNzVEFkWFpHTDFaZDh1LW5vMTJnWVJNUjZreWhGQ25FN3N5WQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comcast a Top 25 Dividend Giant With 3.83% Yield (CMCSA) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcGotQ0RMTUhRcVQ1LUdicFZ1VVVoM0VxbWhzdDVGa0ZwcGI4Qzl2Q1dFaEVnWnRubWN3dFdxZzdEYzN4eExrRUpKd1NyMGZxRG5ZVy1WQmtnMkVtM1dSZXphc3l5SDc0VVUwdl9uSVFtdGloUXdXQ29BTFAtTGhHbEtDTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wireless, Cable and Satellite Stocks Q1 Earnings Review: Comcast (NASDAQ:CMCSA) Shines - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXpwV2JrQXVvRFJVQ1lPN3JZTGNPZTF3LS1mRnNCSlBEZ0R0aURmZ2Qzck5uNzVFb1ZTMHBNYTN0NXE0elRfT25tRzFONV9WaWpDbms0cW1nMjAtOGJ4NEViUHhmT21PNFlVUDhiUUVrckx4T1c3THNJQkY4T2ZlQVRUd2VOREU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Thurston Springer Miller Herd & Titak Inc. Has $1.73 Million Stock Holdings in Comcast Co. (NASDAQ:CMCSA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkFGN2JYTFl4MW80NGhRekh1X2hXa3E5QnZMaG1yNHpDaE44c2Q3Q2JWUGdSUUY5YUVwUW5Uc1kxUGpYd2pxUHFWQUw4M2hRM09qLTBkaTl3V3VlOVVuR0hRVXZMUXE4SFB1RExfVzByQkd4YzA5Sl9tY1VhYXRsSV9Ybl8wYmRkaTM4b3RWeHllTnYzOGViLUI0TkdPVUZQZzB0ZmtHYUZSQXJPQ2lUMW9kX0NwdWZoc3JCTWlXb2lGa3h0T1FIMW9lVm42enROVm5vcVhDbVhCenhCV25mWVpQRWFNalJQRmFyMlB3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Triangle Securities Wealth Management Decreases Holdings in Comcast Co. (NASDAQ:CMCSA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRmYxNHpvX2Nva1FiUUNjUXFSZGNOSnU4U1p2SXRqM1RKX2JSQUVRcFBvMk5pR01vWXUzSjhQcGx3bWFvMXE1d2tfdHJHSVRQbThyTXdrTThNSWZSVE5KT1NvRDJJRWVuc0xLa190RW96cC04X015Xy1CdDFfdXBxQU9NREktRUVLSDJfWm5ac3lGMlVyYzQ3STh4T2RhSTlGSDExWnlvZ1NubkhtWjFCMDA1eEtSUUVvZ1JiSC1xdzZ6bkF2a1NzWXFNN2l0V0FLNXZWWVNiUFRGYnc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "JGP Wealth Management LLC Has $6.66 Million Holdings in Comcast Co. (NASDAQ:CMCSA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYklPM3c5NmZFdGdvblVRQWJWNWRfTEZDQWc1S3M2d2VYV2RnY0MySWdWa0pZdW9iZ24wSVRSVXBOazhmWDVyYmZYQV8xblQwY3ZERlh2TXY0SGZHYWJiMHVCbzZnSlEyUVhoNzUtYmljRkNwU0NtYlg0eWtXS3ltRlRXQXpHUDVNaWxxdGtGSjJ1RFJTWlFTSW8zU0JCbUpmXzVIOEJxdnNobDZkbnVaSXk5dk1UTjRrN1FIN2thVW5hb09kWGNPazV5UnRJSTR5Q3BMSDI4MlhwUHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Columbia Asset Management Lowers Position in Comcast Co. (NASDAQ:CMCSA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMlpzUWQzdzFKSmxhQnhjaWViQWxmSEhLZDZlLUU0Yi0zZkc1N0psQ1R4bmtycHM3ZnRac1JLRnJvdmR2RjNsWXRXN3ZRX0NKXzJMNklVYkgyX2ZSaEdlQU83bGNZN1JxeXg0cnI2X3NpVFJUQWEwRWRJQWZ6TGdfOEQ4Wk9IekE1Z0tRaWpxYjljYk5DVkpiWjR2QjIxY1JBcmYyVGRhUzVWNFRtQTdlUDR4eDJOc1dhNE1CODF5Z0tMUm1vNHk4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sendero Wealth Management LLC Purchases 12,198 Shares of Comcast Co. (NASDAQ:CMCSA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQkFrTE92TTFxT1FscnFMM1kwVGttMENReFBHbXRlb1Uyd2NQWFFWdzAwUGtLSmhGbW5FaG95WHhCTnViaDdDVU5Gd2k2WTUxUjJqLXcyVUFYMWVra1JaeFlZR3lIM25ObGthZVEyeWJQV043aU1fU1JZaDQxX1Z3eVdwUkVuLVB4RlFjSFYyZU81a09UN3UtMEhDQklXODJsOURib1dtckZMMmxnSHhsUldiRDRHb0ZMdW1fQWxjd0o1bnpBTVdvTkdXUGVsWnJYeXRMb09n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comcast Co. (NASDAQ:CMCSA) Shares Sold by HBW Advisory Services LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUgzbGhGWVZYMTVsRGJOWUxobWVJTVZwdC1SMEttc3ZCbkdyRlBFbG53aU10ZVRLRVBYQlQxa0F2U0hsRURpbG1rckg2eVFibXg5R0czdTlBcm1wZzRfcWRrLVEybFRiWWhuT1dyRVJfX3YxX3pHTlY4cllBbGpJWjlGRFBQS2tOR3pxYk1xNjgtQUNrQ0FnVUR1YVRBNndQSFpiNDdNZWRVMV93NmFlakNzR3UxR2xIZkJkdVQ2d1N3UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $42.97 Million Stock Position in Comcast Co. (NASDAQ:CMCSA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDJ2OFBWeUpfd05jUGQtZWp4TWFhQ2FtVVV5cmt1M2lVeEpUZVhwcWh2aXJVVVdqejZiTjdBQnRnUFo0dk1RcGJ5WmFtdGpHa0NGclY4Ri1kUVhJWjVUcVNsV0tNQWJtNEN5SGY2bG10dDZGdXZJSExZSmhwa3NzeHRoMlhobHVFRk4tSVpJa0NkcTBCM2ZhRWh1S1dyTzdoSlBadXR2bTNtNHBMOTFBTDYtWVg1TVFPVVJTR0dTdzRuTXBfa29OLVhiLUJ0TkpaejY0Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comcast Co. (NASDAQ:CMCSA) Shares Purchased by Unigestion Holding SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVUtNZ2VFZnM3dWpldXhDdjQ2VWlWWFgySm1vSXktazNZQllKN1dXZC04NzR1bmQ5SF9vWmd5OGhEb0JvS24tMklaWWZ6X2dJT21XVDU2aXRVeUNuc2VUUENDdDVVWGt0QlpmX1lTUzU1X2hoWGdJYV93VG5vNmMtQ0M5N0dvUHlQOExzWWYtTFFGYmt4aXEwczdmMmo2Z1NzQU9reWdiYUxjeng0aGVvX1YtTUs1QktrMG5hQW1GaEpLZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 43.29
-      },
-      {
-        "date": "2024-12-03",
-        "price": 42.86
-      },
-      {
-        "date": "2024-12-04",
-        "price": 42.55
-      },
-      {
-        "date": "2024-12-05",
-        "price": 42.79
-      },
       {
         "date": "2024-12-06",
         "price": 43.15
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 34.34
+        "price": 34.33
+      },
+      {
+        "date": "2025-06-03",
+        "price": 34.66
+      },
+      {
+        "date": "2025-06-04",
+        "price": 34.44
+      },
+      {
+        "date": "2025-06-05",
+        "price": 34.22
       }
     ],
     "current_price_data": {
-      "price": 34.34,
-      "change": -0.23,
-      "percent_change": -0.67
+      "price": 34.22,
+      "change": -0.22,
+      "percent_change": -0.64
     }
-  },
-  "news_sentiment": {
-    "summary": "Les tendances cl\u00e9s des 15 articles r\u00e9cents sur Comcast sont:\n\n* Comcast est consid\u00e9r\u00e9 comme un stock attirent l'attention des investisseurs et est compar\u00e9 au stock de t\u00e9l\u00e9coms en g\u00e9n\u00e9ral.\n* Comcast est consid\u00e9r\u00e9 comme un stock prospectant et un bon investissement en raison de son cash flow fort.\n* Comcast est acquis par des investisseurs tels que le Czech National Bank et des entreprises de gestion de portefeuilles tels que Baker Tilly Wealth Management LLC et Advisory Alpha LLC.\n* Comcast est consid\u00e9r\u00e9 comme un stock achet\u00e9 \u00e0 des prix attractifs en raison de sa position forte sur le march\u00e9 de la t\u00e9l\u00e9vision",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

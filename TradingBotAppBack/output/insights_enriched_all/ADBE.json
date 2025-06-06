@@ -2,55 +2,163 @@
   "ticker": "ADBE",
   "name": "Adobe Inc.",
   "sector": "Information Technology",
-  "market_cap": 172039897088.0,
+  "market_cap": 177589010432.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.644226,
-    "PB": 13.409294,
-    "EV_Revenue": 7.988,
+    "PE": 27.50363,
+    "PB": 13.841809,
+    "EV_Revenue": 7.965,
     "ROE": 0.47284,
     "ProfitMargin": 0.30635,
     "GrossMargin": 0.89155,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 50.118,
+    "CurrentRatio": 1.185,
+    "QuickRatio": 1.027,
+    "FreeCashFlow": 8357374976,
+    "OperatingCashFlow": 9363999744,
+    "FCF_Margin": 0.3792428598804452,
+    "ROA": 0.17194,
+    "PEG": null,
+    "EV_EBITDA": 20.258,
+    "BuybackYield": null,
+    "PriceToFCF": 21.173902490216566
   },
   "technical_indicators": {
-    "RSI_14": 54.10315321546439,
-    "Momentum_10": -3.2352012464264592,
-    "MACD": 8.88891098156114,
-    "BB_Percent": 0.5094925797893236,
+    "RSI_14": 62.500749362186376,
+    "Momentum_10": 0.5627579110536021,
+    "MACD": 8.260454403849792,
+    "BB_Percent": 0.7033459039076001,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8694896283136717,
+    "ValueScore": 0.8660762854132895,
     "QualityScore": 0.3697626350389857,
-    "SignalScore": 0.6185127786344478
+    "SignalScore": 0.5293915396530073
   },
-  "volatility": 0.0246745999759301,
+  "volatility": 0.0245116892826385,
   "beta": 1.545,
-  "return_6m": -0.2180162841603841,
+  "return_6m": -0.2255861629748307,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 34,
     "target_mean_price": 488.02148
   },
+  "news_sentiment": {
+    "summary": "Adobe (ADBE) semble être au centre de l'attention des investisseurs avec des perspectives financières attrayantes, des recommandations positives et une performance solide, notamment une hausse régulière des actions. Les analystes prévoient des résultats clés pour le T2 et la société a récemment augmenté ses prix avec le soutien du marché. Malgré des préoccupations liées à la concurrence et à l'évaluation, Adobe reste une valeur d'investissement attrayante, selon diverses sources financières.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "A Smart Bet On Adobe Stock Ahead Of Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOenZGa1RUZF9Hc3pPdUZOa1FXdUdmT1VrZkpVZVhiOUVVZ0wzWUFpVzZKS29lTTBVc25ZajdVRHl0OHZMUlJTSzExd2NRb1Y2NHg1elJyTmVaSWlkRVFublp5d0phOW9lWkNSd0VyakVZaW5RUzdLQ3AtTDlkcWRTM3FTSUp3WTVZRUVGcjBncFluRzJPLWdXcDAzZElsQ2ZGNXZycFFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Adobe (ADBE) Receives Reiterated \"Outperform\" Rating from RBC Capital | ADBE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObk1kR1pfWEZRQ1l6b2ZzdU5BT0FOM3QyR01LXy1XT2h6UVYzbHJ3ZGUwdUw3aG5yTzlrcE9wQ2RRSUtiRVBPTzlHQnFIZEJVaGxhdDlsMzRxdFZkbzN1Zk1rNTFFUktlSmI0Wk00NzdyUy0zVEdxZHhMQVhJeUtoQktOclM4a2lNZG9HVDZvZW5Id2JwMV8zNENmUmxDSlg5V0NzaGtud0xMUDcydU1Ga1F5bEtxa3hxbHdYSk5oaVdSVE9qQ3M5U3ViRUE3TzZqZDByU3dXTWs2M21iNDFFckJVbUZ1cEUzZGlUVjZMQmV6c0ZsXzI1UzU5Vkd5SU9wWkNz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Adobe Inc.'s (NASDAQ:ADBE) Stock's Recent Performance Being Led By Its Attractive Financial Prospects? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84dEdqMDk5YUhYWUFkbndsQzdQT2hGWGM0Wlk5dmR2Z3VHaU9iak1ydHFzYzh0UFhjcE9EZlFRcWtaalZNSzB0WXZJT0J0NEJLUlo1bFFraTBsWG1PQ3JmbGMtLTdiVXZSVlVIS3BfdmNWQ3R3ZnFnMWU3LWw4RzQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RBC Capital Maintains ‘Outperform’ Rating on Adobe (ADBE), Keeps $480 Price Target - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlJvNWZBTnctS0JRT0hXZWJ3cHNLRVZORGJ0Sy02VHJUSzVYNWNoa1B1dTVqREcwTmE1TExBU19ERmJPcWlBRVN0NWMzU2NHS1JEYkh3c3o2UDNyTFB0LUFZbU93Z0tBSkpxMHN2R19mYWl1MDdrTDZ3WUJuYjNGR2NvSTE2U2RNN083LXF4NDdwUWY2Nk5fY1k1NzFVWENETDI0RjhvaGgxdmthWFZFN2Vval9TeC1kZWRpYdIBxAFBVV95cUxQX0w3Nl9ReHlZLVVCQ3IxSGVmLVNnOWcwc2owSXd4dXNmSnI1X1IwVFJtaDNfWjRNMThPWEx1UGZFTnA5WTFWbHEtM2NaVlNiWEx3Q3FySnNKTUxhVUI1a0trcDl4TFBNOTUyWEtUTXFVaW4yVktmQ0FCa08tQTVrMWIzU3pyX1VIdUJyQnhpeXJfSjlpbEw0YVExbXhodzZ4ZzkyamNYRks1ZFlJNjBWVTNoRml0bC1iMW9kZW5sQjVFMkV2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Adobe Earnings Coming June 12: Key Q2 Results and What Analysts Expect - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTFljVXEwazZ0bER4LXhseFBVSmVsNTdjbVRVNHNBMnpQdWlpekhGSU80bjBTVDFMeVJuWnJnTlBLbjhOTmczTUxybmhVN055NnRHWGR2Y0wwM2FCd0d2OE96U3pocUgtN1I2LWxnaDZMSlczR2xEOFV3YTUydnNJdjVFX3lYZ3IzekkycDFHT3hPeEVZZDJYMHllZnh1NmZqcDFYT0Z4YVd3V0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Adobe Systems (ADBE) Outpaced the Stock Market Today - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGEtcHZJRlZIRkpKQlVpWDhVR0ktVm9nZFJuaTdITlByMkhEZUlETnVERndDT1NsMXlyMjZGZnByR3k0LWFSVnFXOHQyVnNFT1l5NS1OMkdfN3B0SHY1bXFfWGtFcjQtLXdaVW5zOVRnU0N0Q1FWajFJYnhfQ2Z1RUotMXMxQzhOZHByTw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘Adobe Stock Will Rally by 21%,’ Says Morgan Stanley - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSm1zTnpkOTdDbG5KZ3VVNks2QV9aeGdVOFpKckgzSDRwNjZjN0FWNXM3bEV6Ukl5ODZjOTA5bWtfa0pfZWdGbkEzMmFrSy1STlppQ0M0b2d2Z1Qta0RnNkR1SWRRVElMbHIxdWlYMmxXTFNSODlwM1Q0ZmZjX3Z2V016MHo?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Adobe (ADBE) Shares Rise Nearly 1% on Nasdaq, Showing Strong Monthly Gains - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeU1DWkNyRGl2eE1sdkE5LXJ5S3dsOWNpOGtuQ0d4cWpRVzB0RHpiNF9YYldlV3VwdnV3YWt1TGNnczYwdTRmNlhFWGJEYzNaelhkaG43TFFrTk5DOEcxNnhRaXRmZ3pFMjZnci1DdWZxVXUtNTFNMXBic1ZoRGNnV2hZaHQ4MXRtQVY3REMxMXAzU3pNUmFRcTAzZlhaZ19PaFRqUUVQaVN2WUJORlUwNjYwNklnUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Prediction: 2 Artificial Intelligence (AI) Stocks That Will Be Worth More Than Palantir Within 1 Year - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGwzeGF0a3FRTllWQk9HNTdpN21tYzdSc2o5TThtbkdKTHpsbHRyZGFXRXF1MzBUVWN2bENFN0UtaloyWVNRTnQ4VWIta29rMkQxTEtlUWQ3eTZXYlZvS0ltdzQ3ZGNOT1FQbURTbjZhMDAycjRyNmZZN0RwVXVwSFp2VVMtNWl1cEF5RXZaeF9pT0gzaXctcA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RBC Capital maintains outperform rating on Adobe stock - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZllIWVB4WXlyYUpXeHRib1dZT0MyZUJTcUZEdUZVSnZfbDJSUmN1V2NPMm1mVDA5Um5zLXh1ZlR2cHFTejhBYy1sRllGSjlCUVdidDVVLTV1bFhpUm40TVhBUVp0b1p4MVBySWZWTjJHdlRCeUVHM1R4ZXB1UHc4TE1jdEFzb0R5OHZtZ0hZOVZxZEhHUXpHaEhPNlRwYk1MNUJjRXIyMzFSWXZJd0lPajQ3RQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Was Jim Cramer Right About Adobe (ADBE) Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXUtY1AyTzJweXZodUZBVWtFVWVEOGctNWNhR1FzYTBPblY1d01HTW82MDY5OTNBc0VYTlRtal9fMkotaVZ5UFpPR3pHenRULXZ5eVlqTktxUHRoNHVhd2Z4cGFvNk40QWpRcVplVUQ4N1dUb2FxTTJKSmJFd2haX1Vqa3pUOXlYM3hNVi15XzhwZnBQLU11ek9OTHcxNW82MnI2SWRkYk5VZm5DT1BmeFpkc3VGb0RmM2F0aEpn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Adobe Stock Is a Buy. One Portfolio Manager Explains Why. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43ZTM3QzNZMUpxaXIzbDR1VE1ENURGZHF1ZlBRLU9xM1BwM2hHX0Z1amxmUEM3WkRiaDhCc0VhYUpZRUh4MEpnZTZPRDgtLU1yOW5wZXRWMHhaeVVyYkpfSHRsaUlrVVAxeWRTbzlwbzREZGJNWnZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Adobe (ADBE) Stock Rises As Analysts Back Price Hike Move - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWHZVZXFXQUo2QlA4QWRyLWtwc1NhNTV2UzhZUnhwdHlxSTYxaFdOZmo0R01USHk0Ym10X0FBZ2NwNnVTek9FZ0FlT1ctcGZjY09BZ09STW02aFZqRDVDT25tYldwaFlmQlpoN2twaE9ZYWlDcG5kSTdZaUwtZnBiejFkaw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Adobe Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmdKN0JfRFphZDh4M1ZpX3ZLQXI4RmtLcEhGaWVveDZkTHhsY1BkZVZYYlBuS2VmaTAzY0hxakQwZktzU1JxSUd4WW83QVc4ZHd6UDV6dXotYWl6YmJGa3M5Q01fWWJ3aGJNTDhEOWQ0NmM5WFFhZkZZcTNYVi0ySE81M2FVSGVYRUMzWmFKYzlzNS1PaVppRzlRcW1LTG8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Adobe to Announce Q2 FY2025 Earnings Results on June 12 | ADBE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRTg0WFQ0dnJCeUhyakRCT3A1Nlh2UUF4MFVhbGxrRFFzOUxrV0dZRXBQZXRnRFZvYThZa3M0eGR3UVlLYXpUSUgtUmRhelR2NTB5ci0wQUpBQTM1eG1LMElISHNodFZyWHNwejFGMklzaS1fUFlHc2RKeHFIVHNKYVBZOHk2SDVtV0VHVV9xYXBBWHhaUDUyX0gxQ194b3E0X01jY2FiY19ONXZqaHU0WGM5eUl1cHRSSWdVZHhkWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 Dirt Cheap AI Stocks to Buy in June - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFg1Z1NrNnZkS0pFMW9aU2xtM3RKOFRHaEJwamk1Zk1hbmptMF9PNHc3aEpkRzA3WE8zaVBYSXBTRTBJNVZsNm1JS2RPYzNLQmphLUpPeDVZMU1uOUVyQU1jZ3dQZ3k3NEFERXA3UGtFb0JlbDF5NlVET1ZzNUlINGRia1A5VlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "£2k invested in Adobe stock at the start of the year is now worth… - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUloeldKdlJMX1VPNC1zNEhKZVV5NzlOVnZ6c2w1bTVyOFN6cDRrVUE1Z1dQcmZFQmtNcDZkLWN4bnVUTzFTaXRLSGV5bzUwcURrRFA2VjF4bXVoQThjOTFaemNRaTU0alhCcGxnUnUwUkQwdzFvSW1YWXpmT2JQd2RxWEM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Barclays Calls Adobe’s (ADBE) New Pricing Plan Supportive to Future Growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX21XZ3hHNldYdXJ0RDlQekdJazFnRTk2NkpMZDlKekZFSnVvR1A0MExiNVU0cjZxcmtEamxseWR0UHF3alFXRVloZWlYYkw0U0NQS3o2UlpsYlRRTTRXTXBzblhTemlaRXBfZlBMc3prazN3VlRFcHBOMFJwUFR2M0JEN3F4UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Adobe Inc. (ADBE) the Tech Stock That Trump’s Fellow Republican Bought Amid Market Rout? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10NmZFdDA0ajJFX0loWFVxaFlkZG5GNXNUNWJEWm5tNUtObW5mcUc3MFoySTNFU2EtWUhEay11cG14WGtvZkhQWlo4aVpmcHdiZjZHUGV6NnYzZGs5QVJRU0ZfcFRKZzJvMzVjLXJXYnFfZks3WXZQZC0xMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "If You Invested $10K In Adobe Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HTWdEeURwQU5LNTB3MmVUZkROWXlYRW10Zzh0NXR6cmNtX1R0Nm5FZ1Brd3pMRjB4R3VXV2ZjZ0FtZWFYZUhqS2RBQVh5QjRlUnNOTU13VEdUbkNUSDBBYzRKYWVVbFkzbFdSRkRvVncycFAwb29wUVIyck1qQQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 516.2
-      },
-      {
-        "date": "2024-12-03",
-        "price": 516.26
-      },
-      {
-        "date": "2024-12-04",
-        "price": 536.49
-      },
-      {
-        "date": "2024-12-05",
-        "price": 538.22
-      },
       {
         "date": "2024-12-06",
         "price": 552.96
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 403.45
+        "price": 403.4
+      },
+      {
+        "date": "2025-06-03",
+        "price": 412.49
+      },
+      {
+        "date": "2025-06-04",
+        "price": 413.91
+      },
+      {
+        "date": "2025-06-05",
+        "price": 415.2
       }
     ],
     "current_price_data": {
-      "price": 403.45,
-      "change": -11.64,
-      "percent_change": -2.8
+      "price": 415.2,
+      "change": 1.29,
+      "percent_change": 0.31
     }
-  },
-  "news_sentiment": {
-    "summary": "Adobe est en plein d\u00e9clin, les analystes pr\u00e9voient une hausse d\u2019\u00e9arnings et un sentiment positif pour le stock.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

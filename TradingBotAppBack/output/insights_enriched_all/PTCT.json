@@ -1,56 +1,164 @@
 {
   "ticker": "PTCT",
-  "name": "PTC Therapeutics, Inc.",
+  "name": NaN,
   "sector": "Healthcare",
-  "market_cap": 3904199680.0,
+  "market_cap": 4099964672.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 7.5668197,
-    "PB": -21.006395,
-    "EV_Revenue": 2.423,
-    "ROE": 0.11125,
+    "PE": 7.946236,
+    "PB": -22.059702,
+    "EV_Revenue": 2.54,
+    "ROE": 0.109745,
     "ProfitMargin": 0.33555,
     "GrossMargin": 0.67122,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 3.891,
+    "QuickRatio": 3.776,
+    "FreeCashFlow": 525996992,
+    "OperatingCashFlow": 691654016,
+    "FCF_Margin": 0.29671110622692004,
+    "ROA": 0.24418,
+    "PEG": null,
+    "EV_EBITDA": 5.026,
+    "BuybackYield": null,
+    "PriceToFCF": 7.794654217338186
   },
   "technical_indicators": {
-    "RSI_14": 57.16925459193987,
-    "Momentum_10": 7.063682065989043,
-    "MACD": 0.4142997653163931,
-    "BB_Percent": 0.807122439907728,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 63.20604524846784,
+    "Momentum_10": 11.945467576558524,
+    "MACD": 1.0491938026167844,
+    "BB_Percent": 1.0082297942385423,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9609652506501132,
-    "QualityScore": 0.5330650205958332,
-    "SignalScore": 0.3960382150399665
+    "ValueScore": 0.9609952063337016,
+    "QualityScore": 0.5329544435296824,
+    "SignalScore": 0.4214683414258973
   },
-  "volatility": 0.0373418859284367,
+  "volatility": 0.0373980865864747,
   "beta": 0.506,
-  "return_6m": -0.0539658419389299,
+  "return_6m": 0.0768109607907254,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 61.53333
+    "target_mean_price": 61.66667
   },
+  "news_sentiment": {
+    "summary": "PTC Therapeutics, Inc. (PTCT) a récemment attiré l'attention des investisseurs avec des mouvements significatifs de parts. Malgré des signaux positifs tels que l'approche flexible de la FDA sur la maladie de Huntington et des résultats solides reflétant la force de l'entreprise, des données contradictoires ont alimenté des avis mitigés. Les récents achats massifs d'actions par des acteurs majeurs et des hausses de cibles de prix laissent entrevoir un potentiel de croissance, bien que des fluctuations de cours récentes suscitent des interrogations.",
+    "sentiment_score": 0.35,
+    "label": "POSITIVE",
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Mackenzie Financial Corp Acquires 12,967 Shares of PTC Therapeutics, Inc. (NASDAQ:PTCT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNblI0TnJkQjZKbmpibm5TalNQd2NNeldZa25SaVhIMFZEUnZXV18ySXl2b29YZ3gwSUl6bjkxVEZOZU1oSkRhWUJ1UnJtMDRpVHY5WGJBdlNRZFJGcFNNN3BuOVRLb29hMkVneHZXcTdiM2xNdE1aV1VldC1kSHVaUXpMN0daV0w3SVBndTYyR0twMUt2Y0wtSW5KdG40LXhBMlpmXzVhRlVFNzIzSjdmdENFREdTb0dlbEd2WUtrRGY2bGtVbE5TMXc4eGxEOWk2UGZiaGNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PTC Therapeutics, Inc. (PTCT): Among Billionaire David E. Shaw’s Small-Cap Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3B6ZG0yQzdZSVlzZFdvZGE4bktUbnM2dTBPNVVyWE9GRjBPS1J3bWhRWkJPTlJ0aWVrR3pkcU04T2UteEx5YTYzSU1la3pNQWhRUjZuZVJrRlkxdEw5bnpLRHZjM29vbHh3N24xeFlyN0ozdFBWSGFjTWRuUmZLbnRIWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PTCT Benefits from FDA's Flexible Approach to Huntington's Disease | PTCT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0otVUxPRXFCdnRRVjNZLVBNeHV2V2ZRcUgxWFZqV3hZMHhjVGpNdXVVbklDdmVuLXhzZmNxNlZvQmMxbVhlM2pDR2NiaVdhVEx1RTNIRlJPdVBrXy00MUx4RWxPZ2NpOUdadG1lTXJ2UWpoNnhjT1p1aE5ERXp3UkpfM0VaeWwySUo2cnI3VjQyMTJVQkdNNF95U2NZRlFwcUNDeFFUYmNra2hIdGZNQ0RSUWR2cGRTaWFj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trend Tracker for (PTCT) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkItRC1pSEpRX1EtWlppdmhKb09reHEzcXRHQm9EV1NQT1ZzelNVMGI1ekh4ZmRWZGppbThlUzRQVWdJVzdWaE1DNnllQlZSclJQZnpVaklRTTZlM05aYmYyVGtlaEkybGdOcHo5S0ZaNUxoZXc3WmVuR3c1Z3c5UllfZFZYM3JrcHpCS1ZLYzRVdFZjaUhpSzZibFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PTC Therapeutics, Inc. (PTCT) Stock Analysis: Unveiling a 33% Potential Upside with Robust Revenue Growth - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZXY5UVZDZkFhdENGMkxkb0hvaTZhQW5mM0duVDJBVHJ0YjZDQkNGYWFJVXppV2NTbzJYTVMzT2dWTXBQZng4bm9uZnBOVWJQU2RZM1ZSZENIWno1OUdOMU5hNU1aemllR3d1ZnpiaGdzRU5nWkd5c3FZamJZeGhHeGgzelZWYnF4MnpiSFJuZTYxZUtROW9tYmt1cFlNeTFzSXlYRjgySEpqY0VoN1Yzel9UUUFSSU11MWpxMFJROXJSbUt0UG82OGtzUmlIbmNsT2dEOXpVTkE0UExpMnNCck5peXU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Solid Earnings Reflect PTC Therapeutics' (NASDAQ:PTCT) Strength As A Business - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa0JhYy1iVENUS0FUeVdzNzN3MktLTkdhZzdwWE9uaUJmSllFV0FoRjY4NWE1ZHdJTE8zVHpHd1NDQzU3Qzh0Yy16WmdyS2VpM3l4SndrUm5ZQTl0ekJ2VmthTlVZVGRVc2JRQ0lCN2ZrVUNkRGpRTDY1SXFiMFRoTEgtMjhaU1ZsaXV4YmZHcmVWVDNyZGVFNVFEbUwxdm05MTUwYm5SOGJuQ3hfbWZHaGJZZHZEQjl2ZVI1ajgySmtDeXZLcGFFVHhrWUppT29uay1KdTdWNFg2ZEhsYWtHTDFGRdIB6AFBVV95cUxPTlBzN3NMRTRFQzJOTGFzaWxBV1Y4Z0N3bkdKYnNiMDg4Zm1JZnVnbTlMWnNXeWM5ZlpyYXNzYVVlR2hCNTMzd2FlMkZ5WExZOFZxV2NZdXM4ZWNHMGViNlMtM1FSNlB0U0Rvd0prQ1dxN3BET29ER05sNEt2UURvRHFaTEZoVEJkMUR2TDRIMldEalBUcmxtWF9seGtjRnQ3dUdaRXV2LVB2Vjh5NTMzSk9SclUtWjFhMWIyQWQ5dm5VMU5jQkpnTnViTGFHYWpEbDQyWnZXdTctWVJJUlJVQ0JqZEYwSWF1?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PTC Therapeutics: Promising Pipeline and Strategic Preparations Justify Buy Rating - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM3Z5a1pOLXpmYmhZRlNUVjJJYm83QXh0U1Y3LWtNVWJoeENjWnV3ZVpuSERndlpIX2p3QnYwczJ3cjNXNlhQSTBBcTRWSnBvZ29DTVloX0dfNDZ4ZXgzQW9UMDlkekxnS3pMRXYwTkdsX3lLX21ZUHNoMF9Qc3hjbGcxaEwxQzRPZmxZNVI2TFN6Q0Zkc1BqbzB0bmdCNTBTRi1fMmRfQjROTVBTak5YcDdNTFNTaWdjY2lfSFlNUGt4UUZEQnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PTC Therapeutics: Confusing Data Add To The Bear Thesis (PTCT) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOEhneWR0b25lLTRiVVl3WUZOV2RtRF9Mb0tOWWxncWZ1bnFUZ3pJMHhKaEtMOXBROU0zYnRxQ2Y0NGJ2b2V3ZUEtb2pQLWphNUxEYldHVzM1OElQTGNDZF9mLXdnN2JodnZiNjc2TGk4bmRSM05Wc3Y1YU1zZkxxNXprR1EtZ1JEbnBCcmE4WUpmcEVMSlE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PTC Therapeutics, Inc. (NASDAQ:PTCT) Stake Increased by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTHFpNE9lMVVYVG9yUmpJWGs4TndBWVI0OXEwa2xrV0E2eGx0elFiR1hXOTY3dGVkYm1vcndqRVJVOG92OGRjcUg4Wlh2ZkVlcnY0dXhObXhXNllCTTQtUW9vZkJDWVYzRmFXbmF3dENiNUNMd3hNUTI5OVgyQ1ViZWNSTDc0MVg2emFrSlgzQktuZVVaZFQ3emtuUnBXSnVhM1E0OVhfeGx1aTJFOG1IWjVPSE1wWXJPOHI4U2NMd1dQeG1xZlgzZGxubjNJUDNqUHZpZlRrc3NnTk1odERkanJwall5Z05FdnpoME1RcHIyMjBaOUNacV9tU29SWlNIaEVVWEtsSnd5UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PTC Therapeutics (PTCT) Price Target Raised by RBC Capital | PTCT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3dZYVc2ZmpfaWYtLUNnV1I0bmJiMjVMeTltbDdNbE5MNWZ2ODNiX05aaklUc3BzdTB4UTgzZmU0eC1TRFUtZnRicVZ4eVdTYWVMN1hqLTY2Tzk5eUVLT3JmM1ZGWmNRWGktaHY0eHBNWml0VmlXbDhsRFF4blZMd0JCVTMxdFJ0WVhfQkJ4MUJqRVBXT01RY3NYS3pvTXRIcUtsX1dyNGFjYTA0b3NTXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Did PTC Therapeutics Stock Fall On Monday Despite Mid-Stage Study For Huntington's Hits Primary Goal? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTko5dVloMDFjSXMtdnNoWXJCMlRyeFdTRFh0bU9kMEwtam94SHhUTDhnVV9seUxaZDJDWlRnZkhrY2k4b1AwRDNDeVFCVU9LVDNmdnBzdkpzckZtVmdVT0Fud3JPSVVwbDFhZUh1ekpadm1nazBHelRVX09KelBBdEpR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "108,345 Shares in PTC Therapeutics, Inc. (NASDAQ:PTCT) Purchased by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcVhyS0RWR3VUUFhvcjRja3VRRHlXZDJkc05Mc2VkQjJ1dC1Ua2VnTTdBc1N1OXFiQ1ZfekhCX05nRUpCRkNPS3RVX2djNmM1LVBtS2xuSlJVbXpUODhRbDR3SHJMbDVBOVp4LWtYMWl4XzVlaWthcWtpQWFpQUlBaGJ4WEZMNTlZS1BxSUdGNjNXWUkwd0tQUmFYeUd5dkpSTVVQZ242ampSUHMwVk00UnEwLUF4NFZNZ3kzdE05SjJfWW9WSXd1b1JBOEt2alVpOEFpRmlJMllLSWppcnE1el9odzRhbHBqenBzTWhQMUpESU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why PTC Therapeutics (PTCT) Stock Is Rallying Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVER2eTNGdU5ack50WFl1ZmNuZ1NWeWF4VldHTlJ0am1YOFJFTjFDbVNueGYxTzBGbzdRaEtMTEZMTEFJcTd1cG4zdnNqUDUxb1hPVHg2WmFMajRTNWljTGlwOTVrTDFSSDc2M25RNE1YYjc3Mk5NN0g4QlRaRlBpMHRlNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PTC Therapeutics (NASDAQ:PTCT) Price Target Raised to $74.00 at Wells Fargo & Company - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd1YwOXBSN0hHSFI5WGdXOWM2RnlqTl9STVJueGRfUFJubG5vSlJPX3NPYVItTU05cXZ0Qy0zWS1MbjZRWWZFT3pUSHhNNDUzaTU0MzRYSWFCYUFYc2ZPMDBzanlNcmJYYWlfQW9SNmEwTlYxaTAtN1RYckpSMVlHblByc2ozRzUyd19hbUV3MHh1aVFEa1d0REp5RktZRXROTW9hRWFhdWxweFlEWl9EZnVEWlhieXpSRG9uMFhKVjFVWl9lbWFrM2RKd3VuTXdTc3IxdllHZ3AwWXI4aEtjMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PTC Therapeutics Inc (PTCT) Q1 2025 Earnings Call Highlights: Strong Revenue Growth and ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQ2xmaVBkS2dhQTN3TnR1SDU5Z0ZRdjRWUmFrVWJVN0JzWURXaHFiNWY3MW1DWUFOcVF4QjJYUHVKSDljc055cXBFU0NQRHE0cmNmWXNsYTd6elp1RkxZQXd3TFo3TUFHV3NGTjlVaTkzMWxJd1o4TXRyWjlyYTg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PTC Therapeutics, Inc. (NASDAQ:PTCT) Shares Acquired by Cubist Systematic Strategies LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObGRSdnZ0clB1bDJZZWozNEZfM0VuMm1mUm5BLTNCVzRIZDBsa0haQTdySWR1Z3NkNWhpTDA4LWRQREZuV3k0X25VZEVWbjQ5RkhrUVBSN1hxU25NN05QYVlLNzc4TFlnQTFGRURWZk0za2phMVVwTkVkeHV2ODVSMWxHVGhLNFY5bkx3RGpmVHhMSzFoNklSQkRlZ0ZDNDZ5LXpDaGR0LUxMZ0x4Wjhpdnk1eFBocktYTThLYm01eGF4cktuYmFkdVREYVRqSjgwZjd1bA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PTC Therapeutics, Inc. (NASDAQ:PTCT) Receives $63.75 Consensus PT from Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPODhyU3hfTjV0TXhSVTRXMFFhWENhRUdCQ21RNGloQUpNTER2U2tTQW84OHRtb3JtZWZVcU52QlE1V0FzUzE5bk53VG84dUhhWjR0b0l3aGs1Q1hVV21zR0FySmhRSlNhQlM5eFRqRGpKcV9UdlMxUFZwT0VHU05jQklkMDJ5QmFmbm03RTNjRTVEVTBPZVJoYXhWR2V0cnZDYy13b1N0U3A5UkdXYkdSTEVLZzZDRlZzQUQ3aGZhdzlIVHFMVkxKZW5mSzZuSjhjdDkwRy1zc1dOUU5G?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Quantinno Capital Management LP Invests $436,000 in PTC Therapeutics, Inc. (NASDAQ:PTCT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbldXdjd4X3FVZlg2aFc0Sk1LRmJ2WHRodXNka2JzZ1FpY1NaU3Z4ampWMktQYXdRZWNXLTVhSjhhbDFYOVlFbWZsUUoxVVE4ZVl0VmVSTHFRLXRPSFd1R1N2YUtnejBqRmo3TGttcmpwcmxJMDRmVVktbmQyN2licXRheXBhNmNQa051TEh2UWJ2TEU4TU5aZE5zcURzN3loZmE2Y2o1WXg1eUFLeWtZeUlETzRHWURKNW5LcHI4eVFjTzlWZ01PaWdGdEdDRkZ6U0gyamZScXZvNVA0QmFRX1pfNFplSGFwX2sw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PTC Therapeutics, Inc. (NASDAQ:PTCT) Shares Purchased by Deutsche Bank AG - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdS1vcVdONU5FWkVlY21JZ2E0VFVZcmJDeFJldWtCdDA0Mlh1RlZMS1c2ZDExYUlIYkNVY19WcnJTQjhoV2ZCMi03dnJGZEtRZndETVhMYXdEYU82Vi1nQUQzR0ZmalAyb29sck94WnpDakxIOTdWWkJYQWlXUXkyeThYTEdMR044YkdEaXNTbE5Ka2l3cXdmNE1MUFNYVG1tVVBMczMxSnNRc2RHenN1b0ZTV1dKZmhhaFE5c1VsVTU5SlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "We Might See A Profit From PTC Therapeutics, Inc. (NASDAQ:PTCT) Soon - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEFqTVFXUi12aDYyam0wQlVjYjlKTHF4TnJnY2dPOVhmX2pZQktJZmtsMHhSQ2tmYmdvS2MyZlpCSjV5NFhkMWVQeWFCQWR2S3JYd2swU1liNTZZemFCcXBlVzJOam8zRW5INUxNS3VfaldTR01IaTRRZlFkYUNUdFpPcDlUdw?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 52.07
-      },
-      {
-        "date": "2024-12-03",
-        "price": 50.29
-      },
-      {
-        "date": "2024-12-04",
-        "price": 49.86
-      },
-      {
-        "date": "2024-12-05",
-        "price": 48.4
-      },
       {
         "date": "2024-12-06",
         "price": 48.04
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 49.04
+        "price": 48.83
+      },
+      {
+        "date": "2025-06-03",
+        "price": 50.69
+      },
+      {
+        "date": "2025-06-04",
+        "price": 51.13
+      },
+      {
+        "date": "2025-06-05",
+        "price": 51.73
       }
     ],
     "current_price_data": {
-      "price": 49.04,
-      "change": 0.52,
-      "percent_change": 1.07
+      "price": 51.73,
+      "change": 0.6,
+      "percent_change": 1.17
     }
-  },
-  "news_sentiment": {
-    "summary": "PTC Therapeutics, Inc. (PTCT) has seen a flurry of news in recent weeks, with UBS AM buying shares, David E. Shaw adding PTCT to his small-cap picks, solid earnings reflecting its business strength, and a price target increase from Wells Fargo. However, Ameriprise Financial Inc. also sold shares of PTCT. Overall, the news suggests a mixed sentiment towards the company, with some investors viewing its business positively while others may be hesitant about its future performance.",
-    "sentiment_score": 0.4,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,50 @@
   "ticker": "7752.T",
   "name": "Ricoh",
   "sector": "Information Technology",
-  "market_cap": 768905707520.0,
+  "market_cap": 734175494144.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.301422,
-    "PB": 0.73291224,
-    "EV_Revenue": 0.442,
+    "PE": 16.536291,
+    "PB": 0.71246916,
+    "EV_Revenue": 0.428,
     "ROE": 0.04348,
     "ProfitMargin": 0.01808,
     "GrossMargin": 0.34361,
-    "DividendYield": 2.96
+    "DividendYield": 3.07,
+    "DebtEquity": 48.942,
+    "CurrentRatio": 1.411,
+    "QuickRatio": 0.853,
+    "FreeCashFlow": 56554123264,
+    "OperatingCashFlow": 136876998656,
+    "FCF_Margin": 0.022372189656273793,
+    "ROA": 0.01754,
+    "PEG": null,
+    "EV_EBITDA": 6.049,
+    "BuybackYield": null,
+    "PriceToFCF": 12.981820807596986
   },
   "technical_indicators": {
-    "RSI_14": 27.470507544184855,
-    "Momentum_10": -13.215570821066406,
-    "MACD": -42.84727150716776,
-    "BB_Percent": 0.0260629471942255,
+    "RSI_14": 24.42030193416167,
+    "Momentum_10": -11.94947080914988,
+    "MACD": -57.74346116713832,
+    "BB_Percent": 0.1118874672199212,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8995266578514418,
+    "ValueScore": 0.8968458290249767,
     "QualityScore": 0.4150105398191186,
-    "SignalScore": 0.8298230135271192
+    "SignalScore": 0.8150566060729403
   },
-  "volatility": 0.0218652428642677,
+  "volatility": 0.0217662165464561,
   "beta": 0.24,
-  "return_6m": -0.2282288704098203,
+  "return_6m": -0.2587101652424252,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 10,
-    "target_mean_price": 1535.0
+    "target_mean_price": 1505.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1738.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1750.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1726.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1759.5
-      },
       {
         "date": "2024-12-06",
         "price": 1750.0
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 1326.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1314.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1304.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1289.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1278.5
       }
     ],
     "current_price_data": {
-      "price": 1326.5,
-      "change": -24.0,
-      "percent_change": -1.78
+      "price": 1278.5,
+      "change": -11.0,
+      "percent_change": -0.85
     }
   }
 }

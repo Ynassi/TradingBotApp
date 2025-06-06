@@ -1,56 +1,164 @@
 {
   "ticker": "LRN",
-  "name": "Stride, Inc.",
+  "name": NaN,
   "sector": "Consumer Defensive",
-  "market_cap": 6857096192.0,
+  "market_cap": 6289987584.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 24.733126,
-    "PB": 4.767308,
-    "EV_Revenue": 2.878,
+    "PE": 22.652039,
+    "PB": 4.373033,
+    "EV_Revenue": 2.732,
     "ROE": 0.23757,
     "ProfitMargin": 0.13098,
     "GrossMargin": 0.39080003,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 57.949,
+    "CurrentRatio": 5.613,
+    "QuickRatio": 5.281,
+    "FreeCashFlow": 157150368,
+    "OperatingCashFlow": 306694016,
+    "FCF_Margin": 0.06874911595362272,
+    "ROA": 0.11494,
+    "PEG": null,
+    "EV_EBITDA": 14.751,
+    "BuybackYield": null,
+    "PriceToFCF": 40.07236238861369
   },
   "technical_indicators": {
-    "RSI_14": 61.76050572784598,
-    "Momentum_10": 1.9741120076102348,
-    "MACD": 2.696998171850737,
-    "BB_Percent": 0.7230874669435459,
+    "RSI_14": 44.11617046084919,
+    "Momentum_10": -7.2876573354560685,
+    "MACD": 0.3538052732691028,
+    "BB_Percent": 0.0549619988632808,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9277009400810984,
+    "ValueScore": 0.9254909445628569,
     "QualityScore": 0.49066339438697,
-    "SignalScore": 0.3965046215596597
+    "SignalScore": 0.6283269876765667
   },
-  "volatility": 0.0208323252660442,
+  "volatility": 0.0228553799756072,
   "beta": 0.356,
-  "return_6m": 0.4725675876016595,
+  "return_6m": 0.3085838561904757,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
     "target_mean_price": 157.75
   },
+  "news_sentiment": {
+    "summary": "La société Stride (LRN) a récemment connu des fluctuations importantes sur le marché, avec une baisse significative de ses actions. Malgré cela, certains analystes considèrent Stride comme un acteur majeur d'un secteur en croissance. Les signaux d'achat et de vente se sont multipliés, avec des investisseurs institutionnels tels que Wellington Management Group LLP et GAMMA Investing LLC renforçant leurs positions. Cependant, des événements tels que la résiliation d'un contrat ont pu impacter négativement le cours de l'action. Les investisseurs doivent donc être attentifs à ces mouvements récents avant de prendre une décision d'investissement.",
+    "sentiment_score": -0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Stride (LRN) Shares Drop Over 8% Amid Market Fluctuations | LRN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWt0YUNRTnVvWWk4TnRNVjJOYTZYYnFacDFJMC1OZEY0QVpWQWJ1a3Utekp1SnNVLXh0N2pjRGJBU3NVaGFtN3ZVZXhwTDRWMnI0U0ptZ1l5MDllaFVRdGY0RVBYa3lUVkl3U2VacFlneHpfb002Qkg5UndmNmhmVGtabDJIQjE4MXBkYVpHVjhRS3FtUlR5MUdSZm9oMFRTSDlaTzBaNkxfT01Kdnc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jim Cramer Says Stride, Inc. (LRN) Stock’s Valuation Has “Gotten Harder to Justify” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LWmdZeURBYzM2eDY1X2xNeEkzbXFGc2w5ZDN4WXZuMVE0VFg0eGlhQUhueUhudmszS3RKTXdFb1FQcnA5TXpUS3U2MVJtUGdhYzZNNEd3VHAtQWdyS08tX1doWW5XV1Zmd1VWQ2VfSE1YTk5FQWF6M2NaOUo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stride (NYSE:LRN) Shares Down 6% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDFDWk9hOXB6cDFsU2YzSnlELWY3dENxNDZEcW5sTHhnZG5zdGVhNENMZWdKNkdrMmVnWkxRTm5mSUJYZ2I4RVc3ai1ELWxFN2xKYWI4aHNkSkJsTHZYQ2Q0OGVYdk5fbUV1SldneFVkNlpMcl9GQ0ZucXE5ZEVZczdFbTc0NF9RbFB4cV8yTXVQY3F6Z1VvYlMxTFFnS1k?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stride: Perhaps The Best In A Growing Space - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXNoWTJ2TEJGTUVWcnNKMHBkbno1M0t6anZ2amtCWXRhdHFIRllMYVZlcVFQcWo1T3VkYjRLMzlvZHd4TkVGVm8wNV9oWTlNN1hLOGdDcVF2bDBVbWNTMDBIaVhsbFptck5oN1ItTkRBSEcyOUFQVUp4ZjJTdFdBRDU5RDZmZFlBUzd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Stride (LRN) Stock Outpacing Its Consumer Discretionary Peers This Year? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZW5qSGRoaWJ1b3dTWXA1RnVBaEdNMnRIR1Jsc3l1Q2xGVlF0WWE2RldnSGs1SUgyeTd6WU5GMWxoTmpWOVV1ODU2MkRreUpianM0d0lwR2VhUnlTY1FoSUZLdS1lcEZPWEVLSjJtbmFuTmk3anZRLWFWb01tWlozZ1dmUVBYbGFfUUctRVZQSHh3ZnV5eHdsWGpDLWEwTzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stride Stock Teases Break Out After Q3 Earnings, Hiked Outlook - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeEJpejlrZ1J2QzEydG83TElQZV9rM0kwTm9fblZTZ3dGWlhiaFlsZkFaMWlxY2l6YUZGQm13dnVZbGlBZGRMUFhRSzFaWjRIb0lwTUlxU3Axa1lTRkdjXzlKY2dFRERYbElqTTNjVDM3cjU2LTZHdlZSQ25tNi1vVjJRLVk4RlFmRk9tSkNuSXJQTmpDaWN6eHpOUktpUkY0eUItd1Fn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Expert CFA Committee Flags Amgen as Potentially Undervalued Stock for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEE5Wi0zTlRGMS1uakxBZUVKRG5kWHY4ZnFRTzlsTEptQURMbnAzTjExV0lSa2N5NDltTV9mZnlRdXFKSGMxM2lMczRyNEZXRDNuZFFYMi1vY3BZaEI2cHhKaXdHUlNsVFJyZzNKYk1nR09OTG9UQ0s0V3VuYkthbm02SmtnUVZmZTQxQ2wyaXBMd3ZOSm9fTEw4anpKSFRXbmJRTkxPeWY2YkFHN3hfNlRZclpYdnFIS3lDaFhxRQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(LRN) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU29VcEZsWERBXzYyRUlMZjByc3lJTGpxc2xKNmZCWEpTUjJuUFVkNC1BemNKMXpkX3VDLTZ5LWZPejhmaTI5SkQ4Vm9GRnhieWtiYS00MjY5NFdWbFUtdUFiVjE4dTJZVUNtMWd6RFdMa28xcDRDUmM1YXV5akJ1akFnVHBvLWJfeEZjYVQ3VGdLY0tJWWliQ19RNGVwYmpO?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stride Stock Soars 49% YTD: Should Investors Buy Now or Wait? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObW03aldDNktHcmxsWUZ0cEVvVXk4enZ2dnJCT0hfMlB3dUgxaVZranJEcklyLTJWUi1YbEJ3MzBNbjUyUjVJVGpIdUs1NXd5MzFLby1vcTBnXzJNb29SLU5tSndxMTlfYTBOcEZ0MGRkUGNObWlEZjVaeXpYMEpPdWt5MWVmbEduTFg5bjhhZzVYM2ZURC1YTUstaEg3aFgxeHM4WWpmMnVnY2VablZoMDd1djQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Stride (LRN) Stock Can Reach Higher Highs - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmxhR1owa2JSb213QlgtNmFTSi1QVFNpZjc0aUNfdHB0V09DRTFuOGlBWmNqU2JuT0J1Q2YxZjBYdHc2WjBfZ281bm1FR0ZtV0tRZzVvNVRNWEhhUUlDcHlHUTlDNTNMenZ6UlZhTExjZmRfdlUyMjNZVlBUbGQ1R2JzLXFWakN1V0lqaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Acquires New Holdings in Stride, Inc. (NYSE:LRN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb1VlQ0hneDd3R3J5dFp5SjJHbUhqTFQybUoxSkkzTllMeXNWTWJyOFZsNHloZjJRSDVqUVFMZ09pUi0tMFE3N3UtZnpnTThYbkQwam43VExjTlFuZkFMRXBwMVJsUXYyeThBanRManAtS1V1RENsM2lWdXNJOG5xN1VuMFgxazVTemNqX1BLQ1lVTTBHd015S1U4c2Y1YkdyRDFmanJNa2UwZGIwLWdUTDgwMkx3dmxNSlowU1liUnpldFVjZWh0UnlSX2xjNEluNk1iQm9jRVBheFVYMzZJTUZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bet On 4 Low-Beta Stocks BWB, LRN, MASS & PM Despite Tariff Truce - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nalZPaFpLX3cxME81eXh0M1RKOG5TNkdqYTNsWlloY2RBTkluWjJQWkJ3REdYdGtyMFRlR0s3ZHRfUVQ5Y29CYUtBbEtpeG5QVjZ1ajdxWVMtOERsM25ZQThOV1dMbXpCQmpqVXVITTJrME5ySnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stride (LRN) Faces Stock Dip Following Contract Termination | LR - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOEdHb0dCOVFqRlBqOWcxLUtfOEZWcnROZzRzXzdqaW5pQXdwZHdxUV9ST3I4ODF5RE1RZFVGaXQtU3JFSkkwem8yYUNWNy1rUkdZai1wamlRMWhlcE5xRkEtU2toZzRIRk1mM3NETUtPbGlsMGxHXzJkWlRncHhGdFZ2a3lPZGVzZUQ4MEEtTkF0aks0SGRyZDVyTkhQOFppbFBVZGN1ZkU4OVhaTUFtRQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stride (NYSE:LRN) Stock Rating Lowered by Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOak55YmZ1RWxORmhGVTViOTJ0WVd2VloycjRXMEktN0plRDlUS2kxRE1uYURkbW1YZXk0RUVDQzRnMnJHa2RXRHloQmNERzFabms0aTBDZXFJV3R6blRvZmp5RTVqbGRsbm42SVVWWkZjWklPQTR1dzFmZVAxeDlVMnlsS1lpd213bFJTeG04RVltcXlhXzZJSDB2eHZRLVRrUHFsSlFDMVZET3dGSm9aal8tNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stride Inc (LRN) Shares Down 8.34% on Jun 3 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObi1iRUhsMnhBVFpyQ25YZm1UNTRaV0lYeFNnV1NHTnRoSFhyZ2hzVm1HZlA5Z3ZvcnRtUmlpWEhpbHF3MmhJYTItaW90OWJMQjdIZmVQYWhXX0xrUmFPQmYySVlpbEkwcTBQQjMxWUl0Z2J2TkhnbGRHbWxnQUZPSk96TEs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stride, Inc. (NYSE:LRN) Shares Purchased by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeGs2WmxmelNmNnpYdTZnNXZDQTZvczNsN0Fva3ExYXNhdDVsNnVhNkZpSFVqcDJJN2l6Z0JYc3I3bmJHUTdyb0YwZ2dPR0hlUTh0ZmxudVJGV29SN19zanlTV0w0SmxCa0t0MWZQcVAzTEk3Sng1Z0ZtU3ptYUQ2eEZOQW9ocWF0X21HMVVxdWw5anMtWFV5ZGhfVzlVby0zMWRfX1kwS3dKc2tpOFRYeVRyZ0d4aml5dGNlODViX25lZUNfTzRObnR3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Acquires 367,545 Shares of Stride, Inc. (NYSE:LRN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcDVySjhVdkc0d0NSYzVibUFvRnZhVUNtYjFucmFoOXZramh2YWxQZmI3WE9CcW8yV2tJOHg1SDZ0dGt2Qk5JbmpEZXhScEF6dlM2Z0FMblJvdDJ0TTZ3SGJteVhwdnpuWkpRSmhvUWdBc3RDWl9TTjZHQlFOZHhrRXlsQjJUVzdyaldZaTF5UmtGZ2o0X2VEbHZROW1sbXpST2ZHaHRRQlJjaFRxS0tSSVI0V09DdUNyWnl0RDJpSUtCbUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Legacy Wealth Asset Management LLC Takes Position in Stride, Inc. (NYSE:LRN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS056elBiYm5EbjZudEM3cm8wUzJ0Y3F4YmdPZWNaX1J0M095XzZxbEM4OXgwZm9wVjh3RzdpZGtTdGlxSzA1aGhlbUZyUV9kSmsycXVqYlBRNFQ2a0hTSC1TUU1YWFd1MTdxTEkzMUxpNXd3Tk9fZXdJZ0pCaUdPaDFFSE5Yc21GRFhYU3dBbWtieFJKTENpMEhXZUJ5T1YxWWY1aUpwd29NT0NjRl9aaC1ER3NCUGlwN2tvdkhMY3ZidFQ2VVdzS3hKZHlEcTdtVmo0b09RTlA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vident Advisory LLC Buys Shares of 2,857 Stride, Inc. (NYSE:LRN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGpGa3BFLVRxbnVMWlM2a0NXMzdaRndrR0ZfTUZpbTNsTFpMdzZuREVKUDZ6RGN1c3Y3RVRTVjIzdXV6QTVuM04wZDlHQXByRzlGOHZ5QmFCM3dqSlptU3UwS2xTOENvQjMzYnYtYm1SSzNISXAwRXlXbkowdzRCVVk5akY4LWxfdDh5cWpLbnZncThzTWRJcFVhbWZPSlZSN29UaWE0VThTTG9GYVFDdDM2eW5INnZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stride, Inc. (NYSE:LRN) Shares Purchased by Two Sigma Investments LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOG1ybExERDVYWnQ3NnAtTXNHVGtxSzhXUnB4OWdpUkVKZjJYa0wzbjJUbG81ZFEyaDNqdUNvb3VDOUp5TmVPLXpnODVIcm45NTd6eDJHVUxFemQ2S1JseFBkTjYtQmY0bU0yX0J0UEpkTDR5dUpBOTFQRG1UQUsydzFUWHhLb1RfT0ZoMkVqaDV6T1puY0xTM3B5dU9Kb2gxVng2YUwzdE04RmhhM1dJOEdIZ2RwR2d2czJKa19VcGQxT1hMenlkTA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 106.99
-      },
-      {
-        "date": "2024-12-03",
-        "price": 110.04
-      },
-      {
-        "date": "2024-12-04",
-        "price": 110.79
-      },
-      {
-        "date": "2024-12-05",
-        "price": 110.54
-      },
       {
         "date": "2024-12-06",
         "price": 110.44
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 157.6
+        "price": 158.33
+      },
+      {
+        "date": "2025-06-03",
+        "price": 142.55
+      },
+      {
+        "date": "2025-06-04",
+        "price": 143.64
+      },
+      {
+        "date": "2025-06-05",
+        "price": 144.69
       }
     ],
     "current_price_data": {
-      "price": 157.6,
-      "change": 6.19,
-      "percent_change": 4.09
+      "price": 144.69,
+      "change": 1.06,
+      "percent_change": 0.74
     }
-  },
-  "news_sentiment": {
-    "summary": "La tendance cl\u00e9 est la croyance de plusieurs analystes et investisseurs que la valeur du stock de Stride, Inc. (LRN) est devenue plus difficile \u00e0 justifier.\n\nEn effet, Jim Cramer, un analyste financier populaire, a dit que la valeur de Stride, Inc. a \"gotten harder to justify\". De plus, une commission d'experts en gestion de portefeuille (CFA) a signal\u00e9 que le stock d'Amgen pourrait \u00eatre sous-\u00e9valu\u00e9 pour les investisseurs.\n\nSur le c\u00f4t\u00e9 positif, Stride, Inc. a publi\u00e9 des r\u00e9sultats financiers encouragants pour le",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

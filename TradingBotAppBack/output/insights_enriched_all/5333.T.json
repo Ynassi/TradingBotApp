@@ -2,55 +2,73 @@
   "ticker": "5333.T",
   "name": "NGK Insulators",
   "sector": "Materials",
-  "market_cap": 518476169216.0,
+  "market_cap": 516717641728.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.525604,
-    "PB": 0.71953946,
-    "EV_Revenue": 0.845,
+    "PE": 9.496678,
+    "PB": 0.71526855,
+    "EV_Revenue": 0.824,
     "ROE": 0.07689,
     "ProfitMargin": 0.08866999,
     "GrossMargin": 0.28405002,
-    "DividendYield": 3.66
+    "DividendYield": 3.74,
+    "DebtEquity": 34.672,
+    "CurrentRatio": 3.739,
+    "QuickRatio": 2.153,
+    "FreeCashFlow": 54441123840,
+    "OperatingCashFlow": 96657997824,
+    "FCF_Margin": 0.08787729220445788,
+    "ROA": 0.04407,
+    "PEG": null,
+    "EV_EBITDA": 3.719,
+    "BuybackYield": null,
+    "PriceToFCF": 9.491311076652455
   },
   "technical_indicators": {
-    "RSI_14": 49.81158400299688,
-    "Momentum_10": -0.8685906416363126,
-    "MACD": 5.238791678117877,
-    "BB_Percent": 0.4095331443295685,
+    "RSI_14": 47.896674784088,
+    "Momentum_10": 1.500721500721501,
+    "MACD": 1.4327456334067392,
+    "BB_Percent": 0.3403619997206905,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8994975574645615,
+    "ValueScore": 0.8966780202951319,
     "QualityScore": 0.412730697950165,
-    "SignalScore": 0.6252337132267609
+    "SignalScore": 0.5950298856259741
   },
-  "volatility": 0.0177413819569965,
+  "volatility": 0.0176428222512178,
   "beta": 0.283,
-  "return_6m": -0.0888202406536258,
+  "return_6m": -0.099254317840291,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 5,
     "target_mean_price": 2016.0
   },
+  "news_sentiment": {
+    "summary": "L'entreprise T-FORCE a récemment lancé une nouvelle gamme de mémoires DDR4 à haute vitesse pour les processeurs Intel Rocket Lake, offrant des vitesses de 5066/5333/5600 MHz. Cette annonce pourrait renforcer la position de l'entreprise sur le marché des composants informatiques.\n\nPar ailleurs, une tendance émergente concerne les « Lesser Known Battery Chemistries », suggérant un intérêt croissant pour les technologies de batteries alternatives. Cette diversification pourrait impacter les acteurs du secteur de l'énergie et de la mobilité électrique.\n\nCes deux actualités reflètent une dynamique d'innovation et de recherche de solutions technologiques avancées, susceptibles d'influencer positivement le sentiment des investisseurs envers ces domaines spécifiques.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "T-FORCE launches XTREEM DDR4 5066/5333/5600 MHz memory for Intel Rocket Lake - VideoCardz.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeC13NVlkTFhGTlVFWFFfdlNpcUtvNnVJRmlyUDVnV3l0RzZkQ3dHWVJkUEpmQUZoZkh1ajhLeUNaU0F5OW5TVm0zbEVFbjI3WG1sV0czbW8tRG1SQXBLRC11VkswcC1CSEpmdmEzdTBLcGd3UTBmdHluUlg3bklHT3g3MHRRbWRRVkp6YWpaV3VIOXFPVnFPUjloblZWY08zblJEd0M5TEJkQmZwa05NRmtqQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lesser Known Battery Chemistries - altenergystocks.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjB5LUxyNV9BMXFDOWJ5b1FZQVFLUjZMMEp0Z3FyQkMxbUFfcnVTWmFqWjdBaDA3eC1BOThpMktZX1RtbmMtOW1GeE14dm9tNVZyQjA5VC1jc1B6OVUxZDRJeWdiR1ZEU1M4ekN2Q25wamwyYVd0STEteE9oTFJXM3VRRVpsOVFu?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1971.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1998.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1970.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1982.5
-      },
       {
         "date": "2024-12-06",
         "price": 1960.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 1769.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1761.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1763.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1758.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1764.0
       }
     ],
     "current_price_data": {
-      "price": 1769.0,
-      "change": -34.0,
-      "percent_change": -1.89
+      "price": 1764.0,
+      "change": 5.5,
+      "percent_change": 0.31
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\nL'entreprise T-FORCE a sorti des m\u00e9moires XTREEM DDR4 5066/5333/5600 MHz pour la plate-bande Intel Rocket Lake. Ce lancement indique une tendance vers la hausse des prix des m\u00e9moires de grande vitesse. Les investisseurs francophones doivent \u00eatre vigilants sur les prix des m\u00e9moires, mais la demande reste forte dans le secteur de la haute performance.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

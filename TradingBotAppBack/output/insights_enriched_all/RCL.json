@@ -2,55 +2,163 @@
   "ticker": "RCL",
   "name": "Royal Caribbean Group",
   "sector": "Consumer Discretionary",
-  "market_cap": 71113416704.0,
+  "market_cap": 73706815488.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.324919,
-    "PB": 8.9335785,
-    "EV_Revenue": 5.353,
+    "PE": 22.066668,
+    "PB": 9.259374,
+    "EV_Revenue": 5.494,
     "ROE": 0.48519,
     "ProfitMargin": 0.19378,
     "GrossMargin": 0.4957,
-    "DividendYield": 1.17
+    "DividendYield": 1.13,
+    "DebtEquity": 247.101,
+    "CurrentRatio": 0.177,
+    "QuickRatio": 0.077,
+    "FreeCashFlow": 1198875008,
+    "OperatingCashFlow": 5564000256,
+    "FCF_Margin": 0.0715489989446493,
+    "ROA": 0.07429,
+    "PEG": null,
+    "EV_EBITDA": 15.492,
+    "BuybackYield": null,
+    "PriceToFCF": 61.475452987339274
   },
   "technical_indicators": {
-    "RSI_14": 68.12596733290789,
-    "Momentum_10": 2.5448341184662,
-    "MACD": 10.030085828058702,
-    "BB_Percent": 0.9020115715985612,
+    "RSI_14": 72.61251421946253,
+    "Momentum_10": 14.407874996669324,
+    "MACD": 11.526492935419183,
+    "BB_Percent": 0.9894516811166784,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8803135021829961,
+    "ValueScore": 0.8765665037989578,
     "QualityScore": 0.2548784890252493,
-    "SignalScore": 0.5081098188601816
+    "SignalScore": 0.3817461387151263
   },
-  "volatility": 0.0330153447503504,
+  "volatility": 0.0330772037980969,
   "beta": 2.15,
-  "return_6m": 0.068924495251041,
+  "return_6m": 0.0901050792545152,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 25,
-    "target_mean_price": 265.0936
+    "target_mean_price": 268.0936
   },
+  "news_sentiment": {
+    "summary": "La société Royal Caribbean Cruises Ltd. (RCL) a récemment enregistré une hausse significative de son cours de bourse, avec plusieurs analystes revoyant à la hausse leurs objectifs de prix pour l'action RCL. Des acteurs majeurs comme Citigroup et Stifel ont augmenté leur prévision de prix, soulignant le potentiel de croissance à long terme de l'entreprise. Malgré des résultats solides au premier trimestre, la concurrence de Viking Cruises et des ventes d'actions par certains investisseurs pourraient influencer le sentiment de marché à court terme.",
+    "sentiment_score": 0.35,
+    "label": "POSITIVE",
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "RCL Stock Rises 18% in a Month: Should You Act Now or Hold Steady? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mYUt2eTFfb3k3YTQ5OEQzNU04cnBPWDJwUjg1QXlGUi1aWlBBYmVMV0hXSzlrMU1MOUFFSTBuRnczOHUxVkVMOW5lSW51dElLc19rUTFfTFBBbEE1UDNrclB3WEdPYnhKRUhlWi1pQjkzTDhYOFZnRnVB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RCL Stock Rises 18% in a Month: Should You Act Now or Hold Steady? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFVLeE9Zc2U2bFBjSm9FLUsxNlNUbnVvZm5scG9yZzdSTUpuLTZvajdmSEJ5TU1DVHBvdDlQdEh5Y3FjeVBILXRiOTlLN245QXVzX2hCVHNvQV9Mb3dQY3dEbFhqc1U2SElQQ0dUVkFZOEQwSWwyOEpCdFpFTS1DM05Td2lVQWFnRlIxaVRfdlAtbVNC?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Royal Caribbean (RCL) Price Target Increased Amid Positive Trends | RCL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDBRVEpBcFlSZ1FrbFpwSGJKZE5TcFlfTlhxMm9PdnNhM2wwMXlfNC1UZGMyRTNMdkg2Ul9YU0syYlEyZzgxbGJTeUktR3gxTWd4RFBKbVpNeEFNQTFYdWpkbEFfcEl4djd6LTFBTWdXa3hOaTVTTlBtR1FrNlhaaXg1cFZKYndGZ1c3Mmowai15MHVCemRRYzlySktRMHgyUnhqTGJCUUFvQ0FmTlNFQjBoX1pPc3FT?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Citigroup Boosts Royal Caribbean Cruises (NYSE:RCL) Price Target to $318.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYTdURFplazZhanpnZXFKX3hxN2tsX2RuZFBWSkY3UW1SSTZsWlEyeHFfQUVFNmxUN0I5b29QMHVuMGM2N3hBMHZ1eWE0b29kWDd0MHRXMXZ0SWlGcVBlZEtFZHF1TzhCVkE2X2FicmczQ0RBZEtZVDR3T0xWY0tHSTJlUUJUa1NMNDhBS1otQUZ4cjI0a3k3MVVBc3FNVVRhQVNxNkRDWWthTS1uM0xEYzBDZkR2dHJLX1RsTVNCNU40Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Trending Stock Royal Caribbean Cruises Ltd. (RCL) a Buy Now? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3pNN2pQNjhEc2c4NG5vTWJQeldSVUU5cEZXYlRPUTZTeHVaOEZTM3lCb0lUekRQWkFFaEktV3AzY3lYbTJ3MjdIamJMSnNfeXVCa0ROR1pTMnllcTJORVJ2b194eFpzNnc0OWlSOTllWlRQMjExWFYySE5uUDRFX0hyQi1HZGZYR0RxNnBsV1ZwWFpjVXhBMlFaNDVWQ2VyS3I4NnFQekVIN3I5YkY0enJsOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Royal Caribbean (RCL) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsNnpoQjRYc0NzVFdYdGxyczd4ZzJNelZ1eDJTRDNsaUtwX0UyNF9udUpHVF8zTGRFZ3NucnhyckUya1RCWWVjcWZ2azQ5dFRpd0Z6aXFqcUUyM1VCVXF4eERFVXVpMzBJcFpWeTBzejAxaVZzeTlDVXFJM2JMdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Viking Cruises Lower Despite Strong Q1 Earnings; Royal Caribbean Basing - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHBERDMwUG9xMkVNRVdMZldsUEJZMlQzQmhkcFg2RUtRQUUtcktQZ1JyR1NDbVpCMXJRTktDVFVkbDN0c00zWlppSmo2dXNVS3UxaTNQN2ZYM2YtVi02NDlTTmZaOXRnaXhzbUtpNlFQVzV0NENJNGlyem1yWGZSZWpNUnEwX2laaDhrdUtsa19IRWhycG5CSl94YzZCWHNlM1kyb0pzT2k?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Hennion & Walsh Asset Management Inc. Purchases 3,176 Shares of Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMEpWZ3hFQmk1blpKMk91SzhVOXFYTVpOTllmODk0RERNRWhsM1I1RzF1MDI5T2llM1FyOVptUE9IWUVIQVRVMFJhQkl5VnM5a3l1V3g2UkMtai1jUjl0VklDVFZZeVBVM2NvRWkwelg2UUpWZ09xTzFqTEp3UWhhUFMxQzVvOW1NY0h2aUFxTll3Y1BvQW1EQXp1MkhHekVGVldmWjhrLVp5aU9HWGtpXzRzelc5ankwSHdkU0lrQ1dvMGp2SlVjU0dGcnpkZnk1U0w4NV9CVXNvVzZGbEwxV2owU2hwYzhvWjVjcA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RCL Stock: Stifel Raises Price Target to $310, Reiterates Buy Ra - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1N6ZWpBWFlQdVFWY1Rvb2dRQmRhcF9LYzhkR0ltSnkwN3l4YW1BUU14U212RTY1VE5TenJTNEROQlYtOFg1YmpkRXoyamJlQ1I2b1R2ZGdabjAzOC1sSmpPZllaSUJidWVtdl9kV1lGcDJnS19LY1U2S1VBMHJ0czA5LWtBWmppMHg4Rm1HNHo1VUF4WnJWTVUybngxQmRsT3FpbUk0d1Y3QUIzS09oWDB0MS1zRDAwLVhPbFVsV2cwT0x5QU9aN044UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Royal Caribbean (RCL) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1FhNEFSbHR0d2lvSjQyWTRmVHE0ekpKUmw4SmVEQ3R3NnoxUEV1TDhOMTFwSXpuZkQxSjFvenZMN0dCUy1seW5POHl3R1Bjc3dhbWV1amUtLTVwdTBHbkhmN2FYRmFkS3dQejN3VEVhN0p0WjlQd2tTelBRbG81VWlfMko3bWdNZlVZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stifel Nicolaus Issues Positive Forecast for Royal Caribbean Cruises (NYSE:RCL) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVEo4azZieWxWQnlIQlVRckc5WTBoNVRiOVhpVExvU2dVZDJDT0haeHJtOXl0VVdORGFhSlZHRUd0N1FjUTdfX1RWUWMwVm5OQUs5MEtTY0J0UWRxaEFZQy1xSkowWWdtYkZ1UDRod3k4SlRIdVlCcUoydlFWZnpTSVRyMTB2LWl1ZHlQWHE1WHY0Ym9xZGlvdGk1c2JYcmFIQ3g2T3NHbkk1cnlMV0V2bEtDcUlHSVJXclNxSnRGWkIwR2YtcWtqckxKMHFsWENrZG9MSFEwVm5HUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RCL: Citigroup Raises Price Target for Royal Caribbean Gr to $31 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0lybDQ1Y29Dc1NRZ3l4eE5QcEpxQm1icl9ZWElsUmdEb3ZEMUU3SEt2M2ltaWdLNzZBSXl0T2J6cXNjbkpfU0hRQ1NremgwUEdGTS1BbDZ5aVRIbXR0c0xqNUFRVFI1dnpuWFFncmxxNmtkS3YzTWd0eW1DVGNsYmw4b3k2T2NYRGU4cFJrZ1VSX3BVOGtrcVp4RExSa1I0cUNyU2Rka2tCVWV2YzdsQmZMTUJ1OXZo?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Royal Caribbean (RCL) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wRDRwaUxlbkRRMkRka0Q0YnphdWMwUUhRel9pWjQ4NlhvMGFVVU5hVVZfa1hkdzV5QVFURFRYcDVMbV9Ic3VSaUMyQWNSZXgwMDRyeHNia1ZZbVJMZjlLT3lJNzlUUnpIQ1BxZThOWTBqVi1qbG8yNldYVkozUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Loop Capital Issues Positive Forecast for Royal Caribbean Cruises (NYSE:RCL) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYmRKVnRrSHdnNlBMaER5UzhxSUNOdEJUMk5Ic21WRG85dTc1dGlhUWswUkNuUHVBZmJjOUh1OHJvVnNQYnp3ZGhpX2tqazZNdEJERmplQTRhX1pKUmE4QVFQQ3k2SGNfUExkRHVmdG54NEo1Y2NXS3hwV0g3UDVLcTdZTnVGZEpWcHVmWGxiQnFYLWNmaDktUzBwa21wS1JiN1pUbG4tX3hJT0dyTm04ajgwU2lqb3hnR2JYeTNEckZFUjdoWTdpT05YQXFFMGxvNTV5Z193?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RCL Stock: UBS Maintains Buy Rating and Raises Price Target | RC - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY010RThucHIzVlAyRnpvRmFKdXJiUVJXZGhoeHB5LVhuVlViRXBjamJieEV6MElxamxKRG8tZmN0YVNKX1Bfajd3OWtXRG1TbXpxT3JVZDlvTlZYQ0dDT3FVb01rMk5Lb2lLQmtGSlh2TkREWjNabG9Gc2dSeDhyRXoxUjRkX2EwbjF6b0U2anZ1TjNVMS1sdThSWXNWR3ZEMk5nejg5YlFGLVZpVUFranhB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Royal Caribbean (RCL) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVl2NTJjNzhtUU1mVERzT0ZwczJuSUNSb0sxZ212c1JMLVJPcHhfdDNBcVBNeDFRbGRfT1EzcUJuaTlFUUhDN2ZaWHIxUl9DRmV4VFJuS1J3clJmNnB6YXhBdldIU256QkNybWJKV193R3JiNkVLVE1LSlpCeTV5ZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Royal Caribbean Cruises Ltd. (NYSE:RCL) Shares Sold by Contravisory Investment Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVDRuRHoxYmhlUWZLQ3JfZjNJdVZMd3BoSWwwNUM1WGpNZWs2em9Ud00wOThRTDVnNk1Rc25KSEwwbURoNmpPRUFBc00wQTMwV21jWjlVR0JoY3hZSENZYmZlZ28yRlNQa05wWEpMaEk4WDZlcTJFcDJGV283RE1Ka3FrYzBpczJuYTBvUWtoQ1prN3FCRlVmTVBacU1IVk9OX0lyZk1HdkVES0tQbnQtZUlHZ2Z3VnRJdHcxNklfQmlNbzc2MzhBcUVyUExfWHEybFNWall6RmNuRklHUXVqR3c0Z09LUEc2bjJ5WUNQZmVEUlg0UUY4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Royal Caribbean Seeing Inflows - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUWk3ODRvcFh6cHRKM1NTVFFnR3QwbWlDaUx6RGNFUl93OFk3a2oybjVNRjIybVRpRmYyalFKSEowbjZWRV90emZ1Z2NNdE4xZDlsZThJSktLVm1Bb3ZZZ3JyQzloWlh6NnN0a0ZVUnVTdXlCTkI4VXBVbk9WN0NwdWVR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fulton Bank N.A. Has $1.02 Million Stock Holdings in Royal Caribbean Cruises Ltd. (NYSE:RCL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcnJ6ZmtJXzBnTDVjakdLS0wxTl9LV2VBMnY1T2tNcHlMVFczY1pjUUQyclZDeHcxbmRqNjltOWhhTWV1djRjd3Yyb3E0Zzl2Wk9MUGJ1T1FZdDBvTnItZVpXa0xfclNmSmpxSW5iLWRPYy1uNF8weTlQLVlxblFQTE1HWDlreHlXanZBaFhsQnJZTlZkWjhlZF9ic3hqZjVXVXpkdXd6RUhTanJLMk40SjQ2MGVFb2x5MU53X3FvZmtfXzJBSVIxQUZ0T0tSSVhiWXlhS05kSTBBTWdoQ1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stifel raises Royal Caribbean stock price target to $310 from $275 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzBGaXl3Mm1yQm56cUlUT04xbWlpNDlUenlSa2xZUkdQb2lwZVhROVZrQW1sVHFiYmhQdk5FVmRqX2dqN180X3l2cUZhYlp2amJKYkFtWTRyd04wRHJpXzkxcXZycTdZblcyWU5LdHFxMUViVTJ4ZTdETC1QeEwxVVFMTk5jZlo1bV8wQlBsNjVSTzJvLWc4WGpJVUhBME9pdHlzVlhMbzd0cmhpN3BseGtCVGdjOVhkUG5ISWJUOV85dw?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 246.41
-      },
-      {
-        "date": "2024-12-03",
-        "price": 245.9
-      },
-      {
-        "date": "2024-12-04",
-        "price": 249.74
-      },
-      {
-        "date": "2024-12-05",
-        "price": 251.14
-      },
       {
         "date": "2024-12-06",
         "price": 258.09
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 261.99
+        "price": 261.93
+      },
+      {
+        "date": "2025-06-03",
+        "price": 266.76
+      },
+      {
+        "date": "2025-06-04",
+        "price": 265.64
+      },
+      {
+        "date": "2025-06-05",
+        "price": 271.4
       }
     ],
     "current_price_data": {
-      "price": 262.0,
-      "change": 4.85,
-      "percent_change": 1.89
+      "price": 271.4,
+      "change": 5.82,
+      "percent_change": 2.19
     }
-  },
-  "news_sentiment": {
-    "summary": "Royal Caribbean Cruises Ltd. (RCL) has seen a surge in interest from investors, as Rhumbline Advisers increased its stock holdings, and Universal Beteiligungen und Servicegesellschaft mbH purchased 125,512 shares. The company's upcoming dividend payment of US$0.75 is also generating positive sentiment. Despite a recent dip in the market, RCL is considered a top momentum stock for the long-term. The company's strong financial performance and ongoing growth opportunities make it an attractive investment for potential shareholders.",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "ALVO",
-  "name": "Alvotech",
+  "name": NaN,
   "sector": "Healthcare",
-  "market_cap": 3413426176.0,
+  "market_cap": 3168963072.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 30.567568,
-    "PB": -10.52093,
-    "EV_Revenue": 7.494,
-    "ROE": 0.11125,
+    "PE": 28.378378,
+    "PB": -9.767442,
+    "EV_Revenue": 7.202,
+    "ROE": 0.109745,
     "ProfitMargin": 0.16422,
     "GrossMargin": 0.60741,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 1.726,
+    "QuickRatio": 1.006,
+    "FreeCashFlow": -216759872,
+    "OperatingCashFlow": -148891008,
+    "FCF_Margin": -0.36870822415644355,
+    "ROA": 0.07018,
+    "PEG": null,
+    "EV_EBITDA": 28.677,
+    "BuybackYield": null,
+    "PriceToFCF": -14.619694331615033
   },
   "technical_indicators": {
-    "RSI_14": 66.50966307465801,
-    "Momentum_10": 8.126198645983058,
-    "MACD": 0.57852599520211,
-    "BB_Percent": 0.7941860702634504,
+    "RSI_14": 53.22899606256967,
+    "Momentum_10": 3.3464582450214637,
+    "MACD": 0.48761385968991,
+    "BB_Percent": 0.4873304115845245,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9434734058643152,
-    "QualityScore": 0.546047766643944,
-    "SignalScore": 0.3382073142468881
+    "ValueScore": 0.9383486382665558,
+    "QualityScore": 0.5459272205520813,
+    "SignalScore": 0.5228846030424097
   },
-  "volatility": 0.0336460173351875,
+  "volatility": 0.0343220527628645,
   "beta": 0.191,
-  "return_6m": -0.030017103977329,
+  "return_6m": -0.0797545889203938,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 4,
     "target_mean_price": 18.0
   },
+  "news_sentiment": {
+    "summary": "Alvotech, acteur majeur des biosimilaires, renforce sa position sur le marché avec une levée de fonds majeure de 750 millions de couronnes suédoises et des partenariats stratégiques avec Dr. Reddy's. L'acquisition de Xbrane renforce son portefeuille de produits. Cependant, la baisse de 4,8% du cours de l’action peut susciter des interrogations chez les investisseurs. La participation à des conférences clés et les mouvements significatifs d'investissement soulignent l'intérêt croissant pour Alvotech malgré la volatilité récente de son titre.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Alvotech Completes SEK 750 Million Private Placement to Boost R&D and Market Position - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTk8ydEREbmxsLTdiakM5X0NQVS1xcGx1aUtlTTB3Q0RicFRzQWItN0x3aGgwNXlldXFGZVp1SGwzWUR5NzFjX1l0TTBoTFk1R2V2dXhXOVM3Rzc1NWpnTXIwOVVYTjU2bmJfR2huNnhYWTBRd1ltWHJnSGFRZldVZjMwdGh0ZWZjc0NmQ0c4cFRyZkpQb0liZ2ZoSlV5ZS13ZWxvMHljZjRWczdBcGNCcEZGbFJVODV2MHZuMWtMSjJ2SXJrY1dBV0FsU1hGS203anc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dr Reddy's And Alvotech Join Hands To Develop Biosimilar For Merck's Blockbuster Cancer Drug - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa1c3bnZfQ3h0N1hvQ0lxbDhCbWppSTY4cXNWbzlpS0Z3blRqOXNVTjFXVkdIRVJWX0tyRnpRXzZSM0l6eEEzRXFqUWM3MTlaQlE2alEybUdMWmdJQUFTUUNxOGgydC11ZU1rWXR2ZjBOYjU4d28wWWMwYmI0VTlrOWwwazYwVFpkXzFVbm5tQ011cVplM09qN2RPcVZLbUNOZi1qazd3eTBhRHJqQkg5LVlRNlpNRjgwWFZVcXZEMUFPSVdOdFZENTZQRXJtS3BPVUJzd3NQSEVTU0s4N0lYV3VRaVdKUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alvotech (ALVO) Partners with Dr. Reddy's for Biosimilar Development | ALVO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTndpNWIwV3pXeXVWUmdMbFl4OXpNcF83eGkyZm0zcEF1TkJCU09yNE5vNGtxNTRMb1dtdFMzUFhUNmZqOVQ1Q29pa1B4bm81SzQyZ2FKR1ByX2VPMXprM0VtSC1reThpWnhESmpldXdOMGxGUDRxc3RLX3k3Wkc3S0tQV1ItMHI2Y3c4Q1hNTUNGZmZoaFZ2ckUtMTJYUkVGc2FUV3N2ZGlSSm1ZelRWa1Nka2U0YS0yZUVZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvotech Unveils Major Private Placement: 7.5M Shares to Accelerate Swedish R&D Growth - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmNMUWhSLWJrZ3E3N05pRXoxdTBRSVZ6MDZVcERzSm5LeTkzUTZEcC1rUkZ5bWlqQUJDN3NMRy1nVU1QM0FiMHZVOEg2WWdMc0ZHeFBCM0piM3VIdVVUbC1fczU4TmJVajZOTlotWko5bmtQRGh4MG9RVkxUcFFmY2VPRmtTcGZ5NzJwb0Q2TEJzLVR4SXVOc2lmWGZhNHhIaWs2aTRmR29IN0JMTmNnLVN5bHBQVl8zNVc5Z3ZmeFc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvotech and Dr. Reddy’s partner to co-develop biosimilar candidate for Merck's Keytruda (RDY:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjdXNllGUjgzbFRhclZacjNDeGRVRjJMVlpNSFhHemROS0gwZ2NKbzhlTkNvQ2owN19DR0kxekJ6Y3ZvR3FrendoZ3F6bjhzUTh6SVBKcXZRUnl4MXkxemh1eVNwWDBvYnk0QTZaSlV4R1ZhektFUS1NY1pmNWtRb3FURl9Ga2ZaRlZnVVdKOTVZSW94aUhjMmEwSFI5bWUxREhST0tTZW5OTVRMbGtDdi1hYnhCSmdKQWFTZHhieVJKMUZ1X19aVXhn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RDY & ALVO Ink Collaboration Deal for Merck's Keytruda Biosimilar - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONF9MaXRjdUwwQ1JXV29Nbk1fTEszNGhiOVhFcHl0bDlEak1kUnl4NVhBNnp6MEpFdG4xWm8wSnlEYUtWSFF5SDlEOTl1UlJUbW1SNHpQMTRDRlpOWTFwVjc4ZEtBS1hHTnRJUC1VdlhJZG5NQWkzWjNlM3dvWXhMdUczRm9ESTdwU2xqYXBjUm5qTjZKUUMzRnNidkFQNlBMV2xoVTh3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alvotech (NASDAQ:ALVO) Stock Price Down 4.8% - Should You Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakFDZlJoWjVmWTMyeVN4NXk4VFRDYjN1V3UxVC1NUmZ1LURjV3lnUGdaQm4zdFN4djlaR0phVnJDemFqVHJFdlRucEo3b0ZsN2xvQWVPLXN6LUllTTlJOTcyaGhPaDNFZWVWOE4tYkVFM0NaZ2FBbXNFSmFQVUxyU1BFeWk0MGlmMWc5OGFKYWJfUXdtZmZsZ0dwOUpkMXpnb0hGZnM2c3lMd1FOUFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Alvotech (ALVO) The Best Stock That Will Bounce Back? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVXROVkNhYzRHWTdoN25STDhRVTBVNVpWYjFYYXpmQXU2NFVfZTc5WS1NNlFmLXIxTU1hejZmMFBzNjltNVdtazZDSmtLVnV1LWp6NGhmRGR0c1BtamY1eExDMVh2M2ZHTFRyeTBNVFpkVzdqU1dPMEYxdlg0NFl4dXNxSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvotech Raises SEK750 Million via Private Share Placement - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOamwycnFhTzJ2aFBjeE9IVG9KVUZaVW9vaFI4YjFEWVl1OUVKb3NVbDdXYmlBWVQtRHdWM0x5NzNHaGwtOWpha09oZUxzQmgzSDJfMFA3TklxeFBkVnpzQ24xbEtzbDJxVXJqNU5qc0tkOGllbURvRWs3ZkN3MEs4R1lKU2Q1eFYxdlR3WWRmVE9FR2RWa0tGMlh0akVhU3ZiNDgzNUs0N18xcGNrdEhfNDA5QVdsRUhZWnZYdWQ4R0NJMHNqWlhvNDVtQS1YbDRq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvotech Announces Participation in Jefferies Global Healthcare Conference 2025 - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEx0enRhVV9IdEwxbklmcVJkRm5JVlNQbzFIRlNuaURDSlVsbkhOR0tKQW9nbmIxZUwyREtfR3p6clZHVV9yRG1iY0VVZDQ2dklTRWMtV09ZVEZ2cU1BT1NyaUxENGUxcHU2X01mNGRTU2xqMjY3bTNob0VRTlBXY2pKdVdTYkJvNHNrUzNaQk1VYjhhSGh2cmdvSDF0Z1dfZWZGc1FRNmZiMHdT?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvotech Reveals New Business Strategy: Key Updates Coming at Jefferies Healthcare Conference Tomorrow - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUFkSXNxeG4tZTJBSTByQllBNERfWWlhdmNoSVQtSXBkOHpEd21fR0hjNlNxTXEyMWdhdnRHanZ1djF3bi1tRmtEaHNra1BpcFF1OHBEdGUtMlE4V3VBZ2FHakFSUlVhS2lUNkJRZnA4SEpsRnJJZDFReWNsWmdFVGs3bFhMUU1aaDZKVjRTVVgtcVhYODBvVzdycjFWWGNmUU42SEpGbXM3SnkwMFVsODBYTnpTcFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trend Tracker for (ALVO) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlNHdW5lS0stOGdGX0ctMkl1LXpZc0ZyNk9TTUFZWG1GYXI0ZGMtMUYzWGtvWHR6V1JfOFo5QlJYVk9ZYko3TjBZT3Exd1RaM2I5dkJIcVMxNm4zYkV4QU9Gd1ZaQzhObm9Id3hwZDJ1QzRWRnRsSjBoekJEY05NR1QycjJXbjhndGFnYkpKTlRTakJ6Zld4cGlEOVFjQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Short Interest in Alvotech (NASDAQ:ALVO) Drops By 12.4% - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaDBIWnBDeHlFOWNsZ2xkRm1vdUpmckNrX3IyRVhJdUVmSUdKaUdDWGxHYVphQkJ4aFRuWEF1V0J3UlFlZDRFNHZ6bk5tSWtsWHVPdmxnNDJSeDdqb1Q3X3BXRERqYldBdVJZREhDS2FPOW9tYjhHdEphQ2otN044ZnlVelhOUElQRzBfZVdnUTh3TFZFMVhpS1ZBcDNEM2RYN1JNVGltUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Alvotech to Present at Jefferies Global Healthcare Conference 2025 in New York - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMG9ISEJiMUNnbndwbGE3UXNTVUNRdUVyTU1qY3NPRmJTRHd2a0JObVpyVEpGN2N2RVpRdDF1Z3JEWTVEWVFpZDUtTktYN0pBUHhoNmZ6SlM3U1VyVVZDVkQxc1JDT041ZUxZc2l2RXRGa21zMlk3Z21QUEhJVkh1OTRva2dWS25XZ3owTE5uZTlIbEJwR0pJWXJKcFdaMWU1RlNr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvotech Completes Acquisition of Xbrane R&D Organization and biosimilar candidate to Cimzia® - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1FmSlpwU0NGTjJhS3RhZURYQzhiZmw0NFpPeHE3OEptd0k4bElYa2d0WTYxVUZrUlhEOEhYdVdDaUVmam1XdXVCM0xMbkdDWFBvc3o1NG8tNXhYcWV6OFNVUmI5aGdNdzdvQXFweWk4V0k3M0JLalV2RkdsT1c5LS10X1hObV85dEUyaGw4VW5SUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "B. Riley Wealth Advisors Inc. Decreases Stock Holdings in Alvotech (NASDAQ:ALVO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc2lHcVkwbm9ITUJqRXEwc21GRDZmSEVWdllfU0NUZHBTWDdjZThCNE9hR0NuejVRUlpteHRQODFwcDdkNlgzbUxFN1l4d1BWaFowNlVKVjk3OHI1XzN3Q1RTN2h3X0xwRmdZZHFlUjRVMmtLUjNlYXk3MTB4U2dULXM4bEtQcXlocElMcFgzenMzU2p4ak9wbE00a29LWnNfU3pRZEk4cXhhV3lIOV9XWWpSM2V1MGIxNE5VOVhLRy05a2RRbXFMSnNR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Richard Davies Acquires 19,988 Shares in Alvotech at USD 10.18 per Share - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGhONEZrY1hlWHlwbGNOVU55N1JGWm5DdWpPNGVRR0hiOTFZZWxhSjNTM2FjbVAwWXlLZ05qM3FhWHZhRUlUNWVzUUFDWnZ5OUJmM2E1eHI3Y3VtZ2h2dURFMGd0VlAzQlU1TjNnOVRhWGdyZEtGWTFkT3o0ckJFV0dFYVlMaGRCdmRnenNydkRreUlpZlow?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvotech (NASDAQ:ALVO) Trading 5% Higher - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRTIwSXFyLVF6bmdhMUZXUWNTOF9oMFZIbjdnT3RNZ3V0b0RDZE5wc0I2QWM5Ukc5QmFiV1hQa0RWQTNNZ25DdDM5NDk5aGttc0xvS0phMjNIWjB5YW1CR2I0anlYWExoZ0ROYmtmVy10M2pVeTBkaVNtOHJzWVRvdUxGbmJSZ045SXhuTEVlNUN6dUppdUNDZ2ttTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvotech (NASDAQ:ALVO) Shares Gap Up - Should You Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVJXcnZISHRRcVdTcmRjTjVmWGxwVExGMFlpU0NNdExCTDQtZVlzZEhpdUQ2c3JZM0l1cndKUDRwZVJmc3dBTm1HVTFScXpBLW0wVXVpcUIzdjFvR2x5VURQZE01d2Q4NDlRQ1dXdFN0UWtlbk03a29tQlJSUko3WFJ3ZEU0dWYxNzQteUFYb3FKel9MendoWlFSb01mcHdY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvotech (NASDAQ:ALVO) Shares Purchased by PointState Capital LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZkNVNDVjdW1jZkNjTTRJWkV1Vl9zMy1NTnlmbGh3czdLeVlKZjl0N0UxWnYtbDVIOGl2ampOT0pzaTdnUHhORjZGa09kVV91d1NiRXdiVVVacmRiNXZ4dTB4UXhLYWgtVUxkWlh3M29vVnUwZEtlVVN6V1RfdU4zMmVRWDB5N3NZRG9OYnlTUUhJTURhNnBqM1FMN3RhbWVTaXV6OGI1WXZMNWt3VTFoUWFKY2NEamdNRVhDQjUwVnJBVy1vbkJ5LVZn?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 11.66
-      },
-      {
-        "date": "2024-12-03",
-        "price": 11.61
-      },
-      {
-        "date": "2024-12-04",
-        "price": 11.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 11.46
-      },
       {
         "date": "2024-12-06",
         "price": 11.41
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 11.3
+        "price": 11.22
+      },
+      {
+        "date": "2025-06-03",
+        "price": 11.45
+      },
+      {
+        "date": "2025-06-04",
+        "price": 10.83
+      },
+      {
+        "date": "2025-06-05",
+        "price": 10.5
       }
     ],
     "current_price_data": {
-      "price": 11.3,
-      "change": -0.14,
-      "percent_change": -1.22
+      "price": 10.5,
+      "change": -0.33,
+      "percent_change": -3.05
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques concernent Alvotech, une entreprise cot\u00e9e sur le Nasdaq, qui a annonc\u00e9 une nouvelle strat\u00e9gie d'affaires, ainsi que sa participation \u00e0 une conf\u00e9rence financi\u00e8re \u00e0 New York. Les analystes ont not\u00e9 un potentiel d'augmentation de 75% dans le march\u00e9 biosimul\u00e9, mais ont \u00e9galement signal\u00e9 une baisse du prix des actions de la soci\u00e9t\u00e9 apr\u00e8s un gain de 29% et un manque d'augmentation suffisante.",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

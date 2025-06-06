@@ -2,55 +2,163 @@
   "ticker": "VZ",
   "name": "Verizon",
   "sector": "Communication Services",
-  "market_cap": 185641484288.0,
+  "market_cap": 182922002432.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 10.483334,
-    "PB": 1.8431077,
-    "EV_Revenue": 2.638,
+    "PE": 10.3297615,
+    "PB": 1.8161077,
+    "EV_Revenue": 2.616,
     "ROE": 0.18416001,
     "ProfitMargin": 0.13144,
     "GrossMargin": 0.60018003,
-    "DividendYield": 6.16
+    "DividendYield": 6.27,
+    "DebtEquity": 169.089,
+    "CurrentRatio": 0.612,
+    "QuickRatio": 0.471,
+    "FreeCashFlow": 17040874496,
+    "OperatingCashFlow": 37610000384,
+    "FCF_Margin": 0.125956259097336,
+    "ROA": 0.051469997,
+    "PEG": null,
+    "EV_EBITDA": 7.173,
+    "BuybackYield": null,
+    "PriceToFCF": 10.71327758788747
   },
   "technical_indicators": {
-    "RSI_14": 55.278044305879135,
-    "Momentum_10": 0.1363890800284259,
-    "MACD": 0.1126103743302451,
-    "BB_Percent": 0.7464718112304686,
+    "RSI_14": 47.91832647754189,
+    "Momentum_10": -1.1314261300223216,
+    "MACD": 0.0528923370329721,
+    "BB_Percent": 0.382635482069859,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8934213565019433,
+    "ValueScore": 0.8905671123078388,
     "QualityScore": 0.4631602343581124,
-    "SignalScore": 0.5914635979064053
+    "SignalScore": 0.6137826702425195
   },
-  "volatility": 0.0148921047629658,
+  "volatility": 0.014706333876538,
   "beta": 0.38,
-  "return_6m": 0.038311052882419,
+  "return_6m": 0.0543588571212434,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
     "target_mean_price": 48.06739
   },
+  "news_sentiment": {
+    "summary": "Verizon Communications Inc. (NYSE:VZ) a enregistré une performance en hausse de 9.6% depuis le début de l'année, mais son cours a récemment baissé alors que le marché progressait. Les investisseurs se questionnent sur la valeur de l'action après les résultats financiers. Malgré l'introduction de Edge Transportation Exchange et l'attrait des dividendes, le stock suscite des avis mitigés quant à son potentiel à long terme. Les mouvements de vente et d'achat par des gestionnaires institutionnels soulignent une volatilité et une incertitude actuelles autour de l'action de Verizon.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Verizon Rises 9.6% YTD: Should You Add VZ Stock to Your Portfolio Now? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDRvb3l6WURFR08wSGIwUndTWFhOdWhLNy1CSkY4SDNBNzQwNFNrOGQ3a05qZWQxMEMtSmpWQmljbzdSOVRzTlZ5X001bGUzRnZBaDhxZU9JeWhiOXZDWjJTYnlsOEVQV1NYU083OGJrSDZMT3drYUdGYnd1MmNXNXFSSDlhR1dyZjVtMXhTdkFMNG1zUlE3TnZIeGF3N3hhZkY4OWRzVlJmVElfbTgxR3RGUnVQZGN5eHpnMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Verizon Communications (VZ) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTVRfUFdyZWZfY01xQm9JeUtKMWpsaTl2QlEtMUVsZEF2SDg2THFpYy1JZkZzRnRRdjd2TlYwVGd2LW96X2RYMmJRUXlNNEdaVkVfeHdMMk5GSjFXTGtzS0lrZ0pBbmxiSzF5NlZBeXBhNUttaDFja0lnaDgzV3R6c2RFbHc3S2Uyek9mNQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's How Many Shares of Verizon Communications You Should Own to Receive $5,000 in Annual Dividend Income - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUU5yS2xVazVON2ZtVEdyTlREZ1Q0MmhsRmFiWVAtVmpCekU2TV9LTDhTWkd2OXlpcVNqQ0xnX1ZrUTFyZURVOEwzb2hrTV9YQ2p5LXkzMU4xbElzUDFMOXU5eUJlZW5ZYTVYVXQ0NlpuOEd0eFNfODlEaE1BaHF0dUY3LVVoYm1BRXZMY3l0Xy0teDFaelBYSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Verizon Communications Inc. (NYSE:VZ) Shares Bought by HF Advisory Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeU8zN1NBaVZWQUVTdi1IaHozWEpLWjg5R0F0YjhmdFR5UXVJcUxTQ3NMWGF0ZDZIdkZ5VzVNTVc5VmFtQWViMndQcndxTzZuWmZlVXRZanJtbWZzcW1vWTZSaTk2YThQbmxOZ25vUzhTLVd3QjVqVmFQNTVxdnc3aDFZcTV4WDZKd3hLUldrMy1qYnZ6WUNNYjhydWwtaXN1OVBOajJaZVMxLVJIeWZlXzlpdFQ4ekJPWDRVYTdwZDBmb0o5ampXSEl3OGVvQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "After Earnings, Is Verizon Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWkl6d0V1OU9raExKNklsNGJCY3dCS29KRVEyZVpRaU1hMVU3QUJEYmNMNERDelpjTlRPVVBSTVExMkNXTkJTYlNWQlVyVHJyTUVtM0tRcGVta0x6YWp6b1hCMU5UZGxtek9uV0FIb2pVUjNCUllSUlhDNldNQnd5aWFhNFplaHFyWmxyQ0gwUzVHajBBVHdwRDJB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Where Will Verizon Stock Be In 5 Years? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQREY3QTZSS1FPeTRBay1GZ05UUC1zWWdqRWMyMTBHbjByUlU0Z0tUcjZlbXhLQ1Jwd0V3YjdZbk4zWHdmX1pYcjdtWllsLWRUVUswUDNOSEJIU0J6YmdMeXZjQURFd0dTb0M3cVp0Y1hWSU9TUVJOYXoxSF91SDNaV2FBalFqbkVtY1hXSklWZDZiVk5GLTk4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Verizon (VZ) Introduces Edge Transportation Exchange for Connected Vehicles | VZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXhQZjhDNk1WVTBVajI3b0JpeFFUbWdlcWJpai1RTWNRaGZUQU5DdHdoN24weUVhY0MydmdoNkg1bFB6OGhSSlZNYzhKdDBLa3ZucGNsUHBnZEU0blh1UFNwSk9nSjczUFNORXFzUmdGdjAzSFkzYzFGdHZpT1R2bElIX2tJTHFvUkxvR3dNYjNYbFFjRjlfaWdpMDJYQ3E1c2c5alRwcEUwNEd0RE8yeVNMQnhfVlpVSDhJSk9nVldiNVFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Verizon Communications Inc. (NYSE:VZ) Shares Sold by Milestone Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUU1oNlhLQ05yWFI3NVlZTFpuYUgzRVNpbC1CU1kxLWk3OWRuYmdjV09mWExsazdjRWIzeEt1U29xcnExb2hLOVptZE85UzVFTEYzMERZRnV2S3NzREg2cmxuMmFGejVmM2dVMW5mNmttTUo3MjdKVDhMTkwxdkJJaTBvdFNJTzNSaXBYUllrMGNKc2lMcEJIbDhvYk5IY0JFb0RTTWVaR3ZCSTFrWUo5dzJLWFpkTUV5Z25DRFZYd0tvNDNDRXBtVnpSZUVTMTgxWi04cmo4dWhoXzJFZmhyUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Verizon: An Undervalued Dividend Stock or a High-Yield Trap? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUlLaFFVQW1xNUdGc1VtSHNHSnIzZThRMXdsYjN2aUZZSFhoZVY1bW93MUJrMkEwUENKMlpjakpPMUlncGpQWTRxX0ZqcmsySkpITWFkQU4zNHlRVUFMSXFkQjdDdnVVTmFaN28wVUpadExDRHZSTFNOWnV3c3lGNGVheEZ1ODhkZ1BlcnRMXzNBVGJSSVp4MQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Verizon Communications Inc. (VZ) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdC02aldZTkJadlRzZkdSX3ozY24xNVloLUxyYldadG9WZUFoSmpFYjVDZFRCNDAyY2FCcWNndW1QVDhxOVp2cXJ2cTBUOXVHOUlzV3FmcEhQLXRObGxiTXVwRlFGOTdJUElaNFl3QkZuT051YUtkU25GcldJUFlSNHZzY01wZ2g2NmxfY3pTOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Charles Schwab Trust Co Sells 7,510 Shares of Verizon Communications Inc. (NYSE:VZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVi03OXZzRHRNbnI3NTVSckc4RU4wQjdRM1NJLUFUcGNLcXIwXzBYRS1LdmdSZTFzTWxXNklnRUtDQThhT3AzUUVHQkxyQUhndUJObEZVcjJDVGtkMXMzRjdZSkVmamZGZ0xvWU4yeVVnOGpFN01zZERrd05sdTREWEk3SDNjZ1lheUpIdTFVTHhaRVZDVVZQVHczZmNWSDZXZjRST0Q3MUw2NnJqc2t3NmNhMlpETG80Q0sxSVVrOWhndWJubEpqYWFxbFVTRW9ISjl4ZlZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "With 67% ownership of the shares, Verizon Communications Inc. (NYSE:VZ) is heavily dominated by institutional owners - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcW9uLWlnRFpmd1N4Wm42YlRJME1YbmUyOGtSWjZkSUcwOE5WNGJQdjV1dGF3YW1BWUVqc0JGaU91OHEzcU1XSUJ0VWVOOXM1QklnRnB1ZUVfRXNXWWYtVkdVYm1YbUEtVW9TRVlVdS1RaEhfWXE1RzNSZzRNSEVUY2ltV28zUVJOZExyNlFBTUxQQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Annex Advisory Services LLC Has $4.29 Million Stock Holdings in Verizon Communications Inc. (NYSE:VZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTzI4MnlmYU5FUk9UNEFFZ0VwOHZxQjRXRnZ4bDFQSE1qRUxhREtJXzNpVlZKRHk3emw2YjdsUkkxR1BSZEZvaEVjMnctbERUMEZQd2lzNmRLeHhPSTBhMTNmN2pWUGNrZldnV080OENKdGc3UXZPSXJtZUtnY0VuQUhGMVV6ZVlqZVVqUGVZUkpCd3ctRk9MMk96anNlVGVpVVNzWnBwZ1U2dDA0NFZVWktjU0hhMEFaM2ZKQmVhSFRKWGZFbHQ2UmlNaXAyWGpaRmpDcUt4LVFudERURXBHWlVfVVlOVTNfQmFweQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Beacon Financial Group Cuts Position in Verizon Communications Inc. (NYSE:VZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3lWVE1rQndjZHhYbzhOTWpOMlJZcE13U1FVZVpPTFdVTFlnOWFlODJTUlNIUmU2R3hhd2JFcU04aTRwZlN3QWxJbUpTOWxsTi1NNGo5RGpETWxmbGlFZjQtTGF6X1JwQ0NyY05ZWmNSSFctYnBZclVwLWNpQkdOdEpid2NYazVGNkw2bk9RZldTR2VQU1dNWlpLeTExRkpubmZuMWZDdGFjTExZOGJCeHp6alY2Y3dPLTltQ29xZTdvUTluZnUyUV9tWmNBRkk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Verizon Communications (VZ) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNl9EN1ZRbmFOM25XLTJ0TUE0eVFrTzNLenZmMWNubzRZRUVwWUk1S0tCcGNDd3BxOGRneHRkN092M2pmR2lYemZUZ2Fxc1B6U0NjNl9DQlBfVzM5RS01N2NZRWtPR0lvSXRkSjBubm41SDdHSTl3MVVqc29fQVJvSlAxM0prZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Citi reiterates buy rating on Verizon stock citing growth in consumer adds - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmxTWW9zZXRpUVJFLXBkbFdqTWNoVC1tZHJOMHhVSFlQR1RUbUstbzh3T054ZUtDV3pxMFZNdGxCdE1fUFJRU3hTMmVHTnVLTVpWaW1YNk5pQktLekJvZS1YdWt0WlZYNy1URG52SHRUcHZKelp2R2JPUFplNjUybTFQVFdjdF85Wlh5R19wblhEVEszczF2VzhBSW8ySVVKZ2pXUC1aZHp5UnQyY3dqd0pQWU5EM1JKZGRNVUpsMW1aYUp2QzBQelBuX3ZTNnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Verizon Communications Inc. (NYSE:VZ) Shares Purchased by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZDdXR0xJcVkwWTRJZVNINmdhVGtsU0NzZXVjYTlrN05QWEdUNW95T1hKSnBSdG1QWEJyb2lBOG9rUklVNzFJNmVNMTc4SU5VQnVEODRrWmxZREp3emFZU1NBNzhXQUZMMlVkUHVxMU84dXJyRUJtS2JIcUVhTXhLLWhCSzFWczQ1U1lfdjBlekI2YkpCRVY0QjRHMDJvUnBZcVIxNEZld1RaNGFMLWdGVWhldG04N2Y2cTgzU0hVRUNQUUlQM0lIcFU2RFFfR2J6TFZ1aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Verizon and AT&T Stocks Fizzled on Friday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Hd1VkMWZ6emRVUUR2cGg1bWZaMk9IQTg1MDZ6ZVZWMk5UVFcxa0duOGJMQ3RoOUhvYlJuSm9JeVNmZ0ZCNDJ5N2QxZkxwcVVhMEFqQXg2cFM1SktheUhka3V3N1B3a0xwcXFaQjJMQkpvbTNDSEdEWGxoN2FJNk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "If You Invested $1000 In Verizon (VZ) 5 Years Ago, This Is How Much Cash From Dividends You Would Have Today - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTFdxczBsSzlwXzBlYzNEMHc4U1B2a3Y4cVNYYUhBMTIzeFdIV0R6ZGxYZXhCX1hfMWg3Z3JLd3NPWFNsVlhrZEVreldFWmRGTG9vSV9GUXRrdVl4Zm9DTV9rdWJTY1lEMWdEMGw2R3VKUlp5YnpNc3dSbFVFQnIydmpzemRxV0RfbGZMQnZTSkVMdW01QUVwMWg1RGpGclRZRUhhVkhOYThzc1k0Q0FqRnZXaHdRYnVhRGNUcm81VjFtNkRodDdHQTBYSXpmVnZ1Zi1CNFJaY1NZYUtmcUs2bjZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Raises Holdings in Verizon Communications Inc. (NYSE:VZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaUhPbEk5RkhEYmg3X3pUc3A4cmVQN05NVzEyVzhWandhdEhQNHBGamEwSzFNTDhTazZBZHZJdFptc2FvTmpFdFdTc0Zqc0RrVlVwdlZ5eXRONklWQjVmYnR3N2Fmc3hrdzVjNW1UdUtUMWUwWDdud1paczdhVDlOVVNCcUJodEpOM0E4czY1ZlA0cXU4Y0V4WU9PWDJfbTVYcFZ2TW1ta1kxaXNZcHhPUDRfSHBZUDhiOXlobFBNeWpDa2pxakViRHREdk5SM2xkNHVneXI4VFE?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 43.85
-      },
-      {
-        "date": "2024-12-03",
-        "price": 43.83
-      },
-      {
-        "date": "2024-12-04",
-        "price": 42.52
-      },
-      {
-        "date": "2024-12-05",
-        "price": 42.55
-      },
       {
         "date": "2024-12-06",
         "price": 42.37
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 44.03
+        "price": 44.1
+      },
+      {
+        "date": "2025-06-03",
+        "price": 43.83
+      },
+      {
+        "date": "2025-06-04",
+        "price": 43.24
+      },
+      {
+        "date": "2025-06-05",
+        "price": 43.3
       }
     ],
     "current_price_data": {
-      "price": 44.02,
-      "change": 0.1,
-      "percent_change": 0.23
+      "price": 43.3,
+      "change": 0.04,
+      "percent_change": 0.09
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres de la liste proposent une analyse de Verizon Communications Inc. (NYSE:VZ).\n\nVerizon Communications a subi une vente d'actions par Park National Corp OH, et est le seul membre du S&P 500 dont les actions ont outperform\u00e9 le reste de l'indice. L'article de The Motley Fool recommande de poss\u00e9der une certaine quantit\u00e9 d'actions de Verizon Communications pour obtenir un revenu annuel en dividende de 5 000 dollars.\n\nUn article de Seeking Alpha critique la strat\u00e9gie de Verizon Communications. Une \u00e9tude de 24/7 Wall St. recommande deux stocks \u00e0 ache",
-    "sentiment_score": -0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

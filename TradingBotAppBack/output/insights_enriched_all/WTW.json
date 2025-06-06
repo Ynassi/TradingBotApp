@@ -2,55 +2,163 @@
   "ticker": "WTW",
   "name": "Willis Towers Watson",
   "sector": "Financials",
-  "market_cap": 31330344960.0,
+  "market_cap": 30539626496.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.4744,
-    "PB": 3.8546178,
-    "EV_Revenue": 3.654,
+    "PE": 16.324617,
+    "PB": 3.7573347,
+    "EV_Revenue": 3.583,
     "ROE": -0.00484,
     "ProfitMargin": -0.0054,
     "GrossMargin": 0.44762,
-    "DividendYield": 1.16
+    "DividendYield": 1.19,
+    "DebtEquity": 72.169,
+    "CurrentRatio": 1.155,
+    "QuickRatio": 0.292,
+    "FreeCashFlow": 688875008,
+    "OperatingCashFlow": 1452999936,
+    "FCF_Margin": 0.0702074017502135,
+    "ROA": 0.04535,
+    "PEG": null,
+    "EV_EBITDA": 13.753,
+    "BuybackYield": null,
+    "PriceToFCF": 44.28295473886607
   },
   "technical_indicators": {
-    "RSI_14": 55.163664241586346,
-    "Momentum_10": 1.3785203127344976,
-    "MACD": 0.0362738204478887,
-    "BB_Percent": 0.919635716077998,
+    "RSI_14": 43.93638459959916,
+    "Momentum_10": -0.9812398818412106,
+    "MACD": -0.4524208216470811,
+    "BB_Percent": 0.2989661226336761,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8885177026321164,
+    "ValueScore": 0.885819830631647,
     "QualityScore": 0.3749446242411646,
-    "SignalScore": 0.5837649674060106
+    "SignalScore": 0.6321789741499095
   },
-  "volatility": 0.0147739119138485,
+  "volatility": 0.0146168388716019,
   "beta": 0.706,
-  "return_6m": -0.008588898783931,
+  "return_6m": -0.0614304723136925,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 364.5588
   },
+  "news_sentiment": {
+    "summary": "Willis Towers Watson (WTW) a récemment renforcé son leadership dans le domaine de la santé avec deux nominations stratégiques, signalant ainsi une focalisation sur la croissance. Cependant, la société a annoncé que ses bénéfices du premier trimestre 2025 ont manqué les attentes, malgré une augmentation de 24,7% de son cours en un an. Malgré un dividende solide maintenu et des initiatives majeures en intelligence artificielle et numérique, WTW continue de sous-performer par rapport à l'industrie, suscitant des questions sur la stratégie à adopter pour les investisseurs.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Trading (WTW) With Integrated Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObGZUN0t1NDlSd3YzSkJOZFZrYVctLWpUcGl2LVAwdDJ3d2lwT1RIV3JyeThQSkM2THV6SGV2aDNUTlhLVG5pY1hJQXdvcWRXVHpkMzI0TVRDQnkwWGVMRUxRQkZ6aUtVX0ZRb3hrYjU3UmNWdHFSTjlRR0pSbUhmYzdBeWRSQ3I1LUloY3hzeHBTWk1oNHRIUkp4NFBBUWFjSjhDR0puNVdsWlpWempacDgzNjdzcTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WTW Strengthens Health Division Leadership: Strategic Double Appointment Signals Growth Focus - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXNwb01hSGdETl9Xb0h3LU1iOEs3WFdiVU5NSWpPcnppVmM0clZWeFdtdHVWQTZBMW9aeGJ0Q2YyTTVPbFozQTN6Z2dCRUhha2JNeGQtRkZFLWxLOXJCUEZVWTBra2hLX1pXZ0lTNmgzZ21fMldKd0w5YzVRWWhPbzRUWm9KVUpFdHZPbk1YYXY3V20ySElnM2lVSFJfYnVhNlBuVlE2TTBST1BDblZwWURrejMzbGdrTEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "WTW appoints Eric McMurray chairman of Health, Wealth & Career and Anne Pullum as global Health & Benefits business leader | WTW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUHh3M1NuaXFKSXAxVzNZSHB4VEJWSzRFZlhNNERIT3BUdXlGWUh5T0VxR2dLSDcyUkJ4d3NMUktIQWxob2M5RWlxaVpodDJEWFBFbFgxcThCUmhZaUQxSndjTU1jN3d4bUVYOVo4Q21OejdZUjEtT201djd2ZjBfWVdqSFRpaWV1Ni0zNTZTOXEyRkxXTUtMQlFuR3c0RUIwR2F4aWJfbjgtdnRnVmNOQnRRUndGelRpd0dLU1JuRUZMelpZTzZicXhvX1VJWDdLM1ZRSkVOTV9PNGNpVUFsdlYya1VkUDY5YzZsUV81WlpjaWVENm1pbjNSdFhzazJS?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on Willis Towers Watson Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVC0tdEtEREFPVVl5REVKdnhXLWQybmJvc0tjOU5ZaDV1aUtzRk5pUjVmbWdBWk9CVFZHRW5fS1ZQZGVSdTBOblJHM25NU2ZadmQ4LTZCNXhLQzZzdkdjZWpVM1M0c0Jtcl9nTHRneEVfNTdNTlhnclFlM1NmcmZGZ01vR2o4djhsaXgzNEE2R2haWndrNFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Willis Towers Watson First Quarter 2025 Earnings: Misses Expectations - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRXJPakFFT2c0eGxGUVlBMFRzd2x6VkJxX093cy1Wbm1OMjZUd214dndGYjZWVHJhZTlIZHU5b24zVWxqa24xNTFsM2lueS1YUWdNVlZ4cGlkLU1neFlac0RDZ0pWT1JScG9oZ0d4RnJ4MUpFZFpzWFItbjQyanp3ZkpUUE85YUhHdHQxNEp0MEVubDNzWHRudk15dkxHYkxSaDVyZTltaVhJVnlDYXpNcFQwalR2RU1XZTVQRmZCZEVvQ1laVXlFM3FSTFBjM3RSWDVwT2lB0gHbAUFVX3lxTE5KN3U1aG1oQVAxUDNCcGxLZTlXRWpqTmxyWHZBSzJOZHlQdUZtaGxLUmJzaGo4YWRkNzRZM3oySFVrWGoxZU1LQVB4SzVRNEJYaE1xcldNUERsTmFhRjRJTVpsMlNtN3BPSGpmT0MxTXNUOE1vbHBXRm1OYk9fM0ItOHM5OUFTeUtHSmZWT05GV0NzUkpLTGF5cTVlekI1cFNrczhPWjYzQU56MmFIWmxHVl8zQlRPU0pxWUpVUC1zY1Y1TnNVOE1xdDhSSlNkRC1QX0IwbjA0Z3lfWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Willis Towers Watson Public Limited Company (WTW) the Best Performing Insurance Stock to Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZklPQTVWbkZJd3B0c2xYSUlKX3lySnBhcUV4QkhZTGF0SU9vVnZqV1NNWjRsdzJQcUZlYm9oNHh0Um91NHZmbXdPLXVKWmQwV3o2YjZMb1VQZ1dCaFBYajYwZlpsU1lLWEdGcTVVWk5QT2g2OVB1TFJzVXhOVUhuYmFielEycHBk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WTW Rises 24.7% in a Year but Lags Industry: How to Play the Stock - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQTRLMTJqLVhNU2c0SmtPV2VzOVFkSmlGU0w1Q2xRWFVsa3NnRjBITzhXcG1CSmZpdGMxTnJYeDR6Tzg1VFFRd0d3N3hwWW9GeU0yRDdtMDVpdUZLSkpqLWJ1T0VPTzdIYlhLWWtybUNjVnd4ZmNfV3BiV0dTVktaQnprUXFiSmZPNHQ3c0dKQllSeU1EVHZ5eUdCalhkQ3R2dW9MelBIX3gwSnNPS3JtZG9YdDlZUEdJUXFEZHpFTHozbFYxSWQ2aGMzcTN4UGg3cmZGdVl3amt3UGVGeEdObF8zTHNyQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WTW Rises 24.7% in a Year but Lags Industry: How to Play the Stock - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX0dkOE14WUJReTZwVFEwX3cySThSbGh0UElyS1JhR3RDVDV2bVVROVlxM2hsRDJXVGI4UzU2c0lXYkJQaS1COGlyMWw3dFk1RTNBOE1UNjhhOGlKeG1LZ09qa240UHNJOHdwSk5fX1Y3SkJRYjRTNEoxWTlVVm9zRG96ZXBHbDJ6LW1ySUhwR00wSF9sV3NYNTFMTTBjSVVrM3dLV2ZRSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Willis Towers Watson Public Limited Company (WTW) the Safest Dividend Stock in the UK? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3lRY2huX3VkLVJ4TGdPQ1RaRHVGV0xYSEljOThCU2lUOXN2cE05WWhaODFweVgtb2MtZjNNd05Yck9DS01wRDJMVUFUQ1pyNVJWeXBMWTJZRWdkNHMxbHFSdnZnN1IxUzNxX25pRmpCcFlVWi1iVC1KLUZxWUtUclo3b0J6NVVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Willis Makes Major AI and Digital Push: Names Two Tech Veterans to Lead Data Strategy - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdENqd1E3Uk9jNFJmS2FFcGxwU19xaFZmRkc2ck9kRXYtdWlEUWxTb194bVpUbmpTeU0zd3Q0VjVPSUE2Tm1lcUZFbzdMaVE1TXFBWDlCN3BtN3MwaDE5bm1mSkJEVVM1Y1J3TERwc2s0ZURocldTbGZ0N2s0ZXRzaXlwa0VmQ2o2TE0zREVPT1dEUEQ1S3N5OUFINmU0aFhFNkdVR084V3VNaW0xRi1UZ1FnekdHUDFaRXVEbmVmaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Grant Williamson appointed as Canada Leader for Willis | WTW Sto - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDF4RWNvS2RKenlvQ3o1UzhCWjB6ZzF2UkdiYlUtTXkyZW9pTkF2VVZIQzBaZVZXSmRieGhQNEZ4dTExUm9HTzZZV0xkX2pnWmd6enJaWDBrR0NJRzcwTklUWmZzSlM5dUJsWFhtUHNKZjBwblhpQWRIelRJcVFrelNmREllN1VQcDkxZUJGcWQtelpHcnhTdFFvN2lIcnI4U2IyV1oyRHdzNmI5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WTW Maintains Strong Dividend Program: $0.92 Per Share Coming July 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0NxQncwYkJIdUpsS0tjWjNHUjRRQV9ObkpqWU5uTkUwc0hJNV85V3l1ZUVlZEJWMXBXNXRvOS1IUWxyTWJRTjAzbXBwT3Z3WjFXeWFNT1FGQi1PZUJzZ3RzM3RqcTNrWWdIandDMldyQ0RZT3dQbGQwWDZUNlhSTDBOanQ3amxsUG01Nkdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WTW Lags Industry, Trades at a Discount: What Should Investors Do Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd2lpLTZjclpRdGlicHVCM2taMW1TTk10VDNYM1FYQW9BemhpTjVoNkY0S09BMjIxZ2tiWmdSNEFYSlZNVTJMSDNkNzk5TjRtTUVmeHF6ZFluU295c1VaWkwteUhiaGV6V3U5SHpkZFdOWEJpbXZvT2pmRlUtcV9CQUlzOTd1UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Willis Towers Watson (WTW) Q1 Earnings and Revenues Miss Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tVzY4LXMzdU1RYUFnc1k4N3JqODZIdjhCRkpzbTJScC03cXZLNUZORW4zRThIdzN2azNaOUxNZXRGRzdYNU13QW1kdGd6bGlKREFHZkRuYkpWMzRtUWpGVFpVY1c3V1V1djUzU054cElFM1loc0VNM0xremVfZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Willis Towers Watson Public Limited Company (WTW): Among Billionaire David Abrams’ Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUx0NmdFNkZQY3NyTDljeFAyUTR6SmlqbUtEZy1uWHFPbjRJcFgwbFc3WXVOeEdNdEpVRHJhSld3bXJTNDRteVMwRk9UeThhNUtUMU9ObDVQc1VIdlgweDBEMXlzeVV3dHRueGhqRXhOZTlpMGZmdWxxUFZ3U0pBTWxDVUY5bE83?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Willis Towers Watson Public Limited Company (WTW) the Best Stock to Buy According to Seth Klarman? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXFOazFLLXhyZUN6UW8zTXJKbGtLR0paRDRaYlVieEdwdE5GM2dLVzR5LXN5akNHMHVTcE9vNHRmdnZGcVhRWm5zUUdrby1yRWFPV1pXSERnY1ZJVmoydVRSUjVXamZFOHlXOFk0UDd3QzNSTlgtcERWbHpHYzJmNG1NYkQwUkZr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Willis Towers Watson Public Limited Company (NASDAQ:WTW): Among the Best Insurance Stocks to Buy According to Hedge Funds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmNBUm43RDhlSXE5ZGV5cnN4b0JlN29PaDQ2Z1hMZ2tGMWQ4d2l1b1I5cDlSaWhPZFU1M1I4TThYS2RGdXBER1pkOTJFdHhpNDQ0cnh0aWFsRFE4ajlJZXViYTZlWnQ4TlI1a21nV2pHNzE2bVRESHhKY0gwRFRCQzFNVHpBTTkw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Willis Towers Watson Public Limited Company (WTW): Why Is Seth Klarman Bullish On This Cheap Value Stock Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLVRmNld4VWx3c0N2c3FTWDZmSVV4UHJnOE1ncWlINVdjM3hzd0FOWHRxMlpIeEVwY1l4dzJBd1NETFQxRnE0RUVFOXhPLUVTTmppYW9nTllRQmptQk5yVXBCTzhaUzNHUGxCRFY2Umh3UUhaalZGMnh5WHRMXzRVSTVrQkFURlZy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WTW Strengthens Northeast Position: Former Gallagher President Joins as Deputy Regional Leader - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2ZjM1lCdEE0Y1pudWxva0JERkxXb3VKNzZyejRUNG9Wd3NNdG95T1dySHpoX2xzM1hlUEQwTEVsSUhQUEJSZFUxbE1vaHFYeXZ1aXgxblVnLURXd1JRaTVFaGpSeERmX1lia1BFQ0VxbzlHYWVGc09nZWs3TThacHRISHFwbUdTWEFaT2ZSdEhJREJySzAyVjhvUmxXUkRfTUV0bHE0OEQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What's Going On With Willis Towers Watson Stock On Thursday? - Willis Towers Watson (NASDAQ:WTW) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeEw5cmxjNzB0WDBuT2NjaHc0dGUyZmFfMXRHRGxsVm5uMHBTUWFzQnFQSXh4MDRZUTZ6cnJzWDJjWVFJY1luaHpjaWtyZ1Vpb1U4cFVjeHU4eHBoQjk3MkxYSlVwbGo3aUtfT1ZSMWhBYzFXVjM1SWVrUlBRZEZjd1FVUlNBWDFMTC1ISnNLdDdabXFreTVOVEM1UnFYQzFQbVRsaF9NbHBuMkswVFMzeUpmVQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 320.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 329.06
-      },
-      {
-        "date": "2024-12-04",
-        "price": 332.53
-      },
-      {
-        "date": "2024-12-05",
-        "price": 330.0
-      },
       {
         "date": "2024-12-06",
         "price": 322.57
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 316.44
+        "price": 317.31
+      },
+      {
+        "date": "2025-06-03",
+        "price": 313.78
+      },
+      {
+        "date": "2025-06-04",
+        "price": 309.43
+      },
+      {
+        "date": "2025-06-05",
+        "price": 307.67
       }
     ],
     "current_price_data": {
-      "price": 316.44,
-      "change": -0.11,
-      "percent_change": -0.03
+      "price": 307.67,
+      "change": -1.76,
+      "percent_change": -0.57
     }
-  },
-  "news_sentiment": {
-    "summary": "Les tendances cl\u00e9s des actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Willis Towers Watson sont les suivantes :\n\n* L'entreprise a connu une hausse de 24,7% en une ann\u00e9e, mais cela est inf\u00e9rieur au d\u00e9veloppement de l'industrie.\n* Les analystes de Wall Street sont bullish sur le stock de Willis Towers Watson.\n* David Abrams, un milliardnaire, a inclus le stock de Willis Towers Watson dans ses choix de stocks avec un potentiel \u00e9lev\u00e9.\n* L'entreprise maintient un programme de dividende fort avec un paiement de 0,92 $ par action en juillet 20",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

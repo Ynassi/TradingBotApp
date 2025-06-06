@@ -1,56 +1,164 @@
 {
   "ticker": "GAIN",
-  "name": "Gladstone Investment Corporatio",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 563243840.0,
+  "market_cap": 519407360.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 8.589888,
-    "PB": 1.1285799,
-    "EV_Revenue": 10.632,
+    "PE": 7.9213486,
+    "PB": 1.0407441,
+    "EV_Revenue": 10.372,
     "ROE": 0.13172,
     "ProfitMargin": 0.69738996,
     "GrossMargin": 1.0,
-    "DividendYield": 6.38
+    "DividendYield": 6.67,
+    "DebtEquity": 91.309,
+    "CurrentRatio": 0.477,
+    "QuickRatio": 0.449,
+    "FreeCashFlow": 27582376,
+    "OperatingCashFlow": 16308000,
+    "FCF_Margin": 0.2944884371463347,
+    "ROA": 0.03805,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": 18.831131879284076
   },
   "technical_indicators": {
-    "RSI_14": 72.99482461272709,
-    "Momentum_10": 4.573950591701137,
-    "MACD": 0.4076396901136991,
-    "BB_Percent": 0.9002129283086415,
+    "RSI_14": 53.503909413580416,
+    "Momentum_10": -0.2747130817198571,
+    "MACD": 0.3228982137014036,
+    "BB_Percent": 0.5062662040308521,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9323416361235826,
+    "ValueScore": 0.9330220632463126,
     "QualityScore": 0.5649608295795518,
-    "SignalScore": 0.3258019792770638
+    "SignalScore": 0.5400633191398176
   },
-  "volatility": 0.017635791376207,
+  "volatility": 0.0178495354856702,
   "beta": 0.888,
-  "return_6m": 0.1515455594747892,
+  "return_6m": 0.1026685689695421,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 13.9
   },
+  "news_sentiment": {
+    "summary": "Le marché boursier a connu des mouvements mitigés récemment. Malgré une baisse du Dow Jones due à des données d'emploi décevantes, le S&P 500 a enregistré des gains, soutenu notamment par Nvidia. Dollar Tree a vu son cours augmenter sans raison claire, tandis que PepsiCo a chuté malgré le contexte favorable. Des analystes ont revu à la hausse les objectifs de prix pour Amazon et Meta, ce qui a stimulé leurs actions. En parallèle, Bernstein est optimiste sur un titre du secteur des puces, prévoyant une hausse de 26%.",
+    "sentiment_score": -0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.35,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Nvidia Stock Falls. Why Earnings From Rival Broadcom Could Spur Gains. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZlV6WjZEenk3VDV0eUd2QThVSDhldk9nQ3I4NFhzSlc0eERJRG5mcnJuLXpmVVFVQ3pDZncwUFlTX2ZJT0NLTnIyT3Y1akI5NldONVJrN1ZfZVFZYk5Ubk1fbnIwVHFVUWlCOE1QaTRfandWNlhiRkhwVnVWUTJ6azJsNWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Up 60% in Three Months, Can This Bargain Stock Keep Gaining? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeERmZHc5T2dwWG0tMjRnSi1fTDdDZ25sbGFrNS1IWWdKU0VKbzQxemQ2enB1RUp4dzFQRFhOYUl4ZnFmV0F2UjZHWEpIaS0zZnBZMDJEa214WU1MSmpkRzJ1Nl9tYmF3eGh6VDNHZjJ5QVVpeEZzSW04RklFeFYxREtTU1RFWTF6amgtdFpvMkdiSWkwakhz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow falls, snapping four-day win streak, as soft payrolls report drags down sentiment: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPMHZsY1BydzYwWUgxZUVCSnpmYU1kdXFpSE0zNHJ2RXh2dUUtNGIyWnFvNWZVdXRoaUZ1aEJSaDl4T3pabXFKWW9SN0FDYjlwQU85Tkd5SFEtdExDdUk0bUZranNLdkJEWWsyUlFaYTdROFRQUHc40gF8QVVfeXFMTXhoT0tiWGJWQlB3N3NWZ3VJZG00UzJvNThEcFVSZW5uTkpUdjZ4OVdCSnBxZzVXbGdNbWZiQThhME5NUUc5dzdiQnl2SDczV2hmZGNRaDhTUWxSWXJZNi1zNTgwSWhJN3gydVNPbXcwVzZ1djMweVF2YXA4Rg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "S&P 500 Gains and Losses Today: Outlook Hits CrowdStrike Shares, Dollar Tree Stock Falls - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaURRTFgyYUFsRF9OUXQ1ZmtEM2ExbC1wLU8zdlFPWUV6VHM3OWFtcFZRWnhHckFlVHFzeXpKZC1ZS0FZcXRfOXdTOUVCaVdyRFdTdlZBM2pUdE9ZaHZMQmsxQVlmUVZKUTJoWFo1cUJDcjVRYkx5dXRNc0xFbWptcTFHalYwTzBiYmFhQ2llQmF1LVdjT2N5bU9qd1pyUzRicER1ckpSTlVNWEtCREtpWHNRWmQyMXNkS0o0TDJPcFlNNl9nNjNJ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Enphase Energy (ENPH) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGFvRms0UmY1ZDBmTWpWYzg4dkVvTS1CemNqSzllS3kxTVZnd1pMNE9sclZWTDBJWWdNcHE2MnZaMGk5S3dId1djVkN6OXN5RE9DQU1rZ29aQlpZTjQ0VnBSXzZaUVZIX1dLZy1paVZ6QlYzWFlRWllNSFc0aUVzZmJ1dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Amazon Stock, Meta Get Price-Target Hike From Analyst After Tariff Relief - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcmVDZHNuYjlvOE5HUHpTRHh2RkR1VFVHN0ZvaEJSWlpwVnFSeHliVGtwd0VNNTNMZ2xNZzhlam9kaGQxamlwM1hJeGNzM0FhX2E2NFhSRkVLenlfNl9tR29SSFhvUjktb3V5WUVHcWlLWDM1bmgzTnQxM1d6ZDl1LVlUbGVTWjRLNFFLb2hBU2ZsTXNPWGd5bG5OR2VNeGRz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Stock Market Today: Dow slips, while S&P 500 ekes out gain and Nasdaq ends higher as investors parse weak private-sector jobs data - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeXBNUk1PMHIyRjgzaUF4V21iOFZ0WlVWdDlJTm1kMkZGUDd0dHNic2lHeW0zekJMMzJzX1g4QWdkYU5GUm1BTjJkTFlKNE9pX0pMb0NfWmw3SG5OZm1ETjI2enJaanZTSjBRYmpCamFGVmk5SkZ2WUpIb1ltYUU1RnpMMUhkSzdKUDJHUFdOUi16TXNHU21jcXJDZFAzU0QyTTJTUlNTMy1fYi1oc3VpMHZGanh3NVNfMUladWE3dzRpU1lzcWV3MFZlbHJfbGFhSGpsMw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why is Dollar Tree’s Stock Gaining Today? Here’s the Key Takeaway - Tokenist",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0tMYWlrTG1XUWNxOHZCVUxJM3d6NFRwMHkzVDktbzVBWlZEMVphbEV2YmhxNGtmcGNVdFU1MHFRcXhnQ3Z6cm5OUktyQnJVdHNMM3I5bm1NTjZNZTB4YnIxMllILW9qbTk0YmhudVU4aTFLQjlCY0RtMlBaNlRneEZ0Ymk4bDFURTBmdg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks Gain on US Jobs Surprise as Treasuries Fall: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkt1bnFXcldlY2tnanZuQm51b0c1SzAxbkdrRVd1djJKUkliRGUwLVBJVE9obnVEX0FRM3N6d3c1Y3JkWjMyOGIyMDNTcGM2WlF3UnFvcF9ZNE5tYjk4WlR6RTg2cEZvM2lfLURROWRvOS16ODNtemlselhyNGlNcTk5MHdIbDEtZ2htNVRGcjBza19l?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Liminatus Pharma stock gains on regaining compliance with Nasdaq - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmZlMVRadUVqd05sZGFJZk8wb01LbFhOVnhwcjl0Q3lra3MxQ0xkcE5ycDdtN0dqZnZtNEpzUHVyVGs2S0NOUzlfVjRweEEyemh4c0hXdXh2dzc4VTd2U1R4eG1QQWh1cTk5X1IxXzFjN3RxalJTX2JfQ0pUdXRXT2NqMDBhZTVwdmVoU3k3d2xudzlOcTBXVXp2SGE1a2FMa3ZRYg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PepsiCo (PEP) Stock Drops Despite Market Gains: Important Facts to Note - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenBhQVR3Q2N1dW1YUDBHdG9vbGs1QWJXTDhwX3NONEdYTlBHV2F2cWp1VEI2V1ViMTQwNmZZSi1YZDJLWGlvdFREQUlIc0JVNVdXUGU4MVJ1R2hKVEpEaXYzYlRsVG1mS05qMVluVDVkcy1KNnZlZU1WLUFIamRRc0l0Zk1iX1llaGhBZ2Flb2c5N1hlempGekNWLUE1TkU1?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock index futures gain ahead of more labor reports - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3JuVGZoTXlyVXlNejZDVkNMdEVZMTAxc0l2bEZvbTA3SnFQeDNDdktzMjNHYkZHRTM5dHFzaGx5cUFUbGtyWXZvWmd4RGFVN3E3Q29FdnVST1NNRzN4cXYwT2xjMlN6YUpxTnoxQUIyRkR2SXk3WnNnSDVJUXpTUktKdTZwR19SMlJIa3FpOEQ3Uk1lWi1BNjhNTmZSSUhkQ2xGTkh2SmZDNG9VNmNxanZjVUVwczZyb2QtM3Y4d2Y3STBOVVZwenZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dow closes 200 points higher, S&P 500 climbs as Nvidia lifts tech sector: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yNmZMWEtCbHlqcGc1RVRZdzQ5a1UyZEl1TUE5YVZLU3YxVS1td2dhdHhUUkpkamNmbDQzd1BtMDhBN2hDOUFWMFc1cklINkpNOU9LNllFbFVDWGNpdGFBLVRpMlgxOXpVLVZyTG9fUFNqUkxSN1840gF8QVVfeXFMT3I0Q2RoNC15MGxZZVBRLUoxTzNBV3R4SEJEMUd5ZUNMT29jYXJNWEhLYnFQVWhwSnFTS3h5TDNiWVFvaG9iQk16RFlRMkoxc3Vpa1pkTXl4QVNnNzVNNzVuRlVzWFYwenR3TGJxNjloTlVka0FTTG9hWVBDZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AeroVironment (AVAV) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVjZGalNfaUt5ZWE3OE1SUlRzVVVqdmVsM0NJYnN5NWJEcXdEVHJDVzFwc2x0blBEQnFiQndkZXFuS1lqLWZEUkZrZ0UtTWlxQ2VYWFR3eDB6d3NUd3BYQWtjcFF4cUVla01heE5FMjlwRHZFVkJyaGsySVg5V1lDQ3NGcHJONUx2SjNv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Boeing Stock Just Got Upgraded. Why This Analyst Says Shares Can Gain 25%. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yNE9ZWnQ1Y2Y5bzFvQnBOcHREMmNwcXExRm9YUjFiLWRnaENoYzc4M2wyZkdiV0JfYnJ5YzhoSXB6Rjd5RlFCOVMyY3N2Yjg3dEx6aEZHNWRjVWg2MUpjTU1xMm9PWVZCdTg2SEc2WHlhc2dYTzQyZG9lSV9nLTA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Pinterest Stock Gains on JPMorgan Rating Upgrade, Price Target Raise - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFgyX3dSejJfSE1sQzN5S3pUTGU1UU1XaG5UaE52cUlySHBxcmdLQjJsMTVidXlQYllvMXhkS1ljajUyZjExVnd2b2F1RjIydzlfVUZCUmNTWEtpOGZpZTJCNEdkM09BaVNTbWVSMWFmTHY2QUZ4c2JuOVBvVHJ1T0hFNDdpWkZJTGMzMkl1ekZPRmxrN21ZTGtXb2VDMWZPVm5yLV9wTGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Wireless Stocks Likely to Gain Despite Industry Headwinds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHRjMzlXbGhRRWdBT0VpcnFRYTJ6d3htRUlNM0NCNUVSb3dSQ3JaMjhTM3AyMHhXY1hWdFgybkpjUnRoeFRwNnhMbE8wY3dPU2xxMVI2TW5TMUE0R2VaNkJRLTBjMEE0T3ZOaG12RnRUN1JOUGM5WUY4UTlsVGJ1Rw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bernstein calls this stock the Rodney Dangerfield of chip industry, sees 26% gain - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTlNJaUlVbGU1S1hBMGZRazh3UXdEMElBcEFhTXcySThYaDU3d1U1RWtweDltMVlTLXc0R3RZaWZPby0zbFNUdGNzUjJTVi1RNXRDSGJJZnBXMFB4d0kyUHF0ckhLRlgzRGNfaDlWREM5RWZDXzl4N3QwdU9TOGx4dXJKb0VkSEV3bFF0YlZQMXhUd05OeTFrT21aRGVOS29LN2c2alhCYmw5UDc1OGMycm5ROTRfdms1Ym9rbVc2dks?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "American Express (AXP) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUd5QTUzMzBkaDJvOFp2di1MVnpuTHREZnpHZGhqZ205NkJrb2VCX0RBNG5jMk1Ec1c5eUJlVmd2ODFFb2FYenVOUk9seDZiWmRXZHZDVkh5MlZPVFE2bE94ZGdtM2hjRTBYN3ltTUk4c0NNVWQ0TUdrUzZYSEctUW5BVXM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ares Capital (ARCC) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdm1RamJsUDVpZnQxTDdSTktQLXNlMC1YRHRSSkI1Q3liYlJwdzItSnNrYjdocFdaX3BmbjdXOHFXLTdOY0hUYnNzVFczMlVnaVB3X2Y0cnlpazBxUFNCUmJsZHhxaEFUQWhuZnRhS293cWp6c2FleWFHeUZYaFJaNg?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 13.75
-      },
-      {
-        "date": "2024-12-03",
-        "price": 13.62
-      },
-      {
-        "date": "2024-12-04",
-        "price": 13.66
-      },
-      {
-        "date": "2024-12-05",
-        "price": 13.62
-      },
       {
         "date": "2024-12-06",
         "price": 13.73
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 15.27
+        "price": 15.26
+      },
+      {
+        "date": "2025-06-03",
+        "price": 15.19
+      },
+      {
+        "date": "2025-06-04",
+        "price": 14.39
+      },
+      {
+        "date": "2025-06-05",
+        "price": 14.1
       }
     ],
     "current_price_data": {
-      "price": 15.27,
-      "change": 0.22,
-      "percent_change": 1.46
+      "price": 14.1,
+      "change": -0.29,
+      "percent_change": -2.02
     }
-  },
-  "news_sentiment": {
-    "summary": "Boeing stock was upgraded to outperform by an analyst, citing potential for growth in demand for commercial aircrafts, while the stock market recorded gains on the first day of June. Some trade deals are close to completion, according to Treasury officials, contributing to the positive outlook for the market. A software stock has been recommended to gain more than 50% after being held back by macroeconomic concerns. Wall Street closed with modest gains, while the dollar weakened due to trade tensions. BlackRock and T. Rowe Price stocks sank as the market gained. The S&P 500 posted a modest gain to start June, with investors shrugging off global trade tensions. 10 S&P 500 stocks that histor",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.6,
-    "neutral_ratio": 0.2,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

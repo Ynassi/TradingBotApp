@@ -1,56 +1,164 @@
 {
   "ticker": "NOK",
-  "name": "Nokia Corporation Sponsored",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 28565252096.0,
+  "market_cap": 28969476096.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 21.2,
-    "PB": 1.3755516,
-    "EV_Revenue": 1.384,
+    "PE": 21.5,
+    "PB": 1.3950169,
+    "EV_Revenue": 1.437,
     "ROE": 0.05712,
     "ProfitMargin": 0.04091,
     "GrossMargin": 0.45022,
-    "DividendYield": 2.72
+    "DividendYield": 2.62,
+    "DebtEquity": 24.329,
+    "CurrentRatio": 1.361,
+    "QuickRatio": 1.104,
+    "FreeCashFlow": 1425250048,
+    "OperatingCashFlow": 2316000000,
+    "FCF_Margin": 0.07436346210109893,
+    "ROA": 0.02713,
+    "PEG": null,
+    "EV_EBITDA": 10.988,
+    "BuybackYield": null,
+    "PriceToFCF": 20.38261351877534
   },
   "technical_indicators": {
-    "RSI_14": 56.14165784170291,
-    "Momentum_10": 2.119463050127896,
-    "MACD": 0.0780814027225007,
-    "BB_Percent": 0.6638948619948847,
+    "RSI_14": 58.95997056518481,
+    "Momentum_10": 0.6554278354308215,
+    "MACD": 0.08040222656654,
+    "BB_Percent": 0.7393890093789098,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.932693564978701,
+    "ValueScore": 0.9295948390713362,
     "QualityScore": 0.443791884587039,
-    "SignalScore": 0.4336165111877931
+    "SignalScore": 0.5052915576378074
   },
-  "volatility": 0.0204645703333774,
+  "volatility": 0.0202740575945472,
   "beta": 0.596,
-  "return_6m": 0.2820846561371426,
+  "return_6m": 0.2879611278197378,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
     "target_mean_price": 5.83333
   },
+  "news_sentiment": {
+    "summary": "Nokia (NOK) a connu des fluctuations significatives de son cours, avec une augmentation de 50% suivie d'une chute abrupte, suscitant des interrogations sur sa valorisation actuelle. Malgré ces mouvements, la société a renforcé sa position en Europe, avec des partenariats stratégiques pour moderniser les réseaux de télécommunications, notamment en Inde et au Qatar. Le récent programme de rachat d'actions de Kongsberg Gruppen et l'acquisition de Nok Nok Labs par OneSpan visent à renforcer la sécurité et l'innovation, offrant un potentiel de croissance à long terme pour les investisseurs. Cependant, des cessions massives d'actions par certains investisseurs institutionnels pourraient indiquer des inquiétudes persistantes sur les perspectives à court terme de Nokia.",
+    "sentiment_score": 0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Will Healthy Momentum in IoT and AI Applications Drive NOK Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTNlTWlvVTNXZ05uck5KYmVQaVUtUXlBWGRwVzRaWmlRRkZWUkhpdVZIY2xtTDFUdnJ4eEhybVhiTzNVN05BdTBEMUJsMHR1ejJieldLQ0VpYWo3UGJidzBiek5JQlUxaTRERGRRVHhvSmt5TzZCYXRfV2lmXzAzMDJvNzFmMGlHUEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Summit Global Investments Lowers Holdings in Nokia Oyj (NYSE:NOK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFVMXzhLaEwzMUppMXl3WHNPUzhlUXY5V1R3UjIwQlBUZkJVTGd3X05hd0pIcHVyMFRTVFI2QnVKZVh6S1NINmZvcDlMRzJ1WGs4RkNaNkpjQTVHR0IxazM5Yzd2Q2xOd3gxakhRV21tYjJNd2NqQ3diZF9rSkhvbVNfR2tGcjNjZC1tUXpQeU5JRU1FeUExeWhGR3daRzd2ajd6WnlPWVlsdlF2eVNpdlM3XzhzenFPSHVIUjBGUWJteFJ2U0ZxV2p3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nokia (NOK) Price Target Increased by BofA Analyst Due to Networ - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnZEN0MxMEhNejlsSTdmSUFSYjU0bXlaUHZwV1NIZGk5Z1ZUS2ktN24tN01tSnNUcEg5aERYT0hRZXhQbERJOE42WXhLTHVxTmJqQzNZelZSYWd4Vks1Wl85SUFfU0pCdWZEU2l2XzRYaHMxS0tWLVE4SlJ1ODZLdWdraXlfNFdwaXpJMTNmS01pZ0ppZF9QaEwzOV9PSC04dDNfeVBwT2Vmc05JWlFoNU1KU2NXYWo2bUdKYkRhaE1PQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Nokia (NOK) Stock Undervalued Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vNERNeGRDZkxIT0JzX2FYQllEZjFwNl9PSldFN3RVd2RHMjVxMF83TEt5RFp0RWJCa0V6Z29SZ0kzSE45cDdXUTVkYS1FYnFYWjBhV3cyX0ZKS2ZCdGtzTEUwLXFicmo5My1McU5LVDlzelN5Yjc3Tg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Is Fueling Nokia’s 50% Stock Price Increase? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVGItRS0zcTAxSE1HN0p6ZC1BYlc4Sm5lZWk0bzh4S01RTzFnTjZEQ0JuSG9Fd2JkSnVXeUp6STE1bXotUmN5S2NfYjJNNEtDY2p1XzhZYVZvN0hmQ3BhWW9RQUtEeVpZNVlHNWE4elRXc0ZsWHE5N056b3R2aHdZZW1JXzMxY2RFOVJxTTJ2ZVJqbkxhc2FtYTFWT3ZUU3oxTHNBc1JHYXdrUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kongsberg Gruppen Initiates NOK 360 Million Share Buyback for Employee Program - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3hsTkFWQ25KNi1yQ0ZZMGFvM1ZYOFJ0akFTYkt2SlFRSjRNNFpGVkZMa29iTk9nd1MtMGlWLVBjVF92T2ZEdFVYaU52TDJwd04xX3FyZy1vTDdYb01RUHlWRHRuamwxeVJKOWNYOEVCdXphdkNOWlVVb1VUQnlLQm1NeEF2SzhlYWdjVGtPVTZ5MTIxbWNIS3h1N2xmSTZpazl4T2VKaVpQb1k3S2t3N3Fra1FPR0tURGV6RmZ3Y2RmNjAxdFZjNTl3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Nokia Stock Is Plummeting Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzlsemJvbnVkb3J4WjcxZ3hudWVFemRTSFpGVTNBNDVxTC0zN0RNdTI3aHNPRTB6d3o1QVdYbnVWZ253enFEWlhqZGpoS2ZIaGR3U3BpRjRWLXk0WmtyNVd5eUlnTUNSU1ZydDJTcTB2dXlOdnY3T0JSMW9WdUc5RmxQNmI?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "OneSpan (OSPN) Acquires Nok Nok Labs to Enhance Security Solutions | OSPN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWhORFNkZ1lsWTIzN1RxTVVRMlhZLUY0WTNZVTlqT0FOVW12ZTd5bjNFeFEwTXU1WDFXM2JHUndjaG1uSENFUDJGTXRvUUtabUwyejlvOVl4SC1vQWNGWVRJb1lPZUMtZHNNSjRPLUNXOEVpLXFPbzh6SUFrMnp4bUNYSncxY01pRW9CVjlHVU9kY0sxYWxEdWxqWnplXzdfQjlQd2tRdzNpa2EzLUZNQnhjYVR1b3NkWDhrag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GTS Securities LLC Sells 161,917 Shares of Nokia Oyj (NYSE:NOK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmVkc250TnJObEoxZlR6VDM2dWEtcDl6VVg1SFFQVl9uSkpKOUh0b1lyV1gxYlJUaHRGWnVXTXQxanJsZlJXQnlVdXZOREZFcHpZeEthZXB6NlhnQkh2MS1fUjZpS2VCemZwVVdNU0hjblpDWlNkWVpHLS1yRDBwcWp0WnZQMWRMcWVFbVJsVk1ySW5pTDFET0ZBdVNHZzJ3a25fdjFnRTNPb0tzYjlOWURGc2Z3dWxpeU1TZg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Nokia Oyj (NOK) The Best Stock Under $10 to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZYXo5R0VMSFluNmNLZFdVTDVqc0hoRFZ3el9vREdQS0VrYnpIUjFpV1BpUzhXR1ZtYnJqYWxZclRVbFk0bGdhUTJ5cWxaUFRWZVBBM2F2Y1ZGMWZyc2p3bEUtMHVsS2JtSHYza19UVEV3anU5aEE3MWV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "OneSpan Accelerates FIDO Leadership With Acquisition Of Nok Nok Labs | OSPN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFo4dktwTlVvRkZLZEVaYjBiSHR1QnlLRTlFNUtmNjNoZkxvSVd0M3NCenQ3aktmSVVJaUtMck1vMW9GVl9QRnllbGZCSU4xSUtJc1dldGY2Q3hWUTB0RmtCanFyTnZNWTlyZlBuaFRCWFhfNVQxY2gwdERMd0RlbGo4V1RBQU1nSWZmajAzQjZ2aUNiM055dFdGNjl5T2ExLWg1MWpLWEhEQXdORTBLQjRZSXN2QXJ3UThQdU1PUm1Xdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nokia Oyj (NOK): Among the Best Performing Stocks in Europe - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ocElKTTVhSWd3a3RMcHZ2a3gxR2wzR21FRjNDUkVzMXB5YkNqWHJ1YjlpVGRsRjQ4WDJ4X1IzVmdQRFVmOGx0QTYtNk9DcEVNSGV5MkVJV1VXbV8yQ0pDMEZWS2tJSHRVdzlxNHUxNktVd1luZ0l2MjN3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ethic Inc. Grows Stock Position in Nokia Oyj (NYSE:NOK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2xpMGVpQTFsMHJhWW95d1JVSi12UGZNY1NQNUdNaV91eTNHWkRxbnplbi1wbVYzUUU1LUY3andaSWxwcDBKdUJNanZ3UlFrT2VGdTIzZHhBald6VTlaQThqZVhqM3J4bkg2bmp3Vi1uYUtHWHNqWnhPVTRHYjVBSDJQVkVnaXBELU5zd3U1T29ra1ZPcEp1TXNBdWluVDdQdVVuXzE3cm90QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nokia (NOK) to Lead EU-Funded Technology Project Proactif | NOK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVzUEdjQkZrN0JySWVIaURxYlBDU185bGt4Z1dpb3V5aWVYMW40ZVk3ck9PR2NnR2RWc09pR1o3WDloSmdoSlMxbUZjTExkTW1sNlM2Y2lVTHV2N3BtQWd4bGNlcHBMOUlmbHJWLWtRWUQya2RSNFJIejNGazZ6OEotY3N4Wk1kY1h0MjRvLUlQNzRNNFg1WWl3MXhUS2FPWXUySnR0NlVsN21o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Buys 272,000 Shares of Nokia Oyj (NYSE:NOK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSDBRMVhrNjgxM3BjajBEcllxQ3dEMzVzX1UtYmx1Tk5kSldkQzFQT280VHRtTnRnR0NTem42TGJLbFdXMFBjTnh3MDNGR05URkl6OVZ1WWkwOHFMR1A3N1ZDelBobWRPUHlwR0FtdEVkdUdxM3pCV25nZ2RwSmNJaUpqU0wxNXhwaXhVa1dfR05VOUY1ZmN4UzZrUEVfcWdBVWZjUjNERURhVzFsc01oWDdnbFpFZVpGcG85RVg5NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nokia to Help Upgrade India's 5G Infrastructure: Will NOK Stock Gain? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fWGxvWnFHejNBcUFSZTlaall0RzkteUVLTXRqa01aRjhqSjBpZHE2V3NkOHczNS1fQkFFOWduLTJiaWlKX3p4SmI0Q2FpSEg2T1l3SU80a1ZkYXZSeWQ4UW1TMUI0T1puYm1BZWZZNlExRktlWENwVUJYaktMMjQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nokia (NOK) Partners with Vodafone Qatar for Network Modernization | NOK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnVpenlzXzFTSEs5em1fYXhfQ2lPeFh3bjJDMGRVVDJONTVDdUtSN0hrUUtWNGE0SGl3T0EzMk5xeDBJR04zZzZIOXUxdGh5ZTdsSmRRYXhuLVBMdEE2Z21fTmlURlJRY2xiM3VjRjAyaFRMY01JbVpaTmt1X1V5TVlNLV94QXgtUXYxR1VEdklEQ3NYbU8yQVNlTURBaXpSTXpGUjA2RUg2T0s2UGpSdUZMaTBlM0JrQUtr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Centiva Capital LP Makes New Investment in Nokia Oyj (NYSE:NOK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTdoZnhTYXdWZzRmNUMyMVlSMlgxc2lCbnJTdUZ5Xzl4VU9GdTFVMThGWXpxdmF5UTNpelVWRnRRX1hEY01QbEM4dlAxbHFxUGo5Z2VURDZRdXNmd1piWVFaaVFhWlBfNEtINE1FWEJCcTZYU0J0bTJic1Y3WnYyanZMTFRvYUNWTnZZQTByVU82dF9YRUlUSGtlXzdmTWw0U01pMHBIeVp0eS1uZDFMQUp3MDEzejZ6enc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nokia (NOK) Chosen by City of Elberton for Advanced Broadband Network | NOK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHZBbDFrTVNuWkF5alJJTHN0Q0ZBblZ5MWY2VTlzbG13bnlMblZOT3lqTk9UYTVvZm5OUDYxeTVJNlp0MTV2bGYwTFNsV2lkRnB4dlB0NUJRNk5NZkxGZnRHQ2w0NUxJcEdoeXctUTIwTVRSdGZxd2g4VFlSWnpCR2tGa1ZUU2ZuQklpX1lkZk02TThBanNNRnZNYnJLNE9OcVVPT1dlWG5LaUJrTGxOak9PWlR1blRwLTd6TlhUNDhuTHdHREF3NUprZE1hZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arva AS: Successful Issuance of New NOK Green Bonds - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXYxNnFrMF9nRHYyWGlqd0VpUm8yeGF4S0pBSGZNT0RfVmw0SGM2eVRVNEZVTlR4V3dSbldRN0ltLVBzU1c5Y1NIV2kwZjd0WXdMTjBjSHZjbUtTbEdtakhJck5scm5OMGtaVUVHaWxXdVRRYkJ1UXlmOGZZQ1lpWlFZYzVMb2M5VkYyRjhzZzZNc2ZMNkVoNmJ5VXZsbnVBYUtveEF4bVFqNXg5RmlaLWJSU1p2VDhRY0kwbF95WGp2UjNx?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 4.2
-      },
-      {
-        "date": "2024-12-03",
-        "price": 4.23
-      },
-      {
-        "date": "2024-12-04",
-        "price": 4.17
-      },
-      {
-        "date": "2024-12-05",
-        "price": 4.31
-      },
       {
         "date": "2024-12-06",
         "price": 4.24
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 5.3
+        "price": 5.31
+      },
+      {
+        "date": "2025-06-03",
+        "price": 5.34
+      },
+      {
+        "date": "2025-06-04",
+        "price": 5.41
+      },
+      {
+        "date": "2025-06-05",
+        "price": 5.39
       }
     ],
     "current_price_data": {
-      "price": 5.3,
-      "change": 0.09,
-      "percent_change": 1.73
+      "price": 5.39,
+      "change": -0.02,
+      "percent_change": -0.37
     }
-  },
-  "news_sentiment": {
-    "summary": "La synth\u00e8se courte pour l'entreprise Nokia Oyj (NYSE:NOK) est la suivante :\n\n* Nokia Oyj a r\u00e9duit ses titres de stock de 10% dans le cadre d'un programme d'achats d'actions par Summit Global Investments.\n* Nokia a \u00e9galement proc\u00e9d\u00e9 \u00e0 des transactions de ventes d'actions pour le programme d'actions d'employ\u00e9s.\n* Nokia a form\u00e9 une alliance avec Vodafone Qatar pour moderniser son r\u00e9seau.\n* Nokia a r\u00e9ussi \u00e0 acc\u00e9der aux 50% du prix de bourse d'une ann\u00e9e.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

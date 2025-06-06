@@ -2,55 +2,163 @@
   "ticker": "CMS",
   "name": "CMS Energy",
   "sector": "Utilities",
-  "market_cap": 20971583488.0,
+  "market_cap": 20774160384.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.742603,
-    "PB": 2.5853677,
-    "EV_Revenue": 4.922,
+    "PE": 20.547337,
+    "PB": 2.5610294,
+    "EV_Revenue": 4.902,
     "ROE": 0.11234,
     "ProfitMargin": 0.131,
     "GrossMargin": 0.42615002,
-    "DividendYield": 3.09
+    "DividendYield": 3.11,
+    "DebtEquity": 190.138,
+    "CurrentRatio": 1.059,
+    "QuickRatio": 0.568,
+    "FreeCashFlow": -1015124992,
+    "OperatingCashFlow": 2414000128,
+    "FCF_Margin": -0.13037824411615917,
+    "ROA": 0.03091,
+    "PEG": null,
+    "EV_EBITDA": 13.622,
+    "BuybackYield": null,
+    "PriceToFCF": -20.43222005118361
   },
   "technical_indicators": {
-    "RSI_14": 45.873501386461214,
-    "Momentum_10": -1.9448710870397865,
-    "MACD": -0.6090867899492878,
-    "BB_Percent": 0.3733569246692678,
+    "RSI_14": 43.17518549267105,
+    "Momentum_10": -1.8937308180196464,
+    "MACD": -0.5406045024575548,
+    "BB_Percent": 0.2855385629425536,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8846248105474439,
+    "ValueScore": 0.8817222608766088,
     "QualityScore": 0.4331956465985112,
-    "SignalScore": 0.6535101653521158
+    "SignalScore": 0.6423475967562589
   },
-  "volatility": 0.012160396478723,
+  "volatility": 0.0122494037399734,
   "beta": 0.379,
-  "return_6m": 0.0410413693768549,
+  "return_6m": 0.0466282759052842,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 17,
-    "target_mean_price": 74.90235
+    "analyst_count": 16,
+    "target_mean_price": 75.27125
   },
+  "news_sentiment": {
+    "summary": "CMS Energy a récemment annoncé une restructuration organisationnelle et une offre de rachat de dette de 125 millions de dollars pour soutenir sa stratégie à long terme. Alors que la société prospère grâce à des investissements stratégiques et à une croissance des énergies renouvelables, des préoccupations éthiques ont été soulevées concernant le Dr. Oz, qui prévoit de vendre des actions de santé une fois confirmé à la tête de CMS. De plus, Consumers Energy entreprend un projet majeur de 182 millions de dollars pour améliorer les infrastructures à Detroit. Ces événements pourraient influencer le sentiment des investisseurs à l'égard de CMS Energy, notamment en raison des questions éthiques entourant les stocks de santé et des améliorations importantes des infrastructures.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "CMS Energy Announces New Organizational Structure to Support its Long-Term Company Strategy - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNajJVYWZCV05hNmF1UmUxYUR1ZmQ1RnZpU1lQeEtCbllrdFBmaV92SklTcGx1NXZ6SGVqZlB5OUk0cTk0elgzNWtkaUdFbUl2eDJDV2JVQWNFQ1NLR054SXpIUWZwYzFJR0NRZEVYckFHTFA3UUlLUGdYVUZPalJFYWtLaE5SQi12d3drdG10Q0g0Nl8zNWhWNDk5T0J1N2dSeV9QcXpGQy12Rlo4NG9DZURQUUY1QzF2bU9RT1VYcml5V00tSEFoX09MXzlZRHlnRlMwNklicV83Yk16YVptdg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CMS Energy Announces $125M Debt Tender Offer - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVVV4QmJybDZraEpaSkVJS0lybDF4bnpGdHZHZWliX1dFWmZZWG9JUEJRWnQwMHJzTE1SWXBpWVBBaWxWbFo4dEQtT0dDZDdBZEVDTXlHUEc3Wjg0VVdIdWllRDBQbHpLWGVHQ21JUzR5aHJ4VnNBU1prT3BfUGtsSktaVWw3eTlBeEJSeVJldGU1Ti0tVDJ0alVBMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CMS Energy Makes Strategic $125M Move to Restructure Long-Term Debt Portfolio - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDZJemo4ZGVJWFJPWjdpTkxUWDhqUEpZR3gxYWhHa25laXBkUTI3elotRWxzYWxvUFpwNzROUkZTLTlXbHFvVjJzSldxUE5Db1VyVnp0TGR6WEUyZW5JMXgtUG80OFlwZTg2a3pYWUNDcmhYT1d5TmI3ZkhxNHJMWU1PNGE1T2ZjeWVJekFJVVo4d1RvdndzeVVMY1RaaS15UjdhN2pHUmZLdzBXSFI0Q0xMOEdMVllaS0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CMS Energy Launches $125 Million Cash Tender Offer for Consumers Energy Bonds - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZndqV3hVVEpNMWxSeHo0QUtTeUxxU0xTUl9SdWszOGRiaVQzcExoT2Y0LVdEZzdfY2Z2VWJaVzhtc0xfYWVTaWEwLU52cTQtQWNWWHQxMVVucFBwbUJvXzJiU2pFLUdLbWJ5R2prOU5ZQ2hBX2NPaVBMV0xPWE9YZXJKQ0xOb2NZdjl1azhiWVlqbHFIMjVIZDVvRVJyMklZNHBjU3ZwLVFYTWhZNjNPY1FvSTRQWkJKTlNMZzN5RVBWckE4eVVSRXBBeDNJTmR6TDBjOFZKRWZXSUV6SG1MSW13ckhFdHR2Wk9oUC14blg1dktIWUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is CMS Energy Stock Outperforming the Dow? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZcnNsRXhNaENYSFIxeW1JZFNmb0VSQmNTVk9VS05PVzBWY1NtN3BscjRJT0R5d29xSjFmTEgtOHhUNjRLU1Vta0tSM1hLN0JiRllEYVRtX3ZGeFN3b0tvQ21sR3VHXzl0NU1fTk40VmxrUFRX?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Humana, UnitedHealth Stocks Fall. It’s All About a Medicare Crackdown. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSl9QTFQ3SVBONjlYY3FSV0pJSVBoamNpWC1DbjZNaFNqaC1LLUhnaWVwVkUxZVI1VGNUREhTbG9VZjVfcmh4OVlob25rWDVPU1RCZzdTRUdnenZoM2lSclZPWjFlWVhKYUp4Z2NGeVZYMW1BSjJCLWRxSmsyV0o2cVRVb2E1cUNsWnVuRkU0VmZTLUd5NGVz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CMS Energy Thrives on Strategic Investments & Renewable Growth - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzlpcjAzeTJNZjhockZOMWllcV9nczJHdWdINmJQaGtKX3pKcHVPdjczRi04LWhwTFBaaHIxZkZZaW1BbG9YdEIxTERmMXo2Y3lFc2xGWWtoUjJjWGJTUldyZ1FsSlNrT2otcld0Q2tnNjBhdmRuNjVRRExIQlVkR0gxWHJ1OTlIQzZpY1Y2U0VOY2hEcUhJc2pDeGZqdUpfNWxpRTZXaGI0cG1ib0Z5d0E1a1lTZEJtVko3YUhWY0plUXZsRDBPemttaGpNcGszMXhsTkUyUjNxbFJNWnVNNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "10 stocks for a high-tariff world - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGliNS0zanIwdTVCdXRsQWdza1BMN1BpVWNIbmdvMDBLSlpXSS1VbVNINmo3VjlzZEVGdllBYWVQUzJpck9DS1ZDb3V2bVM5ZjFFQ0RRNmRackRDOF9aZmUyNnpZakE1ZXRZYnlnQ3M0b0tuR0xnQ3B6NUE1LUN3T2tn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KeyBanc maintains overweight rating on CMS Energy stock - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdDhkbUxzQVZpeEVPX3ZRV2d0RDN2TUtkWTk0UFVjT0tJVEUwUnpmWTAzMG1EalhaMVhlQlQycWgwd00zZmloVU9USkZNZmhQaU53LVNQMllVRmYwX0l4T3pTaElpZ08xcXhteDFfN1d1Z0JYYThCQjRfaDV3V21FaU5oNjZ2OTJjNURfTF9yM0FOdnBFZGJwZF9BaDdHZEw0NkMzMGlIM1luNHJObFhjQkV1TDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dr. Oz vows to sell healthcare stocks once confirmed to run CMS - Fierce Healthcare",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUdPa0V6X28yU1Nla3lkTy1oVXRJSk04NXJBSGdCV19wREc0OUh4NnNpYUU5M0N0TFJXYk5MQ2FoMUJadkU0R2c5X1hmRjRkRERyazNYLTBZOHhUTzhUajh1WmczZjNXZmp3MWphcjVvczZkUjU3SGZIa2J2QjQ0LUNVY0ZEbS1mSzNHR0RKZ3N6dldfRk1SWkVqUHVPWDVBR3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CMS Energy Declares Quarterly Dividend on Cumulative Redeemable Perpetual Preferred Stock - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ2NzcjhPN0dya3A4QVdyTG5PS3ozWVc5aG84STFRQWpwNlNVekluZmxZQ3JyTnppVmZJZ3lqR1J6Z2lxTkNyemQwU0c3aTdiNmhWakpKdmFlYlczZUpoLTV2aG5JVDNqV0Q3YnJ1VTZlbXA2aklmODRLRlk5TEN0NG5RTDNLcG1Uc0ZIZXpqNURWQkdodk16Z3ZOWVEweDdEYWRvVFcwNzdXWjZ2ZFpxYmVtajF2dzVQRDkybG9GRm1peWxqWHVISDYxb2ZmSlRJMWk1OVo0eVZXQVlZLWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dr. Oz plans to sell insurance, hospital, and pharma stocks, step down from supplement company if confirmed - statnews.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZVhFM1k1OFJKWmE5ZnloQ3lfZ09qRU5mU251VXhRX0Fqc0t2b1Q5UzVDUjZac29GVW1QR2p1NVhxWDdVaDBfUlJLc2YzOEpiZjJPVnVZdVRWaVh6TEF0UVdFV0xtT0RVaVJyeHdmdmtKM1ZxeTZDZGlsWllpdWlOS1g4aWhZY194a0lMOWp1Q3N3NmdMcmljeDhlaXNiTHhZT0Rta3BKU1FoVGJOdmdmREN3YWVRWkZPZjVZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Democrats question Oz over Medicare Advantage advocacy, UnitedHealth stock - Healthcare Dive",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXRCX0MwWGhIMU1rOV9hMWhzUUphRVF1c0NtTVBMNXE1dm93RUJGNnZrM3Bab19oSFFjYThIUFdxNmhZeWVOTjlFenNOQ1M1cFpkTl9QeXRJMG5NUTVvVkw2MEdmYnZQYzBMSkxGYUp6T3lsZ1ZnclpXZ3J1SElNbEZOVENWZW1DQTI1SFNxWHJvQnBqUi1Vb3phU2c2RWctVTBtTm5pdjMzVXJVZGJOdE9PTi1zT3RDR01obktn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IBD Rating Upgrades: CMS Energy Shows Improved Technical Strength - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUtRdlpnRUhlRkpOU1RYckE0MFF1YzhYMGltVVRHYndlYjQ3eDRfaE1xRnlfckJTdlhCMGZqMzJZaU9HSXlnRHBvRWVKUTFmWkRxRjhVRkVmbE1uQkhHUnZZMFZPQjgtTHljb2g4TS1wNjVOcmMzQzNXRnFoaFpUc09qSGNrcklwMGFrdTllUTQ4ZGs3TWFTV3lZMUtwMmtQSWNPdTJDYW1NTlh0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Do Dr. Oz's Health Care Stocks Create a Conflict of Interest? - Money/ US News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWxXWS1kMFN4ZEtWQkNnMk1QS29rUG15UEp5QlNZM1VjY1AzYlJUdTNKOFVpeUVYc2Y2elAySlR0V05rNTIzNmx6OUlqTTZ2aFdYbXVaLW8wSktzZm94cVptU3I4QTV6NkRMNWotMkEwVGo0RUJacTJEX0t1R19CN0lxUU5CMkR0dUx2UzY3RzZfMFBDMTRSYldqRkkzcjVYd0pmRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What to Expect From CMS Energy's Next Quarterly Earnings Report - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMG01R1pjUzZoRHB6MHI2bEJQbVJxNXZLLTNJUVpVNkw3dmkzLUw2dk4zNDQzbVZLUFViejRKSkplVmVIMkxZSFVZWm1pdHM4cG1KdWotTHd2SG95cXRZSFNKVlcyczQ4UGliR3Jja1Vtb3ZVbl9JTmJlWGxOZnVicmJCQThtemVGQmYyeENqbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Infrastructure Upgrade: Consumers Energy's $182M Pipeline Project to Serve 750,000+ Detroit Homes - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDE5SmpIZ1plMTVhSExTQ1Z1UThsOVZaTVlubkJacmpjcG9QX19SWUVLX0tacVFlZmVZZDI4azBrcDZCWXNoc2dqSXRpTGFDekRyUnFaay1MNEJBNzU3MmZrOVFEZlppNG5IVHhLbC1oeVVuRkhLdzFXR3pSSldGcGR4OGhTSnJvaVVDUVpSUDZJU1g1T09xaUFvbHhybW5tcTliZ0RfaHA3SkJoV01UNXJ6bkt2MkJsTnZjZnJn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CMS Asset Management (HK) launched CMS Hang Seng Tech Index ETF (Stock Code: 3423.HK) to Capture Growth Opportunities for the Technology Enterprises in China - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNZW4ycVZKTGl2a05faTltLUlxMWI3cHUtMUU2YWJ5NDUwb3NSLVBRY29kUWxRZ09RRzR6amNLQ0JFQ3RJck9yT05yekt0b3FhcmpjVTNWRXN3ZzhKWmNMaUdnbkFFdlBidXB5d0I4T1pzWlh6ZzVkNV9PZEQzWU9hcVBQdDBWaGdsRmRHRjJCQ3JISjZnXzNfcXUyZmRkVE8yVUR6a1FGWWplVnlzc096ODh5V183NmJmeURtcXkwaG4zX3pkOUZDVGZUbkZVVUVkSVMzNnJjelBXWEdncl9Uc01rX0h4SFg1d3FTQ0xnYjNZaVRtUmlpM2xNcWdETmpEWmpVZ3I5YlRDRGtCX1E0eG1paF8wbUM5anFMMHVKc2xWOWw4WUQzdUtDR3FWYmxlak1Ma2hSUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Halozyme shares tumble on downgrade and CMS draft guidance By Investing.com - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd3ZBclA3RkVYMXRSeXh4OEpibEZ3MnRsQk0xRllsY05GSS10SHBscWctRkVjcDhNTUU1OThCUE9JMUpEM0tKNkw5QzRZOEhVc05ZeWdlLURkYVBkWHd3eFozOVpxUjlONTRqR29lTGhkVFNHYlJWMmVsaGhaMUNKQkcyUDZwN0FISjJQU3dqbnNZSFEydmh5aXk2V05WcVlBM0FGVzhidUtoZkFfU0RVcG1la1VMbGp4TndB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ethics letters for Trump's picks to lead Medicare and NIH show they'll divest stock - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIzV1BCaE9NNlhSWGRaaTJiZi1rdnpTVEtnZzVRVmRBQlNBeGtKa0kyOGxWM3NkaEtncktSOFEtRzdFQzRQVjU0UVc5N2ltNGkxeWQ3VzBhalpMWkVuVjVHZ2Y0QUd3dFNfSFo4TkR6SWtHNjBhRDNFS0Zfc054NUlKY2hoeVZUcjJDQTRmU0laY1NrZllDbXZZUXA5S0hpaGU0QXlCWlg1d0dYZDhBamNTRTU0TU8t?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 68.4
-      },
-      {
-        "date": "2024-12-03",
-        "price": 68.25
-      },
-      {
-        "date": "2024-12-04",
-        "price": 67.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 67.38
-      },
       {
         "date": "2024-12-06",
         "price": 67.17
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 70.15
+        "price": 70.22
+      },
+      {
+        "date": "2025-06-03",
+        "price": 70.92
+      },
+      {
+        "date": "2025-06-04",
+        "price": 69.72
+      },
+      {
+        "date": "2025-06-05",
+        "price": 69.34
       }
     ],
     "current_price_data": {
-      "price": 70.16,
-      "change": -0.06,
-      "percent_change": -0.09
+      "price": 69.34,
+      "change": -0.4,
+      "percent_change": -0.57
     }
-  },
-  "news_sentiment": {
-    "summary": "La synth\u00e8se courte des 15 titres d\u2019actualit\u00e9s \u00e9conomiques r\u00e9centes concernant CMS Energy est la suivante :\n\nCMS Energy a enregistr\u00e9 des r\u00e9sultats bons gr\u00e2ce \u00e0 des investissements strat\u00e9giques et \u00e0 une croissance renouvelable. Le groupe a d\u00e9clar\u00e9 un dividende pour une valeur totale de 1,125 $ pour le mois de avril 2025. Le Trump administration a ordonn\u00e9 \u00e0 CMS Energy de garder une centrale \u00e9lectrique \u00e0 charbon ouverte pendant l\u2019\u00e9t\u00e9. CMS Energy est en attente de ses prochaines rapports d\u2019\u00e9arnings. L\u2019IBD a up",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

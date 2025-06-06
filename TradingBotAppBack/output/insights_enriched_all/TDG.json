@@ -2,55 +2,163 @@
   "ticker": "TDG",
   "name": "TransDigm Group",
   "sector": "Industrials",
-  "market_cap": 81625964544.0,
+  "market_cap": 81274355712.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 48.997643,
-    "PB": -14.408071,
-    "EV_Revenue": 12.533,
+    "PE": 48.720875,
+    "PB": -14.346007,
+    "EV_Revenue": 12.401,
     "ROE": 0.24987,
     "ProfitMargin": 0.22663,
     "GrossMargin": 0.59764,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 3.09,
+    "QuickRatio": 2.003,
+    "FreeCashFlow": 2083124992,
+    "OperatingCashFlow": 2080000000,
+    "FCF_Margin": 0.24834585784174293,
+    "ROA": 0.11237001,
+    "PEG": null,
+    "EV_EBITDA": 24.434,
+    "BuybackYield": null,
+    "PriceToFCF": 38.9476457954185
   },
   "technical_indicators": {
-    "RSI_14": 58.65118980847312,
-    "Momentum_10": 2.1149950221334297,
-    "MACD": 21.78512252739029,
-    "BB_Percent": 0.7479546117731567,
+    "RSI_14": 55.86966860136533,
+    "Momentum_10": 2.5873985579545717,
+    "MACD": 19.032957882727715,
+    "BB_Percent": 0.6463018635202573,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8651721926051703,
+    "ValueScore": 0.8625189606206826,
     "QualityScore": 0.3912452308219079,
-    "SignalScore": 0.5573997019363066
+    "SignalScore": 0.5453686939147266
   },
-  "volatility": 0.0182684946448978,
+  "volatility": 0.0179152096254486,
   "beta": 1.047,
-  "return_6m": 0.1529588592424584,
+  "return_6m": 0.1192318009379376,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
-    "target_mean_price": 1531.3278
+    "target_mean_price": 1535.055
   },
+  "news_sentiment": {
+    "summary": "TransDigm Group Incorporated (NYSE: TDG) a récemment été le centre d'une série d'activités d'investissement, avec une augmentation significative des participations de divers gestionnaires de fonds et investisseurs institutionnels. Cependant, malgré ces mouvements positifs, la société a connu un trimestre décevant, ce qui soulève des inquiétudes parmi les investisseurs. Certains analystes estiment néanmoins que TransDigm reste une entreprise exceptionnelle, attirant l'intérêt des milliardaires et des investisseurs. Le marché semble donc divisé entre une forte confiance à long terme dans la société et des préoccupations immédiates concernant ses performances récentes.",
+    "sentiment_score": 0.25,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Wellington Management Group LLP Boosts Holdings in TransDigm Group Incorporated (NYSE:TDG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVHVaNGRGNFAxbFpqSlY3QzlLSjN2TlBqVkR3RFJJQ2d1enZKUk10WmlkVW9DSWpiNzh1cUNYcUNVUUdWanNlSmt2X3NueFVTNGpXclBLVk9wa1JxNFR0WnFRbmFMX040XzdVbFd0MVdRQnhNbUF5cEZ5Ny1kT2ZBblF1elh6ZmFYLVFxaTFfYlFpUEFUNE01UThzYXBmNU01UDluZkJvSUZJX2xrT3R5Tm9wU1RqZkVGNmlaV01ZYkNFYWFaVGRlbVJ2WjB3MVJ0dndubV9MY0w1SE9CSWs5OWV3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(TDG) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUU2V2NMYUlIZVdSdzQ2OS00b2ppNEVWak04ZUhsdlJBRmdYTnFjdVBLRlNwY1lpMnVMdndUdngtMmJRTy0xbU5KRFNxaXh5ZFRBa1Z4OFBjMDluUG5vTVVqWEdRTW1xMEdDU0tYZjltZDZvUXU4VEhYVk80d1I2dlJMTEJoOW94aFRXRmRjbGtQZTlhanVwNFRxWWF5UXZqTjNJczFHSVdUcWV5Zzhld2h5dm5KQmpZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TransDigm: A Disappointing Quarter Shouldn't Overshadow This Exceptional Business (NYSE:TDG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObVlaNU56R2NKN3BhN00tS1JDby0xdUpscGNTOW9qdVl1bUpNeDJ5bHFKVzNuVkc4NWdpVWplT3k0dHJjbDVBYmIyMW1EMTA0NnA4U2tuMmY5Vi15MndCcF9kSDZuajlBbTFGTmxLWkRlM1J4cDNxY3J1bmIzc2NXNzJXb1l1anJCLTJ2SG5IX0hqeXd2VktfVnY5MEhua0dkeGRNdzhqNC11OTZUbEx3dkRLaUV6MU1QT05QSg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "If You Don’t Invest In TransDigm Group, You Are Leaving Money On The Table - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM05sckh5NmVCTjRqekpfbXRoQjNTdHFvTlNCSnVib1ZScC15c01aYVB4VTB5STZPWlhTejFRM1FaMFpKcHJ0Tk9tWUJZT2diRU52SEJhR0VMekFiMGtYWno3LVJYa0FzRE9CZmRFZEhMQ0FQTmFGS0tXb1Y5RnVKeE5ZZWZIeG5kOG9YN2xKZV9Ca25LaGZDRHViVUxnN2tGbVQtYUVTaG1wQ2NKYnVDQVVlZzJHQTk2cUdPRjI4UzdrdEY2U3Eyd3FIMng?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is TransDigm Group Incorporated (TDG) the Best Defense Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdEFJR0tUQVZXN2RvVUZVYlNpbkZaZm1sMUtLT3dNY19rTUV3UDV0ZHp6VW1Wek9rdlRYNEkyc3hYV2o2bm5lZ21NbnFBRkpKcXBTRV9EeWZwMVVSLTBmMmxJV3RZeF9lSk1DOHV3U2M5Mzg2RWwxekFMR05Icm9pMnJfenh3Ymcwa2R3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMS Capital Ltda Raises Holdings in TransDigm Group Incorporated (NYSE:TDG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeG5PNFhjVDNYY2pCR0VmY2k4NXhUQmtMMU1GcFJaOTlhWENFOGZUMndEaERHLVMxc1BYazRHQnpydzVwR0I4RWR4VlhQWWEwTHlRT3d2elZ6V0hDNFpXbWExMXRPNS1UTVNMQlpJbVI0dVJISVJIOHhtQ0lDb3JORjlIUEduNm1Zbmo5Y3REUFRpVkVXOGtvUk5MOXh5dzFPTVdIazlJd1VIY0JtWHhZZ2FkVmVNLTI3RUhWSHB6bjFBamluS0lVWUswQ0hxUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Rhumbline Advisers Buys 2,539 Shares of TransDigm Group Incorporated (NYSE:TDG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSDg1Zy1jR1FKdG8wMnpEd1FvWmhpV0dQNXJibXhkR3Q4Y0puTDQybXJOTC1rMmtBTVZDZ3Fpc0Z6RWtBd2duT2RiN3pWWnhMeHk2N0kxTi1zdjVCZUVMLTVpR1ptRk5KNWxVNWg2YTdFYmNtdEdOWUo5a3haOTUyeTFDcHlGZDhPdU9sYl82TWRkcVJuNmJqRjhiSjJJQjI0YVA2REdyV3ZfaFhEcjk2TVE4VncxckxKdGpRWmgtWGlYUHRnMm9JRTJFclk3WVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TransDigm Group Incorporated (NYSE:TDG) Stock Position Cut by GTS Securities LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkxEUHZfYlBXemlSUnd4RWRwTDRVM081U2Z4bTdDZ3hHbjNNS3ZZSDVHQ0U5QjNDUDhRTU03TnZYNm5VZk9xOUhveUlwc2ZjUk9SdmZLaWJoX3dOSDZZRjM2Y0dsc2U4ME9GV0JXUEdvYXBxdC05V3FROHRqZzRLTFI2Z0Z3S2x1c2RzSG80VjhsbDFEcHEyOUJsTGE4QkxPaUFwVER5VElwdnd1QnE4dWJHN25YdGJRRjlqdVFKc1FIekJPaDNOYkFWYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TransDigm Group Incorporated (NYSE:TDG) Shares Sold by Wealth Enhancement Advisory Services LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQVNwZU1RQXJtc1ZESm9MbGxBenNpaUJqVE1JQXNBdXFZQ3B5R1F3RHFXV21ONlFBanpiVUVWa2lwR0E2bE1yeldZRDNBYjBXekNCQU9GcVlieXNFR1poNzJYcnEwS2IyUWpqTUdQY0tqZHlPRUNqQWlidVJWakVzd3hleWsxMlZYSnhONmxYaFpoREVXdXRGOGZNcnpYRDBQSnpmVGtpam5ZSVVCU1NRVkptMi05WVRTU2JFS2czbTB2WlB5S0NIaVdQUXBBZkp4RmtuaTBITEI0elNOVkFrTFJWSVVFS3l4ZFdCMXJFMDZLRDJyOWs3NEVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unigestion Holding SA Has $2.28 Million Stock Holdings in TransDigm Group Incorporated (NYSE:TDG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUnVIdEZtWXJvMGdFTGt5VDRHR2oxSEFhLTlUQTQ0WldnZGtyTkJWWlFfSkh2THVjX0x2X2RuWkxtNkljblIzVno4aVdlZ0F4WGdJTUt4UlJtdUhHTzlfcml5b2VUQWs1Mm9CNkMzS2cwOUtmU20yTFpyNlhNeC1PLUZpWWZ3R01WQkdzb2FZNlFOYW5fQU1jdFl0Z092ZW1vRm4xQ3dxREJzamJCa3lkWE1uQ19pQVhoQjlyMVZjTGFBLXFRQ0hqVGp6elBjVEYtYm1Qd2FRRU5WZ20zM01fZWI5Nzhvd1BZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TransDigm Group Incorporated (NYSE:TDG) Shares Bought by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaTR4dWhZZlE3emtzNVg0YmxHN0xnOHFUMnlRM1pLbXlRQ1Vrd1lrOEpGWG1oZGE4UEtQRFZUVWF3WTBEaHk0RUV5YUl6ZDZnNDRZeVlGcUtNYlZJWmRjak1iYmxSMzZuN3hoZFdKQmtjU09TZFVWTkZCYzZwZlNvTjNndm1UaGpoYlgwQUp1YjQtV2VMaHBiQXA4SXA0VUhjc1R1WFdSMWtySDd5T29uV2wtVDl0VHdESVoycHk0Nk8zLWxVdVRpc0htYVFOemdENWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Harbor Investment Advisory LLC Has $512,000 Stake in TransDigm Group Incorporated (NYSE:TDG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWnNKOU13MlUxcVlNQVFiX1NIYi0zak1ZWnJxOVI5aXRHRmMxamtlQklDLVBOSHk0dTJMa1FQcmh4NmdkeHI4SVZ4RkNOSDNicDlLSXluVkp0b1YtaU5QeV93UEpxbTdOck1ndmlMcjJJU2swVWVPS3ZvSGRhd0kza2RodVJwSkFQM3ZDMnJXMjdJZkFFbzhJaUxxRTYyWVBtSHZWR0dVS3JMSXlGSEgxZ29oUm1kTC1Wb0hqam5zM1RYY0FFSVY5V19vckNlcFhTZ0FyZC11N0lKLXFZVU54Sw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Douglas Lane & Associates LLC Increases Stake in TransDigm Group Incorporated (NYSE:TDG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMDE4bUlCc2VDb05OYVl0SnppVTlPb09Na1BGdzdlV3prRkdkOXd2aml4VGoyTWJYUzFJd3JrQnhGY0dnQTl5SlNjQUhadlJHbHBWak9BTV9qUFhJWjNYbEJ2XzRUT041bEI3bGlHZnNlV1BmVGNzVDVRcE9aelpTeVR5bi1QYUhZc3Y5eC1jUnE3VE91WDVYZXpoX2VveGxDZ2wxZ0phV05LaURxWmcxWTNsM1c3c3BUNC1rdk81UmhJQWU5bHQ0NmtqZUxNdXU1b1VzQWhGTVZRODJU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TransDigm Group Incorporated (NYSE:TDG) Stock Position Increased by Woodline Partners LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWDVrRVR2eEh4eEhzMDRGV3hCQmd3UkRuV1ZDUksyZi1wWHdYbWhkWnlvWk1NcjEza212R0l6Z2t1WVZYeTVLQ3ByMC1zWWUxa01vZ2cwSWZUM0x2QXFwTGQzWk9OWVFTWElzeGhwWUtGZXBqVnFTOFh2cnE0ZnNUUUl1a3BHME51SGpJa1U2UUpPTzlHYkFWWEVuSUNxSGpTbW5SRFZydHg5ejJwUTRwWW1WZU8wSjkyV3NqeDFhWVBxRmp6UVBPc2cyakFlcHhsSUpadmtOWW1JRDg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "25,056 Shares in TransDigm Group Incorporated (NYSE:TDG) Acquired by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQT01tRHZjYmpWOTdiNjhsM3NhblFLa1J2SUJocVlPdzZlb3RoWnJVUEZMcUNJVmFzS0xVdWJJYzVSWGRRdkpCZmg1MHNnRUVTUkVxQ3dVbmkwWnVzc3VZQ0NCa3RJazlBRXEtTWRBLUZVcWtrUlViX3NzT2hINnlNWTlCY2JHM3B5UzQtTFlLc2l4ZlJod3doU2swdGZrTWNYcGpGbEU4Zkp0cnVqUVIzQVJkVEZaLVU5d0RlSnA2LXdXNmh1cTVyR1N0cUJwYVhXTm9hYlZkOVRSeFViVTk5MHZkam5uMS1sTWZaYThMT1d1NUZmS09nZzhRNHdnVWNsU21v?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TransDigm Group Incorporated (NYSE:TDG) Shares Sold by Centaurus Financial Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGpMaDVYQWxpX3p4M0oyTTB0UlhhUGFyNVVpQlRBbXZKWFNRYWtGUWFpa1BqbmotSGJTWGdTaWMwdzNLdTQ4VGxVRDJ0RWZMOHkxTUVnQV9iRzd6bzk1S0U1NUxmazFzdVJwaXZlZXEtcmhPMkRFV1pPeDU1aGFXVmw0N0xXZXNOU1YzWXMxOF9lbXhlcGZKTW1vTmxXdksyRW1vZS1kN3pDdmp5OVhwclRKNlBaNi1HbE1weEZDSUk0R0tOck5Id2xONFBpanRiQTR2bFpmaVo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mackenzie Financial Corp Increases Stock Holdings in TransDigm Group Incorporated (NYSE:TDG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2N2bjM2UExCUXNmRTJic2U5UDU4TzhtV3lFVnFHbS1Cby1xalNIV3h4eDl1eDRLMy0teTZfQm1iZTNHTTRuVy1VSThzeWpqc2pLVnQ1WkwxeHpMN1hxc2UzQ3JpckZqOGgwN1JqMzN6SjlWLVlIVDV6dExZUFRKc1hleTBieWIwckxNMklrdmc2UTYwZ1Rodjc1dl9KMG1FNlE5bTEwTDJhRHl2SmNtVGRGdVhIRXRwTFBVVFhYS3FZakdLLS1pOXlXMkFKTTJmVzJsSWYybC1RUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TransDigm Group Incorporated (NYSE:TDG) Shares Sold by HWG Holdings LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa3VBMlF2NWdOVE5NRTRON1pqMVcxeUl1S1lZdGhqMkVfc1R0bjl3czFDZ2lRZVJua1N5RTh6ejBFVUdVbE9GNjRtLTFfQVV5M2xhbGVTdDM2UTRYM3RLejJiZnJRQVJMTkFrME85cy12QllHMEdvNlNxMkJvRVZ2ODJOZVB4V013eUhqOVQ2SUN3cGxSRm1jazVTblRfZ09iV21ZcWJESWxFd2NGMnV6UDY2TzVLRFVxVHBXR2ZWVXNCeUV3cE5sWlJTbXFpUmZwTHlJd2JPVnp5dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TransDigm Group Incorporated (NYSE:TDG) Shares Bought by Siemens Fonds Invest GmbH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdnY5cTVmSGVRbEtVQnYzaXM3MEZoempyNUhIeVZMX3dvRFY1cmZFZXZXX19BM0Z3NmVMQzR5QlVqbzhvMzlkMWRnTXZYQkJnQWN6eElkVGNQQ3VFSmJhcWFIOEN6cTVFZDRyZUFhTVh6b0htSHNlOUxmenNBbllYQWl6NDRPMHZubno3NXF4YjJJaVJ6eGl0S2VLMWpNQi11SzVwdVUwVEpUNjNNbXlqbkRZZUhudWpKdFBXOUVnTWxsZ1NxQXVoTEtVV05CMXpmUGhQbm1QbTJuTmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "B. Riley Wealth Advisors Inc. Sells 193 Shares of TransDigm Group Incorporated (NYSE:TDG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVTlwUW9ROUY1enV2VHVUSFdremh6Y3U2aVNxQU5FWHpjaXVrWlRZWVpnREoxbHBETHd4OXM2RW02SE43Q2JuRTUycjAzZThZT1N0YVdjTDNaYzJPOWJqV0hWVDJRUEc0WDhCY3IwX0FFdGRudjZQZDAwcUdMYkNJLU1uSDFYRklBM2tVU3l4SFZRamw0bzI0T3BZX2p4ZnREcEtIRFUwV2ZQZU5Jc3dwZ0JLT0NOTjlhVUg1dENIMC1ld3V6MURNdmVvLWJQQjM5YW9CZWpseTRzaEt4Q3c?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1260.47
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1258.71
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1307.81
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1292.86
-      },
       {
         "date": "2024-12-06",
         "price": 1279.21
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 1453.82
+        "price": 1453.77
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1455.95
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1448.7
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1444.49
       }
     ],
     "current_price_data": {
-      "price": 1453.82,
-      "change": -14.99,
-      "percent_change": -1.02
+      "price": 1444.49,
+      "change": -3.09,
+      "percent_change": -0.21
     }
-  },
-  "news_sentiment": {
-    "summary": "TransDigm Group Incorporated (TDG) has been in the news recently, with several significant events affecting its stock price and market sentiment. One of the most notable developments is the acquisition of Servotronics by TransDigm for a premium price, which has led to a 250% increase in the stock price for Servotronics shareholders. Additionally, TransDigm has raised its offer price for Servotronics to $47 per share, indicating strong demand for the acquisition.\n\nInvestors have been impressed by TransDigm's impressive returns on capital, and its acquisition of Servotronics has been seen as a bullish move. TransDigm has also received a price target boost from BofA analysts, indicating",
-    "sentiment_score": 0.5,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 5,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

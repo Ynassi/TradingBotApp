@@ -2,55 +2,68 @@
   "ticker": "8697.T",
   "name": "Japan Exchange Group",
   "sector": "Financials",
-  "market_cap": 1654215540736.0,
+  "market_cap": 1622493626368.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 27.248587,
-    "PB": 4.8553915,
-    "EV_Revenue": 9.917,
+    "PE": 26.5894,
+    "PB": 4.762283,
+    "EV_Revenue": 9.67,
     "ROE": 0.18189,
     "ProfitMargin": 0.37212002,
     "GrossMargin": 0.54273,
-    "DividendYield": 2.69
+    "DividendYield": 2.7,
+    "DebtEquity": 14.947,
+    "CurrentRatio": 1.002,
+    "QuickRatio": 0.001,
+    "FreeCashFlow": 15800875008,
+    "OperatingCashFlow": 86135996416,
+    "FCF_Margin": 0.09624585489963139,
+    "ROA": 0.00067000004,
+    "PEG": null,
+    "EV_EBITDA": 14.774,
+    "BuybackYield": null,
+    "PriceToFCF": 102.68378336937225
   },
   "technical_indicators": {
-    "RSI_14": 52.474320206931175,
-    "Momentum_10": 0.315357931251971,
-    "MACD": -3.8447985862603673,
-    "BB_Percent": 0.4610499484447885,
+    "RSI_14": 46.28325510992444,
+    "Momentum_10": 1.761252446183953,
+    "MACD": -3.703847740621768,
+    "BB_Percent": 0.3449010062677863,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8675101651563457,
+    "ValueScore": 0.8652351819765016,
     "QualityScore": 0.4916840792666491,
-    "SignalScore": 0.6052479606803174
+    "SignalScore": 0.6019697507555626
   },
-  "volatility": 0.0178642170247896,
+  "volatility": 0.0180208306331226,
   "beta": 0.393,
-  "return_6m": -0.1312936803355674,
+  "return_6m": -0.1741662255161461,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "hold",
     "analyst_count": 5,
-    "target_mean_price": 1640.0
+    "target_mean_price": 1646.0
   },
+  "news_sentiment": {
+    "summary": "L'introduction en bourse (IPO) de Tokyo Metro vise une valorisation de 4,7 milliards de dollars, selon des sources. Cette opération majeure sur le marché financier japonais suscite un intérêt significatif, soulignant la confiance des investisseurs dans le potentiel de croissance de l'entreprise. Cette nouvelle pourrait renforcer l'image de l'écosystème des IPO au Japon et potentiellement stimuler l'appétit des investisseurs pour les sociétés du secteur des transports.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "$4.7 billion valuation targeted in Tokyo Metro IPO, sources say - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1U2QkZWSzFZYjNaYUpPOW1kUEJibWxTVzRZWDU4dkhDRmw4c0NEbGQxMkFKSlJiR2VQdUN6NEVlbHlXaGJPelZQZ1RGSFVpZENVVnI2OHhfUlZHY1J1OFJiZmlOREpmM2FwcHAySGZ1eHdaTUNvMlhZUjgtM2JwdkRkODBrRTVtbF9DNjRxNmFsX2xpNmt3a0dma2lHTWpCWWdfbnVPY050STQ2SFdoYzhwbGVPckMtNWFfYTZ4aEhuRUE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1842.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1846.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1858.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1889.0
-      },
       {
         "date": "2024-12-06",
         "price": 1892.5
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 1590.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1572.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1590.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1560.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1570.5
       }
     ],
     "current_price_data": {
-      "price": 1590.5,
-      "change": -8.5,
-      "percent_change": -0.53
+      "price": 1570.5,
+      "change": 10.5,
+      "percent_change": 0.67
     }
-  },
-  "news_sentiment": {
-    "summary": "Japan's value push is facing challenges with a decline in margin trading, higher listing-related burdens, and pressure from shareholders. However, Tokyo Metro's IPO is expected to raise $4.7 billion, indicating continued interest in Japanese assets. The global market sentiment may impact the overall outlook, but there are mixed signals, as breakingviews predict a potential pushback against value investing.",
-    "sentiment_score": -0.5,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "LLY",
   "name": "Lilly (Eli)",
   "sector": "Health Care",
-  "market_cap": 665002442752.0,
+  "market_cap": 686615429120.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 60.12622,
-    "PB": 44.529907,
-    "EV_Revenue": 14.238,
+    "PE": 62.435104,
+    "PB": 45.977158,
+    "EV_Revenue": 14.754,
     "ROE": 0.77278,
     "ProfitMargin": 0.22665001,
     "GrossMargin": 0.81697,
-    "DividendYield": 0.81
+    "DividendYield": 0.78,
+    "DebtEquity": 243.609,
+    "CurrentRatio": 1.372,
+    "QuickRatio": 0.569,
+    "FreeCashFlow": -1821975040,
+    "OperatingCashFlow": 9317499904,
+    "FCF_Margin": -0.03718073556346246,
+    "ROA": 0.16447,
+    "PEG": null,
+    "EV_EBITDA": 32.858,
+    "BuybackYield": null,
+    "PriceToFCF": -377.271065561908
   },
   "technical_indicators": {
-    "RSI_14": 46.14602341498067,
-    "Momentum_10": -2.1956989874670785,
-    "MACD": -18.498346819554055,
-    "BB_Percent": 0.4803632405895142,
+    "RSI_14": 52.29266376322147,
+    "Momentum_10": 5.575554483694954,
+    "MACD": -9.630005692513803,
+    "BB_Percent": 0.8974209478444611,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.831209481018511,
+    "ValueScore": 0.8251817113755187,
     "QualityScore": 0.5227872528193871,
-    "SignalScore": 0.6567851586547659
+    "SignalScore": 0.5468579126361617
   },
-  "volatility": 0.0273695300185174,
+  "volatility": 0.0273471633157928,
   "beta": 0.394,
-  "return_6m": -0.0703267556104088,
+  "return_6m": -0.0701307993388573,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
-    "target_mean_price": 955.30853
+    "target_mean_price": 951.9752
   },
+  "news_sentiment": {
+    "summary": "La tendance clé pour Eli Lilly (LLY) est marquée par des fluctuations importantes suite à divers événements. Malgré des baisses de recommandations de la part de Wall Street, le titre a suscité l'intérêt de Jim Cramer comme d'autres analystes. Des annonces positives telles que la participation du CFO à des conférences majeures contrastent avec des éléments négatifs tels que des révisions à la baisse des prévisions de résultats et des avertissements concernant certains produits. Les investisseurs sont confrontés à des opinions divergentes sur la valorisation du titre, avec des cibles de prix allant jusqu'à 1 000 $.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "LLY Stock Too Cheap At $750? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc3ptNHBrSGNBWVU5M25xeXNMUlR1NmoxR2VjYnNUaEU0OUlYck1KdG1La2FqeTNhUW5fWHhVOEljeFNWaXZrYlpheGUwdGZlZklmZmtvMDFybGVVVjdtbkt5OFF4eEoydVJxbHF4LXpObjFvejBTTVROUFliSGJvVXBtVTZESV9nVlBzSldn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eli Lilly Stock (LLY) Gets Multiple Wall Street Downgrades - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbjlVdXNCeHB5WDlPYlZMUDVyNE1leU5TR2R1dVhsOTNjb2lhS3gtTTc0cWlIUHlJaGtBOUNJdThkTDJpeDQtcVVXTTRoYVhuX21nSXFOMTMwdUFPSVBOQmFLdjNXZjA1Q3ZCTXhDYjdaaE1nTkJwQVVfb1lCM2NDUHZjQ2FEN3ZDT21obGNncw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Huge News for Eli Lilly Stock Investors! - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OV0tLbWZaaVNqR0dfUFhhRmhlNF9uXzBrbE0xdUJweFZyX1A5U1YtVHhGTW1aai11RHdRT09EUm5Rd1hFcGUxUlBvZkNkanZrWXVmUEpUSnFIMklwZlJzQ3V3SFhnRVlLbEdpb3REMXZyQUw1bVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Notes Eli Lilly (LLY) Stock is at a “Decent Level to Start a Position” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ec1piR1BkLXpEdUx4cFVVNWNuY00tV3o3SVpxSy0xQ091WkMxMU5RcGdMVkhIamhxblIzb04yeFdMeWUxMlBOOVA4RExpUGp4aFJYeUtNNlRTMlZHX1ZhOXczRlRjR0Fid09QdEQ0bWp2Wi1Xa2hRVmROSnA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Eli Lilly: If You Don't Buy On Weight Loss Promise Now, You Probably Never Will (NYSE:LLY) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOVlHclNIQk5iYW1Hc2h4NHpxRURzbFpkbGNJUTBtdHRkUURhdTBuVHAySGlLckVJTjhPLUg0Rm5veU5IdEI4YnZIdEl2ek0ySVZ2ZDNxbFREZWV5UTNVc0JONkRmdTlPaGloaGVmTjJxQlluWjU5SDdZNnBGRmtxSlJrMm9ramxFYWZOcnpnWXRoVFp5NnozT2t0dWhvYTNsbXFYTWYwazZ2ekI0b0c1TUxYb3h0Z2Ey?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eli Lilly (LLY) Downgraded to Hold as Earnings Forecast Lowered | LLY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU184bGNRWW5TVnJyc2tFQjg0T0dySi1fQmkxM3JNX0Q2MDBBcm9rbTZua29iel9CTzlDVUYzTExhY0lMdGswYUpIQmJHVjZyUTRoQm5Oekx4SUwzSFpZR2NTeldBbDJjYW5DQjRpZHF6TU04VFlxQ1o2aENBVGpRcnJXUFdZWmNNdHJFRFJ3NUIwMEVsX1JaNk5QM0p4THNrT2UyYnFxdTR6d1NhNUstQV9OOVdseTRIMnUyaENVY2RDRmJNMGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TD Cowen Revisits Eli Lilly's (LLY) Surpass-CVOT Expectations, Lowers Stock PT - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSi1SeTR5S2JmUEZYeTdfcVgtNTVBMm9aeFpycDJYbHlFak5hRVVNNEZ6cmFuQmtDRVhsajV1bmJCUnoyUnJHc0Z5RWluU1lyaWxIWUdZcUFoYnBySmd1endFd19kZ2ZuLTZjTkpqYjBndG4xdXJiUFowT1FwU0hFOGsxa204S1dXT045YTVNOGxBYUNSX1k5V0Nxdk1YbGRMMFJaVFpVd2dta0tSMUt3b2tKSnQtNGc3YjNXakVHR1ZOZVlxQjRPTU1DSTRua3dCRGVJMk8xbFZaWDBG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eli Lilly CFO to Share Strategic Insights at Major Goldman Sachs Healthcare Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVzdUd2Vfb3ZmMjJaY2VVWXhOQ2pPTVdGVUg0eFl4c0ZaUDR5a3NhX1NsSm9JbHcxS3J6UkxRM3VWaHJuZ3BUU0pUbkxHMUhJdTJDOVJXT0RPQ3FuelVjSkcyQzAtMldkaG1yYTh0aXhPRmZGTlRtdVFFbHppM2lnWkxKLUgybUY5b3YtbzBwN1FCTTRMMHZ0UjdkOURfc1pYS0dtcjcwalJhQkF0c3hjcnFWMUFYMk9NZnpKaHpSSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eli Lilly (LLY) Stock Dips on NYSE, But Long-Term Growth Story Remains Phenomenal - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWxhWTlBZVhpZG9WTnhENFdmeXZCQzE2aWlXckxudTBORlhSOTN2ZnlMazgzSUREc2N3RXJZRHJYNUs0bTZUdE5fdFF6ZU9SSDVuUURPSGd2cEFIcER3SXBnLTMxQXQwdE1TeEk0TGNfSFpTQWdDQWpEQm5DaGUyMTBXckxTQVBoRGVRekVhZ1dDOC1zcG1kdE8xTzdtMXZvWHNiblU4LWhES0RkNU1STE1yY1c3VEF4SG5lQmpidjQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Eli Lilly’s (LLY) CFO to Participate in Goldman Sachs Health Conference - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVTBWUlBlTE56clVNZ3l0Mkw4N1lUUTJEM25aN3FTMFV4NmVXMzFudkhIenc5V3FCVHYyb2pEQkdsZDNfZS1KYXRJRTlKa2tVLW91SUFyUm15dk9sSGNGVHBOeHdZSkpFUV9WTzNfV2RiV1h6Qlk4SGx3RExLak9kRTczY2dQOG13QlFyUnpOTTFZcDE5aDRUZU83d2RSUnJPbG5ESHJMdy0wNUhTb0loVlBJN0htX29HcnRTeVFRVE1Yc1NXcHVlakxUNE5waUpwajdWcFhTN1JleUNfdmx1V2ZsbmFpN01U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "After Earnings, Is Eli Lilly Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN0R4OWlVeFZuQWhCZlRFZXJpNno4enFoSHphRnpURDEyRFRkak9GWnFhTVZxWWdISlJIMnBJa0Nhb3NHU1pKbjYzRms2S3F1RlJ1VG1Pa3dvRGpGLXpwbGlrdTdFMjF3dFN5Y0E1UUNwSG1LaUNxS285czdMWGcyV0xINjZOSy0zSmFJbEtobVFqNUFEWHZCekY4a1c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eli Lilly Stock (LLY) Grows Despite U.K. Warnings to Pregnant Women Over Weight Loss Jabs - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2w3NDdvM2dOandvb2lhM09TMFJxZkxseTQyUG95MkliSWliSWNlb1E0YnllU2lSdEdxOGNMbVA5RDMwVWFTVm1Cc1JXNUE0Q2l3RldDQTNIVm5zejBzU3Bqb3FnS3R6T2YxaGpXd1dyelFZZUliTEZZclhJaDFJVnl2RHJWUEhiS1hkS3pubHNJdXZPTnZLTXJaal9ob2Fha2UxeTd6Q2V1S0p4Y1VFYkR5YlZyR3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Eli Lilly and Company (LLY) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUdMSVdJWVA3RkFMQk9KMlZrOHhuRmVxWkxfTWRISlhZbnppckwxdU5wQllPYzB3NS10LTlwak1Zanp6WGdQdTlTZFV6SDdGWFR4QlVwRHlIQjJnRm0zYVhqYmI2Z0MzVUxveFBPRUlKRHlveHcyMDZDSlAwTmhNenN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Invest $1,000 in Eli Lilly today? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1BKb3dFUE1nWEVFUWZIVGpkWlFZOHh2U0JzbXJudWg3OTRrUjlEUVdpcmltempHQlBuZkdPSWdLbmxJRGY3NDRyOEhtMHhoWkxRM3Z3cGJuVGFXSXU3a3JzZnF0Rzc5WGV4NUFidG43WWJweHNndE51N1ZwYUx6ckx1aU5pd2pmR08zMm1sakZXR2ZiSEd3M3daSjJ6NmRqazRsWFpBM0x4OWROR1pjbWdhOGdCQmVOR0xzT1NWbXB2UTRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eli Lilly (LLY) Bulls Eye $1,000 Stock Price Target as GLP-1 Alpha Bandwagon Rolls On - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFpXMVQta3UzeWlRUXZYYmxwc3Y2dWVPS3c1TVpxc0VBUzk3YWdoMFRJMGYyWUI3Sk1UcDBWZmNTdThQUmIxVHhiamxGRGxERnY2cHZLTWRwZGd2TVZfcnRaUDJWS25WWE1iTDMwYzVRQ2phVEYwRXo2NHdCM2dxSGx1ZW5KQUVJWUhOUnVYdXh2RzFoSG82cm5BblFFajA5UFU0NV93OVg2VkdKZVpv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lilly Down 17% Since Q1 Results: Should You Buy the Dip in LLY Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1ZHdYd0RiQi1Id0M2SFNmcXBLUUh2aEFlck8yZUc1dTRwZThJVjh0TFBYOGUxcklTQ2h0eDhTWWJyTXp1Um04cUZOQTFLd0VlcEoyYmViWlVOMk1YQkJqU3dQVjFZX3NrLVU1Wkh2dTRHT0lVSHhB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Senior Executive at Eli Lilly (LLY) Sells Company Stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVhaUFZWMmMwODZ3MVlkVjh3bzdOeEtwMzQ4TjFrb055Y193U3ljQ2hZRzlRN0M4WEFSV3FGeHpGd3pQYUhKM2Z3ak9XaWtULUVDeDh3dnJXVEtscjZsTzdad2FuTi1GZi1Ya1R6aElKYTMtSUFrRGEzcHdFR1BnbHhpUmMxSldnWlV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pharma Stock Roundup: LLY's New Deal, GSK & SNY's Pipeline Updates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkc1MzVUTWZvVUdQbENCVFFwaWpDWFhJTTZabE96cC1mMWNaX1RGckZqaGdqX2s2YlNJZ25uNkQ5Qy1GVWh3RjR4dFA1bzZ3aUR5RTN1bV9KSnZYSFdvSmRFM2t0ZmpReTRnMElYaUh1d1ItMjlIMVg2NGM0YWliZWFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Reiterates Buy Rating on Eli Lilly Stock (LLY), Citing New Copay Strategy - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVU0zcVQ4TmlPakctOGNVeFFBN0RVdVZFbFIyMFc0dGVkeXVSZUdudEljRjhBUTJSWWctSmJmQkFsWmhLX3dUMFhkY09HNkN5Y1poakRseGFLbG5odnlmalZ2X19ZbUJGYXI1dEFDOHg2cWhVZFJ3QmFCR2tWY3BWQjlYNTJkRUY0SU1OX25pNHYzWDV3R2NQdTNDeXhqUVZxZGNyaG93YXFNZnFQSzZROGwtemUtUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Eli Lilly and Company (LLY) the Best Income Stock to Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VU2NmWmJWbmZoODhmaC1pdGRoREFjelV0UkJfMU1qSC10dVNLblF5TXJDeFprLVVOSzFOZ2tiNzh1RGlNZ0s1RU00bDB3YzBUVi1jaF9pRDI4TTJkZ2ZwYV91MXNBRWtWODRDSDZiWno2M3VtYU93SlllRkQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 799.8
-      },
-      {
-        "date": "2024-12-03",
-        "price": 813.33
-      },
-      {
-        "date": "2024-12-04",
-        "price": 829.84
-      },
-      {
-        "date": "2024-12-05",
-        "price": 825.62
-      },
       {
         "date": "2024-12-06",
         "price": 826.71
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 743.73
+        "price": 747.12
+      },
+      {
+        "date": "2025-06-03",
+        "price": 750.78
+      },
+      {
+        "date": "2025-06-04",
+        "price": 765.84
+      },
+      {
+        "date": "2025-06-05",
+        "price": 765.68
       }
     ],
     "current_price_data": {
-      "price": 743.74,
-      "change": 5.82,
-      "percent_change": 0.79
+      "price": 765.68,
+      "change": -0.69,
+      "percent_change": -0.09
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nLes titres r\u00e9cents sur Eli Lilly (LLY) mettent en \u00e9vidence plusieurs signaux positifs pour les investisseurs francophones. La premi\u00e8re source d'information indique que le CFO de LLY partagera des informations strat\u00e9giques lors d'une conf\u00e9rence de grande importance sur la sant\u00e9 au Goldman Sachs. Le second article signale que les bulls de LLY croyent qu'il pourrait atteindre un prix cible de 1 000 $ et que le bandwagon de GLP-1 est en marche. Le troisi\u00e8me article pr\u00e9sente un survol des mises \u00e0 jour de la pi\u00e8ce de travail des",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "CMRE",
-  "name": "Costamare Inc.",
+  "name": NaN,
   "sector": "Industrials",
-  "market_cap": 1254009984.0,
+  "market_cap": 1301510272.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 3.5163934,
-    "PB": 0.39792225,
-    "EV_Revenue": 1.24,
+    "PE": 3.64959,
+    "PB": 0.41299507,
+    "EV_Revenue": 1.245,
     "ROE": 0.121479996,
     "ProfitMargin": 0.15486,
     "GrossMargin": 0.35568002,
-    "DividendYield": 5.37
+    "DividendYield": 5.31,
+    "DebtEquity": 86.063,
+    "CurrentRatio": 1.548,
+    "QuickRatio": 1.221,
+    "FreeCashFlow": 253554368,
+    "OperatingCashFlow": 542779008,
+    "FCF_Margin": 0.12340273329634582,
+    "ROA": 0.05624,
+    "PEG": null,
+    "EV_EBITDA": 4.022,
+    "BuybackYield": null,
+    "PriceToFCF": 5.130179891044118
   },
   "technical_indicators": {
-    "RSI_14": 48.2118445423644,
-    "Momentum_10": -2.500002980232174,
-    "MACD": -0.1354817261283525,
-    "BB_Percent": 0.5519165606695057,
+    "RSI_14": 55.00633946345736,
+    "Momentum_10": 5.50948075481744,
+    "MACD": -0.0651651436726492,
+    "BB_Percent": 0.8519694251741212,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9367097914308586,
+    "ValueScore": 0.9374291335676482,
     "QualityScore": 0.378775384201179,
-    "SignalScore": 0.5062610709230972
+    "SignalScore": 0.5036695965545366
   },
-  "volatility": 0.0334541872981927,
+  "volatility": 0.0337043571282398,
   "beta": 1.118,
-  "return_6m": -0.3301771905549494,
+  "return_6m": -0.3105940188132795,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 1,
     "target_mean_price": 10.0
   },
+  "news_sentiment": {
+    "summary": "Costamare Inc. (NYSE:CMRE) a récemment fait l'objet de mouvements significatifs sur le marché. Malgré une baisse du cours de l'action, l'entreprise demeure attrayante pour les investisseurs cherchant des actions à dividendes solides. La société a annoncé la scission de son activité de transport en vrac, renforçant ainsi sa position sur le marché. Les résultats du premier trimestre ont dépassé les attentes, ce qui a contribué à une augmentation de la confiance des actionnaires, comme en témoigne l'augmentation des positions de certains fonds.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Nuveen Asset Management LLC Sells 131,251 Shares of Costamare Inc. (NYSE:CMRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNUtmbGw2TW5FY3E0ODBjc2FKRnlOQTJBT0tXR3VkQXhreHBSQ1JSeDc5bkxzT3NqeUtSVkZuREctdm85NVB0bEkycWRNMFk3ZEZUX1h1d210TDZlTzZjdWJtV2VuRTVDZ1p2bmRXaUNDckxDbFI0V2tmWXhlUHRHclFrR0NOSlFRcVk1TEtIeFlnNWhQOVUyN2hnY3ZYaWNhWWJBMHRzckloQzJKMzQ2TE1HNnNFcUZUdUtQZU8wZlp3MEZoaEh5WS1oQktDSjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare (CMRE) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdnhiZjhCYmVzLXdaUHZybm1ZWEFFampEdkVpWFk5X1AwLUhtaWRWVlhrSmplUklKQVhBTzFUNXNmd0tqanY2enBuekotY2QxaWlHV3BCVEZ5UkpSdk5LbXpVSUw3ZXR6YVRuR3BieEpUdmhiYnA2dHF5S2lNcW9ic3JKMFFXRjQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Costamare Joins Two Strong Dividend Stocks For Your Portfolio - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDBWTWRKQUpXRVR0cWFiR0FWdmlGLUpSemFIUUh5SElBZFhaM2t2TzdZQUszWl80QUt2YU9vUjF0TDBJcEJXcU5tVTlHdEVfd3JReWZKNHByNHVwX2FJNXMxaE5VelBYUVBqRjhfdGVWVFNlVXJpdmdudlA4UmJxTWdwQXFtQmQwYnMwaWVoN0dQNkdkNWRTNXF5Qm4tMjRKTGRlbkVuc2VwNDBMTUtVMmtCeWJLLXB5U1M5SmNFSmpfQlRLUDF4S2RwbGZTZ9IB0wFBVV95cUxNbHQyMC11bVpLMnhFWkUzbUhsXzRyVEdqV19SUzZ4NjNSZ2E3YXFpbWltQ09fTWxVcy16ekNOcDR0WUVsZDh5enNIZ0xtZGtNTTlNTl9MamJYQlhUNlRkT2t5S1hSb003YkhramM1S3MzbUx3cmhMdHF1cDZYbm1JeG9jeERkTlZ2aWdDOWRnUmRocFU2bnhFMW9wOUFRemJsZEd3SFV4eGNGQ3BxdFJqbXpYcC1zNlZ4MnhxbDRJZ1MzTGdUNVl2cGRmWEsxZm9wbXJN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How the (CMRE) price action is used to our Advantage - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0dSdHRiMWdiWU9iUFpWNnFjSF94U0V1T2J5WDZ0V1VpdGREcWxQRXpXUXRCOUkxRnRoX3ZmN29CTVNWcjd1MmkyeVpPaHFKWUE1X2F5V0toZmFNa2E1RmtDSkVMNTlMalowblR3bHZWTU5talNxMmItSkpwR1BDWVZJMUJ4MTFJVVVDSUczQzhiQzVtRFp0SU9nR0Npek14b0k4Z0VYZkZUWjFlWXcxelM5NUI2N05oOGxxZ0h5Tkh6blk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare: In The Best Segment Of The Market - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzRzRHp0MFR3Z05idndJQ3VCWERmX3dUZk5oWVcwWnJQRjU1RDJ5NG81X3NhcGZoUVRablJidC1hVXJBOHBYa1BTS1QwRmhuT1dwRmZwS0xfclN1SUhMWXcycDVWMld3Z0lzNjhNSTVCSFFlb0pRQUpWZ2szYTFoM2VB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare Inc. (NYSE:CMRE) Shares Sold by Voloridge Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWS03WHhUTUd3a1dGaWxLYlFPMnVsTWFpb3JZS3k4T2o1bGpqa0piTTBZbGpiQWlQelFsR1F0d0NSbmdLTXZqYXlfb3pXNjVEbWs4OUhUTGZsakMtdUIwamhoM3B3OUVpbzdoV3Z0Uk9TRE1ZWHdUWXFtVU5uVWw1SURWZC02c25KRzhlc3ZZRFJ1U2Z5RmdYUlBZbDhnd0gzVktnNUtmVXh2U1JZbGNMRlZnUkducWVTTk51LXBqR3FXUEJiMHVGVVBCRTUwdnM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare (CMRE) Sees New Option Listings for May 8th | CMRE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGdlWHROMzJac3g1ZFdQVXBGa0pBdjJoNUJlQkd2LWtraDZJWkNWSDdGU0dtUmhUS2xTelVPeEpLWWFIS1lFRTI0ZEVBeXhEUnVyVHJRb3NOX1hxeVAzT0hlS2lyUy0xUzFCcTZ6QVZzNUJMaVVNSjZKTUYyRGxkZ09rZ1J3X1RYemN2akJvMmVmbkhwS1NhcXZiWUF5Z2RxWl85T0YzdkxGMFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare Bulkers Holdings Limited Debuts as Independent, Publicly Traded Company - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMklkUmg2LXVjZ2xseC02NUZfTnE4QWlRa0lHWkpzQ3A5ak01RGFTaUE0a3NhdjhJZEJrRHFrSU5IblZLRWs0N1ljdVNTdGloUi1uRGVPdkNnb1hCd2JmSUkwVWtyb1dFTmliRnlteE5XSi1CNWs0cXZ3TDRLVEdrd0YzMlBQajIxNzk5aXl0UGlFUjByM3lWX28wM2Itc2IzT0p1QW91MjYxNXQyZEdxQUw1dXNwbEhWWDloaUNIMHkybU9IbjFTRmMtc1dBcUJNa0dmMUItVWtqZzFYQzRzck1SWHE5aGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare Bulkers Holdings Limited Debuts as Independent, Publicly Traded Company - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1hDRF9Ddml5Wlhpb2dtdDM1NnRDVWRlMl9SVDE4YWFEYWUtempjdzRGUXJScFNkTlJfWEN6b05iX0RzaXctWjBlTFU5eVRQeV9FdnhuN1VsaG5TUjV3NW54YXRuNHFfZ1FoNmQySWdZX3M4SXB2SDNvcWdOaGhXYVJkVVV1UWdEMnRnU2t1bGdEVVNlbThyaGdObkYxMnczVVRtSUExMU96NXI3bnQydE9jMTd2cG1WLWZhTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare (CMRE) Laps the Stock Market: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTBJcGJhbUtwYlRJRHFNeUsyZnRaQzNacjlSclFKRVNtcUgyZ1RQczhZQjduTXJ2WG5nQy1TSWV6bkE1QmlOVWVkdWFjZU1pZzJHNm9hckdVMWVGZHNwbnVLOTJraTZtYzI1LWU1Q0JqREJXYW5CTEVwME90dVBaNEJfS3g?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare Inc. Declares Quarterly Dividend on Its Preferred and Common Stock - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQmczSjFhVFdLM1VhZ2xFWmRDaFJNd2pDRW5nYnJTRE5XVHpvVk9pbU5OVmtuM3JSVERZOXlYbXNNbjNHX0lwM0N1THBnSmdPeDBwZFJOSU5zNU9zRXJfLTV2SVBXUGctTnVPUTNwVGstajFLc0Z1WmVobjEwSjc4N0taaG9zcV9OUkFMTmI1ZGVfc1poNVh4WndQcW5qMFgzcFNzZDJMZUxHTDRURkhOSVhPSDNVM0d1aTJZRUxOSFYwamNYT3Y5Q2dudjBJM1FGOWJSUG9LbjF2QWZRbXRQZEpjby01UQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Costamare Inc. Announces Spin-Off of Dry Bulk Business - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY21PNndHT2tQdTN0MWhsZk9qQUNHcXpobVpBQm8xVm1mV2M5R19JWHNCWFlUOFlQUWtkaHJJUlNmaDlCYld0Z291UDNPMmxfLWZsd21rUjI1MDc4OU51QU9EUDZQZUFGdDdTUHR4S25kZ3VTaUZkT2ZfclNCdW1peVRTdWNJREtuSm56aE4tellyaGNEU21qc19yaUVQcnFxbE9qY09oZFc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare Inc. (NYSE:CMRE) Position Increased by Mackenzie Financial Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjNUMzhpME56Y3ktSlEtZnVUY1owcjZTdTIxbWU5c3MyVHBMM2NNT29VbU5CTEhaTXJCZko2djZ6QUEwYkZEcDBxa0N2dkZzalQ1NkJKYWh4X3ZoWGFSU2VKSFhneGRCd2lyVVRrS3Z6bFpRWTJxcFUxWkItcXJtVGMyTi0xZFhtYURsbFJLRVo5czZXUW5waFV5U3pFeU5GQlJEakRkcTgtZFkwNlFyMzBYQW1DMzI0bmNRLThtVGkxck5nT0NhLU9B?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Costamare's (NYSE:CMRE) five-year total shareholder returns outpace the underlying earnings growth - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSV9tZVBEa1pvallMQTJpQS0ySlRxVGFpOHY0eGtnRUU4STVxenZ2ZF9MU2VlT0ZOWWNIVFQ1R1pnbGZLUVJSZWtya0FKMmdROUdNbkdYSVZqSWNKNVl3dXlZaDNyM0ItRllpSW1RenF6eVVyZjFFdm5aY1hQaF91SFhoM0hzeWVRbXJvdWFHS21wRFBBeWdxbFl4cS11ZVBGdEZQMnVFcVFqVEx6YVJZTHJjY3BqVThad25RUEEwN0lCYjZzcUpqNGt6eVDSAdIBQVVfeXFMUHVFNDRIU2tHa2hMRlhxMmlGdE92UVRIVkVlS2k5TWZudjdOY0lLVmxxb3pWcWRFcXAtekNxT2xSaVFaZ0pIQVpvQ3NmMTUtNlNBWFJoRzI5bGFac2l0Unp1b3psTWZsQkhYdTZOYVQ4RHZKX1Y4QmpyZnJrejJ5QndtSGdrR0NhdzhsdWxKTUlRNTJLdVlCTnpHeW40Z3lPVmhVUmE0ZmUwX0YtRm1wNTk4cENieXRqbE5oTXpNZGNqYml4MVl3c0pDVEwwVUhqNTRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare (CMRE) Q1 Earnings and Revenues Surpass Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRklMTGlVWlJyTmlaT2d3aElXM1ZuNmdydTVLbkttWGk0eXFGa1pQRzc1eHRCRkktMkRMSVRGOUJ4TVB0dW5ka1BpOXA2ZHBvemRPS3JHWmwyalVoMU16MFAtS0d5cVZPcER5YklMcGRFMFlHZ0ZHUUpPdFhoNHU5R2tGRW50azln?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare Inc. (NYSE:CMRE) Short Interest Update - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEswMGhCcDQ3U0ZYeVphQ2NEUVVOcGxQOURiRXFQYUVKRzVYUklMWnNmd0ZBRFJnbHd5QzVtTVJFT3dCM05NUFRVblA0S3hfM194S2hyMVZTY2pqQ000Skx0M1VZTHVqUVFBUG1pSWsycHozZmQzWFRKaXFqY0NZbkhkNGJNdklDLUJLR3hrNkR4MGdxSjNmUnZ6NUNDTUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Costamare (NYSE:CMRE) Has Announced A Dividend Of $0.115 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21GVXZ2dzhMbjdxMENzSGNSR1JsRUgwS29pelM4WDB2a01GNFpENkhHTHhPWVdaSDFYRXFwNG9HY3hzZHlYVTlKUWhUTVpyREtMdWNvd0ppTWwxdnRSM3A3Z1kzSktqT3J6aDVHWmY2aVFHZFRzZ21VaWxjMktpc01yMVFaVUJzRDM4Vw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Sells 66,700 Shares of Costamare Inc. (NYSE:CMRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUk3NGVHM2FRLWRiU19zaHhBUW5ZSE0zZjg5c0l0YmVHVDltVldOd08wM2tZVmlhNTN2TVYtc0VpQ1RMNnNrcFVwMkUyS2Rkem9YMEJMUVI1bm8xdDhFc0k4dGppYlE1enlNeVNmVzFEVmpvRGlKc042QnB4TlhzOUFpYS1kU0JCeHJDS3NFS2VqeXF3X2M5UXVuR3VBT2gteElsX3lVSnNVUGFNdDh0R2U3ZHRQQlBVdHJXUXltM1BINVpGLVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Northern Trust Corp Lowers Position in Costamare Inc. (NYSE:CMRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUnBTYkkwSE1MbGEtTTBpSVJPYXRuVThPbFJkZFlBb1JMQ0QzZ1hpSjZCUTBvQzBLQXdSRGFQZ1J6eXQ4UUptR2ZBODlOLTFVSkN3TFBIUWlLSkRIbXFESGdCOG5MbWlrTlZUaGZHNzhxX2lzWklIYWR2bll0X0RKVmRfNmN2M0JsX1hRWEp6RjlGRXdNLURqeWdFWHkzOHo3Q01IVVRDUDZtOUhkZlJxQm1IT19ZVHdsd3FlM1Vvb3ZHRFFtNHFqdzFZRQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Bridgeway Capital Management LLC Acquires 29,354 Shares of Costamare Inc. (NYSE:CMRE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWRnWmMxU2xwRHFfZDBHYkpEdXhTcGZ3d0xQY2VZSVhWZVFhNFBTVTlvTjl4dmNIN1J5bWZxWTJ6SUp5SEo4cUlRT2F3a0tWdkNlY0NXZER1eHlRMkVPWUJuNGptb3JlTVNPTWtvaEkxWlZLbEJtS20tdy1SR2RWZ19MN1d3RWRpMk0tdkRsbFBrQVZwWXFfZDRXclA5dWJyTDh5WnUzeFQ1eUF6SmE0ajNPNFgtZ1RFYm5tLTF1cWZRWk9VX2w0bg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 13.1
-      },
-      {
-        "date": "2024-12-03",
-        "price": 13.2
-      },
-      {
-        "date": "2024-12-04",
-        "price": 13.19
-      },
-      {
-        "date": "2024-12-05",
-        "price": 13.31
-      },
       {
         "date": "2024-12-06",
         "price": 13.21
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 8.59
+        "price": 8.6
+      },
+      {
+        "date": "2025-06-03",
+        "price": 8.56
+      },
+      {
+        "date": "2025-06-04",
+        "price": 8.66
+      },
+      {
+        "date": "2025-06-05",
+        "price": 8.9
       }
     ],
     "current_price_data": {
-      "price": 8.59,
-      "change": 0.02,
-      "percent_change": 0.23
+      "price": 8.9,
+      "change": 0.24,
+      "percent_change": 2.77
     }
-  },
-  "news_sentiment": {
-    "summary": "Costamare Inc. (NYSE:CMRE) has recently experienced mixed signals from investors. While the company has seen gains in the market, its stock price has dropped despite these gains. Two Sigma Advisers LP has sold shares of CMRE, but Costamare Bulkers Holdings Limited has debuted as an independent, publicly traded company. The company has also declared a quarterly dividend on its preferred and common stock. Overall, the sentiment towards CMRE seems to be positive, with the company being viewed as being in a good segment of the market.",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "BDX",
   "name": "Becton Dickinson",
   "sector": "Health Care",
-  "market_cap": 48393596928.0,
+  "market_cap": 49118711808.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.72287,
-    "PB": 1.9172685,
-    "EV_Revenue": 3.261,
+    "PE": 33.21318,
+    "PB": 1.9459963,
+    "EV_Revenue": 3.239,
     "ROE": 0.058870003,
     "ProfitMargin": 0.07179,
     "GrossMargin": 0.46322,
-    "DividendYield": 2.41
+    "DividendYield": 2.43,
+    "DebtEquity": 76.344,
+    "CurrentRatio": 1.127,
+    "QuickRatio": 0.483,
+    "FreeCashFlow": 3501750016,
+    "OperatingCashFlow": 3300000000,
+    "FCF_Margin": 0.16781281268509607,
+    "ROA": 0.03687,
+    "PEG": null,
+    "EV_EBITDA": 12.126,
+    "BuybackYield": null,
+    "PriceToFCF": 13.998256999508214
   },
   "technical_indicators": {
-    "RSI_14": 34.67817208019744,
-    "Momentum_10": -3.6257912761935582,
-    "MACD": -5.821865283952661,
-    "BB_Percent": 0.2958230668563494,
+    "RSI_14": 38.21800489104621,
+    "Momentum_10": -1.166688390656023,
+    "MACD": -5.047781990869765,
+    "BB_Percent": 0.3634513712268957,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8881269473297416,
+    "ValueScore": 0.8852121931612,
     "QualityScore": 0.4404507711895866,
-    "SignalScore": 0.7227791424883299
+    "SignalScore": 0.6621373505287238
   },
-  "volatility": 0.0225131996688809,
+  "volatility": 0.0225018404544381,
   "beta": 0.279,
-  "return_6m": -0.2351491146788972,
+  "return_6m": -0.2216627935389382,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
-    "target_mean_price": 223.25
+    "target_mean_price": 221.82143
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Becton, Dickinson and Company (BDX) a récemment connu une série de nouvelles impactantes. Malgré des résultats trimestriels solides, le titre a chuté suite à des ajustements de prix cibles à la baisse de la part de Barclays, entraînant des déclassements de la part de BofA et Wells Fargo. Les investisseurs se montrent préoccupés par des signaux mixtes tels que des marges en baisse et des avertissements sur des produits spécifiques, menant à une perception négative du marché. La décision récente de rappel de produits a également contribué à cette tendance baissière, signalant des défis potentiels pour l'entreprise.",
+    "sentiment_score": -0.4,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Becton, Dickinson and Company Stock: Analyst Estimates & Ratings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUtUTzM4YWl5NXVObWVPNENmMU1KSXdOcmZOb2xnVXR5Uloxa3l6RmVUMVU3R2d5T1M4eE1URGgtbTJKek5Hd1d5Mmk1ankyNGhtSUxaNlVyWkExWDlkU2lSZkZNVkdod1BTV0Y2Mm9uUHhKbXUxcTdva3lQeXBYNTM1NWVUNDJURGtwb2Y4VHNoMS1yLTJz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Barclays lowers Becton Dickinson stock price target to $241 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzF6VFptZFBlNmo1czFNRDRPdkswQXZVVE1lVjNoaWNlU0FEamVEYU11a3BRVXZSSGhSb2lUdkJrQlZpOGRNemtsWEJrYXQ2b1RxWm9YNGhXNTU3dXpnU2lXdVJwSE5rc1ZmMlhZc3pOMXZ6UkJkWG1TcnFXT3hNSU1SMkpnSV9DOW8ySzBJSkRxTmkzSm9YSlhiLWVEMWVPRmQ1Ry1LUlpBUVhQTUEyQlo5RHNsSTBuOUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Becton Dickinson (BDX) Receives Adjusted Price Target from Barclays | BDX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2NYcmJjQ0lZTzFCUG1TRVNrMUVzOC0tQW1XcndWeFFFdmVTd0RFOEY3RklOQlQ5d2pQZW05czhRQUoyLWlLaDdsWDdwZmpISDVSUG42SHc2Um1ob1NHZy1oaDZtSDR1a1djWWVKZnQ3aGduV1Q1aDc0aDR2a0lSUGQ5X0RXbm9DQWQ1WUdKdmhtZ094aG5YX1NtVldxTzZ0VUNpcFEwTW1rNGRlejJnWjgtY2wtbGQwSUZNYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Becton Dickinson EVP David Shan Sells Shares and Other Important Updates - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb01MdnFZNy1LVlBHWjNFMGhPdkxGTWhmaE5zSm1Fdm5Ed0ozMFdrbml3NURnMk8tT29HLWNjeDVyWTgxU3BoOHNackJscHJCb0RRNHo0Z3ZxRWtEd2p4cVBTT3EwUTZCQW9IZmNCaEthblFfUG9TZ1NFOGRlV19IbXRVWVRfMmJFVUFYNENCamszNXdaYzBMU3NUWUVyUXBEYUs5cnN2c3dHeVhwcVFkRUxpYVluaDY5T3NFVVpraURYWEw5UEMtYUR2NzdWdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Becton, Dickinson drops after guidance cut; BofA, Wells Fargo downgrade - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFd0MWM3dG5MRC1NZ00zeW9lODNXYi1HZ2tWX3Aya2lxVXFNMUQ0bVRTdFNITGtVT08tV2g3aHF4aDM2dGUzdGhDcmVTSFczN2Q3ZlN2aFpIR1dnR1lzSVUyMFBSb3VZWUF4cDkzVmNoYkVDdW1DdGR1T2ZhRk13cVVhZERxQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Becton Dickinson Vitals Drop: Analysts 'Have Been Wrong' On This Med Tech Stock For Years - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT0lnN2g0VV84YWRFSS1uOFBteXdMT1JEbWFqN09TbFVpdmtFTU02Y2NkaDZ0aElYbDZtNEExYjJpWTh1clluMko0a29Fbm93R1FjQ0hTWGNrOGJuV3puSWxQd2VSTGdsQmJRd05rWjRvLWpxUTYwN0hjTWE2QjViYXVwdEdiZ1FHVTVlSFRoNTR2eTBoeEF4SmRoY3hlQTlCYW9zcld3YWtrbFJrekpNLVpVOTFuUC0wTDBpZW9BOFJvMVBGbmZlaV9MUWJvWko4aU9KaEJtRHZ6NWZweHlB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BD Stock Falls in Pre-Market Despite Q2 Earnings Beat, Margins Down - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRQlNkM2c5dGYxcjBsSGplbE1FVU80aERMREVmcTAzVlQxdnlGUDhWekNhWDRDR0dTbGc4S2Y5Q3dqU2hia0VsOUdLbVJKdlhvUkpUNURXc1FpcFF5azJQZS12ejl2NFc0RVJpN1BSWEJ6bHp6b0lObkR6aw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Becton, Dickinson and Company's (NYSE:BDX) Stock Price Struggling As A Result Of Its Mixed Financials? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR21jTmVhdjd6TnpxSmdvOV9HZVZlT3pTXzlDVXZPUkFmQkVCYVFZTG1ERVlPbnczNERPc0xURnZZbUZvMDB4SkszaGc3b1dmMkl4Y01hN1hoNHZwSTZUZGRqbGp2ZWR5TVE3c2JkdHlVdE1iMmhQR05yNGN0SFg5RzI3WWc2bUV2WUdTSmFqSWswQndjNWlNR2trQkFFb2RMOEtJLS1rSUVyZG1CYWdyOW4tM0J2Yl92UkxsclJaNTBTTEpPWlptdF9xRUd0azDSAdQBQVVfeXFMUGVMV1Z2ckhEOXZlTzBubFRiZEdhYXdKelBCY3RoZmREdHhueEl3THhMVTVkbGtFa0IxVWFnNEIzRlZqWXhhWm5DUW9hZ1hPTHRXZU9HMXlVX1A4UDdKNmZKLWI1cnRsb29QTTJuTGRsa3YxbHA4dXNPRndrQ3BtRzI3WkhTT1BmUWw1VUNMMndXQUR2YkNCVV94RWxmNm9qS1NsMnA0emlKU0Y1b3IzbjJadzZwNHVPZzIxSGJ4bUY1LXVTMjlzSFJvakhIa3ZCZGtYd3o?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UNH, TGT, BDX: 3 Ridiculously Undervalued Stocks Set to Surge in May 2025 - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3NzWE1GNmIzUk9EUjNDeTh6elQ3SURKbkNwNVFFLURpNFB6RTVNNWQwTWZqWl9FcXQtU2V2RXoxOVc4cGx2cGlKZkNBcHNuZW5XV0hXRkVwTzZRSjdkQjNRTGExVW5NWnJHN3FZQXBKX3BYTjNOYzJnZ2tBZTZfY1hmU0V1cXkzcXh5c25rQmctRnZuZTg4b2xWZHZGWGVXY2tGWHo0aXZXeXJRSEN5eWZzNWE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Barclays Lowers Becton, Dickinson & Co. (BDX) Price Target, Maintains Overweight Rating - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWZMaEVLZHNvM1dGREktQlp5OEVWZmhtMzFVcDhGbmpja3hsZ3psS2ZtOG1FR0Y0alJMdEdmeUhsNWZQR19WUGdObWFqZmZxMkhDbmgyUnZjM1JEWlR3ZW9LQmNxNjhDX0pjSkV0ZzJmclJINnRFNjZlQk56VGxYcTBmbkFpb21Kdl9QRmdwS0NFT2diV0djSFpyNHNuZWpKbjItOHpuRkxyNHlCaS1ubW4wRk9SYzN0ZF9oLVA5Yy1YQdIBygFBVV95cUxOMzFLVjVXS1ZFZE5IZ00zQ0xpWjNhMV9QVW1odTBWRnhieXB4YS02b3liZkhOOUpHb1FNcVRQc3pmNzUwMnIzNU5kdC1YbHZfVWtqSThZU3dhbDJ5NEtzcXNZbVZHM216bUljaUJyTlktYlpYdW1SOHRJMEVtS0R5S0JuY1BDeHJWTE1XeWFxYXdvWTRxVHNFME1sYXk0Vkc1UERRVXhQM2lVNnI2bmxmRjAwcmJ3UXlDcW9tejJKQjlFalNoNDJfOEJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Becton Dickinson (BDX) Maintains Overweight Rating Despite Price Target Cut | BDX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX3VHWUR6SWJoUklSNnhpT0owTUJTeFZrWWRlc1ExUE9id3paMUFPbTFRZGRJWGY3RU5JZjZGZWNZc0RwV0ZlVEotUm5YMDF1Y25jZmxBUVdEYnRRb3ZtY1AzV3hveGZGdzlIdG9fWUJ6bGhDUi1pcFB5T1ZZRUplcDNvUWxJZjloUVNlbW44TTZlZFF6TWtLTFJNWFNhTmV5Nm9KeWVMejdqbTh6RzZ4blVqZjltQ25xdVI0YUNVbzhLckFhYTFJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Becton, Dickinson, and Company Stock: Is BDX Underperforming the Healthcare Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXy1tanNOczFsQVlPczRIaFF6Vm55NTh5Y3ZTRW5jcWh3cU5wTTZFbEVqdldBN084VWp0a2hHeEptcUZKaFJPeVFSYmNleGd4dURadlltSkNENFNpRnNncmZzMk9CYjJVZE9lelc2ME90ZWl1R0szLUxWUjBfTEpKNU1XbVRvd1pXQ2dWd2N6d3ZuM2J4MXo4MEduY0oyOEh4NFRtcDM2TQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Becton, Dickinson downgraded at more firms following Q2 results - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0tDdXBSRTJyRW40RFk0alExclhCQ0dxbHhJM092VEtYXzhMZXlyZE93VlJXb1QwZFBNVHNHNUc4V0J0S3NRdjZydGFUQ29taV9uaUZtSFdGaDI0cHZMSUt3bk1FUzRYbU11UzdtWk81WG5xM3F5bDdjZVVuQXNYNUlJNFRqY19Ic24yZHgzazdTR1NMVW1ESHBtZTFlZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BD Stock Might See Short-term Decline After Warning on Tamponade Tubes - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ueW51aER6UnBUWl9LZVk4UnNKclpXd1BIXzNqRThRZU55bzFZU05rb0RIZ1pYdGptQ0F1RFFNV2stTnRxYUV2YXFaRG1mUU9UUmlfay1DSHVpRnIxb29ZcEE2dXo2WC1WOHFia3l2cWoxZmU0aUwxLVdR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fund Update: Liontrust Investment Partners LLP opened a $114.0M position in $BDX stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pSc2F0UmdRazZ1dTdZaEVaWE5udU9vRkpQWHo5TXJYRlVNTkYxSkRDVFJxemVhaFFfbk1PYThtOE13aVE3OXpfSjc2MWRjZ1Z2dkxidG4teFByQ1FCY1lmVmotVjZSSHh1UmFacWUwVG43RGs2WmNjSGt6eGRKY0VGdVdDbFpZemUtZFNNN0lJTWxpUmVEaEVnblNIWjB0NUFXRzBMUjgzN2ZLUWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Can Sustained Product Demand Drive BDX Stock Before Q2 Earnings? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGNDTjRQYXNhWEtBc2F2ajNfclZrcFhkVDlmcV81Z0VVRlBqdDRqclRyQWNIY1FGWlUwM29tQXNDSkhEVS1iOGoyLUJFSXZ4WEM1U2pQRjBsUFZnRmlqckxoZ3hDbF9FbktnQUJLUnlNQU9kNGhxZE9sZVVfSXdxd2p2QTMwWnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BDX Q1 Earnings Call: Missed Revenue Expectations, Margin Expansion, and Strategic U.S. Investments - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EQ2hIN0xPVVFxSldYU3VZbGFrTE9uUmNPLWVfZGtDSXloR08xZTlBT2JtLUdDTENzWEptbUQzaTlId01LTjhWYTljQjZ1Z3F5cjFEYTE3bms1elI1dkd2ZWo4cC1IRnFWUjA4V0VZOUlTZGdxSHgyYXRqdjhIUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BECTON, DICKINSON Earnings Results: $BDX Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkJsX25XdmZ0N1diNlZtanJTeFprMDVNWVF0amNlTHNpN2hnZ3lfcXBrRms2cXJlRE0wT0NLdEF5ZksyQTIzRzJNcHR5cFFLZ05DNnh6TGN0UjJUVHF4U3lpcDVON1R4cjFlSFhIU2RpLXEtY3ZNUkI0MG13TV9JOExiMjZPeFl1bU9TOHEzMnBUekpVMFBpS1V3V3o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Becton, Dickinson and Company (BDX): “A Shocking Miss for This Once-Reliable Med Tech Giant” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTldxQWRHUkdTSHVPc0ttLXJhLXU4aTVyb0pkQURmcXJTWUp3Mm5BbWhHdGNFN3ZrdTU0cEhMS3JRZGdXRFdqN0o0N21WSl95bjkwY05zeWZjUUNYRDE0TTY0N191RFNXRXJOakxkbDI0VXFLeWlIRW1aQ0g5WHZhb2prbW96Mm5i?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BDX Stock Declines Following Class I Classification for Alaris Recall - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWmlxOHNfaHp1Wm1GLW9sdmcxbUlzeUFYelBjT1NfUlR5Yy1UWWZ3TUR4V0FmdDd4ZTdHUGxnT3Y3RHBYUlRxLVBfc05HUjFtOGtNTW1QejVNM3VFSmZaWVl5bGxScnZUYWdyS2wycEtOWGxqLTZyUTZ6emt6aklHZVczX1k0MU0?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 222.82
-      },
-      {
-        "date": "2024-12-03",
-        "price": 221.26
-      },
-      {
-        "date": "2024-12-04",
-        "price": 221.43
-      },
-      {
-        "date": "2024-12-05",
-        "price": 222.24
-      },
       {
         "date": "2024-12-06",
         "price": 220.02
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 168.55
+        "price": 169.4
+      },
+      {
+        "date": "2025-06-03",
+        "price": 170.66
+      },
+      {
+        "date": "2025-06-04",
+        "price": 170.94
+      },
+      {
+        "date": "2025-06-05",
+        "price": 171.03
       }
     ],
     "current_price_data": {
-      "price": 168.59,
-      "change": -3.98,
-      "percent_change": -2.31
+      "price": 171.03,
+      "change": 0.15,
+      "percent_change": 0.09
     }
-  },
-  "news_sentiment": {
-    "summary": "Becton, Dickinson and Company (BDX) has recently faced challenges in the stock market, with mixed financials and a warning on tamponade tubes leading to a potential short-term decline. However, BDX has also launched a patient data registry for its Rotarex Atherectomy System and experienced a Q2 earnings beat, despite margins being down. Some analysts have downgraded BDX following the Q2 results, while others have noted that the company is underperforming the healthcare sector. Overall, the stock's performance appears mixed, with both positive and negative factors influencing its sentiment.",
-    "sentiment_score": -0.8,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.2,
-    "negative_ratio": 0.8,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

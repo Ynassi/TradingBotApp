@@ -1,56 +1,164 @@
 {
   "ticker": "SMP",
-  "name": "Standard Motor Products, Inc.",
+  "name": NaN,
   "sector": "Consumer Cyclical",
-  "market_cap": 643658624.0,
+  "market_cap": 642504640.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.349806,
-    "PB": 1.0089412,
-    "EV_Revenue": 0.907,
+    "PE": 11.329457,
+    "PB": 1.0071323,
+    "EV_Revenue": 0.891,
     "ROE": 0.08941,
     "ProfitMargin": 0.02021,
     "GrossMargin": 0.29662,
-    "DividendYield": 4.09
+    "DividendYield": 4.25,
+    "DebtEquity": 118.204,
+    "CurrentRatio": 2.323,
+    "QuickRatio": 0.757,
+    "FreeCashFlow": 2826250,
+    "OperatingCashFlow": 62189000,
+    "FCF_Margin": 0.0018283117145346459,
+    "ROA": 0.05584,
+    "PEG": null,
+    "EV_EBITDA": 7.653,
+    "BuybackYield": null,
+    "PriceToFCF": 227.56801273772666
   },
   "technical_indicators": {
-    "RSI_14": 58.19740673706983,
-    "Momentum_10": -1.769540966247095,
-    "MACD": 0.9864844507602476,
-    "BB_Percent": 0.5252548787489528,
+    "RSI_14": 56.799217473689275,
+    "Momentum_10": 1.3522863647191825,
+    "MACD": 0.7554856031426489,
+    "BB_Percent": 0.4155956529953538,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9348347810643682,
+    "ValueScore": 0.933964357007682,
     "QualityScore": 0.4126264369293778,
-    "SignalScore": 0.4442590360215027
+    "SignalScore": 0.5119036496280907
   },
-  "volatility": 0.0214457586814596,
+  "volatility": 0.0215139018189966,
   "beta": 0.648,
-  "return_6m": -0.116490739373434,
+  "return_6m": -0.11124414955609,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 2,
     "target_mean_price": 40.5
   },
+  "news_sentiment": {
+    "summary": "Standard Motor Products (SMP) a récemment connu des fluctuations significatives de son cours de bourse, avec une hausse de 9% suivie d'une baisse de 16.88%. Malgré des résultats mitigés, la société a surpassé les estimations de bénéfices et de revenus au premier trimestre 2025. Certains analystes considèrent SMP comme une valeur sous-évaluée, tandis que d'autres soulignent son potentiel de croissance à long terme. Les investisseurs devront surveiller de près l'évolution de la situation économique globale pour évaluer l'opportunité d'investir dans cette entreprise.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "2 Auto Replacement Stocks Poised to Gain From the Repair Boom - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVpHUllNMTlKOVFUTkNMcDF0TW9iSWFNMk1BWlNZUm83TGI5TmpiUjNCX1pvOEZYRFl6M2V6ZDVXZi12TzM5WjBMYlduVk5aWDVxYlYzeWI1aEtZNjdSR0VCNnUyT2d1anh5UHRPSFVmcVhMR3FCMEs3dUt2bUtSTGZsYU4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should Value Investors Buy Standard Motor Products (SMP) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeE95NnBMVFRrYW16RWdGZzd0dlFacmd4aFlQM042eTd5RnNJTHpLeWZXZlNUQWoxRW9MaWNWQWlsOXRLcVlTQkFPeFFGZHEtS3EzRVFFanhiTXoybm1XQ3o1eF9nVTdoQzJnT1d3cHUxMWlHS1BkY2x5YXRqX1g4ZFZmZDI1QVREbk5qa2Q4NmpVeUZFRzNJNVB3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(SMP) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnVUV3VRUVN0V1FtUGlwSldvQTF4dVBtekJqckxaNG13ZFk4ZmVUZlc1WVpyUUxhUS1YVU9pcVhhY21PaDE2MDZLSVUzQ3BucXFBYTUxSTRvbnpwajVYSUw2NnQzZjhtM3RKSVBMajZrdWMzc0NpV003dHFxTC1qQ29odVNERHJOSm9vNTNqUjJ3ZnN1NEUxNEVzdWxGd2M5ZHRDYkxwb2I1ZkNW?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "There's No Escaping Standard Motor Products, Inc.'s (NYSE:SMP) Muted Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOemxaZU1mYll3NTZMREFMUFlESzlvaTZ0ZjhUYUs5QjRxRUNyaDBVQ3YtbGR5MkFVQ21wY2pQampHZklTUVVQMzU4TmVKTHJndnRSeEc3S0VDTmxhWERpRVNPemtfNnVmT3hrRGlHU3BwUkhpTy1QdE9vUFl2ZHRDT3R4T3FET1VLX1hJVjJHSWxibTFocmdsalFTejZGZzk0RmtmQ2Q4UnM3UWp3dEFnZ1JEenFfU3dNdGdXYVMwUlFUSHNBbkROQVltZHNGbUlXNnlQcUVBemkyUdIB3wFBVV95cUxPQ0ZDRU90OGhJZnRHdlplQzR5ejlteVRYQjhXdlFJMXlLNThYck1xV0NOTF91ZjVMNVJvRXJwSGg4R0dZRlkzMWFxQ25XSHBYZl9PUFdPbzh1M3owUFl3dW41ajFTazZFOFVTR2l2TmFNQmlCdHFYV3JUcFhxRVN4eFlzWlBwcHVKSm52MmlVdUFpcUFmcFZ6UDJhWlFQbHk1WnNYV0dRM0xIaFFvMkN4ckFHNF9CaTRhRmV4dnVnTnJfT3EwYUZzZzNjRFhaZ2diRGNDS2hlcWN5NkJfczVV?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Standard Motor Products (SMP) to Participate in Roth MKM Meetings | SMP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSGhjVjBuR21Db0lXckZFeEg1YUlCeC1RNnRPX0JCNXFuMUVGSXF4MlhGelZYdlE1bmU1OTlZc0pack1MZ2JpN2J0VF9Mc1JvYUl0ZnNPandXdjU2c2hpMDRaUjBtNFR4eGwyaHEwblZPWGhfcjZnUFQ5R1I4Mms4N2JKM1hGN2dYX3hRUmJZYmFyX0JjVExBUVk2RW5WU0pMNktRX1M4NGRYRDk0QmZ4VmNENHBhcEtvX1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Standard Motor Products (SMP) Up 9.3% Since Last Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnpLYWF6TmNnTWVSaUtJMERHOW5HWmx6LUpXS0hlbjg3Q0puRlJ0WlVhcERVZlRZMGo0V0lMT2RpaXhwX0NwWHBDTUJNNjRybjRLd3NDX1p1WlZDenJhWDZaUjBhQ1BWM21SX08zdldtc1BwV3U1X09RdWNtVEw5bGtSX3FONUdxWUhpaDFrVlg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should Value Investors Buy Standard Motor Products (SMP) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRFRDank5NTVTNmwwYnRMdjk3UFdMQVFMOEJWS2U4ajVWWlJUcTRyZzhHNFh0YjM2ZHFRc2l0UEMyOHdPNWRvT1k4WmpfRW42RjR0T0tkWWdRUUYtc3FqUlFKWXZRSFpNd3Z4bkZubW1fWVJpVmxZMVRXeGliaFVuQTJGdjNHaTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Standard Motor Products (SMP) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV005SmtjSlBHRE5hNUkydlRnbGNrc1RtdUg1NERkUDYybEZVcVE3RzJLNF9Xa2ZEanNNdmhSbGJIeUhEM29WajRKOE9teXpJQXBjdnhaSEtKcG9uLVNpQ1ItT09vY0czMXVEWEcyMnVReWxSX2tqNFZkS1d6NUVLMFVZSGlSdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Standard Motor Products (SMP) Reports Strong Q1 Revenue Growth | SMP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMFZwX3FkZXpGbDcxWGxZVGVEZEltMjFTUTBkaU1LVVczSE90aGRUOEtBVGxhUVRKYUROQkQ1MTZnQjQ4R1FJR3lwSFlqS0VPQUlEMHBOanNrTHVQQk5GOEl3d0tKVXY0NkNEN2doU2ZzbGFyUnBwU2xReVQ1X2VQQ2ViSXdCOU10TmdfZmZYM0NHZlBqQ2FsYkc0SWN5aHRIa05GRmkxSkNGSGxtRlE1WS1QVmk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Standard Motor Products (SMP) a Great Value Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaE5kalhWRFZ1NXVKcmE0T01saDlDSzhWT0xpWk9OMUphZ1I3R0ExY1VWUld1T0haRldVUE1YY08wbTFGckJVMzcwMGpoOTRMZ3JTbUVMMWZiN3dXX1FXbV9yVW9TczViWF94QWl4M3VzTXI1alFCdEFYVWstWTJ1YmZjSnhWSTNXZ3p2am9hb3Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Standard Motor Products (SMP) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVXZyUEpLQWUzUEhLb1JHNVNBQUtadWRpcmRyNl95VmxJYVVuaGFCSzhDb2JLaFlTR0xRT2VRMUlGcTJQdFpvdGhEVTM2WlFreGNhNlh2RExYendoS2VSbVphUDZWdEhUZ2dOYU5LX3VxeG5ObkR2YUNZU0ppamlwOHNDOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Down -16.88% in 4 Weeks, Here's Why Standard Motor Products (SMP) Looks Ripe for a Turnaround - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWYzWWJ3SEhqSGVWRG5RLWFPa1h6ZVQ5QjlLVmY0S01hcjRZVG9HRjZDUGVLZlRnUm5RZnBHOS1URlVSLUtRNDVyTWo4ZVJ5LUplR3BYbllUaDNvLXhBdU9IWDAzOXFWM2dtUnMxNURmNDN0X21hbENUVkpZRzkxVjhXOVEzdDA4VUhSSG1SVHZYMkZKX0hNc2dOTXVzZmJacVpvdGJSLVI0cnRGQlE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Standard Motor Products (SMP) Beats Q1 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb3gtZGdPMDlvNEFuREVoUHhEaldkOUk2eHd2S3pzSndyeGNjS2FoNzZaZV81eXNrZ04yblBsUUtnQ3pObHFhckN2X2lmbldjWmxPRXZHZE1HSEJTWFpoNVpHbk1WZ2lSMlRHN3V6QTRpLWpLZ3RxOE9IWlp2M21IWGFhbXBuUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Standard Motor Products (SMP) is a Top Growth Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmpXaGgxWlhNN1p1aHQzUGp5TEpIVDd3SW52U1NyZ2V1b2YyanpZZlowYllIWTl5S3M5V3BmdHFrdmJnYjI4TlNfTE5RMGxnZlZkLV9XcFE4TF9feF9XMjVHb3VCajNQTmZkazA3OTVXUWhSZWNiUklNSzdnb0VrMGFzRnhUN2VXbGtGdWdtVEJ3QW9D?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$SMP stock is up 9% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObGN5YTJjd0t6SXFHN2RYS0tRVGxpc09BR0tVNWVjSTVHX3NaOEJVV0RMNXBFME5peDVQTVFvWU9sV0ZXX3UzUGJPVHN2dnlDNWthVFJBVjFiT1F6Zk9paDNVNkZYVG42QTlEQnlZOFlDZTJNVHl4TXhOeUJpNmxHdmF3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Standard Motor Products (SMP) Stock Undervalued Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2VVZU1KNzJYOWxxSWVFZmc1NTlfaWh1cXV3U1NrZ0JJZWhhWXRyakV4X1dlM3JkZnROZElQa3l3dmlfbFlSVXJ5T3M0a2dIOVkxdnRZMzh5bFAtbjBSdHhJUy1vVnl6R0daMWJMcjFLSHA5OG9TejFXT1RJbENUeVJaNVhYTTktb0xhc2J3UXMycGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Standard Motor Products (SMP) Upgraded to Strong Buy: Here's What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUYxQnhfRXpjU0lYMUFuZ3g5eHAxTkV3MGVENTV6SGtaYmMtS1FOZEtUZzFmMGpVZ0p6NTZiMGk3Nm5QVm90dVR4QlA3bVlHR2ZkaVcwaC1Ia1VfcDZzeDVRalk5NHFhc2NZUllLUmVDUVkxZXdwMlRocFFlVVFkR2NyMjhqRXE4RzNmUTM0d3J3VjJia3Y3NWVRNHp1clBwRHA1R24tU3Rsdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Investors Undervaluing Standard Motor Products (SMP) Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTEFBRS1nQzV0ejRjNU51YmpqODMxRUFlWHlGNV96WC1xYXpSNHFicmM5Z0tkamp2UE1HQVE4d2dDemIyUE9RTEplZUlDZHNtUnhFVGt3QmxoQV9UdEdhbFY1Qnc0SmlzaDZyNmFSY0hwV0VrN1hYTklfOHhYYWxjc2ZPaGhSanpzai1VMUJ4TjV1UV8xdVp0VE0zeU5RQ0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Standard Motor Products Full Year 2024 Earnings: EPS: US$2.46 (vs US$2.91 in FY 2023) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcDBoaVVaa1VLOTVmQ3NwWGRjUElHLTFjUldaNlg2YjdPQlR3LTVneXV0OVZxTXZQVnE3TzBjaWxvZ3RjQUhDeXp4eHVWWnFCWFMxNTZTR2hXRDNsa01WQ0VCcGp6UUpvUktHcXlGTUN1YnpScklVYmRLU0lrOGplcG9RMjVrbDc5VFV0enFqb1ZnMzl5NS1JVFhaT0VCRUZqd1F6RlV0blUzRG9tWWg1X05Ca2g4SVhDaDFnZTFSTUtfTi1BaDZIcVY5ejVXNDJYaDF2TFBnWm9Bd9IB3wFBVV95cUxNM1J5R3NvcEpWb3RRRDRPUEppNDdVX3c5Y0xfYXhZeU52WlJxbVVyLUtzM01oT2ltV0Y4b1ZVVXc1QjA1RGt3QkVNNlZNVWc4NXlPd2JPXzhZRnNHM3BEMUU0YUdOb2VDUUk1dGZmd0locUFtSE96Z29DS0hJRFB4N2ItUExzWUZNMERZUWZfN0xaV3RuRzdmS1RTc0FSSUFZcFh1YlNPVTF1ZnRVRFlXQ3RCbVVxUkk3NHptNkxqVTROdUt1eVlpMmVWNGwzdGpVeUJiQ2Zuc2trVWJVU3Zn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings call transcript: Standard Motor Products Q1 2025 beats EPS forecasts - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGRiVHJBeWxuTl9WbDdpakJXNTcta09hYnBVM3JOYVdtczhNZG9wbTV2Nk1YS2I2WE9MMW81OEFuNlg5TjRqZDd6Q1Y3TzhoV3RmN1FRSXU5cVgwd2VWRTZvVjZZVlgybmx0Q09paFRibEtmbVRMbXdheTBlM1FDNHY1c0NLT0J3b29jNXlucXVYeVpPQ2Z1YmxtS2VTMkNoWUh4Z3RiU2Z5TDZHY0VLVnpmUHZjQ0JEakMtZTVocWRMWUZzMUdSY2Y3U3c?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 33.83
-      },
-      {
-        "date": "2024-12-03",
-        "price": 33.16
-      },
-      {
-        "date": "2024-12-04",
-        "price": 33.74
-      },
-      {
-        "date": "2024-12-05",
-        "price": 33.81
-      },
       {
         "date": "2024-12-06",
         "price": 33.57
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 29.17
+        "price": 29.1
+      },
+      {
+        "date": "2025-06-03",
+        "price": 29.44
+      },
+      {
+        "date": "2025-06-04",
+        "price": 29.21
+      },
+      {
+        "date": "2025-06-05",
+        "price": 29.26
       }
     ],
     "current_price_data": {
-      "price": 29.17,
-      "change": -1.13,
-      "percent_change": -3.73
+      "price": 29.26,
+      "change": 0.05,
+      "percent_change": 0.17
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent Standard Motor Products (SMP) et l'analyse de son \u00e9voluation financi\u00e8re. La synth\u00e8se courte pour un investisseur francophone est la suivante :\n\nStandard Motor Products (SMP) a connu une forte augmentation de 9.3% depuis son dernier rapport d'\u00e9arnings et a \u00e9t\u00e9 acquis par Ameriprise Financial Inc. \u00e0 une valeur de 138 millions de dollars. Cependant, la soci\u00e9t\u00e9 a pr\u00e9sent\u00e9 des r\u00e9sultats d'\u00e9arnings mut\u00e9s et sa valeur a baiss\u00e9 de 16.88% dans les quatre semaines pr\u00e9c\u00e9dentes, ce qui la rend peut-\u00eatre pr\u00eat \u00e0 un retournement. Les",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

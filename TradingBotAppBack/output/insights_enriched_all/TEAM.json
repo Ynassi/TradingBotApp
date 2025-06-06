@@ -1,56 +1,164 @@
 {
   "ticker": "TEAM",
-  "name": "Atlassian Corporation",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 53993545728.0,
+  "market_cap": 57383813120.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.491602,
-    "PB": 39.5396,
-    "EV_Revenue": 10.632,
+    "PE": 15.77421325,
+    "PB": 42.0223,
+    "EV_Revenue": 10.806,
     "ROE": -0.34334,
     "ProfitMargin": -0.08659001,
     "GrossMargin": 0.82308996,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 89.896,
+    "CurrentRatio": 1.262,
+    "QuickRatio": 1.209,
+    "FreeCashFlow": 1758542080,
+    "OperatingCashFlow": 1511297024,
+    "FCF_Margin": 0.3543626089504441,
+    "ROA": -0.01928,
+    "PEG": null,
+    "EV_EBITDA": -700.682,
+    "BuybackYield": null,
+    "PriceToFCF": 32.63146999587295
   },
   "technical_indicators": {
-    "RSI_14": 43.54277577828491,
-    "Momentum_10": -6.841340725058921,
-    "MACD": -2.5687912445583265,
-    "BB_Percent": 0.2626644168043132,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 54.750123827867014,
+    "Momentum_10": 4.508298521355703,
+    "MACD": -1.3138460422481728,
+    "BB_Percent": 0.680393055613745,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8859431777793297,
+    "ValueScore": 0.8835357306170593,
     "QualityScore": 0.4086160031493104,
-    "SignalScore": 0.5658477135934474
+    "SignalScore": 0.5140341032178923
   },
-  "volatility": 0.0371621479472182,
+  "volatility": 0.036801982107715,
   "beta": 0.969,
-  "return_6m": -0.2263991508152329,
+  "return_6m": -0.2150807680304645,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 30,
     "target_mean_price": 279.438
   },
+  "news_sentiment": {
+    "summary": "La récente actualité économique des entreprises cotées se caractérise par des mouvements contrastés. Le titre de Nebius Group a connu une forte hausse, probablement due à des nouvelles positives. En revanche, Lucid Group a enregistré une baisse, ce qui pourrait susciter des interrogations chez les investisseurs. L'introduction en bourse de Circle Internet Group a été un succès retentissant, marquant ainsi un intérêt croissant pour les cryptomonnaies. Par ailleurs, les ventes importantes de titres de la part de Vince McMahon pourraient influencer le sentiment de marché. Les actions d'Atlassian ont été volatiles, avec des informations sur les ventes des fondateurs et des questions sur la valeur à long terme du titre. Enfin, les spéculations sur le potentiel de Lucid Group à enrichir ses actionnaires pourraient attirer l'attention des investisseurs à la recherche de rendements importants.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Nebius Group Stock Soared Higher Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLXRNdG1UcG52U0VCZnEyZkJ1Z3E0a2JqbENMcWdwQXoxUE5SYnY2MzNaYUp3enc1UFJfZ2MyNjJKZGp3VzBxcWdTby1JNE4wNUEtempfTmdURm05TWc5NnJIeUZ4akRKMERsbFA2M0EyLVl4Ynl4MW1qa3piWkxxNg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Lucid Group Stock Is Sinking Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUnpYU0xZXy1oa0draDBtcXhuazhnS1VEa3FaQ2VTOGNXZktwY0VpN2VHbF93NzZ4X21Xc1NCQ05PeEpjMW1zV3pFRmx6cS1DN0NBUkllQUYzNldwVUpyUnNhTmdsRTdmYzBySmFsd291QzJONXp2VWNlSXRkT0taQ054bUpPVURp?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Major Shareholder Makes Bold Move with New Team Stock Acquisition - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDdWVWpueFBuUUhTREZkN2l6SFZRYnkybUlJQ3JETF9iSTJOcVl6SjRLLTY3RUY1NkJGREtfc1dLNkJ6VDhFdDYxanR3Ql85SXdZeW9Dak43TnZ4aEZnNnBSR3JxdVBxYVNmNm9jZl9ET0dSYUEzeXRMam5hY3dUcFdiaUl0TlNLZ29nUDg5UDlWVnhtTFM5dUUyeVZETlY1MDBGdnd4a3dCUm1nOUhGUkhaT0tuQjJUbGhTTHVaeVloT2RMeVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Circle Internet Group (CRCL) Stock: Skyrockets 165% in Historic IPO Debut - CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2dZX1V2UUtRWWItSzNmV25rUHhTbmZDTlVKTkZkTl9LUEJ0VEdkLS1HbENfQ011RWZtOWdTdmpnV1BpMVlncVdwdU9COEtqWjVjeURhWkFQbThpRzktaGFkWkgwT3JyT0ZkTkhHWnY1LTMzdnFpdVFYSHdSdzAtU3VtV21pdWh6bHByV2FSb2FIOVF2Y2ZkbzV3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Lincoln East students to test stock market skills in national contest - Lincoln Journal Star",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFRPTUlZeU5VTWJTU1RkRUFXeXY3QU9XcXpsSjZRdDllT0wwSFBhVm5rdkxZYmQwZlJqa3k1VTBnLUJNRUNtNV9yUDVLakZ2eWp0NUVQYXhmVDVkcEpwc3lrRzFYb25NbVlYWWQ1SXJnZ1FiLW1CLTVxNzBfaUh0dF94cUw5Y3FVVUNiSzBCVlB1QkU3WHpmU0JB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Circle Internet Group IPO: A Bet On Fiat Survival Through Stablecoins - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnNLYy1idlNWbl91QTRtTWdrRTVaMHNPcmpaZWV0Wk5XTjVRWlRvNzdEbmxCLW4ySnZRYUg0Qm9jaDdiUVk4RFM0UVFpcTh6VmJIemNJbGpCWnItSkJwTlQ5TGlWVElOeEZYY3VIS3o2QnFIdGFTRFR1bFZGQksxWUNzZVVvS3dRVkFIdVFiQnltd3cySzA5M25KOS1PM0pvVkNjVWRUc29Fel9oRnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Lucid Group Stock a Millionaire Maker? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44d2puQ1hvWUFyME00ejkyaW1JN2ZzRm9wQ3oxNGpOUjZ1ekdwNGxSc2dBbVYzRTB4QnBaMXE3djRwWmk5STNhbWN6TjFHcmEyaFlpTWhSQllsR09zeHd6NExjOUZ5Y3dSRlFYUk5VdmVJcFpHSXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vince McMahon Sells $250 Million of TKO Shares to Endeavor Group Holdings - Variety",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWJsaFJmZUlveVRtZ3BYeldGblFtZXkwSUFlMXEtY0t4SGo3aUxZQi1EcGJQdXJZOTFFcjJGRDFFOEhDYVo0RGVQbk9EemxBbjZSbVZZMU9kV0w5TW8zSmVPQ0h4QXN2V2tqc2lvMXBtRldVY2FLdDA3Ylg2ZTE0cW1YVnJyT2xfdnRDVUJVNTBVTFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Nebius Group Stock Soared Higher Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDRZLWI2WUpZNVhKcV9HbFlBX2Y4M2paMVNDRlEtdXhPUzJ4MXVSTG04TzBSLVdzR3NwMmgyQnNTQVNiMWJfaVZiY0VnRGdsVjFCYWdYU0UxbnFpeVB6bkpvSm9pU3pmeVBJZDl3dU9zdWdONXRIVlFfcVV3bV9ZVUZCU1RFdzFrNDJmOFdB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Circle Internet Group IPO: Stock priced well above estimated range for highly anticipated NYSE debut - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUJrY1l6ZE5JMVY0aXFxbFJDT0otNkxVa3VFY21OdDdjcmlrcEd3U1BMbUViSlh1UERyOV9KUk1jdFNIXzl3Ylc5bHYtOEdwdE5KaF9QQ0k5OGNkYlFBMV85amN5NEZva2d1SE5zbjYtcmR2MTJ4ZkItdDBmQmwyTi1pQ25wTGFBTm56VW0yUWZ3ekM2V0pRd1ZnTzZQOTA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Atlassian Earnings: Guidance Light Amid Shift To Cloud Business Model - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkJLVEl5MFZRYVR3X0lPOVB3ajJySmlpOVo5cXgxQk93Z3ZvRlljM1Jnb3Q5RUxoSlEyV3dLWkx0dmJLaXVtUE1TbmxuN2xtMDRtLXBNSk1hcTM2UFRyVlVQUFhXaWVkdWFzRUlZMU1wcVk0ZFU4QzdsRWFoMVJ1S1RiUE1fcWlQME5YRXZrSGd1V0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(TEAM) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHBuNXR0TUlIS1lDUGtfMUp4MDlkTVA1R0JTcktrSXJhYXlJWjAzTFVPX1BWOTZCdWdPLVFMV1pJc1ZURlh6SUZSRXhTU1B6NjgxVmpXYzlfQ3UyMVBDQl9lS1IwS0lSVXpKa3hFRWhBWFdJVGVqbVlzN1NjQUpvelVmamIxWS1vbGFSWWZ1cDRIc3djYTRMQVd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlassian Founders' Identical Sales: What Do They Know About TEAM Stock That You Don't? - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQal8xNnVIOTJGR0IxeFh0UXhNU2xyMmZMWmR0clZ6TVFPOEdGdDJfcldoNVhFOWkzcDl2bk40SHNTUS1vWXJFeWRfMlYxNWRGVU96Q0NjLWcwam93MWNaTE1qM0w3a1ppdDRFZF9qbHdUdF9xMzNvNXBYeE5VQ2szT0l1OFhka0tlVEtQVVNIUjhLQWNPV3JvNGI3Y3RrUDI5TFMzUVVGdDhZVG9BbFNaOGJrUjhNTVRsYW04aNIBwgFBVV95cUxNMlJUcXk1X3F2MmZCV1B1YTE5MG9lSWlGT3I3MXZsWkRub01LZnF5ejdaTm9kYnJKSlBhOURSTEVKWXB1ekptN2xsM1pfOTBzU0FqbXRzWWJtVDhobTVVbjVGajEtWjZJMlhKLU80My1YVS1VZHljSjVOam0tOFpEQm9uck0zWUs2OEdsT3ZPYUVFZXNLbGVWNURIYl9RaktZODhhRjViWDVzMWR6YVFQRkJqNlBzb2d5WFQ1dHBXM2Q3QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Director Cashes In on Team Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ24tZUFsMVZ5MHBCc1pmUElrMVVjQS1Od0MyT1BmWVpWV1pkc09lVG5HX0VFemo2N21GQTRIcEZMdnFVLXZ0cVRLZmhybnVUNmoyTDRxQmgtMGM2R0hxYTVKRmlDMTNIU0hhY1ZxeVk3MndmRnViM0taT3hUVGtwVXNIWTRZUWdWQ0RZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Lucid Group Stock Stalled in May - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXgwenpTTVA4VU5XOXJfYzFWUmFndGRock83SHJweENXTXlVaFpPRHBLdUZRM1BSZXp6T0hhRm01SmFoRndHRVFvS3QyNWxjWkJqTUxmU0xGcFBZVHVQMHVma1duT1ZVMFVzNjliUmFQbEpaNzhfQzhLc19ZYmp0NGZOd0ZzQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlassian (TEAM) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOE9IbFpkTTc4QjVOWkpTUmJQQTFwWjVRVTFUOHBFNTlJdTcxY1V3azNXRU82ZnpZWHdqVllvZS1rLWswaGMtOW9xYWFHQV8wckZLcHdoc09mRjJXT3ZZMjlJckt2X0VhOWhZemtpQTBGZXdQS3ltMmtiTEV6aWFuWmZhMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is TEAM Stock Still Worth Holding Despite Falling 28% in a Month? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW01OEtoSjdoVjFEMXgxYlhEMExrRnhKWXhzMENXTU1pVlhwSHZrRi1IZm95YndGNnZmN09TS1Qzd0ZwaWZKNXlMNzdMUml6ZFNEb2l5MUZvZXVuSG1tWERQZnlRdTdHNG5nX0RQT3VuejZVT1BkaG5JcXZXSmt2VTc2ajZPbHQ1X3c5dkdja1A?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kingfisher Metals Grants Stock Options to Strengthen Team - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNanBKUFRDNkZ4ZWRheXlZX1lKQzNPUC1pR2VCeFRETHN4bV9yc2xzSjRmSHZHdE1GcVBJeklJNVZhSGI5NE1RaktxaXBkNVlhLXNBNmZKVllkRHpON1ZJbW4wMDFyMmpBVFcyUXlMRjZnSmU3QUdBTUNhVVV4VzdtejByTnhObWgzdFdrUUhsbkVOUF9KUGFKX3RsTDNhRHlsM1VPQ1pRVXhlS2VnMWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Could Buying Lucid Group Stock Today Set You Up for Life? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEdMVU52M3dwYWk5OVJWVkV3dkN4RTRLNmRQWHNRYWJmN20xZ2l1LVpfamxYOHNSVVRfZFk5WWxjYnFfblFTZlF1Q0JPbHYwY0J4V0stVnhJdGJuMXh1aHNCUHlhMDdhSEFiWHZhdURvbVBZdTJidXIzZWRyRXRWX3FRUEdxYWYyYzdpczZtZTNQTVgyb1BfOQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Lucid Group Stock Your Ticket to Becoming a Millionaire? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkQ2VFJGajdLdXJnblZrNEFvNE8tZlhHTU5KUnFiUFd2cUd3RGtYeTlJdkUzUkszeUw4ME1WSFVUUFZDZ3RNN1AxUTFHaTUwckdJVVFPeXJNQjFweW1KNUtEXzJ1VGVrQmVYbDRYcU9CaEF2Zy0zM1JpVGVPbTVDX0RtT1J4ZnEzSEpWZA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 265.88
-      },
-      {
-        "date": "2024-12-03",
-        "price": 268.36
-      },
-      {
-        "date": "2024-12-04",
-        "price": 287.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 276.72
-      },
       {
         "date": "2024-12-06",
         "price": 278.5
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 205.36
+        "price": 205.63
+      },
+      {
+        "date": "2025-06-03",
+        "price": 210.89
+      },
+      {
+        "date": "2025-06-04",
+        "price": 210.92
+      },
+      {
+        "date": "2025-06-05",
+        "price": 218.6
       }
     ],
     "current_price_data": {
-      "price": 205.36,
-      "change": -2.27,
-      "percent_change": -1.09
+      "price": 218.6,
+      "change": 7.68,
+      "percent_change": 3.64
     }
-  },
-  "news_sentiment": {
-    "summary": "Synthese:\n\nLa plupart des titres r\u00e9v\u00e8lent des signaux n\u00e9gatifs sur l'actualit\u00e9 des entreprises cot\u00e9es concern\u00e9es. Les prix d'actions de Team Inc. et Atlassian ont chut\u00e9, tandis que les prix d'actions de Lucid Group ont baiss\u00e9 fort. Les fondateurs d'Atlassian ont vendu des actions de TEAM, ce qui peut indiquer une perte de confiance dans la compagnie. Enfin, l'industrie des voitures \u00e9lectriques est en difficult\u00e9, ce qui a eu des effets n\u00e9gatifs sur Lucid Group. Malgr\u00e9 ces signaux n\u00e9gatifs, les",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

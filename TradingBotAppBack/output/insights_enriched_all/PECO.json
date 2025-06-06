@@ -1,56 +1,164 @@
 {
   "ticker": "PECO",
-  "name": "Phillips Edison & Company, Inc.",
+  "name": NaN,
   "sector": "Real Estate",
-  "market_cap": 4937897984.0,
+  "market_cap": 4892227584.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 61.517242,
-    "PB": 1.935869,
-    "EV_Revenue": 10.36,
+    "PE": 60.948277,
+    "PB": 1.9179642,
+    "EV_Revenue": 10.388,
     "ROE": 0.03004,
     "ProfitMargin": 0.10514,
     "GrossMargin": 0.71116996,
-    "DividendYield": 3.47
+    "DividendYield": 3.45,
+    "DebtEquity": 86.917,
+    "CurrentRatio": 1.362,
+    "QuickRatio": 1.072,
+    "FreeCashFlow": 215352752,
+    "OperatingCashFlow": 332113984,
+    "FCF_Margin": 0.3174416670691818,
+    "ROA": 0.0222,
+    "PEG": null,
+    "EV_EBITDA": 16.717,
+    "BuybackYield": null,
+    "PriceToFCF": 22.71727451154188
   },
   "technical_indicators": {
-    "RSI_14": 54.12505211348945,
-    "Momentum_10": -1.6537995984263427,
-    "MACD": -0.0301489114327324,
-    "BB_Percent": 0.6482504294952041,
+    "RSI_14": 50.41633706690315,
+    "Momentum_10": 2.911208280703095,
+    "MACD": 0.0403290782113359,
+    "BB_Percent": 0.5006699679266097,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9230214711309412,
+    "ValueScore": 0.9121888679045896,
     "QualityScore": 0.5113648382796842,
-    "SignalScore": 0.4685563183992615
+    "SignalScore": 0.5423646395162447
   },
-  "volatility": 0.0136960443636126,
+  "volatility": 0.0138267319587167,
   "beta": 0.458,
-  "return_6m": -0.0760095037687988,
+  "return_6m": -0.0843224084239899,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
     "target_mean_price": 39.4
   },
+  "news_sentiment": {
+    "summary": "L'entreprise cotée Phillips Edison & Company, Inc. (PECO) a récemment attiré l'attention des investisseurs, notamment en raison de l'acquisition de 8 576 actions par Kure Advisory LLC. Ses fondamentaux solides ont été soulignés, avec une augmentation significative du volume des transactions. De plus, l'entreprise maintient un dividende mensuel de 0,1025 $ jusqu'en août 2025, et a vu des investisseurs renommés comme UBS AM et Voloridge Investment Management LLC augmenter leurs positions. Ces signaux positifs pourraient influencer positivement le sentiment des marchés à l'égard de PECO.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "8,576 Shares in Phillips Edison & Company, Inc. (NASDAQ:PECO) Acquired by Kure Advisory LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0JTTTlpQXFYcHQ1cjdDVDAtU0l0WGNwYTlfTk1aUW0wVFJIa3lIXzFnd09OZjVmQU14bEdFWDVEcElucTBPN2pVak1aRGdNYTl3QVd6RS1LT3FEUmxEa19BVVEwdkdTZS15cEdZaFkxaV9OU3d1Rl9ScUw1UHNzR1R4ZmNZQ0lKamdpTmpJREUyUmE1LUJIZkdyVkRDbVJsakQwU2Q1R0ZvNmtkVXh1WlVJaTRtczkzQTJ1TTl5Y3FOU0V2OEZKVjZoOTFzeVpq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(PECO) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmNValhCbHdyZlIzVjFKTVhnWW1lNV9uS201ZnFHcUVkZGlTa1ZuYTNkNnZDWks3ZVhoSV94NE9Qa0NXT2NQaDJmRTlyV1pFajZDc0dvVFF2WjFpbjIzU3N1OF9QeWhLVlRXTjFEbzNadXAtMDRwQTEtRm1zaElTZ0ZMR0VoZUhnNkV2QTNHTFZxSnJ5RWNXOXNJU09iNXBBR2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Phillips Edison & Company, Inc. (PECO): Among the Best Stocks That Pay Monthly Dividends in 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDdkem8zYWtEaEpjb0d0T3llMFpFdkFITHFLNkpDMWs2aENYVDFhUzhLb3YzRmVvXy1JMEx4UjJvSWNMQ0lZMDRVR1Jma1YzdS01SFNyalZYeXFXeUFfMDlFZThyUjFTMHVPRjg4SXNteC1pNUhwdnVMS1JNaThtMTdvc2M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Phillips Edison CEO and Leadership Team to Reveal Key ICSC Insights and Retail Leasing Outlook - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVBpRDBtcEloWVdEbW91dEpZQXhXeDFIOHM5R2MxQkt5cVp4WWhoNWxRNmFYVWVDcTIzVWlTVXAwWEhVM2F4WTJfaG1JT1RPdER5N2lvTHl0VUVUOGtwX3JwQ3pqUFNiQ0Qxb2ItM0pjZDJoOEdXVlJ3eHZhQmFsX2NYZHVKc0ZrNzhWcWt2d0pYaXh5eUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Phillips Edison & Company, Inc. (NASDAQ:PECO) Sees Large Volume Increase - Still a Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTJ1NXhtamdVSWhSQ2VFb1ZsdEhYbkRKaF9aRHpfMDd1NFNndDV0RHNaZEtmUWlpcXVfa1dSVU1FUmRIbFMxUk5qLTVjWTFJbHA2NHg0RW1aTUJsSV9pUEdhN2pJRlRiVC15TlRRRmlUWDB6anhPTWlaZ2ZoQV9XZnRwek1hcE5BVVhXVV90UWlJb2g3a0dqV3R1T1lEVHdJSTU3WFlCeDVWNTVSVUVxcXRCUEZCN3B1VWFPVTU0SnlyWUxlZ2ZxUUJR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Phillips Edison: Excellent Fundamentals Support Investment Thesis - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXh6RWJnN3h1MGhnTHlJSnlDVy1yT0J3ZzExUnNGVXBpNGxDTG9PMnB0SUE3RTlSbTF0M1hLLWM1LTA3MHBZVTF2SVBUU21kRk5LVjFOeGZvTzE0elNIZ3FDVlhkRDlReTdSR0stSDRNWDdjRjlNT3RjaVY2SnJNajdOalN6bkdzTUpsVHJYM3Q1WldTenE2d3lJUWRQaU1NYWp4RjhvY0c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Exelon Corp and PECO Energy see credit ratings upgrade, outlook stable: S&P Global - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZUJZU1FodnAtLVFELTd6TkwtdnlNWnVDc1BsRFBvT0xIZ1N3RFdWQlBGRGdXTzI2QnE4ZUJVYkVDQnhkWjJGQ29YWDhZeTM0aERXa1hhV1NpaXJubjZNNU9HOUdrZnVEMDZJX21jcGx5ZkoxcXF6M1lteUhOZFlVcFQzSlJMajhiRmR2QVFWSkE2dURTcVpCQWtqcnFIcEQ0eFUweGRkS0o4UUF4V3FvWTVidXkta1JubkUtczRLLVR2eHZ2Zm52dVNCY0RmTDFTQlVLVnU5NVU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "12 Best Stocks That Pay Monthly Dividends in 2025 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTFoX0pPa1M0MnJodjZudDZWRDh1R0pmNWVTZmRwWHMwYU1CRkNSenJYWW02WEstdXQwTHpUYnNua0Zzdll4dlNxa2lndW1hbDNzWWlQSDdUVm1xZVNUWXg3VV8tNnJaaFkzaUVjX3pUQVpCbU9NSTRGWnctWk9VRUJkZlR6OEV1UXNHZUFvdDFqSGxMdlJETUdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Phillips Edison Sets $0.1025 Monthly Dividend Through August 2025, Shareholders Approve All Board Nominees - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTBBTVlCWTFRRWJ4SUpSaVJNbkRjR1gxVHpSMmFpUUtlcTF6dmdWTW16Q3I3TkJyTXlMc09EendnTUx3WmMyYlZuOW5zMFZycWdxWHJnLW9HY2JYTHRHSmVwV2NyRV9vYkxQbnQ4Q0pxY2dJVWZaR1hhUFBkcnk3TGV4OTJjejZqYjg2U0lWY0xGLXlMcnNxcGJYZS1LY3hDc09KekVGZmdqNzBHSDVOcm0zNkhlUndJaFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "These 5 Dividend Stocks Will Pay You Like a Boss Every Month - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUprUWpkT1JUdktScVYxR1ptb3dQSWZScTBhQW52YmZRcEJoT0wzbld1OU5JclE1RXJRYU1ZVVNCWmVUMFY1SUkwNDVvRnpnT3NTbGs3SU5EY2tOdHpSbUFsOUtLWFpmcWhpbjNtWVhUQWk5SkF0MXNHU281bVVVb3dEU2poQzVCdWNmbzNCeUl3dXhPdzhyMFQyTm1lUFVuRUdaVTFQaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(PECO) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1VkOWJUcmxwaXZMc3U0cEZ4a1FuQWxvZ2RTeU1jZm81WFNwbmlVdUZoMWJYX05FeHQ2TEZiZEFEdjlYMFZLLUJ6OGduNTc1cm1aREJfUXhtZ01TWlBZVVdDVnVobGRfd3oybzA4c3dZMWFSb2sxcWFJd1Nma3VYLUUtYnBOZHQ3VVhuc2pXVGEzOXozNW9SSnVUX0U2eGdS?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Phillips Edison & Company, Inc. (NASDAQ:PECO) Shares Bought by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNYXN3Z3BETHVjRGFNMVVSYkMtVU5KUjNXOUZyVVprM1dvSWNuV0tNUUk1WlZaaTVseUhFWi1RU0c1NlhZMk1GRnV3S3lPQ3RrUzBiaW1zbG5pMU1GcEFZb1ZMYXZMbWxPOGg5ZWk2bkU1dV9NUGRCS1hjYlpaamVnM0VLYi04TndaZXNQZGpuZDN5Q2ZwUXVOcGttcE43M3VTSUd0bGxmZzF0S2ZudFZDZndjWGtxTzZQU0ZZRDVWejZ0aGVrWm1Ba2JZOVdLUG5WNmo3Z2puM0lwUmhkaTR1QWtnMlkweTlDM1VtUnR4M20xRGF6YmR4TmM4ZllBelV2MV8wNkRrWDJxWEhvT3djUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Phillips Edison Leadership Team to Unveil Latest Growth Strategy at Major REIT Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYXQ1Ni1ZRXk2VENpTE1CMFl3SzlkZDBnZUoyNHI1Zk5Ud1RlQ2JwR05GLS1nUG5GY21CYkdZTmxUV21KdThYSy1Ha2Q0VEJYMmRWdm9RN2dkUldFTTlzWEJJV0FVOW9DSEJQWE9BQ3kzQ0FYcEdlT0FjZVIteDZEMER0aEJwMUtqVlB1cU1pOVNPZlZ3Wmk5b280eFFmVkhnUU9KSU9yaV81cUItYk9oZU54U09HYkdqR1dxSk1YQUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Phillips Edison & Co Inc (PECO) Q1 2025 Earnings Call Highlights: Record Rent Spreads and ... By GuruFocus - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0xBMUY4bXUyZVlhaFFoLTd0NG9CNXROSlNJU1BDYTNiQm9ZekZxTmM5Mm9IY05jVFU5TGFyaFh2M190TG1nZWdZM3kwQWhvLUlURzJ4TmhhNEFVOTZONkxyaWh3TWFyNW9mVHcwNEduQ1lQSHl2eWw0MHplaExfRmVBLUZjZWpwY0VjOHFMNnpEc1l6UVMzNEVtVjVJeUxtcjltWXVCUjlVRmtobU9ZSjFqTXl1M0E5ZEZpSEY3cG5WMGdOa0hxZEFHWFVGTDZOOUpj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Voloridge Investment Management LLC Boosts Position in Phillips Edison & Company, Inc. (NASDAQ:PECO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQM0g5V0R2cnBRTmdvRHhfQjB6RG1fME8tYW1UM1VMUmljTkZXZVB6aHI0MWgyVlh6NFd1Rk5ZTjZISkw5NEFUMWNSZjU0TWNNVkg5My05dTl0RnRRTWtVOEF0TThVS1lLbWdEdHVZaTRVTUJmUllGcjh0WlYwU0JoMnVhT0N6bnF3Rkd3WmNvbUVBdHVFdTVJRlNFQTkzcFdfYUFLaGVZanJsYWNoZnhBelZhUm1pQnVoeUhYMGY2Q1hZQlI2MXlJeUxFeEVzY201WEFHRncxdWhhbmZfeTlMZnlhVVpFVlRNRFdDWlVFaVlwNEkyVEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Arlington Financial Advisors LLC Takes Position in Phillips Edison & Company, Inc. (NASDAQ:PECO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUFpPTGUweEk2QnNqTEszdnNOYUNtNGdkdlBZQ3N0ZnZnMjM3NlU1bkl0WVRCMkdQbllVRFpCSFVtWFhDYThOa0lUd01RcGVYbnF1M1htMmh0NlpXLUR2VG1qcVNRU0pSNUZkZmt5c3pSeFRnX2piTWZwaXNPZm5vYy1QVUJpYlQyNXo4MHF1M25tVmdGaG1MRnQwYjFuU3pteHE5dnJlM0VaUHhZOXJlLW8zSlhQdmh0Q1QzalBnLXdvUTV6MTR0NE9iMUIyTGMzT2N4eW81NmYzT0FUYXFyTy1KX2o2OTFYakt2WDNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of America Corp DE Reduces Holdings in Phillips Edison & Company, Inc. (NASDAQ:PECO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOU4zSy1JSlFiUk9sbTlvcVpPN2o5SXBjSW9rd2x0UThycDJVUEF6QVNlbkJ1ZWliOTFsQjRZN3NLVUNVaVRXRjI3MFo4RmlfT25tSTBqSUc1UEt5UTZpNlVMQmlHZUNNb1VCYTVodVBsdklQQUl1VGRnRWE0NE1EcjE5cVYxNlpDbmk1NEhGMzE5R1oyNGRyU1A5YzRqc20wWTl1eWt2QXR1WFo4TXQwVU5NcWN2S3lSSzRudHFiSkhUWTR5VTlNMDB3VEZyVkduR1d2M0ttcThSay1QeXJHUHFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jane Street Group LLC Has $1.22 Million Holdings in Phillips Edison & Company, Inc. (NASDAQ:PECO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2dSZl82R3Q0bXlFZFJXVGNFWmYtMjRRRGdUWnJiNkNYWHMwb01mTS1yRVRVY0w4VjdWbk03cjdGR1ZPRG1XZjhTOXRaTWhRcFRCT0duTDlKbzRvVk1VeFYyaFNiYVVJRFBPRW92VkVKMHgwd1VvTVEyd3pzTnFpb0JWd2VuaUdrLWhnM1l6S2cxV2JXZFRKbHNNanBLbnQ4dWt6c2RRbDBZd0l1SnBFb1BOTDQ4Y202WmVISk9oUUgzSEpqMFhSQjJfVFRCREoyeVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vident Advisory LLC Sells 13,427 Shares of Phillips Edison & Company, Inc. (NASDAQ:PECO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVUI3NTdLc3QtWkVnaEtMNHcxSFNfMVhIck9GYklhVFk2U3B6UzlkUGxIcTNvVUgzV3hLeUs2ZWZfbkdJeDdrYXdyRXlzSkNmOHBZNlhDX0dJdEJJc2c5MXF6T0tsdTlES0hoOXE0U2J2clVpYzkxR1I4WC04Rkpsb2h6ZE9VUXhXZlk3QmFveGtYYTY2WjBNSHJtQWRDa2tna0NYTlZaUDM0U281NHQ3eXlVY2VzcFFHODk0RmN0Y3BJQnYwREdSal9rZG5XZ085RDF0Wm5n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameriflex Group Inc. Acquires Shares of 19,799 Phillips Edison & Company, Inc. (NASDAQ:PECO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ0xLU2tpUmZYQmo1am1YQ1pnNnNKaUwxa2t1TVR6R0NfNFk2WXZqeXRpRjNHU1FZWHpWd1ZtTWJvYk9KQzdXXzVZQ1Jfa2puSnZMZmRCcEhTTVZtdHRoTjJwU0dDSk05WmRqZUFTZDVzY0pFUkdKdVVlbGpNbGl5R2JxY09BeHdqenZNc19rSmY3QnhaekhSckptWC1TSUM1UHBTTk9zN3RBWFd6SmdXZHB0UWxCWVVWbklaY29hTl9HVWtOb1FWNVVOWHpsYmREdnpWUHhscUxlZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 39.28
-      },
-      {
-        "date": "2024-12-03",
-        "price": 39.1
-      },
-      {
-        "date": "2024-12-04",
-        "price": 39.18
-      },
-      {
-        "date": "2024-12-05",
-        "price": 39.33
-      },
       {
         "date": "2024-12-06",
         "price": 39.27
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 35.88
+        "price": 35.95
+      },
+      {
+        "date": "2025-06-03",
+        "price": 35.6
+      },
+      {
+        "date": "2025-06-04",
+        "price": 35.61
+      },
+      {
+        "date": "2025-06-05",
+        "price": 35.35
       }
     ],
     "current_price_data": {
-      "price": 35.88,
-      "change": 0.42,
-      "percent_change": 1.18
+      "price": 35.35,
+      "change": -0.26,
+      "percent_change": -0.73
     }
-  },
-  "news_sentiment": {
-    "summary": "Phillips Edison & Company (PECO) has been the focus of recent news, with several positive developments for investors. The company has been bought by several financial advisors and investment management firms, including Arlington Financial Advisors LLC, Voloridge Investment Management LLC, and UBS AM. Additionally, PECO has been named one of the best stocks that pay monthly dividends in 2025 by Yahoo Finance. The company's leadership team has also revealed its latest growth strategy at a major REIT conference and provided key insights into the retail leasing outlook. In terms of earnings, PECO reported strong results in Q4, with key metrics indicating continued growth. Overall, the positive developments for PECO suggest that the stock is a promising investment opportunity for franc",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 5,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "DB",
-  "name": "Deutsche Bank AG",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 53914398720.0,
+  "market_cap": 55778009088.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.097772,
-    "PB": 0.6743513,
-    "EV_Revenue": -2.402,
+    "PE": 14.914894,
+    "PB": 0.68066514,
+    "EV_Revenue": -2.434,
     "ROE": 0.05165,
     "ProfitMargin": 0.135,
     "GrossMargin": 0.0,
-    "DividendYield": 2.79
+    "DividendYield": 2.84,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": null,
+    "FCF_Margin": null,
+    "ROA": 0.00296,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 58.30826084380653,
-    "Momentum_10": -0.3232911350996142,
-    "MACD": 0.693409880735409,
-    "BB_Percent": 0.5470000065886464,
+    "RSI_14": 58.996165369579785,
+    "Momentum_10": -1.4411242053328797,
+    "MACD": 0.549637379784329,
+    "BB_Percent": 0.6251170791845355,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9355814107976922,
+    "ValueScore": 0.9337574015212328,
     "QualityScore": 0.3347518612177252,
-    "SignalScore": 0.4354221869889212
+    "SignalScore": 0.514179154543098
   },
-  "volatility": 0.0269081641968904,
+  "volatility": 0.0269610826707349,
   "beta": 1.026,
-  "return_6m": 0.6264578291133989,
+  "return_6m": 0.5761663559586254,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": null,
     "target_mean_price": null
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente de Deutsche Bank (NYSE:DB) est marquée par plusieurs signaux positifs, notamment des recommandations d'achat et des mises à niveau à \"Strong Buy\" de diverses sources, y compris Nasdaq et Investopedia. De plus, la banque a récemment atteint un nouveau plus haut sur 52 semaines, ce qui pourrait susciter l'intérêt des investisseurs. Les acquisitions récentes d'actions par des gestionnaires de fonds renommés comme Versant Capital Management Inc et Mackenzie Financial Corp indiquent également une confiance accrue dans la valeur à long terme de l'entreprise. Cependant, il est important de surveiller de près l'évolution du marché et les performances globales de Deutsche Bank pour confirmer si cette dynamique positive se maintiendra.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Here's Why Deutsche Bank Stock Is Worth Adding to Your Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0pZOTBtVTBBMEwxeG5vdEpXUG14ejR3RHR3SC1VSng5SWE3dnJTcXo5TERqX0lEWHZRazZkM2xhbEYwcDFXTWp6ZHVockhyUm9SMVZzbU1DMzg1ZXYxVXNHeFotXzJWazlEQkl5Z0JNUVVFc1JEckJWRERZZTRrMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank Aktiengesellschaft (NYSE:DB) Shares Purchased by Versant Capital Management Inc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZ0kyWUszOVl6Ync5Zmd5a3E1dmpZWFhkeHhwTmp0VHNvUmlqVHBiQkpJQlQ4Y19jSm1WSHpnWmRnMmtfaVlrWjM1SGZraE5tOVl0NGNDa0RfczVWTmhOS1dfVVhKVlFOUXVtbFZhVnRuWENCVGJOeXJaMEZ5X0pubk5kTHlNVlBITjlrcmJ5UHlBSXV2QzNyTWZuSk5HUWFsSHhPOFRIbVgzQlhHeTdyX2FHeUJ2Zjg2UzFjUHdiekdKRndlTzU3ZVluVGt4eHZNYVJRU3dKWGRSeW8xNHpQcmMtS3A2d0FwQm9VVGFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(IVQ.DB.V) Stock Evaluation Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3RwM2doRV9QV0Yxd1RoVGpRYjBIVVhjMEdDVWdlUy1hWnBoWWtlQTlHYmJnbVE3WGNDREZaTXFOM08xSlhQUVpkbUxsX2I4ZVZEblY0LWJuaGdQNTlacGRoaXoxNHR6UzU0MDJyRFpNeGtJRXBoU1JZUVF5Sm1jWGl3bEpSeW1oRmNZSHhXbmtVdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank Goes Bullish on Luxury Brand Ralph Lauren's Stock - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHY2cS1zaW9kei1TcWZKcDhQdlozaDFiRFM4RUpTRWRvMkFYVlRibk5ZWmZnUUh4aXhSLVJ2UHpSMzFwX3dDaW9MeGo3Q3hyZkl6dkp2T29jc1BTVURfb05pTll6RS1oVWQ5Y21qU2RtQkF0MzA1VE9kdWZOb0RjaUNlUHA1NlgxdnBBbUpIVzJkOUdJU0NFOTFzZlFQeFdpN0tj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why Deutsche Bank Stock Is Worth Adding To Your Portfolio - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVVubHFqOU1nYVRVRlNWanFhdzNUSy11clJtdUhYU25BX0FsbzVWZElObjhfek12cXlpb2ppU1ZHZ1d1bnQwcTlVU1VQSjh4UlNvc1hmdTJFeGxLb1pLejlvVmlzRUFNVlowcDV2NXBzal91YXFDUHZBLUtKbTF1QThTdnJYWndWb1p6TDdFeUg3cVNzUmZnUlJrOW4xQ0FRcnZYQ3hkOFh6NjZUY0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank (DB) Upgraded to Strong Buy: What Does It Mean for the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWZYNEZQOHBTSEt6em84QkNTemx5Q2xwQ3ZRYnBTNEVsMVIxbzJpRlAweWJwd2hTU3daNDFKTm16NEtleC0telhKRjJpMmF6VVJJZEFvVXo4TTY2bV85cHpMVDZvcUtBVE8zeUZkcW1HVm44ZXRYNlI2amEyLUtta0VselpBd21pVFQ2cFVSek5HUVl6ZndZ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Deutsche Bank Stock Hits 52-Week High: Is It Worth Buying Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hNHBzSGMzRTJTeHl5d0EtTDVYcWl6dGZuMndDanVDWW9UdkdnNkV0c3hNNlpqTXFpVmJwaGotV2xmM0xaSFMzamtsYUZxeG9WZDVnVFJjakhpYnZkS3podEJQVHc4ZkRtOU5MejItOWVkQkgtMThUSnhQZkV5QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Learn to Evaluate (AFN.DB.H) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGVRemtKVnV2dWlINXVhV09LbGYtSGRJdTBocGJ1bE1IdVRwanJ5ZXVsVHB2OVNJZ3F0SG1wNlFvZkZnV29NZnYxNDlPR3QwR0tKX01ObzJRN3lSQ0IwZ3ZqWWNNNXdCT2EwUFpGUnpmeTI0NlptYkViM0p2WXNQUEFHVDBxazZLdzFudlNGM29JTGlXYk1PZ0RUMDRfeV8t?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank Aktiengesellschaft (NYSE:DB) Shares Sold by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcXV4OGNMTkhWb1B6dGhwWWd5RDFLRzQxOFFHcmR2N3dyRWNIb1BFVEFHandFV0k3cXpWWWw5Z1R5X29VaHJzVzBuQmpWZ213UlZfZlBsNTZzTjZLLUxOdTV1N3FVWHBzYmF0SFhYOVFkeDR4QUk0X3ZPLVVVNDA2aTNaYU9qMTkyNWI1Y01GR2tEdTRyeW1oZ2RubERKX3g5ajBzOTBvX3RMZTQxN3BIUkFRTHZGdUZoSmJkanFtUTdldk8wYktleDNfR3JRR0tRYmtuR0hLWjkxdFA4Ykl4TTctZlhjYkxFTmV3TV9TMnVkNHN3UUZvOEVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(INE.DB.C) Stock Market Analysis (INE.DB.C:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUZOMnZUdGFDQ1B5emU5ZmtGN0c4czNBNXRKSF9fUEx1eW9nekZXbFE4RC1fanJlWmRDNXdteURWcGxRc1ozTmQ5Y3pKbk5MTmRxSVNqbFYzcWlYS0dhREF3OHZ0emp6OXAtdy1OT0xrMXFFc2NuMFl1N09lTF9meE5PS1htQkVnSXpEUllfRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank (DB) Upgraded to Strong Buy: What Does It Mean for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkwycW5oMlRvVWcwV082clpGZzA1Ni1KY2x5SG00cWZkUFdfQTUxaHpIRDFaTFN1YzFDLURpa3BhajJHeDlWNWVFbU9TUTFyWDUwS3RhTEZNZlJOSjBlczktOHVTazdCM2gyVW9mSmVXdUZ6Ri1RTEpUdmFlNUFlZW1PQ3A?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Deutsche Bank Aktiengesellschaft (NYSE:DB) Stock Holdings Increased by Mackenzie Financial Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOXRORnlSa3VKSTQ3Y1J2Q0k1VFFqY181ME1femtXbElIcEJqTmp3SG1QaDU2NFZZbXc4RkNCVTVEZnlwSjhIMC01UTVDZXZGWmtUVzk5d1FUOU1aOGxodTZvYnJrQm51OHVHaFNTOGxrWE0wU2J4aTh3YVl2NUJKa2hYamFienppcGdpekFfNVlCUkRrZDBpal9JRTg0TG5kSDliSlB1cWo0by1YLVlueTk3SUhGc2dSOERwSTY2VTFtUmRSZGtPWVhmVDVyVER3QVFNU0cyVmM3SmRvV05qSGhwT000VXVGeXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(AD.DB.A) Investment Strategy and Analysis (AD.DB.A:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzU4N3RQUmVaYUZXdXlTaENfajY3c09FeU45ako3RkpLXzNYWWdSR0RtMjJlanZFZ1VZTjdqZ05CMV9ETU9iY3oxcEVfUlZrblBzYmVVSkJ3NHdxZG55bjBDZnJIUWZBdWtUdDh4TVRnQ3lWejRrcjI5ZGd2RnJJeEFjM3QyNk8zaGpNbV9PY0JXVVA1bGpjVzlaang?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Deutsche Bank (DB) The Best Performing Large Cap Stock So Far in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2M1RElWRDFhcFc2a3JYWk1BYUJuZlFaVkJVR3dMb3JNaTdYUFNWd3ZSQTl0Qkdad2xtWS1mRUZWeVV5YnlqNDRoc2pzUWl6VEFSc3pLQ3Zob0R5emZxSjRueDkwRXZKQXBuNFdpbldjWEh5QmdRLW5IT1dvcVlwdFlfd0M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(EIF.DB.L) Proactive Strategies (EIF.DB.L:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2s0ZzVvM2FVbWpTRVdPVS1nQzUwelpubFNJVWhERzJ2dHpHd3hER3F5a3dDMWlYZkFESnozLWZJOUlJU2w2TTRaSGpOSTNQNEhuZ1JCOTVFak5YckhIMVNtT054RlVhb3VwZVVYRWtSUkJXcncwSHJPMGhvdTFmdjBIX0xKeXN6RWczTG5n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Learn to Evaluate (ECN.DB.A) using the Charts (ECN.DB.A:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTcyWW5PZWtSSk40VUxUVGctQm9HNWVSNmMwNmRTTmdoQzBIVncyQk52Ml91clE2VGlNQThuZXlrcEI5eDROdlVjdEIwQk9GSF9rQTRkM2NuS3p2N3BwZy1OdWxBa1p1eDRoMHVjc3FSc3E0OUY0YWlYaElaR0djaF9JOTRhNUU0aEpsQ1ZtVERTUlpvU1g4YmJCY3lxMXhs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(SOT.DB) Optimized Trading Opportunities (SOT.DB:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQzQ1dWd0YzhpYjJIOEJKYUs4SExycVBtNnBrU3FDUHNHVjRyVGNuaU8tbG9CTGtURzJYUFdwNWRSQ2VpbUNkMnRSSGJEMk1iTllaSHd0V1ZYNksxM0V6bjdqc0VWWFQ4Qk5xckZZNDZOVW5uUjVWM1Y2VnV3QVJiQzM5b0N5YUVob2pXeDRoRV9GUloxS1VtUW5LYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(NWH.DB.H) Stock Evaluation Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNHU3NTZkbXBiYTZxVjNDbkt6SzhvTnlYak9NRmhPRlZoaVNYRnlDNVVNYk13N2dRQzRORTY2NUpNMG5JZGVxNF9neGNxODBYeEZidGlxWG53bVN6NWF1UkI0clYwd1RURDd2TV9yYUdBTk80YWh3VTRFN1plNmFPWkJDYjJ6TkdHandzSFFJNGxYUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(AI.DB.F) Daily Stock Insights (AI.DB.F:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcG9DYWNzdWQ1RUREcldiOEhaMlNmQ2RyVTA3UzRabVpLdnVmNzFEY244clY4RENRbHBHalQxazhtT044clZPOGZYSEJuT1QzN2gtZExjVXJGQUI2MDk1VUlTaEV6YmJYQXJSYlVUOFBPNW1vcEtHenQwNXBYYW1HZWhPM0swYlJxZFFmeQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes Deutsche Bank (DB) a Strong Momentum Stock: Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWhYRnhKdW5hR01SQVlKcVhCUmJzTUZieHR1NkJyX2ZpNWd4SDQxbnRnbEtRRUJUbi1JVXdOa3cxenB6X3V4S1YtaTVtZ1BCTWdDQXZkaGtNS0pRbElzM29rckpqRkZDbFU4eDJBeGczMkE1R3Y0WXZIWktmSFBEOA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 17.08
-      },
-      {
-        "date": "2024-12-03",
-        "price": 17.59
-      },
-      {
-        "date": "2024-12-04",
-        "price": 17.47
-      },
-      {
-        "date": "2024-12-05",
-        "price": 17.93
-      },
       {
         "date": "2024-12-06",
         "price": 17.79
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 27.77
+        "price": 27.73
+      },
+      {
+        "date": "2025-06-03",
+        "price": 27.82
+      },
+      {
+        "date": "2025-06-04",
+        "price": 27.31
+      },
+      {
+        "date": "2025-06-05",
+        "price": 28.03
       }
     ],
     "current_price_data": {
-      "price": 27.77,
-      "change": 0.0,
-      "percent_change": 0.0
+      "price": 28.03,
+      "change": 0.71,
+      "percent_change": 2.6
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte de ces titres \u00e9conomiques concernant Deutsche Bank :\n\nDeutsche Bank a \u00e9t\u00e9 mis \u00e0 l'\u00e9preuve r\u00e9centement et a fait l'objet d'un sentiment mitig\u00e9 sur le march\u00e9. En effet, l'entreprise a \u00e9t\u00e9 upgraded \u00e0 Strong Buy par Yahoo Finance, et a \u00e9galement \u00e9t\u00e9 signal\u00e9e comme \u00e9tant bullie sur le stock de Ralph Lauren par Investopedia. Par ailleurs, Vise Technologies Inc. a acquis 10,346 shares de Deutsche Bank Aktiengesellschaft (NYSE:DB), et Versant Capital Management Inc. a positionn\u00e9 la banque plus fortement. De plus, l'entreprise",
-    "sentiment_score": 0.5,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

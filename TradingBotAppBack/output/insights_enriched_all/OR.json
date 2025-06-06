@@ -1,56 +1,164 @@
 {
   "ticker": "OR",
-  "name": "OR Royalties Inc.",
+  "name": NaN,
   "sector": "Basic Materials",
-  "market_cap": 5058797568.0,
+  "market_cap": 4965063680.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 158.73529,
-    "PB": 4.1579356,
-    "EV_Revenue": 23.92,
+    "PE": 155.79411,
+    "PB": 4.080894,
+    "EV_Revenue": 25.161,
     "ROE": 0.02507,
     "ProfitMargin": 0.15291001,
     "GrossMargin": 0.96519,
-    "DividendYield": 0.86
+    "DividendYield": 0.82,
+    "DebtEquity": 6.592,
+    "CurrentRatio": 4.985,
+    "QuickRatio": 4.873,
+    "FreeCashFlow": 60994192,
+    "OperatingCashFlow": 168642000,
+    "FCF_Margin": 0.3034144439027787,
+    "ROA": 0.03849,
+    "PEG": null,
+    "EV_EBITDA": 29.819,
+    "BuybackYield": null,
+    "PriceToFCF": 81.38686726106643
   },
   "technical_indicators": {
-    "RSI_14": 71.47249291443356,
-    "Momentum_10": 15.666526783532444,
-    "MACD": 0.8582955504457424,
-    "BB_Percent": 1.1215530222020162,
+    "RSI_14": 65.23275693481838,
+    "Momentum_10": 6.024824242172502,
+    "MACD": 0.9961863849705316,
+    "BB_Percent": 0.8224056487242309,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9009930999004644,
+    "ValueScore": 0.8708640136241357,
     "QualityScore": 0.4980565552079326,
-    "SignalScore": 0.2631396133490374
+    "SignalScore": 0.4399673877236123
   },
-  "volatility": 0.0218881659740767,
+  "volatility": 0.0220083544293428,
   "beta": 0.846,
-  "return_6m": 0.4098746849984733,
+  "return_6m": 0.3823069322168508,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 4,
-    "target_mean_price": 26.21772
+    "target_mean_price": 27.926085
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente met en lumière les activités d'OR Royalties, avec des annonces majeures telles qu'une expansion de son portefeuille et une augmentation de dividende de 20%. Les analystes recommandent d'acheter la baisse sur cette valeur. Par ailleurs, les tensions commerciales de Trump suscitent des inquiétudes sur les marchés, incitant à la prudence. En parallèle, l'immobilier est remis en cause comme meilleur investissement à long terme, alors que les actions semblent offrir de meilleures perspectives historiques.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Short Selling: 5 Steps for Shorting a Stock - NerdWallet",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ISUdWb3Qxdkp3YWwtMXhQNG9sbkhBdnVhZ3c3MGhDYUxzbE9lazJ1S2tuVUNtQjMwVmdqeHd3Z0pLOWczS2M0SjZGRkJUUTlySkZYSkxLSUg2aTczY2VXQTZUckhOOHJoQUQ4b0R3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "OR Royalties Expands Portfolio: New Silver Stream Deal Plus Major Updates on 7 Development Projects - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWRsMWNrSTRkbEhxT0R0SVVxV19SUWY5cm1YYjRyUkxnUE9BQnc4SUFsWEx6QzBLUWxQcnZkTDZJYzlDTXd1UW9QX0Q0T3FSdjVjRFV3cl8zS1pOcGd0ZVc1aks4RTVCYUN0R0lnQUMxRGFWX21RX0ZjZkxRal94OGdsZnM3a2dNTnpMN1MxYTFueWM3dW4tWm5rSjF2ODg3QTZiY21lOVJ3YXltLUQwcU93clEzcXdVQi1n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SKU: What It Is and How It Works - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uaHRia1A3NmZYbGljeWplQVBQTTJYNGZrOC13dEFvdG1GY0RJdmtQcGhNRHJvNlRGUlpIZllSZUZESWZxWkNEMkt6NzlrY0Q5MmY3Y0xUTHJkYkR1Q0NkMVpPSVVEQ1NoRUNxVDlCQWo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO Capital Boosts Price Target for OR Royalties | OR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTc2UzgyMDZ2bXEwMnQzSGIwOE42VHJsMldhZWZwa29aUmpEZU9OYi1HVnljSFE3QlBIbXhrLWUtZ2ltRnNwd1V3czQ1RV9mWExJU1dHVmRYWVlKWUtIdkh3VXBaYnpfQzNTaFQ2RFVjZEpPWHFUNkpTTjFKSnMtb0FhQlhFR3k1VlhHWW14OXRTX3lPNGNTcDd2akFNUVE1ajZj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "OR Royalties: A Solid Buy-The-Dip Candidate - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMndiRzRoTmRNc3hwUVo1elE1SC10Uk85UklqdTBSbzRTZG5uU1Vib2tjWkpJNGhVVDhYRHkzS1ZycUZUaThkRVR5bkRobTBTVTJ4RGROUV9zb2wxOUUyLUYxODE1bV9YR0otLVoxTzZGSmlndTg3dGpQb0FaSnFTeDVDLXZlNEhyS0hj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should you cut back or stock up amid Trump's trade war? - TODAY.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczJYeDhYMkszUFlkR3hWODQ5NlJKNThkM2dVTEVCZWhYanhSSUJtZm4xa2Nyd095NlFXZFpHdlZ2SS1PeERRUTRxVGNiT2FPMC03RFJ5bkpnSUFUbVUyV2dHU3dpY253NlU2Wm1vaU1JZEk3UUtjQTViWlppanFNc0gtMXhfOTVqT21VcjBUcVpad2xDc2FBUmdDa9IBZEFVX3lxTE96M1pEeVF3LVZVY29sZjBOR0c3dy1XUjdwR2pSSGZldk9HdGNiSVpqUUQ0aW5DTWtiTGszMjBtbUNBd1lKM285QVFkTmFCWG9pMVhWY2RiLUpQdXpnZXc2dXVOMEc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prediction: This Warren Buffett-Approved Index Fund Will Survive Any Recession or Stock Market Crash - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmh4cEVnVG9sckpLV3VqZ2VxRm1CdWdYWjh2aXZRYUV2Y3A2eXVjbnBSYVRVSVE1UTVsNXA5dllFNVlfanU3WFNBczl1ak5MYUhoeDBqSTdvUGhwVlAzNHJzU0p6aFFHSGJkRm96THBycFdpME9LbGZWd01nX3UwdDBiYnJuTUl6ZXBzMXRnUVBUTU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Don’t Worry About A Downturn Or Stock Market Selloff—Do This Instead - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSDFvempxTEpCQUg2RU5JcFo5R014Nk5laVdsZ3U0RF9DVzB1YWNmcDhUOU0zMDdYSjQzbk9Lekk3X2RPS01KVFEwYkF5NENtZVhFaUFYUGVpOW1weTdya2Q1N285SWJ5dU9vSVdFRmZ3a0tweWJ5U2JPenF1WHBMdFNWelppYTRyZjM4dlNwMFVqWng0aWFJWlNoaGZZd2FYRFoyNXlGS1NFNjJIUDdsUlY2eTJNUDBCNWFFbV81cDQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trump tariffs bring anxiety to Costco aisles: Cut back or stock up before prices soar? - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWm16VHNocnRlZlZKVkw1QWttd0dSYnVVLVYtd3ZGMUhLMXpVWmdTSEZwMFlYVWlWd0Q3bVhWTk9XTXdUOHVPOGRFY1RPWk1STnhVRFVrUlprdWNMQkRuMGZ0Q1FYLWo1Sjl6VVdJTnV5Ri11bXVNYnI1Yk4yalByWA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Block employees can now choose rewards in the form of cash or stock—the CFO explains why - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS2hfSDJKUU9mMlpCZEdMRlZmYlN5b250bzhnZFhyemF4ZWEweWJtX1ZmUXVXemlQZlZENHhuUTRueVZVWWJhMC1weXl0Q18xcjZtaTMxSUoxLWgzRWJmalJHMnBjd2dLV2oyR2NaRWdleDRmY2hJVV9qSkNlUGxXOU4xc1pXSmdPMUd4NkxLcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Americans believe real estate, gold are the best long-term investments. They're wrong, advisors say - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbkoxNFpBNGVMbE5Ia1I2NE51Y0pSZkYta3U2cWtTRk16RDJUMU9zTXR6WEVTdmhESWhUWkdqanJ3dnZhNjRBUmNkX2d2QTcybkVOQWl3cVh3Y0JmVFpwSXJFb0lnT2U1U0ZiODF4aDdWYUpQMERCaUJtZ0wxM0cxZGdMVXdZUncybkt5MkJpaU9FLUFPTWV0N9IBngFBVV95cUxOVUNnUjItVkJpV1ZfTXFIN0VYT1BoT1VIYTdJRWFiRzJKR1pFcS0yTFgyR1phVTFfWVVuNmVRUVZpQXhOOEQyTS0tUVZSa3lKbnlsaWk5dDNrX085NTgxUmw1S1ZoVDluSEQ5bDU1bF9DT1QydWRfQzdIWTdsaDlZeE9LcDhDMmxacWd3RGdLNEFPbUdjM0tDaTBLelROQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Osisko Declares 20% Increase in Second Quarter 2025 Dividend - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFlqMFZFclR6ZHhHRng5MXNzYnlBSnRTUkZXYlpacFFyS3IwUHoyUjVHVGxyckhodzZkV1d1b2VCalpVZjVITnJmdmZ2U2xvX0M4RmdhYnpudWlBQUphVmYzT3hLX2ZKZndzdlJralBaM1VkdzRVWnNueUducXdoT0tpbHlUekg1aEE5dEpBUFdfTzRlaW1ycnFCNjFHYTFBMGt4OWVR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Real Estate vs. Stocks: Which Is the Better Investment? - NerdWallet",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVJkNGEyUXRnMk1xU2JRQkRqUkMyRXFIWDl5NmluUC1tbHhCMGVtQkdhVEozWFM5dHVSNER3YS1lTW5haDM4SEZqRWkxN29sbFBCWkpIYkZNNm9nNDdManJBOXBhZU1URW1rV05hOWtUZUlCWG01dHlNUjU4bldOMjB2NlBWUy0yODJWLUhYZGx3d1QzV2RVUjZFNmxnZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Has Real Estate or the Stock Market Performed Better Historically? - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVUdDa0ZYb0ZNZWxrREIzRDg1MFZnRG5jY0VaeloydHRON25pU2swR3VacWdpaWxGOU85UGNEaTROZUo4UXh0dkZvMk1BNXc3dDZIVVNqM0hpVWVYZW9LbjI3cUl1bldGakdFRE5SSmhFUDdfZmo5ZjFVRUVDRjNPQ3EydHNPMC03bFFCakFGLVhZdHpKSWZoZ21VcjJGMGEwNFZRYXZYV2dPRzdHemp0Y1dzQkhYMVNqbWRB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bonds vs. Stocks: A Beginner’s Guide - NerdWallet",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QY1VMcGFTc0EzRkNhZTR3S3J4VlBWZXJQYTNmTjg1V1o5dFF2QWdVa1JFZjVza1g2bC1meDA5N0VVVDQ1dWNaQkdDVDZDNXhscG5KbjJJT2F4eGltSUNjR2ExblpJWmdwQV85Mg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Osisko Announces the Voting Results from Its Annual and Special Meeting of Shareholders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPazlYYldNdXM1Zlk1MzBkMVFNcDRYN1RBMi1yb2xoSFJwQWpWQXlBZlBEYmt4Uk9OejhZaXRvR3BTWVB2b2YxdjNFZ3NFblg5bGpLUGxKQjc1Q1dHSXY0OUh0QXR5bHBhVjJrZ196RU1ENHdlN1YyMFprSkNMSWhlRlFhZFBDc1pUM2xWVkxMTzBfaERoTThkbGdaaEZrNTRFR0NKZWl2VkhleTJNVGc2Mmo5UlVOSzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "STOCK Act: Meaning, Overview, Criticisms - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHB5czk0MlJ4OGFYUFJfWTJmY3RTVXNrT0Y3UWpvQ0JWUThocnVWN2N2SEFmWkRxWG0xcElXQ1N5S0lyZVRvbDZrUEJYemoxTnM5dVNHZnRDNVIyNzRjZ3lVSVdRQmZTMkJNZzNzdGpHRHBFemtidFdxQXFpMm9nenFtYVpTVG0teU9mRA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How to Invest in Stocks: 2025 Beginner's Guide - NerdWallet",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiQU8xX3liSHk1dkVJZTJzWHBwc3ZzQ182VkhYWGxoVUJTeWtCRk1HczU2NFVpMGMxNE1QY0t2OVJIc1VuQkFvaXZzWTA0cklIUzBBYlYxUzd3eW9vc3N0QVdPblN2b3JIMU1VRWM4WnJoUS1Hb1l3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Osisko Gold Royalties Releases Complete 2024 Financial Package: What's Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnJDalljS0RSYjcyQ2Q3dkpoRXpPei15aGhQZFJOVEtDRlpfZ1RtRnZBemtENmxfMk1VZW1WRVZFdFBBZmVYbnp0bzRuYzNqUUxFQW5XWEZsY2xXa3BPcHZ2R0Z2LWZEb1MyZ1d6bXNVcWNsel9YVV9lWWxNTWZkTTJ2bzRtMkROM1hyZVAyQVp4bE9s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Breaking Down the ‘Insider Trading’ Accusations Leveled at Trump After Tariffs U-Turn - Time Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdUlaS00xMjg4bGVOZWRIYUhQdEV6czVtVERUVUxCTFE4MUV5dXBuaWlaRUFZMlZxU0d6ZU9DZEQxNUxzN1ZCOWlxb1duYUNubHdDcGJZdW03cDVzMzdQc3JxM2N0c3JUbXI1cDMtWlVfS3Z2SUtkRFhwb2JNS0RQSTJWUFl5V0J6R2xyR0Ftb2xQei16ZS1ybzBLQQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 19.14
-      },
-      {
-        "date": "2024-12-03",
-        "price": 19.28
-      },
-      {
-        "date": "2024-12-04",
-        "price": 19.41
-      },
-      {
-        "date": "2024-12-05",
-        "price": 19.57
-      },
       {
         "date": "2024-12-06",
         "price": 19.16
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 27.01
+        "price": 27.06
+      },
+      {
+        "date": "2025-06-03",
+        "price": 26.81
+      },
+      {
+        "date": "2025-06-04",
+        "price": 26.89
+      },
+      {
+        "date": "2025-06-05",
+        "price": 26.48
       }
     ],
     "current_price_data": {
-      "price": 27.01,
-      "change": 1.46,
-      "percent_change": 5.71
+      "price": 26.48,
+      "change": -0.4,
+      "percent_change": -1.49
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres de nouvelles concernent diverses entreprises cot\u00e9es et des th\u00e8mes vari\u00e9s tels que l'analyse financi\u00e8re, les march\u00e9s et les investissements.\n\n1. OR Royalties a expand\u00e9 son portfolio : La soci\u00e9t\u00e9 a annonc\u00e9 un nouveau contrat en argent et des mises \u00e0 jour sur sept projets de d\u00e9veloppement. Les titres ont connu une hausse, ce qui indique que la soci\u00e9t\u00e9 est en bonne sant\u00e9 financi\u00e8re.\n2. OR Royalties est une bonne achete-en-bas : Selon Seeking Alpha, l'entreprise a connu de bonnes performances financi\u00e8res et a une solide position financi\u00e8re.\n3",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

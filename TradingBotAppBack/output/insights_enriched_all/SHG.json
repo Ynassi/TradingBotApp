@@ -1,56 +1,164 @@
 {
   "ticker": "SHG",
-  "name": "Shinhan Financial Group Co Ltd",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 20190709760.0,
+  "market_cap": 21009022976.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 6.294712,
-    "PB": 0.00038502977,
+    "PE": 6.680685,
+    "PB": 0.00040800314,
     "EV_Revenue": 2.702,
     "ROE": 0.081429996,
     "ProfitMargin": 0.31529,
     "GrossMargin": 0.0,
-    "DividendYield": 3.74
+    "DividendYield": 3.62,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": -8660695121920,
+    "FCF_Margin": null,
+    "ROA": 0.00649,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 70.85950251820343,
-    "Momentum_10": 8.599404284927484,
-    "MACD": 1.6932667203798673,
-    "BB_Percent": 0.7882910644140841,
+    "RSI_14": 76.72233291295598,
+    "Momentum_10": 10.541237713946268,
+    "MACD": 1.8668150997486492,
+    "BB_Percent": 0.9230571562260462,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9363154195514536,
+    "ValueScore": 0.936428089348463,
     "QualityScore": 0.4092269300590256,
-    "SignalScore": 0.3084252113848951
+    "SignalScore": 0.3495836713589537
   },
-  "volatility": 0.0183801368899868,
+  "volatility": 0.0184265164301661,
   "beta": 0.582,
-  "return_6m": 0.0415593885332912,
+  "return_6m": 0.1861172447631516,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 1,
     "target_mean_price": 54.0146
   },
+  "news_sentiment": {
+    "summary": "Shinhan Financial Group Co., Ltd. (SHG) attire l'attention des investisseurs, avec des signaux mixtes : des investissements importants de fonds comme Two Sigma Investments LP et Voloridge Investment Management LLC, mais aussi des variations significatives de cours récentes. L'entreprise dévoile un rapport financier clé pour 2024 et présente un plan de valorisation d'entreprise jusqu'en 2025. Les analystes restent optimistes sur cette valeur bancaire, alors que les investisseurs se demandent si elle est actuellement sous-évaluée.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Shinhan Financial Group Co., Ltd. (NYSE:SHG) Shares Acquired by Two Sigma Investments LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNXzN1SWtfdHdUX25OcDBqQl9WMldCZUpBdlF1QTMyaVNtTkhfYTJvblBpRk84ZTVkcWxOVmIzeXZUMjFxWWpIOXFFNVowTEJYTEZrYUVCdmtPSktnN1hBU1h1OFdjSUdkdmtvVmhZY0I3WG1CSDgzbnowSU5LX2Z5ZXdUd3NLUGM3b01VYXB3MXdnZkpkeVRrRjNJU25sWGlFUG03NTRSMGRzWnpvcW1WNUp2ai0xMHBZRHN2bml1c21EM3FoaE0tTmV6ZVhpY05FVWdsR0Z6TUdVSGpQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shinhan Financial (SHG) Is a Great Choice for 'Trend' Investors, Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRXJTY3g1X3k4TUZXdHhFSDFnNEZVeVFaN0I2Nkl6SDZKaWdqSGI5NmkyT2U0cDJ3MzZubm5XU3V6YWw4NzNPeVFNZ3BqaTItWGw1MzlFanVpYVVvR196OXVOb20zRWYxTUVNaFNFb2Q0ZmFQLW1jbk4tTVctU2JncFlXSEtKN0U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Shinhan Financial Group Co (SHG) Stock Undervalued Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzl2Q2NqS0MxSENIZVV2QXJwZ3ZDeVp2SWFRUmxpYzhRR0JtWmIwOXdFeWxTODZDRGxRblpCems1VmtVSzNOc0Jac3lNbW5KSHJsUGRsR0VSRjBUUGR4TjN2MU00TnlxeFBHbF9zSDY3U0FSQ05BSWZLWHJ1LXJlYVZNcmwwVm8zU1ZmTm5tZ2NOMDFp?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shinhan Financial Group Co Ltd (SHG) Trading 7.54% Higher on Jun 4 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZDBCSmFsdUc3QUFjazduUER1ZWV6aFlBYlhnSmdCNHlodmRJWWMydFZ1OHZsNFp6SG1OU2RzeWg3WDVTc0cxcVdzT1NhRzh2UVFZRWhLZGNITkdFd1gwWVhyUk03TTNmREtZUmZPYS1YS215Q3BaU0E5MjVxUDlRNlNvT0hXcFBkcEFXV2t6Y2dyZ3VXWTBRUFlJSmlrZlgxSWgwbFpsc3AyOG1CV0FRZ1RvVmcxN2xJZU42SFlYaFBrVE5qSk56b0thRWlIelBtempWUmFFVTdta2txS193ZTRVMFl2QktYUnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Shinhan Financial's Complete 2024 Annual Report Now Available: Key Financial Insights Released - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVBIaFBCWEJwMThxdUxBU0o5cVQ3Q0t6VHFLcFdZZkQ0SXlGS2RIWlBMLXZNNXFiZS1oN0s5RGZqXzBjLUhtTmdUN2lDTnNaNHktRFJTQ3ZaOG5XSUFKUzdzVzhqSjBGVnBnQ3RyNkh0SVF1ckxRb0NsWVpQN3NsU3FBWHpqVVM4NHhQek9yOFFQVXREbEdMUlVFLXRrMDJIaGRaTkpoWDJCWERHOXEydA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SHG or UOVEY: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZWR2Y0VmQzZnS0trSjIxVVlaZHVDOUxYOWpMQkEwUDBacnR6bDl6RmV5eUx4aFMzblp2My1tdnlYcWwteWhlMGdaRDZPMWc3LWJFT0RNdElvYUcxdHFfQ01yWkI5azhHbHVINXBnSjhkN3ljYnZ6S2YwZTZHU3M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shinhan Financial Group (NYSE:SHG) Shares Gap Up - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNckVTUXhCSkp5bndfdnZlSlRHUlRsb1dFOWxEMW5FTmNBUk16Zi10X1FzZWg2RGJhd2QtbmdHR29sdTVhTVdaTkdpQlBNeXI1MlYwb3hEeWxLX3JWVEpaVkJKYWFNX1JUYkZmd1ZFSWQtQkctcXhYcGNuUU5IQ3lWWWJBYnlQQjQ0UmdzNWQwV1VOb1JROTJmMkx5S3lIdU13bVhfNWctLUJIYXhiY0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shinhan Financial Group (NYSE:SHG) Shares Gap Down - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenQ4RTgxeExBaWItenZaZGg0N2FOeUtZek5aVVZsUDg0RklYUXgycGFEaUJoSUIwZVAyTWV3b0FoNHV0YVN6OVNxa3hOU3RMbWJpbWZMazdPakpya0NUaVQwYVIxNU14eWJFNG01YW83RWFDaEZZRnpiQUExeV9Mc1NhN0NBdkF1MWpQaVNzeUl1WktYbjc4NE5tWUxkc1dlX1BpNEtRd2RsbFVQdkNPVloxMm1qMmRZNlpVWTln?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Shinhan Financial Group Co., Ltd. (SHG): A Cheap Bank Stock to Invest In Before It Takes Off - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaW9tYUk3SVh1WkVKVmpqWnZoUHJBaFVlOXMyb2llbDF0dENESlVWOHpGcHJRRm5renJ4NUpjOTBKOG5VcW53VnBBY3BxcTZCREtSOXUyejQ1SGJPWVl3clVxZ0k3UTV6S05kOS01cVlpNUxRa0JvR2FUZnBFTDJVZGZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Value Investors Buy Shinhan Financial Group Co (SHG) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVRUeTVuOEJSbDVuYlAxTUNuWlRaeHhRaWRpRF83WU5OWHA0MmlsRXYyR2tPQVQ0SUlZMWM4dGlLQ0ItR2xZb1p5OWVjQl9GY2JXU2dNSkc2aWxCemswNFZoU0ZGcHpjWXhtdGNXZlFJVnhPYU51VEVtd2pIZ2g2YVcxcE03V3ZjVnA3WVZmYml5QjBkU3pBZkZHRzJNdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "90,975 Shares in Shinhan Financial Group Co., Ltd. (NYSE:SHG) Bought by Voloridge Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTFp0YXBDQTJkcm16M0M3dDBUeEtFeDhfd3dfMWNELUp2eHlKaXpUak1qUlVxalRFRGd5dmprOHJDaFpZYUFSMGNFN2ZzQ3RwSXhhUGp1YWM1WVVTY00xeTZBc3MtTS1xcXJ1d25qY21iSmY1dDg0YlpEQ0FiandlQ2t6VGdGZlA2OUo0LUtlMURyZGNiS0xra2xXLTRmQjR6eV9TVkxFb0V0OFI2ZXZZR2c5SEltMXROOWlLNHFTRm82Sk9CZzlIVWx3WVl1THROX2tuOFBMZTNvWTFnZGEwNjVGWWdRdEpMQk1KaG55Rm9hWU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Shinhan Financial Group Co (SHG) a Great Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2NxNWpXTFZuWVgwOWNFQThqM3lkdzhST0hYVUh0b09DUTNDb0xXZGhZN00xelJjVzZrSGZsS1o2amZ3WHZXS1FFZkNMM3RvWWtzbzk0azJXVWpBWWtac2doSEIwZkJkX3l1SWFZcXB1OUdZX0ZYQ1diOFM4WVVtTjRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Increases Stake in Shinhan Financial Group Co., Ltd. (NYSE:SHG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVY4WEJjWE9KMWVMSUpiYkhMM2JkRTJVUXJxQlpMMzVjcm9ha1hJUnQtbTY5NUhZUk52NzNZSVJhVHd1bl9MRzZVYUstLTRSOGRPVTBCNktOYmZjd3JSZnFfVm5sbGxDNW5nVmlQN2UzemYtbGp2XzNwdEliUURsWVdTV2UydlFRbm9aTVQ2NFNzMDZQR3FILTlJYXJieHlYcnk5SWp2NzdYaVA4TmRoVlhMWEgzRTFBUnpsa05DeGw3QmUtbGdKaTlnVTVXTnduam5JQjNWTi1Mck82aHd2bEwya21YR2xscjhGUFVVcXlFa0U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shinhan Financial Group Co., Ltd. (SHG): Why Are Analysts Bullish On This Undervalued Financial Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWThDSHhYQ21zLWh0NFp5cUtUY2pFcEoxTjBVM3Nxak9kYnktSG5peERIOTM1cXpsTU1TNEwyVFhHMUE1aUZRd2ZSbHFoQjRYR19TOWRhQTlqT1FtV3J5NjMxWnRpTGRnX2QtMm42Ny1sVFo5V3l2cUhmWUN0VFlzUy1B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Millennium Management LLC Invests $7.60 Million in Shinhan Financial Group Co., Ltd. (NYSE:SHG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYVA3V1cxN2R3ZWktTzM1bmRNVENCOHpIQkpxclZBTGJGaWRwSnEwSm5nZzR6cGhwRGRsZGw5WU16S0VHUkZka3hRU2hjWEo0UE5kcUdXam5RUVdxRHRtMnNQcDNEYi1ZT05CX2F2Y0I0VW9EbFZ0R01mcGtyT3g3aV9YZnhWOWFXZmRDdlc2Y0dHZzNmVW02OUF2Q3JvOV9pQVNCSElLeHRjeE5uazVhcl82d3IxMzAxRnlQYUVYSHlXby1SNTMxZnhWYnlxM2xBbmJGN0JUTGppMHdaQXRCVW13?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jane Street Group LLC Purchases New Shares in Shinhan Financial Group Co., Ltd. (NYSE:SHG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTVB4RWU2ckRycjZZMmZGN2tUWmhpY2pFV0dYUGZvZjNtcU50c2Ixd0J4ZkRpa0FuMVB3R0pOSFpsOVBQTUsyUjVRbFMyQ3o5dUt3RTNNc0JOU1RjYkQySUhrV1pvSXpHM2dJUjRaNWVGaWZYV0tLeHpJZVNFbHJ2WjNIMDVuM3JqaHhjS0ExbUR6XzJpLU0xNk8xdzZoaUpGTlBVWGZxN2c0SHNWSExQMnBnNFliaW5zV0g4MHpFZEc1bXlvVFZQcUJLc0c0Ti1hdjR3WGxuZFJoaXBQNmNiVWY0dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vise Technologies Inc. Has $626,000 Stock Holdings in Shinhan Financial Group Co., Ltd. (NYSE:SHG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSVZ4SkVZQUt1WmRjNk96ejhzZ21LMzI0X2h4cEcyc3hjeUxydi1ibkVKXzNibTNMSUhDcUdxbm5ZNmFBRl9NNXdoQkNjX1FDcDVuQTlva2dNYlVpaWFjbWM3bG9UYUtCWjJKQU5paXBFOVhQNlAySFpzVWllUjR5N3ZsOUNlYWpqVjhoaWN4ejBHYW0yaFlnWFFLY01XZ1RRUEppYmpXX1RjUGFnUHFpTF9neDFUVmsyQjlTMTdpcEFqa3FoU0Qzdnpab2RNUHFrUW5B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(SHG) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTBKYjY3U0hWNkRSOFFYdjM2aXRwaHh6S2dhclc0dHdoa2J2UTU2a3lZcWtHT3ZBN3BNazRTSWJtNGxHT0FySEZjQ2x4cFZhVlNXU3Y3R01DZXhmQVRTT1ZmNVdnSHRNSjN3N09wZExJMmRFT3NWaG1jZjg1VzhYSzZzUnhmSi1VaVJoY2pyNW01R3UxcUt0R25kTjFxVVlfd0RuZ0E5WERQZEVWemZiYWFlNWk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SHG or NU: Which Is the Better Value Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSktMNHBaTXlDMTVPRDZGNm5yR1BZZ2Y1SXNBUy1oWlM3UHlNWHMwU3lvTUJUQlBZRkxmZVRKZkh4NlJjM2ZBVjhhdTZZamJxQU04TlRJVk13dk9wZTFwZmxON2FiVlNQR2I1RXotRV96d05Ga1QwUUtRd00zcVBUVVZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shinhan Financial Group Unveils 2025 Corporate Value-Up Plan - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEVILVZUUG9NbHlwY1FyQ1BZdmV6WDJZVUpJeThCd2lTdUYtRXZLdG1aeksyc2tnRUxfeG9QeG8zX0NQSjBSblNRWU5lQ1ZsNWFMRWJPQ3BWd2NpclU1bFhYQ1c3bVRkX05BaVJ1WDlSS1VPZWp4eHJyd1VpTUg3NEdLNUJReklQMkU5RjEyWGZ5YWl5N1B5WnRFNGpPQUkzVThJYUltdXM1MWxnQ05yOXVB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 38.86
-      },
-      {
-        "date": "2024-12-03",
-        "price": 38.68
-      },
-      {
-        "date": "2024-12-04",
-        "price": 38.03
-      },
-      {
-        "date": "2024-12-05",
-        "price": 35.64
-      },
       {
         "date": "2024-12-06",
         "price": 36.16
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 40.61
+        "price": 40.52
+      },
+      {
+        "date": "2025-06-03",
+        "price": 40.56
+      },
+      {
+        "date": "2025-06-04",
+        "price": 43.3
+      },
+      {
+        "date": "2025-06-05",
+        "price": 42.87
       }
     ],
     "current_price_data": {
-      "price": 40.61,
-      "change": -0.81,
-      "percent_change": -1.96
+      "price": 42.87,
+      "change": -0.44,
+      "percent_change": -1.02
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres de cette collection de nouvelles concernent Shinhan Financial Group Co (SHG), une entreprise cot\u00e9e sur le march\u00e9 NASDAQ. Les titres mettent en lumi\u00e8re plusieurs aspects de l'entreprise, notamment son rapport avec des investisseurs institutionnels, ses performances financi\u00e8res et techniques, ainsi que les strat\u00e9gies de son management.\n\nL'actualit\u00e9 globale semble avoir peu d'influence sur le sentiment de march\u00e9 envers SHG, comme indiqu\u00e9 dans les titres qui discutent de la valeur de l'entreprise.\n\nLa plupart des titres signalent des signaux positifs pour les investisseurs. Les investisseurs institutionnels,",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

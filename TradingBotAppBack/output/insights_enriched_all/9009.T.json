@@ -2,55 +2,50 @@
   "ticker": "9009.T",
   "name": "Keisei Electric Railway",
   "sector": "Consumer Discretionary",
-  "market_cap": 664514330624.0,
+  "market_cap": 682839113728.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.6034565,
-    "PB": 1.3055745,
-    "EV_Revenue": 3.011,
+    "PE": 9.870347,
+    "PB": 1.3415773,
+    "EV_Revenue": 3.058,
     "ROE": 0.14502,
     "ProfitMargin": 0.2191,
     "GrossMargin": 0.27775,
-    "DividendYield": 1.3
+    "DividendYield": 1.29,
+    "DebtEquity": 62.785,
+    "CurrentRatio": 0.515,
+    "QuickRatio": 0.363,
+    "FreeCashFlow": 2330874880,
+    "OperatingCashFlow": 41149001728,
+    "FCF_Margin": 0.007299632543467263,
+    "ROA": 0.02085,
+    "PEG": null,
+    "EV_EBITDA": 14.231,
+    "BuybackYield": null,
+    "PriceToFCF": 292.9539974826963
   },
   "technical_indicators": {
-    "RSI_14": 40.73856337953245,
-    "Momentum_10": -13.794182045667814,
-    "MACD": -26.912556478030865,
-    "BB_Percent": 0.2211622052440519,
+    "RSI_14": 46.18897396153314,
+    "Momentum_10": 3.6982790186744783,
+    "MACD": -25.82409583162803,
+    "BB_Percent": 0.356774222840334,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.89267623292448,
+    "ValueScore": 0.8895061170014243,
     "QualityScore": 0.4302225509844721,
-    "SignalScore": 0.7632663828925697
+    "SignalScore": 0.5927607563416637
   },
-  "volatility": 0.023733940627213,
+  "volatility": 0.0235076523174549,
   "beta": 0.324,
-  "return_6m": -0.0860048393606732,
+  "return_6m": 0.0030696865277521,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 5,
-    "target_mean_price": 1518.0
+    "target_mean_price": 1498.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1507.67
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1499.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1441.67
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1411.67
-      },
       {
         "date": "2024-12-06",
         "price": 1429.67
@@ -514,24 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 1378.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1401.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1391.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1416.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1434.5
       }
     ],
     "current_price_data": {
-      "price": 1378.0,
-      "change": -7.0,
-      "percent_change": -0.51
+      "price": 1434.5,
+      "change": 18.5,
+      "percent_change": 1.31
     }
-  },
-  "news_sentiment": {
-    "summary": "Keisei Electric Railway (TSE:9009) has seen slowing rates of return, leaving investors unenthused about the company's prospects for the upcoming fiscal year. The company's 2025/26 group and dividend forecasts have also been revised downward, adding to concerns about its financial stability. The global economic environment may be contributing to these challenges, as investors weigh the impact of rising interest rates and geopolitical tensions on corporate earnings.",
-    "sentiment_score": -0.333,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.33,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

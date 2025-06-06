@@ -2,55 +2,163 @@
   "ticker": "PAYC",
   "name": "Paycom",
   "sector": "Industrials",
-  "market_cap": 14492360704.0,
+  "market_cap": 14780217344.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 36.853462,
-    "PB": 8.158667,
-    "EV_Revenue": 7.354,
+    "PE": 37.585472,
+    "PB": 8.32072,
+    "EV_Revenue": 7.521,
     "ROE": 0.24987,
     "ProfitMargin": 0.20598,
     "GrossMargin": 0.85892,
-    "DividendYield": 0.58
+    "DividendYield": 0.57,
+    "DebtEquity": 4.746,
+    "CurrentRatio": 1.204,
+    "QuickRatio": 0.222,
+    "FreeCashFlow": 296926496,
+    "OperatingCashFlow": 567800000,
+    "FCF_Margin": 0.155150227782221,
+    "ROA": 0.05589,
+    "PEG": null,
+    "EV_EBITDA": 29.599,
+    "BuybackYield": null,
+    "PriceToFCF": 49.79245223033245
   },
   "technical_indicators": {
-    "RSI_14": 63.28867490734336,
-    "Momentum_10": -0.4775051176354792,
-    "MACD": 8.436968590558791,
-    "BB_Percent": 0.6237805026773914,
+    "RSI_14": 66.55320793389627,
+    "Momentum_10": 2.699377509040595,
+    "MACD": 8.153755179949854,
+    "BB_Percent": 0.8453957340888353,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8722689776734818,
+    "ValueScore": 0.8685119738631516,
     "QualityScore": 0.4565707563056143,
-    "SignalScore": 0.5532634138538102
+    "SignalScore": 0.4945979464199831
   },
-  "volatility": 0.0251674152012641,
+  "volatility": 0.025176443574388,
   "beta": 0.818,
-  "return_6m": 0.1167545683622002,
+  "return_6m": 0.1418843097237982,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 16,
-    "target_mean_price": 240.3275
+    "target_mean_price": 240.89
   },
+  "news_sentiment": {
+    "summary": "Paycom Software, Inc. (PAYC) a récemment fait l'objet de plusieurs analyses et actualités. Malgré une vente significative d'actions par le COO, la société a vu son cours augmenter de 26% en un mois, soutenue par des fondamentaux solides. Les analystes de TD Cowen ont relevé leur objectif de prix à 250$, soulignant la confiance dans les perspectives de croissance. De plus, le lancement d'un nouvel outil basé sur l'IA pour améliorer les temps de réponse en RH montre l'innovation continue de Paycom. Ces développements positifs pourraient soutenir le sentiment des investisseurs à l'égard de la société.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Paycom Software, Inc. (PAYC) Stock Analysis: Navigating Growth with a Forward P/E of 26.63 - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWFpEV1lBTUlqbnlQR29aSDJoNkt1TWpzZEJIaFJZYlBReDlaRzNWcGF3N2Z2eEF0Y2g4TF9HQXJ0R2FXSWtkVGk0SE5IdlUwNHJsakZqLTllRVdPVjhmWEhyWDFOMEtJMFNkeFRISlNyVFhSLWpkSUx1LVRpTzR0OF9hOUg4MUQxci1BcDBJV1ZXTlUtd3BsZ3ZsdmxzeXlPLWl5b1otSXpublBOUEFRbFd6M1J5S2ZWNTRlNlZpVncxazR4cVg4U0ZWNFNmbXFo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paycom’s COO Cashes In: A Significant Stock Sale Unveiled - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0FjR1hqc0dmWXJxejlHLTFuekwzQ05lRDZRVUxiSHRGNWRDWW01Qm8xV3BrdHdOR2tYeTJjODVUZXRhZHdwV3pBVVdzdmgyMEcwQmhuYWYwY215TTNVZmdUd2p3bTl0LWdWUHZzdi1Way1hSWxlSGhhblJ5d1NSWnJnY0pvOTE5cnZ1WGdCai05SlB0R3NIY0dVTS05c2xEX05oZjFWQ2Rnc1NZMWpEWjl4dnlTUkhS?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TD Cowen Raises Paycom (PAYC) Price Target, Maintains Hold Rating - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGlFVHJUQmlyeWdKakhhbWZqdlV2VXZ0MDBiOTkwR1hTa2lsdHU4MkFVemZPRVpydjhsdUwweDhHTkhhamVXZGtWbXlxeWhoVXlVMTYwa09qd1VYWDhiT0ppN3h0YnFMXy1GNDh5THRzcW9GdjVyWTRtVWhqUlJ6bDYtWGRNdG1kc19fQ0NiSFBYVHFhUHpJQkRIb1V3TktqQUJwWDRXYWJaQdIBsgFBVV95cUxPXzRJS1BaaVpQbENtZ2ZobHVWcHpNaDA2a2piM1B4a2M1VVBjdkVtSHAxSjh0R2tVXzZNUlBDek9jX0gyLVhRbm1kc2owUUE0dWVINjVqZHo4UnVQSl9RV08wR0Z5NkRTb2J4SlJCZlMyY2pOeENOSkd6R0NadWNyTGlaaDJ1VEUxVFRBc05hQjZhenhxNWJGTWE4VHRBaFo3LTFSZGpTbDlGbXNMakJNbEZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Workplace Study Reveals Alarming Vacation Trends: 40% Summer Request Surge Coming - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnRhOXlDMEUyVjZNYWh0LURYZXhpeVlZSG1qbDVfcG5xczNQVFBzLUZhMy11ZE9wT0t2QVVOMlJZMlJwWTFoRmcwcXp5NzM1M2dMU0lELWJuLXppRExfMmxSaExLMG02RGEyZmJ2azRsVEZXTmd3T1dfMEwxc1NMbEVvUzJiX3FObHBoTVN5U1ZQSFR2eXNyTjFYa05ZTUlISzRwUGtuSDhPODF2QzA4VHJqUnI2Tm9vZFhmaA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Paycom Jumps 26% in a Month: Is the Stock Still Worth Buying? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PMk0zQkdveVRseVFNWVZKWHZxTHYtN3dMV0dQZDZnYmlWZHRCbE1XS1laaXpsWXRXZW5CZEctb2VMVnMxSjV4amxIMEdDQmI3WGU1aDdaYVhGM1U2UTV0clFkZktSZ2Y0czJXYWlDdHBxZU5IaEtoRmM2SXhLQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paycom Stock: Beti Creative Destruction Is Over (NYSE:PAYC) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0FQVnBrMlBCLXVIU1VGaHd0Xzh0N2ZTbzljOG1vZW9fejZOYjBvbVQ5VDA2NHh2d0tCdGU2aTFBaUc3Tlp5SVptZjI3RHoyOUY0ZnNFNGpnRHBqUk1zTE1DOTQwajA3dnptNTBrVWNsTWxRdzFLYjhEM2d3QXgxQ3NsYXlYYmJU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When (PAYC) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNTJoV2R0RDhfRjhxRVY0Mm9zaXkycUJQQTRDRlVsNGNXZzdMMWo1cGI3UjRvdFpROUs3WUFwV0NYcTU4bFhsVXBXSkNnYy1tdkNYOG9uaDRxdDU2cGVYNmZmaWFpX0VWVXhGTzk0MExORmhMMDI0eklBSnhsc3ZYQWIwbHBVUGh6TzcySGYwOGlEUEJHRk9hZnFieWJMSzBwLWFIN1RkamxncTB4UFZkTzdqcnk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen raises Paycom Software stock price target to $250 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHM5M2NINERLUFhQUW42V2RFMjN5MktaOVV2SUVhQktVQ3hyR3ZSdVNDQlJyVklYQ0hpUmRicnkzN0gwTEtzSGcxRW1mV3FxNmdrUDdvYjJPTUNEOFFBd3N2MGpfYlpfQW9WLXZFMzFReVBZc0ZDeE43LUdMR0psY1Bkb1QzazVDYlNQRXBZOEllYzZRZ2Jyem8xYzliUTFxYVdsai1IVmlQcUV3TURhMlZ6cFYzYUFS?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Weak Statutory Earnings May Not Tell The Whole Story For Paycom Software (NYSE:PAYC) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa3hOUUJ5OW5OOHZrdXlRMm1lajQ3TWU0cVFRNDd5Q2hIYXdNX0NCLTh5aEp3QjBvbVRkZmJJdEZNbGJzZlVoSC0tQWl0NERaMjZsWVJBeDVrdDYzZ0tDUXBKczVDamFOVm1EMnZoTlR5a2NFaGNoNTg2d1A0N0xkVnc2UEVHd09taGp0RkFQSk02TzA4UFhLTzVTOEhMVzNwT1ZRUU9MVFZLME4yY2RkaFc1czQydVJpa0thTmUycG84TTlKelI5V3hEY2E3Y2JJd2tKWVJpaE9RUm_SAeABQVVfeXFMTkowYzRlS0JWTF9SdmdxLWtVUGdZeFgtZVBEUGZrc1laUjJVYlpybmY0NmlhUkR5YVZ6SnI0OXF3SEo2dlhVUV9rQzJNSkJuaHBMdER1anZpUFhDR1ZEd1RDVEdmeEhzYUZhMWxSQXhUMW9kdWRoRW1LZ09Pc2ZJaUo1X1ptdktmTkpjVlBoMzlNUC1Ud1U5Yk5jdDZ1TEtZQnNLc3hPTVZGc05VT0F2NktISHpkVlEzcFNLTjZ1Sm5ZNzZRV2xqbWhuS2RHRmdJdXdtWEtQUGVfSXZmWnU2enU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Big Money Backs Strong Paycom Business - FXEmpire",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelhYLXVjQVUyQmxTUnliNlFOZVkxOG1tamJGYkVxWTdBMmVlYmVhTi04Umg5NmYzaEJxVnZBUVh5UGVGUmlXRTRBTVNEamlqcTNqUGxKa3k1Y2FfX0xtdXZpa25LdzZNSS1rU0ZCOUY3ckNpbHV6RUFtNFpSSTAzQXYtN3BnZ3B4Q0F0SDRkalh0dTg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here’s What Lifted Paycom Software (PAYC) Stock up More Than 20% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcDNuVW1jWDQ5WjUzYjhjTlRWSnNta3V5bnFneUxmbVVDSEl6eGxCeVlzNTdtOTB3enNtUmotZUNTb0ZWNDNUSHZIWC1mSnRkSlZnT3lScjh1dldjR1hRRVpXZjM5aWIxWlg2Y2JkNHg1OHZyNzBiWnhTa0xJa0ZiRDNYT1B2QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Paycom's New AI Tool Slashes HR Response Time: How Ask Here Transforms Employee Support - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2ZBWE45cTFoS1BTQjQ3UDdYbFFXNDdXY3lzQlp1eENVV2JEV0hxbHBHOUt1X2h4dDRqQjZVSW5TMW51XzFDeE92Y3pmT0lJUk9OUkdJNmcyVGRiRHhlZjU4SHNXN3pvcU1wME1Kc21TbEJzVzFtNGxyOVlyOHpLTXZfQVo2X2I5RS1pNzM1ZEZvaEJvdVhkc2ZYVUpUUWZGX1IzdGkxZlB3SDlJdUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paycom Software, Inc.'s (NYSE:PAYC) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnVsNl85TjAtUTgtZks1Ulg2YURndnA5Tl92Q0tVLXhfVVVsTEZxaU5RdlRmX19LQ2NTWjJvdnBmQU9DNHYtZk9QTk1Va01HcDRCX0hiUjJtbTVINVZPTjBCeTVMQ2ZBYVM5RHl2d192YzdaSFZrZVFwVXBGVWd5aE9hdVU1aG9DZzhjQXZkWFBXRTM4eXJvVWlIb1FZVy1xZUo4TzBOeGtCSDFTWFYxdElKdGFqQW5NYkFRb2ltVmtfZzl4QVB3dzlmNWM4UUhQLVlxeW42bVNveXPSAeABQVVfeXFMTlkzWmJad0xLYnVhWFpJM3lkTTlsUXJlQ095d0RhRzE0aEl2NTdHLWF3Nl92MnV4VkpHWklMY0RDLThUTnhCYlNOR2FsS2UzTzN4dWJqZUhQTE1raUNLTWlydXZ1NjV2ZkpVY0RybFlmcFRYRVBjWDJmYmdIbWdWVHVyUUdaVlphRzFmaTdmclA2M1hVTXVEQUVmNUtGb1A3SGhPNEo3REVQX05VS3UzY2ZYNHlzcFk2NTZjQ0dnOGdycVVyc3lqZDVHdDNGX2dEQlJTQ2VNTkd4MjZ0NFhZVFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Paycom Software, Inc. (PAYC) Stock Analysis: Navigating a Cloud-Driven Future with a Strong Revenue Growth - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaXhrMnA5Z1BCODVMM2taNjlNQUlFaFFpc1RoTEtQRU9mdGVkWnFNTm40VXhDdG9MUTE3OVZfbk50dzFycmdvcDFDWVRjRUdUM1hseC1nRVNfekNuREh6X3QzbXpsOEMtX01HdVlSUlBLdG8xV3JvVnBja2pLMUdhVTNlSXlCR0theHA2bnhIN0k2TDNFZEJLaks0TEhpTXlvX2x3NEpYdWJ4V01OX2RnVFU4NHBzaEJreGM3aktORl93NEVWbFFsdVltNllwNmtrNUNwOHEycWdMZFRoZXY3dmpUU0ZrNzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paycom Software (NYSE:PAYC) Could Be Struggling To Allocate Capital - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0Q4SFR1czZiWTF2WmlvZjdYb3dXejRJTG05RVhaUmp6SHZQeFdfUE4zQ0NUWnBDWFU1eWRmVkk5dzhHV2VDOHpOVlRQUjIxM3p0YTBENHZ5UVVnSzFSR1V5VEpERldVUkw3c3FsMklYR3dLdmRIb1ZTandXcEJodHQ0dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Paycom Reveals Growth Strategy at Baird Tech Conference: Live Webcast Available - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWDlpU3pJRERtUFhsNkV4ZVVZdnZsRDVKeHhub2tlaVNza1VyNGNCQ09rcWZVUXQ5U29WRzVYM3BWZU1LQ195RUJiRjZLaUJjTUZtR2NMQ3Rhd2JLUWhrWnIyMGRNaHp0bTBvaURiOXVOVy00RXBVaExXNG9NdXF4Rl9hM0QzMlB0dlpsaEFXSVdjUXlyei1EQ2RZbGNRb1VlUGZRMDR5WGUzaDZ6SnZLVWdVSV80ZGNkN0c2Vld3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paycom Stock Gains as Q1 Earnings and Revenues Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXRVODNzcmJoR3hhZk9iU2VvRVdXZG5Vc1V0bW82a05ybVdOdHM3MnpPMDNUZXA0NFBwaUROM3ptTTk5NDdRdWN0VUUzbjNzRGhOaS1YeFV6Vlktd3Z4OTQwSjlmTFczTGM3U08yUUZ6SC16d0JxeFlNNVB5cm56cUhn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Paycom's Background Screening Gets Gold Standard: What This PBSA Accreditation Means for HR Teams - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEdrbTQyVDREMC1JdDh4WWtSZUkybjJ4RGlPZGs3blhVQnRPSlphbmt4RlMyWUVST1BOYmtCcVZ4TkN0Rmh4S19KRVFsWXViejliMWZEYWFaNVBWbGt2RDJIOTZIamtLYm5HQWt1MXJCRU9kbW50NTgwR3NqWkZGVmxwcDFzVGNtWEUzTkkzT1YwMzVIc19XbnRrMS1VYk43UXQzcWc5WGtERFVnXzJmZUZiUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paycom Software, Inc. (PAYC) Stock Analysis: Navigating Market Challenges with Robust Growth Potential - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYlB2Q0pXV2s3U2JVVW4xd3lpMHk4b1BrWVJ6djJndWV1TXNxR2M0MDZmX3ktWGlrLXg2MmhIR2RQdmFZajJJZjVQQWNDYkVDUWRWUmVrcGpuVjd5V3VEQVotREVUMkQzaDhZU3JlZTNfWEo5V1pQVWc3OVhuU2J6MlZfT3VkczJPWHRqYnlMNEJvbHNPel85b0UyMTVXMGpfSFZWNVBtSUhIeWZIUGZSc191TmJWUS00WElMYXRWallNMlo2Wk1QWEtBajg5OUhONG9STXZQSHBmR05MQ0dSejBB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fragmented HCM systems jeopardize business efficiency, Paycom research reveals - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlV4OTVkR1laRElUNVBaQmRiMUhrOXVuM2Q3WGU0UWFXMkFfLTNJMkZ6MVFKZ0Z5YXNaNzY0VmtKa1o3bEJtS2FZQWxuMl9tTFdSQ01wOWk5ZlZXbzNhc0RUX1lXTHVWSGdpNkcyT0JPWldKYjRvM0VmeDBGMkZYMVZUWEptSGNLTmphbXF3aXNlZw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 232.41
-      },
-      {
-        "date": "2024-12-03",
-        "price": 229.88
-      },
-      {
-        "date": "2024-12-04",
-        "price": 231.74
-      },
-      {
-        "date": "2024-12-05",
-        "price": 231.81
-      },
       {
         "date": "2024-12-06",
         "price": 236.48
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 259.23
+        "price": 259.54
+      },
+      {
+        "date": "2025-06-03",
+        "price": 263.8
+      },
+      {
+        "date": "2025-06-04",
+        "price": 264.8
+      },
+      {
+        "date": "2025-06-05",
+        "price": 263.93
       }
     ],
     "current_price_data": {
-      "price": 259.23,
-      "change": 0.12,
-      "percent_change": 0.05
+      "price": 263.93,
+      "change": -1.47,
+      "percent_change": -0.55
     }
-  },
-  "news_sentiment": {
-    "summary": "Paycom Software (PAYC) has recently released a new AI tool that has significantly reduced HR response time. The company's stock has seen positive growth, with a 20% increase in stock price. Despite this, some experts on Wall Street are hesitant about Paycom's ability to allocate capital effectively. The company's first-quarter results also raised concerns about its financial performance. However, other analysts see Paycom as a strong and innovative company with a promising future.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

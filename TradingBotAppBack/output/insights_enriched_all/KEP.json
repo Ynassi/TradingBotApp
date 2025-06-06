@@ -1,56 +1,164 @@
 {
   "ticker": "KEP",
-  "name": "Korea Electric Power Corporatio",
+  "name": NaN,
   "sector": "Utilities",
-  "market_cap": 14215869440.0,
+  "market_cap": 13930640384.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 3.713087,
-    "PB": 0.00016930194,
+    "PE": 3.6531987,
+    "PB": 0.00016601231,
     "EV_Revenue": 1.393,
     "ROE": 0.13266,
     "ProfitMargin": 0.055749997,
     "GrossMargin": 0.14538,
-    "DividendYield": 0.68
+    "DividendYield": 0.69,
+    "DebtEquity": 317.29,
+    "CurrentRatio": 0.473,
+    "QuickRatio": 0.274,
+    "FreeCashFlow": -727879974912,
+    "OperatingCashFlow": 16396690915328,
+    "FCF_Margin": -0.0077163033272301925,
+    "ROA": 0.02769,
+    "PEG": null,
+    "EV_EBITDA": 5.441,
+    "BuybackYield": null,
+    "PriceToFCF": -0.01913865041511027
   },
   "technical_indicators": {
-    "RSI_14": 70.85587334602633,
-    "Momentum_10": 10.982941665264532,
-    "MACD": 0.6357231491129234,
-    "BB_Percent": 0.7675135035988531,
+    "RSI_14": 64.2369261390987,
+    "Momentum_10": 0.9302361066951308,
+    "MACD": 0.5382676858420368,
+    "BB_Percent": 0.6332340277754801,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9371035285878496,
+    "ValueScore": 0.9378616755529888,
     "QualityScore": 0.3983514148584684,
-    "SignalScore": 0.2965247715470354
+    "SignalScore": 0.4726546583422529
   },
-  "volatility": 0.0225321253504694,
+  "volatility": 0.0216457321039543,
   "beta": 0.63,
-  "return_6m": 0.2926400745291986,
+  "return_6m": 0.4109233160905132,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": null,
     "target_mean_price": null
   },
+  "news_sentiment": {
+    "summary": "Korea Electric Power Corporation (KEPCO) a publié des résultats financiers solides au T1 2025, dépassant les attentes en matière de chiffre d'affaires. L'entreprise bénéficie d'une dynamique positive avec des prix de l'énergie plus bas, mais fait face à des défis de croissance. Les actionnaires ont approuvé de nouvelles élections, tandis que l'entreprise cherche à équilibrer ses performances et ses difficultés lors de l'appel aux résultats. Malgré des signaux mitigés, la reprise des dividendes et une perspective favorable pourraient attirer l'attention des investisseurs.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "(KEP) Trading Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVm53UjBieWRzaC1WUDZkeHRncTNZcmFTYkNVdUtueVF3WkRfQndxcG81YkZKR1VXcUdXWmxnWUowSzlIbGdIQ2FyZlpUaVE1bHlmUlI1OTBySE0xNFBxVGt4Zk1hSmp4aXNydU81OHVZWklwUUlhUGpjSkhDUjF1eUNhOElKcGppc0VNLVM4QkxtSm43MnNDeA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Korea Electric Power: South Korea's Power Giant Is On Sale (KEP) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1pMcjFpNHQwb3NyeVVWZGdOWHBOVFIxdlRuSUNTcUNqNlF4dVlhUEg2OTN5bUYtMmFaeGZ2MVpTYWpRWjhPdWpRQlpDQmdkdWp6VUIzS19kdktSQU1CNzFvajZVTmNYbXRFa1BCdkh5dTBtWHp5b2ktQnk4ZG5hU3BHNWpsT2ZUTTFYVExzb3UydS1iYWFscw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top 3 Utilities Stocks That May Crash In June - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOak5TNzhfenVCWFJ4dktINU9CV2gxbTNnYlRmaVhMSXExQVNlMDJzLXpqTVRmN0t6VGl2ZVkzbm5BMGtwY0pDTGVwSDV6ekxOLW9DRHRkakpxVEJRbTNnQ2RzWkVjX0pXSUpnQXdDTGU3SDR5eDJWOW1pakhlTnZnaFBRcmhXRjVYN3VjSWk2NlBNRjBzcTVEdGZn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "KEPCO Shareholders Approve New Standing Member Election - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDB0WklpWXNBUnZIY0JGOU5lUzN3YnRmVks0aFk1QkJOcXZZR2FacjBKc2NQVEVWSGswbWQ2c0hvWDVsUXZIMjhhc3VBWFdjMV9pQ2Q0a3BVM2RXS19fUEJWN3U1R3k0UlVvWnktOGZXZmhCQWNLLURqNEd0c2ZYS0hjcUtLSndJdlFXZEVPRkFiNGRkcE5JZmNDZ1lza2ZqMUxRTE52ekJtcmM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "European Stocks Close Higher Ahead Of Kep Political Events, Central Bank Meetings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeEhaQ3R1eHcxOTV6Rm5laUlNTFYtT2UtZTZoUm9NblU3a3RET1hzWVBMVmRhOThOUWhDaXJ3dTFkaUVfVndha3NIVDFHb2xKUDNmaWJ3a2xaTW5tVkVCcDNQNl92THBOWVJFNEROMEpHZk1wckRUWVpQcWN4N3ZkRVlOQU53TndHZWhhUEhsQ2NCMm9Ha0Y5eS1UOUpvVi04UXN5X3VpLVkxZW02bEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Korea Electric Power Corporation Releases Complete 2024 Financial Results in Annual Report Filing - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNkhWLVdCQkVjeTNLbnNLdzhEYlZXQnJ5NHVxbk9hNXl2MkZlSWlqelNZazh3VGlSOFdQekYtcVUteTV4R295S184OTZrblQzV2haUmswa2RCZGg5aUZwbDFqZjEzSDJCUkJkX3ZFeGpGeXVFNWNRcFNDY29heTlwcHlFWE9tT01FWC1uUmQxYnBzcmhZUVZMMFl1d2dhZG9wRENYS2xhaU8wUllIRU9yQnFzUW8xVHpjb24wcmM2VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KEPCO: Tailwind From Lower Energy Prices (NYSE:KEP) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFBaZ3BjX2NTb1VOeUUwSHoyVHh2U0RoemF2SHVoTW1pVHd4QTdYMmFRS25HUWxub0NhQi0waHRwQmF1NmNfQXFNamhaMTg2eV9wc25xb0ppNlJHQnNFMEhfYm5VNTk2M08zTjVXeHQzLUxsTEI2ODd4aFBzLURyM25vd1NoNjg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "3 Overlooked Nuclear Stocks That Haven't Gone Parabolic Yet - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFpaWmV6N2pzbHVzT0dXeldxNVpSTVdueW1TZ24wMGNPaTZBM3Z2V2VZdTAzVlg2djZrQXd3Q0poUDl2OG5oc3BLam1JRGVkOWs0Vm9kb2dDekhHaTJVTXhOS1Q4VUs3VVhULVhZYmZwYWlFZUo4YXNxamZrZlJId2wzMmJXS0JHc3AxVmRKNUNzYWxqS3NINm9xazlNZDJIUFJRLXhSYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kepco ADR earnings beat by $0.37, revenue topped estimates - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWNQdWtLcU9xOTl1MklHazdGR1dCVlUwVWxTejU0TXo0TjZNRHppVm9nUl9tMWk3UkEzaVpZQkp5QnV1NVJ2dXZnOFZXUnV4U2pnR2VJRDNTLXRkWjJrSGcyeEkyY1NGZ2M5QjJBQmxLY00wNmpReWk2bUstam9xalg0bUg0UGh1Sk5QU3hlTEl0QkFwb3dmUjNoMFJ5dUdfLU9XN2tR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "KEPCO Reports Strong Q1 2025 Financial Performance - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkRrQjg0ZUljSXQtYUlia0Zxczk0SnAzSGZRRTl1NlF3RUhKeG5yeFlLRzZoamRtZzExbjEzMjlCZjl3NzVpR004TG5NQTBpcWJOdDc0QzhWX3dJN3MxVUhtanoyZ2ltMENmWG1uLXRjTS1YcXNtVGRDVmJSaTlPNGp4WS15ak1EbzFUS0lzU2NZajE4emt0UTloZWxWV1pYRWhYWg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Korea Electric Power Corp. (KEPCO), which succeeded in turning a surplus in four years, is stretchin.. - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RbVJydFpyX0YtOHdLTUtaUTdZMVE0YnduUWxHRmMyWktuUW9tR0l0Z1dEcjExX0h5QU96dmx3WlFvTUR2aDFhSlpvQVNuRVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KEP Stock Quote Price and Forecast - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtUWJOTUZ0djdUYi0xTGlKRDZGNHp6UVBDdlNZZUhJRng4REhtUm9xWDJnYnlXSUpaYTljOXVIU2p5YUJmRHA0VEl3MGgxcGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Korea Electric Power: Dividends Are Back And Outlook Is Positive (NYSE:KEP) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEJxVlBiaHFfZ19FWE1WYTVoYzk2NDlPUjVQeUhsdENUWXR1d0ZXaUEtSlJlNlgtME9DQ1Mya2k3cm94Mlcwb1NJY2F0YXBWa2lOaFhHQmk1TEY0TmptWmRfSy1KR2N1azh5TElSaVhtdXpSVVAxQndPTVpoaGdMTUJGNVAteEtzTnFfbEdzNWpwRnQwN2MwV2x2dkpUbGlwNUl1M1VqTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Korea Electric Power (KEP) Too Good to Be True? A Comprehensive Analysis of a Potential ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92TEtCOEpnRnR3UWtCQ1F2VGtiNEw3eGZIS0ZkS3IxYWdNSzdObGVlRkZvMjVFUENxZ3ZJa0dmVzFzUXN2MDl6WVlNeXJoaDVtOWVmRHY3T290NGFfczJxYmluOGVDdGgwOHJlU21TcWFJZjVzUXNfRHZrNERhajA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GameStop, IonQ, And CoreWeave Are Among Top 11 Large-Cap Gainers Last Week (May 19-May 23): Are The Others In Your Portfolio? - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVGVDelZIUHViUmdyeFl5dmVTOEhRc3pUaThZWXVIQ3pPbFpySVlBRmlrNnVHZFloX05UNFozdHRvaElIVWVoX3U1bHQ5d2tocWVfb2pVZnZvakdDcVBOclZoYmhzT0ZobGR0ZmVnMFFVU1BlZlYwQjk1UWtYb3oyV09sVDZsT0dtMUZsM2VPOFk0VDZwZ3dJUTFjY3pKY1FuQjYzVThFalVJUTZwT3R1dWpfbmViTjU4b0c1SXc5Rllsb093Uy1GWllyN2JuRnBVTUVldHFJSF9RT0xiMzRRdXBqRjFqZEFVcHVXOEFraHJWYUgycUlsQjJGVkZQZzdMVUFDVg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Keppel pushes P268.8-M delisting - Inquirer.net",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBndEFRcEZnRnJzQXlrYTFBdkhKMnpKNVQxcFF4SWJEVWExOHRhVnRjdmltNXBtTVFxU29VaFRhQnBaUUcyRzVaX29oOVUwSmRXU3Z4ZlhrRzFneU9vUE40YUtBeFN6VmxFazVyOVBnYWJDcXV3T3ZpbdIBfkFVX3lxTE1kV29aLWp1emJ6WnBCQ3duNlR6UDI1R05kZ0VuTlhReEgxZEFKRU9wbGpDRFM2N1hXRVU4ZnVDSUFsS2lTanFfOXBiU19MaVh3YW5fVTRmSzhrd2JrY280T1QzWWE0WXFIUWZkQTJPVWNMenB5RDdTSVp0cXJEZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Korea Electric Power Arbitration Case Update: May 2025 - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ19XUzZPOE5TMVk4bjJCeV9pbFROUUNlZDhWMUpHNEZ4LXJpQ1AxZzBycFBVTkd1Y3NuX3p0MjJETlZIMHRLU0NOTHZib1dkQVZnaGZyMHZkT1VoTWxWWnNqeGRVR1lrazBKVTB2OWFLVVVLT1llc2ZJUXBKa09QcGF5aUMweUdLRzFXWHVOMGhVYjdXWlh4QXNCZ3RCY3pkeGM0MVhpeFM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KEPCO to Announce Q1 2025 Earnings Results on May 13 - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY0V0c0VOZ1Vsb2tzS09YQWZGYXYzQTV0TGxXRGw2RllKLTczRVU0NjdhOGswalFsT2VLbkUyandBVUxtTlBmb0xTeDhHX0Y3SDZpVHNQUWZUR3hMWXgxTkFON1BYYUNuTG5xVGZxbE1HazZOLWQwZHl0bWM0Q3A2WV9xVm5aNU9pOXRVb29OVXc4MXNhdkFBYkZnMEc4eHR1T0hsUUZvWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KEPCO Appoints New Non-Standing Director to Board - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSHJrdXpISWRMYk5BcVE5RXlBQndKNjZFTTdZWmhFa0owYWxNYWRKSTZMV3BxY2RZcVkxS0JwRThOWTNmTDJacjVBeV9jdlEta196SVdLelRwY0tmTzd1Z1lrSEJYNDZPdC0wZll2TTlUaHdHWHdyVEJFSlVZRXhVS1BoNWJ4T0tyaE5FNFIyUl9La1lUNWY5Y0tUbzNuU1N3RlJJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KEPCO’s Earnings Call: Balancing Growth and Challenges - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSTZIRVVFLXhSSFczYU5tdGN1VVdfTjJtVkVHdE54MjlpS3RXeHNTajdSMzFEZFpEX0lTeUxadEN5ZVd4blRIeGVfSk9ub2s2WTFVZmJUY3hJcjB4MVkxNVBHUnZpR1hwbWlZY2dpd0s0VlQ2aDk4cjhrMWItaGM3QnNkOXREYWhpRU50NE83UGl3OXJ2aE9SR0JUZHpJTllnd3B3aVFxNA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 8.56
-      },
-      {
-        "date": "2024-12-03",
-        "price": 8.38
-      },
-      {
-        "date": "2024-12-04",
-        "price": 7.81
-      },
-      {
-        "date": "2024-12-05",
-        "price": 7.73
-      },
       {
         "date": "2024-12-06",
         "price": 7.69
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 11.08
+        "price": 11.1
+      },
+      {
+        "date": "2025-06-03",
+        "price": 11.07
+      },
+      {
+        "date": "2025-06-04",
+        "price": 10.85
+      },
+      {
+        "date": "2025-06-05",
+        "price": 10.85
       }
     ],
     "current_price_data": {
-      "price": 11.08,
-      "change": 0.04,
-      "percent_change": 0.36
+      "price": 10.85,
+      "change": 0.01,
+      "percent_change": 0.09
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sentent des actualit\u00e9s \u00e9conomiques concernant la soci\u00e9t\u00e9 Korea Electric Power Corporation (KEP), qui est une entreprise de g\u00e9n\u00e9ration d'\u00e9nergie bas\u00e9e en Cor\u00e9e du Sud. Les signaux positifs sont la reprise des dividends, l'\u00e9limination des pertes, le tournant en profit en quatre ans et l'annonce des r\u00e9sultats financiers complets pour 2024. Les signaux n\u00e9gatifs sont les prix de stock qui peuvent baisser en juin et les risques associ\u00e9s \u00e0 la politique. Les signaux mixtes sont la pr\u00e9sence de rencontres des banques centrales et l'attention du march\u00e9 sur les \u00e9v\u00e9nements politiques",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

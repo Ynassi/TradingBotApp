@@ -2,55 +2,163 @@
   "ticker": "LRCX",
   "name": "Lam Research",
   "sector": "Information Technology",
-  "market_cap": 105412280320.0,
+  "market_cap": 109003530240.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.955433,
-    "PB": 11.116957,
-    "EV_Revenue": 5.974,
+    "PE": 23.737494,
+    "PB": 11.495696,
+    "EV_Revenue": 6.271,
     "ROE": 0.53138,
     "ProfitMargin": 0.27185,
     "GrossMargin": 0.48056,
-    "DividendYield": 1.14
+    "DividendYield": 1.09,
+    "DebtEquity": 47.148,
+    "CurrentRatio": 2.452,
+    "QuickRatio": 1.581,
+    "FreeCashFlow": 2826895104,
+    "OperatingCashFlow": 4481505792,
+    "FCF_Margin": 0.16497104084614833,
+    "ROA": 0.17291,
+    "PEG": null,
+    "EV_EBITDA": 18.963,
+    "BuybackYield": null,
+    "PriceToFCF": 38.42027414116601
   },
   "technical_indicators": {
-    "RSI_14": 57.899807115699765,
-    "Momentum_10": -2.297764342525204,
-    "MACD": 2.600534332624221,
-    "BB_Percent": 0.5793267804160698,
+    "RSI_14": 63.592607366860854,
+    "Momentum_10": 3.104239239526585,
+    "MACD": 2.550080603020689,
+    "BB_Percent": 0.7267507470379041,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.87718595295055,
+    "ValueScore": 0.8729029006782425,
     "QualityScore": 0.3059733430523884,
-    "SignalScore": 0.5939153157515182
+    "SignalScore": 0.5071544865473239
   },
-  "volatility": 0.0345127406678903,
+  "volatility": 0.0343600416264637,
   "beta": 1.656,
-  "return_6m": 0.05607614792671,
+  "return_6m": 0.1399715763394713,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 30,
     "target_mean_price": 90.26667
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Lam Research (LRCX) connaît une forte activité de trading et d'investissement, avec des avis positifs de plusieurs analystes et sociétés de courtage. La croissance des bénéfices et la solidité du cours de l'action en font un titre attractif à surveiller. Cependant, des fluctuations par rapport au Nasdaq et des mouvements de détention d'actions par divers investisseurs institutionnels sont observés, ce qui peut influencer le sentiment du marché. Globalement, Lam Research semble susciter un intérêt soutenu en tant que valeur à potentiel à long terme, malgré les fluctuations du marché actuel.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is It Worth Investing in Lam Research (LRCX) Based on Wall Street's Bullish Views? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2lqUjQ4M0UzeENfa1dIVnE3V1R6M0NFZ2laMWlER3BHQXhDZjNaVFhTek14WTRqSWxERzFTN3UzM2tzRldDcW5INldpQ0dJY0hST0lHeEVTUzNMZHF1T2R4NFVWaG1YRXM1alRhUjJtY2ZLUjR6d1NYQVhPalFJVWp6a1JDUUwxN2RDMUs3THR6R0oxQWotVDJqbGptTTNQYWFPcmZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Grows Stock Holdings in Lam Research Co. (NASDAQ:LRCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRk92T1lmMlRUck14LUJ4MFBUeTBMU2FrT1RrMmkzSWxIVjYtbUFjYjlPeWl5VDk5VXRSMVgzVUFPX242ZVUwbG1wRmJRc1hxaEdYMmd0MFNtQWd4R1pkaXdjTTV6RzU3NDNoT2tRelhJenVQajJfR0t1WHJRc0h4UHlXMlp1SmlfTUp0OXBsYWtZTUl4SVpEYkZGQ1BvUjh4X3kxWlA0cFFuMl80ZS1kb0xOVXJRcUpQVTZvUnRINmNULU01SVZVUGZodw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brokers Suggest Investing in Lam Research (LRCX): Read This Before Placing a Bet - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaUxHcFZZNS1nR0I1VGdRenlZaWNvYjFxMm96ZFJmMzVRb1Q3dE14bWhESThHWkF6TzQ1c0N5YTZqeUNweTJhTWRDby1KWFZiWUNpQmkzMDlfY2gtZEc2eE9tV3FiRkxacEx0eDBqUDdPOXF6WG9NQ0V0ekM4OXV5Zm9Sc0RxdEJxV3JySGNSeWdrWnc2ck1NcjhBbmtnckJTVTRBenAxY19ZOU4ycFNHdG5HZTJZZk9rRVBFdGV3M290OFdGZE9TZEFKRWdoQXF5LWlYMjRDTkt5NlhRa1NZQnZSX0FOcnJqYTdNdXpR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why This 1 Momentum Stock Could Be a Great Addition to Your Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xaEN6M2o4YXNmQTQtbFRjbEhtTEVDR2tNMXlRZHpjcEZXSERfUi1CQ2JqdVVsZmhaVzAzM1JTbDBiODJYSzNxUUZ0Tl9nUlBHUTJIb3lkdEdMcDlvOUhwaXdkbTJta1lsWDFTUndWTWRDOGstX3pLMlpMVkw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Berenberg Increases Price Target for Lam Research (LRCX) | LRCX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHVBTG5GR2tWYzhxZTYwUWFsdzJVSDBEMmhZVXNTU2RkSHlCbzJFRGZ2QTh0MmlkekF2VjBfUGpmZUREdDB2WU1lSEdxblNxekdQSWliT2hONlYxM182ZmJKVUhaNzVLWEVUSkR5cldZdUJkZm9GcURqbUlkX1cxU01fa2o3WEh0UnBnck1HcGItc3JJQ3RINldOSUdVOVRXc0x1MldoWW92NDJuNnQxMlg2MHVkTHpEZlpMVVh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lam Research Co. (NASDAQ:LRCX) Short Interest Update - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX3ZJdGFlUEN4ZW1BWVFaS3NwSDRUZ2NzcnphV0ZTSlMyRmxaRjctYXlFcHE5YlYxT3BMNWRHSEtfSU5MOV9pcVZtSlNqU010c3FsVVEyWjZmY2xDWVlseUtVY2FYdEszYlBoT0pkaHdpUDNFZFdScXpkNjR1a1k3clZBNS1DUENESHVJNnUyQ0c5Q2JMSUpmLXViSHhnVVpueV9PdQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Growth & Price Strength Make Lam Research (LRCX) a Stock to Watch - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTmRBLXlYMEhhOE9JZ0xwT3RKUUFlVTBLZHUtdEgxOVMtZkZna2w1NV9kR1JvaVg4Ylo3RTVyeFhRWWNnamR3NWxVQ0FQLWhjaEVDYVd3ZlF0TXVYQ0RvS01raUtXMTc3MzdCLV9kRTBJcmlBak1TRVc3S2k3T19SdzAtV0YweEJPZnc4YXdwNFJkblN6akdQRFdFT3kyQWtj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Growth & Price Strength Make Lam Research (LRCX) a Stock to Watch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaDhvWGZDd3dkYnl2R2JzYlBTV3c1d2RNUk1MS0pxSUhyMjV1YUwzeWdweWc0WlJ3ZlJGR0VxSGtyNDB2ZzJ2SkNuallSTnB0MGFEZFZnMVFjUXBUTWN3b01NY0x1a1JPYmwwOEhpc0lPTndSay0zQjBDOUdqTEhxX0pSOHlobGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Lam Research Stock Underperforming the Nasdaq? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekV5NW9qVi1CcmZjSFpHU0h1RHoxYmp0bFZ1U1VMelZaR0RzakQ3Zm9OZ1dROTZ1bDBHdXhnVnZkTldsRF92dThVNEZzbll1QlBob3dtY0pXRkdmS0JVdEtibFpTNFlZcDJYejNOVDFuSGZsOTJ4OUhxcy0xTkdVaHRkamFVX25iWTFwM2s4b2REMDFqMTVLMWs1RDJZNU1VYU1yTg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Lmcg Investments LLC Decreases Stock Holdings in Lam Research Co. (NASDAQ:LRCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejFmSjF3QWRYR1c1TjQ1MWRzc2RrOUJYOEU0TjYzVWVsd3FfbkY2bG5QaC1qMUNuYUdXX2s0N2tfVWZSQXFKS0luWGppdUwwRXFpRTlQSnhvVUo1c013YWxFRktoR29zT1kwUUdQQ081X3M5alotTTJZbjYwSFB5SmZocUJ1ZkZsOGI1Ti00NGNBVDR4eWFRMFpBV1BJRHVUWnZMS2pjRVA4WVkzNVVKbE16WUV6VzMtemFYVmdtRjBuRjdMOHU5YUo2SUswSjVNV1E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Lam Research (LRCX) Just Overtook the 20-Day Moving Average - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWo3OHYzYnJCOV9xM3hnTjZic2RfcUVEcm02cjMyWDBXQmRDb19qVGxaYmVUdmVHTkRpSDFPVFhlNnE3aXJsS183V2lsTzV1djVhb3NSRkJtVGk1MTJzazZrYXp1LUZVWkFYak84NEMxMjRxZ3dCM0o3UTUwYnBNQTgxTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Centaurus Financial Inc. Purchases Shares of 5,065 Lam Research Co. (NASDAQ:LRCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPalB4VjU1bEVLUGtCYWVMVVVhZGNwNG0yUW5sNEQ4TUlRenVDWjV1c3NvVEh6WTE5TlRxNkRhU1BZQjJaQ2NmVTF5YVRVU3JORDl0M2Q5UG1rczV6VFpqakV3aUFjakZPRWhnLWotVTJBQ0hFSU00ZDVSME13SU1jdTd1MGZ2aVdVWlVycXFONElPTEdXLWpXdUlEMFc3YjVEMlU4WXhpZEUwaWFrM0ZLaXI4Tm1paXBibDVMMHBtQjhsc0ZOcTNSOGVYb09lc0djZ2Zab2x3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Lam Research Corp. (LRCX) the Tech Stock That Trump’s Fellow Republican Bought Amid Market Rout? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBR082Ti1FLS1PSndibGVGODlCM3Z3TmhMMlY1Q19IM1lVN21Ec3d6M0U0d0RpaXlrY2l1cERkMFQ3Zk00My1mS0tqeVMwV1RqTGpWMEJVdGtlVkFLcmV5VkRHcGRuOVRNRUh5d1cxcS1rVmxyaHExZXZkQjA0Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Increases Stock Holdings in Lam Research Co. (NASDAQ:LRCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2pNOHpZUV95dk5xS1lvb1lQUjdUQTNqUGt5Z0ZpcGlsbUo4RkNqTE5INThFYVF4YkpmX1Q1b013bU5vUVZKck02cnV4bVE4ekZfWFVTMFZqYWM5VzRqZmVDcDVRdUZ5M0xKNzZSRTNzYUh0MUZ1LVZqUFpTVWJ3bm9rUGtWNHdEOFBrQTRXaW5JMmpTZThwR3NWSnA2TmEzZDNjRXd0QzhlMkp4R0xHNUdleTB3V3lXYlNxanhlR1VCUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Lam Research (LRCX) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXhOaURSQVRGbjFiUk5EUUhIajc0dm1PejJtUG9fdlFqTGtLdXdEUHdCY0x3eDlKMXV3U2dKTGQ0ZUg3RGRuQkYxaDRMdFBycmFFOW1saUdBYlYwWHJPQjJtLWt0QzVaNFhLNHFzS1FvcjdJX3J5RHBaektTX2pVY1VR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $155.43 Million Stock Position in Lam Research Co. (NASDAQ:LRCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmEybm4xTWNXUjVSelBzMTJJY0F2eTdzdS13RDktaFBXRTk5WkMwZnF6eW1FMzU0MzZBQ2NaWHYtMkk0VTctd2V6QWxJMU96S1hzNkxnbTQ5VEJ3c0M3MzBvUnN5YjlkRjdiVlM3Z0VwX0U0R3pYVkJGcjZXeEF4OTlSLWZkMTBYNnc1VnpuWlczYlZ5ZGRKeVJOR2tNdHZmYnV3bUV6aGJpMXloRUY4dThtbmJrWHo4dUdnQ1Q0akloTURI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Lam Research (LRCX) is a Top Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wektwSzVDMzB2bHU4QjNSWkVHNHhGNHIyVDh4VHdxLUhybmQyWEEtNG12eWtZbWFjenFxUUhYTVJSeGFVYWR5MlVHYXFZWFdhUVRZRWk3aFlORkI3bENKQ1dHb3AxdWdqUGsxN05kRk5rUFlVcWw0UG80aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gradient Investments LLC Purchases 16,468 Shares of Lam Research Co. (NASDAQ:LRCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYjYtbVhiZVctZ1ZSNHo2eWN5c2ZGbXI2aGt0SlRUQ05JSnVlZXZqcVlxX3d5cWNBeGlNTkpneTdRWVJoZGs0enNSN0hFdzNYSUMtdXl0LUhrMUpTMnQ5TS1PempPLVVGUkJMQnZ4ck05NVlMR0p0UDlEaUZBZXpQTkpEQ2p2Vl9odTJ5OGlrTWJld3ZjUDAyR0JGUzgzR1I3UFZhNWp2d3lnbmE0UEZTTDBEbUJnbXgtZG9fN25Tb2xGb1UxcmllZ1h3ZERLTFJ6Y0ZF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "180 Wealth Advisors LLC Buys New Position in Lam Research Co. (NASDAQ:LRCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUU5BcVJ3RU9jSWJTWlAyaXJBaUYyR2lFMF9OWmxuSmRIXzJadERZSy0wbElWNXBvc2tsczFHaFh3TDBBSmRJWV93ZV80MHE3NHE4TWhiUWlWajE1dEl6cjJTRDNYc0hCbGM5LWlJLU1IaWUzR1l1czA0ekNKOUdmWllnU0loLUQ5VFBYTF9JZU5kc0xqTk1xdjV3bmR3d0Z2bWVnWmRSWWJaYnVpXzZrTkRlOEkwR2JaQTg5RmpuLTI1SWJ4VUxyY24yZGhTalZQMklZc1dTMUNoYVdZbEN3Qw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Does Lam Research Corporation (LRCX) Have a Promising Future? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmYwcE1NNDYtbEt4VkJVZ1c2My1lTl9ad1FCMXhFeXdFYmxMdEhJdGh0MzZ1Sy1pZ2xMOGdvc2hCUk5nWkJKMlVXcmlvWXZZMU14ZGc2WDBjeTZma3ltN1hPRXU5VWxPVzBSWk4zYzRUUlNCTm9wYVU5N0NFcTZqXy1UZXk3YTdBSWpqTGZRWlU0N0NRWDF6TzhQbl9laGVDNG5lc9IBrAFBVV95cUxOSEYxNkhVZFdJX3JMQmk1NVBSbzVtTDdHelZEQjFscmVFUmN4Vlk3V3hoanV1R1U0UmE2QWdUSWtSU1VPbTRhNW5NV0UzWEd5eTJMcGRVdUxHdjU5LXIxd194a3RGeEY0b21CN050dWY1LTZJVFpyOEFDT2dCbHc2bGxKUVVVRllDZzhNNGp3U0kxbXhpNFZXYkszVi1OeDJzTHk0eTcxLVhXWi1a?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 78.51
-      },
-      {
-        "date": "2024-12-03",
-        "price": 78.34
-      },
-      {
-        "date": "2024-12-04",
-        "price": 78.26
-      },
-      {
-        "date": "2024-12-05",
-        "price": 75.21
-      },
       {
         "date": "2024-12-06",
         "price": 76.59
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 82.17
+        "price": 82.48
+      },
+      {
+        "date": "2025-06-03",
+        "price": 83.66
+      },
+      {
+        "date": "2025-06-04",
+        "price": 84.77
+      },
+      {
+        "date": "2025-06-05",
+        "price": 84.91
       }
     ],
     "current_price_data": {
-      "price": 82.15,
-      "change": 1.36,
-      "percent_change": 1.68
+      "price": 84.91,
+      "change": 0.14,
+      "percent_change": 0.17
     }
-  },
-  "news_sentiment": {
-    "summary": "Lam Research (LRCX) est une entreprise cot\u00e9e de la technologie de microprocesseur qui a \u00e9t\u00e9 r\u00e9centement dans l'actualit\u00e9 pour diverses raisons. Les investisseurs francophones doivent savoir qu'un signal positif est la d\u00e9cision de Gradient Investments LLC pour \u00e9largir ses holdings en stock de Lam Research, mais un signal n\u00e9gatif est la critique de sa valeur de march\u00e9 par les investisseurs de Seeking Alpha. Des signaux mixtes peuvent \u00eatre trouv\u00e9s dans les conseils de Yahoo Finance et The Motley Fool pour acheter le stock, ainsi que dans les critiques sur sa performance en 2021 par Yahoo Finance",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

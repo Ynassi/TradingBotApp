@@ -2,55 +2,73 @@
   "ticker": "5801.T",
   "name": "Furukawa Electric",
   "sector": "Materials",
-  "market_cap": 478302961664.0,
+  "market_cap": 507831353344.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.34247,
-    "PB": 1.4008424,
-    "EV_Revenue": 0.639,
+    "PE": 15.220583,
+    "PB": 1.4761786,
+    "EV_Revenue": 0.656,
     "ROE": 0.10208,
     "ProfitMargin": 0.02776,
     "GrossMargin": 0.16785,
-    "DividendYield": 3.49
+    "DividendYield": 3.33,
+    "DebtEquity": 85.346,
+    "CurrentRatio": 1.411,
+    "QuickRatio": 0.827,
+    "FreeCashFlow": 9506499584,
+    "OperatingCashFlow": 59832999936,
+    "FCF_Margin": 0.00791046815470127,
+    "ROA": 0.029849999,
+    "PEG": null,
+    "EV_EBITDA": 8.917,
+    "BuybackYield": null,
+    "PriceToFCF": 53.41938416519895
   },
   "technical_indicators": {
-    "RSI_14": 73.07665631177699,
-    "Momentum_10": 27.695202257761053,
-    "MACD": 556.4957861152343,
-    "BB_Percent": 0.8110758918148662,
+    "RSI_14": 75.51230665347288,
+    "Momentum_10": 14.652132093619748,
+    "MACD": 577.968418800423,
+    "BB_Percent": 0.8394597424627968,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8990740758761224,
+    "ValueScore": 0.8959883298128408,
     "QualityScore": 0.3689642713169055,
-    "SignalScore": 0.2234796273573219
+    "SignalScore": 0.2628325458207792
   },
-  "volatility": 0.0463624452176758,
+  "volatility": 0.0462637717070452,
   "beta": 0.42,
-  "return_6m": 0.0816428630069456,
+  "return_6m": 0.0834298861130868,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
-    "target_mean_price": 6912.5
+    "target_mean_price": 7050.0
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Humacyte, Inc. (NASDAQ:HUMA) attire l'attention avec un investissement significatif de 172 000 $ de la part de Price T Rowe Associates Inc. MD. Cette initiative pourrait indiquer une confiance croissante des investisseurs dans les perspectives de croissance de la société. La diversification des actionnaires et l'intérêt des institutionnels pourraient être des signaux positifs pour les investisseurs.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "How a St. Pete couple turns Old Florida nostalgia into sweet souvenirs - Tampa Bay Times",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMExiWldBWHVDRTF0UkRhOGRwc1B0ekJMbGtwbGhfeHNhTW9kN09mTXpVdkY2SVdNNVRyOW9uQkw5NGNSRk9qVlV2dDdHYU1BeldRMXN4Ti1sc1g2M1Vza09FM01WcDhGR3FIQXBUek1lWkJRX0Y1bGJXdEhmVGlmZ1NGa2h4M2VSa1QxNnRFY1Rhc3RocXhqSmpYVXQ0WTdTVUI0UlpLbXdBR0tGSGs4VUY1VEdaTDZqSzgtU2s4MW5tWHo3SEUybFZyWkM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Price T Rowe Associates Inc. MD Has $172,000 Stock Holdings in Humacyte, Inc. (NASDAQ:HUMA) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWGhidDRNQnhuazZUVUl5Q3B4cFpoLVE4X3JENFlVdnVNMHROcU9ZUmQtdWNfMTlERDNOeFA4X0N6dWI2dFZiU0ZYbDhyaGtfM3JfQjRDMm1pa1p5UjVXcU1JX0Z0ZGNnUEROVnJ1UkJnZkVSSmVmcTlVdEN4OGU1T0pjT0w5ako2WmZReVVFQ3NuNnlwTS1rSS1GeTJyaWJ5dERqTTRUSG0xd0NJd0I2RWZ4UlRIcy16VV9IeXZjbnJTMVBIYTk0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 6418.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 6870.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 6827.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 6752.0
-      },
       {
         "date": "2024-12-06",
         "price": 6574.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 6787.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 6778.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 7206.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 7152.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 7146.0
       }
     ],
     "current_price_data": {
-      "price": 6787.0,
-      "change": -91.0,
-      "percent_change": -1.32
+      "price": 7146.0,
+      "change": -6.0,
+      "percent_change": -0.08
     }
-  },
-  "news_sentiment": {
-    "summary": "Cl\u00e9 tendance :\n\n* Le couple de St. Pete est \u00e0 la recherche de souvenirs de l'ancienne Floride.\n* Price T Rowe Associates Inc. MD a des investissements en actions de Humacyte Inc.\n\nSynth\u00e8se :\n\nLe couple de St. Pete cherche \u00e0 se souvenir de l'ancienne Floride et Price T Rowe Associates Inc. MD a des investissements en actions de Humacyte Inc.\n\nCl\u00e9 tendance :\n\n* L'entreprise de biotechnologie Humacyte Inc. est en d\u00e9veloppement d'un produit pour l'entra\u00eenement des cellules souffrantes.\n* T-Row",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

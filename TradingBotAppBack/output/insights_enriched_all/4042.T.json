@@ -2,55 +2,73 @@
   "ticker": "4042.T",
   "name": "Tosoh",
   "sector": "Materials",
-  "market_cap": 671737643008.0,
+  "market_cap": 666960199680.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.575192,
-    "PB": 0.81214744,
-    "EV_Revenue": 0.747,
+    "PE": 11.441679,
+    "PB": 0.80194265,
+    "EV_Revenue": 0.73,
     "ROE": 0.08118,
     "ProfitMargin": 0.05454,
     "GrossMargin": 0.24357,
-    "DividendYield": 4.68
+    "DividendYield": 4.8,
+    "DebtEquity": 19.847,
+    "CurrentRatio": 2.262,
+    "QuickRatio": 1.304,
+    "FreeCashFlow": 7204874752,
+    "OperatingCashFlow": 106243997696,
+    "FCF_Margin": 0.006775434028494652,
+    "ROA": 0.04724,
+    "PEG": null,
+    "EV_EBITDA": 5.301,
+    "BuybackYield": null,
+    "PriceToFCF": 92.57068618644045
   },
   "technical_indicators": {
-    "RSI_14": 59.58624892982486,
-    "Momentum_10": 3.917220990391722,
-    "MACD": 32.25367459342351,
-    "BB_Percent": 0.7504462646890957,
+    "RSI_14": 53.273345859342626,
+    "Momentum_10": 2.2838899803536346,
+    "MACD": 24.021459248643623,
+    "BB_Percent": 0.5266871508582798,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8994393981314186,
+    "ValueScore": 0.8966365425130864,
     "QualityScore": 0.4060505945674647,
-    "SignalScore": 0.5388379486252195
+    "SignalScore": 0.5592335226322203
   },
-  "volatility": 0.0166224066052413,
+  "volatility": 0.0166826683345775,
   "beta": 0.228,
-  "return_6m": 0.042225542359795,
+  "return_6m": 0.0074987905176584,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
     "target_mean_price": 2283.75
   },
+  "news_sentiment": {
+    "summary": "Apple Stock (AAPL) : Apple Inc. est considéré comme une action de dividende à détenir à long terme selon les investisseurs en revenus. D'autre part, le chef de Raytheon souligne la dépendance à la Chine en matière de risque, soulignant ainsi l'importance de la situation géopolitique actuelle.\n\nLes investisseurs sont attirés par la stabilité offerte par Apple en tant qu'action de dividende, mais la tension géopolitique avec la Chine reste un facteur de risque important à surveiller. Ces nouvelles pourraient influencer le sentiment de marché en soulignant l'importance de la diversification géographique des investissements.",
+    "sentiment_score": 0.5,
+    "label": "POSITIVE",
+    "positive_ratio": 0.5,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Apple Stock (AAPL): Apple Inc. is 1 Dividend Stock to Own Forever - Income Investors",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWZTOG95M0sxUWZBTmtqZWdPelJ2bmx3QzczSl83eGhoNm5rUmFoa25wYXdyMDVYMTljOE5kTGR6MmJpdkR0cFlpQV9oNURMLTItVGJFYUxkdUdiNWxYU2ZwMWlMMjQ2RnlCYkR5RFJ1NV93QndaVWdabmN5UnNaTUMxc09TS3JHVkxCeVFwTWhUaDJ1bTNtLTRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘We can de-risk but not decouple’ from China, says Raytheon chief - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03NVRUWDlDbDlNV2w1QWkwNHQtNkpXeGxNQ2VyZDVUdHdRbXpnTl9ESW56WFlDMkw2enZhNUxCVlhGZTRscEFsaF9WY1ItU3I2Zkg0WnRjWlFMV0liTVRGeGtUdjVtLW9GdWxQNi0wcjA?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2071.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2101.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2062.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2067.0
-      },
       {
         "date": "2024-12-06",
         "price": 2053.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 2109.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2102.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2094.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2082.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2086.5
       }
     ],
     "current_price_data": {
-      "price": 2109.0,
-      "change": -29.5,
-      "percent_change": -1.38
+      "price": 2086.5,
+      "change": 4.0,
+      "percent_change": 0.19
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici la synth\u00e8se courte des 3 titres d'actualit\u00e9s \u00e9conomiques r\u00e9cents concernant une entreprise cot\u00e9e :\n\n1. Jefferies Financial Group Inc. Acquires Shares of 4,042 Watts Water Technologies, Inc. (NYSE:WTS) - MarketBeat :\n* Signaux positifs : L'acquisition de Watts Water Technologies par Jefferies Financial Group augmente l'exposition de Jefferies au secteur de l'eau potable et de la distribution d'eau.\n* Signaux n\u00e9gatifs : L'acquisition signale une exposition plus forte de Jefferies au secteur de l'eau potable et de la distribution",
-    "sentiment_score": 0.333,
-    "label": "POSITIVE",
-    "positive_ratio": 0.33,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

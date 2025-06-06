@@ -2,55 +2,163 @@
   "ticker": "COF",
   "name": "Capital One",
   "sector": "Financials",
-  "market_cap": 122554417152.0,
+  "market_cap": 122996113408.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.088236,
-    "PB": 1.2490865,
-    "EV_Revenue": 2.552,
+    "PE": 16.14622,
+    "PB": 1.2535883,
+    "EV_Revenue": 2.603,
     "ROE": 0.08028,
     "ProfitMargin": 0.17218,
     "GrossMargin": 0.0,
-    "DividendYield": 1.27
+    "DividendYield": 1.24,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 19815999488,
+    "FCF_Margin": null,
+    "ROA": 0.00999,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 55.00361324903784,
-    "Momentum_10": -2.5903603750515276,
-    "MACD": 2.7248996274452395,
-    "BB_Percent": 0.499349309727816,
+    "RSI_14": 54.17540029700898,
+    "Momentum_10": 2.989134239947499,
+    "MACD": 2.6517678897500048,
+    "BB_Percent": 0.4589763506679032,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8931027355401951,
+    "ValueScore": 0.8900070524940507,
     "QualityScore": 0.2922310941600998,
-    "SignalScore": 0.6106386362483256
+    "SignalScore": 0.553749916555228
   },
-  "volatility": 0.0281580308954815,
+  "volatility": 0.0282451432561103,
   "beta": 1.132,
-  "return_6m": 0.0270778709543462,
+  "return_6m": 0.0418015861551217,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
     "target_mean_price": 214.846
   },
+  "news_sentiment": {
+    "summary": "Capital One a récemment finalisé l'acquisition de Discover pour 35,3 milliards de dollars, ce qui a suscité des réactions contrastées sur le marché. Malgré une hausse de 2,8 % suite à des résultats trimestriels solides, le titre a chuté de 5,9 % après la fusion. Des analystes comme Jim Cramer restent optimistes sur COF, tandis que Warren Buffett a vendu ses actions. La réaction des investisseurs reste mitigée, avec des ajustements de prix cibles à la hausse et à la baisse, reflétant une incertitude quant à l'avenir de l'entreprise.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Capital One board gives CEO stock grant valued at $30M for Discover integration (COF:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2g5M1F2VGV6Q0pWZ3ppb2RRR2VyX3U3ODZsaGhyb056SkFjM05Ib0ZsWGdjdDg4aFFodGJDLXhqTEFfRXdON3ZidTRXbGg3NERaaW5EUnlRLVQtejYySHh3QzRCakxRU0pZLXdUamhqcF9XWVJNTjd3a3BCUzg1Y2VmMXd3WEdPMU5IV3RSMFMwTzBSa05xY0lGMGFiSXgwN2pzX1o5a3NwUjlZVUF5dEVpN2FTY1U?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Capital One (COF) Awards CEO $30M in Stock for Discover Integrat - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTBZcU01TUhJOFNBRmdzUnpCaDBrcjMyRUVZUU43TlR1TllWTm9kdW5GZ1pTTU1tWHY5bkx6RE1JNi1Td3B6c3kyRzg2NmNMWHUyMjUwampyRFVrd1I1RmpTTmlESWhSU1ZBVW5JakNhYVdxNE84d3dmYXpUVlVuVENIT3ZhYkhQWDlqaGV4cDN3d0JhQ09GN3kyS25Md3NKTmg1SGxR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Czech National Bank Increases Stock Position in Capital One Financial Co. (NYSE:COF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDlBLURXRlJXMXd4VFZmQWJBa1JHOURMR1JTRUdsN0g0LWlBcmd0RWxtMEFXcGs0azJ1TkJnNDU4VzNRT2tzalJlYWFodmliVzJfRWFDU0R4Mm5PRWUzSnpqTHlkVnNLbjdEVzAwQWwyaThobFR1NzY2aVlvdGFpM3pwZkRhd2UwYl9CX2FqWjRYMl9KeWQxTTdmTno5NVYyWGxra2ZrYXh3M3liTEZxRUFUNnQwS0I1akh1WEQwWGhJSkxaSWVVd0VaeUs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Capital One Awards RSUs to CEO and Executives - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2hFbWIweFdwd25UeW1wa2Y3WFltNEw0YW1fMDdhTnRaODNmZm5hbloxZDNBQ2tLeGFPeGRNcVFRSmE3ZzcyajFnTlNtdjlvZ2MybnhBVU5aVkl0TkI4Z1EyZmlGVlR5ZEpFMExqb09pd2stRTZuUFI5bXBHYkktYnNjdEtyc0NCc3dtaC1ELUZFa0EtZUNpR0x5V2FtZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Capital One (COF) Awards CEO, Executives Equity Tied to Discover (DFS) Deal - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEo5VTN2QTM4SWtKOFBCUkx5NDBPczhkT1ZJVUpoc3d0QW16dDNjUmozTnRuSGJwbEtmZnJqWU54SlFGdVNJQlJCeXJ5SUhZMHBQbi03NXpYS3lDb1hoZzRxY0JqaE40MVJVbFZmRWl3c0NIZHg0TWJhbE83VXZXQ29rWnhnamJTT09XemQ3cXRBQWxRTlJ5VzR6UVF2T2szUHI4ZkszT3YzY29WMGtRTU1pNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Says “Capital One (COF) is My Favorite Stock Right Now” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TMFNsT3RTRFVJV2V2azN0Z0Z5OXFlVExySjBrNUIyM2VuOGs2X2VkQlFrY1hqUlc0MUhWOUg3c19EaklRLVlsSEltaVlrYjRCYlVYQ0tSTmVzVXYyWXItbTQ4MEpUMjdpSHg2NUY0aHMtV0dOckp5Sy1fSnloQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Capital One’s stock looks like a bargain following Discover acquisition - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWHJQaHhNUHBSekZBX2VZbHBnS1VvOXliVUQ1U2JmYkhwYUNIQ1VjbTNQZzVpTDdIQ1oyZVhUX05YZDQzaWVwcmxSS1ZXeUpOZjc4MmZJTmVYTjctRUFtVWJhc2E3dXRELUF2TFBoYk1WRkNJUWRlaklsUmN6dm5lS0NMS1VtOHB4TDh2c1JfU3lLOExJUHdhNkVIVFZxb09qWkJSZXRLb2UwTVJQbFdaVnBRYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Warren Buffett Stocks to Buy Hand Over Fist in June - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ09qa0UtQ09jbGVJM1dYaVpRVUtyWU5WQmRBZnlWZlFBYWZTaExvLURJRVFZLUx4aEMtbGdzX3FKNmpuUnJ5NHQ4cVpfVjM3NzkyWU9PZUp6NzNhSmgtRVZKTU1KRVFqaEQxNDRFc1I4MFlsQ0NlUDEyenJydnJoc21rdkpMY0E5a2NPUnYxdWZxcVdBQ3RYUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Wall Street Bullish or Bearish on Capital One Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQTgzUU11clBZd3hiRUFZUWxFeGhudXp2NGprVjk4WlprRWV1emZFS0NRX3ZUZDlsSGFsSS1nRUhObnliUkhNanhWSmNvZ3BFWE9SemRqWHM4aDFSRG8tMmRMS0JDWUNZWXY1TFN5bTlMU2thT0FqdEFGaC16NGpPLUZwVHhkYWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baird Adjusts Price Target on Capital One Financial to $220 From $200, Maintains Outperform Rating - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcmtqZzQ0Q1Qwb2FkZUVWMXpIeUYzUV9YVm9MZEZNNm8wRnlEXzNYSVhLRDNPMEVDNjJTb01ZLThqZV9nSDBPc25BZEprQ2l2cXZ5NzJNSWJ5Ty0xWXVtY2h4WTNoNEVmVTRyd3hlaEZWWmFnRGQ3VTk5anZ6ME96X1pDSldJV0xlRUZLYW9YSHZENkFxbFpDNGJrbVI3UUNWZTNUcExZdmJrWVlGTVpNU1hGU0tEZ2liWVpsTzFxNlN6NkVuaW1TNF9oX1pFY1BVOERFX3VJUmMzS3p3ZmxoS0ZzVGphakNEaDBxMG5qZEZWNzNoYXR2d3Q2eV8wZFFiVVVkQWJreVB6MktiUU11NzBTUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks claw back earlier losses, and Capital One rises after Discover deal closes - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTjJmU2ctUDdjYkdHak9RMlNDUmluSlctTWtRellNbWNueTI2bmZIbVlWZzQwU3FLV3Y4Y0pUN2dENTNhdmZrb0V5cFdsREdoUEhPT3doQkJnaC1teV96RGFWUm8xaEo1ZEhNS3FQOVZYeGxwT3VIU1huN1p2MWwyT1FJWUVHclQ5MG5sN255NXpkUlJHVFlRM2xadmVfc1dNVXVTLVY4RWo1THpTOFByanhMeG9OdE9ScEE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "After Warren Buffett Sold Capital One Stock, Should You Ditch COF Too? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORThNUUYyMC1qbnExQnZia0ZKRk1rUVN4ajJqRU5FclQzVXBNVXBSTVFDbUs0NXBwbDlXVmlqQ3B4Z0hqODA2VHVPa2Foam5yUlBLUjdlQTduT0l0bThSYzZ4bWRteVdUT1NucGpCb2VUNUdpLU9kYzRCaEVQOWJYODBkOW50dFVyRzlFMEFWYnBWelJ4a1pCOGw0aTZVbDBTT3RPdk5WNmtvY183YXpyT3Q4aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lmcg Investments LLC Reduces Stock Holdings in Capital One Financial Co. (NYSE:COF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSjFLdlJLM1A5TG1zdTJwOTJrZ0NfWmgyaGNQUDdRdkRmMUxSVDZTa0FrMTVXSmhFQUswelpRZEY5ZFl0cTRQRmJSSnRBS21RUTA1WDJTcndNZVBqenVTcFg1bU0wMjAxX1gyczNzWHpOR2JDTkJrOXA4OEdmQ1FaWThmYWNya09pUGxOdHcwVi1TVDFjcXBWbmR3Q1lGUE1nNzVKdUxTR1dndDN3RmVmYjFaNVQxRWRGbEZHT2tseENqUWZoUFdWbTNMakVDZzJXNURXTkliQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "COF Stock Tanks 5.9% Post Discover Merger: A Good Buying Opportunity? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qOXFwV3M1MTFMXzBqN3JHVk9fQUxTLWZaQUFJTVhqRVhDNFZUQ0JHbnFreWJNUzA4OWM2LUFqc0M4NWdOQWZrcUZlYkRCZ0JPUHRscDdGYmZzQVExTE5TMFE1bmVOdjRVeFFVdTRGSUMxNTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Capital One (COF) Gains Spot on Goldman Sachs' US Conviction Lis - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjlvZElnenV4NEdYUGM4UC14bzE1OWZfQ3N2emtWZk9YejZNSTN3NklpcjhTNmpUbVJTQ3dJMERWTURqcFlfcUhrcFFhdUR2cExHZF9rMmcyMTJWY2x6anBzdnpsTVdtMlJCSmVWckVuNVA0TGlBbnF3OUNseUNtZ282ZUVrLTIwRjdlMktmTGRCa2tfSWtPS2dWVWVXWGdTMUw3aUpLTTFfX19qWkZrVmNBUUs5RWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Rhumbline Advisers Decreases Position in Capital One Financial Co. (NYSE:COF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY0FybHhSVDk5TzhpZGxnV1RCMjZVdEFUZTRnZTBNRE1ZN3dYU0ExLVhaSVE0cEhlTEJ3bWcwM2xNODRhVmdlYmhVQjJZSXBVZDlrc2dnS1JzNnF0ZTYtTXliNkVRdzRoWXpOdTlHN1NiakFYRGRHdm1zaVVpaEFMaGNaU2F2N1p3T3kzSnBVdTFfNEFfUmZCR0dBcF9mNHY4elNGbUY3cXdpX3RfbjdwMXVKd1l3aF92bVlFaFYwVDB1Yzl4Mk40Q3Q4WDNVTGM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jim Cramer and Wall Street Are Bullish on Capital One Financial Corporation (NYSE:COF) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeDJ1aGtxNnNaMENaUlp4R0JEWmJaS3FiR2QzQW0tRHV4WnJLRnN6ZkFrYzZOMVlGbERXZFhpbGIyYnFuREFoRk1BZ3c1S1NOUjMyR2RsRFcxUXlDczl1WWc1aG9hZVNNUWxITG5walRSTGNnMmVYVGthcmltWGs3dTJR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Strong Tower Advisory Services Has $7.23 Million Stock Position in Capital One Financial Co. (NYSE:COF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQzU0Q3haY2gzUFdpb2NraUhFVTZHdnQtZjROVUFHWHNXTWpHdWlWQ0JMOG5xQXhLclUtYU03WmhYbEN6dWw1SHlONDF2VmdlcWk1UEp3bUJNcnhvS29NTmdSc3lnaXY3dTNjMlBXSUNnSnNrbjl0ZWZTSEhTVURZdmc3QjlMWWd1c2UzaThSSHc2ZXBkNnZ2akpyQ2IwcnlVWnFQTzZ4elU4eHFkZ2c0UmVtTnZpXzNvalNOMC03WUt0bkNlaWVxcXJIb3BpOENGU3EyWGZzOThqVHlL?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Capital One Financial Corporation (COF) Completes $35.3B Acquisition of Discover - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaFBSX2RwQkRxQ19jbGVYa2daTUJselNMREsyN0hud0xsOTV1NHNNOE9oMVBjVXpzTVpQX29nNjFnU0RxLWd0YjIweFBEMGtxVXVNaUJnc0JDc2dZZkdIWjhsRE1HZDYtMTU0ZURGN3dlTWZhcnA0Yml2U3prRnlKdWJ4ZXhucktscVVJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "COF Stock Up 2.8% on Q1 Earnings Beat, NII Rises on Upbeat Card Spend - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ZW9OTmlLVUhmdTRtcmREYmNYbVdyeTU4X213cFZOV2lqbmNyWU95cERsbzRYVjNCel9TWUVEWE5EVDlOQWg3UlltV1lEQkYyb2pyeGw0cVM5aGR5MllSRDJ1UUpfU2ZCSzBLeXRaRQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 187.52
-      },
-      {
-        "date": "2024-12-03",
-        "price": 187.06
-      },
-      {
-        "date": "2024-12-04",
-        "price": 185.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 185.57
-      },
       {
         "date": "2024-12-06",
         "price": 187.96
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 191.69
+        "price": 191.46
+      },
+      {
+        "date": "2025-06-03",
+        "price": 195.63
+      },
+      {
+        "date": "2025-06-04",
+        "price": 192.86
+      },
+      {
+        "date": "2025-06-05",
+        "price": 192.0
       }
     ],
     "current_price_data": {
-      "price": 191.69,
-      "change": 2.65,
-      "percent_change": 1.4
+      "price": 192.0,
+      "change": -0.87,
+      "percent_change": -0.45
     }
-  },
-  "news_sentiment": {
-    "summary": "Capital One Financial Corporation (COF) is experiencing mixed sentiment in recent news. While the company's stock has tanked 5.9% post-merger with Discover, many analysts see it as a good buying opportunity. Some investors are also re-rating the company following the merger, and Goldman Sachs has added COF to its conviction list. However, the company is also targeted by short sellers, and some believe it may be the most crowded hedge fund stock. Despite these mixed signals, many analysts and investors are bullish on COF, including Jim Cramer and Wall Street.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

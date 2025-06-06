@@ -2,32 +2,43 @@
   "ticker": "7186.T",
   "name": "Concordia Financial Group",
   "sector": "Financials",
-  "market_cap": 1065352626176.0,
+  "market_cap": 1053937762304.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.20548,
-    "PB": 0.8273254,
-    "EV_Revenue": -2.947,
+    "PE": 14.139356,
+    "PB": 0.8184609,
+    "EV_Revenue": -2.96,
     "ROE": 0.06446,
     "ProfitMargin": 0.25332,
     "GrossMargin": 0.0,
-    "DividendYield": 3.67
+    "DividendYield": 3.59,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 43896000512,
+    "FCF_Margin": null,
+    "ROA": 0.00338,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 56.31557085265031,
-    "Momentum_10": 1.688821116382101,
-    "MACD": 9.409653427676176,
-    "BB_Percent": 0.6828548884320182,
+    "RSI_14": 52.16047627883115,
+    "Momentum_10": -0.3023418493448524,
+    "MACD": 9.67786435501489,
+    "BB_Percent": 0.4275074843715414,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.910186026106202,
+    "ValueScore": 0.9075015742358924,
     "QualityScore": 0.4221168241124426,
-    "SignalScore": 0.5742427137723687
+    "SignalScore": 0.585538630942827
   },
-  "volatility": 0.0283176209749641,
+  "volatility": 0.0283141004226951,
   "beta": -0.023,
-  "return_6m": 0.001502267777905,
+  "return_6m": 0.0067604540094661,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
@@ -35,22 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 931.9
-      },
-      {
-        "date": "2024-12-03",
-        "price": 936.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 910.2
-      },
-      {
-        "date": "2024-12-05",
-        "price": 917.1
-      },
       {
         "date": "2024-12-06",
         "price": 915.3
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 933.3
+      },
+      {
+        "date": "2025-06-03",
+        "price": 931.6
+      },
+      {
+        "date": "2025-06-04",
+        "price": 946.4
+      },
+      {
+        "date": "2025-06-05",
+        "price": 923.3
+      },
+      {
+        "date": "2025-06-06",
+        "price": 931.0
       }
     ],
     "current_price_data": {
-      "price": 933.3,
-      "change": 6.3,
-      "percent_change": 0.68
+      "price": 931.0,
+      "change": 7.7,
+      "percent_change": 0.83
     }
   }
 }

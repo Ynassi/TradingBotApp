@@ -2,55 +2,163 @@
   "ticker": "NOW",
   "name": "ServiceNow",
   "sector": "Information Technology",
-  "market_cap": 209850761216.0,
+  "market_cap": 211344752640.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 137.37872,
-    "PB": 20.69683,
-    "EV_Revenue": 17.881,
+    "PE": 138.05684,
+    "PB": 20.827175,
+    "EV_Revenue": 17.911,
     "ROE": 0.16858,
     "ProfitMargin": 0.1341,
     "GrossMargin": 0.78917,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 23.661,
+    "CurrentRatio": 1.123,
+    "QuickRatio": 0.963,
+    "FreeCashFlow": 3713125120,
+    "OperatingCashFlow": 4602999808,
+    "FCF_Margin": 0.32375318019016636,
+    "ROA": 0.049200002,
+    "PEG": null,
+    "EV_EBITDA": 97.354,
+    "BuybackYield": null,
+    "PriceToFCF": 56.771012096678284
   },
   "technical_indicators": {
-    "RSI_14": 60.05355671166433,
-    "Momentum_10": -2.5894611704633936,
-    "MACD": 29.12514103096339,
-    "BB_Percent": 0.5337160400221048,
+    "RSI_14": 61.39612460300812,
+    "Momentum_10": 0.3655998365915971,
+    "MACD": 23.606719910397715,
+    "BB_Percent": 0.5383823331315021,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8194400233884981,
+    "ValueScore": 0.8160532162036386,
     "QualityScore": 0.4158978722055705,
-    "SignalScore": 0.5804292165317251
+    "SignalScore": 0.533364788096029
   },
-  "volatility": 0.0308867747791011,
+  "volatility": 0.0303645619462431,
   "beta": 0.956,
-  "return_6m": -0.0329779493823249,
+  "return_6m": -0.0920869817807022,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 41,
     "target_mean_price": 1084.14
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente du marché, Tesla a été fortement impacté par des tensions entre Trump et Musk, entraînant une chute de 14% de son cours. Cependant, l'annonce du lancement du service Robotaxi a suscité des interrogations quant à l'opportunité d'achat ou de vente de l'action. Par ailleurs, des stocks comme Dollar Tree et Brown-Forman ont connu des mouvements significatifs, tandis que des analystes recommandent l'achat de 23 actions, dont celle d'une grande banque. Les investisseurs ont également observé des fluctuations importantes sur des actions telles que Palantir, Costco, Micron, Nvidia et CoreWeave, chacune étant influencée par des facteurs spécifiques récemment. Enfin, des recommandations de Warren Buffett et des conseils d'achat sur des actions sélectionnées sont également présents dans le paysage boursier actuel, offrant aux investisseurs des pistes à explorer.",
+    "sentiment_score": -0.3,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is Tesla Stock A Buy Or A Sell With The Robotaxi Service Launch On The Horizon? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTNMQ1B6M3o1aFBpcDBFaHJpUWt5MHRuczhzMHo5bzRaS0hNVVpfRWN1VHdEWmc4VEJmU1Y5Z3k2VlIwX1VidXQ0eVpPakpPMVJta21BT1hLOGJEMGt6VGlSWkl4b3c1bDBkeHFQQk1iTGxjTjVGX1lBVG9qNExTNEdDR3pLUUxJcWJlX3BPOTdnNktMQVdqaHVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Market Today: Dow Closes 100 Points Down; Telsa Stock Hit - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQejB3cEpkRWRFVGZDU3Fsa2IxOF9sOHRldFRHWTNsa1FpS0NScVR1VjNOdzFKQ1ZQczFIWFVpVXpkeDF0OVpQdE1TNHZVMDlGYzc5b0w0NldQel9jbW4wdkJnQU9HMm5IWmJmVnBFaFdoamFJX21hZEwwQ2lEMFNRX0lOajZ1eVExc2pkMU1jNFVHbUpuTlI5ZGIwY1JaZUZCM3psV3cxbHpuMXBCYmV2ekZ4cTlwcnlRaXVMOXpzVG03Z3BJQk11aHlURUxINDdkYmV2dUgyZmxNa1FiVFBveUNvMkJpUm1wZTJOUjBvQTFQVzlHRHNiZVFuQXNVdElva1FMcGhDcEVTNW1rbGlkUUdUM0xacTJGWG9yVlM1eWtvNlBwd0tSczBLQTItN1RZMHZ6N2tYaUNGajVmcHVaUXgwVDBJd1lPTzh6aDI0RWdkbnRqNm5rcFRSbEFkYkZMTnpxR3REblJJX05GQ0J1UlpQSWhRaEhwRTMzOThpWkl4ZWMxWTQzWU1BdHZwWW9tQU0yQg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slide as Tesla dives 14% on Trump-Musk escalation - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNlBUTmFRRk1WQVg3cTdEZlQtU2xoNUJmd0hwaUhkamZKUHVBaXhsSm0ycnZoSVdNNVlQX3ZfS1Zzdzd0U3BzMWRnUVpPd0hqdkhyb21HNkFDNHREdkZTZVpYUC1vN3dBaDl0SkJiNmpLenpGM3ZFcHRSZXhLS3hGRC1HeXBkdkVGQVVQU0hlQzVSMHcta1dwbU9mSjVHcUk4Zk42YjhRbGpacTlaWU84SEZQcG1LaUhqZldPd0o3cVUxU3VocW5CS3NxOXNOUmlJR1E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stocks Rise as Trump Has ‘Very Good’ Call With Xi: Markets Wrap - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXpFWFMwOUhkV1JYcVk3R2hkNHE1Tlhfbm1yNkxVcGhybi14Qm03bzBZSEJkNWNfZEsybTdsVDBGMGNjc0ZZaW9STml3d0I4dUZNeEZZb1BOY0RlZDA1bDhabHVuV1FmeXRUc3N1S1l0UGpETzNLZkVfQnZ1eFExWDB0eGFLUVlpYmpsYUFmRmlGMUps?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top Stock Movers Now: Dollar Tree, Brown-Forman, Five Below, and More - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGo4OWZNbXdmY3JBRWZJeDZVSlNHWkFiR2xFY1cxWDJmWWpyQUo3aWlmbTZnQU9tTUxIakZuRVpwbW9iZFhzNmwwX0Z3TlE3SktsR3hZc3ZXQUU1NDljbE9HaDNvR2ZaNUF3OUMzYWJyUkJHYTVXaFFHZHYxazBibUxsdEdoLXJVQnZQb2FQLXdFb3UtVU1UV1JURFFpamFpdTduV0JR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy CrowdStrike Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN01vYnJwblFIdHJLdG9NMHdwUEFlYkhVRlNHR2l3X2VsZmlWMk1wTms4a0ozVk9uaXVUejY0SDRYcW1SSzZpakIwclNvTFpuOHZXSHJvSURKMUM2NnNsN0NvWHJqeWItb1plUXZLUzdXWU5yRHN6R0VVSHl0dmNqaWFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Goldman Sachs says buy these 23 stocks on its high-conviction list, including a banking giant it just added - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTloUkhndE9MakFDQTIteHdIV0VNUWk4UUlfSnZXYndWMWduMVZ3dHExU3MwRVhlcFhCakdjdnJ3NWtobGZTUmh4V1lXcnN5U1JqaHh1YnZpWF9ZRi1qUEFIX2YwdlBSVHE5RllqZnJwdHNlTlJuZkE3M3ZGYzVOVnNXMTFadzFLR0U3SF9vOWg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Palantir Stock Is Sinking Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0dHbXh3LXhENjhpQ1VlUFBMZ3NFd3AyMUN2Y0EyOTNDbW1lc3dJV1lRUGYtZURMcjU1ME8tRTBPb0EwdmEzSjVIOUd1SEd4NWxMcVZzUENlMDVlZTRWd09NZmJGU1lLNDFKU09FZ3NDbDZqc3lWY0g3MVdfTnFNNg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "New York Stock Exchange latest update: Stablecoin issuer Circle is now live on NYSE. Check symbol, share price - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOXY4dkExQWI5cXpzVHpxSjYzd1lzS2lXOG9na1VPSGJBLXFfS1E4WVRWdDZMS3dZQXN2VVBQdllPYU1QdGExbWZKakFGWXExZWxWVVZlSGxEN2lTNWdDM2g5Tnd5clBMSkEyR0FmNDJmTnZMOHRWYjVTcnZDd3hxQ2x6NkJhLTNNWTFpM2tFd0c0WW55Z2I4UjFxME9FaFcxNHlkMXN1eHVqa2lpcGJqdmctTGh4amt0TF9HMGNNSWh6TDExSVo0Z3J4RHRQNXdnUUZBS0pxRWdlSjByUHJsUTlXU1FQNmRYVlQ1cXpuS3RxbFhsdnhGV0xhUWQ3RXZDcG1CS0xxX1BhMTZIU0lqWg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Market Today: Tesla Drags on Stocks Amid Musk-Trump Feud - Kiplinger",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcTdnZ3RzVFNDZTEyNVk4eFF1bEROZlM2TTJULWVVam9IZXVNVWphUk5XZ3FkWHNHR244dXgzYk9xVHQ1clFEMmUxcll3T2t6enNUUU9jNnNDOEZiakR4dG50S2JiUHVjWk9JcXZzVXpKTEgxano2R2hWY3Ezc0xjZElUbFEzWm5VVmwtU2VRZUgxU2l3djIybDlmOGdWVTRqY3dveXkzNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nvidia Breaks Out Amid Trump-China Talk; Is Nvidia A Buy Or Sell Now? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9weXMxT0E4LWxzVWtpX0pEamxBSkN3Z2paR3RFOW5LbndrZFgxaUNESWZGWFVXQ1VBcS1OTEdIZ2VqSUpZODZtV0YtRzR0TlJzc0NVcVRtWDdoQzNlclB3T1Vkc04zNFIwUkpQanhMVUtqX2ZY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Costco Stock Was Sliding Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDJzai1iUUtvQXV5UC05OTg4UzZIcTRBS0Jsc1p2V2VnRmg1TmhJaEFPa0o3T1Z4STRQOEpPcEtCNVJQN2xrZnloTUMxalAwOWdqMlFDcFlDb3UxWXhwWGNvOHJoUkZTT05DNE5RWE92UlNfdTFPMk1xR0dMaVM0aDJB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Costco Stock Was Sliding Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFkxQXYxWnYyMWR6cFJnbXhIOEJMeUNzRnhKd0dubHlhLUp0cWZBRFlaSGVvTTlyMUtmdGFpTHFtSDc5ZDdZanNaWVkxWW1YWnpKQXluOEFPV0lLT29NTy14dlVJaHR3eVJtUFZIQjZhNVJ5NFJveVR4OXotMjI5R0pGUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Micron Stock Popped Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSkk5WHVnTGFUQ3JldnRTNmJnX05SY1hmc0haVnJSMHBSX2pzVnpDMV8tRk16ZWtnVVQyVzdPS3A3STNhVThZQ0lvcUEwaVRLcU4yS1NvcnJYc2RQd2tqMTFqbm1hcnRmellhNDI2a2x0M2pFbGFrR1lhenZrV3h2WA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Market Today: Indexes Continue To Waver, Palantir Topples; Retail Name Leads S&P 500 (Live Coverage) - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWthUG9aYzVtV2JEZ21rRFNzVmtJOFk5enlpbEkzU1BRd211TjRzUmYteC04R2RLUXM0eUllSEwzY1EtblJfYUhFajlnbzhHb1FObFlwSXJ1cDBkTnNLdVBfV3dXSTcxQzY0c0haWExkWDBWdl91eDVCRThxcXpMZy0wSk1VbEgzTGVqX1hnT3pKTXBCRDhVTkY4U082Y1dIa0pLUXpOTVdDb0JP?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Nebius Group Stock Soared Higher Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDRZLWI2WUpZNVhKcV9HbFlBX2Y4M2paMVNDRlEtdXhPUzJ4MXVSTG04TzBSLVdzR3NwMmgyQnNTQVNiMWJfaVZiY0VnRGdsVjFCYWdYU0UxbnFpeVB6bkpvSm9pU3pmeVBJZDl3dU9zdWdONXRIVlFfcVV3bV9ZVUZCU1RFdzFrNDJmOFdB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CoreWeave Stock Is Sinking Today -- Here's What Investors Need To Know - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbERubkZseWptVXk3NUVwYmJLaVJQWE1NdkxBM1NJWXZkZFFBRnJZOGdOenJrYjdBWXNvTGdMbXg3OG9xcnpsdTdZekFsdUFTMzJmdnRvcVFQUWZHNlo5WTJxY1o1aWNVWmtDUDE3TFVMTWhrZkFNVjY5clVaREFLTTgzRi1UQm15dW1CRGx5WHlrNm1qQ0twcg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "The Best Warren Buffett Stocks to Buy With $2,000 Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFVYal9hVHBRZmFrSEtNM3h6M096VWliRUMzVHhselBWVFEySGp4Sy1QYzZCTXNaRmVxM1ZTZlFyNU1hX2FYQlJ3QjZ6dnVBWi1pb2hnVnMxY2Z6UkxZM0dRdGRKRmthWk1qS2RPdC1rbU9pOEFUR3Q2dlFQbEdJejl3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "My 3 Favorite Stocks to Buy Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDFIQzV1WGhzRTFkOTdHdHEydUZyYkFSN0J0NURmTElrbzdwV1BCU0R3T05kbGpITzFQdjV5SlVoNVgzSlhEZ0M1RVhkaFpTRmJCSEVGLUFCQWlOdk45Nzc3VkxSRnVPWXlhNjBZRkNKUzdwT2F4MWZHNlJBTEJiVTZ6TkFoV1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Hold Strategy is Apt for Kennametal Stock Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4em9IOGRLUjJESjY4Tzl1bHVkTjlDWG5JRzdyS0NyaUdsSHRCUEZwRUlNaVhNTE9qYWRUMGhRa2xQYVVnbEVjakFZUlNQQmxiQTNnWGZxcmk2Y1NSRmdtNmh3TEhNRnhNRFFCSVlxelpzd0NQclg1ZXFkNkJoZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1048.43
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1057.32
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1123.13
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1123.72
-      },
       {
         "date": "2024-12-06",
         "price": 1124.34
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 1012.08
+        "price": 1012.11
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1010.88
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1012.74
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1017.6
       }
     ],
     "current_price_data": {
-      "price": 1012.08,
-      "change": 0.78,
-      "percent_change": 0.08
+      "price": 1017.6,
+      "change": 4.79,
+      "percent_change": 0.47
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte des 15 articles concernant des entreprises cot\u00e9es :\n\nLes titres cot\u00e9s ont termin\u00e9 en hausse aujourd'hui, avec le Dow, le S&P 500 et le Nasdaq qui ont chacun ferm\u00e9 plus haut. Les tensions commerciales entre les \u00c9tats-Unis et la Chine ont repris, affectant le march\u00e9.\n\nPlusieurs entreprises figurent parmi les mouvements les plus importants de la bourse aujourd'hui, notamment Ford, Cleveland-Cliffs, Moderna et d'autres.\n\nLa Chine a annonc\u00e9 que les \u00c9tats-Unis ont \"seriousement d\u00e9grad\u00e9\" le",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

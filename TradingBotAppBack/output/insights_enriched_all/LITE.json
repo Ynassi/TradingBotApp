@@ -1,56 +1,164 @@
 {
   "ticker": "LITE",
-  "name": "Lumentum Holdings Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 5271624192.0,
+  "market_cap": 5665816064.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.491602,
-    "PB": 5.993845,
-    "EV_Revenue": 4.59,
+    "PE": 15.77421325,
+    "PB": 6.442042,
+    "EV_Revenue": 4.967,
     "ROE": -0.42788,
     "ProfitMargin": -0.29872,
     "GrossMargin": 0.29607,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 296.737,
+    "CurrentRatio": 4.723,
+    "QuickRatio": 3.193,
+    "FreeCashFlow": 45737500,
+    "OperatingCashFlow": 97800000,
+    "FCF_Margin": 0.031059009922737583,
+    "ROA": -0.04369,
+    "PEG": null,
+    "EV_EBITDA": -320.813,
+    "BuybackYield": null,
+    "PriceToFCF": 123.87682020224105
   },
   "technical_indicators": {
-    "RSI_14": 59.97369271427729,
-    "Momentum_10": -2.5529158969574617,
-    "MACD": 3.5287821891740094,
-    "BB_Percent": 0.6246829505157535,
+    "RSI_14": 67.99244481397798,
+    "Momentum_10": 7.491774417428652,
+    "MACD": 3.808744463341697,
+    "BB_Percent": 0.8630062083407856,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9272377062148576,
+    "ValueScore": 0.9252049438796208,
     "QualityScore": 0.2740985125520812,
-    "SignalScore": 0.4322254513291526
+    "SignalScore": 0.4082492197730125
   },
-  "volatility": 0.0506333560211898,
+  "volatility": 0.0504888154265388,
   "beta": 1.276,
-  "return_6m": -0.120527999665038,
+  "return_6m": -0.1206376280701246,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 84.4375
+    "target_mean_price": 89.125
   },
+  "news_sentiment": {
+    "summary": "Lumentum (LITE) a récemment attiré l'attention des investisseurs avec une série de hausses de prix cibles et de prévisions de bénéfices optimistes de la part d'analystes renommés tels que Rosenblatt, Stifel et Morgan Stanley. Cependant, malgré ces signaux positifs, le titre a connu une baisse de 5,4%, probablement en raison de prises de bénéfices ou d'une réaction du marché. Les investisseurs pourraient être encouragés par la clarté de la direction de l'entreprise, notamment avec l'ajout d'un nouveau directeur marketing et des perspectives de croissance pour le quatrième trimestre.",
+    "sentiment_score": 0.65,
+    "label": "POSITIVE",
+    "positive_ratio": 0.7,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Lumentum (LITE) Stock Target Increased as Earnings Projections Improve | LITE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcWEtRUVOLUJ4c0Z3V3UtTE1tMUc1ZGNTVVFBN1VuYTF0YmF3NWdFWDVrR0FoNm1zUHE0TnlpQXpWOEVyNURkWUQwY2Z2STc2UXZMSzU5Z0RnWlZLeWJDVm45YmFhZW5tUV90b0pTeW1xUjU0cUtKMXJldmt2bVM1cmZlVm0zTW54SlNMWS1QcFRVZU53SDZ6dm1vVm0xUi11TVFSTEotMG9ZWGoteTE2cnUtWHppdmF3OEhMc3Q1UTc1OWg1X0Y5R1Z5Qy1jWUdDRFdseFhDTC1aRWtFc2VXOFNZUmtJTW05WGJvbUlTZDVLak5XZDdLMi04N0tVUzZDWWdDMk50NA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Short Interest in Lumentum Holdings Inc. (NASDAQ:LITE) Expands By 19.9% - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnVuaHZTbVUyZjNFWEpoMThLNUYxNklyT3RmTWJWTWxHZldxQ1VnN21FeGRJSUJKenNpT3J1MG54QjlLSVRPU3NXa0RJb1FOU0xtUHRwTk5aZGNlclZ0YVR6WmJCMlNRb2dpXzhncmtmZW16Y29MVzF5bmFaN0pzWWExek01QTItRHNDbmh2dExTUHNxZmdDa1VRUkN1YzM3UnNqNU4zTHpUdW5lQ1pxVXZ0UkNZVDNnUVNr?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Rosenblatt Raises Lumentum (LITE) Price Target, Keeps Buy Rating - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjcyX25GTGw2QXlnVVFhTU5MVXFnRVEtQmxEWkFrN0l2NXJtOWp1TnN0TUQ5aS1BOV9ySm80M0xWY3VpYTVkQTU4eTZKN0RNQTJfTEJVQkM4Zi03TlVXRVpKMjB5RWViLVpucVVSX1FtYUtoQnI1UHJYeFoyOGVlV3czVmthdzFoUEZMSVIwN0JhVHpUYkRhekx3aTNicldBd2JnbFhDdXHSAbABQVVfeXFMUHNkTDZfUTRaWnlRMVJuRU9nZ2JoVGlSdjlsT09uVWFoUF90QzdTMC1GeDVxWUh5Z1hLY05pTzhkXzU2b1VwMjhtcTBSSTVDYTIxRFVoUm9lZ1R6Rk9IaDkyQWpqUUpkZnFBYUFmQmlFVTFWaGhzbXpyc0owSUpCQmVOZ2VZampWUGZDaWhIUDl3WXJoRWRKWlhPS0djcXR6UlFjb01OS0xVdjdkWkRpRnY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "New Lumentum Chief Marketing Officer Awarded Million-Dollar Stock Package: Complete Grant Details - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFBuTG5TQ0xYN0xzX19icHlqUHBWdjNjN3N2WWgtYTd4WDh2dUN5OGhUWTlhZTM0SGF1S1BwU0UwUTVWbUZhS1hDMzZQYWlpalEtczNWWFJQN0pjTUtWYmNmc29iYlhESmxvMVY4aHNwczBpOFpiaUZUeVNwd0U1MGI4d3AwT0g5VEJfT0QtaGwwOVZOR3h5YW9oS1NLdklYXzcwdVEwYU12cHQ0T0NtZm9rZ2xkTnNVQTBEa0xB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lumentum Stock Jumps After The Close On Rosier Outlook - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3dvM2h0VjY5LVZ6bVRieUZ6NGFucHNMRlJucW1ZX3RkOVVhcTUya01jRXc4Mmo1ZkM0TkdKekhYRFhMZWNDeVM4aTVCeFBnbG1PSDJKdHlzQVc4ZFRJYmRtQkRUSWpvM3AwODdBSXJCNklyRkUtaWp4Z1lwYWY4dVd0VmxZR1BvV2hOZkh2NldXdUZSTVdYLVltLUVCamZsTVlNWXp3ZG4xM3RrN3JUYQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LITE: Stifel Boosts Price Target for Lumentum Holdings | LITE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeHZGZk1saVpSNEVLMjRKUVpHZUQ1QTR6S3lYeGN1VFcwWmoyRmRXWXhIZE84VjJTRUROVndvMmRheGczN0NYNzFmVGEtdXJoY3B4ZU1sbnctV3VfcktXa2d1Tkd3eGpfb1N0NEg0Zm1ZVm5oRWpUYlpUNEtJS2ZFSjlEaHQtZ0RJcDFHd0Z1LU5lcWhkZjJtX25DSUFWdy1CVjh5TUppRmctQlZIUU5OVDlOQUxCcDB2bVRFMVh2dHF4X3V0NkJZT1VZZWpCNjFlV0xja0JyTDhMWmdOQkxydFd1QjdlNDdQeXVoNmlUN1JuZUk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "B. Riley Issues Positive Forecast for Lumentum (NASDAQ:LITE) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmF2VklfR29hb29QWWhBRkM2RG4wQ0ZUVXBINlo0NDlnc1BBUGJkSTJpalpyREVpWmFDSkJmdzJCZGk3VkMyU210cVRxbjBfMTNFVXNYajRqaVE2NkhkZmpMVERPcm9DRkxjYzZ6VmhGbzVsSHY2ckJleEFqNzdtX2ZvVXJIeXhJZkwxWTNuQVpoaG5nWVRiUVB2MEJoOTFvOUFnYlYxYVlJc2pWY1ZRQzlhYTc5aVR0cnNRLUxMMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Stifel Maintains Buy Rating on Lumentum (LITE), Raises Price Target to $100 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2RjNy02MmJRcGNsbU5DV1A2czlMeG1uMzNLeDc3dTM1UFNETnkwRkdvY1VOZHlyeWlITGFvb3dvUVMtM01BZHZuNzItbTRSSVIydGFCOEMzQXF4b0UyeGhBYmhtZ09DR05RNXRRLWlvSlRBMEFSQ1hmYXEzMTNFRmYyVlRxNnpudFZwekFRdkdhUVo1bHNkbmhRbks4QlBEM2pzTDN6cVdockVjeGRieVpuNHlBc0swR0hjVnh30gG-AUFVX3lxTE9zZGM3LTYyYlFwY2xtTkNXUDZzOUx4bW4zM0t4Nzd1MzVQU0ROeTBGR29jVU5keXJ5aUhMYW9vd29RUy0zTUFkdm43Mi1tNFJJUjJ0YUI4QzNBcXhvRTJ4aEFiaG1nT0NHTlE1dFEtaW9KVEEwQVJDWGZhcTMxM0VGZjJWVHE2em50VnB6QVF2R2FRWjVsc2RuaFFuSzhCUEQzanNMM3pxV2hyRWN4ZGJ5Wm40eUFzSzBHSGNWeHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Morgan Stanley Forecasts Strong Price Appreciation for Lumentum (NASDAQ:LITE) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYXctZG04MDBva291SXFabkg1ZXdMZDllLXdzMXB0R3dNZG5HeHZ6MGs2bUJEeGRvbUtLSms5eFR1QktLNFV1OWlQZ2VLbWJQYk0yQ1hWdjEwR3BoQlN0YWJRVDc3VDlWYW55YU8ycmFETWNhS055bUJoc0JhLVlVZWpuNG1nUGItTndtTzNoc1pfQ3prNFhKdVlkMFhlV21nZ1dka0pGMFZZZ2dGZEYwaUNMaGtKaU1IRHExY1V5X05JeHhaaG9xN05SY1Z0cUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Lumentum Holdings (LITE) Price Target Raised by Raymond James | LITE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMjUwN3hCT3pPaS1XWVNRcS0wbW11N2ZfcGZEVzFfODZVNjBrNURzdldoUFNobkw4VDdLSGNGRHlFN1pnbnZBalNxZ2xRTFphVHhwbXZCNGR3VkZSOGJsMWtndHUzaExER3M4M0xDV2hXb3RyX3MtcldhM1FOVGRUVm1ZXzd2d2lWbUdmQzNIQlFIN0pwOFhSNFdTSFp2SzdxQzU5dmwwenNpUjBCREp2bkN3cEY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lumentum (NASDAQ:LITE) Given New $100.00 Price Target at Stifel Nicolaus - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTTcwMjZzdVA1M1VFZ0ZCaGszc1d0SkptdjdqQXVfczhwTmNvSnZBOHJkWlRjU2pGYUJkWnNRR1ExQUsxRDFmdWpyODdQMWZKMTF5TldNc3JVcGVYLVpySnFWQ3N4NUVtNDVHNjRsSmNudzhDVjlKOUt3TURVdkNRMXNYb3FBX1FCQzlyYzhaUXBUeHh2N3VlSkZjNGZfZlVTSm9kZU5PblEwR3ZKMEZWRFBiRjg0OTY0U01CTjJn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LITE Stock Update: Morgan Stanley Raises Price Target for Lumentum Holdings | LITE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2lTeF9uQTV5ZXJRc3VPYkZXNHlQWkxMVlRIZUtLY01fMk1MLU9LLUxlTmVhME5GRkpMQWx0ZXkzUVl0RTVIekdLZ1dYZ3lNWTlHVEJUNnplSzR5TzJMcTc4UUwtc3dZLTJmRWFNSUNaVW5PNFJGTDJ1RHhZYk1sanBpemZVZ2Z4ZWNhaVJpNFNEcHZyVWZOTmRScFVFUnB4R3luN1Bud0U3YWJMQVplaXlGMlVhNFp0Z1RUendiMnR0NEVvdnpqbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lumentum (NASDAQ:LITE) Stock Price Down 5.4% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFJsQ2hoc092M2NBWVZhQ0xEVHRzYTFZTUR5X2x6S3BCcGZad0NSRl9wajFqMzNOaDE3SEpvbVdfWWZQbDlpMHlTRHJNejNmREJuaUZyc1JUZFMxd0RqMTZPZlJqcTZaTWl2aDNDamhKRFVXanhiY1lyRUFLZWxRNV9XM3NuZlZna3c2U0pXaHBpYzZNT1RfUEpBZEtTb0NtaHc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Lumentum (LITE) Price Target Increased to $73 by Analyst | LITE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkNMMnhNdXF1cjR3cjBDOHJFRTk4WU5UbjVkRzFlem0zM05MTW1XUlBLTXZDVVdQUGdMY1NraHVNOFNEY1o4R2tTT0c2Nmw4cS1vT1ZlSnhPZW96LTVjZjRXdkc2MWdWMS0wS0Y3U0JoNzZwbVJ5M2tOUWlQU0JsaFI4bXhTMG5PNnVoTkg4cENjQV9ZekdDY3pDUzRjcHc0ZFBrMW13aW9XaDVH?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Lumentum (NASDAQ:LITE) Shares Gap Up Following Analyst Upgrade - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFJVSVdDX0xHZjVydnA3b2stNWI1R3pmQ2JtamUzTm1lZEdNWDVnNE5TXzlmN05Dbjkyd0dmZ01sclVXU2dsUUJBLVZ3enhCZExPSXR3anQzTWkzMVpYODJKSWVNOVBVMFlJTDl1VHA0Q2VhVzJiYU1zeVF0YlV5QTF6NG1pc3RVQUZJdW1vWS15YTU3eW9IMC1wTlpTTFJicVNTOEJvNHkzYVhxUDZ3TXd1SQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lumentum (LITE) Stock Target Upped by Analyst Following Improved - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWplNWd6bTZTUmtpVTgxTU5PS0ZzYnBUaG5vRDBSSUwtNTNvNVV6c0FsOEZuVG5zemNHdVdaTG1aQ2ZITmt3dmMxRk5IeDdmQlFzU19vYTJNdGJwQ0xFNHoxMl9GdzljLU9HV2pqcFNsa2JBS180amxLbG5maTdBc3d2U0ZPSGJKamU4dnllMS11Rk1QcGMtc3NkR2wtblpVUmtUbW81MUMtd1RhdEc1cjFsOVoxUjZVaUlhX2ZNS3FpRGpfWkNwcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Lumentum Holdings (LITE) Price Target Raised by Rosenblatt | LITE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnlKTEpJM2FrQ3hxLVkzMEtyVkhjRWl4NFZ6OU5RSmRiRWF0T3RzazJJaVFuVEFycGdLaW13MXowaXZYd2Z0Q2k1a0R2NDB1SjNvUEs4aFE3ZGkyZU90a2FvZDFWVTZ1MUxESmFfb3l6RlRFRUpGbUkxMDdUSFdDd0FZSzdDUFNDbTZxdlAzcHFfR0ozQUttcHhpTWRBWjhWaVo0dXZoY0RWWnVZNjlxQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lumentum lights up after raising Q4 guidance (LITE:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYVpXMGV0MjR6ZzJybDNKTHRpNElzcE53bEZMa3hoSzFENTM2aUd6UVpIdGxjc1dpYW90c05jZ2lPdW1JMnZPUWpDV0ZWaDZNX19aYTlEVF9VeUNQZF9Zbnh5S3NDTmM3WlpTSzZaemhJdjhEZUxQWUtKMFNyMWU0dFV5cTdJTlA0Umc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Lumentum (NASDAQ:LITE) Given New $90.00 Price Target at Raymond James - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS09ROEhjZ1lZdzN6T2hEUE1JOUdRMzFaWWFsSGpXZW1tTGFqall1cTlsNzhLdGY2b001UWxZS1MzY3VaZFZOTGtKN0tXYkpDeWhKZjJPTXEyZ3c2YlF4THV1Uk5oc3BLVGpWVGJ3dXNIUjYxUXMzNHRydzczRjdNTjJFUWdXaHQzeEdLTjIzczZvaXVwZkJ6MGJrWE56blVSWHZnQXpkYWVjekwzMWFKUUJiYlFCMGFrY3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Raymond James Lifts Lumentum (LITE) Price Target to $90, Maintains Strong Buy Rating - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY3FUY0czTEJ3a2FsMUtoMnp3eVBFaWMtSzZIdDVOUk5pNVpQd3pWM3VaSWo5cFdOUHJ1NUlTTUQ2MnUzSU1GV1ROT1lyeGMta2xVTjZIblVRd3F6ZXN1VEhoanpQeElITkRUNDBGWEs5Z2NsR1oteDY1aUhhQ2g2d2ZEdkxvRGVzQWl3TlRPTVE3NjF5cTgzbGlSbFlXUVVLa2xNRkhtaFlEQ3hxdU1GUVNOTngtLXA2UHZUR1pNNTVEc00tY2xlckRCX0RncEU?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 86.37
-      },
-      {
-        "date": "2024-12-03",
-        "price": 88.7
-      },
-      {
-        "date": "2024-12-04",
-        "price": 94.9
-      },
-      {
-        "date": "2024-12-05",
-        "price": 92.64
-      },
       {
         "date": "2024-12-06",
         "price": 92.84
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 76.13
+        "price": 75.86
+      },
+      {
+        "date": "2025-06-03",
+        "price": 77.65
+      },
+      {
+        "date": "2025-06-04",
+        "price": 80.28
+      },
+      {
+        "date": "2025-06-05",
+        "price": 81.64
       }
     ],
     "current_price_data": {
-      "price": 76.13,
-      "change": 3.85,
-      "percent_change": 5.33
+      "price": 81.64,
+      "change": 1.36,
+      "percent_change": 1.69
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernant Lumentum ont \u00e9t\u00e9 analys\u00e9s et les tendances cl\u00e9s ont \u00e9t\u00e9 r\u00e9sum\u00e9es. L'actualit\u00e9 r\u00e9cente met en \u00e9vidence une baisse de prix du stock de Lumentum de 5,4% qui est attribu\u00e9e \u00e0 la perception du threat de Nvidia comme surblown. Cette baisse est mitig\u00e9e par le fait que le stock est class\u00e9 parmi les entreprises les plus durables du monde avec une baisse de 38% des \u00e9missions et que le P/S ratio de Lumentum reste raisonnable. De plus, le stock de Lumentum a \u00e9t\u00e9 up\u00e9duit de 50% mais l'investisseur Virt",
-    "sentiment_score": 0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.3,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

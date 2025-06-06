@@ -2,55 +2,73 @@
   "ticker": "5802.T",
   "name": "Sumitomo Electric Industries",
   "sector": "Materials",
-  "market_cap": 2350504214528.0,
+  "market_cap": 2334906646528.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.136587,
-    "PB": 1.0262424,
-    "EV_Revenue": 0.641,
+    "PE": 12.048291,
+    "PB": 1.0058129,
+    "EV_Revenue": 0.627,
     "ROE": 0.08939999,
     "ProfitMargin": 0.04141,
     "GrossMargin": 0.18807,
-    "DividendYield": 3.29
+    "DividendYield": 3.34,
+    "DebtEquity": 27.189,
+    "CurrentRatio": 1.803,
+    "QuickRatio": 0.93,
+    "FreeCashFlow": 164770250752,
+    "OperatingCashFlow": 402252988416,
+    "FCF_Margin": 0.03520890654245709,
+    "ROA": 0.04551,
+    "PEG": null,
+    "EV_EBITDA": 5.573,
+    "BuybackYield": null,
+    "PriceToFCF": 14.170680907940893
   },
   "technical_indicators": {
-    "RSI_14": 76.14335341691311,
-    "Momentum_10": 15.656178050652342,
-    "MACD": 175.8904657135563,
-    "BB_Percent": 0.8883334310016402,
+    "RSI_14": 68.34531871434096,
+    "Momentum_10": 9.691793538804308,
+    "MACD": 164.92406322775105,
+    "BB_Percent": 0.7414905430578965,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8995756119371741,
+    "ValueScore": 0.8967662746183346,
     "QualityScore": 0.3703195552734146,
-    "SignalScore": 0.3518678376054049
+    "SignalScore": 0.4079220063362
   },
-  "volatility": 0.0369531866433695,
+  "volatility": 0.0369143188743691,
   "beta": 0.458,
-  "return_6m": 0.045679106668494,
+  "return_6m": -0.0171774054151,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
-    "target_mean_price": 3233.75
+    "target_mean_price": 3296.25
   },
+  "news_sentiment": {
+    "summary": "Le FTSE 100 chute et les actions américaines sont volatiles, alimentant les craintes d'un marché baissier en raison des inquiétudes liées aux tarifs de Trump. Cette incertitude pèse sur la confiance des investisseurs. Parallèlement, Toyota Motor prévoit de relancer ses usines au Japon, signalant une reprise progressive de l'activité économique après la crise du COVID-19. Les investisseurs surveilleront de près ces développements pour évaluer l'impact potentiel sur les marchés financiers mondiaux.",
+    "sentiment_score": -0.5,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "FTSE 100 plummets and US stocks volatile as bear market looms amid Trump tariff worries - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFhDN1VvaExhYnV4S2lJcUxRaFdvY0JKbjU3NGVLblVucVRVRkR1N21fX0RRaDhiN0NBNGxodks5YXhCVWVoV0JZQm5VLVB3RjY0eDM5anFpb3hVZktkRkNQd0V2RkRvTjhlRjlRT1B1SGJoZm8zeUNCdmh0RFRaRG1YZ1BiZDVHSWo0TzFkNU9oZTQzdW5KQTBqYlNqbnliaUE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Toyota Motor To Restart Vehicle Plants In Japan - Voice of Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FeHJManNjY0ZZb2RsRW1GaVR1WXd6Q0hFaXI1dVlGSjJOMGJnN1MwWF94bHRoRFlMN2VBb1hldi1TMkp1MVJfaXVRcEkxVUFYQmp4Vk9BWmtiRXptMS0teVFuU2V2SXY4OXFhS3c3VnRVU21QWmc?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2949.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3012.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2984.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3052.0
-      },
       {
         "date": "2024-12-06",
         "price": 2931.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 3014.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2969.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2994.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2954.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2967.5
       }
     ],
     "current_price_data": {
-      "price": 3014.0,
-      "change": -22.0,
-      "percent_change": -0.72
+      "price": 2967.5,
+      "change": 13.5,
+      "percent_change": 0.46
     }
-  },
-  "news_sentiment": {
-    "summary": "1. **FTSE 100 plummets and US stocks volatile** - Bear market looms amid Trump tariff worries\n2. **World's biggest gallium buyer says clients stockpiling**\n3. **Toyota Motor To Restart Vehicle Plants In Japan**\n\n**Investisseur francophone :**\n\nCette synth\u00e8se pr\u00e9sente trois nouvelles \u00e9conomiques r\u00e9centes concernant trois entreprises cot\u00e9es : le FTSE 100, le gallium et Toyota. Les signaux forts sont des plomb\u00e9es du FTSE 100 et des stocks am\u00e9ricains, ainsi qu'une hausse du gallium et une relance des usines de Toyota",
-    "sentiment_score": -0.333,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.33,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

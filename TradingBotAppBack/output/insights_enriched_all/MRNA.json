@@ -2,55 +2,163 @@
   "ticker": "MRNA",
   "name": "Moderna",
   "sector": "Health Care",
-  "market_cap": 10339548160.0,
+  "market_cap": 10128773120.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 27.379175,
-    "PB": 1.0278739,
-    "EV_Revenue": 1.587,
+    "PE": 27.6462145,
+    "PB": 1.0069205,
+    "EV_Revenue": 1.673,
     "ROE": -0.29341,
     "ProfitMargin": -1.05666,
     "GrossMargin": -0.82373,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 7.401,
+    "CurrentRatio": 4.218,
+    "QuickRatio": 3.916,
+    "FreeCashFlow": -3197499904,
+    "OperatingCashFlow": -3052000000,
+    "FCF_Margin": -1.0064526183232507,
+    "ROA": -0.15837,
+    "PEG": null,
+    "EV_EBITDA": -1.503,
+    "BuybackYield": null,
+    "PriceToFCF": -3.159250018854731
   },
   "technical_indicators": {
-    "RSI_14": 51.58137506271632,
-    "Momentum_10": 7.803695008362872,
-    "MACD": -0.0685479962649147,
-    "BB_Percent": 0.7073083534324909,
+    "RSI_14": 48.34796958197035,
+    "Momentum_10": 1.5891467423889023,
+    "MACD": 0.0688134993459215,
+    "BB_Percent": 0.5418181575306045,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8944025225887657,
+    "ValueScore": 0.8912588330925812,
     "QualityScore": 0.0135020204192884,
-    "SignalScore": 0.5591660597645582
+    "SignalScore": 0.5924581559536437
   },
-  "volatility": 0.0480931105464891,
+  "volatility": 0.0481066937416439,
   "beta": 1.859,
-  "return_6m": -0.3959556795250813,
+  "return_6m": -0.3900791483079543,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 23,
     "target_mean_price": 47.69565
   },
+  "news_sentiment": {
+    "summary": "La récente actualité de Moderna Inc. (MRNA) est marquée par une volatilité significative. Alors que certains investisseurs comme Green Alpha Advisors et Alpha Wealth Funds ont augmenté leurs positions, d'autres, tels que Jim Cramer, expriment des réserves. Le retrait du financement d'un vaccin contre la grippe aviaire par RFK Jr. a entraîné une baisse importante du titre, bien que des initiatives comme l'étude sur un traitement contre le cancer suscitent un intérêt positif. Les fluctuations de MRNA semblent liées à des événements spécifiques à l'entreprise, ce qui peut influencer le sentiment de marché de manière contrastée.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is Moderna Stock A Sell After RFK Jr. Yanks Its Bird Flu Vaccine Funding? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZMHozSlZPSy02NkJOS2d5d09vX2hoMVZxOXZtMmJfV0diZjlHRGdMVzB5X0xaMHFvWlNIT1hoX3dCY3h4aEdBZ0FKSkxpR3dMNkROODRlNXFyZzlKYmQtZXgzNGdWQXpEQ2h2MUdkS3NwMUI1Z3RJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$MRNA stock is up 4% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU25GNFNuNHladW53NFdOTFR6MHktRG9DbjZYaEdwZmFmVmhKdEpJd0V0b2N4OGtuM1JwTTcybDhVc2Fad3RydEVMQk1oaXY4WUVNRk9rV0ppVk5NbGZLSkNabHA1MzZDNnh4ME1iWDhndWpPZGlibk5GcktBNG1jMmRUUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Moderna (MRNA) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYnZTQzBHOWpCLXFraVVZZFJDU2FPRm1yTlRnY1R3ZWNINHJ0ZVREVERrd19ONzJwcmhraWtZR2Z2aWFsamZyRUtQemJQWFhqOEt1Q2NuQXRpMENQWFJzQ0Y4Y0VwS2ViZ1ZUVUVOdUJHVk1ieXJ2VVIwYnp4OFA4LQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Down 80%, Should You Buy the Dip on Moderna? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaGNjRUJZODZDZUh2amVMaWtVUU9nZ0p6WHBycnF0Z3lBT2xielZWTl9uRXl1V2dnT2t5dDVJQkU3aXJkRV8wR0hGUWQ1MXNYZnFWbHZ3U1lqeUN6dm0xU0Z6VGFRZUs5OW1odWVtdGJfYW9VUl9iaDNDdmZ3S1JmZEFQbldJSWxkRGNNOQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Green Alpha Advisors LLC Acquires 11,774 Shares of Moderna, Inc. (NASDAQ:MRNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlBBTnl5RkZyUEZlRUVYSzBXdlFwcDFDbDJkeXlBM0hIZlJkdnViSy1FOUJiMDhvS0JoWUlUR2QxS0RmYlpiNnBBNFk2TE5heWZkOEQ4ZFl6R1NDVzN0WWs2bnhza3lJbGZUQ25zWG9kMS1rOUxvLXdHMHRuX1ZWeWpjR3djUzZnczJVd1p5OHlWaEp4cm9EOENUbFZKN29TaWE4a0otYk03WjhXSDBpcXpfLWIyS01yRk1iTzlrVXpUcm9ZcWRqQTAwZDhhQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Moderna (MRNA): “I’ve Been Against This Stock For So Long” - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQd0FwSjYyYkNMSjU4a3dtX1pPb3FsYVBsZHdyWjZVU041RnlSeURTQ2tVak9DMFlzcEt3WjRvSG9jT1Y5UnRVbWtJdlc5RnhNQWZIU3Znb3R1UEU2QUVmeWt1VjFEdVV3eE95bEhHNloxNm1pNHRmU3dCQkZILUJ0YVNpV0RIb1l0ZW9YWFlJTTlKWnlUX0JEY3RKQXJ4WDE1Mmc3Wkx2YlpMR1lkdGFtRlJpU1FjdmZsNVdWQ0hlbTZ1UHRMTnFqckFFd1pTcl9CNGljcFlPeVFYR2RDT3RtM2U2T0JfMHR6dmpJbFc0Q3lfOUFfWFFzbExTOHQxMnFJU2RYSFAxNHpiLWFBVFpDSEV5Yl9qcWZScDVfY0M3bU5OSV9Na2QxdnllT3FhUmx1aUpKaU9Yc0tEeXdBeXljRGJYS0ZJSmFySk9BUFhyMHE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Moderna (MRNA) Faces Challenges Amid Potential Regulatory Shifts | MRNA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYmtFMzRtQ2VlVzFnVk1Xd0dJVVBUZ1N5Ul9Qc3RxdUM1T2tBcTRNNXQ0ODVKakF3bXlITUlURk10UEpxSHE5VDJ2QlBMQWNoam5OSy1IM0Z2dVNocDJlVWdXRjI5OE5pbDBMc3oxVk1oYzZZbkVSOG8zN05Qc1BMXzJxMVZ2YXNMSHUwc2JFTFN5T3I1Qkx3LWg4S2pSTS0zeGx1MVNsbmJwaGhLRDBsdm9vWFpndmc1SW8xVjB3d2dtSFJLdzc3S3lOczRiTmVYdmxxQy05R25aUWIyZktVdDB2OTEzUUl4WFAtY0pnYjk2elVqQWFockdSMXRTWFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MRNA Stock To Rise 2x? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVJjNURNOFYybzdBMUMwNkVxVUd5T2dBZ2FkVU5sSGZ4ZWc3V1BpNFdzQlFJZlllbHV3RHNjWDRDZUp3SnlPVEZwbVplbk8wZjNJX3hNZHMxb29FdUxTVnVMNGNHQ2Q4d1I5ZEF2UTdJbFVGYmdwOWk3U3VZQU44MncxRWZXcTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Moderna (NasdaqGS:MRNA) Begins Phase 1 Study on Novel Cancer Therapy Candidate - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHQ0MEhORG5uMy10R3VDaFJDaDBsR0FEcE92eFVheWstdi1JZkQ4NUlVenIwSC1KN0ZwT2xjVFEzYm9qaWZ3cnhna2lNaUc1MV9xMzBxOU4xMG1MUmdHeFVGOUZkTkUwVGRteW9ycHRaUUw0dl9TMEd0SzZ2d3BYbDYtZVFEdm8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why MRNA Stock Could Be A Winner - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96eW44QVdKS3NHMkJoejdIalFrYXhieTFWMU42WjBjWmItV3BRbjZFNFBNRXFSdnlsUm1uRjFWZjJkVmUzNEFsXy10UkdGbGRpeTZYQ2ExZC1zdjhUWElNdjlIN29jbHdmZmgzcWhWTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Moderna Stock Looks Ripe for a Short Squeeze - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXNvV3FvZ0lnZDJBZDRBTGgwbEwyaFhlVWRfVXlWSHlQMjRnbmp4emRVTlE3SEEyX3c1X0FRbVBTekN0R0dLcEd5MHp5SG9GOFNCUm9faTB6Yk1qT0ViRVVGSkhRMldEZkhGSTZ0THhNbjVaQVVhZmlzaFVXdXhRZXA2cHhUSU1Yamc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Moderna Wipes Out Its Recent Rally As It Faces Another Vaccine Setback - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR01IS0hMc09DZXFtcFRjNVpzek5xX096c28tXzhreVZ1aDBjQWJRcFFVemxNSjVZREVObnhGZUREc1lFMXBEOURFV0dmOVRteHJ2ejRqYmttMDV0b21qSzBDWmJSQTliZkllekt5bnRZRk5Nc25oZ2NVaEhidVNKMDJmbjJKdnBtWWJj?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Moderna (MRNA) Faces Challenges with mRNA Technology Focus | MRNA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDd5LUExZUlGM2xocFl5VjZYSktWM2VDVXJObWhpcmtzcVJPUEpiNTI3dnJCRGlGc2ZpX05IQk05d1BvS2NjQk1YNi1LeGhoWVRvZ2R5cjM0ZHhwMkdBaUFRQmRzcDZ6WHFRUUVyVW5HbDA5ZW1mVmwwbEJjZTIyMG5RSjNUaGZ3MlhuY2FYREstSUlMcmd3V1EwZGRvM25YWkFqVjFZOE9teGxNSEVJTw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "15,000 Shares in Moderna, Inc. (NASDAQ:MRNA) Bought by Alpha Wealth Funds LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjMwYTgwcjZtcHhYU3FpQm8tTTEtTkR2M2lqZC0tYURWLWlsc093OUdWQ0FqOUU5X3VDNGloSWtOQWIxdFZkZ00xQktvaVlfVlUxSGROLWg5SmpYcTQtc3dOWU5UM3RGMDJTMXBGUTJZTUxlUmVZOTQyeGZRSVc5QW9Ta01kSUZwdHVFb0FNVHg0RHdWSGc5ZjBfRU9GSUhZT0FTY2xhdDF5SGFVMDRIR1l6cG4zT01hdVVsMldWLWlETkNUWHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Moderna, Inc. (MRNA): Among the Best Growth Stocks to Buy and Hold for the Long Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zR0doRFFITHB0WWlYaWhDdUUxZGxpbHFPaE9Sc1NWWFYtWTc3cUwtYlBlQ3pMVVJqUndMNklSRkZYWERlVm8yN1NCZVRKNzFqbTVXRXkxLURja2x1V2puc0U5NXFmTDlpU01ZUVlwaWVBZ2FVbEk5RHRXZ3ctUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Moderna, Inc. (MRNA): Among Billionaire David E. Shaw’s Small-Cap Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2tkMjJhbVhkbFBJY2hjeEJKSUJZRi1Jb2hhRU4za0tnWjR5MHFVbnZsUk84WjZqWEwzNUhoNnFzTUpoc0R2XzZLWmd1UEtWSGU1OG9xWTZieDg3ZFBaTTVVYWRtbE5yLXpTM2VRSmFhbF9EbWlabW05MVk5a2s0V016VGNscEU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MRNA Stock Down on Withdrawal of FDA Filing for COVID-Flu Combo Shot - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFlQWUpPNUgwWHd5SFdueWlGYXFraUVpY1dwRl80MUg5bmJtWEZScEpTVFFsU3FWenoxd09ISG9IeVpHR0dGT0t1NC1FbWpmRW13Qi1hZUg4UzJrNFEwR1BxZGNNRXBkV3FWdXk2NFlQUmJjMWFRNUJsUG1GQllsdGJ3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Moderna (MRNA) Stock Is Rallying Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU0xWeEFhUzZWdl9KQWxtdFpJalpXZnlsSW5fbm5XaWY5WXFGVHBwQ2ViTS1NR2V6RHFBVU9zSlplZEhzMTluSjhTNVNVWG0wXzdDWEthSXdFTW5BYlJ4TXdJNXJsRk1FZDNxMEFZTWp3VWFNOGp3VVAtd0ZfY21DelhOQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Douglas Lane & Associates LLC Buys 99,713 Shares of Moderna, Inc. (NASDAQ:MRNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZVE4c2JGaUhhODhYWmlNZ21TNDUyZjRYV0E2WXowNDlaTFh6djN5T0ItOVItWHBxOUhjZzlxODhFVG1GUGg4OUY4TmlISXNpZEJWZC1Ob1dNTzlMN2RHZFZXVWlySTJGWUtxWWNaejlsRktzemxGS2x3Q3hXYXp4c2s5LUVVd3pjWE9rZkJCTzV3YXBDdUVsU0pDVjRWblUwWGE4YUwtUGFab3dGUnR6aFZWZlJPbGN1UnpZUWpkbFNtX2ZhSEJ2am1EZ3U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Moderna (MRNA) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JTWWJ6RTUtT0ZXNFRveWcyNG5hTlIyU0tDbnczd1RQa01XbjZNNXpiaWlrVlMzWDR1RUJOSVBXREY2WTBnd2g4SGt1VG1rdTh2cmIyc0JNaS1tMGViQ29uMzFmbDRXZ1NUa2ZfNk9XWC1qLW93VmlTZzdQVVFZYmNIUjI?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 44.26
-      },
-      {
-        "date": "2024-12-03",
-        "price": 42.58
-      },
-      {
-        "date": "2024-12-04",
-        "price": 41.63
-      },
-      {
-        "date": "2024-12-05",
-        "price": 42.94
-      },
       {
         "date": "2024-12-06",
         "price": 44.44
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 27.02
+        "price": 27.05
+      },
+      {
+        "date": "2025-06-03",
+        "price": 27.81
+      },
+      {
+        "date": "2025-06-04",
+        "price": 27.27
+      },
+      {
+        "date": "2025-06-05",
+        "price": 26.12
       }
     ],
     "current_price_data": {
-      "price": 27.0,
-      "change": 0.45,
-      "percent_change": 1.69
+      "price": 26.12,
+      "change": -1.15,
+      "percent_change": -4.22
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent la soci\u00e9t\u00e9 Moderna et ses performances sur le march\u00e9 boursier. Les tendances cl\u00e9s sont les suivantes :\n\n* Moderna a \u00e9t\u00e9 priv\u00e9 de financement pour son vaccin contre la grippe aviaire apr\u00e8s que Robert F. Kennedy Jr. a \u00e9voqu\u00e9 des doutes sur la s\u00e9curit\u00e9 du produit.\n* David E. Shaw, un milliardnaire, a inclus Moderna dans ses choix de petites et moyennes capitalisations avec un potentiel \u00e9norme.\n* Moderna a \u00e9t\u00e9 l'un des mouvements les plus importants du march\u00e9 boursier le lundi, avec une hausse de ses actions.\n* Douglas Lane",
-    "sentiment_score": 0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,159 @@
 {
   "ticker": "ORRF",
-  "name": "Orrstown Financial Services, In",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 582426240.0,
+  "market_cap": 584279616.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 18.659374,
-    "PB": 1.0929092,
-    "EV_Revenue": 2.481,
+    "PE": 18.71875,
+    "PB": 1.0963869,
+    "EV_Revenue": 2.465,
     "ROE": 0.07847,
     "ProfitMargin": 0.15484999,
     "GrossMargin": 0.0,
-    "DividendYield": 3.46
+    "DividendYield": 3.48,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 33242000,
+    "FCF_Margin": null,
+    "ROA": 0.00732,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 49.20768814047132,
-    "Momentum_10": -3.7866616771132366,
-    "MACD": 0.1664731578528169,
-    "BB_Percent": 0.2743066649545748,
+    "RSI_14": 50.31712500176952,
+    "Momentum_10": -0.3659304888796052,
+    "MACD": 0.1091214731176322,
+    "BB_Percent": 0.3024143421657543,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933117316914216,
+    "ValueScore": 0.9307373988362508,
     "QualityScore": 0.3663488705728897,
-    "SignalScore": 0.5080647221298198
+    "SignalScore": 0.5592020135997173
   },
-  "volatility": 0.0164656788197765,
+  "volatility": 0.0165546858312589,
   "beta": 0.782,
-  "return_6m": -0.2376972743250293,
+  "return_6m": -0.2267248880771027,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 5,
     "target_mean_price": 36.8
   },
+  "news_sentiment": {
+    "summary": "Orrstown Financial Services (ORRF) a récemment renforcé son équipe de direction, avec des promotions clés telles que celle de Zachary Khuri au poste de Chief Revenue Officer. La société a également dépassé les attentes de bénéfices au premier trimestre. De plus, des acteurs importants tels que Mirae Asset Global ETFs Holdings Ltd. et Bank of America Corp ont augmenté leurs participations dans l'entreprise. Ces mouvements positifs pourraient indiquer une confiance croissante des investisseurs dans la stratégie de croissance d'Orrstown Financial.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Orrstown Bank Strengthens Executive Team: Names New CRO and Regional President in Strategic Growth Move - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVG9kcXhHRVp6SlBMQjVYTFlfT21JNFBSN09HQTNEOVZpSmh3T003M24ydWZMVmxiZngtZUszWDJBLWk1cE1DVE0zcEdhZkdvYVZJcjBVRVdGWWRPYTVRNWhQeGlOUlBEZkloMVRVQ19PRnNKWmZZYTdzX1pYRS1qaHdCc2lGbk91aWJ2TGZydVBwUG80dFpXMHBYeEsxUGdYMmUzTlA0bDdCV1dPYWdtMHo1NEFLb0VBMHBkVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Orrstown Financial (ORRF) Announces Leadership Changes with Key Promotions | ORRF Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1pweUJjSFRlbGU3UW9HdW9Qb1VGdnpJSWw2RkJiRGF3WDZRZXFBVGZFOEpVVXhTb2E0a3ZVcHJETnl5ZmczYkN3Vk1WWWF1LUVzMjZIT2VvQXhCem9ydHRtSm1rRTZSb0NELTR4aUFfbGVKVkRzUFlXNUlTazhBMzA1SnpaeFRreHJkS2RnUTFpTG10XzZ5a2JpTmdQVG8xcmtybklQN1Q2V25GV252aEtTS2FPWlRPbFdIcVp5ZFFYZjRSYVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Orrstown Bank Promotes Zachary Khuri to Chief Revenue Officer and Joshua Hocker to Market President for the Central Pennsylvania Region - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxONGY5bGE5UUJyZE5GbGVucmt1dVlxUHNBT0ZwcEpidU1UYXhZNmtYbnRlamxJUVNhY0FXcGh1SkhpVE1XSnZ0dFVFSWstM0FpWG4yNldaeThWOEkxbFY4MTIwRnhJU1RaMC1PWXIta3U3UWFFTEdNTmd3NnROYU01SUVmcHhsYmw0WlZSWGpmcHdYbE1wZEY2WWdQbVYzTmpvQ3lsWTlFdUJRa0l4d2pzSG5oNW5yU2RUSVJUSW8xQUdtVlBmUjA4eFdVZzRxTGxnWkNiTy04OEczT0RoR0xjWHI4UGxDcVdIZ3FkNVpMNWJaQldJd2ltVTY0UVBKUWpWU3g2VnlNTC1TYjg5Rk9KS0IxUVdlTkk4UDl1Vmtvc2YxeC1YRy1Za3Q3enBQUXVWbzdwa3Z3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(ORRF) Trading Advice - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEtBRVh4T3ZFalBsSFd3X2ZDejdpanNXN0ZoeFppc0dKTElmQ2wwTTVqbXlzOVBmUkR3Nll5TVJMQi1namlSMVJVcVRQU3JoZTU0NzNnZnZaZjFBYk1peE45RlJzU2d5YkJydFVLZUtyRTFEZEZGWmd0d1pNSUFoLU9HelpHOFI3OXcxanJvSno4dVZIRVVtdGdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Orrstown Bank Promotes Zachary Khuri to Chief Revenue Officer an - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOMHZ4VjZ1UWtNVmcwRlFPSmJUUGVnQ3ZkRF83MmFhbGdIWUNKcUlIOE1XaTZkV3IzNjJoejU5b3VDcGlFUlhXWDZhVVNRcDN4ZVJtUG4xSWFlajBxbnU5TllBaWxYSnFHY1VsOTRaMWFCQko5Mi1WblpBZmM4UXpwWXhDcFZjdW1VUS1xX0FpTENQYzZRTWhJT1lVeko3YUNxenlmWXgxOW5pemJIeWFJOFRfZDFHeG1FY3R2bTVZNnBodVhpODR1WXlMemFrR2JLbnkyNVlkSGRjeGZlZGs5QTFQcnpDVDFxX283MTBHdnA2YTZQV3lSQV9sVi1oSnVRa0J3Y25qUEhFSlZMTzNSaGpwbEk3bHdWYmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Orrstown Bank elevates executives in strategic roles - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMl8yMUhwUFEyOW56MUFYbExTX0kxQ2RSUFBDdmM2UlNPLUVaVTRFR3o4ZXRzbkU3VzR1MzVaY2M1QUpFZUxPR3FGMG9qc0dKbXhHQTdCcjM2aWpXMFFLemdWTUNJdlpkVV8tNWJhQ0ZHUE5vUkU3eDRUQ1RRVGgwczZzQTVYd0ZyNXI2NVJ2N2pCM1lGaktMekc2a2lVTWt5ZFJjczFBS0hvcFpQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Orrstown Financial Services (ORRF) Q1 Earnings Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQk5xcnhqWjRrM3N4TEl5RXNNelZCTDE4WGJkNnBEbFhUSDFBZDhlYUFMbmVCNnRFdTlUMVgwbjJ4QUozOUNyQ2FpMmtIX3VYQkpQRWw1YUx5ZzlyZHNVOGU0dDB6TjM4VXB3UjYtWTRlYkxDbW9tSG85S0dRYVpmdTk5dWZyTVVV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Orrstown Financial Services Holds Annual Shareholder Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2pZR3pzV2E5b3RiazBvdHBVaHU2NzR2b2ROY1otMGdCS19JOEQ2cVRESVd4UjhlY3djdTBuNVMyLUF5SjNvd2NBcjhabll1VmE1bzA0b1NTS2JVMGJVeW80VVZ4S2NsYlB1bjRKaUVZYldhaTNZS0g3c1Uyb2hNWFpSUjZuOEpjelhDT2Z0Y1ItRXRSOFVTYzJieFdVS1NPdENkMGlsOG1uZ1libXQ1WTRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Orrstown (ORRF) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUS1KV2M2SVNqZWV4S2FBc3paOVpUMHRJMGxOS1VYTW9zRGZWSENhMTBLTFI5TUVNWUIzdE4yZmJ2Nm50Ym9GVnVWXzBQWHlPZWc5NzRoT0FYeUxpTFpleVZaYzdtd0lscm5WaXlMSkNTRlVPRmlFaFY2OENPMldNdWNGSHY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To Trade (ORRF) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREJzU3Z2UTJjS0dibFVSQUN4X3pRVnNTZVRWVy1YU0tobFRkQmFHVDB2aXVEX1Z3bW9hbDFrQ2hVSEFfZk1WdzRsV1k4SnlWYlNnVFRiUXpLSEl1Ylc5ZjU3RlRNelQwNXB6Ul9rbHVuYkVuLTZwa0JYTWZkdzRvNjFWUVQ4RHhyZlEtcTd2Q2lHZXFRbm8w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raymond James Initiates Coverage on Orrstown Financial (ORRF) wi - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONmhCNU8waHBMRnB3QkY1Mm5VZGkteTJqSG1JT2JhMVFFZGdBNy0tM3lEMDhVdmVqTDhhc3FQMmtRbGlja0s4Mk5jOVJ6N2FhTEFEa09LanhfTlZoTzVNdTNMbE1LaFhBNmYwUFRpS0lJLTgwRVpvU3ladmtNZV83QlE5Y1ZfSUtONzZDajkzRkJYdktXbzhpZmdScnBmUkFNQktLbmVrc2xhRDVxWlhoMWRjRC1CWDd5d1R5N0x4TVFzX25fMWhla2pVOURKVjlCamNFTmNXTXk2b1FqUkUtMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(ORRF) Trading Signals - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdGhBUDljb3huUnNjeFNDZ1RiUGg4TS0zQ0pqVV82SmlYOVo3NmJTSXJmVTBienRzbmZzOUl6eEhJNmZZZ2VwOElwZF9YRjhCeTU0dEkxdzNqWXh1RHVRSmJXNFMyMG1mNzhaQXItcHl1NVEtSVJxOE5aSllLYnZwYjZRY0xJUHFOWFlhaXpjYUw0bU9aRXZ4Z2NZMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Form 8-K ORRSTOWN FINANCIAL SERVI For: Jul 28 - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWpHYUxwRDVlQmdaWG03SzhhQlZ5WUJzU3dKLVVPdGdkOWFSenhRQmJNX2YwdGlJYjRaa2JfRV9Vd2tQTHhZZmFJUnJ4SkdoX2R1Z3cwWjI0NUM4a2RVbGNQMkhndmZNRWtiSG5ueVVWandGNlIzbVhKN2VUbTNST1hCZkZETlZobzFVS3lPak1CQzhaVTZTa1IxLXh6dTZFRC00bDBB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd. Increases Stake in Orrstown Financial Services, Inc. (NASDAQ:ORRF) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQclA3cVBWS05iSDk2QUZCRmxheWc0dzU2UUlFVG9vYUN2d1dnRlNWWFpOMlF1NzBubWVVdjlBV1FIcHRIRGtqWVh2bGIwR3BydjlOZjVGcGVIMFRWdmhDdnZKWFpnQ3hCd3hsX3daN1BFV212TjNrallWSHdKX2FRVWNkNWExY085TWVwZ0ZnNUxPUFdRSGVrTzNJNTNmMFBkX2NkNU9TQWN5N2g1SEJ5T3hTTW5VbDJ4bDcwUlhPb3BRVER5djNkYmdfS1gwU1hZSWs0M2hOdEpjbkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of America Corp DE Purchases 10,818 Shares of Orrstown Financial Services, Inc. (NASDAQ:ORRF) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzNabXpDNXl4cjctQUFFbEg2bk5BYTJWS0lGaXFXUnltR1MweW4yX3JzSnJZQ0F4cWVMdkxlaWk0bDE5TVZJNTZpajNtTWh6MG5JMlhhSkZCTlFOanVKY01PYTJjVzNYcXE1M1VTbkI4Y3BzUU5pNmxYUi1CYWRFQVpzYVdUanBSVUR0QndlX2ZfZThxSlVIa25MZjMtSWFXVmp5ajV6Z0tBMUY2T1BHT2w1NUxnU2NhQms3b1JjQzl4NEtXcVpHZy1mRHh5azhpYXVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank AG Purchases 4,347 Shares of Orrstown Financial Services, Inc. (NASDAQ:ORRF) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR0I4WUdCeGVGYmNmalhxb1QySVZMUDdxRGt5emJUV3B5YW82RmVvOFJ5NGw2S2IwWExfZldKRXBLekc3ek94Ykt6ZnZPd05fa1E5andSTk03ejRRcFljSjNSck83MEN3R3llWE9CQjh6SFp2Skc0cmM3Z1NYZEhTSWxhOW9xVm5TZ1FGY05LY3BsdVAxVng4bDRKM0lzcWhUaUcwYl9xYWJnX1hsdEM2NFdKdUVPTnl3b0FVcmE5WGF0WUpvX2lFSg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Millennium Management LLC Buys New Holdings in Orrstown Financial Services, Inc. (NASDAQ:ORRF) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONk5pOEpscjBJZXZneUJuWWNTeTBrSnU3UnYtZkdOZzU1LXdvd2tfUzJHNm9OdzYzYllYZ2p6dGpHSm52bE9nbVU2UlFpQXYxNk5mR3lfTVdRS19pd1drNzJaODF2blFJSUxZV2d4SzBVT1Jybl9YMTVGSmVmTG1Oa2swS1VJRjNzRHRiVmZCY1pDZmwydi1iMmJnLUZzVkhhNEVsWFNvbzJ6Y0xySlc0OUJJMV9TTXJjME5OLV92Y1FPRUpMbXlrb2dsVmQzd2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Orrstown Financial Services (NASDAQ:ORRF) Stock Rating Upgraded by Hovde Group - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNU96UENRR2cxS1pRLVhIZUNJTXpoV2JDS01ORUVsS3NqN2VNRGJCcnQ0UjdEOGc4cTQ5RHhFamlzMEpYR1AzTDhuM19qVVdzenlOWXN1TmJoOEVMenROYy1jN2VudmRKcDdsUG9sbGh5VExyUXNtRTVvSDVtZUg0bFhpdXdXUUYyTzlnRllrRW0yWF9pTkkxM0ZLeXhiOUFhZ3A1cDRqYkJWckRnVFkweTMyQjNkSUUxWHhvZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas Financial Markets Acquires 4,502 Shares of Orrstown Financial Services, Inc. (NASDAQ:ORRF) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHg3aC1zaEpMR2NsTnNnd05QcXRHWFYxUEtUeWZzcERETnQ5cTI1eDNoRkk0SHlYeDN6Uy1kTWFWbDVmNVZlM1RQYjdKSVgxYk1UOVdGaW51Z25tX0JiU3l5VTd1NTVMQXF0OEh2R2hXdlFweXFQQVJ0cnNONllPY3ducjFmV3FTUU9lc3VnUlVpOERzWnNnUlNsUGRrOWE0UmtTT1IxdDhlLVVoTEtiN2JfWnVwWTBkRnNCdll1TDVOazE5ZVJ5RzFRV0ZuZ2tIVlMycWxHQWk?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 39.81
-      },
-      {
-        "date": "2024-12-03",
-        "price": 39.33
-      },
-      {
-        "date": "2024-12-04",
-        "price": 39.55
-      },
-      {
-        "date": "2024-12-05",
-        "price": 39.45
-      },
       {
         "date": "2024-12-06",
         "price": 39.37
@@ -530,24 +633,24 @@
       {
         "date": "2025-06-02",
         "price": 29.81
+      },
+      {
+        "date": "2025-06-03",
+        "price": 30.14
+      },
+      {
+        "date": "2025-06-04",
+        "price": 29.89
+      },
+      {
+        "date": "2025-06-05",
+        "price": 29.95
       }
     ],
     "current_price_data": {
-      "price": 29.81,
-      "change": -0.25,
-      "percent_change": -0.83
+      "price": 29.95,
+      "change": 0.06,
+      "percent_change": 0.2
     }
-  },
-  "news_sentiment": {
-    "summary": "Orrstown Financial Services (ORRF) has recently reported Q1 earnings that beat analysts' estimates, indicating positive sentiment. Raymond James has initiated coverage on the company, and it has held an annual shareholder meeting. In addition, the company has completed a merger with Codorus Valley. MIRAE ASSET GLOBAL ETFS HOLDINGS and Bank of America have also increased their stakes in ORRF. Overall, the positive signals outweigh the negative ones, indicating a mixed sentiment towards ORRF.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

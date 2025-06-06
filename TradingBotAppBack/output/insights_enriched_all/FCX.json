@@ -2,55 +2,163 @@
   "ticker": "FCX",
   "name": "Freeport-McMoRan",
   "sector": "Materials",
-  "market_cap": 57541349376.0,
+  "market_cap": 59867996160.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.84016,
-    "PB": 3.2549353,
-    "EV_Revenue": 2.888,
+    "PE": 34.168034,
+    "PB": 3.3865466,
+    "EV_Revenue": 3.026,
     "ROE": 0.14062001,
     "ProfitMargin": 0.07111,
     "GrossMargin": 0.38459998,
-    "DividendYield": 1.56
+    "DividendYield": 1.47,
+    "DebtEquity": 32.19,
+    "CurrentRatio": 2.322,
+    "QuickRatio": 0.958,
+    "FreeCashFlow": 1922749952,
+    "OperatingCashFlow": 6321999872,
+    "FCF_Margin": 0.0773369005427505,
+    "ROA": 0.07496,
+    "PEG": null,
+    "EV_EBITDA": 8.289,
+    "BuybackYield": null,
+    "PriceToFCF": 31.140384265629148
   },
   "technical_indicators": {
-    "RSI_14": 60.60210348214673,
-    "Momentum_10": 5.45765580735478,
-    "MACD": 0.7249181990414257,
-    "BB_Percent": 1.003474547850868,
+    "RSI_14": 66.6910311538602,
+    "Momentum_10": 9.707978438177966,
+    "MACD": 1.004520502782107,
+    "BB_Percent": 1.1324537722932422,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8886197152814042,
+    "ValueScore": 0.8850499357429085,
     "QualityScore": 0.2726289922031523,
-    "SignalScore": 0.5286349859975799
+    "SignalScore": 0.4456840414874552
   },
-  "volatility": 0.0332397281434533,
+  "volatility": 0.0332939297367493,
   "beta": 1.632,
-  "return_6m": -0.0743064216318361,
+  "return_6m": -0.0177447291346307,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
-    "target_mean_price": 44.17474
+    "target_mean_price": 44.28
   },
+  "news_sentiment": {
+    "summary": "La société Freeport-McMoRan Inc. (NYSE:FCX) a récemment attiré l'attention des investisseurs avec des signaux forts mêlant achats et ventes massifs de ses actions. Malgré des transactions significatives réalisées par des entités telles que Czech National Bank, Meyer Handelman Co. et Strong Tower Advisory Services, l'incertitude persiste quant à la recommandation des analystes de Wall Street et aux mouvements de prix des actions. Ces activités d'achat et de vente massives pourraient indiquer une volatilité accrue et influencer le sentiment du marché à court terme.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Freeport-McMoRan Inc. (NYSE:FCX) Shares Acquired by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTS10alVPcms4dmFfVEc4ZHpHTklWMmhLbHFEOTg2bl9GSmRza3dzLUlTZGx1X0dpdjdvQUdzUGNicC1WalB1R0l0cG51dVF5TXVkMWhadHZNOVF4U05lamZuOWxzLVpzelh2aExUWVJrVjYyUFlLal9PUGthekFkTnZaNUcwU0NJcTNzMXpyMVhFWktaeF83RlRiSVVRQ2VDd1JIcUZNR2VmTkJyMzNvYUdVdTNkTVVNVElLcGZ1blJMRE93TUVZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FCX, Copper Shining Again On Trump Tariffs News - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHM2bVVNNG53bXVab1I1VUsydlBQbktuaXZEeUMyMlFmdEN2dTdiMjAxZjZVaXZhUkJyZHN4UVRsYXJKYUZBU29tdXNwVzNhZkRjNkZwYUdVMFYwVllDTklNcVNRZ3V3SHNCZmNIalgtR1RITHdLU0tPWFNOcFpDRUxvVGxDcXpWRDh2bTVCMkhlWkF6SGJ4bkZuOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Freeport-McMoRan (FCX) Shares Surge on NYSE, Buoyed by Strong Daily Gains - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNakl0dURtV1BTUFR4NUxGNkdZNWVmS2FfM2lLNkdRUUU5MzBidFF4SkpSZVZqS0hfMU1LUXVsaGRGSlcxUkFHUmh3WnN1ZzBTTTZMWVpUZU5jLVduYmx4dmRpcDRUQXVFMmFvb0E0U3ZMLV80aDg5YlRpSk45QWUzNTNfWE4waTdwajE3LXA3WDFGRDdJVHJ3M3FRUWU4QVM2b3FjOE8xQnZ1Q21vQ1h5bkMyUUl4MWd1ek1fRHBvSVI0NDg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Freeport McMoRan (FCX) Sees Notable Gains in Morning Trading | FCX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFg3ZmV5OGJQRW1WVy1COWpZWllOdVR2WFZsODROUGxkUHBlaDVRLTRKMGVGTjlhSE5nbEI1UWM4NGxRaU84ckFzZ1kzbi1nN2IzV2pjZWVhV0RRLWR6TVYta3JoMzBsa2YtSEs3YjRrelhsQ3pzaTdOWmFnN0FPRnVKNlVfTHJLQkVLTWlnaWl4RlZJQWtza01zRUpwYUdkMWQ5c3RXbV9rOE51UHh0N19FWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What Are Wall Street Analysts’ Target Price For Freeport-McMoRan Stock? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHJxQjE3VG12MngzOTd0QnRZU09aeGRKbmc5RVkzNUtuLXFIcl85aWV4M0dNZWFGNVpFbS1Xa2NHSC1Pdjc0MFdJN1JRcS0xZUtLSElJRDhRUjdYYV9SVUhSRjNBMmVNSVpLZWhMOUk4WElNNGRteXVBMzgxVS1VS1M0S1lwaV9TN3VsSjRNS2Z5elpYaFp5dTF5NXc0MkNPQ0NNcjBzalRmanl5N3N2WnBvZUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top Executive Sells Thousands of Freeport-McMoRan Shares! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONTRaTmo5SzVKVXM4aW5sMnROWEtkeDFvWVZyR3lwOUR3WFE5cmxsRVRlZ3hLSlI5S2dqNC11X0RHNEpPRUl6S09mT09jYzRWTE1qZ0pEUkFPUHN2MTZNUmdNdHp3aW5ZRld4Zmc4dEFvZS1OV0hCSFJ2cWN0dkVhQ2FJNVh6emFqUWxKcC02cXdycmk4N2xQQ3pRWXBsc0ppVUpQSUdjazkxcGROWFVTM2ZxbnQ3eGVTd0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Freeport-McMoRan Inc. (NYSE:FCX) Shares Sold by Meyer Handelman Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd24xLWRWVmZhQU5vRlM2aGk1VG8wamZLcG9ya0tIdFQ4akRJY0QyY09kY3h5OUplUnBwc0pnbGxWUzBkNEtnZVQ3blFUTHc2Y3BaYi05T0ZXel90NnpYZE80ZHUzX1JHUHA0VUdtS3U4T1diNlhwYUhOcHZBcUdSWXIyVnNQb0lYbUw3OVJheFl5VGdqWDJDVlFWek9RS1NzTlowZ1p5elgwd0cyY2lhSDNwUVNFRmpIMUZISjVfNHJQOU8xWi1WcDR2QTM4ZVRyRnpOTTloek4xN0U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Strong Tower Advisory Services Purchases 93,268 Shares of Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMlJyMElRbExlcTRfdzJNRWdweHF6bGNPQTI0WkJldFFlWHAwVVZndG93WkM5ek5WcElwUlZoWGhwTElXU0gydktad2RwWktjTERGM3FsZEN6RWo5T2laRFJFNkJNUGg1d2dYQWNlNWlBZEhIY3pvaHBlLVpmVUtZZTNVRk40RTdWUlFOeDFsVDRDeWpsOE55Wk1YYk9nSFRsbHpYWUxxeW9OY0VZTzBTUXVjcklVMlk5ZGJtOTVxXy16MkN5TzVDWDUwUFVOTnJ3N2NrdnZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Freeport-McMoRan Inc. (NYSE:FCX) Shares Purchased by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSjdPeDdIZ0VXY1RMLW9hbWQ2dmVlYjRld044MjhLaUVDYUVYMnVoU1EwSzdsRmRPMFBSUGJDcUtqenBYcmtQMlhhazljUjZJalFtODZrUTQ4NFdYOUJ4ZGJvWW1fNGV4RWJuRUdqZkRYN0xub1FRTlg0UHJDY3V2cmxPWUd6ZUFSc0N3SnQ1bmhDeS1uSDVWaXhxOTRycGZXQk1USU1lSnV1bllNWUVLS0hmWnBIT1kzT3pfQ29Wd0FiekJZN1h6YnlNU2FoQXpYTTl2VTBiQ1oxSW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Iowa State Bank Purchases 13,759 Shares of Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3lkVmhrcXhyUEx0NUpYT25uQS1PNUtWMnRxTWNxbHpxYXFDd0h0MXVzVEY2VGdBTDhwMDdkZjNpRzE0SlQzM3lkb3d4MmhiQ1BzUlhubGJlMU04ZjZLQ1IwaGJTZFJzRld3R1pzWG0wR0JZZkRjaDJfOFlfSzdGeE4xMV9TUGFBTzdzVk1jRjJDeDhIMDRMSHJiM3dSR2NpNnBkMzJCa2dhYmh6TVp2Qk5WMmhJRTFRcVkzZGNGT0JoNGxRUG5aeg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Grows Stock Holdings in Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORVotRGNJc0pac24zSVlZQnp4VnJMRzdwWEFrWEFBaUJpZFV5NEx2MERiR1hBZy1UX3ZvOHotYW5ZaVZMV1BPLU5MenVrdGVfWEdneEtxbDljNmRlOWdxN29PSjBqcjJ2SldyNGFmTWxiN2JRQUswUlo2aFhFd000NDJGaC0yQ19JZFljaE4yRDhyRHU1ck1lUHB4SzVkSUE5S3d6R3Z6cjJrZjVkeS1wLXF4WWRoSENqNkJGTDBZTnVwQW0tcjJQUGhvR3lkbktwNU44ekhvSXZYVUFnTDhMeEJ5LVI2bDFLWnFrUF9SS01tZUZtUHVV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Douglas Lane & Associates LLC Grows Stock Position in Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLUswdU0yZURlV21pOUkwNzZEU19JZUdKc0ppSkNicVZ6c0E0dG5MUFNuVWhKRHdoZXhBYXEwMFl1dy12czZ5WWlhOUlrVjNGRVc2RFZSS2tzajgxZjNxUkY2cENUbnhGTksxaFpUWVJ0c0tISmRfUEU1dGkteVdqTWpOa21lOU85Q1oxXzMtYmRRUHJSMW1YV2tEZUlrRFBKdUZTdDBSWmdJUVBfRk82eGNMMXFQREE0bjJWSGd2VlM4ZW5mZ25SRU1WNlN1b2tfWExCNTZR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Freeport-McMoRan Inc. (NYSE:FCX) CAO Ellie L. Mikes Sells 8,584 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnRtYmtqVThNZXR5LWF4ejVfRmtDRGtNSXAzeEQ0bHdCZjE0cGZLa3hQX255WG4wS0xwZFNEZnNaVmlDQmJuU3YtWEZ6Qy03dmVLWVhsczM4cnhnam0tYTVKd1ctOENyWTBEV25ld2pFVDFTc1FOdnVoSXVZckROUk1ZcXJJYXIxVWJQNW9XNERLcFdXQy12MFNkOTVoSVpkb1MtOFA4b0RBWksyMWhkczhGZEUxQkVxWGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Freeport-McMoRan (NYSE:FCX) Shares Gap Up - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZWhrZHBTY0FPUHlFV1F1MGlpOC14aGJJSkJOcWFMT0dzY29fUjVRT1pyS29mc3hkc2NsN1kyQzFTTzl6cXNhQmxGdmFjLUdXTF9BWkI3c1l3WTQwN3pPd2ZCUzdtTW1NY3RLNWJxd0NScWRiSThRRzhrbHBWUXloVjdlWWNRVlF3cE9fTU03Mm5CZGplQkJ1RkJMYjB4QjFCZmsyWWEtWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MassMutual Private Wealth & Trust FSB Reduces Stock Position in Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdi10TDhqMWthUUtRNnR4M21SZ2VVQTcxNEFjUTJCN2VNYVZFTzlOMzBsbDc4YVhsQ1FLYXRSMU9hdEdKZi1RZ19KczlXX1p2OHc0eEVyYUlwSGR6aW45ZkxRVjZkbzRmRVhxY1RKYnp0ZHhiSm9peEl5OXIzZ3JkSjdqMHpsTmUwa3VFS3dWNDFIWi1IMFNQNEZodm1VbG1VRFd5YkpNRHZrc3hodTZ3d1Byay1fdE9LcXRaZ0ZReXBLM3hYYVh5d0t4N2M5RWtnMml3NC1aZUlPd1JlZHFYZk0xUGVIQU4yOFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "General Pension Society PZU Joint Stock Co Purchases 245,000 Shares of Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSmM3Zk9sZFlfSThuSGFrMTZpNGFLWm9hWURJTG9ZYVlPUzdMS0JrblB5ZUx5M1NvRTc2QWp2eml4VTlfWWlqeGxSTy1PR0xCU1p5TWJUSFpNRk1LaUFlcE9lLWtGc3c5TWlIMGZ1N3phVjZlQlhnM2hEeEFLZXp5MldFZ0FsRkI1NnVSMEpQMnA0LXNaWV9oR1lJTkJMazZGclBOZTM3YjVSTlZSZ1F6WUVsWV9zcjNaSlk0TXhJcm5BRHNoYkU1UnI2WnhIazRIcFlWWjhDSEpyQ045bHRPZmpESWRTVmM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cadinha & Co. LLC Has $10.55 Million Stake in Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX2huV0ZxcGNEZ1ZHT3BjaFByQ3dLTUYzN2xEeE1OZVk4S0VsdWpfV1pHaktySkJuZlBwQ0x2NVJlOF9yOUNFLVRadm5KLWRRckJJYnl5ajBvcjJteUFab2JQZmE5X1RuMnFkWnkyUjZORHVLSW5scXFvMkwwQ1h5UFotWWV0aUFkaUNvb3MwWFd6dTNtY29XQ1pXSGZYSGEwTXVCazg2YjVzbkhza0gtT1ZzS0lUdHJTajdueW1vR2RGa2JTMWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBC Securities Inc. Buys 24,185 Shares of Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmNGbG5hZUs5RmFnWFdFNy0zOWpwZ0xtSXNhT256UWViLVRJR0FfMzBLWTNpV25QTkJiZnI0c1pFWDJIUTg3YjFBelE3QjI2aVp6LS1MNnFVa0UxNFFUdXFvTS1BWEt4cnZZMEJ3LVl6eFZhQ3EtT1JCbTZLTF9oczBwbVhEZ2hmNXROejYyUXN3TU9GOUFsY1kzWm1feUNRanVwMm1yV25YdUMtLV9QZk9UX0hQRVZpQ0JzSDAxVXlQMFEy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "111 Capital Takes Position in Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOXlxLTBWNThwbnB3dGZ3X1JGdWtIVnJkSmxVZjIydWlNLXQxT2tCY0pPWTdtelN6eU9TNDVsQWxGcUljeWJ2eGJZS0xFVl96TVBTN055X0I0LXF3SWg2bTlnY0dOOVlaZDlJdGtoZ1g5Y0x4Ym5QWXJidGZiRVJUU0RReXlYT0I5MDZta1VWT1RVZ0RRc1VSSk5WSVRWeDBLX1VQT0J1MXNubl9OY2QtSmtIb3REQ3B2ZHM1Sk9OYUdlZnBtZzBOeElRMkg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baxter Bros Inc. Reduces Position in Freeport-McMoRan Inc. (NYSE:FCX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNHlKdnRrSnVOcU5rUzBTQzJwZU5WX1BkNDdFWG1udnAybmxianAwMXdJVUF1dVBZeDFSMzhvcFpIMGowUnJrWVpwY2JoWXZrMWIxY2E1N1cyRGtOeUVVakdZeGxxY2c2Nk5ycExoelpuTjJoNEpWb1VLUWhqemowTzBZM25pWjRndDFqWlBBSTNKM3RvLTFuUS1MTm5SWmc1UDh5clZFd094QTBLM1ZDRzR2Tjhpcm5STEw3UHFUYlJQMl9p?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 43.64
-      },
-      {
-        "date": "2024-12-03",
-        "price": 43.83
-      },
-      {
-        "date": "2024-12-04",
-        "price": 43.04
-      },
-      {
-        "date": "2024-12-05",
-        "price": 42.79
-      },
       {
         "date": "2024-12-06",
         "price": 42.07
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 40.15
+      },
+      {
+        "date": "2025-06-03",
+        "price": 40.24
+      },
+      {
+        "date": "2025-06-04",
+        "price": 40.86
+      },
+      {
+        "date": "2025-06-05",
+        "price": 41.69
       }
     ],
     "current_price_data": {
-      "price": 40.15,
-      "change": 1.67,
-      "percent_change": 4.34
+      "price": 41.69,
+      "change": 0.81,
+      "percent_change": 1.98
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sentent plusieurs signaux positifs pour Freeport-McMoRan Inc. (NYSE:FCX) :\n\n1. Iowa State Bank a augment\u00e9 sa position en actions de Freeport-McMoRan.\n2. PZU Joint Stock Co a achet\u00e9 une position dans Freeport-McMoRan.\n3. Rhumbline Advisers a acquis une position de 94,44 millions d'actions.\n4. Anderson Hoagland & Co a acquis une participation dans Freeport-McMoRan.\n5. Wealth Enhancement Advisory Services a acquis une position de 6,88 millions d'actions.\n\nDes signaux n\u00e9gatifs ont \u00e9galement",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

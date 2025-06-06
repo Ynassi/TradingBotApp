@@ -2,55 +2,78 @@
   "ticker": "3086.T",
   "name": "J. Front Retailing",
   "sector": "Consumer Discretionary",
-  "market_cap": 511536234496.0,
+  "market_cap": 512293470208.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.656055,
-    "PB": 1.2693819,
-    "EV_Revenue": 1.909,
+    "PE": 12.437548,
+    "PB": 1.246843,
+    "EV_Revenue": 1.885,
     "ROE": 0.101560004,
     "ProfitMargin": 0.09375,
     "GrossMargin": 0.48112,
-    "DividendYield": 2.66
+    "DividendYield": 2.71,
+    "DebtEquity": 85.904,
+    "CurrentRatio": 0.706,
+    "QuickRatio": 0.62,
+    "FreeCashFlow": 65507749888,
+    "OperatingCashFlow": 85812002816,
+    "FCF_Margin": 0.14824883225945004,
+    "ROA": 0.03011,
+    "PEG": null,
+    "EV_EBITDA": 8.289,
+    "BuybackYield": null,
+    "PriceToFCF": 7.820349059216339
   },
   "technical_indicators": {
-    "RSI_14": 57.79624375583913,
-    "Momentum_10": -7.101947308132875,
-    "MACD": 68.2495982484786,
-    "BB_Percent": 0.5992392578262123,
+    "RSI_14": 52.936928369011504,
+    "Momentum_10": -4.070327552986512,
+    "MACD": 51.35514383717418,
+    "BB_Percent": 0.4614835518418979,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8955563167423796,
+    "ValueScore": 0.8927532042125299,
     "QualityScore": 0.4815681972063627,
-    "SignalScore": 0.6155504284738802
+    "SignalScore": 0.600814102106747
   },
-  "volatility": 0.0254704504780615,
+  "volatility": 0.0254554712449198,
   "beta": -0.017,
-  "return_6m": 0.124514697726012,
+  "return_6m": 0.072579672779194,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 2024.0
   },
+  "news_sentiment": {
+    "summary": "Suite à l'actualité récente, on observe des mouvements significatifs au sein de diverses entreprises cotées. L'un des faits marquants concerne la vente importante d'actions de Carvana Co. par son PDG, suscitant des interrogations sur la confiance interne. De son côté, J. Front Retailing Co., Ltd. a vu ses actions grimper de 25 % malgré des résultats financiers qui ne semblent pas refléter cette croissance. En parallèle, Mirae Asset Global ETFs Holdings Ltd. a renforcé sa position en acquérant des actions de Principal Financial Group, Inc., indiquant peut-être une confiance accrue dans cette entreprise. Ces événements pourraient influencer le sentiment des investisseurs en matière de risque et de potentiel de croissance.",
+    "sentiment_score": 0.333,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Carvana Co. (NYSE:CVNA) CEO Sells $1,001,530.44 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYll3cE0yaFpaSll1SHZJQndjV0J3YzJFOTZ5LTljQkRvcndYYklEc3pJd0NRNjk4Nk9RZWxDSkNfRGJFSXRSVkpZaldGM0h4UW90eWZWWEV3Q1FzUG43N2F0bW4xaklidUxGbmczT3RJdHNLdHRsSVk4UURHWW16N0xXNllzYUdpRnRHa3RvU2pWT3hGY2l6TzdRN2FlYnlLcVhpYkplZmdSLVprUWMySUxJOHdHVnNtd3JrTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Not Telling The Story For J. Front Retailing Co., Ltd. (TSE:3086) After Shares Rise 25% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRlh2WklKRzFESkFCY21kWndLbnJ0Y3NTcVpTdHR0U0ZIR2VzeGY5LUZTTlZxSWY4ZFFFZGNlSVpmSmJRTEFNSTgzT1d4bWxvRzEtc1FMVC1NLUppNjVlQXAwNkQyOFpHWk9NSzA5NzlLLTd4d0thYlVlc1F4ZzdCXy02RzJ6QjVkTmdmdVE2dHdDMHNTUnlxeHZXSjV6NnRSSUQtQ2NLTWJmNV9QdXR3LVk4U1NDMzAtenMzTFo2TTBnMmE0V3puSUJjcmdDb1dMZENz0gHYAUFVX3lxTFBTLUxYeXNiNVBzd3V2OUxhY0MtaEk5MDh0akp0UjY4VFRCWEdwcFl6eEdvY0FHU0VkcE0zcTV3ZlRHd3c0SVpzeGxRTGxWRDcyRjlZVVdKSFlZVkpham1wQjczb3ZPdmdadEVxU3VIMjRNWUxxZTN6cXZ0Q0NVSGRHX2UzNE9qRm5NRFczZkk3WUFlMF9UUWRHeXUxM0Q3LVFxcld6YURPdHNPbkU3YWh3b1NCUUFHXzdZM3k4Y213NnNKMGVaSlUxcFNla1FUZ0FFeG1uM0U5LQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd. Buys 3,086 Shares of Principal Financial Group, Inc. (NYSE:PFG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTU1wUjNKZzdVQUdocjlwT0VMVFNadnlzVTZacjUzYlltcG96SXNjRmRvUTBtN1hCbDhjZ3ZiVDh2QU55T3ptb0VKQ0gzUjZqS0duQVpYaVMzbE92WVlHRWlVckV5V3RHOXBDSlM5NjdRUEFGQk5LWEZDSmRSRy1lSklSb2lRN254cWpSR3pObk94TjMzVDhWYWkzMk5nNTdIMkQzV0NMVDlOTzFoY3BqQnlmVENkSDRIeXdkVFRhTHFZMzhrU3Z6eGxxMGRta2FPR2VHZUhGR3VuM012YXhMN2tveTBYY09JQV9ZaTNYSE5HUmlvT0Zhc1ptNDJSQQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1803.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1827.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1872.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1877.5
-      },
       {
         "date": "2024-12-06",
         "price": 1888.0
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 2027.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2022.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2030.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1991.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1987.5
       }
     ],
     "current_price_data": {
-      "price": 2027.5,
-      "change": -5.5,
-      "percent_change": -0.27
+      "price": 1987.5,
+      "change": -4.0,
+      "percent_change": -0.2
     }
-  },
-  "news_sentiment": {
-    "summary": "\ud83c\udfaf Carvana Co. (NYSE:CVNA): Carvana CEO sells $1,001,530.44 in stock, signaling mixed sentiment.\n\n\ud83c\udfaf J. Front Retailing Co., Ltd. (TSE:3086): J. Front Retailing's earnings do not tell the whole story, but a 25% increase in shares suggests a positive outlook.\n\n\ud83c\udfaf MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd.: MIRAE ASSET buys 3,086 shares of Principal Financial Group, signaling a positive view of the company's stock.\n\n\ud83c\udfaf Principal Financial Group",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.25,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

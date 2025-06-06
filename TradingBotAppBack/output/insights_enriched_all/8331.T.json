@@ -2,32 +2,43 @@
   "ticker": "8331.T",
   "name": "Chiba Bank",
   "sector": "Financials",
-  "market_cap": 935877017600.0,
+  "market_cap": 917131165696.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.610808,
-    "PB": 0.8172236,
-    "EV_Revenue": 0.204,
+    "PE": 12.453175,
+    "PB": 0.8008544,
+    "EV_Revenue": 0.158,
     "ROE": 0.063829996,
     "ProfitMargin": 0.27184,
     "GrossMargin": 0.0,
-    "DividendYield": 3.65
+    "DividendYield": 3.59,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": -394048995328,
+    "FCF_Margin": null,
+    "ROA": 0.0034599998,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 59.109086018557754,
-    "Momentum_10": 3.278688524590164,
-    "MACD": 16.680287473835733,
-    "BB_Percent": 0.8036931052336578,
+    "RSI_14": 51.90397051662862,
+    "Momentum_10": 0.8164852255054432,
+    "MACD": 16.771245572824682,
+    "BB_Percent": 0.4794054927590151,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9009191799221457,
+    "ValueScore": 0.8982345439320186,
     "QualityScore": 0.4254921855621156,
-    "SignalScore": 0.5481433570237171
+    "SignalScore": 0.5775861233604163
   },
-  "volatility": 0.0272380857323888,
+  "volatility": 0.0273059863323852,
   "beta": -0.01,
-  "return_6m": 0.0394027825609608,
+  "return_6m": 0.0285342972175348,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
@@ -35,22 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1292.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1294.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1266.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1279.5
-      },
       {
         "date": "2024-12-06",
         "price": 1287.5
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 1323.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1321.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1336.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1296.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1299.5
       }
     ],
     "current_price_data": {
-      "price": 1323.0,
-      "change": 9.0,
-      "percent_change": 0.68
+      "price": 1299.5,
+      "change": 3.0,
+      "percent_change": 0.23
     }
   }
 }

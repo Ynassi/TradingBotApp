@@ -2,55 +2,78 @@
   "ticker": "9735.T",
   "name": "Secom",
   "sector": "Consumer Discretionary",
-  "market_cap": 2205645799424.0,
+  "market_cap": 2193203265536.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 22.041697,
-    "PB": 1.7401199,
-    "EV_Revenue": 1.663,
+    "PE": 21.95922,
+    "PB": 1.7303036,
+    "EV_Revenue": 1.67,
     "ROE": 0.088290006,
     "ProfitMargin": 0.090100005,
     "GrossMargin": 0.30931,
-    "DividendYield": 1.9
+    "DividendYield": 1.89,
+    "DebtEquity": 4.997,
+    "CurrentRatio": 2.554,
+    "QuickRatio": 1.846,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 167842004992,
+    "FCF_Margin": null,
+    "ROA": 0.042680003,
+    "PEG": null,
+    "EV_EBITDA": 9.046,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 50.063250611646104,
-    "Momentum_10": -1.427247451343837,
-    "MACD": 24.053823974811166,
-    "BB_Percent": 0.3597050646757425,
+    "RSI_14": 48.45336707628486,
+    "Momentum_10": -0.9366804046459348,
+    "MACD": 9.705200704301204,
+    "BB_Percent": 0.3201933930942709,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8946562936824152,
+    "ValueScore": 0.8917736063140013,
     "QualityScore": 0.4170143663817619,
-    "SignalScore": 0.6245331230152591
+    "SignalScore": 0.6080472640031782
   },
-  "volatility": 0.0132881868039299,
+  "volatility": 0.0132578929194759,
   "beta": 0.287,
-  "return_6m": 0.0117960426179604,
+  "return_6m": 0.0128107207429719,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 6,
-    "target_mean_price": 5666.6665
+    "target_mean_price": 5616.6665
   },
+  "news_sentiment": {
+    "summary": "La performance de SECOM (TSE:9735) a été solide avec un taux de croissance annuel composé (CAGR) de 9,8% au cours des trois dernières années, signalant une croissance constante pour les actionnaires. En parallèle, Ensign Peak Advisors Inc a récemment acquis 9 735 actions de Wingstop Inc. (NASDAQ:WING), montrant un intérêt accru pour cette entreprise. De plus, l'engouement des investisseurs sud-coréens pour les actions américaines, en raison de la stagnation du marché boursier domestique, souligne un intérêt croissant pour les opportunités internationales, ce qui peut influencer le sentiment de marché global.",
+    "sentiment_score": 0.333,
+    "label": "POSITIVE",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "SECOM (TSE:9735) shareholders have earned a 9.8% CAGR over the last three years - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZHFBbG9EeWtwalJvdmhuOUJqc2o4WVZqVUQ3Sk9CN0gwT3hjVzBKUWl2UThPckZnNXN2UFo2YWJSbHRkQ3hCQ3JtMjNrc3E5SHJHd0ZkUjFvdGdoanp5enVtTi1ZMThNWGhYRjFsTElUQ0RYNmdlV1hybHF4ZWx6cEgtQTZJLUU5OHhLcjNQQjdZYXpFOHB1ekFiRWNDRi1MTHY1enpIbGduUEp3aWg1bHM0clQxUFpNcmY2MFlKZWVsNVdheTFiSmJkbDhJWC0tRTQ3LWNB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ensign Peak Advisors Inc Buys 9,735 Shares of Wingstop Inc. (NASDAQ:WING) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGtzaFdIZG1rRmo2NzY1d181UnZiTjMtWEV4b1VsSGtLWWoyaGdoOWJvTmtNbWRTN0JXNjNrcER5UkdSMDQzdUZ2UW56V205ZmVDMkNIY2ZVQTFFb2RjQlFNaV9pUnhVdkNCaEtHMHFuWFF1XzdaQ2V1X3NMMnROeXEtM3ZWUWFaU0xFdXdHRTAxWWtDYTM0Rzk5aWlqOXEyNW9oamJIaGxfeVhNVm9PeVYyMjhKbXgxVlFsTzFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "South Korean investors pile into US equities as domestic stock market languishes - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YR1ZIeVNiTlJnZTRJMTVyNXEtc1VmeVBqT3NySEdRVVdsSlpvYW05SmdaZW5jRmROcnlRMnVMTVdCQ1AxVkFzNnAyZjdRR196QVpsQnNUQTlwTHJLXzhVRnNZS1h6a2ZGczFFU2tGVXk?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 5256.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 5258.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 5244.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 5271.0
-      },
       {
         "date": "2024-12-06",
         "price": 5311.0
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 5318.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 5290.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 5281.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 5288.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 5320.0
       }
     ],
     "current_price_data": {
-      "price": 5318.0,
-      "change": 50.0,
-      "percent_change": 0.95
+      "price": 5320.0,
+      "change": 32.0,
+      "percent_change": 0.61
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nLe march\u00e9 boursier international est en pleine \u00e9volution. La tendance cl\u00e9 est la p\u00e9nurie de titres de valeur aux \u00c9tats-Unis, qui attire les investisseurs \u00e9trangers. La performance du march\u00e9 boursier sud-cor\u00e9en est \u00e9galement mauvaise, ce qui pousse les investisseurs \u00e0 se tourner vers le march\u00e9 am\u00e9ricain. Ainsi, les investisseurs fran\u00e7ais ont aussi rejoint ce mouvement en investissant dans des titres de valeur am\u00e9ricains, tels que Wingstop Inc. et South Korea.\n\nLa performance du march\u00e9 boursier fran\u00e7ais est donc impact\u00e9e par le march\u00e9 international, et les investisseurs fran\u00e7ais do",
-    "sentiment_score": 0.333,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.33,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

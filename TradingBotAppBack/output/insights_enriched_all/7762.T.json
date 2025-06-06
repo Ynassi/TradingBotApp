@@ -2,55 +2,68 @@
   "ticker": "7762.T",
   "name": "Citizen Watch",
   "sector": "Industrials",
-  "market_cap": 211190448128.0,
+  "market_cap": 205337690112.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 8.841908,
-    "PB": 0.8090252,
-    "EV_Revenue": 0.621,
+    "PE": 8.600613,
+    "PB": 0.8023548,
+    "EV_Revenue": 0.603,
     "ROE": 0.09151,
     "ProfitMargin": 0.07535,
     "GrossMargin": 0.42461,
-    "DividendYield": 5.43
+    "DividendYield": 5.5,
+    "DebtEquity": 26.928,
+    "CurrentRatio": 3.507,
+    "QuickRatio": 1.96,
+    "FreeCashFlow": 10897874944,
+    "OperatingCashFlow": 35764998144,
+    "FCF_Margin": 0.034390629583820505,
+    "ROA": 0.03092,
+    "PEG": null,
+    "EV_EBITDA": 5.591,
+    "BuybackYield": null,
+    "PriceToFCF": 18.841993615007663
   },
   "technical_indicators": {
-    "RSI_14": 48.059414576231326,
-    "Momentum_10": -1.7361111111111112,
-    "MACD": 7.189792354747738,
-    "BB_Percent": 0.3882494257907843,
+    "RSI_14": 44.84637776998502,
+    "Momentum_10": -1.8648018648018647,
+    "MACD": 3.4309671309096075,
+    "BB_Percent": 0.0444522941656905,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9002365840068506,
+    "ValueScore": 0.8974453494299223,
     "QualityScore": 0.4676848885216366,
-    "SignalScore": 0.6396489682136828
+    "SignalScore": 0.6332925455105827
   },
-  "volatility": 0.0176401191650208,
+  "volatility": 0.0176811136744687,
   "beta": -0.1,
-  "return_6m": -0.0185150467256154,
+  "return_6m": -0.0255075028487069,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 6,
-    "target_mean_price": 950.0
+    "target_mean_price": 941.6667
   },
+  "news_sentiment": {
+    "summary": "M1 Capital Management LLC a récemment acquis 7 762 actions de Walmart Inc. Cette opération pourrait signaler une confiance accrue dans la société de la part de l'investisseur institutionnel. Cela pourrait également influencer positivement le sentiment de marché autour de Walmart, démontrant un intérêt continu pour ses perspectives de croissance.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "M1 Capital Management LLC Acquires Shares of 7,762 Walmart Inc. (NYSE:WMT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY3gxd0FWOTBiZ3kxdHRhakJZcGdrbjFmU3dOS3cxOVVZcHVwOVlpdzNHbFM2NHJsSGVjZDV5Vm5VRmhtVG9Ua2UzeF9CUFJlOExFMWNHWmUtMkNKbXhZYVZ3dlZlQWJFcTlSeEFpdktaYXFKYmw1YWZmTjZrUWpPemxXa2NhcEtPYUszaFVkMTBQT2RhaVZhaWtjaHZtRlRuUmxHWWxFU1ZHNjBGdjY1TEJyeGpvNG1ZT2tFSE9ZU0VOQQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 886.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 887.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 880.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 885.0
-      },
       {
         "date": "2024-12-06",
         "price": 887.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 849.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 850.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 855.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 842.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 843.0
       }
     ],
     "current_price_data": {
-      "price": 849.0,
-      "change": -17.0,
-      "percent_change": -1.96
+      "price": 843.0,
+      "change": 1.0,
+      "percent_change": 0.12
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte de l'actualit\u00e9 sur Citizen Watch (TSE:7762) :\n\n* Les analystes de Simplywall.st ont soulign\u00e9 des probl\u00e8mes sous-jacents aux b\u00e9n\u00e9fices de Citizen Watch.\n* Cette entreprise cot\u00e9e est sp\u00e9cialis\u00e9e dans la fabrication de montres m\u00e9caniques et de montres \u00e9lectroniques.\n* Les analystes ont signal\u00e9 des facteurs qui peuvent affecter les b\u00e9n\u00e9fices de l'entreprise, notamment le concurrence intensifi\u00e9e et les co\u00fbts de production \u00e9lev\u00e9s.\n* N\u00e9anmoins, Citizen Watch a de forts signaux positifs,",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

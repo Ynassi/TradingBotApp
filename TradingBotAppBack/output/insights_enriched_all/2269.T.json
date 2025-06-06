@@ -2,55 +2,68 @@
   "ticker": "2269.T",
   "name": "Meiji Holdings",
   "sector": "Consumer Staples",
-  "market_cap": 873897590784.0,
+  "market_cap": 873084682240.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.33663,
-    "PB": 1.1678568,
-    "EV_Revenue": 0.768,
+    "PE": 17.24138,
+    "PB": 1.1620646,
+    "EV_Revenue": 0.765,
     "ROE": 0.06848,
     "ProfitMargin": 0.04402,
     "GrossMargin": 0.29383,
-    "DividendYield": 3.26
+    "DividendYield": 3.27,
+    "DebtEquity": 6.037,
+    "CurrentRatio": 1.761,
+    "QuickRatio": 0.871,
+    "FreeCashFlow": 26339624960,
+    "OperatingCashFlow": 68978999296,
+    "FCF_Margin": 0.02282316779853822,
+    "ROA": 0.044310004,
+    "PEG": null,
+    "EV_EBITDA": 6.319,
+    "BuybackYield": null,
+    "PriceToFCF": 33.147194903719694
   },
   "technical_indicators": {
-    "RSI_14": 43.198408005247266,
-    "Momentum_10": -0.3090234857849196,
-    "MACD": -45.93894640787675,
-    "BB_Percent": 0.4104648146007065,
+    "RSI_14": 42.27078723493656,
+    "Momentum_10": 0.2185451139556665,
+    "MACD": -38.02410677671969,
+    "BB_Percent": 0.4319697475511684,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8983368516434509,
+    "ValueScore": 0.8955022868118274,
     "QualityScore": 0.4330224240748853,
-    "SignalScore": 0.6638265070999385
+    "SignalScore": 0.6386355984375893
   },
-  "volatility": 0.0134549494628553,
+  "volatility": 0.0135150921730396,
   "beta": 0.042,
-  "return_6m": 0.0212522584345482,
+  "return_6m": 0.0212840525499711,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 7,
     "target_mean_price": 3414.2856
   },
+  "news_sentiment": {
+    "summary": "Suite à une analyse des récentes actualités économiques, nous observons que les cinq principales entreprises chocolatières du monde continuent de dominer le marché. Ces acteurs clés, tels que Mars, Mondelez International et Ferrero, maintiennent une forte présence et une croissance stable malgré les défis liés à la pandémie. Les tendances actuelles soulignent une demande croissante pour les produits haut de gamme, une expansion vers de nouveaux marchés émergents et une focalisation accrue sur la durabilité et l'innovation. Ces développements sont susceptibles de maintenir un intérêt positif des investisseurs pour le secteur chocolatier, malgré les fluctuations économiques mondiales.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 4,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Top 5 Chocolate Companies in the World - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTNlR2NJY29nOXhIcUxaRzhRSGhDdmVaeTNBTjM1YzNHeFhQQzVTNEtlaVJmUjB5Yzk4SEoyZEpsWmo4ZlZETnJPSlBTel9WOFNncVR4MEdILUlfWW1MdEdKcVVOYWk5WnREMUhGU2RhZ0NHY0x6YWFkbnpBQ0Z3WGI1LWxld2Vm?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3206.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3213.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3195.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3190.0
-      },
       {
         "date": "2024-12-06",
         "price": 3180.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 3226.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3258.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3223.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3210.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3223.0
       }
     ],
     "current_price_data": {
-      "price": 3226.0,
-      "change": 1.0,
-      "percent_change": 0.03
+      "price": 3223.0,
+      "change": 13.0,
+      "percent_change": 0.4
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nLa synth\u00e8se fournit un aper\u00e7u bref des tendances cl\u00e9s des entreprises de chocolat du monde entier, d'apr\u00e8s Insider Monkey. Les titres de l'article sont :\n\n1. Nestl\u00e9\n2. Hershey's\n3. The Hershey Company\n4. Cadbury\n5. Kellogg Company\n\nLes entreprises de chocolat enregistrent des r\u00e9sultats positifs, notamment Nestl\u00e9 qui se classe au premier rang du classement mondial des entreprises de chocolat. Les titres de l'article sont des entreprises am\u00e9ricaines et europ\u00e9ennes qui sont c\u00e9l\u00e8bres pour leurs produits",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

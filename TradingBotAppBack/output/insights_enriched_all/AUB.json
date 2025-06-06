@@ -1,56 +1,164 @@
 {
   "ticker": "AUB",
-  "name": "Atlantic Union Bankshares Corpo",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 4248395776.0,
+  "market_cap": 4269765888.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 13.934579,
-    "PB": 0.8364422,
-    "EV_Revenue": 5.619,
+    "PE": 14.004672,
+    "PB": 0.8406496,
+    "EV_Revenue": 5.58,
     "ROE": 0.07296,
     "ProfitMargin": 0.26217,
     "GrossMargin": 0.0,
-    "DividendYield": 4.53
+    "DividendYield": 4.56,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 313476992,
+    "FCF_Margin": null,
+    "ROA": 0.00909,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 55.018259866691295,
-    "Momentum_10": -2.5529274259255383,
-    "MACD": 0.4442183398769828,
-    "BB_Percent": 0.532358640615013,
+    "RSI_14": 55.17122112581802,
+    "Momentum_10": 2.9588130962936714,
+    "MACD": 0.3967506740057054,
+    "BB_Percent": 0.5113639363314053,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933272690732751,
+    "ValueScore": 0.9320746783823126,
     "QualityScore": 0.371566608753917,
-    "SignalScore": 0.467988615142794
+    "SignalScore": 0.514137479474591
   },
-  "volatility": 0.0245453431699921,
+  "volatility": 0.0247056208395144,
   "beta": 0.841,
-  "return_6m": -0.2930282219525941,
+  "return_6m": -0.2782416151898548,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 7,
     "target_mean_price": 37.71429
   },
+  "news_sentiment": {
+    "summary": "Atlantic Union Bankshares a récemment attiré l'attention des investisseurs avec une augmentation de dividende de 6%, portant le rendement à un attrayant 4,7%. Cependant, des insiders ont vendu des actions alors que le cours chutait à 25,50$. L'entreprise a nommé un nouveau Chief Risk Officer et prévoit la retraite de son CFO. De plus, elle a conclu une importante acquisition de Sandy Spring Bank. Ces événements ont suscité un intérêt accru des investisseurs, avec des acteurs majeurs tels que UBS AM et Deutsche Bank augmentant leurs positions dans l'entreprise.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Public Employees Retirement System of Ohio Buys Shares of 93,488 Atlantic Union Bankshares Co. (NASDAQ:AUB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ0s2bnEzdzdZVzMtUzJ4ZHhYUDB6T0dnYmY1cGtGNFg5MzgwYVRfeFNXYU5XUTlMRk45ZjQ4MEY0d0ZScDl3MFRYb21ZMGNtb3VfUGMtS20xZWpYWElOYjNaOUZNT0FwOENGbDJFWG92Q215ZV94VXcyNEV1MVpxNUs3UzgtUVlwd1drQm96Sl95am53aTJYemwtVXhJSlM0WHFMcUxqaDI4Q1B3UHdPZ3hpTnNyYVgtQXNUNGs0dnBHdkdHSnFuOExxNUlubVliNEhHb1JfQkY1VGVVVmw1dDhmenkzaXFWQUJZaFp1dnBHU3BLdGM0V19OenlaWFlq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlantic Union Bank Dividend Jumps 6%: Regional Bank Now Yields Attractive 4.7% Return - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFlrMlJXWTFwZVU0dzlOSDBsTldfQm92Tl90UlFvd2VXZTBlTklleGtsVWRHZVh0M2dXQ1JvTFU1UjlCRmhNbVZPWTZlVjYtcllfS2pBU1psUlc4ZjUxV3NNdEhLeWZ1VHNITTNDNFRQcW1sSUNadlYxNy1UYk8yNi1KYV9mUkpTOGJKTUk5ZWl2aFZJTWhsMmVka1dyTHQyOUdzNnRJUkhHdEJjY294c3laMDRlMVEz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Insiders Give Up US$85k As Atlantic Union Bankshares Stock Drops To US$25.50 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZlN0MjJzVHB2R3VFT2hWeFMtWEJQMXkyZDVLNW0xYmVXMkY4SGhtcXZRakZLMkxUT0YzZEdJbEYzQ1hMVXpFQXpJUy1FVXR0VW94OHoteHhaN0xsWld4QmoybUFvRGVDbFgzRmdMdW5DSklMSXN0cFo5SVBkZTJYSFpmQ1FScXBpU1lTWVlISVdQWjlJVWtyT3RHVW1FSThQQUdwTjJVUGxZZFU2T3ZQWU4xREVuUW1lZFNtWDJxN2c0RTlzdnQ0bXIyNEZXWk5yQ1U1bdIB2gFBVV95cUxPMzlheG1jNUF4eW12WEJFblk2a29NcjlqZTkzYTdIMjFMSDVNWGdIeXRmNE5Tb3ZtRWNKSXNpMjdQVmZzWEVNcy1acFQ5TnYxNVl3WTlweVpPYkdDZVdpN0k1aFFtc25aNGpkTDcxUmtXc24tSmV2YzB1SnQ5UW9fU0h3TFRTbWpnTzVOd29jVlBwZVZOMjhERzRsZE4tLWVSTE9UTGtka3pBTUdkeHZnTDZ2TWRrZmNsRDBIa3puOE1CWTQ3U0JsalJQQW5yd0RHN1VuRHdiV3BXQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Atlantic Union Bankshares Corporation Declares Quarterly Common Stock Dividend and Preferred Stock Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdmNCUnZRMGduZzRvRy1zUlJlMVFFT285X1JUdDVocElqS0FfRnV4bFViQlZMYlpGNHNNcEhqNEFzZVNmejRvRm9sWFBUUDhEbXViczZQNC1JUFRKeEd2VlREdHczNWZIUWVaWkRIYmJrRXM4djVVdWUzRGk2SncwcGlEcFA1SHNUVzlQYmlZUXZQNnJGSmxfenYwdGMwY0VWNGpLRzZWYl83NU1xV3V2M3FYb296akJIVXhzV01fdzl6emJxREdYNFBNN1c4WUxnVEtRMVhELThfTWg0dG8wQzZVMGdIdEFGNU54eWQ3QUNrVVRmTmxN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlantic Union Bankshares: 5.2% Yield, Buy The Selloff (NYSE:AUB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLURNLWFLOFdrYTByVjZabU8wWnpWbnpDMGY1QnpzRnY5M29yaS1ya3loWU9WdHFpTkN5TGJ3RERLV0dVdFR2S1RpdTVXQXRsWUpzdVRiYnJVb01FYnRDZUttc0dGd2FXdE5QTW41QnhJR2NiSk1wTzhMRUhMMnJiSDhUU0FVR0ozdUM4T0lsU2pJSkNiSGNTaUk2RG9zQjNSdnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlantic Union Bankshares Appoints New Chief Risk Officer - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHVMR0xYcmgxaTJEaWtQS05PM2Yxejhyc0ljUjVielZpYVh4Z3UzZXVhUFdTTmRaOTlGazBVNmdLSXgxbTNncXlwOGV6d3VxV0FpTE10ajFPc19JWUJnTjdPalphblpmXzJ6NklyUWowTjkyT3NObkpIZ2x1MWNpQ3BJVEFXOXY4WHdWbmZsanVHOWxMT1JueGp6Um43YXdNd2VZY0hpOTgxeHE5aVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlantic Union Bankshares (AUB) Sets CFO Retirement Date | AUB S - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGFlcVpsSS1NT09McFZTMmd4Q0lsZnc2cER4YTZWRHRqU0xJNmp4b3JCaktZYVY5VFcxWHhOdlJsWUdUQS1TQVpzSEZXc0MwdXpfY00wMVBRcktickpYSlNRdnFtb055WGY4cjB5N1dCRWFZbGJMR2RGazNzeTdFSHJQaFRVT3hhNjV2Z2R4TnBFMlJTdW9yc1VaLUV2RTFWRy12VjhXRFp4d083?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlantic Union Bankshares Co. (NASDAQ:AUB) Shares Purchased by Squarepoint Ops LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUEg1Vy1rQkQtSUJPQmxaSXB6dkQ0N1hISllPcnRiRlVJQjZwQlRNZTlVclpkS3l2aE5ha2lhRUdzV3B2Qnk2WFJTQi1TeFQwZDVmV3VuTVhWWm14cnVYOGhZSDY3YWdHaTdPQVdRX0I2U1BicHJQbGxETzRKM00wZ0hHd0F3TFM0M3ZoS2hhWUJYYng4cnBFbVNMbDh0aUZwakt3c2Jza1dfZFdITnpMZHB1Z1o1TktId3ZJT1hHSmFocUNmTmhRTExuNVEyTDFEc2VZNm5LQkZUNWlq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlantic Union Bankshares Corporation (AUB): Among Billionaire Ken Fisher’s Finance Stock Picks with Huge Upside Potential - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdXZxSEV4NXIwSzdCUVcxQnZnaE1vb1Y5TTJJY0FOVEVWQS1qT0RSdVRiRWl5M1drOGktVVQ2OWp3ZkRsMF9NYW43LVltYThsVVhPM3h2aXdDQU5JVUZTejFYUnJhLWZHX0xWQmY1dnNmcWkyeUhzUzVpZ25Zc19EdmtQQkVaNG9rQVdlX3ljdno5NE5ORExNZWVJR3A3bG1SQzhmaUgzdE9rMmRCZEtBN21hYVc3OFFfdGVGV01rX21kN1ZRUEJDYjByLTdGY1o0OS0zQm5MaUZESUlkQmgzUllicFJwN0sySmdkMzZBcGRQM2dX0gH8AUFVX3lxTE1TY1pCakVQV21ENW5mS1ZRWDN2QlA5WGVXQVBNX05Tb05JNktQamJsTnJYc1N3aVlzQTBwcm5DQzUxT29Hbkhrc1VmYnlJcmJXZzFPWkg3aU1tNG1waXNUVDM0RjVMbmFKQkNXRTRVQWFQbmJ6Z1BBVEl0SzFURnNWSXVBZTZPaldFNFB2WDY3MHBia25icFo0VXl0YUVMc2kxaHVmeWVfMmJyR3QxRERPazROT0MtWGRjaEx0akFER0FYcGFGdnFxVGJHV1lkWTlJQmxpMDhocDNQUDNnTi1ubkVab1NXRzhFdmZQMWVwX1I2YWFESEpoVTZpMQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlantic Union strikes biggest deal yet with acquisition of Maryland’s Sandy Spring Bank - Richmond BizSense",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS24taFlTY3pqR3J5VUFnMVFnZEFnMjNwOGx4ZTZnQmFZMzJ6bjJZemNUNkFSWEFGV1JsMzB2T0ZxTkhrNm1oaHRuU1BCWEJnY0h0bFZOR09GRTV6d2ozOHE5QVotSDE5QW9MRmlaT3ZIUjVOTFFmMUhzeXY4a2ZsajJrOUlaNXQtTmJYMFdLMmxlQUpGdkk4M2Y3Y0wwa1BLalJpelVWYVBIVU9OX3U3NElyYm8zMW5rajRoanZaUlVxOXZTWGQw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Q1 2025 Earnings Alert: Atlantic Union Sets Key Date, Conference Call Details Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1NiVmZ6c01fdkxzWnpHTHNEWE9JMDE2RjJFcjdjdk9OcEg1eHU3LXBVOFNLSHcxX1RsemhmRWY1bGdJOVJtOG9DRXEyV0dlelhBS3g1eThpdHJOUHNHN2VkbmRzaF82ZHBoSFBWTXZFeWFTX3psLUx2UXo0Q3FnVFRQUlc0a3dsalBrSS1paV9TREo1LUlSTjJDcE83V0xnSTNZUGpxRG93WHdQc2tHYlNuNzJlMElaY2g2dHF3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlantic Union Bankshares Corporation Announces Pricing of an Underwritten Offering of 9,859,155 Shares of Common Stock - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNS0FWdFczS2g1YkVRMUNOVmo0dTNXTkNzYllaSEZ0S1c1V3F5Z3M1UFl5RjdIaHJMS2liOGVud1lIWnBfSkN4N0NxZThzY2hVMjQ0eGZvRTZtc1d3bk1nR3V4LWtpazluRHY5X0UtazNyT0VXWHdiVktfR3UtNEpFU0VFUlZrNGN6NV83RWFld2pHY3ZmU0tnX2ZLMDlIY3NDNEhpNlFxQnBsM0h5OUdXbFRoTjZxSDZRXzZIeVZmQWIxVUlyUWU3OF9rNVVkRWltQzcyVV81dTEzeFk0M244Sk5aUnBIeXJ5bGIzUzR1QkxkWFRxd1VQb3lKMml6NW9yV1BHVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Takes $2.29 Million Position in Atlantic Union Bankshares Co. (NASDAQ:AUB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYThjYkpWWnd0R3ZwMmQtLXRrN2RLeGhPWjJlX19kRDNkQWpzQnFJTWtpTDQ3a1dTazBKLXZFMmoyOVVGRmpLNzhIRkdCU1lqZXotVk9nTFBla1o3NFFldkVIbXRVWjJyM0tMS3dlaDBIN2lVbHhCcGhybG05RFNJdzVWWVhTU29udDhuV0VyZFkyb21lcFJ1cXU4M0dTbnlaVnE4NVZwdHZuSnhCZlFmQk5OOFNyaXdfY29SVEJEclVNUkhnOHZzUHB1Zy0wLUVEYmRHYVV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Banking Merger: Atlantic Union's $1.3B Deal Creates Mid-Atlantic Banking Powerhouse - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQekpzLUt2RnZ4UzFCQWpoYmlyZEI2d1B1cFk0a1EwbmxwcFcyUThRYV9hTXB4OFdwdEtGaDFjM3pHU0V6R2pYR1NSTGswUmdlcUVFa2s1SFRTUjZkc2ktOUdxcVdVejYxX1hsU1pIWkR5U280anpCall4R0Z4SHZ6bGlGb2VSUEZnTWtYdDlBUktqQVVVazlnMG1PTC1BNndDb25LelI4UEFPYnBxUVNnOHhjdDZSYlJXaTBaWXpXMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Has $8.61 Million Stock Holdings in Atlantic Union Bankshares Co. (NASDAQ:AUB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNN1dGbUUzb1lGVF92alBrT2F4S2tIOFdjdnJfLW5EV0pjU1pLcktmeVN2VG52OUJ4emk5eDFORWFLTVluN1pRZFlsZW54QWFhWjdxMENFeWlDVDhSWFhvYjUtMUw2ODQtbDR1SU1iUHdjYTRObXVFdHowdFZkaGpDdkRaaEMtdXhFcWR0TmowVnZqam1zWm5ZeUFSRVJzREt1V2ZUQ0lGYjJoYnJNZEFWaFFwWTZSS29rejB3eWtHMEhraF9GWUVMeFkwZ0tCbmc0X2lCTkFDRUV6LVJIYWhiQjNXelBaN0NxQklOU25YYXhhYkZXNjlKTThEY3lNU21iYTJkbS1qV3ktYU5kSlA4VjE0U05rZ3dFMlYzTnl5OA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Campbell Deegan Wealth Management LLC Takes $751,000 Position in Atlantic Union Bankshares Co. (NASDAQ:AUB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYmJqc3pyaThNRlNMNG5sSEcxT051MkJMWEZqQ2hDYXZ2a293Q1NDcGpKeEpUdld0XzVRTGxrYmxneTBRWEFHblJVOXM3UGxXdTBRUGl4TFpxaDdlMVREUDhUa0dPRXhZR1Z1cUFabnltS05NNDY1ZUVxZjlkTjB6VkxBSmE1WUxJZkc3clBCTjhJeU1QNHJJSHFWYWcyX19YMDZSSmtYN256bzdUQ0djeGtKWHVqZ3h0WDU3bC1reUt1dnRmQk1WVTdEVC1BaVV3TEk5NTNFYTBnbTV6OUtjQnNYNEVCenVYZ2h3N3ozdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Laurion Capital Management LP Acquires Shares of 19,770 Atlantic Union Bankshares Co. (NASDAQ:AUB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdmpVNmYwZDBNZlRoVWdfTHI3YlExUG5zOFQyejdUNm9zR0pYU1NlVWx2ZnRobmdrR0tMNlVoTkV1eHd3UjJQX09RaERDOTdPVlA0XzN3bmxlU0R2M2VCS1VRMng4U1BuQXVsNjlpNTBIRF9IOU5TQjFKX3d6QWRlV0MyVnZ4bDNUekxfU2RCTVJmd2NaOVQ1YWtrX2JJMEhUWGJJaVUzYXdNeDBFNnNKQjQwMHRvMzRqdjktdkk3OVkydFVHTzJDUDJQSnlyNHo0NWNPTEdkRDhIaGFtbUlz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank AG Buys 26,000 Shares of Atlantic Union Bankshares Co. (NASDAQ:AUB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMW13eTVnMk1LbkMtM2hLaFdtb1MxVFREUzM4QUNYZXBtSGNPbzRhalRpWU9DeHNQdGtFcnptWi1pWFpfeW93RzQzcmYxUlRpVXpjWjViYW96dWs1QlBBeUNNSlRHUXNWZDFKaUkzbGVHd3BFMmplY3lBZnNWYko4cW5DU25Ec3FpMEN2SC1DMWdaMHBQZHJBZEwwT3BPMmxYb2N2eGxOcXh1LVRmanFXQmdJSjFKXzZBUzRxbHp2LWJtME1zS0JnTzg3UWkxLVdsT0dIYmpfSFRXNHAw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Point72 Asset Management L.P. Purchases New Holdings in Atlantic Union Bankshares Co. (NASDAQ:AUB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSHBsdGF5SjRSekkxeURkbl9XdTVpQ1h2OFUwVnA1RE1sSzhnaWRaNFJkZ0Y5X3ppVk1lQ0VNYXlTWlFaRTk3Tlk3NmlHR2ttckNvQmRaU0RCc01JYzRHTDRycnptNEZXVndqYktjTXBTWHF2T0NjOE5lWTlhSlVGQjdrZEZiMmRmVVlBZm5tREFMR0MtY2pVOWJxSFhfejc1VlUwVXZPSlVMRjlyM3ZEV1VWdHpZcm51X3hPUGdGSE53amQtWXlwVW9BOUpRMGstTDFDRVQzWXRQd2MwU3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas Financial Markets Has $700,000 Stake in Atlantic Union Bankshares Co. (NASDAQ:AUB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQanRxdnppTWdJTzRQRHBkUUQ3SFdVU2dlaVVfcEh4TExwa3JEUFpIa3RrUXZkZlBDVzZuWHZuVWRlXzhGWWtRcnFzczFPRWdkQnppelNuTW9iazhPY1FweGJ5VjdHakE0SU4yTGthVmFjRkc0TkJteWUwdHl6V2h0b2dLV2ttLXp5bHdwelJ5dVhtS2dGSUFPOGtybGh3MVUyNG41NG5MTTJNMXJVNmVGaFU2Qk4tM2NGRk5WaHdJdm92eEQ3eHlWU0FrWk5abUZhaFlPVXhlbXB6T3RHajdDeDhONkUzZktvSW9wU2tB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 43.06
-      },
-      {
-        "date": "2024-12-03",
-        "price": 42.79
-      },
-      {
-        "date": "2024-12-04",
-        "price": 42.79
-      },
-      {
-        "date": "2024-12-05",
-        "price": 42.05
-      },
       {
         "date": "2024-12-06",
         "price": 42.39
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 29.69
+        "price": 29.67
+      },
+      {
+        "date": "2025-06-03",
+        "price": 30.22
+      },
+      {
+        "date": "2025-06-04",
+        "price": 29.8
+      },
+      {
+        "date": "2025-06-05",
+        "price": 29.99
       }
     ],
     "current_price_data": {
-      "price": 29.69,
-      "change": -0.34,
-      "percent_change": -1.13
+      "price": 29.99,
+      "change": 0.2,
+      "percent_change": 0.67
     }
-  },
-  "news_sentiment": {
-    "summary": "Les principales tendances concernant Atlantic Union Bankshares (AUB) sont la hausse du prix des actions, la hausse de la dividende et les ventes d'actions, ainsi que des initiatives de couverture et des changements de direction de la direction de la banque. Les signaux positifs se trouvent dans l'augmentation de la net interest margin et le gain des ventes d'actions. Le changement de direction du CFO de la banque est un \u00e9v\u00e9nement marquant. L'actualit\u00e9 globale n'est pas directement influenc\u00e9e sur le sentiment de march\u00e9 des actions de la banque.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

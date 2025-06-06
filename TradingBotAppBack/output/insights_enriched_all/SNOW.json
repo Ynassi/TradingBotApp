@@ -1,56 +1,164 @@
 {
   "ticker": "SNOW",
-  "name": "Snowflake Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 69921366016.0,
+  "market_cap": 70081519616.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.491602,
-    "PB": 28.94875,
-    "EV_Revenue": 17.501,
+    "PE": 15.77421325,
+    "PB": 29.015057,
+    "EV_Revenue": 17.842,
     "ROE": -0.40139,
     "ProfitMargin": -0.36428002,
     "GrossMargin": 0.66580003,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 111.301,
+    "CurrentRatio": 1.579,
+    "QuickRatio": 1.465,
+    "FreeCashFlow": 1157855104,
+    "OperatingCashFlow": 832668992,
+    "FCF_Margin": 0.30154354277793033,
+    "ROA": -0.11573,
+    "PEG": null,
+    "EV_EBITDA": -52.855,
+    "BuybackYield": null,
+    "PriceToFCF": 60.54431216982397
   },
   "technical_indicators": {
-    "RSI_14": 76.10489497095683,
-    "Momentum_10": 14.46361998181247,
-    "MACD": 12.226752245861377,
-    "BB_Percent": 0.9116771715885176,
+    "RSI_14": 75.33300407472782,
+    "Momentum_10": 17.26217006019691,
+    "MACD": 12.20480365882878,
+    "BB_Percent": 0.8157892450609846,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8964602748701744,
+    "ValueScore": 0.8966612483641011,
     "QualityScore": 0.3239153057676404,
-    "SignalScore": 0.2128573971885262
+    "SignalScore": 0.2915106870676052
   },
-  "volatility": 0.0330618246034622,
+  "volatility": 0.0326974465541631,
   "beta": 1.211,
-  "return_6m": 0.2154042441947883,
+  "return_6m": 0.1437594967557625,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 46,
-    "target_mean_price": 221.4511
+    "target_mean_price": 225.21196
   },
+  "news_sentiment": {
+    "summary": "La société Snowflake Inc. (SNOW) est au cœur de l'actualité récente avec plusieurs annonces majeures. D'une part, l'entreprise a dévoilé de nouvelles innovations en matière de calcul lors du Snowflake Summit 2025, renforçant ainsi sa position dans le secteur de l'IA. Parallèlement, Snowflake a conclu un accord de 250 millions de dollars dans le domaine de l'IA, ce qui a entraîné une hausse significative de son cours de bourse. Malgré cela, des ventes importantes d'actions SNOW ont été signalées, indiquant une certaine volatilité parmi les investisseurs. La recommandation d'achat continue de la part de plusieurs analystes, telle que celle de DA Davidson, souligne la confiance persistante dans le potentiel de croissance de Snowflake.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Parallel Advisors LLC Sells 2,471 Shares of Snowflake Inc. (NYSE:SNOW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObjFCSWhtczBfRzlyRG8wVUJXWkJfMk9VVkF4WEF2NnlVbmhwMTA3bEI5STI3Vnk3MFVjOGh0ZzJyOHVTZms2dGo3Mi1rcmtBRXNfUFVmYkxuZ1FsSnRJbXc4RzBqd3FaQTlxN1hFVUYzdE1pNEdxTVR6ak16V25JaDQyNXBoT2RKX1pST3BoYnVSN09OMG1aM1JpSWFyNjRfek5rTWpxenFLNnhTLU8zdTNneE9sVmdhbEI3bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "“We’re late, we get it” — UBS finally upgrades Snowflake (SNOW) as must-own AI stock - Investorsobserver",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWFrbGtlLTVFY3ZtQ3p0a0RHNGozSHY3ZlZRLWtIUmpzdGRlZXBQbjlTVGxoUHpJbGU5aWJqNzlSWkdYOHQ2TUFMUEJTTDVXZjQwS2dvVzFEc3h6MGNjUnRaWXZFRHFrZ3lZakNjOGJ0QjFxbXA5ZjFKMjdOTV9VMjNYTUFiWDR6VjM3VVByU1Z0d3U1ZUpiWlVTVzlxVmlDZlNTeWFfeTZPckFFNUJTSkJQX2JnNDczdVBjX3hB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Loop Capital Raises Snowflake (SNOW) Price Target, Maintains Buy Rating - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNnA5dUlMajFXSVI0ektvcERBZThvUkxqenRVUmFOa3FFbHNTUG5KejNJZzNYUnFodXVsb0EzQ0c4VkpUaTMyOFJVaDlwSTNVaEVfU1NsV0NiR3pfU2FQYm4tVUpFeG5Yc3JjMGEzSlZpTUkzMWprX0JwbnZvdGdvZVZxYUtJVU5mQnFYcVpLbFpSQTlBTVRPbzI0REdVYzA5Z0xTNndiZ2R3WUNYQXc0NVRDT1hhSFQtMGdHcnh1TU5Pb3p1ak1lT254VkJaYlF2YzNUNDN6YUM1ckJERlYzXzRWMTVEeGpwdk5JT3ln?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Snowflake (SNOW) Unveils Next Wave of Compute Innovations at Snowflake Summit 2025 Cantor Initiates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjV1THR5OExCWVdxVmVZSWU2Z0dCX2JURW9hd2t5RUxESzFoaTd5WkptZTZtUHViSjhLTzB5T2VDNFViMl9WN3hZV09hQ3k4SkxFaHRfSFRFZUxEcG1WUlJqUDZOUDVjZG4wNUo3c1FZX253bWk3VUFVWEt6NXJRaGl3OXY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FactSet Stock Drops on News of CEO's Retirement Plan - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdXhrSjYxMmlGUU1sV1NqSWNla0Jpd2xTcmVoenZ1WjdSVWhMbDUydVJLYXd4a3NJbFUtaXFMZmRIZ0lIdU1XaVBzeTVnMW5NS2tGcnQ2bGh2X0YyVEItS2JrcEoxakpxbHU3UmM0M3I4SEV3a1hSZ3JyMW9lV1FuS3ZveVFPRExRYUJqZUdoZTY2MHRD?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Snowflake (SNOW): New Buy Recommendation for This Technology Giant - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN2tudlQySzg0cGx6RmxBYk56Skh2dWR1Vy1DaS03Mjh0d0tfV3F3bm1lUHREcC1pVFMyTFpGX0IwQVRpQ1Zfc3lhbmwweEY0S0I0aTYyVlI4Zm1uUWNGMGVZNWJVQllwUEdqdHdCZ053ellGVVdLNDBpOUtqSngtUk5SdEhDZkR5REtYcW9pTE9ka2NKWEZpeWpWNGdHM0ZkeWlta0NrVnVSRmsxYTA0cl9IQzVKLVpwd19BWUNxZUxuSFM0a0cwQWNHc3EtRTZWRG1NTjFhQVh4QXlSc2NfT1VXMFNyUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snowflake (SNOW) Target Price and Rating Reaffirmed by JMP Securities | SNOW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXVjVVdRWVRrLWxZRlZzQmJubjl4bTUyMnpsZ1kzR1ZqUERUSlZDbGowVllYZ0hGRktKVlpVamZDa25ZVlNiRTEyLVR3aEZDX0xORTltWFUwTDJpc2dlRTN4NHVMYUN6UTZuWWxsVmNXazFXeHJTcEZITTZBXzYwaVZwOExTaW44SzhRa19GM1QwVGNFWGs5b2VKMHZaWGg5NE13SW5ST0ljTm9TSk1iSVg4d0FlWXBwSWlPclJyQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snowflake Stock (SNOW) Jumps on $250M AI Deal - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsWlJzdGVYM1BPZlNsNW1RaW15U0dTbjdPd19kZlVNUVZTVlZCQ0Y3cjV0RE9iV0hKLWZ2ZTNicnd4SzlOWnBES0R5NEVYR29UWkRTdHVXN3ZEYXcyWXlROGJnemZ0ZFlCYUFCSzlWaGpsQjlzZldaT1YzX1Q?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Snowflake Unveils Game-Changing Data Integration Platform Openflow: What This Means for Enterprise AI - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3pXOTZGU3UwX0Rnd0xBZmNyTXl5UXlCR3ZMd1gwME1zaWhwN0t2LVNtZHpBSnZiYVhIMlI1Zmt3SkxHMGdWN3VMVkROd2U1T2RLT1hYUmZEZ3hGSk1HdkN2aDU0dDFrTVlJNkYyZ2Z1dFRrdU85RDFiWlBzcURBeDVuSWRGWFJob0c3ZjVhMEtxLTZzeEUyVU1pZU9oMTE3bzA1ME1VQlp4SEIza0ZTc3kzakhCQThGX0pmZkd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snowflake (NYSE:SNOW) Shares Up 1.7% Following Analyst Upgrade - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTRwZzNkeTFlekozRlBvZVpDT240TGVnODZtN3hpWUVmZjAxVGNheTVDbWVjU0M5elFqeGNQeE1EdXg0VUp0S1lUR1RuRERQVml3a255V3hlNW1aNklBa0JFb085cXdxMHFfTVU4ZHcyb0g5WFBIM1Ruc0RSd0F2blVzZ3pZRF9KQ0QxWVZtdnUyRnVucUstRE4yN2JObTdDb0E5b1owVG1MZW9rMmFJUA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Morgan Stanley Maintains Hold Rating on Snowflake (SNOW), Keeps $200 PT - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWVJBcGVGQ3E0MXQ0VEFmRXJMcE1KRFFvendxNTk5aFh2LTRDS1FfcWlCNmN3T3puQ3d2WURaS3pDVHJjQ0swMVhZS0xBMUJPSVVUaDA2OHU5S1JaSjZUc18zOWlRSGV0NldEQ0pGdDR6OUVJMkZVMmpkOFVaa3NmcHV5eXlaTXpaUWw5NWl3eWo5S1lIY1VZbGFDQUxNcjFQUExVencwNkNFdk9rQU9J0gG4AUFVX3lxTE5YNVp6NzhzWjdGaTh3Ny0tbG1mWkR4Z1RFeWxkR25qSTJpbFNxVkdsQWV1Vm9lWVFSYzQwZm1Pc25TblFQSUp6UV8wSnY5c01qQ01jbGRTU0lmTFNtQlowQmM5Zkd0cFQ3Rm9iQnZseUdSMlR3WlExWU02cWd2S29GV25KdENjM19DMlNBNFVzNnBISlNzaWFINnVXRnZjSEtOeEF0cVVSMl9NZWtEQnlOOXRQblhyM3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snowflake Launches Gen2 Platform with 2.1x Faster Analytics Performance | SNOW Stock News - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnh0V05xVWx2RjVzc2V3SWJBYWlZdkh6WU1Fc2pRNnN4TWdKRENqVlBDRXlad3dlRVl2SWV2MlFRREJGcFpWZVYyZFJjb2pOekdMazY0YkRsSWFybU5xTkEwcC1HVFBYU3N0eVJrem42bVlCSlBreDR6MzlfSFFuTXFBTjF3djFoZ1I5d0l3SVhJYTh6ck9ISmJOUHliUlVoWnRPYktYU1NaWmFCczVhM3gtajd0cFRFc0FhS3lB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snowflake Inc. (NYSE:SNOW) Shares Purchased by Lake Street Private Wealth LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQzlua0VLUHkyVTB3THNwMXpCVkFqakRVeWRENHFTY2F2QTVpbTZXMTBHOTNBWTJ1TXhQRHp0QVhseFdJamg2SzlYNkZnWG1GMGR3SjRVR1Y4dmhUSzZDb2dROXRSa0E0WGM4cUIwLXhVejJlazJ5QTVqc3lLSGZjSWdUWXZiY2hSdnV5YzZnY3VMaExFanRJRHFwc2JKc2dSYWdudWVDY2o5b2hrNGxZcXVMeHhuZWdWV3dwdDJaX0k5Zmt2WXJtcFFaYWx1czQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snowflake Earnings: AI Data Cloud Giant Hits $997M Revenue as Enterprise Customer Base Surges 27% - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGVzUkdIVTIxNGZGVUNwMHNiY0RKd1Y0OE8wRHNUZHg2eUQzS0IwRE0xUy12TDVUVEcxckVnYWdjQTE2TnFCS0pQc3NwOEYzbUZqc2hURFRLbnRDZzZUUEhzLXJHOWdXRXJRVU9CdjBBUUJuQ3VMdV9QU1dGc0RtWXl4TFNGdTRSeFlpMXR1VDdoYUlMUWtNU1hNamxEWHJCT0RFWXhiNnJ4azRHcHJoQUpVRHpISHhTS1ZQRHluRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GTS Securities LLC Sells 16,959 Shares of Snowflake Inc. (NYSE:SNOW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGU4UWlQTDUwNEVFS3B2ZHozdERHbk1ZT0tBTE9SclVpWDVUYk05aUlxSWROOGhrbUFCdkNPU2FudzBWNkpqOUlUaTBIekItcHFWX1pZZ1VXTTFkTnBrdlBWblB5LTRkdnJQU3h0WGdrTzJpdHI5S0tZSm83LUdZUklmSUJRa01yZV9BSVc3d1dhamhlcTVwZzRYZ3RCb0J2b05wMGl4WHVlekNxUHdxVHJpZFBPQnJQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snowflake's New AI Products Slash Data Analytics Costs by 60% - Cortex AISQL Transforms SQL Capabilities - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUtKVEU5bDRhMXBHdV8xTld3SWRJTVBnSEtWZGEzNFVzUlhtdWlTLV9kSGRWLTI2Tm5yVF9haEtRODFjUWVsTGRxbk1zRHA0MDJ1WVhKSEpTNmM5MTIyei12dnlJOHF2R2pYR3E4X2s3TXNqRC1KWS1SbTlPZUF0UFRwVUlzdW04VVVDRDBTNEVzU0dXLVhWd09Pb0xqcTkyS2NNXzNSTEhGV0o2b0R6Z1Q3aVZHMmFXbXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Gainplan LLC Purchases Shares of 2,564 Snowflake Inc. (NYSE:SNOW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXhWSzlJR3pVeE1Ja0U3VzkxUGwxTXp3Y19fUlR6VDYtOHZuLThJU0dVYTVYbHByV0hsSzAzVC1PRktHOWNucVV2RVNXVTJ6REFpVWJvU0tkY3F1cy1JRmNmSmQxdkRKcFhsalp5NkVqRDFXV2dXdjNsa1VVQmlWX1hYSFhNUVVFZFo4TWxFb2VzVU9LMmtmQjJfcjRyTUhtMEI5NXh3ZTZGVGtwOEVPWjhicmNvdVRHV2NJNjlB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JTC Employer Solutions Trustee Ltd Trims Stake in Snowflake Inc. (NYSE:SNOW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQW1sV1pnRHNCMUY0SEc3RjlyblNpeVZ1VGJ3RmVtcEdteFJkYmVqMGw0UWFBa2gwWXlSS2R0MThRTkxPMzZGUWVwZTR6a01MVFpHaXhoRmZzc1JVaDlzcnV1WDZkZDl4LXBmWG1UQ3BpRUMxeTRZY0ExZGhScEh4QTM4YlRJRThPckpvVkhQNWo4VE5fcS1aNE9POHVmN0lsdWNYYmkyZDV2M3gzTVlQX2U3Q1plMnpiM0xkZnF6ODU2bkcxUGduN1I3czVkY1RlQ29oMmw2UQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mark Garrett Sells 67,000 Shares of Snowflake Inc. (NYSE:SNOW) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQXZpZUZYektfZ3E5UW8wc0ZQc3IzYVBVRV84eC0yNWw2dnpxclBLYS1WLVdSVHJ1OGRGd09udGx6aHVxQjREZl9SZHRzZlVaaEk1YTdFVFRubE1JQlVERkpwM0I4dFRRM3MxSHNqVENSVnMtU0dGLXRDb09RSFNVTmZmcGpKX2tNNm5BS3R5SWRhNmlUWXZZMEFMcTdLTFZzX05IR2hnbVZLYTJ5bThlay1wSlBCdWVkQ2ZfbVZROXprWWJOSjN0bQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snowflake (SNOW) Receives Continued 'Buy' Rating from DA Davidson | SNOW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVJkdWFLdU9wTWVlZFY5cHVJUU1vNTZGbUhqRUpmX3hnaElZU2tlekZ3aGh0cGcwazA0SThQZW9RTXVRUnAyaFJrVXBVdTJZMDBuQ0p6NG5HRVJjSXJqWXJnNnZCMnozZ1RpOVh1Vk41SER5MDBwZl9oajgzMC05cXZ5NXN4SzJMc3g1TDBCcGkzSXptV1dMM2l1Szc1cWo1LXN0ZEtvNGxRajlxcS1MeGlZVHlSX2c?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 172.42
-      },
-      {
-        "date": "2024-12-03",
-        "price": 175.94
-      },
-      {
-        "date": "2024-12-04",
-        "price": 186.51
-      },
-      {
-        "date": "2024-12-05",
-        "price": 183.06
-      },
       {
         "date": "2024-12-06",
         "price": 183.64
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 210.36
+        "price": 210.17
+      },
+      {
+        "date": "2025-06-03",
+        "price": 209.15
+      },
+      {
+        "date": "2025-06-04",
+        "price": 209.6
+      },
+      {
+        "date": "2025-06-05",
+        "price": 210.1
       }
     ],
     "current_price_data": {
-      "price": 210.36,
-      "change": 4.69,
-      "percent_change": 2.28
+      "price": 210.1,
+      "change": 0.68,
+      "percent_change": 0.32
     }
-  },
-  "news_sentiment": {
-    "summary": "Snowflake Inc. (NYSE:SNOW) has been making headlines recently. Wellington Management Group LLP bought shares in the company, indicating confidence in its future prospects. Snowflake also announced a deal to acquire Crunchy Data, which is expected to enhance its AI data cloud capabilities. The company's earnings report showed strong growth, with revenue increasing by 27% and enterprise customers surging. However, some analysts have raised concerns about the company's high valuation. The company's AI-powered growth streak has also been mentioned as a positive factor, but its battle with Databricks for all-in-one dominance has intensified. The company's price prediction for the next five years is positive, with a",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 5,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

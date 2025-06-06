@@ -2,55 +2,163 @@
   "ticker": "ETR",
   "name": "Entergy",
   "sector": "Utilities",
-  "market_cap": 36961001472.0,
+  "market_cap": 36483424256.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.799353,
-    "PB": 2.3491533,
-    "EV_Revenue": 5.498,
+    "PE": 26.453075,
+    "PB": 2.3187995,
+    "EV_Revenue": 5.448,
     "ROE": 0.08853,
     "ProfitMargin": 0.112390004,
     "GrossMargin": 0.49988997,
-    "DividendYield": 2.88
+    "DividendYield": 2.93,
+    "DebtEquity": 199.493,
+    "CurrentRatio": 0.825,
+    "QuickRatio": 0.46,
+    "FreeCashFlow": -2324900864,
+    "OperatingCashFlow": 4503605760,
+    "FCF_Margin": -0.1948475165086213,
+    "ROA": 0.03068,
+    "PEG": null,
+    "EV_EBITDA": 12.059,
+    "BuybackYield": null,
+    "PriceToFCF": -15.703983111427842
   },
   "technical_indicators": {
-    "RSI_14": 51.02768601369988,
-    "Momentum_10": -0.3067082695332781,
-    "MACD": -0.0094002677626576,
-    "BB_Percent": 0.5472362591972484,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 46.22243808695163,
+    "Momentum_10": -0.9385994050421272,
+    "MACD": -0.0983951446042965,
+    "BB_Percent": 0.339741554012785,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.882074091669257,
+    "ValueScore": 0.8792920043551185,
     "QualityScore": 0.417012852472529,
-    "SignalScore": 0.6161485627160164
+    "SignalScore": 0.620694978043526
   },
-  "volatility": 0.0161180992562573,
+  "volatility": 0.0160709451729093,
   "beta": 0.583,
-  "return_6m": 0.0965363864001294,
+  "return_6m": 0.0789882884452506,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 19,
-    "target_mean_price": 89.36105
+    "analyst_count": 18,
+    "target_mean_price": 89.04778
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente des entreprises cotées, plusieurs tendances clés se dégagent. On observe une divergence de performances avec des titres comme SMA Solar Technology, Zalando, learnd SE, MTU Aero Engines, Hapag-Lloyd Aktiengesellschaft, et CEWE Stiftung & Co. KGaA en baisse, tandis que des entreprises comme Entergy, Daldrup & Söhne, Deutsche Lufthansa, SAP, ProSiebenSat.1 Media, ENI et Porsche Automobil connaissent des mouvements de prix variés. Les annonces majeures telles que l'offre massive d'actions d'Entergy pour gérer sa dette et la montée en flèche du prix des actions de Daldrup & Söhne ajoutent de la volatilité. Les investisseurs sont susceptibles de surveiller de près ces évolutions pour ajuster leurs positions en fonction des perspectives de croissance et de rentabilité des entreprises concernées.",
+    "sentiment_score": -0.25,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "SMA Solar Technology (ETR:S92) Stock Price Down 0.7% - Should You Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM04yYzdfWmpoQUJQRUhwcnI4RjlWX2Y0d1NUcl9tbXY1VHpnNUF3Nk9JOVBOUjRsbm5UWFdqV3lFYTRSdUowLWNJaUtaT0RZM1dBN2tTMXMzS3doRTlsTnpxUVkwMWI2akQyaWd0V3dHWU53dzdEcGFOa1ZFLURtNlp1S1NtVkRUZEJaOGxXdnRZdVhGaTJYajdOUmFpRUItOXhDRVBzRUw5Y3pGUWJwVGNpbHpaVVdD?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Entergy Corporation (ETR): Among Steven Cohen’s Mid-Cap Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeTJvNjdqcmE1al9YQUhzQmw0SG5CZzQ3TW0wV1JNNGdYUUl0VENhMGpYbFdNZElfVWpNUzQtRUktVXI3aHdCT0pxT0E3T3VzMnF3V3VpV2Zybi1TUW91UnEyaEpscXRobnJLN3F0UW14QjJzc1I2RnIzM1JqVHpua25kTHZ5NnptLUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GFT Technologies SE (ETR:GFT) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX244VWoxWEVJSENPSFNueUR0blZ4MlZwbXV5ZEl4Y2NFVVBXMXVwc0FJeWFuVVdJWjBUcUJHOE5WX1ktSkZLUVVGRmdCekk1dFNUQmV0ejdtN05LMXd2S3FDVUpsMXFFaU1YelU1QTYtRlllbjR1LWk1d3pxXy1hb1k5X2F5NmFqR2pKREwzVUNCeU1Qc2FuX1RKUC1PZHZXYXdBZ1hvQUlFX3RQMUdrMTFNUjItNDRtTE95UWtHZWlweGxaQ0ctZFJ5cUNtdlFoc3FObtIB2gFBVV95cUxPdUVtSy13eDJUUU5BR3ZWdnc4b21heXU0dGw0eXhIRXphRzN0SWdxN1k4VzBBRXdwWnpuNUpqZXlKeWtIRU1oZ0ZsMWo3SVlQekZ2eE94bHNrb081LUZIekU4a2Nfbkk1VExFdmREd1B0S1g0UC12LU1wVWR3SnFZamhVSnh4NHpnT1FIMEpmMEFJSlR6VDF1RlpzSWVfQ1o5OVlDSFA2eV94OHVBZjB6OGZsalhrM1JpZUExVnV4LWRsY0x0ekZVX0k0SU9PZEN6WjBfWTEwTFdTUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Entergy's Massive $1.3B Stock Offering Reveals Strategic Debt Management Plan - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORElEQjFXTVFOOXotYzhqOVByMjRDUXpRb0lYVVJPQ2J2TWExVUVSdGZ3TTdCSldHT1hXNWJtQ0tRX05Tb3pjbUkzU2R3QWNHTVZyMV9xeDRmNmJ3cWNWU3BCV3RQQW9ZMEF1dUF5a0tJQjk2WEhTcnJTRGtNTVd5aTJhTkhHcTJocnlJNTkwNmJNYmhadmRQYWJ0b3IxYUYyN0NyVk5TMGY1bzBiNHNoQWpCeWpvR0ZVd3k5dkNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Entergy Director Cashes In on Stock Sale - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWFXRmNXaF9SS1NvXzFGY0xGMDA2TVhHVTQ1YzhiM2oyZkVkSWF0NENqbS1oVm9kWjZwdU5iZVNhaV9zVU1xVVhTOE5QWGU0MXRKWWZGeTdhaFRjWWtUbldBVzlFQ2F0SWoxbEVMaXh0R2dkWmJ6MUpUT19Sc29tbi1VWXdJVjB0aDl0MTJUOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hapag-Lloyd Aktiengesellschaft (ETR:HLAG) Is Going Strong But Fundamentals Appear To Be Mixed : Is There A Clear Direction For The Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWVPSVNEcDJzdlpTTnhqTGNmbXNqYXJVdjlZWDRncWRLMkRibDVYanl0Z1ZBRjNsWU10RW9kQi12Q2MwSU54RmQyZjVPclZCRkpqMFgzVmY0QlVhUXFHOUlQN3kwYUtpbE5kRloycXVNUmw2RURZWWp1R2lORERqTktIYnAxLW0yNlMyU1JR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Zalando (ETR:ZAL) Stock Price Down 3.2% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONVcyazA4YS1yTDQ1dWJEMkQ1MmFMM1RMajVFY1V5NnlKUGZjRXdwNllyMHNFang3RGN0OUhkcndNbWtGaS1QTEZBTi1ZNkNuWkVCVEx3ZGpjeDZ5UTY5T3pzZVB2dW0wX3REZGRHbENDakFiS0JERXJYYm8xbFJ2aUVwUG5MdlZfQ0RKUzVVRHNfOXRheFRybnBqMEZtRmlHVzVjQ0Ytdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "learnd SE (ETR:LRND) Stock's 34% Dive Might Signal An Opportunity But It Requires Some Scrutiny - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMFc5cXl5Vll0amdTSDNmMDA3VG0xLXhSMnBTQVZNV0VJWXpkaWVJODNfQnVRR1R0Y0lRck9uN3BjdnpzWTNTUFRCS3Q3dUhCUU5icGFwcVItdFBSSmNmWVF2Nlg3WE03TVIzNmN0UlhCQnFCMldGUkxXOFZfTWZQZ3YtMTR3ZU9UQnYtMEtMZTBfUDFvMHNKV0I4VWlQc2RXNlU0MWJtaVltMnZwRWtqSE9aaWFzZUx6NzNPTGNoZXJEN1p1M2V4dnVudnJxRzhQNlo3NXBUONIB3AFBVV95cUxPajljRnZSYkJCQTVMYXpRdVF0VUtPX1JuY1pabjByY19MR0lRS01HZnloekpzZ2s3eFJZZ21HaG1PVVMxQWhCWnVpYXFYd0FZVWJnbnptQ2JIMkpmbHVYSDhnTXZ1aGE2R2xlbkk0YVJfNTlFa0lCQ3RuellCWHAwcWxyQzEybWZpR0pWUldueHJZN0VsMUpsU3UxOWRiMWgydzh0STg2T2Rjc2pYaFRBd3M1b1VzOGpVampFVVV2OTJWT205VFBpdjMxbjhkVm5BTTIzRFZ4RGpMOUs4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Entergy's 35-Year Dividend Streak Continues: What Income Investors Should Know - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzNxdzVjVnBoQmY1OUkzb2k1cjZHNHYzSWFUc3hCWUZGR19sM1RDQTlEeVJmWlJhTzJJdS1zWWZZbzRCV0ljajZqbXl0YjBkUVd4cDRDMWNUYkllNDdTUmVGSzBIRVNxQS1NSVhaM1NQTG1hUDRQZ0NzT1MtOGVfWFVfYnVabHZBcFQ3MG5QMzNhTG5QSVluZ0Nnd0FiWFY5UTZr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MTU Aero Engines (ETR:MTX) Stock Price Down 0.2% - Should You Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmZRb2Q2dlVpUHlCSmNTU21ULTRZS2V1aTJlNkEwQkRMZVdJS2o2TDNTX0VWbTdjUi1HWG93bkZEYXRESE9CR3VUZUdKTVNlbE5iMnlYMjA0cXd6WFc1NWdWTE5nUmJ3bUxQbVJlRHBmakQ4bktHUTJkR0dGMEFYMXZ0TTNqX1JQOFF5bVdObFNLd2V6UV9lZ0l3N1Z1RlVHbkVSb1VZc0dQeHJKcm1V?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Those who invested in Daldrup & Söhne (ETR:4DS) five years ago are up 409% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN1ZaSW9uelZ5NlJod2U0cUhSdEdMenF2Z21BZXRFTHFxSFg4LWRoYW5scjdSSUQtU2dRbEI5dzZwWUpmcXJFajF2Y29aaVVpMC1MbGVjbHRpQlVyRmttU3JrTnBsQnloc2cwQVBrMkVNWm9pY0VLYUQ3ZUhieXJqM3lR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Deutsche Lufthansa (ETR:LHA) Stock Crosses Above 200 Day Moving Average - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOW1JU3d4b0ptekpvTnBQbUlaeHVCWFZacF94Y1RQdmNvSG8tdTN3cGgxZjNubDZ5UDVLYWJNanFaYjhBWmJ1ampxMXY3LWt3OGp0eXNMM0RybnFrcHdWTUYxYVdjajNma3Z1VS1ueWE2U2g2MVFfSUdwTDhuS1B6TW9mYTRnMU5oR045cVZjQ1dSUF8tU08teHJiYWhkcDBnamNrb3JHRmF4YzVtRnplRGJBY21vZGE4R3dBd0g4eEpWeEZvdkZ0blV4cng3eTN2ZHhETkt0OHdHWGhM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Entergy (ETR) Stock Outpacing Its Utilities Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbU0yU2pMUHJSc0o5Q0pOZnR3TWVJX3B5Ql9RanBWb2ZpOC10LVI3SG1feGR4V0Rva3JGR19OM3hNYnRnQUgyLVVmYnk0TFoyaHJTWW5wSVJtXzl1NVpTVWtJY3dwaEZGYm9IOHJUVjFDYk1BRVN0eVp5VThIeEJfMEVzcEdqYUtLZnQ4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SAP (ETR:SAP) Stock Price Crosses Above 200 Day Moving Average - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUjl2Z1lNaktHZGZOeFNiNXR2WmIwUEVBcmtWeHJ1MDdOVUtNanpfV2FmZUhQNG1tMzRyWXBSeU83elozNzdxaXJoMG96UVBzcHJoWjJ3UUtQNkQ2VFIwOHFCeDg1WDhfam4wYXhrNkIyTmNZVnIzUmNWcEFHcnJrRk1SV3ZUSV9VdXFwMXVvRklHR3RSYi1xWW1GV0FWVVB5Uk9lU2FkWTljdW8zenZqbDVYeE10SFdla3V3bkt3am1uVXFDc0xsN3NDMGZrZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Is Deutsche Lufthansa AG's (ETR:LHA) Share Price Doing? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVlJFd3JWSlVQb0t2MWUxSV8tYlNqRUptbGtYZHkzUDNjcDU1bGttMjl3Zlc1bV8wZnlBR1NYZkEtY04wZy1JeWg3c1c1UmNSN05ON2E2NTNLWlVxa3Uyak5ZdC13TFNNenRSRzBUc3lnQlpvSXVWcEdMZEF1MzBPa29R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hapag-Lloyd Aktiengesellschaft (ETR:HLAG) Stock Price Down 1% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjhQZXRHTXhvOVdvTWRNRDk3QzNxdDg4Y192M2tLS0lGeU1uU05kdWRNaTBRbzZGeWRuZGZiNG5HbTlELUluTzlyRXJVbkd2UTAtb25FNWwtNEItQlluRFNHLXZSVmJzMnhQSUtxUElkRDVvNENDaC1TZDBCcXFLNGxQZWE5c0Z3UEJhUWIyRVRSQUN1SzJuSVZ4WkhLcmJsaGpYMkJVLXl1Y3oxUnVTa1I0a0ZqX1VqbWU4VU1uQ2hIdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CEWE Stiftung & Co. KGaA (ETR:CWC) Stock Price Down 0.1% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdW05NzB2ZzNaWmJmWXpHY3oyaldmSC1iMVVRdTRMSTNlamVqd0VoeVlxd0R6TnVheUNwclQwSWNhNmhkejZYbEM3QlhfNnJDenRISDRNenVTTU9YZnlWX1hVdWdkcUpMMG5Ja2ZncnZ0X0Q2VHdPNGRLUnVseUU5cFJxcU95WXFPYUZWM2toc3p5UkR3V3FaMWN0QzV0MXAySnZoaG05TjVnaFR0TUdmNzBmaE1FOGRR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ProSiebenSat.1 Media (ETR:PSM) Stock Price Down 2.2% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUxMQ2Vyc3Q4SExJNnFzSG5VLU9rbkxHYUtmbkxYOThLZDNDcXVwWDRjSVVkZmhXNG1oOWZadnNOVGRWNXVvUk5Pa0pKVDJ4QURJcXlya0FCNVVNVkhRM0laSmlkbkp1b1R1cFE2NEU3NmxEcnJXRV8zTTdveWNiSXBZVGdIWWVyWEE0Ym5KMGtYVGVWUm8tdW5QeHFzSVVhRmNXWVdqdWI1N3JMUmFTWGVIZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ENI (ETR:ENI) Stock Price Up 0.5% - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXg4TXJhS1BGaTFuT0FQTGpGX3FsdjQ4ajh3ZkhrdTdEOEFMa2pVQkU2ZEU1YzFYY2ZCTko1c1lOOWVyNkY0QVFodmhnWGNWT3lPSEwyZDBCWHVRVE9KaEY2NWNzelZWRDA4YWwyMVA0V2JtZnVvbHJCY2NVREs5ZjZyRHcwQWxvSGJoRTY1N0g1X005clJfbmtLNEFDQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Porsche Automobil (ETR:PAH3) Stock Price Down 0.5% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWhPaGlsdHBSX0hVT2VYQXk2T3Iwc1o4R0lDWGdhVlpjSG54al9Gcl8wbGFYUWtMV3BMN2x3WVdZUUZNRXlLamtGWWtKR1IwdndQZ2pVSjVzTkI0RWFkU2ZoaG5Za2lVMzhqd0tyYUlnNnVkcEU2UWRuSnA4UXFPeHU2Z3BMME5qN3d4WHlOWHF2TmRuRl94cGtCYkNLM3dCRWl6YTRmMzFXemNqTHJwTENfd2xmQQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 76.62
-      },
-      {
-        "date": "2024-12-03",
-        "price": 75.67
-      },
-      {
-        "date": "2024-12-04",
-        "price": 75.82
-      },
-      {
-        "date": "2024-12-05",
-        "price": 76.86
-      },
       {
         "date": "2024-12-06",
         "price": 75.78
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 83.09
+        "price": 83.14
+      },
+      {
+        "date": "2025-06-03",
+        "price": 82.93
+      },
+      {
+        "date": "2025-06-04",
+        "price": 81.89
+      },
+      {
+        "date": "2025-06-05",
+        "price": 81.8
       }
     ],
     "current_price_data": {
-      "price": 83.09,
-      "change": -0.18,
-      "percent_change": -0.22
+      "price": 81.8,
+      "change": -0.09,
+      "percent_change": -0.11
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte des actualit\u00e9s r\u00e9centes concernant les entreprises cot\u00e9es :\n\nLes titres Vossloh, Boeing et CTS Eventim ont connu des augmentations de prix de plus de 30%, alors que les prix de Jungheinrich et learnd ont baiss\u00e9. Deutsche Lufthansa a vu sa valeur en baisse, tandis que Entergy a annonc\u00e9 un plan d'offre de titres de plus de 1,3 milliard de dollars.\n\nLes signaux positifs sont les fortes augmentations de prix observ\u00e9es pour Boeing, CTS Eventim et Entergy, tandis que les signaux n\u00e9gat",
-    "sentiment_score": 0.4,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

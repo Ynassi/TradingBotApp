@@ -2,55 +2,163 @@
   "ticker": "PARA",
   "name": "Paramount Global",
   "sector": "Communication Services",
-  "market_cap": 8525387264.0,
+  "market_cap": 8467751424.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.917164,
-    "PB": 0.48966867,
-    "EV_Revenue": 0.745,
+    "PE": 18.9268975,
+    "PB": 0.48600072,
+    "EV_Revenue": 0.741,
     "ROE": -0.27754998,
     "ProfitMargin": -0.19094999,
     "GrossMargin": 0.32584,
-    "DividendYield": 1.65
+    "DividendYield": 1.68,
+    "DebtEquity": 91.724,
+    "CurrentRatio": 1.289,
+    "QuickRatio": 1.023,
+    "FreeCashFlow": 15053750272,
+    "OperatingCashFlow": 672000000,
+    "FCF_Margin": 0.5241556314507184,
+    "ROA": 0.02871,
+    "PEG": null,
+    "EV_EBITDA": 8.131,
+    "BuybackYield": null,
+    "PriceToFCF": 0.5613218430836475
   },
   "technical_indicators": {
-    "RSI_14": 56.44605219781215,
-    "Momentum_10": 2.39316014987848,
-    "MACD": 0.1610124327310096,
-    "BB_Percent": 0.6465389549606702,
+    "RSI_14": 53.55036180374768,
+    "Momentum_10": 0.2102575089016952,
+    "MACD": 0.1233911174728561,
+    "BB_Percent": 0.4761152193122154,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8984782450471755,
+    "ValueScore": 0.8956409349675206,
     "QualityScore": 0.2750914175438929,
-    "SignalScore": 0.5704191063373505
+    "SignalScore": 0.576894115310749
   },
-  "volatility": 0.017016832681198,
+  "volatility": 0.0169473263076999,
   "beta": 1.207,
-  "return_6m": 0.1038820359042189,
+  "return_6m": 0.1128430035150274,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 20,
     "target_mean_price": 11.98
   },
+  "news_sentiment": {
+    "summary": "Le marché a été marqué par des mouvements importants, avec des actions telles que UnitedHealth et Tesla en baisse, tandis que Broadcom se dirige vers de nouveaux sommets avant ses résultats. Les préoccupations pesant sur Paramount et OpenAI pourraient impacter leurs futurs cours de bourse. Les investisseurs ont également les yeux rivés sur les actions de Freshpet, Kennametal et HPE, chacune nécessitant une stratégie spécifique. En outre, des événements tels que les menaces de Trump concernant les subventions de Tesla et la réunion virtuelle des actionnaires de Monster Beverage ont attiré l'attention des investisseurs. Enfin, les prévisions de Tom Lee et de 24/7 Wall St. sur le marché boursier et l'évolution du cours de l'action de Meta Platforms ajoutent une dimension prospective à l'actualité récente.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "With Its Stock Down Over 50%, What’s Next for UnitedHealth? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFVrV3VGVUoydzRLQUducmFFYjNad0NzZjJkVGplcmRwdDZKS3d1NG9CR01aOGFhaUpTR0tkTEJ0S1RfOHFxRmxJcHNtSTVIbjNpNUtwSVpVSHhna1g0V3R6TFlleGUwTGJFV3pLNGFqdTY3ME5sQXdZclY3REctQ21hS0FKZWluVDdmZ3hNOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Tesla Stock A Buy Or A Sell With The Robotaxi Service Launch On The Horizon? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTNMQ1B6M3o1aFBpcDBFaHJpUWt5MHRuczhzMHo5bzRaS0hNVVpfRWN1VHdEWmc4VEJmU1Y5Z3k2VlIwX1VidXQ0eVpPakpPMVJta21BT1hLOGJEMGt6VGlSWkl4b3c1bDBkeHFQQk1iTGxjTjVGX1lBVG9qNExTNEdDR3pLUUxJcWJlX3BPOTdnNktMQVdqaHVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Broadcom Stock Paces for New Record High With Earnings On Deck - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPODVoOFdEc1RGeFFoTDJ1Uk1Bc1B5MldMMFNmdHVaNFJHVk1fSi1ZajJLQm9DS1JlSEJpa2lqOU5EQVlVZkpIcEtXZVFvR3MxbE1QbE9qcldmT2ZaUlk4cXJiTG5VOUJRcF8tWENtWGhtRHhlQ2RwS043SFo3ZWxtdUJCaEQ2Vml3UkdfZFl6c1ZQWElfS1JLVGR6WXU4RWJPMEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "“A Melting Ice Cube”: Paramount Stock (NASDAQ:PARA) Quiet as a Future Without Skydance Considered - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS3VEZ1E4djNUQ3JoYWpTTGMtLTFMUDZib3VKVFF4NTk1SHJsZmVWdkhJWVRYTTUtTnRva0VsTVRsQ2hxMHEzb0JoSXF3S0JmMjFPZGJDYW9YaTlYc0Q3QUktdlZtZGhTTVROelFIUXlEb2YyVHhxRkZzV0EwaThKQmlZbWRkd3k5WDlya2FjcXlVUFRCdTBBNm5fdDg4dDJVOGRyWDFzcGlTclN4SVJLQzdfUmJNZXdISThvcHFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 closes lower as Tesla shares tumble, traders weigh Trump-Xi talk: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zZUlHQXluVjhSTW5MYl9uVno0b2NSdS1oa1VtMDliMkZxM3VBSG4xMVhRX0VqOXZCdVdyYnZuM19Mb0ZMV0I1ZmhJSHc0VW1DUFUyYVNkblc1XzhlSXJtQUVOdHhvX0VxYVExOUNlTnRHMEFKbnVv0gF8QVVfeXFMTmpPSV95OU04bWtwM3gxQXIzTWRZNXJxVGtBM2hUbWNLWWx3WUxVUm1seDlMSFNVdXpydWJNeDFTSkY5MmxlS2VYZ0I0bnZaM3BtLXJkNnZYX2tUTWVmTWtUaXl3TDhhVkpTa2xlbmhtUTF1V1JkSm5xcDd2Uw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Did Nvidia just dispel the bear case for its stock? Why this analyst thinks so. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWJmTENtX01nYmgxX0RFMUV1U0lrUzh5eUZwdWcyajYyMmV5ME53Nk9XODlJZW9zMlA3TTNINXFvd3V6MmhfZV9JQWVFdzdrcURNRzJFcGMweHl0Tlc5UDV5TTBtVjZVSUU1YlpRTE1YT1hObzM4UXVrYUV2THo4N3gyN2pwVEtjSDNXOHBFNUtwc0Z2ckZTQWFncWFId1htVFBnTmRnZGlNRFBoWHE2cFJDLUFndmEzbnpoRg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ACRES Commercial Announces Strong 10.2% Yield on Series C Preferred Stock Dividend - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGV5XzNHemNoZ0JSc2FZQ09KZUNkcng3LS00WkUzbFF6NzlQTG5OcHVjRVZ5bE9ZVzM0Wm4xWE9JN2lOZnhnMGZQeU13YnA4WXNBNWVwbUR5eUYxcGpxSjVTVDhacVA5QlJaZ2xMVnlZVlpZTkJncDJzSmRnMTZMaVRtWk9zb1dqa2dxUG5YdEdudFV0VElXMXBzcTJYb3dxc2Z5ZVJmdHk5UkgwcVR1TUVrNmJ2WFpjTmtTSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Investors Might Need A Waste Bag For Freshpet’s Stock - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnVVdW1MdFo5U1B3RGxCRUdJenNiV1hmUE0tZW0zVVdUVHM3UnZuWTA5NFhkUFU4MVBfeXZQTUk0RWJfamRQUnFmcWRISzByMFVfZXdSNjBRSzNyR2tuaV9EVG9SQlUySHprVHNJaFRrZmtQZDFVQUVVQlNzWWxSWG5SakpKS2RYLUh5QzRybENCcHJzS1VzSkN0ODV4RjEzLUFzRFRPSkplc3UyX3BFQg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Hold Strategy is Apt for Kennametal Stock Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4em9IOGRLUjJESjY4Tzl1bHVkTjlDWG5JRzdyS0NyaUdsSHRCUEZwRUlNaVhNTE9qYWRUMGhRa2xQYVVnbEVjakFZUlNQQmxiQTNnWGZxcmk2Y1NSRmdtNmh3TEhNRnhNRFFCSVlxelpzd0NQclg1ZXFkNkJoZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What’s Next For HPE Stock? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1p3TmNoRHBfX2hzZHVVVjhVR1BwNHpBT3Jwa09OQzRmNm0zaTg1R1BhRW1FbU5JbVJKQ3c5VzM0a3BIc1p5S1J5NTVDOFRCeTdBT3dLSFVkT3VnLUh4TDIyQlBxZmFrVWw0czBzbjEzRHpNUjR3WUNrT3FkeTVmX0M1ZnM3QTliWFJiNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 Warren Buffett Stocks to Buy and Hold for 10 Years - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0todFVNaElZVVNJdjAyMEg4NzZnOGlobFg0WFZfOWVSanZJa2F3b3dFM1A2QmlBVzhDZ1UxT3VMY0lQX0s3N2FxNC1STWtjNlpMaC0xejVoaUM2cm12VDdONlU0RlZCdFZWMWdMUEtTUzFrR2pXOS1XOGtFQUN5Mzd6RDZSeFJvaXRkeTZBREVhZVFPTHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘Substantial Leg-Up Rally’ Coming for Stock Market, According to Fundstrat’s Tom Lee – Here’s Why - The Daily Hodl",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUUx4andBaTlqS2gwWDVlU1ZVd2ZxMHJrZHFaT3E4UjFiSGNJdFdZS3ExRDVIeERBVW1KWVEwZmVuUXljY3RuVkV3NXJwWVZSWnhVNXpwcllFbDM2VjVmRTBUNlNmQXc0Y0NxVmJPakVaVm81U1lJOHdDcDN3b1Q0Y2QzY1YxUmFPV003RXoyV0VTS1BKQm4zVXBTSWV5Ry16OTVGbWQ3Nl93Q1lGcDVDTEJoM0E0OVFFQkJUYW03a1Jmd9IBxwFBVV95cUxPYlhoSkdHcmY4UTZ6MlhWRER4cTlvOTAtWHk3d1Q2M2Nfb2dmU1ZwRkxQR2ZhTWpUeUJLajRMUzVWMDZSNmRmVEhKNEVxVlRPeWozRVAwYUFEV2lhTGtickwwT3IwYU14N3JkMEZiMDUxWGtLYnpSRjJFNldLMlJ5bGpRYk5mZUgwU3c1VHQxQkJVRWVOY0lpUGNaYVlUU1hWQ1NhX28tbTZqZnJDaW4xSjhtTGs2OVViZC1iZTl3em5MdldZVGgw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why OpenAI’s latest moves could signal more trouble ahead for Apple’s stock - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMHBEd0R6ckFQVHhaY09VUTE3UjBVeWh1TkFpaFhmODFNZnpKOEVyR1d4RXdlVUt1ZDQ5amZMcHhVTmVIT05nRWdJcXREd1B5UWFzY3dQX0hIWWVYalItdVRheUJBQjBrbERQaHA5b2Y2dEVqN01GSUpxeFctRzJ6SVZ0azBYd0NTTVFDTUl1SmlDb0VZNm4wTFlESzlRQ2VCN0dpaDdrMURZNlVqdVNVWnBSUWtLTTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Hapbee Strategic Debt Settlement: Company Issues 2.6M Shares to Preserve Cash for Future Growth - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0pGWmNOVFgwZDh2Z0M4WHpCVDlHSU50NXdzME1kSzRnV0RJQ0RoX1V3elpVVHhiWnZvZkUtUmp4Nm0yYWxWN1A5eHZmVnJfakZ1bldHcGhQYXZQaTRDT2RsQ2N6QnJKcVM3R0dqcThLQTJFNDFQUHh5Qy1XSW9KX1NtZjZ6WFlYWTRXWTViaDBlZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Top Bargain Stocks Ready for a Bull Run - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0lBWEU5NFNaZkJVaEtQS2poSDY4TVZZVUxZOVRJSnNIcEdIN1o1OUowQ2h1VW9sV2FfOEdpUzQ5b1U3ZkdhYXBMTVg1RDgwWmpoUmt5dXVFVkdsR0xzeGthd2VCRFdTcDQ0YmI5eFZqQnlDMGp3Tm9mRHltYUloc3RmOFFEWTFlUU8zeA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla stock sinks as 'disappointed' Trump threatens subsidies, contracts for Musk's businesses - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUlyU3RodFJ5RzY5Z0tDbE03Y01IT3VicXdHTi1zZll4MjRoWkV5VE8tLXNCZnhObU5Kb0dfcU5hT0d5NnNhTUFnd09wemhEN3FvN2NteVJrNndEN3VUbklMNi1STzBzWG1RQjg3bTZ1Q2ZjUk8yTEE0cjZZZi0tNk5TUDczTVFROS1FNTlKNFRCOWplSkJnbjhjMHBaYUZQRkdaZk9hc09ZZUJkaWtEV29PVXJnRlZIbVJWaFdRRXhNOXpZQ0NsZjVia1podEFIS2c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Monster Beverage Announces Virtual Stockholder Meeting: How to Join and Vote Online - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVItTGd5b3FjLTBlSF9jS3BRdXBiY1R1bHZseGRCd1E1YWpkUHhxYnJpTUdVQWdBT3BMVnFiWG1CLUZQUUE4Y09nbFFpNlU2dXJPbjdpb1llbUxRQl90LVBXRGFhNnJWZHFlSHpqVXFBZUpDbVNUN1I4TkI2anNzSXBwMXQ0cC1sUVg1VW44ek1DUXRuc2pGdEx0TkdOdGROd3l2b21SR0Z0QlRJNlhrcmUza21feElwV25V?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Market News for Jun 3, 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FenpxOFJDUFhwRkZ3Ul9Jc0Fob1BJUHdRRk10NF9jUnkxRUlnOFFWX0pkUm95TzY5VjJTdzYzWVFfRGxHZ0hiS2R5WDBDSmprVHZTcC13eDBiWGZaNTdNRXJwblZtVVk5bV8wUTZtelZCMy01dE03dA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Meta Platforms (NASDAQ: META) Stock Price Prediction for 2025: Where Will It Be in 1 Year (June 5) - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGNwMmI4Z2htbkRERk55M3RPbDlsTDhhbFpoYWloRHdhNWxHUzEybml3MzJvOTN5TVBfN2l3WnZmR2FRRDRaMVNkc3QtRTJzU1lHY2taVXVJbWhSckY3dFgyNXdqRWdFNG4tTF9hcFNmdTBEZTd4MjhEUXlqbGRYY0tKOGNVdjMtcUVhOVQzYTJOUjhsME05cmdqSThnUWEwQTZ4SC14ODIteUd1bG9UNC1SUFNndE5ZQURkRTh3SkxseVJuVndxZA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 10.98
-      },
-      {
-        "date": "2024-12-03",
-        "price": 10.92
-      },
-      {
-        "date": "2024-12-04",
-        "price": 11.02
-      },
-      {
-        "date": "2024-12-05",
-        "price": 10.81
-      },
       {
         "date": "2024-12-06",
         "price": 10.99
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 11.94
+      },
+      {
+        "date": "2025-06-03",
+        "price": 12.01
+      },
+      {
+        "date": "2025-06-04",
+        "price": 11.93
+      },
+      {
+        "date": "2025-06-05",
+        "price": 11.9
       }
     ],
     "current_price_data": {
-      "price": 11.95,
-      "change": -0.15,
-      "percent_change": -1.24
+      "price": 11.9,
+      "change": -0.03,
+      "percent_change": -0.25
     }
-  },
-  "news_sentiment": {
-    "summary": "* The stock market saw mixed performance on June 2, 2025, with some sectors gaining and others losing ground.\n* Paramount's stock price slipped after the California Senate got involved in the company's affairs.\n* The stock market analysts at Investor's Business Daily discussed the latest trends and insights into the market.\n* Barron's reported on the Apple WWDC 2025 event and analyzed how the stock might react to the company's latest announcements.\n* MarketWatch highlighted 20 stocks that are primed for rapid growth and trading at half of Nvidia's valuation.\n* Money Morning discussed the potential future price of PLTR stock and analyzed the factors that could influence its growth.",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "ALL",
   "name": "Allstate",
   "sector": "Financials",
-  "market_cap": 56183787520.0,
+  "market_cap": 54796140544.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 14.481912,
-    "PB": 2.803568,
-    "EV_Revenue": 0.893,
+    "PE": 14.13388,
+    "PB": 2.7343242,
+    "EV_Revenue": 0.88,
     "ROE": 0.19723,
     "ProfitMargin": 0.061929997,
     "GrossMargin": 0.22642,
-    "DividendYield": 1.91
+    "DividendYield": 1.93,
+    "DebtEquity": 36.672,
+    "CurrentRatio": 0.437,
+    "QuickRatio": 0.244,
+    "FreeCashFlow": 4154874880,
+    "OperatingCashFlow": 9228999680,
+    "FCF_Margin": 0.0636284597694199,
+    "ROA": 0.03111,
+    "PEG": null,
+    "EV_EBITDA": 9.513,
+    "BuybackYield": null,
+    "PriceToFCF": 13.171187641636035
   },
   "technical_indicators": {
-    "RSI_14": 64.21319686469792,
-    "Momentum_10": 1.576101696845096,
-    "MACD": 2.710191003913451,
-    "BB_Percent": 1.0460227143646468,
+    "RSI_14": 53.485025357768286,
+    "Momentum_10": 0.706247608730486,
+    "MACD": 2.3826211540437043,
+    "BB_Percent": 0.5552228554825572,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8976404383692942,
+    "ValueScore": 0.8948786552651329,
     "QualityScore": 0.3938246389784549,
-    "SignalScore": 0.5357849148787299
+    "SignalScore": 0.5732945161599843
   },
-  "volatility": 0.0180557895168533,
+  "volatility": 0.0181624214770246,
   "beta": 0.345,
-  "return_6m": 0.0432126776275096,
+  "return_6m": 0.0182441642867579,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 227.58824
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente met en lumière une série de fusions majeures dans le secteur industriel, notamment entre Chart Industries et Flowserve, ainsi que Viper Energy qui acquiert Sitio Royalties dans des accords tous en actions. Malgré les niveaux record atteints par des actions telles que Nvidia et Microsoft, des signaux mitigés émergent, avec des hausses spectaculaires suivies de corrections pour des entreprises comme Palantir et CrowdStrike. Les investisseurs doivent rester vigilants face à ces fluctuations et évaluer attentivement leur exposition au marché.",
+    "sentiment_score": 0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Chart Industries and Flowserve Strike All-Stock Merger - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOR0lSZG10RDlEbURfUFE0VnMwclNrMHIxbFhDcHlVWnZNelFjeXRydDBFTmRXZDdodWhnNXBrNjU2YVZSZDhuNWFMMU4wM014RmFTZDhjcXk0c3R5enprMnRXUXVaUkFvQ2FBU1FHV1k4bDg3dlo2OGZleWpJbF9wUEVqd0QzMUJmb1lMUG53Mmx5b3hxUno2OFdnQmctU0NUZF9qVUtNR0FBVjU2cTFmbUFVS3JURlJ1ZHJHZnp0Z002N0hwYk5nQTJPQzVsMDRkV3hRdjhvX0hGX3lvcm1OWDZ2QVVQOVdweWtOT1RKN3hkTFRqWjZiZWxsVzVITXN0SGZjN3AyZHI1UkxkbDViX183Q1BRLTRLMTF3eU9oelRBeEhDUWJNd1JDb0k2dlg0ZFZBWlE0TXNXLTNiTE1rQ1NqUnlRZW5wZ0c5bmFSdjJ2VjNHZ2YwbzVyVDZvb0Z6X2JTSE5CQmh5NTduZEVJdmxfRGVjWnZHdVFyOWlTckUzZ2FjU2ZSamNKRXpLemcyQ0xiN3JQekkzWTFLSGhwbjF3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here’s proof that buying stocks at all-time highs puts your money at greater risk - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRzNHb0NGdHl3ZDFSdElTRHBhRU5OMUE2RTM2ZkVmVFNoNXVQZFFlZ2JLMnFhd08ybGZEUTNDV2tVOUhTWTZubVV5eVlTblpTS1dWWERaaEdndUhmUmR1d1Q5ZzFlUk1QSW05YWp1ZExrUm8tZldiQ3AyeEd1bnpmUGdOZzlDZzFndWlGcWtaRzlJNHR6SU9qZjV6NGhnSkJwOGJOVERUUlNwX1lwQjc0WVRzX3RKN3NwOWJibmtVWGZiMjJWblV6SA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Viper Energy to Acquire Sitio Royalties in $4.1B All-Stock Deal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVUxMGVhR3lrNmhPdllCTmJoZFR6Wk5MVHhSRC1Xa1c5NDhlNWhQOUVRSFdLc0d6b2VQQ0x0U2dpREhISkJKOERjWmVrMmV2VXNvcGRkNmhOeTBmdERySWlFYVpqSTZxemhHTndRaUhEWnB1MHNrU3Zwd0lPUEZKYS1VMldQeHVweHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flowserve, Chart Industries To Merge In All-Stock Deal, Creating $19B Equipment Giant - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVNvRDI4STJBOUlURVlzaDcwdnhBVGU0Q1JPQzZjQ1dIWU1RMVBLV3IyeS1QN01QOTlQTHQtYzdnc0NMcGxNR0JpYTAyVXkwM3BTM2JtdWE4MzcyeGZaUTBxMmJ1OVBhRUNxMDV2Nk42Q1d6WE1DVkZQWGsxTlUtWHJES0NQZW5iZXBrQUo4bkw4ZDRHcDVFNGtaNEQxWnRrN1A2R1Fzajc4YU9LbU81WUJKUllaX080YXVIRWRfZjU5djdzRi1Mb1I4TGtBZVFEbXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chart Industries and Flowserve Corporation to Combine in All-Stock Merger of Equals, Creating a Differentiated Leader in Industrial Process Technologies - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxObm1YYjVFckVGVF9aZ2tNQlVycEdtaDZ0UjlEWnI1c2wwQkNDRjNOcFRDTEdQWENTLXdib1l5dUdOUUY0b0FuYWVpMEZqa2pJTy1Helotcy1waXFpalY5S3lfMnNxZEZybHBlbmg5NGkwTF95dHNOTVRXaVU0M0E3MWJfdmp4Y1o4Vktxa2QtQWxrbXNzZzJIemZ4blNObWZhMnlkaVdVQW44N3U3US1rdWZ1d3ZoazJHMWNMV2FUOUVyd1dUZDZlNGcwbjhGNzJDZDVJVC1nR3pJTmFCSV9SYW1ELU5TRkkzNnpXLWd3eDJWa19pNy1Nb3hhLWhlbHc1cmw1VGxqandGQ2dHbXI2ODU1N0otazZrWXpRTXdEYm1vZ3lDRnJmSmxFd3hUbl9iQUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Near a New All-Time High, Is Nvidia Stock Still a Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2psWDdGanhOTVVtckZtcmNHbGlKbHZIWk5CMU9zVFRaZ1NlRk1mNnV2Q1d0RmZlRzhZbks1ODRIQ2dFQ0tjSW5mVDdSeWxWbnRrT2VTUzlrY2V4elpwWWg2ekc1eVZ6YlJNUWpPMHdVcFFTMkU2SjJBTXpkTDZNZjJIWTFIeVN4bkdhQ3ZkZ2VpTVhPUUV3Xw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chart and Flowserve unite in all-stock merger of equals - Hydrocarbon Engineering",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGRrYkE2aURpXzhwV0tvTVU0b2VOMGswR0J6enJwd3dLYnZuZkI5T2FtWEE3N0pQWHhjTDJGbEQxYXZPZE85R0ZMRE9fa2JUdGJKcWRjbjJuMnJBdGZuVk5FZUF2NS1EaV9zUE5uWUZCcVVma3dOdzhYNElvREpMTU1fZnBGd2ctWUdDUmhtS2pxTmwxVnBjQUQ5UFZ0N19zLWhRc3ZPajlqNUViTTl4a0s3ZW1xNTlaZ2Rr0gHAAUFVX3lxTE56ajBqOWhTVnFNeDJLUklfaGplWWdhWlFyQk5SRGliTmhaV19PbzV5eVBKdnJiMmcwWGdWdFdwaVBsX2ZGTUZMcGc0Wl9nQWJ3ZFNwaVI1M0VUV05CVUJiUXRZanBNY2VXemZNQnJLdUctcnZHRWY3VnVjTEQtX3lhdDUzN0FWRWNnSnBiY284WGZUd0drUTVNMDJxdUY1VkhraTZ5SXFIWVBzSXc4Mkwzc184V3M3eHpwSWVqZnZIbg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Verint Systems Stock Soars on Earnings. Artificial Intelligence Makes All the Difference. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0NLVGZPTUxCUUF1UlhHTjhuRVM0Q3I3bG5Lamw4RkJHdUhKYVlqNHVpbjdTRzZidHREMlFXQzB3cG5IeXM0MlE0dk5zeEd3WnFKZ09UM2hmVGY5cTF4MDZPVjl3VE9Rc0JsQTBqRjlaM3hFX2RRbWNsaDZMaFpaS2NTbm95RS1sbmVWTkhGSmdxM001bzdweHpNUmpVWGxSQjZuaXN3STZ4ek44Sl9ZT3JZODg4WVFzUjkyWUIxV3A4bXNBaTlyaQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Palantir Stock Pulls Back After Hitting Fresh All-Time High - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2Rta2lKYUNlS0N1Yy1IWGNsTFNFbS1XVmRPek1STXBKR1pxRUIwMWxyVmx1Z3M1eGplLVVIY0xab0FPOHRTT0NTRk1RVTlTdFBrR1lieDRSYTlRTDJkRDRBR1pMY3FVa0t2LV95R2hIUElqTmMxVFVvRm5lTGtnMlA2Yy1FamFoSDFWbnZ4cWNzcXJyNlFoaTkyRHdwUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "A New All-Time High Is Coming Soon for Credo Technology Group - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVk4ZklTQmpYLVhmQVg1WTFFWmJ0ZXFINGxHZ1k4dlJFdHN6YVZpZnNiUElfanVhaHZRem9OWndVbnI3ZFZFYVl1S2lPWVFxSWN1OW5CdzN5OTBMZTRRb1F2VlRMZjdMSXEzdTR3X2F1Z0ZlWHQ1TURqZzlnZDYzSk5hRVNaVUNiME5kVkF4N1Q4MU5VbE5DRGw5SDhqQWFa?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Microsoft stock hits all-time high of $468.39 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHlPbm5qZGlFR01lS251UzRzXzNuSGR3LW5OTUQ4X0lhZ3NGN3ozU3dBcGE5bHZzUHluT3F5SElZMnBveXUyS050OUlYZWxjZXdfbGFTeGg5VGhQZHlRakhOMU91bkk1Zm00OVE3OHA2dFlPd0l2dHdheU45Sm9HVUNaODRPeEMzRktTTURHZ1ExbGNKa2FkYk9YcGhXOW1h?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Diamondback Unit to Buy Sitio Royalties in $4-Billion All-Stock Deal - Crude Oil Prices Today | OilPrice.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVDlTR3VYQkZmRzF1NzZ2ejBzSjRRRHc4Q1ZUZ3haN01JbVdCQmRRejJNMVpHcmVRSXdndU5fTHZmRmpJNVlidnhZbHBRMUljOW1mUzJDUW5tNXBkX3lITFNERjhyd0hXOVpjWVZHcVFjbFdKbThvX1BCeDd3WC1FRjhPbmo2NVM5endfRWJFY1F2ODlveFkwY01aRUdPSWkwTTE2djhXMTlYOTliQ05yX1JtcjNwbWRJLVVNVWNjenTSAcYBQVVfeXFMUG1LRGt6S1NFRk9yVWd4Vkd4S0RDOGpMSnBjc0paNTR6ZV9VVEsya1FWWENRT09JX0lxVHhpU25tUGltZUhacjdHY3F5ek9xSmpoa0NWNGxXM1U5U3ZGMm1LWXlsZnpjeFdWUE0tR0ttTy10algzMnQ4WHV2NE45RmZ0RVByd2VWOGsyUzV2Sndpblp1aFVoQ3lfQ09KcDVXMVdNRW5tZHl0aDlnV3luVjB3QzIxTW1tM2l6NFR3SWpjMTFsaDJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chart, Flowserve Merge in $19 Billion All-Stock Deal to Form Industrial Tech Giant - Pipeline and Gas Journal",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR3k5SkFHNW5EUFN1elM2UV9TTXd6LWZfNzN4TXBDRFBUY0RhRmtRa0pRWHhtTjNkUHNSQWpVZ2tNMjdsbmV3UXNsUGtCSHc3SjRTYXBwTlZhTWJfU01NM2ZSWUYtZmRPUktnU2pJYmt6N2JveG9kQWNCV0JfTm4xX21aWXl5TE9iZ3pqeC1RWXIxX1k4OUpEVExpQWVyUkFnR0JNVWMzaXRFRXVYOFFKTEhUVUViNWZa?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Viper Energy to buy Sitio Royalties in $4.1B all-stock deal - MSN",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkt1QTY3U2dFWVVPeTNwcFpoa3pzSGJUbUxlZllzNFkyazd1djEtR2RXcFhaalNyLXY0VzNWazg3MU1oMDc0YUpGc1gtcWIzQjd6eUpmLUtsYlQtN1Z3MGNMZWNIVndyekF0UnNCX2FTVzMxaG1sRWlPYkYyLVloR1lEemUzTkxVcjc3MWxBYkVxT3hGYkJiLWF1Z2NsSkY1cWJJRGlLVGNyMW92?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here Are All 6 Stocks I've Bought Through 5 Months of 2025 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVmpCN0pNRXA1Ujg2eVcxWlN5Mml2c0ZnVFg1eVprT2hvQzRnelpkYjMwNTZYbkxTTmpmYjhURmQzYlVneG55VlZ1U013VVRuSmpQVkllU2FLSXg3ZS1ZUjk0bWFXUGxDdGJ2OXF2dnVqUkY3VkM0alBoR0wxaHpsMkFRVXVSZFNUVE9lbnpVMVRNbzFaVnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Watch These Palantir Price Levels as Stock Hits Another All-Time High - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQl9qcW1IN0Qzd2ZKeDRBQ0pLaXpueU9MLUJEU21rVDZPSnMxdVFWSEVocEwwZDV0QVMzbVlDMjFIeFNrUnV3ZFFhX3RRcUY3UjdYUWZRcnR0Rkoxb1dIVVN2bU1xZjdoT3B1R0c0eVd2WmI0LXhKRElnOE45Y2RwVDhtQ2hnWDl1WjZUS2QtNmpsLUtKT3FPdXZxUDdoUUtVX29IeDllc3ZKSnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analyst Says NVIDIA (NVDA) is ‘Firing on All Cylinders’ – ‘Everybody Wants Their Product’ - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOE9XV0xYOVlONVRUa0NWRkkzWGZwMVhZWEd1ZWhxVVR6TVhHMmNBNlp0WEdEUFdaM1hqRjBiTHpfQkZDakFXRXc3bDR2RW5RM3JjZl9FZWUtLU5GQUVFS0ZBS2VxNWNmOUZwS3BqZDFEQi1FcUxxYk1sbkpSanpuSkYxWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CrowdStrike Stock Slides After Hitting All-Time High as Revenue Forecast Disappoints - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1X2Y5UDUtN3RYTkJHLWJXRlFLR09NM0k0YnNod2kwYXB5TW1LUW5fUFRWeHZyeVQ1TWdIOXhMN0s0ellxNkxlbHFfVnB0OV9NSUF5LTlZZ0c2bE0waE9ESTNqOG5LVzVzTVAtQmZrYjM4VGItRFF3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Chart Industries, Flowserve to combine in $19B all-stock merger - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGFXYXUySzMwZkVWcGhVaUIteXJvZ2ZOVThmZDNEOTVwR3IyU2Y0d3YxdWRIZTVGZ3Fab0NSYnJrQ1BFNXBvV0E5Q21nN1RINC1HN2t2dHJlem1GUExlbVJvRUhaY2JNeVAzanllbElTemdCdUtEYnMtdlFiOXl1cU9EQjEyLUdwUVdkLWUyX0FCeDlKaHllY3JkYjlVZGp5bC1oaUExMktKSGl5MC15ZkVKTkIxZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coreweave approaches meme stock as CRWV trades at all-time high - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbVR3cDVMTXBrUmlZOFh5UmxjWXB5aHJGZUhRVnEwem9fd3lLUTlTWnNmdENPWUw2WDB6dlhMc09xR1BuZGNtMHk1SE15WmxhRlpyLU45UmRsb0x3ZTg5eHFCbG9fUDZXXzVWVlJwZ055SVZxMGFZU3hUOUNqSGcxT3BGWnVVVkZnWFlGeWhLOVZtT3lVV3VhbWQ3TlBIZktlSFBhNGFIbFZRcGxMZS1Icm9ORzlnYl9TUmo5LThnQ0FMMF9rUG0ySVVhb2ZzRk9fTFdaWC1ReF8ycW1SVTc5alYyMGJsTmQ2?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 204.39
-      },
-      {
-        "date": "2024-12-03",
-        "price": 203.4
-      },
-      {
-        "date": "2024-12-04",
-        "price": 204.95
-      },
-      {
-        "date": "2024-12-05",
-        "price": 204.23
-      },
       {
         "date": "2024-12-06",
         "price": 203.64
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 212.4
+        "price": 212.64
+      },
+      {
+        "date": "2025-06-03",
+        "price": 211.26
+      },
+      {
+        "date": "2025-06-04",
+        "price": 206.79
+      },
+      {
+        "date": "2025-06-05",
+        "price": 206.65
       }
     ],
     "current_price_data": {
-      "price": 212.4,
-      "change": 2.59,
-      "percent_change": 1.23
+      "price": 206.65,
+      "change": -0.16,
+      "percent_change": -0.08
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte des 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant une entreprise cot\u00e9e, orient\u00e9e pour un investisseur francophone :\n\nLes principales tendances cl\u00e9s de ces titres sont le suivi des prix de la bourse, la performance des entreprises dans le secteur des jeux vid\u00e9o et la fusion des entreprises. Les titres ont r\u00e9v\u00e9l\u00e9 des signaux positifs sur la performance du march\u00e9 et les possibilit\u00e9s d'acquisitions dans les secteurs de la technologie et de la sant\u00e9. Les titres ont \u00e9galement mis en lumi\u00e8re des risques li\u00e9s \u00e0 la gestion de dividendaires et la speculation sur",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

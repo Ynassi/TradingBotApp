@@ -1,56 +1,164 @@
 {
   "ticker": "WDH",
-  "name": "Waterdrop Inc.",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 546073472.0,
+  "market_cap": 527520224.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 10.785,
-    "PB": 0.11408387,
-    "EV_Revenue": 1.07,
+    "PE": 10.418571,
+    "PB": 0.11020779,
+    "EV_Revenue": 1.135,
     "ROE": 0.073470004,
     "ProfitMargin": 0.13259,
     "GrossMargin": 0.52568,
-    "DividendYield": 2.76
+    "DividendYield": 2.67,
+    "DebtEquity": 5.005,
+    "CurrentRatio": 3.123,
+    "QuickRatio": 2.661,
+    "FreeCashFlow": 63263752,
+    "OperatingCashFlow": 437249984,
+    "FCF_Margin": 0.022823894732690853,
+    "ROA": 0.01767,
+    "PEG": null,
+    "EV_EBITDA": 16.582,
+    "BuybackYield": null,
+    "PriceToFCF": 8.28926415872394
   },
   "technical_indicators": {
-    "RSI_14": 62.43178424284864,
-    "Momentum_10": -1.9545447226820296,
-    "MACD": 0.0404409732529977,
-    "BB_Percent": 0.8743080693199661,
+    "RSI_14": 55.79290873077268,
+    "Momentum_10": 5.695655745684776,
+    "MACD": 0.040685427261405,
+    "BB_Percent": 0.6495174412385925,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9359333900618126,
+    "ValueScore": 0.9352655926199624,
     "QualityScore": 0.5503299463552804,
-    "SignalScore": 0.4251614944473302
+    "SignalScore": 0.4979573447965409
   },
-  "volatility": 0.0391709403853186,
+  "volatility": 0.0394503478166487,
   "beta": -0.278,
-  "return_6m": 0.3244736779088348,
+  "return_6m": 0.2907965047836156,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
-    "target_mean_price": 1.8133249
+    "target_mean_price": 1.819416
   },
+  "news_sentiment": {
+    "summary": "Waterdrop Inc., une entreprise d'assurance propulsée par l'innovation AI, a enregistré une croissance bénéficiaire de 34% au T1 2025, marquant une performance solide. Malgré une hausse de 25% du prix de l'action, les investisseurs restent prudents quant aux résultats financiers. L'utilisation efficace de l'IA a permis à Waterdrop de réaliser des gains records de 120%, soulignant la transformation technologique de l'entreprise. Les actionnaires individuels ont bénéficié d'une augmentation significative de la capitalisation boursière de 103 millions de dollars la semaine dernière.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Waterdrop Earnings Reveal 34% Profit Jump as AI Innovations Drive Insurance Growth - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQU53Z0huUWYwYVFpTWJjUGtadkpkWFhfeTlYLVFxTDlfN2h6dkNhY1IwcXB6TzlpckNtd3AxbGNNSVMyZkcxX3VobWxmOFBNbkx1WmVuTEd0ZjRqbS1OS0NiQ3NUT0xCVGo5NE5PZlhNeUxlaFRFLWdoNGtqcnlpLVQ2SjItS3dzOUxBUTZNUXZZbmhyU3JKeUlEa0ZLTi0tT1hXQkFNYUxyLWZTNmVQbldYWk5IRG8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "WATERDROP Earnings Results: $WDH Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOREQyYTl2cnFpc2g3UmpOWWxFZHpES3U4WXJsb0Q0S1ZWRnVzVUxtQzRwZ2JRMDh4bU1OamZ0aURiOFczRG1ocmUyVkV4RGdnb1E2YzRhSklQUFRVZTQ0MEVvMFhZVXA5YXZlRnRyZ2s5dlM5UC01enNIUGpjRmw2Z1UxeFlpRGZKN3U4LTI2T284Zkk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SAM, WDH & HNST Looming Class Action Deadlines - Bronstein, Gewirtz & Grossman, LLC - ACCESS Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLU1KeUlKenlKbFRodmpySm1xbXdDSDZ1eEwtMGRXMzBLNWVld1NpQ19UTUoxdkVLTE9XS1NhR3NSdnJodlBUVWxZVzdodk84aHl2bV9CUzdCWm1QYXBjM29hb3lwWnZoUXNxT3Q0S1djX0ppTEpKelRHX2pJY1pRU29lZGNuaW84Vk9WS0llT0xfd2FYeTRicmxwTWlYN3I0S2I3bUIzYXExclNCd05LNHNGMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waterdrop Inc. Reports Strong Q1 2025 Financial Results - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbXhmN1c5ckJvVUN4RjFmekhoazBFd2p1RnN1NExaWHF2UWF6ekd0aldBVjlpQ09XbFdZbmttQWRmeTdPR3AyaWxKdi0wQkFFak0xVzRqMlo0UzBjYXNSNWpVWnBfeDFrcVpPMURPenZXZlM3NnNhT2diVnhPbERkZHEteUlpQU04M1gtVW5ydFBneHlNSXlWUi1sd1pXRHpnaEtMUjBleDlsUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Transcript : Waterdrop Inc., Q1 2025 Earnings Call, Jun 05, 2025 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMGRYS3ZlVmFoUWZpY0FPaWs4WVl2LU9qVV9sU2RNM3VLVklyZXJzR0NXWU5BTnNvU2U5WXRUWnpXVDVNd1lfUGt4TDJjcnpCMDBiNHFZZV9ablRFWkEyOURrNjFydTdLc1dFbmo1UTUyQ085c01TTnB4VHQtX0pzUnFqbVpqVENCaGlsMmhBYk1nQ3FacW4tcVk4cmhxeWNsc2dReVJ6STdtOXAxZTYteHdxMDN2MnFFQ2s0cnl0eXdvOFFacEtYRzRyX2RKQ1E2TE5SMVdtdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Waterdrop Inc. (WDH) Is Among the Chinese Penny Stocks to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2azVuSkVOYkhKVFd3bEYzVWhvRWhSZk5iQkxaRDUzOURVQVI0Q05XQy1rNTkweGhSdDR0QTU4cTI4ZEdJYjZSZGpjWmxtSXNaM0dnRFlPc0lBU3V1Z2NNaG1xZHJNdkw4RFhCT3pUNWJDR041TzRsZUZCOVVRZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cytek Biosciences Leads Our Top 3 Penny Stock Selections - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcWlzSXR0blB1TmJTZ2w2d0t1MF9QRWV2dDhLdkt2RXBuNTgxNllRa3BzYnVFY25fbks0bWppT0Q3dS1uMVBnbDIzOW1ZQ01rVFVZc1pyekRJSF8wTHJyUFBBaGhBQUFXODlvdHZpV2RnZHJMUVg3N0IyenpaOEQtTEhaRFF0OGR4V3FCekFHeS1YZjVIYkZNRS1LOVZkblhONkQ5dXFkcGJTcjV1ZEhyazZYSXRWT1lJT1UyRGUxOEPSAcYBQVVfeXFMTnZrZ2tlWjRlcnREZTJSOTRxUTZCa3ZZemZOVVY1dFJOYS1wM0x0WGhxUW92elZoQ1RzNEZVei0zaUhkamhJSkpFcE1pdFA2cUhSby1OdXBLaEFLeHhwY2RZSFVYMzVGM1dJOUJ5V004UHBaZDhuTlhVY295Uk41Unlaakc5QVU1U0dGeElSbHdpT0F5MngxakxLU0I5ZzJqVHZOaDZmeW1KeUgtbEplUnJyTGJLWlBzYmkxOGYxSVlWTDlNZ1h3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waterdrop Sets Q1 2025 Earnings Date: Insurance Tech Platform to Reveal Financial Performance - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkRpR05uc0JLaTdxTW04ZjZBM1FUdXdQN01tX0hfVF80azk3V0xON1RhNEFzUkVaaFRfeGVjSkJPaGtNaENXMFVJYVIxNkJGSnZNZ3lXR1VuVUJIeHpfVVk5Tm9yTTFjS1hqMTZjd2V5aHpIcmRJR3VROXJDWnNuVUxvQUJjeF9idEEwLXBkdXotdzNUMjh4akVLR3RLWkwtQ0hVUldTMzNqbU9RN3liUjhiUnZKY2VBQWNtSWNwZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waterdrop Inc. Reports Earnings Results for the First Quarter Ended March 31, 2025 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLVJVaHI2VzViM3JXZDJZVXllaDVnbkFRdU1rSWNZZ1pzNXZZQ3gtQjBuTFY3XzJLQTZ0M3BiZktGWm1CdXFQRE5PTzFRVUZPa05IUXFtakhkaHZMdF9NTC1tMnBxcHR3TEpZcTlodk1ZLUYxMF9MWDBqenE0UmZIZGJIZjZUcTFRZ2k4NmNQZjFEQ1BCdHlLSDY5M3FQa3FfcXNkTnk0ajdwRE9wTTdBYm5JYTkxS2FsS0xEYkdqT0lQMXRMdXFIRWc4dW5zZDlKb3dGMmlKb1d4LVJ2VTM0VTl0ZFZDdWRQdndjaUpWeElpM0dC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors Still Aren't Entirely Convinced By Waterdrop Inc.'s (NYSE:WDH) Earnings Despite 25% Price Jump - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcUNHb2RTcUR2X3JCek9XaW9XQjZTcE5zcEtCNHRUWGNKd2F6RURiQVdDUDlTUl81bDgyN3NVLThrMThkRU9KbTR0YThjSzhESGJjXzdIY0xNdExPWGZkbW1WVTZRSHJCTTVUel81Mk43c054SUk4c0N1Z2wxVkhiVS0xMlpCMVB2OTJuNmN1MEZmWnpzeEFsRU1WRTJGR1VrUkRWOW4tUklRY0VZcVlJVVdCWDAwYnBzMzZmLXA2Sk9WdVlB0gHKAUFVX3lxTE85OS1RSGJvS0tJSFQ3djEtNFFLcTBjTVg4Mm15RDBQNm9FYlcxTURMMEFQMVNGRVRqYXdIQzUzNXR6ZGdKZW84bk9rWTYtNXFFXzBUcXZjaFNELU5qSnpTYndwVDF1M0JGWHN6S0FQWG85S0NrWUM0TTU0ZUoxTkNXWkdKc3U4ZEpMclJMNWdGY2N2X2toeW41cFFEQ25SblkxOFB0SnNUNFIxUEVDU0R1Z1IzQ256OVAwdDh2LVVKWVVXUXRGeDkzdUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waterdrop Inc. Releases 2024 Annual Report: AI-Enabled Efficiencies Drive Business Growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZmVIVVYzVjJnM0hkejZqczVXT0hvWFhYekhwSzY4UWxFOG8td1pwaks1ejU5alNDOU9idEVrZzlDOE81LVU2blJWVkZCcERibjZFQ3VucjhkZDJWcEg1SU1zdFhOWlZWR1ZTM0ZEMVN2N1pMUGMtRzBuNFBVX2tMOWNqejFuU1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "In weak insurance market, Waterdrop finds solace in benevolence crowdfunding - Bamboo Works",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3dwZFdkcDMxMG1wY0lHd2pqaEM1LXpmT3dESXhQZmUwby0wZE5oQ1dieFFJQ0RkSU5oY2Fkc3ZhYThrd1VHd285VS1lR2pNWW8xV2tlZVRCbmZEcUxOcWlTZ2JrbWhIeVl2VktPdzFPc0hqMjU0V3dqTWJwLVJHY1RWRUprcFZiWWdQUFhfSFl1ZlVJbGZHbzFfTC1CUFNHSWtCNnZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AI Revolution Drives Waterdrop's Record-Breaking 120% Profit Jump: Inside the Tech Transformation - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTlkWThFS2tkUDY0WFRibmZnRFFOVWZ3WnJPZW91Q1JSdDhoSFFiOXBjV3hsMURBcWlKX1huaUwxSXJWNmwxUG5YaG9TSnZOYnROTi1LLTVnZ2VQb0xoWlhlUEloY3VYQUxBTnA1NzN6dHR1VEhTSGRZWVpDQTZMeVNja3J2NVczSUgxYWlJVHpfSWNObm9PMDFHMnlOSkNnTF9yZDdHRzFDUEoyS3d1SzlueDZPMlhadHJr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Absci Posts Downbeat Results, Joins HealthEquity, Tonix Pharmaceuticals And Other Big Stocks Moving Lower In Wednesday's Pre-Market Session - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPQkFBbk16QmVaaFZjLWRwel9HVnJFYlhMcF9iaEhEYmRaNl9PdXRRaVFWeXUwYU13ZnZGNlpRckI2ellCY1A3N0xfbHdVR21DOU1fTkN4a2VxaC0ybWRubEhTN3RLLThnSVlkWWNEZVk5UjdNV09SeTA2Sld6VGFWTjJvcTdlbmd6cnp5bzdLV1RjX2E5S3VFekFseWFDaHVEZHdvcWY0NHRsNFh2OGVTRndpMG81SkZwWnZvTEk5RzZkZ0lHLVU5Wi12MWJySTkwMWgySVU4WEw1LU9ZWmRGTmE0MUZRSEhHdDNacVAyMmpXWFFaQVBFX2JNRllpWGdmclhLWWxqR215VkFLa1g3WmpqOWNVVk14UmlRWGVjcGZMYWs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Waterdrop (WDH) Stock Price, News & Analysis - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52OG8wZjIwZzJEaVV5UUE2UjVKUU5LOGRZS3BXaDlyS213bU9LVTdjbHRiMzFONXdfbEE1UHlybDB5OE5jd185N3pBVjY2eU95S1I0TWxR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WDH: Penny Stocks to Buy? 3 Under $4 to Add to Your Portfolio Now - StockNews",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZmlCV0JFWUh3TEpIckRsOXo1ekgxMkZBaWU2X1hoLVBjMGZhYURJclJOTzFObDllTi1NT3BjbmRpaTRrbUZGaEZtYm03VXBtQk1JNlROcHl0SGtDcjhvU195Tl8tOXA4OTdhTWNnOHFuUUh0d1BYQlNzUS0tMU0wVEhJbC1KQVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FINV: 3 China Stocks to Buy Under $5 - StockNews",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NSVpUZkVzOUJDdXZzaWtOUXUxT1BEZG1WYUJGaFlsWmtPUFdlRWZBS0VHaC1fRUZiRkhqMHY0bmlGbV9NZjRORWJYTnpMX3lEVFNoRmZOdTF1dnZZUjJ0SVZwd0ZqYWFvNE1kTXVnWWlxWXVqQ3N0cHRZUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Waterdrop Inc.'s (NYSE:WDH) largest shareholders are individual investors who were rewarded as market cap surged US$103m last week - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnV6c1Y5M2F5TkFFLVFwSkt1WHpPbUZwLS04cm9wOWxFY1JOQ0I5d3BPZXZvWVBobjIxTFdRVkVsblRCZEVkZEZzMmFOWndPUVY5eXYxeVlZS0tEYkhqdmZJQXVBRnZpSXY0RnVWTDNRczVDUnV2cjVrd2JTOUJrbkx5Qkdvc2hHRlBqQ1BFSHRxV0FvYUpLU1hidG5PNG44T0ZOZzVkMlBZRU1wQmV4NE1MLU0tZDdiYzRIXzl3OUNGNWIz0gHKAUFVX3lxTE41c0xXWlRxdnp0MFd3ekZQcTViNVlOa3FQMEowOVViUTVDN09fY0Uyek5tNVlORWRGakszLURLWmVUUDRLUTUycVg1bHlGV2Ffc1ZQbFNGS3R4dkEyQ19mNEVTRHlSbmpPYUo2b0pabDVXaHlISWRoUlVFNnhlOW05bkJIVjh1V09MV05aVmpvWVBnVTBfdm5sU2RMRVBrb0Q0ZndlQzhHb1FheE1ZUW5sdGV5Uk9OdkxhcG11TFZRS0p4WnBRMnNlS1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "7 Thrilling Penny Stocks for Aggressive Investors to Buy - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDcwZGk5a1QyZi1CczEzeE9mSkkyX04xNFJUM3hLUFhLUVZkY29pZXVIb3c3aXZUbEpSNEhjUUJiRnB0ZG91RUg3NUFNTHNTajE2cGJlOHJYT21hNzBVbEM2bElJdUtENWVDMGhPVlNNc2huZUN0V1RyY29xZzdhYU9XS0lVeTNkVFBFYnpraGlMUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "InventHelp Inventor Develops New Cleaning Caddy (WDH-2273) - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmhJZ1JmS0xBODR6VWlkTzV1Ylh0ZFlkcHU3V01rMW5VME5OTmJXdnhuY244U0Vqd0VxdWtlVDYtdXMwODZTeWh1eGxNY3NicTNrbllDdUVQSEZrSk5oR1M3OEpIWWIyeWgtLWFWSGtpZ2Z5aWZiRlU2ZDI0V0R0TG95UjJjN29xa3BjbGc0a2lSQjFZSWkycTg4MEpjazhVV3pNSDBFTFJhLS0zWHR2WFc3dTFES3VT?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1.14
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1.14
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1.13
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1.13
-      },
       {
         "date": "2024-12-06",
         "price": 1.13
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 1.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1.47
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1.45
       }
     ],
     "current_price_data": {
-      "price": 1.5,
-      "change": 0.08,
-      "percent_change": 5.63
+      "price": 1.45,
+      "change": -0.05,
+      "percent_change": -3.33
     }
-  },
-  "news_sentiment": {
-    "summary": "Waterdrop, a Chinese insurance technology platform, has reported strong financial performance, with a 120% profit jump driven by AI-enabled efficiencies. The company has also paid its maiden dividend and is poised for growth. Despite this, investors are still not entirely convinced by the company's earnings, leading to mixed sentiment. Meanwhile, the global economic outlook and ongoing trade tensions may influence the market sentiment.",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

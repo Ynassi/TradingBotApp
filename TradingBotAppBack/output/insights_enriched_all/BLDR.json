@@ -2,55 +2,163 @@
   "ticker": "BLDR",
   "name": "Builders FirstSource",
   "sector": "Industrials",
-  "market_cap": 11551027200.0,
+  "market_cap": 12520244224.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 13.4,
-    "PB": 2.717487,
-    "EV_Revenue": 1.045,
+    "PE": 14.524359,
+    "PB": 2.9455044,
+    "EV_Revenue": 1.08,
     "ROE": 0.19621,
     "ProfitMargin": 0.05662,
     "GrossMargin": 0.32154998,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 116.805,
+    "CurrentRatio": 1.821,
+    "QuickRatio": 0.999,
+    "FreeCashFlow": 1073425152,
+    "OperatingCashFlow": 1687832960,
+    "FCF_Margin": 0.06639756000387642,
+    "ROA": 0.07772,
+    "PEG": null,
+    "EV_EBITDA": 8.847,
+    "BuybackYield": null,
+    "PriceToFCF": 11.671033160214229
   },
   "technical_indicators": {
-    "RSI_14": 38.4133913797715,
-    "Momentum_10": -13.287465898870302,
-    "MACD": -3.147715233929361,
-    "BB_Percent": 0.1424298836347681,
+    "RSI_14": 49.872038996784305,
+    "Momentum_10": 4.475923304238904,
+    "MACD": -2.0638970564131256,
+    "BB_Percent": 0.517096005268981,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8973855152690775,
+    "ValueScore": 0.894111380894119,
     "QualityScore": 0.2572522851326166,
-    "SignalScore": 0.7677822009137965
+    "SignalScore": 0.5650270433500222
   },
-  "volatility": 0.0282869097498638,
+  "volatility": 0.0284673837624113,
   "beta": 1.7,
-  "return_6m": -0.4344768288007197,
+  "return_6m": -0.3558473850422573,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
     "target_mean_price": 142.0415
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente de Builders FirstSource Inc. (BLDR), on observe une diversité de signaux. D'une part, la nomination d'un vétéran de la technologie à la tête de la transformation digitale de l'entreprise est un point fort. Cependant, les résultats du premier trimestre ont déçu avec une baisse du cours de l'action. De plus, la direction a revu à la baisse ses perspectives, ce qui pourrait impacter négativement le sentiment du marché. Malgré des acquisitions d'actions par divers investisseurs, la pression sur les résultats financiers reste une préoccupation.",
+    "sentiment_score": -0.35,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "2,448 Shares in Builders FirstSource, Inc. (NYSE:BLDR) Bought by Retireful LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlNLeDY5cGZvdDd1djBjcFQ0TEZqUnVoMWhzTFNNTVlPdUlLWUpKN3dUem1FWEhleEtfV29xdDYyN1VWRlp0VkVORVZOMV9TUUZHaVhsMmxlRXNpYUI2d3VOSFloSFhraXB1NUZ0VGlTTlpoU24tUUNIYmNlU1Z6aG1JUWhQYTl5YXJPTWU2bGF3OWdaUXk0dW9Ccm15Ti11b0o3NVQ3Y0FlUVllN1dDcXloTVh0TVh5MGhEdHNtLUlndnVTZ1FFTGo1SHRMUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Avoid BLDR and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GNDRTRFRVcUQwS2gxM2NPbmxVM1pCeEFTS0R4OV94ZzZMMUlBWEFKMnJySnBZQXNyd2E2aENtRVBKblBBYWFoaXlmZUU2eDJFYWFoazhkSU9iTHhLbVJSNDBHWlM0aFo5dEpLWk5kWUlkdktOQXVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Was Jim Cramer Right About These 9 Stocks? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGNrVkZTX3NzQUl0TUR6N3NVbTZLQy1SNjJRc0RCZVdtLU05R2NPMTBRZnd6ZVJQRnlJNG5VZUFwY3JPdmxmUk1fZ2VRODViNnFOSTRrSlNVbnM3blEtWXlJMWlNdVdRbEJhMks1dVM0Y1Zya2g5a0JHWko5dVo1dkNsY3MxVnJqQ2NNOE4ya3E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tech Veteran From PepsiCo and Amazon to Lead Builders FirstSource Digital Transformation Push - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNzNyaE9VYWM1UWRmbDREbGxnMW5LZDg3aWc1MzVQMnpBQm5hTDNDQ2Z4T0NLdkF6WGlNS2lQWkhEaEx4ZHNST0tabnZ0UXo5dG9qdUZUUFRGaEhMaGRvaXZ3dkRYX0w4QXBtbTFUWFVHY0xUVnFLOC0tME45TVNpYU11cG1uZmhrMUZnbU45cEFBLWdMdTBud3FXUFZGZm5VQVltSTNScXppSzVTWDFhOFIzYll0X3ptSGE0bkNkSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Builders FirstSource (BLDR) Receives Reaffirmed Rating and Price Target | BLDR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeFozcllwdkxTbWRjZE5YQ3c0R1phRVlpcE16emx2R1hPcW5hNkFnbFM4aGliSFZLZXFYaWhfai1JUkNZWnVtTE42RzhqcHJlWEJYdnhPYVE4QWh5VjhXMzNPM0dBcXRjZnRvd19FT1RwcGpFWVdFMWJESnkzRFpEOEFrUWVDTG5kNXpsdHZDb3ktOTJPOXNQZ2NseVg4TkJZcGpRX1NCbVNFdUppZWpESUZFdFhpUzZjNEJUaG9KY0xhdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Builders FirstSource Inc. stock underperforms Tuesday when compared to competitors - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaTI2QThIbFR5aS1odGxsbTNtdkx1cnJURlFGRDhieHUxQTlJZVZYNHM4SVh2VEVYejhVbGJ3UXFaLTJGdkpxMnBoUXZ0dTRwWWczUU94bFA4MlktQThZZ0xBa0FQMFBPZS16V1pkUzRpRHFDMEdCTk0xWlZxTWlOMXJXMkJSVnpNZ1dfX3ZlZi11U1lzYnlQYXBMQUpQVkwxUGpQdDlGbDZoYjZLZHZRUFpuMzF4bkZoUl9MWDZFT29sUGRYRDBBM1J2NVZvZzhtanc3dDVscGw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Builders FirstSource Stock: Analyst Estimates & Ratings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1drVnNqc25TdExua0VSclpUSUlSMjdRY08yaUs2YzV4VkpGaEh2ZGxzVnVSTkhhdEw2SEdKeV9hQ3lzRnNtWlNVU0ZJS05HUUNhbVBHQjBFXzBWRGhORG1pZVRNLTdZdEU1ODBNTmNxTXNWRjVlT1hfREQ2Wm5KR1E2b0ZrSERTMWwwag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Builders FirstSource (NYSE:BLDR) Stock Price Down 4.7% - Should You Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcTd6cVJvWGlLRHZfaW01Z3dpZE1qaTg0OHpUbkJybmVzRWNwd20wamxEVk92UVdwVFZuajVsMjlGMDFJTGZ2ZjVJN0t3REZuWFBDYWt2bjlIZnF0NDRiRG9NNWVxVjRQUVlCT2FaRDZVdDNzSVdRWjJMRWlKLTJuTGRRRmxmVnQ5cmRjbkhxVjRXcFhFd25NVXFIWDhVUTROd0VMc2RwQXlMdVFNVEJxQ1cwUGRIQ0pDU2V5dU9jcWw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BLDR Q1 Earnings Call: Management Lowers Guidance Amid Housing Market Headwinds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmNvbnhkOWVxak93RDFkb01nRGNac3ZEeUdGQkRiWC0yM3Z0QjUzTkNtRkVkb0ZvSjlFMDVodlo2dlJ5WjdFQXMzdlFTWjRGUmNjYkxnNEhtb2pWR2V5SjJQUG11aEtwTXFzU29YeEFuRWlnLU9QNEdtclNyTU94YnhiYWY?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Builders FirstSource Q1 2025 Earnings Call: CEO and CFO to Reveal Latest Financial Performance - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeXRaTHVQQ044LS12aExray0zVzRyTkt1dEkxelhwZXltOTQ4aFBVYjZOWkxnQVVjbnVlLVJhLWFSS0RmbzEwWTRSeUg2WHpqTjZ3aUpuZFNreTFVeElfempiVXBBT3Z4TUQyWDVTc2dUZVdLLUdhQmtJNTdpa0JKZXpQUkc0TVJWOUxXMW1TaGFnQ0NqM180aUVzYzI4YzVld1ZBcW9jVHZoVExvTExqWDdmTVhQUU9iWXZZSzN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $30.42 Million Position in Builders FirstSource, Inc. (NYSE:BLDR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlR1VmtNWklENUJ0MnVrZjB4VUhPazlEU3VxNm91bk9VbUJqTWFhbFgwV0lBdnQ2M0xVbHlDT0Vob2dWQnF6T25zNENibUEwcWl1S0VuT3NDYUdpSlNsd1BPOFRWYmI0YzRsekMtNW1ONzJ5aXFRMUtTbjgzcEdzS1c1eGg5WjZlUlRTM29SajhuMUtJd003cjVrd2ZLY1RpUEF5TWxKVWpHX1lrc0wtQVVEWVdQcnY1YUQ2dHlNaDJlUkI0alR6S0h4Vm1BM3ZUOGdISFpCdEhsV28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BLDR Q1 Earnings Surpass Estimates, Sales Miss, Stock Declines - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkhPR1hNZ0EzWTlaUE1rY3ZMMVhiNHJkS1czRlNDRm9qQ0NYX2Z3VEhOdXJlRW5nb3U2UW9TNHNNQjNCX0tuUDJVcDdiN3JydmJCaGVhbFJUaE43YnZrUThwZXhGZHhiaENpQ29GN0VjYXNHSmZZMDdvaHJYUWhFdExWSnFCOGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mackenzie Financial Corp Purchases 3,647 Shares of Builders FirstSource, Inc. (NYSE:BLDR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNjdvOHNodGZRalZoU2pTVFZkamxwYklQaTItVnlvYXUzVEU5SnRLOFVaQmxVYlRHSmpsZE1yTW9kTExac24xOXg5Tll3bUo5TndfejJUdHViOHJBUWNwTmlQaGZTd3ZodWtzQjd1U1VySWpvUzRjR1oySVhGLUJMYnF3TF80TWFhN0huUmdpR3pZbnI0bVhMWXVVV0Y5a1duWC05ZzUxaDFLR1hqaTlSNHhJTVRXMFVqZlJTVWVuVjFDNG5uUXZkelRnVl8xQUM1aHJF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Estimate Builders FirstSource (BLDR) to Report a Decline in Earnings: What to Look Out for - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV0VEWHNEcFNrWVY3ZnFuenRpY2VRckdDUllvLWpKZ3FsdWltQUY3UTdKSnpfTzdlQndwLXVCcTQydU9CdVJpelRpRU9NZnlTbmdDU0hMX2RjSWM3SFprVGZUVWVtNmR5Q2VrYzliS3JFcHZmeWYxOXFsUW5PandJc3Z0MnNHRFZQS21LN3hkbENUVU0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Builders FirstSource, Inc. (NYSE:BLDR) Shares Acquired by Toronto Dominion Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSmNaUnRSVG5lQklCbkRLLXRsY2ttWlkwanVIRFNuaGQ3dmU5VDBwcnRfSkNZdWhhd1hpdXBWZ0xPcHpQZ0ExLXJVSHYwZkFENkVLdkVSUUkwb05admJoRGozdWpoRjM0Q2tzVWFlaTVfY3JRdVRrWlMwZ3pmVlg1bkV1U09EWEpCTWE5SE9Kc3E0WEdDclBZNXJEMVpyOTF0bEFocWQwS3MxdDEzUFlUbTZxNDJ0UTBtejJEa0dIZDZhYWo2V0lubWE2SmxHLVJDbTVmTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Builders FirstSource, Inc. (NYSE:BLDR) Director Dirkson R. Charles Buys 5,000 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnpRMXJHeElwWkpXaGhfQUxFcEV4dEpBLTE0N0Q5WmkzZTYxS0d2TlExZXYtLTFVemlaUG9PWVVrVUV3UFlCc3FJQm9DX3d1UGZJOTlXMDZoemwyUVVEOEgzUFI0SzVNLUZqQUJ1UlVheXNGQnNrNTJxVE5SM0RVbFF4V01SRTVKQ09sZlhNV3pMQjhzMmt1YkdLbm9xYkZSY1FETXNzb3Q4SzFqcVJKMDhDOTR4ZmthMzJr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TFR Capital LLC. Makes New Investment in Builders FirstSource, Inc. (NYSE:BLDR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0FmTTlXS2doYTZWMWxQTWZKWE01NDBwV01GRE9ralNINnpCRVgwVV9BUmhsaG5RV0JlVDdnUXZiVnlKVG5DMGdKaVZiSmNDWTVzWFc5anJaVTFZYUloSF9SeTZtYUZiMGdqbk9UT1F2UUpaSjVnTzBPQ3dUcFB3T2Y5akVyaWFqYmtjaHJ1cUdtb3lzYzFTWmJUbS1LWktTZmNZNFhtOHhZZFIyWjBaUmppR0ctSU0ycmRuRXgwQlNTbWlleU1WY1ZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "111 Capital Takes $356,000 Position in Builders FirstSource, Inc. (NYSE:BLDR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc3g0bTJEQkFaSFVuYlJkV1ltcmVYRUF1QWJPbUc0b0tJS3ZPQVVGckdkNVdiYS1neF9FX2xaem5LRzNMOS1qdFZtbFo1akNiREV5TGFNdFQxaXVaTFNYdlB4LXV5Qzd5MklUSkF3ZHdTb0d3UEU0cVR0RW5aQ1FWd2FucXZ6cmJBOXZ2TnN5X2pDSklWY1VUa3pOcFk3NXBfbkJTY3BRbmxQVDFrbWRha1lFTXF5blAwaThHZW9OM3hQQXdSNm1sTjhOUnBWM1ViWEs4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Builders FirstSource (NYSE:BLDR) Sets New 1-Year Low - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNm40U2RtaFRlbUNGNUNMc3ctazlHVnloczF6aFI3NGVocjFTLW1nV2RjbWhzYnBCLTZBRUVjZXY5b3p5RWVXd3QwTjNXUzhmUWVVb2NwdlRZTlRsNm1qOC1XOXRhTERDTlU2S28wRDdIMTdNa3V6RTdzUnE5MU1RZnQwQ1dvM1ZoY2ZQVFMtYVJoX2ZwUXNVbTIyWjZxMDFmQVJZeEF2Zk1iazB0YzVEWFR3QkhlVjhXQUEzWXpKLVk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Lowers Stock Position in Builders FirstSource, Inc. (NYSE:BLDR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTFNCaEplSUJDVjExUkJLQVZxblloRlVScUc2eDMtbUw5WmtfMHZvNktUYVNCalEyM0RkaWxaQXAyclAteXpfcEl3SXQwamdjeU54UnRWbWdpV0I2akgzWHAyWVppRWFXVWNWSFFCV1BlTEVvLWJjeDRNUjZBbWxjZGt5MUFrZGNBcUhkOFRGTHRfM0tKSW9OZ210MndFYVVwRTFoSnB5eWtzVXNHQVo5U2lCblMxbXk0Nml1aFNjRWlabm51VEdoZms3OGxTbTVtaHlPZkFoNWVsNUpOVG1LbFZFSFNKSjdKY1ZzSlBmYlo?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 184.82
-      },
-      {
-        "date": "2024-12-03",
-        "price": 184.47
-      },
-      {
-        "date": "2024-12-04",
-        "price": 177.12
-      },
-      {
-        "date": "2024-12-05",
-        "price": 175.89
-      },
       {
         "date": "2024-12-06",
         "price": 175.82
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 105.28
+        "price": 105.63
+      },
+      {
+        "date": "2025-06-03",
+        "price": 110.2
+      },
+      {
+        "date": "2025-06-04",
+        "price": 112.73
+      },
+      {
+        "date": "2025-06-05",
+        "price": 113.36
       }
     ],
     "current_price_data": {
-      "price": 105.28,
-      "change": -2.39,
-      "percent_change": -2.22
+      "price": 113.36,
+      "change": 0.62,
+      "percent_change": 0.55
     }
-  },
-  "news_sentiment": {
-    "summary": "\ud83c\udfaf Keys Trends:\n\n* Builders FirstSource (BLDR) faces market challenges and declining demand, leading to a stock price drop and a 52-week low of $103.8.\n* Insiders and investors are showing interest in the stock, with Mackenzie Financial Corp purchasing shares and Nasdaq reporting insider buying activity.\n* Options traders are also predicting a potential spike in the stock's price.\n* The Public Employees Retirement System of Ohio has lowered its stock position in BLDR.\n* BLDR has been downgraded due to poor near-term demand outlook.\n* The company is refinancing its credit facility with a $500M",
-    "sentiment_score": -0.3,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

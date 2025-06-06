@@ -2,55 +2,163 @@
   "ticker": "AON",
   "name": "Aon plc",
   "sector": "Financials",
-  "market_cap": 80839294976.0,
+  "market_cap": 80122380288.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.356094,
-    "PB": 11.5504,
-    "EV_Revenue": 5.987,
+    "PE": 32.013805,
+    "PB": 11.447966,
+    "EV_Revenue": 5.994,
     "ROE": 0.72012,
     "ProfitMargin": 0.15577,
     "GrossMargin": 0.46750998,
-    "DividendYield": 0.8
+    "DividendYield": 0.8,
+    "DebtEquity": 254.468,
+    "CurrentRatio": 1.046,
+    "QuickRatio": 0.252,
+    "FreeCashFlow": 3189374976,
+    "OperatingCashFlow": 2865999872,
+    "FCF_Margin": 0.19498532362675416,
+    "ROA": 0.06008,
+    "PEG": null,
+    "EV_EBITDA": 18.684,
+    "BuybackYield": null,
+    "PriceToFCF": 25.08441468376279
   },
   "technical_indicators": {
-    "RSI_14": 59.84035955720901,
-    "Momentum_10": 3.462090604115977,
-    "MACD": 0.9276750953586088,
-    "BB_Percent": 1.106393364600356,
+    "RSI_14": 55.83590489315409,
+    "Momentum_10": 3.6823430845374254,
+    "MACD": 2.35195831771415,
+    "BB_Percent": 0.7957031394173866,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8755188135626226,
+    "ValueScore": 0.8725448495096543,
     "QualityScore": 0.3936303265615043,
-    "SignalScore": 0.545818355320044
+    "SignalScore": 0.540828295305829
   },
-  "volatility": 0.0147174414944334,
+  "volatility": 0.0147166070170882,
   "beta": 0.864,
-  "return_6m": -0.0344329689658318,
+  "return_6m": -0.0228846869880904,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
     "target_mean_price": 396.7574
   },
+  "news_sentiment": {
+    "summary": "Suite à une série d'articles récents, plusieurs signaux clés ressortent pour Aon plc (NYSE:AON). L'action a bénéficié d'une augmentation de force relative et a atteint des sommets historiques en mars, suscitant des spéculations sur de nouveaux records à venir. De plus, des analystes de Wall Street ont revu à la hausse leurs cibles de prix pour AON, indiquant une confiance accrue dans la société. Cependant, des mouvements significatifs ont été observés au niveau des investissements institutionnels, avec des achats massifs de GAMMA Investing LLC mais des ventes de la part de plusieurs fonds, suggérant une divergence d'opinions sur la valeur à long terme de l'action. Enfin, l'analyse de l'option market pointe vers un possible pic à venir pour le titre, ce qui pourrait influencer le sentiment de marché à court terme.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Insurer Aon Stock Gets Relative Strength Rating Lift - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEVWdVBuMFoxdGM0YjlwaVZtaXRkamVMbmZlVlJSRUxORkFwb3RrOE9UOFFhbWJBeTRvRGc1S0lnemd5RzJRdmZDdVdJOC1JOWstREVMN2drbTl5UW9udUJyRDhrZ1BBelhoenV2Vm11UWFtRThMRk14amlMaHlnMHQyekg4RHFvRUJ0ag?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Aon plc (NYSE:AON) Shares Bought by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjQxWGstZFdyQWE1czd5LVRjWnpHXzV2bC14ZWdSVldGVFpOUXNHbWdxbU5ocDNyTmVDazVZX3pIVExyMEZJNDVXcHdCcG52MFl2bWF5UW9OcUdYMlg3eDJicVNJcTF4UmcyYkRuYksyeDk3VnJKZDNpeHRmT3M1aHMyM0pKSHdoTVNWRGplUlRwZldhZHVnekhhRXNWUGdIRnR0V1hkUG1TWUlfNmRpVjRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Are Wall Street Analysts' Target Price for Aon Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVV9RUnZuQ21uMmhlc3RackxUQ0hPMy1lWk4yZGVUVlUtLVEydWZmRzhOcTh6eTYtUzI0VXFLMzBKc1dlQUFITWRyZFJtTTgtdWpQSVVncXd2akc3RElXZE5UTG9JeVJxLUF6VUdLMm82TWRjakhxNHdoMzZ1QzdMWTRURmFORVVZOHRMZEhpSUNFd0JNUWhOeGU4ZEM4ZERGRG83VG00am14WGhsSjh4M3FzS2JYWUpTZFlFTXI4eGk3Z2trN0tad2U3eG42OXh5NHNETG9rbEhjOHFNUXdZelRkYUowTnBfNFIxN0NKdFpWR21FaFh4SWRTdHRSNVlSWUg3V181c2NWZ2RJc21XYTdhUHp0a3lXdjZXUjBrY0ZmWkJqeWdrcTFVVU5VNXZzdm5LRm1XS1J4UGNCektidl9RcWNGMUFraHZvWHpQMDBpQWVqLVdzNWVBalI2SW1MODQ2MQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aon Stock Climbing Again After Hitting All-Time High In March. New High On Horizon? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkpvNDQ5d0s1WXBGZldsUDlBOGt3ajlydjhoUEJNeVNvSjZBZXEtWExnNWpuaVQxZDIxM1MzZ0Nsb1Fqbl9CM0JRSGQxV2IyTUYxekVoRHpmb3VvVmpKNG5UTW9ONTJrWUFveFR0MzBod2dvREZtUjJpN1JtSzYzQ2hn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What Are Wall Street Analysts' Target Price For Aon Stock? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmc3UU82RGloUElsWERwSHY3QV9lYjJDRHNYZG9nQkd5dkFZTTRIYmoyRFVTcGEyWTdPalUwZjNTajU0XzRpTkNUNExEVTlLVkpqV1BPRmNfSWRGQ25DOTdjWERnTmM5QzhWUkptbTRIbnkzakxZNUN4R21qOURUaTRjMWYyUGkweF9qX0hkMUx0Wk5SVzIzckR3WENEM0JxaGpF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Aon Stock Outperforming the Nasdaq? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xU2xpQndoeXB5Q0dULWNnVWNsMEd4OXNSRjB4Q3FqdHBLWDBTRWVpb0hjeG5pUjZIZ0hwa0pvWVB3MEo3NkJJWWVTMEItWVhYakxFOHBuUms0Q1daRkdPMTZxX0hIbHZDWklrcVdPWQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Aon plc (AON): Among the Stocks Analysts Are Upgrading Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsb3ZSZlQ3eEdmN3pOZDFwejNhU2pvb3RwYXFGb3IxZzFyZFF4Z3VRV1ZNUjF5emhTcjhMbUJxcjBFcDFRaHpEZVRoWjVaSkpLUW0yOVR1RXd0dUVNSWV0Y1RWT3lTc3JFRzU1bmhIbEFZeldFdkEtMXd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$100 Invested In Aon 15 Years Ago Would Be Worth This Much Today - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUlXbVJWNzhwNkJpZjlrQS1SUVkwMFRydDdPdTIxd3dvRkFGRDR0azJURHRBbk1LUDJGN2lLbHhqNzZPOC00VGR0MWF0ZGE2c1FfYnNjeXhNbXRYR3VhcnlSVXR0djlvSGNlczlnd01Wb2pTREIzLWRkN1JzX2RPMVlLa09LWHltNVA4U0dOQkthbks2dnFKbUQ4Q09hM1NTTUZlR3BZdkU4ellhaE9KclA2cEFUQWlp?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aon Unifies $200B Risk and Human Capital Units Under New CEO Andy Marcell in Major Strategic Shift - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlpYZWR6bUFYQW42NEF4eDVpMlF2TTZueUxzRW53dTRXeVQ1QTRrVUF0Ni16WnBlZXFZUmVGVm5Ia2RQT1V4WmJfWnhDN0NrVUQ3NmQxVmozb0hJZGlnUjJlMkV3X01Ca0ZOeXp1UVA4WHQ2SU9mYmx4eElBNjNsaEtWRFNscEhpLTItNjNjZ2t6ZmJwQW5pM0JfWUFVcU1VdWhfZk0ySng?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rothschild Investment LLC Sells 2,530 Shares of Aon plc (NYSE:AON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3FiMmlZNUxvQWQzS1RTNkMyOW1NY1FqbXhhWlQtem92d3h4MS1vX2VNQVVIeVBZd2JFZ1hUdnlRLUVZcVQ2WkpHNkY1RVlLWDhoZ2lqZDA1LVoyY1hlcG9rV1hJM3JYVFdNeWZac1BOblR5RTJ6OGZRU0YyS3d2emsxa1JlQUM1Rmprb3FmbzBaVHNKUDg0TUtSZElsajAwZDRCbloyS2RLT2VNTXFEMnpRT0xxLTVCb1hBTE1vUEQwMm16T0o2alVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lbmc Investment Advisors LLC Lowers Stock Position in Aon plc (NYSE:AON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnhFRFVmUUlhTTFWSUZOZThreUtYTXdrRUtTVDZ1VVdtMjhoTzRPMDlwc05QX0h1QmZpZ1RaczBPSTZUNlNNak9kV0FXTnVxYmcwZzhEREFndC1kbUtQUjFyeDdWTnR3NHBmVTJlTHl2YVZUZGMweTVYMnRONWExZGR0TW00aXE0cjNscEh0a3paQmxwMl9tVnN3T3M0dmlVdWV5cU1iUllJMnhmVGxVMHJXazRtUkc1Q2I5eg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "IBD Rating Upgrades: Aon Shows Improved Price Strength - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNempiZF9BSXB2bVBsWlJBQlAtQkJ2TzZhQlNWVGJNNlRtcHFKOGFyT2t2YS1pMTJwblpwRy0tVmozRFBIWWtnOWpfS0pQdUkzQXdaN1plWGJoMXZfTGwzUFdXWm0wVzBoXy1Qc3JnRmM3b2FUaVVnX0FPV2pzOEFDalBrY1ZlZGpCS1hPeDhzaFFiZ1l6N21lc2JpUDJZRWQt?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Acquires 760,516 Shares of Aon plc (NYSE:AON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzNucHFfUlRzZUlPZkhTNWlYQUdRdkE2RWxkclpURV8wbkc1cEphVGVfZkJOOUN2Q3dHOW16cXZWb2QtUkdwNEEyLWxLbFRDbWVKREhUbGNnOEZybTJzN0JnUU5lZzBXZEFpRmdWcWxYcUhyREZXY09GeGxZVVYwRW9NYi1mOS1DS2h6amNTcW5tRldxVFNfMDZTeEY1emtjakxSYzl2SzZ2YWw1Z2tRUURaS3F4cWNzN0tEbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aon plc (NYSE:AON) Shares Sold by Sendero Wealth Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0hNQU15eURGY2JvRUdmQTIxN2dLdURIeVdUNnk3VXotTGtyX1V3bVY5WGM2aHpqa3RoZFh6bHJRSkM2MElsWlJWU3lLYWRxd3FNUmc1bDFJZTk1eHo5UFVyV2R6WEY0Z1RHNUd5Wi0zVkwwU0dzMVd3elp3UDl1UEk2aFFVYkI3WUhNOFAwV29xU3pZdkxtNVE5YXhpUXg0WTdsWFRtQXNQN2NRZVM1TWlmLVB0Nm44dEIzVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Heritage Family Offices LLP Sells 678 Shares of Aon plc (NYSE:AON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZVotdVZVRzJxbmpDc2YyWHp1NC1HbzdKS3J6azNqRkNHWS1IekRmT05CXzd5dHk2LWEwTTVZT0tLNWJ6VlJuWmlZN29OSE40MlZEakNiUm1KNXZTa2w2U04zak1wQkVWVm5wM3hpOXdGb3NrclphY0JIZVRUVzEteVVBRlladTNoVGRKajNjM3ZpbF91NENUb1pSaDV3OG9nNU0yNHhfVmh5eWNpUXFhcWhMOHA2Y1U5cTg1WDA1bWFGSXlYWVd2Q1VhRjc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boston Common Asset Management LLC Purchases 12,450 Shares of Aon plc (NYSE:AON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU0J4R1JXa0ZfLUc1eEpxNTVnU1g1Tk11clAwbDZ5dEtNMUhsSVpSVlhYZWdmRTdLMlNzSTZQNENYNEV3WGtrZlRIWVQxbXNoQWpFbVg4Z2lfSU5heXlQeXY2THpGaC10REpYeG1YUlZSMk1hX0lHTlpHdjJQOS1KLVVfaVB3M1N5TDRlZVhNTzBabExWRHUyLU56ZVN5OGhWQW1aXzVONGotcXZ3U0lnMVJWV2JTd19kb25wQm9keHJScXM4Y0FJLQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aon plc (NYSE:AON) Shares Sold by Jefferies Financial Group Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnNEM3NuTjJXMHppLXZMdmZjbjFscTFGUEp5VkxYV1ZtckxRbmR1b21aMkNjLTdVbWtSLThFd0NLbFBVb3NyQ1dtdFNYaHlsUmkxajloVE54UlBaSDRjMUl3OU1JYTJfRXAwZ1BBajh1bFhTRDE5OTI4bWpmYXJpbERNOGFXUnBkZVYwajhsLTVDaUwwbDVKejlCQnpyOHlzZXVKd1gzRU44UW16TnlEVnZJVlpwRmVRWGJDZ1VsdzBjWUJkRkJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fiduciary Alliance LLC Trims Stock Holdings in Aon plc (NYSE:AON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR1NKLVpvNFlDVWRVdDFIX3p2N0JZekZGaUlWb3NpNnl1LUZnckpYczNXdEMzU2J1ZlhKaUx2NWEtS3JFYmR0Qmh2YWxWNDJQZk9jZ2dxVlBjN01IUXFWSi1iNDJxb1NQLUhrQXFiVWZNS3d0Szg3M09CaTc4OUxmczFlUFZJS2RkdTBDRHE2VVU5WUtEZGtiU3RXNWtqZzM2NzczZ0k2eFpGLTQ0enQ2cU82VExnMk5PSGpxSjR2c3M?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dudley & Shanley Inc. Reduces Holdings in Aon plc (NYSE:AON) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczc1aWNxUHhyX3ZiYVRrOTYwYmhSa0QydUZYVGQ2SmgtUm55NGFlZXZJYXNjdTZVQ21HejI5c1gySGVBZnpQZGZiVnYyVzc5VlFWeW1CM1FObmk5X2xadTdQNy1DT3JWNEpfT09iNzJrWTQ0Wm9rLVV6a1BfbVhxdmNIZlJ0em11NjBCTDFzMGZIeXJha2R6Tm5lYXpaTnJQRDBoY01zWkhWWEFMX1VKUmdKRlVaZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in AON Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSnU0dUxMZEtpdkM0dFBYZUd4QkI4b1hTREE0Rm9oVVo5YXYxc05QRlRzODc4cXNmNXg4WEVzUlgzaEhHbllhb0hBcVgyYUF3TzJKOHJGTmRxUG14anhjSlhPUEVjN3h0Y3NLcUlwMTAyLTVnMGdkWmR1a1RrQkxDeFFDOFdfU1BY?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 387.71
-      },
-      {
-        "date": "2024-12-03",
-        "price": 385.56
-      },
-      {
-        "date": "2024-12-04",
-        "price": 382.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 379.73
-      },
       {
         "date": "2024-12-06",
         "price": 378.0
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 375.29
+        "price": 376.16
+      },
+      {
+        "date": "2025-06-03",
+        "price": 374.48
+      },
+      {
+        "date": "2025-06-04",
+        "price": 372.62
+      },
+      {
+        "date": "2025-06-05",
+        "price": 370.49
       }
     ],
     "current_price_data": {
-      "price": 375.29,
-      "change": 3.24,
-      "percent_change": 0.87
+      "price": 370.49,
+      "change": -2.19,
+      "percent_change": -0.59
     }
-  },
-  "news_sentiment": {
-    "summary": "Aon, a global insurance and reinsurance company, has undergone a major strategic shift by unifying its risk and human capital units under new CEO Andy Marcell. This move is seen as a positive development for the company as it aims to strengthen its capabilities in risk management and human capital services. The company has also been experiencing a strong upward trend in its stock price, with new highs on the horizon. Despite some recent management changes, Aon's stock has been outperforming the Nasdaq and investors are encouraged to hold on to the stock due to its potential for continued growth.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

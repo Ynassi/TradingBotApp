@@ -1,56 +1,164 @@
 {
   "ticker": "HMY",
-  "name": "Harmony Gold Mining Company Lim",
+  "name": NaN,
   "sector": "Basic Materials",
-  "market_cap": 9625170944.0,
+  "market_cap": 9572285440.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 16.634409,
-    "PB": 0.21003611,
-    "EV_Revenue": 0.035,
+    "PE": 16.54301,
+    "PB": 0.20888208,
+    "EV_Revenue": 0.038,
     "ROE": 0.24778,
     "ProfitMargin": 0.15683,
     "GrossMargin": 0.37537,
-    "DividendYield": 1.21
+    "DividendYield": 1.18,
+    "DebtEquity": 5.254,
+    "CurrentRatio": 1.839,
+    "QuickRatio": 1.429,
+    "FreeCashFlow": 8504000000,
+    "OperatingCashFlow": 18840000512,
+    "FCF_Margin": 0.12672676869768568,
+    "ROA": 0.16660999,
+    "PEG": null,
+    "EV_EBITDA": 0.117,
+    "BuybackYield": null,
+    "PriceToFCF": 1.1245240714957667
   },
   "technical_indicators": {
-    "RSI_14": 53.60769056454468,
-    "Momentum_10": 6.984787179926356,
-    "MACD": -0.0557591816367324,
-    "BB_Percent": 0.6487097673605464,
+    "RSI_14": 52.9839144587564,
+    "Momentum_10": 0.2933512115145169,
+    "MACD": -0.0205183649061844,
+    "BB_Percent": 0.7406849271561095,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9351839714034766,
+    "ValueScore": 0.9331149702891408,
     "QualityScore": 0.4484612071840685,
-    "SignalScore": 0.4172133917156136
+    "SignalScore": 0.541211161844332
   },
-  "volatility": 0.0379389722955423,
+  "volatility": 0.0380714444921234,
   "beta": 0.68,
-  "return_6m": 0.7343049478376504,
+  "return_6m": 0.7724654018396684,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 2,
     "target_mean_price": 15.80767
   },
+  "news_sentiment": {
+    "summary": "Harmony Gold Mining (NYSE:HMY) a connu des mouvements de prix significatifs, avec des hausses et des baisses récentes. Malgré les questions sur sa valorisation, des investisseurs institutionnels ont augmenté leurs participations. L'action a surperformé le marché, mais les fluctuations récentes pourraient susciter des incertitudes chez les investisseurs.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is Harmony Gold (HMY) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlltcGxMX3hLbDVSWUU2ZWdhaGNEWVVSVHNTNzhwek91RHBZN09OM2xLb2g5RDhIZnNlSGVBRl9yUzRGUkEwRHVHdy01ZDRCbFdpS1pLbnFnc19EOHhHcy1QLXFaQ2d4amk4eHgzVjMtSWtyNjRIN19seEVLZDM1WmFVUWE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Harmony Gold Mining (NYSE:HMY) Stock Price Up 6.9% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSnFkSUY0ZjN2UlRfTWp1UnZpbXNKa0VOVXZvQkc4dHZxOU9ia25zV3BUanBEZTlET2p1eGhJd2diWmhXOVREMnVPeEtBN1N3NnJOS1oxcFc4SFNSYVBBUERTX0hYaUFibEdLUm10WlRqNF96ZXlReklkeTU4TjVHLXoySlp1ZXZUTlByRExQWjh0M2RCTUt2VWJqZnJxTHJqdUlic25acC1zTVVCVnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Harmony Gold Mining (NYSE:HMY) Shares Gap Up - Still a Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVpyT0xKVFJ5ckxReUUzNE1ETm1CNURIOWRLaTE5bTFESkRSaXIyaDFhWDJTR2FRek8yOXNKdGJxSlRpbGc3ZzlWRFB1YkQyR095RWUxQ0ctN2J4dlFlMEhJSDMwbzM4c2FRQVc1S09MQktaSGZRX2dxZjVwLVBGQ1VRbVdWZ1NmVVpadDhHcmZBbzNKOW5lR0R2TnV4U05ZaWhXRFROYXcwdTA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Best Momentum Stock to Buy for June 3rd - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QZ0hFMWRhS1QxWU9lRFdPS2hmd08xWTN5T1R5anpMTlk4QUpkR2lIQVF2SjJ4LTBvWjJQUWh6RjVpZFBCSm9pLTdZaVIxazRlVTFvdkszbW1QVGhBVllKb3RWc2cxNWVySkV4VjFoUmFoZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HMY vs. FNV: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50NjJBdHE0Uk5XRTA5UFY2bkh6VnJ4Y2pTVnd2bnR2Z2xkeFo0X0RKVjdzZWM5SEZ4VmJsZEdva2EyRlpyOW1iNGRKYXoyUXB6ZlVfY0FqZ0RweFVHc2R3SlR0X2xpa1NlTnRHWHp2dldCSzBDTUQ3bQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Does HMY's 55% Rally in 6 Months Justify Buying the Stock Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MSVEtbC1vYk5LVFR3ZVFQSFV5NW1aaVV4ekxZUndjdFJDRWlZOFhUc3VWODNVRXZyQlN4TklHRFVaQ0dXVzhSX045cjljNFg5UWkzelRnLXlhaDJCVnlnUVhoTC02cEwySUdQV0V5anRLaktK?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Harmony Gold Mining Company Limited (NYSE:HMY) Shares Sold by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS2ZMWXQ5MjFDbmpRb3VmSjRzSUZhQUlhakZYeFFqMElZZjBmamV3RUNsZGxGa1hmQ3JMZXdhb2dGLVktNDU0VEpFMkZoa3g2MGo0S0w5RWFvNWw2Y1ZjV19YQjhSR2szdkdYbThOdDBsSEVGSVRjdkFPY1g5T2lZbUlSM21QMFdXMU84UGpGTFZ0SjdGc1dZSy0wWjM5M0I5Y0VjUmlSc0tRY0Z4Q2Fldjd4ZnpkMFZNdHJ1aTktdk9WYmItYmd4TEQ2akkzMWZGdUlXd3ZNcDBPbUR6dWFXU3RNRXYtdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Harmony Gold Mining (NYSE:HMY) Shares Gap Down - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdk5UQ19FTkhHOE9wN21hS2d6Q2VuOUZuRGVsOUZzYl9OQnNCeUxON0Q5MWdPWUllNGRCTXdDQWtPRnoxVW9lOVNPeEhSeDA1SFExWkt3MXB1SkRQazFNUWcxZHNXWUhacFBVVGl0N0x1NFFUczUzdWpMY001cDZBZ0F1al92M0FDTHg3NHpjeHF3WmNWcnlwa1NCMElpbk9PM0F0bVE1UFlDTDBvOUxv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "HMY vs. AU: Which Gold Mining Stock is the Better Pick Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xSWExak96Slh0cy1rWTZuekdyT2w5Skw3TmZZdVdjYTJEd25EbmlZSVVUTmFjYzZ0ekpXbnNnQWgxaElSQjF3M3U4d2g0NnRTeVFIMGlTT3BqSnNYcE5GWmdYaENJbERuekRPZXlnZmJNVFQ2VGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Raises Stock Holdings in Harmony Gold Mining Company Limited (NYSE:HMY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNEpHQzF6NHVoTDZIWUp4OFh3OGliUUZZTTRGN1lLTGpjRGV6b2pLMUxva05uTDBZVTMxN2Q3eDZ5d0ZfbE5lQ3dJSExSNmVlc2xJcUQ3NTlSbTFIdms0VGVMOHE2YTJkZnFQUi1iTjJMQ3dXeE5JUUoxV0ZXcUpRRHlmTXNKMVdnakpfOHBHaUllTk5BS0xlV0ROeXFHeUFSQVJPLUxHbTYwS3hIelRWUzlPbDE4N0x2akp0NFRPMUxFSUJWR0ZHM2ExWllyczhCVGE4SFZDajB5Q1F2NEVZM1RCMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HMY or FNV: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFUWpiTWVyUFp5cmN1TElESEpabTJPdjZpbDQwMERETS1nRm45YTVRZ1NoOUJBSXBiWk10RUJiMVJOTnpjWnBWN1FOdWxCUEpFOFJJdmw1Q0ZSYl9VTXhIZlVQTTVVT0ZGM09TSlV2WHNtSTJRbHZwN2JzLTE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Harmony Gold Mining (NYSE:HMY) Shares Gap Down - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVoyUXJEVlkzc0FUSFJNZEVjYmtWdmdnd09VdzBialo4bHRJS3gyU0MzSXJxVkFlbVBLQ2QxVDNuZ1VlMEJyUFhtMGs3YTZrcC0zUWJrUjZlNFUxa2R1d2tKMjVhV1N1ZTljTGlzc3JEbmRScVI2OEM4TmdhdmVkZ3FSWGx1RTR1Z2w2eFhhYWNlRHM3UG9zOWw3ck1CbjhUMTlPWUhvaEx1OXdsRU9fWlNyaw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Harmony Gold Mining Company Ltd. (HMY) Soared Last Week? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNnVRZmdnZXQ3emswR0JaQUhJRGktaVBuZUZZZXNTRDhiOFlkX1plMmtwZTZQRDNDSjgxU1VqR3o0YUNaY1NhS2l0VjhWdGlLWWxFVWRtTGVsUldYQXJQeUM3a1VfeVh0WVFEYjAtZ3N6RmpPNFVYcXhOVFpxZzA3YW5Caw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Harmony Gold Mining (NYSE:HMY) Stock Price Up 3.8% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWl2N2ViVk45OHdNdG9tcllhcGFneWFDMFc0cm1OY1hoeDhQcWNQMm43dndBNGJmM0NXdlZkOGxNaFZyMGY3TjhnRlhpejV5TTloXzBxdERlWEdLc05pWjFSdWxTS2xzZms3WnpYM3JuanVLTkF0OXk4VTV3RldCSXJNSmxpOEpsQ1FNa2hBZmh5QU52TEoweEJSYXdVMDdyWmxTYjZoZVpwWVg4T3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Best Momentum Stock to Buy for June 3rd - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qZTZvUGNtRXBrUnlCVk1jV3RaeWU0bW9JMkRRdkVnNzI1a1NEX2wtTXhjMFhfNWtzUUJHc291VFFuME5rOUpaaHo3aHVPZ2Rocl9NUFFiVlNHSy15YlhvcHo2M3JlMWtzLTU1TEk3dktFX3JralJSZjFOTmg0eW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Harmony Gold Mining Company Limited (HMY) Crashed on Tuesday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYS04WVhlLU4zVTRiUjBjSDVXXzgzMi1PMVRwMXVoSnBjTVJRTTBiYmVPaG9NTXBjNHRPRTd3STZHTjhLcUtLWUlDaEYwR1JlckJjVldta3JNNVZtWnlNZEtvamN2TndDdWdsR0huSzF1ZHhzYWc5SlE0SzhhN244WEZqcw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Harmony Gold Mining Company Limited (NYSE:HMY) Stock Holdings Lifted by Mackenzie Financial Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSF9MZkxHMm1hZnJ3VHVPLWpDNHRJVnlHaW9MQk9reGpJN2E4NkhsTHB5ZHhHNTljekVNUHNsRlcyWVlRbng0SGtsc3BPaTRtczJzd1d6aU5YZ3lkS2ZfTXhFd0VvMFFKWTZvSlJZcnBCY1dLTjlqWWUwZmJHZ3dmNm1GeTNoSWZVWWlYQmZJbXVlaTlQMTM5bk5tTlQ1OUVmMG1nVHlUZGhKNkV0RlcyNEZYUUY2SlZEWHRhZnRsYnpZUDdnN0RHd0R6VHUtYkkyUWwxWmxCbFZJd2JNdFpDWTJ2bWNvMWZaMWFlSVZyNDdLUkJmbHc0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Harmony Gold Mining (HMY): Among the Stocks That Outperform the Broader Market - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0ZUQVZSekFQX1ZaSWJjRml0cEtwMWNQaG5WeTJKd1hsOEVoNVNfT3hPWHF2Vmc4NkJ3UVBETTZHZzFzNmVsbG5qR0tZN3Q4UmdHd1FhQml0REYtdkZ0TjJYWHBROEM4bXFybWRZRHdNV20yUml4ZndxRmhtQzVKaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Harmony Gold Mining Company Ltd. (HMY) Went Up Last Week? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3BFaXAwRjJWOEY3RGhRV1V3djJyTHk4ZDZzSWptN1VzS1lNSWtIZ3A3LTJMU29Nb2ZrRFp2OVY0dDdBQjNDZGl3c2l5ZnlWN3hmd052dnNpdkNmTXh3U3hvc1FaZUtja3NOVldocTdMcTNqdVpUbENSbWY4blBoRlk1cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Harmony Gold Mining Company Ltd. (HMY) Went Up On Monday? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaDJlTDlvaDdidFJhdjJhTU5TYWhWOGtaRXNkdjJHWU1sZWZlNndnUWgwZFNIU2dVbjI4OWxJNGRsM3FrNlY4UXY2ZW9zc2NKdnlQOHF0S3l4aDVTN3lVYV9OV0hkQ09ydzdvaS14UXB5MjFLcWVGdkhQbzQ1YmczdlNQRQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 8.92
-      },
-      {
-        "date": "2024-12-03",
-        "price": 9.18
-      },
-      {
-        "date": "2024-12-04",
-        "price": 8.97
-      },
-      {
-        "date": "2024-12-05",
-        "price": 8.94
-      },
       {
         "date": "2024-12-06",
         "price": 8.68
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 15.43
+        "price": 15.45
+      },
+      {
+        "date": "2025-06-03",
+        "price": 14.85
+      },
+      {
+        "date": "2025-06-04",
+        "price": 14.94
+      },
+      {
+        "date": "2025-06-05",
+        "price": 15.37
       }
     ],
     "current_price_data": {
-      "price": 15.43,
-      "change": 0.82,
-      "percent_change": 5.61
+      "price": 15.37,
+      "change": 0.42,
+      "percent_change": 2.81
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent Harmony Gold Mining (HMY), une entreprise cot\u00e9e en bourse qui a fait l'objet d'un accord d'acquisition avec MAC Copper. Le prix d'action d'HMY a augment\u00e9 de 3,8% et le stock a \u00e9t\u00e9 class\u00e9 parmi les meilleurs stocks d'or \u00e0 acheter lors d'un retrait. HMY a \u00e9galement \u00e9t\u00e9 class\u00e9 parmi les trois stocks d'or les mieux rang\u00e9s \u00e0 acheter. La compagnie a \u00e9galement annonc\u00e9 un changement de strat\u00e9gie en achetant le MAC Copper. Le prix d'action d'HMY a ralli de 55% en",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "AIZ",
   "name": "Assurant",
   "sector": "Financials",
-  "market_cap": 10338706432.0,
+  "market_cap": 10218034176.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 15.893219,
-    "PB": 1.9797472,
-    "EV_Revenue": 0.862,
+    "PE": 15.707716,
+    "PB": 1.9566399,
+    "EV_Revenue": 0.866,
     "ROE": 0.13204001,
     "ProfitMargin": 0.05554,
     "GrossMargin": 0.09984,
-    "DividendYield": 1.58
+    "DividendYield": 1.57,
+    "DebtEquity": 39.809,
+    "CurrentRatio": 0.416,
+    "QuickRatio": 0.14,
+    "FreeCashFlow": 1277987456,
+    "OperatingCashFlow": 1642599936,
+    "FCF_Margin": 0.10586902998580733,
+    "ROA": 0.01705,
+    "PEG": null,
+    "EV_EBITDA": 9.012,
+    "BuybackYield": null,
+    "PriceToFCF": 7.990650099150895
   },
   "technical_indicators": {
-    "RSI_14": 57.34049302413172,
-    "Momentum_10": 0.7561897718828778,
-    "MACD": 1.2624029523690297,
-    "BB_Percent": 0.8715982783642892,
+    "RSI_14": 52.73316724627848,
+    "Momentum_10": 4.5397886598754775,
+    "MACD": 1.7054904295532651,
+    "BB_Percent": 0.6018936091024657,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8978987214895018,
+    "ValueScore": 0.8950506706273007,
     "QualityScore": 0.3443414970308253,
-    "SignalScore": 0.5765996852800037
+    "SignalScore": 0.5499746065143047
   },
-  "volatility": 0.0180422560706329,
+  "volatility": 0.0180532723878157,
   "beta": 0.603,
-  "return_6m": -0.0900466285320203,
+  "return_6m": -0.0992309122965029,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 233.0
   },
+  "news_sentiment": {
+    "summary": "Assurant (AIZ) a récemment surperformé son secteur, bénéficiant d'une augmentation de son cours de 3,5% suite à ses derniers résultats. La société a annoncé le versement d'un dividende de 0,80 $ par action en juin. Les partenariats stratégiques et l'innovation ont contribué à sa croissance régulière, avec des analystes haussiers et un prix cible revu à la hausse par Morgan Stanley. Assurant a également conclu un important partenariat automobile, renforçant ses activités et ses revenus.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Is Assurant (AIZ) Up 3.5% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GZzlBV0NMd3lOVUpMbHVPM203OVF4dlloRUNuN3lESU5Zem1IVmJPT1pKeWNINE1lNjVqdHZsbHZBaUtiUHJRc2U1QkczQTA0eFRCWmY4X2NCc2VtUzZlbEl0ZDJGaGlSNHpBNXQ1bElpVDhP?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Assurant (AIZ): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53X0dXOE9fMndfRXd1SEFuYURtUzlzT0Uydk1KQVhFZXVmaDZ3YUx2c3hyWkVqcEJENVN4US01cWtQUkFlQ1hZWUlkeU1iUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIZ Outperforms Industry, Trades at a Discount: How to Play the Stock - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzB6NFpGY004Z2l0U2tMVmhjYmN2Q2loRHZoX2FUTXBfekx5N0xCYjNST0ltQUk2RUF2bUdOTGwxOUhJZ0NPdlJsaUFrcWhwUHdfeTQ0cEViMUhWWEFMY0ZkenZVNjhmdmh6Q3ZEU3N6cnZlR0xnV2F5OVk0RFBjcGV3cWdZRkNjUFM5MWxZTnZBWXVaVFV1YXBDSzRwOEpEQVRHTlp4WDFMTDdHODVsWWNqbS02VzlVN3BidkREZVg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant Shareholders to Receive $0.80 Per Share Dividend Payment This June - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3M4eTdrak9QWExxcjBScFcwTUNuR19qYWJTWUF1WVlaWDgtMUxjeVc1UUZ1WTJYNzVSd2c2cmVuT2FnR0FPZ3JaTUVXREZJbmZzMGF2RTkxVlNzNVltQno0RVpLZzV6ZjVTTkFVS1JmbzN6T25uRG1MZkJpSUU1c1FTQkIxd2ZsbTRISUljZDMzMUwxS0l4MGQtMzZ1eVVkSXNOQWE3RFFzLUpNSG5lYXdZUlo1U3E5TGhYVWFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Are Wall Street Analysts' Target Price for Assurant Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMFVwVEZzX01IY0JmTDU1X3I3czBxaHNPQU5IZC1wS1lXUThCZVJvWlV3NzQxVWRfSThvUEptYjJlMEY5SzdhTzk2dkdGaTNjNmstWVQ3dDdUMklSMS1EaGJNVmxFbnVVeGNMQ2R4Ny01RExCUzl3ZTV5dGFQLV9qLXV6Uko0QU5kTzVmR21aN29Ib2hsTEhWNVF0TjlOZ1REZHpyVEJZa3pISGZFTFBHYVZxNkpWZEdKUXozUFgyNHF4WVVOVGc5SlI5MTVqNURlUTEzQ24ydUx5S0dmVUdXQnk2Yk1oZTdXRXJnVFBLMGlTbUFKam9Mb3BCV212d05aNVg0aGVDZnBLcERxMHhXNEpvWkpyTkVvbHItTUx6M0JpTXBHdGMxR2Q5ZjJCQXc2cjk5SXN1NVRXbExfbDk1SkFOUDdMUHMx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(AIZ) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnVhV2ZnVHpqOERnZFZ6RGFZY3d3NXMtTUZaYnkzSzNteVNTSDRuYnJ1VTBjdVpTNktrQzZ6NG05RDNHekE3eHlyTkZlTmFXSFdOenZhUXkzbTlUaEU5VUMzSmxwbXVRZGpjcGRRRWlLdDJOX1BVRHNPNEc1T1ItQU5yQllBUjBvNWlzMmtZU2pvNEluM0o4bGhkVXBHZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant to Announce First Quarter 2025 Financial Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHJxQmNmeXpGYnh4Z0h6N1d5Uk9BUjRRYmkxVFJrWk9PaUJ1TDZwUUhXMWVfTUZraFI5WWZMd1E4Y3dtNTctUDF4X2Z4TzlUNHFlZFFrSTBnT0lSQ1dFZHNwVmJBR1d3MWRDeVhNdjZJdm5wZFJrZy1OY3B4eTlBc2FUS256d3AtaXdmbThuMWhDaUdVNEp3YjRLd3JMSkotSFE0MWJ5eUVNSlZMcHdzUWJmajk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant (AIZ) Target Price Raised by Morgan Stanley | AIZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2MyMjJXWi11NjVFRkFWb0F6ZlVOV3Uzd0VacENBVXpLZThCMy11RkVUZUl4Z2V1TVREUEJwQk82OTBybGxRXzYyaEI2d0ZyQVJYMHBUaE94SThlcXFBQktiemdRc3FVeTRfaU43QlFHZ21tUmFROXR1Q1ltd25qVGlyNl9vSXRURzd3Y2xic1Rfa0ZIc1ZKNEZRZE1pYjU3Z0pJUGhiYW4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant: Consistent Growth Through Strategic Partnerships And Focus - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVW5WeUhwTUM5aURYY2x1bXZkelQ4NWQyWlVxLWlJVVM1RG84LVJrSEVxTHB3RU9WaDlkUTlaMW9hTk9QbERYeElNNmI3bm82dFN4Z1p2RDhGNWpiaE92VUtxaHJhdVRMRlVaY0hBdmp6bE1wVHpncy0tXzhiXzZuMFNzTUp4cUwxTGdtb0NOdzNPUW0zV3JQQlNvOGFIamxEX3VraHM3NFJia2JX?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How Much Would It Take To Earn $100 A Month From Assurant Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtX0E2VGYtOVBuMkRKSVdybFpIa0ljOHk1QXdYdDJaYy1hSjQwcWpmZUZKa19ZZXFNNTViTXI5NERBUmh2Q3diQjlBUjFGQmxQN0xGa2N2RmtNS283bWQ5ODdoQ0RVMVVTRU91OEFidmF2RzRUTXctSFJSb1FfUTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant Stock: Is AIZ Underperforming the Financial Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVFdQMTVuVFdzdll6UGdZM2MxYnd1VkdDcjE5NE0teHdKRHdxM05Ybm1wYlVZcS1oVEpJT0dhRFJ6ZjgtcUpXU0stYTVyVmJfNkhkR0ljV2NhczlDVk05X0p0X1ZEcGxKMEh3R1djcXIyRTNlcnNTS1FQZ1B4dk9kdmJ6REd4SVdGZ1Nr?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Assurant Lands Major Auto Partnership: 54 Dealerships Get Full Protection Suite and Revenue Boost - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUhuNGxTcHJZM19QaGZDVjBaRV9Ya0t0c0psaXhOd2tDRURmNGp2TXlTVDI1QW44Zm5OMnZrWWJaNE1VeHhhU0FoMHpRd1dXX0tNMmVpZ2Z5MkE4U2RIamFzbi1XMUxGNEhMY1BXcGZOeEhIZGp2SEphSExlSmM2M1Rpek1GQnp4M0lBVldNZTRmWTdEWU41QkpUSklrZWQ3X2FjV0dYVWR2aW9oNUlMcXZyUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Global Protection Leader Assurant Readies Q1 2025 Financial Report - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNS1sdFVpMTVOdkxYVWhzTlljVXlWVU8ySFF3d3ZqdExZVjdISFN4azVnRG8xRDBOaW53VXJuVkctZk1wa01KQTNfakhHdFpwTjRnb0pGU0hXNlhFcktsdU9lSDJUazBQVzFBVV94amNyU2xCajZBOFZuVzB0VHRscUJubmRXeERtbno1VEJwb0E4SFUzWmtfS25QaUNPNXJiVThHVEV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIZ Stock Trading at a Discount to Industry at 2.14X: Time to Hold? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGJ2RFhxYmVIbXpzdU9iNjRjU3JBQXhib3FvSmYtT3E0QUFFN3c4LTFla2NNWjhlZzd0U2Q1WXZZZTI4QUJ1amp1RE5zWi1DUmp6Nklyb2RWOEF3eDVvOV8yTHRaaWRSUDVHMFU5d2I3TnB0cUdGSTJyZUFZalpsRHktQjFGdDFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Assurant (AIZ) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzlsSXd3UUx6QTFMdkZCaGJYRG1XaW5pRWpwVWdLMFM3YW03TWNkVDU2VXZQZFBTOE9Ic3ltYkliTzlEV3FPN0JtU3VSSHN1Znkza09YWlVUMUp4cXBjczV6NWlZdXAwVHVoTm5EWVp6eno1MVhMV2Q5VDZjNzdHSEdrNGtXTzB3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mobile Trade-in Market Soars 40%: New Report Reveals $1.24B Consumer Windfall Amid AI Device Boom - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXBiNldsYzhKZG5sZUdTaF8xOG13VS1EM0RJa2Y2U28zb1A2d2FDZnp1dmNPS29JcDhPVHVIWmdtZkFaa0JhYkFpc3FDSDFSenJjaVB3LTBFRnZ6SWhaMmltbmx0ODVacS1fTW4tdndhajRGUk9wMkNzbjBVSDNKV1g0Mlg3WTBOSkZaMEZfbHhtZENPQ1pycV8xRHlId3JIV3FfRUc1Szh0cG9tTzRtNmh4SjBaOWlJQkRPRg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Will Assurant (AIZ) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRnhwbjlUWVlMWVJJckthVXhxY084amU3ZjVEX1B3X3c0a05pVWlFS3VzTmpWTE5YekdRcm1kYTFKWjRoSkhPMHZ2WnNxUzM2TFh5V0U2RmVJbThDU21sdTk1VFNNOG5pWHVCVkhnbVQtRFM4NXdVT0xBM0dicVRNN0JUQmFOdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Assurant Inc. (AIZ) the Best Property & Casualty Insurance Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUE1a1EwOVE5X2Q4MDRJOHZjYTZwOXppWEJTNmI2SVJjdGppZHh6WEpJdEowNmJqdEFBOGlHNkx5d2FTSmFFWEdHWWxFdU85LVI5XzNxQWFXcDBOb2pPSzZMb0tGbzV0cTVydHJZTmduVTVuelJoV1Q5UkVLUlE3OUZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fortune Recognition: How Assurant's 400+ Patents Drive Innovation Leadership - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc3o5dlV1NFJoUzdHdWoxRWV0M0dzV01Qc3NvLVpxZmcxWDlBY0c3YzVaNjFOdFg3WkUyLV9ud3Z2LWRDX0NaOV9yVHFkNV9LX1Rlc3QxTy1qYVZPNHJsdDNza1E3dUZiT2dGdkpFaTBOYVJJZS1PTjV3dFUwZTFQYTVjNGNKQmdzM0YwQ1VQTFlCbThScHp2ME1RcDNET2N0MFBiaWRKandqVUFrenFxRXJtT3ZER2JfZmpacUFhZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Game-Changing Auto Protection: Assurant Combines Vehicle Care with Phone Repair Benefits - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODYtdGVQTlRacXF0bUZQOWpXNHAyRkcwajVsVTNicUtUbzFWQ0k3TVAyRXhzVENhMEMzWUE2NkFhMXV4V013UFUwQURLeHJzQ1VKVTc1NmFWVHE0Q0lkeXNWSE5nZ1NyNGd1ZGloMGVyalJaaWxXWnloOTI1WXE0aUJtVk8tYzFNTGlCWFdnNUpRNkt5ZnFmZjY5WjM1NGZhYWUtNFlhMUhGM1F5Zzh6NklhWlo?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 225.73
-      },
-      {
-        "date": "2024-12-03",
-        "price": 227.34
-      },
-      {
-        "date": "2024-12-04",
-        "price": 224.38
-      },
-      {
-        "date": "2024-12-05",
-        "price": 225.37
-      },
       {
         "date": "2024-12-06",
         "price": 224.22
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 203.94
+        "price": 204.23
+      },
+      {
+        "date": "2025-06-03",
+        "price": 205.82
+      },
+      {
+        "date": "2025-06-04",
+        "price": 203.97
+      },
+      {
+        "date": "2025-06-05",
+        "price": 201.41
       }
     ],
     "current_price_data": {
-      "price": 203.94,
-      "change": 0.82,
-      "percent_change": 0.4
+      "price": 201.41,
+      "change": -2.61,
+      "percent_change": -1.28
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte des 15 articles d'actualit\u00e9s \u00e9conomiques r\u00e9cents concernant l'entreprise cot\u00e9e Assurant :\n\nLes 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9cents concernant Assurant (AIZ) pr\u00e9sentent des signaux positifs pour les investisseurs francophones.\n\n1. Assurant outperforms the industry et \u00e9change \u00e0 un prix de discount.\n2. L'entreprise a acquis une participation majeure dans le secteur des pi\u00e8ces automobiles.\n3. Les analystes de Wall Street ont \u00e9lev\u00e9 le prix cible de l'entreprise.\n4. Assurant a annonc\u00e9",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

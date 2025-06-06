@@ -2,55 +2,163 @@
   "ticker": "BKR",
   "name": "Baker Hughes",
   "sector": "Energy",
-  "market_cap": 36935159808.0,
+  "market_cap": 36979744768.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.723549,
-    "PB": 2.166434,
-    "EV_Revenue": 1.423,
+    "PE": 12.738908,
+    "PB": 2.1690493,
+    "EV_Revenue": 1.432,
     "ROE": 0.18035999,
     "ProfitMargin": 0.10511,
     "GrossMargin": 0.21359,
-    "DividendYield": 2.48
+    "DividendYield": 2.47,
+    "DebtEquity": 35.011,
+    "CurrentRatio": 1.337,
+    "QuickRatio": 0.793,
+    "FreeCashFlow": 1716875008,
+    "OperatingCashFlow": 3256999936,
+    "FCF_Margin": 0.06167379349305693,
+    "ROA": 0.05787,
+    "PEG": null,
+    "EV_EBITDA": 8.623,
+    "BuybackYield": null,
+    "PriceToFCF": 21.43799927921136
   },
   "technical_indicators": {
-    "RSI_14": 49.74682059353216,
-    "Momentum_10": -1.2040270442749157,
-    "MACD": -0.2134253909980188,
-    "BB_Percent": 0.5987977735981032,
+    "RSI_14": 49.429869257468106,
+    "Momentum_10": 1.7871725839748582,
+    "MACD": -0.1252046127873285,
+    "BB_Percent": 0.5286955435088763,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8966006068608249,
+    "ValueScore": 0.8936625633236882,
     "QualityScore": 0.3380804103429899,
-    "SignalScore": 0.6287163853972466
+    "SignalScore": 0.5858318156243474
   },
-  "volatility": 0.0253687493872518,
+  "volatility": 0.0252861870636793,
   "beta": 0.9,
-  "return_6m": -0.1371557113087927,
+  "return_6m": -0.112134225325593,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
     "target_mean_price": 46.44038
   },
+  "news_sentiment": {
+    "summary": "Baker Hughes (BKR) fait face à une série de mouvements de capitaux significatifs, avec des achats et des ventes massifs d'actions par différents investisseurs institutionnels. Malgré des signaux mixtes tels que la baisse du nombre de plates-formes pétrolières aux États-Unis, des contrats importants comme celui remporté pour des centres de données américains et la formation d'une coentreprise avec Cactus Subsidiary peuvent indiquer des perspectives de croissance. Les analystes restent enclins à une vision d'achat modérée pour l'entreprise, bien que la volatilité récente puisse susciter des inquiétudes chez les investisseurs.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Baker Hughes (NASDAQ:BKR) Given Consensus Rating of \"Moderate Buy\" by Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2NFd25IQmxfRVlLNW10RmNUVnoxTXFsQWp2R2JHM0VwRGJkZ0xfTlZheXY4YW5IdGtacWtSOWw1ZDhlLXBQOFdKWTdUb0VHTnQ1M0FVWDhVaXFfaTlHTHlWdVlmUml6Q3VWN1NoZjZnaWNJanA3R2s3QVNRODh2SVhvX0hUcEZvaDFEN1drRENNd1ppNmxNRXdEclNlaGVSMWpQNXMzWlFmbnVYdnlTSThuY2RxZVhtVS10VjFiQUVwVVFURHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Baker Hughes Company (BKR) Stock is Falling This Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QaWdISFdEQ2gzdnJ6c3RyM1ZwNjhBcDRQalI3WlJOdHAzT256bEVBMWVmb3JiY2lPM21BU2s5bkVxaFpCYWYxamZuTnBpWWtKbTZ4MjZfZUpXN20zRURWOF83eXlJd2txODJod1cyNHFEWjhyV3JhRzlWZEFuV28?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Baker Hughes (BKR) Reports Decline in U.S. Rig Count | BKR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOExadm5kSC1OdldyX2VXVHo0TmpQWnhpbTM3elNPY2p6SVY1cWtmSWRCYmNQcDNGUkdDV3RvY0R6X3FMY1ZWU1RpSUViRUxULVIxb09MOEJsWThxbFFNUkNjaG1JVFhEdUFIcWlmOTFGdEZvS2dXRExNclBYb3pBTjVSOXRTb1ItYjc4N1hOWjhELUZiUFNwOVpwNW4zYTA2TXVvQm9BWER0Z0lRZTg0bWpjdWE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Baker Hughes Wins 270MW Power Contract for US Data Centers | BKR Stock News - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDQ5R2tMeDdZd2dXSW54ME9xLTE4Y3F1U0hidWtSYktQOHNBN3pMai1qVU54bEt5UE44c1RWS3JBOXZjVDY0OWhTczVPTzBHUmtXSzBrb0padUZEVnA5dWZ0b3dNV056R0p4S09DUThBVXViNVBDUklzWHc4UWQwOWozem5CMGY3VUhsRlNKMjNBbldHcFBjbjNuZG1SeWgzY0VGZnlzTHJvQVFqSERISGZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vertiv, Baker Hughes and Other ‘Fallen Angel’ Stocks Due for a Rebound - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBMVBCY2ZzNldRU2w0cEllYngxVkdoNnIwSTk2eGNuaUJHS0hqeVpsRVl0VGJfcW9PdmdpOF90dldjWFloRXkzUDg4OWd5VUlBdTBvS25fSUtpYzhhaW5DYXZMV1ZueC1BZjZ5VHlobDdGa3dvQnBuMjRRVGdEQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lmcg Investments LLC Sells 22,623 Shares of Baker Hughes (NASDAQ:BKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObmc3TmNQc1RGc3dQQmlxRGdkZV9xcjNLcm5GVzZwY2g5THhPb3hzRkdOOVFBa0lFbHd0MDBuS0VlMEVUeC1tVVc1QzlwTmxSal84Y1ZXQ3dvX1VkcndrMkw0aklpU2NyZlpVQUtRU2pGTkpGT1ZLa2lxRWpPZWh3VUhVVHBMVGhTbnlySzlaV2V3OGdfMGZ6ZjV5dmVnRmFhQ2pvaFptcEJRWVI4S1lYRjcwakFfVUtJLXdUMU1zdWxkSll5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Buys 568,008 Shares of Baker Hughes (NASDAQ:BKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmJWQ0hSZjFkZHpBd1hxUFdzY2FPUE5rRnZmUU12ZENmSkd6OGY5U21oTkdOQXduMTEzTC12ZlA1ODcyS1ZITk1jMTdlYXlVSVJINHZ3VnFaekdKbjNPNzhVOHdnRWhrbkhzMFNwNGFSNXk0dDdlVXc4REprSnFkeHNFNGZROUlqRW13WElLOUY0T2psUGtQTWx2a2diX2VpVERjdndFUmxxTDk2VEVGcWMwN1hDelUyUkZQT2hOSzBmc2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BKR: Cactus Acquires Majority Stake in Baker Hughes Surface Pres - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXZKX2YybW14UHZ5T2lxUDR3clJCYngtb1NLbUJlbVpEc2ZRQkNuajU0azU3V2lId1RObUdXdlB2bkpXbzVrM0FZMmlnRUp2QmV5dDRMd2JjQzJhNUZ5VFZHNjlSN285bUhadFl2XzNHMTREUXFHMm9NN3JLbmlMeTBJSmRuMHEySWVLcEs4U2pwbHlPUkt3TkJaRkJuMkJlc3ZtMVZ3VXFMbVZTWFR2TEtieEpjOVI3LUxkRkJxOGdabUxBVFlRMzlEODRxOWVSb25wMlJzbDc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wright Investors Service Inc. Takes $435,000 Position in Baker Hughes (NASDAQ:BKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYk5CN2RWNHlMLWd5YV96RHFXb1lETGg2cElSbU5iOW5OUzZRRkU4ME9mSDZZcTJTc2N3U2tscXBXSENXLUVwbHRyZDVuMzdVeE9Cak5qSF9OVmNybTctNW13QW9FdV9xeXZmNnQwZU1kdldkNG9PV1VrbWE3WjBQaWoyaVZBODR0V0Q3MENLM1o4VDFkcVFwamhkTzJVS3B4bVNpUFhwcDlRSDNKaGd1UTZTZmRPcHNMQm1QOFNJYzdpeWZ4TmV5SFZHVks5YWhTblRpcThDQ1lGOVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baker Hughes (NASDAQ:BKR) Stock Position Lifted by Toronto Dominion Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVm1hR3BsRUVqQnZqazFpeEhFVEhZX3Iza1dxbjBWNTVja1Jta2E3SDVJbEdDWkZOd2QtN05NUkx5enI0Qm9oNEZuM2REU3NGdEx2U2ZnWER4bGtHQkFRMEIwQ0dNMkhzaFRJUF9CQlM5dUxxMU1oOU0tck9WVjJWTmxBUDhySmplTDNaS0JWZlB5cVlWaFRDSHB4akl6M2MzTGluNm0tSnE1MURuSC0yMlF1VlpVVW81cnlBQWptX1dQNE1GU1hpM21R?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Baker Hughes (NASDAQ:BKR) Shares Bought by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXpnVFIwclhqUGdPWjZlZUZ0VlBQTmphczRZZ3p4RlNabnhuN2RiQy1UUEpBb0szZE91eHBkNHoxUHpjWk1DeF9Rd0JwUmZXbmhpWHJBREk3cFhreXBkdFF2cUhVQTh4UjgwazF3TC1lV0tmanpTY28xdnJnQllHYzkyZjNiclN5bjR3cmpmN0pyTGh5ZUttVXRZM3huYVVYUEJOYXJUVHYzR0VwWnJsX1ZXYU41WmhYSS12cA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "111 Capital Makes New Investment in Baker Hughes (NASDAQ:BKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXpzR0tIZ0NQTWRySG9GRHJBbERPZERQUlY2dW9ZSVExVFRkdUs0MFNpQWZtUlVpTXlyazVpU2RQaFVmdWVveUlBLUkzUkR1cGY3OGJ5cGtWaktUekhlSHVYdlgwMUFzWEtZaDh6MXBlMS1xLXJyc3VPRmZfdXNtU3dxZnFRU0tLckVQRFd1QUVfc2J5ejF0MUU2TWN4SGFiYzlkZmZXbl93YjlJOThkWTFIR3VWNlU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baxter Bros Inc. Raises Position in Baker Hughes (NASDAQ:BKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTml0OGZPSGh0MDNzWUFJekdSLXYySW1udnFVeWhaaXFjalVkZWxCRFA4dG5CLTJfb3ZnT1RFNzBMMmM2dGFmWXRLb05DU0ZUVVFhcEtDRTJqRGIxT1docUxQZE43bjdHT1RyYmN5NGRnOFFHbHVIa1JUTmFSU1JneGZrYU1xVUl2Z2E3LUZ0SWJqeTJ4UGFkSVJLSWwxUG80c2hNel9nU3Rsb2hPcEp1YlB3aEJtanY2Qmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Baker Hughes (NASDAQ:BKR) Shares Acquired by First Hawaiian Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVll1bjVhc24zZU9QUDg4d2xnMTRlbFlhWXJrT3daaU4wYTlMQVZWN1FJSWlHUWtsOUxzSm9ndzNxdkhFdVR2NTJ6TmVZR0UwcEl0R3ZZcU1Nck1MV21Wdm1mSUdvNGt0djZGUGZxVUFwLTdpTzByNVRWdVBxR2pLakVOZW9YQVZGX2dTa2JhbmpXbFU4MmxnZEtoNE9YSW1ld3YwenZaYWhYcWVaWHZlZVVjM281eWpUeHJNUHJtNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Raises Position in Baker Hughes (NASDAQ:BKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWs1Vy1zOER0d0hxS2R5VEltWFRNQTg3enJyd2tjZ0RLajVfQzBjcjVMT2lRYTNFbERObndSU2xxOTFzUXE2S0g3cVZ0Y2wxLVBIS3RVOGNWU3pLRGZGc3FSbXdzQzVpalFaZmZ2LXBudWxsVzhVbWhwZkhWWThNSVRnUkJJczdMZTB3SURDQjRjbmlrdGJwZGNvTGVtUFE0amd3ZC1ZZW4tOGdDNkhSUmh6dTJoV0ZCRmpGWGhR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Lansforsakringar Fondforvaltning AB publ Invests $13.06 Million in Baker Hughes (NASDAQ:BKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYXZDWWhoNng2NHRCRWY5eXdaUHRNQUQzdG1pSjFPbThtc1NtclRaMV92RFhKMVo5QzVHQ2QxTmVmVngwb29xTWtTei1jcUg2elhEaUNjeUI4R3VDR3gyWktNbF9UOGRyb29HdWc2YzJYTTdkWWZBWXRLV0Z1cFhBVkFuS21YcDVrd2VyYXp5Y0pkUmR1VGJycDZkVkNXNWtIZmJIRjZUdGcwaDNFb190UmMtODl6R0FPVnQ4OXVSZjRXamhROHN2Q1RSSGhORXdPQnZKd3hOWEVZMHFldTlv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Acquires 7,228 Shares of Baker Hughes (NASDAQ:BKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV3MwVHROZWdKY0MtZmJnQ1UybHR0c1c1OXlRX0VXV2llZ1haaXdLSU9QeG5ITEZ6MlRlVm1OdzJWNTNpNUZmZ2F2MVB2Ml9leGpzSzB2OWVPcHdZTk9UbXNyVWhSY29yck10Z1ZmR18xbXJQVk0zUVhfUXo4ekVfc21La3ZMcWp0NzNBcl9zMnU0SE1LZFNwRVQ3d0RWcFpHMUtobURCNGpxYUJiU3lwRElzWE45OWY0QnJXRUdmaFhTUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Set Expectations for Baker Hughes FY2025 Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWpDX0pMZHZLdGFBRlNPdzE5LTVrQ2NySkY1NUpyTjIzTWpaY0NuY1BlbHowdVVkdnI3LTkwWk9BS3BrRjFEd0hELWp1NjFsV21TNXRULTFyeHlDY3ZaUnNqSGFqbEM1QXdwOEwyX0E4S3FnMjhJNVB1NlU2M3RXTU5Kd3VfdlcxeWVPSXV5NDZYMEhMTkp4VEVFWDhIcG13VnMxX1BsOXpsRUw2RTE0MlFRZ0U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gradient Investments LLC Buys 38,422 Shares of Baker Hughes (NASDAQ:BKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb09GX1gxcEdTQkJnUnpmN2ttdzdzOUNPZFpTTC1lU2VLN3hvYkNoQksyUE1NdnlqUmd2VGdkM3dadHNWenU4UkNhZTJJSVdhTjlmQzVvSVFHR1FIaDloTzRIMUU3Mm12eDdkNWNaNWJnTlRGdW5hSkphdUdULVVWbFJrRk5NOTdGajN6WS1WQUdERVMzV3pWYi1SV3UtdnhCdVByWVUyZzlMaExaZFB2bXRCUThTaUxxNGc0R1paMkFaVEFQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baker Hughes (BKR) Forms Joint Venture with Cactus Subsidiary | - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNHZiMjRqNmFTMDNKazZTZHROM2E4Wl9oRmt1aG5wQmpmdTF0cGRQd05qbG0zcm4xdzBzallIbXNQVDRjb2hycHpDZXVZeGU2ejFLc015ek03VmgtUmVYQ09Zekh1WXNVOU9XZmpKODFYa1ZUOVBmeXM4MWJITjdLazJpQl9laGc5bGxHM2pwTUhfaXNJYUk1eDVwV0JZbFl0YzFLaVZ1WTF3RDE3Z1diYzJ1RQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 43.69
-      },
-      {
-        "date": "2024-12-03",
-        "price": 43.67
-      },
-      {
-        "date": "2024-12-04",
-        "price": 42.56
-      },
-      {
-        "date": "2024-12-05",
-        "price": 42.51
-      },
       {
         "date": "2024-12-06",
         "price": 41.31
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 37.33
+        "price": 37.32
+      },
+      {
+        "date": "2025-06-03",
+        "price": 37.54
+      },
+      {
+        "date": "2025-06-04",
+        "price": 37.29
+      },
+      {
+        "date": "2025-06-05",
+        "price": 37.15
       }
     ],
     "current_price_data": {
-      "price": 37.33,
-      "change": 0.28,
-      "percent_change": 0.76
+      "price": 37.15,
+      "change": -0.14,
+      "percent_change": -0.38
     }
-  },
-  "news_sentiment": {
-    "summary": "Baker Hughes, un fournisseur mondial d'\u00e9quipements pour l'exploration et la production du p\u00e9trole et du gaz naturel, a \u00e9t\u00e9 le focus de plusieurs titres r\u00e9cents dans le monde financier. Ces titres ont livr\u00e9 un sentiment positif pour l'entreprise.\n\nLa premi\u00e8re nouvelle signale une hausse des prix de Baker Hughes, car si 100 dollars investis en Baker Hughes 5 ans avant seraient valus 49 millions de dollars aujourd'hui, la hausse des prix s'explique par le fait que le prix du p\u00e9trole et du gaz a augment\u00e9.\n\nGradient Investments LLC a r\u00e9duit sa position dans Baker",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

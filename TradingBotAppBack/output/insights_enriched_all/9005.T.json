@@ -2,55 +2,68 @@
   "ticker": "9005.T",
   "name": "Tokyu",
   "sector": "Consumer Discretionary",
-  "market_cap": 1001639051264.0,
+  "market_cap": 988712796160.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 25.77998,
-    "PB": 1.2099271,
-    "EV_Revenue": 2.162,
+    "PE": 25.443525,
+    "PB": 1.1943128,
+    "EV_Revenue": 2.145,
     "ROE": 0.09703,
     "ProfitMargin": 0.07552,
     "GrossMargin": 0.317,
-    "DividendYield": 1.6
+    "DividendYield": 1.63,
+    "DebtEquity": 148.083,
+    "CurrentRatio": 0.638,
+    "QuickRatio": 0.311,
+    "FreeCashFlow": -14804374528,
+    "OperatingCashFlow": 155104002048,
+    "FCF_Margin": -0.014032834817486413,
+    "ROA": 0.02417,
+    "PEG": null,
+    "EV_EBITDA": 11.904,
+    "BuybackYield": null,
+    "PriceToFCF": -66.78517854908459
   },
   "technical_indicators": {
-    "RSI_14": 51.91219344648308,
-    "Momentum_10": 0.4609622587150677,
-    "MACD": -7.634821046037587,
-    "BB_Percent": 0.5176075416753709,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 46.37804988889,
+    "Momentum_10": 1.2650779641070904,
+    "MACD": -7.289886162839821,
+    "BB_Percent": 0.3977232643164661,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8928256393513703,
+    "ValueScore": 0.8900560108960913,
     "QualityScore": 0.4288809987897576,
-    "SignalScore": 0.6077799602048517
+    "SignalScore": 0.6056688428804498
   },
-  "volatility": 0.0110241255642247,
+  "volatility": 0.0109537762583978,
   "beta": 0.172,
-  "return_6m": 0.0104317589104607,
+  "return_6m": 0.0055506865322816,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 6,
     "target_mean_price": 2016.6666
   },
+  "news_sentiment": {
+    "summary": "AMD lance l'EPYC 9005 \"Turin\" doté de jusqu'à 192 cœurs Zen5c, renforçant ainsi sa position sur le marché des serveurs. Cette annonce témoigne de la volonté de la société d'innover et de rester compétitive dans un secteur en constante évolution. La réaction positive des investisseurs pourrait indiquer un regain de confiance dans les perspectives de croissance d'AMD, malgré une concurrence féroce.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 4,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "AMD launches EPYC 9005 \"Turin\" with up to 192 Zen5c cores - VideoCardz.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa2NxeW82SEZZZmN0eXhZVWkyY09tWjNYbV9faFFxSExuUHZOZVFaanF0Q1N1WS1KZjFPMHg5eEZ3UzZTdE5VSFp3Y0ZxTjd0Zm1ZRnAyZk0tTEpOaV9HUk9Qd1l6ZDk0SjRGa1lhUUhOTFpzNmpTdkxhUGg4YVNyc1pEdTd0eUJDaFFr?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1725.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1734.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1740.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1711.5
-      },
       {
         "date": "2024-12-06",
         "price": 1705.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 1743.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1730.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1717.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1721.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1736.0
       }
     ],
     "current_price_data": {
-      "price": 1743.5,
-      "change": -8.5,
-      "percent_change": -0.49
+      "price": 1736.0,
+      "change": 15.0,
+      "percent_change": 0.87
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nLes tendances cl\u00e9s de ces nouvelles sont que la soci\u00e9t\u00e9 d'\u00e9lectronique AMD a lanc\u00e9 une nouvelle g\u00e9n\u00e9ration de microprocesseur, EPYC 9005 \"Turin\", avec une puissance de calcul de jusqu'\u00e0 192 Zen5c cores (AMD). Par ailleurs, la soci\u00e9t\u00e9 japonaise Rakuten a annonc\u00e9 une \u00e9mission de parts de 2,5 milliards de dollars pour renforcer ses finances, tandis que le march\u00e9 global est marqu\u00e9 par des sentiments positifs et optimistes.\n\nSignal fort positif : l'\u00e9mission de parts de 2,5",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

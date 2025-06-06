@@ -1,8 +1,7 @@
 import React, { useEffect } from 'react';
 import Layout from '../components/Layout';
-import ParticlesBackground from '../components/ParticlesBackground';
 import logo from '../assets/logo.svg';
-import '../index.css'; // Assure-toi que ce fichier contient l'animation CSS
+import '../index.css';
 
 export default function Home() {
   useEffect(() => {
@@ -14,8 +13,7 @@ export default function Home() {
 
   return (
     <Layout>
-      <ParticlesBackground />
-      <main className="flex flex-col items-center justify-center text-center min-h-screen pt-32 px-4 relative z-10">
+      <main className="relative z-20 flex flex-col items-center justify-center text-center min-h-screen pt-32 px-4">
         <img
           src={logo}
           alt="Logo NASTRAD"

@@ -2,55 +2,163 @@
   "ticker": "9984.T",
   "name": "SoftBank Group",
   "sector": "Communication Services",
-  "market_cap": 10517723742208.0,
+  "market_cap": 10662150406144.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.433478,
-    "PB": 0.9300847,
-    "EV_Revenue": 3.94,
+    "PE": 9.569434,
+    "PB": 0.93337256,
+    "EV_Revenue": 3.893,
     "ROE": 0.11792,
     "ProfitMargin": 0.15922,
     "GrossMargin": 0.51827,
-    "DividendYield": 0.58
+    "DividendYield": 0.59,
+    "DebtEquity": 135.55,
+    "CurrentRatio": 0.749,
+    "QuickRatio": 0.533,
+    "FreeCashFlow": 847241871360,
+    "OperatingCashFlow": 203579998208,
+    "FCF_Margin": 0.11696174860817177,
+    "ROA": 0.00994,
+    "PEG": null,
+    "EV_EBITDA": 17.664,
+    "BuybackYield": null,
+    "PriceToFCF": 12.584541400236775
   },
   "technical_indicators": {
-    "RSI_14": 45.7100086750816,
-    "Momentum_10": -2.9555350310067294,
-    "MACD": 86.84097061549073,
-    "BB_Percent": 0.1812919827598358,
+    "RSI_14": 46.607320379818375,
+    "Momentum_10": -1.085499865987671,
+    "MACD": 31.610574544280094,
+    "BB_Percent": 0.1861976375533933,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8900699387135969,
+    "ValueScore": 0.8871901499825259,
     "QualityScore": 0.4375600442364146,
-    "SignalScore": 0.6464708329484026
+    "SignalScore": 0.6140910208563386
   },
-  "volatility": 0.0328862577592047,
+  "volatility": 0.0327573753012374,
   "beta": 0.504,
-  "return_6m": -0.1718811316395984,
+  "return_6m": -0.1863129201314276,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
     "target_mean_price": 10421.934
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente met en lumière des tendances contrastées pour SoftBank Group (TSE:9984). Malgré des bénéfices solides, le groupe a enregistré une perte inattendue de 2,4 milliards de dollars au troisième trimestre, principalement due aux investissements du Vision Fund. Les actions de SoftBank ont chuté de près de 19 %, entraînant une perte de 4,6 milliards de dollars pour son fondateur. Cependant, le lancement réussi de l'IPO d'Arm et les investissements importants dans l'IA, notamment avec OpenAI, ont contribué à hisser les actions de SoftBank à un niveau record, montrant un potentiel de croissance malgré les défis récents.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Investors Met With Slowing Returns on Capital At SoftBank Group (TSE:9984) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaHJsQXY5VDFsSzR5SkVOWmZsdnVSSFBQRmZNbGpLVnpSVU5HcTB6NGtqT09sbjhuZHBlNkswTGV0dy1KbWNJUjdzejBWcVJmS3Boc1ozZTcySEVNYUZlR1g5V2hjT3psTkJMeF9HZzlTRHk0Y2txX3drZnp4eVF3UXgweVRvdkdCQkVFRHJmN0ZMYWd1cjFmTktvZUJ5SUQ4azRXeS05dnBaT29za0J5WFZ3amdJS2VkZ0dkZEg1d2MxNlcxcDllRDJ0b3QxRFNVZFHSAdcBQVVfeXFMTWlObnotWGVBSWp0Ql9GWTVaR1VWVFhrZjZqYWduX0ZsQjZwLXZPVUo0WTBIc2Q5UXRYajd0Tlg1d0lOZGtWUFRpT0hSOWhFMGQ5V3A4RlJ2MWx0aGRKeWF0ZXpjaG9hM1B2SWNGelZyVm1Rd01EakdUUlFTNzhmQ0Q3OHl3WmJiNDF3aDhDY1h0T203WVNHYkl1Q3k3dGtWYmFKLVFGYngyS2JhOTQtX200UkxDU2x6aGxQbExnRnFnSjZLeTlxRFBpRmZoTVdlY1BvWXUyNDQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock market today: Nasdaq jumps, S&P 500 nears record as Netflix, 'Stargate' AI project invigorate tech - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd0hWM0lXUDgya2NCM3pjMi1MM1VIMHZDNV9hM01oYkRFajZDQnB1VldpU2ttNUhtYWVDNWtGc1h3YmdwOWd6TlNoRnA5dGRwd2RXaVhFd2piYzd1bHJyMVZXd1huTDM1RHhWdUdSMWRvczgwSjVkaElBX0VvTTMtZ1dhZU1CODdTNW9BSGVYZTEtRzB4UEFBeWJlaDAwMC1VRGNUWVhpLTI3aExjMm1KUWw3eTlFMTF0N1RYMFM3Ynh4R2llNU9TTWdNUlQwbFppMG1nVll5NHVGY041T1czeHZ3Yw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SoftBank posts surprise loss of $2.4 billion in third quarter as Vision Fund investments go into red - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcERKTnFBQ1RNdWxaWGNfenZfWEJTNDBpaW91cU1VZ1BtX2JGRGFIMVBnODNDUkd2emdsYm1ITGs2U3FSV0N2X0dTMDNsODFlc0hibE5xeTJtUkZISlNtNG91R1hkb0I1OGZtZjhhQnBfRDNtVUo0QndDSmFfam1NTnZiNk1qSDkxUXNJaEdvLWF2ZU1Fa2VIaTNyTF9NeFhHeTZWRW85MFVLN3VRSVpVd0JUTdIBuAFBVV95cUxNTTMwS254eEJiRlZuTDloS3RyTjgwSWRFcnkyT0ZvMGlNSWRSazRDYkhFLUd3dUx0bDF0M2EwT3FKUkhicUxWNHZyb0RKblgtM0luajFiZGNoTGxEX1VYVDhsX1JTaktsSG1yTUlxTHFyRFF3YTNlaVFTZFpncVp3czZDLXhIaENyVmIxa1k4LXFERG1BYjBmMDRrMWtWaFpYUEtPanE5azNZQUxzRDdYZGJ0MFZ3NUlh?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stocks steady, dollar dips as investors await Trump's next move - KITCO",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMEpEckR0Yno2YkM2ZzRXQ2Y5bVFDRkF3MFNMbVZuMnB1emQwdExITnBWb2M5d29vSlhTeTdFU3ZiSm85U20tTFlpbGcxMEEyRGVvTnNNby15TlhQUU1wbVlFd244enM4dmxJMEpzNkhrUDkza0pMeGVLT25FbVoyNV9IOWlVejFiZ2pJSGtuRU4zRlFyaDFkY09lcFpsSUhJdVg1eGprR3ZNUHE2NFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japanese stock market sees biggest drop since 1987’s Black Monday amid US recession fears - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTWRsVGFWdHQ2Tm9zWi0wZ3BCaElfWjdwbnZZMkNxTG8tX2lxSFg4djdVYzdkWnc5dTR5VWdRYnJWQXhjeUFmeGdqRGR6SmNONmJWdS1pM24xeHJtOTA1aWZ1ZHdqeHpoeHlvbXJlRTVUX2sxSXE0STh6SldBazhzWDE0c2RsMlJ0Z2F5ckpwNjBINHNhcDE2eFFJU1NpeElGdVdEVnh3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Hang Seng Surges on Policy Bets, Middle East Weighs on Nikkei - Asia Financial",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaXZEUHlseVREaG9DV1lTR040dDQzUFRiVEhtRkxJbGJlQ1kyMVJPR2F5cTVQZFJ2UllETFIxQ0JBd213SGRYeVhHTnRkUnBybTlBQWN4NDhUa3M0ZGlnYUVrczRtbkNsbThKX1Z4SEVjQm1KOWpBR190WDFoSlVyajd4Wjh5bzFZMXdGVUJFM2tuRGph?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "SoftBank Group (TSE:9984) Is Posting Healthy Earnings, But It Is Not All Good News - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOEx1Q0lSLU9vcUEwajVQSUlWRnp6b0ZyRmRaLUJQV251akpGb0ZUUXk3Y0hEWkFBdFgtQV9mb19PT0k5U09ubHF5SHpheF9kTnRaQV96LXNVSWFNelRyNjJEWkpPNzR5ZktPdW9FMExGR0p3Zk5GUVNFb1dNNXEtVEtvNExlVkMzaDJUS2hpSmxmZGlsQlFGVGVLNTNsSHNiUFUyWndtQnJZQW5xX3hua1cwNTZjYXZxX1FKRlhNeUVsN1hfdXJ1cnQtVS1lZDhHOUHSAdcBQVVfeXFMTUJjQXJDQ2RjdC1YdWowUEVYTnNVR0g0b1N3ZTBYM21nQ3hlQmp0SllSUFFONXRVczB3blFQYnpvZFo0b2J4SnQzWkZvellidjVWOFJkX09TRUpRelBxNUMwajczM2xycUpsaGtfdWJmbVVDS0pKbWVHc0FtR1NKSndldlQtT0VHUE05a0doUnBHd0VyX1djM0gtRFhOandZT0c0ckNaNmlYdWp1TE5YeklKbTNUbEV2RjNmT0oxdEtBX292aWJXV2Z1clplODBUa2RIa2YycWM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nvidia shares tank as DeepSeek triggers AI selloff - Gulf Business",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByVFd0Q0tBMndydEZUMDF2SVBLc1ZZbXctN21PaTJuSE1wc19tNzBnSFdkaldOdWV5SmlmaThpUU9MVkVmWkpJY2ZaSDdkYlZzRThj?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "OpenAI, SoftBank, Oracle to invest $500 billion in AI, Trump says - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOVVHcUdUZVdGd2g1d2hLbXE3Q1I4c1VmYzFLR1czUnNjRWxWYW9NV01ZdkNqRmlKV1BfODZNWXIzdGI1YWdKQmstSkFJT292NHVQTmtWUVk1QzI2dWVYLUhzMDNVSl9qTHJ6WlFYbDBpdVBncWQzX0RyZjlRSTZxRW9iVmtVUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "OpenAI gets new $1.5 billion investment from SoftBank, allowing employees to sell shares in a tender offer - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTHFGZGVzV0FrYUJsYkoxb0VLZ3Y4elYyamNzb09KT05ka3pzTnptbGxnTUdtTzBZM3cyRHVJaFoza0p0U0t3OFhRT1RQYzdnX1loQkVyWW5jbVBraEFDWUNzS1V3NkU3RHBIcXB5ajFkTVN2UFluNjl6VTlQaHo2dnlFcDdyZTVkalAzLXRkS2dZT0JfTktOSTNGQ0dwQm1La2FmX0lxQXnSAa4BQVVfeXFMTTYxNy0tQ1dBVDVXX1FOQ2dVM2FKSEZ5ZFBOMTZuMlI4aTBDLXVRdXpoYjUxWE1FNWwyZzRnWFB0THZHX0xTbE1GSkNpSUtRLUtPVG9LcjNDLW9ObkExWU40NHhheWY5cHlsNlctbElRQ01RdE5Wd21lR2Z2anhadlJLbmVPNlZqY3BGOG5fdlRCQnExWHdlRktReEJ0dVV0dm9jSkdYUXlmdTNPWDV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tempus AI shares jump 8% in strong Nasdaq debut as US IPO market thaws - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1BCUDdyU1Y3bjBMNHVEWktsd01uRUhBcXZ4U2dOdWgwVE5FV3JQd0hNaEdIMVByRDF5WVY4SktBanJucWx4dGtLYlVLWEgxRjNZQXFlNVJEcVMwbjFidXhuclhJdEYzYm1PYWdLSG9lS0NFTlYtZ1R0T3h2aXBGeXYxcDUzVUE2Y25fV0VMWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Stocks rise on tech optimism, dollar subdued by tariff uncertainty - Cyprus Mail",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOWstcy1NNElDWlNLSGhHNnB1NW10UEVuaFRCdnl4aF9FeDJSWUlmOWwzWmo1LWdEbWV1QWV6djRzalJIbGt4WW5pS2o5a0lScGdRc1lVWFR2cTlBblFtY0FJSE1KVVlMUkhIaG9NUXpKbURCeUtaTGtyOHkyNzNTc0hXenpkdENrSFBLdnpRc2xKMFFJWWRxQ3RsYWFRZ21ncHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SoftBank Group Corp. (TSE:9984) Stocks Pounded By 27% But Not Lagging Industry On Growth Or Pricing - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaUZmNTdOYXlIeDV2YUQ0QU9mcUtlZDBNNUdzYUs2eFUxQ0tTQnYyVVpsSkFKYWI0YTl3d0NlZm00TEdhQUtXWGtUVldnTmh3RzNsSXhMLWZLQlVITGJ5aUJOT3JEYWZHZFQ0MUZ5bXRhdXR5eEoteXFYaFotTUg1WXVBT2VYc2NFczBmZl9Hd1JYX0s2RF8ySDEyTDVEOWEzWk51cWNSSUp0MUFaakVOVUpUOVZWbGIyMjN5NE1ycEJPVEthR3NSSHpGWHNTZFpqaHfSAdcBQVVfeXFMTkJqTmxXOF9GVjREb1dxcDk1U3dPeTFhbWhERjJPV0lrSjAxQkhlRUpGS0FMYzYtNzhvb2FaWHZIMVI0c0lOSnZ1M3kzY3hYRmJIODNNMEZnU2FTY2V4VUFhUmFxcUFjSkhaX091S19KbWZKdG1EdW9sV0tVVjBvVVg4cmZhRnJTaXdUUGR5OVJ0dEJJT1RKcEVpazhrcTM0WTkwamlWSks3ejVOdmdsb0J1MXNnZmpRbkpVamdBZTFNMEFxRUE2OVBrUlNVVEsxUWptNFhBZ0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SoftBank shares tank near 19%, wiping off $4.6 billion from founder Masayoshi Son's fortune - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2dhb0doTTRFS0UtVmh4QUVEdG1mMmVrNzBiVzJBMWY2QXFXRXRrT1lJeGhWZEE0VGNaUFRULTF2NUtyREprYVFfOTl5aWphb3FzSm04SDlBcEF3dE5FMFdleC1aaXR1SU1uS0l6VThpSkpCMzRFNllGQWFBVTdTWEVrMUpGaG5ycVFxZUtLQVFyTlZwWWdKQlFkLUQ0OFNLSlloVHJSOTJSUzBOcDZpRU1PdUtPb01s0gG-AUFVX3lxTE9mOHB3MjZNWjhxamZhalZiRHo2bFM5N1RqQ3llWDhocFNSTkJoMlZKcHROMlU1dXhSel9IakQ0REt2R3dlNnF0bmFmRWdsamdzcXZXek1UcDhYUEhuUkhBNzBCOE5MTnN0ZktkZ0s5M1dhZE55b1BSWkRBUUtnaldpaVMxWHlYd3BVOVFuOXdtdTZ5Q3BVdmJ5TjlPellZZlJHeGExTVpvOFZTTHFwZG1EYXk5NVhVdElZb0ZnTFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "OpenAI is trying to make itself Elon Musk proof - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUVOT0ZhMDNNOE52UXFPOWZ0NThGZTFCc0JJNzhCcVBKNmpXZXU3TmJMNDd0UE5MWGF3QWRZd3NFOE5KcGtwcWZiVVY0b1dBWkY3Y1Nnank1dVR2YnAxS2NpNkpCdzY1ckM3V25JQ2lLRVVBVTc2R08zZWhJTnhWbjRacmNWZUs0Zm16MWdNQ3M0ZWdaekg0cQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Oracle surges, chip stocks rise as Trump unveils $500 bln AI plan - Cyprus Mail",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXBfWUVCSVN0QkJQTTJlN0p0dEVDMWZhOElqOS1zVWhfRnlSb25leTNuM1ZNRVRsMkdIbnJaS1haVzZ1NEg0REpnNDdBMnN3bzNCalZQb2xEZ2o5OUoyWlZkMkprV2pGRTVIR3BNemxlYklraFNHMDl6TnlZdUZYcWtpckZzUzJLVjBteG1UbWdUNldBUUNrUGVNSEtsaGM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SoftBank's Arm launches IPO courting T Rowe in $52 billion valuation ask - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzI2RDZIb1o3RU03VkIwc25kSnRuQ2VRUHlRRzUyNW1oRFpfNk80b2lKamFHNTVJa010VVJSaVhGMmo0aXN1Ri1KZEdZMF90ZE56MVJUV0Z0a0tLSGJ6bld4VGkxMWVhS1FILVVQbmhPYmFGRVl5Um5tdmN6TGowOUVJbVpqeTJKUXYzX0owb3FoX0g2bkFCd1VZLUp6RXlFYnc2ZnNueGt6QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SoftBank CEO and Trump announce $100 billion investment in U.S. by firm - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdklwb1hDM2NWTjVzVlhITmNoMzBmWWgtbkhjTGNDeWh6SFRRVWV1NGFqQ25NamRGeTdxOG1xVnAxV2JVMExJUm85ekd2MkRaYzF5UGNKalNBSnJyLVBrVUUwTHFtc2xxNk9nbEQ2RUVDT3VNWUFoZTRXZlF3MnAzdmdaWTFkQ3hQUnBjNUpWcVI5RWlRd0kybHFoZklWQVFUM2ZXR0J5MHZiTlJzV2hZSmJEYXjSAboBQVVfeXFMTWxoQTAtT2ZFY0ZJZ2VMWjlxYlVsYmFYRklZNHkxRkZLRzJydXEyZ0FkR2czeFE5MWd6bTFSUEVFMzhWejBBWHd1a0o1bmV5dTEyQ1VucTRwSzJOcWZuQzBIVTgxMlhNcm5QeU0xT3k4WF8yUEprOFY5dHEwN05JY2Z0cTJ4MXVseHBMYy1fNHg2SWhXb0VudVl4bUlRZE5OZ3E1ZmF2MHRxSnA0dy1wd05kcTVBS01JZ2JR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SoftBank stock hits its first record high in 24 years — Arm and AI helped it get there - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXV3VksxRndQaHJhYVRacVpvdnBRdjNNTXJ5dGdiUG9faks3c2tZNUJyRWNodHBnNVVfZEs5UDloN1BCaUh5dXFNMFRCNjIyQmpQTy1pZUl4X2diRmtfelg5UGFLeDUyeXRWUFhaYk5QdVVMcUp2Rm1SR0EyU3JiN1JZZUpidktpLVR1amNrMVk5LVN5VnIxdFNNQnhrbS00V2lER3hB0gGrAUFVX3lxTE5uRTZ1NG5SR2x2bkc4MVAyVFdrMExDemswLUVpMEdfUVBYTWdFMjB3bC11QVlRdHpBaW5sa2FCSk9Tb2J5UVhuOFgwaGpBM0QzWG5wbjFhRWVDSk9XYXhwQXVXUXQ3amxJOGhETzFGTXNuZzUwcTZWV2NTSGxRV082Qkg4UTVIRW9VcXllVERqdnNDYzN1MlpvY19NNDZXcjRoMUJZU0p4TjdhRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SoftBank nets $16 billion on Arm earnings pop, exceeding its total losses in WeWork - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUlFVDRsWThXV25oRHdOai0wYzhBRUNmS0drVlBERzYxRFV4WE5SakhLeEQ4SDc0Q1RIUU1YLUpTRjVhMFdpTTRONFFOSVd0WnZTRlpmRHZSVGFlR3VieTRPc01Tei1ISFpCdkJDcnAzMmNhMzZPbzRWOUYwWDlCcnJlY2JSM19meFItVjJrOGF6LWtIQWZwN3VpcnlwWkQ4eFJaTFZ4a9IBrAFBVV95cUxOS3h0eHcwQm1oVjVxUklXSDQ0Ty00UDFSanZXY3ladEZsckJjVl9icjlWdnZ5a0VIcDlXamszcmU2Q0VmVS1tTjFmaUwyM2VkSzh4UFFBM2pHODFiWGhoZVRsdXgtZ2x6S05VbXZ1Zmg1LWxuVFN6ZDBuazNHb21JRzBUTGpWdmd4eXIwQmVHbFFpRTl2S3ZfcVozV2pOQXo2dUdJbW03UVdqdkNW?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 8906.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 9150.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 8992.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 9096.0
-      },
       {
         "date": "2024-12-06",
         "price": 9050.0
@@ -514,24 +622,28 @@
       {
         "date": "2025-06-02",
         "price": 7355.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 7377.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 7456.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 7381.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 7381.0
       }
     ],
     "current_price_data": {
-      "price": 7355.0,
-      "change": -259.0,
-      "percent_change": -3.4
+      "price": 7380.0,
+      "change": -1.0,
+      "percent_change": -0.01
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent des actualit\u00e9s r\u00e9centes sur le march\u00e9 des actions, le SoftBank et les investissements dans l'artificial intelligence (AI). La synth\u00e8se courte pour un investisseur francophone est la suivante :\n\n\"Les titres pr\u00e9sentent des tendances positives concernant le march\u00e9 des actions et l'investissement dans l'AI. Le SoftBank et son fonds de placement en AI, le Vision Fund, ont fait des investissements significatifs. Toutefois, les actualit\u00e9s sur le SoftBank ont eu des effets n\u00e9gatifs sur les cours de la soci\u00e9t\u00e9. Le march\u00e9 des actions et le dollar ont \u00e9t\u00e9 peu affect\u00e9s par les \u00e9v\u00e9nements r\u00e9c",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.2,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

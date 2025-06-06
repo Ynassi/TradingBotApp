@@ -2,55 +2,73 @@
   "ticker": "6326.T",
   "name": "Kubota",
   "sector": "Industrials",
-  "market_cap": 1862044221440.0,
+  "market_cap": 1850550124544.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.445514,
-    "PB": 0.7760736,
-    "EV_Revenue": 1.4,
+    "PE": 9.389398,
+    "PB": 0.77128303,
+    "EV_Revenue": 1.379,
     "ROE": 0.08743,
     "ProfitMargin": 0.067329995,
     "GrossMargin": 0.30745,
-    "DividendYield": 3.01
+    "DividendYield": 3.11,
+    "DebtEquity": 82.113,
+    "CurrentRatio": 1.669,
+    "QuickRatio": 1.119,
+    "FreeCashFlow": 51317125120,
+    "OperatingCashFlow": 285207003136,
+    "FCF_Margin": 0.01737440339620394,
+    "ROA": 0.0307,
+    "PEG": null,
+    "EV_EBITDA": 11.16,
+    "BuybackYield": null,
+    "PriceToFCF": 36.06106383038162
   },
   "technical_indicators": {
-    "RSI_14": 47.65941527214122,
-    "Momentum_10": -1.699029126213592,
-    "MACD": -16.83422790397458,
-    "BB_Percent": 0.457413117483819,
+    "RSI_14": 46.64665403153206,
+    "Momentum_10": 1.9955654101995564,
+    "MACD": -15.336742329139952,
+    "BB_Percent": 0.4391974134235276,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8978079999650976,
+    "ValueScore": 0.8949723511754639,
     "QualityScore": 0.3636756622563158,
-    "SignalScore": 0.6454614355717718
+    "SignalScore": 0.6006629973371613
   },
-  "volatility": 0.0226190537045749,
+  "volatility": 0.022621353882572,
   "beta": 0.729,
-  "return_6m": -0.1224677209806219,
+  "return_6m": -0.1163161633743617,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
-    "target_mean_price": 2180.9092
+    "target_mean_price": 2090.9092
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Kubota (TSE:6326) présente une situation financière quelque peu tendue selon une analyse de simplywall.st. Par ailleurs, une étude récente met en avant les performances prometteuses du cadre métallo-organique MIL-53 fonctionnalisé à l'amine dans la séparation du CO2 et du CH4. Ces nouvelles pourraient influencer les investisseurs en soulignant à la fois des défis potentiels pour Kubota et des opportunités innovantes dans le domaine de la recherche énergétique.",
+    "sentiment_score": -0.5,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Kubota (TSE:6326) Has A Somewhat Strained Balance Sheet - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmw5bDFuZm4yM1hfaUVZTGRSODZCTE5HSXhTQUh2VjNodFl5bmMwakJoX3FQRUxEQVFWVjB2NTB4RTk2Sl9hVkVxaEcyV0pfekR2akwxZExPQWJWQVJNUnlBcVNJbWx0SGpONGwxNUdNcUtLRHhCVG1LZWJzendBRzNtTXBjWUtwVnVEM0Npakt3dnNTRHJYUU9vWEIyNm5ObHV2Z1lRR1hMejlnVThpM0ZzalZNTmRrRzJGR242Y3B4OTcy0gHKAUFVX3lxTE9teGtEVGZPVEN6N2x3ODY5SXVmX1dtVTFPcTR1UmFraHZFTWFOWHF2T2c2NUNMTmlMQmp0VTZzZHJFcmNvRDd3a290OXNDR3hmYk9vSU05UG0xVlhNN2NGbkExS2NLajluTUNIemdrSHhPaWNGbjlsZGI5VlBicUxPSW9SSnF3dXdTclVYdzJveWhPMncyWUdia0lTUXdoTngzcE1pRDJsbEstT2hpRmJPLXp1czcwYzk0Z3NBS2V5Q3VtVS0yTjBqQmc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "An Amine-Functionalized MIL-53 Metal−Organic Framework with Large Separation Power for CO2 and CH4 - ACS Publications",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aWk9ub2tzQWV3UGUtWHlHaEZvTWVlV29NSEZkYzZnS3dnUW1WaldWS3hBYWhWSHFmUkZXdVROT1ZrTWpPMEFNRTR4c2t3dFExbXNfYQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1871.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1879.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1857.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1847.0
-      },
       {
         "date": "2024-12-06",
         "price": 1846.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 1620.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1600.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1610.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1610.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1602.5
       }
     ],
     "current_price_data": {
-      "price": 1620.0,
-      "change": -43.5,
-      "percent_change": -2.61
+      "price": 1602.5,
+      "change": -7.5,
+      "percent_change": -0.47
     }
-  },
-  "news_sentiment": {
-    "summary": "Kubota (TSE:6326) is set to pay a dividend of \u00a525.00, according to simplywall.st. However, the company has a somewhat strained balance sheet, indicating potential risks for investors. Meanwhile, a new study published in ACS Publications presents an amine-functionalized metal-organic framework with high separation power for CO2 and CH4, which could have significant implications for the energy industry. Overall, while Kubota's dividend payment is a positive sign, investors should remain cautious due to the company's balance sheet concerns. The global energy market may also influence the sentiment of the market for Kubota, as the company operates in this sector.",
-    "sentiment_score": -0.333,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.33,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

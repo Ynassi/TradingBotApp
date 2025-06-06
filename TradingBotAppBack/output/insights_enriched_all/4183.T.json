@@ -2,55 +2,73 @@
   "ticker": "4183.T",
   "name": "Mitsui Chemicals",
   "sector": "Materials",
-  "market_cap": 606800707584.0,
+  "market_cap": 607173869568.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 18.99818,
-    "PB": 0.71532387,
-    "EV_Revenue": 0.721,
+    "PE": 18.975834,
+    "PB": 0.71444046,
+    "EV_Revenue": 0.716,
     "ROE": 0.0436,
     "ProfitMargin": 0.017819999,
     "GrossMargin": 0.21463,
-    "DividendYield": 4.57
+    "DividendYield": 4.64,
+    "DebtEquity": 76.033,
+    "CurrentRatio": 1.724,
+    "QuickRatio": 0.861,
+    "FreeCashFlow": 47260123136,
+    "OperatingCashFlow": 200501002240,
+    "FCF_Margin": 0.026122630612021046,
+    "ROA": 0.01885,
+    "PEG": null,
+    "EV_EBITDA": 7.821,
+    "BuybackYield": null,
+    "PriceToFCF": 12.847488099443618
   },
   "technical_indicators": {
-    "RSI_14": 58.78224746825421,
-    "Momentum_10": 4.720336243129648,
-    "MACD": 11.917752234455293,
-    "BB_Percent": 0.7930925283945569,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 57.5698278679804,
+    "Momentum_10": 5.996068152031455,
+    "MACD": 25.61957538991828,
+    "BB_Percent": 0.7192380924783222,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8984345491534917,
+    "ValueScore": 0.895603578675396,
     "QualityScore": 0.3542585213387851,
-    "SignalScore": 0.5409808849282385
+    "SignalScore": 0.5118050628715196
   },
-  "volatility": 0.0207348221433115,
+  "volatility": 0.0206379643430448,
   "beta": 0.609,
-  "return_6m": -0.0411670420250591,
+  "return_6m": -0.026550252384649,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
     "target_mean_price": 4245.0
   },
+  "news_sentiment": {
+    "summary": "Lors de la Conférence de Munich sur la sécurité, JD Vance souligne la menace interne en Europe, suscitant des inquiétudes. Par ailleurs, FineMark National Bank & Trust a récemment vendu 4 183 actions de Microsoft. Ces événements pourraient alimenter une certaine incertitude sur les marchés, notamment en ce qui concerne les risques géopolitiques et les mouvements d'actions de grandes entreprises technologiques comme Microsoft.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Munich Security Conference as it happened: JD Vance says he fears Europe’s ‘threat from within’ - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtbzhnUHllaG5lZXBTeGJLUzA5Y2FPVnFfUTE5bGUwWEhKQkt1UGhOTk1DZGgzNzYxUDBtQzh5WnljOVgwejVjeTM2MnNzMi1kWEZMNXBjOXJEZEY5UmxZWl9rNDVsSVBXWTN6aVFYazE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FineMark National Bank & Trust Sells 4,183 Shares of Microsoft Co. (NASDAQ:MSFT) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVktQaFB6M0E1ZFJzZ09nS2otaTFKWHdydGdJQjgxb1JNdWprbWpua1Z6blA5Q2ItenFpdEhEZWlIN0JMSWg2QU9kZWl1amRXWDJ5OWNtb201VzI0Vnhwc0xwVTRqSWZYb2NZcjAtWGZHZDZiUE1heUd5ZzBuUW15R2ctWFNWVlJOZXRwR3p3TlV2QU50VW85N2xYZHNBay1mcDZXa1I1eU84OU00bW1RbzdPcm9wRW9rbnc?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3450.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3491.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3449.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3394.0
-      },
       {
         "date": "2024-12-06",
         "price": 3377.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 3239.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3258.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3241.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3235.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3252.0
       }
     ],
     "current_price_data": {
-      "price": 3239.0,
-      "change": -46.0,
-      "percent_change": -1.4
+      "price": 3252.0,
+      "change": 17.0,
+      "percent_change": 0.53
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres suivants concernent des entreprises cot\u00e9es et des \u00e9v\u00e9nements relatifs \u00e0 l'analyse fondamentale.\n\n1. Munich Security Conference: JD Vance voit un danger pour l'Europe en provenance de l'int\u00e9rieur\n2. Honda Monkey bat un record mondial avec 4,183 km sur une seule r\u00e9serve\n3. FineMark National Bank & Trust vend 4,183 parts de Microsoft (NASDAQ:MSFT)\n\nDans cette synth\u00e8se courte, nous pouvons ressortir les tendances cl\u00e9s suivantes:\n\n* La Munich Security Conference a attir\u00e9 l'attention sur les dangers pour l",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

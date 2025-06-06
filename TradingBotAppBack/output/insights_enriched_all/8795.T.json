@@ -2,32 +2,43 @@
   "ticker": "8795.T",
   "name": "T&D Holdings",
   "sector": "Financials",
-  "market_cap": 1758882430976.0,
+  "market_cap": 1707900272640.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 13.717149,
-    "PB": 1.357862,
-    "EV_Revenue": 0.291,
+    "PE": 13.864747,
+    "PB": 1.3185036,
+    "EV_Revenue": 0.296,
     "ROE": 0.093789995,
     "ProfitMargin": 0.03497,
     "GrossMargin": 0.17202,
-    "DividendYield": 3.74
+    "DividendYield": 3.61,
+    "DebtEquity": 9.794,
+    "CurrentRatio": 4.114,
+    "QuickRatio": 3.772,
+    "FreeCashFlow": 458319134720,
+    "OperatingCashFlow": -359866990592,
+    "FCF_Margin": 0.12679752031202213,
+    "ROA": 0.00719,
+    "PEG": null,
+    "EV_EBITDA": 4.947,
+    "BuybackYield": null,
+    "PriceToFCF": 3.7264433082930393
   },
   "technical_indicators": {
-    "RSI_14": 73.53441380495546,
-    "Momentum_10": 12.892670157068062,
-    "MACD": 109.07555050747942,
-    "BB_Percent": 1.0625144180945982,
+    "RSI_14": 62.4316813028486,
+    "Momentum_10": 7.131435881036137,
+    "MACD": 114.22570227022744,
+    "BB_Percent": 0.743805310197576,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9002395874202845,
+    "ValueScore": 0.8973625064393118,
     "QualityScore": 0.3879786428246272,
-    "SignalScore": 0.3948200493109201
+    "SignalScore": 0.4640085850436987
   },
-  "volatility": 0.0263833689736731,
+  "volatility": 0.0262209694501643,
   "beta": 0.253,
-  "return_6m": 0.2032410671407698,
+  "return_6m": 0.2046877961709265,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
@@ -35,22 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2902.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2918.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2799.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2814.5
-      },
       {
         "date": "2024-12-06",
         "price": 2782.5
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 3450.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3423.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3437.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3350.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3391.0
       }
     ],
     "current_price_data": {
-      "price": 3450.0,
-      "change": 136.0,
-      "percent_change": 4.1
+      "price": 3391.0,
+      "change": 41.0,
+      "percent_change": 1.22
     }
   }
 }

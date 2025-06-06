@@ -2,55 +2,163 @@
   "ticker": "L",
   "name": "Loews Corporation",
   "sector": "Financials",
-  "market_cap": 18757394432.0,
+  "market_cap": 18587541504.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 14.663934,
-    "PB": 1.0944841,
-    "EV_Revenue": 1.283,
+    "PE": 14.531148,
+    "PB": 1.0845733,
+    "EV_Revenue": 1.27,
     "ROE": 0.07998,
     "ProfitMargin": 0.07466,
     "GrossMargin": 0.36301997,
-    "DividendYield": 0.28
+    "DividendYield": 0.28,
+    "DebtEquity": 49.606,
+    "CurrentRatio": 0.488,
+    "QuickRatio": 0.488,
+    "FreeCashFlow": 3020999936,
+    "OperatingCashFlow": 3563000064,
+    "FCF_Margin": 0.16997692096642367,
+    "ROA": 0.01654,
+    "PEG": null,
+    "EV_EBITDA": 8.184,
+    "BuybackYield": null,
+    "PriceToFCF": 6.1506952802530614
   },
   "technical_indicators": {
-    "RSI_14": 57.61588241271442,
-    "Momentum_10": 0.1603400818859266,
-    "MACD": 0.5661993749197762,
-    "BB_Percent": 0.8352243597598318,
+    "RSI_14": 52.31156479281785,
+    "Momentum_10": 1.0574621656448504,
+    "MACD": 0.4834723129565361,
+    "BB_Percent": 0.5017769793170876,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8972217922974911,
+    "ValueScore": 0.8943973311064554,
     "QualityScore": 0.3755853992067356,
-    "SignalScore": 0.5792891217605258
+    "SignalScore": 0.5768644365840248
   },
-  "volatility": 0.0149093433231514,
+  "volatility": 0.0149871837541275,
   "beta": 0.706,
-  "return_6m": 0.0396902102908349,
+  "return_6m": 0.0329130043911745,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": null,
     "target_mean_price": null
   },
+  "news_sentiment": {
+    "summary": "Les tendances clés des nouvelles économiques récentes pour les investisseurs francophones :\n\n- Les actions de Loblaw Companies et Loews Co. ont été en mouvement, avec des informations sur les prix des denrées alimentaires et des acquisitions.\n- L'augmentation des revenus de Papa John's Int'l a propulsé ses actions, tandis que L'Oréal S.A. a vu une baisse boursière malgré de solides fondamentaux.\n- Les actions européennes ont clôturé en hausse, portées par les financières et L'Oreal, mais les tensions avec la Fed persistent.\n- Les acquisitions et les mouvements importants d'actions chez Loews Corporation et Bank of Nova Scotia ont également marqué l'actualité récente.",
+    "sentiment_score": 0.25,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "U.S. Workers Won’t Trade Employability for Remote Work: Randstad Study - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaVp0MzBNZGE4c25qWVFpSThRX3JEWFc0aFJyN2MwYzdNWWtYNll3VWItZkNUTUJBTlRVc2FDbTh1ZjZCTmk1cS16N0hhN0ZCTmpXLUlCRTQyX0FteHlNSVJLb3ZPeHdnY2tYRUdxSy1yaGVONGZ6c184NDZFVm1mT3FlbEVuS1p4TUNKQm55dlA0RkxETmtyUGxjc2k0Q0Q2TE9hdGNWMUlWWW5ZM2Qza01Dbk5ISXlFS1VoeEk0UkZBQVpPS09iRDJkd202Wlh6b2h3OHBHU3RGNXluVDNBZEczRmZpbFR4T0NoSDJjcnB3WkpnTUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Loblaw Companies (TSE:L) Share Price Crosses Above Two Hundred Day Moving Average - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOamg1VjZwbWF4Ql9BVzBmOExIT2xKM3VGZHFLeTluM05sSDF5Vko4SkFJRmgxdWttdzdvMmdqUFBmcHVWbEtUSkNhS0tSdjBwMHBKNVl3Vy1zLU5CbUdkbmw2TkJkamlfMTZuWjVWV0thMFhTUmt3U2QyWnFxQVZJRElGc0hacEgteXY2Zml2UmRuS2tSN0xpNk4ySURYZlB4RktkYms5djdEZmNfaTlQRUdpYVl3Nl8tSGlJUGlvcVhnTFMtbUxRZFBpdzloTnFfQUJsT3B3dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(ZCS.L) Stock Evaluation Report (ZCS.L:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbmREbmREQ0FwbWpBcks5aTZQTkhRZjZBTVEtMG15dVhzekZtZVZxOV91VlM1V0tmbjdKRVA5cGFIbVM0OXdhU3RPeVU5aGtUNmVZMnNNOXNKSVBJU2hMZHR4NVZ3U19QdVUzNTF2NVpWNzBHT0I0VXZ0blNFNkRBb0VCaVc0bThCWjgxRlRVaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alvin L. Stock Obituary April 16, 2025 - Donohue Funeral Home",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TXVfRXFyQTVtSm91eEFHT0R2VDdudzRnZDBGM0Q1aGxMSUVLS0lBc1AtaEg1bTJHTW16R0V1Y2ZfazFNQTZadlA1V3h2Rll1N1BEVldFWTEtZEt5dkdveEZTaGxrMDho?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks to watch today, June 5: KEC Int'l, HAL, BEL, Vedanta, Reliance Infra - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONjIxNHNLclUzUTllOTA3STc2ZmtZd09SMnRDX09yMmxnVWJQeWZEcWcwTUVqVlN6bmpCamZiajBkOGIzZkVoNHRTZFBQTDdNYmVTZFlkWWxGSHNyWXlXVUhmd05rUkp5QTJwYlZrS1d0WGdiSC0ybWpmbXp5UVNlNUQ3RzA3TTVHSDZHM0cxZGtiYkloZmxRUUktVUFWZE9PMDJqYVNhWjBGS1IybmxZempWRnBVRi1rTTBaakg0Mm0tMU5kbkhLb3dKN3FFdkUtSUHSAdcBQVVfeXFMT1lSSm90bzBIekVheE9fNzItZ085WmhZa3dNQnJnVXpuUFl4dWQxOS1BMERkMzdkY01sSGc0SjBjT0ZHU3doeEdTSGN0QTI5OVNVbmpsNUJ6UEVpb1lkS0xlTHVNVGR2MGo3MVNmeXVHQVNob2VzZXFFUTJ2TjRMdjlPOFlNODg0blFCUEl6YzFnOUI2SWdqeW1MT2RkM0FhekVnMmprN2MwTWJfSlB5dzh1ODhCbG1WNEtWNXc1aXZnb293eXB4SEVIdWRaeWI5UFBtelNyaVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "“Everything Has Been Jacked Up”: Loblaw Stock (TSE:L) Gains as Grocery Prices Continue to Outpace Inflation - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHA4MG8wanQ4ZzctX0hnS1pGQkJIVzJqTjZibUx3UnBwMVhyZ2Y2WFgxWFU2cjJSdTFvLWJrTy1ES0g2TTkxeWhBSENzZi1WZmRKVm50MkpGakRfYldUWTRycGM1dWJDY3VMV1Ywd3BuejEtdnNUaVEtN1F3R25nai1DVHFJclpBNlRUclJnaXBKcDhDSm1kSVF4OXhfVExjSzE4V25NbklMRVlhNXNoS2RwX2hCSUotQzVWLWFvTlppQjVYaFVaeEpxZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "European shares close higher as financials, L'Oreal rise; Fed spat still a worry - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQll2UTBnc056cTJQejA3eTM0U0NzZ0ZHckxfbzZxRHh5RjdFdGRXQXBheXlYREpnSVB5b2Y1QzFPVDFQU1NiczhwM0d6TXM3R3hzYlJ0UUNudDNnWmxIYmp3ZldBd096TnppaXFZZThvYm1DUUgtZEVkcGx6UHRiRjFzZmFFUWUyRnZiR0RvWFpGd1JLdmUtSkY0a0pRWW1DY3ZDd3J3V3R6R2FLUnBPbDlVOXI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Declining Stock and Solid Fundamentals: Is The Market Wrong About L'Oréal S.A. (EPA:OR)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYnVTOVdpNjFyRGY5Z2xxcGpRVHV1N0pvenBDNHVBUWNmQXZSX19lZE9FMlBnbldzR0NTZDRxNnJpeUZhdzIxaEMtZ2hpYUkxQkI4cTkwTEIyRURzdkpGb0VXZ0FMODlLbXV0YzZwMmtVdEw0VUVOLXBVeVdSSnV2RnRpdkQweXd5WjUxSV9HQWJRcTNOazdydG93Y1VSSmtveE5aZWhFTGg3eUswX0hjNDRoNGpvV05sb0lxOFA1UUJ1ckVaYU5ndU9KQ0hBZ9IB0wFBVV95cUxNMjNjazZSdUl6N3cxTFcyYmJPZXRuLTlHZVJPcEJpWlJoQUtsdXYxbEo0bkNhZFlGZzlwbFFOWHFXbmtObUpqRjhCLXVDSS1jcnBnLXZ1Tkp4VHdzQ3RNM25mTVdSeEdVV0hQOUJfa2xwNHZyZ2RNNFpKOVppWnlqMXBtLWtIZkFVRGM5bnBSajVsekRNXzBZN1RFcnVuOUNIaWF3d1VPbkR5Y0o0dUozMTBCd0E2UGpxMHB1ajEzZUhud0hwQzhuME1BamJZbzNwd1Rv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Loblaw Cos (L) Stock Rating Reiterated at Outperform by RBC Capital | L Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWh2VXBqbS1LczVJd1VtUE00V3E1VGRvaG5FRUZQRmJQR3g0QlJnWkptX2hDZjJ0Y1dRazM4TzNXRUczX1ozN01RcVZvMHY1ZmJDZVN5MGtWc1Z5TExvSjJ0VUZiLWhJVDFONjdTYWNKYU84aVJWWERmSTNhZ3R4d084MkVhMjltMmJSU0tELVc5eFZ2dVpYRmdFbkhGUzc2M0R3TnZyb1htZU9MNnhaTFhSWmU5N0RhLVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Loews Co. (NYSE:L) Stock Holdings Increased by California State Teachers Retirement System - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRzZEdWt3am1jZk9rSTlGQmI5OGt3ZHZERVBlM0FTNzVmT2Y2RWxuTzhHSHN6bV91UG9Mb0JhdDYyZ3Jfb2dLNlJlV2FZUmhOVWRQUVNBRU1HWVFBNUlGd09lSE1NTy11MVplQnJMWWQtcUxlOEFNcGMxaDBDMjNnTWN1cGNjdG9xNGN3T2pydjhvYTZocDI3Ym54a1dOV3Q4dXBOVDJaMlRoZ2U3OWN5N0VRVEFkZWlWY05mQkhDNVZnVGxRMGdEaG94blRDVFhQZnhCd1ZYM3lBOTloZmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Papa John's Int'l Shares Up 13% As Q1 Revenues Top Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnY2UzVrLU5ab1BIZVlRdm00bFdIMTBVWnNYX2JnTTd1ZmdOTXJUdTF1QXBGRzZjQkEteUpGT3l0akkxQkNJam51eFhZVjYzUllaQno5YWt4QzFHaUlvYXVMaWRpYUw5RkZqVzdBRmtZc0xzUVh1eV9QV0d4aEM2dUZGWm1lYVBLXzdV?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Loews: At $87 It's Undervalued Given Management's Persistent History Of Success (NYSE:L) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHJJVUdxeXUxaGFUczdySmZhdzROTi1xRlRURVBoZlFoV3gtTDR2Q3hvOHBYVlVYSVNKcXFta1NVdGIxV0JZbkVHakZMdE1EN1dvWnQwRDFJaEVXNnN2YklrSXZrY3VvQ3RfZnp1YzdaZU5DQ3cxb2hMelNxZ3JpY3R1T0M2NnBlRkxQbEVlMkNDTTRpMl8xaGkyYzEzYlNCYXgzM2p6VFh6ZGozOWNrRDR5Y2NreWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Matinas BioPharma Announces Agreement for the Acquisition - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWFdUVFp5MC1zQWc2M2RRZzVQX25mSU1lSHBHY01jRnZ0RTkwSkVEX1lveG9RaHdEaEJObnRzRUJnQ1NJRzEzZ3BTVE9meUxnV1BPTldvc3ZGZS1VXy1odklwSzlUTERTVURBZndlTXliZTVyYncwNWRKNXBaQUdCNklPYmt3UEthMHZ4cmtPM3VfV0JURm9SVlJORVc2R0tmX3hZLW1rdmI1V0RmdzVfMEg1VXQxRUx1clVLM3lpS3lpOVdaM2RPMWJPVEVUZVBJdEJCZEk0TFl5UGE3WFYxS0FrRlVaamVTVEdIYnBhcl9Xem5Mb25DTkp0dEc0ZjVzbW83Z2tZby0tb3M1WkRJM0NDZ3d2cGxOR1NOTnFyTkNjZDFSVVVHM2VSc2dIQ3RJa2VvTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "President of Bank of Nova Scotia L. Thomson Buys 13% More Shares - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02QzdWYkFlU1FSSFB4bC15NDVEakJFdnJ5TVFBcHZDNVJwVDgydFQ1NjNvWXdudC1tSjhYWHZQWFFSeXZKNEltV1VmR19nREYxRUFSVUs3eDcwR0VNZE9kZU1ZMldkQ2YzQTlzT3VNeDFKS2IxYnBXVTFhajZYa28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Long Term Trading Analysis for (ZFS.L) (ZFS.L:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbF9ud25oVkpfZHc1NFd6S2o4Zlhja3pjZTh5b1N3aS1oQTlxazdOMnplRk5mQzNxby1FSk53Y2NQTG44ZEhiTEdBZS1DTHhSTjJLUW1wdEdpbDlKZVhCaVhJa3QwaWdnUi0wSVl2YU9PM2xicElDNmJLV3ZZRmRlR2FtOWxidEhhRmYzRkViWHFvaVR0aUpLQUNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Its Financials Have Any Role To Play In Driving Loews Corporation's (NYSE:L) Stock Up Recently? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWcyenBWNHktUXFYc19ZS0JySTZ3YTdfNldEdmxfVXY5N1U4bFhKMmZpZG5LMjVaNWtxbVVZUmtuM2JnT2dwcWd1QXJ4X05mWTB3YVVFZm5GRVRQWkZQZEx4RGtTT014UUpwNEluN2I3LWhPbVlnLVhwd21WeFhJVE9aQzNiTnRoSjNUcjBQSnhralQ0aVFraUVRWVlRU1lGR1pvRHh2OFBWR2ZNVC12c0F4R1VLMnlpc0N6YdIBwgFBVV95cUxONTJDaldjUzZpMDR4YTdaMm1Yd1JWTl9McFJaWE8talQySnBzd09pdy1HalJURHRJdDZndlV5Z3NJZE8tUjZFa1NvRE5DNlI1Xy1IY09JdjduclBjQklnNkJOcmZ6X0NLMjZBTWhheGM5eTJPUnBiUWgxbFFfTjRLNWpBbkZnWW5KY3Jkb053d1NpczJhem4tOE5BZEYzRmp3bTlTRlp4QnVzLTVzYVNVcVNacXlsdXdWdVBzV3pNY0FBZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LOEWS CORPORATION ANNOUNCES QUARTERLY DIVIDEND ON COMMON STOCK | L Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeEV3TF9vUjUxNnVqYUU5QUdLNzczdFE0RXN3b1Ayc2FIellKS05SaGEyVWtIaVh0c2x4WWJfaHN2OHZkNXc5dndTRXBURDkySDVMWEVzTDNEQkJBbDR5NXpydWhGdHZtRzRKSzFKeV9fdVFrY256WmhKMVJZOEozTE1pM1RrM3JlRUxFSDdFZGxSQ1lSYnA2ZWZtRkpCVTZQa2VPSkxFR2hDa2tJVWplN0FubHNLeUlGcmQxWTBDSkJTempO?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "L Catterton Agrees to Sell $100 Million of Shares Back to ODDITY - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcVNEVTYzQmlqTlFDSDNKZkNHdTFVeUoxWmpyZi0wRmtIQi05SHBuZ1EyVkJlRFlaTm9aRkx0UGx6UHBUQ29CMGxUUkg2WTBRNjhGRmE0MGVpb2t4eDZ4UVFmLW9ZV0lraGxLcmxHRnJOQk5sWmtrTjhjaGFwMFFEMEl4YklJTWlqMzJGSEN0VmRCVU5LS1F5RDhmN2NBRTlYdEt0NDhEeHlZOUk4cGctMm1vd0pMck5UdElDdlpBMGpncUpqNWZoS3IyWmQ3a3BW?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Loews Co. (NYSE:L) Shares Acquired by ProShare Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTJ5b3Q5by1xOGdxN0o1VjVTZXZ0WlMweXFsbUVxUXBWSFJtOUdwOG5FbjVXWEtaTjRxRW42bVk1VWpPcWhMaFZDcnpfNlJOb1QtaklaMFVSb1ZEYnM2TDhBSUgtWmJQSmh4Mi1qc0xPT3VnRS1fZ0lDVDR2RTRZM2g2SkFMVXc4RnRJcnVaTm96d2lQSVdZa0dQTmpQZUhvd1pCbWp1QWdLeFMwYmx2elc5TEZ6ZENsWVFaei14aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Benchmark maintains hold on Expeditors Int’l stock amid cost control - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmM3bHpxUkNnXzdIOW92VFNfOFJRRjNENy1zMU93cUl4X1owM2lXd2tVT0E0b0g2MEwyNnd5UGFqak5EelF2Sk45RU50N0lxOFB5T3B3LWxFU1ItVDNPV0ZWR1BpR0w3LU5VMWVSRmtyM05DSzFna0MzUWZTN0lEeEdOdzJZYTJzYjkwWWdrcHZFOFRXWTNCeTFrUEZpMG9YTEpUSFk3VWYxTTI2NjFGU0gxWjdXWE95TkdDX1pnWGItVVVlV2c?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 86.16
-      },
-      {
-        "date": "2024-12-03",
-        "price": 85.98
-      },
-      {
-        "date": "2024-12-04",
-        "price": 85.85
-      },
-      {
-        "date": "2024-12-05",
-        "price": 85.94
-      },
       {
         "date": "2024-12-06",
         "price": 86.08
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 89.54
+        "price": 89.67
+      },
+      {
+        "date": "2025-06-03",
+        "price": 89.62
+      },
+      {
+        "date": "2025-06-04",
+        "price": 88.21
+      },
+      {
+        "date": "2025-06-05",
+        "price": 88.61
       }
     ],
     "current_price_data": {
-      "price": 89.53,
-      "change": 0.25,
-      "percent_change": 0.28
+      "price": 88.61,
+      "change": 0.4,
+      "percent_change": 0.45
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres r\u00e9cents de l'actualit\u00e9 \u00e9conomique concernant des entreprises cot\u00e9es sont diversifi\u00e9s.\n\nRose Petroleum plc (ROSE.L) a franchi son prix d'action au-dessus de sa moyenne mobile quotidienne de 50 jours, ce qui peut indiquer une tendance positive.\n\nAlvin L. Stock, un ancien dirigeant d'une entreprise cot\u00e9e, a d\u00e9c\u00e9d\u00e9. Cet \u00e9v\u00e9nement n'est pas li\u00e9 directement \u00e0 la performance de l'entreprise cot\u00e9e, mais il peut avoir des effets sur le march\u00e9.\n\nZFS.L a \u00e9t\u00e9 soumise \u00e0 des conseils sur les \u00e9",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

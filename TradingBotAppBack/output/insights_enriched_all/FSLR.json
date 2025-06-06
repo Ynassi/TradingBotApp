@@ -2,55 +2,163 @@
   "ticker": "FSLR",
   "name": "First Solar",
   "sector": "Information Technology",
-  "market_cap": 16158453760.0,
+  "market_cap": 17576218624.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.790322,
-    "PB": 1.9735928,
-    "EV_Revenue": 3.921,
+    "PE": 13.936224,
+    "PB": 2.1467586,
+    "EV_Revenue": 3.965,
     "ROE": 0.16766001,
     "ProfitMargin": 0.29716998,
     "GrossMargin": 0.43608,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 7.7,
+    "CurrentRatio": 1.929,
+    "QuickRatio": 1.194,
+    "FreeCashFlow": -820771968,
+    "OperatingCashFlow": 342294016,
+    "FCF_Margin": -0.19281662066574026,
+    "ROA": 0.07502,
+    "PEG": null,
+    "EV_EBITDA": 9.214,
+    "BuybackYield": null,
+    "PriceToFCF": -21.40772059115937
   },
   "technical_indicators": {
-    "RSI_14": 48.46199287946836,
-    "Momentum_10": -15.555311398219237,
-    "MACD": 4.4229190993298175,
-    "BB_Percent": 0.4111821298705819,
+    "RSI_14": 56.716882415517134,
+    "Momentum_10": 0.146909163455568,
+    "MACD": 4.173866485408041,
+    "BB_Percent": 0.5198790759684752,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8891370060463888,
+    "ValueScore": 0.8857575045177002,
     "QualityScore": 0.3164118247827494,
-    "SignalScore": 0.7303465446378219
+    "SignalScore": 0.5612045493288387
   },
-  "volatility": 0.0409757907287856,
+  "volatility": 0.0414448170574019,
   "beta": 1.527,
-  "return_6m": -0.275346289458321,
+  "return_6m": -0.1719799653703415,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 34,
-    "target_mean_price": 201.78294
+    "target_mean_price": 202.48882
   },
+  "news_sentiment": {
+    "summary": "First Solar (FSLR) a récemment fait l'objet d'une attention divergente de la part de Wall Street, avec des analystes partagés quant à l'avenir des énergies renouvelables. Mizuho a relevé l'objectif de prix de FSLR au plus haut de Wall Street, tandis que des initiés ont vendu des actions pour des montants significatifs. Malgré une hausse récente de 31% du cours de l'action et des volumes d'options inhabituellement élevés, les investisseurs restent incertains quant à un éventuel rebond ou repli de l'action.",
+    "sentiment_score": 0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Wall Street Bulls Look Optimistic About First Solar (FSLR): Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUHc4LVVuS2xmX3JkdGxXdzB6eXVtejdUS0RGU2UxLW5yZUxwLVZ3MGtjVS1vd2tTYWkyY3N4MUJtT1NGcXljOTNTUjdYQ21PS01OS3ZYWURENVg2aExRWnJLX1dlclBJVlRiQkxMQW1fTVRnZ295blFDZDA3NUxkVTZnZzZPdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Could First Solar Stock Drop Below $100? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDRjBMYU56c3NHaFhtaUVPaHl0bm1aVGY4bkl2bmRqLVh6WHEzbFJZaFVQNHEwR2VlVV9oWVhSYWtDdEFtYVBsSmxQQVJoeTdJNHllbkFBa3c4QTczU05jdHU3SUFrUG5RS0dJUzNGZ1Y3UUNBNkNLWkdB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "First Solar Stock's Future: Drop Or Rebound? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWRQUXFWYXNRQWlWUGVxbGlIbHI1Z2VHd3pvOHRJRDFaSURIaVZUNkZleWs1UXc0N1ZxeE90dWt5SGY3RXo0QzdKV2owXzVkLUItM3lCUzFMVThMc3BUb0lmZExHMmo3M3FIVVVfTTZkOEdQTGFJV1E4V200djNOTzF2NDhDOUhVcC1rREU3Q3Zta1ZwckJwTU8zT0VNN1hWRmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mizuho Lifts First Solar Stock (FSLR) Price Target to Highest on Wall Street - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXVySDQzZFhtaGxoS2FidGdtdmViZ2FLeWlaTWNaU05JM1JQeTVBQUNCYktmTlk5UDh2bGl1bXRYMzFHbmdyY3Z2dzVIa1hDcExMcGFieU1iWFdGV0hfdnFVR2J3dXlXeC1FTE9mMFljRU1rT1FyRUZCTUJadEYtRkNVdlVzT1VOZUxUYjV5VEVCTjBvWDlYMXhySUM0Rk1IUXR6eDhrTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "First Solar, Inc. (NASDAQ:FSLR) Insider Sells $466,877.71 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnRtRl9JNmpGMm5WSmdHOU5rMjYtYzBhS3VQazZHdUsxT0Z1Z1RGZnR0RHhCTDQ1ZENjRk1KaUZkTGgtNFp5dVpIeDF6RVFqb2R6X19aZGtBZjg0UkdkZkdydjhSemtJQ24yeWJNM1k4cnZvaXdSLTBBWDRFQ3c4S1NLdjd2UTRQUFpfa25Bb0dwVUVPMElzdTR6bXZlVHltVmQzRDJoVWhLRTRxLTZVdXp3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar Stock Falls. Wall Street Is Split on Fate of Renewables. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSDRzWGNJS2FfcmdVeFp0SnNFUmhKX1ZkVEE0dHNzUHdCbFhEWlg2RUV3VXRhOTgtX3g5LTJxaEpOLXBOVFM3WVdCU01tcmdKNUNXRzc0eFV0VEEzZTFQNm11NGtHZVd2MEdDaE5tRVBEOVJLNXNPd1ZIdUY4OVZQazNB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Renewable Energy Stocks Q1 In Review: First Solar (NASDAQ:FSLR) Vs Peers - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTGI2OFRpWUxYOWNtQm1QV1E5bk5hbXhRZGdtbEVyR3NpeTlpS1BmVV9aQUN0WDZBM2w3NVBoTDlNQzNjUGl5Sk1LVUlBdndqdEZtbWNCMDhxM1FrcnE0TWJieldyNjZrYkZvaV9mTFlpanlfYnZuY2lBaXRyRVZ3Z050Qkh4QlZHYjdIeXc1dUVtN3o1UUh1b3Ewei1ZZ1AxOVFwSHBndy1kdnVWcU9EQXotdzYxWVdtWWpBVHY1QklQYURLcDdMdWR3QkVaOXNtZWVxY01aRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here is Why First Solar (FSLR) Stock Fell Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uQVpoZXZ1N1VvRjdOLWFXQ2FVRC13LWpZUTlZZmhObmRmWVA4b3pITDVWQnF0UDJ6Q3NQX2IwRmVxSFpBbGtMdlpxcHdETXhqRmNOVjdKQ3JpSTVmcWEtODNmdl9KYmYtT3lWNUNmNC1wZDJaNmpDTFduajc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "First Solar (FSLR) Outpaces Stock Market Gains: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzAyUXhENGU2M21TVWtLYXdQd0JMMHdOaWlqc3FNNkJvTGdvREJmQ1M4anNQQmdfZzJQczFOQlVPUXBIUmtxQkl5c0F5eU1FdmpnaUk2bkpnOUdHOTVlUUlTbDZIaTl5T3Jyai1kQ2Fqa3dYNzQtbkNqMVIta09LNzJKZUhULUdSTGY4UTh5S0g4QVVIaTJvT1F2Y2ZkVkl0eERFeDBEeUlmVWs5aVRlOFpaR3o4NVlDVllR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cox Capital Mgt LLC Raises Stake in First Solar, Inc. (NASDAQ:FSLR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR3ZFdXl3RUpZbjZfeTJmU2FPS3pWUGJmN2pOaTV4LVJhZHZBTTBaR191cTlUbHBfNlZuZmZZbTB5NE1TdmNuR1Y2UHNTM01WdS1HWkd2YUdvWmNfOGJPQ3Z2RDBRWTZhLThvWEcyVk5Wa3NSdTZuLTdqbEFKcktYalRZVHFwRGtsZFhCbFVEU2lxYUpYR1FZUEZjRVl4RTZrTklvOWsybkYwS2oxdldRbVpPYjUzMmpiS19oZEdrcmEtRnV1emNQbk4ydko0WFNlVWNWcU51enk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar (FSLR) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZk55X1Jfd3NIVTZQcW1WY3pOSTBvSVNiaHNzNGNGMnRyblBmNWtKMzFQZ1c0dGp6OXg2UWFHdE5sRE14QmhKY2dwdHJHQnozcVJJcmNLeXp4SVdfRGE0cld0dGlYdUI4RTVYT1h5b1VYNEMxbkpnQXFXMDIteG9sOEFOTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Now Might Be the Best Time To Buy First Solar Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYVd0dVM1R1psdGVfVkFXUFc1SE5FWkNWOWU3VWNkbldCYjFSOTBsR2NGcndPS0lUaGpwaDdBSHptSlpZZTJhYzcxa3dhaHRvbXp0X0R3V29BRlV4VmFqU0IzSTQyVUpSbVJoaklsQW82ZTNPWHZZSlE3bEhIWEhmMTBR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar, Inc. (NASDAQ:FSLR) CTO Sells $1,481,812.85 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcmUzNTVaLWJscDA5dHBhUmJncERwVjl6c2NFYms4UHMxVzk4V1pEU2pGblUyRDQzcEVSR1NFMXZORW1jZ0o5RUtZYmNMMGhrWmZzeURmenZPeEp5VmVUWkxHemphME9yM09wdGhWRkplQjl0ZlZpZmZfa0FqeF93MktZeVFIb3FOUU95OGd6MFFmZUpkQXJ2MVBSVG5CdkxLZ2tmdHV4ZWo1c3lvZGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar, Inc. (FSLR) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaE9pLXEwOHVMby1fUmltc0lwYmptdVhQQmlhZWdraHYwNTlsa1RHWk14aG1ZdFhteHdMZ0h3SUpiXzN0UnhhYWp0V2lpNHdPeTZWX2tBcGRvY2NpS0o3Q002bDhHaG1RX012QTdOSDJMcXpFbW5hQXJ1cDZVMXdyQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy the Surge in Coinbase (COIN) or First Solar (FSLR) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEppRHAzTG9WaTdzaEVYV0J6emUxUi1Vd20ydF9YR0VEa3VrN2wyaWVMNThNMnpFaXMzYXFtR2xlUk0wYnJ3eXpvTDZtbGc2N1VjNlFKdEhGUk1kVC1YQ1lwblR0YWxRcGhqZ0YwX0tHZ0FfOGc4U3lobjNMREFPd1VDcVJNbDk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar (NasdaqGS:FSLR) Sees 31% Stock Price Surge Last Month - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObjl2VWR2QzZIYmF6TUN6WGN1N1o1UGlpemE5WFV6aENVV2NqdUg3dUxWdXkxZkRTaHlJNWdVblFCcFpTUEJncTdpV1EwSWtpQnU3b2dLdFhQUnNTSmZOUURMNklIUWx6WFQwUDBzaVA3Y0VWVzlNaklrRWdiWHhySjd3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "$FSLR stock is up 22% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTMtdk9ZX2JSNnJ5SHB4RjctNGRVakROaHBxMUNZeVpzakNZazJfVGdWVTZFRldnOTBYeHNudmdOOWl2SUVFQUQzZ2phVy1GUUp4cFFHTFF3bUJOZXdxT3BTcC0tWHlvdzMxejhGUDh3R3M3YVNkSk55VG9hSjlGcXcySVI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "First Solar Sees Unusually Large Options Volume (NASDAQ:FSLR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVc0RDFENUt2U3k5bUdRMEsydmk4Rl9GeTFxQm84OWo5WTNCMDJzUHhuc2tMT0twc2pKMjg3aDI2WU43QkRKWkJKbjhFVlFkRmZIMXdjWVBJZTQyZUJ4NEVoYTZVTXVrd1JlbTA4c0U5bVZJa3JmRjJuNTVqVHd0WDFOVU9XZWt3b0dCTE1GeGZFTGxrZHVRd0ZsOUZYUXhNVm02YXlyb2stbEd3SFVjT0Jn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Time To Buy First Solar Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWktIMThDN29ieEVJOGxfSTFKVGhTUDg2TDFNMlFzLWptNG9Cb0U1ekh0cUp6Nl9zeDQzMzcySWM3WnhrWHFySjlOb2FTc0RuZ1I0T2NteGlrc0t4VEl0alphdXNMNzVmdjFGNE1mZU1WR0IyUnBiNWZNRFc0ejk5WGtDMXRqSi1SQUNuRGpodFpZdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First Solar: You Haven't Seen Anything Yet (NASDAQ:FSLR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDlvOUJVVFhRNzlLY1cxQkZSanlQU2xvLVFmNEFncmE4WkY0V0RhVXBSQ0stR2x4d2N5c3lSM01mUmd4eVRmSkdQT3p1RXZfUjlhS2JYbExubUl4RWhVdGl0RzVnNGhNN09GU1EwaEtzc2V3eHMycHRybHVsdDJ3TUpsV2kzdTlZ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 207.92
-      },
-      {
-        "date": "2024-12-03",
-        "price": 207.51
-      },
-      {
-        "date": "2024-12-04",
-        "price": 201.57
-      },
-      {
-        "date": "2024-12-05",
-        "price": 197.93
-      },
       {
         "date": "2024-12-06",
         "price": 194.19
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 150.29
+        "price": 149.65
+      },
+      {
+        "date": "2025-06-03",
+        "price": 159.37
+      },
+      {
+        "date": "2025-06-04",
+        "price": 159.81
+      },
+      {
+        "date": "2025-06-05",
+        "price": 163.84
       }
     ],
     "current_price_data": {
-      "price": 150.24,
-      "change": -7.84,
-      "percent_change": -4.96
+      "price": 163.84,
+      "change": 4.03,
+      "percent_change": 2.52
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nLes actions de First Solar ont chut\u00e9 dans les derni\u00e8res semaines, mais les investisseurs sont divis\u00e9s sur le sort du secteur des \u00e9nergies renouvelables. L'entreprise est consid\u00e9r\u00e9e comme un champion de la fabrication solaire am\u00e9ricaine et a eu une performance b\u00e9n\u00e9fique en 2020. Les analystes du secteur sontime une hausse de son prix.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

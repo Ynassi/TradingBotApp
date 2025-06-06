@@ -2,55 +2,163 @@
   "ticker": "GILD",
   "name": "Gilead Sciences",
   "sector": "Health Care",
-  "market_cap": 135252508672.0,
+  "market_cap": 137964273664.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.842436,
-    "PB": 7.0645185,
-    "EV_Revenue": 5.328,
+    "PE": 23.30042,
+    "PB": 7.2061596,
+    "EV_Revenue": 5.282,
     "ROE": 0.32654998,
     "ProfitMargin": 0.20759001,
     "GrossMargin": 0.78288,
-    "DividendYield": 2.87
+    "DividendYield": 2.9,
+    "DebtEquity": 130.789,
+    "CurrentRatio": 1.369,
+    "QuickRatio": 1.061,
+    "FreeCashFlow": 9989000192,
+    "OperatingCashFlow": 10366000128,
+    "FCF_Margin": 0.3476248474601736,
+    "ROA": 0.121429995,
+    "PEG": null,
+    "EV_EBITDA": 11.059,
+    "BuybackYield": null,
+    "PriceToFCF": 13.755581486728236
   },
   "technical_indicators": {
-    "RSI_14": 56.22292890088334,
-    "Momentum_10": 6.282832448075458,
-    "MACD": 1.4867060256413254,
-    "BB_Percent": 0.752703664624757,
+    "RSI_14": 59.48542387028609,
+    "Momentum_10": 2.845342003966832,
+    "MACD": 1.62530615948738,
+    "BB_Percent": 0.7817669117320756,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8810185605828753,
+    "ValueScore": 0.8779883111311354,
     "QualityScore": 0.5181043494313268,
-    "SignalScore": 0.5453598897354932
+    "SignalScore": 0.5291280954440509
   },
-  "volatility": 0.0184695074182889,
+  "volatility": 0.0183479605511281,
   "beta": 0.311,
-  "return_6m": 0.1743611861366392,
+  "return_6m": 0.2058788052347633,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
-    "target_mean_price": 115.42231
+    "target_mean_price": 115.88385
   },
+  "news_sentiment": {
+    "summary": "Malgré un léger recul de 0,74%, Gilead Sciences (GILD) semble maintenir son attrait avec des données positives, comme une hausse de 6% du cours de l'action. Les résultats mitigés du premier trimestre ont été contrebalancés par des perspectives optimistes et un solide rendement sur diverses périodes. Les analystes de Citi et Jefferies maintiennent des recommandations d'achat, soulignant un pipeline robuste et des études prometteuses comme celle sur Yescarta présentée à l'ASCO 2025. Malgré des fluctuations, GILD semble rester un titre attractif pour les investisseurs à long terme.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Should You Buy, Sell or Hold GILD Stock Post Q1 Earnings Miss? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZUlJsN0cyU05zV3FHcFBRWngyRnNSVDNRajlrSmxkVFVzY0JUWS1tVGxxLUYyQ1kzdWN0ZF9Mb3RyOFBSdVRCY083U0MyWlNHYjE4cDdzLUZmOXpKTWVGM3lBNWUtamZLSWFzZDFxZXdXRHBaMWRwNG1B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Citi Analysts Affirm Buy Rating on Gilead Sciences (GILD) Stock - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSWtUbzZNVm9oR29PV3dvUzVNX203TnVwNHRXdWtfN0VtckRtWHZOV0Fma0pQc2cwYnVHUGkxbm9IQ1VweWRlMV81YXFfNGlPazN1Q0hIZFZkc1ZqdWpXbFlwdVN2Z3RvelVLYVdjMTkxM3BaRS16ZThFT1Z6cDJ0ZVBfcXJiVGJFUmFiVTNJU3lqaVVGY1QtZEI5OTRLSVBkaTFPVjMyTHhMZFVBZVN5cUhVMlc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Positive Outlook Boosted Gilead Sciences (GILD) in Q1 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXc5WWRGMGhvYUdINmkteTJhQlFQcHBtR1NoYV8xdlVMZ0oxZFV6Q0V5N2U4cUhNYWU0Y2tlRkVQdEhNT1JnYzBLUEhnS2tGWjVFaFdRaVNFYWtJdjhuTE5ERHdRYjdRZUN5eGF6SDBlSHhaUTBMQndZRlQtbGl1bWktN0tMYmZmN1JMeXRBSDJXMEJYV0hZYmMtWdIBowFBVV95cUxQRmluLTRpZlpFM3lvNFhsSFpDdEloS3FRWnI0Qy1LYWZ3N2F4NjFYMVZveENTUVFsMllvcTdtaXZRMkthTW5OaDRFSTFjNlNfTXJUT3ZWYll4UmtSaXVRLVBhczhqNEptT1ktT0xPNnVuQTBzTk5tQzdkVU5wTVVWLVkta3NTUnlCX2NkM3VocGJBUmk0WFMzb2JYMFphWGxhRXd3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Gilead Sciences (GILD) Stock Rises on Nasdaq, Showing Strong Performance Across Most Timeframes - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU244NW9EZFhCQ0dOZXU1a1YtV2tkQW5WM29LRVJGRHN4eXU2Zy1Oem5qZ2hWUjIxaDRBdkdfSFVjUlVZSTR1TXZ0ZXJQeG9Oa2h1bTZaMnNrSkJydkpiNUNSazE0T3RpczN4SzN1Q283Y1MteVc1MG1jN0J1alg0UUlRTkJTaDdZTnRzY3ltUmp5OUp2SHNxM21lZkVybWlocXEtZGJLNEJLT0d0MGJmdGlzVkprdEtESTEyTFFBTEZ3akw5UXRuMkc1aHBSR2YyQXg4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Gilead Dives As Its Biggest Moneymaker Misses. Here's Why It Could Still Be A 'Safe Haven' Stock. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlp1bTc1RzhtOWVQMUpJbklQcktXb1FfWnJYTHZpMXBqUnVzdWp6SWVjSzZvTVZEQjdUMGxTU1dhRDZpME1fbk1jUnpwZkdBNDNpR2ZkTjJ4MWN3X1k3R3hlQ3NmdkFmaEI4Wl81SjI0dVdPQWV3MGRPdnJwX2EyNlhsdG8zLUhMVFBZdThHLXZ3Zw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "$GILD stock is up 6% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOemFfbC1acUQ4QlYzT1dFWHBwZkM1WlBUaGZaMlp3ZVR4enFlVUNJZUdCcGZaZ0lXQWRnTDF4QzFkekppM2J1Zl9LZXdWU0tWU2ZfSDg1YkRYTTNDNEVOY1FiMGVKX1NYY25Fbk1nc3NMM2p6SUR4TUlEd19LSjRCNGhHcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Gilead Short Strangle Could Net $395 In Short Order - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWw4cndDLVhfZjctaWFsTURuNVBhdWpUVWVwb051bmV3RDRjVHNuMDhIUEE0XzdxaTNJOEVBT0pCbnJDVUItbHAzWW5LRDhETUs5WHpMeEVFM2d4LWw0OXdkSDg4Zy1hSHJqbHpYbV9xT3hWemJBZF9vLWQyMlp0SkRNdzNsaFVQQWZTaTNjQThqNXpJcVpOTHAtZENTVjBTUUIzTzZmbmc1QUxyY3ZaSHZYclFEdzdudE9IaTYxVHplNzMyUVhvR0lRVHdUeWpsYnRrNw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gilead Sciences (GILD) is Flashing a Quant Signal That Wall Street is Ignoring - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGpNb2JXSm9PanZqcjd4YTdpcWhUSDRzQmhkcFhKaTFTa0ctMUtGSVVqUU1jeWRGRDNnRDNiRFY4QUR1QTczbk9VYi00NHc4UGRSOXdTMF95bjRpX3EycUk0cTFKWndYaXFrdlhYTXRIUzRBVmZWLWxUTHplTWpnQTdzUkktRl9RTFRPeER4TWJZczE4TXhTOGdzb3Z1cU40Q2NQa19oZVYxLWpUUjR1dzhfMNIBuAFBVV95cUxObng0dEh0YXM0TEJxbzZySm5nSkxSeF84UTB5ejdzMzRkdDN6Mjdfa3k4NWtBdFVReDY5UlZkRDdnUFBiS3R0NXJRUGloX2ZncEFZYUxhOEhmM3QxUnRuVHk0VnVDLWg5MDdrTjdwdEJBalNIenk0TGpQeWdUcUhzYnh5WUV4Z2hYV0pUVklsay1KLXZPRG45U3JRWUdpOFhvS3RReXNKSGl1STNVYVowUERpS0g2ME44?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gilead (GILD) Presents Yescarta Study Results at ASCO 2025 | GILD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaTgtLXhERUh6VzhwNDFNNlBiRkJkVlVUM3JoNmZVQ1o3WXRaSlJILXNYdmVvMjBGc0xENDgyb0NONkJtWGVkWVVOOWVVOXBHNXNzZ043U3RzUVRrcFpybkJua3VqSDhCZTk3UDRIRi01WlNUdUFXTjFMZ0lKdUNNN1JKZmJ0LW9mWDg1VjduX3FlSTFtaGNBRmpGeG1iZFJ1dVF0Rk5LdjAzcnR6RnlGVnRWaTItRUN5UUpCMVJBcVBkWGx4cUlITkxmSmFRNTZjN2VaVjFSR3F6cm5tMnhYWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here is What to Know Beyond Why Gilead Sciences, Inc. (GILD) is a Trending Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVhaTnJoNjVMSWxnRzNvWDRUWm0wMGhEQmI1d0x2bWVFUUtxb3pSb1lNMGRVZm01eWM4bkxLT3QwTmJoQnUzYW8xOVlya0RpdHpLZ1NZMDlMNnUxS0JSaXp4OTJxWU9CdGkzd2hyNVFQUzdUNHFvNXJ1WnRySlhKbmRHZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gilead Sciences a Top Socially Responsible Dividend Stock With 2.9% Yield (GILD) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUhCU0VEbUdBQ2F2U1g3MzE0dDRSa2J5V1ItNlMwRGRGOU5tdE5sT0dTWjI3SFhTOVMxVG1jSGp5U2xnN09oSDNHb29Wem1DYnVwY0YtbzFhajB1MUNSa2pDbmRVNUNiY1FIYUlLbWtpc2NEWDBOVWlwdlAzbGdFYWhtYzBGNXdySTBYcGFsa0FuSjN2S05sX2g2UHNZSWNoWWFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Upcoming Meeting for GILD in Foster City | GILD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSW9IZmJ3MHhtNDdsMHlUamJqb1Y0eFRNdnEyblNzOUZ5S0d2WE9mNUhaMDJIM3NZdHh0WDhJQk1vMElSUVlTNmdzZjFaVlR6LU5zdWZZT1VmRTRIaGZyX0dld1gxbEViUFNKSjJJYk13UFpzd2NaM2lIaVpzRUlZbXlXTnF4Y1pTb0p2VnhJaEFlN0I5XzVwZzZWZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Maintains Buy Rating on Gilead Sciences (GILD), Cites Robust Pipeline - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzlrOWdNNDFlUmZraUNRZGthZ2tEWkVGbHBZQkNtTHJMeVQxVU9JNjVkRS00STBDQ3U3QjhhQnJWeWdBWkNwaWhKY1pwWEhNc2h4UVJLczJzb0RBdGdsMGVaQjNFaVhVSHVzcW1pa0NGWk80Tjh6RmlvZF9aS1plTjBsRUI4Z2YxRWp0cHRkckZjQ3dSUW5nUjdORlJMQkhxeEdLOHJJb3M0c2NYdWdGbFBwMWFrS1c3YXVV0gHEAUFVX3lxTE56c0VNUm1pY2Zsc0JJRXlDVGFYaXExWGp2QzFkNjNaaHgtNEtoclZVNzh5ZEwyWkNxT083QUFaQlQxUmZFMmxFYVQ3VGtWZDJKYWZqSy1UUldOZC1xYWZESjh0bVNjQU13aThOZ2d4VVBDTk01aUhUZGtXalpoa0lJOTJXb2JQZ2VlUF9KMjJVQXBxZVc0cElpTEhzai1lTW5uYjhEV3lqdzltU1FIX0FuTXRvR1NiTDVDQVBkTVhVR2std18?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gilead Sciences (GILD) Stock Moves -0.74%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWJwelJqT0YwNUJIdFNpNFNJTlpYZnZtSExlSmpmaUo4T1VMaUl4ZWxyZ3hzeHVkeHJBckNOYkFSeXJHTWVkdVlsUUR2aXFYajg0YXhEajFUaGxVZ01RNGwtV2dJenNNUG8wSWRnY2dhRXpvQWRMY1Vxb1hjMnlZRkd0aklXS2pwZkNscUx3d01od1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Gilead Sciences (GILD) Stock Is Trading Up Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHVadkFsQV9MWFlRVmdzUG5fSDZza2pFLUZHdXYzRUV4S2FjZ1pfWUlsRmpYNjdLUTl6U2g2dlZvVmFjTjVPUFBGRWFMWFM0c0dOcjhVUFRsRTllRktDSGNvYWNERDE0YXY3NXo2TUFVRjdWT0N1aEpyTExsNWdkb3FR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GILD Stock Trading Close to Its 52-Week High: Should You Buy or Sell? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVZtNFo0Tm9uSGZtYkJVRlA5QXZucWNpdlZrTlJtZmVMRk9MbXg0ekN1VTBJTTctaGhidzBJc29qYTZNMm1sNHpZODEzWXlIc2hqbVRSd09VeDhMa2pnTWt4WURKeVpiLVVIVl8xQ1FvbEVtQlNPVlVBR0dtd3JZMUMwSWpLLVE5YWtQWTFsalhQbGs4OGozRGExdkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gilead Sciences (GILD) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZkVZLUdWeEs4c1JLQUF5cDB5WGs5d0FKSm83ZGpUcjU4eUNhQmhhN2hvU0lCMENUOEVqUF9OTXRLdm1pZjlMMVFsRFJQTHAtSko2bFBwT2xSNmY0dlRab3NsVzJGTXEzRU5VNmNweFhJS21KR1FjanhtRDdvM0NHd1g1ZTA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Buy Gilead Sciences (GILD) Stock at 52-Week Highs? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3VkQ3REVF8zRlhVbUEyOUZtc3RLZU5BVVlaX3BGb0ZnMXRLZlVrbzl5WUxOVnQxYUtqZFkyOHllV04xOWNyVVdKdXRvUUx6TldaNW9qUFVmX183X05YeEtHVG1VUVI0a01LNGR1QTFkTTdIS2xzb0NFdEFwcmpacWJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Gilead Sciences (GILD) Stock Outpacing Its Medical Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaU8yYVhDWWMxWjNrSzAxVnZtQkloS0EyNUlkX0F5MlFZSzdWMV9HUjFITGx0VEk2dk1RTW56S2NWRWtYQlRRMUwyLUVwYmUyQUlWYmhoV1BqQTNETDRFeXhoU25rMFRkQXBWX1huRjUzTk9oNjhhSXcwU1JYUi02cHI5RjVSSEVqZmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Gilead Sciences (GILD) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CWEY0NDZjRVJ3WXJYM0RPcUFvUWdzLXhiV25MQ1pQTzdMRnF1VV9qeno2ZUZuc0d6ZWc5Zzd5Si1rT2MzYkpUdDZkazVnOVNnR2U4YnJPQ1BUcUQxYjdjZ3JBTlNMOGN1NlRMbFNDUXZkNExjX0VqOV93M1RRdUU?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 94.02
-      },
-      {
-        "date": "2024-12-03",
-        "price": 92.49
-      },
-      {
-        "date": "2024-12-04",
-        "price": 91.59
-      },
-      {
-        "date": "2024-12-05",
-        "price": 93.39
-      },
       {
         "date": "2024-12-06",
         "price": 92.13
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 108.87
+        "price": 108.91
+      },
+      {
+        "date": "2025-06-03",
+        "price": 109.33
+      },
+      {
+        "date": "2025-06-04",
+        "price": 109.02
+      },
+      {
+        "date": "2025-06-05",
+        "price": 110.46
       }
     ],
     "current_price_data": {
-      "price": 108.87,
-      "change": -1.21,
-      "percent_change": -1.1
+      "price": 110.46,
+      "change": 1.44,
+      "percent_change": 1.32
     }
-  },
-  "news_sentiment": {
-    "summary": "Gilead Sciences, a biopharmaceutical company, has recently announced positive results from a clinical trial of Trodelvy, an immunotherapy for breast cancer. The drug, when combined with Keytruda, reduced the risk of breast cancer by 35%, according to Reuters. The company also has a socially responsible dividend stock with a 2.9% yield, making it a potential buy for investors.\n\nHowever, Gilead's stock price has also been affected by the underperformance of its biggest moneymaker, which could make it a \"safe haven\" stock for investors looking for stability. Gilead presented positive results from a study of Yescarta, another immunotherapy, at ASCO 202",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

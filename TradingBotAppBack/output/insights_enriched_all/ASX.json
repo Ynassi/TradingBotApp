@@ -1,56 +1,164 @@
 {
   "ticker": "ASX",
-  "name": "ASE Technology Holding Co., Ltd",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 20502538240.0,
+  "market_cap": 20937144320.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 18.87,
-    "PB": 0.13163218,
-    "EV_Revenue": 0.312,
+    "PE": 19.27,
+    "PB": 0.13442248,
+    "EV_Revenue": 0.315,
     "ROE": 0.11062,
     "ProfitMargin": 0.05628,
     "GrossMargin": 0.16537,
-    "DividendYield": 3.37
+    "DividendYield": 3.27,
+    "DebtEquity": 65.266,
+    "CurrentRatio": 1.041,
+    "QuickRatio": 0.789,
+    "FreeCashFlow": 16794644480,
+    "OperatingCashFlow": 94067089408,
+    "FCF_Margin": 0.02749794435470389,
+    "ROA": 0.035520002,
+    "PEG": null,
+    "EV_EBITDA": 1.921,
+    "BuybackYield": null,
+    "PriceToFCF": 1.2460089677349335
   },
   "technical_indicators": {
-    "RSI_14": 49.6468738670462,
-    "Momentum_10": -5.366096620692934,
-    "MACD": 0.147932930003428,
-    "BB_Percent": 0.3588863374121795,
+    "RSI_14": 54.275440317209146,
+    "Momentum_10": -1.7838958537139489,
+    "MACD": 0.1175808900609602,
+    "BB_Percent": 0.4213386117395441,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9348401315214416,
+    "ValueScore": 0.9321156421661498,
     "QualityScore": 0.3651161476368631,
-    "SignalScore": 0.5156487151302036
+    "SignalScore": 0.5439333592349047
   },
-  "volatility": 0.0290669315993411,
+  "volatility": 0.0291031181844279,
   "beta": 0.924,
-  "return_6m": -0.0574425370746836,
+  "return_6m": -0.0544651005256064,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 3,
     "target_mean_price": 11.01325
   },
+  "news_sentiment": {
+    "summary": "La bourse australienne a connu une volatilité récemment, influencée par des tensions internationales telles que le conflit Trump-Musk. Certains secteurs, comme les mines, ont enregistré des gains, tandis que d'autres, tels que la santé et la finance, ont décliné. Des analystes identifient des opportunités d'investissement, notamment des actions de dividendes attractives et des valeurs sous-évaluées. Malgré des prévisions de coupes de taux de la RBA, la bourse a clôturé en légère hausse, avec certaines actions dépassant des seuils de marché significatifs comme les 300 milliards de dollars pour CBA.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "3 ASX Dividend Stocks Yielding Up To 9.8% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHlOMmM1Rkt6ZlVNdHNwZ24wWFp0YjF3UXVSNG5sbG1WckFscnJBWW9kUlFwVl9IZWZFaDFJSmZYcFh5LXRyZ3BtMVlZTjNfaFh2d0FvUGk5MEcwYTFiblRuWnpCODgxdEtoaUhuNmduLXdGVUxGbmlURjU2SkNuUkN3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Live: ASX set to slip after Trump-Musk feud triggers sell-off on Wall Street - Australian Broadcasting Corporation",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGV0Z1ZKeXNIMnE3SmlHdzZCWC1DZjFjckxPekh3Q01ZQXN2TnVnZ1NsSVloai12UURQWDZZbTY1cllOWHpTQ3pSWWl2MHphMlJQTDBRdk9HS2VEZ29oTFVTRjlWZjl4RVp0SDNIVkpYaDl5amtLbDhFbXduSkh0VVM2aW1WbHJkUVNqZDVZLUVlZm_SAVJBVV95cUxOam1QOEVwSE9zQWVTbExhbTVtY2tsUHBkUXB0bmVzZWFnYmdac3lUcDNXWEVfN3pRSGo1N2ZzTE9MMWdaM0lYbFZYZWF5VXdGbGVn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nine ASX stock picks that Morningstar tips are ripe for a rally - AFR",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdlN1NkpFcjViSXk1OThTV2g2YXg3YVBsUzdKM0FmVlhDUmdZZmd1V2FlVGNQeVpVOXBRdzZndWJMcWRXMkhfMExod3loNWg0NVEyNGRWdEdsX0pDRzZ0enhJM282V1pWd1pieVBPU3lBdU9nSUtRRXFDN1B6dF9BV0gtWEhmN214dlhmT05SMDZzZEY5ZWRaakNxMXV6azV4c0hBclBmU2NTa3VDVmNFem5icllDSGVteENaZnJjQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.03% - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmdscEJZNnJvNnhmanBNV3NBNDM1c29hWmJoRjVOQmRKUlpaMWxPOEZYUmRlVi1CSzRMZmdVSTVXR01FUldzWVNPRmEzQVRjUjVLRHBaT2FkWlZST294WVBma0c2eHIwWldibXliUU00cy1DWTluWmczUzhkV0gwUUFIWExjT0lEVVlsRTVUZzJMS1gwekhpUjgyeHZGcWdheGdJZ1NvTXo3OUwyNzhTaFN1QkF3eUk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ASX Value Picks: Meeka Metals And 2 Other Stocks Estimated To Trade Below Fair Value - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93bkZ2cXZlYXY2S256bmhhZVZQVkpqSzJLclJfb3FtT0NTdXAxZHRlV2JxWXlqMDlyNXpNck4yaUliY0tsV0pRWm9pN1dyX29QS0dtTkNQSlBPcXZ1dk1VWVBqM3preWs2amdDdmhpa0JIR0U2WnFIQURCTlVhbVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Citi's 8 ASX stock picks poised for strong growth and resilient to tariffs - Market Index",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelBJTWtDdXNBYjdha3dNanM2UGtyWTZ3MWxIdU54Zi1vV1F6Z1FrR2E0cjdPVHZVVXlvUm5vVEgtMFRyS1VMUjYwd1N5dzVUVGI2SG1QanZvdXE1R0xEdjM1SXIzS29Ma2lYMjhmZW54bUt2eEJONGlGNlhXdjdQT3VvYmpvYkx6a1Z2b0p2QlI1TTdvay1na2x6NjNTR05lNUhJTlo5cGVQbV9IYkE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ASX Reports Growth in Capital Market Activities for May 2025 - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnoyanR0cnpOaHl6ZTZYNXFEVDhZQWZHTXJjOWtvYkwtVzNHTVVHX20xVzBiWHBDcDVLZkM0U1hLMTFoalRvN05wZi1VN3dYVkQtVFlLejQ5R05qM0xEdXkxODFkTDVVdm5TbENhdFpDOUs4aFlzMHRFMm5rRW80Q0oyQkt1ZFFUS2NWS3Z3N3BaYUlUSnY4N2dLa2JtSzhqSndkM0wzazhuRFo1dEtoRDNR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ASX Insights Adairs And 2 Other Promising Penny Stocks - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQS1JZ2hUcWJ6TXFFMDdGR0ZLUXRLNDZydVVtREU5NmJXaWtPd2xmQlVXVjM5V1ozeVBYSmVkeE1sZk02dU5qcEY0MXRjdTNmR0xiOV81bjNUT0VCZ25RZnp6UnBQM0xwUU1jbURWd1NYcWxva0pJSFkzSzBYeXZSN2tXSUoyaVpkMGhIeU9QQTF1anQ0WThZNmNnSW1UY2ZrMWhiVmJualljYjVKbl9aVFVueGdMUTQ2U3Rsb0hFUjY3Nk9JUmVaVnBnM0J6NGJp0gHWAUFVX3lxTE5BSVNmOU9xdE5BQ0dfYlZOMXdwTFlaV3lCU1ljcS1nQ2RBejF1Y3lLbW1aYm5HbkVNSGZuMHNJQW1IU2xLamp0UFlNOFItQUpWQzBwMFRHRkRodjJoTGtWN2hjT2o3YS1YRTJlUDdScUhheW93dXVVZGNOMVF4R3JNaHhoOGo0azdZRE5oVjRRQzkyR2xmR1FwRmlpdGd0Q3RoaGZoeFNvU09WUGVxRENVbVhuNjkxN1pQMTl4czdPVnROUml2cUR5LXEzNG1nV3h1YVdsX0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ASX finishes lower as miners gain, healthcare and financial stocks decline - Capital Brief",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUFRSRy1RcFVYTHBHazJCOVA0dTE2RTRqUmIxSWQ5N1ozOUN0TmEyaDdoRjhJbEdTYmNMZHVOYWFkZGFJcDF1eUE1UXFsMWZTMWpQWDJkalYzSGlCaDFZS1lHdkIxVFNyUkxuTVZJMC14d1NmS0Z4dmpOay00UnBWdU96TjNqWEh3Z0x4bnEwYk91MGdubUJ2RldPaGw2dWpoeXBTY0Flb1Y3QWRLOHNMbDU2TUFPT3UxTXlYdmJXaGNseW9uZl9VUnh4cjNrdzAyMy1JbEg5RWJ4eUdkWTQwaDlhTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Rise and Shine: Everything you need to know before the ASX opens - Stockhead",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUFtLTY1dHJ2RmR1VTZFTmY2QzFRUTRzOEFLU2V4UFJnOEg4STZ4cV9YYzNPRzh5eUJzU2VkVlcxb1dVUl9fd1E3Vk5DRHFuMjRHNXdJVDhqWkpDNDRSOVZDak1nZWk0YXhUX0hzV29hWDlLSXhPdVRETk9WZHRoSGZHN3hDNjQ2OUV2YUN2azQ2NHJHcEhPOXAxenM5LU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why BHP and these ASX dividend stocks are buys - MSN",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ3RsMi1LOFJ2QUNvaTJSTG5JZVRHbjRFeHJ3b0NzWDUtY2pDTi02NG9PSGFUbVlZWDllNlNUTUcxTWZhV0lkNkVTQWloUGt2NnFYS3dDNkZZM0kyMUQ2TVZTd2laWGI5WUxTRlVXbVp3cDBrUXRvSW92V1NEYkNLa1RkWmNQNzRHRU9Yc1BlR2FFUXBGU3Nxek9yUFRwaTdo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ASX retreats from record high, RBA rate cut predicted — as it happened - Australian Broadcasting Corporation",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3dIR3h4UjFPNHVKSWNNVzRKTm1UU0taTFZJMWRpd3RPZHRIRllDY3dFZ3NzRVFic2t6M0NZYmpDS2lrUHhMVlNhLXlVeXFDcWNZZlo1ZjdRMng2YWRYVHo4RUhqeDVCS1d5ejYybDRZVXdLc2hLTW9PSDRicTFuSlpaTW5DVHNHdjRDOWVnM0JCaVZD?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ASX Penny Stocks Under A$2B Market Cap To Watch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13TEIxVWFRaWJ2bkswdFd1VVdXM0VEUWdaUkRFYWhQM25HSHlRV2xzeHBwWEhTOEtWY2tISG1lOGEyclB0MTc2aEdERE1KQjJHeTFZMmVHM2F3TGJDSnhXbUFEVVpQcTd1Q21SWHhDN0UzWmFSOEROekZPcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors cash in as CBA soars past $300b but distortion fears grow - AFR",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDhKT2FKN0tNZUlBdjFtMWJ5a1l6NWFXdlhpd21ZZzVuQlVvMnJfOFlib2VwSUVhenc3QV90SmpwbUNaSHBkbFNWbnJQMEc5STR2dXFITE1aYkxkOU9LTFNTVFFtaW9NWG9Ob3JGSjJCUlNqVTNJT3FOUlhsM2hmcG82THFsQ19YVk1mdWc0ZzVaSjdvN0o1UVB5STlzRzZiSll2cHEwMm5MSi1BZWtESU8wbHp5b0FnUHVMU0NPaTF3VHhH?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.89% - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlp4YnV2RDdRbzJNZVp0TFdpMnp6Mk5SNzFMTnJGdzNzbFFRYUwyVzU0TlZlRkY1aHYzX1l3bGh5Uk9FUVlVcXM0Y2VUamVuMnZDcTdmTGktRWgtQl9WbTd6cG1leGh5VmNhVVduVW1BUjFkaVpmbWt2M2p2MzROby03N1pIallGUUNPUkQtbkF5T2d1MElUaHB5cG96ZWhmYjFMclk2RElNS0FHSjBpdklESnRtdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Closing Bell: ASX hangs in there thanks to strength in tech stocks - Stockhead",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUVB2MGdRQnVSbzRYLUZDS2xQejBIc0MwNTFZQThrRXBaX0R6RVVUWmVaVVBuN192S1MwOW9EaE9VQjVxeEowLW54YkUtMUpqZHJfSGhuSVNxYWI1dHVjUEF5NzNiVUFrNWRxUzRoSTJXaHhXaUY0ckJPc3BrdjdkY2laQmZiZkRxbkNzbDZKOFNTaUM2OG1IcA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ASX 200 LIVE: SkyCity sues Fletcher Building; TSLA slumps 14pc amid Trump, Musk feud; sharemarket to fall - AFR",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3NNb1VsdlB2U3AyNU5GSGgtbm5KZk1GWkVRbGNUR2NJMzlzTnhGaE54ZUxud0p4Z0xQRHVOV1pMWHpodFNnNXN3Zl95Q0VZMXdDcWJTc1NWcmlXRjVRRnNyTVJVWlk1WXh1RkJJOC1mNTNBVVk0aUh3dkpaVE9ZVW5NMmNkZEJCTDRmMy1WYnFjR2U1N3ZHVktzNkRXYkNkcFdOLVhMaFdFT2VuOXg2OHhRdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ASX Value Picks Austal And 2 More Stocks That May Be Trading Below Intrinsic Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3bDJiX1Q1M2pRZXFFRXBZaUh1dDZUOUk5ZWthdTdWcXhVdm1FZGJtMDR6Z29WVDdFZXNnbDgwZlVkUTNUdDlKVVowZnZHVUg0Yk1NeVBTQWRTSGVBSDZjQzR0V0tWazAwWFdlYS1kdllzendJSmtVNHVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ASX Penny Stocks Spotlight: Biome Australia And Two Promising Picks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVNHdlNDNTZ0LU1JN3psSGZqVVRwOGZxcEtXaV9PTGNKWmV6eVhmdnM1YmRObk9rOW1KS3kzeDFBa0NLbWtDbWhHUDUta0psM05QbUhsWjRaS29ic01VMDBoYUN3WUJiS1hMM1RpQ0tFeWxWX1ZHdDltZ2JyTHU4YjJVaXA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ASX Growth Companies With High Insider Ownership For June 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkpWSHlCNGdMRkQxQnZEVFhQVGRDLWlkbWxDZFc4eGJrNS1vNWZNZ0xTNFE0NHZmN1hBLU9ObzVmSTNKNllCS2dkelJOcnVyODdwUDFyeklmT0pvNnNlNjg2eHdTMGpJVUpvaHBlVDh5WVVWY2ZlLW5iTjAxRXBCSm5meEZKUQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 10.01
-      },
-      {
-        "date": "2024-12-03",
-        "price": 9.91
-      },
-      {
-        "date": "2024-12-04",
-        "price": 9.99
-      },
-      {
-        "date": "2024-12-05",
-        "price": 9.91
-      },
       {
         "date": "2024-12-06",
         "price": 10.19
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 9.43
+      },
+      {
+        "date": "2025-06-03",
+        "price": 9.48
+      },
+      {
+        "date": "2025-06-04",
+        "price": 9.67
+      },
+      {
+        "date": "2025-06-05",
+        "price": 9.63
       }
     ],
     "current_price_data": {
-      "price": 9.43,
-      "change": 0.04,
-      "percent_change": 0.43
+      "price": 9.63,
+      "change": -0.03,
+      "percent_change": -0.31
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte des 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant des entreprises cot\u00e9es de l'ASX.\n\nL'actualit\u00e9 sur les stocks ASX \u00e0 regarder en juin 2023 est d\u00e9voil\u00e9e par Yahoo Finance. Les prix des dividends sont en hausse, et l'ASX est en flamb\u00e9. Les stocks australiens se font l'objet d'un renouvelement des directeurs et le prix des actions d'un groupe d'enseignement est en chute. Enfin, les prix des actions australiens sont en baisse \u00e0 la fermeture de la bourse.\n\nL'",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

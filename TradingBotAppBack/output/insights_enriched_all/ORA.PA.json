@@ -2,51 +2,163 @@
   "ticker": "ORA.PA",
   "name": "ORANGE",
   "sector": "Communication Services",
-  "market_cap": 35145768960.0,
+  "market_cap": 34000680960.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 17.149351,
-    "PB": 1.1047436,
-    "EV_Revenue": 1.707,
+    "PE": 17.283783,
+    "PB": 1.0700243,
+    "EV_Revenue": 1.68,
     "ROE": 0.07672,
     "ProfitMargin": 0.058369998,
     "GrossMargin": 0.39650002,
-    "DividendYield": 5.71
+    "DividendYield": 5.89,
+    "DebtEquity": 121.345,
+    "CurrentRatio": 0.921,
+    "QuickRatio": 0.76,
+    "FreeCashFlow": 1544999936,
+    "OperatingCashFlow": 10195000320,
+    "FCF_Margin": 0.03837555556957289,
+    "ROA": 0.03667,
+    "PEG": null,
+    "EV_EBITDA": 5.221,
+    "BuybackYield": null,
+    "PriceToFCF": 22.006914154331717
   },
   "technical_indicators": {
-    "RSI_14": 62.574023158061046,
-    "Momentum_10": 3.2447221508271356,
-    "MACD": 0.2232465324799495,
-    "BB_Percent": 0.6904086397656005,
+    "RSI_14": 62.83007313436555,
+    "Momentum_10": -1.405552826885868,
+    "MACD": 0.1879013497917085,
+    "BB_Percent": 0.670382012851553,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8955592344305496,
+    "ValueScore": 0.8927436870486344,
     "QualityScore": 0.439418804705588,
-    "SignalScore": 0.5334278003725077
+    "SignalScore": 0.5431731981621584
   },
-  "volatility": 0.0104352159962478,
+  "volatility": 0.0098185554833647,
   "beta": 0.172,
-  "return_6m": 0.3606388487907841,
+  "return_6m": 0.3718643606963492,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
     "target_mean_price": 13.57778
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente entourant Ormat Technologies Inc. (NYSE: ORA), plusieurs tendances clés se dégagent. D'une part, des ventes d'actions par des initiés et une baisse des cours sous la moyenne mobile sur le marché américain soulèvent des inquiétudes. D'autre part, malgré des résultats trimestriels positifs et des prévisions dépassant les attentes, des doutes persistent quant à la solidité financière de l'entreprise. Les investisseurs semblent divisés sur le potentiel de croissance de ORA, ce qui crée une certaine incertitude quant à sa valeur actuelle.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Michal Marom Sells 895 Shares of Ormat Technologies, Inc. (NYSE:ORA) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWVpcHRKWWk4YXZ3aE1LZGVEZmRqMUhxcEM3eGhXVzRNaGJ2d2Y1NlM0alNTOFNSNHd3WFZOenVSdWxGN0l1cGQ1VWpKWjEwV25mRHdYelY3c0FUazAtRTZjYktCU0VtaFRXcjlxV185YzR4UzBtc0lGM0xuRWlEdXZpSjEzYXRBeE9WeVlpN3FodUNnNW1haXlMNy1iSGtjWDBPMHZQOWExZUtPdm95MDlWb21heU9VZHJreG84N00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ORA vs. GEV: Which Stock Should Value Investors Buy Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXh3bml2b3NULTh6aE1RYm9BenBBVzY3Y3JOS1R2SHF3NEtPTFZteGNaMENpWGxKUjdTS1QxSVFaSnZqcHNZODBLbFZyellwSHY0SjVZVGYwMXJxQmVnUE5EM3FYRjFLTk96M09xdG94dHF5QzhveFpIWlJnSk41X1hNSlZrMEpVNG9XeWln?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Ormat Technologies' (NYSE:ORA) Shaky Earnings Are Just The Beginning Of Its Problems - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjktQU1BTFRfYVptVDhoaHhxVHplNFpnU0xocUZ0VzNrOVZlM1lPVGU2RVpjV0FhRTQ0blhoQVF5clhsN1VpLTR3MFEtZ3NVZGJjWklZcEVYSTJOMXJGeXBGM24wQXBvcE42cmRfWlhaSmE0RFJqTnp0QjRtdVRyOVZpVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ormat Technologies: A Promising Story Stock That’s Not Quite There Yet (NYSE:ORA) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3JpSFRicHltcjFrZU1rWElqSGx6NzVld2RRNTEzUWRmQVdKYmFXa2NmRC1PQXpBNG5JaTJhYzR2aVNkeUVCRktmWC1wYjd6V0hsRTlRbDhEam5YaHltM1MyMzRQbWhqaENLZ1NaXzc0UHFGN2ZpY2xpS1N6cW5BLVdJU3htRk1vVTFua0pXVGR0bzhMVVlUN2lrbkFLLUVxaGx6T1h0bnAyVFdyZEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Market Still Lacking Some Conviction On Orange S.A. (EPA:ORA) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjA2YmRBMWNNb3pzUGtlbEJ3encwMDBVT2pkVGRBN1BYOUp3d2FjZVJROF95ZTlsMS1CYXJVX1ZMUW1faTI1OHBEWm5XaHhiS0ZJcU9Ea3RXM056eHZMMW8zN0w0LTVIODhrcHM5VzVMaWk4bWpqRVdUSDdncXY1bVEzemtMeVBKWnFodkRxNWVGclpFcVhOdkEtZktfTjZBUU5PT3phWlBJbnV3M0RHd3ZOZWRYcFhEX1hmMDVMZXbSAcYBQVVfeXFMTTdYNF9Yc1pDTGN5RFlJclZCM25zYkUxak5VaWFWU2s3eVBmRTNadVhkN2kxaGJ0M1VrSHhFRW5WVGF0dms0aXV1M1dabV9pek83MzhITnZ2UGI2MkV3VmV5TTIyNUZYa3JvcEJIQ09zWXJScTc5ajI0M3czdTdwTXI3V3BldVdwdml4SVdvLXQtcm5xYmJJNm1MNkdUbE1UWVdaSWh0WEIzTVFicUZwSVlNcGt3Yzd2QzVodlFVUXplZFZDYmh3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How to Take Advantage of moves in (ORA) (ORA:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY05jRUtsMXVkOU1Sa2o1N3ZhYURaY3o5TkZVcDNxdTNrNlN0MVdoME9IMUx4TmZJOTNhLXY1QTVVdkM3U3puTF9DYzFOcTdUbEI4N3o3S1VNdWJxZ25wLUloeS1lc0FVcVRYS1pfdUhDX29DMzhWUTdFbFI0LXJVNDBGcWFSdHhmbXVzOWNmSUR4LWprem1wTXlIUS0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CWEN vs. ORA: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WWnNfTTdieWQ2ZUEwSUI1MnJhaDh0LUtkazJBZkVCdWhRb2tHTFFqVldUTEdhX1JyZHNjdzNVMElFQ3NuNFJwMXhyUjJrRXhfMjh4NFRxcWdMd0JHb2pYYWVzZWlRbmoyNG1oUnB1d3I5TlFJNXdqLUFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ormat Q1 2025 Earnings Release: Key Date Investors Can't Miss - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOG5QTzZ0clI0VzNPT2hqMFk1di1zRVVWcXJZS3dON28tdFo4ekV6RFRmejN4YjNLLUFMWFJRN0pady1TOXRyUW1FeTBOUXZEZl93WjJPM0NJLXczVGttY1NzZGZqTnFlc0NYbVBZXy1QUjE4ZU5CNEZNVHhOZncyT0NwR1pXdThQZFp5UHJPTmZtaE1mOW1oY2Q2UnA3ZkJtMldWVEpBQkdqTm9USXE0QjVFRGVDcldx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Ormat Technologies, Inc. (ORA) the Best Clean Energy Stock to Buy According to Billionaires? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGVyVWVPcmdOcGxlODRvSS11TmhBMjZFY0R4Z0ViaG11MVQzUmZ5Z0dXYmZNZEtVd092RUEtd2lWT3F0Q013NmQ3RFVmb0JCdWYtUm9xcGZKcmZsR2xTOWh4bTE3SU5qSE9oQmlJUEdQY0MyMGhyM1NSbEI4cUNIUXJlY2hDOFVZSFJLUVhHbTYwNGUwYmx4X2dMQ0xkMXFEY0xDa1BLZkZ5QVdMazNpVGFDdmxGd3NCUEU1b002MW5CbkpFZkllbUNZVmxhSjjSAdcBQVVfeXFMTXdROEtJaERDVUtNOENaMVRuemVzSkNLVXhOdVYzMVRhT2lhYTVYNE5rczZUTm5yazBYQkNrcnRNaE5aQm8zSzlQXzk1Yk8xMjZUTWdQV2F4N0dURm9rcF95VWFPTmpkdzRrRVdZME9YQVdhTG05aXhsVVFScVNMbmxLalVUNUtqNTlEQ1NYTUxCNWtQX3k0eFR5bzVwNWpvXzd1UDBwTlVnTHpERVBxd0VuR040cDQ1aEtPX0JBRVdEcmFOQUI5Vm90QkdKOEkwZnpXdTMyOTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ormat Technologies, Inc. (NYSE:ORA) Shares Sold by Tidal Investments LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2tnR0Q3VzlpVFBvS0E0LUVGYXI4ajM4eHBPandqWllkXzAwaVBCY0FnTUZIcmtmb0ROLXBsUFR1Zm0tQnJ1V2RBMEdIRW1ITnlVX3FwYUhZRk9TYlpfUGtUdm03QXZaSDBkWXVRWWRxZmxtd29QZUJMd3VReGMweDdSajhzYkJCU0Zqemo5UGxMR2V2VkNjal9WZ08tek1fdVoyWXpXNjN5NDhVUVdhYjQyYTgxN3lzcHhWXzVSRktRcXZVVzllZG1fX1lHZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ormat Technologies (ORA) Shares Cross Below 200 DMA - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdnNkMldveXpGMzFTVEszdXVnanV2aWs0RENWWm5ic0pkY1hwaWljanhPc0JudTJaeENCTTk1alNJbDVFOHlxcU5yT2hBb0JCUWZNalZkTm5UOGlmZTB2MDVhdF9tbW12TXlnUUlqZUhmdTY4cjY0WDl2ZHNTdzlqY096ZkI3emJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Declining Stock and Decent Financials: Is The Market Wrong About Orora Limited (ASX:ORA)? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVhUamgzUUtRamdEeXRQSWtrRm1oemRMd19MNmVxenR0NFZKaVlPN0N3QVJNTTRndWZOQ1Q4aTFLSjRQcVBjNk9yOVg5aHdYYVRua3BGZUdLVzFFN1UyQWlxc2h3b1loakV0TXBtbEl1azF3WXEwcy1IT2dKSGJSVzBRZjVSaTkzaU9Cc2dBYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Twinbeech Capital LP Buys Shares of 6,688 Ormat Technologies, Inc. (NYSE:ORA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVjNLODF0dVl1OC0zb19xQWIxUEw2Z09HRGlTakFFNnk4ekZzUkNVN2FaSnJRbXc4TXcwT0xpU2ZXM09kbGpmc1hoOGJaald2UjlyNFU4WDFNX211RVF5NkRIcm5Xa1VOb0x1VXdDQXdWOEN1WFlnVmIxZkVIUTJ2MEJfZnJmR05NOUpFRUNWSWYwbTV2STVoMGwwN2toRm1NNlEwREZncE1QSnoyb0NIeFAwdEluYksySW1RckJLaWgyQWliVVFKb2k3cFF2QW9FV2hQU1cycw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ormat Technologies, Inc. (ORA): A Bull Case Theory - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ2Ryamg4bzdab3dZbTE2dG45OTdDdW1TZVNKY2d6WTVBTndsSXZqeFNhVDlHOThfWWJiT29mVF9LUVJOZVVsalhMVTBKdnh6OVZhc0FSVVJNWWpOWkVNV0VhVEQxZjV1c3hoMlNvS0t0SHBuRE83VFhYaDFKaEVBaUgyWlAtRndWcG1GaGo4OFhoQjTSAZsBQVVfeXFMTXktUElGbDN3YVZnS3Z6bkktdWpFNF9YT3dLUmFjY051T3VjRDRNTFNfbWN1eUJaWVVyN3VQQTk3ZmxvTlVvVGlWdFVkZlc3UVgyR2Q2NkhBNnlvc2pEcTU4SVg0UlZSX1JmS3ZHS0c5cW1rWlJGUkZNNFdFYjU3bVprZjAwZzNkT3FQeXFYQUVTVER4MDFkSVowVWs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Beat: Aura Minerals Inc. (TSE:ORA) Just Beat Analyst Forecasts, And Analysts Have Been Lifting Their Forecasts - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSkR5aUsza2xmRURHS0ZfTGVSUlU5c1B3X0ltWkc4SkVjTHkzUkJVVExHQXVjVV9GYVRUMW5aZE9DVjNzT0NSRk5wa3dOWnZZOUNUNnBEX0cxQ3FLa0xnbUlzUXFFSElQeXl5QW9PUDZhWHR6aTlTVlotMTUzMHV5TDZzR0gxM0E1bzlQb1NPSmsyQkZJNlBMaGdmV0dfWVBHRGJLSEoxbGFOWXJJQTBydDRkVDkxYUk2MUd4VjBFR1NreFF4TVVaME1kT2laZnM4Y2fSAdcBQVVfeXFMTVVZU0tWY1ZuR1pCcGljb2NiZ3pkeTNyWkVwVnRXaEhDaHlwZkJEN2ktV2VnUS0zaVZUVzlQQnlkVVRnaW05OGMwSENpdnEyX0kydEhvYXdpcUUtTE5GcFJ6UzZTUlpzd3l0Wmk3ZXNKTUV1aUQwSTh6amRNRFdjM1huMDZwZTBoeEE2RWtnOHZTaGVOSTFEOS0xZWZCU2E5RTlzNk5seTJmQVZSa2pZWXJxTlJ1T3BMRE1LTDdGdjRBdm5fNUFjQS1VbGh0WlNheDR3QmhBQzA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ormat Technologies (ORA) Tops Q4 Earnings Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdkhkNndDTFliOWlFTGZJOVpxS2hVdmdqdHJtZzRWTWpfbW1WMEpYWGUxd1NkTkhIb29Oem9qWGlIUy1PN2FTQS1uRGtOUWpvRDhidC15RFo3dTJOR3d2NGhtUEV3Z2Q3MXdSMGMzc3NvUWRBdHNkaEo3c0FQX21uaHF4VnFKRG0y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Ormat Technologies (ORA) The Best Alternative Energy Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmI2WnI0WTJydGNEZVc5N3Y2S3lwRlZkei1mZU14Umc0aGV6eW9LQlNnWVdxRUowdEhDY3N4UHEzQk9zdVRLRkExSUxsTDNLbERqakJtM1VhVGU1X2hwQ3FNVlQzVWhodWkwREUtQzk0TTllSVZleDlOQWFkcDFSMTBVME9tbjZDeDV4cWtB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insiders At Aura Minerals Sold US$6.1m In Stock, Alluding To Potential Weakness - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRU10dVY3MDhuYzRNRTllNGVYY3FwcHlLa0w1Tk1zemtrMlYxZGxTenJjQ0IyUHdNbWZnY25hcXlRU2hBQUlEUmlrcERZSVNpNlZpbzFyM2RJNHd6aXhsNjNVM2hadjJtMnM5T01MeVNxTENVNWUzcHE4ZWxGVXF0T3lRUDJFaEwzdjM4bC1nNTB1bHNDOU1hMmVHQ295ZjR5aEJybUlCYXYtdm5OaVVnVDBRYUxZeGs2WEdFX1VQbV9JbUhCeTlmaEtvQzRyZTdNS0HSAdcBQVVfeXFMT1c2Zzc5YVd6T0ZpV3JSdWdBZE4wbHp4TVF0a0M4SDRCQVM5UWdEMm1FZWl5cE5qTkIzd2t5M285d3RNYlRiVDZZSkxQdmVPOTBRNzA5cW9GSXlXOVJqNGhIRWpGeGlVZHY1TllPQi1JNzBJdHBubTZEY0VZV0t1dnllY09EUnptSjNubmdTVlFpT2xYZ2dLWEZVZ1BDdmY3NXhfZ3NwUm1RaGoxVVpwVWd5Z1liUkdqakFZMlg1NlMwUFZMTEtEdWVWQ29DUzZSZ0doTlNYclU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Working Against Orora Limited's (ASX:ORA) Share Price - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMDQyaFVyMTMySjJRRUszcEE3WE5Wc21XMFdmZ2FWUXJ6cVlyc1hOYUVTSDY2MzhpREZHRkUtWnllNmQtXzJHRDVydzYzUWxTMGtVVzZIaWx0M0NSTVgyMjBUb2xDaU1wd0I0aFpuRVdWSDgxS29BUnNLU3VlVUFaSVg0clRGNmsyVjlITThvX1c0S3BaamlLTm91YVhiczBuVjNnTm5aNUt5U1MzbWdScVUtNWQ5d1J3LXF2YjFNaFpCZmNF0gHKAUFVX3lxTE5WOVFtQ0NEY0JNN1UtRDZLVDRsQ3RudHZPZnRPeTV1OVBRQ1Bwc1c3dWlMMndwM0ZwbVprN0gySnJpWkhER3NRZGRqbF94djhQZ2phb2FnRHR5ZHVBTGRMOC14Yzl5UXFOV1QtUDhoWDNkY2NRM2ZUM1pfVzc1SkdTdDRzeG9ZdmkxQmRwcjZTbWsyTVVPNUNoT1BUb0JzendoU1ZPRlVjSUJjdjNtbUlyQlRPQzNXLTRWaFk1emtael9DLU5KX21zc1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ora Banda Mining Limited (ASX:OBM) Stock Catapults 28% Though Its Price And Business Still Lag The Industry - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOemZnazl4Skp4alF1Z1haNHVrUWxKd2V6R3JKcFU3Y3NEWS0yLUNtTU9DbUVIV1V2OF9iWGJ3MDRzcGNfT0d2dXBSX28xMHRiQ3E2UXZxV2lRMGlVVHJnc3AzbU5iTF80NzhndzVFcHlhbmJJejBKZ3dvMGZCVS16OWI0eFI1VUpjd1lxYXEtNkFpZkptYjBubktPRFk3VV91aFBLVDAtbDJJejFkbDJuZlRWUGxNbV81ck1LSTljRU85bjdVSllwYlJkejJrZW80d1I3Nmxn0gHbAUFVX3lxTFBGaVNBVFpzdEU5YTExb2dzUnk2bzNiZVJabW5GaXRFQ3RUOWNTbXpNZ2hwbkZXTjctellpRTQ3dVVSRUtfWHlLb0JrQXpUY1U4d0tSVjdjdFc4LWx4Z0xJcTZfQUFZZ0RTMWhENENWeXo1b2hGcUtNMGk5LWFNbzJJT1BMUVB2Z1FIcGRkaHpqUWpDNmxzNE9JNE5YcVpMRHgxWThXMnhkekE5LUtYYnVjdlMtYndGRllaM3NzWUpXakpoUzRiY0F3dEZMakpNRzIxeWNWYzdBQ1Vxdw?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 10.01
-      },
-      {
-        "date": "2024-12-03",
-        "price": 9.71
-      },
-      {
-        "date": "2024-12-04",
-        "price": 9.41
-      },
       {
         "date": "2024-12-05",
         "price": 9.65
@@ -534,24 +646,24 @@
       {
         "date": "2025-06-02",
         "price": 13.2
+      },
+      {
+        "date": "2025-06-03",
+        "price": 12.7
+      },
+      {
+        "date": "2025-06-04",
+        "price": 12.73
+      },
+      {
+        "date": "2025-06-05",
+        "price": 12.79
       }
     ],
     "current_price_data": {
-      "price": 13.21,
-      "change": 0.07,
-      "percent_change": 0.53
+      "price": 12.79,
+      "change": 0.06,
+      "percent_change": 0.47
     }
-  },
-  "news_sentiment": {
-    "summary": "Ormat Technologies (ORA) est une entreprise cot\u00e9e et une des soci\u00e9t\u00e9s les plus prometteuses du secteur de la technologie de la communication. En effet, selon un article de Seeking Alpha, l'entreprise est consid\u00e9r\u00e9e comme un stock prometteur, mais a des d\u00e9fauts \u00e0 corriger.\n\nLe stock ORA a cependant \u00e9chapp\u00e9 de justesse \u00e0 la baisse avec une baisse l\u00e9g\u00e8re de ses actions au-dessus de la ligne de mouvement moyenne (200 DMA). Le sentiment du march\u00e9 envers l'entreprise est encore en attente de conviction, comme indique un article de simplywall.st.\n\nL'actualit\u00e9 glob",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

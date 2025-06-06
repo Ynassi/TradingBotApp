@@ -2,51 +2,163 @@
   "ticker": "EN.PA",
   "name": "BOUYGUES",
   "sector": "Consumer Staples",
-  "market_cap": 14652026880.0,
+  "market_cap": 14726781952.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 13.8309355,
-    "PB": 1.1630368,
-    "EV_Revenue": 0.465,
+    "PE": 13.794964,
+    "PB": 1.160012,
+    "EV_Revenue": 0.462,
     "ROE": 0.08485,
     "ProfitMargin": 0.01837,
     "GrossMargin": 0.55845,
-    "DividendYield": 5.21
+    "DividendYield": 5.27,
+    "DebtEquity": 104.47,
+    "CurrentRatio": 0.917,
+    "QuickRatio": 0.806,
+    "FreeCashFlow": 2844750080,
+    "OperatingCashFlow": 5802999808,
+    "FCF_Margin": 0.04985541697797032,
+    "ROA": 0.0228,
+    "PEG": null,
+    "EV_EBITDA": 5.729,
+    "BuybackYield": null,
+    "PriceToFCF": 5.176828029828195
   },
   "technical_indicators": {
-    "RSI_14": 57.804429642152954,
-    "Momentum_10": -1.2329810903508052,
-    "MACD": 0.7467534144807573,
-    "BB_Percent": 0.4551233301872565,
+    "RSI_14": 55.25575633154485,
+    "Momentum_10": -3.1810202393715272,
+    "MACD": 0.4937769142198789,
+    "BB_Percent": 0.3947133038240653,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8997866006986847,
+    "ValueScore": 0.8969396108802946,
     "QualityScore": 0.3814277286304147,
-    "SignalScore": 0.5876012872937506
+    "SignalScore": 0.5925059446842129
   },
-  "volatility": 0.0115318719512914,
+  "volatility": 0.011482444812845,
   "beta": 0.832,
-  "return_6m": 0.4646235866973363,
+  "return_6m": 0.4133122271371605,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 11,
     "target_mean_price": 40.31818
   },
+  "news_sentiment": {
+    "summary": "Les tendances clés de l'actualité économique récente en Pennsylvanie mettent en lumière un fort intérêt pour la pêche à la truite, avec des annonces de calendriers de stockage des truites et d'activités liées à l'ouverture de la saison de la truite. Les prédictions de Zillow sur la hausse des prix immobiliers en 2025 dans l'État suscitent également l'attention. Par ailleurs, des initiatives gouvernementales visant à combattre l'insécurité alimentaire, telles que le programme PA Hunger-Free Campus, témoignent de l'engagement des autorités envers le bien-être des communautés locales. Ces nouvelles pourraient influencer positivement le sentiment des investisseurs en soulignant l'attrait des activités de loisirs et le soutien social gouvernemental dans la région.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Community pharmacists in Pa. say they’re struggling to absorb Rite Aid’s customers - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMW9SNGQwbmVHQ0VXVXNnQ2tTb2pybElZaVc0TFp6bi1IWW83eExOaWxQZHg3SHNmT1F2THN5WEozak1rZGt1enhVV1k5ZUNZNTJtVm5IeThVelZRdk9zUW13TTZ1SnhUMkVLckhzNmRicWNkTDZobjdiUWJIdl9hS0MwNmdhR0hMRVhHNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Department of Agriculture - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LemN6cW5xakdpUGtwYm1aVGM0SXBOX0V3VkRCeHdaSnc1akFqN3I0eVdEdXVCWDlzQlVybGlldy1yLWRCVktMYnNHcmk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trout Stocked, Campgrounds Prepared Ahead of Opening Day of Trout Season in PA - Berks Community Television",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1paUmFfLTFDLTJ5RW5uZXUzU3d3UTAyMTNYOEFxOWktSHRMTmpyNWlwM0k3eEIyY3NNcG5JQTlfTzQ5MTlfcV9yc3JYNlBWVC1qWnJRR1pQNlppczAzYzB0cTBvYm1ZSEN0eVBCbmVCbDNsX0twVjlwSC1RYmluS1NJalp2bDgtcUl1MHlWSXhHbFp2NEVfRkFIdlpId3lQZTJRWDF6cVctdU5HSVRpWEJQbHNpYjZaYTBWUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Memorial Day Weekend: Things to do in the area - fox43.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU3oxcDNmc3Q3a1VST2MxaDhTdmpJMEZsdlJEQVlubTdTSGxLbHRIUl9tekJsTWZEOVZ2V0tuZktCXzZvX1ZrYk5fUHR4VW1ya1F2OTZBV2RGRUNZOWR2VmM3dlB2bm93VlpQcFZDX2syVWJxUXdWaExwQ3g5OVVhc2VMXzBlNGFzZi1Db3hINUZyaG91dE5SWWhRTUdPRVBlN1VORnl2ZkFtTk91YVlRZFZyUldxOTZvTEs2dmlkdVJRRmZHTmxrQml5bFNNRGZtY1BmWXYtanJzeGlwa3BJU1hIeUhOU0NlVldWYUhRajhMakNhT1F6WTZScVVIMy1uZHhmNlFjWmxrVWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Best Pennsylvania Trout Fishing Spots - VISIT PA",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52VjhTZENPNUtBN21KSWJKWFhMOWlwOUZ4T0FtaUY2UlhiemJhcmNKcU9lQXJsNXBwdGtENjY4WXJjQjFDTGU0a3NNY2tka1lnUWs3TUVNRjVkekRaLWtWVUhFdU1acllKUkRUdkI0T1lzV0M2em9vWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "US Energy Giants Unveil Game-Changing Electric Fracking Tech to Interior Secretary - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzM1MVlLZExadXFZWjhBVE9adk1mNnFEMkVlVlE3V3Y5NER2eHlta0ZxbzFNRDQxUjVMdzNQam5yb3h1TEFxN0dFZi01VFU5LTE4TVhOWWFISUFSdl9zczQxck9idGZOZ2RCY1ZYQ3JfNkxRYUV2Vlc2NmwtQm1CMnV5aVdkRU1YYkQ1LURGMUE5YTVXY29la2ZNV21yWWRUd0pveU1zYUtTakJTdWpna0dRdmlrcVhxRHgxaEN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What you need to know about trout season in Pennsylvania in 2025 - Pittsburgh Post-Gazette",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjhUUTlmc3RJX2VxeHZaaFZHSXlNUUs5UWY3clE2dFpfcFl2VW5DU19qekc2dUtibWRzcHdHU19md3VnUXJHT1EzSm5tdHhhTS01ZjV0cmVaZWc5ZmJjeE12R0ktUmlmR3VvQVh2UjNFTXhSRXV1TjNBbm9nS2xNeXp6c1BNZm1DU2otRW90NVk3RzY1dWRlUEtJendJbFF4R09SbGF1M0g?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Department of Labor and Industry - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kRzFvel9zcmpGbUt3WnhOWUpfT3AzMXMycUNFaEFaejNmdHQ2cDdmV2ZIWWxvOTllSzVJQTZKR0NmV0gtNFR3OGRQcHg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pennsylvania trout stocking schedule released. See where and when in the Lehigh Valley. - LehighValleyLive.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdXVJc29OYUdzbEhROGN6c3Y3SW9Ec3A1Y09RY3F6TWhWYklqZlVPR2htU3NFTGktMEEtTEF1UWhneWtVMlpNWkp6YXJDLVdjak1wT2xTU2hQdXh2R1VoNWhJTzdWMzBsaXVvN192RnV5Q01hejVxOUcwNG1ZLVBKZENpMTN0TUNsSmxzSVZyOTl4SlVJTXVDSW5xTktEUDJJcEhvUUxNQUlUZUhSeEROM2NieERMSDU4aldna1NYcEdSUGQzT25qc3ZCa01VX3Q2VjBnek04WdIB6wFBVV95cUxON3hoc2Z0NFlwdkF1UlNQYUVON3JVUmY3SWZkQ2J2TmE4Y3ZtZF9BcjgtUTQ2dW41Y0dmV294cldlaHB4bFVXTnljTV9Td0kzNU85VkhZT2ZGdDZoWnRNelZCV0VVdjFFRndOVnhJVlEwY3U4alI4ZnhCQzFxSVRXRFRvTW9Kd3lpQlE1Uzc5VFdwU1d4TTJnb0pZSEJ1QlVveFFTTXNReFJmQkVwRnJBUmkxMFZNTmlBYnMyaHRwYXUwMzFFUHB4djlvQjdaUDRONjBEVjNIRWlVY0ctR3FMRE9RMXEyNXMwWjBJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here’s where home prices in PA will rise the most in 2025, Zillow predicts. See how much - Centre Daily Times",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRVzhnamtkQVN3SDQ2Ujh4dGtmVXNqaTgteHBub1JFQ29tQVhPSVljZTd3eW9nd0xqYWxLRTlaenJwRjFINW1RcUZpbnRjVDRoYzE3cmFKcWlNX2dVcmxvZk9tMGdPSnowcUlTRDBOTWwtb3RmY1NrWmpqekdpd9IBfkFVX3lxTE9lZ0xMcHVBbnJDcHVPbkVUQkI3QVJ0MjBTLTRpUGROLW1JeG43RjVxQUIwajlQbHRFUVhfU2RtSXBUWnlGLTZlXzBrOEdYMnhLTHZ0aDVXenVYWEhGT3A0VUx4QTAzRGpwT1B0ODRsdkxKRjh4YUN1Rjd2NHdUUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trout season in PA opens April 5; see where and when Bucks County spots will be stocked - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53Rk1kcW1ZdWRTTmhINU1fUzE4VzlzeEl4X1VxZDdtOXE4T2g5NWNfbjZPR2NxOGo2Ql8zSWFfaTdUWUVWMWZleHBsdmlHSEhLQ1ZWQW5FV2RrM205eVdweVV0Mk1yaFZIWTRhY3pfUXF1RDR0WkpnWA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PA Farm Show Complex & Expo Center - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85TF9DVk5PNl9uVEdjR2JJOFdOQVYtLTU3TGpsWEFRbktnZ2F5NExYRUZtalZsNnFuRUdEVVpCUHplLTJ4SEtVXzBnaXE4N3FPdnVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pennsylvania Fishing Spots That Will Get You Hooked - VISIT PA",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXFxcXlPNHBrMnB6RFFPNC1UbnZLZ2RJcVVCZ01jMlUySHVUZzFMWGxpM2hfRVk0MlhiV2Z2bFEwNk1QYVJBam5tR3VPaTRSamJqbzZsSjZuS1ZSN3hPd2lNOXJ5WDcxNFc2NGd5YkJCQm5mVHdaaWZMMzJVQkhsMEhVQUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2025 Adult Trout Stocking Schedules Available - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2IwZXQ4WUNGbk9KZE9PU01FcjhodVpwZzR5cE8ya1lEcG5odi1UNWxnNWxYcGhtdnNqRXRodkFybG1NOWpKZlZTRGpUTlZtSDdjckpLY0ZRVy1WQmdJamFsVUNNTEJqY1B2SFAzQ296dnVGRTRjYmNaQ2w1LUZVNm5DZ1hiXzR2YWJEY0xmQWFWWHVLeWFYSjlKVG5jMUk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fish and Boat Commission - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uQ0x1MXJPX080YlpiNUpFZEc1QWNxZXg2aWFMaGtFY09QU3lzTHotM3ZmQW5TcXU2Q0VTVFBKeHE2Z0V6MkluVl9xZ2NfY3dsSEFrR0F4UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Opening Day of Trout Season is This Saturday, April 5, 2025! - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTVB4cUlxa2Jzb0hqTDdYZEZNemhsc2JEazB4emU5ek81ekRiMXJkQXFPX3VTQm1yejF4TGp5bFdZV0tmbWRXcVN5RmlVOUJQNHg4NVdGZXRTREdBNWpUQVNNWGxzRTNWUjB4ZnJONUdyc2VVSXBESXhydDJrTUxzSXlRYWJxN2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shapiro Administration Officials Visit Reading Area Community College to Stock Campus Food Pantry and Tackle Food Insecurity Through PA Hunger-Free Campus Initiative - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOTIta0tDbHMwUHBOV2dyMWVJelRwYWFNTkpUa3IzeDlZdGdISzVHb3VhX2JXUDFWemF5US01VGRMejdzTjdQY0ZYSjg1UjZrTktzNmNpOWpocUJHX0gyUk9ZaGt4R19sRXBUTnJ2MVQtQk03UFVDTnE5a1NDRnh1VG9LUWJIWWhIUWMyWDRIMWhOMWNGSVJ0TTk3ZUdNMFRZbjkwOV9ydw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Department of Health (DOH) - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wNHdYOGY2WElFV25jcWR6dDBmc0tFTzNqdk50WndHcVk1S1V5R0d0N1NOQzlaNk5oZDlpYmE5MXNmalJIVFNla0N4TjR0YUUx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "History of Elk in PA - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFRWVG9lRjUwaDJ0QW0tazdoNk5YSy1Ka1BCQmJ0SG5IbEprR3ZZdFhoM3VXNlQwZHE5UjB6WWQtck5jRGpBSmlEZGVXQTYwbmY5NWNUM2dLanhla1NtX1k2V2t1SzlqZXZ5Wi1mQ0pSMGhTZ1AzYklZcTFtcFloeEk3SjBUamhHRWpTSE0zWmJBdWZtbkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Department of Banking and Securities (DoBS) - Commonwealth of Pennsylvania (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81N2h2QXZlSHpSaHRkSS1lMUpPaHc0R2UwWExGckhXSFFXdEZGRUwwUGpFZGRCeFNlOFhtVXVBWEctWmxvX2VYLXh3bWJRZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 27.67
-      },
-      {
-        "date": "2024-12-03",
-        "price": 27.79
-      },
-      {
-        "date": "2024-12-04",
-        "price": 27.95
-      },
       {
         "date": "2024-12-05",
         "price": 28.6
@@ -534,24 +646,24 @@
       {
         "date": "2025-06-02",
         "price": 38.45
+      },
+      {
+        "date": "2025-06-03",
+        "price": 38.32
+      },
+      {
+        "date": "2025-06-04",
+        "price": 37.93
+      },
+      {
+        "date": "2025-06-05",
+        "price": 38.35
       }
     ],
     "current_price_data": {
-      "price": 38.45,
-      "change": 0.06,
-      "percent_change": 0.16
+      "price": 38.35,
+      "change": 0.42,
+      "percent_change": 1.11
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent la l\u00e9galisation de la consommation r\u00e9cr\u00e9ative de la marijuana au Pennsylvanie, la saison de la truite en Pennsylvanie et les meilleurs endroits pour la p\u00eache de la truite en Pennsylvanie, les entreprises \u00e9nerg\u00e9tiques des \u00c9tats-Unis qui pr\u00e9sentent de la technologie de fracking \u00e9lectrique, la saison de la truite en Pennsylvanie en 2025 et la politique et l'impact \u00e9conomique de la r\u00e9volution du gaz de schiste en Pennsylvanie, les endroits o\u00f9 les prix des maisons en Pennsylvanie augmenteront le plus en",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "AMGN",
   "name": "Amgen",
   "sector": "Health Care",
-  "market_cap": 154343129088.0,
+  "market_cap": 154888896512.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.142078,
-    "PB": 24.864866,
-    "EV_Revenue": 5.964,
+    "PE": 26.28239,
+    "PB": 24.95279,
+    "EV_Revenue": 5.946,
     "ROE": 1.0567299,
     "ProfitMargin": 0.17386,
     "GrossMargin": 0.69068,
-    "DividendYield": 3.3
+    "DividendYield": 3.32,
+    "DebtEquity": 924.456,
+    "CurrentRatio": 1.17,
+    "QuickRatio": 0.736,
+    "FreeCashFlow": 13090124800,
+    "OperatingCashFlow": 12192000000,
+    "FCF_Margin": 0.38358215879099467,
+    "ROA": 0.07037,
+    "PEG": null,
+    "EV_EBITDA": 12.902,
+    "BuybackYield": null,
+    "PriceToFCF": 11.793270999524772
   },
   "technical_indicators": {
-    "RSI_14": 58.1090789185199,
-    "Momentum_10": 5.355895944257501,
-    "MACD": 0.5632872901219912,
-    "BB_Percent": 0.973293427689182,
+    "RSI_14": 58.403857057039716,
+    "Momentum_10": 6.198867675693987,
+    "MACD": 2.2261523358452564,
+    "BB_Percent": 0.8483503440769842,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8704050163659818,
+    "ValueScore": 0.8672462202527974,
     "QualityScore": 0.4840083431356106,
-    "SignalScore": 0.5420727739823619
+    "SignalScore": 0.5105724271714454
   },
-  "volatility": 0.017203779211723,
+  "volatility": 0.0171731244282355,
   "beta": 0.496,
-  "return_6m": 0.0496805947752601,
+  "return_6m": 0.0680725129026305,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 27,
-    "target_mean_price": 314.20407
+    "analyst_count": 28,
+    "target_mean_price": 314.69678
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente autour d'Amgen Inc. (NASDAQ: AMGN) montre une série de mouvements importants dans la détention d'actions de la société par plusieurs fonds d'investissement, avec des ventes et des réductions de positions notables. La participation de certains investisseurs majeurs comme Lmcg Investments LLC, Grassi Investment Management et Hennion & Walsh Asset Management Inc. a été significativement modifiée. Ces transactions pourraient indiquer un changement de sentiment des investisseurs quant à la valorisation et aux perspectives d'Amgen. Il est crucial de surveiller attentivement l'évolution de ces détentions et d'analyser l'impact potentiel sur la valorisation boursière de la société.",
+    "sentiment_score": -0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Disney Stock Valuation Mystery: Top CFA Analysts Reveal New Fundamental Data in Special Report - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDEtQzBPcmc0U1ZSX0k4MTU2R0w4X281Ti1mVF9uVldldWRVY0dFcFUxdVp6SHVkNjh4ZjVmY3RWbVlzOWkxYTdkc3NNWl9LQXM1MkYtMjVFZk9wdjJLUzM1SGVxd2ZYcmtxbGJ6NDdTaVZoVWZzSVVkYmdtdFluSml4czh0RWRDTEFUeUZCaHB6by1sb0g2TFU5UXNzdDN2azhRaG1sUFhYN3o3TU5IRHgzdHhGVWs0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMGEN TO PRESENT AT GOLDMAN SACHS 46TH ANNUAL GLOBAL HEALTHCARE CONFERENCE | AMGN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNc1FOSW4yd1hYdjlleGxvWGtFOW02NXBFLUdlVUdtVlJReF8tUDdJU1pqZ0I0QldfS2dyTnNxbmt3amJGc01wNGJ0bUdMV1lFcG9JcnhvVldpUFFXQVI3RFhlNmFpNGhQWHN4dUlUdkVFbWVfMVdIQk13MVZmbm1tdDNPT1R0OTRZYkpGbVoyYlpqSWk0VFlnTFFmeXNXb3JwcHJjWUVkSjVfdEluS0RqbENfNGY4bU1raXU4VlZhRnVDeE9BNkN5ckl5RkpCV0RtYmJpWkEwREl2dGkwLU84emo1VmhlNnh1U0ZuM2JMSjRjN0pGODRfMGNuSGlGa2s4NDdRVTN2amJVTVMyWXdj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amgen Inc. (NASDAQ:AMGN) Shares Sold by Meyer Handelman Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0RBSUdJYkhrUk42SkhpMVlUeG5SMXJxQS1wQjRZVjVCenA4aUtRaTBGYnpLTlBPVXUxOHNyM2hwWjY4MTlSRC1WRm5wWnpBbEQxaERTVU56RnFSZ2NrWjZtSnFDSDdHcFprbEpsUEdqZHJ0Xzg2T3RPQmhmSzlQd2loZjl4SWNlMWowRkI1eG8ybnoxR0dqSldTUGRvQ0pvdlBvVlpvb0tpZWhVQVFIZXlKVXRtclpVd1QzRA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Amgen Inc. (AMGN) the Best Pharma Stock to Invest in Amid the Domestic Manufacturing Boom? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzbDFQWVVUZ0RqZE41bUcxd21IdG81YkJFb193dzZ1OWJQRlZ6R1RrRGktSlJQTHZqWFUzdmhuMlY1d0xobnJhdU1nUXMtd0pRaExLNFRrWVoxNmFiRWNGQlFzbV9ZSWZLTWQtMDE3R0kxMXpJWERNUXFjanQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amgen Strategic Update: CFO and R&D Chief Set to Reveal Latest Plans at Goldman Sachs Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSzdaMXg1ZjZNejBWTWNUTW9XYVBMVXgzRkJkRFUxTWoyaHRoR0k0cEpQeFJUSlhsZTdqOGQwU1hBbUh3UGNiWTlfd0U1MW94Z2s0RFZUcTVPSURVQXJxcHdPLW5Sb2k2ZnY4OFBGTHBPdzNFeGpyZXZkRFA0TDgxNXZXSXByaklyaHRuSzkwNUVjZ1RoZVJScHF3aE9jQkpSRFY3YlloVDFQX2RNZmtoMTBFQ1FXb3R4d0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BetterInvesting™ Magazine Update on The Walt Disney Co. (NYSE: DIS) | AMGN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXZYREc0a1E3MmRBZ3lES0R0dGdJUXRwdkMtSUVXZ3cyRVI0anA1V3RKTmtqRGo5ZWhtZl9EXzZoVFZQM0kxSUE0aXdodFVQQmZXd3JHcVRaemM0QzBFaGFjeUttUTVXVVFyX09fakhCWXk4THNmZ3I5SjA1ams2R2dTRHJHbkhLVUVnLWFfUWk0MC1DRUtmMEpvTnpRUlR1bk52c21CWjZlcDlic3RLd2VQWXFvY0VF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Columbia Asset Management Cuts Stock Position in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFlnbTRIX09nMjFLNnVMVlhrenYwNUxZbTdpczB0c2tsMzhHanh0Y3FKSzF0RTUxREhsTkRLNVYyNmdtMVlHSkhVWE1fdFNSM0cwTkxLeXU4UFA4TEFqMEx2b0JHdU9NUW0tLUJ1NGF2cGFEQXNKSG4yWEo2VlUwaVVHUTdROENEZ3I2aU40RHZoODE1MVZELV9BZ1BMMkx5WGJCXzN3ZVdmdEVpZFZ2UGNCQVg4eHlUdEdvWE00WWNZajRSQWcxS3Vn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Channel Wealth LLC Cuts Stock Position in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPak5MWEp5MWJ4QVRaUUVDTDZZVzFCemFTZGZtdGVYNnpSbjB5dkd4V0stRG5QSDZYNExMZU14czkycHpmd0NoSENZVHVoanVJZ1FOdnBQXzkwWkFFVFdjZTF2UG9ORVNMQnJENUNHSF9oMXlLVF9aRUp6cFR6d0FRUENIU0xxcTdyU1JKZGk5NlNRSDBfYnlKQ0E4WlA4UWQxWW41VXJ6c2pZM0I4S0J4OUtKN2RnVlZlU2ZTMzloM1M?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Lmcg Investments LLC Cuts Stock Holdings in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdTV4SDBYTGJPSnozZ3dxNXVZcjJkRjB1cS1Tem5tNVd2SXBmOFgyRVpBbVhqMGVUZ1U0SzBwTWN3Z1UxOG5aS19MakNMWlpxZWRyWjYzS3RlTXQ3ZW40QVJDdzhQRkppYlhvSVNjSndxZUlNNXBrTXJrdWJGWGhJOWZzRlN6bnh2UE1GQ2lIOVUwMDRPQmI2eVFjOFVCMXBPVEt2TDFidnVYbThWWFB4NUFDVW54UzJmOU4tVFVJZndXV2s?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Grassi Investment Management Has $810,000 Stock Position in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMGotclZrdnR1ZHEyTDN0blo1cUJjYlZEbTNCSGVyZlRvSWpQbXk2a1hHRXU4LVo3N3NDREQ1b0xJTjJXRlJ1bE9lTmNBS3NlUU56bW55S1dGYk95RmxKUV9CN2V4b1Z3TmFOSXhjeEQyWGtmSmRTek9pWGUxRVdKWm1WbmRRNGVJSVNYYmdfYTZHQm9nQUJhQnRBUFQ1aFdma0M5eUVnbXRjOWxvSzM2UGR0a1dURWpBcjY4aFpMV0I3M2VVOG40SlNGT2NhdU44SVJidjR3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Somerset Trust Co Has $6.36 Million Holdings in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUtpY1Qzb2R6WEJxM1dvNFZzdjMwbDR1TEp3WlFFSUt1NE1BU3dfMk1pMTBVNlpXeEJnU1lXay0tOTJjLVV1ZFlqcjRsNnoyc1VrRV9xSjAxVE1faVc0YXVDanhHNEItTWViNmRkNnoxS1ZsX1Z3Y0o2dnBhUUVmNGZobzFDLTcxNUtRUzgxNVVRSlo1ZXV0cFJFcm5rQUExZ3hFVFd3cnJMQmY2Tzh6YkN4TmVQSmNsTEdlT0xiZnR1dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amgen Inc. (NASDAQ:AMGN) Stake Lessened by Gradient Investments LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnExSWxJaHczcmdSN0NibTVZZWhDaVRwNkc2Tk5wTEpXZWZ6SEtMeHJYbEhnNDBmaGRXZTR1NURCYXBudjBLUWVySHZSNGFBZGNvVHdERXFyQXQxTDhTajVEMU5ST3FNc0pQdVBDd2ZxYnF3ak5Ma3Q5dWl0bTk0M2o1c0hHOTdNMk13M0xtUHN0WU5aT2dqaUg5X2FGTmc5Zk1xbE1HV2p0WFFVeEhrdWVMZHdfTzBueWNkaExZc3RZd3h5U2ZyV3JoWDc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Thurston Springer Miller Herd & Titak Inc. Raises Stake in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOVRSaHFUb2N2M2dlcEJGY3V6LTRoUThIbmJ3MHBFcEN5T2FHSjFTeWYyeEJsT2RJY2RJZW1Qb09vTklXbDBPWnNYeG9ycXBTREJ2M2NEUDlTYXVWZE5naDN4LU9lYzUxcHljNGVDcTkzMjM4ck5iMVhOc19waWV0WDhtUHgtYmV3RFVKeWpCRUx2cHhOaHFTR09GUHY3cm5wZGo2cENOWWhJS2FOSkdCWG5sZklkNUt1TzRaWkF3THIzT0FqZW9NOHNyd25TZ2Nlc1VF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fragasso Financial Advisors Inc Sells 6,850 Shares of Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcTNWUGZKSnhWR0FxRzFtU1pDcFlQRFg3bDAwWGQtVENHeWtkSVVyVVg0MUtmMUcweVV6OVViNmo5YVNsX0hRQ3V0dVp4Y2IwVm5aekdKUE5UNl95SWZlUDRxSlZFVHp6LTBVaWFSazFjTk9KcjlyRGstaUFOT3U4TllORjRzTV9YNXNwRVpnajNGX2FheWdOeGJHV1d2dkNXbVlndFNtQzJjenAxelUyUmI1MkhfX3ZJV1d3bUpSMjA5azVpQzR3bkpteV9NTzN1aElpQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JGP Wealth Management LLC Sells 11,849 Shares of Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTmRVSkR1RVNjMWNpanR4VWFFODRvWGxmQ1o2bWZrSnFqRm95SnY5N1IwcXBITUNVWE95bjBHTHBxcmlrSFZWd0xlWjVRM3poM002RXhjRUthcUpBRjFhMS1xdGFma0NQbUhuRFZ6ZnFPOTgxS002MGZ1eXpya1JzWmRhb3RXQ1gxajF2dVpxWkoxRHlzWFdqc3R4Uk9WN1ZwZWEzM2xpYk1Ja3I1VTF4dEZSMGNJXzlMOUNaSkdRZG1WQlA5NzgtSU9NUFNaSmhUaUVYalF1MjFYdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur M. Cohen & Associates LLC Has $1.79 Million Position in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcVpPOEpYUFhHWXVMZHVqYVNYRkFKUmNOSk55dm54TnpUc0swZFo4cjl3LUU2SDc2QWRFLVBNdlprTFNJQmFHY0VSWEh1eklOSk1fczNuaTBXS3NSUXY1Slg1emhXQk81MjV5dE9yd19HeUxNQ3hlYTRnMFhIaXR6Z2dTUF9tY0RON3ZFZi11U2R5S2JlaFg1LWNIbWkyZTUtWEpOYWQwQTB3NGw0SjUzVVpvWXpXQUM1aVE3TU1RZWI4RVZMRzR4R19iV1VwRTR4eHVrRFpR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hennion & Walsh Asset Management Inc. Has $2.74 Million Stock Holdings in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbVlZY1JnUnJaMjBBR19MN0VqdkN0Z2pZWE5VVHZ3dWRTTmRhLWhHcmwxTVlHNVc0RWsyRExHcTU3eWNTenRDdWxCQWxnVkZZY2xsZGluUWNwUVdxQlFvXzM1WFB2TlpKR3pPZENzTzlaY2VLbzQybG1yZm9lckpwZnhtSmJEZ1RiUElobHRNcldQa2ppdjVvb09DbGFBSW9SWlhCVXlOdk9lYWVlLUFIbVlaRUt6alN5RXljcjRJUFg4ZW5OS2lETTFHWnFhcXlnWE8yc1JaSDVuSG5oWnBPeTlNOHU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Annex Advisory Services LLC Has $3.47 Million Stake in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZmR3NjhwVXJCMjRXVFlHaURtdzktN1pQT3RNTURERU9DQzJRVnFVWHhMelkycndHcG5ITlJWTHVIOUxPODV0Y05Mc1ZXTHJZZ3NqckNZV1JYRGxkbHZrbkM2RFNlb2oxek9CMVRyUC04Y3NrVEJfektuUFNadTk0RTlxdXJvU2VEeGJPOWtCa2FSV05PeDctRXhERXBNcHN6N2lmSUNGZzF5emRkZHN4MjM3ZWcxd0N2Wi0xemV2YXRlbHNMcHphYkluWW4xM00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LVM Capital Management Ltd. MI Decreases Position in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2VOWnNVMzQwWHVOcmZ4QzUyLTBzaUlUZmlKZ2U1NmNLUG1MR3RlMms0c2hVYXJkLS1CSXdGZzNPOGh6Z01IY3Nkd25sTGpZa1BCcV9mSkpFam0yMUdMRmY2Y1diSGhPZjhQTzhraGZRODRzeTBCTU5GbU1aT19CN3NITmhOVHNIOTVYb0NNMi1Ic3IyZnRncGVITmtyUVJ2cGNxVGJmeE5FOXZ4cktGU0VMeDdPOGlMMll0Y0Y2SUhaNWRCTTJJRE0xM24?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Warren Street Wealth Advisors LLC Makes New $287,000 Investment in Amgen Inc. (NASDAQ:AMGN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdENOdDlsYXBDWnRvSlBlUjRLbXJueUFaaHFCc2NtNEdkNWMtRGw2VFoyWDRQVlpBRXRGbnN0YVlodDNxVUNSWDU3MkZxTF9JTWtha25PT0dmVDlJVFVfbWxXdzVNNXlTallJSEx0a3ZBWVNza0l0dUZrWExWUXYzSXF4RVFCNm95SnhCaEFIOXhZVWJFUF90UVVzNGxlQktWZ2dTVWEyWHZiYW9nX1FEVmVRcTJjWFZSTFBsRjJSelFnNlBZd2Y4RC10eG01M1cwSXNvX3VPS0hfTUh3ai1Z?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 278.1
-      },
-      {
-        "date": "2024-12-03",
-        "price": 278.32
-      },
-      {
-        "date": "2024-12-04",
-        "price": 278.26
-      },
-      {
-        "date": "2024-12-05",
-        "price": 274.33
-      },
       {
         "date": "2024-12-06",
         "price": 272.58
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 287.74
+        "price": 288.47
+      },
+      {
+        "date": "2025-06-03",
+        "price": 289.57
+      },
+      {
+        "date": "2025-06-04",
+        "price": 287.01
+      },
+      {
+        "date": "2025-06-05",
+        "price": 287.1
       }
     ],
     "current_price_data": {
-      "price": 287.75,
-      "change": -0.44,
-      "percent_change": -0.15
+      "price": 287.1,
+      "change": 0.09,
+      "percent_change": 0.03
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nLes titres d\u2019actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Amgen (AMGN) sont positifs. L\u2019entreprise a annonc\u00e9 des r\u00e9sultats positifs d\u2019un essai clinique de phase 3 pour traiter le cancer du poumon et a \u00e9t\u00e9 achet\u00e9e par plusieurs investisseurs. L\u2019entreprise a aussi rapport\u00e9 des r\u00e9sultats positifs d\u2019un autre essai clinique de phase 3. Rhumbline Advisors a diminu\u00e9 sa participation et Woodstock Corp a vendu ses actions, tandis que Gradient Investments a maintenu sa participation. Les investisseurs ach\u00e8tant des actions d\u2019Amgen ont \u00e9t\u00e9 O Keefe Stevens",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

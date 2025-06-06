@@ -1,56 +1,164 @@
 {
   "ticker": "SKYW",
-  "name": "SkyWest, Inc.",
+  "name": NaN,
   "sector": "Industrials",
-  "market_cap": 4165086720.0,
+  "market_cap": 4080712192.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.776317,
-    "PB": 1.6871845,
-    "EV_Revenue": 1.633,
+    "PE": 11.537757,
+    "PB": 1.6530063,
+    "EV_Revenue": 1.624,
     "ROE": 0.15659,
     "ProfitMargin": 0.09889,
     "GrossMargin": 0.33148,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 106.831,
+    "CurrentRatio": 0.756,
+    "QuickRatio": 0.628,
+    "FreeCashFlow": 342431744,
+    "OperatingCashFlow": 705836992,
+    "FCF_Margin": 0.09323550750927581,
+    "ROA": 0.047030002,
+    "PEG": null,
+    "EV_EBITDA": 6.571,
+    "BuybackYield": null,
+    "PriceToFCF": 11.916863034754162
   },
   "technical_indicators": {
-    "RSI_14": 63.34295941473412,
-    "Momentum_10": 0.2483733197237277,
-    "MACD": 2.6161083610751916,
-    "BB_Percent": 0.7515161399287875,
+    "RSI_14": 55.95940741235028,
+    "Momentum_10": 2.542200623447394,
+    "MACD": 2.2268150841358505,
+    "BB_Percent": 0.4393567277687563,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9337584159869038,
+    "ValueScore": 0.9329859297860846,
     "QualityScore": 0.2701274639875181,
-    "SignalScore": 0.398981893173664
+    "SignalScore": 0.5060940763662627
   },
-  "volatility": 0.0271782503352584,
+  "volatility": 0.0271934394616761,
   "beta": 1.906,
-  "return_6m": -0.1005417916869269,
+  "return_6m": -0.0797591289206126,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 116.6
   },
+  "news_sentiment": {
+    "summary": "SkyWest (SKYW) a récemment enregistré une croissance impressionnante de 68% de ses bénéfices au premier trimestre, grâce à des contrats remportés avec Delta. Cependant, malgré cette performance, le cours de l’action et les activités commerciales de la société restent en deçà du marché. Les ventes massives d'actions par des initiés et des dirigeants de SkyWest pourraient soulever des inquiétudes parmi les investisseurs. Malgré cela, certains analystes voient dans la récente baisse du cours une opportunité d'achat, soulignant le potentiel de croissance et de momentum à long terme de l’entreprise.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Should Value Investors Buy SkyWest (SKYW) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTk5cGxfWm0yV1NYY2JzZkhicjY0NFFUb1lNUk0xVnA4eEI3N1Y0cVFTMlNSYWVyQnZWSEtPN1lnUEZpVkxOT2RfYmpYcFR3Z2d5WXIzNGRsWXlVOU5ySmp1bFFHNTJxYXFxQ2V2V1ktVUVCTFA1Q1RVTUZYSUxWSTRPejY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SkyWest (SKYW) Gains As Market Dips: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLW5kWVdLLXhvM3ZCSkczQmRBR1RTd1lCTE9KaXJZdGE4MG1jWkNCYzZHaFdLVXFqNTIyRWkyY1lab2JCWUdGRlNCVkEtSTlmVm5nbVRPTzEzNFhRRzd6Qk9jN09qMnc0TW52Y1hGejc2OWJqSU5STUhmdFp4WjktUTRFVHhITUZ5ejY3eXBIV0tEYWVsM2VjSWVyRVhycjBGblFDa3RFam5oOUw4dk1TazJ5b1ZyeVF3b0I4bnpEb1I3d09jTk1PcWZ3SG80S1U?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "This Insider Has Just Sold Shares In SkyWest - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE01akE0Y0xNWUZHdEtZRlVZU082UUhzS2tnRVZZRE5SdjA4enlNWjdlZDQzUU5sdU93RzZLZTN4bS1NV0tsS1lzUGRNMmF5OHpOUWJjYXNXUG04XzMxZW8xWWxlSUFpeGFySzJoUURoRTFkenlLTFllbDF1ZXdaSmh6MkFURlJCZW9iVXhwR3dvQkFzZXN5Sk83WlRRY1haTGQ2dndnU3dpV0FPcFRocm15UFp2ME3SAbwBQVVfeXFMUGE5eVVrZ1l6T1d6TUhidWlxaksxcG9tRVlYdmotRWZMUi1TOUtSWlRpT1o0YnpJdk80dER5Y3hRYjVhLXFseTctS0huY2xzV0g3bVRUMkN0MnFLYm92aWtYMjdJb2dBYnZKQjQ2RnNwYkhLMGtQZlp5TFlrbGVjLTVuWjl5WE1hOGx6OURwcXp5MWJDTlo4STFha3YzRWZHVDdzeXJvUWRGc3IyV2R1N2RjMXZpNWZGa0pQX1A?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SkyWest’s CCO Makes a Bold Move with Massive Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejZIeTRCREJxQjBTWjBHTGF1YkhKT0ViRlBLTExvWjNoY3Jkb0R4aElKZXhpVE1JQ3ZQOWNBX2pubEE3MmV0VG43Z2FiLUIxZEtucnVMcUpTNHdCaTk0aTJ1dWNGckdpUUhPVWw5S2pUME1ZWGdDN3R1NndCMFVTY2k4ckdCQnpQWGVsalgyOC1veXNYZmdtYjJDQ0tiUlloOUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SkyWest Delivers Massive 68% Profit Jump: Q1 Earnings Reveal Strong Growth and Delta Contract Wins - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0FMQkl4MGxQMmg0RkNaaFk5YmhkX1dPaFRuS1JTbnlrSDViaUxoYzFHemRkaUswTHQwUmhENEZkdzBkbWVPNUVmLW5UMEk3WXhPb1QxbUk5dTNJbFR0V2NXNHZGQlNFdUJQVHpxaXdaU043RFoxSVN1MlBSMmhyRjNZeXZsMWY3cWZDMVNRSWpTOWtUSTdINUFtVDI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why SkyWest (SKYW) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FTU5ra213SGdkNDdseWVJZm5hbFh0ZmVFckNqeDdZejNweFBubkphREEzUW10dHZjaVRTMUx1TmJGa09tVEtraDJhWVM3bE1kcG12bmkyVVJCV09OMERVbGEyZUR6R0NvNkJxdGpOT0xpbWNpMTZ5SFZUbkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SkyWest (SKYW) Declines More Than Market: Some Information for Investors - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXFmYXJ6WjFqZzJoRnBKRkJIbXVvdmlXV1h6OHJnNXNheDFaWllsZEpPV19hSnMxNHRXWHZieEVrbDR2dXZJMkJQNjR2MFloc2Eta2VrN0VXR0V3Q1BDRHJYaTFyOVBnNXN6S2c1Qk4tT2pVNFJrY291amNRdFlDNnFlWklGTWdra2J3Y0Q5aGExamk0OFdYMjdn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "SkyWest, Inc. (NASDAQ:SKYW) Stock Catapults 26% Though Its Price And Business Still Lag The Market - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaVdlbktRVG1raXlKOGRqZENNX21QdHNqcVJ6bzlMbEFUdFdSUE9ZZlk3bFlrSkdZTlN5NzVIOWRIeklhNlVrVjV5Vjk5ZWU5STBQbVlDcS16SEprWDZDc2kzYUVsTC00eWxZeXlIYXFWcTN1WnRKR0NZbVd1Ym00dzluYk9icXRYVElHQnNadVU1WUpZSTdsd002Y1RlNmxBSy11SXQ4MFhuQldZYVhVVmFpcTFuNTdmWnVEUGxCZnVVSXExSTZ2eDZHU07SAdIBQVVfeXFMT1FrbVYtbFVpcU9YSjlyNGhJb3J5Zl9jMlRXcTJKdjlqTUR2SGxWelhONHA5QWpXMk9oTTBsbVBhOFE5WUt5TFBES01zaWZxUHNxOVpheEx2clBpRjRwZFZtSzNqN1hCd0dOQ3pRWkY5d1BDc29qemFod2dkUmdiMmJrQkpHNldPal9xbUc0YkQ4VE1JeEU4WFBDODJhLXNGU3Y4dWtYRjJjY0ZHOUpYM1dudlhxd3RYbm0tUzFhZHNSZ0pUOTFCZ2JNMVJnY0E1TXJn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why Investors Should Bet on SkyWest Stock for Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX2JKcDViUXJScUtUSkhicmVWYlNjM2tQOTBZd1pKWFZ5a21SX19vckdCUHJsSDlYZXlySldHVWVxelpqcVd2QWVweFJxNWtNYi0tbG5OcktEclJQelJWYnRWWVQ5d09QUkQ4NGVwSjFoUXpYQnB5R2NYeDJBUGcwa1pJUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why SkyWest (SKYW) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLUs0M3JmMG1ubmZqdnYyYlp6QUZuMG9DZ3hlWXhhaWRyQkJXa0tDempRdlU5T2lFMDlJZVNmQWg4UzNhazNwNlZ3ZnY1c05ZQVRQME1FVlp6akRWdnZ3MWN2ZHY4LUwxUDFuaGp3MlRDRlJSOHdqYU1uS1B1N1l4S1h3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SkyWest’s (SKYW) Stock Dip Screams Buying Opportunity - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMldSZ1N1Um92ODVHS1AtcWl3ZFVSS2xaa2wwNmRWNDY2NU9CWmV0QWJ2TXFKcDdtVVJHcTh0LWc1U25HekxicEFZWnBqa1dvaHJCTFF5OVluZnZRZXQzaXVmWDlnZ0k3eHJVUG5qUDlLb1dQb3R3cFZjY21Ba0RKQkpR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Trending Stock SkyWest, Inc. (SKYW) a Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUJQcDB3UDVzdTQ0Z2RHUEVNeGJJZVdLRXdTYUJyUVBKM1ZIa0l1bTctaUVjRFludTZUSkEwbWR0Z1EzNXdjR0h3bzZNWXlJOXctV3JUZ1dwUHFIejBaeG1fVFBodURqLVJ2OVdOM25ta29OWThGeVRyaGxoMHhybFR0NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AAL vs. SKYW: Which Airline Stock is a Stronger Play Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKVXZZakVqMXlKbTg5ZVg0eUJJdUExV2liaGJQZkJCRkFyXy1TVG4wUENrY0VJQmdJMEJPM3Z0OFBhQTd2a3M1Vkw1cjdXNGtfX0xxbHFZRlJxYlhJd0YwRjJxVTdBd3JhWUpXdVZqX2Vmb0VuZ1pyVDd4OA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SkyWest (SKYW) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT1JQUnllUnprT1FpM3dpUXFjakNKTWJJNGM2Qkc2eEtnTmk5Wi1tSnFrN0VHTXZSd29pZEFxYmQ2QWgtakhVaGVUMG5BNTV5SWh5Q2xlZkdrSlBBVWZkbDhlTFpGMFhWNlplcVFtSzZYRzN5UDdvOXRFVVRPcy10NVFxRUdjdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Transportation Stocks Lagging SkyWest (SKYW) This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUcxMFFuVHZaR0tFUThtWjB3T0xZempINmRzdzhwNDczQ3hkRVZzMWVFRmx5VEFjZkJvdEhSOERwX2ExMWc3ZmFDZ0pNb3h4Y1dvTVJSYkpQWktjSlNaVzdjU3Q0cVY1X1pVa2E2bEVWS3NHeWNhUVBFY0lKUWhVWTRQdnVtbFMyeUVwQm5oTk1sQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "SkyWest, Inc. (SKYW) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbGw0UE5GSGxBdi1vWi1kdWo0ejVBd1MzYWk4b0pyQU9BeHRXZWlVT1pYOTRUS0NsVTlDajNzVlAtelFLamVhSUxVZExGUDdNY2pINzZBUjE2QnE2akltWDZIekE2NHBGUk1yRTlhNzc4YXQwZVBxS1NVNXlQUXZWSEJqcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why SkyWest (SKYW) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGk4OFJrQnAwWmdDc2RNX01fNkNyaWd1ODlSM3RoV29kdUg5VExBMFZNNU9uWk81ZVo4ZjI0aUFZWml3Z1Z1b1VjS0pKRzFrSjVKbDlTdHN1dUYzVTRKdDRCbVk5RHZiSXBmbERYMmEtcXk2V3J5UG1nYXRJZ1kyNw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Most-Watched Stock SkyWest, Inc. (SKYW) Worth Betting on Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQTZxMzBKYm9hREhncWdYNHBnNDJtMFhobHVCd0pXZ0dmOEI2c2tkVDNDaldERGlsbTlISUZMU2pMSnYzR0Z0WGJtZDlRSVhyc0J2ZWNJSlJWdW1kMW9pLXo3YmtISEZSbkF3WDhjNzZPcXgxa2d4aWktZWZnUGV1eFdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why SkyWest (SKYW) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbFBEYnpPVzJEbDBNVWtoLVk2VnViNmRVMG5wUzJCMEJWM0FjT1k1cEZlbkNGUmlhWDlXd243ZkVqYXdIMkdCdHhhYXZ6U190ZzFXQW50aUg4MFlNbXYyX1JRcmNhaVNLdm81RF9GRFJ6MTNUSEpzTHJicHE5MWlQcA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SkyWest CEO Makes a Bold Move with Massive Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHl4RVJMbnpLcmExR2xWUnl5M3QxLThPRVhXUlJqTndVM0xkQXUtdUdETG9SSDE2N2NudFpKdzl1MVpYRjg1TnAxZ25fSThGNkdRVFNVb3loS3JZUFBzNG1fT0Z0bGpua0RqQlBVNVJ0S2x6M04yNThoMWxJb2tDUnZlTVdmbUVtaDBudk4yM1djcDROam52S0ozdkJ6Q2M2?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 114.43
-      },
-      {
-        "date": "2024-12-03",
-        "price": 112.19
-      },
-      {
-        "date": "2024-12-04",
-        "price": 113.33
-      },
-      {
-        "date": "2024-12-05",
-        "price": 113.27
-      },
       {
         "date": "2024-12-06",
         "price": 109.58
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 103.14
+        "price": 103.33
+      },
+      {
+        "date": "2025-06-03",
+        "price": 103.49
+      },
+      {
+        "date": "2025-06-04",
+        "price": 100.65
+      },
+      {
+        "date": "2025-06-05",
+        "price": 100.84
       }
     ],
     "current_price_data": {
-      "price": 103.14,
-      "change": 1.69,
-      "percent_change": 1.67
+      "price": 100.84,
+      "change": 0.19,
+      "percent_change": 0.19
     }
-  },
-  "news_sentiment": {
-    "summary": "SkyWest, Inc. (SKYW) has recently reported a massive 68% profit jump in Q1 earnings, driven by strong growth and Delta contract wins. However, the stock has declined more than the market, and an insider has sold shares. Despite this, the company is considered a top value stock for the long-term, with some experts recommending buying it. There is debate over which airline stock, SKYW or American Airlines (AAL), is a stronger play now. Overall, the market sentiment towards SKYW seems mixed, with some positive signals and some negative ones.",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

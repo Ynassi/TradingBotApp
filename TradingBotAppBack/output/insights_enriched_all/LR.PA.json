@@ -2,51 +2,68 @@
   "ticker": "LR.PA",
   "name": "LEGRAND",
   "sector": "Consumer Discretionary",
-  "market_cap": 27932372992.0,
+  "market_cap": 28351401984.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 23.70824,
-    "PB": 3.688496,
-    "EV_Revenue": 3.493,
+    "PE": 24.131405,
+    "PB": 3.754331,
+    "EV_Revenue": 3.515,
     "ROE": 0.16243,
     "ProfitMargin": 0.13303,
     "GrossMargin": 0.51513,
-    "DividendYield": 2.06
+    "DividendYield": 2.04,
+    "DebtEquity": 70.153,
+    "CurrentRatio": 1.939,
+    "QuickRatio": 1.335,
+    "FreeCashFlow": 1065000000,
+    "OperatingCashFlow": 1565500032,
+    "FCF_Margin": 0.11968309825118491,
+    "ROA": 0.06628,
+    "PEG": null,
+    "EV_EBITDA": 16.074,
+    "BuybackYield": null,
+    "PriceToFCF": 26.621034726760563
   },
   "technical_indicators": {
-    "RSI_14": 63.37257019334347,
-    "Momentum_10": 0.9193732222169664,
-    "MACD": 2.5595867307991966,
-    "BB_Percent": 0.6436717982879604,
+    "RSI_14": 68.45534597524774,
+    "Momentum_10": 2.34038953142054,
+    "MACD": 2.4264813133815295,
+    "BB_Percent": 0.8761670516925317,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8879810910955463,
+    "ValueScore": 0.8848720428559044,
     "QualityScore": 0.38610191551391,
-    "SignalScore": 0.5444888626287934
+    "SignalScore": 0.4889269745826824
   },
-  "volatility": 0.0192571638880782,
+  "volatility": 0.0192060323792917,
   "beta": 0.887,
-  "return_6m": 0.1442985365810452,
+  "return_6m": 0.1545082492625216,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
     "target_mean_price": 108.46579
   },
+  "news_sentiment": {
+    "summary": "Après avoir exploré les principales actions françaises à dividendes pour la croissance de février 2024, on observe un intérêt accru des investisseurs pour les rendements réguliers. Cette tendance souligne la recherche de stabilité et de revenus passifs dans un contexte d'incertitude économique. Les entreprises offrant des dividendes attractifs pourraient attirer davantage d'attention des investisseurs à la recherche de performances à long terme. Cependant, la prudence reste de mise en raison des éventuelles fluctuations du marché et des risques inhérents à la volatilité actuelle.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Exploring Top French Dividend Stocks For February 2024 Growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTGVhT0JrVGVGWnNRRzNuVkpJemRnNjNYbWJoOU9EaTVyejY3aElGaVM2ck5qaXI4bjhJd2xDbHVySlBQd3ZxQm5Zakl3VzI0aFAxRmMzUTQzRjhNaHN2VXM1N1BuYTQydHB5d3BfdTY3cU5lcldxQWFCbklNeFBOY01KNWFJanVxaEE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 94.94
-      },
-      {
-        "date": "2024-12-03",
-        "price": 94.74
-      },
-      {
-        "date": "2024-12-04",
-        "price": 96.36
-      },
       {
         "date": "2024-12-05",
         "price": 95.78
@@ -534,24 +551,24 @@
       {
         "date": "2025-06-02",
         "price": 106.45
+      },
+      {
+        "date": "2025-06-03",
+        "price": 107.3
+      },
+      {
+        "date": "2025-06-04",
+        "price": 107.7
+      },
+      {
+        "date": "2025-06-05",
+        "price": 108.35
       }
     ],
     "current_price_data": {
-      "price": 106.45,
-      "change": -0.5,
-      "percent_change": -0.47
+      "price": 108.35,
+      "change": 0.65,
+      "percent_change": 0.6
     }
-  },
-  "news_sentiment": {
-    "summary": "Hollywood est attir\u00e9 par l'\u00e9lection de Kamala Harris comme vice-pr\u00e9sidente des \u00c9tats-Unis, mais son candidat favori n'est pas encore d\u00e9termin\u00e9.\n\nHollywood est attir\u00e9 par l'\u00e9lection de Kamala Harris comme vice-pr\u00e9sidente des \u00c9tats-Unis :\n\n* Hollywood est int\u00e9ress\u00e9 par l'\u00e9lection de Kamala Harris en tant que vice-pr\u00e9sidente des \u00c9tats-Unis.\n* Les \u00e9missions de t\u00e9l\u00e9vision ont d\u00e9j\u00e0 commenc\u00e9 \u00e0 couvrir l'\u00e9lection de Kamala Harris.\n\nCependant, son candidat favori n'est pas encore d\u00e9termin\u00e9 :\n\n* Le candidat favori de Kamala Harris",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

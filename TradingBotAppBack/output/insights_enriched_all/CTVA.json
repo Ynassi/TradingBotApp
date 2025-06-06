@@ -2,55 +2,163 @@
   "ticker": "CTVA",
   "name": "Corteva",
   "sector": "Materials",
-  "market_cap": 48311279616.0,
+  "market_cap": 48645541888.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 42.66265,
-    "PB": 1.9918436,
-    "EV_Revenue": 3.007,
+    "PE": 42.957832,
+    "PB": 2.005625,
+    "EV_Revenue": 3.03,
     "ROE": 0.04659,
     "ProfitMargin": 0.067719996,
     "GrossMargin": 0.44627,
-    "DividendYield": 0.96
+    "DividendYield": 0.95,
+    "DebtEquity": 16.647,
+    "CurrentRatio": 1.445,
+    "QuickRatio": 0.9,
+    "FreeCashFlow": 2847500032,
+    "OperatingCashFlow": 2644999936,
+    "FCF_Margin": 0.1691617629784073,
+    "ROA": 0.03079,
+    "PEG": null,
+    "EV_EBITDA": 15.327,
+    "BuybackYield": null,
+    "PriceToFCF": 17.0572426781978
   },
   "technical_indicators": {
-    "RSI_14": 74.9679249836638,
-    "Momentum_10": 3.2794053053258976,
-    "MACD": 2.130785327968013,
-    "BB_Percent": 0.7862221666702456,
+    "RSI_14": 75.65733158911964,
+    "Momentum_10": 3.569448982158411,
+    "MACD": 2.1072127532744105,
+    "BB_Percent": 0.8763760853238289,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8873491964626127,
+    "ValueScore": 0.8843787705525967,
     "QualityScore": 0.3809196197832078,
-    "SignalScore": 0.4695850778178223
+    "SignalScore": 0.4452701094718977
   },
-  "volatility": 0.0177832147220977,
+  "volatility": 0.0177178671808662,
   "beta": 0.754,
-  "return_6m": 0.1411165167626384,
+  "return_6m": 0.1792547176054229,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 72.55696
+    "target_mean_price": 72.61304
   },
+  "news_sentiment": {
+    "summary": "Corteva (CTVA) a récemment annoncé plusieurs initiatives clés, notamment des partenariats avec FMC pour étendre son offre de fongicides aux États-Unis et des investissements dans une startup de bactéries désertiques. Malgré la vente de 27% des actions du Vice-Président Senior et des spéculations sur les prévisions de bénéfices, Corteva a livré des performances solides au T1 2025, confirmant ses perspectives pour l'ensemble de l'année. Les analystes de Wall Street restent optimistes, avec des ajustements de prix à la hausse et des recommandations d'achat, soulignant le potentiel de croissance de l'entreprise dans le secteur agricole.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Corteva (NYSE:CTVA) Partners With FMC To Expand Fluindapyr Fungicide In U.S. Markets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3RIWW1taG1JX3BWTF85MnJwWlY0cVQ3dTBFa3RScERNR2ticV9rNmMxY21nMXd1b1NPandDaTBKbW9uaW5ESkxTSE85X0VqX3NWQjVLX01DRVd4OFZGc2c3ei1tVTIzSTlUTXJtRVVBVzVMcGt3VVFzU1NWUk1IWkZ3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Corteva Announces Pricing of Senior Notes Offering - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaG9NQ05NOGN1SkRGZHVLOERjQXZ4SWQ1b0xLMF9OOXlnRTZ5cHoteUpaM2VJM2ZQemF4bUl3aDdzOGg1bGVjaWVKdW5WUG1ZV25XWXQ2eXlYb3FtS1FZbVN5TlRDX1ZSQzhQa0NlUUJsam41cmlmdFpWR1NNYjVMMHJKNmFrUktmbm82S012bmJYRU84TE90bzJmSDU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corteva (CTVA) and FMC Join Forces to Enhance Fungicide Offerings | CTVA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1lpQV8zcmQ3b1pwVkREaHFPMnRMUTBpTHRFQ3NCT0xVM3lOU3lEaXJFQktOcTd4Q3dMY1VwRGYtb09hZ0pDWGtGMUQtUWpwWTJNRlY2TnhMeG9URE81cDlsQXJlWXQ5M2RuSkZQZDFlOHRjUlhtcktDN1J2QzZ5cjFoRnBZWC15T1VoWlMzcHlpelJMcUFIZlEwUFVjRVotc3hVNFFzb3FhbFNueFJzXzIyWFoySVpNdHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Senior VP Of Corteva Sold 27% Of Their Shares - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMmVlQmVQZW40VFE3V2NnNHBJTXJBZHZ0ZU52cFJEMUhuT0tDelR2MVlyVlR5VlN5M3JWaFdnSkhmUHMtV3dHems5Z1RYMmd3U3pVd21vdjFyWExXVEZsbGpOUjJsQTZ3ZVVsZjgwMFBINzFNVkNMZ0NYbWtLMnVfT1ZNUVhmT1d2SVhyNTNlSngwRkdjeVRHRjNNSjgtSk9icEFPR0NSZmpTclJLSlHSAbMBQVVfeXFMUEI3UnBQbDk4Z2lEZFk5UDZQRnBObzNheDJvMy1uTEFzSUd5a0dPYm5ObDdWYjZsaVR5VUNwdGM2em1ya1FQTG1DMl9sM21DeUxZQ2NKd3JHVDRIMGlNTXB3OUQ3WmJYSkV3THV3cThoV2FraDB4eDhKOVF1MUwzVl9CTGNIZUxIWHhpcDNva3ZNSE1oWkQxLUNsLVdBSHh4SEs1Q1ZkQXdDNk1yMHNGc1NEOEU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corteva, Inc. (CTVA) Q1 Earnings: How Key Metrics Compare to Wall Street Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU083NnEzczZOYUl2RFhDTF96ZUxDR0xTaktBU3AzUVliTUkxTzU5ZjlORzJJTkJSS0cycmQyY3dFMThDc2FYVlJIbEtWbVdRdzgzTU5xVGdvR3hWVVBzMGFaWm5xLXdzcjhxVXJybG5jOEZQMmdTX0JhRGVpVWpsdlg4OXZKNlpYVkpJeEIxamItQTY5RFFBYTMzTVFoVkVTdWdJR3ZXWkhJdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corteva Declares Quarterly Dividend - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVp6VWhFVTRsVVRsVFRZaEgyeG1lM0czUzUwNkZRZjhQV0EwaWNTcVJ0S2ZTS2JDS2JQNmdfVVYxLU9xUkpOR0ktaFdGS0FSTlF4Z01XNjJXS04tOGxnN2NhREZ1dE9iSi1rUWkwUGxpeWRNN19rNXBkeDQ4MVczRFNsYzhzYk9DMExqY21ndGlTTlF4ZFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corteva Invests in Desert Bacteria Startup That Boosted Crop Yields 15% Across 800,000 Acres - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGpFSWgxN3l2YVlpREJ4ZENna3cwSzR0QkxvTXZXX3Vaak9rRm1HbUZUa25zLUZJbUZETkpFbGpmYXNyNFBaSmVYbGNzWHByLXRDUGMzQ2UtRlpvOG9QYUVmTVNfYzRac1c2anZYVXJKLUtYZ3VhQWpIeU5aWmtHN3BBUlZuelBJdHEtSENLZ1poU1c1UGxGNkVPRWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wells Fargo Increases Price Target for Corteva (CTVA) Amid Positive Outlook | CTVA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFVmclMxbVhGemdLSklfTGVrU0x5UXJCYWVkVUxucGNNd21UbGtUMlJCdE5oMkNLc0gzVk5xcVhnLXlkbFE5cGJwZldQVWgzUDhyWWpybEVTbW9oaC0wMFk2dE1RZHNLUV9hX2dZX0FGeEFDckpFMnM1QUM0WTgxWDRBTXZIRWp1cXlVZTRVX3F6RTdRSXZKeTlwSHdibndsODM3bDhGYy1EZGdPeklyRVU4T2pQa2pOekdKYXlZelRYbTN4c0lEbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Corteva Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHdHUkN6LVpPYUxaaU5Hcm5rc2ROUk5PTjQ0V1hOS0E2MW8wam9IOTV4Mm1WaC1LeWQtb1ZwSE9VQTU0OVUwWU9sV0hvTldsM0NSSHp5TUY1SGRUWVRhbktwOEFIRlZzekMya3hkMkZHMkpOcU5XY2JHS3FlcHpJNWVyLWlCSjltU3MzY1ZlcVpvb0tPaURqaWsyazdVaTFNY2c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Corteva Q2 2025 Earnings: Key Date Announcement for August 6 After Hours - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDFtOUFGeEpPMWJQUEZmNG8tdnVJQTFELXR4SDVCbnFuRVNvV0s5elRkQ1A4Z0NxOUVEN2RpZXBhRnBRckV1cHRfdUlsYWQ4SXV1VHRGa3NUb0lPeXhUeDN6MGcxRGVJelY3Yk1xU3BsTl9aZ2UwRVRYekJaMEJmazFJbDdmMlgyNzRzSU1wRkFaazdWNS1UMjRkVnZ3VmUtbnFpd25HUE9QWXdfSFpnMWZrNVh1aFdCMHdvNWg2R0o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Corteva, Inc. (CTVA) is Among the Best Agriculture Stocks to Buy Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tenRheE9qaEJaVFJjVmU2Q3M1NDVHOWxuZkdzbnd1ZDlNTW5JWHcySkZFVjdENEM4aDd4aVUtMHFfWEhxdm44cTNFT19yZWZYV3hyNS1VU2E5bGlSQ0RzY3VJMkZOVjdHTC04RUpsYnRUdkJBSUFUXzVwQlM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corteva Delivers Strong 1Q 2025, Reaffirms 2025 Outlook - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDFqbzFla0x3VDVpWDliUEdaQi1qaHFaNnYtWWNmeTVVWnpFTkEyRnhqcmR0b1g2VGFtYW8zNm1zSXJRSmMwVzZaS2FrSnV2MWdlRHBfSm9xbjFKclFpaHY2bUlUZWt1bGZ2cE16dl8zT1VEanZqdEtGX3hxZFZsaWo5QVhHUDIxVk1qdzFRSGZuMXoyR1FiaV9ENEh2d2R6dnp3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Corteva, Inc. (CTVA) is the Best Farmland and Agriculture Stock to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWMjBmVXVRVEg1ZGJVbExuNnE0NTY2dDhvR2phQ1dvXzliS01LUmFYbVRIZHJaclUzT2ZnaHRrTGZwRy04ZGxFVFMyS3dZdzFfOUtSMVB4Y0ZhempXOEZPS1J2Q2NKS3g4RUs5MmZ4TjFUVy1vTm54VFZXZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corteva Announces Fresh Dividend Payout: Key Dates and Amount Revealed for Q2 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkhlTjdFdW1sdnRnUnp6YlBOaGdsM2ZjVHRQUmFiakJUaTkxeUttUVptX21KMEtqVFBiX2p3bFd0clI3ejV0NmkwRFZjRlN0X1hPcDlBYUJJcGdxQlBVbE85Ym1pZ1lZNmdLeElNS1gwU3k5S1FSNzVqTkl5OV9UVDAzTjhDTGtW?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corteva, Inc. (CTVA) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS25QUUhDVG5JUzFfMUpiTnF1bm90cVZXa01DZ3Ata0R6ZkI1N2pjX1N3TXo1LXd0WFgxWXh3TmxmelRmM3ZLaHhJQkhUTkJ4VlVHVE5oU2lYd2NKb2NXT01MU0lQZVUxYjU3bHp0ajRGc3c3STMyQU9MNkdaY2dlMnVB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "When Will Corteva Report Q1 2025 Earnings? Key Date Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUVhREdxQmZLMzhTMnRRb0QtOW1PcklBWGdIUnhISm1GWTIxeklzOV9fal80TDFyN05Uem90dzlCVHFlRjBGeGdBS2lfTldtWXhwcHQ0bTBfbzZKM2E4UE42RDJSc0pLTkVmRUd4TXA4MmFaczBIZ1BpR2hqd00zVlFnQ05GTC1sb3JrSlhOazFwX2JUS2dkMlRabnVaZEZnaEFnUGZ1Sm1VcnZYbWNTY1VsQlNJb3hJVXJ5aDZqVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Corteva, Inc. (CTVA) the Biggest Agriculture Stock in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWU56ZmdBNTNOVTR5b2VfLU13MWpfcUdZYzVtUERqa21LcER0YnA2SmtxS2h0RGtBd2h1T0ptYzVaTWpYSTNPS2pOallqOGRsQ1BER0JwekpmR09WcUhoQ2tGcEtXOWh6ZDg5eFNNcnE2SkdycDZaWjl2bTd1NDdtS1FWcHVpNjFwQ3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stay Ahead of the Game With Corteva, Inc. (CTVA) Q1 Earnings: Wall Street's Insights on Key Metrics - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VQmJUVkJQelBOSmU1LUN5bTB4Zlp0cWJYVW1nN200TzU3NWN3MElnSXJhMnhBUGYtb2NMYTVBR3ZkOWpBQnhxLTdBUk5iT1psYjg4aE1nVm1BSjlOR29aaGFIejFNeHhXVGJaa1M1Y3NZWGEyZnpROWs2VnJCdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corteva, Inc. (CTVA): A Bull Case Theory - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rR0tCVDJENnhwUVFrd2RSNHYzM2xQeldrS2Y4RU5BUVhJcUE1NDd5WGhfdkF2c1ZHSFVoSTRPeDVhcEpmT2RkNVQtZkM0UXJyLTN1amhraVdwZ2lCWWZ3SVhmVDZvRllGYldnMWVwQzhESE5VNEhHd3pkcmo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CTVA: Barclays Raises Price Target, Maintains Equal-Weight Rating | CTVA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXJBRFV6OU5fWmhqN2tGWnBwZzB0ejdfUGM0bFRoT1R5N1hsMklkYmp3akUwcU5qTGZyTlFnQldSWEp1dXprOXdfaVRrUXhURVlFU3dyWTExTmxCNVI2S2RUdFBlc2dFdW5feFozUDlMSU84SEFmdTNaOUd1NTN2UV9TcHBfY21MbldwVTdEZVhrclIzVl9RMjhJcDlEQzhtNGtzR19FYnlfWC13N21DSnNKU19ySklE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 62.23
-      },
-      {
-        "date": "2024-12-03",
-        "price": 62.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 61.17
-      },
-      {
-        "date": "2024-12-05",
-        "price": 60.78
-      },
       {
         "date": "2024-12-06",
         "price": 59.49
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 70.93
+        "price": 70.95
+      },
+      {
+        "date": "2025-06-03",
+        "price": 71.19
+      },
+      {
+        "date": "2025-06-04",
+        "price": 71.38
+      },
+      {
+        "date": "2025-06-05",
+        "price": 71.2
       }
     ],
     "current_price_data": {
-      "price": 70.94,
-      "change": 0.34,
-      "percent_change": 0.48
+      "price": 71.2,
+      "change": -0.18,
+      "percent_change": -0.25
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se:\n\nLes titres concernant Corteva, Inc. (CTVA) ont montr\u00e9 des signaux positifs r\u00e9cents. L'entreprise est consid\u00e9r\u00e9e par les investisseurs comme l'une des meilleures actions agricoles \u00e0 acheter actuellement, avec de nombreuses opportunit\u00e9s pour l'investissement. Le dividend de Corteva est en hausse et la banque Berenberg reste un investissement en hold. Les analystes de Wall Street pr\u00e9voient une mont\u00e9e de la valeur de la stock de Corteva. Wells Fargo a augment\u00e9 son objectif prix pour l'entreprise et le sentiment sur le march\u00e9 reste positif.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 5,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

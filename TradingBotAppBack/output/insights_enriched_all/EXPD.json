@@ -2,55 +2,163 @@
   "ticker": "EXPD",
   "name": "Expeditors International",
   "sector": "Industrials",
-  "market_cap": 15213552640.0,
+  "market_cap": 15253267456.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.453487,
-    "PB": 6.6453314,
-    "EV_Revenue": 1.33,
+    "PE": 18.501661,
+    "PB": 6.6626787,
+    "EV_Revenue": 1.316,
     "ROE": 0.37695,
     "ProfitMargin": 0.07637,
     "GrossMargin": 0.13369,
-    "DividendYield": 1.37
+    "DividendYield": 1.38,
+    "DebtEquity": 25.721,
+    "CurrentRatio": 1.829,
+    "QuickRatio": 1.619,
+    "FreeCashFlow": 599665152,
+    "OperatingCashFlow": 809078976,
+    "FCF_Margin": 0.054218018631739875,
+    "ROA": 0.14770001,
+    "PEG": null,
+    "EV_EBITDA": 12.621,
+    "BuybackYield": null,
+    "PriceToFCF": 25.383783248421945
   },
   "technical_indicators": {
-    "RSI_14": 46.55403852514696,
-    "Momentum_10": -6.025525878882639,
-    "MACD": 0.3151546286935058,
-    "BB_Percent": 0.3454580209738137,
+    "RSI_14": 47.733870741843624,
+    "Momentum_10": -1.4241543245916093,
+    "MACD": 0.1052875785846083,
+    "BB_Percent": 0.3026357468794953,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8939495143663863,
+    "ValueScore": 0.8910684340907336,
     "QualityScore": 0.307916427129981,
-    "SignalScore": 0.6771327190860579
+    "SignalScore": 0.6167395603690444
   },
-  "volatility": 0.0197150286657982,
+  "volatility": 0.0196797137796406,
   "beta": 1.068,
-  "return_6m": -0.0854532376594999,
+  "return_6m": -0.0689413789793673,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 14,
     "target_mean_price": 107.57143
   },
+  "news_sentiment": {
+    "summary": "Expeditors International (EXPD) a connu une période d'instabilité, touchant un creux de 52 semaines à 108,14 $ en raison des changements de marché. Malgré cela, la société a récompensé ses actionnaires avec une augmentation de dividende de 5,5%. Les résultats du T1 étaient solides, mais le titre a chuté. Les ventes internes d'actions par des initiés pour 2,5 millions de dollars pourraient indiquer une certaine prudence. Les investisseurs surveillent de près les projections de Wall Street pour les prochains trimestres.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Expeditors International (EXPD) Up 3.3% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTndacFA0QXFzVTA1Q3luY0dIZkROVU1WbjY1NWNfVWxpOHJXZWFBMU9nc2NrUEpoVmZ4UDBzbXlnQ2lXZ2VmdzhPcmNrdXZxTGRmQUJXVTY0Vkh2OURXN0p0OTZHT3UzUWxpU1FvY3hxc0JtYVJNNjBHcXBldC1aSDVXSFctdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Expeditors Rewards Shareholders With 5.5% Dividend Hike - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWx4OWRiVkZOc244Y2x0WThwSV9ZTEtWdDBwOUZITjB4Sk1nX3gtZUh0RzlpZ2RpSWxUaEVpRk51d1h5YXlCcVplSFhEY2l5WW82SC1raGltQVhrMDhYbzJDVE42eFVRdGxnTDlDelpXeERaRmxjUG5yYnRrZDdkbDR3ZFlyZkxrMk05NXM4RDk3WUNSdm5fRWdvb3dPQTN0ci1rR1YxUFpJS2hIb2hj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "EXPD stock touches 52-week low at $108.14 amid market shifts - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEtGX1QwaERwN0NQX2E1TlBSTVJhNkkxekppTWJ3Qk9nSFNQSkJIUFhnWDFOVEJjbzlnZ1JOTllOVjE2bGZNNlFBa0FsS2Z0Y0JWdDJIWmR0QmR3YUJiS1lKX21LZWp2RV9ZS0xUNHphZVo0MEpTc3M0R2NOZEdjeWMzbE1GbW9yekFGZFcyNlpQbEY5VWh1VnpObXFEYzVBYVZMY2x5b1ZFeXI0aG5qZzFpOEI?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should You Investigate Expeditors International of Washington, Inc. (NYSE:EXPD) At US$109? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUXUzYkdOcHZJNXI3eTZfMnF4VFpBZjllUXNUem0zajhYelFGVS0zU1FWajZDNTBaZmhSZUp3aUloQ0FNSzl2RTkyN29DRzlEdmVkYndVQm81RW4tdHhKcmlOUU1Gdkg4QnJNdWFpSnlRaWgxRjdTR0ZvVi1XOFRrVFREUldxMjhzejVBeDd4RGN0VlVxOTJqTkFFTEtwdDVrc3NoeWN5MWlwNG9rd3F6ZEp4dWJUbUQ2Y2xzT3pNX3VoSzFYZi1WaU5YYkNtRXFuSVhoT0dCOHlPNkN4cXNPbEdyTVRQNkRITDZEdnVQSDJ6S03SAfgBQVVfeXFMT0g3dmx2amZMdEJpTnotb2ZqNUNUUXVxZzRkaC1XU3lPSVU1bUc3NmNybVJKOHoxYW9fVjNxVjNTUERyRGwzZkFpbjlWRlJoTXhrNW5SbVNCd3hxQjNIdzNJVWhjUl95cERXZ3F6VmdRdkZKSlBMVTlJMTNBSy02VFZuV3JMa2Y3NlBXRTJEaUNvQmhndGZKV3o2TnNWNlF3N1YwV2dtdWE3UDkwamxOWjZiZzUtLVF6akxrT0Fmbkhpd1pVdnp3cF9yTW9nQ3BwanlYUzBIN29UZXVqVWttSjU4OGhXSlNxLWRmZ0Q3dG9WeGhRcWJuenU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trend Tracker for (EXPD) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0NrWUVjVmZUQkQ1Skk2QkNiNWJJYTRpZ01WTXFIN2luVWc4TUFrTGtaR3RNc0FTbTVCVzFfMGZwYWpCazJOUVBlQmlFSV9Xak9YWkpoajlSM3BVTzR3UFhYM3dVQWJiWlB6ODRGYjBFeFBMS1Nzb2s5MF9PS0xfNVhHZUhuaGRpdlJBUHdLM1lvZUpqQ0poSlpQdURUUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Expeditors International Stock: Is EXPD Underperforming the Industrials Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1BrVEd3M1VCNXliU3dxMW1ZMXRzWG1UMkNsSUFiN1Z5QzhnNGZYWDdWajh0S3VnNVVpMVdGVUV2TFp0RmlfNmh3OWdFMC1pZ0RpaTZxNjJBdThGdDgyQ2tKZmNWelVlNUhDeUxya213WTQzc0dZRFh0R1hTaW5uaV84Q2xZVnByRTNhRUZRd0xCc2tqc0E5VllWQmxIUTRERjM1SQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Expeditors International of Washington (EXPD) Stock Outpacing Its Transportation Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVThLM3FsODJ2djNRbjB5TmtINUhxTHpXeE5XZUluVUJSNE1zbnVDTDVpUFNwaHlkUkl2b3AzUHVjRi1sUG9sNnNiYlRNYlNBNmQwQTNSWjJRd09KM3laaUxPajU5ZzVHN1phVy1RN09PSmprU1VSak15WDF2SDgwZE5ZdVpWWE9JeGRSeG1GM25KYWxlbTRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Expeditors: A Powerful Moat (NYSE:EXPD) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUnNVNlBCa0Vsand4SnJIekRWdGZkVzZTM3NBck1ZUTg5QUpMQnk1cWE1YVNJS0tMOGVoNThHdXFfMGdYQWRkNmU4RHhyRm5UMUxzZjN0UEV5X0xuZkZkVXBrZ3JPOUw4aTRaZFJGdDhJOGNoR1F1cC1OZzg1dkpRb1RpY2ZITThNcmtWU3RZR0s0eEROb2xlMWhJeGlUWUUxRGttTVd6TS0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Expeditors International of Washington, Inc. (EXPD) the Best Freight Stock to Buy According to Hedge Funds? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSXRoM0VZdFZ4M0FBX2lxV1dlQTJ0cmw5RjRpLWdCMm1DX3lLQ0JJSjBPaEFHYVJOV3d3WXcyVzBtaU9PS1d5SEJTTEplRjE1X0swWmpIUGNXX2xPWjdOUkJIRTRpczhrem9IekN6YmxyU3ZBYS1MalpkTkNnV2ZOYVFHeV9XNGYzVlE2Q0lPTk5iSVZvaUlCMHo3Z0p2V0FXWnZXUFJIbF9jWWowR1BjN0RSY2tDWTVMXzZHT21hdUlaTy1aWkFRekZOSi16cFZoMGJZYkt5XzJIOXBxdktTV2Y4RdIB6wFBVV95cUxNcEdTUDRLVTBobVJXeDJKWmxiaEEyMEVKWElVRHJ6RG5OWkVNY2NMSS1aTDhrVTIza3FPVGpPS2UtbzBHa3BxR01VYWhQekhmMk9ZazVTVTl5R0I1WmNaVXFxLUIwUFNqMEU1UXhDOUJCa1BKTzRTX1NIZVZGVW1waVItTFJzVHBFWVhNV045VTlrb1VrbWswanpvNXJlR0xsREdBZ25hLUR1NzNXQU5sRkFsQWV3a1VPeFJNTThiTnIzWjhzYzZEZjJvSk5WaDlaM3NCdmdkZV95XzVIRGNSSFhYWDh1cFBTdlln?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Expeditors International of Washington's (NYSE:EXPD) five-year total shareholder returns outpace the underlying earnings growth - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQkVjdUQ0ZTRpS3VRRWdkV1JDUE1ydXVnZHlXQ3FrT1l3T1U4aHZDaDlka2tIT2VHakJnR0JQd1RSaFQ2MUcxM1FFU0dwbVZ1ZmVCLWFOOFVYY056eXBXczlCYzR4VUFfYzB6X0xKblM5WFh3YUFoUlMtR0xOd0s1cUxQSVRYWlVTOC10NjJ5VnVPUFpNTUl0Ty1lbXdORWFoNDdQdkFkdnFQVmxrSE13OUtjZjJueG1SRDFKZk0zWTlGeF9GRjBmOXJ4cnVFdDhUbW5WLUZtOXdxdDZjMU5MSjlnSFV3OEZNZWN4Z2RDbFRueUHSAfgBQVVfeXFMT1V2MTUxbW9yQnhxd1FWZVljdkpWb2JGMHh1QW5sM1Z4ckhlS19qcFVVdkJkWGJleTR3QlUtOU9UbGpaRUFtamlPRVAzcjlaMVN5eURiMHpQY3l1YWlfVHpZQkFyamlLdVdSUnVXTFJNUlFaRHdaUlp0WGpiYU1kdVVMOWxxMlNtTFM1SF9BbFRxVVNzY3h0SUhpYy1nUElrdVVncTlXR21GYy1ZLW8xbElsdXZTU2xJVExDZURkVE1WV0cyQVVTUUtHdURnTF84eTdISlBubnR6Z2dKWWo3T25XWXlCX2hVcWt2WmdrS3QyS0N6WjIxZDc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Wall Street Bullish or Bearish on Expeditors International Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWRoMzhvSWFqQVpfMl9lajRIYldFTlFyclZIS3FiSVJORjRFb21oVExVdXdfdTh0Z3JILU0yX29Hc0VrR2J2SmlUSWtmOHpCcll2aEtwVmIxRk1oN29sZnd0TmhFd2pFYlUwNUo2U1N0TUh4X0tGQng5RkdZb045T2hCX2s3ZjV6b01oSkJaQzVpRGlSbnFuTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Expeditors: Trade Is Like Whac-A-Mole (NYSE:EXPD) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2dHMVdBNEI5NFN3c2puckY5SjNPWEd2VEx1a3o3a0ZzWjNvUUYzSl9GcVJ5Zzh3UmlfOG1ENWhDM3B2cmgzYWh3WDJmN1FZN1d1X2QyYXpKTDJIcXlodVRuTWRsYXJoQzdvSGVheGxCRE13b2o0cnRLYnBvU1BOYVlpQmIyRjYteUJQdVlZaW0tbFJUVjZOLXNkV3lXQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Expeditors (NYSE:EXPD) Delivers Strong Q1 Numbers But Stock Drops - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0s1VEt0eVl6RWNfVWVCS3gzWlpSbUlxUTRrWDN6MHJDVm9VMmpJcDd4dG1ORVV3dlZyal9hS19iUExCY3NIVmx3MDNUZWFlQnVqVjN0RDVZc2tnY25oNEJoTjRPVUpOT1NJQkxOWjRQQjlXZmRnT2RBLXVza2xLNWV2WE9kWnNKQnc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Expeditors International of Washington (NYSE:EXPD) CEO Transition 발표 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMzU2aTF2MVJJbXRPc3JKZHVjUDlrYVJwYXlpaVNLV00wTkcza2h2cnZRUklSU28xZmlKeVV3ekxsRHczOU9EYTVHejhvaUJRSWVYTDJnX3cxcFdZaDk4Y3lZNHppTU8waHFIRmlRWUZZazgxZG41QndSaVMyU0dYLTBOVjMtQ285a1hhc21HVl9uUWJaNFJ3MjdpR0lOZ2xBNFhKc0p1eU9zTi1iTnNWaW54VEFiNGhjbl85MmdpaGN0MXJySHdIU0FpQnJfVkNVcGxpZHBQVGxlaDVZS21STzNTek1XaG5FeGYzZnlzUy1Jcm_SAfgBQVVfeXFMUHRRVjZ4dzRGVzNfZU9EUEllRHJUNkkxT012NVREUmo0eTRnbUhJcnpqTXZ0WkFtTTZrRGZPUzlURmtlcnBPNUYwX0VxMjJNVVBpSTRUYjlTU0UwZGRuNVFpOWh1aWlMVnZnZ3oxUi1IS2lVdFMyUS1DMGM4eE4wc2JyYnl0QjdadjMwRUwtZ01LSl9ITHBsX2JQaTgzYmdyZ21vaFNvcjU3Wi1qSTVxZUE2WFp0eHJta3h4U0ZmaHpOeHRDUjBtallTYUcweXdMeS1IaWF0Xy1SdDZaYktIS29mUFMyWVdtUkltTjVnWWIyOGhFc3NKTjA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Sale: Senior VP/Gen Counsel/Corp Sec of $EXPD Sells 1,250 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWkxBanN0dnpnN0pFTFp5NFA1RGdvUkliU2JTeXp2TERKYUY1UzVKa0tDVmZTRUYwekRTYVlWa1pRY2RuVXFZRk5Yajk1NE54MWdZbURhQWF4a09XdE1zaHpSMTdZQjlUNHU1a2VfNFZOcU5VaGJmTlVjUUpobVlTNlc5Z0ZLV2E4UjJTQlQwbGZJMml3WE0xQ05BWVhYS2M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q1 Earnings Recap: Expeditors (NYSE:EXPD) Tops Air Freight and Logistics Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUNqS3ZxZHU4aTI0RDVvMk9VYUMzX2dPazNFdWxKeDRoUnlqOHJTUUhFeWZYR24xb0hKLUNIb21OV3Q2OVNIVlViTGhvOVBxOF9vS1pfMzhmbUthaXhWYW05RGRMd0c3N1lsMDdubEpRdnNWYi1LRV94US1Pc2lVa3pfczlIQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Expeditors International of Washington Insiders Sell US$2.5m Of Stock, Possibly Signalling Caution - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQXZXUGZ1bmY4X1RlQkhMLVBNOGlCckdOVU4tSFhFckphb25FLUNwOVBFeTVzRDVfdlZCZF9PNGRJckRKUEVUOTNRU0N1aUw0Mld5V042VlRhekJDcVEtMWJSMEp4a3FSY3RxR1ZzcTNjbFpnTDhMMkpRc0FHbXpjR1gwVHBOYXZYUGN3MUpTT3JRZ1J0c0ZIYkVuUHJyUnBaMW5tdlNwVXl6REZyc0tpanRRUDQ1Y2JWSjVjM2g5cmpxdkxKMWhjNHBZYlN3T2gzdjNha2d3NXJlSmNrS3FPUXpHVmlibWh3RXYxOV9yaFpWWVHSAfgBQVVfeXFMUDdkS3Z2bmY0b0RrcjVtZGc2MzlmNHJIQ0tmWXIyekMwRi02N3ZYMldHYnF2UHA2OWdHWUV5ZlZDb3lUdGJaOUdTeW5Wd3d2UzZMSGNfa1k3RDR2SzBzcFM4c2RfdDRRNEdLM2Zpc1Q5c0ZkRllEOWZSWWFtdzBNbUZnRXdORWFKOUc1TzBFMGFEM0ZEZy1kR2FkQTE0RE0yZTd5TTR0bEQzUEpZb3EzZ3hRdXdpOW8wOXdPZ1NEbmpzaFhycUNCdDVYMDBqU1FnR1JBSmV4VzlRR3o5MThwc3JKNVVxLTBRWkJFVkhuWF9feFoxUVVfaEM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Expeditors (NYSE:EXPD) Delivers Strong Q4 Numbers, Stock Soars - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQanFSS3NPM0lJVkhQeGRfVUJjdEdHM0haM3NhMGJLV2lueUxwRDZQZVppWFlMb19Yb2dfZm0zUnBIX3o5dE84RDZXSjdOZGlHQzY5RlloUjh2TF91TkFBY01ZemRSd256bWVKRDlWYlpZN21TU0tMb2wwVUF2eWh4czkyTUxQVXBvU1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "EXPD's Q4 Earnings Coming Up: What's in the Offing for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbjhPdWYtOHdraFZNWmY0Ul80V01YU3JCcUxHb0hrM1Y5MmVpRmh1T08waFdTWlBrMVJ0QUFWMjlwd1ZCX2tUMkc0WERZMUx1NjNTM1A4MmRyU0U4SWVnc2pkV0tseVdndlpGZEl6b2dGX2ZUWEJsbnNFeV9GUThhdDdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Seeking Clues to Expeditors International (EXPD) Q1 Earnings? A Peek Into Wall Street Projections for Key Metrics - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV3RzdWQtTXItSHVEaXQxSWhOVTBSVU9QMEdhSEQ1UGtfTTA5aTk3cEFTTlpOVlNFX2ZzYjlFLVEyODNyek5hZ0ZQN3drVmNVRnVYQ3NlOEhQU2sxNHpzRjVlTW5EMnRFOTd3Ymt6QkNtWEZOV3Jic2F6YmFnOFo4N0VBVUJqdFI5UzQzRU80OEE2dE0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 121.47
-      },
-      {
-        "date": "2024-12-03",
-        "price": 121.08
-      },
-      {
-        "date": "2024-12-04",
-        "price": 121.2
-      },
-      {
-        "date": "2024-12-05",
-        "price": 120.45
-      },
       {
         "date": "2024-12-06",
         "price": 119.28
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 110.96
+        "price": 111.21
+      },
+      {
+        "date": "2025-06-03",
+        "price": 111.76
+      },
+      {
+        "date": "2025-06-04",
+        "price": 111.57
+      },
+      {
+        "date": "2025-06-05",
+        "price": 111.15
       }
     ],
     "current_price_data": {
-      "price": 110.96,
-      "change": -1.7,
-      "percent_change": -1.51
+      "price": 111.15,
+      "change": -0.47,
+      "percent_change": -0.42
     }
-  },
-  "news_sentiment": {
-    "summary": "Expeditors International of Washington (EXPD) has been outpacing its transportation peers this year, driven by strong dividend payments and a positive sentiment towards the company. The recent market shifts have caused the stock to touch a 52-week low, but hedge funds have identified EXPD as a top freight stock to buy. Investors should closely monitor the company's next earnings report to gauge its performance and potential for further growth. Overall, EXPD's strong track record and favorable market conditions suggest it could be a valuable addition to any investor's portfolio.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

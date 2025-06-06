@@ -2,55 +2,163 @@
   "ticker": "XYL",
   "name": "Xylem Inc.",
   "sector": "Industrials",
-  "market_cap": 30564886528.0,
+  "market_cap": 30898278400.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 33.854446,
-    "PB": 2.8264735,
-    "EV_Revenue": 3.72,
+    "PE": 34.22372,
+    "PB": 2.8573036,
+    "EV_Revenue": 3.74,
     "ROE": 0.08505,
     "ProfitMargin": 0.10537,
     "GrossMargin": 0.37544,
-    "DividendYield": 1.27
+    "DividendYield": 1.26,
+    "DebtEquity": 19.323,
+    "CurrentRatio": 1.886,
+    "QuickRatio": 1.296,
+    "FreeCashFlow": 985500032,
+    "OperatingCashFlow": 1207000064,
+    "FCF_Margin": 0.11461968783600374,
+    "ROA": 0.04441,
+    "PEG": null,
+    "EV_EBITDA": 18.619,
+    "BuybackYield": null,
+    "PriceToFCF": 31.276346341102908
   },
   "technical_indicators": {
-    "RSI_14": 57.97903173425339,
-    "Momentum_10": -1.580770751505614,
-    "MACD": 1.962806237436041,
-    "BB_Percent": 0.5904185827816951,
+    "RSI_14": 59.50220227431037,
+    "Momentum_10": 1.021898121430192,
+    "MACD": 1.858075149441973,
+    "BB_Percent": 0.64700035842339,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8861507241662574,
+    "ValueScore": 0.8831071796323209,
     "QualityScore": 0.3337799173728399,
-    "SignalScore": 0.588828982373772
+    "SignalScore": 0.5418942822612187
   },
-  "volatility": 0.0173514643211262,
+  "volatility": 0.0173517061416666,
   "beta": 1.123,
-  "return_6m": -0.0048667261394048,
+  "return_6m": 0.0122040745773606,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 138.3653
   },
+  "news_sentiment": {
+    "summary": "Xylem (XYL) bénéficie d'une couverture favorable avec des recommandations d'achat et un potentiel de rendement intéressant via des options. L'entreprise a récemment surpassé les attentes pour les bénéfices du T1 et maintient une perspective solide pour 2025. Son leadership dans les solutions d'eau intelligente attire les investisseurs, renforcé par des réalisations significatives telles que la révolution de la gestion de l'eau pour le stade de Manchester City. Malgré ces points forts, il convient de surveiller de près la croissance des bénéfices attendue et l'exécution des objectifs à long terme de Xylem pour confirmer sa position de leader dans le secteur.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "JPMorgan Begins Coverage of Xylem (XYL) Stock with Overweight Rating - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3BNUWw0UWlZeTM4VEt0OFQzNi1YRzNuSGo5cWpWYUU2emJ1QS0tNjRVcDU2cDNaTzlCMEVjeWh6TDVETVVkUzBPNzUtVGJMZzNleEJXemVUYk9YSWhJaEN5MFNVQTdxNFB4WDZSTXpwQ09kbW9ma2hwdjlHT01WNGNFSFp1WHNkb1BnSXo3Y2tJd1UyajBtVmNjTm5HZWV5MmxFS0xtajBvcTJzTVdV0gG3AUFVX3lxTE9HU3YwTHRHZDRlTklHUTZUaU83TE94SW5QVGlZTWZxNnBJQWpHbjZWd1ZDTUQ0aHpFSEtJTW50QkR4YWR2eTNYYUY1Mi1kYUpXWXlUdW5WNkx0amdkVGVfU2E2YV9SVm5paUZGUE5UaUtvV3J0cmt2MU5lWjJXdFhXTUJPWGVpdU82MXJRdlVCVGY2S0hWZlJPRlJqNHVBZHRyak1zajNiNHczVWVyTEZ6VTAtVXBPcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xylem (XYL): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JUy01R0Y2MC1LLTNiR0QwMm13dE8zRXg5NWhhWHJsMlJYbklDc2FYMy1Ra2ZZLVBvVGI2dU5BTGJNakRfc2ZKSjJwT2c4dHd2OUljNmpaUG1WZHNXOE1ZS3Vha0tpQUU4REo4Y2U2QUl2T0xSU2pDWA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exclusive: Xylem Leadership Sets Key Investor Meetings at Industrial Conferences - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmNmMWNmQVN0OEFLQjFHRTVnTWJVREFUNFBIeUlHc19NeHdaSGhieTNtal83bklxSS1PUUhuenZsZEpsVUlwWWF5aWJYTTdGVEFmbFRRNDBCVHY2SEkzQTVvVi1YMGY3blUxcFoxa3ZCQkQ4dE1OSXlqZUJvVFphUzVQR3g2X2kwUjR0SjJIWmVLSXhvc3JpOHpYWjJOaktYMkV3OFpVaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xylem (XYL) Stock Coverage Initiated with Overweight Rating by J - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemltcER6SjFDaHJfVHJaXzk3cXBUdHpBSUM4YTNYbnl3SXhXNjJTWVJUamZzLVdtbEs1LWgyVmhLc19oVWNPVDlWaENUSVRJUTBWbUYzd2lTaXpnOU02LXI3UzBNbWtLWjh3VERQODNHeGEzTmpITTdNNkpjaDNHNTl6Yll6YURBMDRGSEJ3Y3UtLVk3eHQxU1NzdnNTd0k4QThmRW1CMDNBdUR0Nms2R3dPUkhzemVVeHFoRXhBTndDUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To YieldBoost XYL From 1.3% To 12.7% Using Options - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ILU9VMnp1RlhnbEc0dktHZ3dhU1EtM2NkX3RJZHo4cXV4S2UwNURsTmtJSkktNVYwbmUwZms3Mk03SElXT0dmODNHSkN6YXNQUzRlTWtLZlZYNU1CaU55OUY3M0lSYWVXZnpZZ3VTdGw1VVhOUUE2Tk9sQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Hold Strategy is Apt for Xylem Stock Right Now - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZUo2bWdGSktwSlA3UzZsd05Ya2c0dmVnbk1acFVoNm1aWTlWUUVMYnBHLVNNT25CY0dNdmhqT0FQSTZYdWd1RFFXLWtvVzBSN3Vsb19UY0JLcndtYTR1VVlaZklSVFJiMFRuQnVoX05pNDVfb0JmZEs0NEMxc1duekpvcVRDWlgtU3JJM2VCeXh1WU9Qd01uSEVNRlNPUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xylem Inc. (NYSE:XYL) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV0hSMkkwMFNjemZzaC1QSHd2OFE4Zkt2T3E3ajVHSzcwRU82eGpiNlpZeER3WU9iUE1DaFk2WjFBbGdBWlBJQU9TMGRXMVNGYjN5MlRfVV9kZ25JZnpFR05wZ1FhejZFRmZGak9fOXZER29DZXFnWkJHYy1yZHhSOXF2bDJXUmNzbDVyVU5fUXhaUi1lOEJiWng5WGpIMHQ3NUtNMUNjd1FKMjJReUttZE1BdllQbk9fN2pmdUg4bUszZDJL0gHKAUFVX3lxTE95bmFXZmJHQy0wa25hNHhCblI2VVJYcU5lelVMVzJ6azI0OU5iSlpmTkZOaHM0ajRTV1Y3X3RGdnh0ZGF1eUVPUVN3UHAxa0RXVGZYT2N5VjdJN2UxYWp5T1J1OFU1WDlOWlpycld6NnZzMW9STmt0ZXJYelhwNl84a1Qxc3dmZWRuTkFnbFFzTFQ0bFNsZFZlYjNyNTVhUXBmekVST2c1NWhHX1VPbm1BR1ZEQTVTQndsVmZyYnlqcVM2dEhuQldaSnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xylem: Well-Positioned For Long-Term Secular Growth (NYSE:XYL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUjFzN2lsNWNyTVNKa2JaSFRJUWRzREZYQjk3QWF3LXAxZVI2c0hjVjRpZXU4UkF3VlgxV0g3UklHWUdDWDBlVEFoTkYzcHR3dFZRVG1Ta3J6WjFFNWtuZ0hneW5DcGRvc0RIMG1uSUo2cHQtNEZBZ1otUFlaZXlYbk93eVJGaXA5OVNkNUFZWGVUbXlKeDI0bjVVcHltQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Xylem Sets $0.40 Dividend Payout: Key Dates and Payment Details for Q2 2025 Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGFUaDF5Qm1tdW1RRURkTHpxME9UR2pTRHU4bTZLUThBVDkxQmlFcWxQSy12eFV4a2p0czFabVVZOXEyNDVzblBoU0NsaWxxVFVHcGpZdTVwQW5rQ3V3eW8xUjdLSDd3RjAybExiVklhX3hpMGFlUTI3a29CNThjNmdSamtMbmtMaHA1X1RMT0N1cWRPaFM2THVMeUwwdktmd1RHUXJ6MTE1aDI4blR3ZThB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xylem (XYL) Up 4.2% Since Last Earnings Report: Can It Continue? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnUxOEdhLUFqN0FFcEtERHNCaWRNOHFibUNYaFVKTEhrcURvME1CbFpYb3FxMTVMYnNEMldaWXlCRkNzdnB1cnJ6T3BxMFF1V1hpcHN4ZS0wa2xjYUNFbVE1QmlaRW1sUy1pU21NTzZ5eXFPRHR2WXBnN1F3YmNqTDBxdkFSUDNa?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Xylem (XYL) Receives Positive Outlook with Overweight Rating | XYL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWJnR0NTSHhwUWFMbnhHTUxCeWZQODFwQzIxdUVmamhZM0dUU3hEbVdmRWRORVNiUEhpZ01sdG5JVEkxNm5DREptYXhfR0lsN1lhSTEyaVVMOFlpU0dld0NkR2JVeXpyaE04T2lhRkE5YmZsTzZ6WF9WcHZsZDRxZ3FaSG1ldlRZR1dyaU5PUlczeDlkdzVtb1IwczVVX1p3V2V4eHFfbzI4THZoUUxUenpjRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Manchester City Revolutionizes Stadium Water Management: 50M Liters Saved Through Smart Tech - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3RBNktpX3hBbi1kZWgxcWdBMXUtUFhXN1c4REFwSE5SRkYzNlY5c0k1bzVURGdnVXhsT3FwX3pKR210VFhtdHQwTXhsOUFNRzhOeGpIWnliM0VoemhaNUZiYzJ3bzFHaVJjUWNVa2Y4SGpCcW12MmZQMzlxVzZIUGNITVB1Y0loY3dSdms4a21MOHNSdGNiT3R6RUNJRVYwdURJa1UzQVJQUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Xylem Inc. (XYL) the Best Water Stock to Buy According to Hedge Funds? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZWVBjaXU3NmEwV3lYSWJpbUtuYzV5b0NsZVdVamdzal9IcnlfbFlrVUVESlNmQ2NMT0lHQl9XQjE0dXJNQnU3SHhaM3NrY0xQcHVIT3QyMlRyQ1ZXTnBvN2VpaWRvNVdSRmhQeUhFTFJyXzNnMEUwWlRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xylem Crushes Q1 Expectations: Water Solutions Leader Posts 14% EPS Growth, Reaffirms Strong 2025 Outlook - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYWttYlFPdDBWRUdmZmsybnpzQnh6SzRnUkk1MVBEblo1QTc1aHQwY2VpZmhoZXFnNGdjQms4N3lyQmxYempJOVBWWDNMdkZ6MmlUdTluWUZLWnVTcVV3dDh5Qnh0Q1A1WmJ1bmlXeXhOa3ctQXBPLVR4X193aUI3VFVTbGw3b2g2b2lHMF85aw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Spotting Winners: Xylem (NYSE:XYL) And Water Infrastructure Stocks In Q1 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUxfVE1qRW5rNVFOVTk1MXNDSFU5WXVMRmVEVGRoVEJxWUYtWU9aRnlnRzdpZlNJbzVUUy1VOUVrYlRpb215SmQ0M09wMzhJYmZBdU5FWlkzaWp4UmJxd1JUc3JjZU43aGVsY0FxeFZPX3pVRVo5SmYyY3FVMFJDT2ItVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xylem (XYL) Q4 Earnings and Revenues Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVF5MVV6WEVNbzM0aEtyT0ZZV21ESFFNN1IyOGlZWUItQjlDVmp5ekE1YWdTb0R6ZDktTDYtRVVyX0Z6VG51R3huVjhtWGhySzEzNzE1ZVBrcGoyTlFOaWpBaXpIYl9BQkFtdXlJSUdfOFpqY25FQmJ6WUF6ZUIwUkdn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Xylem's Water Tech Saves Enough Water for 350 Million People, Hits 2025 Goals Early - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWhjRnpGNnd3RU9NcGVRdjNibGNXanBCSF9JRjAwckFuQmotVExrZ0VseEdneG8zX3VWQzJ4a082M0F6bWZwcnZlcHhxWjJLbmd0bnQzNWd3ZVY1Z21ORV95WFd3RmJEUFlhbjFfY242Y1EtOUt1Zk9wNkpLTURPdHNhTWtyUkRxMGwtNWR6cEtzM0c5MDNyMm8wSTJZSHZ3X2ViY29WWnN3T192SHE3d1ZPUEZOWHhNZnJBWg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Xylem Inc: Bubbling For Long-Term Growth (NYSE:XYL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVNGMGZ5LWVWbDZyVDh3QjFkYWYyV1k5eldqVDdjTGtwVEhyNG1udVpGNFAwazJoV3cyZl80eXhiVjYwMHJOdmtIWlFScjVTa2p6V2VoYW1waHlYcHZJcy1pRllzcVdEQ2tCMEtnQ1dWQlBlOGY5VGtWWFoxTTVQcGh5eDR5N0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xylem (XYL) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdjRvYmE2YW05OVgyT1drekVkMVpYQksyNzNvSkRqMGV3NnhzZVEyNkZvakhkYk91Q1RGWk9ydi1lNkZ6c00yNVpDY2xoWVdJQ3FIdm52dXBZdFJmUGlmbzBZWklvYjd0dHBoWU04cFRyYjlaNWRmdXpscGpLWnRBME9Mamc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xylem (XYL) Target Price Increased by Stifel Analyst | XYL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmVUOEpvN1dMNTk5SzJETWxiR2NYM2xfUjQwbGxZVnlDekVueTdBbHdTdkQ4ankwN2kyaHU2TzdWOEkwNVpVejJmV3hMbU8yZU9heTJXN2c0T2hySUR2Qm1EZjFpWnQ1VXRtZzh5Sk5rTUtlZFV1TGlhMjJUOWVIblVQZE9jRXlTT3Q3NmVKd3huWElvMmc4MXRiLXZRNG1UMTd6eWZHSQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 127.01
-      },
-      {
-        "date": "2024-12-03",
-        "price": 127.69
-      },
-      {
-        "date": "2024-12-04",
-        "price": 127.54
-      },
-      {
-        "date": "2024-12-05",
-        "price": 126.23
-      },
       {
         "date": "2024-12-06",
         "price": 126.37
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 125.54
+        "price": 125.7
+      },
+      {
+        "date": "2025-06-03",
+        "price": 127.15
+      },
+      {
+        "date": "2025-06-04",
+        "price": 126.73
+      },
+      {
+        "date": "2025-06-05",
+        "price": 126.66
       }
     ],
     "current_price_data": {
-      "price": 125.54,
-      "change": -0.5,
-      "percent_change": -0.4
+      "price": 126.66,
+      "change": -0.09,
+      "percent_change": -0.07
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s r\u00e9centes concernant Xylem (XYL) ont montr\u00e9 des signaux positifs pour les investisseurs francophones. JPMorgan a commenc\u00e9 une couverture du stock XYL avec une note d'avertissement positive, tandis que GuruFocus a \u00e9galement donn\u00e9 une note d'avertissement positive et une couverture initi\u00e9e. Les investisseurs francophones peuvent aussi profiter du changement d'action en ex-dividend \u00e0 XYL. En plus, Xylem est bien plac\u00e9 pour un d\u00e9veloppement long terme gr\u00e2ce \u00e0 sa position dans les secteurs d'eau et d'environnement.",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

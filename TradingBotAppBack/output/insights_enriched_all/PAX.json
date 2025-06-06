@@ -1,56 +1,164 @@
 {
   "ticker": "PAX",
-  "name": "Patria Investments Limited",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 2025731200.0,
+  "market_cap": 2097655424.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 27.265957,
-    "PB": 3.6867087,
-    "EV_Revenue": 5.421,
+    "PE": 28.234043,
+    "PB": 3.8176064,
+    "EV_Revenue": 5.482,
     "ROE": 0.14463,
     "ProfitMargin": 0.18364,
     "GrossMargin": 0.61323,
-    "DividendYield": 4.71
+    "DividendYield": 4.65,
+    "DebtEquity": 34.242,
+    "CurrentRatio": 0.968,
+    "QuickRatio": 0.658,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": null,
+    "FCF_Margin": null,
+    "ROA": 0.086780004,
+    "PEG": null,
+    "EV_EBITDA": 11.169,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 67.85232166509067,
-    "Momentum_10": -0.2723797669056765,
-    "MACD": 0.5597622956111987,
-    "BB_Percent": 0.6582353475676577,
+    "RSI_14": 73.6962507886618,
+    "Momentum_10": 4.901192552806042,
+    "MACD": 0.5075292471962243,
+    "BB_Percent": 0.8342803283386279,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9278408556349724,
+    "ValueScore": 0.9234004308987106,
     "QualityScore": 0.483407338339254,
-    "SignalScore": 0.3836925403774006
+    "SignalScore": 0.399292683536418
   },
-  "volatility": 0.0226241879840728,
+  "volatility": 0.0227679646603216,
   "beta": 0.667,
-  "return_6m": 0.0966587391677669,
+  "return_6m": 0.1327593476064801,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 6,
     "target_mean_price": 14.91667
   },
+  "news_sentiment": {
+    "summary": "Patria Investments (PAX) a récemment atteint un nouveau sommet annuel, suscitant des interrogations sur son potentiel d'achat. L'entreprise a étendu son accord de distribution avec Greenlane, renforçant ainsi sa présence sur le marché. De plus, ses résultats financiers devraient croître, et elle a enregistré une collecte de fonds record au premier trimestre 2025. Ces signaux positifs pourraient attirer l'attention des investisseurs, notamment avec un intérêt croissant pour les investissements en Amérique latine.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Patria Investments (NYSE:PAX) Sets New 12-Month High - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjVzdHhkNW5VQmRXNmFCamNHc3hhanBiVkU2dnczbGE1ZHpaMWNrbHRSRURTRUo4Z29WZVRJMW1tOVJmRDRpZzZsNzhmTHVMTVhjck1nSml2M2ctZ29EcUxQbnVmcHlnaW44RnFaWDFodGtld3ZWeU42RW95cXd0bl9paks3OUdUaWVJQnpMTHVESXdyX1VlbVZROFdEd0RYXzhBYXoxZXZsUkJXR25kNkdoWkhEUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PAX stock touches 52-week high at $13.35 amid market fluctuations - Investing.com Australia",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXFkZVFlZHdyYmVEbkZsTVJSd2dHMFJwSUVSLUthN3hqa2VIZWxEdi1fQkxpQ1ZlclRRR0dWOXRjTGZLQW1vaVRVX1lsSGt0LVZnc0JjRkdiel9PemV0SHZnQ0dEcjFhdVR3RTBFNUh3cEdBRG51YlgyUjdNNDQySUhibTFoZ3REVjdJYzJOd0gyVWdkY2xhQVg1b0xvTjdSRXpENTAtMlVrUkdrTlFBUEVYLURRYV9IV1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Greenlane (GNLN) Extends Distribution Deal with PAX | GNLN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMVBwV1J1UGNQajZId1RUaTFXYjEtTXo0dXpSc2RHWnI0dlhQNWs3Z1VjRGdPU3VmTGI3bUxUVy1nNmRjWDdleEZCcG95N2tQQUZMSkFJSEVHblQ0ODRQRUNXSmxHQXZJLTlsQnkxRnNERGRTTnVNWFdHcU5LZDdhNndHdUpwSnI5LVVmdlJHWEs1bmx1bG0ydmVMYVFmZGRDVmhzQnJ3bEI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Investors Undervaluing Patria Investments Limited (PAX) Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3Z2UjhybGMwVGVsQk8wejNJRjNQamxkVzc2X0VIQ3FxYVJlZ0lIUWdDaDdRVGRrZnlQVk0zTF9LZ1pUZlhFWm5yZi1Mc0ZyTnRfdjU5eUcxVkc0V256dTVTelpPOWdCaHdKVVRaOG9ac0JLTXhxcnR4TzRPbmFHNElmWTVvZHdSdlVQVC1LM3RuX1A3SkF6RElIWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Patria Investments Limited (NYSE:PAX) Shares Sold by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVlpzSW1SbHRpZWN2dmhPejVBdkZ2SzNJUk1JZHZTZ094MkwxWm5lOFQ3amhVV2RZZlR1ZkRURkN3X1hUbnV1cWdGVGZaZWdWMmZoYU1SLVNFYnlLUjFJWlhmaDFIRFlFNkh2eWxFVDlSc0VLbkRWdkwyODR0LU1NcHZqbjZ5UHg4c2hMQXEzUDFuS2dhcG01Qm90YjJGREdEV1g4MndqTnZELTY3d0FvMVZWTnRGSjhWM3paSzFzRnRFZXJoOExFd0F1Yk1aWXppQklNb0c5ckk3ME4zOFpZeGhmTFY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Patria Investments (PAX) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUF2RWw4cVFyNDB5YzBCX2tvMENfbzJocUNxSWdfMHcxRG1ZU0t4bDdyVEZ6SjZENGl6VnhkcmdYWjlFY09FUjVlREV3cWZQeW1MQVc0N3FCTmpZTy15UHpMMUpFM294bXd6b01zRWdmTGk5WnhkVDk0dEFBMVA1ZTRwRmNpYWhWbkRrMUMyS0hlN245bEhZN3QzcXJwMFlFRm5NX3U4WTZSRm93LUJOZHdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Patria Investments: A Taste Of Latin America In Your Portfolio, With Sizzling Profit Margins - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWVfS3Z6R09qamdiRXBpLWM1UE1XVHVucndHVDhNSXZLRjVER3hibmN0NjJYUmlFUzNibzZFRnFMdzFxeTUyV3g2NmRhaWhZREtabXBJQUduMThwLXBoSzVKWkh1LW5rdWtyYXBfSzBncFN5S3dWdlRlbVh3OU5FYW1tb01FdlhkUy1PQWZ2aF9wbjh2SDNVS2NfZmdpZU50bE8zMHhOMFJZOG9HS2pmR0RzRDZrUkVuWkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Long Term Trading Analysis for (PAX) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdVlKNldZLWYxaUJzU3NaX3pUVmhlY3BRVFJjdzZoXzRpMjlJdm54WVExXy1Gakxxc0xHTnJvRTkyVWlaNngwSFo1NEVleHBlSjdaNHI2TUNldWxjblZoYmx4QjRFTUhaWmIwd2NKN3dQeUxmVmVpam9hNVh4VUN1dmFfcGQ4cy0wSFFxVHA5d2JiRGJFaUcwdHhQVHRpMFlMRmlJdy1fUUF0VTdPLVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Patria Investments Achieves Record Fundraising in Q1 2025 - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGhPTktGUmRmQ1FaTXQ5cEtZR0tENzlYd0h2LWN6MGFSU1pFdmQ3YUdlWEFSTmdDeEtzSkl4WDd1cU9kUHphNnh2cXgycVNyX1dNLTJNTGNBbGx3c3RNeFlOWmtudTJzZFEwSE5RcEtvNjJ2R3FnQVdtdVpYclRGWjM0OE13S0h2WmdJc0ZURVJBTXdCUjBaUk9Fb04zQW45QVgycGdNbm94UFRHRGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Patria Investments Limited (NASDAQ:PAX) Not Flying Under The Radar - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbGFTblA2YXh0cm4tSkx5SHZPT0ZzZEtpcmxEVldkQTRraUtoczg5TXFWa3lwbWVfZndJekREaUU4WFY5VGZtWldiTFQyaUVid19DTUcxVm02UW5vZG92akdYTkZoMU1sd3ZldHZjakdZMUhOaTVlUkRXWDJGVGRYTEx5Q2JxRmlIdVVsVk9EUWgzNUdHMk1QLXMyS3pvanZ4QmU5S1FBV2o0Z200cFV3RzFmM0xEbndvZlBEVUlhOXB2RmtjY1VUOUN4OW5xb3M4emRVU0ZnS2V3NW5lTTNFS0VEd1TSAeoBQVVfeXFMUE41cWxjdUhpWmJzQlZTbTY1Vk5mMldpRWwxOG9FQUU5b3NpdFZPUEN4eDNyczR0cnNUcGZBcjhyMHdTMldGS1o2SXkyNl9Pd2xrckc4YnR6c0dicXAwem44NngxalFIRHV3MjlmaEJSX24xVXZydzdTNU5BNWdKNi0tS0FfSXdnWEMyU01sVEY5d3FpUHZJdFpjMjY3SlJlcDAtUGtMS0J1aFg4Unc2NDk5Y1ppZXlrd1MwMW15NWJBd05JYUc1RUtGOHJqdlRpdHJWd3Z5YkFTcENyVHZISXk0NXlDNGZCckVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Greenlane and PAX Renew Distribution Agreement | GNLN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa3VxSGQ2S2NvUzFDZ2dBZzZsNlV5RWpja2NhWkZOMDFTbzZua01zYUtacW5zM2ZvSkdIblpJTS1YU1pLTFhpa3VvbERXcG14dzdXR0N1Nl9ad0dnUmlQcnJTSDB6eWxYVUJGTDYyZ3kxT0xDZzg2ZlptY050UFhtYUdlRWJLS0luOEVOTXhjTEdHNnZFUDNqSnkwUkdoYWxSZzRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jane Street Group LLC Sells 136,875 Shares of Patria Investments Limited (NYSE:PAX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHo1SjFzcFFfZjBhS2RHTlhnVHgyYWlmcEFZWWZPWGUzdENXQ1hmb0RNdXVlWXNmUUgwZEl0RjRqd0JnV2EyY3pTa0xNeEVSaGE3N1FGbGlxX3NDSTNtUzFSaU9UZ29GaUhVSjlXLW9BdU5lbDRscVdDbEdFQWRCLWVpZDRycnM3ZDlQUUFiLXkyODVybFZUdlBKYlhoakNFTGY1cUVMTjFnaUNlZmlCV19xTlFUTlZMNlNZR1ZWbW1lXzVQTzFOM0lFbnBHeXJXZERaU2xkYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons Why Growth Investors Shouldn't Overlook Patria Investments (PAX) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREt0clFOcUNzUmJoaENEeTVkcjVzT1FlT1YwdkRtVHRPWFFnbWtJTGdiZGVJUnJiZTNDLTdnYUZYS0RhbF9pSVdmWVdjU1RYLWRzc014bFctMi1hWEcyTE9aampqUzJlY1NxaU11NGlMUXhxWlcyLWlOdnAzRlotTGgtYlJTcXhYc0ZZMC0yckJTbkI5a25QRnJxd1NlbWx1cnlvZVpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Patria Investments: Rising Interest From Global Investors In Latam (Rating Upgrade) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFJ3OEtMaEN6cnlhMk9iYnE1LTloeF9TTWxGSHBhTkVnSFdIRVI2alVRbEZITUk2MFowUTRPRlpfTnRIWTUyN0J2d3FwUUZYZ2xWLXpUb25OczVLb3Y1ck9xR3RrOGFOck1UVDFLRGFBdlNXcGpVZWVnS1ZpdEFIbVdtTmNNZ0hLb3hpOXZmREZfYVFnaTBwSG0zQ0FZOXBralNyR3hIakl3SldRQXdDbV85SkVjMDc2WXBOdXlR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Don't Overlook These Top Dividend Stocks Under $20: KT, PAX, NUS - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGEwX1ltVDl2N0JTa3RNSFVwbUtES1NHR0NGSVM0STJRVTVLVVZCWFNUaHhHYjNIMTQ4eHdDb1R5RGRkazFVTjlqVnBTdWhkbWxSZFpTeURUUWlOM0VZX0NDNHptbmpSV2RTS0ozY1hIaEpPTXBFT3p2eDJGQzR0MThreFlGUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "My Biggest Investment For 2025: Patria Investments (NASDAQ:PAX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3I2SzhWN2dJb3czbVVPVlJPdTZyR1g0RDRtQ2hBX1dELTZ1VU1kaVhOcERPV04zYTBYaW9MMEJzTGtsUUNLb3AtSU9YMmlIc0o5aWhxcVNFMXhOVGpuZHotdHY1STVNMVB2a0lmOE9SVmRMM3JMWDZsdlFiQzhiang0V0ZIMVdQTUsweExaOHdXT0dv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tidal Investments LLC Takes $425,000 Position in Patria Investments Limited (NYSE:PAX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNajRrRTlRSkszRXcwRTNKUjdzUmpZUlFjSjJKZ180cDdVN2JUbWljN2UwVHJZVzROcUZfZ3hEMkRNdF9lY18wdnVnSFF5UU9pZFlqTTgxWWh0M3hxa21CRTA0cGhsUGlyX1Q4dmtiUGNLUGJxSW81ZDFNZVIzUjU5Rk9UR25haEVUaG1NcXM0UjNIVWVsMUlSYVdZMWxKMzF6dmJfSnB0SVBEWTE2YTRsWnN5M3FZbXhBVElybVptQ1M4N0hMNWJlSjFXTkg1NVJGN0c5dzZ3dXJQcEZpZEpsd0tR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Patria Investments: The Alternatives King Of Latin America (NASDAQ:PAX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc1VGUTdmbVZxQXd5UFZDRkVKZVBHRjZzX3RlWGhraEl1S2VSTGFwRW0waDVZRUhwZGl1ekYxU2tRbjdMZy1UVHdhRUdzQVkyM2VsMUhESS1qX0JaejRLbGp3NnFTNmVuLXl2NmdiVlh1VzJ4bmk4RmFHMGNVRHgweERlanpVYmhiekc3amVMbHlvWk04WUUtZHJoM1B3WkdrR1dUaDQ2dEhsZG9CTnltVEFMa3ltRmlh?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nuveen Asset Management LLC Boosts Stock Holdings in Patria Investments Limited (NYSE:PAX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNM0w4T0VkT2JzTDVGZFpndTFmODh0Sjk1WnNOUkRJVXlBekFVeUJZRFJ3NmdXRnB3OVpBazdGdGhFTzNXSUVYdDlnRUxNTjNCVXIzekRMSDZ6XzdaREx3bXlSeE9oOGdNUGdiNG9UUVhBM3QzaHQ2cFlVZndYcTFaLUdFMjNWZGJudXJBSmFPZ2h6VlhwVFBXRE8wSVJuUXpQU1lWS1RRVDlCVVE1LXVfMXZuRFFpU3ZFaXhiUDhfOUJPeEhjakFmOVFBdi16cGVENTBVZG9DMXJuUXlnV2Etd0J3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Formidable Asset Management LLC Acquires Shares of 36,534 Patria Investments Limited (NYSE:PAX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2laVnI5VzZ4WmJENUNjX0FhQlVKSDdJcEU0SFlEZ2hfTHlyOEFrWTktWjF2WnpEeDdLRGVjRkh3NXh6UTk2MGZOT2pwT0poSVJZY25YZzFJbmV0a1NycHJJZkhpVW12c2JNVEhMYm1rdG1IYVA2OGJnQVBoSUtnam5ZVC0yeE5qOUloOGN4YWd4RFd1WW80ZThBQzc1VzZVZFkwTmpzWEpNNmY5b004dzM5X3pXSWNfR19xeXR1YzRlOUx5amgyZ2VqLWZ6cnp5ZUZHazd2bXUycXVhSlE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 11.98
-      },
-      {
-        "date": "2024-12-03",
-        "price": 12.01
-      },
-      {
-        "date": "2024-12-04",
-        "price": 12.17
-      },
-      {
-        "date": "2024-12-05",
-        "price": 12.26
-      },
       {
         "date": "2024-12-06",
         "price": 12.01
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 12.82
+        "price": 12.77
+      },
+      {
+        "date": "2025-06-03",
+        "price": 12.73
+      },
+      {
+        "date": "2025-06-04",
+        "price": 12.89
+      },
+      {
+        "date": "2025-06-05",
+        "price": 13.27
       }
     ],
     "current_price_data": {
-      "price": 12.82,
-      "change": 0.08,
-      "percent_change": 0.63
+      "price": 13.27,
+      "change": 0.38,
+      "percent_change": 2.95
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres de nouvelles pr\u00e9sent\u00e9s concernent Patria Investments Limited (PAX), un groupe d'investissements et de gestion d'actifs, bas\u00e9 \u00e0 Toronto, au Canada.\n\nLes tendances cl\u00e9s qui se d\u00e9gagent de ces nouvelles sont :\n\n1. Les investissements: Patria est un groupe d'investissements de grande taille, avec des investissements significatifs dans plusieurs entreprises cot\u00e9es. Les titres de nouvelles mentionnent notamment Jane Street Group LLC, qui a un positionnement stock de 511,000 dans Patria, et Millennium Management LLC, qui a acquis 195,616 actions de Patria",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

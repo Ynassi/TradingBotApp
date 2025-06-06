@@ -2,55 +2,163 @@
   "ticker": "LHX",
   "name": "L3Harris",
   "sector": "Industrials",
-  "market_cap": 45347491840.0,
+  "market_cap": 45274578944.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 28.774614,
-    "PB": 2.3785803,
-    "EV_Revenue": 2.702,
+    "PE": 28.72835,
+    "PB": 2.3747559,
+    "EV_Revenue": 2.684,
     "ROE": 0.085209996,
     "ProfitMargin": 0.07554,
     "GrossMargin": 0.2601,
-    "DividendYield": 1.96
+    "DividendYield": 1.98,
+    "DebtEquity": 64.046,
+    "CurrentRatio": 1.02,
+    "QuickRatio": 0.787,
+    "FreeCashFlow": 3564999936,
+    "OperatingCashFlow": 2620999936,
+    "FCF_Margin": 0.16779629513063543,
+    "ROA": 0.04059,
+    "PEG": null,
+    "EV_EBITDA": 14.377,
+    "BuybackYield": null,
+    "PriceToFCF": 12.693450227315797
   },
   "technical_indicators": {
-    "RSI_14": 69.90476925029036,
-    "Momentum_10": 5.4387508420670905,
-    "MACD": 7.329267504537626,
-    "BB_Percent": 0.7977769039298063,
+    "RSI_14": 70.01593141885189,
+    "Momentum_10": 4.751877877025352,
+    "MACD": 6.9544495329781455,
+    "BB_Percent": 0.7364194413116298,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.890202364186327,
+    "ValueScore": 0.8873724316039501,
     "QualityScore": 0.3552764008470767,
-    "SignalScore": 0.480150777154498
+    "SignalScore": 0.4634659953579875
   },
-  "volatility": 0.0151629507648824,
+  "volatility": 0.0150950051853407,
   "beta": 0.752,
-  "return_6m": 0.0044467920961364,
+  "return_6m": 0.0276111062875601,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
-    "target_mean_price": 258.38864
+    "target_mean_price": 259.525
   },
+  "news_sentiment": {
+    "summary": "L3Harris Technologies (LHX) a récemment été au cœur de multiples annonces positives, notamment avec Goldman Sachs qui a relevé sa recommandation, et TD Cowen augmentant son objectif de prix tout en maintenant un avis d'achat. Les investisseurs ont également salué la participation d'ARK Investment et d'Appaloosa LP dans la société. Malgré des revenus en baisse au premier trimestre, L3Harris a affiché une croissance solide de son BPA, renforçant sa position parmi les meilleurs titres de défense à grande capitalisation à acheter actuellement. La société continue d'innover, avec un investissement de 125 millions de dollars dans une installation de défense antimissile, démontrant son engagement envers les technologies spatiales et de défense.",
+    "sentiment_score": 0.4,
+    "label": "POSITIVE",
+    "positive_ratio": 0.5,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "LHX Stock: Bullish Banks, Big Bets on Space - Security Clearance Jobs",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON0lYbjVKR0x3VV9ndHZRS0ptWndhQmVUU0plSXBaRC1TMDdSWkc1VDlDYzdINlRFTUNqNUJHMUVlVE5uSU55OWF1WGQzNTVGT29ISWY4SWhUNjhsdmh1aVFUUVhkQmJTdjNuMzB0RzFQYUNlOS1QZmNGQ3VUbHdyN1JZdlVlcVhtQTYwNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ARK Investment Acquires Shares in L3Harris Technologies (LHX) | LHX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXFmcHc2dmJ4STVldlB4YXByc1Z0b2V1akphUC13QmhEVVVPcm94WlhkWXpPd0FnZTk3LS1lckV0V2gzOGdLNzRsT3pUdEthQ3NaWF80dWVIRjRFWjJmVUVnR2FFZWhKbFZZOGI2dDBPMkoxTW9NOE5Wd2JxTFNCemVwRUJ6RmRwSWstaHQ3RnNxcVlBajAwNGptY3hGZHM3MzluaEVXNktuQVA2LTRyZVBrWkM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen Lifts L3Harris (LHX) Price Target, Keeps Buy Rating - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXU2Z1ZES0pEczU2MU1PYmx3cFJpbnAybmYtUzVOZXQxaVFzT2RZSGlSM09vZV9yZ1VYc19ENEY4SXBLODRJSGVYQjRmTElMZ19ubFNxenJHZWtKZWxic2lWNzNPRUxoSW96eEtrRTc1ak9CUVBxNzQtVEdlVDA1bmpRQ1pPT3MtUXUwRmx0dW1DUHdmYWdfaVI0QVdjTWlpV2xzT0JHZ1g1aE8tYVhJenhhUWFFMzRxRmE4WQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Defense Stocks That Will Profit From a Golden Dome - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTJZVS1aTFc5bF9zZzJHM256ZU1UNk5wRy10d2FaTmJLMEtLZWlwYVBacmh6SHRRTEJtTDhlN1YwOUlSOWpEWFJlNGJ1U3Q3VXJObTRWX1pZSTM3UzNiZlhHZ2FsV0F2SFBBYllRWTVnUjN5ZmlnUnh5MlhpRW44VWtXZmtObllFbkNyZk9TUGtBRXZwbDdV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "L3Harris Supercharges Missile Defense: $125M Facility to Build 48 Space Payloads Yearly - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1ZMMVJaY2VDMHdMaVh4aUo4bFJJV3lWQlB5TWZDSTJOMU1zRTZsaDBJV2JtSEM4UDlIY2dhcThETE1Na1l5XzZpaVhqMk1jTVEtMTBzZkNGRUhFQ0pBTUtxOTlZLU1ZOExnel9XWWo0dTlVeF8zNC0xXzFYSWw4WnByTGZXd2hVVW1scUs5am1IU3ptaFR4VkQtbGlRVDdUX1ZBYl9xQjJ4ZE0wSjNxWGlodWZEZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "L3Harris Technologies Stock: Is LHX Underperforming the Industrials Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHVkNWJFWmxMaXlPZDZNR2VfeEFWdmJtU0FUMU1yQXJyaVBNa1B4NHg5Vm9CVm5lZ216WkdHekR5cy1XVnBQb0xlX043MURCcHdOVXpPRHhkU2F0bUY3VEg0YXZlV1BfRUd4VjF5MFdkZ3JBNjZEVFF2OVdXa0ZNaDdkLTJTRmZMem1GcV9aLWM5LWM0REcwYTU3ZFF1OU0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "L3Harris Technologies (LHX) Receives a Rating Update from a Top Analyst - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSTAtTkEydU4xWXNnUUJrenlZRl9hSWs3WkJFV19lNWk1SmsxVFlaVFlwRWdla0xzaVNzdm05VklsVGt2Wk4yMTFVR1JOQ2xQcmktOFV3VlhxQWJjekhDcEl1NUNtbWh2S29hS1liVjY2YWN1bzFaVFBsLXpiSVlheTgwY210YkgxMEdSckdodU53WjU2WENHUllhcGp0ZkNyZjhnVWJ4M1ZILXpyTmFVLTdqMlVpUDVHYzA1NTJJbHVfa1RRNXB3bzhjcjBJYU1XSDNTeTdsbWIyMEQ2UVI1Z1pzSnpjLTZFRXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "L3Harris Stock Moves Higher After Being Named In 'Golden Dome' Missile Defense System - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLU83RGxrbC1BaThRdkNwRnotR1VKak9FXzdVMlU0VjQzSno0cE10MV9RT0tJXzJ4VkJUMC01amVwekhaYVVmZDE3Z1cwX2E4WmM0Zm42XzA0WVMwUTJBakRFWkp4M3kzSkQ1Y2g3YlY4RktiMnB3WmhaMmwwTnpsZjV3QW84cWRtcmRGeTFVcm5VZTVXVWJicEZYcTVxOXVKVVlEeEZMcDdndGdkSWx4ZEp4ZDVJWVFwYTVGQW9GWDRmdlpla2hJYjNhTjlZeE01NnBr?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "L3Harris Technologies (LHX): Among the Best Large Cap Defense Stocks to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXFUa0E2QmZ0NXpBVGlUVnVmaElHcFY0YW84V3dYdl9wTVdNanJidUppa19iWlhpLXNNRzBSNDlZbmI2UDZZM0VvYTlVQ3UzTGdBdXhUcFRFb3ZFVGRyMHVSZHZnd2phTG9RY3JnY3dqMDV5YkxXN0d1UWdUV2IyaE5iUUlwXzlrVUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "L3Harris Technologies: U.S. Aerospace Heavyweight Is An Attractive Buy Post-Earnings - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2VDOXZlNUNwRWNTQjlVS0l2NDJWMlNXVTJqak5adDZiQ2FraGNBQ3JWV2RicTFWQVNOeTBQZkFHN1JCa0hqSmkxdDdORWc5OWJLY3cxQzJaT3dMczhqVHMzMnMzcGdXSF9DenhyRzlOTG1DNFVUUWpnN09tVlpla0lMQmZVellldDJ0bWRuaGRCbnd2ZkdORHAtU1pRd1JzRVF3S3ExZm41OWNpa2dxTFRTUHJDVVk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "L3Harris Q1 Results Show Strong EPS Growth Despite Revenue Headwinds - Key Highlights From Latest Earnings - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjdKSU9vYy1SYkxRMGE2aDlIYnNnUVl6T2ZRSkNQbVdTV0NVYXNHZHQxYnBJTVRGX2R2UjBkdWRSWVFuQXFHcldRZ1BPQ1VhM2l2NDNGRUtYX3JxUzZjUENVNmFZeW10RFFWeG4zWENFRmE5bUVGU0RyNTVfQ2lNNF9wTWJZUmtLcWdyN3pDalZjaXhLR1liTGlGazlmckhiQVpHMWxwbVE1LXYtZ1VrM3dZZkVFQ2RDelE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fund Update: Appaloosa LP opened a $62.8M position in $LHX stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZW5GRDlGOVRVVmgtdlR1VU1FVTRQNkxCM09MUjZFZVJtcENXVFVMc1NuX3BxblJvOVAxM3hJV25WMUladk5DZEFTNWluN0NFc2hUekRXVDFpWDNYaUViREZMcmJPVm5yUkFYX0ljSnJwaUZjZTlHcUd4TjJNUFVxMVg2Z1JZbEd0c0ZjbWtPTlg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "L3Harris Technologies (NYSE:LHX) Reports US$5.1 Billion Sales With Higher Earnings Growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzBzRnZLSE9mTVVEUGtQUTQ3WUFzMkZlU3NhaU1KQTBnN1dOcEdkblVVZElMNnkycUg0OXN0cENFQmlzSWlxRHowU2I5c1hrQlViaEFxVlN2R0pZa2xaVGRacDVrRHk5MmIwWUVjaDhVZ0pKWUpVa0FOelFSUl8xbUluTkZfZlM0MzRPQg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LHX Stock Target Increased by TD Cowen Analyst | LHX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnVZMXBmT3BCSUpDTXhSaGRSX3pQWjVKSUZyVjJLcGcxdTlQQWlBdXdkcEtsbkJIVDZDSlUtOHRzeW1ZQUxrNnBhTU1RU1dPNkJVajFiVmZEUXdUdUw1R2VkcmkzMVdnZlhWOFZmQmdpSVZjQUtFRUhick5kcmN5UVpIZTRnWGJxbXg0ZmJMV25ZYnFjdS1zenkyZEFFUDRWelE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "L3Harris Defense Giant Maintains Strong $1.20 Dividend Payout: Key Payment Dates Released - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaUZub2FvYkxFQmQzc1pkRnBGby1GUHkta0VxRExOYTB2S1pkSjRYUTFjVklYVlRFQ2V3OTl2dC1MN1c4STVuczAxSktUQzMzNlFQTlRibVBtS2lZVG02ZHJhSzlVbEFzWFdOY2RhUlpYelY3SDdUdFlqdWpFbXRhR2dsNUVGZmg4T2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Goldman Sachs Upgrades L3Harris Technologies (LHX) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFA1RTlyamdFLXJUOFJlR3VfWG9EOHpjeENpTGtLTnROLU1EdVRBcTBEN1JtMjRoVmNpYmlaZEpjdHcwMDZNQnFTOW9oYXlFQnhOYW5vVVlzNkZJWURwNllWMExuLVZOdXRCRUhjcEIzUV83X2xRVk8zRzdyQ2t0emE2b2N5RXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why L3Harris (LHX) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KOXc3N1hndEtBZ2pMbGJSR1VGMUZKSVF5SWI5UnhlM213OGhxX0huMjFTX0dfdTFiYTZaTWlBYzFuU05BeWNaQ042VGdjWlhDbEYtTVBDTkZzWEp3dTRKam5Pb0VtMXl6RDlsUVBrRHBOelptQ1ZvY0ZXQTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "L3Harris CEO and CFO to Reveal Strategic Roadmap at Elite Investor Conferences in May - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEZ2RGRRdEd5MjBqOFhNUVduZ1ZydzE5ak1nWTBxNXRCOUYtMmstUW9NLWxFY0l5SVNMUkN1ZzVvRXVoTFhhcW5mVnp5VG1ER0dxOEVEQ1p0aHJub1RKeEdqZC1pSXdTV3hOOTRJcE9LaHUwdnU0TjFhdHFhYmRlRUZLVXVLXzVjNVF1UGlGUWh6RjJvMlBHRjR1VzZwVFRQZEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What to Expect From L3Harris Technologies’ Next Quarterly Earnings Report - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnNpeF85ZURZLUQ4UFF5czhFNzhBbmU3SEZXQXFjSTBlX3M2UXFvNGhReFZWVDZ5SHdCTnEyRl93S1FaWWEtbk1VLUcxQ0h6WVJZZ3M1aHlmbndtaWJaOVoxSjVpenJFTlljOHotSVk2X2VlRDkxVzdBVlZVdlA2NnNIamoxSEZGdWQ3RGJraUpWTU1scHRNVEhvOGdvYVFIVWI1dHNrR1ZXMXJZajhWQUFDUnptUzZjMS1QR3RncTlseDVrTk5TMHAyQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Poor Financial Prospects Dragging Down L3Harris Technologies, Inc. (NYSE:LHX Stock? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUnVJR3J2RmlLMXBsSGVmOVRDTlByVG5WMXNnZ3F4bmJkMzJLVnlSamdELW9GUHE5MGdtYkJmX1YwSzdycEtiRk5hT0QxWkxLSzdBY09kWmZfUzIxalZXY2lEck9POFA5UHlMRVdueC1fbkpZak12UVROU0JfT1Q3RllacV9qbVhTZW9OYW55dk5FRnI1QW50UDhTcjdKbVBGU2ExSVN0Z2lzLWY2Ymc0VW0tNGt0QW9oYVFYem5hNUtnVlppT3ExYUEzVWFiZUQ1SHFqYlo1RVRkd9IB3wFBVV95cUxPWGoyNE1vZzdXUnJRSDMzcm96RXNyZFRoNEVFckg0QlRIVkZsdmZOZHFDUjB4RkNySXBKbmpSaENZZGZvSXBpNjNiaTdReFFTOXJSN0NvdmxYSFdXX3pCdUJvZjEwVVliMzN2VkxmN1BseGx3YTlzc2V5OWRNNGItTmpxMFZkX1JvTFdvdGxBTWIzZDB6bzAzNS1aN25OeEk5NE0wUDFLd056ZEFFV1ktVDFJMW9qQTFtbk5rQnF6UUhmUDlDRXdpa3pKMi0zc3BrS3U0VlBHTkVoM0VYV0dB?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 242.82
-      },
-      {
-        "date": "2024-12-03",
-        "price": 239.86
-      },
-      {
-        "date": "2024-12-04",
-        "price": 240.48
-      },
-      {
-        "date": "2024-12-05",
-        "price": 238.14
-      },
       {
         "date": "2024-12-06",
         "price": 234.64
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 243.11
+        "price": 243.16
+      },
+      {
+        "date": "2025-06-03",
+        "price": 243.19
+      },
+      {
+        "date": "2025-06-04",
+        "price": 242.31
+      },
+      {
+        "date": "2025-06-05",
+        "price": 242.06
       }
     ],
     "current_price_data": {
-      "price": 243.11,
-      "change": -1.25,
-      "percent_change": -0.51
+      "price": 242.06,
+      "change": -0.33,
+      "percent_change": -0.14
     }
-  },
-  "news_sentiment": {
-    "summary": "L3Harris Technologies (LHX) is a defense stock with significant growth potential. The company has recently received a target price increase of $273 from Bernstein, indicating bullish sentiment among investors. LHX's upcoming US$1.20 dividend and the successful completion of a $125M facility to build 48 space payloads annually are also positive indicators. However, LHX has underperformed the industrials sector in the past year, and its stock price may be influenced by global economic trends. Overall, LHX appears to be a promising investment opportunity for those willing to take calculated risks.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

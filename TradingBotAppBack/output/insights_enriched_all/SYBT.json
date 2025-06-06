@@ -1,56 +1,164 @@
 {
   "ticker": "SYBT",
-  "name": "Stock Yards Bancorp, Inc.",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 2147693312.0,
+  "market_cap": 2167732224.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 17.603865,
-    "PB": 2.2016795,
-    "EV_Revenue": 6.447,
+    "PE": 17.768116,
+    "PB": 2.222222,
+    "EV_Revenue": 6.445,
     "ROE": 0.1318,
     "ProfitMargin": 0.34512,
     "GrossMargin": 0.0,
-    "DividendYield": 1.69
+    "DividendYield": 1.69,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 145235008,
+    "FCF_Margin": null,
+    "ROA": 0.01424,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 45.92579921062444,
-    "Momentum_10": -4.46979108819926,
-    "MACD": 0.331879012893026,
-    "BB_Percent": 0.1823201019772674,
+    "RSI_14": 49.29034797711286,
+    "Momentum_10": -0.5677288176285,
+    "MACD": 0.1918603448840059,
+    "BB_Percent": 0.2737438989491719,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9308393948855898,
+    "ValueScore": 0.9289022233553508,
     "QualityScore": 0.3993631082571949,
-    "SignalScore": 0.5296874371918543
+    "SignalScore": 0.5657651064404068
   },
-  "volatility": 0.019065120253412,
+  "volatility": 0.0191252534170522,
   "beta": 0.723,
-  "return_6m": -0.0429077687315019,
+  "return_6m": -0.0466394076099122,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 78.8
   },
+  "news_sentiment": {
+    "summary": "Stock Yards Bancorp, Inc. (NASDAQ:SYBT) maintient son dividende trimestriel à 0,31 $ par action, démontrant une stabilité financière. Malgré des cessions d'actions par certains directeurs, les investisseurs institutionnels restent engagés avec une participation significative de 62%. Des acteurs majeurs tels que BNP Paribas réduisent leurs positions, tandis que d'autres comme Voloridge Investment Management prennent des positions. Les résultats du premier trimestre ont été positifs, mais la concurrence avec des acteurs comme Prosperity Bancshares nécessite une analyse approfondie pour les investisseurs.",
+    "sentiment_score": -0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "(SYBT) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDRXYU9sZU5TRGw1VEo3RUNCZUszSnFYejJVak56aXRXdE1NVGpOemJlU2JTSDVDc1ZhOWp0bGswUFV0alJlS3hseXZZaG9wcV9nZlhFZDhqMjhyTERWUTZQblAtb0YyNWdzMnduRUJVa2VMVVFqNS1fTkx4ejM3b0tIbm9YY09YV3FzN0lPQlRNd0hNQnA1d013YlFfejFw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Voloridge Investment Management LLC Takes Position in Stock Yards Bancorp, Inc. (NASDAQ:SYBT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ3hGZUJ5RjBnbE96QTItNTJGUk5WdHcxYnlxa0pkcS0xeVVqNHFDbm45aE9zeV92bjdzOXlPLVVSMlVzcXZGTXhKdGhJakdTVWllNVc2TlRLZEFtTzF1WnpXLWtxR19Yb0hWRThRX2RWOXh4YnBKTlFKdVNhbkVrQjA2M3d6T2c0VFh4eU9RZjNrOF9OTVk1bGFUX25DQ1dBSnRiVlhVOWRvNnJlWU1fN1lOZ05JYXZlT29LUDFNbVBoOFBCMWdzaVNLYVlXby0xNW1XZkE4UHUyUTBPTWJza3FsNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Regional Bank Stock Yards Declares $0.31 Dividend - Key Dates for Income Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRU5vUjRSUGtCeHlqNzVGb2txWFpTYmlGeWxXZ0xvZ3RKQ3Qyd0dJVnI0S1pzUE5pV1kzVEI2MVlKYTNnVjZhN016Z0h6VTlZVko5a3FjV25IY0lQQXNhbDBnZUo1Z0hKLVJJNk5pdDJGUHpkSjJsUVJxSERUNkpjRGJ6NHl2UlRMQ1lmUWR5c2J1N1poUmNQTXN0Y3V2Qk1yWGJxZGRnZ2V6cFFKZWZORXM0dERUNzVscUsw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "With 62% ownership in Stock Yards Bancorp, Inc. (NASDAQ:SYBT), institutional investors have a lot riding on the business - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjFIeDd2N0wyU1R4b0E0M1dHSV9nUHluS1o2UmVqX2R4aWVLY2VFQThSRlljRHNCaHZFWmFzSFhlMGQxWVZlNTdlcVppeDM2WUNLLXdYMWxHLTVpaHYyVHVRTVRQcTVPa0N0bkotRlNBVnp1c2kwTUlzSWJybUpucE9XR3pUR01xZ18xMmdtTHZONXltdkg0Vk5GVEZ4THczdUtQM0YwSWY4X1pPMnpRb2NqM08tZTl5aERtU3YyU1FiRlhRYndHRktsanYwTWVW0gHWAUFVX3lxTFBvN2tCNWhSYzZTLWVMT0EtRVR6Q0lNazY4UGV2am5EZHl3TjNEMVZ4Z0tQeEc0NnFFTHZ1TEpTWDdHRkJaXzd1SDZqQVV1blFFU3V0V1c0ZFlTeVpONGJEU2ZKSVJVMVpqUlNrZ1NleVRqUnRUVEwzRzNIWmJXeEw2ekZmMVZNb3hRLXFSZVktNzU5enVlV3pkRHJIN3lIdk9KaVFxZV85dER3MTY1dDQ4VXlNdjJYZTdpMzJvZzNDLUZzQnJNRW5nUGxBQTRxX0JNMk9vR0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas Financial Markets Decreases Stake in Stock Yards Bancorp, Inc. (NASDAQ:SYBT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLXhwaUhnaDJSSmZ2OHpwUHNRZnZyVVM5dDAxNjU0dEFRTnoyWTdMWXB0U29sUDRRVXpoQ1liX2xyR0xwM2UxYnFJZVNpdmNsZmd4UkRpUDBPMFJpc2hHczFxWUl5XzhUckE5Yy1EaWFXRnkta0ViRWlWM1d4OG40Vko0NVdFWXBjdEU5VnF4bXJJV2FIbWJCXzRfaXRKY3NzRGQwME1xdGRMRThaQWNpS2p2NDdFLW1PQjM2TmtJUWpZMVpVbnFOaFViWnFrY0hUREMwaWplTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Director Cashes In on Stock Yards Bancorp Shares! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb3FUTjdHSWpRQk1EUkNLWTBaN2ZHQS1oOUE1c0w0OUc5bjdwNThsb1NBMnQ4dFAwRjZrcEE4X1lqUElfTWQ5YmFraG5EOTN1dmZUNlo4cWJBY2lEeXkwVm5HX1JNalMzakhQNVFObGxZcjY0YlVsT2RBM1Z0SXBuRFhQOFVXNzExai1zcDFjR2d5VjdETldkVTRWUXRjVjRSN1RUOFMyOGE4RWxZaVNpdGpn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Yards Bancorp Keeps Quarterly Dividend at $0.31 a Share, Payable July 1 to Holders of Record June 16 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeTZPNHF1dVdRNnY3U0FhQmJQNW5ZbERyRThfcXRsVVY5OS04MXVhYnl6em0xZzRuVzZNd3ZGQXo5T1gxOU5zN3J3ZmMyRWR5dUNraGVLeUc3b1hXTWNnRGdFamJOSDF5Zk9NRW5mdm5nekp6QkFzVE00QzhtUENhNWd1dGZ1ZE9IXzZPRGFBeHA3dWRzYWlBV3B5cWZEWWRfN21IVnFTNGswc3VFWkFyTDhEM0FuWXNXaGtqNUpSbFliNGVlYWtGQmJSaTQyQ3FtU19Yc3pCSHpYNmp2THI1SzZSR3BfclNsQng5V0lMc1UtWGJfeVlBRVJHaEN5eGdoTlcwSUN2ZTZ2Z3Zzdm44TXBLSUNMY19q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Yards Bancorp Declares Quarterly Cash Dividend of $0.31 per Common Share - The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYjZELUlhTlUycEptaEFhWUU4Y1FiVmItRm9jNG9QOTVJUFl0U2JSN290NlpzTDlxRWFFVnFPZFNsYTlnRWdNLWU5bEdxZUpxTkpLT0U0cFlmbmQyaEkzYWt3M2Q1V3J4YkJFSEF1STU1djBMb2o3UUY0ZzNNc1psdDFoNVVKNnpHWjB3aWdtbEpoQ3BPTXRFS3RVTWpnZmdLRG4xd3RibU5LTFI3UXVCYUNpVG1GcFdNZk9OZTlWLTRlNURPR3dsVVBvX2M3aHNscGp4QXRLWDRuVzdIeXdtTGJnN3bSAeoBQVVfeXFMTUVQV3lmbVVqUlFIRzFfMG0xdHdOWGxLZzZXWEY2NTVYNmpodDhwUzdQemhFa1FVbmRvQ3dyRmU5Vk8zZjRSZGZiZjRBNmw4MWFSQkNlMEZZcDZkN092TzRUOE5JVUgxLVRkR2ZJYmY4OERQNk1fX1paLVBzek9VZkRYclhJaE5kZGd3dEZKN0o1QThYOVhCTTJjM09YQy1VcjJMdlpwVkNTVnJzTmd2STd6RFZrLTR6Q2ZqenBkM2JlaXkwdURNa0I1TGFmd0xHU2VKb0tsa2xPblE3N2JVWFN6OElBN3drc05n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pinnacle Finl Partners Trying To Close In On Key Technical Measure - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXNpUTdFTUYyU0xDdGhFdXVfODNfMkVDRUxQYTBaaDBvTnJaTXhRbno5bGJmT01hQi0wVDYxV2JCZUh6R1JOU2NUVVF2Q2lWR21IMGk3UTFTZjhpQnFqUmFTUU53NzJyVG4wM2dEc2xBWkx6SE5XNjhqY2REdVhHQWx3WGE5eE5rSHhzQmxqOWtQbEdzY1VtNDBJeFRreWxyQWplczBsWERZU2ZlcXhr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Yards Bancorp, Inc. (NASDAQ:SYBT) Looks Interesting, And It's About To Pay A Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVlBVbXlHRk1COENFT3VHQjVxTHRnUmpvNTJKM0VzTmo2bWotU19rOTZ6MFRNT05TS3FEOUJhSWtwT3lXeWJfal9KaEM0dGFrZzhyb2dWdkRiMkE1QWM4andXWVNHY21RTFhiMGhMYkFFU2pGTGJoamtZMjVvTVVaMERjd1JUUzdSd05VcnVLd0p3WkpJSkxxZ1I3dWNiRXVJb3g4Z2JoS3c2TDdfMVMzSnBsX1Z0blk1M29xN3BONDNoSW9yZUpfRkp4LTZXUVhZ0gHWAUFVX3lxTE43MzNyWEp1NWQxZk1xRFlKNC1UaXRUSmlVNXFzS2R2OHg3LWM4UG90a1hNRDlKOXpKNjlIR2ZBaGhKSFBGaml3SnJqQkpvQ0FRNkp6cktTUFpZSUxsbXp0WjVGcHBxSFBhVnVEclJCdG1OZ0FIUFFzbDQ3YnRVZzV2X1ZVVm91dlRlbmlZbm85Y29YZkltdnl1eE84QjFibkVhNDBzSEVSeFVPM3A1b0VTQTdqSVFMTjBpLVJSajRwTzNZMHJHWi1temtlZWNxbXdFRDItY3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When (SYBT) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkhRcHd0Rjd5R0NaS1o4SXRjSG5Bd2RDWmtOX3h3Z3VlTk92NWdWYjJfZElVU2l4QlM2RVE4dXNIQW1jeW1PSkZxOTBKMHVUX3g1WnZaY3E1Z2FJU28xVHV5U1lHOGJQZ0p3RzVsVzM2dVFHN0MzVlRyc2ZRNWxvVlZlM0dPcllpc1ltWFluNmtlekFCNHMxMmdGcEN3aGpUYjc0NXBKRFd1ZGlzTUxvQ2U3cGg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Veritex Holdings (VBTX) Q1 Earnings Beat Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaVJtOHh6UEEwZ2FmaXYwY3hiMk1lMms5NXNXcTVPdmRfeUx3MWtpRDU2bzZoTkh0OHJuZDQ3bFBfMk9wQnRrUVFSMXJFcER6MW84R0U4QV93d1hQX0dkQWhoNFlzS0ZSakdZVG9DVHVsM0RkRFBsR3o4bjBiU3VXdGpPWHFWcDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2025 Might Be Great for Banks: 3 Stocks to Invest in Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NRV9FMGJpZm5PWG40MnZwcGUzRnNzQmhJNlMzNWVWS1BHeG4xLXYzV0lwc19feGVrMjNUSG1mOWNCSTEwS1k4SnZKMzM0aUc2QlZoODNSNE1xVnloR1RlLS1CaXFUbXZNU3J5SjBOeXJZT2NOa3R0dTZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of America Corp DE Decreases Position in Stock Yards Bancorp, Inc. (NASDAQ:SYBT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYnRRUUpEaHkzdG9RZURjMi1ySFRSSVIweXNOZEVPOTFUc09WZjdQRmdIN3l6c1RHUVZRVUpvZ1hlN1BaQl9XU0VKTms4eVhYUEdVSkoyek5nY3hETzl3UW43bGVzbkx0NW1uYVc3VHVOR044UE1NMkRfb2ZkQXFnZjRSUDZweDVJVjhURU5VdlplMGlfQ0N2WG5LRVNac0VabzA5bUpwa0I0VHotd1BKMXgtYlJiMTNGTE80UlhtRzRncFBhZ3ZRZC1ZeTZVVXhNRjZETlFCZ3JRY0JQekE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kayne Anderson Rudnick Investment Management LLC Lowers Stock Position in Stock Yards Bancorp, Inc. (NASDAQ:SYBT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaTV4S3lpVEdxVHp3ejRQZnktTjJsejJmRlNJY2pqaFRFc3M3UXQxZ0JFNVl0STczLUFyejFPOWdzd2hXSHFpS2cxNW1aeExLd0tTUDhBMnJrRWpaVEdTY3A0OFg1aUFyRmJ2MGNGT3J4Vk5Qc1lEOF8zRC05VDhTSFVnMHllNkRKRXpMS0FaLU11WHE5eklDVUJOck96Q04wUEdoMF9URWlMb3IxbVZWdWhYdXZuNU5LSWFuRVFfbWJ4Q2h3ajRhdXJUMDBvdzRTSzRmS2UwZGJHTU1DUXpMQUZiS0o3VkNFeC1VZjJJVXk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock Yards Bancorp Inc reports results for the quarter ended March 31 - Earnings Summary - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdjN4emtLSmRPOFp6d3BKZzNBenlUSlowNHJWZ0F6bGtuNGs3dUtsTWVIeEM0SkxhVkhhZ1pzdWVrM3lCMHRhakZIVFktazViWERHc3BBTGFQX2VoRkU1X0UzdERNQUFpYnVMRG1wU1pkYUg3Y2xoS3k3ZDZ3aWh4aFVXZFVJdEwzeHM5bXFhcUFkNlZYWlJZdHc1VkJHLU41MGowOTRnbXJManBBSllCTFdwWDBhd1ZEY0wtUVdUYW03TmxlVDRyZEZZSkxLd3NESGZ2VkQ3ckczcUI5NVpISFVQZmxPZ3RIV1o4c0JB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Yards Bancorp Names Allison J. Donovan to the Boards - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQl93LTJNYzRLUmhzZjR3QTBmd3IwRnZMRHhkVGozYUJSTVJ0cHNLSjJoSVBOX2tfeXRyTmRreExwWnlVTGxKQ0hQWWxFaW5WTDUzYWp5RTN0OGtpN2p4SmhtVElHX3ZyT2NiMmdWZVJzNmRkcnF3S2pHRHFBMUlEWG5fU2JlbVJsZEFtTi1nUUh3S2JKanFGVVpXUjRTal9HSlZYVlRaWHhIM01CaklYZXVRVTZXWkNydUhPVXdaX2dVN2FEUFJhaTFoeTd0Z09XUXZXMnlQeDdTdjFlYnVyVzVKZEdjT2NESlFtODI3bi1ycHZKU2JuUHpNdVFwZWlHRmZVNDVhLTV1dVRMQ3dwSTdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Yards Bancorp (NASDAQ:SYBT) and Prosperity Bancshares (NYSE:PB) Financial Contrast - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEs4Yld1cGRkSUFESVVOcnJCZHVEeENXbHloVFk4N01VS1NyVVdYYW5lZkQ3ZUNYaXZudTFfeE5MenpONjFEaTlmWXRrNncxOWpId1VUaHRQNkkxMHRINFktVHZ0UFBQMVIyWTB3NG1EeTVTWm9naXRMb2xJSjBZTkJWVXB6WEsxNnl1U1lqdTZVMDNUX1JENkxCRmhxZS03NGJPN2ZsaHhGTF9EdFUzeGtPZy15ZWRVQWJsY2ltNllLWXVPTEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Yards Bancorp, Inc. (NASDAQ:SYBT) Shares Sold by BNP Paribas Financial Markets - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZGMyZHlYX3hSazVnTXk1cndhaUtBR1JwMklhenlveGRUM2dzSUNNTVFyd2k1Y25JN0pFeGVqT3VtSHFlLXZXRGlkcE8tMWtKTkJsdHFKUk9MWGlqMHNTaHBtb01zRUFOZjRGZ09uS0VzdGx1THRLNjVFZEd5NWxLekZ2V21fQUZEWll3eGc1NHVsY1pHdzV4aTBTSERITVNqRHMtU2RFVkZPcENZMWtCUHdsNWZTa1NfWHExdi1BY2szZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of America Corp DE Has $11.12 Million Stake in Stock Yards Bancorp, Inc. (NASDAQ:SYBT) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeDlvNFplOTNyYzR6bDNUR1dEOTdWV3F0bTlEcS1RejNsSllyQTE3M0VDb2l6cWVFWC1HMnJiUk9MNnVIQ1hGZXRqbXcxS3dqN0QwV25lTFJrTzJMbk4tMmRyQ1NBMzBvN1I2QlNDVVNfZnFtSG1aa1RsVHBqeDloSXpjbXRQQnBCUVkxdU5NMjZqZmhhdlRvamFEbUEtUHdiQktCVzk4QnFVYmk3c09uaGVrUVdKSnM0UnNHUnZDdlRUUk94WnVfQVhn?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 76.8
-      },
-      {
-        "date": "2024-12-03",
-        "price": 77.39
-      },
-      {
-        "date": "2024-12-04",
-        "price": 78.62
-      },
-      {
-        "date": "2024-12-05",
-        "price": 78.59
-      },
       {
         "date": "2024-12-06",
         "price": 77.82
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 72.78
+        "price": 72.89
+      },
+      {
+        "date": "2025-06-03",
+        "price": 74.09
+      },
+      {
+        "date": "2025-06-04",
+        "price": 73.54
+      },
+      {
+        "date": "2025-06-05",
+        "price": 73.56
       }
     ],
     "current_price_data": {
-      "price": 72.78,
-      "change": -0.78,
-      "percent_change": -1.06
+      "price": 73.56,
+      "change": 0.02,
+      "percent_change": 0.03
     }
-  },
-  "news_sentiment": {
-    "summary": "R\u00e9sum\u00e9:\n\nStock Yards Bancorp, Inc. (SYBT) a r\u00e9cemment attir\u00e9 l'attention des investisseurs francophones gr\u00e2ce \u00e0 plusieurs \u00e9pisodes d'actualit\u00e9s r\u00e9cents. Les investisseurs ont \u00e9t\u00e9 attir\u00e9s par la pr\u00e9sence d'une importante participation de ses actionnaires institutionnels \u00e0 62%, lesquels ont un int\u00e9r\u00eat financier \u00e9lev\u00e9 dans l'entreprise.\n\nDans le m\u00eame temps, BNP Paribas Financial Markets a r\u00e9duit ses holdings dans l'entreprise, et un directeur de la soci\u00e9t\u00e9 a vendu des actions de SYBT. Ces signaux mixtes ont provo",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

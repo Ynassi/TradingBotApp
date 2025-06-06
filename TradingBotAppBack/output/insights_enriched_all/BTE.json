@@ -1,56 +1,164 @@
 {
   "ticker": "BTE",
-  "name": "Baytex Energy Corp",
+  "name": NaN,
   "sector": "Energy",
-  "market_cap": 1303818496.0,
+  "market_cap": 1310462976.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 5.8310347,
-    "PB": 0.30987722,
-    "EV_Revenue": 1.026,
+    "PE": 5.8793106,
+    "PB": 0.31244275,
+    "EV_Revenue": 1.049,
     "ROE": 0.07904,
     "ProfitMargin": 0.09573,
     "GrossMargin": 0.69071,
-    "DividendYield": 4.04
+    "DividendYield": 3.81,
+    "DebtEquity": 52.311,
+    "CurrentRatio": 0.63,
+    "QuickRatio": 0.6,
+    "FreeCashFlow": 500578368,
+    "OperatingCashFlow": 1955808000,
+    "FCF_Margin": 0.1496479067262202,
+    "ROA": 0.06524,
+    "PEG": null,
+    "EV_EBITDA": 1.598,
+    "BuybackYield": null,
+    "PriceToFCF": 2.625574998878098
   },
   "technical_indicators": {
-    "RSI_14": 50.45203267634478,
-    "Momentum_10": -0.5823584000543033,
-    "MACD": -0.0214158375927586,
-    "BB_Percent": 0.5896846788368285,
+    "RSI_14": 50.87530634551133,
+    "Momentum_10": 4.601229932706722,
+    "MACD": -0.0046711627681115,
+    "BB_Percent": 0.5532603836408517,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9365056945498014,
+    "ValueScore": 0.9367540984727536,
     "QualityScore": 0.3288391408014118,
-    "SignalScore": 0.4817388048536194
+    "SignalScore": 0.5314057463485826
   },
-  "volatility": 0.0444556750464894,
+  "volatility": 0.0445553598307772,
   "beta": 1.718,
-  "return_6m": -0.4006737607750193,
+  "return_6m": -0.3391472506455784,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": null,
     "target_mean_price": null
   },
+  "news_sentiment": {
+    "summary": "Baytex Energy a connu une semaine mouvementée avec des résultats trimestriels mitigés, manquant les estimations de bénéfices. Cependant, l'entreprise a annoncé une réduction de sa dette et a ajusté son dividende trimestriel à la hausse, ce qui pourrait être perçu favorablement par les actionnaires. De plus, des signaux de croissance potentielle ont été détectés, notamment grâce à des retours importants pour les actionnaires et une production de pétrole en hausse, ce qui pourrait susciter l'intérêt des investisseurs à long terme.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Did Baytex Energy (BTE) Stock Fall This Week? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04NFh3OW94TmlnWFliQjVLQzZFSTdBVFJ1Ti10QjZsMDRpNFBBcHNyVVJQREhoVEtSc2xKeHpmbEE5czVuLXJ5WWFfczh3SlYzSVVHRFB5WExxX2M1SDdGSk1HUUJObElkUjA4Z2JWOTAxeEcwU2pxNFpKWQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Baytex Energy Announces Q1 2025 Earnings Release Date: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOelAzdHBOUE5BYWdON1VOTi1pNndYNFNGT0Nla2E1VjBtd1BXczZjOTB4bFpGdW11eV8xV1I3ZVdXYkRxa096Z0ktMmlpS0JyVkhfbXJoVXZMaGFHQzNUb0ZINzV5OTdmSGRVeGxBN21iRklPS2NtS0EydFhYYm1KbXJDcFRhX2R1cUYyQlhOOE9MT1dFd2hXUFgxdHFOdG10cEM0MmlZeWo3WEMxWlFTLV9DSnJmb0FlVWZ2bUx3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baytex Energy: Increased Focus On Debt Reduction (NYSE:BTE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRG42NnBPR0QzWHdIRXNzbGlZa3RfN0dfeW9jNEtFdmhTR0NjaVlsTVp0U0QwbTAtY2JOMmJuZEd2SWs2cXprYk9ra2NjZkRqZ2hrYWVmMHdLUUF1NUFCcGlLWHVjS1dvUGN6anliQ3VzamJuY3h5ZEZrbHpRSFMwWVRXSFNicUFmTzJobXE0aE9ibzA2enFjTDlB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Baytex Energy to Announce Q1 2025 Results and Host Conference Call - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSURRSnhsN0t4cTNhZnhIaWlza3IyZ1RYVmlSTzhycjhmZ1pMYWhWcm1rZGVDeEFvM09JWXJ5Q1RvaFI1Q055WlZ6VF9MOURYUHFUR0lqYjctSmR3eGpZQXdlREliR2FvRUN3YmtZbG5JTWFVWW5TN3ZnM29NYUtDRzVUcnR1aGtVTWluTXVzTlBmRUI3V24tS1dRTHBtS3Z0QUpzc3hVZGZILWpHZElxRG05akNXelJtWnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baytex Energy (BTE) Q1 Earnings Lag Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM0RLRXZYemFZaDJwUkFnU1lLaEV6aHl3R0VDWVljYmI3UkJnQWpNQS16U1ZqUk1BUmVBWnhRX2pYTElMZlNRZ0w4eVFTejBKX25zRDdoemNWUEQ5bnk2M2dGNW84MEVmM2FlLTRXTmg4REZfdDJTMjFMRUpTeENqeg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baytex Energy Corp. (BTE): Among the Best Value Penny Stocks to Invest In Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3RUR1WmJkbXNKdTZfY1laY1NJUDRvZkw3Ykc3eE91Q1c0QXFhb0FwbEdwZW8wVnozUGlwTFU1LXhBRGFVSWdpMHV2R0E0WERaeE5GZ2RRQXlWZEhnN3VsclNXOFdZdkczTDk1WXZQOWhmSHdOM1oyYXpnYlpZVGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baytex Energy Corp. (TSE:BTE) Receives Consensus Rating of \"Hold\" from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVUxnLTFncGo1ZE95QzdYdzhWMk92endzakVmdFhqSUVGMVhycURTWE9TTlRCcWxGVnUzd2hLenBLMXVwOUpwZFJJUzc5NUg3djJ2WXhXUzNBbWhxdG5NNW1PeHFjV1BnRm8xX3FuNUdQeGZyTXFFazZxeTJXbFc1VGFlTGtWTC1GcXNqZ1M3YjRDZXR5ajRWdGI4S3BUZXVWaDZHaFhqLThsTVhjVnFqNDhKSV9ZVmdqQkMzRVVya3dhLWVQaWUxZGtKVWFhUTRn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Baytex Energy Sets New Quarterly Dividend: What Canadian and US Shareholders Need to Know - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmdzVWppSC1BQlpJRHVkblBrdnhzZjUzazl3WFA2dFhTY3ZFS3NLOUFyMkFPaE43STlrZGgtUm5DcERjWEdDYjRLa0pzaDVycU5SRG81UDA5eWpmb0ZqUmJob1ZaaVpyZmVSa0RkYXU5QjNaSFlIVTdUdm5ORV9ZdVg2aVNNeWtyYTNIZkxxc0lQYUNja1JtSDluWGdBWjA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baytex Energy: Costs Decline At The Right Time - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR3YxUkRQODRxWWZLSkJ3VjZhd01YWlA4Y3BzejJjMEx6aDNaY1Bibm1VejZfa05kbUVnS3k2TmRKTXR1VVBsWl9YV1ZZcW40WEp2NGNYQllTTGpIbk1WcWU0bnBSZlRiRmlFd1hlWklmTVlobUV4Mm9XQS01aEgtaUFJdmpCQkRlR1lnbUFXaS1BZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baytex Energy Amends Credit Agreement with Lenders - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcG1QRDIzeXNveHlfZUlFY3VBd2l1cmRRWWZKdHFNMFJHWlVJXzBDYlM0dWZXa3BJNGdSa0pnTVdvNlhVYmY3R0F5eXNIVUJLbUtnZTZ5VEwybWk2Rml5SXRCTzNidHk0dTE3dXJ1VDE5bVBVUW9QNlNvWk5jQ0hZVy1Edk1DVHpFMlEzNjlxLWlGeXRiVWt3UGl1UERwSUc2UExfQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Baytex Energy Corp. (BTE) the Best Canadian Penny Stock to Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93MUhVTXJMNnVpTmhMUzlnajVzM0xNS0plamxkS3hxZGlOaTVHbERIbUNIT3U4R3FZbUd4aTJxVXhja3VNQ25ySXFzWGZfOTNnME44Q09vdlMwVnlrdjhiU0JoZk1CWW51bVdjVnZ0clFBd0JMa1RNbDFieml6QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Does Baytex Energy's Latest Dividend Reveal About Its Financial Strategy? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjhTZHpFT0VOdkpLcEM0S1R5N3ZGa3lMcDRkbEczcGRycDRwVk81aXlHN0VOdG14REpXOVpMTjFXMmZxMTlGWVRvZTUwdW5nUnZXYkJmdEkyVF9iSFgyQlZic1h0cDBNclgtc0UzWjNRVUI0eWJHTFYwaGhrczdHNm9MbDR4bE5LQU1Vb0F2ZmxWUXlwbGYyTDJ5Vnc3ZGV4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baytex Energy: Early Signs Of Contrarian Investors Loading The Barrel (NYSE:BTE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUNMTy13aHAzSDNkSXpBTEhuMEdGWVlMSUg5UTRnZlB4R0hmZ1B3VTh3cUxNemJxaFVxSkJBWG5JT2tOb2lkaE9DaW5DMGdhbGdfUkF3MDFYVjlqaThpYXdURGVJdEZIOWVnc3FIcXZkRTVEbGRYSFk4cjQxYmJRbmpCdllkUm5RN083Um5wUkFUaVRKVTJEaEp4eW12RTlzWHNmRA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Baytex Energy (TSE:BTE) shareholder returns have been massive, earning 589% in 5 years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmxNWlVuVlpIWGViSGxBeE5GbDlzdlRPRGt1clhEaUE5MGlYYVhmRldBbm5vU0dZVlZWZGZra0dVN3A0bWtmdFM3OS1OUG5lUUpmdDBaSjJVWHRjVGIwbXFxNUxwcFNmWUJCMmJSd095WHF4ZjhjbkhXU19DWDdxYVI5MXdRZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "When Will Baytex Energy Release Its Q4 2024 Results? Key Date for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR09hRXdYeW5IcWl3XzFqaHJEVDBXMjVYNW15d084SE5LWVhxT2k1MmFyZnNMT2VxdG5hMXQ5V3Y1UURiNUtCUzE2X3dqSHVKV3pPbEhQcFZjS3dYd1FhUlhTSHJNbFFwVllBQzd3VnMwWnQ0OXdTdmI3OFctajdWb1lWWEtjTmwwa1Q2TkVkUVQtelo1dDNYV3Y2N21GTjhGVG5yQ0kzNEV4NlRldDI4ZTJpdWpiUHY5a005Wg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baytex Energy (BTE) Reports Q4 Loss, Tops Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHbVUyQ2pEeWhtdnlyM21GNmhndC1TUjZYVXozdGJhLTZlVGQ4OWEyS0FDb21MS1gzd2tXVVNValJaaDJKOUdabF9qeHpxdzcxQzM3V1B5ejVxZVlYR0t0R1dZZEc0V1oyZzFObllzdmhIbGZ5czhIc2dra0U0Tk0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Baytex Energy (TSX:BTE) Reports CAD 791 Million Revenue In Strong Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbHVGSlBSNTNZY3hua2MxX1Y0VVF6bUJ3d085bzNubFhCcGFvcFVkOTdiaDhwZ29IZHRMa2JtLURZUWhYNTZvSHkzeTVVa0N0Tlg2V0lkd2dhYVJKcjdVUDJMRF9mMTdYNm9DNUlyYW9LNk1pakQwY3JOSWFLSVNrWA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Baytex Energy (BTE) Stock Undervalued Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMjFGNmpXeFVXYnBURkhVdkUtNW1ubVBBVDBVZWczVEFOeGNCMXZ4QWNCZjVsdGtCanlLYWx2X2F0MGcxdjhZbzBQWGNmTW9VVFVRT2tqVVhoQVpOSHIzNm9MaDRHdkdwY1VBZlN1Snk5MFdxckxkNnpJRGFvUklxSTAyT0RDODFy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Baytex Energy Corp. (BTE): Leveraging Eagle Ford for Steady Growth in Oil Production - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlMwSGdJTERzZmxMaklMNmZuYk1lRWdDcjJwaGJSWS11dUI5b3hySG1UdU1sNW5CcTVCdm56dWZ4VUpMNnBVV2VzNk9PcWVJMHVRTDBtbGxSMlQtRDI2OGY2TC1qMEVBTjZvY0EzaGZTU0lTWDV5Vnd3YkRiWHZWdUgtN214UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Baytex Energy: Tariff-Free Production (NYSE:BTE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmhMdkp6VDRQd1pRVldiWTd4aVRCWmNPWEtLMzhzTWVFSHc1TDFKQ2tqUVpWNHF3d2JIN25YNzVvUlA2QkFzTDFXYjNVMkt6cmNhQlFwUDdpb2xmeWJrdHpiZTF0anVSRTZZQkxMU0ZITEMtOTBCa0JxaFdLWGt3YmRYZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2.82
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2.83
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2.67
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2.69
-      },
       {
         "date": "2024-12-06",
         "price": 2.58
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 1.69
+        "price": 1.7
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1.77
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1.71
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1.71
       }
     ],
     "current_price_data": {
-      "price": 1.69,
-      "change": 0.07,
-      "percent_change": 4.33
+      "price": 1.71,
+      "change": -0.01,
+      "percent_change": -0.58
     }
-  },
-  "news_sentiment": {
-    "summary": "",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,50 @@
   "ticker": "8252.T",
   "name": "Marui Group",
   "sector": "Consumer Discretionary",
-  "market_cap": 539558969344.0,
+  "market_cap": 543507841024.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 20.6187,
-    "PB": 2.2067616,
-    "EV_Revenue": 4.408,
+    "PE": 21.12018,
+    "PB": 2.2229123,
+    "EV_Revenue": 4.461,
     "ROE": 0.10699,
     "ProfitMargin": 0.10451999,
     "GrossMargin": 0.87564003,
-    "DividendYield": 4.47
+    "DividendYield": 4.32,
+    "DebtEquity": 258.065,
+    "CurrentRatio": 2.667,
+    "QuickRatio": 2.605,
+    "FreeCashFlow": 1114875008,
+    "OperatingCashFlow": -4481999872,
+    "FCF_Margin": 0.0043825082614927496,
+    "ROA": 0.02705,
+    "PEG": null,
+    "EV_EBITDA": 19.264,
+    "BuybackYield": null,
+    "PriceToFCF": 487.50562809638296
   },
   "technical_indicators": {
-    "RSI_14": 58.63466545077834,
-    "Momentum_10": 0.8217340264967298,
-    "MACD": 45.094797123696935,
-    "BB_Percent": 0.6681398052211014,
+    "RSI_14": 59.045481429578516,
+    "Momentum_10": 1.5596176421264465,
+    "MACD": 47.887434972546544,
+    "BB_Percent": 0.6752215233259057,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8863697939921713,
+    "ValueScore": 0.8831421684835813,
     "QualityScore": 0.5308791711308828,
-    "SignalScore": 0.5622230779323845
+    "SignalScore": 0.531937674033826
   },
-  "volatility": 0.0145338935698286,
+  "volatility": 0.0145396782343717,
   "beta": 0.179,
-  "return_6m": 0.2546256296653315,
+  "return_6m": 0.2384606474547161,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
-    "target_mean_price": 3018.75
+    "target_mean_price": 3131.25
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2443.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2464.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2498.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2493.0
-      },
       {
         "date": "2024-12-06",
         "price": 2509.5
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 3006.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3028.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3057.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3028.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3038.0
       }
     ],
     "current_price_data": {
-      "price": 3006.0,
-      "change": 52.5,
-      "percent_change": 1.78
+      "price": 3038.0,
+      "change": 10.0,
+      "percent_change": 0.33
     }
   }
 }

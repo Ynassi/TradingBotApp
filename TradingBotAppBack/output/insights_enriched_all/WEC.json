@@ -2,55 +2,163 @@
   "ticker": "WEC",
   "name": "WEC Energy Group",
   "sector": "Utilities",
-  "market_cap": 34198403072.0,
+  "market_cap": 33671831552.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.92969,
-    "PB": 2.6355789,
-    "EV_Revenue": 6.087,
+    "PE": 20.567251,
+    "PB": 2.5949974,
+    "EV_Revenue": 6.027,
     "ROE": 0.12579,
     "ProfitMargin": 0.17963,
     "GrossMargin": 0.43501,
-    "DividendYield": 3.32
+    "DividendYield": 3.38,
+    "DebtEquity": 153.016,
+    "CurrentRatio": 0.502,
+    "QuickRatio": 0.323,
+    "FreeCashFlow": -755025024,
+    "OperatingCashFlow": 3510799872,
+    "FCF_Margin": -0.08325155383400998,
+    "ROA": 0.02987,
+    "PEG": null,
+    "EV_EBITDA": 15.252,
+    "BuybackYield": null,
+    "PriceToFCF": -44.292643397207456
   },
   "technical_indicators": {
-    "RSI_14": 52.473144379575416,
-    "Momentum_10": 0.5823190664779871,
-    "MACD": 0.0972426835328832,
-    "BB_Percent": 0.6118112818085713,
+    "RSI_14": 44.77298640008146,
+    "Momentum_10": -1.483012781563075,
+    "MACD": -0.051466293455789,
+    "BB_Percent": 0.3353361062612854,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8810557950999933,
+    "ValueScore": 0.8782667361345958,
     "QualityScore": 0.4356029655363432,
-    "SignalScore": 0.6028118697550624
+    "SignalScore": 0.6315843182027929
   },
-  "volatility": 0.0121825206701261,
+  "volatility": 0.0121751221935438,
   "beta": 0.439,
-  "return_6m": 0.0940222680650058,
+  "return_6m": 0.0985618232046701,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 16,
-    "target_mean_price": 108.39438
+    "analyst_count": 14,
+    "target_mean_price": 109.37929
   },
+  "news_sentiment": {
+    "summary": "WEC Energy Group a récemment annoncé une offre de 700 millions de dollars de billets convertibles, avec la possibilité d'atteindre 805 millions de dollars. Malgré une baisse de 3,6% depuis son dernier rapport trimestriel, WEC Energy reste bien positionné avec des fondamentaux solides et une résilience aux impacts tarifaires. L'action a atteint un niveau record de 109,53 $, bénéficiant d'une croissance robuste. De plus, l'entreprise a approuvé des propositions clés lors de sa récente assemblée annuelle, soulignant ses initiatives stratégiques. Cette série d'actualités indique un sentiment positif autour de WEC Energy Group, avec des perspectives favorables à long terme et un intérêt des investisseurs pour ses offres de billets convertibles.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "WEC Energy Group's $700M Convertible Notes Deal Could Reach $805M with Additional Option - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT19Ud2QyczJTTnFIMXNVMjhYWU51cWlkOU1rcmMwOWM2MEplVGVfYjcteTh4dHdnS1M0aEdIS3lvLTJsSHZzTWNtSENuempkQzdOekFsdkNiZUNzaGczMDFMMkxQUlVSd0VBcGNRSVBOVTE2WDA1UHNtNElWa3cyRjFLT0dxbFpsdXd6TG5IV2NMcTZnX1NUWDRJSDNyUnBmcjJYSS00OVd3T2MxeUZ1RXJmLTYwWHdFYXVCTk1B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy (WEC) Down 3.6% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GOXZhS05LNFVDLTVSREdielJNcnFKOTBLWDgwSFJBdW9iRkFBMFBmYm1IMzVpOGZfNGZhMHdELVFTendRbEdwZmsyOE5oYnR4S1lkeUo4bDFOdFo5ZExvTGxKQl9peGo4TnpPZWpTX01HOVY2MkE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "WEC Energy Group Announces $700M Convertible Notes Offering - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMmtPSl9iRThCNFo0bWU2SmhNV0tDdDlEcTl2bFBGQXN3M2VSa1VDR2tUMGFxa0xrSzE0c09QbnE1OG1iekFvdzFpVnVqbDVNeWRzNnZUOHg4QTBacHFXaUlndEZraEwzTkdmVFN2bTlTZm1tekJteWhfMHdhTENzdXMybW14T0U4dmljYWlnekpRSTVGTTNoa3hqejVOSnRHVUdDRzdTQ3JOSVhJOUZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy Group announces offering of Convertible Senior Notes due 2028 | WEC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUGVqWlBscHo2MEVCMGtkWno3aHlrU0ladzNpcmNHOXFHVndRRXRadDNMNzRsV1drblJjWWpsdldwb2dXQjF5cVc2SUhDbnhzdmZLMXlwOTZtdnJOWjN2YXAwcEFVb1JXMHc3Q19nTFlxanVHTk0wNWUxLTRqaTJMdHlSU190bVdCY1p4MklkNnZqMXpWN3dJaENhdmtkU05DckVFN1dkcjdBeU1pN1RKTHo1VWR4aDJQNGVua2dBU0U2VkRM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy to Offer $700 Million of Senior Notes Due 2028 Via Private Offering - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdl92N21zZWZrdmRuWTRkTm8tUUNRZ09IMFZQdkdJM1R5UENweFZ1LUhkVG9ReFBZVDhWZUJEaUxyamlUM3M3cTBkb0dLM3o1SzlidzdwWnNJUUpHQkt5TVN5VzVSTEpFb2tybXZYOU9Tc3g3Q0tzMmtHV1ZtWVAyZy1XVXVUellOVU1RUHNFeHllSExIQTZtMHYzYlhHczdveFFaX2t5cnhaZmV1aWtiUHJMb2U2ZzJiTTlGN19UVnZuMzctUXNwNnV6LWNlVW15Qk40OF9lUzA3RmpMN2V3YVBtYUU5T2V3TkJnMjZySFFaWm5uSmxfNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Stock: Well Insulated From Tariff Impacts With Strong Fundamentals - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGVyNGNzLU9ZZVFuUXNMOXhDVG4teDVNOWt2eTJJYTVyTEQ1UUNNakxSckRyeGVYbFJVNXcta3NRQkFQUWkwaTZMbFMydUl1RFFneUZBcXVMNU5md29XMm5QeEJOZUxNdXM3dUNjTGY0SzdDUUR6RnZCUWZUeVdkeFk2NGdia2ExUmdweEFfVDhWdzVCa0VEVDV6ZGg5ZG9KVGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy plans $700 million convertible notes offering - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWdSY3hGZFVhMDlwV2pHX0Vob2ZXSm1SdUpDZURQbGlDWHhrckE3Vm5oQ2h5SDFnWnc3X1VESkQ5UzZvR0R5bXVHX2RHVEQ0QXNUT2FyU3Y4VnBZVjQ0cDVwaDN5d0RWSFpGNjRoNzJOSzZRQ25Nem16Y3RaZW5UaWpVSGpmbjlPbG1ka2RacENNbm5rclNzQlloTXVNOExMMlo1UDVfZldtZlhZS2dQQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy (WEC) Plans $700M Convertible Notes Offering | WEC St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmJRLUxZa2JRTnR2bV9JSlYyd2lDbWsxNldjNUFISHJ1YzJIYUZpZlQxRTd2OEJKRmNRVXVKSFdfTnFUZE1pVlJWa1FLWVktR01HTXBHY3djSGl3QUpyamh2UVhlWHl3R056S29zX1VkdmZmWEQ3c0pzd0p3VVgxckk2MmpmQXU1Mk1uRlNMck82a21SRV9DUzl2b25nRjNsYmFoTVNYVXBudw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy Group Plans To Offer $700 Mln Of Convertible Senior Notes - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWdaV2piZlBYTU5IZlAzaWJQVmVoVUFhSUxmemQ5RUNCeDFYMzJnbXZLak15VjJaVC1mdVNRam81LTdrSjQxSVdhUmxGRDFxR3RJYlNpNEVmcktnZjJPcklvTFZ6NGxFY0p6RVBSWVhqTjJrWWhySmYtcll5bUxXSlUxZ01NaDRJZ1ItWTVCeG5ndUV5UTdhVA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why WEC Energy Group (WEC) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mNXhQZExOQ0djd2xscm5ScGx0dm51VGR5NkNybEY5R2pSLWlFVWpLTlU4ZDk2TEJYR2hpSGptRHFzV1dqMk1FSlRWSHhQNlJrcnljMF9KQjl4Y0VZRjBsc0NzNjVxMnEtN18xWFF0ZGJFTkstTHNaZUZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy Group Gets IBD Stock Rating Upgrade - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXZoZHFTcjRxM2pxUWFuZnlUdlVOc3VQaGJ2dkM2U1hoQXF0VjZNaTVfcXdNYTlTcTlqNm5fbVhnZFZRV3VWaENPcHZaYnJRMVRiMHFpU1RsWVE2ZFhqU0pUZHR1Njc3UmlFbjZUMzFvMVJacTQ4LXhGa2czTElBZGtzNXNyZ1J0aG5GV0hFc3BMckhk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "WEC stock hits all-time high of $109.53 amid robust growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnFMV0JFWjduNXp2VkNjem5rcTlwd3owaGZSSkRwbkozX2RuUHdtMW9fZjRucjdtdjhCbVBxMTEwdUpuNHYxQTJ0cTBfSEVkWXVvbFk4VW9YSXJvS3NxeDhzdE9Ta1BMVVF5SnlIeFVscVBvNHBTbWdQeUYwT01xVDFzbGZVdjYzWTVUVTdRU0hyQ0pudF95SnJoS3owUnZwNjNvV0tLV2tsMHR6MUk4cnd3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wisconsin Electric Sets New $1.50 Preferred Stock Dividend: Key Payment Dates Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHRhZlh1NU1ZZEQtQnFPMng4U0o2M2x2NmdXRTJnWlJTajh5d3ppbFM4UlN2eDJ6bHJ3dmxQSXREa3otQnZJeS1lX0ZxckZsbFhIc3VETF9vS1haQ2xUUWdSV3BSdkhDTFhoREZROHFvODFqLXFEWm9nd3pjOHFDNU01b0tzbk9jbkdKajNMOGZzQVVLVlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy Group Highlights Strategic Initiatives at Investor Meetings - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeG1pdXp3QTBiS2NfWUtaa2dIbVQxelYxVHAtSW1lZDVzMGRjczZya1BRTzZZVEFCQzRCc1dvX09LMno3V3V3WURNVWJONk4xTFR6ekEtZ0ZKaVpXNm9oRXlSQmZqZ0tEd3hDSWJSYlZ0emhjOHFySUNjUzVrSDYzbTg4Z1FwdVBibzI2MnZZUUlOSjFIV2FHMDFwUUFHTlQzaGdDN3NoeXJyVkZUcTRWeXFmakxjSHpac0ZEV0M2RQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is WEC Energy Group Stock Outperforming the Nasdaq? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTi1xVzRGVVA4NDFrLWVFTWx1X2NHTkFya0k4UUxWcS14VFFGNHZtOEZ6VzZrNjlERkp5ZDEwQXEtWVRlRHJVOUFSRG1IZW9MYW8xdDFXaFRQcmtHczlmWFVqbEVvUVRDX2sxZi1zdElQR3R6T3l1RVZxUkJjNTJPTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "WEC Energy Group (WEC) Announces $700 Million Convertible Senior Notes Offering - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSUNfT3o5SlFOR0VNOEplVnFFWXVYN3J1LVZfS1BLc0wwME1HOWpPalZiNmRfTlBBeEJVUXJvaTNqMTc0N09TYmtmYnA3T0E2QXZrcnVXcXJJTlg0ZFRmTlVzMktQU3JoeXhwQmxucTdHWnVpalZsZUJlbl9XMDFnX2xhR1M2T2MtQVhOd0prMFdMb0NmalZQTnJGTVdSbnRKbVdJdzR2dGlCTDFsYTBEdkhlUERWZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy Group Approves Key Proposals at Annual Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFliWUpRTGVVc0xRS09jcmEwVFNIQzdTa2loUC0xa3ZFbV9WSGp5ekIwVUtxR0o4Tnljb2p0NEh1YWtNU3lVVWx0Q0lISUhZZjR0NlpCTXN4RUtzZ01SQXJ4c3JkNm9Va0dBR1VidHVuT20xM29oODE5R1JPLXVnNFcxM2FPb2h3ZHk5UXEyYVRGb3BVN0t4Y2l1VjA5LW5RNkNiOS1oSUlQVy1QVVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0djaE9IMFpFa2NkVDFWV055ZGF6ekc4VTlydUQzYnJyS1ZhdmFnYnF0aWtNeVpYaDVaMDVzdVFhQWkyN2pZYXE3dlE0NEdOLXVVQm9QRFV1emtWUGl5Q0s2bjVKMDlocjdJTmZ0bVJJTVNTYU80dmZEYU5YbllRSFJQQzVlTi03RkNjMUtORFg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEC Energy (WEC) Could Find a Support Soon, Here's Why You Should Buy the Stock Now - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTlfNW1rbUJfcHlhNmU3dUhpS3VMT1FrVHc0ajJjejFkZGhqbVpGMDhhN2ZUckJCaXM3R3ZqVUpMVGNRWVVwWjFJRFhxREhTb2RuTlBFMExTQzNDY1M0Y3h6bmhhZlhfM0dleld5N01yUkRTcGxBM2ZuV1FraU5QYVZ5ZE5YNnlwUC1PMS1LTlNQeGtPSWtRUnFDYkxPT3NmZXVJblZQOWE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks Flashing Renewed Technical Strength: WEC Energy Group - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWc5NzVESEZ6em93eF9Tb1pBUXFLejI3Z1c2UVNkMWliLWxBNFBUZ2x2MDZsekVTdFZ2ZW5oZ0Y3YU96clZNeW1aRF9TWmFLUnUzR1VhQzdheUFlRTBMZkdRRzVsYWxQOGJCUHd4LVI5czlkcjJ5TUM4bS1XeVFRQndyLXUtSnJXakIzUk14LVpYakJ3anN5eGh0M2J2MUF4S25qNFR3?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 99.66
-      },
-      {
-        "date": "2024-12-03",
-        "price": 98.22
-      },
-      {
-        "date": "2024-12-04",
-        "price": 98.35
-      },
-      {
-        "date": "2024-12-05",
-        "price": 97.72
-      },
       {
         "date": "2024-12-06",
         "price": 97.09
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 107.17
+        "price": 107.23
+      },
+      {
+        "date": "2025-06-03",
+        "price": 107.37
+      },
+      {
+        "date": "2025-06-04",
+        "price": 105.73
+      },
+      {
+        "date": "2025-06-05",
+        "price": 104.79
       }
     ],
     "current_price_data": {
-      "price": 107.17,
-      "change": -0.25,
-      "percent_change": -0.23
+      "price": 104.79,
+      "change": -0.93,
+      "percent_change": -0.88
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nWEC Energy Group (WEC) a annonc\u00e9 une date pour le r\u00e9sultat financier de la premi\u00e8re trimestre 2025, attendue par 4,7 millions de clients. L'entreprise est consid\u00e9r\u00e9e comme un stock de croissance potentiellement tr\u00e8s int\u00e9ressant pour les long termes. Sa r\u00e9sistance \u00e0 l'impact des tarifs est \u00e9galement not\u00e9e. DTE et WEC sont analys\u00e9s pour leur valeur actuelle. L'action WEC a atteint son meilleur prix historique de 109,53 $ et a connu une meilleure performance de 38% sur les derniers 12 mois. L",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

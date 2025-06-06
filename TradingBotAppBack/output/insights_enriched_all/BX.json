@@ -2,55 +2,163 @@
   "ticker": "BX",
   "name": "Blackstone Inc.",
   "sector": "Financials",
-  "market_cap": 168068743168.0,
+  "market_cap": 167407534080.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 41.978786,
-    "PB": 13.4234495,
+    "PE": 41.813637,
+    "PB": 13.37064,
     "EV_Revenue": 10.597,
     "ROE": 0.26345,
     "ProfitMargin": 0.20561,
     "GrossMargin": 1.0,
-    "DividendYield": 2.92
+    "DividendYield": 2.92,
+    "DebtEquity": 73.101,
+    "CurrentRatio": 0.941,
+    "QuickRatio": 0.821,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 3651034112,
+    "FCF_Margin": null,
+    "ROA": 0.11889,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 49.1120274477641,
-    "Momentum_10": -5.521403858549463,
-    "MACD": 0.4327043535726602,
-    "BB_Percent": 0.3760564850314398,
+    "RSI_14": 47.1945093214497,
+    "Momentum_10": 0.1381825405677459,
+    "MACD": 0.1322779447623929,
+    "BB_Percent": 0.2822478287337813,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8592757105288803,
+    "ValueScore": 0.8561347933754453,
     "QualityScore": 0.3538005015976925,
-    "SignalScore": 0.6606833956839901
+    "SignalScore": 0.6083134622986532
   },
-  "volatility": 0.0291390052641063,
+  "volatility": 0.0291244460849681,
   "beta": 1.641,
-  "return_6m": -0.2478138951453447,
+  "return_6m": -0.251373388138334,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 21,
     "target_mean_price": 147.30095
   },
+  "news_sentiment": {
+    "summary": "Les récents titres concernant Blackstone Inc. (NYSE:BX) démontrent une volatilité significative de l'action, avec des fluctuations en raison de questions sur des investissements chinois et des performances par rapport au secteur financier. Malgré une baisse de 14% depuis le début de l'année, certains investisseurs semblent rester confiants, tandis que d'autres réduisent leurs positions. Les perspectives de croissance soutenue à long terme pourraient être entravées par des vents contraires anticipés au second semestre.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Blackstone (BX) Eyes Historic Paris Office Acquisition | BX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ09uTmhmOUJJdjNFVjVZMmJ0bnVZai1BZU13TFVhamtfNENkTGZ2QTRJcFpnajJzNWlDUE5OYVhRUXd3ZHFKd2VHWmh5NFNmVWh0N3dZQ2k3c0dvWnhvVlhoZjl6S2tIcHFSUzZ0TDNySnBWa1d3R3VyMjNWYVV4d0Zud3VLRjUxNEJkakc5VkRSQ1VveGQ5VHFPY1VtYTNLQXdfbXNsck0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Advisory Alpha LLC Has $307,000 Stock Holdings in Blackstone Inc. (NYSE:BX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUZVZmIzYjFhVm93TFVRVG1VRzJUT0hUSTNwUlpiQ2JDYjB5emh6NVpDUHFGZExyVHZ0NXhpMDg3R2dsUkRnWWNqX3FsbE9OczFLTldnWUdsbmJZQ2JZVlBTNE1LOTFpc05XVHFGNXhrOWlxVkt6Y2hFRlV0VVU5WFBYNDk5V3k5ajJabzh6M3BKeVZwV3VuVC1yaWRMbjFFZm8weGJEV2ZmbnlhbGU3emV1SjllQ19VZFMzbEJpWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Blackstone Inc. (BX) Is Plunging So Far in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOblhRRDhvREtmbzRqU25TYUtoV29fdFVRai1xV2x3cDYyWTRMc29HOXFndzJSVXRpRGU3clJwdWtyUWplT0ZUQXRWazdXOUJmQ0tUX2YwdnMwRUNJcWJxMk5nNmlZZ0tad24xbDZKb1p1bzRVWW9Tdl9BOWdjanQwRVJ3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How Is Blackstone's Stock Performance Compared to Other Financial Stocks? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZC1zQk9LcDBSMHZtWV8wenNQN3JETnlqSlhxeW1Wb0dyWTlvSXBRdjdCUjNvUmNoNHlvUnk2MmktcWNRbUN3ai1Cajc1SU04bTdKalNELWFoYi1NSTJ4X2VCaEkzY0lzM3NGNXNOLVp3T1BZWURHeElmRDVMc01Xamx1VWRIaWctdW91YjRFclA1anVBSUpCckRFVkdyTHBnRjFxRjRPNUl6ZkFYLURHaGpNakRhY3hSclhyeXBTaXptckpXUWVmTVpMU0FHNUhOZ2E4ZjZPMzh0M3VHT3hzVFRnOW5xd2VKc0dNQ2F6OA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Box Stock: AI Offerings To Drive Revenue Acceleration (NYSE:BOX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMHpKRXR0azVLY3NrZEJJcnQ0OTYxSzJhNVpFTlpCWlIwejN6OFEtOE94aWYwZ1pjMl9ZbFdwVU1xXzFDRnJYS0VLLTZ1eVRVdGJpWkRMdjVzMEpEYTh0NmtMa0M0QnVwNVNFS3o0bmliUDNwM0w3SWY3S1BvcGh3YjA2ZkhWOThZSmtfZzZvOUFlSEpvLUhOeA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Box Stock Surges To New Highs On Q1 Earnings Beat, Strong Sales Outlook Amid AI Push - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oYldPbWRQUXMzSS0wRkNNRkYxSmp6a3kwMXJobEZmR2F5c3JWVkJoeVRsa0R3MkdtZUZaZFNsX0xyTngwVHdvRU9maURpOVg5Rm5mQmsyTE9ubUdLN3NGQnByZ2x5dmFpdDdXYmNMYVFzODF0Zng1aDdRcTE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Top Executives Unload Massive Box Stock Holdings! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTd0REtQMmxmS1FUc3FpdzVUTnNQZzFWa2JiaDdGOXZ1cFZvRHdxdTZaN0JIYmhxUldocmRtV0hMTHJ6V3VpS0FNNDQwWW16NzlHejJfYzBicnF4NzA5SXBjaDg0Q1JrbDNfdWNHUGdQSkU3eXAtaG43dXFJQlFxRHVRRmlDRTFyNTZLYmd2UjNnamo1cnNWd0Z3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Blackstone Stock: Is BX Underperforming the Financial Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdDJyOXNKaEpCcmtqWWRVYUZnVlN6bTJLUTBQM25qblhjS0h5azZUT205dE1VUkJ2ODZGZTJHcGxSUEFZdFExeWVodzVQTUVUUHF1VUxqdmtLbzIzRWlERXZybjhnbWxLVTA3dVFEY1lYX3AtLUxJa2E0Z2h0OFFKdGxFeEhJM0M1eUlsdg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(BX) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPczFNWWZXMGs3RE9VQk1tQ1VHM3Z2MDY4WjZGa0lDbmlZQndPWkI0RGZDWGxwcGQ4WENZcm93d25FdS1aY01JQk0tVThYOWRiWjZhRC14alZPN0hiN29ob2xyS0NJbjZ5QWN2RzF6WE1FdUlxb041MDFNbVkzc0pOLTZ5TjBNazljM19obVJWUjB6ejJYbnIyZkJCaE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Does Blackstone (BX) Have Opportunities to Improve Its Market Share? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMTRSS0t5QjlraWtmTHk2Z3FBNHNSZk5zUnFaT0FmWVMxNGJyQ1RsT055WElydHlhMUt0Z29NQ1pMeTZrZlpJVVIwdFMwWFVBQ1lFTFViaENZS0xnaGJ3S0t0OHlEekIxcklQMmwycW9mWmN1N3pxZlNrYkZJcHFEMkxnbmtYRUpKUEtqTW9Bcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CGN Advisors LLC Grows Stock Holdings in Blackstone Inc. (NYSE:BX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMHphR18wNFd3Z1RRLTRZTlhnZVBuUGo0Q095WEktVGdYLU8zSG5rLVJZUHI2TEtIY1FvU2lYOHM3VXB1UEMzNi1UdkdpQXRPUFNQazh2S1E3MHVFVzlTV2ItcjVMUE5XdG9NcDNoa0pWSzFjT1diVDlBdGVqczBQUHlJaURrenlNLXFFR3lEZ0NNODYxaVBRUU8yT0hRMnU1YTdrbWlCUzJlcXdtUXptWFNRbmJUUkh0REZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Welch Group LLC Has $8.18 Million Stock Position in Blackstone Inc. (NYSE:BX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ1dlVXVERmR2Q2V2alZBWFh5clJYSGtfOEhoQThLT1JMRHNtQ3JLNFdKYktJbF9mVXVFdFRYOTZWS1ZXSE9BZWRvVnRpekFFYmdsVS1nZWZJak1Ncm1JM3NRNTg4ejFzSGJMTDU2LUE4Skp1dmFKcU1GcjhhYUIxcm9ZUURXZmtpUW44aUI1Y1pRZFFoanN4ZkREVkRtdk9hQk1VblphN2QyQUxxM0lMYS1XT3NYRHNWM243RHNUcENVa0RXR2NRbWhUM3Y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Blackstone Inc. (BX): ‘Did They Take A Lot Of Chinese Money?’ - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HdVcxb05RSF9VdElsVkppRlFHQlZ1M0hNTzJtNnlVamo3VkRaYmthcWxINEtNYlBRZEZmbXN0R1ZaT1U0R21PWE56SzhqMl9zb3R2Q010Q19jeDhhU3NzVU5UT29MUTF4QmJNYVg4d0w3NHZKbWNyRENEUTJESkk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Blackstone (NYSE:BX) Trading Down 1.3% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1BpdXVDWWhBeWpTQWV1cl9QUDRFUWh6MWo3UFJVRm1OVDlGYS1HTnZBSXE5dXEzZzBnZjNsQ1ZVYTNTTDZiSUQ3Ry1zRlc0Wm5yU2NteVNNOTU3ak51aV9maXFKTEZORU9JYUNQNUdueE02eW9wSldvSmFjaHlTVldRVGl3TG1ORmQzZjY1YzhiT3VpRGYyNU02M3RheHhvemRlSHBGZ2RxV0k?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Blackstone Stock Falls 14% YTD: Buying Opportunity or Warning Sign? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2Fqa0dFNGFSaXF2Tkw4X3E3bkRKWFRzNGxBWngtNzB3STdycEowZnAyellJMHA1RDVlMU5fcE5rZU4tanRWYzYtUHlhVW5CeGlpUno2aWFYOHFHT1NmZi1nZ2lGX09FdDM5U1lQMmFDbDdaOGJZcDVfME9Rekl6aA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Whipplewood Advisors LLC Boosts Stock Position in Blackstone Inc. (NYSE:BX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVlRMSFRqTWJsLVkzYjh2M0cxcDhVWldtdy1pZ1U5clJDVmJrOUhBT05uOExaQ2gzTVdMbWNpWms4VVVzc29yLTdEdW9aWWZlY2FRdGFjM1RVRE1PMmFfM0hRT1pWd29mZXJQallpNXI2QWsyZXdCb1c4VVY4MDJMVzViS01nVGdyMUtzbXo3WkJrVkNydTA3RlZzWmpEUnl2amFjcDNiaG8yUTJlMmxMOXZjWVBxNnVHcW9VeGxfY0lkQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "IFS vs. BX: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtWmJENld6U2dPb3htc0FUaDRncE5GRmdab0pBZWY4a3QtM3gtb3lPZEo2NVU0UkhkdXdEVWNsNHI5b1FaTDNRWENUVHYyREs2bzFQWVNBd2t5SkpnUk1oWnJiUVhEcGdlU2JRUEp1ZVFsRC0zaE1Z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wellington Management Group LLP Has $28.18 Million Stock Holdings in Blackstone Inc. (NYSE:BX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR1NwNFhWM20tbmxZbGJuSFRPTFRucUdtak9hdVV3ekxGYUhWU2dHSmhQQTNPUW5rSjFSWGRDTUE5MnpHM2s3bVI5bEIxdldRZmlPSHBxR2NZcDZJOG9xRTFKYkRXWGRxSWZlQzRiX1RHejY5UVVvN2VsM3dMbnczLXRDLWJDWWRKZVVnVU1yV0lvX2t6V1ZtMWJQYmVuZ0dGSUZUOTQxR2lmNG5BMDZFRFJKbG94bFV5Yzh6T3ZrQzdZVDJMcVRyV0dJb1lrTlVwMDNMNDZqVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Box (BOX) Stock Gets a Boost After Q1 Beat – But Will Second-Half Headwinds Hold It Back? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5udEFQNFRJaTA5LUM0c3NHMHhBeUFIaGhRU1J4eWJJMkxPM1FFdUpjUzNnSDhQQzFrY1l4WFh5SUl3d0VFMDFCeUtOWVNTRHljb1laaW1IaFI5d2c5QjRIaF9Eck9ZUlp0WlMtVmpvcTRvWjR5dGtlSDFB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mattson Financial Services LLC Trims Stock Position in Blackstone Inc. (NYSE:BX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelltRXRiQ1hyTm85OWhJdHNHWDFJYlFlb3ZPcWQ4NF9PbHVFamxsUlFzeEVHMWNjd1NCTTZGRjhYM2VISEZHdktrTWUtcEt6Szd6TEY3Z2RpYnRlbGlwQXpEMTVwMEw2UV85T0FacGhIQjV5ZDRmRGl5ODJQeEdXUW04LVJlREwtRHkzR2FSazh2RU9IMkJiLWFDeFl2RFRpWTd6Y1hia19xMzUySjR6ZGotYlEyX2c5RjFOM0owcEdIWm43ZEQw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 187.05
-      },
-      {
-        "date": "2024-12-03",
-        "price": 186.17
-      },
-      {
-        "date": "2024-12-04",
-        "price": 185.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 187.2
-      },
       {
         "date": "2024-12-06",
         "price": 187.0
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 138.65
+        "price": 138.81
+      },
+      {
+        "date": "2025-06-03",
+        "price": 139.01
+      },
+      {
+        "date": "2025-06-04",
+        "price": 138.76
+      },
+      {
+        "date": "2025-06-05",
+        "price": 137.76
       }
     ],
     "current_price_data": {
-      "price": 138.67,
-      "change": 0.0,
-      "percent_change": 0.0
+      "price": 137.76,
+      "change": -1.05,
+      "percent_change": -0.76
     }
-  },
-  "news_sentiment": {
-    "summary": "R\u00e9sum\u00e9 de la situation financi\u00e8re des 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Box Inc. :\n\nLes actions de Box Inc. (NYSE:BX) ont connu de fortes fluctuations r\u00e9centement. Apr\u00e8s avoir battu les pr\u00e9visions pour le premier trimestre et d\u00e9voil\u00e9 un futur de vente fort sur le march\u00e9, les actions ont bondi \u00e0 nouveau en janvier 2023. Cependant, l'entreprise a ensuite connu un pic en juin 2023, avant de baisser fortement depuis lors. Cette volatilit\u00e9 a \u00e9t\u00e9 attribu\u00e9e \u00e0 plusieurs facteurs, dont des probl\u00e8mes de comp\u00e9tition, une",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.3,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

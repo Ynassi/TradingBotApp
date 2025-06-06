@@ -1,56 +1,74 @@
 {
   "ticker": "7004.T",
-  "name": "Hitachi Z\u014dsen",
+  "name": "Hitachi Zōsen",
   "sector": "Industrials",
-  "market_cap": 159443156992.0,
+  "market_cap": 158938595328.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 7.1943536,
-    "PB": 0.8419946,
+    "PE": 7.1934233,
+    "PB": 0.8393301,
     "EV_Revenue": 0.381,
     "ROE": 0.12153,
     "ProfitMargin": 0.036199998,
     "GrossMargin": 0.18702999,
-    "DividendYield": 5.29
+    "DividendYield": 5.2,
+    "DebtEquity": 68.604,
+    "CurrentRatio": 1.214,
+    "QuickRatio": 1.012,
+    "FreeCashFlow": -5737750016,
+    "OperatingCashFlow": 24768999424,
+    "FCF_Margin": -0.009398089532594047,
+    "ROA": 0.029460002,
+    "PEG": null,
+    "EV_EBITDA": 5.767,
+    "BuybackYield": null,
+    "PriceToFCF": -27.70050889020816
   },
   "technical_indicators": {
-    "RSI_14": 62.25543383228683,
-    "Momentum_10": 3.0434782608695654,
-    "MACD": 10.9400572751631,
-    "BB_Percent": 0.9174109398769696,
+    "RSI_14": 58.41500323729296,
+    "Momentum_10": 4.767184035476718,
+    "MACD": 13.106435136835556,
+    "BB_Percent": 0.7317199993000238,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9011963852454892,
+    "ValueScore": 0.8983148359099647,
     "QualityScore": 0.3798675534184488,
-    "SignalScore": 0.5346066134693472
+    "SignalScore": 0.5186589182256942
   },
-  "volatility": 0.0212346671058488,
+  "volatility": 0.021327231292981,
   "beta": 0.362,
-  "return_6m": 0.0243643490020348,
+  "return_6m": 0.0189729991451563,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 3,
     "target_mean_price": 1073.3334
   },
+  "news_sentiment": {
+    "summary": "L'entreprise semble être confrontée à des enjeux fiscaux, avec un besoin de se conformer aux règles de déclaration de revenus à court terme pour éviter des sanctions et le rejet de ses élections fiscales. Parallèlement, le secteur des stocks de désalinisation attire l'attention des investisseurs, offrant des opportunités d'investissement potentielles. Ces actualités soulignent à la fois les défis et les opportunités auxquels l'entreprise est confrontée, ce qui pourrait influencer le sentiment du marché à son égard.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Compliance With Short-Period Return Rules Can Stave Off Penalties and Rejection of Elections as Untimely - The Tax Adviser",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04bHpfM05sa0pZZDg3bnF4MnhMVktMNGRydkFmSFVESnhXY3RTMlA1SFlOTWZUcmF6dkFSZnY5VGR2eUpnYkN3WHpnVTcxNW1ya25lWjRjWG5OVFhlOFA2MFJmcTNDeE5JeG94RFpIemMzaEprdzVsdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "9 Best Desalination Stocks to Invest in Today - theimpactinvestor.com",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aalRHMXNsbF9XSkNaQnlBbl9DMUw1a2gwMTE0TVNJeTZrbVVuaVpqMC0tbVFIYTczSHNFMS1QV0dtRThtX0luVVJFaHFuM1JHS1dnRExORVNjREVpNVRZ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 948.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 950.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 950.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 950.0
-      },
       {
         "date": "2024-12-06",
         "price": 935.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 948.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 948.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 961.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 945.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 942.0
       }
     ],
     "current_price_data": {
-      "price": 948.0,
-      "change": 3.0,
-      "percent_change": 0.32
+      "price": 942.0,
+      "change": -3.0,
+      "percent_change": -0.32
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nLa premi\u00e8re nouvelle signale un signal positif pour les entreprises cot\u00e9es qui respectent les r\u00e8gles de retour court. L'article du Tax Adviser souligne que respecter ces r\u00e8gles peut emp\u00eacher les p\u00e9nalit\u00e9s et la rejet de l'\u00e9lection d'un candidat comme untim\u00e9.\n\nLa deuxi\u00e8me nouvelle pr\u00e9sente des stocks de dessalination \u00e0 investir. L'article du site d'impact investing signale que les investisseurs peuvent profiter de ce march\u00e9 en investissant dans les stocks de dessalination les plus efficaces.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

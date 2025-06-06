@@ -2,55 +2,163 @@
   "ticker": "PPL",
   "name": "PPL Corporation",
   "sector": "Utilities",
-  "market_cap": 25622890496.0,
+  "market_cap": 25231081472.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.865671,
-    "PB": 1.7916775,
-    "EV_Revenue": 4.932,
+    "PE": 25.47015,
+    "PB": 1.7642803,
+    "EV_Revenue": 4.883,
     "ROE": 0.07018,
     "ProfitMargin": 0.114870004,
     "GrossMargin": 0.42277,
-    "DividendYield": 3.14
+    "DividendYield": 3.19,
+    "DebtEquity": 121.312,
+    "CurrentRatio": 0.809,
+    "QuickRatio": 0.52,
+    "FreeCashFlow": -481124992,
+    "OperatingCashFlow": 2571000064,
+    "FCF_Margin": -0.05554433310194227,
+    "ROA": 0.029719999,
+    "PEG": null,
+    "EV_EBITDA": 12.835,
+    "BuybackYield": null,
+    "PriceToFCF": -52.39574341629711
   },
   "technical_indicators": {
-    "RSI_14": 47.300257836121105,
-    "Momentum_10": -0.5163519851526646,
-    "MACD": -0.2198150716804932,
-    "BB_Percent": 0.43469325658698,
+    "RSI_14": 41.08135167401691,
+    "Momentum_10": -1.603120515017203,
+    "MACD": -0.2633523124597161,
+    "BB_Percent": 0.2413603679189821,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8841814406201092,
+    "ValueScore": 0.8814221382429295,
     "QualityScore": 0.394987527858971,
-    "SignalScore": 0.63661875010945
+    "SignalScore": 0.6504260658270016
   },
-  "volatility": 0.0127869066096528,
+  "volatility": 0.0128028523622475,
   "beta": 0.668,
-  "return_6m": 0.022474861287649,
+  "return_6m": 0.0171770036180543,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 16,
-    "target_mean_price": 37.63125
+    "analyst_count": 15,
+    "target_mean_price": 37.47333
   },
+  "news_sentiment": {
+    "summary": "La société PPL a récemment fait l'objet d'une série de mouvements d'actions et d'analyses divergentes. Alors que certains investisseurs augmentent leurs positions, d'autres réduisent les leurs, ce qui reflète une incertitude quant à la performance future de l'entreprise. Malgré une croissance des bénéfices de 11% au premier trimestre 2025, les signaux de rendement du capital pour PPL indiquent des défis à venir, ce qui peut influencer le sentiment de marché à l'égard de cette valeur.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "PPL Co. (NYSE:PPL) Stock Position Raised by Hennion & Walsh Asset Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlgxTnE3cjFfaHVYeHNwWG8xYWF3cmhGR3FuWGlzNlNGaEpySHlKV0c4bzI3RTE5QWdMYjNkZVA2U3p3OGFTZ1VES0VqNEhNa0hCWkwtOHZvQXRJWlRRTjBPN1dSWC1aeXdCRlFYMWkydnlWSEVxN1lBOXhWR1Z4M3pSNjlDRVRfSmpTVGZSNVdCYkZ3OGxPVXBidE5PbkoxNWw4ZnY3SnNyR002Nl8wVkdrTWJ6bmIxVXAyaWtTbVRTUVdRVGRYdjk0bUJiSUNZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PPL Stock Underperforms its Industry in Three Months: How to Play? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGhMNnZUbVI1cTRsYUlNU3VUVnlzOEJRUzYxeHpZZFowaFBCM3JXYjRpeFFNMV9kVWNlMnI5TUFQcjIydW9tSmNOcHJfSVJUSGVELWN4VEtweEJoVFRPWGtUZFpVTENoajVWV2I1elZ2Y0pTVXJlM1BfZDI4UmFxUDFDZHdZaUtkOTNaLQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PPL (PPL) Stock Dips While Market Gains: Key Facts - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0RTS2x3eW05a0pkQzNVSVFHZXY4dDZTLVpHaWx1MzdycGtvVnVPQUQ2RVpId3pQeEc2eXJjSkFKcnZpY2xWSHlpSnRYVGhfNlZLSXcza3piVnJLYVFfSG9zNjE0T3pSbG9YZjBCRHhDQXdZQnVRbjktNDFiZ2FucklyNXYtRlNH?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PPL: Barclays Lowers Price Target for Pembina Pipeline | PPL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2lnT2YyVE53YmFfa0NJSkl2MktvazF5M2M2dWlhc09CU2YzQmtaM3NWdUxsZUIxNUJVZXctVEN0V3o3Z1o4b1pnSjNaVm1tVGJ1UmNlLWYyVzBfdkN1Q2pPc2c4NmpPclFaN01vc0pjaUZoWTZpYmltY3NlWnNHVlVQXzQzVFg2dy1JaFgzSTkwM1BxeG9ucnR0blBuNDVzUzBMMEZUeUdjT3ps?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Returns On Capital Signal Difficult Times Ahead For PPL (NYSE:PPL) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXRKZUIwWjhzbThhbEpfREdCMU1abE9Fd3pINnJkTnRIYmNwbU90OUk2cnpkWVRRTDZtay1yMDNocmRpV2hhVTRVb2lYcGdfNC1MRlpTNUJiUDBoa0V4UlRfVFk3MVV0N0hoLVowSF9TM0hWR1ZEWnZuRmczWERuU1BfVERfSGg2UElrUFBsYzNkUTlybTlDVmdoVkV3dFVTcmFfbjgwWDJMSzhxaE13SmV0Q29nZ0VwcEVjMNIBwgFBVV95cUxNcTJ4b0ZQV0xsR2JtUjdPR3RiQkZINjNSR2hzLUt6aDVWbGVvVHhVVTFLaFExYjFXX0tLU0NhQ29uLVdhaEVBckhvWWRRTGkxUjhmSGNIb0ZnSHVneFRoM01aYV9vSGRuMDdLZDNibVJCcGQxejduYkpDNnIwdHhJU3B1RlRwelBSaGVmR2xlbUxfMzhlbXBHbWFzek0yZFpyLXBaYkxhT0o2SFN6OFZtRmdtU1A1VmxINDdDTjltRk8xQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PPL Co. (NYSE:PPL) Holdings Raised by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHV4cHNMVGF0MzI0RmpfVlcxZWt1UlhFRk9LS1dQWTZKRUt2bmV3TE11TEdPbjc1Wl9TbVFvbXl2Tk9QTVoySkdVdUxrNkkxTkhUT1NuLU92Ym5MV0VTWjZGcWVmY1BLaFRLVk9PQlB4dGJLQzlWMjg3NFd2VG9yTkdCNVVZYllCYWdGRGJ2eHdjZWkxWG5UWWJaWnIyNXZIU3hvSlFrd21lYWxxRm04amx6ODY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PPL vs. AEE: Which Utility Stock Offers More Growth Potential? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WeThzU25lVUFBSWxZUm51ZFRHRHQtaGNUcm1mSHJ1N3BIVXl6UDFBX1d6SjMyWnZTT01ndnRaLUNpZGJ3TDBOaVRVZTUxTDV4eUdVTDRBRTdjMDVsd0NMVjBaSGk5UXQtR3FUMGhtRHU0QkZDUDBmb0VB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PPL Corporation Stock: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3hxcG9mdGIzM0JHR2hUdGlveXhFTjNCeHFwZkVEZl9CUkhUSUtaT2lGdElxcEQ5OE5pUXNKaUh6cW5LSDVSc0k1c0xOaXJHM0FpRFVBNHZBc3pncDhyTDUyNnhSNy1yZlRYTHRzZGY1emR2WnBaaWVLVEVCU3ZlSWprbWZNVzhQS2FTcQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PPL Co. (NYSE:PPL) Shares Bought by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaU43YkNHNU9JWG1QWnlOcVJZOGtXOE1Hcy1CaHU5cmpxS0dVS1l3enpud3UtaTUxMnowck1FSGU4akljU292V20ydXRHRUJHWUptN0tJNVc2SFBoOF9RNGxCYUp3Zm1JVThXQlhMaWJNNHo2OTZEcEZjd0pTMDVkLUdmUmVoMF9nR0NjTXdxcDZ2NHZkYmtsZG9pV1JTeEMzSkFwRTB1azBRS0lSa1cyUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Options Traders Know Something About PPL Stock We Don't? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQXNfLUJoRVFuTE9RZ2FLM1Z3dHI3RlJKSy1YREZmbGxuY05UVmlzTTlDV1Q4dGUwVDE1Nk9QUDBzbmNnLXB0VkRTVm5zWkJBb0NQelZDeDhOS3VBQldVbTFRY0poeXpaZm9vQ2FEOFRNOW5WaFF0LWZDbVVfNXBDaF9jUC1Nakk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is PPL Corporation Stock Outperforming the Nasdaq? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ejd1U2lkUmZmTUFkMlcwVTlBbXBkOHk2UE5GSlh4WG44bGFFS1NFSUE2YWkwRHZVNmhJOTFzeWZDb1lURGVieFJhWFB4WGlNcU4teHZYZlBNMHBlcFNmdG83b00tdzVuMlVGNlc3VGFSOFZNZFFrRE44UVV4YXc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PPL Stock Outperforms its Industry in Six Months: How to Play? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakg3VEZNTG9vTW9FeEwyVmJ3VGdhYmhRMVRqNDB0a2VJMUs1LTdlZGgycFAxekxpVWY0ZHZxMGx5WUZ0SFM0UWJSVGxBN3JId2hnMHJKMW9PRTUwZHRQYWExRW84anV1b2VwTDEzejZsX294R1d1VGQybWFYeFhtX1lRdzljT1k?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toronto Dominion Bank Cuts Stock Holdings in PPL Co. (NYSE:PPL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR084SV9XY3VuamlDTV9YUEhtS0NYMl92dlJXZ010S3NDdXBXbXZPQ2M1eElCU3JZa3RCcVR1NlpKQnZYamdhVVMxcG5XOTk2X0JiVGNQQjF6dnhWZWpNZWMtMzhISXB1aW5XZ2xhNmEzRWpiMlNYOWpYbTB2SW1iUmItUVMyc05Ycl9xVXFnT3pxVFdHWWFDd3VER05HY3ZPeklVWC1yNnFJV0d2SkpFM2E0V2FpY19GOEpfSw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PPL Co. (NYSE:PPL) Shares Bought by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPODhxZHdObndzeGh2c0lBcUJ4NVVQRi1rTVhHWG9pcFdDRmwyaWZtY1M2VWhsTmR5SWhfaHFydlhVZGF4akg1RU8zdHBIdXdmS0dUMmY3ZTVwVHNDc2poNUZwZjFtYzdkd3lYNTFmUHdsT0VZZExsZUFkWVp4cWw3bWY3bkZqV3NlbWZTa0FPTHI2YkxZRUlnMENtTkx5eEVwX0tDYi1PMEFvLVpNN3J3S0Nn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PPL Corp (PPL) Q1 2025 Earnings Call Highlights: Strong Start with 11% Earnings Growth and ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kam9haTVIQkM2OVROXzlnUlhlRFU1QnpDU3JFbmhJdWYzNEl4Qk1nM0E2VWZlU2M3Rl9meUZqelBDOVYxQVFlY3Z4NlhuUExQRWlINXlKU3JHdFFaZ2p1a2xJSW9LYUJZNHlSRG5uNUtmaGR1?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PPL Co. (NYSE:PPL) COO David J. Bonenberger Sells 1,767 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbFp3N2hhNnlSX2cxNldWM1Z1NDRWWHZpalI4STNoV01DNHNZMXRHRmpsdWFBM2c1NG1GbWJnS0FONWpZdE0yTGJtZXZlaFp0LXFfcTlBdURJdEtpOWs2eFN1WjNsSTA4TUxfcDZmNnJGVklqS3pORUU4VGUtN29MVTdNWjRBVjI1RW4zVHhhSXVTS1gwVTZ6MUpncUVhREk1U1hIRXBrUWMwc092bFRTeFNCc2M4QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PPL Co. (NYSE:PPL) Shares Sold by California State Teachers Retirement System - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSmdhbFRwd2FWWUhLSUR5Tkc0SHFwZ0M1d2xjUFJTSzNtZ3dTVmVhS1FBR1RVMGZsTGYxVndEeWRPQjdzWFh0V09ZV3lSTEhxV014T0pXcWpULWxERExRMlJFZFNJQ1lIdWxBTEwtdnRSUndSTXkzaFRKNlRuNEt6Y2hHZFZxZndfNkN2cHhfMThiS3dJaU5nWDJ5dnNDLU1kZkNaazhXWDY4N1FXb0hqZmhZcFBKQXZkNkhKa2VyRERQTlpTT0hFMXEtZ25rNFNQWVhOREVRTFdtYWs2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pembina Pipeline Co. (TSE:PPL) Senior Officer Acquires C$180,765.00 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1ZBYWdnemt6TGladUp0dW9YYXFWcHcwX2daYTlENVFTc0JsSkl6RHo4ekVoNnJGZVBjRFJTR2RVRjRtRVJfTjA1V0F6U0ZuUlAxX3k0bGZOU0hPT1pkLW5WcTl2UHhfSVJaVHJsUDRhWDVjQ0JtOHpFZFRSTHhZTXNTQUwycDFSMDg0T3JWV3lpUlZxOUZWTzlOTXBWbXBtSTNXTEI3a2FCcDRISjY2QzZuNTdtbVJ5NFZFbkxfa00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBC Securities Inc. Acquires 102,268 Shares of PPL Co. (NYSE:PPL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVhhRUEzQlVwWXRPajRqa1dhZ2xIaGRINXhPbUU4ZFhZYl9oZ0pWbHVrSGV6bmFaNENRUTFqY3pralh1VXEzQ19yXzR1U3MwdzdSQUt1RV93SVBhLUlpZHN2Wk1HblpqVmU2MkdmbzNrNE9MY19BVXhJN25Zb0l0LVprZUg0VXA4djZPaWloS1lSMGR3S2hyTnVtUnM0MExsZEN6dC00V3FhbmJoem9KY1RycXh4NThpTmthbg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mackenzie Financial Corp Reduces Stock Position in PPL Co. (NYSE:PPL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGtWYnpLbGhjenloalNnRFdHVy1YaVc5U1RnUHoyS1dyNmlrbGJadFpfSVVfQzFndV9mM0ZjcFMyMWlpckVkWFpYYnVEWG0wSHdiRXItRG5sOVNxQ01MVzF3UVNUbE0tNWNrZFBqRjFibnFudHh6WUFSYlc1RGRrZm4xamRyYUJtcmZBQ3REYl9BRkdTNlVvOTNPaklEZXc2Zi1FdXVzd0hhZDM0ZUdkTU81SElYT3d4bS1KakVrLWtMMFFCUXVNaEdzUUlOUVhn?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 34.44
-      },
-      {
-        "date": "2024-12-03",
-        "price": 34.25
-      },
-      {
-        "date": "2024-12-04",
-        "price": 34.02
-      },
-      {
-        "date": "2024-12-05",
-        "price": 34.09
-      },
       {
         "date": "2024-12-06",
         "price": 33.6
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 34.71
+        "price": 34.72
+      },
+      {
+        "date": "2025-06-03",
+        "price": 34.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 34.17
+      },
+      {
+        "date": "2025-06-05",
+        "price": 34.1
       }
     ],
     "current_price_data": {
-      "price": 34.7,
-      "change": -0.02,
-      "percent_change": -0.06
+      "price": 34.1,
+      "change": -0.06,
+      "percent_change": -0.18
     }
-  },
-  "news_sentiment": {
-    "summary": "PPL (NYSE:PPL) is a utility company experiencing rate increases for its customers and facing challenges in the market. However, it has a steady performance with a 3.02% dividend yield. David J. Bonenberger sold 1,767 shares of PPL stock.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

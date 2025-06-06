@@ -2,55 +2,93 @@
   "ticker": "7751.T",
   "name": "Canon Inc.",
   "sector": "Information Technology",
-  "market_cap": 4029968547840.0,
+  "market_cap": 3893575548928.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 24.330244,
-    "PB": 1.2450283,
-    "EV_Revenue": 1.023,
+    "PE": 23.540407,
+    "PB": 1.2306582,
+    "EV_Revenue": 0.992,
     "ROE": 0.054840002,
     "ProfitMargin": 0.03762,
     "GrossMargin": 0.47285998,
-    "DividendYield": 3.61
+    "DividendYield": 3.73,
+    "DebtEquity": 29.434,
+    "CurrentRatio": 1.34,
+    "QuickRatio": 0.763,
+    "FreeCashFlow": 351699992576,
+    "OperatingCashFlow": 601554026496,
+    "FCF_Margin": 0.07679545272676921,
+    "ROA": 0.05104,
+    "PEG": null,
+    "EV_EBITDA": 6.417,
+    "BuybackYield": null,
+    "PriceToFCF": 11.070729687566384
   },
   "technical_indicators": {
-    "RSI_14": 41.91426199747879,
-    "Momentum_10": -3.3467202141900936,
-    "MACD": -30.526996880773368,
-    "BB_Percent": 0.1856075416422043,
+    "RSI_14": 38.98523732019057,
+    "Momentum_10": -1.7439192290041303,
+    "MACD": -47.10205747181135,
+    "BB_Percent": 0.1964370004473937,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8964687487538388,
+    "ValueScore": 0.893843378759844,
     "QualityScore": 0.4418324846063957,
-    "SignalScore": 0.6880940805826858
+    "SignalScore": 0.6701397019974877
   },
-  "volatility": 0.0196097848364117,
+  "volatility": 0.0194523932163809,
   "beta": 0.231,
-  "return_6m": -0.1028745937651963,
+  "return_6m": -0.1326716629532104,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 11,
-    "target_mean_price": 5090.909
+    "target_mean_price": 5045.4546
   },
+  "news_sentiment": {
+    "summary": "Canon Inc. (TSE:7751) a publié ses résultats du premier trimestre, dépassant les attentes avec un BPA de JP¥77,27 contre JP¥60,70 l'an dernier. Malgré cela, Canon a confirmé sa participation majoritaire à Axis et ne prévoit pas d'augmenter son offre. Par ailleurs, des discussions sont en cours pour la cession de la participation de Blackstone dans le fabricant d'appareils photo Leica. La tendance positive des résultats de Canon est contrebalancée par l'éventualité d'une restructuration chez Leica, ce qui pourrait influencer le sentiment des investisseurs.",
+    "sentiment_score": 0.167,
+    "label": "POSITIVE",
+    "positive_ratio": 0.17,
+    "neutral_ratio": 0.83,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Canon Inc. (TSE:7751) First-Quarter Results Just Came Out: Here's What Analysts Are Forecasting For This Year - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcUcxS1JEUXJnamw1V01zSkp0QnAwV3R1QjNLWEF3Y1VjYlJsanpXa0dpUGRPOEk5UlhVcW1NMFZGd2ZzOXJqTjFwLVhQeVZCMFBwQk84WnFvenJ2WDI4OWZTUmhYOEhNUVVQZjhYeEtJdndpbHFzTVlKdEd0NFZhRUV3eWc3VzFWelRac2FyVXF4bkRSMmFpN0dwUUd4TVpPQVdQTnVRdWh3bndYTE4yNHpqUEZ1ekFzLUZUaVZkcjM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Recovers on Chip-related Shares as US Stock Futures Gain (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oYTdpa2R3ZGJ2VlpJcWVQRkVYbkdfalM2NV9PM2t1YkRkOS12ckN2VXVBWFFIY3B6dERFVjd2VGlKd1ZOZ2FQQ25sNUIxWktoZTNCZVRXVFMyYWNkZjk3MWVXREtGMGd1bDJMMjZQSlhubWkwc1NQOEZR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Canon First Quarter 2025 Earnings: EPS: JP¥77.27 (vs JP¥60.70 in 1Q 2024) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS3lpRGlkLXdLQWZFa0tmZ2E4U1FxelFyNE9lTmQ1VDQxN2tDNTA3cERmR2tEcEFwYVUta000Q2NvcjJ1R1Fmemt1TDNuRkxOdzFHVjE1QklCN3pQMTlobEZPejBnMW44aHdDZ2EwSDgzckp2LXFEOGhmVDdfQTdPWHhDZFE5MVpEa1IxUDhNdTUtZjlsbTNvUmduY3RzZWd1NFI2QUtSY0RmTS1vRmdDQlJlTWNobnNIR0JGYXVhRlBQUdIBxwFBVV95cUxNYk5HMUIxZXYxcjRfZjhxYnFSZUhneWpwUUVMdTk1RUhBcVp1bDl2azcySzFqaEI4aW5fc1UzWG5Ua09kOGRabWN3MWt5VndDTGtBcHQwMHdzLTduTzRONnVOUGhQdWc2WlpzWDVyZVJTNDNrZVUxckV4TjdrZHJTLWZNZy14VlQ1M096SDVqOGlKaFpJekpRNlM4ZmdMS2ItZjVzYWZPVWdGUHBUREFyaTlnRUZQQUthN2kyNk9rYXJzaG1xbHlF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Canon says owns 84 percent of Axis, won't raise offer - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTTZYTlUyLUZOTVlWMFlqcUtnbUc4MF9tWkduRHlHWXB3ZHR1UkY3d2VxMmlmYkxEUkt3R3lUMHMxR2RmVG9Md0dvVnFBb1E0TWpRLXlXM0lTcmxjSEhDVjVRXzRjLWs2QnF3Q0VVejVIalFlVElMLXNUSUVURGl3LVh2VlpZdVBOYlhUbFZqc09nMm5YdWhfMkt3akVwWkllT1NsS1FOZTZXeGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vic Chesnutt - Pitchfork",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55Nm9ZSGNISE5XLUxNTDl1MVpWT1F2Ym41bHMzT09URWNmQ0hGNWlPTi1kUVJ5VFJWakI2aXYwdTFIUTVMNWFQOVFFQ3hQaUZtX1VGTHdVNkpMRkh6U1k3dGNoUzhfWjBLeTI1M0NnX1VqTlJpbFlZaDBUR3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exclusive: Blackstone in talks to sell stake in camera maker Leica - sources - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSm5OR2FwazE4VFFxaGxJenZwR2JsdS01OWIwci15MDJxLVVmUE44QlVhdGFCLTFFSnNrbkl0V2NxVzdKWUI3a1Z3Vlc2bG9YTWN6akU1T3pMQ3hrY0hsTU5ubGFjVWF4Y2xFUmMtejVLdEs0NEtqZWxPYzFudk5qUmptVHJxUVBlSkNqdm9FS3RrMUU3b3ZyTVJLcW5QcmZCMUJuTVJvbTVIOElWQ1U4a3BRSlhYcmNMbHlTTmR4TnFoVkZ0cTlOQ01yTXBRQQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 4904.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 4957.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 4871.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 4937.0
-      },
       {
         "date": "2024-12-06",
         "price": 4968.0
@@ -514,24 +552,28 @@
       {
         "date": "2025-06-02",
         "price": 4332.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 4310.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 4290.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 4282.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 4292.0
       }
     ],
     "current_price_data": {
-      "price": 4332.0,
-      "change": -100.0,
-      "percent_change": -2.26
+      "price": 4292.0,
+      "change": 10.0,
+      "percent_change": 0.23
     }
-  },
-  "news_sentiment": {
-    "summary": "Canon's (TSE:7751) Dividend Will Be \u00a580.00 - simplywall.st\n\n* Positive signal: The company's dividend payment has increased.\n* Key event: The payment of the dividend is an important signal for investors about the company's financial health and future prospects.\n\nJapan\u2019s Nikkei Stock Average Recovers on Chip-related Shares as US Stock Futures Gain (Update 1) - The Japan News\n\n* Mixed signal: The recovery of the Nikkei Stock Average is positive, but it is linked to chip-related shares.\n* Key event: The recovery of the Nikkei Stock Average is an important signal for",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

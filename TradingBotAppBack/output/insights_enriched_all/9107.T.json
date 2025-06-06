@@ -2,55 +2,73 @@
   "ticker": "9107.T",
   "name": "Kawasaki Kisen Kaisha",
   "sector": "Consumer Discretionary",
-  "market_cap": 1360279896064.0,
+  "market_cap": 1302798794752.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 4.6792836,
-    "PB": 0.8251967,
-    "EV_Revenue": 1.474,
+    "PE": 4.481552,
+    "PB": 0.79032654,
+    "EV_Revenue": 1.405,
     "ROE": 0.18631001,
     "ProfitMargin": 0.29141,
     "GrossMargin": 0.17391,
-    "DividendYield": 5.51
+    "DividendYield": 5.51,
+    "DebtEquity": 20.559,
+    "CurrentRatio": 1.963,
+    "QuickRatio": 1.545,
+    "FreeCashFlow": -21403500544,
+    "OperatingCashFlow": 273173004288,
+    "FCF_Margin": -0.020424279484459257,
+    "ROA": 0.029760001,
+    "PEG": null,
+    "EV_EBITDA": 9.684,
+    "BuybackYield": null,
+    "PriceToFCF": -60.86849167844233
   },
   "technical_indicators": {
-    "RSI_14": 59.392341482575496,
-    "Momentum_10": 1.1270251232683728,
-    "MACD": 55.82905171741322,
-    "BB_Percent": 0.6356241046518433,
+    "RSI_14": 45.97024576264798,
+    "Momentum_10": -5.172413793103448,
+    "MACD": 40.956217146790095,
+    "BB_Percent": 0.1633552047109009,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8982861853481959,
+    "ValueScore": 0.895611361741181,
     "QualityScore": 0.311479056204717,
-    "SignalScore": 0.5545199305063038
+    "SignalScore": 0.6443795400369441
   },
-  "volatility": 0.0236990977795782,
+  "volatility": 0.0237429920274325,
   "beta": 1.31,
-  "return_6m": 0.070328031809145,
+  "return_6m": 0.0012135922330096,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 10,
-    "target_mean_price": 2080.0
+    "target_mean_price": 2075.0
   },
+  "news_sentiment": {
+    "summary": "Le titre de presse souligne la récente baisse de 660 milliards de dollars de la valorisation de Tesla, mettant en lumière les défis auxquels fait face Elon Musk. Par ailleurs, le rapport sur le marché des transporteurs automobiles met en avant des acteurs clés tels que K Line, NYK Line, et Hyundai Glovis, suggérant une concurrence accrue dans ce secteur. Ces nouvelles pourraient impacter le sentiment des investisseurs envers les entreprises du secteur automobile, avec une attention particulière portée sur les performances de Tesla et des autres acteurs mentionnés.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Musk can’t dodge Tesla’s $660 billion slump - The Philadelphia Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkVmTFJtOUdDNVpGRGhIZHpDdXlJQy1YODVTQmVqZTR5ZlJQV2l5RFVLZXJuRnhGYlAwWWRZRHBmOGt2NjZKVEE3NS0xOEdoVlEzWWJaS2M5elZTZzU0RERxclpkS2Q5Uk9uYVNfOEVNUU1FakNuWjJPdW9QRklJWGhOVGVneUlRQnRSaTgzY0xPcmpfbUM3dXJXRFdNMVE5TTNwVHFOWWNURDEwSk0tY1BROG15aDdmR1I4RjAtTzhlR1pIdEVsR0tR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Car Carrier Market Insights & Forecasts Report 2023-2027 Featuring Leading Players - K Line, NYK Line, MOL, Grimaldi, Wallenius Wilhelmsen ASA's, and Hyundai Glovis - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWZHekVKRFg1ZkJ3Ri1JTjR1OVZNZ0FqaWJ0VTB5ZEJONm9jT0tCX2E4SHVnZmx4SGF3VER4dG9qTXBCOFZaem5GQkZuY1VFVUVkV1VKZFdmVVZ0VXZRcHFUQnFBeFhJZFFiZEt5dU9NVENCWUZwZ054Qmtuci1Qb0N5b3dJWndNUGw0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2012.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2109.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2094.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2060.0
-      },
       {
         "date": "2024-12-06",
         "price": 2054.5
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 2153.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2171.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2177.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2062.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2073.5
       }
     ],
     "current_price_data": {
-      "price": 2153.5,
-      "change": -23.5,
-      "percent_change": -1.08
+      "price": 2073.5,
+      "change": 11.0,
+      "percent_change": 0.53
     }
-  },
-  "news_sentiment": {
-    "summary": "Musk's Tesla faces a $660 billion slump, while the shipping industry continues to flourish with the top 15 shipping companies valued at a combined $871 billion. Despite the global economic uncertainty, the shipping industry is expected to remain resilient due to its essential role in global trade. However, Tesla's recent struggles and Musk's personal controversies could impact the company's future growth prospects.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 4,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

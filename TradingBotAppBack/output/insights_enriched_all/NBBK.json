@@ -1,56 +1,164 @@
 {
   "ticker": "NBBK",
-  "name": "NB Bancorp, Inc.",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 676292352.0,
+  "market_cap": 675497152.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.12678,
-    "PB": 0.84219676,
-    "EV_Revenue": 2.407,
+    "PE": 14.110169,
+    "PB": 0.8412065,
+    "EV_Revenue": 2.356,
     "ROE": 0.06258,
     "ProfitMargin": 0.27259,
     "GrossMargin": 0.0,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 64543000,
+    "FCF_Margin": null,
+    "ROA": 0.00932,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 40.551907770164014,
-    "Momentum_10": -5.070614806044036,
-    "MACD": -0.1340157831701312,
-    "BB_Percent": 0.0946446128870487,
+    "RSI_14": 41.54062663582868,
+    "Momentum_10": -1.5375531119335055,
+    "MACD": -0.1669419017177098,
+    "BB_Percent": 0.1834608455597667,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9341575445899754,
-    "QualityScore": 0.3529907897464038,
-    "SignalScore": 0.563962048660938
+    "ValueScore": 0.932775562678014,
+    "QualityScore": 0.3533441338802841,
+    "SignalScore": 0.6155707673745758
   },
-  "volatility": 0.0184740205755891,
-  "beta": 1.003,
-  "return_6m": -0.1690129622693912,
+  "volatility": 0.0185279326929207,
+  "beta": 1.0,
+  "return_6m": -0.1535333221174382,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 1,
     "target_mean_price": 19.0
   },
+  "news_sentiment": {
+    "summary": "NB Bancorp a récemment annoncé l'acquisition de Provident Bancorp pour 212 millions de dollars, ce qui renforce sa position en tant que 6ème plus grande banque de la région de Boston avec une croissance de 19% du BPA. L'entreprise a également lancé un plan de rachat d'actions et a vu une augmentation des achats d'actions par des investisseurs institutionnels tels qu'Ameriprise Financial et Millennium Management LLC. Les résultats financiers solides du premier trimestre 2025 ont été bien accueillis, mais la vente d'actions par Bank of America Corp DE peut susciter des interrogations. Les mouvements des insiders et l'intérêt croissant des investisseurs institutionnels pourraient influencer positivement le sentiment de marché à l'égard de NB Bancorp.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "NB Bancorp agrees to buy Provident Bancorp for $212M in stock, cash deal (PVBC:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzRrQnlLRHg0NkpGUktPTDZmM01XdWJ2cWRvSVh1MUV1VDZJTlBidU1zNUNPOWtLQTFncWh2NzJ2T2VFaXJfQnpxMmhYYk1iVGVxMW9oYjBqTjFhQ2VGVXpYa1N1ck1wVDVoenBkb1dhTlRVSVZNUnhueG5vbGtDY0xzbjFZUGp6dF8xaGJiVG9zbGRnRTBUbGNRYmE5WFNtcGY3TDN1bzJsWmJf?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Major Bank Merger: NB Bancorp's $212M Provident Deal Creates 6th Largest Boston-Area Bank with 19% EPS Growth - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVVpCREs1b2g0S0FaTGpzOF9JS3NheGR6dF9uRWR2S05BbzZ4SkFkb00tNGR4clVPb2xLYUJKZkdDTHFGRnU3MEI5RktwaWFVTy1EbXUyUXRPTk5uREFYWVpscm42SkxjQTZNX2dUN3VPcTdZZXNOeWhuMWpOS29lT2VzYmFMcUVrOE9aRW5MRGp3Wm5rOU16dTJrZWI3UEQwSmtBY3RfcDEzYndnVEpvTlp6a096TTdK?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NB Bancorp, Inc. (NASDAQ:NBBK) Shares Purchased by Ameriprise Financial Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT2Q4cGQ4QTV1bFZmMWVaZGhmTmI1ZEtGb21kSXNOT2E4REVnZmJfSTVIMGlwMGxzU09IQTBsTDFDaXd2V3JmZ1VQU1hhQlo0UVF2dUQ2eGlaY2VzZEItZDVzTlVVT1ZOWDhrUGs2TWtJMTRXVTFzZWw1bU1GOGpnbXBqcTJrT1U5OFZzbFdsWnY2d0lPTGc5N0R1bjFsbVJCZDFrNHZqQU40QWZJTWo5ZUdiRmhRcm00b0hCMVdGZ2swOFZuVEZj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NB Bancorp, Inc. (NASDAQ:NBBK) Shares Bought by Millennium Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaVpoRXpnN1NqaGItTU1oQkVRcnQ1aWZBTHhtdUN5VVFZUVFHMjJiMWlLMW1jUXZLMjZ6MUdXOFNEa1NBOGI4Sm40SkREMFJfNm9zT3gteWw5MVZPNk1lNGdZSUhRSEhJdmtZdjVCTm5ZdlpGNGxNdzJhRkUyMnlkc1R4eWtQTXVZTEMzM0FTVW4zU2I1QmdkMjgzaG9LTE1nQUVlS2c4U2I4dGpwcjE2Y0c2VjY5d1JnZkhmbzktVVJSWWJLOUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To Trade (NBBK) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWkQxUEQwdDh3YnR3dHB5aEI5aFZab1pzZVQwMG5hZGc4X3VlRXFrdFQ1cUV6WXA2V3Z2ZE81TjVTTmQ3Y09VWF9MRkpWbW0zSkNxdmEtNHU4aUxUdC1RNnZkR1lqNEVqMlR1RDNlYU0xam5kQ3V1N1JxTDRVRFJBSV9SVVdQUklJeDduM0JYS2s4WnpKMFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Estimates Moving Higher for NB Bancorp, Inc. (NBBK): Time to Buy? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVg1Z3paakRRMG1jOVdXelVRMk0xWDFJUGF6NzlLUW5QelpwTW9HU2d6dmJQYXVxVTRpbFUwQXFPNWFWekpqYUxVelUyNlVUWXZpYl9Qek4tV2wxMjd1SjdkbzFyUy1mNjRQNDhpMTBvM25PV2pqamdrYVpOVkpXeU9Pa0Mza2IzUHViT1ZDZ2Jobk5JaHhqZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NB Bancorp, Inc. Reports First Quarter 2025 Financial Results - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlNzWGdCVkZQNkdfZnNOeWpvQXZxdHNsbmNIOEJaVElvanA1WFdXaW5yUEpENW8zNVNYTVhPWEY3ZnZzdHI2b29jcU5EeFJQSFZTalVITF92VnB1RFBRd1dyMUV0em1tb19KcloxUnFuY09fWHhZX1J6M3JaMUZaOUxlZHlRcnVDVXJicGFYNDFjQ3dJZU5nQU1SNEIxOEVnQlpKUlNLNml4QURsYmJZWm9SSTJwa1paa01DOUt3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NB Bancorp adopts stock repurchase plan for up to 2.03M shares - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVlBpUk9RYjJZRnQ1eTRRQVBBNGpIWUZGelFtNmNtVnBfMEFva1ZsVXVEVHJxZEJaMUNhWUJqeEdsUWpYVF9lWjJZa3NJM0dHVFJpSVlnN0VnQVZkeko1cGdWQS1WR1E4eHJTSHlwNzA2NVNjaklzb3VHTmx2SFFJU2J3MXExLVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NB Bancorp, Inc. Announces Commencement of Additional Share Repurchase Plan - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEJTMUpMOWpLb1JXblItWlFXaEtlc3BlNnRkX1NleUJUYVp2YmVVYUtnaWtKVnFycHhyUmtobTltZGh5enZ5U2I2MEpQWHkweFJLcTUyOFVmYnNtWnBYR3FvNzR5dHpRRUhvZW50U2pMNDhKbEY1a1FiTEViZFY0UVlkTXlydkVjOUdZcGI4UHlVdFpKXzA4aDhLZVhES25CVGlOVWxMTHpLM0RPNDl4VWtGZmJGellvaFFwR3JCZ2Y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NB Bancorp, Inc. (NASDAQ:NBBK) Shares Sold by Bank of America Corp DE - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0hac3ZYaFI4UHBjYmp5SEdYTDlKdG1aU3ZHNmhBMjJWSUhiY0w4dThqMWZsWWw5dEZHZGVuanhpTzRBT0ZoeUlfTC1zUU9WQkMwcGxvRVJJbURMa2RIeG9YNzFhazV4V2t4Y2lldlZnREExM0dPUDNrVlpiU2gzTVhiZDQtSU8tSEFVUHBQRVNUTTVoTXJiZ3VaUVQzd3d6TzRodG5TWDhLeXNBZzc1Y2ZQYnFmOS1kSlo2VlhEN2ljczlwVm1YTHR3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NB Bancorp, Inc. (NBBK): Among Small-Cap Stocks Insiders Were Buying in Q1 2025 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT24xRmRCdlctMlloZ3lyYWhURnFKZzlaaURoRVZhRmdCc3lzYVdjb3M1eF9mRWJ6VmU5RWpCX2FrYmJCRkdkRzJOZjIta1Nuc3pPWGg3czJqV2JlMUc4ZXFiVldpQnBsVVN5d0s2eS14a25PNV9wY2hZNzRIZmh0WkVmNmZLMjlJWEdob1RyYlFHbG54Y2RtQUkwU3lndlc3ckh6b0lEMjJWbHU4WHpvU1RLWFlObHhrdUHSAcIBQVVfeXFMTTRoeDlMQmxDYzhhR3BUeXF6WkZxVUNCNVJBQ2hFQmhFbm9CWWVYMGNKbDZBMmtnaXF6eHdyRGRvT3cyN2xSVGlhUWVnUFo0dWNxUGpqWm1zUE1KMU9wR2lNdWRtZ29lRDRWckg3RFhCZ2ZoRlMwSlVXTmdSaWVtMVkwVXphcEwxS25qdDJZV2NDclNJZG4tZ25uMVpVeEs0amhydjVUWW53NmlhQTNpejgySWtZTFNHSFFLeEZOV2hhNFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NB Bancorp, Inc. Reports Fourth Quarter 2024 Financial Results and Announces Commencement of Share Repurchase Plan - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNzQwUFFxd093UjR4YzlydWRhMFpRZ29aeHQ0Z1FOV2Rvby1GZXp2LXF5aElZUU9SSFUzRVF0ZlJsbV9CMFRBcHVUNGt3cUlmWDd2N01iZHA4WXY4UVNfRkFuTEg2MHg0ZUJ1MjJtU1F2SVVFSmJpYUh4dWFab2FLLTZXVDVGS0NKaGM2Z3N3aTUwWnViRVZBXzZuNUhwTjA2UmVSRl9HRmEwLVFKSDdWd0ZWUHJqRlJDVVpkOTVZc0VNRFBHSkZxeklydWhCYi1ub2NhZlpmZWFwQmtQMkE0MzFKb3R1YkFoUThlWHQtMFdqeFpDRENQWHFLNFg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NB Bancorp Inc - Enters Merger Agreement With Provident Bancorp - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeGNBLURGbWlPclZ6emhGMWs4aURVWjZsNEpsS0RTQTU5MkJ4MjRaX1U0VndBa1NhNm1kejRjaXpUQ3VNeHNKZUdKM1AxOEkwS0RLalZEOTdNaTl6Z21hRkxUbWxnRzVfbjVDZkhtN2R4VmZhZFhMZDQ5NnVkT3h5VF9PS2kxQU01RUFFV1Q2TVFRQTdfc3NTbWRRZ01QTmpmMWVwaW14WTR2ZEk2YlFnbV9QY0hCZnM3X1JKQ1B3Q2JCY2gzLTNoRG1qa1lNemo3VW5IaU5CUVQ2b0Ft?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unveiling US Market's Undiscovered Gems April 2025 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYnlpdHlBaEdFVFkxeW5IcmVIUkl4MHVBaU1VNWwyQTdoN2F5ZVhsejRBX21ScU1fT25pa01tLUxpVGhTRFhPN1ZHR3NqWEc2TXNsNmVwYkVzZXFWQWU0NFNNZGk0LXNxZ1RuZWIweG9vRWtBbC0zbTB4bktmTXNCQUU1bWxWblByXzQ4X3lHV0J2OUpTNkNhU2drTnRfNnE0a1l1SWdFUjBUeTBHd0JMTW9CONIBuAFBVV95cUxOWkthaEEtcGN4ZkItbDhlWWV3MHlxUGg2NnFRd3JjbW5IWGF1anJQV1Rid2JJVDJ2dWZsd2J6ckVidW1feFBNT19IOXVfaW4zdHVtZnY1Mmo2eGVqc29HNTQ1bG5GRFVIYTJicHQ3NGgwQjBuSndsRHd1OU9hbG0xR2lnTTRuNXg1Y1d6cWF1cVY5bkZybE4zakM2VjVhc0Npc2txUk1FamVHU3ktZnFuQmUyNENfZ3ky?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nuveen Asset Management LLC Raises Holdings in NB Bancorp, Inc. (NASDAQ:NBBK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNFpManhaV2EtNEpRR1RkRVRNeGROc2tmdnFMWkM3SVdLcmZhYmFnV2hyaXc3dmZpRXFzeGFiQm92MHY1eTVMYW8xUktWVmpxRmNSeVRZZkdHU2xXMUg2c1hGYUM3VklLdElxbTV6WXZacjNMX1lDbDd3TUNhMzh2Q0RJcFJIclV6U2pYSGdaTUFXaENLRURta2lmUE5fZkt0Nk5SMlk2YjBVaWNTaUVOSmxscmJzRDdwa1paamN1djJsRG1hZF9HOEtMeTNjY2Q1?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Two Smaller Bank Stocks See Big Insider Buys - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uWnc2VTNYeHQzNVFHZGxrZnZyT2ZvM25zWWdEWXN6d2pic2k4SzFJX3ZQZmhqeVh3SG5HcjhKS3ZrcDRwYW5NcEtRRjdiTkZQM2ItTzFJWXNZcTdvSk1CRy1KMzF1Mkw5dUVNSnpBSk0zdWtF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Grows Stock Holdings in NB Bancorp, Inc. (NASDAQ:NBBK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPal9FMkhXa1hISVIwVjU5VjFBWWpiYXRKNTZBRGZwaElvLW1VVUZqc3hmcFRQUVJKZkdFNjA1bEREVURSTi1BLTJyVVZPMTNpVTVmVy1QN0ZaakxCbUJzcEw1RUxJajRKUHh3OHRDYnZ2UGhhMjc1eGdRejMtMUxBN2JYa2NNcGFFN3hLaS1nZXJLZFJ3cl9seEFLSzRGVy1CUmlJbFBBTGZmN2h4NXVnNHR1UGRYYlNyckxlc2VDMzMzSUFZeFBLTEtnbGg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Needham Bank set to acquire BankProv in $211.8 million deal - Investing.com Australia",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDJlMlpQVURtMkZZeFljQVd5SS1FandCamVYdFp2YW9CSnFVNlVGeTQ0Y3FtdEphZmQxa1A4UEZsNklBekc0anFHeW9mWWFtNUQ0ODJJT2ZmeGkzTFdtX3ZpeFRiY0xsME5aMFZLSDV6bGRyUkNndzlIN182elM0SE1IVUZuNTNLbGZIaEhRNzRVWUVpbVFIeGEyQ0FuQm50Z2F0OG93cDVoREtJeTNDRkV2VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank Buzz: NB Bancorp, Buybacks, Catalysts And More (NASDAQ:NBBK) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDJQQm56dmNHTW5kQmhVRG5kWS16RWxWMGRhMFhiaE81eFRnenBlMUdFWGR2RTI3bjEwMGZXdEdsa2I5QWM4RWtsQ21PNjZQUEljZkZ5UFZvR3gzY3ducEU0U2Z6LXE5alNzTDdXelpmTTkxd0llTzZVWTNYUjNVWUVTeDVRaTZWQm9HbDhOaGFSV3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nuveen Asset Management LLC Buys 25,690 Shares of NB Bancorp, Inc. (NASDAQ:NBBK) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0pORGlFdUstM0NXdGhvR3A3Y3ZqSjNvZG00djM2OE1vRXVlLVhNMk9iY3U2UzAxSURqdjRlY1E2VFhXaHpZczg0MGgxWWpUX051U3B1YUo0eVRIMnNsWUZaZ2JmZ1VGVUJDUFVaS000LS1iaVNsU295bEZFMXdQdURwMXpYd1BfaHpUbE1HTFhYbWVhWGhYY294RXN4Q1d6NEtjMmhMMVA4V1NYVXNUOTd1UklHNUFrZXFN?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 20.06
-      },
-      {
-        "date": "2024-12-03",
-        "price": 19.75
-      },
-      {
-        "date": "2024-12-04",
-        "price": 19.98
-      },
-      {
-        "date": "2024-12-05",
-        "price": 19.88
-      },
       {
         "date": "2024-12-06",
         "price": 19.67
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
+        "price": 16.67
+      },
+      {
+        "date": "2025-06-03",
+        "price": 16.87
+      },
+      {
+        "date": "2025-06-04",
+        "price": 16.62
+      },
+      {
+        "date": "2025-06-05",
         "price": 16.65
       }
     ],
     "current_price_data": {
       "price": 16.65,
-      "change": -0.2,
-      "percent_change": -1.19
+      "change": 0.03,
+      "percent_change": 0.18
     }
-  },
-  "news_sentiment": {
-    "summary": "NB Bancorp, Inc. (NASDAQ:NBBK) est l'objet d'une attente favorable de l'investisseur francophone, notamment \u00e0 la suite de l'achat de shares par Ameriprise Financial Inc. et de l'annonce d'un plan de repurchase de shares. Les r\u00e9sultats financiers de la soci\u00e9t\u00e9 sont positifs, avec une hausse des estimations de profits, et des investisseurs ont re\u00e7u des acheteurs de l'\u00e9poque, ce qui augure bien pour le futur.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

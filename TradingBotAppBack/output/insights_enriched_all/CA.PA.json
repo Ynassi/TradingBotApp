@@ -2,51 +2,163 @@
   "ticker": "CA.PA",
   "name": "CARREFOUR",
   "sector": "Financials",
-  "market_cap": 9579685888.0,
+  "market_cap": 8547153920.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 12.317757,
-    "PB": 0.7866309,
-    "EV_Revenue": 0.287,
+    "PE": 12.018691,
+    "PB": 0.7675321,
+    "EV_Revenue": 0.285,
     "ROE": 0.06099,
     "ProfitMargin": 0.0083,
     "GrossMargin": 0.18274,
-    "DividendYield": 6.99
+    "DividendYield": 7.11,
+    "DebtEquity": 172.471,
+    "CurrentRatio": 0.877,
+    "QuickRatio": 0.603,
+    "FreeCashFlow": 2317874944,
+    "OperatingCashFlow": 4200000000,
+    "FCF_Margin": 0.026624186095288944,
+    "ROA": 0.02409,
+    "PEG": null,
+    "EV_EBITDA": 6.862,
+    "BuybackYield": null,
+    "PriceToFCF": 3.687495713314894
   },
   "technical_indicators": {
-    "RSI_14": 35.912233605283234,
-    "Momentum_10": -6.644402203209163,
-    "MACD": 0.0870692528354446,
-    "BB_Percent": 0.0778392476345202,
+    "RSI_14": 31.94352467429202,
+    "Momentum_10": -11.770021472737447,
+    "MACD": -0.0948071585906422,
+    "BB_Percent": 0.0346794505530439,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9007271859716028,
+    "ValueScore": 0.8979264935968874,
     "QualityScore": 0.3507880987040936,
-    "SignalScore": 0.7356486376937315
+    "SignalScore": 0.766707952183439
   },
-  "volatility": 0.0156178201343573,
+  "volatility": 0.0148182675555258,
   "beta": 0.583,
-  "return_6m": -0.0228643776199539,
+  "return_6m": -0.0214309776062506,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 17,
     "target_mean_price": 13.89412
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente révèle une diversité de tendances dans le secteur aérien et celui de l'éducation. Alors qu'IndiGo remporte le prix de la Compagnie aérienne de l'année 2024, CAPA souligne l'impact possible de la grève chez Boeing sur les transporteurs indiens. De plus, l'accent est mis sur la durabilité dans l'aviation, avec des réflexions sur les marges des compagnies aériennes européennes et la certification de capteurs ADAS ultrasoniques par CAPA. Du côté de l'éducation, l'acquisition d'Atlantis par CEA CAPA Education Abroad soulève des questions sur les perspectives de croissance. Ces événements pourraient influencer le sentiment de marché, notamment pour les investisseurs du secteur aérien et éducatif.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Carrefour shares fall as retailer's 2025 outlook disappoints - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWThHUjlVVElKektRM0NRMEQ1MWgwbzVkNC12WGktYzVQSGRiZHJEaXFLTmtEaUxodVFfNFFZMGFyN0hiQU0yOFRublpKUVdibDZSQU1Dc194WHJhRGY1emRseHZNSXE0TzNwa09FeUt6X19uZmVZYVpDeTkweXZWdGh0cWFzZkwtZG9fRnhR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "California Fires Update: Insurance Stocks Dive As Loss Estimates Double - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ1g4U0tiRThESEt3ZWQ1ZF8yamo2Q0k0OGhFdW1OLUdiOUJ0QXZqUVRaYmZYVWtGSkNibDMwSGpERjhWU1p6Mm54azlLLXBCdmZUWlk5SDVha0dUSEYtQ2k1RFhMTzNaRWNJYnRka3JvSlRidkZuNHN1Q3BBYlRQY192WVUtdGswN3lEYQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Can Frontier convince financial markets that it's a 'premier ULCC'? - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1kwUWxnZDNYYXMwU3BBZWROLUtQNnJJNU5BRkJPZHc1XzBGU1BNZWpUQVBIb05OOWw3MC1WdmxLeUIzWllobXBFQ0ozcy1jV2tubzVEZFdmbVA0TWNnS25iTTM5WnE5YzEyblp2U25PQ2I4RUxjVUgzaEd4dG1TM1BEUEFFNkNab3BzSEVUdTVZY0lWT2poMnRaVmpWYUl4UFR1YVlRYkxNaDFfOWRFVHFhcTN2UGpE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Turkish Airlines SWOT: profitable growth continues, network balance improves | CAPA - Centre for Aviation - routesonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdUlEYlluVzY2WFJ0U2pGbzVkdlc0ZXhZbWNxanZSdHlQdjdBNzNldkIyb09tTC1nZUtpRW5UeTEyVUNmSmthd1pvV2REenN0NVNDMWg2eFdiWW9NaGRfOU9WcTNSQ09VdmVzcGRiX1hLb2prbjFSTHNsdFZXblhlV3p6bzRPSTQzbFJBaWhYSUtqZFZBZk1DUFVSY2kwSUJqbDZTa0ZsMkhabnk1LUFOWVNMU1JPRUprWXREcDk4aWZnV3ZQOTl3QzhfZmtid1pEV29jTk1BcDRSUFFmQ1E2OHM5WUlnUmZJRi11UUtsYXdYdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Infinedi-Owned CEA CAPA Education Abroad Acquires Atlantis - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWENrN01uZ1o5UUhLbm1pdGEwZGljdUZXc0o0eFFWUjl1RmIxY2lrbkF3TUhrQ0dhWG0waVFYQXVkNzcyTGxuNmYxcTNVTWNNUUtZZkNnQ0lyVTBaeWI0WDB1bHVoYWZjajdhZUdsS0VuNFVpRnVPdzQ4ang3OWRNMEFIc1dEdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IndiGo wins 2024 Airline of the Year award by CAPA - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZThmSDR6ejAxSUM4WWt6d0g0MnQtYVhoMTMzb2xtZ3NjeDZScUVmUHVWQ0xLSFVLbWtmWHVXSzJaREo4WW5OWTh2bEVncHhobEUwLXpMclFJZ2ZGQUNEM005QlVMcmoySE5TejlmaEVLTUlQYVBucTFIbU9pR1ZDR2JtWllvQkxwOV9ndC1Nem1mdktRVk1ZR0doVU1ENld2b3VzU3ZrbFR0cHhnNGhlOS1rY1ZpQ3ZxQTRVRHFKRi1kbE9nMDFIWlUwaTF1UjNhRTEya05PU19tTnpmbzlzXzlNM3ZmNldTYllSWEhPczRoV0Uw0gH6AUFVX3lxTE1zeGozay1sekQwQXZ1ZEphLUNHT1dmWmhyMktWNzRyVWtPZ0FaaWdBQXJxVFdsSFI2TV9maEw2bFJGX01sTlpmaHNaZlQ5Y2ZRU3JoTlRTNXVxREJqOFdlRGdRa1JZWWc4M0hLX0dUOFpxdmtaYjBtQXRLbnl5RDJCNFcxbV9QckpTS3BaaE83VmF2bE9lQUc5aUVqakZpWm5VNTJPVzRnUkFNV3g4QS1CSC0zbUwya053U1N6SnM1T0pIbUNnZE5rSENXcURFR1doWEJ0T1JpcmZlTERuWDRnR3J4VGg4QjNiTjBQZzRjQWQxYkJiejNqNHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Indian carriers to get impacted by Boeing strike: CAPA India - financialexpress.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYVNtUkxBNVNSSXVfbW8tMlBoVms0bTQ5WTdaTXJONThQNlRiWXJJdTFQSWxOMkFtSlJ4SDV5QlJRU3VHVldLSmE4eXBmYnhITUVURG1rYXZTaEV3azNBSzJFM2ZPQTRKSU9CbGFOblphUjMydWs0MkJ1ZDBSeHpUc0JZMW1pUDM1MVVTb1RSb3RrWml2RjdWYkVGWFdsZWFwTDFEelhIOF8wdklUSUtWdVJXelQxX2t2d3FXMi1qak12Q0xNNWVz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "EY US - Home | Building a better working world - EY",
+        "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBNNW1NcmZ3WnZldmN6QUpncmNMekRpWXRDeklaWEJ2eWdEX3NmektEdGpQYWZJWUIyV2hCXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Conversion Information - Secretary of State California (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkpnUXlrZWx6RVIwLUN1SE5rSVdFM0d5OVlaaG03OWVjWGFOQmVFSFJianZnaHBtUFJvY09qVUx2TW9DaGx6UzBJM2hINkMzVzRaY2pDS2x4OXoxWnUxUHBHakpKYnRSdTJwdTF0Sm9TOUpuMlZLNGpUN3hrYkhJNm1XNHVIc2dI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "airBaltic: focused on Baltic air connectivity. IPO may slip into 2025 - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd2pBTFktY2picTNkMDVWNXNaZ0UzZUFhZnJKMDJsM1B6Y0RKWFFEbkp1b3RzWlNfcFNMZ2lZTmhXX3ZieTMzY0pXU3ZGUV9yV3VNS3Q1QjF1bTlaWUg1c0FtLWdsOVRhUzlfLTNlY3BaTUpDWjEwY1VSWVE1VFdpaGtYX0NVOHRVdElBcHJrTW1haGxqSHg4YXlfd2JYUzdLenk5Uk5hb3NKamJuNGQyb2NFSU4wejNmREM4T1pn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Honeywell - The Future Is What We Make It - Honeywell",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yT0I3VzFhM3hGUE9rSHZuM0czSnM4QVFjSTY0dm5ueU15dDgwTXMwY19KN0JVdWZ3Mmo1aFFyNS1NWEtvTEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Archaea Energy - BP",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWp3TEFWT3k3N29rWEIxckotU1F5YUxNTVpCUE1xOEtjRGFpTXpqaF9SYWl6SU91RzBfOGwtWURSelotUk5ZY1hEQUNGeEE2Y3R4MlVYUUxKRFFyclpCYmR5elpYcS1Ya05ybXBfZE5MVHd1UkFrTXdKeHZ6TDJxUEtsbjVVa1paMkVFWnlXNHhQWVlLdUxuVUUwd2F0dV9mYmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CAPA neuropeptides and their receptor form an anti-diuretic hormone signaling system in the human disease vector, Aedes aegypti - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lV3ZReC05Sl9zLXhUQkpSMVZrbzQ3OWVNSml0UHh4NERpVThGdC1ENWRlYm1kX1kwcmpjcnYtb2JuRWtCT0VwN0d2Qm9zOVN1TVVvc1BrNTRRRlpiaXJV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CAPA doesn't have to be a four-letter word, Medtronic Quality/Regulatory Director Kathryn Merrill says - Medical Design & Outsourcing",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjExNVNaZ215c1E5WHk1N1dxUk9WOU9QaUZrcHhaOFBfUnQ3Z0d0elE4a3N1Ulk3NDBkdFBHcnNmTUVnTFoxUXU2Wm0xV1NpeWI0a3BFM2Y0bll0VkRpNmd6VEtKd09ob1hMcUZheEZweWhyTTRqUHllb3MzZFZJaHZSOFBwT1ZLN0hkcGFjTFMwLVlEdDRnM0dQQ2Y2NlByTmhSMWhhc0Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airports need to review pricing strategies to increase profitability: Capa - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZkhjOW1zNjBUVnBJS282Zm1IbDZoTkVPUk1aeTQzR2gzYjJOUHpNZVNTbUpMSVJLM1huVTg5aFVhcE9RUllEenVtOG9TMjNpV0lBMXUyMmNNN2lPZkVMLURjcXR2dnkxZ3VCRDNwS0poMUxiN3VJYUFmYjU5a2VTZWYwaEFpemlxOTNRb1dhaWJTX3g2QjVmTVhpT1EyMVJqbWtWRGFDWng0ZnhCVGtPc09ldFBhQnJZVjRHQ09pdml4TzJNcWh6QWlrUzU4eFNEMmdUemYyUTbSAd4BQVVfeXFMTVMzRURFYjJJMFBhYnlHaUF3amdNak44Q1dySnd5WXRQUUJ4Smt4SWpvSm5BT3lVdVo4QXU4VjE4YkhWV1dHMFY5RVVKR0VNa1JfdTY5UzNSUERYUFNhSGpiZGQ2TUJhY1FTZnN0MWR0bTg0N3FHT2FybDVrVE82Sm1jd0w3ZmF4WkNHSUJhc2VCWWVacjJNUElKRnRCbUxvREpNdU5wOUtPaEk1Q3diMjhtaWVFTkVkM2pwUkg0OHM3ZTdQdlZtNHYydEx4eWlmbWt6MkYzVmhwV3Y5QmFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ingevity to highlight its newest Capa® polycaprolactone polyols at the 2024 Polyurethanes Technical Conference - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSEQ2cG1EdHpMRjZHQUZHRENJaUxfX0tKYVNjUVVVWHZxci1INkdIbUM5NXRQNTREalF1TTR1Smdjd1NNOVRNakdTZmFlYWd4bkxEVXVPQzJldHVIZUN3aTRHX1dqdFd6U0ViN1pUaEljaXRhX3haXzR1NUJHdnA2b3QzdE1nOWp6Vi1peko3dXNyUlVYWkxja2k4TldhU2lXX2dNcU5LRzRpTkZJSjdjMWQ2U09HZnNUc3QyQUNXZWhFQ2xFX1lyaHlzSEw5Yi1WZVlwSl85NXE4eTR2UkRtWlN6NU4wc1R1LS1BbEN3MmpUZERZTlFlbzVhR2M2M2VFQVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CAPA certifies first ultrasonic ADAS sensor, manufactured by Taiwan-based Hushan Autoparts - Repairer Driven News",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdmNxQjJCb0ZOTUlyTnpveXFhSHYzbGpENndyX3VPM1Vnb2pQWEVwSHpfUEhSQUF1NWV4Q3p6MXEzQ0tMWmcxd2Uyb21MX2tZaGh6Wk1oMlJyMjhkRW9NRUFZV2FFNVhaM2o4d3RlTEV0Y0RNMHhydTRzM2FzdG5OOHA2NzFVN2FadGVxNTE1QTdReFVlMDBqLUxWNGZWTkY3SE1MaUtGVWdyc3VqRTlDempIdDhwQk8xbXY2S1QwQzd5R09XcEhzd1RVNDdVbnpodnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CAPA Perspective: Aviation’s Sustainability Question - Aviation Week Network",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU19yRzRsWllPZ21sbFEyWUUzaHpTd0tqYkRZQWstek1VbERpNWVqSEI3TXEyTkdCRXllRW96dXJWR1pEdGZidUFYb09STW9PNFNjRlhkT0xvREUwSmlXOERPTFBja1Y2TGpEMklQWHVGTkx0d1VVWUc5WnhZZHFrMnRONnBFRzR3WTVMU19NSmlzbU04YmsweWg1bWdhSGdfY0ZDa1pNbFZTdXhmR3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "European airline margins 2023: ultra LCCs Pegasus and Ryanair at the top - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSERHZDdCcHpINFRHUTd6UmxEMlBCRFZXSGdBZVk1R09NaWJfY0k5LWYybmpsYXlPOXo3WVpxMW9XSUN5X1g5eUpoRF9DLVdESnE1MlRTeTZ6cXIyd25UZ2YwellpcXNyeVFidW1LSV9EWEc5bkFVT3FDLTlqOTc1c0NCS1puaGNtMmYtbHlIek5YMG9QWDJVUHdmaWpNUjkxM2o4NC1hanYteHBtdWw1cm5qR1VISUYtckxCUG1nSlR2Y2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aviation and the Trump tariffs: clouds are darkening - Centre for Aviation",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzlWem9ENC1pY1RPNEVHRzNwV0Zwb0l2WC1WVlNJQnU1V0UxMy13ekxlU1NUWUdfbTkzNW5ObDVqZXVnTGltWmE0ZGhtN2t1anVfakV0RUtHSWlsaDZVZzNNVHVic2dYck5oMDYxUk1Fd3E1QjBQcldPS1FvV2Z0OEdqZWw3M2xGV00zVjZQbjh4WHZxREN6ZWpmcFRqOEZSNFp0Y3VtMWw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 13.71
-      },
-      {
-        "date": "2024-12-03",
-        "price": 13.86
-      },
-      {
-        "date": "2024-12-04",
-        "price": 14.03
-      },
       {
         "date": "2024-12-05",
         "price": 14.05
@@ -534,24 +646,24 @@
       {
         "date": "2025-06-02",
         "price": 13.18
+      },
+      {
+        "date": "2025-06-03",
+        "price": 13.27
+      },
+      {
+        "date": "2025-06-04",
+        "price": 12.94
+      },
+      {
+        "date": "2025-06-05",
+        "price": 12.86
       }
     ],
     "current_price_data": {
-      "price": 13.18,
-      "change": 0.02,
-      "percent_change": 0.15
+      "price": 12.86,
+      "change": -0.08,
+      "percent_change": -0.62
     }
-  },
-  "news_sentiment": {
-    "summary": "Carrefour shares disappoint investors as retailer's outlook for 2025 underperforms expectations.\n\nFrontier Airlines struggles to convince financial markets of its potential as a low-cost carrier despite recent growth.\n\nTurkish Airlines continues to experience profitable growth and improve network balance, positioning itself as a key player in the aviation industry.\n\nInfinedi-owned CEA CAPA Education Abroad acquires Atlantis, expanding its reach in the education sector.\n\nIndiGo wins the 2024 Airline of the Year award from CAPA, reflecting its strong performance in the Indian market.\n\nBoeing strike could impact Indian carriers, according to CAPA India, highlighting the",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

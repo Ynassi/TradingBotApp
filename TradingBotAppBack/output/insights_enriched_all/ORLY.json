@@ -1,56 +1,164 @@
 {
   "ticker": "ORLY",
-  "name": "O\u2019Reilly Automotive",
+  "name": "O’Reilly Automotive",
   "sector": "Consumer Discretionary",
-  "market_cap": 78161952768.0,
+  "market_cap": 78334918656.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 33.65681,
-    "PB": -57.70427,
-    "EV_Revenue": 5.089,
+    "PE": 33.64048,
+    "PB": -57.831963,
+    "EV_Revenue": 5.086,
     "ROE": 0.317925,
     "ProfitMargin": 0.14096,
     "GrossMargin": 0.51228,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 0.708,
+    "QuickRatio": 0.084,
+    "FreeCashFlow": 1610164736,
+    "OperatingCashFlow": 3100481024,
+    "FCF_Margin": 0.09545018536108747,
+    "ROA": 0.13728,
+    "PEG": null,
+    "EV_EBITDA": 23.093,
+    "BuybackYield": null,
+    "PriceToFCF": 48.552918689681206
   },
   "technical_indicators": {
-    "RSI_14": 50.531616664308096,
-    "Momentum_10": -0.8156868732141609,
-    "MACD": -2.298434554760206,
-    "BB_Percent": 0.5653245737556839,
+    "RSI_14": 51.33862471215254,
+    "Momentum_10": 0.1773127661094353,
+    "MACD": -0.9950039408706745,
+    "BB_Percent": 0.6347592751466903,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9099041883006354,
+    "ValueScore": 0.9073691302366416,
     "QualityScore": 0.4249787665274944,
-    "SignalScore": 0.6224638165955556
+    "SignalScore": 0.588087239677278
   },
-  "volatility": 0.0135281564801903,
+  "volatility": 0.0135178543028299,
   "beta": 0.6,
-  "return_6m": 0.1000104856603454,
+  "return_6m": 0.1131671946319552,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 1457.483
+    "target_mean_price": 1458.7874
   },
+  "news_sentiment": {
+    "summary": "O'Reilly Automotive (NASDAQ: ORLY) a récemment approuvé un impressionnant fractionnement d'actions de 15 pour 1, suite à une augmentation de 4 330 % depuis son dernier fractionnement. Les analystes sont optimistes, avec des cibles de prix élevées, mais des ventes internes importantes ont été signalées. Malgré cela, les propriétaires institutionnels ont une forte confiance, détenant 86 % de la société. L'entreprise est également saluée pour ses performances financières solides, avec des revenus dépassant les attentes. Cependant, une augmentation significative des ventes à découvert a été observée récemment.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Insider Selling: O'Reilly Automotive, Inc. (NASDAQ:ORLY) SVP Sells 2,000 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMkQ0dmtELXd3UUJHRG94VmI2UG9DaVRueW5CaFlRUk9SODI2UldGRkdIaUxQZHZyQk1fRU1hNWpzUnZXNXFrNUJXc2tfMUpWY29pTGJxS0M0TVlIZ0dIUXlLRFBTdnJadUpyX2hKZjl1US1ZOWtUeE5CeTUzZnZMYXFOdjNTd002OEpsSDZQLVNEakJ3dHpWSFVzV3RHeHJZZnRrZDc1TTQxUTY4WmY4aTNRLTIzVmk2SEhJekNnT3BnRUt5cGVEWExpamxKaDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer On O’Reilly Automotive (ORLY): “Buy the One That’s Not Going to Stock Split” - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHFtaTgyS3BtQXhWdjFkLTFHNmwtZXh5VTJEUlcxTVJtT2trMzBhb1F1WVUzS2lxVmtkXzJZRXM0dm42UExxa0NVS0NMel9hQXdLeUdiZksyOFJxcGhONjFZRDBfemhJcHV4V2ZSRXg3T1RiT2Q2WFZFU1dleEVUcXBCMHBjUVY5Y0hpaTdyakNIaHNKNkt0bG5hcm9LdndUTmFLeHJhb0l2eGdhd0FrWVhHTjdVYUZMUEd3WVZlbmVlQdIBygFBVV95cUxOVWt1TEdyZWZ4YlkyUFRDMlNObG1yd1l3YVRaS09ZbEtjTl9rdmt0V0tBb211T3MxaElLeWZvWnlFbkVDcDRuUmdvTGdYNFA2ZDZ1U0Q3cTJBTnJKZml3eURsTlFEanBCNGJNYTR2QlFaWGNleGNodHBWTkxJejhKNXdPcmN5U2dheGtZN2R0dDliSWdxbmRhZ2lDclREOWFicWthVF93eEs2WDRxTlBlaDlGLV9wMDdzLW9JQzdsTDlLclZNLXUya3ZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "O’Reilly Auto Approves 15-for-1 Stock Split - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdE41akFCMnpoT1l0OEd0UVFHbVJPbWZEbmRvbURfWWh4MUxwZUpncjBvRHp3My1Xd2FGc1F1MG5BcXdRT2ZMaDdneDRITjV6WF9BcTBVMGdyX09xQzZUQWc1ZXljVzB5VXVwMzZWVVpqT1BoZE1ra1o0QTVRUWN5SVRLSWRSZWY3RHlIbjJKaGdyaGVQUVRMcXNB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Stock Market's Newest Stock Split Is Up Crushing The Market. Still Time to Buy - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmtBNnJKeWU4SHVWN0NvbUd4ZzV0eHB4emd6d2U4R0FEdXgtbHBQdVN1WWREdVRKNGt2QXM3QnJWaG9ZSE5BVnUzNzczNS01WlNZc2dCYld1cWJiYjJwQjFjZ2s3c3NoREpCTjV0c1dCdUNablZOV0ZMVTMwMENjcjlEMjllX0x1WEdLeWNYa193dVlUUUVpeC1LWE0wdXZKV1FkSjhNR1lZSUFWWlRtd0JDa2gtSGd2R091Y2VFd2t6dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "O'Reilly Plans Huge 15-for-1 Split After 4,330% Stock Surge Since Last Split - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWVMta09DX0Rlb0VYNzlCNEJQYUlzdVI3cWNLOUZlZGhhOHFkWndSS0dWQy1Hb2RReXd3RFgxMkNEei1OSnlFSGxhclo4VVFTWTNLTUxaUlMyRVFQeThwQU9GM2lWY0R1aTQ2Nk00UXVKNmg4bThaNFVySFQ0ZE5JVms4N0p5UncyM0E2eWJRWXNNdldvbTR5OVREX2piRnVZUUVGa3pGTEN3WWZsNG4yQzAwTU12dUxRX0JHQVRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Redburn Raises O’Reilly (ORLY) Price Target, Maintains Buy Rating - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2F2Y21HQ284VXNqNmhSNEdISUUtXzVBeUkxS3NmVFlkSzhhMnl1SDVtVG90bjVOQ0NWY244SGpwSUZCUDJOV0NLVE9zaTAtbVFIZmxGellIa2ZHSFlzZV9IZ1k5ckVfalZCQklFODQ2MTF3RlMwWkxfMzl2aTFEUDkxNEM4clB0QmtvRjJQZWlJY2pmTlFKX3RVMmx6MGNIRGl6ZzhVbFlUWWRYWGlhVGVpdHA4YVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "O'Reilly Automotive (ORLY) Price Target Raised to $1,500 | ORLY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcU91R0JmUTdsNl9aT3ZSLVRmY0s5UEhRRC1fa3BlX0pmZXRUejBuRXMzb0s2YURXVGJLNnFsdVNVNDN3RUF4WC1abGRZZHJOalRtWkthV19PMGRCalZ1TzFXRWVJYURQd2VPTnA5bHh3OHNMcHNuSzVoSXpsWGJEX2YtclBUUWZoRjF6ZzZONHVrV2I4aWJrcWdXWENZdE83aU1rcXVrdWYzbFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Stock-Split Stock to Buy Hand Over Fist in May and 1 to Avoid - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0lmMmZBV3ozRm9Oc3dHRzR1WEZub2dsU1VOUi16QU10Zmw3V3hCVTZKNV9tT19fdlZtZEw0dUJ5YXRZUnozQXoySTc0cUppTWxBMWpJdDVsTDdmemdlNTJMcEh5TUwzY3haX2o2T1JVdUlPdWJKS0VKWGdxcTNIWHQteXVJd052M2dmOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brokerages Set O'Reilly Automotive, Inc. (NASDAQ:ORLY) PT at $1,414.56 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd0paa2RfNUNSXzFKNXdWZzdQOWZLeW5ZZlJjQWtQWTc4WWduUHBJZ2VYTUJnT1NGQ2MwMGZDN1FjSkpRaVdxa2xOTjR6LTVyLUlIZ1NzenNiZGN0MHJZUERQeEZidmtUbVNGOUlBM3hCOHhPV2lVcUF3cDhqZUVTSkNCc21rcXVSeUtubERpTUdOSXc0dTVFejhoZ2g4bzJqMHlwWUotMDVfTC1BSXo0dVdxTzM3eWJuM3phNXZ6TW4xbmFNaTNfY0stWTdTRktfRmhNZ3F0WHJqZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "O'Reilly Automotive, Inc. (NASDAQ:ORLY) is favoured by institutional owners who hold 86% of the company - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYk1MMTFGaFhWcGtDUnpScjdYXzg2UThFYTlGM0hTSmp1dXRTN19nZEEtZ1oyMk51WTVRWjJPcWs5S0ZTVzkxOFR5Y1BVWFJ5N1NGMkhxTUJBV0hSUlMwSFdIZjJZeEl2a3lWXzR6RVY5QVU3NFVQdVRpX3owak55aThHeTBiR2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "O'Reilly Automotive (NASDAQ:ORLY) Could Become A Multi-Bagger - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcndSQ09QMEtiMWtxUHFjeUh3QlhWU2FfNlM2Mzd5ZUpFNWpRWWVrMk1FRmYxcWNTRlZRdWZuU0VNbndVUlZxUkVhTEFzTGdRYWNqSmJ1V29xSzRPNFVSdUw4dmpMNkp2bU82aHljbzVldWlrN0JWWG5YMml2UHZPLTYyMnJJYktjNExzbTdiVFhJMk8yc2RDMzVDejFhbFh5WFR4SWNYalNLWXFCYmxyUTdmVVpXYXMzVms0MzM0cWUwZkZuclFmMHNXMzjSAdIBQVVfeXFMT1BQTVE5SXNwTTNrNzJabUJBc1J0SmwwZW9Pb1hQUFJfeXBoUFZFWnYyalExbUo2ZHllM2NwTGJXSXF1NTUxYmJHaTE0WGMwN1VVbjRHMmJ0bmpmS3lCaXBJUGVUQ2p1b2NuQ00waXNEbXhxNlo0VW4yVkplMXU2bUVfckI5MEhIdVFZeXp3RW5aT2RTME1LNFVxN2k5ak96UnVmdklCc19DZ3lwUlltRkhqdzRmSDFGczJCZUY5cnpOMUZ3ckFxTHI1V3I5eEtXaVJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "O’Reilly Automotive’s (ORLY) Revenue Exceeded Expectations. Here’s why - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWJsV3NMQlp1c1ZaX2FxNEFNeGxwbkV4R1lxZmc3YlBLeEFRZHBtSm1kVU5aWGRqUWU1M3psdVdVZG1qY0RuZkowNWZxZk5ucS1Pc0NORGdJMWhBMlNEWkVSbFFveWVvdzY5cWs4ZGt6R0VfODVSQzVkTzR0VE5DZ0FqcmpqQWNfNFNyMEpHUTNwNENOV19oYm5jcjlSQkd6UXFlUWpTTzBBbGxX0gG0AUFVX3lxTE80cHNwRzA0LTdTQWdpSHFKUGlSUmY0Ylc3UktRaUZtV3oxb244TUtLeTdUZkxITFNNbG1CQzVkb3h1U0R5Q3ZhNFdFRXZwNzVEQUpTNlBMTHBHZW1kMUotbks3R0w1ZXRnQXZBaWdoSUExQ2JZTHVCeUxEZXNjOXNDajlpVWM5LUI4eDg4SGxWRk5QNGVJQllxaWxPWWx0VUk4MVFBNDFNMlVMVmRfT1dJaXN4Vg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "There's Only One Logical Choice to Be Wall Street's Next Stock-Split Stock, and It's Not the Company You're Probably Thinking Of - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3RuSVFBQmxlQ3VWcXluU3A2YV9SZjhaNVZSVXU1ZEFRMHpsYkFYYjNyV0VjSDhKeUVFRS1vWXhwTlBfQ0FhTjh6Ry1VU2R2eERFVHJuMl8xaWUxZkQ2b1VLWldHcENaQUU4YmNwYmZKSFRqZld1RG1CUFFPY3B5bU1NZHNWRUEtZFJ2c3l6RDFEeThjS2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Director Cashes In on O’Reilly Auto Stock! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWWRYSEVkUEtQd0tfZTBKUkI3ZDBXcUVJME5IRGg0OHZCXzgzb2JhOGhHZGZWQ1Rqejl0VjRRYmhpVENyVE9WS09kNzlrV0dEWV9qcTVjVUo5dU5GRXItV3JKUUxoYnhqXzhacGRZbWtLdndCZEh1aVd3ZUQ0YjZTOHNEbTdhZUFVNXQ5dTVHQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is O’Reilly Automotive, Inc. (ORLY) The Top Auto Parts Stock That Could Surge On Trump’s Auto Tariff Relaxation? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhUGpkaXJpUzMtZmNaNnI1NWtyTXpiZVJ3T0h0UXN5N2ZGdnlVQTB6cDlKQWdTR2ZqSXgxSTllQjlYSW1LTWdEeERia1RfeUpwbGF6MHpVcXFIWTlxTzlYTmxna0JFVEpsM2R1a1V5ZTV2ZWU5OHJNSERlUGNBd1k?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "O'Reilly Automotive, Inc. (NASDAQ:ORLY) SVP Sells $25,686.29 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGpzM2FsRXhXYW9LUFJ1M21OeTRsWFVackh1a0ZxdnZvS1oxakV3bjRxRU1nS2lHZmh3VDJaWWtuelVQSF8wX0p2Sms5bHlhQ3k0U21GMXBfT3lmazd1VnEwb3FUdGlWcktOTDJMTGFud21CbG5vVUs1Q0MzZnE5d3lnU1RUVDN3WVEwWU5wUmg5NVNmTjBqamdDOXIwT3B5dEt5czhBTy1Xem5ncWxlYmdmbDY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "O’Reilly Auto Executives Cash In on Stock Sales! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORlZCX2dYR1dpNmtUYmpRVVBwNmZud0RGWWQ0dlR4YjdOZXl1dS1xclhGX01fNkdPaVJIVzBCR2ZSY1NoRXNMRXczZ21nb0FVTW1LdmZfSEU0c05MZDh3SllJUFEtRkJneGdOa1hVazBxWmdVOG5neHRycFEtc2ZRSGQ5eURKdkhSbHR0cF80RDNwT0dGQWJjS3d3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Short Interest in O'Reilly Automotive, Inc. (NASDAQ:ORLY) Rises By 21.9% - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUZ3SFFKQlNSc195c2twTFREX001MkpfWnlra2tuenQ3NzVMa0RsZUpieGE0emZyUy1IMDUyeFpCVmhCVFhhWTJPRTduVjlOZGJwYTJPdXBiT3ZNS0VXSk9qS3J0ZTlYbU1mVXUtYUpFVUtRWFhZWnBpaW44WnRtUTA4dkVzcUowSlM3dEFCN1hqRWhEaVlsZUlJYnZkLWo5U1E1VDh2XzhfWUhyS2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jim Cramer Recently Commented On These 12 Stocks - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGNacnU0M2xTa1h0dktnTEpVZmFfa1dqR2dYR3NIaG9LdmNoeFF0WUV2Wmg5RnkzbVUwQjNBRmw5cHB3c0xuSm5mZFZMaXBnR0lfWmEtLWl4WWFTQm9PZ0NKbUtMM0JyRVM5elNCckNYRUtwaHVOWGprc0Z2LWdqeFhFSnNpV1ZzWk9zbVNacG56bTBuSWRCTw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "O’Reilly Automotive, Inc. (ORLY): Insiders Were Dumping in Q1 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNZUJhemdUQ0dDR0dQcU9yb0hjblRIR1VBOVpDY3FNWUxDemI5RDRMd2I5ZHh5VUJtcU9iMlhTTGhGLWplRzlEeFdNdTctRG9UN25YLVVDcGwxdVhoaWItVk5uOUs2b01hTjhIQ2Z4NlZ5cFlMUGNxLUdGa1VmRGM?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1246.82
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1247.99
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1242.92
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1234.81
-      },
       {
         "date": "2024-12-06",
         "price": 1257.78
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 1371.05
+        "price": 1370.68
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1372.07
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1366.59
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1371.8
       }
     ],
     "current_price_data": {
-      "price": 1371.05,
-      "change": 3.55,
-      "percent_change": 0.26
+      "price": 1371.8,
+      "change": 5.21,
+      "percent_change": 0.38
     }
-  },
-  "news_sentiment": {
-    "summary": "Le march\u00e9 boursier est actuellement sous influence des actus autour d'une approbation de scission 15/1 par O'Reilly Automotive (ORLY). Cette scission est pr\u00e9vue pour le 10 juin et aura lieu apr\u00e8s un gain de 4,330% depuis la derni\u00e8re scission. Les titres d'O'Reilly Automotive ont \u00e9t\u00e9 multi-baggers et il existe des hypoth\u00e8ses sur leur capacit\u00e9 \u00e0 continuer \u00e0 grandir. Il existe des opinions divergentes sur les analystes concernant les titres d'O'Reilly Automotive.",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

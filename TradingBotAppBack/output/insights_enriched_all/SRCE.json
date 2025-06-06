@@ -1,56 +1,164 @@
 {
   "ticker": "SRCE",
-  "name": "1st Source Corporation",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 1479423488.0,
+  "market_cap": 1472300160.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 10.566667,
-    "PB": 1.2737385,
-    "EV_Revenue": 3.819,
+    "PE": 10.53427,
+    "PB": 1.2676057,
+    "EV_Revenue": 3.781,
     "ROE": 0.12222,
     "ProfitMargin": 0.36181,
     "GrossMargin": 0.0,
-    "DividendYield": 2.51
+    "DividendYield": 2.54,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 223686000,
+    "FCF_Margin": null,
+    "ROA": 0.01596,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 48.33855679392545,
-    "Momentum_10": -3.4001587550394077,
-    "MACD": 0.3870802401283768,
-    "BB_Percent": 0.1893361433333414,
+    "RSI_14": 46.83985645471784,
+    "Momentum_10": -1.978745493011712,
+    "MACD": 0.1627093262640855,
+    "BB_Percent": 0.1462656933511339,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9338113195599484,
+    "ValueScore": 0.9333023662484824,
     "QualityScore": 0.4076568767682989,
-    "SignalScore": 0.5097208967502374
+    "SignalScore": 0.5868089886661574
   },
-  "volatility": 0.0181437012847648,
+  "volatility": 0.0182157566046447,
   "beta": 0.666,
-  "return_6m": -0.0580272923267707,
+  "return_6m": -0.0546740565307274,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 3,
     "target_mean_price": 69.0
   },
+  "news_sentiment": {
+    "summary": "1st Source Co. (NASDAQ: SRCE) a récemment attiré l'attention des investisseurs avec une série d'événements significatifs. Les acquisitions d'actions par des sociétés de gestion d'actifs renommées telles que Squarepoint Ops LLC, Nuveen Asset Management LLC et Wellington Management Group LLP renforcent la confiance des investisseurs. De plus, les résultats du premier trimestre ont dépassé les attentes, ce qui reflète une performance robuste de l'entreprise. En outre, l'inclusion de 1st Source Bank dans le prestigieux KBW Honor Roll et le classement parmi les 25 meilleures banques communautaires par S&P Global soulignent la solidité de l'entreprise dans un contexte de marché instable. Ces développements positifs pourraient stimuler l'intérêt des investisseurs à long terme pour SRCE.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "13,589 Shares in 1st Source Co. (NASDAQ:SRCE) Acquired by Squarepoint Ops LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSFBOVUJTT19XR0pvS1ZKMm51NUlLN0VWM25Jb1hjN1VtQUw5LXBGZVBjZURka3k1X2RXYnhUM19USWN1MjF6dGt0SjFVSU9rWTU4Z21feE45eEpXUGhfVExhMExUeWd3RFhlQlhDbnhSWU5HMkd1QmY4cklvVDk2Qk03UHFZbUlPdWtwNmotV0h2UFVkcUVvRzdrU0Z1UEpsM1JXd3U5UENMOXJfenZZNnNSNHZzbUVkS3N5bE5uYzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(SRCE) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHEtUUJMM01zckREMkhReVQwTGFGd3ZtMTZZQzZRMVFTOG15MlZaZXRiT1p0a05KM3A2RUMyQjRCbUxVM0Q4alZsTFRUS1BfUXd6U1V4QWdIU0l5eDZJcExZRjlFMUFTUGF2LWRiTFhCMG5uT2VMckwwNXlxVDY5RU0tM1VJRG8tT3hzN2VXMkhlSTRMU2RoRGhDRWotck5JMktNUnpFNWR2NW5wQ0ZDZi1oVUc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1st Source Corporation: Fairly Valued And Conservative Management - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2d1bkhGWTF5cHVkOU1MaDd2MzhvQnc1UjdZcTdubFAwZ1BhSy1fb3NmWUNmaVlRVWNHc1ZjMGtHOWplRl9zd3h3ampzaHZzVmxrOG9saVJOa0ZVUXVyRWk1RVMzcV9iWU9ZYnVTcG5Yc0dia0VEdWZ3ZmpUVDVHZUlienRzQVlmRWtMV2ZUMERiSWFEcFlwUm9uMWlORTVRMTRiaG90djVzbDRnX0FXakR2eFRXbGhPU25xNkczWjNyZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1st Source Co. (NASDAQ:SRCE) Short Interest Down 15.0% in May - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmlmRXBkdEJHLWZ4UDNOSG1IOUJhRnpxYlc0ZFhxTkhlaF80eGFmTlhYWHM3VnVHZTFnaGd6cElUbFVOY3I5dXZ0a3pqNTdFdmhwTVl0c2puX1E5cnVuNFJRcHZHSVNWVHZTaTd5RkpUQlUwVndoTEtRWThwQy1PSzVjTDhSYXdRdnBENDRLQ2drN1R2RnMzbGxkSkRCb2ttczJVNkVCNjlEa3hjTlE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Are You Looking for a High-Growth Dividend Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON29YZlJuTUlKTFRVTTVNZ1JFRUJIcXJTYjhyd0h3enZ4MDEwUG1qQ0lYYnpFNHc3bzNubmJMWE5wc3NDYUtHZ2FGaE5lRGp5dk4tdUtyLWVJX1dVUVJ0TzFKV0R4VFRQdDE4eEk1WlN4VVl0RjBHSmV5QjlaUl85LUFLeW5mTlk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1st Source Names New General Counsel to Lead $9B Bank Legal Strategy | SRCE Stock News - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUpBMjhSODZtenQ1eFkzLXJkS3NTNEZLbGl4ZTQwVGFINDJMcHk3OHlyQmZNandTa213YXYxRFdjRWowdnhTMEx2WWxqN2xnaU1fdmdQTi1EOTBpaUdGSURraWhGTzhtTnhldVhQc2lZbjU4RWRmMFFXRVBQLXV4NnhucE91UEVaS2xyNTFDVjhDeXhxNjZ3RUI1clZhSWZMMTl0VkphZXVJcTBMS3FfNUpncnJVcGNBenNXbndLdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1st Source Announces Promotion of Brian Duba to General Counsel and Secretary | SRCE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHFBekdsUmpDeW1DRUpyU2tydDV6MWU1Rmw5bnZ1TVRSNnd3UXVXQnItajh5QndMcDJsamlUUXpLRDJmWFRsbjU2akF2cmRVdEJqcWtmWVJDVklBaVBtOVJUYzBEYl83TzdLRWRwamZTUW5NMkFWR0hHblB5UjNRdXBLNE5QNmxCVFBSeG03WGhCTl9SUkJkdUI0S3FfOHF4TGhEdWRLeGpmVnZIa3BuQ290Z0tfZDFEWjEzLW9qSURlVXFnWmh4RjliTXhndw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy These 5 Low-Leverage Stocks Amid Easing U.S.-China Trade Tension - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZFFNX3V4X0VwdFNJZW05ZFUtbTJVbFN1eUZ5RWlzMmRpZk9RZnlsenpOd3kwbkt4cGdIQjc3YkV3NmlCYXN6T0VTNzBqemVWMWxHNkJnazVPbzhZZkpjcVV3a051NmZUSllYbFVNZWJ4ZlliOW5NcHpfRTVnN3M1SzNlTUxXczJFZVp4Sk4wUG5KNlRldlJsVUxwN2g0OHN3aUZWMGN0RDZOU0g0RVpId0FfRHh1NEdjLThOcW5Helg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1st Source Bank Joins Exclusive Club of 16 Top US Banks in KBW Honor Roll Achievement - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdzktMGdkM3BISTFNRGctMzdCSVN3bDFUeHJCYWxkMGFKZGlBSklrRXVnU3loRkI0WmdxRmQxM3JBUWsyUHpZRlhGUlJsVW1QSExqUzkxREVkQkJJOHdRb1FZS2FiWDFiN3JLcWtSQTh2SWpVZWhyWDZnbm4zMW85OTd6RzFycDdFWXhqX3B4VEJUWjJuOHcwdVFlaEJPZklWSnpRblBiMWU3WHF2bm4tUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1st Source Co. (NASDAQ:SRCE) Shares Acquired by Nuveen Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVUt1WEFHNE1xNExCVjg2RERDNldHR1lYQ3FDVHNPQXMwN1N5emV0MnJISF84NmRsYUY2Z2NYM2lvVHRWUkpQS3poS2czNkk0UjVCeFdoNnJCQjk2cHBSTDdBLV91cWxyRjA4bnF2VTlESjNxeG1pZG9yd29ZX2hBZmw0Mmh0OGoycTlHbXhZNnN5U29QZG9JTFBRd1VIMWZ1MmNKSHlhd1FqZHZGMEtqbUhHeHdxYmsyeENwM3AtcW1UNE9JQktsTWJUU3A3cVRBZ0NMcg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1st Source (SRCE) Q1 Earnings and Revenues Top Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pdDZBdmRvdmFGVTBldjIxeGlDSmwtNm1Wak1WSHdnUWZSNWJHMGJUUjE3SC1iVjE1ME5BekUxNndjZU9Gd2lDdWNLN3otd0NDV3dwZXh1eS0tYVN1LXplYWEwRlhWUjVySUpYSUJiUWhPVWtYa1Zxa3pJUGZOQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wellington Management Group LLP Has $31.56 Million Stock Position in 1st Source Co. (NASDAQ:SRCE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnVJLWZ5bWpfOVBPZHhuYnBIbGszT3J6Y29oSXg4dWVjdm9tNkZPU2F1aC1yRTlfcEZSb3ctem9KaDdFLXJvWUdMTGxFeEMteUFjYk9xUWE0MTVhSS01cWJYSFZRZmNmaHNjckdQbEJ3RUMxSjNXZ2RhQUdBU1FacDM1amZJUkltMlViLU1mbno0UF9BQ1V5aVhtWUZCZ1ZIWmhaTnZFQzdsUnpOc1J4UHo5ajJPaFlWcDB6eFVZa2drS1ZCWm1xcjNxQmY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P Global Names 1st Source Among Elite Top 25 Community Banks for Second Year - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNE5hQ2pkYWpoak03b3lOaHpIV2RmaEJyNUh4bUNRVkZ4V01DUTN0ODFDZkVIa3RaXy10dTlwZVNGNzRlWmowbTg3bl9VVDE0Y2hHRWVvZjRBUDBnZnpHaXdqclMzVHFzRW9UbUNtUzBuMEo0SGc2dHBWSG56ZThsbUJiTGF3RWRBNnpld180UnFubk96Mk05SEQxVXk4Z2lUeEJ5YWswZjJqajhfaEd4LQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank AG Purchases 6,203 Shares of 1st Source Co. (NASDAQ:SRCE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjZyNThVXzM0Wlp3QzZSbzFuZnNVd0xiMmVZWktJeHdqUDVxOThxRmRlbllXR2xCTjY5VDVWamxDX3dsN2JqTERlc1B2a3pwR1B3RHFNRkU4eHIwMjNmZ0lfRi1sMkNNM19MdWRCRWs2al9KNmduS0xueUs1ZEhUNHc0c2hEMHVMbUpudTFaTjFaZlJMX2lJaWx1Nm9PMUZTUkluRXU2a05WR2ZqOF95V0Y2ZGVoMEFNV29xQ2VNVlVfTzdIVmZfWU02OA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1st Source (NASDAQ:SRCE) Receives Buy (B) Rating from Weiss Ratings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWVZGa3RSaW16MUFpZGZ0R3V4Mkw4eEg5Z2pvMDB6SERyT2djLS1SNkQ3bjdvc1c0QjE2MnFSeGJtd3hXdC11d1VPNENCWGlib1ZuQ0Qtazh1SXRHbEl2NzlHTDRaa0hhSG84RzBNaGQxWDVWMV9EWURkUWtQbUpWMmNOVF9LcXFLamllWmxwNU1Zb1VrSmtjNDBWR1lULWN6V0N2ZTd2c3lQTGgtMnlGUERlMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jane Street Group LLC Sells 19,232 Shares of 1st Source Co. (NASDAQ:SRCE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDhaZlFZVXNraFllQVlfc0V5WVB1OHUxaERnNTZQMVUzWjhGOUU5NURQdnpFajNicDBqYXpWT21ISElwU3lYZHN4NUZJanBvbGNaTm1UVU9BNnBOVXlYcFk5WWxHSzAxZEhTek14RUF0YVdUZmJ0dnZ1ZmVyYnpwOHlDM3hCQmIyb1pNYjRiWURSNDdaRU9rRWd4Znd2RWU4SGszb3pRblFTNEVrVGcxQk1mdG4tWlFjUFpDaU9KTXFGeFFJR1R0LQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Millennium Management LLC Has $11.90 Million Stake in 1st Source Co. (NASDAQ:SRCE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOEtObFpYQVh2Wmx6ZDBXQzFXR09FVU9ic3RlSEgwNjh4SlNBTlhGUl9lYlJvYlMyT2l1OGNGbzZMVWVkNGd2eldWaTJnQ1RlTDU5eERXN0had25oYnhuWWtWNTJuTXBXeGg0OE9QWXQwa0xqeEhwQzdxaTI2V0tLR0hHdVk5ZlFyNUI3WGZVYmlNVmVqb1NvOU1EQlBmdlBaTlFiUmt6TEpOZjkyeDZPcDlDbGRuNkpkQ0ZGSXlHbzF2d3M1bkZUeVRBRDZ5ekF1TXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Balyasny Asset Management L.P. Takes $802,000 Position in 1st Source Co. (NASDAQ:SRCE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUHJqS0piMVlhQl83c1ZZcjFpR3Zld1p5RFFlY2JkSUpMZlFkODJfX1RUdG1YeE1IM2lQVnlUeE55ajV4QzdFcDd4SnJEWkJ5Vlo0ZGwxMHpIcDdwMThwWHZveHY4LTMwOEtGQnBudC10TmxGTVBjV1JpdDVOT2pjRWx3ZlRyRF82OHBLbHdFTzdBb3Z6N29Ua2J4ak5XRmg2VlJNaG56Y3p6UXlBeW9QbWhMNkhPOUJPdGFkX014VzVOX1NyQmtPNDhFR1Y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Finding the Best Top-Ranked Stocks to Buy Amid the Market Pullback - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEdnB3VVJqdmJ4X2tUODZMeld1YzFicWMybkFSenVRdXAtOWdtOUgtcC10Sjk0cWZ2MHYyZWU4V3hnTjJxckZiMnBicTlUZEtVN1NaN0dGZmRDTWRyQ2kwc3JzYXZ2QS1HSXcxZEJnd1FINTE1dkJBNnBTTmNGZk1VeFdRRXZodEktMkpNakY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Best Momentum Stocks to Buy for March 27th - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQelZpVk9aRHBfM3REU3BGVDRpWkhkMmJ3TU4xcHRuM0Qtd2RkTFBwWW5JM2ROdUlqNjVZOWlXdmdGS055LXlqcVpZdXNDQ2RRZ3BCd2ZIRGs4MFlXUkZDWXBZa1Z6TVVSX25EV3NmeklQSURkeDNPY3JGX2ZzQ3M0eUpn?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 64.71
-      },
-      {
-        "date": "2024-12-03",
-        "price": 64.18
-      },
-      {
-        "date": "2024-12-04",
-        "price": 65.02
-      },
-      {
-        "date": "2024-12-05",
-        "price": 64.45
-      },
       {
         "date": "2024-12-06",
         "price": 64.17
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 59.99
+        "price": 60.2
+      },
+      {
+        "date": "2025-06-03",
+        "price": 60.83
+      },
+      {
+        "date": "2025-06-04",
+        "price": 59.96
+      },
+      {
+        "date": "2025-06-05",
+        "price": 59.94
       }
     ],
     "current_price_data": {
-      "price": 59.98,
-      "change": -0.58,
-      "percent_change": -0.96
+      "price": 59.94,
+      "change": -0.02,
+      "percent_change": -0.03
     }
-  },
-  "news_sentiment": {
-    "summary": "1st Source Corporation (SRCE) is a bank with strong institutional backing and a focus on proactive strategies. The company has recently appointed a new general counsel and seen its shares lifted by Deutsche Bank AG. 1st Source also announced a promotion of Brian Duba to general counsel and secretary. The bank has recently joined an exclusive club of top US banks in the KBW Honor Roll Achievement.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

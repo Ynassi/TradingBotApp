@@ -1,56 +1,164 @@
 {
   "ticker": "NVMI",
-  "name": "Nova Ltd.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 6226720768.0,
+  "market_cap": 6363945984.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 31.992825,
-    "PB": 6.310297,
-    "EV_Revenue": 7.991,
+    "PE": 32.648567,
+    "PB": 6.449364,
+    "EV_Revenue": 8.344,
     "ROE": 0.23871,
     "ProfitMargin": 0.28459,
     "GrossMargin": 0.5746,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 24.002,
+    "CurrentRatio": 2.18,
+    "QuickRatio": 1.665,
+    "FreeCashFlow": 168620496,
+    "OperatingCashFlow": 244376992,
+    "FCF_Margin": 0.22665447007001982,
+    "ROA": 0.101239994,
+    "PEG": null,
+    "EV_EBITDA": 26.665,
+    "BuybackYield": null,
+    "PriceToFCF": 37.741236296683645
   },
   "technical_indicators": {
-    "RSI_14": 60.53410028978291,
-    "Momentum_10": 10.44088804765879,
-    "MACD": 4.147298287418238,
-    "BB_Percent": 0.9045700200377826,
+    "RSI_14": 60.4351230008059,
+    "Momentum_10": 17.5135777959267,
+    "MACD": 6.292457038224626,
+    "BB_Percent": 0.856815302362968,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9232546419273944,
+    "ValueScore": 0.9181084790421388,
     "QualityScore": 0.3560879503212409,
-    "SignalScore": 0.3458436210011503
+    "SignalScore": 0.3928302232676437
   },
-  "volatility": 0.0377187712028907,
+  "volatility": 0.0380610479401386,
   "beta": 1.608,
-  "return_6m": 0.1117716311156906,
+  "return_6m": 0.1090276403147261,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 6,
     "target_mean_price": 251.59167
   },
+  "news_sentiment": {
+    "summary": "Nova Ltd. (NVMI), entreprise spécialisée dans la métrologie, attire l'attention des investisseurs avec des perspectives positives et des résultats financiers solides, dépassant les attentes au premier trimestre. Malgré une chute de 28% sur trois mois, des analystes perçoivent un potentiel de croissance de 34,53%. Toutefois, des baisses récentes du cours pourraient susciter des inquiétudes, notamment après une diminution de 15% depuis le début de l'année. L'ouverture d'une position de 41,2 millions de dollars par JANUS HENDERSON GROUP PLC témoigne d'un intérêt croissant pour NVMI sur le marché.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Citi Reaffirms Bullish Outlook on Nova Measuring Instruments (NVMI) - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOODN5dHVYNExabW1NNGJKbmYyN1BGeTBEY1dLT1VhNll6M3ktTWtXR1lJeVhNcllLdlQ5cDJ4bzlIeFdYZlQyN21xUHNaUVJmY29leGEtd0RwMWlMaFhJOVNua0tpZ2c1aW5RRFJlRlZyZ0VQbmVRMTBZXzU2NWdBcGRMZTN2d0pBWkEwbUN6SEFWTGFfeThSV3Y0VkVBN21RQkVWeVBsTENHaHJXVVJxQzZDUnYxcV9iRURJ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nova Joins Elite List Of Stocks With 95-Plus Composite Rating - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0R2NVhHZmpDWEV1VXRjTkt0RzhteHRRUHlMWGRsU2pvNEtXWGpzREY1N1UwcXE5bWVQVlNmaXhMZUFhb0NVcmp1MTRrb2hWM2RjeUFsU1ZCSjVQWEhGR1NLUGlqYlBRYkE0TEE4NzlWNm84ck4tbmtxRTFvZWtNQzEwQWVZV3lsamRtbWFPMFc0dXdTaGlrMHIxM1hvWWw0c0RrY0VHemU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NVMI Declines 15% YTD: Should You Buy the Stock on the Dip Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTTExaTFrMVo2czhuTDZkcnZ5QVQxZzE1c2VpQ1VwZHBTckRmRHJOUDlDTmdRWm0teno5T1UzSlRua0xPb3FIMUx0aG1mNHN4d2FCM2NlZ1FhR21tdWdQa3JxbVE1MTA1REp3SHA5NWxBbjhabkdiT2dFanVOSEJVS0xvN201OGEw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nova Ltd. (NVMI) is an Incredible Growth Stock: 3 Reasons Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdGZod3NCREx6VlVGd1NXT0lJTy1UZHk3TXhoWUtzc2hIZHUybmZkTlBVV25ELVdpNjlFZ2VkdktHeWdtQjhwZ3NZeWJyLUI1eERSTVlLdzlWdFRFR05lWThsaUJoMDZSaWFxckRWOFhUaThIU0xhek5lZ3ZmMGtKMDlaRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nova Ltd (NVMI) Shares Gap Down to $207.615 on May 30 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON21LalV5V19Oem5GQkVhQnJLdTJVNXdpVG1JeXNZY0dvc2FuNDhMOGVWS3A5Z29VNEc2Tk5oUXZyYVBVRWFEZDJHY0Y5WkNXY2tSWVQ0bnNUcE1Ob0EzU2pwYjViaXJWTUNBenJjTFBOTnk2R1RnLTdtUHQ1Rl9jcV9YV0M0dnFCZzVROHluWFRKelRLRi1wR3IwNUdHUWszakkyVnQ1Zy1NdE1KLVF3b1BPNnpOUWExWV8wOGZKOTFrX2pLdFh6SmpsV3QxZmQzc0Z4LTJ5U1c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "More Unpleasant Surprises Could Be In Store For Nova Ltd.'s (NASDAQ:NVMI) Shares After Tumbling 26% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbE1aXy1XNHM4NllWaVJTejRmeUpXUVdLVFN6bHo4UWc4QmZfbFlSSGFnaXZFMzBRaFpFLURFb2NfNFU0ak56bzZVSnNOQUFreVdORG5Vb0l3ZGtMR1VCOEpiTGlBQ2RSMmtyalZuUkd3SDlqWEQxaWlpVGFYSE9HSURWcERqNGNqdVgxM0EwZjVqS2Q4a1hMM01wYVRybkF3MnFkVkV0Q1Q5c3ZRd2FvYmhOLUdfMTR2aEZabHNMUXVZTm5WdUdUN9IBzgFBVV95cUxQY2dVaGk2dDVEN0QzWnlFT24yOUNrSjY1aHhpWm1tVDdFd05kWV9LekVtb2M2ZnN1cmhpOEkwM1JYQmY1azZ5eGxILUhvZTFENnpFWmZjbUFhTnlxTFJZY2pCS1luaDlUVUxSWGxuLWdlODdFSXowSHZPbEVnYWhFRDA1a2ttSExEbm9FQW95TGJLY3FtWFRGTS1IcjBtV1Nwa3p4Q0oxSWZMUlp5LTJYa3I2SXVxMVJCbTdDMWItLS1MNVJyVzdrRERqMG90dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How Nova Turned Metrology Into A Profit Machine - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObkVWREJJWjJNNHpuTzVMdzhxTUI3M0d4aDBPN2tSSDFSRU50eEpGdmROYTdlVG9ZbHFSOHlZRG5Db1UwUDVRa200eVJhREJJMXhCYkNkQnlqcjVXSllJbmpxY2ZsUmVwR3YxQklkWFVQLS1sOEhvT1M4SWZBRUl0OUppUi1YYXp5bWhCYnJacHkxUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Nova Ltd. (NVMI) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdm1DaGM3WFVrVzJxTFY4NnBPbnZkdkw5ejZ5SnRaWDJjUWFzQm14NU5CcVJKOXE2eVdxZ2tUS2ZVbkF2NHpWVnczLVphUDcxNXYzTHJFaFVCaHBzaWMzd1Rfd1laUFZacVp0UmlBb1J1Y3R5ck54ZjRuYVljV1hVVk1GZUtfZjNZSnoyOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Nova Ltd. (NVMI) the Best Semiconductor Equipment Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSTF5OTcteWdHUGRjTDhtcVlUUFdzM2JfWGdBZEF2TjVUUENXS2NoX1V2NHpHV3hKYzhlRHNhMTN3SFRGaTRWTkpNODN2ZXY2OUFmcTAySW1RYzJsZlJCSURXVGROdnp0c2ZXR0p0UW13SE5YWS1Oa0dKa1lPUTJUQ0xnUnQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nova (NASDAQ:NVMI) Could Become A Multi-Bagger - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPek9Zdl9nbkd2RGdGOTZTQTN3VFNndHZWcGVhaUQ2N2RHR1VOX1c2RkIyYUFkTGNLbTZWS2dGZFVSZ21oRDZZU3F4MmpabF82ZUVPcm9aM1pEbFNUYzlKN1B2VjZVbXpFY1RRQ2pQN1pIaURid095eG9IYnd1eVhDUWYteDRLQ1h0UVZzOU5WT1BDVmdmNDJBeU8wYjhLRFlJc3RlRU9uX3o3U09mNW00dEJR0gG3AUFVX3lxTE5BLVlkQUgyS1pVczJ5bDBNdXFvcG15OXJSMTNNd0hCbXhKNXlkTFlNVTBOODdISjIwbkVGaWh0YXBjT2N0YmtJblVrQmJKM2V3RTNPV0RuUkQwLTRHMTJVREhIdFR1Z3JUV2pDRS12Q1B1Yjh0dWZZUnBHRFcxNE9aZXE3TGdSQUg1NFctY3hvRnFrTHdPeGNQd3VxaTk0a2p4WjRIUVBSdlNKanJGZ2lzQTRhb3BvQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy, Sell or Hold Nova Stock After a 28% Dip in 3 Months? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQODNyM05NTEdCd3FVNEYyMWlIZ1J6RmViWEJaSkhMeUJQMURFcHJSTDM3VjBRTWN3NU5DSnpacC1kUlRwZTRsbVM5UlE1ZHJ6bVUyU3JxTlBIZDRuVGlIWDlFcFVLMGRDUjd4aEgzQXVkU0tiRjJWaUV6UXpDMFljNlRwZGV0UUxUcFVzVHNYdlhyZGUybFU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nova (NVMI) To Report Earnings Tomorrow: Here Is What To Expect - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkhYYWFUYlM2VWQ0aUdiVFpNOHlGOVJrcDh5UzBLMTdsZjNVUWtfR2ZEVFVQbjVSZjg1WVFVZUhqY2lGN2l0VTZjaXh2NDlqbjFPNXJLek5vVUxYWkJNRkxGZThiU2lYdHVuUzZSWjRWdGIzc21lYUoyUy1FN0J5cVpVSHZvWEk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fund Update: JANUS HENDERSON GROUP PLC opened a $41.2M position in $NVMI stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDVHeG1pb3RxU0Z0TEFYeHVxQm5keGJsUlNjTkRmd1RUVElFeW9lZmVaM1I0ZlpzMUkwVVJDdWRfSTBCRks1SVctM0laRmR0YnJORkhSYmtmOVV4YTNZUS16UnMtMlBtUFFTb2VGODh6a0tWUW9VbE1iWUN4aE9sZTVlaVY1RGdxRGlHd25ENHgtTFp6X1h5TFN6X0hMbWRJbEtB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Nova Ltd (NVMI) the Best Mid Cap Tech Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hTFpNUWRYeEwyanJOZmppbE1pRVRRYnNYTDN5SEFOUDBPTlRaN21VbTJSNld0VUY1dGJ2WXllZV9ldTYzM29aSUh4UlFTeW42VmlrTklTa3FINFVJQ0NvQTdfN05iTExEV2NRNWRTLXJCSEJ1WFlF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nova Ltd. (NVMI) Tops Q1 Earnings and Revenue Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0xBejJPT1dxV0d4UHdVYUZXOHI1RnBsbHlYQ2Q5MTdWVENiQllnWmVDY0l6RllvdGxTQnRVbE9fV0pieWFRMVNtN0ZIWmNPWmpoME5aUFVwLWFSRnNMSi1CWGZvYzNKakpsVjBldmJ5SFdKS1pVcF9DNHNXR3U0NHZVZ3V5U25nRGtwQg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How Much Upside is Left in Nova Ltd. (NVMI)? Wall Street Analysts Think 34.53% - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOE4zT0ZsSW1DNkczN1FLS1JkSnBzdmk1dmxZcjVwMzE5NWZCYy1qaTVJZEZzTHJDWWtGcDMyZlBqY05idUV5Rzl6d1J2dGtsWUVsMXpSS2ZhclI1cGs3NTJWc3JPU3JIS2ExM0xwQl8xbUhaNzBVSW5od3lrUHBOdmRpTmNlZW1FODlGZTY3MVBLREtYcTA4MjQxSGVwMzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Think About Buying Nova Ltd. (NASDAQ:NVMI) Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUX2JNOFI1anpsWm9GM0E5RjcyZlFjLTdfSFhvcFgzY0MyVVhhRC1vNUpHYkctd1d6aHFobXV3bngxbWVFT2QwVzFYcHRJbHpPV0pWUlpmdFh0SVFuNzdqc0hCRkRtS0NCTlEtbnFJNTk5S3BWMy1JdWwzUUJjUms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nova (NASDAQ:NVMI) Q1: Beats On Revenue, Provides Encouraging Quarterly Revenue Guidance - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sMFhoR3JjTlpmX1QyUmZCSXIxYWEyWXY5dmlmTDVNOUc5Um5PWkJsUmpBQ05kV25KRnVGS0MyU2JpaDZDNDd1akZtWnJUN0pVUW1odmMxSUd2X21aRThrd3ZGSnZXSENGbVktZjFKeVBWQnMtRjB5VmdBRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nova Set to Report Q1 Earnings: What's in Store for the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZWg1S3dTdlhWczZwN0VwaFpsa2VtbVh4N3pfU2dHbm9Rekh2Y1JrbTNlSFBFd1VUZzlPZ2R5bEZzal9DelhOTUdPVDBPSHpUVU1aMVkwZFdMRlpkcFVXS3l1dHh3RTJhSVFHZ3VkZmMxRTN0RThFWF83dFlrWk9Yck5sZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Strong Buy Profitable Stocks for March: NVMI, ACMR, UAL - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRWJHbkNOR3Z4S0FidDZNQ1lacWlXdC0tbXBUTTlUNExQRGZtd2NaXzQ0OHRkd2Z4bW40dDFaQVZrdlh5bmNwNGZmQ0FBVS1ITmJUS2dKOVBkdzBkWlBGOGkxY0NCc0p1SDcybG41aHM3ODR3YmxvSFBLZ1BtSUhhbWVsSUxWQm5TUHc?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 190.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 189.91
-      },
-      {
-        "date": "2024-12-04",
-        "price": 189.76
-      },
-      {
-        "date": "2024-12-05",
-        "price": 185.89
-      },
       {
         "date": "2024-12-06",
         "price": 195.18
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 211.43
+        "price": 211.8
+      },
+      {
+        "date": "2025-06-03",
+        "price": 209.72
+      },
+      {
+        "date": "2025-06-04",
+        "price": 222.61
+      },
+      {
+        "date": "2025-06-05",
+        "price": 216.46
       }
     ],
     "current_price_data": {
-      "price": 211.43,
-      "change": -2.19,
-      "percent_change": -1.03
+      "price": 216.46,
+      "change": -6.15,
+      "percent_change": -2.76
     }
-  },
-  "news_sentiment": {
-    "summary": "Les actus sur Nova Ltd (NVMI) indiquent que le stock est en baisse significative, avec une baisse de 26% en 3 mois. Cependant, il est \u00e9galement signal\u00e9 que le stock a pu r\u00e9cup\u00e9rer quelque 4,5% lors d'un rebond en matin\u00e9e, et que des am\u00e9liorations cl\u00e9s sont pr\u00e9vues pour le 2025. Les analystes ont \u00e9galement d\u00e9clar\u00e9 que Nova Ltd. est un stock de croissance solide et que le stock de \u00e9quipements semi-conducteurs de Nova Ltd. pourrait \u00eatre le meilleur \u00e0 acheter.",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

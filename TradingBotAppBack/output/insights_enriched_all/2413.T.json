@@ -2,55 +2,78 @@
   "ticker": "2413.T",
   "name": "M3",
   "sector": "Consumer Discretionary",
-  "market_cap": 1374025285632.0,
+  "market_cap": 1478596493312.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 33.89447,
-    "PB": 3.6307948,
-    "EV_Revenue": 4.589,
+    "PE": 36.498493,
+    "PB": 3.9071193,
+    "EV_Revenue": 4.923,
     "ROE": 0.11377,
     "ProfitMargin": 0.1421,
     "GrossMargin": 0.54182,
-    "DividendYield": 2.06
+    "DividendYield": 1.93,
+    "DebtEquity": 5.916,
+    "CurrentRatio": 2.964,
+    "QuickRatio": 2.435,
+    "FreeCashFlow": 40369750016,
+    "OperatingCashFlow": 51742998528,
+    "FCF_Margin": 0.1416979643814485,
+    "ROA": 0.07028,
+    "PEG": null,
+    "EV_EBITDA": 19.343,
+    "BuybackYield": null,
+    "PriceToFCF": 36.626347518277385
   },
   "technical_indicators": {
-    "RSI_14": 66.40970221748344,
-    "Momentum_10": 3.769230769230769,
-    "MACD": 63.51735202857526,
-    "BB_Percent": 0.7991801786550131,
+    "RSI_14": 77.30723964559718,
+    "Momentum_10": 12.06896551724138,
+    "MACD": 85.18541766418502,
+    "BB_Percent": 1.0645828529117567,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8831507174217679,
+    "ValueScore": 0.8786668264275395,
     "QualityScore": 0.383451562382825,
-    "SignalScore": 0.4997527802824328
+    "SignalScore": 0.3620427385352592
   },
-  "volatility": 0.0299909973714775,
+  "volatility": 0.0303917054357677,
   "beta": 0.943,
-  "return_6m": 0.3736264574028192,
+  "return_6m": 0.4992839392176644,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
     "target_mean_price": 2143.3333
   },
+  "news_sentiment": {
+    "summary": "L'entreprise M3 (TSE:2413) a affiché une croissance bénéficiaire positive, mais les actionnaires n'ont pas bénéficié d'un rendement favorable au cours des cinq dernières années. Cette performance pourrait soulever des interrogations sur la gestion et la stratégie de l'entreprise. Dans le secteur des médias, le constat de la difficulté des grandes séries télévisées à bien se terminer soulève des questions sur la capacité des entreprises à maintenir la qualité de leurs produits. Par ailleurs, Price T Rowe Associates Inc. MD a augmenté ses participations dans Funko, Inc. (NASDAQ:FNKO), ce qui pourrait indiquer une confiance accrue dans le potentiel de croissance de cette société.",
+    "sentiment_score": 0.333,
+    "label": "POSITIVE",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Positive earnings growth hasn't been enough to get M3 (TSE:2413) shareholders a favorable return over the last five years - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0JDZlpZX1lOUWlQMWNfc2pVakJXS0loMW9FaVFNQlVtbjRKX01oektkcks4ei1hVDJmZlFrai02d0hXSHpNZ2F1VkhNNFk1dEhxdTRjSHBVLVI1MzRMR21iaXdzMWdpVDBzOU9fOWlJWDduZzRsekszSlZHUzY2ZXJ5RDk0RWkwQ3NRZU9xMDc5ZU9FS1RmdmFyUzFNVnJkRzdkTFd5d01QWmc3TTRKVmt6ZlNhbW80RVRSTFd0eEs5X05yUlHSAcsBQVVfeXFMUHVZSFlRd3BacElpSEE1alFVTlJHRnYtOWFOcXFJVi1kTGZVUDlyb0NBckQ5Y2lDdWoxT1hIR3ZDdDQ5UG5ZSG9qNlZWTzh3LUlpVkNCbmprZ2tyLUsyZUItcFRPZGo3ODU3WHZqVnN1Ykw3RmJwSEo2WGROdTZlMk1DZmttQWVjSFpwbVU4VTB3bzgyZWRXZnpsMmFjMjgzOUtaSWlxNWk0SC01cU1uS013em16M196VW9iR3FXNzlxTVBRaEpCY0hNOEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "‘Tarnished for ever’: why don’t great TV shows ever end well? - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT0l4emFJczBsdXFkRERLajFiczh4dzFmUWlvWDZRNDZEQ1lqNU4xX3RlZTdGam9DSXBBRGN1S1pIZFd2LUFGN095N3JJZGg3YUI0VG1DRVZvbnFONlZkYUhseFRXR2tPVmdJVXdoaE9wQm9vRDMxdk85ZUhjb0NMQ0lDWHlyM3BrcGxERmluUU14N19JeDJTSlNXTm8ybnhQNi1JYWMxUGVuZExEY1pPRko2T21mT1RkN1N2Y0E4YjUyUmp4enFfaE5zVjBKU203VHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Price T Rowe Associates Inc. MD Raises Holdings in Funko, Inc. (NASDAQ:FNKO) - Defense World",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTQ3M2ZLWWp3TEwzc0FJbDZxUTR5Uy0wTVB0SXViMHF0ZnJ2dWNRLXhvSFUwQlBEdFhzUG1NYVM1X0NZT1JWaU9TRFZrS0FMSnYwZGUxWEJIYXZJdVNpTmFNdVpHNmc1MTRCMVdDZHpjRDdsNkg4ellaekJNNWhPTnJKOGIzbmZhS0dHaEVzaDhZNUJPY3J4TWkwck50d3ZlUDZvb1lXcXVUanl0dUJ6LVNlbzZ2QQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1491.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1495.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1498.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1470.0
-      },
       {
         "date": "2024-12-06",
         "price": 1455.0
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 2023.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2146.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2175.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2177.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2171.0
       }
     ],
     "current_price_data": {
-      "price": 2023.5,
-      "change": -14.0,
-      "percent_change": -0.69
+      "price": 2171.5,
+      "change": -6.0,
+      "percent_change": -0.28
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques pr\u00e9sent\u00e9s ne sont pas pertinents pour une analyse fondamentale d'une entreprise cot\u00e9e. Ils concernent des sujets tels que les \u00e9missions de t\u00e9l\u00e9vision, l'\u00e9conomie am\u00e9ricaine et des actions non cot\u00e9es. Il est important de fournir des titres pertinents et de l'analyser dans le contexte des titres pr\u00e9c\u00e9dents pour fournir une synth\u00e8se ad\u00e9quate.",
-    "sentiment_score": 0.25,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.25,
-    "neutral_ratio": 0.75,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

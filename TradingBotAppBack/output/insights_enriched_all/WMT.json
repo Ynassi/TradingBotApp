@@ -2,55 +2,163 @@
   "ticker": "WMT",
   "name": "Walmart",
   "sector": "Consumer Staples",
-  "market_cap": 794903576576.0,
+  "market_cap": 784239230976.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 42.458076,
-    "PB": 9.498269,
-    "EV_Revenue": 1.249,
+    "PE": 41.888462,
+    "PB": 9.370841,
+    "EV_Revenue": 1.256,
     "ROE": 0.21783,
     "ProfitMargin": 0.02747,
     "GrossMargin": 0.24882,
-    "DividendYield": 0.95
+    "DividendYield": 0.95,
+    "DebtEquity": 74.138,
+    "CurrentRatio": 0.78,
+    "QuickRatio": 0.185,
+    "FreeCashFlow": 9801124864,
+    "OperatingCashFlow": 37604999168,
+    "FCF_Margin": 0.014306415022963896,
+    "ROA": 0.07089,
+    "PEG": null,
+    "EV_EBITDA": 20.249,
+    "BuybackYield": null,
+    "PriceToFCF": 79.96706358132568
   },
   "technical_indicators": {
-    "RSI_14": 63.22769398238793,
-    "Momentum_10": 1.2825754922936048,
-    "MACD": 1.0726267974275316,
-    "BB_Percent": 0.9958582258013026,
+    "RSI_14": 53.69156473812936,
+    "Momentum_10": 1.4414594890070025,
+    "MACD": 1.0989554383567963,
+    "BB_Percent": 0.5658612665101527,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8892336724060744,
+    "ValueScore": 0.886523661830939,
     "QualityScore": 0.3548229011542093,
-    "SignalScore": 0.5430517364243415
+    "SignalScore": 0.5673263242223703
   },
-  "volatility": 0.0183055432787179,
+  "volatility": 0.0183228732932496,
   "beta": 0.693,
-  "return_6m": 0.0803849056008934,
+  "return_6m": 0.0361501119889646,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 40,
-    "target_mean_price": 108.653
+    "target_mean_price": 108.703
   },
+  "news_sentiment": {
+    "summary": "Malgré les signaux mixtes provenant de diverses sources, Walmart a récemment fait face à une baisse de son cours en bourse, notamment en raison de préoccupations liées à des coupes d'emplois potentielles et aux effets des tarifs. Cependant, l'entreprise a reçu le feu vert pour étendre ses activités de prêt en Inde, ce qui pourrait offrir des opportunités de croissance à long terme. Les investisseurs devraient surveiller de près l'évolution de la situation économique globale et les décisions stratégiques de l'entreprise pour évaluer l'attrait de WMT en tant qu'investissement.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Walmart Shareholders Show Massive Support: Board Wins Big as ESG Proposals Fail at Annual Meeting - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHpUTGxKX1RSMExGNGtOU0J2VF9HRFQwZTduN09keE9uSmwyeGFKbExTT1BEbUJDR2FrRVJ1bEpvU05ZcGRjQkcwYktJQloxTEVJQlBZN2oweG54WUVYWVpIN1FQNVRldnF0MlJsclFJT0xqRG5nOTdicGR2OUtfdkd1TnN3VmQ3MFpadGo0TEVDb21zVXoxdVQtaHg2c0VvVUF2QWduQXlaRGhkT2ZWUA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Target and Walmart Brace for ‘Retail Collapse’ As Stocks Dwindle Nationwide - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcTlTeGRyOFFLMUJwa1YzZERmS3I0el9VNnJSZFpaQ0ZUSzNXeDlELTFYNVhDdnpNWmcyZWY3NVNiYnRUU0Q3ZkZCcjRHeG51RzNNdVpjSlgtQTNsV0tEQ1haSDE0MUhKeEY0VmMzcTAybGlWNV91eXhBLXpCMUZDU3hoQVJXWXNzRGY0VzFoOWhnYmF4akk3VjVRZVBia1QyenhVcExFRnVoVFVtNElDclB2dXRRc1RuNkdxMmVQX0JOT2JYM1NmRlRxUW5GMFEzQmgyQTNJWlo2Y196XzZ4X1NidGJTTGdi?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Walmart Stock (WMT) Wobbles Despite Winning Indian Lending Green Light - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWE1UVFZYZmRHUk1Xd0l3aEs1My1kaUw1cnBCa2ZYbGtfcjdpVERNRFItb1hzQXp5cWRQS1k0d2llbU15SUI2al9QSTVRSHNybzhYSXU0ZUZWSGcxeFJDXzlxVkVOV21pMkF6dWZpYV9sR3psOWhnd1dlby1GUlplY1lnNUFFeF9TZ1J1X1Y3YjJTQ3ROd2FhZ2dWS29LWVk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Walmart Inc. (NYSE:WMT) Shares Sold by Steigerwald Gordon & Koch Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlY4TGFYcG1TYlpUZzVGQzBveV9fQlRUZk9yMkE5ekJVb0UyekR0bFdYdENSSl9SeVFVRDdYMGNMSGIzUVctZ2VkVWlCeW9PVFNkRjRGNVVBNW9USW1obHI3aE9OYmdCX2dJb0YxX2t2TXpZTHJxQXJVUEZFWDRYNVdqSXlFMnFQVXpKbmNaOXZqMUVvZHBBYmJaWjJXclNjTlJ2TW1xT3EwY3NyU0IzTDFfYmJwTGQ1Nm9iM2xweVc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CRRFY vs. WMT: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuTlZwdVBrNmoweGJtX1pqY0ZNaXpQN3lKQXFnMTFpTkM4eTVORlYyTGN2TWkzWU0zV2tDSGdSRUdtZ3pKMERITWo5cHl3bDVjT2dSZF9Kc3ZpU3JhRUJMZEhvSXVCbURuUTk1bTAtUUlmVWxqdGV2aUFTRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Walmart Announces 2025 Annual Shareholders' Meeting Voting Resul - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGk3VkhSTko3UmhhMnU4NkZfeE1VMTdsLTNCYUEybF9PNjJQclFOaTNFdjVPMDBraXNhd1Zfc0l2ZkhQWG4tQVBhOHlWSWxyZ1NMNy1ETmhVWmd3XzE1MWFweUdyT1ZtU0FydTlTVzJVczBodHFBeWV6Mlg2eVhxdEk5SDVtWUx2QzRIN2Q2MEZQQXZrcFI4REg0QzluNGFMRHZiRlBzR1BmeVlHbGFJbjBBZllCRWIxRG1J?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Buy Walmart Stock Like There's No Tomorrow - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjFTdkpEQXVkSVRadzl2a2p4UVlVSTdXMWtta3lwUFdFejFVR0FHVlZ0ekdON3oweFR5STZta01fOF9pbl9kdkk3YU9zdEx3d1hsNU0zb0JwSERhNmZfeUVKM0I1NVd5S2xOM3ViWjUwSmRKUENaM0cxQ2lCbGx3ZnBnd3VuZDVVbFNmZkJoNDNQN2Y3SVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "After Earnings, Is Walmart Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1BBNUNGbm5ubDlBUWMxLV9zYloxdEF6RWs1OXFtNDFhUWRlSWU1NWRPY0E4bHJYanpUVmVZeTdVRUtmS19WbEdfV2JjeDQtZFRxX0xpeklTdW1YdFVjRGRYalF6TV9sTnNtQ0Z2WjhBVlZxcUNqVkZ6d0JpUC1XQU0yemYxaVJrYmhiOUVzWmFXa1lJQmdUVUhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Walmart (WMT) Stock Price Dips on NYSE, Though Long-Term Growth Remains Impressive - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTXB3TkFNS0kyN0RNUWZGYWxuQlZfYXZ2dGRDcnZERFJtN1lZdWNLbFVzSEZzSTdkMnJCM2Y3a0c4NUNWZHY1cXFjcjdjZ1hOd3RxQ2hHQ3BLc19KaG1MMkMtQl93LWNrSk5XNE9mQWl6VWRqczFNZ3MzVlcxc0Jtb3k4V0lQb29qeUtsd0owTEhCNjRLaGlLckJZY2dCaFM5OVZnb2kyenk2UUtSUS00RUR5RlhhU1IxZmtMWFpsYU5Vdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Walmart Inc. (NYSE:WMT) Shares Sold by Lmcg Investments LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2tDajlGZDV1R2RMRmlDc0NuRXkxNVJhWV9tWE5JdTlvaVNDWWRDeEQzT0lVekJ4MzN3dDROT3Z4OGZKNFRIWVlFWmp1cng4LUVMMUFsXzNzRzV6aFdOWmtzN2xSRHZfSkRnaGZWaFJrTXlWVnpzclBKSkVVYWhRQUh2UFRWNHJfcHkzMDBYckI5bUR3XzJaWDJFb3o2c2NSQlVFT1FSOXhhRjZlMkhsdnB5LThUMkk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Walmart stock is a still a 'port in the storm' in the Trump economy - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSXRvclBDTVltcFRUek1PSHp5TDNEbW91MmVnSjZLUFM3ZUF2T2E4M0xnRlU2d05hTFFwZmdZSlNxMDI2Nm9CRS1vRzhZUnUxZDlLWkt3SVlDaU83dmdyNW1sRHU1TzNfZnZ4SVJ5VGEzTUpieWtjeFhqN1gwX3Q5RXBlaEhIOFRibUFSNklScHhDSDRYSDdvQ293M2JvS0pLR1YwSlI5TVR2UmFiZlZ5WnZWazE1dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Walmart Stock (WMT) Slips as Florida Migrant Jobs Could Go - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVC1uSTN1dGtIOVc2RFBDMV9HRGhuLXVmV0FWOUN6NWhkSTMwdHI3ZmJuaUVhRzltTnVBbGNpX0VJNV8tcGVyczFxeTdHWnhtY05jVDZuZUI0cjMtWFFLZmJ0VEN1Q1ktRjg2N2cwd0NwVkEwU2lHdHRBekpzZktXcmRIcWJ3dHZBa2YydC1pdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Walmart Layoffs 2025: Should You Sell WMT Stock as Tariffs Drive the Retailer to Job Cuts? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNcEpRVGFRclJ4ZWRlNV9VNk1Xc3I0dUtJanJiaVN6SS15Q0FmU1dZWTV0aDBnNHVZeTBhaVAtaXdFU244dXZEZFVEeXRiLWlXMGs0Q1Q2dW9kQnd1bzd1cE5xbFIteVV6dnVnUF9paGJPRDZDY3ZTT0llQ0hIRlNlc29vVmMyOHFaNTF6Mmwydy1WLWpJQUhMOUR6QmJsNl9pUnZFaEFEdjBiRVo1SjI2Qmh3cGhWX2VjcmpmVkczMGsyVnFWZDN3OXkxbEJCMmgzQUFIMFZvVllUaEdhanh4VVhnd21LWC00dklXelFsNFlaZS1hc05tSHlUSzR2T3R5enRDOG40WFF5YW1FZmdrS3d4NFVyX0tXSHFqM1FmbjBrQkNDSy1QZS1hNkdrQVBERTFqQUczVjJyeEdPbnRnQnZVRENCS3pBS1NsWURrd1ZaUE4zSjhnT29uVUNzdkFLaWhaTTNxd1NaamJaaWJVZzdKYnZIOUljMkxjN19JZ0FETS1yWHNGS1dtbWN5VVpMZ1hSdUdoRWlMcEVENnZEWjJGNGdBMGRKNmF5eXltT0dwc0M1Qm1Zb09TdkJnbFlwaU1pcGI2OG8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apella Capital LLC Grows Stock Position in Walmart Inc. (NYSE:WMT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQmMwUGpkeS1jNTZiWGppMlFzcXFjLUlFSzN1SFh3XzB1RmFNM2hSdUowRGF5NUttS3NOblVZYnNia3RhdmU0LUdWWFBJMTg1OWNWVnp4eFFiRHNuQWZRdENWeXZmV1VsMXNWbUw4OGhNa1BHSXR6S2d6QXVPQWh1VnVWYTE5R3JrZUVFazRXQUxBcGk3aHlYMmo2ZTYwTXh3REc2aUNrVl9jbTViLWRFUGNwRXJ5TTFWLTluNUt4QS0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Looking For Exposure to Walmart Stock (WMT)? Try These Two ETFs - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkZfSjdwaHp2bEswSTQwUEROajBWbzRmVDEzYlVUVGl3V1E2Z2k1QjFSS3hQdWpqS3BMc3hXbHZMUWo2TWZpRTJ5cUlLUWRkcG45NXJ1eDRjZHdaY1JKenduZU8xN1pFUThVcm1JcmYzS28xam1BMzZQRG1COG5TNmY0a1NjOFJCVW85emtLT0lRQUhU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "12,138 Shares in Walmart Inc. (NYSE:WMT) Acquired by Bay Rivers Group - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSGtxU2tfblJObzFPOGJHNVQ3cG44RGRhSjFTRF9TQzIyQmhJWnE1ZDljT0h3QTRZVjB4MjhGZnFzc2dYZXRMVDdTVHVuWmF0ajlBUVhZdk9mTTh2R095UkhEZWt1ZUxncE5vY21BNW1SSFdzOG4xaXhiSXl5czJoX2hoNm1BTk50aTFDWVZEeTFTbkRBaE1pYmNjRUs0eU11MEU3TzJvWGFvcnltX3R0Nl9fODNkVFQzY3FnbDQ4cTk5Yms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Evercore ISI Forecasts Strong Price Appreciation for Walmart (NYSE:WMT) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVExXZURXNUFfOU9teElaUXhqS2NYMFpsOTJCNkhPQ1phRERJR0hFVEZ3ZmVscHpObjI4NzhTd0lhNEpFTTFZNldoVTNkazdER1ktQzBkS3NVdXpBTG9rNUd1bEhvVHBwR2tBYUFvbjNBVlBxZkk5R1lNLUt2VWZXSUdESG85YV93ZkRtLVRBeGg5S29wTWNQemdhSk11TzNqMjJuaDl3OWdQeUxjaGh4TzJjYkN2aFgxZFZmWkIyb0hMSVRteENR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Walmart Inc. (NYSE:WMT) EVP John D. Rainey Sells 2,200 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFZqUWJpcHRxeXBYVEg1RFBjUmx5RnIzQVZmQ1hyZUlNWTljTG81THowMGNlVE00eUxwTmJ6eFJ4Qktxc05Ic1BNS29WSjRtbnZJbkF3X21nUXF2Tl9MMG1RblUzQlRPSmVwT2hCeVVqVHVNQVBXcFhRdTAtV0pUckNyRGV5MDFtcmMxLTIzZDNQR0NzZVlhQWJwWW9FVV9EN0d6WThqM1h6bV9Va2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Walmart Inc. (NYSE:WMT) Shares Sold by Nixon Peabody Trust Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDZpd0VuaXV5SDV6Y3BVRmRCNl85VG1QYXVvaUQ3YWxVczdJUThJeUNydkdqOEpHdFVWNGRBa0UyNEdoczZjVUw3SVBRVUVXRzNETUFQeXJ3VlhaQjNNckdEcVhpeVhEZ251bXE2WXk3UWlGUEVRcmEweWl1bWJBTUNaRjF1U3FXUjdTNEZGNnUyc084WnZGX0JOT2xjLUdVckpQQUpYWGpPS1hjclRZSFJEazZDZEhndHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Walmart Inc. (NYSE:WMT) Stock Holdings Lifted by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaDBTZkhoTmJ3YkQ0WnY5d2s2cVhLWlF2V3dlcEdtb1NDT29BVHBsQVEyREZpLThMRjduZEVvSEVGVGpic2xHaDg5RUxoV1pUOHV5RlFPb181bmpmWVFnSGw3NzRxVFI0LWY5T21jNHJsUXlFSURDdFgtc3RqalVoQlZ0Q0RzeF9fWm9iS1drb3VfTWM3TkxUX05VTFVQbXFuUm1NenJxRjE5V2RIc21lQl93WDRRUFBCdFBYdDk3QU9TQQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 92.64
-      },
-      {
-        "date": "2024-12-03",
-        "price": 93.51
-      },
-      {
-        "date": "2024-12-04",
-        "price": 94.45
-      },
-      {
-        "date": "2024-12-05",
-        "price": 95.3
-      },
       {
         "date": "2024-12-06",
         "price": 95.7
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 99.77
+      },
+      {
+        "date": "2025-06-03",
+        "price": 99.98
+      },
+      {
+        "date": "2025-06-04",
+        "price": 99.35
+      },
+      {
+        "date": "2025-06-05",
+        "price": 97.96
       }
     ],
     "current_price_data": {
-      "price": 99.77,
-      "change": 1.15,
-      "percent_change": 1.17
+      "price": 97.96,
+      "change": -1.4,
+      "percent_change": -1.41
     }
-  },
-  "news_sentiment": {
-    "summary": "Walmart Inc. (NYSE: WMT) est un des plus grands distributeurs mondiaux de produits de consommation et de produits de grande distribution. Les titres r\u00e9cents concernent principalement les investissements et la performance financi\u00e8re de l'entreprise.\n\nLes titres \"CRRFY vs. WMT: Which Stock Is the Better Value Option?\" et \"Looking For Exposure to Walmart Stock (WMT)? Try These Two ETFs\" offrent une comparaison des options d'investissement pour l'entreprise. Les titres \"3 Reasons to Buy Walmart Stock Like There's No Tomorrow\" et \"Why Walmart stock is a still a 'port in the storm",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

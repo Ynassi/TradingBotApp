@@ -2,55 +2,163 @@
   "ticker": "GRMN",
   "name": "Garmin",
   "sector": "Consumer Discretionary",
-  "market_cap": 38940450816.0,
+  "market_cap": 39615307776.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.646244,
-    "PB": 4.764984,
-    "EV_Revenue": 5.672,
+    "PE": 27.143799,
+    "PB": 4.8475637,
+    "EV_Revenue": 5.731,
     "ROE": 0.19036,
     "ProfitMargin": 0.22761999,
     "GrossMargin": 0.58585,
-    "DividendYield": 1.77
+    "DividendYield": 1.76,
+    "DebtEquity": 2.181,
+    "CurrentRatio": 4.095,
+    "QuickRatio": 2.615,
+    "FreeCashFlow": 901582016,
+    "OperatingCashFlow": 1417954048,
+    "FCF_Margin": 0.13977250466053243,
+    "ROA": 0.1105,
+    "PEG": null,
+    "EV_EBITDA": 20.427,
+    "BuybackYield": null,
+    "PriceToFCF": 43.882110159570885
   },
   "technical_indicators": {
-    "RSI_14": 54.330402572121365,
-    "Momentum_10": -1.290916753820458,
-    "MACD": 1.790666191458172,
-    "BB_Percent": 0.6530380236023533,
+    "RSI_14": 58.39695564334805,
+    "Momentum_10": 2.3886609732650426,
+    "MACD": 2.072241060045428,
+    "BB_Percent": 0.7456031157302525,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8804602094273941,
+    "ValueScore": 0.8771464498340936,
     "QualityScore": 0.3967314851029005,
-    "SignalScore": 0.6055544984536605
+    "SignalScore": 0.537568819900111
   },
-  "volatility": 0.0262659981139582,
+  "volatility": 0.026232389319062,
   "beta": 0.988,
-  "return_6m": -0.0458194731375024,
+  "return_6m": -0.0433110723709616,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 8,
     "target_mean_price": 198.5425
   },
+  "news_sentiment": {
+    "summary": "Garmin, le fabricant d'appareils de navigation, suscite un intérêt important des traders d'options et des investisseurs. Malgré une récente baisse de son cours, la société a enregistré des records historiques suite à des perspectives solides. Certains analystes soulignent un potentiel de croissance multi-segment et une innovation continue de ses produits. Cependant, la révision à la baisse de l'objectif de cours par BofA a été notée, ce qui pourrait influencer le sentiment du marché à court terme.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Do Options Traders Know Something About Garmin Stock We Don't? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmhmdEs5cGd6bUdjb2RzczhzRnd4eEhpUXZSSlF1M1V5ZF9JR2pJQzlWcGdoTHFmMGtnb2stWWdEV2V3LVR0Z1hvM1ROTG9WN0lFMmRNeTNvazUwNHkyaFVtR3lndkdTRTExblFjZ2hXb3pkSFNDRHdDTGpITEZ5aU1KWmdXRVQwZjZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Options Traders Know Something About Garmin Stock We Don't? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRC1KXy1haWlLcmpucVY5OXEwYU1uUlRrd0hJazN0S3pNdnhzX3lWWGZ2ZE8wRjM2aWQ0dno0T2ttUmQ5cTY4TjFUbS1NZEhHNkMtQ2Z0aUtjVlJTLXdqZVRPaW15aW11NFNqa0FRZXVRemRHdU4zTDdpWUt5aXFFWEt5eUtHRG42YTA1MlFWNG5kQUVzdUF6S21pcUo0c3lld0RhZjJxZ3hDUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Garmin Stock Is Falling. Here's Why. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWDZOMTRISnVnSGdIVndfWnZRMjVfb0lRNFA2Yjlwd04wdUdhVkpNTS02bVFMaHhFalZOOFJyREQtX1hMQktfU3ZHTEI3X21TUzJmRktlVkdaTkVVX2V3RGotMS1EWXQ1Z1hUc3h3WXZPSGRnOUdITmR5aXQ0MTBaSXFsTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Investors Are Running From Garmin Stock Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmlkT0o5cjc0dHFOZFhXQ1lOUi1pbENYeVprQmlrRTFuY1NQNWN0MllmcjVmUnVGZko2RGQ4THEta2w5Nk1wV1Y1UjdjWEhYbnhFekVnY21wVFVFeXJnWkRlakVmSkltc3E2V0tXTDhqandudzRUWkFtaHFHc3ZyS0t1M0VCZF8yODZDRTJlYkxONnR6UGV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Garmin Stock Outperforming the Dow? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yb3VWZ3RZTHlycFMyM1dQWEQ1UXN3QzJEUjhvYzAwZk00R0N2TDVodFFVb2RQTzVTY3c0bzZHS0o1aU9KZ3kzblZ2SzhObzlrN1F1TWo2M0h1QmF3dzBmNlJTay04ajE0c3dGMVU3NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(GRMN) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkRyTUp1Smh3UnMyNFhMSnJqNU1sZ3VsQlFYc3lZS0stOUNFM2RuQWxnVVRUNDVyWkhWVWVzRWVBa3ktNTMwUi1nWnNnSXRDUUFoSktBM3Q1cDQ2LWQ3V3YzMV9WTTloc0ZrWWZkekZZcjR0dmxSYVRoekFRSEZuc09jc2VKQUVIZEpPcDN1SHliY01GMTNkOUJR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Garmin (GRMN) Stock At $230: Buy, Sell, or Hold? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVTVRNXVubEdWb0p6SEpXU25Hd1I5ZXBTNFl1OGN2V3RXNUk1d3g1dWJBZDJlN1VyVE9zYjdrX24tanJLSzBrVHFUYXVtN1E1b0tGenQtRzVnS1l4UzM5YnljaXhuaklBYTg4c0JyMzI2TTNHendYd0hZNE94Nms3RzQ1dGVPd216TGk2dkxraUZfT3pMNy1GaHRvYXNQTy0zTFBSOHU5anZrZUxDdzFEOTdBWDNyWWly?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FLEX vs. GRMN: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GNlRtYl9uSVE2UU9VZ24yT192UEtiRWo4TGxEWlYtNV9zQmgydTdQd2VtQUZjRFIwOXRJcXlWcy1Kem9lWjFMT0hLazVLREt4eWdOTmhKRUxabFlGQUM4d0R0eDJfMG9NTDJqTlJNOHNhM3k2anE5bEJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Garmin Stock Surges to All-Time High on Strong Outlook - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeFhiQUVyV3hXbC0wTUZScVdCNWZ0TXdQVFBtWTYyU1BHNkhlZDJnTTMxSGRkbmhNSDN4WmpZdS1ub0ZzUmc0bW9ROEpwcTI0QzBPbTZGWk9Ub0M5MHBYT2VxdEE0V3diYmRLYkdwc3BQUURZQWZzR1g0Zi13NWNBRGRhVmZJRjJOYy1aQVI0Nk4tNzE1QWx3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Garmin: Multi-Segment Growth Potential (NYSE:GRMN) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQak1WVjRVZHFDNjZCX2VpbXdualZTZG82Z2NLLUtwZVF4eFh5blA5U2U1MWtERE0zdVh1NEQ3MkZDYXJ5MGV0aC1FN1pWaG1WSjdGMXBIT1BhMmxjdUlqdmZCN2FOOTlFeG8xS2lmbE5fdmNUaTZSUWlsQUJaeElYR2lLYUM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Garmin (GRMN) Gains As Market Dips: What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPWGtyNWZSY0NzeVBldm9KcHhldzU1U3BwQXlSblpxLUV2d1hHQ29QVEZrZXFMcWkwWEI4MkRSX2lnbmxXWnlVV1JMTFh0UV8wTVQyVndaOE5lYmpXeEZzT0dkQVNudW5iaFRYU1NUam1jcG04ak5Fd04xekZWNDhRTnpjUllnLW93S1ZuUWtjcnEzaTZTUDJRak9OUEx0ZS1KMDhacGdsblNWZXdfQjJzSUE3eDVFRy01Umo0UDl0ZHVEc0tHM3NDZmdmSkN4ZjZ6S0NlNlVJR3VPOE1VLXltMGEyQTJIRExZbXlYM3RrX1FzeklrNGJTX1lqZU5XaFJweUd4SGN1TnViSjgzYWtIOGdGc0lpR1YxRXpOZHRMTHRIMXJrNi1nMEtLaWdpSGhzTzAycVFOdGFadm5hV19Yd2hwM182aVY3a2hqTVBB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Garmin Earnings Preview: What to Watch in Q1 2025 Financial Results - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGoyYVFOcG5VNE5zQWcyRjlBQnRDTTBoNDA4REIxQXRWYldxQ0kyS19HdnNMZW9QczlpcWJqZXBFaUdidHdFREtZOGZwTjBOcERxMVpwekp3cmNGb2FiMHVfb01wRzJSSExFX1lMeDNBX1c3bldpa1Zsb195U1ZxdFZCYmdSbzZ3NmNpUU9IaDRiRmZOLUdtWURyVTRWYXljcGk0SWtn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BofA cuts Garmin stock price target to $175, maintains Underperform - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3VWUi1sNkkzRjFYbklzSDh4WTlyaUdnZ0NOVGtPNmhiRl8xR05jSExHZmdxTUpIVFFXT3ZMVER2QWFVbmxoZVJvVHFQNExJMmU0QWtkMWFvdHpfa0NfTEx5Y3hfSlQ0STM3OUxOMDItcGZJWkp2Nm5MRy1fZGNKTXZQSXJPcU1nMjZocEktbENTME84LWM3U1Azc1Y1aVhZS0lFQ2dnR3hxaEoyRFZXOW9IMmRpcUF3U3F0NVpQdTR5ams?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Garmin Stock Hits All-Time High: Time to Cash In or Ride the Wave? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSm9NR2NwbE9jWkY2aTE5ZjlhUWJaZHNFenB0V1hQWm9wMm16Q25PSVRmQktMaTZFOEp6VldUdy1RRlY5dFVqSklxMW1hcTM4ajdNa0swSm52dTVuY185bDhaZjlQeEtIM0owRmhuNHdqNFJOOVd2Vkl2aVdMM1pIV2pKMUI2aml0U0lkaHR1bGwtemxfNldUeEJ1dmtiWU1pNEJPeHJYNlBlNW9kWU5WZlhQRl94OC0wbHpUblpnbGRUNnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Garmin's Ongoing Product Innovation a Sign to Buy the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUw4ZXNMNUtTVkoybXF0clZfcElZY1BwbEdoNEVVa0RaUElQRWRBdm1ZVE9OZ0dQYzRRUkF0OEtPNEFsVi1oZ1FwOFBOb2ZKbjVsaW9KVThCNFVvY1hiMXdBSjFEbTNsWEZHT01McTdZY2lWRWhVTVg4NDhNVDhnS0FGemtfNDJP?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Garmin Crushes Q4 Estimates, Raises Targets For 2025 - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOC1nZ2tmcVFJY0pZUU5wX0FtQ1Bmbl9URWt2Z0VUa253dzhtYkxTeWF3d3BQZTY1QktGZGR1cXFDNktlYUtjZGt1OW8zbmhnNjJJUlhsbUJVMDRzRlFzWjM5NGVsYUZnQXEwblh0eE9DWjNvbFlVM2dmRjkxR0puT09YMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Garmin Stock Is Racing Higher Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejh4UVpqeGxoTlpYV3I0QTA5TURia004aVZHR1lVNnBZMmhRNHNHRUpUeTUwa1BoSHp1ajJzZ1daRUFPTFdwNWY4VW5wOVpoX2JmVG9KUmp6YURteldtdGtuN2N3QWk0WVJaWXZFdnFCdndRRGdONnZrcEVjbzdXaGNEeTVmbkVlMVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Garmin (GRMN) Up 8.6% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZWFVRSG9qRHNEeVl5S2ItcTZGc0dUSGZ4ajNZYnBGZS1ZS29jR0dUZE5IQnJNM2VyWlhfcjFrY0hEck01dnR1SDc3STR1MmdiS3lCVUxzRkFOQkNXVkluVWpmMDZKNUNZUWtXVHJSUkdvOUZOV3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why Garmin (GRMN) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRZHYxR25oUWNCR1VlWVFYOXBDUzdwN2lUZzd6cngwUzhTNGpFSGlQeVo4NElZNWNaVFRDR19CMEJEYjl2SkxTLURldnNVV29NTm5uX3NhUzBjYlN4UjFKVW9ObjY1UU9GQzV0Zk9IQlJfVFFLaW90dTFCNnVlVHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DKILY vs. GRMN: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43dlF5eERCZVdKOUJaSmhJSGs1NThrbWZfdlV6TUZ2cWM2czU0XzR3MWREa1I2S0lsYzh1bjFoRmVxRjJXOXZiYy0wM0lMOEZ1RE85UG1VQlpxTndmXzJwNHBaWi1wdldGZzIyU29MNEVmM0xUb0swcHdNbjA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 213.46
-      },
-      {
-        "date": "2024-12-03",
-        "price": 212.45
-      },
-      {
-        "date": "2024-12-04",
-        "price": 215.77
-      },
-      {
-        "date": "2024-12-05",
-        "price": 216.59
-      },
       {
         "date": "2024-12-06",
         "price": 218.58
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 202.88
+        "price": 202.95
+      },
+      {
+        "date": "2025-06-03",
+        "price": 204.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 204.95
+      },
+      {
+        "date": "2025-06-05",
+        "price": 205.48
       }
     ],
     "current_price_data": {
-      "price": 202.88,
-      "change": -0.04,
-      "percent_change": -0.02
+      "price": 205.48,
+      "change": 0.71,
+      "percent_change": 0.35
     }
-  },
-  "news_sentiment": {
-    "summary": "La synth\u00e8se de ces articles concernant Garmin Stock (NYSE:GRMN) est la suivante :\n\nGarmin stock (NYSE:GRMN) has experienced fluctuations in its price, with investors questioning whether it is a good investment. While some investors are buying, others are selling, and a few are holding. The company's technical data suggests that the stock is falling, and its earnings preview highlights potential growth opportunities. However, BofA has cut the stock price target to $175, maintaining an underperform rating. Despite this, Garmin continues to surge to all-time highs, indicating strong investor confidence. Overall, the articles suggest that investors should carefully consider the risks and potential rewards before investing in Garmin stock.",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

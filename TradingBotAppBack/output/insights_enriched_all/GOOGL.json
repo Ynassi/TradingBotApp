@@ -2,55 +2,163 @@
   "ticker": "GOOGL",
   "name": "Alphabet Inc. (Class A)",
   "sector": "Communication Services",
-  "market_cap": 2054120800256.0,
+  "market_cap": 2055331774464.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.837679,
-    "PB": 5.9421086,
-    "EV_Revenue": 5.608,
+    "PE": 18.835938,
+    "PB": 5.94156,
+    "EV_Revenue": 5.483,
     "ROE": 0.34789002,
     "ProfitMargin": 0.30857,
     "GrossMargin": 0.58591,
-    "DividendYield": 0.49
+    "DividendYield": 0.5,
+    "DebtEquity": 8.254,
+    "CurrentRatio": 1.768,
+    "QuickRatio": 1.597,
+    "FreeCashFlow": 60679000064,
+    "OperatingCashFlow": 132601004032,
+    "FCF_Margin": 0.1686872527344394,
+    "ROA": 0.16896999,
+    "PEG": null,
+    "EV_EBITDA": 14.535,
+    "BuybackYield": null,
+    "PriceToFCF": 33.759817483336434
   },
   "technical_indicators": {
-    "RSI_14": 55.771281070897054,
-    "Momentum_10": 1.6306585325634066,
-    "MACD": 3.278162849864401,
-    "BB_Percent": 0.6614258716538742,
+    "RSI_14": 55.02006123661387,
+    "Momentum_10": 0.0919546639427277,
+    "MACD": 2.4912139550743007,
+    "BB_Percent": 0.62109430779668,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8812982175336166,
+    "ValueScore": 0.8786253222177751,
     "QualityScore": 0.4065831752903585,
-    "SignalScore": 0.5784360244100448
+    "SignalScore": 0.5701516748810667
   },
-  "volatility": 0.0234742243151589,
+  "volatility": 0.0234690943944382,
   "beta": 1.014,
-  "return_6m": -0.0135399223168772,
+  "return_6m": -0.0202270835108788,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 52,
     "target_mean_price": 201.4652
   },
+  "news_sentiment": {
+    "summary": "Alphabet (GOOGL) est au cœur de l'attention avec des prévisions contrastées : certains analystes évoquent une chute potentielle de 25% en cas de scénario de « cygne noir », notamment lié à la divestiture de Google Chrome. Malgré cela, d'autres soulignent son attrait en tant qu'actif à momentum et à croissance à long terme. Une récente baisse de l'action suite à des nouvelles liées à l'IA a attisé les spéculations, tandis qu'une exécution réussie de sa stratégie pourrait sécuriser sa position dominante dans la recherche en ligne. Les investisseurs devront surveiller de près les développements pour naviguer entre les risques et les opportunités.",
+    "sentiment_score": -0.25,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Are Hedge Funds Warming Up To Google Stock Amid Magnificent Seven Upheaval? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVpDOGxJMjBGbGtkaUtINGx3Vk9qOUV3RFdDTnlmaGtjMDFSUlU1RlRlZkNVTlVOTHdqN3d1aS1ieUNLb2VjQl8xdU1CSU9EMlBULWQ1MW9SSmc2RGNjcm9GM0d2bmFTTjhPX2p2ODIwdFVrbmVRSktzRkhDejdsTzVORGQ0TmVmSGZQbTlwMnhUU0RxVkhQVkZxWktzRkZFWmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alphabet (GOOGL) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjQ1RGZpSU51bERPZERnWFliVVVYWmlzUm13YW1jNmRjaXZzQzlsZ0NjZXVONFpqNWVDN2Fsc0xXb2NlWk42dXM2SUNWaXh2RFBfN1AtcGJnZG00OHhaWWltOTZWd0JOZXZfcFp1b3dleUpKaFl4QThpcTgzU1FnWExKU2FYZWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Alphabet (GOOGL) is the Cheapest Magnificent 7 Stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGxQLTBxRWhpbDdpeHNEZndadzdnenNEZ2lYQ29DOUVVdnlNbHp6VVA2dkJaMk5fdHNxOElEc2JHNERrd29IUmRQb0c5X1VTSDBUNEs5VjdqZ0g4eFRhWks5X3I2alhENEx5bWx1cDZwaDdwSzVuV2RVeUJhNGhKRFhOdXhOTnJkX3pnZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alphabet: A Hold Your Nose Buy - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DMldwZHY2aHV1THVjZkV0MFd4VWFYR2hVZ0xyN1ZycG1GeVU0bERoZWpySUVXUVFnV1N6SFNxRkZtUDZYYTcwM0luTEszYW5hWUo3Qjk0ekJPeDdFUWlLTWFFajdwbDRFREFSZnBickEzR0F5Ylc3ajRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alphabet stock could fall as much as 25% in 'black swan event' if judge orders Google Chrome divestiture - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdVBSMGxsQTFJNnRzMnJNUHZJd1lCRXE0YTZHMkxMbkxPRlYzS3FZRTdUNFdHeVNjX21YTWpUaDF6RUZCMEswMngxSDNxQ3BMYUNMVTZjZ3g3b3FucmlEVm8xY1dhMlVwd0VJclJvQkZpOFVJbFJ5X0JBZEpjM0dRMDJJeGhHZlhPY0k0OWRZcUZjX1I4V1VvSUV2S19XeF9selRzWmVXenFwXzM3VG85QnRfZklqRnhDSUxPeWZXTFE1cFFOeENOM2licEVlWDhKQi1zaDVnYzA2Uzd6QXAxVg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Alphabet stock could tumble 25% in a 'black swan' scenario that forces it to divest Google Chrome, Barclays says - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2htd0V1Y2hJZlRLX2QzbkpDUnM5blU0MEpKRnNtcnJnalFpeV9HVXdyUXhaQXZoWldDMXJWYnFtTk55WjFxZjB4VVhwWGdPWFB4UHZNVHl0UldQWWsxZnhqZGUxWUJQX3V2SjByN0ptUkVJUlltZ3czX0ttdmJmOWpEa1pQLUw2TTZQckVfY3ZxbDRkVG5jeUYwdW5vVThpYmE5WnJKT1M5QQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "As It Sits Between Two Benchmarks, Google Is Set For This Option Trade - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGxnakN3ZzNVOHJXOWF1SWJmQUR3VllteUwtc1Zxb2JsY2dVLUlQVG9hOUwzT0pEVDAzZGhINE94LWNLTGxxRU5kY2hkb2ZDRXBfdWZYT0I3Vkp0MmpSMWtlYktLYnJoaWpWV3d1aXB0bWdtQ1Z2VU1WdHJsQzliT0tpYS1EVUl0M1F6Rlo3LXJmRU9xLUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Google's Black Swan Event and a 25% Loss: ETFs to Consider - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91azdCYVctc2JnZDBVczN6Qml3bFFucGFpRElvY0hUcTBxeGVDVFoyLVY1bEtSQXVnUEVMTks1bWNld3Y4LUZvS1dEU2ZRVG1MOVcxUlJsTjhraEprMFBiM1FaTnk3TVZSaUVtcGlmQjlyeXNGMFVXM09Zc3ZuUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Alphabet (GOOGL) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ1dNTUNac01RX2ZrT2pCb0lxY21DVjNad0V5SDVHN2VpeUpnQThhRjlaS0psVkNnM2RCNWZZVWdKdjl0NThib2hZTDJ4ZG11TnhvelllTW5kV1hFcnlVd3hKNHBrbzFORFhQMkE4cDhXaDBoVWpVTEZBdzhOWFJOb0h5NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Alphabet (GOOGL) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaTFzVS1LLWpuZG5pNXBQOVhOcTlpOG1mQm84S01rMXl1MUlpMDFvaWFFUnc2YlFJelRZWGNpOUpXWmFZVERGd2RZc2lKWGtEeTc1bUI2MkMtcFdwOWdNMlV6czdSOEJKdlloaTRDbVJRekRCREViNDNMTlFSa3NLbg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘Black Swan Event’ Could Trigger 25% Drop in Alphabet Stock, Warns Barclays - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORnFmU0wwZDExTExOb29QbDNVbXliREszZ0R0dmpmQlhndjdZQ0dDZFRvbDZFbVp6NmNjN1FaQV90cU93MkRlVUg5N1Fhamdnb1FNWllIcklveTlzcERsTGFhR1Z4ZlZsRk5RTVpreUNZRElnclRHcnRHdEdiTkgwVXNqbkF2a1RIOWlTXzlBdHl1dTU3cW1LMnRBYnhRUVJXR0hR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "An Apple executive sparked a Google stock selloff. Don’t panic, analyst says - Quartz",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbzdnWC11LXdkTy1SOWo2YUlkdk9tUTRZTEVibzN1cjVUOTZESHhINzU0MG1DZjEwcEhJaXZMY1ZiWF9samNGVW5sQ3pjTnEwUk10bHUzZTY1MjBvcU4ycFBqRl9IUXFiN1QyanV3dm9adWYwR0Z5X0RQUXdYd1M0OGhDUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Alphabet Stock Analysis: What's Next—Bull or Bear Market? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2I2RTVOeDFhb1RvRmZualVuYkVmM196RmdYXzdNUkpMazd3STVTOWZuOUQzeEFCQmI1X1JyS21oSEpZeDFfQTlLN3BSWFV3bE12V29PRUN1NVQ1SlZqOWJpa1RrZHE0OU1Xa0JRMkJYYmlVcXhIV2otMkI3SlRwY0R5RWE1cFE4YktVWTNzQzJ0aHZFenc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alphabet Stock Is A Value Trap (NASDAQ:GOOG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rNl9JS25tLWZsUTN4SFJSdk1XX2U1cHFma2dIa3E0MlFBVzdLN2V1Z0c2ZnFqLWREVWstdmdVVDJObTdqNUloYzdmLWlEcU10MEhlSVBTd0xJTjlkU2ZWNjJObl96U0Q4N3NYVWw1YURVZWhsc0pPU2hlTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "4 Reasons to Buy Alphabet Stock Like There's No Tomorrow - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRG1IRHV1dmJkZkhDTXpQVXh2RGFZelJGdEZEdUVMVDk3aDVkelZFR1FBeDlGZW9LcWZadTE1b0NTQUZSaUZfZnhOQXQzQjJGcWR5d0lUdEhaSzhSX0I5Mm1Ka2V5REtHQ3FSVlhZTV9jNFZUaEJENHhYYjdadXpCVldlRmxQQ1hqVDBpVzJnNUpyTkN2dVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alphabet (GOOGL) Stock Slides as Market Rises: Facts to Know Before You Trade - MSN",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWpmdUlaQkU2Qm0tSGNIdDl5aE02dWg4WFd2U1ZzdW1PUEN3TzltZTNBNDZCNi1HN2d6c0hlRnhVNW45SFljM1NncXc1NDZfOVdhbjRyUXJLYTdSX1dMWmItdTNOV2ZTbThIRVpCV1k4WmJTSFJZMTZzMGtJV2JzVlI5elBXTU9LUVJreEFkck54MGpqRDJDRzBKVkt4bkZETEVYM2NiODhRam5BeEJTbUpHSjVPNWNPR25zMmJRX3IyNGtOTHY4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Alphabet (GOOGL) is a Top Momentum Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlNLQ19qRF9JWmFEVmJNdmszZFZVazY1VV93eFBDay00SVlCbFE2NS11RjdiNC1YUkY1aXFFZzdnOFFieFJCWEpBVldsdUx3OFI4QlNHb0FRdlEwN2YyZ2loQnVyX0tPWVVGbW5aQ3hxZUd4OWhRX2VCM0VVQ1NxQndXQzAySkE3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alphabet Stock (GOOGL) Embraces AI to Secure Its King of Search Status - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVRxdHZqMm9sUmN1ZDZLYmVEVno4RWpkdnJjWEluX1NRdTluVTJQLUR3SjhUc3FKZ0dGZkRHM0phSFlmTDk4eUJvNkIxWVp2THNqazdPYjVVMno4UEs3SlZ1VGJabGV1UVNscW83djJQOVdKLXJFZG9OLWczUF9qa19Xd05ueGVnS2NjVnM2ZTF6YnZmbmhGcnRHNzZHeXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alphabet Inc. (GOOG) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjF6R0YzVGhYampHZDBERHpWQ0VyaEFRT29GWFVRSEstblc2cmlxR3Y1NTUtUlFTQkJXclBqcVp5U3Fwckx6bWJOV0d0ZHg1Z0tNeF9tT0dyd0hZNE92Y251U3BESndNQ3djZ01VZFVESk5fZlRKQ19LeVQwaVpBWUw2LWU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Google Stock Falls Amid AI News From Software Developer Event - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczRmTzI0VWFxVGgxaEZ0M3oybW85LXR5S1oyNWNxVWhOSG9sMVNZNjA3ODYzNk9yOHZJRVRqU3FqRHMzMWJVdlVuUHFOTlJlcDJEaW4tWkZkcHZZOWs1UWRxZkdoV19FSGNISm0xR1plSUc5SXN1TVJKa2RQZTdLZjZjaXp1WnJlVjVmX3NqcXEwQQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 171.49
-      },
-      {
-        "date": "2024-12-03",
-        "price": 171.34
-      },
-      {
-        "date": "2024-12-04",
-        "price": 174.37
-      },
-      {
-        "date": "2024-12-05",
-        "price": 172.64
-      },
       {
         "date": "2024-12-06",
         "price": 174.71
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 169.27
+        "price": 169.03
+      },
+      {
+        "date": "2025-06-03",
+        "price": 166.18
+      },
+      {
+        "date": "2025-06-04",
+        "price": 168.05
+      },
+      {
+        "date": "2025-06-05",
+        "price": 168.21
       }
     ],
     "current_price_data": {
-      "price": 169.27,
-      "change": -2.47,
-      "percent_change": -1.44
+      "price": 168.21,
+      "change": 0.16,
+      "percent_change": 0.1
     }
-  },
-  "news_sentiment": {
-    "summary": "\ud83d\udd0d Synth\u00e8se courte pour un investisseur francophone :\n\nLes nouvelles rapportent sur le stock d'Alphabet (GOOGL) et les mouvements r\u00e9cents dans la politique de divestiture de Google Chrome. Certains experts et investisseurs pr\u00e9voient une chute du stock d'Alphabet (GOOGL) de 25% en cas d'un \u00e9v\u00e9nement noir, tandis que d'autres recommandent d'acheter le stock comme une valeur trap. Ils mettent \u00e9galement en \u00e9vidence les puissants c\u00f4t\u00e9s de core de la soci\u00e9t\u00e9, les avantages de l'AI de Google et l'undervaluation de YouTube.",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "MRVL",
-  "name": "Marvell Technology, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 53427945472.0,
+  "market_cap": 56180957184.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.491602,
-    "PB": 4.005829,
-    "EV_Revenue": 8.54,
+    "PE": 15.77421325,
+    "PB": 4.2202077,
+    "EV_Revenue": 9.35,
     "ROE": -0.03537,
     "ProfitMargin": -0.0756,
     "GrossMargin": 0.48675,
-    "DividendYield": 0.4
+    "DividendYield": 0.36,
+    "DebtEquity": 33.892,
+    "CurrentRatio": 1.305,
+    "QuickRatio": 0.69,
+    "FreeCashFlow": 970537472,
+    "OperatingCashFlow": 1689600000,
+    "FCF_Margin": 0.14927441402550967,
+    "ROA": 0.01228,
+    "PEG": null,
+    "EV_EBITDA": 34.791,
+    "BuybackYield": null,
+    "PriceToFCF": 57.88643798392155
   },
   "technical_indicators": {
-    "RSI_14": 50.177230032501136,
-    "Momentum_10": -2.995608371537643,
-    "MACD": 0.4209382213232828,
-    "BB_Percent": 0.4729602610058236,
+    "RSI_14": 55.953676468248226,
+    "Momentum_10": 8.401269340343594,
+    "MACD": 0.8245166870413954,
+    "BB_Percent": 0.7504433611256441,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9284478939048494,
+    "ValueScore": 0.9267158531262016,
     "QualityScore": 0.282552260061435,
-    "SignalScore": 0.4971059246600992
+    "SignalScore": 0.4809996972145568
   },
-  "volatility": 0.0551409319682697,
+  "volatility": 0.0513407169217965,
   "beta": 1.756,
-  "return_6m": -0.3603994732536418,
+  "return_6m": -0.4250096071270745,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 37,
-    "target_mean_price": 90.41865
+    "analyst_count": 38,
+    "target_mean_price": 89.96868
   },
+  "news_sentiment": {
+    "summary": "Marvell Technology (MRVL) a récemment connu une baisse de 30 % en trois mois, suscitant des interrogations quant à l'opportunité d'acheter, de vendre ou de conserver ses actions. Malgré des inquiétudes liées à un accord avec Amazon, les analystes restent optimistes quant à la société, notamment en raison de la forte croissance de ses activités liées à l'intelligence artificielle et aux centres de données. Toutefois, des incertitudes subsistent quant à la trajectoire future des actions de MRVL, avec des prévisions allant d'une augmentation potentielle de 50 % à 111 %, ainsi que des spéculations sur un possible rebond à court terme.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "MRVL Plunges 30% in 3 Months: Should You Buy, Sell or Hold the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PY2tzWmxraXQzMl85UjRaTVdEeVVLcVJwNkM3T2EtS1JacE14cjBfVkxZeWJteTdVSVFOLURpRmlmc0lwUmVIZnQyNGZaZGxiUkJEMXoxbHBvZ0VleUhKOF91MU9VTWgyODZkY3ZkYVBKVTF6eEwwRjZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 No-Brainer Artificial Intelligence (AI) Stock to Buy on the Dip - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0FsbnlCOXZaVEViU000cVFuaFBMTW5iRWJKbndGN3l5Y2RUMFRWVzg5TURZekEzZVlZcnVTd3JlWFJnbWRpZlhnZnU5X1NKRzZQZ0tUUXA0WUFZclMxdWtGUGtPaThUSktycFNQbGxhel82dHdRbmlnQ09GakhsWUJoU2lxSFZha0tLSjY4NkJxOHcxRFpHTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marvell Technology: Don't Get Tempted By The 42% Dip (NASDAQ:MRVL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnlSYXl5WW85VjdRVndqZFVEWmI5THFPVkh0T2RUYk5qWlUtSFZRclhLOVBVUVlWZHZMOWFtUmFOR3lnME9keUMxOVhya19OS2o1QXBsMDVaMWxERktPVzR5S0I2b09oWDVPYUQ2RlJqTXRHMGp6c2k4SDg2aklWV2tpckE1WUpZOFAzVk5WSkFLYXdETVl5Q0haX2o0UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AI Tailwinds Lift Marvell To Record-Breaking Q1: Analysts See 111% Upside For MRVL Stock - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd1hZM0RqVnk1TTJaRVV2TDg4bFFyWHg4bHJBdXlVSjFRSW1OT0ZsTjBPMDdKQXM3LTN6OG10WmJsOVVSZkpxSGhJMUYyZzFseEgyVnR0YldlY2lBYTExOWRLN3ZPSlIyTUFVaDR3aEZXR2RybmJVUDRTQUtuekU3MnFfLVNITWpRazhaS3pkeXNKM3dON3p3TVdLQ1d2X281SHA2VHdpbTY3UVA2WkM1WjVqM2t0MEJ6dnFOMjVjT0pQY0pGVFNUQ284aw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Marvell: Data Center Remains Strong, While Cyclical Segments Continue To Recover (MRVL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnB0Z3RreWhqb0VtZlNaTEhMcGhiSk4tdTR6b01oSldpN2Jic2RsRGN3dVA1LUpRN0Njb2gtSkk1WW5uamlrNDh3VFRncFk5ejd0Z0RTMVZwN0dwSjRXY0lHS2xPNkNWdzRZajdUY2FES0xsTHpXZzJnZW1vaTNVT2xjdmZjbjlfdk41VU1qcFJXQzktdVhYYmc5NHUzVUxfMFBNUW5aUE1HLU0waTVBTFRWVGhJcUpoQ1NF?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Analysts Are Bullish on Marvell Stock Despite Amazon Deal Concern - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTm53dlpPU0pUQkRHdnNyQ2tXVjJ1Tnh0NmV1Mlp6OXJLOFF6MldoTXNpRDhmOXZONXBoU01YTWhVOEs3M1JicE9aa2VHZGF1aGpoSWViQ1BCT2FlcUNNaHBVLTZ6OXppQm1TVlFiaV9Lby00STVpeHJKMTFaTUszcnlxVFp3S0pQeFVTUDBLZlVuSHNjZHZ3V2FvbkJDM3d5MHVvYjBB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Marvell: Still A Buying Opportunity (NASDAQ:MRVL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUDRaRi0yVFFoZkYwbElzbllKX21USk5LMVNiVEEweFVlN1Bib0wzTFlNc2xRdEVDSW9vN1Z2MDVSMXNTRnNGbFNoaWFQN2dIRXdQX29KdXhaRkJ4dzBPMWpLTFpjZTZBUkJYUXhBaVA4YndjNThxNVplM1p1UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$100 Invested In Marvell Tech 10 Years Ago Would Be Worth This Much Today - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVjJ5QlBNTjlzRlNZWkdQNDU0YkRNeXdDNWQ2eEdZNDVtQ1ZFQ09jNDd3aVYzMHlPRFRDaWlmcU00WFZPbk5QcUZ1WkhDOVVnelVZLXJTU2RTdVJ2R0c0UnV6ZmlmZl96SjdiM3Q4Wk9mU0FxbXBMbnNTY1JXTU9fUWdGQkUtaFpRWExHa0kxamNuSXBxZTROSVduSHB4ZzNtUHFtS1VsQ2dwTFdiT080SFNzS0lvQmpDOHM1aGVodmsySXpW?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marvell Technology, Inc. (MRVL) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVNHckp0OVFuamxxMDNvRnpWb1F0TldtLTloN0lvVERCNHVuMlRfTXRWVzZwT2FXeDFwQUw3VUFUbVpyeXlBYjVUYzJNZmk0dENfN0hNaE82QVlYdVNXM3BGWE9tRnl2c0tBRWlxQldWQ0xzTGI0U2hsbnRPNkdCZ0ZpazFUMExNbXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Marvell Technology (MRVL) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWEFNS3JHSmxyWEMzV1lLMFo0NlFUbGE0MHJVc21YTld3WEFEZmFSNkdlRExpRHByY0wycURhRWJzSmFoNDJSSHVnQk1Vc1ZyRG1KZWxRdXNlVWlXN18tSWVqODBJbE1UQm1fQjRUMTRhLUhUNkZqUUlWa29MYjdfb25mdVJSdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy MRVL Stock At $60? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxdVFGbmEzdTN5c2J6OXhpc1F6TFRjRUZJMDR6blhyOFRYZFVvYlpZRi1aMVgxdS1YRVV6Nl9HMmwxa1lIQnRtYlFCRFRUTWxWUEw1YWN1OWVxQTFsVnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "50% Upside For MRVL Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVJ1ell1TG5lUGl2dm9DR3lNR3A1NzZRcFdmRk5waVpQZnlQU01oWk1RR0t4ZG9jcHYtUDYzYkF4RFZfUXNVX1Z6QmlxVGVqeXoyUWxOS01mOXpydmNfaUtZVjZBTlA2OGlUNmt0aHlmeXpaRFA5T3VFcG03eWVfWDdRdmU4aFVRMzBV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Marvell Technology (MRVL) Stock Is Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaTFtWUU1eWV2M3JMLXF0eXRuNldyYjZUOWhwc0hNZHo1NWQ1YWxmOWZrcWRVeXBmdmI4TXZwSUQtRVRBY202a3hFTTBZNkdjLTFrUm9fNlZwenFDek1wQzFxakhLd1d1Wnp6cVEwbzNjeHphNFJIYkVfQ2E1RmJHaVF2R2t4Zw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "MRVL Stock to $50 or $100? Has Marvell Technology Bottomed Out? - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORW9uTnYtZFZFYXZNMXdSVWdxRXRIYjZteVRXejJ4UmhLUUMtX0l6d01kLUJwWmZSR3hqOEctdXpHU1FqclBnX0xJMloyVWxjQzVJc2hZSXJKNjdUdWQtTU5scDlpd1hISWxMQkVJU3p3QmtRN1hNX25JVTI0Yk9lUWV6amViN01adG9UN1hWOTQzVE9vWUFWd1hiUHrSAaIBQVVfeXFMUHN0RmVISXpWdFpSSHgySFh2WUhvR2pOdnNONmRhVjltN3RRTkE4bms2bmNBMWpKTlQzTTVIekRBRWNiMi1CWmFZTjdRczlyaEJQQ3VLUDRDdm5ob1czaHhNR2h0VUJTN2ZGUllnVkJDVnYxSkcwSWRwblFHSWFWeEhSMWpKOE1BdVloMkh5VlBTYkNuZEl2S3I3Snl4UHlmRXN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Can Marvell Technology Stock Hit $140 In 2025? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE1xb3B5UVF1MTN6bDNsd0d4RVpSUFJtMGlhcDkybHBEaTFNbTN6a0p3b0V1MTRJX3BsNU5LYU1SZzIwQmJWOTZyQUt5T3pjc1NoQmVpN3hHalNqd2lPLTlfU21ZZzBaQmlhMnFTbDlKZzNaU0k5dmI4bkhfQVNLSkhXOU52NExlUXVnUENLUmtWVTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marvell Technology, Inc. Reports First Quarter of Fiscal Year 2026 Financial Results - Investor Relations | Marvell",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0VtcnlRRy1ZQU5HRldCMVNFLVhlX3FBRlU1ZWtqZ3BId3RKZWNESUg0bFd0X2ZYNVBUV20zTU50Tjl2MS1zaHBrSFJoRG5aNXRmWDdKeVkzdW1yMUJGWGlvSHBBUlJyb0N2Z1NIcnVLcDdsSTl2QjlvbTlUU3BFRXcwZ3FrS29MWFZRcXNRdWN0MEVlMkFuM2hBSnkweWhwbU1nSWItOThBWnllUFY3TTlRN1ZxTGd4eWxYR2JCVjQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks to Watch Thursday: MRVL, NXPI, and More - Baystreet.ca",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORW1yYkE2VWZLc05oUGRNdzAya2hfS2dhZ2RKWXlJYlMtNV9MdjhXVkd4UzhnU0xYMVZEeEs0TUowYWR5S3M2enFGU2tTRWppRWh3RDk2NWJJSjNnUmpNaEl2YlFYMjVvelE1am81OXYwcFlQRXhqMjlCUEJIb1VzVERiRlVxbzVDbzhtbzQ2WEHSAXxBVV95cUxNd2paeDBMaS1SbnNZZFlOYlVWX0lSU2lsMllIX2ZqNFlBdWNYQkFWd0s2V2MtNGNUQW9KY0xQSUxtWlRwTHdhNkE0MWFlMHlBUmRDQkc0NTRlTnJSdnV4YVNiMmtpTWlJQ0FfQ25Pb1QzNEgya3RoZEJVYVFt?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marvell Technology Squeaks Past Quarterly Targets. Stock Drops Late. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY0FKWmV2M3pEaldwOXBHbF93UjcxX0k3d2tKQkZ2WmxXLXUtM0hOWW5kU1o4RWpleVhrVVQzd0V5SU1KcmlGYTZubVhRZ3pURWRLYVF4NzVqbWpublpYNW1JaEdFZnFVNExhTFNodUMtQi1ZTjdaZnNZaVh3OWZpLThSWHJ5bDVWNko2U1Zn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Buy or Sell MRVL Stock Ahead of Its Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkhTSjJnNXU5MmdUTkFkRk5DUHI3UlFMTkNmc2NlcTFNR0UzRU5CTFZsdmlJY1lEMDAxWEN2OUVsT3ZaTFZMa09iSXJGZHo4UXp6TGNSeERIMmtWd2JpVERwYkgtMjRpZzBZaTB2aEZHaTZJcHZpdUIzNThGLXVCWWtaZ0FXc3lMQ09hbmtMMmlmSUxZcTR5TWdKaldUWDNKWC1RSU9n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons MRVL is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85X1RieXZINFJablZZOGgwOTlfV2RzWU5hLVFOc25PNS1xSmVHQlVpR0xkbmZfb25NbHE3dzdpYUV2QWJYblFXRkxmZ3BKZFgza3VNZ0wwWlAwQzZmV0NMcVlWUkFsY0xta2xZVVlzU3otcFdlLTFj?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 96.86
-      },
-      {
-        "date": "2024-12-03",
-        "price": 95.91
-      },
-      {
-        "date": "2024-12-04",
-        "price": 118.15
-      },
-      {
-        "date": "2024-12-05",
-        "price": 113.37
-      },
       {
         "date": "2024-12-06",
         "price": 113.51
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 61.62
+        "price": 61.47
+      },
+      {
+        "date": "2025-06-03",
+        "price": 62.36
+      },
+      {
+        "date": "2025-06-04",
+        "price": 66.3
+      },
+      {
+        "date": "2025-06-05",
+        "price": 65.16
       }
     ],
     "current_price_data": {
-      "price": 61.62,
-      "change": 1.44,
-      "percent_change": 2.39
+      "price": 65.16,
+      "change": -1.14,
+      "percent_change": -1.72
     }
-  },
-  "news_sentiment": {
-    "summary": "Marvell Technology (MRVL) is an American multinational semiconductor and networking equipment company. In recent news, the stock has been trading lower due to concerns about the Amazon deal, but analysts remain bullish on the company's potential for growth. The June event will be a key moment for the company, and investors are closely watching its performance. The international market also plays a role in Marvell's performance. Overall, while the stock has shown potential for upside, it seems that investors are not convinced by the company's recent earnings.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

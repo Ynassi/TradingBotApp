@@ -2,55 +2,163 @@
   "ticker": "CBOE",
   "name": "Cboe Global Markets",
   "sector": "Financials",
-  "market_cap": 24198127616.0,
+  "market_cap": 23313825792.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 30.287024,
-    "PB": 5.4365163,
-    "EV_Revenue": 5.642,
+    "PE": 29.18021,
+    "PB": 5.2378435,
+    "EV_Revenue": 5.512,
     "ROE": 0.19018,
     "ProfitMargin": 0.18604,
     "GrossMargin": 0.49293,
-    "DividendYield": 1.1
+    "DividendYield": 1.13,
+    "DebtEquity": 36.019,
+    "CurrentRatio": 1.603,
+    "QuickRatio": 0.785,
+    "FreeCashFlow": 813524992,
+    "OperatingCashFlow": 1117900032,
+    "FCF_Margin": 0.18778132494587557,
+    "ROA": 0.09319,
+    "PEG": null,
+    "EV_EBITDA": 17.435,
+    "BuybackYield": null,
+    "PriceToFCF": 28.6713029511944
   },
   "technical_indicators": {
-    "RSI_14": 58.95410565864292,
-    "Momentum_10": 4.684320546037449,
-    "MACD": 2.6661097271623646,
-    "BB_Percent": 0.7065544749023465,
+    "RSI_14": 46.90321366015903,
+    "Momentum_10": -2.5631998222136763,
+    "MACD": 1.446526135932004,
+    "BB_Percent": 0.3302217724071183,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8796885324122932,
+    "ValueScore": 0.8773317745294064,
     "QualityScore": 0.4485325848938971,
-    "SignalScore": 0.5418908963076385
+    "SignalScore": 0.6285873980316101
   },
-  "volatility": 0.0155522319158688,
+  "volatility": 0.0156302311936678,
   "beta": 0.428,
-  "return_6m": 0.090510086094679,
+  "return_6m": 0.0675857157249959,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 15,
     "target_mean_price": 225.4
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente de Cboe Global Markets, Inc. reflète une dynamique mitigée. Alors que la société affiche des bénéfices records grâce à une ruée vers la couverture liée aux risques tarifaires, des signaux négatifs émergent avec des déclassements d'analystes et des cessions importantes de parts par des investisseurs institutionnels. La décision d'étendre les heures de négociation à 24h/24 et 5 jours par semaine pourrait offrir de nouvelles opportunités, mais les ventes massives de titres par des entités telles que Siemens Fonds Invest GmbH et Mackenzie Financial Corp suggèrent une certaine prudence parmi les investisseurs.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "As Trading Volatility Eases, Exchanges Lose Tailwind; Cboe Downgraded - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TWmlFR19iQ3NEMTVsb3pxX3RxREZueHZNM0ZPcmlZY1VFcHdYRkdLSE4tSDZpLXhsdkhjYnd1eHo2bENyVkZHMnRObXZ2RmZMeURFMGdMY3NfR2dibTlkbDFEbnZnVXVlR01kRkNJNFRqTkZyWFUw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Market volatility: Identifying and quantifying investment risks - Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mYmp0c2ZfOGN5Z0duOHRneGllbVhNUS1WVXdjMm5YdzVSVHM3LVd2RVVkUjFzLWlqcTNvS3ZZTjF2OGNidDlDemRnYjFhMWhNODhwMUxscThhWkttUTl4M2toYUpnQ2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CBOE Reports May Trading Volume Statistics | CBOE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObTdNSmVrb2RGX01DOW9lc3FPeWVYWTdfQ3FqVXhqMzA0ZUFVbkNpM1pFRHQ4bFc3OVRyNmVaWGdrS0ZjeFhORUpmd3l5ci16c1B6WUlaUUdVSzY1NEw2WnBGMzlEbDlWb095RFhyMmFqLU52bVJRbkpvcWxKc2wyb29MbmxhMm1VOXU2eFR3dnRRbVdDeXZRMU5kXzNsQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Has $50.87 Million Stock Holdings in Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSVZQT2FLNnk2R1VKQVdUeFRwVFR6R293NHRBWllELVpzRXQtYWFxd2wtaUV3Z2ZPYWhfSWZoMDVockJkZnB5ZS1INU8tTHhGY19IM2Fsa19ub0RYc1RhQkxjQ0kwNjZmOVM2dnBENHNCXzQxeDBZQXF6RGt4WmQzV1d2S0h6b3ZYazFWT3Y0dmhjSldlZjZ4c25aY0Ftdl96RENwQ3BnQnpGZUxaa0NlMzhWOW9uYkhfOHc1cDlDZ3k4aV9PaFo2eFlKeVQtMkM3djBZRWJqNnFtcWRlSVI1ZUJ6dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cboe Stock Exchange to Extend Trading to 24 Hours, 5 Days a Week - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeG96WFNmMU1GR1VDVzE4QnBBZjh5SktKVGpOOHBTMVJ0MGpSTHpPZ1d3UTBieVdiVDV3Vkh2VzNtRXZGUTdzTkczTm9Qc0lGRFVWcG9wdGIyejFWYkZkeWhqQ3NxaXQwclJyS2owSTVIR0ZFamlDN2IwekxhUlpteDhLS2NxZFZ4TXFGUGE3N2ZQdzYyZGNka2o4UWNnM0I5NmEyS2REMHlIR3hydkN2TWJjR2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ETHU Stock Fund Price and Chart — CBOE:ETHU - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43N1RJRjBoR05RZE9pVGZmQXBoM1Vtc1ViNjcyUlpVUnNScEVfWmxRRngyaWhDcGE2QkREMW9hWUtURlFTbnRZTVhicEkySXhKaVlpY0xLc2FNQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cboe delivers record profit as tariff risks drive hedging rush - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmhGQWQ4blRkMHpqaFZ5SWozaExEYzF3T3JsR2NyX09mdTRZb29xU0x0SHVmc0lxcDZYTEE3cDZNMGpVTFZEbjRfTVhtT0k5LXgxdldOZkxYNXhGaFNxcDVjc3dmeGNGazFfN2lubnpKNkt5SFFjZWxXdmplM0NDS1h4M3MyOElQZlUxTG1IaXlNLThaMVBWcGFPdFBYNzZLbkE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cboe stock dips after double-downgrade to Underweight at Morgan Stanley (CBOE:BATS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPazRjano5M1lxQTdtX2xJUGRmZUI5SFJLcDNiVDZsU3pTRkxQUS0yT1hLTjE1d21UX0dGa1drRkxZSFRKN3V3VmlReDVVU0hyNk5IQzZSdnpSSEw2Zy1kV3pXREFwNk4yN3h6RGowSFNFRENKdVpMTS1lT0Rsb3J0YWk0X2dPS3kwa2RBRTdzSldwOG5BMVdESVFjdVJPUWxUbWFPX0F6THk5NnJFbWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cboe Global Trades Above 50-Day SMA: Time to Buy the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2dNNEpiMTBjbUVSNkw0VFdWU1RrNnE3dXk4UXBKTnRpdEZWUVZXei1vLXFwUDdDdzdsdGljOVJ3RmNqRkU5VVUzV1k2ZGREbnRQdlRWWlpiejVtLWRlWG1TbUhDbEYyaGcxaEU0S0s0NkhKZnFGRGNnbmJiRFNSd0tyVWs1ZjhJbHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes CBOE (CBOE) a New Buy Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtalpZbjBYRFBMa2x0ZkV3OUZYcVFsWjE4b1ZjZExBXzlXLTgxNXJXLW5zSXQwSjNSQTROWGZYTzg1Zkp5Z2ExTDdTMTBhd0NBMDEtclB2cExBbkIxOHZoNnpuUnFOY0U3UTM1NzJJYWdUb21OV0NZOWhwRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Leadership Shake-up at Cboe: Global President Exit Triggers Major Executive Restructuring - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2FQd0FNMGY4ZzlYVVBDLXRZS0d1aVU5WERrS05JdHF1eVJWOFg3UFh1NXZCMG5hdEpHanlUdmt5bHozZi1WTkc1V29IRThfQU9LTHNzUGxZbnlzbzNVRlgtT1l6VDZWQ2p3bldhd1lCTmZYRmJXaENhSmthaUtPd2U1Z0RoQldkdS13NldDalNDVUFMUWoyZ0Ftci1aal9NUkppbjI1VFM1ZV9EcDRuOVN4WHpGc1ZjNkZR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Expected Stock Dispersion Near 5Y High as Earnings Under Way - Cboe Global Markets",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGdhVzFncE5hbHdQQnhGbE1tLXFFXy1tSGItSnNMVFZKNmozMEppSFo5YTA0WFh3RURoOUYyR3JvcXFmdE5KMGxNbG1RSFd6bTBLa0xCWDAtRlNkc0tmYmdJbk9KTEpqdHpBM2h4QmpJb1NYX19uelBJZGNEVUVVdUc3ZGxJS3JYWHVPVkItYTFSLWpmakV0V1JZdXpDMmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Shares Acquired by Unigestion Holding SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdG5yTFV4UzlKX0VCRktLUFg2d1ZSLVF0d2JrdWNuWGhlcW1KM3REa0xQV3JndkxvQVZKM1FBREFNUS05YmR5eHNOc0J6YU1oLUFrQ3E5UTVzVE1GeTZCOVZkeDRXeUs4RC05OUJEVDlBMUdBSkI5VGlNTlM1VkwzcGtXNkRzZWpkcS1KMXZqRXJIUHE2THdtUW9pVVFHQTktR2YtbGtaVksyT3A1enpyUC1GcXFucUROWTZQU1AyNVBZRDFOamx0enV6UHBleXl5Rnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "At 10 AM, Stock Options Soar as Retail Traders Unleash New Bots - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejE3dE5HNGVmS0VLUXQtM2RXdzhKbWlMZEwwbHZ6MDh0QjRTNEk0emFtUmNxeVFZQzBRZ1kwZHdXY05fN2FiSmRwUHdGdmRUdFZtd1BlYWxHRGFLalBvd2ViNTlPNThyR2Y5UnhMNkVEalYxRTZjeFliWFJxTHo0QUdycU5vdXVqcUpZWnowb2pzbVhLSnBfSVplbWszcmlWM19vMVRoV3pnaWdjRHFoeHVqUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Cboe Global Stock Outperforming the S&P 500? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85bDVQbjd3Q2dRS1M5TUhKd2w5ZFkxbk50MlBxd0Ryb2RTTzAzN1BrOE81Mmt6REFmbnpwQmdybzhta2gtY3dmYzhWeUFLRU5ITXJCVzEycXhxckIwWWZuMzUxWVhiWFNLZ2ZOOUNXdXNYUVFvZjhGWTJn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Lowers Stake in Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWhCcWpDcnNQb0s1ZlFWVXpjeks3clhYVVpvLXZzUWZGUE8weFV1Vkp4d1BVRlZ2NHNyODVuTVNhaXVaVkdLeEhrS2dIcDFLTWtlcEdQXzVrM3NHNUozaEd4cjNSdmNPcDZQcDcxWExJcXlRV3puNFA0SHYyX3dSVWRhaWFzcHM1VnpYRU5KLXZIdGNlM2NkWm5zSlN6S1J2bGc5dk9rWlZYcnFYSXRvY2dua2hFQlVhTUw3ZmJDWnBKU0xoOThvWXR4T3pQdkw0dHl0Q1RiLXFGcm5fQ3BOM0doZFQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Shares Sold by Farmers Trust Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFYtZTd6OS0wTEJPZU1EYnJyd0dfQ0tfcWIzSE1CWTV4eGUzeVo2MmN6U0JhQU01cFVGZUdaV3ZubHNtQ21MRDQ1U1NpcFRfMUNjRE85dXdPTzJFQk5sMnB0VzJmVlgzZzBNdTJmS0lMSmYxZjVYRUVkMldRN2g3NGxaalNQRksxUnNwbzdPZE1OdlBicGlrRmJxNzJUNTQ4QlVzU01wcTJPQmNTMFVlQ1FNX0pZQ3RjU3dvVmtDdm1wMWppa2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Siemens Fonds Invest GmbH Sells 8,006 Shares of Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUmNvQ1pwejEzdzYzOHJsb0dxOVkyUzdMZnc2SlhmVGl0WjQzM2ZZZlRxRUxoSXNXaWM3d3A4WEpUTGl6a2pGSV9kLTV3eXZ5MjAtMFBPT1JxMVZxMkd1VTJTT0tMb01rYTgtXzlyVWtUZ29xdDV4TE55bU9LTVpzTXNfZFZwekZpX2hJNVVlLVBrX3MzV1RJV0h1QVFQRXBvWjhZRTRXT3FUNW1GU2hMNEk4V0U4djRTTTJqMG03TDg5MGxJT1d0SVp2MVRVOFo2VFdablFGXzhxeW5I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cboe Global Markets, Inc. (NASDAQ:CBOE) Shares Sold by Public Employees Retirement System of Ohio - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVy1DbmhYM214WGxHX1ZaSVM2VDVTWGZlMjZwbDByRl9DZ0U1ZWtZUE15c2d6Z3RXQ1JnWExoNWtlUVQwNS1OenRPQTdCNllocWZ0bFdnaEVTb09RYmkxSG9VVUtmYUhvcXJDZVJOQTVyZjJEVldkaE9KMDBxdUpGSVk1T3ZCMGJkS3lNMnA5aVlfOVFOeFBXQUZ3cnQ2b3YwQkhoalotSk8wMmVoOUtDVXFfcGw1cXBPN3ZqZGR0aDRPQzNYYmtZWW9PSDBQcHYxZHVRT1Z2dkNRVzZxNTRvLUN6RUlmeUowNWxMUEpUek5RUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mackenzie Financial Corp Sells 11,274 Shares of Cboe Global Markets, Inc. (NASDAQ:CBOE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc0gtQ1BCY3o2LTE3LWVNOGJQZlJlODVKQXQxTGFOYWtzZ1NxVkxRaHNtOW5hQ2lBcDk1dVhJMHNrc2VMQjFScjRONmZPbFBwR0dZTTUtMWxFWWZPSXJFcTNqdW1vZ3VwMDMySzJoZU0wYmdGcFkybkQ0OUVFQk9hNV9wN1EwUU1oU3VhSE40WGdPZGVTd1h4cXdJdkZqNENkOVRndUpMNHEwS19ld3RQRTFkTEZBLXRzSjI0dnFubkM4Qjd0eTN5blRDZ0JvUWktYWtBSmhlYTVmQm9HcGVsWjhR?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 211.91
-      },
-      {
-        "date": "2024-12-03",
-        "price": 212.12
-      },
-      {
-        "date": "2024-12-04",
-        "price": 212.06
-      },
-      {
-        "date": "2024-12-05",
-        "price": 208.55
-      },
       {
         "date": "2024-12-06",
         "price": 203.99
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 231.32
+        "price": 231.1
+      },
+      {
+        "date": "2025-06-03",
+        "price": 227.28
+      },
+      {
+        "date": "2025-06-04",
+        "price": 223.74
+      },
+      {
+        "date": "2025-06-05",
+        "price": 222.75
       }
     ],
     "current_price_data": {
-      "price": 231.32,
-      "change": 1.88,
-      "percent_change": 0.82
+      "price": 222.75,
+      "change": -1.01,
+      "percent_change": -0.45
     }
-  },
-  "news_sentiment": {
-    "summary": "Cboe Global Markets Inc. (CBOE) has seen a leadership shake-up, with its global president exiting, triggering a major executive restructuring. Despite this, trading volatility has eased, leading to a downgrade of the stock. However, the company has delivered record profit thanks to tariff risks driving a hedging rush. Additionally, Cboe has extended trading to 24 hours, 5 days a week. Cboe's stock has underperformed competitors on some days, but it has traded above its 50-day SMA, leading some to consider buying. Meanwhile, CBOE's EVP has sold $815,234.84 in stock. Finally, the first",
-    "sentiment_score": -0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "OBK",
-  "name": "Origin Bancorp, Inc.",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 1053201216.0,
+  "market_cap": 1059589056.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 13.909464,
-    "PB": 0.8948191,
-    "EV_Revenue": 1.91,
+    "PE": 13.993827,
+    "PB": 0.90024626,
+    "EV_Revenue": 1.884,
     "ROE": 0.06753,
     "ProfitMargin": 0.21708,
     "GrossMargin": 0.0,
-    "DividendYield": 1.76
+    "DividendYield": 1.78,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 116911000,
+    "FCF_Margin": null,
+    "ROA": 0.00777,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 54.82413153023141,
-    "Momentum_10": -1.0828181203153573,
-    "MACD": 0.385099843385035,
-    "BB_Percent": 0.5947304365989415,
+    "RSI_14": 54.99850601638356,
+    "Momentum_10": 3.0766878993854276,
+    "MACD": 0.3539006361696977,
+    "BB_Percent": 0.6103838947880469,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9342728796233668,
+    "ValueScore": 0.9328606456034356,
     "QualityScore": 0.3688188035612676,
-    "SignalScore": 0.4599842919598216
+    "SignalScore": 0.5146538384363673
   },
-  "volatility": 0.0200273687922647,
+  "volatility": 0.0201273237526273,
   "beta": 0.817,
-  "return_6m": -0.0231072570595247,
+  "return_6m": -0.0589985946532641,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 40.2
   },
+  "news_sentiment": {
+    "summary": "Origin Bancorp, Inc. (OBK) a récemment maintenu un dividende annuel stable de 0,60 $. Malgré des ajustements de cibles à la baisse, des acteurs majeurs tels que Millennium Management LLC et Deutsche Bank AG ont vendu et acquis des actions d'OBK respectivement. De plus, des investisseurs comme Two Sigma Investments LP ont accru leurs participations. Les derniers résultats financiers du premier trimestre 2025 seront présentés par les dirigeants, signalant une attention accrue des investisseurs à l'évolution de la performance de l'entreprise.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Millennium Management LLC Sells 35,058 Shares of Origin Bancorp, Inc. (NASDAQ:OBK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMjVNWDdsNElLV3BBMmZYSG42TEZwelV1dkQ3bmtrdVYwalRIdUhJdTFVTGMyMUdzUUd4b1F4VU1abkVVNjBSTkhQV1pOQUlWRjZxdTkxMG5wcFZnRmhOYzU2WjBCcktfU2Z4ek5EV1BlUXhQZURzVzd3U3dNSTJMSjU4bTlCNUF2TU4zTmJvTHJMa1REcUFyeU9Ea25QZUVZbGM0VHd0NFJING04ZnA0aVVVZG4tZDhpNk15YVZpNk0zZkZmeWZHdEVfWjJSQ3BQZTRj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's What Key Metrics Tell Us About Origin Bancorp (OBK) Q1 Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRUxoWjZvcUZudVpfMnB6N193QkJpOW5zX01pc3V4NkxtWTEyU0dOZEswdy1nbmNWZUxWNmpDcUJzMTU3QVVMM1NCalRBUEVFQmxLbGMyRU4yNjROaTNaZTNHb29fVWNvdEtkUHNLaEhoanpteTBrMkY0b3JrckU4d1RjODM0aUEzcVVENzZlaTB5S2pRbE1OQUVXTFdGNWE1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Origin Bancorp Maintains Steady $0.60 Annual Dividend Payout: Key Dates and Details Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd09RUkwydmc3NzNUOGttZmIwb19uYVczYll6emRadWNGX2JHRDF5WWd2a0xlcGN0a21Xams3SDlsMmQtSElIWXpYYmtCRzA4aGNPUHZvQ3ltRnZ2T1RDOGpUVU1wbkpsX2RIZHNwUWRkVzdGSkl4NThCV29XbW1xUjhIRThSM3F1WjVtSGZYUXU5cWRidmdQcjFFUlNCb1dNV2IzelhadlRLdUgycU5qUHFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Increases Holdings in Origin Bancorp, Inc. (NASDAQ:OBK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd2E4b0xhdGFIeFRmd2o5VnVxLU1LSHV6Ym5Ba1E2M1N3elZ0MURta3RQLW1lOXlIT20yeVBMRUhXUGtkWUk5anJrWEhwZU9wNUlPUzBOTndUdXpGWDM3Tld3b0RNd0stSHRYY0NWZ2NQdmZQOEpqR2hsOEpjc3p6bEVCaTRVVzBndlZ1bkZhZ1lrME9kMzExSE15bExGOUtlZm90MEd3X0R4a3ZGRklCNnBkNVpoVTVVTmVKUExlSDhSN0NYemFmY1A4OUdYS3ZzUHNWVURLNGJ4VjZBcjMwQ1VR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Origin Bancorp, Inc. Announces Declaration of Quarterly Cash Dividend - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQXNvaTl0VnNoUWxtLWpYUE9WY3FJYTNXQjhRTy01Z3A4N2U4RXROdnB1OTNtLXd3RGVIYjh4Rl80REV0VUJNUU5aNV9RbWRPN2hfakRMYW9TYXlxRW9aSGFsRHhlMmhwQ0kxeU5kXzdwLVVMbTFfUTIxajRVY0l0UW13dHRCNkp0X2J5cGFlSDZrdUsyQ25DeEM2TEE4R04zUVFHajFTYzBFN1B6OThtVTcwUGlsenFVd2xDalpjOHNwUEE0Y2VZNUJMWnpXTkZ1WW51VHV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New Strong Buy Stocks for March 26th - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1TUZpU0dOWDg2d2dkLUJDNlRlWnRGUTZSa19vYkVtRkhiWHN6WndqNmdHdXB1SGlYLTFYTzNTQS05UnY1aVI2VGpiVlUtU3Z2U1RaWUNIckNBc1NNczBRandXc0MwaGlfYlhGVXFiSm83N19xRFY3TmdGN3ladkk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Origin Bancorp, Inc. (OBK): Among Billionaire Ken Fisher’s Finance Stock Picks with Huge Upside Potential - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzFMSVJQcE9YQy1pVTZxU09CQ19GcUVNODlHVUgxUWtaQlZBRjlmXzl3dWxaZnRxRmdka1lHSTZZMTRPWXQwQmRkaVNCTVctOE5neHZIanczMURYc1pMUUt3c3VXVXEzQmhoNWxheVV5N1hlN3NYRGdod3ZISHJqbEc2TWV0Zm9tYWpGQU9FZlE3TkhxandiTHpYcW9fWUhrZ045WFcydnNlbGRxZFVENmwzTExfczk2U0doVER4YXVTZloyQ2NxVlhtSGUzbTBoUVByY09QWXFVdlXSAeMBQVVfeXFMUGh0dEVBUE8xeFAwNWVuenZQMHFYVkp3YU5ZcXdha25aQXRwdV95LXZBa2pmamljZ3RMWGhDYU1GQWpLN3o4S0ZPVmVVLU9CRERobUQ1cFpIYTJFbWxkeTEzSzR3ODcxQ2NuVGRYR2VpSEc0c0d3Rms0MVRXWmUxX0Jmb3JnNEFhaGVmQVpmYnpQRzIxc2pSNVlDeERmaFJUNzh0NnFwQTdLOTgya3o1UjFndngzX05MQzI4Nk9GUHNwVjBqbGdBbFctdXpxcmdvWVBSdXVqajRwVTd6MWJVVEtkWDA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Origin Bancorp Q1 Earnings: Top Executives to Present Latest Financial Performance - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR2g3dGxDclhHeUl2ZVFXaVRUTmxmTWpXWkc0UGhIYk5TMnFfWExYSUo5MllsRTdET2c0cklCZ1FEVXhPOTVRbUpnV296OGg4aEo2Um5vOHpLQlBGaDV0UFBJUVpCY2h6ZXlmc0RhZElFem9sOXE5ak1MYWd4aHZmWG5obkNkWjFBZWh1YVhCLU52dU1QUXdZY2w4RzlXTkRuWUFwUEpNM01fY0hNODVjNTRLd0hPTHlDT3FlNWUtYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank AG Acquires 9,887 Shares of Origin Bancorp, Inc. (NASDAQ:OBK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ2dpdFJwUDFRMWkxWHVPMmtJMXNVTlJUUnBya3Zaem5qNjdIUDAzZVVDYW9KZi1NVFdFcS1TdzFUdHB4RERlZmV0bFFDam5OWFBQNm9KM3VseFNlMV9mSGt6RFlrbWFrbldjVmZCM1pZSTl2ZnlOdkF2TUZYaG1OdkRnd09PZXRjVG80R1pyT29MbUU2LVBWS0drNUFQTHhiMHMwLUFXYkpzSVlQSFNtYTZ2MDQ4R3VjTHZ0TkF6X0ZBZ283ZXBrenZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Where are the Opportunities in (OBK) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjRCbjdweGxNYzZXS196RkVNd2dQWi1HZS01VUpxRjJUNlVuTEJRc2Q1UFlqUzVPSnRiWmxHNGdVVkR1OW9vRWtuTGRzNEJoTk1zZ0ZjY3c3bWRweXg3TURJdlktSVo2UFlWMk03aGFFeU54eFVvU2JsVWc2MkNmQ0hqMEYtRXNXT0hFZ3NPVkNKbGZKenM0ZDhwazZLNzhlaFBDMUtDZUNTX2pOdFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Best Value Stocks to Buy for March 26th - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWjRrdW5sNXgyS2traktQSUZsUW9oSENGTlduX1R5WF9VNUdLTDVhcFBFa25ldXFnOXZMakNvVW9UN2RKRDNaclZNdEhRcTlCeE5iVWJKREQ2Z0pUYi10RE1uS0lvaHZ0eG9GeGY4MlkwbGRSdUE5ZFdSMUttcXphMzRXcWpQRVhsMzdJNjM0N0ZGWFhmbFYzaVNuWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New Strong Buy Stocks for March 26th - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wTF82d0xJczFMTWlBSDh4NThWUDRlWHlIM2syUkVSQWhZamtfYW5HbzBqY2lkT29Od24yR295MzVGZnp2Wk5XRWwwYU9hOHZJb3lhS0tFOG53Vk4xSUJjeHRrTGo1ZzJaT284Y21TdzRNUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raymond James cuts Origin Bancorp target to $38 from $39 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkh0WVVsLTdUcTRnOXB1T1NEelJWSHBYSDN4cVVmUFNvTUhhTzdpMWFIMWJxRkVsZE1mc2FaNEdjR084cmxENlVFTHV5SVZsanpOZTNoV3RkTnNQZGN6VkVjMUtvYnFOUHdFcTlObzlhR2lNTm0xOXhldEhjdHdvZW95WnoyNVBPM1hwR0d2SU1WVUIyNVhBa0pBeG5GeWRoQW96UWNVZWF3MnVGWkNhMmlSSEc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "8,269 Shares in Origin Bancorp, Inc. (NASDAQ:OBK) Acquired by ProShare Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVk1qVWlCUmtSWUFvYzdFUnRDNjZZUHJzWTBfdUY5d1JfNjF1UW1rUElHVWhTWnp1LWRteFlVV3dSRHhBdG84ZkRBUHY1X0twUUp2cGVGRFBScE9VVFlXdjUzeEtFN3JBRTN1dlF0bnBoZV9JQ05hRHpKdFlqc0VyZkhZbWJHSFkzM2ZNdTl4ZHZ5UWlqM2tSNXZSTEJCbmpDd3pZYTEwTlAzNDJQaTRYWnIyZVFtd1dPRm1YZUZYZkNNazdLS0pFNk9QOFBucWtYZmx5VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Has $1.60 Million Position in Origin Bancorp, Inc. (NASDAQ:OBK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNWJNcDh1VExEc1lzei1LM21HcVA5eEVTVE5la243b25BV1NQckhoNXhKMmlQbExLMHpZVnZjZEY0WHRRSVpObzhURE1wdGE3YXZfVEwzNDZtNnp3TmlnQWxlSGpzQXVIc0I5RzdXdjI0YmpTTElaeHhodVd2a3F2NEpIWHhBNzNHLU56RTlRVERJczBMUjA4N2JMZ2owWnk5d3kwQUFYNEFINlVJV2FpZC03Qk5qRTU4TWRhbmJrc3pEbkdYVlpVRmVZYURiREFqMGJReG5n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Best Value Stocks to Buy for March 26th - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1USGEyY2hJTGh0MmVHZnJKYVJ3TmpkRnBmMUFSTFNBcktUVlRIUkEzdDcxMEpkVzh4RWJiQURvRldVNl9CbEVoNUU0Q3dWMWRmc2dRSmpGTjBIQlI3ckJrWkVCZk1KMFJSZ1IwYU5zaGxvZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Origin Bancorp, Inc. Reports Earnings For First Quarter 2025 - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNczBwdHJuNXpiRTJjYW1qWkhJUFBvRWFITFBxMWFvaEFpdXNjMm5IbGVnQXE0TVYtS3JiSUwyVEFQR2JHMFVRa3hMWUtOSGQyZ0w4WjFpYXJQdHpvS2s3SXhwamtIVzd0OUtscGdwUnpyRGlseVNYS2JBQ1RFaGkySjZCZzViekdSUm9oa2tvalE1aVVLUzd0UVE2akVrVVRYdnVQeDJRbmVtYjFSRE5oZnd5UmZ3MkNFMlp0dkRrX09iSEM4THhmWEhR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chickasaw Capital Management LLC Makes New Investment in Origin Bancorp, Inc. (NASDAQ:OBK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcVZtd1VtVlhsQ2ZDOVVuQTdqeHlRbUxMeERRQldjTTF5OWR6UXVGeGVaS3JrWFFvaXBndGdGTWYxa0ppWjlhWUxKLXhzSUdtZDVfblFlZEc3eGh3dzRMUmY2Q2Nqc2pLUk5PS0NpMGk4U091RDR2WTNkU3hJX0hPYlE5Q1YybDFHUHduVTE0eWxQLXVPeHVrNUFzY2gzRmpDVDFBY240RENvaThEQWllX0NwZ1liTFRYbWRmMUVpX1ROcFRHRi1ya3I4UTZNd1JSOFV1ejVHTWprSUdfZ2YwajlR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Origin Bancorp, Inc. Announces First Quarter 2025 Earnings Release and Conference Call - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcy12LTNWaTN2MGh6YjNuUTluQVcteWRRVWlFdFBvc3hwQmFpQmwtVTFsRGw5TlZjaHJBaDA4VE0zdG5QdTItcHZJY2lKSWlpdkZmQ19Oa1dzUVNxbnB2VlByeHE1ZnI3RFVkRmlTZzM3dE5fUFF6VDRXZ3dGODA5U1RCcEVEVHllZ21aY1hPb3dvdk5ibkplNEZ4QWNNNGlLQ0VnNFBheFBPTFY1WDYxTUNDTFNBTW16bWpUem9oaWRhZEtlZHVhN2RqbGpDbDdyUGxRYnRXdVRzLXp1ZmFQOUxRY294WW1KanpKMg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bridgeway Capital Management LLC Trims Stock Holdings in Origin Bancorp, Inc. (NASDAQ:OBK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQThhdXRJVnBpWjZ3WWF3Z0JCT2xtZGU0eHl0QkpvRC1nUHVEb0RfQXBqNnZYb0lxN2JDZ0h5LUVWWGpCVjJZM1lySXhwaEdKSVMzZDBHVGZuOUF4TmlsdGtPWnlwc2JkYllXaHRUT0JaOU9yQWpmb2lsYk82V0JRNnhGZ3QyN2Q0cV9razZzN3FwU1N4SDZvd2hPbUIweWpXNlJMMG4zMU9IVlVQS1pHTTRfUUJMNFRNMEU5QzBVNV9NaG9oU1NwLTFn?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 34.88
-      },
-      {
-        "date": "2024-12-03",
-        "price": 34.9
-      },
-      {
-        "date": "2024-12-04",
-        "price": 35.52
-      },
-      {
-        "date": "2024-12-05",
-        "price": 36.46
-      },
       {
         "date": "2024-12-06",
         "price": 36.43
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 33.81
+        "price": 33.56
+      },
+      {
+        "date": "2025-06-03",
+        "price": 34.39
+      },
+      {
+        "date": "2025-06-04",
+        "price": 33.8
+      },
+      {
+        "date": "2025-06-05",
+        "price": 34.0
       }
     ],
     "current_price_data": {
-      "price": 33.81,
-      "change": -0.32,
-      "percent_change": -0.94
+      "price": 34.0,
+      "change": 0.22,
+      "percent_change": 0.65
     }
-  },
-  "news_sentiment": {
-    "summary": "Cl\u00e9 tendances:\n\n* L'acquisition de ProShare Advisors LLC pour OBK a \u00e9t\u00e9 annonc\u00e9e.\n* Les indicateurs cl\u00e9s de la performance financi\u00e8re de OBK ont \u00e9t\u00e9 pr\u00e9sent\u00e9s lors des pr\u00e9sentations financi\u00e8res du Q1.\n* L'annonce d'un dividend est venue de la part de OBK.\n* OBK fait partie des choix financiers de Ken Fisher, un milliardnaire.\n* L'analyste a recommand\u00e9 OBK comme stock \u00e0 acheter fort.\n* L'analyste a r\u00e9v\u00e9l\u00e9 la position de Two Sigma Advisers LP dans OBK.\n* L'analyste a examin\u00e9 les opportunit\u00e9s dans",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

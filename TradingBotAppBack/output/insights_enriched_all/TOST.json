@@ -1,56 +1,164 @@
 {
   "ticker": "TOST",
-  "name": "Toast, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 24907964416.0,
+  "market_cap": 24766228480.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 159.46295,
-    "PB": 14.851673,
-    "EV_Revenue": 4.396,
+    "PE": 158.55556,
+    "PB": 14.767162,
+    "EV_Revenue": 4.358,
     "ROE": 0.10987,
     "ProfitMargin": 0.03026,
     "GrossMargin": 0.24741,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 1.315,
+    "CurrentRatio": 2.514,
+    "QuickRatio": 1.904,
+    "FreeCashFlow": 461500000,
+    "OperatingCashFlow": 459000000,
+    "FCF_Margin": 0.08837609894443879,
+    "ROA": 0.03575,
+    "PEG": null,
+    "EV_EBITDA": 123.687,
+    "BuybackYield": null,
+    "PriceToFCF": 53.67716583315276
   },
   "technical_indicators": {
-    "RSI_14": 63.404087725662926,
-    "Momentum_10": -3.723168314129051,
-    "MACD": 1.6111354079574554,
-    "BB_Percent": 0.6014511227528058,
+    "RSI_14": 60.02839371238588,
+    "Momentum_10": -0.070025161507995,
+    "MACD": 1.2416386933147194,
+    "BB_Percent": 0.5087970014634137,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8938723774451113,
+    "ValueScore": 0.8625002714110606,
     "QualityScore": 0.2431715327014877,
-    "SignalScore": 0.426469541388163
+    "SignalScore": 0.4992952331351136
   },
-  "volatility": 0.0335675429385844,
+  "volatility": 0.0325488213255214,
   "beta": 2.025,
-  "return_6m": 0.0161671321821896,
+  "return_6m": 0.1030662163993838,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 28,
     "target_mean_price": 43.4325
   },
+  "news_sentiment": {
+    "summary": "Toast (TOST), société spécialisée dans les logiciels pour restaurants, attire l'attention des investisseurs avec une forte activité sur le marché des options et des mouvements boursiers positifs. Les analystes expriment confiance en recommandant l'achat de l’action, notamment Truist avec un objectif de prix à 48$. Cependant, des signaux mitigés sont présents, comme la vente de 300 000 actions par le conseiller général de l'entreprise et des baisses récentes de prix. Malgré tout, l'intérêt des investisseurs institutionnels reste marqué, avec des achats significatifs de parts par des entités telles que la California State Teachers Retirement System.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Toast Sees Unusually Large Options Volume (NYSE:TOST) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2N4YTNWMWdjNDVJeFR2NktPaVdUNXNBR21VOVdTQ2s3UUZkM0g2TUdEellMeUZlWnZwdUpLeTVlejRabDFSTFJKVWlHQmhTOXM2NEp1ZE1VcE5OWmJrOHphZlJ2YWZXeXlCN2tibl9oeUY2eWpya2NiWFlRU0dFN0xVSjJxdTdmY1dFSks1U28wUGZOMkFIcVRXaGU5Qml6c0g4RTNRaw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toast (TOST) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ISDdaVDBkcVpmY0xrQXdxbFBqMkhDd093Qk1fMGdUNGV0cmR3Q0dLcHRmd0dETkNVOW5Qa3l5a250dVNFRVZWb1lDYWh0dkhQdzI0Mkg5RTEzZ2N5ZEVSRDE5bFpyYnpYMVVsM0ZzTFNfak9ibms4UmNpX2c5dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Restaurant Software Maker Toast Breaking Out On Strong Business Trends - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdENBb0ttMUdoTmhUSXBaemQ4bjNTXzFQYVN0eDF5WlA5STNIYzg4ckdSR2FRNm55UWI0Y2FpY291RE5WWmdDbzNzT0U3OGJKSkZKcXdpNndQNXlxeTZBU2FnYWpFME42bFZtYkRDRFBKZi03Vmp4ZnBnNjh0U2JNNVV3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toast’s Inflection Point Could Send It To $60, Why I'm Long (NYSE:TOST) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjRNTThTdDZwQ204NVBlc0U0bGtKbk1jVFI1RVQ2bUNtc1dKSzBUMHlmQVRBTTFsVkQ4M2tZYmdWMU5hclVmN1VDODZXT1dkRVpCRDBxUGlVYktkakpSaGdxWFFKdG9FdGl0TlYxQVVOVEh5QnZVWkpRaGRrUEQ4MFZXdC13cm1OdFhwaW9EX2xmSmlSTzlYUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toast Launches Massive $5M Initiative to Combat Child Hunger Crisis Through Restaurant Technology - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3lOYTBYTWhOd0NUYl9vY1ppZjVqWlY5MkR2RjljcFJsaENQYjd0aGhaZnNmaGJveGZ6al9QMTBiNTVHeV81NldoVFBSWWpZQ2xpWWx5eEp2elZudEdjU2s1SEhhWUJBbGl5TzMyT1NqSzdNLV9lSWdCaWZlNXE1eGJzTEgzX1IxbTRpdVA0ZVFYanlvUmJLX1VsWUFhdHNXekNkUmRmNlVHS3BrcWRXTVd1SGQ4R0ZfaGJFaWd4Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "When (TOST) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUF3Z0w1bzZKN0xGdnkyNFhhVkRycWNOZDJWRXJKaWFySVdlUkhiRFAtYmJYRzk0N1V6dkdoZGppM2M3end3N0I5OEd4MVZUQ0M3ZGc5eTc0SEVNdE1sWjRqUFdRaUlTejZNeGpJbl80WTd1NXVpMkJIOEtFRDFFUjQ3R1pocEZBYi16MUo3ckV4VzZhWUVKcEp0OW8xVnk4S1k4OWVUS1R2bXN3d1k4enBGR04?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toast (TOST) Gains Analyst's Confidence with a Buy Rating | TOST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZDFCLVdxWFNLcU90NlRHcThTTmZQRnMxQzF1ZkNjMlhJcUd5WTEyRl9DTVhTYm1hU0J0UDhwc09HTmV4SGVoaWV6aXcyRUtMN2FnVmMyRWlpdTlUeEJDVGtGZHZQNWxfeGlYZnlibUdLbXhKZnJpMHBwWllXRmhqRXRNOEwtbk9EdzV5RWJ4YkJDZFdxbFU3ZVgtUTlDcS1IT3pWeWVHUkhFYnlKOXc4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toast (TOST) Stock Moves -1.61%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0NGY3FzeDhKQTRDSzFaMU81YzV1X0lPVWxRWWdjUTZrUGFNZVlpRC1xbWZYdjRlQTA4dWVtQzdQNjRpeGg3WXkxN2dqMi1qNEVKVEJkNTc1anJoV21Eem0yeGlLUG55bDVhdHA4MlY5YVJtc1dxLWpIbkNDaUEycUpTRTU3UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Truist initiates Toast (TOST) with a Buy Rating and $48 Price Target - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc0pNNU1QUnhmeFE2WlluNDBwYnN3UmU3RXFvQkVCU2VKdkhqNUYwT3ZIVndIWUlTS19DdjgzVXdIbG4yZEdoVEZqLVFQblZOSEJIZVhmb1lLUkQzems5MkJ0TzJseHFoZXhlMUhUZXRiMEZubERtRVdWQ3ZXZUtCV1VUOTBpRG9GM2JPQjhBSWZoWUlKUnkzblU0eDIxWGNVcFotYVpHMm1VWHZUZnY4T3I2T08tNU4wSFhybThZcTJIQTlrVUFUdmJueFV6ejRfN0FiRkkxNGNyeldrR3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 Growth Stocks That Could Help Make You a Fortune - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzNERjhLTUVKT3U0SmtMSFdmVjVkQS1nX3p3VDRFUFRhVURVNnBZRzBVYU44Q1FYTkg2Y2V5WmUycDlrZUxZVkpvb3NNdFAzSE5DSkJQR3BKSk5pc0VhdlhvYndqTThibEhwcVIxTGZBWDdEaEpodkN4THpwWWJsNTFsZTlRcnQ0RU9iS0ItWU9idmhLUXJvYg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "32,949 Shares in Toast, Inc. (NYSE:TOST) Purchased by Retireful LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWERuS1Z0WnJ1UldBVmhOLWpFbXh5SlNNbkQ2aXFSWG9adjlSQkd2OFM1bHIyUUpTUDNocVluRXVzTWxlLVp5QU5ZRzlvb3FEeEFGLUR6WWlNTEQ2czJBMUtVNUY5bC1zcUlxalU1U2dTV0I2X1JoN0t1Zms1ay15djJsMVNzc2tGd0xGNWJoaVZLSW54bnEtSHJ4N2JicGpFdGJkRzZadDFFU3U4TXJGRlhQTjlVQk0wTW40VHBmaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toast, Inc. (TOST) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTdKdjQyT1JzSTl0WnVNdi1uZU96U1hVUVloTUNvYVFBdUpiLVJxZHB2ckZYc2Rtd1YteHljcmJMTExaX2xESTZ3cW5BTm9mMTJTanF3d2VNZ0JkSUlZTzhGSGVQc0wwdUZjRnkwcXVmQmU5d0JpQUZOa0xmVHJXSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toast (NYSE:TOST) Now Covered by Truist Financial - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnZNWEpYRWtxTkRBcmtFaDM0UlRWZXNyQ2RJWUhqRlY0Q08zc1h6WEtZMFN5NWRrLTBkblVXZm9BTFpfdEZONjh1UGRodlhkNVZObWlpM2VURDFwRTcxam44aFZjejJuMEsxZUYzRWtkLWxVVUl4R3BkdTBacHVJUGRZU1FVckcxVnc5NFRydjBfdHlTU1ZRdXdTdjVfOVBIVm1IM0NIUngtZzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Better Money Decisions LLC Takes $544,000 Position in Toast, Inc. (NYSE:TOST) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXA3ZC1RRzVDRVJwUFhzWlpoaFk4bHR0eUlyamFTOTZGaWp4eXlmMS1lY3B1RThpTWJHbm9nM2lZV01OY2xLX2dYRGVIc0U1eVdFekRIcXdQWWlQbUtFc2RzUGo0aVZkREV0WjB6YmgtN1hyeHItQXNyWFFlaEpycHNnZUQtbk01SVJmZERvdm1DeVJLdEsySU1DcExJUUI2a3hKUV9hMUdseEI0V0xZN25ldUVMbF9qU2otQWRGdDNuNzJUWnVFQkpKdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toast (NYSE:TOST) Stock Price Down 3.3% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWtoYmRLbGpST1IwZk1JSUNBTi1LLUhlaERhYXZRUW1nck1ScUF0QW9VRXplZHRPT25mTmNPVjZWMExodnMzbGVnU3V5TEV0MWhWM1JFbFdvSnRkWWtXM1lvdzU0YnpCR3hmNUpCZnNhWDRvUFk0QzNBbzBGczBEVjg4amJHS1B4QlhpYWlfeUFmYTBUUWUxam4xZWpLOFU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Toast, Inc. (NYSE:TOST) Shares Acquired by Moody National Bank Trust Division - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVC1XWEpMcUh3Q1psZDRiSjNZZkRteVJFdk1MMU8yZGotVHczd2I0Wi1XdndkSlVreDE1Mi1hQVE3SzRXeFZHSmNFejJhcDNfeTNTQk5nVC1ZTlkzNEdZM1VJWjFSaVNINm1sVDkzYzNZVGNBbm54eDVpczN3eGRpdWdDcjIyQmR3SnpvZVg3T29tcG5hcGwydW80enJERkRVQWpNeW1yMUpkQVVhSlRKdlh3bDNYMUNMd18wZ1Jyb2JJVkdCdHFla05iNXR5Z1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "62,978 Shares in Toast, Inc. (NYSE:TOST) Acquired by Universal Beteiligungs und Servicegesellschaft mbH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTEN5RUp0bjlrazd1QnRPT0lUM0dLcV9HZW5HN0hSbVZLdnpKU3RjMXYxeFBmcThvSXJHbjlma3VNXzR3bGdicFhYX1NNeFRLZHlNcWJKRThvZ2ozaXJYMUZ6d2RCRzNMZ0Q4Rkd3LURES1pJSDlqckZVWHpGYjBIRGExRUZxS0ljeVdyeVFoTWxJVXVQLVAtejRyaU5oc3VGa2lYemtsYTRQbHVkZzlwRHVpR0ltLUw3bVFISjNrT3FDRlgycWVhZ3BmcktheDBtakxSNHI2enNqNDlJMlJLUzFPSzZKRExDRTB5eHFZRi1Zdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toast, Inc. (NYSE:TOST) General Counsel Brian R. Elworthy Sells 300,000 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWJaSXd4OXJ0dWdkcjVNTTd3Rlp3V1BlMjc0YWc4RGdaUmQwZFdNczRfQWVyVGhzaWFsdkxlYzFHaTEwQndfN2pldmhNMWs2cjZEWVVaWWdndW51elowUjJGNXEwX0xUa25zUTg4d1lDTmZPekk3TW56NENTMFVobGE1SzZEWUp6OXNDZF9LZlhKTWgzQ0Z3bTVNZlRjNFd5emtGR0FtZmtGTkFUUTdWVXdSWnQ1TXk1WnlPQm53WTlzUUU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toast (NYSE:TOST) Cut to \"Buy\" at Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGlZSC1WZVNqaVZQTEtaS0gwMnNQb2xzREdwRzZtdjA0WU1oRWt4eGhWR3VEVFRGY2sxbkZxSmYzS2lUVG9jNy1xcXZhd2gweFNIMWhuU2pxb0NSWnV5V1F6eGstWE9TNDVNLThua1dGMlRYdDRkMXJNTXpFMFBoRmpTdE0wc3R6R25SY0t5ejBlM3dtdHNfQ0J4TktKdkNLenpnR1IxZkNQQmxvMXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "California State Teachers Retirement System Has $21.65 Million Stake in Toast, Inc. (NYSE:TOST) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQWVKQk5Mam1IczR1THlIdGVITlI5bDh1d1R2a3hKSmdNNnpmekZHQXNuTm1Pdkszb1VUS3AzUUh5Z1BWNXNKeGhYSW82RFpYYkk1a3A3V3dyMFVhVWpwZHgtVGRUQnQwX21wUDhyZ0w3ampvUE41WWx3TS1uS0szUHktTTc2OTExNGRma2lJdXBlTndaV2xHbGNidDEzMVJrdWlLVE9BbmxNSVJDQ2ZBbmc1RFVqaWU5Z1U0Wkhrci1vcnJKVWZQVlBfTFhpSmduc2VmQ3M1aWo1YjdYNEZxR083UQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 42.37
-      },
-      {
-        "date": "2024-12-03",
-        "price": 42.42
-      },
-      {
-        "date": "2024-12-04",
-        "price": 38.14
-      },
-      {
-        "date": "2024-12-05",
-        "price": 38.02
-      },
       {
         "date": "2024-12-06",
         "price": 38.81
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 43.02
+        "price": 42.99
+      },
+      {
+        "date": "2025-06-03",
+        "price": 41.63
+      },
+      {
+        "date": "2025-06-04",
+        "price": 41.84
+      },
+      {
+        "date": "2025-06-05",
+        "price": 42.82
       }
     ],
     "current_price_data": {
-      "price": 43.02,
-      "change": 0.85,
-      "percent_change": 2.02
+      "price": 42.82,
+      "change": 0.98,
+      "percent_change": 2.34
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent l'entreprise Toast (TOST), qui est un fabricant de logiciel pour les restaurants. Les principales tendances cl\u00e9s sont la croissance de l'entreprise, l'attention des investisseurs et l'initiation de la couverture par Truist Financial. Les analystes sont positifs sur la performance de l'entreprise et ont accord\u00e9 une note de vente \u00e0 TOST. Il est possible que l'actualit\u00e9 globale ait un impact sur le sentiment de march\u00e9 pour TOST.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

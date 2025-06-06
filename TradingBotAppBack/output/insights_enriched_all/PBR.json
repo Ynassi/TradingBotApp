@@ -1,56 +1,164 @@
 {
   "ticker": "PBR",
-  "name": "Petroleo Brasileiro S.A.- Petro",
+  "name": NaN,
   "sector": "Energy",
-  "market_cap": 74074497024.0,
+  "market_cap": 71620231168.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 8.679105,
-    "PB": 0.37867934,
-    "EV_Revenue": 0.961,
+    "PE": 8.324627,
+    "PB": 0.36321306,
+    "EV_Revenue": 0.95,
     "ROE": 0.12019,
     "ProfitMargin": 0.09696,
     "GrossMargin": 0.49666,
-    "DividendYield": 19.91
+    "DividendYield": 20.68,
+    "DebtEquity": 93.137,
+    "CurrentRatio": 0.718,
+    "QuickRatio": 0.408,
+    "FreeCashFlow": 101453996032,
+    "OperatingCashFlow": 206894006272,
+    "FCF_Margin": 0.20444048031190917,
+    "ROA": 0.08658,
+    "PEG": null,
+    "EV_EBITDA": 2.401,
+    "BuybackYield": null,
+    "PriceToFCF": 0.7062544445602701
   },
   "technical_indicators": {
-    "RSI_14": 43.834530898523624,
-    "Momentum_10": -3.2861933670605032,
-    "MACD": -0.0585300069452454,
-    "BB_Percent": 0.3478247429258595,
+    "RSI_14": 35.3801284662662,
+    "Momentum_10": -6.339211789368493,
+    "MACD": -0.1391687957858884,
+    "BB_Percent": -0.0659911050045975,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.935988721714009,
+    "ValueScore": 0.935804612432615,
     "QualityScore": 0.5004254514822156,
-    "SignalScore": 0.5347298062072527
+    "SignalScore": 0.6744728009503125
   },
-  "volatility": 0.0213710332971599,
+  "volatility": 0.0216964593221324,
   "beta": 0.318,
-  "return_6m": -0.0941782371748714,
+  "return_6m": -0.1132411074235472,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
-    "target_mean_price": 15.18092
+    "target_mean_price": 15.19769
   },
+  "news_sentiment": {
+    "summary": "La récente faiblesse de l'action Petrobras (PBR) offre une opportunité d'investissement, bien que le titre ait reculé de 4,27% le 4 juin. Malgré cela, Annex Advisory Services LLC a acquis une importante participation dans l'entreprise, et Petrobras explore de nouvelles opportunités en Côte d'Ivoire. L'annonce du versement de dividendes aux actionnaires et les activités de mise en options d'achat sur Petrobras indiquent un intérêt soutenu des investisseurs, mais les fluctuations du cours de l'action suscitent des interrogations sur sa valeur à long terme.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Petrobras' Recent Weakness Means Opportunity (NYSE:PBR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2t5VTJFZTQ0dnR4ZW9ZTXgtLUhxMjNINlJrejREUXFUY01vX0kzREdnZ3pfM3Jadks0b3JLYkhwSUFKSGZRaTc5T2FQQnlQdnZ5cDcwWDRQaV8wRjZHdkJKeFNhR2lGTWJtdmNnMXhlVVBneTJQb0FqNm50WEJaaUNWMkZtdEFlblJkTg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Petroleo Brasileiro SA Petrobras (PBR) Stock Price Down 4.27% on Jun 4 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRS1JMC1nUmlCNG9FZkpQLXR0eGlEbWlHV0hhQWFUSUVxR2JMTGZQMGFMZTE3c0padHRvOFBkeW8wUnpkM1ZaQWZ1UTdhZTVITGUxMXBuNUJHZlZ5SWVnSlRfQ2U0bmRRRlMteU9Yal9GSEdBRl9YXy0wellPV05kZko0RVZrS3lob0kyZHo4Q1I3Rng5c0ZUeEJ0Wi0zSmdmRnU5UF9VUUhITVJ6VUlNUTVVdEFsWmFBX2V4emRzMzZXZmdNSmlrdUF2eU5VQllxWU1BTHFQYVZWZEJEWGNZc256ZmUyRHhWcEVuRWh3Zw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Annex Advisory Services LLC Acquires 309,752 Shares of Petróleo Brasileiro S.A. - Petrobras (NYSE:PBR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYWdxVVJsNW16c3R2VzR6TWRtSWN1ZmNxdmh0RXRoc295OXdDdWtDV2QzUnVfLWpWMS1lRXhtanVtdVdQakxLZngwU0NxQ2Q3SVBiMnJNNmltaHYxcjFQV3E5RlpjLTdQWkE4MktzQ0NiZXJtOFJZaElndnVCQUxTMU93d2d3dkM1eVlvZm1meDFCM2pfR0lLem5ieFprZkpwem5kUWMtSlAwYnNSZ25yaHE2emp5aHFDVVlJandJNHBtSVhRX25oVjQ0UmpmOXNpc1J0cW1DM25GRWFxdUlwb1RXS1JNcVhRWkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Petrobras Seeks New Opportunities in Ivory Coast with Exploration Interest - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2V6dmNVOTdlN3Vyc2FrNy0yVHRRR29Ya2UyQXNuZGRvdU9Qb2Jta1ExSUMtRXk2VmR1NTZfZllKZ1lNRzIyODVRTGRqTHhvQ21HMFpIZkkwaG9XTDB1b3NIcW01SjA3U3FVNU1XV2VncXdDYTEtTEdQRWdudDFKQjRJUG1UbjRtNHRyVEpVLVRUMFNXamdLaFEwWThNOWZBemdEMW9vTjBFMXpDUV9CRFREQ1RkTFJJN1k1OHNNcU1HbFla?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Petrobras (PBR) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVoybUs1LUVKZ05ZUFVCYmQ0WGdXT3dlUmNZUVo2aHNxR2diSVBTdVY4MFp6dkV2RnFWOVV3YzNldzVQZEd4bGwyNnZ4aTktQjZNZjlPMDFBX1hNZll0QlJUWTU5QjlySURJVEx4X2VRNG9SNElNYkQzb2sycFljTzBYTDJfUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Put Activity Surges for Petrobras (PBR) as Earnings Approach | PBR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDRldTZwU2M5RHlzTWVsWmpmMnZqaGFmV25vT0ZVaGhlUjlBamNET3JLX2xWQTUxYmI2bjJ1T2hxQXJ4azNrRkFRVnp5WE83SVAzdVhEdW04ak9sMTZocGtHOGotS3d5Z004QkFBQS1DUWJiRjRXQm5YVVJPeWdVbGVxcHlsVlQ5N3J2cHZkMFRqYzJjaGxFcTdDRk1vTWxVcnN5RERMR0E2ckNPRkR2YTVSSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Petróleo Brasileiro S.A. - Petrobras (NYSE:PBR) Shares Gap Down - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcFI0eWhEeG5YX0dFclAxRjZWcE1MRlhJNDMxZkJrNkpfQzMxN0NqSHhneVR1dUV5d2NCeTFfSzI4YWhGRlphS3hSWGFyUHFZMHZieWFzX1JrQ0VUNXQzSWV5cnRhRlpVREZHZkxUZVl3Qzc1MUwyZmd2WlhFcnJEYktNSTFRYlRfQTRRTWJ3QUVCTFZUSkpKZlBka3pFQi1oNjNPb2t5YVBUOUM2a2ctYmdCTHFMVEowbFFTeTlDNkY0LUhSaGNtUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Petroleo Brasileiro (PBR) the Best Falling Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTnc3b1loY2dGNC1YdmZ4UGdEZW80Y2tGMkZjMWJ0RGxqWW50U21iSHJCTklkMU1JYldWUmt6VjYxZzRvaXpZRDA2U0NhSDNYNXdrRHhFTDNFaEFURi1KcnZSUVp2MDBidGVHdGpiS0xHMHdYNHU3MTdZUk1sODU3ZHBjWXBydE8wRUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Petrobras Announces Dividend Payment to Shareholders - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcVljaWhtM3FNT1gtcnF3bld3N0RuQUZFbG1LenNSa1BxcWVmeTUxZkVodnB4em0xUkJVN1MtWHczeUtXbTFvbTRpbVgwY3V0dnUyNUsxUzRQUjRYMmhkQUswWFN6SXRzaHRzcGtRbUdDVm1xVThfdVVBbTFwWUhPVHFBUFdpYUlUbnBlaEdkdWRpcHlNUXBmNmljTlo1R0hDSEJVQnppMUFuUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Petrobras: Better Bet Than Schlumberger Amid OPEC+ Oil Production Increase (NYSE:PBR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTdZYW1ycGZHM1I5SGpMaUE1WjN3cXFWN09FTE9TNkJ3aDJwLTR0djBDMTMtVkJUWkl6TUE5MG16UmViMlVuUHpHc1g4Ym8yLUVaUEl4QTRXalhCUExMMVR5bmRWRUFZc1c4WkVhUVlBbERYcG5zUnZqTURfZ1R1aUpCRzRTbXB0M1ViV1c0UmZBaWwyZnYyR2o3WDJkQ0NBRjQzc1RpZUF4YTVKa2RNVmJSWWthYVRBX1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "21,876 Shares in Petróleo Brasileiro S.A. - Petrobras (NYSE:PBR) Purchased by GTS Securities LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUEdVZXMzaVNPaENhQmFoeE9iT0o5WVExT3owek1mRWF0SC1Na1UydkZKWEhSQVRDalZqcVJaLVJOeFBEQmJzcVhPaTRDM2NEY05WVnZsT1hCVUplVXFSQlJtZVdTd2JBbzUyUU5fblJmNnE0eW42aGVYMHFnWU5sLW5WSGRoa3Exd0s4UmZuTnJRVmpKS3BndHRaTGc0Nk9FRWd6MHJ5NWJGZnhsUExMREJzR0k5TFdSeHZOaS1mcGtqM1pBQTdxVlJoYjM3bV9HQ1BOaWNMcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Petrobras Stock Looks Cheap, But Is That Enough to Hold On? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDUxRzdWZTF5enNpN1prdDZ4TlZXVXlIMVZYZHhhLTZ0anJMSGtBNTJRS3FORFlKN1BJVW5CVjlQQVlMQXMtT3A5Tmg1ZEE5bVJNbHBwNk9UVkdOQy1wMURyVm5qUkxGOWcwQWNiRnMzTEhuNV91Rzc5LVNPYU5vcWdRME1CUHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Petrobras (PBR) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0ZtcDBVSVY1S213R3ZxTGdqS2RWUXNsVjh5SEloNF8zWENuMHIwS3Q1UnpQdm9BS3FoTVJpaEM1Q090WWRnRU1GQ1FQVnhDS2FZRF9COGp0REVIQ01VRjlLa1lBUjVqbnllTDhHMVk2TTN6WFhVQkVpTWhLYXhsNS1STEZXSzg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Investors Purchase Large Volume of Petróleo Brasileiro S.A. - Petrobras Call Options (NYSE:PBR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVpkdmdzODdvVVhKbmIyVzFSZXdUbGRIU0FraTdqYm9zLTJNZ2F4OVZqTXVqOWRWNTFfUDAwa180THVhenpzcUg1azhwRnJFT2pkRDFUdFJwczdTOW1WSllzRjRqUUZ5UGpTZGpaekpSWlo2V3l4bEJiWWdNU1RVQndjUnlxRk9CQmpOVUhWaVJLVFRjZmNsQ3JlVzBHOWNCQVlreUFBN21IY0JxQll3OXhvQUs5RGJrQVpCZjZxeFowYkptWHVNdGNvZklrc25DSUx4Qy02MXQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Petrobras (PBR) the Ridiculously Cheap Stock to Invest in? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTRFVHJrV0JpZE1BeVZ1WmRUc3pnc0h4U1ZMYng1X0ZPR2FGVEFTODRPSnpNTzlpRVNFc0VnN2xxTXBRYVBGc3VQeUdqeXFvUG43dDhKWklfeURWdjlnUjAyQjlfTEQxMktJY1FPY0xZeEEyOUdnOHBZbVQ2anVWS0NRWWNnNWtsekliTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Petróleo Brasileiro S.A. - Petrobras (NYSE:PBR) Shares Sold by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRkQ0Z2ZTOE1KVkxCUXRWR0VnU0F2eUlpV25lWk9scTEtMTdQcGlmVElvYkI5S256ek5KSm5qT0VyWTcwcUUwN1FkNzJrN2NlZEd6TmM5eXJkQU1Ga1V6cW5ZSGFQWVFmaXBDVWRydHpyVjUwczd6SUlBVW1WbE14UTJaSUhpUXFsM0x3Z3FkUWc4TUFfQkw2b1J1WHpLeFcxajZtNkdYNUVJYUk1dGk4bHBZbm5meUl0dzFxSF8wdkZvYjBvaDNWRGwwZWxFc3NmUmYwMDhDLXhhNDFxQ28xYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Petrobras (PBR) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDI1MFZhb08zNU8taEQ4RGZ0QUFsNk9GMWFlQXAzX0Nwc0p1Q0N5TEpkeFZZZTMxdFBmcG5CWlpXTXVHNEg2Ym5iUHpxUnNPSDFFNXlSWnpUVTlLVTNiOGo5ZDVFZURZRXhESThNUjQ1XzFzS1JScFpmUEJqZHR0X1RoWVY?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is It Worth Investing in Petrobras (PBR) Based on Wall Street's Bullish Views? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMW5SVDd5bF9uS0toUTF5MnNWOHFEeFAzZGFsbndOWU91WkxwamVzNEh0UnIzTE9vaS1hSE8zcUs1N2haZ2N4QUN4alc2QUJ6Nkt5b0dmVC1DclBjVy1lLUw0eE8wbVRWbFNHc0lsTVRxM1FwSE9FdzlaOUkzSDJEbHgxaE5UYjFF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Petróleo Brasileiro S.A. – Petrobras (PBR) a Small-Cap Energy Stock Hedge Funds Are Buying? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYk9tZ194b1MxV0phLXdfRHdoREgxRDhZb3N0d0gzWUdFZjA0UC0zanQ0UEhlbzlHUVhvS003MmZnNzE0N0VIck1icWk1NGNHUkRhYW9kekpxU1RLS19ESjVQUEFVNGFDUEM5RXVEMzZJSmFwT3ZEXzVjYnl5akhIV3ljeUFmdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Petrobras (PBR) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYjZqVS1FUTFSbVRWa2U2UzhCRXJaZVgyMHJtWlc5MnhhaDhpVU1IZTJ5akg0X0Nhb2FEV0xrU3BadXl0MXhsSjZDczVYdWJ3VDUtbVRJalRqZDhwTl8wRUhaVzRhMTE1blRBdXlQOW5MTWZVMWg5NUZfOGs0S2VudzNQdjA?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 14.14
-      },
-      {
-        "date": "2024-12-03",
-        "price": 14.16
-      },
-      {
-        "date": "2024-12-04",
-        "price": 14.03
-      },
-      {
-        "date": "2024-12-05",
-        "price": 14.29
-      },
       {
         "date": "2024-12-06",
         "price": 13.86
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 11.6
+        "price": 11.61
+      },
+      {
+        "date": "2025-06-03",
+        "price": 11.7
+      },
+      {
+        "date": "2025-06-04",
+        "price": 11.11
+      },
+      {
+        "date": "2025-06-05",
+        "price": 11.16
       }
     ],
     "current_price_data": {
-      "price": 11.6,
-      "change": 0.07,
-      "percent_change": 0.61
+      "price": 11.16,
+      "change": 0.04,
+      "percent_change": 0.36
     }
-  },
-  "news_sentiment": {
-    "summary": "Petrobras, a Brazilian state-owned oil company, has experienced a decline in its stock prices despite strong market gains. This can be attributed to several factors, including a decline in oil prices, political instability in Brazil, and concerns about corruption and debt. However, some analysts view Petrobras as an undervalued stock with potential for growth. Additionally, Petrobras has experienced bullish option flow and rising implied volatility, indicating potential for increased trading activity. Despite these factors, Petrobras' stock remains a topic of debate among investors.",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "GM",
   "name": "General Motors",
   "sector": "Consumer Discretionary",
-  "market_cap": 45639319552.0,
+  "market_cap": 45403766784.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 6.6298885,
-    "PB": 0.7123563,
-    "EV_Revenue": 0.875,
+    "PE": 6.59567,
+    "PB": 0.7086797,
+    "EV_Revenue": 0.865,
     "ROE": 0.08557,
     "ProfitMargin": 0.030840002,
     "GrossMargin": 0.11969,
-    "DividendYield": 1.21
+    "DividendYield": 1.26,
+    "DebtEquity": 201.974,
+    "CurrentRatio": 1.212,
+    "QuickRatio": 0.958,
+    "FreeCashFlow": 1306000000,
+    "OperatingCashFlow": 23037999104,
+    "FCF_Margin": 0.006930293843358601,
+    "ROA": 0.02755,
+    "PEG": null,
+    "EV_EBITDA": 8.827,
+    "BuybackYield": null,
+    "PriceToFCF": 34.78392198468607
   },
   "technical_indicators": {
-    "RSI_14": 46.4268620699094,
-    "Momentum_10": -5.668055594158613,
-    "MACD": 0.4962714098582665,
-    "BB_Percent": 0.3307584110574736,
+    "RSI_14": 45.42471167552408,
+    "Momentum_10": -4.354866837546358,
+    "MACD": 0.2310720561772257,
+    "BB_Percent": 0.0818899490722317,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8998502831675681,
+    "ValueScore": 0.8969857534438316,
     "QualityScore": 0.2680570176938448,
-    "SignalScore": 0.6753645406111328
+    "SignalScore": 0.6486647468070972
   },
-  "volatility": 0.0241387908517664,
+  "volatility": 0.0242626497483052,
   "beta": 1.344,
-  "return_6m": -0.1333902578085386,
+  "return_6m": -0.1112188486864044,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
     "target_mean_price": 54.15407
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente autour de General Motors (GM) est marquée par une volatilité liée aux tensions commerciales et aux tarifs douaniers annoncés par Trump, entraînant des baisses de cours et une réduction des prévisions de prix cibles par certains analystes. Malgré ces défis, des signaux positifs émergent, tels que le soutien de certains investisseurs et analystes, ainsi qu'une augmentation de la valeur des actions lors de la dernière semaine de mai 2025. Les investisseurs doivent rester attentifs aux évolutions des tarifs et aux performances opérationnelles de GM pour naviguer dans ce climat d'incertitude.",
+    "sentiment_score": -0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Ford, GM Stocks Are Slipping. Investors Want a Brake on Tariffs. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKTDkza2NxeFBrWnZudm1zajVzV2NqcDZ5Qk9RWXkyb2ZiSXhvMTUxYkFEMkpacHpFRF9YUy1RLWlrSjByMTg3dWU5cmpfcW9iQ0t5ZDQxRnk3alhvU0ltT3V4eHlGSF9LNUxFSjl1ZkU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "General Motors: Navigating The Trade War Storm, Reducing My Price Target - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNzRtYVVrUmZNUU9ZT3g5Nmd5VlNaQ1RiQ29nQVVkd0llNEJwUERaN0dIYWlyaEJBckRDbVl3bVNvZHhiZWpUZWJwRUVLY2FmT3VMbVFSOHA0TDhPMWZ4TEFtVmpVdlFOc05MRkptZnpwVnh0UkZDS01hNjVaZ29xYnNzQWMwOFpTbzByWmdEcFRwa0tsMGFFY1pJX0oxa0hDRVloRFBoRTJhdTc2SG04?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why General Motors (GM) Shares Are Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VNlVnRVgwOVJVTUs2VDJlbEZ0SGRmZXAxY1hWNnJDWnlpYkREWmFiYmVYRldXdms5WDA5dElTUkx3TzhSZFktaE54blVabXR1U1N3dVZRSEpMNHBUY05kMzhPS2lJUlV3QzhvdURjSkxSUllnWXA3R3duNUVsTU0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "General Motors Shareholders Approve Key Amendments - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVYwa3Bkd184Vjh4MDN1X19IQlh6aG9mRThUd3RfbUpsdWpST0hqRFNnUW1zTmJNVExneDY3Ui00elNObWpFZEpnN2plN2kzRFNmZHF0bE9zU3l3eENjLWZTTDFQemF2Xy1KTm1xMm91a2Fka241cWhnNVlhRXgxcTRlVVpBRkZ4MzQ2WUtuX3hEbjJ3MTZpc2tabks3U05NZk1hcA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GM, Ford Stocks Among Biggest S&P 500 Decliners on Trump's Steel Tariff Comments - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2ZoWUNYbFRyU3RIQnQ1cVBnOEFoeW5CRS0yZVo5cXItUThDZ2c0aVpRcWhYUWF6eFJ5cndvODhYaV85R1ZaUC1wRDJvTDEyY2xwLUdYTEVIbEdpWVA4clJnODZQZlBNejh4ZnlCNmpmcE5YYTRURVpyODRrcWZ1ZU5zc2lXYUtId1ExaUFiMWV4WmxJRmtoeFU4QndmOF9sdndNWDNQVW5FaWo3djU2cTJkVnhYTW9PdlpsRFpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New Analyst Forecast: $GM Given 'Market Perform' Rating - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVd1OWxyZE5tVGwwcTdDRDVwZjh0SzBKemxFaWxrY3UyZ3hpa0dtXy1CZG03dTU2WWstclNqZkRWeEliWDdtNjBiU0ptZS1YeDFuZUJZMnNvdzI5WDlVMVpteGcteGhzdEkydU9yYWE3aml3X193bnYxQ3hRTmFJcFY0V21jUF9saTE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Motors (NYSE: GM) Price Prediction and Forecast 2025-2030 (May 2025) - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmstbnRYSUhTeklMUXN1Rm5SaUs1bnNFOU1wSkpyNnRNamp0UUVXUjNudmRaSm5Sdkd0LURfNHRINW9oRE5MUnI2b0pCZkdCTmU5Z1hGQnBWckFsY0hGRGxaY3BnRjBCVTFTWGFmYjl5VHVfN3ZLMXc3Rk5nbHhVVzJvclBNdVNVSjRTUzE0a1BkMHZjYjBydVFteDU0OVdSX1BJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Great News for General Motors Investors - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUxZdWgyNVJsbUYxOE1KNGRfQkdhb3pFdGxqLXRvNFBpcTM4c0h0Y1FNcVlnNWt4TTVSN1ZHR2tCOGhMeHAyVGNNeDNJWTFKbWhCb21JZHZyakZHTGloMDZValpZNGVOcDRKQW5seHRHVjlkcHRMX3NhSHlPOHd2SnZIUzN6SnFrbEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "China And Tariff Headwinds Could Cause General Motors To Break Down (NYSE:GM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWVtVi1kUlZzdTZFVmk5VzdDaDFzbWk4UVZxUjdoekxldEJUMVdZRXQxWk5ET0RwTWN1U3B4ZG1xLWNNalZ4S1c1UUpDZGpnQlllbDIzUHNYYkJFTFg2Vkxlc3Z5dGtCTTVTTTE4NDRlbWZCX0hjRU1fcnBTRUw0QnhYNnowODQ4SE9lX2NNU1JiMmRidzNYSnJVMU0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "GM Stock Drops Following Trump Threat To Double Steel Import Tariffs - GM Authority",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY09IVllkV211TVNXSnAtLVA0UktPdGVvbHphdEx0NWhmYi11S09LeG82SFFBV3B4cnV6U0FNY25LTG1RX1Nod3VvVWNvLVprR2EzeFJxeDY2Ynl2NENSZlFvNkp6dUlQTWN0T21ZR1ZDbzhEWmlncmJYaDNKS1praEdHWFJHLVdrZkoyVGJzYm5ET1ZRSm1CX1gxY1VEUW1Fbkd2RDJmeVNGQdIBrwFBVV95cUxNVnB3MUdBN280akV5QzJ2bHZDd0tzV0llazZEQ3VSaG14eDExSE8weDFkUmVzazhaaTNFSV9RMXFzbTFDNUVIbFA2Z1lYTmZGMi1QTmhJLW9hVWlUM3RqYUNnQkYtSlM5T2Y2ZFRvTUgtYTVpdXcza0VabTVkQ1ZZQVBBWHBESWZxLU5hWnYxNS1lM0pfZ2pZZlNhNTQzQ0hvMkg2TURZUFI4aGpvNzhv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TD Cowen Reiterates’ Buy’ Rating on General Motors (GM) on Improving US Auto Sales - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa0xZaHltR25TTmE2V3BHLURVM09BWXBjQ3EyQzVoRXRaU0NWaWZvODJpY0VfR3JYamVLWXZxbFJwdl9UMm56STNqZ0hOaG0xdl9PTmNkWm5oOEJRa25iTFpnRDdrVUxITEt6ZC1NdFRWNklmblN4NjNDRWQ2bEFQcUNqZklIOVdmSXI3R0psTnJuZFloMWZ3dHpreHhmeVRLZWwzYm1iTzJ4UGdyS0RGQ3d6dUdmRGYwTDhjcFQ1RdIBxwFBVV95cUxPMUhyYWFjeTZmRGNCa0VpUDBoUEhTck43QUNVY1pSZzR4dUVWbzVnbUpCSjZ6VDA1eDRjUTA3UWFMUXBlSjY4eS01S2NMd0E5bEdzVU1yMjdONUtDbDNjU2hFRVllWDB1VlBPSjJMSEgzcUthVjV0QnJOS3ZNczZHa01ld0s1YkJlbjA5TWp0cGdfamhKMThWNS1OTHpna25adHdwak5YYU9MUk8tZV80blBjVmMzMnVXV3IybW51YTROMEtDUEtj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "General Motors (GM) Shares Drop Amid Steel Tariff Hike - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONTVQeXF5Q3J0eDR4aFVPNmhta2NDQW1zM0gwZTVsdmVrc0pmRjZsTFZ3Z0dXRk1vUUhVRFNjMlRYd3RrZ1kzUkVBMEl2eVpjWnQtMjJnbHgwaWxRVTE2TFNpVUoyUmJMYVFuUlNLaFo1Z2QxMGVkcFBURk55UkFscU1EQU4zYmJ6VmtjdHhmOFlXRVhKd1E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Buys 928,655 Shares of General Motors (NYSE:GM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjlPSGdITmhDeFFudDFaNm9XdUF6ek5JR0tmcFNXOU92WFpxLXhBU0g5eWFfYmxmUnNtUU13akI5aDFkREFmUzk0VkxZa3ZYLTlyVWJkejdDZ1NGSXdjUzFHeW9vSmtjV29Wck1oT3pPVVFYODhrTFRHUGZVam12UWdvZ2ZlOExHd19NckpKN3pLWlo4aEdSY0xBU3VxQWxSbFJvWnFfZGM3eUsyRmwtdEpmS3BSVUhaSWsySXV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GM Stock Falls After Carmaker Pulls Guidance - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOdkFqMGRTNTAzRGNmb1d6dDFra2o2Y085NlFpdTlUQ2hMRjI5LUpXR2tBMXFTN2tiUjR2TE16Wmsyd2xXZmlxU2lvenRhX01DeE04eVpOa3dJWTMyT21pZFJQRkZZUHgyeGxfZWNYNFpCRy1oN0J3aVdSSDMtc011akhnR3FyWm5TR3VJX0l4cFA4QTkyR0R4TktFLWlwQ1M4czBiUk9rbk9uOHZHMk5UQk9xNjF1eUlBR0RaSWhZMUxqZ1BVTUZWNEZJYkM0b2xkSm9YYzhsRV84TWZpU0Jvb2cwakk2NktOempyTWVucGlQcTA3UUZVUW0xM2dsTWVxTWxtTkFqVUM0Yk9HWWZGU0ZoeTRZeFQ4WFdsbDQ4Uzh6bWZLeXI3WGktckFDTF8wSktBZWUySXU2VW5kOFRzalE4blRTejF5MkR4LWFKcGd5Q2ladHBVUHIwMndHbHkxNXoyNWkzc0dLOEdYSENaZlhsQTRRaHc0TTJSSU9EcTc4T2VMbXdtbVViUDEtQjJINnBfRzBHVENFUDdMSTkyZzl4NHZUeFFoRF9helF0RjFzVHJrLXFja3V3NG9ZdUxwY3FybEwzNUhILWxnRXhxY1Vra2dDem5ab3VyVTRfb21laWZlQXZhbVdJcw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "GM Engine Plant Pivot Shows How Investors Need to Tune Out the Noise - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwRlY0ODVvc2w4YTZZSDFWd1ZnRzV4S1hBY1oweGtxUkFfeUs2MVBsMGZYZnVfMVlmbkpYbVp4Q1FzOHNxOWNCYUp1bDhXMEVaMGxYcnBlQ3k5YlJRZ2tpeG9UMWdZWE1FeU8wRHhaSW5yQ2t3VXlVYUt5QWI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GM Stock Value Rises 2 Percent During Week Of May 26, 2025 – May 30, 2025 - GM Authority",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDVSeG9uVmIzMzFTeWpTajI2VHl0TElhVmRXYU9uZWFUY2Nrd1dBQ3VUR2RkdzVDdk5aTHV6LVpRZTFTUGZiQXFDdlJPbFZoYzNhNXM4R1I0OHltcURSMmNoYTNUVkVqOTdnWWtFbU0tTy05dk4ycWRTaDM4TXcxMjlQOS1nakdiTTVyYnRBVjY1MHpVOF8w0gGcAUFVX3lxTE9QMUtuUHV3UmhLTE8zVDVDS09sY3VBMFhlSVRHOU42b01tV2Z2RGlSUkZ6MkptcEFGSW13dzYzam1PT25OdW1VUVRubGNzYldaRHViTXNJcnVYNUM3U0g0STJTaVpMbTZHb0pKMFQxd0Rtamk3RkFxdm9vZzJSamxsZi1jX01FZi1ONUxOUnFmLWFSUWdyd1lObjlXcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Reasons to Buy This Top Auto Stock Before It's Too Late - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHdtaUhwcHdFTjU1S19hNXNIam9nb3N6ZlVmRzhJNnRMVkg2U0pWZ2x4TURXTHM5bl8zc0JHNDZWRTNoTGs0N2tTSUE3RTBmemVETE56LVhsY09BZlFLS0U2M2p1cm1XSl9YQ1hFZHF1TUV6ZDB6dGRndmYybnlKNlozLVVFWGVablFnN3ZvWE1KOG5HTXI3RQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Motors: A Technical Buy But A Fundamental Sell (NYSE:GM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSDJNOUxDUTdZOWZLdHJCcWx2dHBCNE5hbHRZd19mSWFUMnVaTzdjbEU3amgyYmNQWWRENUQycEdYOVVoRlJIcGtqRmNJNDRfeXo5NE1DNEdLZkNQekk1TlM5U2FBbWtmVzQyaUVfNlV6T0c2Ukw5R2hrT01KNFRxR1BuTHl5WWtKLURUd2N6V0hnRUJHWnMyeEtB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Motors Stock Q1: Why Insider Last Bought At $50 (NYSE:GM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczdMZE11bmR4TzdGNk9mLWMxSGROVF8tZFg0dEpvQXU3aFE2LUllNzNyU01nWEJHV2MtQU1BREVnNF8tVHpXc18yTmRhcDc1NUhXUWlBbjVnNXpGM1lEOU9oMDl2S0xNcmYxcXlNa3dGQ1UyVHU4OEIzT1gzb2U1Q082cm5rV0FBUnVsb3N2clBhUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 Gains and Losses Today: GM Stock Tumbles After Trump Declares Auto Tariffs - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT3JuelRrZUpqcmhOclVLazRrdVplcHpMZ1NScmZpTjBJRFVuSU9JaXF5N0RkUlZ2RFVUdExHUUI0dnFwVVFSN2F1Yk9VQ1FjZTNKWV9SbXNJdHBYWExubHdCcW9PdGlqdjQ5TnJTTmkzeXlNdTVzU3MybHhSWk04Rmo1c2NsOFJMb1Z0d2pDbDluSkdEVk9fNjNjejB2S25pbUpMOGF2T2hkTVBFX1BYUWJScjVTa1pBdWlvRFRORQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 55.04
-      },
-      {
-        "date": "2024-12-03",
-        "price": 53.66
-      },
-      {
-        "date": "2024-12-04",
-        "price": 53.36
-      },
-      {
-        "date": "2024-12-05",
-        "price": 53.39
-      },
       {
         "date": "2024-12-06",
         "price": 53.41
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 47.56
+        "price": 47.69
+      },
+      {
+        "date": "2025-06-03",
+        "price": 49.06
+      },
+      {
+        "date": "2025-06-04",
+        "price": 47.67
+      },
+      {
+        "date": "2025-06-05",
+        "price": 47.25
       }
     ],
     "current_price_data": {
-      "price": 47.56,
-      "change": -2.03,
-      "percent_change": -4.09
+      "price": 47.25,
+      "change": -0.42,
+      "percent_change": -0.88
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent l\u2019entreprise General Motors (GM) et les tendances cl\u00e9s sont que ses actions sont en baisse, qu\u2019investisseurs d\u00e9sirent une diminution des tarifs et que le sentiment du march\u00e9 est positif sur l\u2019entreprise. Une \u00e9v\u00e9nement marquant est la hausse des tarifs de l\u2019acier qui a entra\u00een\u00e9 une baisse des actions de GM. L\u2019actualit\u00e9 globale semble peu influencer le sentiment du march\u00e9 envers l\u2019entreprise.",
-    "sentiment_score": -0.3,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

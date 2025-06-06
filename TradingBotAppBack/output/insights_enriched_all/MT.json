@@ -1,56 +1,164 @@
 {
   "ticker": "MT",
-  "name": "Arcelor Mittal NY Registry Shar",
+  "name": NaN,
   "sector": "Basic Materials",
-  "market_cap": 23344396288.0,
+  "market_cap": 23256821760.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 19.525478,
-    "PB": 0.4597744,
-    "EV_Revenue": 0.53,
+    "PE": 19.452229,
+    "PB": 0.4580496,
+    "EV_Revenue": 0.527,
     "ROE": 0.02254,
     "ProfitMargin": 0.01978,
     "GrossMargin": 0.09658,
-    "DividendYield": 1.8
+    "DividendYield": 1.81,
+    "DebtEquity": 22.603,
+    "CurrentRatio": 1.349,
+    "QuickRatio": 0.429,
+    "FreeCashFlow": 2099250048,
+    "OperatingCashFlow": 4598000128,
+    "FCF_Margin": 0.03443821151008461,
+    "ROA": 0.021760002,
+    "PEG": null,
+    "EV_EBITDA": 5.722,
+    "BuybackYield": null,
+    "PriceToFCF": 11.082260660736686
   },
   "technical_indicators": {
-    "RSI_14": 53.666768745267454,
-    "Momentum_10": -0.1790895456423386,
-    "MACD": 0.3575018589340857,
-    "BB_Percent": 0.4958715129262839,
+    "RSI_14": 52.65642154247981,
+    "Momentum_10": -0.9727601672381084,
+    "MACD": 0.2329846144853498,
+    "BB_Percent": 0.4163475142194043,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9342859620825208,
+    "ValueScore": 0.9316319491299292,
     "QualityScore": 0.2576070007666294,
-    "SignalScore": 0.4606718349353323
+    "SignalScore": 0.5486461397416358
   },
-  "volatility": 0.0308891658707911,
+  "volatility": 0.0309193442942761,
   "beta": 1.706,
-  "return_6m": 0.2012147389017649,
+  "return_6m": 0.2075919260555125,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 32.22
   },
+  "news_sentiment": {
+    "summary": "ArcelorMittal (MT) a récemment annoncé un investissement massif de 1,8 milliard de dollars en Afrique, ce qui a contribué à une expansion majeure de 20 millions de tonnes de minerai de fer. Malgré une recommandation d'achat modérée des analystes et des signaux positifs de momentum et de valeur, des événements tels que le soutien de Trump à la prise de contrôle de l'acier américain et des transactions de dirigeants suscitent l'intérêt. Avec des perspectives optimistes et des investissements importants, le sentiment du marché semble favorable à ArcelorMittal, qui pourrait potentiellement doubler pour atteindre 70 $.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "ArcelorMittal's Massive $1.8B Investment Transforms African Mining: 20M Tonne Iron Ore Expansion Unveiled - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHRJdkhtUHotZmh3MEV6RXJPTHdncVJUbzJPSE9BVC1DXy1xTEJQbnRsN0dlNGdlcVpLaTdFV1g0R0hjY1ozWTZSV2VFamZETTZXaW1VVTMzTjVibFJMN0VMOFI5X0J1MmhMTy1NUjBKcTRBTklyOV9UX3pRTHBERmZfVTczeVRHbWFkOEdIeWFCdVJuRXRXYS1WYVZEQzY1dGVWc09xOEo1b0E1UUtyMDVCU0xfQ2d6REJiWDNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why ArcelorMittal (MT) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkVJdGh3OWE3WXQ5VTlYZ3hKVGl0RWswNGkxMWRBOVFMQ3NseXpPRklfV05HZXA5OEJHdVFnNk5Gb2x5c05FRWVkSTF4ZzlNZFJlZ291Yk1VYUc0cjE1ZUtCekJPOENKODI4OGpVQ1ZsV3F0dno1b0xTVHJnY29vLXI2Qk1HUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ArcelorMittal S.A. (NYSE:MT) Given Average Recommendation of \"Moderate Buy\" by Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYUxXZnZMZlJ4b1FQR1NIUlQwa0JXa3Mxd0lnM2xtMV9leGIzQVdyWGVEaF82YTd0MENsX1Z6Vi1HZDRTTDMwYjJxWlgwUU5WU2RhWHpRTDNDd3gzYmxfekl5cTFWM1hpUUxjOGpfSEhsT29EUmdtUHVKVnNURFhiX2wtdUxjdE9ibTJWTUhxcEZnS1JEQ3JDRENMZldpTEh1V1pTTTFwTldtLU5uSXctQnpJMW04ZFF4ZEJnMllxckU1cGdjN21mVXlOaXl1M2Nq?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "His Excellency Joseph Boakai, President of Liberia, and ArcelorMittal Executive Chairman Mr. Lakshmi Mittal attend inauguration of new concentrator | MT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPR1RHN2pqWnpKYXFfXzJVMVJ4bm9nSVlyTG55d1QzTjBwdFhzWGdZRE1nd20yZFBPR1lfTERMVlRPTktOeHRuVVV2Z2NoclJEaF84T1dreEFHSW45eGFTWFFuX1lIMUd5bTdPLVFLU3RxSURuZ0lGeGVCZEdoQlItMjJqTmxMYk5jTDR6UzJiVnloYVB5bXVJTW11cW1YTnljQzV3NkpyVjd3VTVqcXgwSm5DdGVDSzFvT2VXYXR6RXNPelVydVFERzlkZHhtTHd5RGNvNjNEeHptQmRMTzhQWTUzZm85YVZwaGFfbGdpLUpvWHh4WDNKQXA2QzNFZ21GWjBhSFFVMldQQnEtQ2NmZjl3V0JjVVI0QXRmWkd4TUN2eE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is ArcelorMittal Stock Up 50% In Six Months? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUdVeGRTN0l0QzR2V0lGUk1yb0V5SkZkN2M5XzBCWWpmWFpCbnB0SDFJMDhRMUhVUUFnd1NRVklyZDRfRkE4ZjJJNG9WeUZRR2ZqSktGbHpuak1sN2FfcHVzSnVXYVBBaHBEY29xa2dmM0t0WXJ3QTlod3p5RWYyVXdXQmlEdF9acmU2OWxTbTdoYUFyU2UtekZjQjctNnBvallyWVpwVF8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(MT) Trading Advice - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGVmRzFHQ2piSFRDWU13WmVpN25GSTVxejQ0MjF5ZG5QNUJ4aERNWENmUTNpYVNXREJ3d3ZteDBibnF0QVdLVENWSnlsd0g5aXh3RHlXYnVIZGtPSkx1LVNvMGdZYXFwR3hDZDY1akVCN09EY0RCMUE3bVBJTGF3dnlBeno4czBWYVVOcklpZ0lEVmJDMFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ArcelorMittal SA (MT): Is This Deeply Undervalued Stock a Hidden Gem? - The Acquirer's Multiple",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHRsNThILWtkMTNXbmNPdzMydDNlMVQxZmdDc0VldjBwMnNZc1NCYlA4aklMTldCTVRveURCRTZUYmZqQXAzbEZRZEhLSlA2VjBVNU5KZS1FV0xHNWlhNE1EYk9hRkdGYXFTMVRJMVVNeFlZbDhzYzFuWU1Hcmtfa3lCdFFlR0RhQW12bmxRYTZjTF9OQjhBYXVSU0E4MEtxMTY1a1g2UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ArcelorMittal Stock (MT) Jumps on News Trump Supports U.S. Steel’s Takeover - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUktONW1YRG5VbWVacVlNX1VjN09rOExpQmJEMENoN0NkZHZJSEV3TEVOX29FWVR3ajlwSS1FNGdPRmpJaWdsVmNKRy1oZDRKMXRXdVpna01VemdTdm5WNGVaXzBQXzlGY2dmeENfQVJpM21mMEd6Z0R1Ry1iX1hiMEpUQ2dCaFRuUnZXUlVjMENsekN3a1NiN2FsUzdnVldkRXV0VE1mdFhpTnRzTExrcVNlYVFhaXpjNkNwci12TWk5aWZIc0hzTXBhQ0ZtaDdRUVdzWHpQekg0UTRtNzY4STNvQ3BkZGFxT0ZkY3hKaw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is ArcelorMittal (MT) Stock Undervalued Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeE9DWFQ3WXprRmcwWVJ2UW5YNGliYzdBSGpUZkVZTm9kSnNGOTFTUzlNN2hNekN6eHN2TC15QnNvSFZSR3hrZWZnM3BtRjdmUFlDWnFjOGkzd3haOWxNMXRjRWRlZmRpYnJ1SlBoU3FFYURSeDhfQTVuNF9oUld6VVd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ArcelorMittal (NYSE:MT) Shares Gap Down - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVy1ZQ1dpY1I4Q3BWTzNvV0pqNnpCUUVoOEE4TFBtWFpPZzFaUE0zX1hRRDdpU2Z3QXVEbDdoRjhYWkxpR3NRUUdhb1ZIUTQ0WTBCY2VfS3NWeDR0TXpyZkRVR0JST3lLQ0wweWxFZUYwSkgzb0I3QU5KQllkcGNsSzA4SlJVdmt5S0t6TkZzRGt1c1dwak1Ic1hScEdsS0xDeEtR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should Value Investors Buy ArcelorMittal (MT) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcXRvejQzQ0lKdWlUaGhZWmhrWEduQzQ0Q2FuMEpDOExscjF4b3AyTFdITW9UVjB1NU5LVXBfVXBKbExhdmxCb0JaZnhPMUVTa0FJQ0pMdlhqTWxpbFpGQlZCREZwZkt4R2xTWXRZSWJ4bU9oZ2QwYUVzRU81c1l4ME9nLV9XeXR3cFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ArcelorMittal Insider Trading Alert: Key Executive Share Transactions Just Released - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KUnNnQXVTSUpQUFlKR1NqbTdrYkl5d05SY0tJVWh0Vjc5UDNoQzh0LXV5MzZ5Z1B0YTZKdlBDS2UzOGVrYVlTYk9YRUtfVW9saDJ1MGhZcHQ3MlN6TGFTS2kxQkdteE5nNEw0ZTAxV29sbDhYaEFBdGZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MT or X: Which Is the Better Value Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44a1FHcnhGOWgyT1BIRWhXODZsQTFZU1ZZVW1CNk53TnZuSFpUejZiSmEyRzBGUl9kOFJUak5WQURlNmZ1SDRoLTBqclhob2dpVUxZN1FJeklwb1BYaWNFVnZzWUtRQXBDNzhHUHRndnFzUkZFMUVUc2NKWUxqUkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why ArcelorMittal (MT) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0xKT045VXVPVF9STzNDajZUX2lDUUpJanhIMm5zMW55TGVldHYyXzY4Vl9tTVQzZUE0dlVraFdxOVkzbS1PRXprcmM1am8zSVpLWVhUQldmZVhZR000MDZXcFRPR185Tk0yOWpING1BUDZFMzUwWkk4VV9zUFpuSU13?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Voloridge Investment Management LLC Trims Stake in ArcelorMittal S.A. (NYSE:MT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdHRIY2g4ZkVzTUUwTWx3blpzZWFfLUs0RVQ3cW13Wk5sM3pNWVc4SDB0T25CM1FlWFNiWmpnQWlHN3VBN3JTZjlkWGpsNk1CbHhpa2pITnBUTVo0YzQzNXAzbWtOeVlZOVo2WnNyMzIwNEJvNmFWaGVIRE5iNmNIOVdaNE5nWTlJWEZhYU1HTC1kRXF5RV82TFlxRDVsYnVNUWxkSDk0eDQ4T01nSWlDWTJxV0QyVVdrVHZpNUVKSl9KUHJBc29nYWlDNE9pVThNNmp2VUoxTU9YeXFseWFlOGtR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$62.4 Billion Revenue Giant ArcelorMittal Announces Critical Shareholder Meeting - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3pDMENNZ2Rhb2NWSnJGX3FYM1FaRTNoT3dVN2p4dEFjUEtmeTluU0xzMWpxU0ozclAxZzVBdEthSDJCME5rdlBjZFc3eUlWOTVSSU5mTDRMRHZGVHgwQXFubDVRdlFXOXhsOV9DdUtEcTh6RlZLMnhRMHI3YjdEcUxCd3RadVQ5ZzdrRkFaMjFDdTc0N09HNnBDZU0yS0R1U1ZSanNLMVJpc1p5b1pUbkdHeEVWZ0lV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why ArcelorMittal (MT) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2ZLRnR0S2dtU2RKRWs0bGFDdHpnZjBmRHYxUnhnbFY3MDBLY3ZNRlktR0w4MElIazAtWWVJOFpCeWotRUk3UmMyOHBuUWFUSjZWbU5CeUFpX19rNFFWLWxGYjZYc2V1Z0lEcko2ZXpsMUFBRzQtZGZJM25QY3UxSk5mQllldw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vise Technologies Inc. Invests $217,000 in ArcelorMittal S.A. (NYSE:MT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU9xQ3lHWnhjeTBLeVNGblZOZlZUall0NkI2dl82bGRYNXBpSXRzc0lYT2tzWlRISnNES1NkVHpCTkQ1NC1DUWxZZEc0SXY5ZUlvQ1F6WlYybUlJNjZULTNMUWdiNXhkU0pCRkFwUWdCaE1wbC12X3pWdVk0dXdWQjBEb01JUDVadlVKUFg0LWpreXJNTlhTVWpBczh3RDdYTVVWLWxkV3lRdThWLU9qeWRLZVZGVWhlRGZhMVk4dnNtajVhTXBZOERxZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why ArcelorMittal (MT) is a Strong Momentum Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWHkwYXhjazdpRjlFdzkzN3NzWWQ2V1otUThhdlhYc3hBbVpLYmRFRHpFZC14V184WllpREx5YUlGYnluRHBCdWZfVGNaZVh0NTc3ZFRQa1BuenBGb0E0amdQS0FtQ0tXMm9wNDA2WjBWZGJqOGZ6bHY4NjNsLVhNR2trVHdlZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ArcelorMittal Stock Could Double And Touch $70 - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEtMMUl6Ym1VRG1kV3BZLVpJTVBuQ3dSZTdLNERlUnVoUFhKcjBjbF8wUG5qVGVnYnNTamJ5eVR3MEg1VHp3aUxpMVdUXzY5c0U0anQyOWFWVHJ3UUZqSVBYVHV6aG0zTURkV1k1MWFKSjR5SDJGMDRHZVNNbHlXYmwtaGdxMTlPUkRQaGdDWXBwOWd1cXFBQQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 25.52
-      },
-      {
-        "date": "2024-12-03",
-        "price": 25.24
-      },
-      {
-        "date": "2024-12-04",
-        "price": 24.77
-      },
-      {
-        "date": "2024-12-05",
-        "price": 25.37
-      },
       {
         "date": "2024-12-06",
         "price": 25.29
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 30.59
+        "price": 30.62
+      },
+      {
+        "date": "2025-06-03",
+        "price": 30.12
+      },
+      {
+        "date": "2025-06-04",
+        "price": 30.33
+      },
+      {
+        "date": "2025-06-05",
+        "price": 30.55
       }
     ],
     "current_price_data": {
-      "price": 30.59,
-      "change": 0.02,
-      "percent_change": 0.07
+      "price": 30.55,
+      "change": 0.22,
+      "percent_change": 0.73
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici la synth\u00e8se courte des 15 titres d\u2019actualit\u00e9s \u00e9conomiques r\u00e9centes concernant l\u2019entreprise cot\u00e9e ArcelorMittal :\n\nLes titres signalent une tendance positive pour l\u2019entreprise ArcelorMittal avec des augmentations de son stock de 50% en six mois, un gain de 16% en un mois et un prix atteint de 63,50$ par action. Des articles pr\u00e9sentent l\u2019entreprise comme un stock de valeur fort et un actionnement de valeur.\n\nIl y a cependant des critiques concernant le stock de l\u2019entreprise qui ont conduit \u00e0 une baisse de son prix",
-    "sentiment_score": 0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

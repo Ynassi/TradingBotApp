@@ -2,55 +2,163 @@
   "ticker": "AEP",
   "name": "American Electric Power",
   "sector": "Utilities",
-  "market_cap": 55091527680.0,
+  "market_cap": 54431797248.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 19.909267,
-    "PB": 2.015754,
-    "EV_Revenue": 5.05,
+    "PE": 19.670849,
+    "PB": 1.9916148,
+    "EV_Revenue": 5.006,
     "ROE": 0.10421,
     "ProfitMargin": 0.13712,
     "GrossMargin": 0.47134,
-    "DividendYield": 3.59
+    "DividendYield": 3.65,
+    "DebtEquity": 171.503,
+    "CurrentRatio": 0.417,
+    "QuickRatio": 0.221,
+    "FreeCashFlow": -2700450048,
+    "OperatingCashFlow": 6812100096,
+    "FCF_Margin": -0.1339575361297911,
+    "ROA": 0.028900001,
+    "PEG": null,
+    "EV_EBITDA": 12.66,
+    "BuybackYield": null,
+    "PriceToFCF": -20.13183850457211
   },
   "technical_indicators": {
-    "RSI_14": 48.97576642863181,
-    "Momentum_10": 0.1067552497808511,
-    "MACD": -0.4925071025508032,
-    "BB_Percent": 0.5115180934647766,
+    "RSI_14": 44.41837718476554,
+    "Momentum_10": -1.010396300829553,
+    "MACD": -0.5377707758987071,
+    "BB_Percent": 0.4103579746888717,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.884627106436001,
+    "ValueScore": 0.8817998488611971,
     "QualityScore": 0.4377670979481699,
-    "SignalScore": 0.6239466233122708
+    "SignalScore": 0.6300564634396277
   },
-  "volatility": 0.0135600865488822,
+  "volatility": 0.0134803744587328,
   "beta": 0.41,
-  "return_6m": 0.0692652013551533,
+  "return_6m": 0.0648081583000677,
   "analyst_rating": {
     "recommendation": "hold",
-    "analyst_count": 17,
-    "target_mean_price": 108.89882
+    "analyst_count": 16,
+    "target_mean_price": 108.5175
   },
+  "news_sentiment": {
+    "summary": "American Electric Power (AEP) a récemment conclu un accord d'investissement de 2,82 milliards de dollars avec KKR et PSP Investments, tout en réalisant des ventes de parts dans des sociétés de transmission. L'entreprise a également annoncé des offres publiques de ses actions et des dividendes trimestriels. Malgré une hausse du prix d’action et des signaux positifs, les ventes d'actions par des cadres et une volatilité accrue pourraient susciter des préoccupations pour les investisseurs. En outre, l'acquisition de parts par KKR et PSP Investments souligne l'intérêt des investisseurs pour le secteur de l'énergie et les perspectives de croissance de l'entreprise.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "AEP Completes $2.82B Investment Deal With KKR and PSP Investments | AEP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUFzYV9zSGdFT3I5Q3MzeHJRQXZON3ZtckJ3RFdPZC00MmVmRjVJd1o5UlZDNkE2X0NtV3JaTzdWWEFmR2UwVnBUQktDOTlUSTBoeTZHMUFSVHBuMTdicnBzY2FybjZzTTczQ2VIbXVSZlRkeW95aXVpaFU3U1cwRjY0Zzg1bjI3MlV0LWRzM2ZZekVueFdBUDBvRm5JWVhHZzllQ3VHVkVheGp3Mms0SHFrbE1yRUVX?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Sale: Executive Vice President of $AEP Sells 8,057 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdWpTbU9IYy14aTBIR19vY05wNXR4TkNUSVNJYWF2WWtiRzNZbkVuOEU4OHpwX1diSjQ4N0hsbG5VMDR5MjY5WFVHMVQ2Sk80YzM3emcxQ0o3VHByZkNZaDgzaFdJdXN4X3kzOFpuYnBqMG9wMDkxNDJ4eHBESFdNWlRXMk1DalFDSWZQN2lwVUV3M19sNFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Electric Power Completes $2.8 Billion Stake Sale of Transmission Firms to KKR, PSP Investments - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMUhnNHoxaU95dVd4N1VEU3p5dExNcXpJQTNGRjZNMkVYT0piUGNpbk90bTFkOE0yUzlWelZaR2FUdkNFLVctZVFkcVdnVlB2NHpxNTJjck8xM3p4N08zUGdJOXd0Ykl1Nk8yNFdGRWVfRWgzMFNXeTBtcVZQb1NmWHVsbW1YY1gzWi1KQTVGa01rWVlvQ0pvNlBLb1hNelVONTFKVGJTbkpGVXRxVk5HMGp6RUFRNDhjNVFtVkk0ZmZHVnVQMm5iQzVuMW1kSXpyOGdYSVBDSFNSTk80MW9LV2NYSHh3dlBScEFRcmJuQ2o4Y2JzMGtlVEhLSlRnbTB3Z0tocTFVb3lEbWx5NW1UeWZrSEhxOUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Electric Power Stock Earns RS Rating Upgrade - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2F3Nmo1dTVCVzNkV2NDYVNPQ05EVW40cXhWUlFYU0RTSURXU2UzWXd6V004ZkxmTnhUVXZpaGVrcllScERUTVEyMVV3UWZIVklJMWFUUnktb1FCQWZndjBHQjNQZG1LRGZjZ3JfV1pTTjJGSUFRRTJvMGJVVXBfTXM1VUFnaW1BbGo5bkl3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Much Would It Take To Earn $100 A Month From American Electric Power Stock - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX1c5bU52aFd0VXBzME9kZUtHZVRQWGdFYXFYQmhjemlBNGgzTjZ6UUl3UTdJdTRlLVVRYTVHNGcwWXljd3lvY20ya01PRFQ2V3ROSl9KQXhqUU1LV0hya1BaSHhKSnJib2RIOUV4QjZSMEk3WGVMRkM1VF9KYlZRNzI3VEppT0hIeDRoa05qNW9jYkozRzJIWDQ0ZnREWGJ1V2dEUUlWMlpTQUl2d2ZWMEZhNGVXRkRaNDVBZHVOQ0p2WUU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Electric Power EVP David Feinberg sells $829,387 in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXp3T2dQLVRZc2g3dEVKQ0dhX3ctaFBRSEJwVGJDZGRTRVhUOENXanY0WXhicVptVUEwbmRCM20yTXY0RGZ0U290RmswVXozSFZoQ3dDb29Nb2kyNUh6cWlIVzRmZDNweDJvanZnaWlhMFhVUUxvQ2tIWFZ0RmF4bmxlV0lSenhRbFlOaTBWZUNsdlZXZVNoQzZubzdTLUJuaGxsU2twLTEtbnRwVU5FSy1VckJVMXl1bklmenRqUzRuYnFpX3duUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AEP Announces Public Offering of Common Stock with a Forward Component - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWmhXNDhad2YydDRMSzN2R1NFYl9QT3BzSG15ck5BMW1zM0xvRkxMcDVyZm01NllZVWpEU013WkZrQjBmX1F6dkE1QkZkTE8zY0tHdnJtNGlKb3RQc2FTelBXUXJmN0lzamladmpvLWNCbHNaZV92QkNGN3RzMXRVY3B6UmRkeEdqNUtXcF9pMlloVnhhcmdoUWQtQ2ZsQmkwTmhtenp0LVdEaTRyb2FSM1p6cHA3UjFoRWdCX3A4cS01LTFj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Wall Street Bullish or Bearish on American Electric Power Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNVjVlNWdGdzYyUG9tWjdNNnM1Sm9RTHQ1UnBaZVpFUy1wQTl5SWtYRFRua1A4bll6WXpaRG51VGlQUlR4RFJPUEgtVVZFR2lmYlVOUFVGaWMtcHFyZmxxQ2QtS1FMeUxYSWVudG1hQ3hZYXU1TzJWbWlOREY5RDg2U0ktc0R3UmFMM1NrV2IyU3I1RGNKZ0w0dmhITmc5M2Z3MEdqbk9ES1NmdVprQkl6QlBkVmNCNXVuWmtCNVFieENYcUV5YWw0Ml9fQ1FBTkJCa1RYaXFuZWU4eXE1YmR6ZHJvOW5kYms3b0tPNm9SRFdCdEVIMVBCVThhM3Zac2dJNjhZZWJLeWtZektZUEJxMDBUdTNkRlRSTDFmLXhmQ3FWck5WSzRVMV9UakxtT3g5OU5zOVBBemdPZVBVbXhJd1cxMFZsUm8tUm5tamtSeWhWWFJwc2w0cGljS2pUa3Bsdm1aRXpuZWRGYUYybkU1dXZ6R3U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atlas Engineered Products (CVE:AEP) Stock Price Up 12.5% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGlEbHRsOWwwS043RnRDYWZ1TzAwYldBQnJEbmVET2dqQVYyTW50alBNUWRfRXZ2T2FldldaTXJOaHVKaVhXcEJSNWhUb192YXdtMnZsWHBmbDBZSzlmYkpVQjRRbmg1NDE1aUlXRHVxVFhhWHdLS1hqeWVjVEswYVB5NkJaUWJVN0FFOW85Ym5XQ3ZBckZQTWYxeHRJUVIzVmhNQjBGWlRsWGxyTEpR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AEP Closes on Transmission Investment Strategic Partnership with KKR and PSP Investments | AEP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdDBmM3E0aEx2UVZtX1RJRlNJRDhWMHJnOVdCWjVPNW11Mzl4dHBDNmlseXZSU0hleXNBSjN6X2xwNVh2cFEyVFFCTzNvRDIzbDR0a2hOaTdzb1NLdXV5QXJWRHlzZFp6Q0Nwb0piVV9ka1FjbDZmRWc1NGVQekw1MXVJS1VHRk5RYU1DeTczLUNWLTN4aWp4TW55STlQaFlJSW41QmFiOHowVDJWS3czdENOZ1ZVNzZhV1RJRzItNjJ6X2w4MER0S1RubW42VjRUdVhOdUl4RjZMdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Implied Volatility Surging for American Electric Power Company (AEP) Stock Options - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTEszZlpjZURCaFRlUGlIMktqRTFGSFB1YTJHRXN4cExvVUdZOHlYdHBEUUJxTVFRSDlKQ0Itb01VV09scThsWG9qWkEyZDd4MV84QzY1RGtjdGdNeVZMSXpMYTVWbzZ1SWx3MXZYSGFpYnp5dXE5b0JCanlfRk9KZTVCLTBMV3ZwWDFlb3dzZzJaWDBYZEg5Y3NtcElUeEF2UXhKZFNPcERITkM4WTB3d096UUN6U0lIWFpNOGh5TU5HWVZHeXBPYU0xYTlPX1g4R203dWFLei1KRUlVby05OEg1OG9MM0k1d003cHdUSEhCSjNmQk9Kdg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is American Electric Power Company, Inc. (AEP) the Best Large-Cap Value Stock to Buy as the Recession Hits? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa05vbjVtazN1TDQ4b3c3QXViMkdtRy1KM002SjhTeUpJXzdYNWdPbW5veUNmOWU1NzBpSmRHV3dqUEg1LWVubUdGclVJcGxTZFBXNzY1UTlSZGtBMnhVWGFSRGVEWloxSG1VNE9fOEN5TG9KdTRnMmxCWEV0MlFLTjVORHdtOE8t?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KKR & Co. Inc. and Public Sector Pension Investment Board completed the acquisition of 19.9% stake in AEP Ohio Transmission Company, Inc and AEP Indiana Michigan Transmission Company, Inc. from American Electric Power Company, Inc.. - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU1dpRTdyUmc1ZXc1N210Vk5RUU5qVFZBaWlLZndnczFuVHFLNjVwNFA3Tl9xdGNQM0xVaERmSkR0U3ZKc1RyaXNTa3FOQ25Oc1lsODR1MjlyY2RSWkhwd2Nodi1SVWJEcUJOWHNaNExseTNseG1FeGZjVVBTQklhYktjM1hRY2l1YjhGUnBOUmw0S3hraDNzQnVJMmlRLVVHWVdyWm9naE8wWEVCMFRBY2UzZDFuUGttZEFlSmtXYkF4b3RRaVRoM2hfeWhBMlN3dnFyWDZQaEVEek1qM2c3c205SXZNdnZqa0lYODBOeDhSSzhVMFpSbXNEUVdVeGlDUWFj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AEP Declares Quarterly Dividend on Common Stock - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlFoeHdBd2lxd2taZlBCTm1TR19jWlg3emdhZlBSQWpFdUNMVXl6bWtNWWsxMW5mMGtNMDJCSEhhYmJyaVVmcWZUNjBUenBlLS1vSnhfZjk5eTdlQTF6U0dHcE9JNGVGN1VNdm5yeTZNaGU5ZzZGNzRsMnotUy1peFdUc1YtTXI0WFZOZUxmZ0xhMVR1ZGowNEExQUpLdmp4R3kxb3h3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "American Electric Power Stock: Rising Demand Pushes This Power Player Higher - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUR4WUxiUHB6ZFZtTkV0UV85TkVsX1YtY1lnNWNxaVAyTVExUGQ3UXJZaFJUNVhFQnE2YXBvWmJ0ODM2NHJmb09CMGtRSlBMQmJ1YzFCb19sQ2dRNDZfTnFTSnZYTUFVN3FRYXlwLWhEMlpSbU0xNTgyNGNuTndxQ3dDMnlsLTNfa04yQzNIcEw3QmhUbjlnb2lQeTczRGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "American Electric Power Stock Getting Very Oversold - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFhodFZ6UFlfMmJnVnhKMkpycXc1Z09PbnlSTDdSdGdiZlZLTnlxRHJmLUxreXg2LVN2b3NZak8yOTRwQTQ5ZjV1WFhfZ0Y0dThXVlBFTF81NGNZTUNPNTg3V0ZxdVBWeGtwWGFlN0o0WnA5dGJNVEdzWXNrSS1ITDhNUXNiZVVxLWVfS0Fn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is American Electric Power Company (AEP) the Safest Dividend Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdG9zX1lzX0dKZmdxQlNyTngzamZoQTd5ZUZlZUhrUmkxRjV0aklIbzdiY3RPTjkxaXZkZkVLb0JoVk5xaFZoVzJvUnRDQzlpTnZuWXpKN21MN25mWEVQYmZTUXJnczBfcktUU1lkOGNZX0FfRDZmT09JMGVQY1lVVjlYR21UcUVG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AEP Announces Pricing of Common Stock Offering with a Forward Component - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGVPM0k5RFFWMmxiV1BQaGhFbGZVM2g1MHNTTFF1M3I0MUZqTW9BWVE1OWUzVS1GX3lRSTBMbW5XamIyV2JQT0NBVmZER3Q1V3JYTFV0UHYySm1OSzlUMWtNWDhTcl9NVWREOXBvcjBSNWg1TVBpdEhaM2VBRTA0aXFSVTN6QVhEUTl6OHZhSmRpRUJiZHljeWFKZmdjQ0J5cU9ma3AtR2NLOU9tS0lZem5qdGVQNW16Q085eWNBb3VrR0dkeVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Electric Power Stock Sees RS Rating Improve To 72 - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ21wVzBHYVkxZlhlRFRYYjduVHJXX2tYN3RmTlhEVlJtN2tjbm1URjlseXVtTzBfRGZUdHBOZGxtZnVfVy1jb21GeGRiYlh2RUZWdnlGMXpsNlFqQjF2OFVON3BfcVZZa3h5MWdlVjNKaHFsOUs0MWZ0TGxjbVRZQVhYdm9seERVeGZvSVUxaFlFdEtkWVVjNlpZQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AEP Stock Rides on Investments & Renewable Portfolio Expansion - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOVhyY2VvSnBoX1ZfTUNEcHhicENNRkpMUDRiUk5BSUVDUlRjcmE0OW1aalRISWVOWXh4LUxfTDgyNWxiWFNFQ091WHVOQTZFWkZxTWhveWI3QlV4QUprNS1Wa3VFUkRxd09aN2QxY0QzZk5ISTdYQXJ2empvT1FKdHB4b3pvU3diVlJF?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 98.22
-      },
-      {
-        "date": "2024-12-03",
-        "price": 97.02
-      },
-      {
-        "date": "2024-12-04",
-        "price": 96.25
-      },
-      {
-        "date": "2024-12-05",
-        "price": 97.45
-      },
       {
         "date": "2024-12-06",
         "price": 95.85
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 103.15
+        "price": 103.18
+      },
+      {
+        "date": "2025-06-03",
+        "price": 102.83
+      },
+      {
+        "date": "2025-06-04",
+        "price": 101.85
+      },
+      {
+        "date": "2025-06-05",
+        "price": 101.77
       }
     ],
     "current_price_data": {
-      "price": 103.15,
-      "change": -0.34,
-      "percent_change": -0.33
+      "price": 101.77,
+      "change": -0.08,
+      "percent_change": -0.08
     }
-  },
-  "news_sentiment": {
-    "summary": "Les 15 titres d\u2019actualit\u00e9s \u00e9conomiques r\u00e9centes concernant American Electric Power Company (AEP) sont les suivants :\n\n1. AEP Announces Public Offering of Common Stock with a Forward Component - PR Newswire\n2. Is Wall Street Bullish or Bearish on American Electric Power Stock? - Nasdaq\n3. Implied Volatility Surging for American Electric Power Company (AEP) Stock Options - The Globe and Mail\n4. Is American Electric Power Company, Inc. (AEP) the Best Large-Cap Value Stock to Buy as the Recession Hits? - Yahoo Finance\n5. Ohio Commission Approves AEP Project with Key Partners | AEP Stock News -",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

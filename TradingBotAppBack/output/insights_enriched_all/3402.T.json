@@ -2,55 +2,88 @@
   "ticker": "3402.T",
   "name": "Toray Industries",
   "sector": "Consumer Discretionary",
-  "market_cap": 1540558553088.0,
+  "market_cap": 1532820324352.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 20.385166,
-    "PB": 0.91042095,
-    "EV_Revenue": 0.889,
+    "PE": 20.040943,
+    "PB": 0.89578104,
+    "EV_Revenue": 0.877,
     "ROE": 0.047270004,
     "ProfitMargin": 0.0304,
     "GrossMargin": 0.19736,
-    "DividendYield": 2.0
+    "DividendYield": 2.04,
+    "DebtEquity": 46.285,
+    "CurrentRatio": 1.705,
+    "QuickRatio": 0.983,
+    "FreeCashFlow": 82480873472,
+    "OperatingCashFlow": 255032999936,
+    "FCF_Margin": 0.032177863993928496,
+    "ROA": 0.023570001,
+    "PEG": null,
+    "EV_EBITDA": 8.762,
+    "BuybackYield": null,
+    "PriceToFCF": 18.58394873658013
   },
   "technical_indicators": {
-    "RSI_14": 56.43273644455496,
-    "Momentum_10": -0.4302999945457425,
-    "MACD": 14.079354472115938,
-    "BB_Percent": 0.7110535358095618,
+    "RSI_14": 51.328507112968786,
+    "Momentum_10": 0.5443142370878239,
+    "MACD": 10.938716287676698,
+    "BB_Percent": 0.4619809101139246,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8976267716929648,
+    "ValueScore": 0.8948693767996065,
     "QualityScore": 0.3700669510509098,
-    "SignalScore": 0.5870159169889959
+    "SignalScore": 0.5833703110254469
   },
-  "volatility": 0.0259744883336477,
+  "volatility": 0.0259394378802305,
   "beta": 0.451,
-  "return_6m": 0.0423643382451202,
+  "return_6m": 0.027523847905108,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
-    "target_mean_price": 1136.6666
+    "target_mean_price": 1132.5
   },
+  "news_sentiment": {
+    "summary": "Suite à l'analyse des récentes actualités économiques, voici un aperçu des tendances clés pour les investisseurs francophones :\n\n- Toray Industries (TSE:3402) affiche des rendements stables sans croissance significative.\n- Santander enregistre une augmentation de 19% de son bénéfice à 3 402 millions d'euros au T1, avec une hausse de 26% des bénéfices par action, confirmant ses objectifs pour 2025.\n- NHPC voit son bénéfice net chuter de 37% au T2, malgré une augmentation du chiffre d'affaires à 3 402 crores de roupies.\n- Une action de défense enregistre une hausse de 20% suite à la signature d'un protocole d'accord avec Squarespace Builders pour des terrains d'une valeur de 3 402 crores de roupies.\n\nCes nouvelles suggèrent une diversité de performances dans différents secteurs, avec des résultats mitigés pour certaines entreprises mais aussi des opportunités de croissance et de partenariats prometteurs.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "The Returns At Toray Industries (TSE:3402) Aren't Growing - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGF0cUpuNWVXdG5Qc0Z3bTZUUU4xU0xXWGoteVFCZ010WV94b3hqazN2MWxhVDRnSjdrN3NBOGlIdlZocHI1OEJNWUZyNE9UNjVaU1BXbU9uU3pna01kcVR5YlZDNVRhV081WFh1ZVQ3MmRFWmd6UDMxVUp1aVFsOFJrWjFsc0JQa21FcGxvM2hSLWt5X19fanE5YTcxU19RdlprQmpVYjZMazhzcVJXcllZQnlqdWpJT0dKOXYzZndfN1c3OW9KZTV5MC05Z9IB0wFBVV95cUxQMS16ZHpUc0cwWGt6TU5fNWVXTTc2bXNGRHhmcENSVm1wcElkWmVNQzNoc3JqenhlOVRMRGVWZmpjVDMxcEZFVFZWQVhIcVFXaG02NF82R3lxaTVfYlJMSEVUOFh0eUNsSmtldF9uSkd2R2ZMNmk2YnpnRUJPUkVqcEhQVWMtblRZQXBDaGpVYkFEb1lpYzgtR2QzVnhYMkx2aDdiSTVsRnhDUS1hMWk3NTlhN2ViY3FmUDU5c3oyemxFMGJqb251TUd2UE11WmRrTFlF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Santander increases profit by 19% to €3,402 million and earnings per share by 26% in Q1, reaffirms 2025 targets - santander.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmRIcXdaT2E4bHhDVTBVN2l5ajN2RkZuczUzNjJmRlVacnNWYmdjNXFTWUhtMUJpZlpMRndIQjdjZURPUVd1ZUJnU2pnMi1GMWJQRUdzNmRQVVZMRzdvMUZBR0dOQkZ4NjBNMGg4NVplUEZ3bzBMRmdvUUdldkpzMDhXMkRIR1FPdjlxcF9VekVYRHNnSFo5bg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Global Dividend Stocks Yielding Up To 7.3% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMFhzdENaVG9xdXRUYTBLNDVmekxrVU8tMWo0VHlVN3F1MFBfclpQZFFlbnAzeU1uWFNVWmJQVHdwTnZjeGlBUTFub1B3N1IzTXBxbEFlRlZ6RHpId3p6aXFnTjQ3OGljc3ZCWDQtVC1INWF5U2hqWXNNWG5USXFkWTBSNnc1NWI5ZVRkLWt6WVRHSHFaVXUxb3pJMzlHRmlVeFp0ZDZxZEJIRjVBa2E2LTNSSU1JM2FVbEdCTi1IUExtbEVaSjh5UGNTTXd2dkpC0gHWAUFVX3lxTE1CTkYwTE1yeTJpQzdNTXJ3eW5NOGQyYUt5QmRkZzA5aUhmNzA2VW9sVnRycUVUZEZWUm5LaS1YdXlMMjF4TXVmSDJXUlcxT1RsZUNTWk4tbjJCVzI0anhBMzBndk5vUFBrNUFpeFNETzdVVjZCdkRKbTVBcnk2WGRtNUNsR3NKQTNvVUhGQkpsRWN0OUQxQ3J1ZENyYUZrY3VXS2JnUmRFNXozLVlYT2poY0R6SHdHN1AtT0FYNWJ4QmxNUlFxbWNjOUhZNlVSaHh3WXJlSHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NHPC Q2 results: Net profit falls 37%, revenue rises to Rs 3,402 cr - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2FaVGp0M2x4cExGb0JrMkNXNzFGMGFhVlpqVU1HTmlYN180dVNubFJNdDhURGRYMXE4Z3FIWjVjcTJVZkJQdDNoR3EtZEpFZ0UzMV9ocVhuS183LTdQLW1JSElZTWl5RzBkUUl0cEJ2ajNVTHN0R0NGYkloakJUODVfejJWR2lFcWhqb1N5TzJXeGM1cGhiRzZQWnBibTQxNF9weUlfOGFVZ3lWbTNSTUlXTW1aMzVSUkdKREpMM2k4UTZpbEdkcVJoaVVDTU9WN3fSAdcBQVVfeXFMTWZMcnZYel9ZbEg3S190Q1lxR2N1QzVFQWI4aVh4RHJkU3daY3hUYWVCa2c1bGNSSlVfNDhlbklfM1R2eHdPajdMUndDcDExNjVYeVlfV1ZkeFBqdHhpSG9vNnI4SzJXUEJBQXF4SXVuRTNKZ0NnRWJ3bXJOY0NOV0pOd3JEMlNhaGJiZld3QVJYeTY0TVB4U28zWE5QeDI3OXVLRlVTN2Z2TU5taVQxbVFaakJRN2ZvT2JDSkRtZTNQN2lfc2xHN19CX2s1RlpYakp1dTBqSTg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Defence stock jumps 20% after it signed an MoU with Squarespace Builders for land worth ₹ 3,402 Cr - Trade Brains",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNTVPZmREM2Q5dUhDVXcySDBDbVl4TXN5bnN3NEpySzdKREFJcnJvaTVfeHFTNUxvS2l3RGhfd19aa002TFlydzFjaFlmYnpJUF9hMldjRmxiV2RNc00xTEJlS2hSZEN2OHB6RGRrVXpGR0FnSEtnVE52V2hQeHhVUXVycjdIVklzYmFVUF9BTTBVdVRqZzFqdFAxdUxsZnBPcld5YUs5OGJ3UmI3TTUyWHNRYk1YUVNrWV81eHZLcWRoWXgxOXc?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 962.7
-      },
-      {
-        "date": "2024-12-03",
-        "price": 972.1
-      },
-      {
-        "date": "2024-12-04",
-        "price": 976.8
-      },
-      {
-        "date": "2024-12-05",
-        "price": 960.9
-      },
       {
         "date": "2024-12-06",
         "price": 957.0
@@ -514,24 +547,28 @@
       {
         "date": "2025-06-02",
         "price": 995.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 989.8
+      },
+      {
+        "date": "2025-06-04",
+        "price": 990.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 979.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 980.3
       }
     ],
     "current_price_data": {
-      "price": 995.0,
-      "change": -3.1,
-      "percent_change": -0.31
+      "price": 980.7,
+      "change": 1.7,
+      "percent_change": 0.17
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\n* Santander a annonc\u00e9 un r\u00e9sultat d'exploitation positif en Q1, avec une hausse de 19% du profit et 26% des revenus.\n* Toray Industries a connu une stagnation des retours en Q1.\n* Armis Advisers LLC a acquisit 3,402 shares de MetLife, Inc.\n* NHPC a connu un r\u00e9sultat net de 37% pour la p\u00e9riode Q2, malgr\u00e9 une hausse de 14% des revenus.\n* L'entreprise d\u00e9fense NHPC a sign\u00e9 un MoU pour une valeur de terrain de 3",
-    "sentiment_score": 0.167,
-    "label": "POSITIVE",
-    "positive_ratio": 0.33,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.17,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

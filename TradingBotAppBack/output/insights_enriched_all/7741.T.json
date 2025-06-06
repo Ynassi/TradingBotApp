@@ -2,55 +2,68 @@
   "ticker": "7741.T",
   "name": "Hoya Corporation",
   "sector": "Industrials",
-  "market_cap": 5866311385088.0,
+  "market_cap": 5640083210240.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 28.818193,
-    "PB": 5.890834,
-    "EV_Revenue": 6.21,
+    "PE": 27.666622,
+    "PB": 5.821842,
+    "EV_Revenue": 5.949,
     "ROE": 0.20865,
     "ProfitMargin": 0.23246999,
     "GrossMargin": 0.85751,
-    "DividendYield": 0.93
+    "DividendYield": 0.96,
+    "DebtEquity": 3.837,
+    "CurrentRatio": 4.901,
+    "QuickRatio": 3.986,
+    "FreeCashFlow": 153138003968,
+    "OperatingCashFlow": 235113005056,
+    "FCF_Margin": 0.17614744579096872,
+    "ROA": 0.21007,
+    "PEG": null,
+    "EV_EBITDA": 11.284,
+    "BuybackYield": null,
+    "PriceToFCF": 36.8300687229707
   },
   "technical_indicators": {
-    "RSI_14": 39.91799179767191,
-    "Momentum_10": -7.293986636971046,
-    "MACD": 114.45626909205748,
-    "BB_Percent": -0.294939192292026,
+    "RSI_14": 37.7709553533706,
+    "Momentum_10": -6.212596181248219,
+    "MACD": -82.54803875063953,
+    "BB_Percent": -0.0176685372985771,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8779876768391458,
+    "ValueScore": 0.8759488934706553,
     "QualityScore": 0.4899339911187387,
-    "SignalScore": 0.7004051128624456
+    "SignalScore": 0.7140855767504193
   },
-  "volatility": 0.0201693456982281,
+  "volatility": 0.0199950833407801,
   "beta": 0.608,
-  "return_6m": -0.1416688423312881,
+  "return_6m": -0.1768071318837448,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
     "target_mean_price": 21818.75
   },
+  "news_sentiment": {
+    "summary": "L'entreprise HOYA (TSE:7741) a récemment suscité l'intérêt des investisseurs, incitant certains à l'ajouter à leur liste de surveillance. Cette attention accrue peut être liée à des développements importants au sein de la société ou du secteur. Il est recommandé aux investisseurs de suivre de près les prochaines annonces et performances de HOYA pour évaluer son potentiel d'investissement à court et moyen terme.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Should You Be Adding HOYA (TSE:7741) To Your Watchlist Today? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGFISVdoeU9McXNiMkJHeEE5SkdKSG1wY0l4SXFsbFBmLS1QOWFKbmExaGdiUHYxZjZZRFFtUjRlX2YzMHhJX1pfSzk4dmtwWmFtTlE3ZVJoZG9SVWcxOGxmR2VMTXQtMDBqWlE3R0hxMHZWTEt4bXQ0SS01N2trUVItaGtGWEU5N09VVHBwMmVtQ0ZhdEJVc3BORVVFdm5xYnZSVkxqX1B5eFZjNW5wR3E2VllhcjBCLTJzRzJTRE1qREI4R0tn0gHMAUFVX3lxTE52S3lNRUhPY1pyTllYTDF1d0FXLWx5cl9xdXgwTW15bExYV0tWSGJvamI3cHZzZjYwWWJLb0RlV2hTMlhleGN2azdzamdaTkkwMTNiOEN3YTRlTFdyZWNBTERyY0dPM3BqRkRsMldWcGluaC1QMnFod0xhNzN6YXJlV240RWtMcjFNd0RXdEN3YVhCTGV5X1pPRVF1VDVDT3dqN0dhRy1fZlhHSWZXX00yQkVOR0V2ejBMUVlGTWdmakFDemZxRFhXTGNyMw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 19525.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 20035.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 19885.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 20120.0
-      },
       {
         "date": "2024-12-06",
         "price": 20285.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 16650.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 16625.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 16660.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 16455.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 16335.0
       }
     ],
     "current_price_data": {
-      "price": 16650.0,
-      "change": -465.0,
-      "percent_change": -2.72
+      "price": 16335.0,
+      "change": -120.0,
+      "percent_change": -0.73
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent HOYA Corporation, une entreprise cot\u00e9e sur le march\u00e9 canadien. L'entreprise a connu une baisse de 4,7% r\u00e9cente, ajoutant \u00e0 ses pertes sur une ann\u00e9e. Des analystes ont \u00e9valu\u00e9 les r\u00e9sultats financiers complets de l'entreprise. Il est recommand\u00e9 de ajouter HOYA \u00e0 la liste d'observation.",
-    "sentiment_score": -0.333,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.33,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

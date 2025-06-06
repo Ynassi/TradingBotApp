@@ -2,55 +2,78 @@
   "ticker": "5019.T",
   "name": "Idemitsu Kosan",
   "sector": "Energy",
-  "market_cap": 1058578825216.0,
+  "market_cap": 1069472874496.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.104832,
-    "PB": 0.6153198,
-    "EV_Revenue": 0.231,
+    "PE": 11.073722,
+    "PB": 0.61375374,
+    "EV_Revenue": 0.229,
     "ROE": 0.05747,
     "ProfitMargin": 0.01132,
     "GrossMargin": 0.07502,
-    "DividendYield": 4.08
+    "DividendYield": 4.18,
+    "DebtEquity": 68.848,
+    "CurrentRatio": 1.263,
+    "QuickRatio": 0.609,
+    "FreeCashFlow": 301983989760,
+    "OperatingCashFlow": 476741992448,
+    "FCF_Margin": 0.03285925796869684,
+    "ROA": 0.02071,
+    "PEG": null,
+    "EV_EBITDA": 7.872,
+    "BuybackYield": null,
+    "PriceToFCF": 3.541488657547565
   },
   "technical_indicators": {
-    "RSI_14": 45.52513851134475,
-    "Momentum_10": 2.356426810427768,
-    "MACD": -13.61548281304431,
-    "BB_Percent": 0.4115284552378843,
+    "RSI_14": 45.31139864342446,
+    "Momentum_10": 1.328004168380419,
+    "MACD": -10.218195240535806,
+    "BB_Percent": 0.4285452006341539,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.901159407439309,
+    "ValueScore": 0.8983092821330236,
     "QualityScore": 0.3588490611537989,
-    "SignalScore": 0.6287381882808223
+    "SignalScore": 0.6109445373978879
   },
-  "volatility": 0.0205389813508491,
+  "volatility": 0.0205758327511219,
   "beta": 0.333,
-  "return_6m": -0.1394723500108885,
+  "return_6m": -0.1390913507668185,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 7,
     "target_mean_price": 1107.1428
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Idemitsu Kosan Ltd (TSE:5019) suscite un certain optimisme concernant ses résultats financiers, avec une révision à la hausse de ses prévisions de bénéfices. Cette décision s'accompagne d'une division des actions, ce qui pourrait attirer les investisseurs. Par ailleurs, l'intérêt du Japon pour l'achat de pétrole russe provenant de Sakhaline-2 afin de sécuriser son approvisionnement en gaz naturel liquéfié (GNL) pourrait avoir un impact sur les activités de la société.",
+    "sentiment_score": 0.333,
+    "label": "POSITIVE",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Some May Be Optimistic About Idemitsu KosanLtd's (TSE:5019) Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcXE0R0ZndlFMa2RwcnM5cWNTMmVFcUJIZHF3YzI2eVJjdS1OdE5sYmhJNF9xZy0wV2ZuMGhNNU9kZTUtVjU4RDJncjVaT2JNNDVYUkNwbnJZRTFlbVN6NlFSaWMzUEtpbmtjXzk0aDMwbDNyN3dYQjUzdUJZdHVhLWVBcmx1N19yUFpkb08zbDlkZEdhLUY3NVdXRVVuckIyWGEyZjV4b2paVlBNdVRQMHVoUVBQUFRjdW5qLWdCNkFELS1ZUVUwZnYxbkZKTjZMVzVlbdIB2gFBVV95cUxNNnFlWU9EREpyY013LTFndGVmVkpMSDNvdE9RSEVneGtrMXNTVlRZVy1tdW5ZVExhcmlrTVdKVzBzbFdfUkhQRnhqY3dFOTdObUY5N1FfV2dCYTNaVTJoMTVYcGJvcWpHaVJTZlZwMVFNcXY3YlMtYllrbjg0cEpyT2Q2VndZbHNVQnZuY2JMMkpWQmhjZl9SMGowVDZFLUdVeFh0OW9fNE1JT3Z4LThyaGRvM1pBQ05vSy05ODdlUmw5d2ZYb2RzOXdVcDNCdkNKVEVMZm5vMnc0QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Japan's Idemitsu ups profit forecast, to split shares - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWw4cjB5aVA1MWNpV0ZLSHEyNWZkYUltOExPWjdrR25TS1ZXcERHYlIxNHZ3QmF2N09oYUx6b3d2YUVyOWg3SmRaNHlvWUtsbWhBZ0dmZjZrdlFhYTJOcU5xM1oyQ3BfdHV2N1UyWFAteEczemQxUFhfQ0d1NFZwZWtLVUl1VzJVSG9pZHpEY1REdU1rS0RmRnAtMkUzVHZSdTJmSzlqTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan May Buy Russian Oil from Sakhalin-2 to Secure LNG Supply -PAJ Head - Offshore Engineer Magazine",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGpkNnJiQUN5YmhkYkZLTjBWUHhXZW92TW9ZNUFHNG5oRmlQMVNiMGhjVWItZi1PQlJMblFOVU1EUXRlYVVnRS1WZGFuMWl0eUxUeThTbjRFVV85Y2dhaVhiMUUxM3h6Y1BoUkp4d01aWkZOY0RBemhUeFRHY1NLajM3S2JiQXBpZ1JHMVBqUWRZM2N3OEwtWlk2VEZYbkU3Z3BIa3U5d0EwSUhNRlE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1004.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 999.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1003.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1001.5
-      },
       {
         "date": "2024-12-06",
         "price": 1010.5
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 864.4
+      },
+      {
+        "date": "2025-06-03",
+        "price": 867.1
+      },
+      {
+        "date": "2025-06-04",
+        "price": 873.3
+      },
+      {
+        "date": "2025-06-05",
+        "price": 862.2
+      },
+      {
+        "date": "2025-06-06",
+        "price": 858.0
       }
     ],
     "current_price_data": {
-      "price": 864.4,
-      "change": -17.1,
-      "percent_change": -1.94
+      "price": 858.0,
+      "change": -4.2,
+      "percent_change": -0.49
     }
-  },
-  "news_sentiment": {
-    "summary": "Idemitsu Kosan Ltd., a Japanese oil refiner and retailer, has recently reported a positive earnings outlook and plans to build a lithium sulphide plant to support Toyota's electric vehicle plans. Additionally, Japan is considering purchasing Russian oil from the Sakhalin-2 project to ensure a stable supply of liquefied natural gas. These developments signal a positive outlook for the company's future prospects and its role in the global energy market.",
-    "sentiment_score": 0.5,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

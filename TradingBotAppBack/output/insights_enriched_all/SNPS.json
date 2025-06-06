@@ -2,55 +2,163 @@
   "ticker": "SNPS",
   "name": "Synopsys",
   "sector": "Information Technology",
-  "market_cap": 71977631744.0,
+  "market_cap": 75081629696.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 53.75319,
-    "PB": 7.2582617,
-    "EV_Revenue": 11.006,
+    "PE": 55.87702,
+    "PB": 7.57127,
+    "EV_Revenue": 11.235,
     "ROE": 0.15551,
     "ProfitMargin": 0.3477,
     "GrossMargin": 0.81412005,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 108.337,
+    "CurrentRatio": 7.015,
+    "QuickRatio": 6.718,
+    "FreeCashFlow": 1938772352,
+    "OperatingCashFlow": 1226139008,
+    "FCF_Margin": 0.31163379614267395,
+    "ROA": 0.04671,
+    "PEG": null,
+    "EV_EBITDA": 47.489,
+    "BuybackYield": null,
+    "PriceToFCF": 38.59072657541178
   },
   "technical_indicators": {
-    "RSI_14": 44.14360682039965,
-    "Momentum_10": -9.754484262236067,
-    "MACD": 3.6410523786062754,
-    "BB_Percent": 0.1577940595779114,
+    "RSI_14": 52.40440399447272,
+    "Momentum_10": -3.701192094056899,
+    "MACD": 1.6993282925790254,
+    "BB_Percent": 0.386319232061228,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8590889993030746,
+    "ValueScore": 0.8548047672018622,
     "QualityScore": 0.4261994952183809,
-    "SignalScore": 0.7137895614329002
+    "SignalScore": 0.6098311595968631
   },
-  "volatility": 0.0282216433813612,
+  "volatility": 0.0258902604402292,
   "beta": 1.11,
-  "return_6m": -0.1803049482231665,
+  "return_6m": -0.0609268379987897,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 23,
-    "target_mean_price": 592.77655
+    "target_mean_price": 589.95044
   },
+  "news_sentiment": {
+    "summary": "Synthèse : Synopsys, Inc. (SNPS) attire l'attention des investisseurs avec des partenariats innovants dans la conception de puces AI. Cependant, l'arrêt des prévisions financières suite aux nouvelles restrictions d'exportation vers la Chine pourrait susciter des inquiétudes. Malgré une baisse récente de 7%, des fonds importants ont été ouverts sur SNPS, signalant un intérêt soutenu. Les actions de sociétés de logiciels de puce ont chuté après que Trump ait ordonné l'arrêt des ventes en Chine, affectant potentiellement le secteur.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Synopsys, Inc. (SNPS) is Attracting Investor Attention: Here is What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0hIY04zR3llN3h3SlFXUjdOS0ZYVHFscS03WTJiaFFtSkNoUnhJSU9UOWlKNDNZVFk4MTViTHBsWGdSZkp0SlBHTjRfN2FZYnVFSmVTZHVoSkVDNEVaS1lCQ0F4c1pOQ0VsZXhXYWtpLUhlVVZfdjZYR183MGxlaHhIQ2R5czd5S01aS2hneTE0UV9QMUd1NDFOMEFKeXpfNVlFSGxOcGxBcjQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AI Innovation in RF Design Migration: Synopsys (NasdaqGS:SNPS) Partners with Keysight Technologies - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjBtVy1IRVVBWDUwWEl2MWV3a3ptNlE4c05YYlFuMXNHTkVmRXZsbjNjc1NUM2xua3FNN3RfREJ3blRDMWZJYVNydHhKZGFQUDRmU3ZrRFJIdUJlRXkzaF9wMGpTajFxNk5Ba3BQYS1Tb2pwN2ZocXpMRU1SSVBnNTdfNlRyUG1tTHBwamtpR2F2V296SWxFY1UxTHNSUHJteUZxSlVEMDhrM2w4dWFlNXpCLUFwNlJtVllBSDFURVB1MWR4VEHSAcsBQVVfeXFMTk1KeThvZmpuLUo5eU8ycWRnYjFuT0JtTXN3UnQ1Q0VCeVVjNjVvMC10MzlybDhLU3lqWGNrbHhhWUh3N3V0eVlENG5HZVpaSEZ5Q2I2R2Q3NFZkT1VLdmtOZm5qYmJscjdMbmhkSXpqS1M0VjU1dVlVWVhuYk1LeVRBOTgyTGZfMFdBOVJkMmRtYmpldC04TWxxWXhlY005YW1MeTE2cWROWncwVVBJMnZHOFFoNWM0dTNPRlA2Umt1TURxcjE1cFA0OU0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Earnings Live: High Expectations For Synopsys (SNPS) - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXZYVzBQQjRTaEZqd3h6ZTdEQUIwczM0RFZYRTQ0OWpDM01maVJ1SXdMaWttLTVHYkJBWjJhOTlxWTZTT3JIaXlwVHhLam5VNG8zczVnZHZjekV5YlFFY1pER0d0aVJVMU9zTHZkTGZaUE9GV0ZodUxMd0Z6Slc4MQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Synopsys Halts Financial Guidance as US Government Imposes Fresh China Export Controls - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkN4NWZTR2FsOVByajBsakVoWE8tZUszVlA5bVQ2bHBiamw5TjU0cXdYWGQ5XzZFd2pYN1dGV3NSNy0wQnRCMTVFXzQyZWNwZjlZRm1EbDVPbGZQcVVRMmo1TUZRZDZudi1RMVZESmxoWmd2U0JjbUNneFcwZlIwTm8zWXIxYXVaVlpYTnFYZDhaeXFFaC1TOTV1UGJpQUswS0M0YVFB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Synopsys (SNPS): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZUmxoWWowQ2JibjJ2SVF5QmRTSnZkandRa3VxVGx6OXU5OV9TT1duRjFBYkVGVHAwZjJLMnpaX0FFNHNHaXdiQ3NoS1RRQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Synopsys Stock Underperforming the Nasdaq? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUC1ESXFOZHVRU1pfX0c3ZmxLMk1YNGhndFBxWUJrSi1xWGpKSUx4WnU4cjQwb2RVdU5EdERrb3EzdDQzV0U5bzM4VzN2aUZaSkw2RDJEcW9Lb0pVNGZQemFiRmF4eWNRR1RrNkV6T0l3Y0tGOVAyZFNBUER0T2dyUldPWnh4SEpSRlVvU3lBcTRwdlBUb0c0X0pPdjlFZEk1LVpvQS1XZXpGdE9MYnZjRnhzcldaa0FIYjE5RWJ4RGZCZEVocGw2Z2syU1Y?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "KeyBanc Adjusts Synopsys (SNPS) Price Target Amid Export Concerns | SNPS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORmJKRzd5M0k2Vi1YWDJuNDJfSzdzLTVkTkw3TnFORW9oWFhEV2M2X3ZncDQ2dno2UjhZM2ZFQUxtOFg4aDNOV2ZUVlQwdGZuZ0FKc0JGRnhtY3NfS21haE1UMHRSdzlOR1Y4c1F5WWxwRC1keTlDaFpybVJ4LUJldHM3UnNMSWRrN1JKTmZaaUxjZDlWRzI5bkdrYXpLcmplV285Z0hiTkFSVGdOdmtzZHJXbFhvRFFFWnc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Chip Software Stocks Tumble on Report Trump Orders They Stop Selling to China - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNU01ZWhYcktMc0RiRVg4cW14X2owVElNNDF3cUhOT2NIcV9FYktZTDRlM0lzSlBFRTQwQUJYdEhNQWl4dE04NWlwc1hnNTZoWThHaWEtMXpPNHZGLVV3SUNodU0yMU1QdkhkZ21RZXVWbUlJTFZWNExVcVloZE5FLXUzWXo5Z1NWNkFJMHBNQlRHTHJfZzJXYmM0cXVqbkJPMHZ3WE91ZnpTMEZ2ZlFR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Chip software stocks sink on report Trump ordered halt to China sales - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGcHhyUnpQWVg3UjU4RmE1Z1FHdEYtTFVnUzk2UGxwV1BKMXFYZTQzTXR3MnNWM282NlowOTE1YUlJbjJaRVkzYWJBVHFRS1FnN0pNa1JqbGFwODR4OW5rbFNKOE9SdGptOTZnNnBQTdIBdEFVX3lxTE9CWl9GbmJSTEp2N2dmLUwtcElqWFRBLXBuclF0eE54VXJ1SHJyeDBJdkJHTVJpd1BOUnA2WE9iN2ZiRzdua2ZWOEwwb0t6N2N3bXhaMmd3M3lRaUs3dy1wcU9QRzlaYndEcG5Gc25uLWFxU0xP?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Synopsys' AI Chip Design Tools See Increased Adoption: Should You Buy or Sell SNPS Stock? - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnB2OUFfNlo2UUg5SkhnSzc1YTdnQ1YwQ184Z1FnQmJrcHcxa2gzYnRzbmxEd3M0WGM1Rlh5MF94QjBFRjR5eUJwS3NhYllLZG9WbVM2OWJSdi1wSWFpMkF2UDRCQjlLbzlHQkM0MVZJbnYwazVfczgyZUVMeFpPTzIxRjlsMXBVWlBYR3MyQVVBaF9NMm5BZE1HTjhVZ1YxZUFEWDZpLWE1ZjJUb1Bhd1ZKZkxDS1pYbERPUnlkbjTSAcYBQVVfeXFMTWZTQzlpcUNqQUlCYndZdTZ4Z2k0SlJMbmhGcmkzTGpJX0tnMm1mQ1dXaEdOLWkwMmY5bVNZWVV5RmRZcGVQOVZhTG1XQlFLZEd0SDhhY1h0TVM3ajlIalJJSl9wV2NjWWFKSkZ1Nm1LdXluYUIzNV9NQnhyM3lvbGZZcHFzbUVkWDRFX0w2LXREdlc0TThZOWx5R2ozRWhzbWFnX2otLUw5TlBURXV1UWs5eFdSYWdmLWV4VjZRdnVGZXI2Tmd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Synopsis Stock Fell Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONEhMXzFWdkJ1NVhfVnRnWk1WWWJMVlByS3FUM1NSUFAzYTNfTF9tSjYzSHd2T2s1cVp0clZWcTV5bE1kVFloTnBrb2dBcVdqanJvOEdyYUxvMXNrUW1qcTl3akwxTHY1M29XQnlvbGt2WU9RZVNQdWkwaEF6dWxVMA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Synopsys Stock Underperforming the Nasdaq? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5zNDlaZVZJMG0xQUpCYUlDcnRSdml5eWtfT3hIMUdWU2tobHBiYmtZZnYxd3p2THpHdVo0M2c2SlY0WTNRZzF1Q2xXR2FPYjg3c0R5V1hrZ2tpSm9IcGhoMVFzVjQ4SC12cXR1YnNuT3FVaXR4QjVFZVJuOXNiLVpsSl9QS2ZkTnBtYWNUaTlucURSZlFYVU1rYzhwTm9WZVI2LU8xZFBaS250R1Rqa3lCWTRuMTBSX2Rxc3ZnOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Synopsys and Intel Break Semiconductor Barriers with Groundbreaking Angstrom-Scale Chip Design - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2pNc2ZSTEtFaEowX2ZkdnQ1cHZCa2hBdWVTYTVNLXU0bjNRbzU3S0JYamdBVkM0Q0lkTE16YU1RLXl2X1h1X0ZyNW1icTVBWC1mbTZFMnNJWS1ZSDB6LWNtcVdEUERmbWt5Q1VmaV9jZ2MwMmw0RGJxZGp6Yml1UzlISWFsMlpLSU1FSDVFTS1ZaTBtLURmZk13RWFkVVJGTU84M1J4SEhXVTRJRVNaanFnbWdpanBsYzQ0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should You Hold on to SNPS Stock Despite its 7% Dip in a Month? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUHREY3J2YVFDOE9DQXlXX1VYcXRtOWtodC0yR2NDZU1YMlR0NHA2aWhfM2JkQmRLaU9qVjFpRlZ3cXRyN2Z6UnRhcmdmQ3FPSzVPMGtPRUNPUWotNEh6cFlRQmxQemF0VXQwN01STG1XQWRQT2RLcmxydDNvMTEwbTljRjc1MGw1NFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Synopsys (SNPS) Stock Moves -0.08%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Id1Rnc0R2YllVLWRvWWNMd2kyT1hjS3ZwRmp0bWxXeTV5eXlObklMVFBoLW0zOWlVbTBZYXdIem9TVDZXT0ZrZjE4eWFoXzFDQjJaeDNlY0FaejIwMWtYQUU4VmhHeVJmZWxhM3I4OEdzOVVmWmNWZVVCcE1WQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fund Update: PARTNERS CAPITAL INVESTMENT GROUP, LLP opened a $37.9M position in $SNPS stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGhQM2JRZ1psa2lJSmxsOTNuTE5zd0dGLUV0RXd2RWUyRkFaZDduR3gtYk80eGVHT3JONEh5d2FFRlhGYVM1c3Jldk9samg0amU0dWt0WDl4OFNaOEJ2MmlxaktVQXc5dWRYNEtlRVkwTmhnSG9YakRSQ1NyckRiTkdzYWtOeW0wQWp6UnhoQVFTMVgxT0dsX0hQeWZFZE9Iejk1cGsxR1dZeS1BWVRObGNhOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Synopsys (SNPS) Exceeds Market Returns: Some Facts to Consider - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObW9HWS1malNLQ1Y0MXJNOE8yc1p1STRuY0JlZzgxV3JvVnMwM0dsVVhtc2I0YXpZRXJRMV9sbjNmM1dWaG1QTVZnbkNQU0pUZGtHODhha3Azci1kTEtTMWQxb3VPYVpfQ2VpU3NBZE1qVjVCam5PRmxDSlpCcUloNzJvSzFKU3Z6Wmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here is What to Know Beyond Why Synopsys, Inc. (SNPS) is a Trending Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FS1lzdlFUdEZiemt2S0huUWxmR0NmQjVLWi1jU2hDWGUzVzh3T04zUXVYQUpvcVB2LXdCUjNPWXAtY2Rrc0tNZ19PekxjalEwVXZ3R2l4R2NNYmR5OWl1WHhJTURGMEZ4MXpQQlhlc2llZTVqMEIxRTJYWGc3UU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$SNPS stock is up 2% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzR4NENrRW9PZkFKanZJMUxNVWg4dFo4eHhqbTlKX0dUTVhjTVZtb1RUT2M3QkJxWkNLRTJKTHNOemNqajhwaG9KNXVnTHBUOWpQRW5icDcwYmttNnNPUGozdWpac3UyRVlVNEJZcFZWRHB1TlF3UmxHLUhveXpqNVliZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Analysts Offer Insights on Technology Companies: Nvidia (NVDA), BYD Electronic (International) Co (OtherBYDIF) and Synopsys (SNPS) - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOenBoX0F1cXFDNUtXY1U3ZUp2UE9lRWRnMWlrcjRyZUdzcjgzMHcxRDRya1U4eFVfVVlvajJ5Qkd2eFVHTy1UMlYwQVNZSjNMV2NheWNFd3d5U0E1UFp0d19OZDFrMWZ1RkhrYThfblhjTnpHUlM4X1VyYl9pU1lsR2VOZ3ZNbkRHX2VPbjU2M29tdDhLWUpmdl85UHp2ME5ITGt1cDcwS3pyVkRrOFpsaGNvMFZMYnloWFVoOGNsNmFiSDhwYk5EZTJqVkV5X09YMWpYQWZYYWhLLTRRWEQ4STJ0UVAwVUNIMzlOd2d6Q3lVRDFMU3g2ajFBRklWQUFEZ3pkTGhJdldMV3FsVmppNmdNM0c1amlrYmRuV1B6c3VMb0x2N0JIZ2pfdFB1NDA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 565.93
-      },
-      {
-        "date": "2024-12-03",
-        "price": 570.19
-      },
-      {
-        "date": "2024-12-04",
-        "price": 588.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 515.29
-      },
       {
         "date": "2024-12-06",
         "price": 517.28
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 464.57
+        "price": 466.15
+      },
+      {
+        "date": "2025-06-03",
+        "price": 466.26
+      },
+      {
+        "date": "2025-06-04",
+        "price": 473.19
+      },
+      {
+        "date": "2025-06-05",
+        "price": 482.2
       }
     ],
     "current_price_data": {
-      "price": 464.57,
-      "change": 0.59,
-      "percent_change": 0.13
+      "price": 482.2,
+      "change": 9.01,
+      "percent_change": 1.9
     }
-  },
-  "news_sentiment": {
-    "summary": "Synopsis Stock Price and Chart \u2014 NASDAQ:SNPS - TradingView:\nThe stock price of Synopsys (SNPS) has been affected by the ongoing US-China trade tensions and fresh export controls. The company's financial guidance has been halted due to these challenges.\n\nWhy Synopsis Stock Fell Today - Yahoo Finance:\nThe stock price of Synopsys (SNPS) fell today due to a report that President Trump had ordered the company to stop selling to China. This news has caused uncertainty in the market and may impact Synopsys' future sales.\n\nChip Software Stocks Tumble on Report Trump Orders They Stop Selling to China - Investopedia:\nThe news that President Trump had ordered chip",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.2,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

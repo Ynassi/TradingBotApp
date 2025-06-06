@@ -2,55 +2,163 @@
   "ticker": "CBRE",
   "name": "CBRE Group",
   "sector": "Real Estate",
-  "market_cap": 37117054976.0,
+  "market_cap": 38179794944.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 37.960365,
-    "PB": 4.436803,
-    "EV_Revenue": 1.227,
+    "PE": 39.166664,
+    "PB": 4.5638385,
+    "EV_Revenue": 1.246,
     "ROE": 0.11921,
     "ProfitMargin": 0.02735,
     "GrossMargin": 0.19610001,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 100.422,
+    "CurrentRatio": 0.997,
+    "QuickRatio": 0.796,
+    "FreeCashFlow": 1163250048,
+    "OperatingCashFlow": 1654000000,
+    "FCF_Margin": 0.031659953942018114,
+    "ROA": 0.038900003,
+    "PEG": null,
+    "EV_EBITDA": 20.299,
+    "BuybackYield": null,
+    "PriceToFCF": 32.71018105300779
   },
   "technical_indicators": {
-    "RSI_14": 48.692438723919295,
-    "Momentum_10": -5.409925319931971,
-    "MACD": -0.2150067451059527,
-    "BB_Percent": 0.3777698589837253,
+    "RSI_14": 55.72930772880004,
+    "Momentum_10": 5.6920634541910955,
+    "MACD": 0.2275524987548465,
+    "BB_Percent": 0.5864754545063864,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8923128531374245,
+    "ValueScore": 0.8891981183788699,
     "QualityScore": 0.2829658642080267,
-    "SignalScore": 0.6621899259772783
+    "SignalScore": 0.527526376763229
   },
-  "volatility": 0.0215635917027086,
+  "volatility": 0.0216141602081949,
   "beta": 1.29,
-  "return_6m": -0.1002962447766019,
+  "return_6m": -0.0611713922644134,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
     "target_mean_price": 143.0
   },
+  "news_sentiment": {
+    "summary": "CBRE Group, Inc. (NYSE: CBRE) a récemment annoncé plusieurs initiatives stratégiques positives, notamment l'expansion de son programme de rachat d'actions à 5 milliards de dollars et l'émission réussie de 1,1 milliard de dollars de titres senior. Les analystes de Wall Street ont augmenté leur objectif de prix sur CBRE à 143 $, tandis que le cours de l'action a atteint un niveau record de 142 $. Cependant, certains signaux mixtes, comme la difficulté de fixer le prix des actifs immobiliers de bureau, pourraient influencer le sentiment de marché à l'égard de CBRE.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Real Estate Services Stocks Q1 Highlights: CBRE (NYSE:CBRE) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGpKSEVyalpPYU1vNjdnX1RkdHZYSkhjZV9yRUVYbnNvYkk1bVlqb0VDV2JVeGU5OUJPU08zVFhFTEVnSXByaWFoQzFMaUJCRUpPMWNEb09DN1FtbVVXcUFJc3J0YlBKY0J2MVB3VjJYeVhGbXpOdnBiNWE5eEp3enZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Are Wall Street Analysts' Target Price for CBRE Group Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFd4ODNPd3JFMXczSmVZSDZ5TGEtR1RnTkczb1M1SUhSRndlbTd2MWJBMkhQeFlfZFJ3Qjk0WFk0VGRiM3hUSmE3bUxCWEhFdkJzbURCdzQzTk9KYnREQkQxRTY3Nm1qSnhENW5rckg4dUlFQWM2M0ZkM09RVFQ5LXpBc1lBNTV0cjlDNzdiYVFrSFlfemc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What You Can Learn From CBRE Group, Inc.'s (NYSE:CBRE) P/E - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQM3FhdThJOExEdFVWWGpJelBsWW8taFJkWlBDdDBPZ2I4N242RnZEZVhnLWNDZ1JnZVN4VEJZSFFIcFRkcEJJX0s5WU43YnlmWVVWM0lEVGJCZ0Q0TllmdXpPVzFBTktJVzZERHFQbzFWMm45U0RxMTN3SE9FZGJHT2NlVmNXVHE2MWRHYW9WOGp0WG1LaVFSbHg1SS1qNUZKS0ZlRk9abU5HOVFPbUsySGVuXzR0eFNwQkFiUTltNzdBUjQ5V3hIM1pTM1d2dWZkMXdYRE5EM2dVelgyYWg5MFZmSmTSAeoBQVVfeXFMT3J2U3VubWttVkl5VkV2NU1teV9FQ29QbEhiYmtfTnFONlhZdDlYb3hsVzNBV3Fhd0RNeUZQU3lQMHJRRVM3c1pvcGUyRlZKTFBMeFJTMkJkaHMteG5Cb1NvcldZdjBUZkpON19iMFpxcG5qeFlXMWc2eXctcmZQS2ZvcVU4YVdic0ZVSUQxTGJRTlJJLW5QZ2VmUzJhTFVydXlxdkdEUURhSG5jUDJNRU5ReUo4M2M5aFBDbGxHbTdVdjJMVFc2czlLaGZSN3VEUmxFR1RJQTBaNjVyY3YwOW9jNmV4OTFQdUlB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CBRE Announces Expanded $5 Billion Stock Repurchase Authorization - CBRE",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV21sQk5HalFDSUVFclA1Mml3VDRhcEc4T0hVclR3MmdWWXM1S2NLRW1ocHFkWnVxVjhwYW4zNnlpcGZlSDVDZUtBbk0wVXl1N2o1dHlTQ1d2RHN1dHZRb0hoemc4VlR1UHlqRHBzbGk0SXU1MXNpbGswVTMzbVBpUGdJQ0RReEdpRXp5eXNCUHNMWkpJNV9pd2ZlUU9PZGsyd0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CBRE Group Issues $1.1 Billion in Senior Notes - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVldwSjN2VWw4ckZ6V0Z5NWRiRmw5MGI0NkRWcUUxSVMyRV92cEpPSUtMank5RFZkMHUzWjRucGZZaGRzLTRYNnQ0azR2TW9RLTN5NUJkRW1FRUM5dHlrQWVITi04dnA3R2ROSDdWRzUyd3J6OUtoSkN4RTNKSWg0OUhhRGoyajBYNFZ1YUJqUE5HdW1rVEZKU2dzN2d2dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Evercore ISI raises CBRE stock price target to $143 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYy12eWxlaU5lcXhMZDB0LVBEcjhRVFpWb2FZc1JDdERJWWZmaTFKbk9QNm93RnhweHQyNUVkZHphUDgwUTNWSTNrdjllYmJVTy1QcXhTc3hLWnhKRVRzWWtRMzRxVC01Y1ByZDRVYkUtR2FnR1c2QnB1LUlJWllRZm9yUUg5UWtpQ0JfdUxfck5OYlozSzVUajJzMDk5X0p4Wk5qUFF4NllGbjk1b0Y0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks Flashing Renewed Technical Strength: CBRE Group - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd2RKb283RlkzZlpWcHoyTEZQTXZDM244NjA3aWtnM1FJWU9XUFEyYzczeUR3T2V4YWpITDBkcWljMTBIaWpPSzFuTThITWpaX0M4dHVRWWZlVlgxdDNKWVdIdjkydHdFVWJXNFhUZktPWExQSFdsNjF3X2hKMnZOZkhPeGxQWEhXQUVCODR6UzV2cFk5a3VlU05mdGtKQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CBRE Group, Inc. Announces Details of Conference Call and Webcast for First Quarter 2025 Financial Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZTZrUWYxMWdfbW9MdnNRdjhxY2Y0NEU2Q3ZwSk5DaW1hY2JkTnlaRkdDcDNUdk1LR1NUSEk3a1hFVXdhb3ltOFFkYVBudlhJc0dxT1gwMnR6aHEzd3p1NmtLZlk1T3pRMWdHd2pLZnZnUzA5SFJiRWhzcUZIdUdoZkJ6ZnVid1E5ODNVdHM3alo1NDZSdkxmSTdtbHEtRmthSnlvOHBCYWZVY3RtR0drbXVPOUVrZm9ic1FybHE2akl0ZllUSU0xcXVaX0dmRmlwQmZ4Q0VILWFiZ0R0WDdNUU1xMExrSDZ1X1I3clVXeWxQM1hO?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is It Too Late To Consider Buying CBRE Group, Inc. (NYSE:CBRE)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQU1HVHc3UWhDTW5qdDVabFJUSkw3dUI1SXk1YktYUGx0dlFHMnBnZFhyRkpBc2ZyVi1uOUpQdmpXbVBHcWllYkp6dnlDTlZTY1FRZTRSWnRCLTF0TU9sR09UZTlnbzdhUlFENEdPdXBVM1I1SmRka1dhOHE0TV92aXF4dDh4RG5mSm5TZExJdkt3OVRvdm5OS3Zhb0Z0Z040endrY2dyQ3NsQUpITEo0Q3hkMHdYcGJTMHNTdkVWTTI0S091Nk9DeUpwbmQ4UWd1dURUUFRsYWRpVUREdmJLNkVFbnVmSkdEVzVjadIB8gFBVV95cUxQTzVhdmFwYlN1UUVIOTNkQlhMSnA0VnFrNGpZUklkR19YcnlMZWl2SXdaY25RaUJUUEZRY3hTdTZycFpob2pWOUF3UG5EWEF3WTg5OHB4bFZ0dmtBOFVMekhjTjg5SkFtdVVRTmFuVTA3cXQxS0cyWmc0ZVVpZTdSZDhiY2c4X2pKeURrbkw4Z2NTQ2l3TmJDdGdpdEw3SWZ1bk9YS19GSmNuaTJtTHZZQWRwc1ROR0dzd19ZQUlvaFJZM3JQRHlZQ3pNY3gybW14V05HeWhycU4wTklrZUZsdmtFdXc0M1NWOU5KWTFuT0lNZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in CBRE Group (CBRE) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLW5wTk5oclNzb1NLTHFpc1R0SGxUMW5yMk9kWU9RZ2VlcGEtLVZPZWpnSTl0bkQ5SVhkZ0xMWDd3ZkJnZE50ZTZENzE5T0tQVGJSS3VPZmQ0bUtRaFVDaGlKcktfTk9nUTBCSEotcFQxejU5WVU2aVAtM3NWM3pWWlpzM2cxbWxQQ1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CBRE Group Stock: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzJTdG5FQk1VLWZsUUx0dmNTUXRUaGZMcklfTGIzUmtGc24tUFQwdUU0WUpMQk9uRWdCenFPX01VMDhwSjZ2LXlPZEg0U0FPR2ZaaEJUYUVfU3p3TDMtaWt3VWdSeWZaY0tpVzA1bWNVZnk1eFVub0xieFZGTHVIRVpzOWFzdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Commodity Office Stock is Tough to Price These Days - CBRE",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFJmVl8xRWVlNl9OLThxOEZwZHc5RHc1LWVOU0sxX25zZFRJdlhiM2JVMXJyNDFGMDg2VFloZjJzaDZNSUx3bzB4cVBGb29VYy0xNEFXY0lUSFZMOVNHblZYU19qaGIzRjVQb0xJakRQU29pNlhuZ24yWkZWdEluLUtiUHIxNUNvRHJKMV8ySEFnaGZfQWJEUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CBRE Group, Inc. Provides Recast Historical Financial Information for 2025 Business Segments - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYlkydDJwRVdHVnk5allmY2QtaXVaeE40X2haVXJVekdiMDROZ2FIZnlLbG9FT09tS2QxeXNJWV9jOGtQLUpsTWFQa29jT3lnX3Jma3h6OGIwMW1NVEd2cmtBY3JrWmpoSXJhZEJaUUZmT0FvVmFlbWlMcGNYbzBwaTVlT1VjZHBfTTR2VE42NHFoenJBNUtybkVVVGFMbGt6RWI1Y3p6MXB0TWoxVTNkWHBZVVpWaHduZDZtbGxLNk95T1l4dzROYThmSVk2UVZxM2hmQkhnbFN3ZXN0aTRMaDRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CBRE stock soars to all-time high, hits $142 mark - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYXhXdnRQeHlvcl9SaURtRjlrWDQ0VE1DNGtSSzJNS0ZlaXRBLThWdlR3N3dSWFdzZzljMG4teFBYRk9oajJvT2F6M1dYT2xFbkVjMTd6TnBHMmRIMGdHT3ZuOWJPMEdaZVBoNHQya0I2ZngxZkxJa1czSm8tV1FucmdoWFd2cVFDZk9YSTY4WlRoMHF2c3UzSnBJMVFVZGU0U2pxRU13?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CBRE Group Redeems $600M Senior Notes - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnFISEF5bGRGbGhlYjIxSzBiSEVkT0Zad09BNEphZzZhUk9EdFc5SzBoRkYzZi1mS2VJWk5ZRVFIUDZLOTc1VkVkTFRadWdSUnNrMjhqUGxVaHJoNzVBZ3FCWllKRHZwUWpabDR5YTFXNlE1cEZPenBYX2lVOUNIRUxGZnl0QmNlbm1qcEJlV19Ldw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is CBRE Group Stock Outperforming the Dow? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FR3hiRmtRVzhHSkNCeHE4UXFOMnEwZmxvcDhtOTV3NC04QVRSR1NHQndkdmtRaG9JZzktUzRHZnpHY0xaWTJONElVSGlGM1BYdWV4RzlKdGk5VWxEWUN5VXBMZVZ0UzdOZ3hQYlBteEZLalNl?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is CBRE Group, Inc. (CBRE) the Best Real Estate Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SS3p3YV9kTFZGdkpmekhtNVdtMVlrbmhOcTI5c252X3Z0QXFKZUVHY3lkTzlxQXZ2b2ZHMHJfTk9oSWFRb09GQkxnVmtsY3MxTmtfYjlVVGRUUUs2V19xWEs4UWxKX0RyM3dLVFFoaWhQRzBUdVlDU1J3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Sell CBRE and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GbG9xMzIybDZudmxyeU5KUGxPUUxLX1dia3BBY1B3NGxWOHdkMElBM2NxRFJtcHRtOFczYlBwcXVVZURGRnlfRi10VmducERtVXlLMnV2Rl9yZHNLUWxpNHhUV2RteVBpQTduVDZXNzVKQ2lpTXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is CBRE Group Stock Outperforming the Nasdaq? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90a2NhQURwZ1cxZ2tZVDlFVGpiNi16RmJreTI1d0JsTWtIUmhUVm9TX3BnWGVnYjR5SklITXRhbGN5WldPTnV6SmJYRTNOa1JlXzQ2UjZ1M01FX3lvd1hDSDJHcGk1bmhpMm1sbmxlTnNNMEVyb0U4NQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Can CBRE Group Stock Keep Its Winning Streak Alive in Q1? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2JmNm9wUi1ySk11RlNBTzVIVFZfNUNqYWFuV016WXFDODRKQi1SVm1OOVY1d3dqVnFuY2N0OFIwQ3hTOHVzRW5qQXJxbFNueG5RRGFQQzZ1ZW8wMHlzajNfSUM1YUp5TlhycU03SENiYU83bnlWYkstQ2JreVY2OA?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 138.39
-      },
-      {
-        "date": "2024-12-03",
-        "price": 137.13
-      },
-      {
-        "date": "2024-12-04",
-        "price": 137.75
-      },
-      {
-        "date": "2024-12-05",
-        "price": 136.42
-      },
       {
         "date": "2024-12-06",
         "price": 137.88
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 124.5
+        "price": 124.56
+      },
+      {
+        "date": "2025-06-03",
+        "price": 124.94
+      },
+      {
+        "date": "2025-06-04",
+        "price": 127.41
+      },
+      {
+        "date": "2025-06-05",
+        "price": 127.64
       }
     ],
     "current_price_data": {
-      "price": 124.5,
-      "change": -0.47,
-      "percent_change": -0.38
+      "price": 127.64,
+      "change": 0.19,
+      "percent_change": 0.15
     }
-  },
-  "news_sentiment": {
-    "summary": "CBRE Group, Inc. (NYSE:CBRE) P/E ratio analysis by Simply Wall Street:\n\nCBRE Group, Inc. has a P/E ratio of 23.15, indicating that the stock is trading at a premium to its historical average. However, the company's P/E ratio is also below its peers in the real estate sector. This suggests that the stock may be undervalued relative to its peers and presents a potential buying opportunity for investors.\n\nCBRE Group, Inc. redeems $600M senior notes:\n\nCBRE Group, Inc. has announced the redemption of $600 million in senior notes, which is expected to be completed by the end of the first quarter of",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "DELL",
   "name": "Dell Technologies",
   "sector": "Information Technology",
-  "market_cap": 73962569728.0,
+  "market_cap": 76734070784.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.829704,
-    "PB": -24.90564,
-    "EV_Revenue": 1.021,
+    "PE": 17.43323,
+    "PB": -25.838896,
+    "EV_Revenue": 1.031,
     "ROE": 0.17839001,
     "ProfitMargin": 0.04716,
     "GrossMargin": 0.22224002,
-    "DividendYield": 1.89
+    "DividendYield": 1.86,
+    "DebtEquity": null,
+    "CurrentRatio": 0.851,
+    "QuickRatio": 0.453,
+    "FreeCashFlow": -2492124928,
+    "OperatingCashFlow": 6273999872,
+    "FCF_Margin": -0.025771450026647023,
+    "ROA": 0.05335,
+    "PEG": null,
+    "EV_EBITDA": 10.088,
+    "BuybackYield": null,
+    "PriceToFCF": -30.66720671877971
   },
   "technical_indicators": {
-    "RSI_14": 56.41552168177955,
-    "Momentum_10": -5.289430586207947,
-    "MACD": 4.866636136166846,
-    "BB_Percent": 0.5235089030426853,
+    "RSI_14": 61.5317800070539,
+    "Momentum_10": -0.0089360637927258,
+    "MACD": 4.216879988076002,
+    "BB_Percent": 0.5872387797479386,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9096492788045376,
+    "ValueScore": 0.9072464587837176,
     "QualityScore": 0.3110922763150555,
-    "SignalScore": 0.6210958565779843
+    "SignalScore": 0.5388813311637264
   },
-  "volatility": 0.0369251529629885,
+  "volatility": 0.0370710082890435,
   "beta": 1.087,
-  "return_6m": -0.131077681430673,
+  "return_6m": -0.0929676740301986,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 22,
-    "target_mean_price": 134.70227
+    "analyst_count": 23,
+    "target_mean_price": 135.10652
   },
+  "news_sentiment": {
+    "summary": "Dell Technologies a récemment fait face à une volatilité importante due aux préoccupations concernant l'impact des réductions de dépenses fédérales sur les contrats technologiques. Malgré des résultats trimestriels mitigés, les perspectives de croissance et les commandes records dans le secteur de l'IA ont suscité un optimisme parmi les investisseurs. Les ventes massives d'actions par un initié et les commentaires alarmants des dirigeants ont cependant attiré l'attention. En somme, Dell semble naviguer entre défis et opportunités, avec des signaux contrastés qui pourraient influencer le sentiment de marché dans les semaines à venir.",
+    "sentiment_score": -0.3,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Dell, CDW Stocks Drop After White House Targets Tech Contractors for Savings - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxNaDVFM0ZIS0hFUG4xbUFYRVp2VUc0NHNUWGFLUmQ2QV9LbjNWWUVtemFIenA3Vjh5b0o4UWo5MmU5eXhIOTVKUUs2NTMzMTA2c0QyeTJsTlBubm01RGNDNTdYeklYWmxwd2UteDhCbGhpWEdFOXBDdEU3dUVtWmJTUVFlRDgwX1dpR1JsSWYzTHlpeHluaXFfRDdGcFVnOGNGalZNUXJ6blczaDUtaEZkQktreTltQU1CTUV4dlBFczVHZXJuTUtwSG9fZXV3WW5JOVF6akM2dHhwQUZXR3BwRmQ5SDdVSW9OZ2R2NTFDZ2pmUkNXV2ktQ0NBVkZmRmtNbkUwaFpYSkxvdXpXUGhYWDNrVy1qSFozQTMzVTllXzhXbzVaYl9IWWVyU0FBTmpfcENPd3lUMWNXWDJHVlNvYXp5dVR4eGxWVENXNEJIQXNoVTJteGxyZ0pNOXdMMGZzcG1qQnNHUl9FN1F1YVF1WkVnQ2FSN0RnaFFSdXVaSzZjc1huYllXdFdlem9HQjFHbGQ4WEI0OGNfMUNwRHhqMnIwRGRQN2dBbDBwNVVrSFB4QUxENzl2M05sYURnbjUyNzNWVzI0eGhEc3RldWdxWW5nMFlXVlZUbTdGZWZob0s4NTZyTjJuakpsQTFST0hzYjM0el83U0NsbGJKSjNRZmN6M1RZZ0g1VlA5LXdBUFktSHN3akdoVy1LWWs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dell Technologies vs. HPQ: Which PC Stock Has More Growth Potential? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ydjc2YW45d3pLekN0MW5qbEtmcGQ4OTZ5TWhReURBRE4zeVRmOGM1dktWd3JfNUh2ZlgweVUyU1FOZ1FMWnFMTkxIZEtfTThGMEprUEZGeXJSaV9QbTBnYWFDRG9SYWdLcUZuRDRTREdNTmFIdGhfSFZMeC1SZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DELL Stock Sell-Off ‘Overdone,’ Says Top Analyst at Wells Fargo - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnR3R2F6S3hyNEdDVndfTFVKREtQcUtOanV6YVh2VDlJTFNkQTQzbEdpd016Zml3Mjg5alF0U0hPRmpFZWxkM0JvZW5CMkRDOEpPcjVoNFhrVUxjcUo0SXZZZE5CbHRHQnpLLUFfa01xRFJwaGd4ODRYQ2U5dktWVFh3Z0ZhcUZHcGZocmZmTERrTGFj?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dell Stock Falls As Trump Administration Expands Spending Review To Tech Contracts - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVRINllzMW1iZHkySlV6TlRVdnI1VmhGMEMxOGxCRnRTVVJSTGZnRGtmdjlwdXd1Rkp3ZkozdmNlVVg3dkxhUEg4THRhRVNZT085Nlk1cVpGZnU3VnhQQUlRQ2lweElXZnlxUURyN2xXS1dsZjJyUGZCMUd6eFpKMjA5YUpnOWc1V3NlSDZXdFhhMlBtazZ3dmw4Z2xkNG5OV0JjVXZKWFlnSU42LXozanJVQXp6TlRENk9RTS1GUnU3ZWlIWkdVUVJEYXEyZUl2c1IzNGd6TQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Market reactions to Dell, CDW over federal cuts letter likely overblown: analysts - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1k1X3B3U2hwVlFyZkR5dHp4dWNxSzBlOXFzdTNPQWdjbnQ0YWNtd3FpU1FHVkhHOXFOcEozQTdFcjBnMmhGaF9ycEFEUEFFa05rYjZqYlB5anI1Nzk4cTVkc0swT1YyeTRWblVydjcwWEl3Z3hPWno5ZGhHMDcwN2k2cjViaXp6MVljREJKOFRsMnNYcWZ2QW9VRDREdm9fMUM1UGl3NW5ER0FNTUFjQXItWFRWUDh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Dell (DELL): “General Services Administration is Trying to Put the Squeeze to Federal Contractors” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PQnZjTHNhUHd3dVZXS1BzYnVobUtqTkRnTTVMbmtfemJ0RkpncjNqWVZiUy1QSWNubU9VeDlITjNUbXVYb09XSGZCV3RlQUM1QTVfOEJ6SWJ6amlYNUk5eWRpR0NWeU5sOHJreGNxR1RNS2ZTM3Q0YW43WmtFR0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors Heavily Search Dell Technologies Inc. (DELL): Here is What You Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObHVKUGJ2TVhYZ1UwbHl6N1JvVGlkQ1otTEs4dEN3QWxENG41Ykh3Qy1WamZBVnhjTVZuMTBkQTFZOHg4Sk1kcWFOZzRWX1JkWmN4X3Y4anRIYWtTNjB1SlFZd0V2QWhsMGdnNF94VGRSeEFTQTVIeVREeEtPUzhiTVFYMHdxay1xczZzbWxVdVhfdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dell’s earnings outlook blows past expectations, and this number explains why - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHJxQUpESkc5MWhqOVhkbnF2T1BFb3lkbmp1Q0t4T0V6SHpuX1RiUWpwWVItRzY4Qy1RSmJxMDZjRW9QakNMbmdTOXo2WTRpSi1mZW9BMGJhejFWZU1YQWMwdzl2TlBnZUh5azNybUd1Y04zV0lnWHJMcjQ4X004bDNsVUVvdUR0RnpRWjg0amViSkhjUkVIWDVBMmExVUh5WWdBOFBGa3BBTjJ4LVNfVktELVpnaHNXSXc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DELL Stock Sell-Off ‘Overdone,’ Says Top Analyst at Wells Fargo - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY3FabEtuZm1KaGt0aVJkbFpXUGU5R0c2dVZBR3dCYXlNT091Vm9IVUVlY2ZFVENGWXpkcGRkN1o4bWQ4ZWQ0RGNmeThkcXYwbWtjVUp3T01OVFNZUHdMMFpkb1hJVHNRZXJPcUptSTA1a2ZScGk0WkxYcWpmQU1hSTRkUmZFQ19VRGhEX3BMLXRVYkNHX3dfOS16c294VTUtdDItMFVFYUVYQkFteml2X2hBZ2s?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dell Earnings, Outlook Were Fantastic. Why the Stock Is Down. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fLU1sRmdPWXphdS1HOTJ6ejlCam1ON0ZxeXJPSV91R2w3QXFNWnNnalhLQWF6bGhmZHVZSWN2dm1DZGVycjlXbDdvcGZscFdLTzNtOVZlTXczbUgzMUZMWko3S191ZmRZOW5rUy14b0E0TzJZemc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dell execs sound alarm with consumer comments - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONjRkeG5aTGNRZWVyNG9Ycm9FMUxLdktLcWw4czVmWEZfME5veV9YVnVLSXNUcDdPZkE1bXNGZ0gwWEZrczRqLU1GMnZFdlppVHZwcWN6ZUdzaXplOU1FbDBZdHVTWkd5Mk96Si1FYmdNOEFtdG8zVTI5X1U3M2xVVktVQkVsMnhwcndIbVZHNWZyZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Will DELL Stock React To Its Upcoming Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlRESVlmVjMySmFrNnpGcVVOd2FIY1l1b0RGMWVNYnJZMjdNSnFvMXBHSjJDWWNmTG1XZTU5eWg0UXI2VU5GYkNjYksycFhLSEhTb2JJeWJRYndfQWN5MXdfYmhLYk85YndvdWlKWU9nMlBjRHN5VWN0M3g4UlJYbUViYl9xalRaMFJCc19NdFNvZXdIYUdycEVnUG5xZVZlSVB0b3I4ak9NT0FJNmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dell Technologies Insider Makes a Significant Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMk54T2hCNzljV1Q5SEg5a0tlLVU3blhrOTZ5RWpJdHdTaFpyTHltcmlXcmxsX0pWVXEzZkJzcEc0alIyR2tMNWFXSnRPSEFRcUU4MUVhVXBpNjRYczlfdk1jczJCVlFsbkRKUTA3QkRfUXJSZGlvTnB6aDRRcVhRdVUwR0t6LWlMRE5ra3ZSVTIyZUV6WXFtRzdHQ1dua1lqLVo2ay1ob1haekRVVldzR2I3bFJLMXFVQ3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dell Posts Mixed Q1 Results But Offers Upbeat Outlook - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUndKVzdFQ28zTjFIZW85TE9seXhEM0NXeklUR1ZhMlluUG4yQ1N5ZUhmWHlybF82RTZwMVFOcnhnVlNLMkpVbGNxM294Y19CYkoyT0xubjVMYnlrdk9zWjY1MlYwSFhiMUF3T2VqVFc0aTFUM3FLVC1mZWNkWGZFUE41Yw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dell Shatters AI Server Records with $12.1B Orders, Faces $14.4B Backlog Amid Surging Demand - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWpnZHc3eUZ0dEg2dDJreWZmbDlRRVpEMFg1NWxGVll3QXl3T2VkVHEwQW8wQXdpWHVOOTR2ZnBiN3RjSHhRVFRaQWR3UGNPbkdEZ0RnLU9NLW01WEYzcmVaWUZUbUVxSF9pYUE4WnYtWWRjRlBIX2dXYXpfSzNzcm9vMkRqNkhLNDFBVnRLUDd4NWZNamJzcFB6NjZ2UC16OGo1TEVjSDlEWk9wMUNmQUQ0RHdXNFcz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jim Cramer on Dell (DELL): “General Services Administration is Trying to Put the Squeeze to Federal Contractors” - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc0Q3bmdsS3Jkb3FlcHdqV3hGZ1pWTUstR1JUN0RwLVZBemlOYVBVMS05VXU1V0ZyMkhnQW9rS1g5ZlBUUTlUazdBTzRCY3kyaGpzNjBvaVppUTA3Mko2TW1WR0dsRFhZZXlVVU1xTEJuTnd6SFQtWmJvTWhIZ294endjYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen Increases PT on Dell Technologies (DELL) Stock, Maintains Hold Rating - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxONUNOUk9MNFRMZ3VXOGpMa0kwa2YwbmJCQU15Y2NmY0U2QWlZdmZhRnJSUWptTnZrLVY3d0dIT3c3SHM5NGhoc21BQTFwdEtKdTJYNmZ1dmZWN2xBWHpXX2xkVnQ0YW1EQkt1ZlpkVGhObk8tT3RKR2ZZc1VITkFRMWxyWmJpbkFQdF9ieTZxaS02ZHB1WWRUSWk4dHR1X2J6YU5ORVZ1MERHd2hpYkk4REJBdGh1aDVrbWpQV0E0SVFqbVlOT3gzcGhIZlJjZnR3dkZlWEdERmRkdnlaNVdiSDNsWjBRYVFrMlo2S1ZBX25DeEtCcUFkOGlxclZ4VmZvdFZNWEh6b2RoTjBvcmxhRFJ2bW1jX2VrOWZzOG9jMS1jNHFmTWN6MkZzN05JTkVEWWhjeURZLVljU3Zlbk1kMnhia0Nmd2swZVpEbHVyZnpveU41V0xwTTMzdWE2ZHM5bVkydHZKWEFDeEk4cnZNLXhCSndMY1ZaNktr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia, Dell, Ulta, Gap, Marvell, American Eagle, and More Stock Market Movers - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrNnFXcnNqUWdNMjNCdEhjeDZZVzdKcjBIZWtXcE14M0YzQnZzT294cGF6RnZQZFYwVVV0dTFSS1JteC0yMTdreER6cjI0LUtGdk9yNjh1QmNBZGlHcTNPOC1rNGU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To Earn $500 A Month From Dell Stock Ahead Of Q1 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rMkhTZENHU3MxY2x3QW9IYUJmdnZaR3RlMFprVDVJck5vV25QOE9YQXI1Z1QyWFVNRFZXc2V2R3RZTjVBQzhqUkk1aG0wcTRSN0o4TEh6NnRKQWZ1LVVzampraHBFMWZmWmEtYWZzcTgxTXpRTU9JZG5qaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dell blows past Q2 guidance expectations. Stock gets lift. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uZWkzZzNraEhXNmNuT1laZjVucHhVT2g0dERVTl9hUkFtclB3STBUQ19veE1lVFMxN1pZMnppTy1jb2UzRzc4S290N1h5alBIdnozbnRlYjFqOHdNZjc3T1dRbk9oTGFOSjd3Y0RCM0xVb0hFcm5VVHYyQzhVdEE?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 125.84
-      },
-      {
-        "date": "2024-12-03",
-        "price": 125.56
-      },
-      {
-        "date": "2024-12-04",
-        "price": 126.1
-      },
-      {
-        "date": "2024-12-05",
-        "price": 125.07
-      },
       {
         "date": "2024-12-06",
         "price": 123.4
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 107.72
+        "price": 108.08
+      },
+      {
+        "date": "2025-06-03",
+        "price": 111.9
+      },
+      {
+        "date": "2025-06-04",
+        "price": 112.7
+      },
+      {
+        "date": "2025-06-05",
+        "price": 111.82
       }
     ],
     "current_price_data": {
-      "price": 107.72,
-      "change": -3.55,
-      "percent_change": -3.19
+      "price": 111.82,
+      "change": -0.86,
+      "percent_change": -0.76
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques pr\u00e9sent\u00e9s sont tous li\u00e9s \u00e0 Dell, une entreprise cot\u00e9e. Les principales tendances cl\u00e9s qui ressortent de ces titres sont :\n\n1. Le stock de Dell est en forte hausse : Dell a souffert d'un stock en baisse jusqu'\u00e0 $179 en avril 2021, mais la croissance de l'artificial intelligence et la hausse des revenus ont conduit \u00e0 une hausse du stock, qui s'est \u00e9lev\u00e9 \u00e0 $169 le 20 mai 2021.\n2. Les ex\u00e9cutifs de Dell ont signal\u00e9 des inquietudes",
-    "sentiment_score": -0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

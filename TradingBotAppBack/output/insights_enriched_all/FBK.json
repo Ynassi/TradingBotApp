@@ -1,56 +1,164 @@
 {
   "ticker": "FBK",
-  "name": "FB Financial Corporation",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 1970876416.0,
+  "market_cap": 1960111488.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.818015,
-    "PB": 1.2492741,
-    "EV_Revenue": 3.09,
+    "PE": 15.731618,
+    "PB": 1.2424507,
+    "EV_Revenue": 3.015,
     "ROE": 0.082720004,
     "ProfitMargin": 0.27391002,
     "GrossMargin": 0.0,
-    "DividendYield": 1.74
+    "DividendYield": 1.77,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 86074000,
+    "FCF_Margin": null,
+    "ROA": 0.00993,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 43.14251831362289,
-    "Momentum_10": -5.997375801684417,
-    "MACD": -0.0677965222162626,
-    "BB_Percent": 0.0934915887608305,
+    "RSI_14": 42.59502757053324,
+    "Momentum_10": -2.2613017162478575,
+    "MACD": -0.2413478080636508,
+    "BB_Percent": 0.1190228949038137,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933211478176898,
+    "ValueScore": 0.9315628074976092,
     "QualityScore": 0.3657558569053192,
-    "SignalScore": 0.5555299570581513
+    "SignalScore": 0.6134828671361989
   },
-  "volatility": 0.020902225652516,
+  "volatility": 0.0210744916984127,
   "beta": 0.907,
-  "return_6m": -0.2325786184062804,
+  "return_6m": -0.2369052364903935,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 55.2
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente de FB Financial Corporation (FBK), on observe une série d'événements marquants. Tout d'abord, la société a tenu son assemblée annuelle des actionnaires et a augmenté son dividende trimestriel régulier, ce qui pourrait être perçu positivement par les investisseurs à la recherche de rendement. D'autre part, malgré des résultats trimestriels conformes aux attentes, le cours de l'action a connu des fluctuations, notamment une baisse suivie d'une hausse de 8%. De plus, des analystes ont révisé à la baisse l'objectif de prix de l'action, ce qui pourrait indiquer des préoccupations concernant les perspectives à court terme. Enfin, certains investisseurs pourraient être attentifs à la rémunération du PDG, jugée équitable par certains analystes. Dans l'ensemble, ces nouvelles laissent entrevoir une certaine volatilité et incertitude autour de FB Financial Corporation, avec des signaux mixtes qui pourraient influencer le sentiment de marché.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "FBK Stock Alert: Halper Sadeh LLC Is Investigating Whether the Merger of FB Financial Corporation Is Fair to Shareholders - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUTNCZ2JJR0s3QkRJTTk2aXhhbmFwZFZtNnJlc3Ffd0ZsS2x0eVJBQlp2N1puMjJEckExRFRnT0FobzBMOS1jYko0eGFwdndYbnN5R2JNQ09WZVltX2wzU3RlRU9NaHROd3ZvdTBJY3puREJ2QTFFckl5OUZRNC1HLU90Ymo4dE5jckY2MWJJdmhDSTBXUWNIaGd1RkRjN00xcjRnYnBQRjZqcEkzWFhybHhfbTQwWDY3REsxODI4dW5tcFQxV3ZfOHpzQ1FCLS1JeFFiV1YxcFdqSDFFaUpFN2FEaXctSUlvWlcwWkNMN1BBMzZTWUc4REZzRjlnVzNHSGFtOVdITmI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FB Financial (FBK) Q1 Earnings Meet Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdC11bXE2aVRXVUtjazM4QjZkSEhhOW9uTWlsS0hWcUxkTGJZaDFKRThVTG5Jc1dKZHl6LW1UaHM4VTI2aEZyM1FyTHFKcDZvVWMyMnY2OVNYdUpWQUFxMVdjUVoyLXNNOXo5cGdSNlhoUUNxQmNnclB6dkNvWUZxbEQ5MA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Banking Merger: FB Financial Expands Southeast Footprint with $381M Deal - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNnpyOXRfNXJkSjVBOVBJeDhTRmQ3amZUR2pVUXdaSmxLNHZ4a2hMZjVNV2tJcXhDWTZwMmx5UEJSNjlFZjZ2dDZlUXMzWXlLRy1YYTVyRk1PVFJmUmxnRER6d1BpSUx5dGJKQW5MZExlRHVZcUtLMEJmRl9UYlNlUmVCM1o4X1lubGExVDg2ZUpQX3NLM0Q2TTBkeUVreFBCU3dNaWNQUnhRc1kwN2tOaVhkamE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FB Financial: Stock Is Down, But A Dividend Machine (NYSE:FBK) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzZOaUNZT0lqZ09XamQ3V2drZlRySW9fMV9FckJiV3ZiWkhaZDR2bTViNUZvNnN1elhiWHNZaE1kMUFDelhhOGdZT25OdTZrVW51WUZaUEJxdHRoNkFrVnAzWWRrUTduUm9rUmkwbm1SWl9TeE53UjZnTEZDd2RhTFIxMGh1Ny1DLTFJQWpzb0JMVjhS?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "FB Financial Corporation (NYSE:FBK) Looks Interesting, And It's About To Pay A Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa0ZITkxFbzJuZUN2bURUNlNwY2FJQk9mR3o3MDR3dnV2bTI4T3JsVXVHMTN5VDV2U0t4ektaOS1FVzRjQXg4RWtMcEdOMWZNVTNEM2UwY0QzY3dVXzZ3YWZlSlBsQ3ljZEw1OFpFWW9fZl9VSFYyN0kwTmNGQ0tUUkdvQS14cGh6UkRvNExia1VhMTJwM0F6RU10VTYyYkRibFVsbkN5S3ZKYjRVVElCb2xocEFZejdUUmdXX0JWQ2pMZFHSAcgBQVVfeXFMT2NxVTU5LXVPLURZcEJWR3g4MUpCTEtyMHROX0RoNVJLVy0ydFp5SDIxcGNmdlZ4VHo1b28xcWdFY3hiOEdWUVpmWHZBS1VfSzN3bmM2YXFBTHoyZVBxV0g2MUJQYVNaSk9ZWk5zS1E0eENDU1JiLVRUR2VhekZlWFZtWWxWQWZLQkQta3VnSVItS1R0ZmZHMXdXU0p5d3FLeTFYQTFsbklwRXpCRzVXSXpQbVVySWRfVW9BN2JRZy1aLXZBUHpOZWU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FB Financial (FBK) Surges 8.0%: Is This an Indication of Further Gains? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XQVZZaDJUdVdfWmhvWWt1M1FSYVdLbU1CbzI0UU5FbjRPWVF1MmZ0ZTl0RjF4ZGdYcnBuU1dZRzlqakgzMlV3QUxiOGFBYnBQMFVxdU1zUU1EREdlM0d4cXgzd1U3WXM3aDFHY1FRY2pZSjJhQ2Zha0lNTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(FBK) Trading Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb051QnM5US1RSDZnNGwtTFhYa1BvWDF5VGVDNlcwWUZ5NDJURDQwWkpSMzlrN3ZRdWlLYmpienl5bE9fQzN5Q2IyeExyenQxb0haVVZMenVGYjd0UVBxUWhWNmFFOXhtNGFlcUxQY3VacGFHbkRpTzV6a0xCay02eVdfSDh2TUh4WGh2MGwyVHhTcHZ1LXMwcg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Southern States (SSBK) Downgraded to Market Perform by Keefe Bruyette | FBK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcFFqbVVBRzR5OVhMRDlDdG9RZ2JDRFpkNGFCRTREWEpIVUFtQ3RMc3JheW1MVGlTb3FlTFNreTFhYTRxN0xrRWZxN2lpbkUxOXlCS09oSEN6aDlyU0RhRkN2Y0d2R1F4OU56dXk0MkhTdmlBUFZzWGtFV1Zjanc0RjdJalZTdFZxMk9ORk9KRlEzZnN0Rk5GcmF3aGNqY1R2MUFMckVlX2E3dFdaaVZ3Y256Sk90VjJpZ3JwUjN3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "FB Financial Holds Annual Shareholders Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVZzakw2dVdPYTZTMjQwMTZnZ2ZZWEVFNl9KU3NVVmo1M0wwMVRnTTJ6Ui1FQ3RSQjdzSkhrM3RWcmIzdmhtV2tNX0tuQXRfUkxyY3dfajc4bG52cWI2R1I4Z0RxX3R2YkE5bWxlc1k0NUVnc0w5N0VPY3BiSm13a2JBQVNRMGdlMmt2RkV0QWx5ZHlPYTZILW1OelcyUms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FB Financial Corporation Increases Regular Quarterly Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGxtQnBGZVZvYWxOMEU3YnRwSC1zcnlmWnBuZm1TRnhPZDA3aFZxQmROZzR3c2JXSzI0TjktQzRFcUQtdzRvaVdsQmZYNHFqWi1DNjc5UW9EazBkSzFCYWxxTEtXT2piRXdsekFNRmtxNnpFUUkxd2NxU2pZaWNaWVJZaXRLS2xyY0t0S1RZbTBLejV4dFk3SzJQMlZKMVM5LWRodUhhYS1YT0ZhZVNYelVYQVRBb2VsSUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FB FINANCIAL Earnings Results: $FBK Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0lqcjJCemZ4dDVOQkp4Q1M1eUh1Q2xXd2hzYzEySl94NGNfbW0wamlHYmVkeWUzeDhaQ014cVVJR2tFNjdYcS1KZ3MtRkplTUxvbUtEWTNIVGtXbXAyRU1MYVR5V1R0TFo1RlhDa1V1N2JtU2EzTTJQbERLRno0cmJyczItUWdIbm9CNUM2ekVJRlJOZDVF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FB Financial Corp (FBK) Q1 2025 Earnings Call Highlights: Strong Loan Growth and Strategic ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TNzZYaU5sbjRGNTZzelFFd2Y3bUI5aXBaVDdZYzhNZWR1QWV2aUxYSFYycUI4OXlDUGZZN2Q4Z3FnTl9ZUVRhODFoT0J5WGNwUFZLcXQ2WDN6RGItY2lCQlBRekxFaDlnMEgyVkpfUHR5ZGNKc29TcnFn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why We Think FB Financial Corporation's (NYSE:FBK) CEO Compensation Looks Fair for the time being - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONEVxQWdFWVFyT01xazM0STZKRzhWY1ZVWEZlLVE0Y3U3ZDhObnA2QnFMdmlGeDQtR0FLcUp1RjBIQUFGSnl3Q3BZM2tYNTU4MmNDTkxBN2pBbVdPcktPdjdFRFlwcENsd3hheGVKUmhlaTduajEtQ2g2M3RzRGxRdWpmN2pTRGxvRHBYdjM5TGF6VkZMWWVBV2ljZDNyVUJfYnRkaHJQaVFpUDdOLWxrMXBWakxoTUNENHN1VGw3U1NjQ2PSAcgBQVVfeXFMT1d4OGh5RTRVdzBESmE3cVlMOHVWUXlpaTZSRkE4MlMwZ3UyX09sTmJTMmNHT2pQNmhNdXdRVjU5OS1QTkFOSzQ2SjR5cVZaU1FDNklaRGlJZ0tqaTFUd0p4OTVpNmlqUExUbnhQalFkWnBPQUhjb3NjcXJSdUJzSkFjNURqVm1HQU5JS25qQ2FCMWItNjRrLXctTnZrY2JDNFNNalE4YTUwTnBxNVZ6UXROZUlZMDFyMmh2TllHdmF1MlF5WXpIOXQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FB Financial Corporation 2025 Q1 - Results - Earnings Call Presentation (NYSE:FBK) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3pxUU1hTERMQS1zMDladVN1b0xmV0ktT2FndWlRNEJLNjBhdWlXdDE2cGRBWG80TEhkU0JkU2pNU2FBTHFsM1hINGVhYzBKbk9WZmJ1WFFhMlJmYWZsYXFyYUhqSTVJMWZnRzJ5ZVpkYy01WFFfVlJOWlZVOHFEZ0NncWlqaDhKNEhsTFN6akdmSlE0d0FZQ1Vsc1lwNWpiLVVaNndaLV96V3Nn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FB Financial (FBK) Expected to Beat Earnings Estimates: What to Know Ahead of Q1 Release - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcm92OWZ2U05aWDFDRlVMV3Y1ZHA0R3RIQUtKNEFsNnJ6ekQyUVgtblU2MFBYamdRdkQ5NDQwZHdiM19HNWg0Ry0wbV9FX2xodzZzVHAzSGVhbkhaa1ZlS1FsMm5VNi13RzkzYUdncVNKaXF5OWFnbFR3djFBbXRhM1ZrQjR0OFo2VzJPeEZrYTVKUGNYd3RsSF91Ty1ya0dZQm9jUnBRb3BTVWZi?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FB Financial price target lowered to $58 from $65 at Stephens - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS0tyM3l0a3dkSnFpWnJ0bmFRX3NNZG1aLTA0WGdvb1JndDV2Tjl0YmhSMENXNmZaX3lEWTFzNVdtQTJRQ0V6VS1pQ2JINGFvTjE5ZWRxR1Jzc3d1a3p6ZW9RcVlZc3RxNDBPZjhBeTAwOWFhV3dhQlNFdDlrcVNBUEVIbTJzUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Countdown to FB Financial (FBK) Q1 Earnings: A Look at Estimates Beyond Revenue and EPS - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM3Y0THhBeXg3c3FLUjRmSWJpMWxpdGlTMXBvcnNPU0o2VFRtamxlSU9TbHBJNVM4VllnNXlQVl9yLXMzQVNoNzB4VEdQX0hLYjRLNXAzLTk3WTdMU0N0ZHdPbHVxYnpLem5vUzdZMHJpeGNzQzFKdVRNWmszYUI0aHFfU3BJWGFESzRaMmpCZHZyX3RnbE5lcU11U0c2YVpCUFlWVVBrY3gxUWht?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FB Financial Corporation (FBK): Among Most Expensive Stocks Insiders Are Buying After Trump’s Tariff Rollout - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVFuZTUwWnBEZjZUUExFY0xPUUF2SXFOTlE5MW1pdGh0cVNsREZwdHo5aUhxX0tRa2lfdl91eUU4b1dWZXJqNjVaNFB6RVNIVFZRRDN6TGtMUG9ubk8xM290Ti1Bb0hCQWRaczQwbktXcWE5cGhfSW5zMVpESDlkdmRhQnExQkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Compared to Estimates, FB Financial (FBK) Q1 Earnings: A Look at Key Metrics - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVBxMVRGZ0NXZm13VjNDdFBjZ3EzZFE0V2JkcG4zcGVuNmhzM2NHMXVFZVVNYlFnWlROTDVnVkY1RGRLV1cwZkhuTEhtb21WMk9pWDlKQ09qWjgyN1dvdlE2RHBOT0l1ekxNejdTYnMxaU1VSFFBbnVJWUxtQjY3bGN1WS1Md0ROdE5sZFFidXpIczRNTU1QZHc1aUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Be Sure To Check Out FB Financial Corporation (NYSE:FBK) Before It Goes Ex-Dividend - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2lIMS16bnBQbmEtSjJfNGdUdjM0TTBTLWpEM2dDclY0TXJXMGIxVnlDOXB2MUt3anhXYUJscDBoX2hyTmxpSXZDNk5ZTzBXUXNUQVVfaU16WHJaaTg1X2hPaUhlNGNSZ2pJeUFkX1drNDJxRmJOczhlYmVzQmh4dl9BbmZ4eEZz?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 56.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 56.35
-      },
-      {
-        "date": "2024-12-04",
-        "price": 56.63
-      },
-      {
-        "date": "2024-12-05",
-        "price": 56.68
-      },
       {
         "date": "2024-12-06",
         "price": 56.51
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 42.99
+        "price": 43.07
+      },
+      {
+        "date": "2025-06-03",
+        "price": 43.68
+      },
+      {
+        "date": "2025-06-04",
+        "price": 42.89
+      },
+      {
+        "date": "2025-06-05",
+        "price": 42.79
       }
     ],
     "current_price_data": {
-      "price": 42.98,
-      "change": -0.58,
-      "percent_change": -1.33
+      "price": 42.79,
+      "change": -0.09,
+      "percent_change": -0.21
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres \u00e9conomiques r\u00e9cents concernant l'entreprise cot\u00e9e FB Financial Corporation (NYSE:FBK) sont orient\u00e9s vers les investisseurs francophones. Les signaux forts des titres sont positifs, avec des \u00e9missions de dividendes r\u00e9guli\u00e8rement prolong\u00e9es, un dividende machine, et un prix d'action sur le march\u00e9 boursier en hausse. Des \u00e9v\u00e9nements marquants concernent une enqu\u00eate de Halper Sadeh LLC sur le m\u00e9ritement du rachat de la soci\u00e9t\u00e9 par FB Financial Corporation et une r\u00e9duction du taux d'\u00e9valuation de Southern States (SSBK) par Keefe Bruyette. Une r\u00e9",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

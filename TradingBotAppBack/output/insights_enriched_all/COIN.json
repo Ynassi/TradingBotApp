@@ -2,55 +2,163 @@
   "ticker": "COIN",
   "name": "Coinbase",
   "sector": "Financials",
-  "market_cap": 62361968640.0,
+  "market_cap": 62289379328.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 45.93621,
-    "PB": 5.95457,
-    "EV_Revenue": 8.905,
+    "PE": 45.968983,
+    "PB": 5.9476385,
+    "EV_Revenue": 9.263,
     "ROE": 0.15841,
     "ProfitMargin": 0.22028999,
     "GrossMargin": 0.85248,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 43.892,
+    "CurrentRatio": 2.517,
+    "QuickRatio": 1.197,
+    "FreeCashFlow": 305727264,
+    "OperatingCashFlow": 1962631936,
+    "FCF_Margin": 0.04586444832875961,
+    "ROA": 0.00223,
+    "PEG": null,
+    "EV_EBITDA": 78.133,
+    "BuybackYield": null,
+    "PriceToFCF": 203.4459057207276
   },
   "technical_indicators": {
-    "RSI_14": 54.91529963536268,
-    "Momentum_10": -8.032344556593182,
-    "MACD": 13.719777007014985,
-    "BB_Percent": 0.5383290235658738,
+    "RSI_14": 52.6283318931543,
+    "Momentum_10": -5.7222258095836915,
+    "MACD": 11.312564302872374,
+    "BB_Percent": 0.437364482741289,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8672202890053086,
+    "ValueScore": 0.8630540826302091,
     "QualityScore": 0.2868293149442923,
-    "SignalScore": 0.6455949806000425
+    "SignalScore": 0.6212795658315662
   },
-  "volatility": 0.0510864938932654,
+  "volatility": 0.0509298420102555,
   "beta": 3.62,
-  "return_6m": -0.1903439111123042,
+  "return_6m": -0.2371245372670103,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 27,
-    "target_mean_price": 263.08594
+    "analyst_count": 28,
+    "target_mean_price": 260.29715
   },
+  "news_sentiment": {
+    "summary": "La société émettrice de stablecoin Circle a vu son action grimper de plus de 190% lors de son introduction en bourse sur le NYSE, dépassant les attentes. Coinbase, l'un des principaux acteurs du secteur des cryptomonnaies, a également enregistré une forte performance, avec une augmentation de 4% de son action. L'inclusion de Coinbase dans le S&P 500 a été un catalyseur positif, malgré la volatilité récente des prix du Bitcoin. Les investisseurs surveillent de près ces mouvements, notamment avec l'offre de 250 millions de dollars d'actions préférentielles par Michael Saylor pour acheter plus de Bitcoin.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Stablecoin issuer Circle soars 168% in NYSE debut after pricing IPO above expected range - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlJ2Ylg0Q0hudlMydnJlOWdpOG9EbGlFX1czYzl6TlFUX0doVzV0SXlLeXRLamFMOXhZNk1yX2VJaWQwV0t5eUNMNVpfZTVDWkxuNmttRFJGdXA1Rm83bk9aWGZmaFIxUllJY3JnNWRCOE9mZmhjRzdSV01FWFp1clhmcld0WGc0NkVGMlZFLTN4ZzE1bEpvNlV3Y3I1Q28yN2NzMjRhY1lwOGRTRzZqRDhkN3F5bnFLeTdiOdIBwgFBVV95cUxQVHAxZV9DZHJoOTlnSm5LbHBwNENibXdwUHdRNzhYa0U0cFNqNThPSF9jVHRNd0pQVmJrOE1KWTNGVTIzemMwa01xRnVGYWU2MmZtMWRub3NRbDF2WTRQQnd1b3I5enM3MFhaU0kzdHd1MlBOeXZCajRFa3FDWGFmeDNKQXY4UzdidHlZcnF4Y24zQ2t5N1F6SDZwczF4NmFwNnk3RXVwd09VV0dQSDBTc2tDVzFfYjg1RElqWHFTb3lFQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Circle stock soars over 190% after IPO as stablecoin giant makes market debut - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFlXamxydHRObG5yN0RsMEIwNWU5OXZOVTFBY0lPY0pZQTlpLUQwT0F5MURYeVBkMTRPV3l2RkRweHV5b3B0RkhSNmdMdzBhX2l1MEppUDNOZGdsTVpkUi1HMDRFQ1M0NHZCN09zeVBCZFRnTTNYWUlKd3kwSWt4V2tFbXEtSWFrVjZNaFhmTFpkMnZ0TjhFX0pHbm5pWXNadHNZOFotV01aYXQ0b3hUcTFEdktCNzVUc2NJZ0dWTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "COINBASE GLOBAL, INC. (COIN) - MSN",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PTGQ3azFTOFd6NkswUzM1eV9hTjl2YlRIU2lzTXdCVFYydG5aVk9UWlR6VVBHaWVaVGFyQjVXQlRfcmV0d3hYVXdIQVpNeUtHbkZFdFhQMElhdy1CYTFVSnU3ZlF5cEJzZVF6ZUVNcHd3TElHSV9R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy Coinbase Stock At $260? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2I0OThfSGlhQ0oxWUdBVHI2UVpwTzRWZ2Y2VzE3cDJuei1uN3RrdDlyeVVQMndZMWJQYnVZSnM5QVRqYkJsd1hhanp0TnExaDI4NFA2ZE13WmFVRkJnMlU1UUR6aFRQQVlWR3VJaWJ4bHF6dEgxV2JOTjB0SEJjY1RDSWtiM0RQZ1dtUkhYckxEWVhycEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$COIN stock is up 4% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHVIaW9wa0U1eDhmb0RuWGpFVEtlcDhmNGQ1UkNBRnFHMjl1VlM4TkFuRWxIWWVpYkNsQkRIbmd2YVNQWV9rM1V6cWYzUWhMN1JyTWxwTk1VRGxZOHVZOW1meDgtUUxSeUFyaVZFOTZMdUdpNk9UWkx6dkluLXVaaEdEZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Coinbase Carves A Buy Point After S&P 500 Inclusion: Is Coin Stock A Buy Now? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yNXpNYUQ5ak5nUkFMQ3JnRVpLNE03UGI0WkYxaW54elQ0am91QmQyM2g0ZGJkdUpJMFRIWFRfY0Vac0lBU2VsdnRoM09Hek1lSmpZNDNEWG1yNzQzTXE4M3h3NnlmMTRQM0N3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bitcoin Stalls and Stocks Follow Suit - Bitcoin.com News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44N0FiajBjcFY5MWNUSWMyWm5hUmJuYW8tc1pqUllSVXNUeWxIcnNYTzFZMTFGdzEyV195a1ZmbWVfbkNSRjh1SjdxSDBHSjhHRTJEN2JxQWJQLWhxNU5oTnd5OXpqeG12QUlxdVhRX0k?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Robinhood vs. Coinbase: Why One Stock Is a Much Bigger Winner - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVVuamFrUTNnZ2k2R2RGSHNDZDY3ZHhIN1BDWXRfNTJoZjRzeE5RV0JXU054cGU3NUNYZjlkV2hWMy1vRHlIZ1JrSjZfUm9GYXFIRWI2UkhjdVJza2RjOEpSMk9fQ2tkNm5iNkg1UmhxcFo4Q0xQSWY0YUR3VW1zaFhDeVJvVGs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 Gains and Losses Today: Coinbase Stock Climbs as Cryptocurrency Prices Surge - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHdNb1NnRzAzUGhjMEVJV3RvOG1GVFVHeF9uZDRiNlpWRnJYUHVubE83VjlQQnRiQlJyUWZmR1Q2U3N6U3R1dE4zVHpBaG5xMUVMOHYyTDJjX1hpTHNfRGNSZHpJaldiRGNVNnIwN2V1emlRZ2Mtc2xaSVBxNmZUQjRDNktaNWdZcUJvM3B3OExJVGxVNWVkY3d4bjdleXJyY0tqTGlWb1JoY1BYYl9GLVFORk93eWRZNmEwX2lBVEpxbFU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Is Coinbase (COIN) Stock Soaring Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSDFnLXhNaVdJWl9MVzFXSzRsVTV3b19vbEVJZjBleXk4cWVmS1V2dkxVNWZiOGhYeDZRZVJuNURXZHNmdnJRdlRNcG8zQW00dXJpR0tOVEhfdWg1VUJiSXFpbnVzRzlyT0tOZG9qXzlIamxQZHEyNEhVWGNJamFYeDQzOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Forex - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iVVB4RkRzcm1vOGxsWUNzaGRMWHU5YTRybEsyMTZibk5uSFNSbUxCdUlwZ3pHLUpkM09GY1IwdEV5aXM5bjB2Z3V6NHU2QzZ6N3VaX0hWMDZzeG4yNkVvVnVWeU9RaGxY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "After Earnings, Is Coinbase Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGEzclpZOEFJQlMxS0xCYmt2NW9KVjkxQVVndnVKZjB5NkhrdkRUajVBdWlzbll6WkVyR0FjSVlmdjBqU0dVekY4eWVtOTNUbDA0MnR2X2ptYkNXWjd5MGx0eXp3VjROZEo2MnNEVHphb0lCZ1RtQ04zNExLUnJSOEhjb1NWRVJ0YzZ0OXNKR1hWTWpMRHZwNGVGMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ARK 21Shares Bitcoin ETF to split stock for retail investors - Cointelegraph",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeWVKYktGNWNTQ2tiOUZzS1pibWxkcXBNZ3hNSkliVHlSNVVjQ1RPVXU1WFRnQWFHa1pzRmhVdTFYcW9iX3E0dGVjM3Y3alZfY1o1SnhWYnotYzRGTFdwLWUyWmZMbW9aaTNtOVUwZTVaYWxBUTB3S3diS09Xa29XZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coinbase Global (COIN) Stock Edges Down on Nasdaq, Strong Monthly Gains Persist - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUl91Tk0ybURNWF9wTVpjMXZhN1BoUHpMYVJDaGN0bGJVNjNzUHJkYWMyMEJyTktJdTdPYzJfNVpoclBNYVZuYXlzdFlhM21hd1Nxb0FpR0g2X2psZ215VHdHSVNJZ2w2Y2RiMmRxNV9nOWRBYXFJVDVmRm9TM19Ick13RzdvamZvRGlpU1dWbGFTOHo2RlBwUFJIbXRJZE45R1FwQXBQWEhZcnctRE1sWU9XZTBfTzBMTE44QzdR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Michael Saylor’s Strategy offers $250M preferred stock to buy more Bitcoin - Cointelegraph",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3ZqaUNHRU9vQmlFSEZoRFNQaDhfQjM3dXpTTUpxRVQ5X1Y5M0lNZC1COGxkdFRlRGdXeDRzX1cwdUJmUVk4bGoyOFV2cjBRMVREY3VUZGxFOUhxVjRFVFdaeVdaSXNldF9JVnZ0VTBRUUtLaDNRU0kyMlZLWWhMam1mU1NNTkJrTlBGS0M2LUhCWlJBYUMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coinbase Global, Inc. (COIN) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmNZMXdrMFBNeW5scVpfcklDeE0xTWRyOTlXSnBHOVF4QWNDX3FpNG84bkl2NUY5N1Q1d1BoTEkyRlpXaEY0ems5WFV3Wms0YnJrWkN6a2dhVFFBWDRIYXB0SDJBalMyS2x0YU1RNjVOLUNjV2QzRFM2NlBRZVlHcm1xc21yZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Coinbase Global (COIN) Stock Crashed Yesterday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMkphaUpubmdzZDFWdHQ2ZWxQUzFZUUhLSDRIQWc4cU9mRVBCMXppQmhpTHA2Vkg4WW5IMHZfN1RaTmxYZmZqWlhIN0RvZFRGZ0oxUmZmRGdkeUF3M3FxWlJ2aEx3VlNkNzlVNHBTX0RPUmZtbEMwNVlOQXM5NlBGUEt3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Coinbase (COIN) Stock Is Up Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWhBamdZSTdMQm01RkFvZUFsZDFKbHNvWHk1dVp5bmRFNE1oT3dwQWRmNzFiYjFjUWN3SkpsbzRZTlp1ajVZUWN6QmdTT1MxUUVPQTVvbG9JV3I1SWlCcEhmWFd1V0FaRnJNX0tucTMtV0l2ck1fU1NZSmo0NlJ1Tw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Coinbase (COIN) Stock Is Up Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNVN6cnlUM2hjMDFvUDM5RzB6Rnc2OUhHaWJQejNlR3N5STM2QnptWFNQWkNjbDQ0eXJFTUQ0cF9LWmJPUXhfRGxUSGo1dkNrUVZUS29IV01nSlY3a1NIZlVCdUlEMzItMnhpRXY3THlKQk1jRXFxR3ZGU2JlcXV3WA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Coinbase Global Stock (COIN) Prepares for S&P 500 Listing With 16% Spike - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc08za0pEQW53N29ob2o4NkNRdXJSbUU1NlhmTUpUTEpuam5yeWQwaWxuWjRaLXFvelQzbTBCM2pibU9PLWZSOTY3emE3dWFNalFGTF91SHNzaEhURFRLekpSaWF5ejg4STVrSUFGMHhFQTAxTTlrY2E5Q2t3eGhjV08tcEo5eFpT?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 302.4
-      },
-      {
-        "date": "2024-12-03",
-        "price": 309.35
-      },
-      {
-        "date": "2024-12-04",
-        "price": 330.94
-      },
-      {
-        "date": "2024-12-05",
-        "price": 320.57
-      },
       {
         "date": "2024-12-06",
         "price": 343.62
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 245.37
+        "price": 246.72
+      },
+      {
+        "date": "2025-06-03",
+        "price": 258.91
+      },
+      {
+        "date": "2025-06-04",
+        "price": 256.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 244.2
       }
     ],
     "current_price_data": {
-      "price": 245.37,
-      "change": -1.25,
-      "percent_change": -0.51
+      "price": 244.2,
+      "change": -11.8,
+      "percent_change": -4.61
     }
-  },
-  "news_sentiment": {
-    "summary": "MicroStrategy's recent acquisition of Bitcoin for the eighth consecutive week has led to a rise in the stock price. The S&P 500 inclusion of Coinbase has been seen as a positive signal for the cryptocurrency market. The stock price of Coinbase is expected to continue its upward trend. However, the recent dip in the stock price of GameStop after its Bitcoin buying plan has raised concerns about the stability of the cryptocurrency market. Overall, the global economic trends seem to have a mixed impact on the sentiment of the cryptocurrency market.",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "KD",
-  "name": "Kyndryl Holdings, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 9107643392.0,
+  "market_cap": 9074779136.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 37.27619,
-    "PB": 7.4044647,
-    "EV_Revenue": 0.748,
+    "PE": 37.585716,
+    "PB": 7.465948,
+    "EV_Revenue": 0.756,
     "ROE": 0.20538001,
     "ProfitMargin": 0.01674,
     "GrossMargin": 0.21173,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 296.997,
+    "CurrentRatio": 1.067,
+    "QuickRatio": 0.74,
+    "FreeCashFlow": 2621250048,
+    "OperatingCashFlow": 942000000,
+    "FCF_Margin": 0.17408846184554486,
+    "ROA": 0.03457,
+    "PEG": null,
+    "EV_EBITDA": 9.265,
+    "BuybackYield": null,
+    "PriceToFCF": 3.460688655369364
   },
   "technical_indicators": {
-    "RSI_14": 62.682735766749495,
-    "Momentum_10": -3.2624807827313953,
-    "MACD": 1.5023574390450491,
-    "BB_Percent": 0.5659830523537407,
+    "RSI_14": 63.1740673613219,
+    "Momentum_10": 0.2922533238277731,
+    "MACD": 1.3086072673628593,
+    "BB_Percent": 0.505917764988907,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9232009857351986,
+    "ValueScore": 0.9168534395107976,
     "QualityScore": 0.2428608945085877,
-    "SignalScore": 0.4278053250628045
+    "SignalScore": 0.4794809678308508
   },
-  "volatility": 0.0286846152366164,
+  "volatility": 0.0287665763709774,
   "beta": 2.024,
-  "return_6m": 0.1491484971090173,
+  "return_6m": 0.1435816306013237,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 6,
     "target_mean_price": 43.815
   },
+  "news_sentiment": {
+    "summary": "Kyndryl Holdings (KD) a récemment attiré l'attention des analystes avec des avis positifs sur ses perspectives de croissance, notamment suite à des alliances stratégiques avec Databricks et Microsoft pour stimuler l'innovation en intelligence artificielle et les services cloud adaptatifs. Cependant, malgré ces développements, le titre a connu une baisse significative, incitant même à des investigations pour récupérer des pertes. Les investisseurs restent divisés quant à l'achat de KD, certains soulignant un fort potentiel de croissance tandis que d'autres expriment des préoccupations quant à ses performances financières actuelles.",
+    "sentiment_score": 0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is the Options Market Predicting a Spike in Kyndryl Holdings (KD) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXhYemFMcXNYbXZHV280SG1NUmFTT3YwNkI4dGNkQThxc1pmYnZzZGNqZS00YnBOLUtwQnB0eUNicnNjUFJpUjJYanVIQld1VWVUdWtWUkpFa3c1eUNXOFNZaWdINmJsdWRNTmduX3Zlb3ZXSUdjc0V2UDFRb2MtV1pSZGc3QUVBTjdWVWh3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Improved Revenues Required Before Kyndryl Holdings, Inc. (NYSE:KD) Stock's 32% Jump Looks Justified - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQci1kVldGTGptRUpJNFRuTlprcmlDOEgzdlBsUVYyTW55WWpXODQ4ZUF6MDVYdy1wQ2ZTenkxZEFRTk5OZFlUTXN4T2lrQlRtSFl1aFpjOGNOd1lQZDd5V2pMWDVRaFJ0Z1hXX1FGWVUzaXdiT0hjbmZRSkpMOXYxVHNMNXlhM0h4QkU1SnBFSFQ3djF1NE1hVXV4M0RPRjFkaGQ2RnRHc0FOVjJsV1A3ZFlEeml2NHYwbmp2NzVoWmYzMkJUOXpMY0ZXQdIB0AFBVV95cUxNMzBiMnZSaXB1NzJaOGFWa01QR21XeV9fMHlVTXRjSVlIckRHTnY5aU8zRzRQZlpPVVlmczJmU2J5TVJQcG5PemVWVEJMdjdvSHZmcWUzS1NrVjNrYkxfMC1mVmZWMDQyYVBMQVRLVGFSMGw1ejZSdGxLZU95T29sdVVNVGhRcmtNS2RHZDlvSU4xdWZIVE01cWtOY05nMFQyUWFaSURZN1dGSzVUR29VbXk3ZHpjd0F6d3NiTjV1NjBUaHVEU3kxdGlUc1ZXd1px?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Kyndryl rises after analysts remain positive on growth prospects - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5MNm9DS0hwUEp0aDg1ZGhGcms2dGNraFh2bjhMdTJVNGwySWFCSEJZRzU0VWo2eV9oMEYwQWc2azZNaEVjS09iTG9aWnNkeGQ1cjRkRWdzQm5McVVVVTJPaTFueWVhbHNoU0pmOE0xc2Z3YkUwVW9TUTBwOXFXSmFZeXJONmFqUS1fYzlGX2phdkpSUkhtWnEtYkZyaHZiTGtsMQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Trading (KD) With Integrated Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3BOTmM3dWNQaU9wc09kMjlYMWJONTROc3B6MEtiNHJVREx1TnVjT3JXLUlwaUhQR0R5RThnWVpRS3FlQlY2Q1ZzY0Zrb2t3aE1YcE9xcU53LUdNUG5TNV9aTkhxbUVCYTJ3UE9kYUVjWTJPc2ZmU0FOZDNSZExIcG91UDQ0UzZFVzBxUzZOMGs4bDVVYjdUWHlaeDZMSjZsR2d4LUlXZkx2aV9walBneXIzU3A?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kyndryl (KD) Forms Strategic Alliance with Databricks to Drive AI Innovation | KD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHdzeUw5enZnaDV3cVBxY1p3WG10OTZJQ1hOQ3lpNElad1k0OHJBYVVWZHREZ0RKazI5S3RDQXpaV2VyRWRGZlJSbzJnR3psOFlnTEpkYlVQY1Y5MTlRLVFtZDZMNzRSS2FjZENYaGs5OFRzUzFIZkhqZ3UtODUxTUpTTDdkWEFPcnVHTzROdm5kOUFLUzFyZUNWWThERHg3Mm9WaE9LT01SYndkVl81eWNXcnFIWGlxZXFsam1QQ1AyRlhnNzg4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Kyndryl and Microsoft Collaborate to Enable Adaptive Cloud Services - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUxHMmJQUjJkN2VjRm41T19RWHVXWFBiVUFXUmhTQVFHNEo0R3BuQ3NuYXk0T2tfOGR1aC0xSGxrN1ZvRFpWdTJzTXhNTWFhOC1wUXpTYl90S3dEV3pScWdwRlRJQUhKQXpJMGtHVVFrZUdFaGVHd1BDOUdtbWxPOXBBZm91M0QxR284cm9mZ2ZublVwVUh0SUhtSjU5NV81Q2JOTW5TbGlDckRoYnZBZQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Kyndryl Holdings Stock Is Down Big Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdUQtc3V1WF9hcnJXbTVkNWtRb2c5SWdMd3RuRGN2S21seFlUd3ZhQWl5S0pRYjRyMnlGS29NdF94UjZ1alRON0Y0S0VtMzdxdjVzekVxUWQ4SkdpU3B5QXNuQzZOTnliclJIXzItNUVjNk9CeTJCeE94aXJwTkxOV3dESFlmVjRKdnZ4V080ZG0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BREAKING: Kyndryl Holdings Down Over 14%; Investors Should Contact Block & Leviton to Find Out How They Might Recover Losses Through The Firm’s Investigation - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPcEV1VG5pZnd2LXlWMDR6dFhvSkN6ZjhpSHVmSnlFOG1zeHJxSFFBcEZYakNad0xicngtRktNSEhIX2RNMm5idFBwMlg0WGxIbmJwRXpWelFXRDR2MHFjSEQyeE4zMW9lUGN4Rk5MZHZzNzQ0OWM2TEZ4bHhuS1ltNlBpOGphUWpuYlBwNWw2Z2twN1o4TDhoRTc1VG5tZzJ0UlRUUnJQT0lTR2owU3Y5UGJiRHp2OHdYa01pYnNHbk96Uk1qR0NxYW9LUkIxVnoyZTZZb3M3azh5TGUtU21aNVBhSTdoYWtlRloyUC02blJLLWRLc1lZbW83TFVsejFRc2RUY3ZyeEgxX2p2anplRnhsWkxHbUp2cHJ2NTRnNndyVzNTekg3R2lJd2Jrc05ZTnQ2UVN0aEhORXVDeXlyUWpHWUZHZElBTU04aw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kyndryl Holdings, Inc. (KD): Among David Einhorn’s Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORElCY1lReXJ0ZGhQVWppejl5UEJpQVZFamVwWDNmYU1HRlpucFRvUU1sQm52TlZOd0J1TXBLejV2UWFfN2JDbk9uZG85dlYydWhiMzg1VFJZQ09mYWFTNzR4WU9qVlJVRDlUU1pUZ1NwV0JkYUxiRTJaMENES0NLRA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kyndryl Modernizes Virginia DMV: 200,000 Daily Transactions Moving to Azure Cloud - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbl83Qzh4Ml9NeWZETUg3dncxcGVlR2xwM2NhVVZYOWpiNUVBdWpqRTNzWXZiWHcydk03T3JpVHhwMlVoYkRHZDAxVnNIWFRUWEo2TWZ0cWl5SGxfNkVCeTBhekRobjBmdFRmRTVTM3FEa3JURVBZYWgycmNfc29yd3AxNk53bTFtYmlWb2VBSzBBaWVTYlJtYnN2UG8wbG1tV1pibzhGYWh6OXVBYy1McDA0TDhSV00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kyndryl: High-Growth Potential Outlook - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1B4N0FGbncwTERiSVpUcUpkMy10YmdIaE5iTnZQZFVnSmEzMW9QZ1VxeXlfQXRZaU1QOGU4bDJlSEE2ZXBuVkVXWlJ1bWJfbUdRR1BjMHpSX3duTGc2RjNESGp5aTJuNG9KTGpsb3VjNlM3dHpXSW93emZwdVdGaGdVTEo?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Solid Earnings May Not Tell The Whole Story For Kyndryl Holdings (NYSE:KD) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42dmtBekJOQko5NGx5dVJncGZISW5jX3NkMzJVN0d4NzFQbmhuWVlnTmFOcEFkU0JyeUZmN1NxdlVHYzhkRXBUTVJmeHRFeE5BV0FycGFoVHJleFR3Nmo1SnczUGlPeHE3VFd4dkJnSmN1OWxoOUpnbU1Xbnk1dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Google Cloud Names Kyndryl Global Infrastructure Modernization Champion for 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGlnemM4Q3E4TWtCZ1l0c1pHSkdHUmVQQ1VsUXpXVFlTb1RLXy1wc05YYzlUcEctcVI3SlAtSzZTTHVVUlMteHVoVEpQMEVhbi1jMmhoYjRHOThiM0JjamZqcWhzUnJCeW5KSE44NkZub2QxUzhxUjN3b1RUUnAtaHgwa2JicEFhOVM5UTNxSXc1bUtTUHk1WnltdGZxS0dUSl94cWZGREd4WkRwU1A5YUpDbWlDaEtFOUFFSw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Kyndryl Holdings, Inc. (KD) a Buy as Wall Street Analysts Look Optimistic? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwY1B1b09pTEVsSmt0Smw0cURXQVFOWFB0OFZJQS0xMUxWNHFuanE2d3BZNmVJem9LTmp2eTZ3bE5NMjZad2ZsQ3QzektSanlRQVpaUDNiZjBIdHpiZF93M0tqLTdmaXBQamR3ckxpOGRoekRkNmc4QWZFeklFZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AI Implementation Crisis: New Study Reveals Why 95% of Companies Are Wasting Their AI Investments - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNejBuT2JIV28yalVKa0VOT21SM2xmQzVRYlZ6TThLdmExR0t5cm5QYzVmczBDeE91TjZhSzEwd2ZQUEpsNFlrSFVYQy1WNF9VNEJXS1NqSUowcVRDVEdzNk1IUG5fLVJJdUl6MV9iMXV6VUJMeEJnOEMzUDZMOFNoaWtaR3VodWVUNFFXbUhNZkJZUE1ld2VhQ0E5TGdkc1F5dE1rTTd1MlZ4NXlWUTQxNFNR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KD or DUOL: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMQjVaN3ZYQ1o3NHNYUmVFLVVUOFRUbV9NeFJGam9CM0prN21sX1dseWZIY0ltSkN3VHRadElVc1dQRTItQThzTm0yWENKdWRjczY5bkhnMTdjQ19fWTJXV0E5WHpMVmlBUE5iZXJOWU5kNThZY19KbGwtSlA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kyndryl Holdings, Inc. (KD) Stock Moves -0.86%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDQxQ1Fsa1pSZHdxVkVHaWJpMjdiNTBiVkxkWklKTWZwNjZHeEhKUHdUQ0xsSXB6V2VmY2Q3OHJ6dFZxWWllUmpRN1hHU2pDQ0R5WXlNcXM2SDhPdmxsVkFaS2RHa2szUUdab1BOU2ppOXQ5ak9ZYTR1TGFzSmxvUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes Kyndryl Holdings (KD) a Favorite Stock for Billionaire David Einhorn? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNjQteUdLbzVxZDA5U05yR05BNUlJVGo2blROckpLcHNkdGJvb01Tenk2bUtYMDRmdDBfZldtemUzRVlvTUdpOVBhRjQ4dmdSOVplYnIxOVJpd0JCU3ByWUdpZUoxRHhJMkdmM1J3YVdyWncxOUJBUTJvOUVoU29qaW9ZRnJsZlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Kyndryl Holdings, Inc. (KD) the Best Spin Off Stock to Buy According to Hedge Funds? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTYXlRaVY2NEhHeEFFREV0OWZiRkt0T2U2RmV5Vk1ET1liYzFsYjNicUpPM0RLMmNtaWQ0Vm9yZzJaejVScEVUSEFwQTl2a0NnS3UtcXBhMUl5MU5HSWdlM1RleVNpVHZHYmFYdkVELUd1bVlaczUzc1pHcnhZRzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Concerns Surrounding Kyndryl Holdings' (NYSE:KD) Performance - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUU9NX1M1ajVxYmx1a0hRQVRGLVZnck9FeWlTaURTRW94bUI2Y2w0Z3N6ZkZZbXR0aGQ5dFVUR2JQY3NpQVdMNWNTZVZkZ0RMVlllTmxsRGl0b1VGSWJ0WHU3bkliM0xGUjR6NlBZTWNxN1cyb1RFb3FxaFFKbEZuZ3BfdVZaZ2N4V25GV1FQZkFXVFkzYmczQzlPT3U1dm1xaEs0NjV4MUtfd0xjQWlUZ0o1UUIxTTYzeHUtUnM5ZzAwWGctOUHSAcsBQVVfeXFMTm9pQ2JYV013YWV3b3RGaDNDVURwUEhmWU1HN0QyTlFNS0dpS3BnYXg4YVhwQ0xObGxPVlRRTFN0RkVqMkxBb2Y5N1c2RlRwdkp2SGFZYWhnQmtlVExRMllBS0Z5Ml8wLW53OWZTYnhSVjQ3Z3duVXlwandlWXZObnhjeUVremRzblp0YWhzVW5VdzFoQUNvYVA4WU5ScmhiR1BUWWR4eHMzR2lKckd5V24xQmQwYWZ0MUczb0FuNE1jN2ZLQ3FyM01lT1E?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 34.06
-      },
-      {
-        "date": "2024-12-03",
-        "price": 34.78
-      },
-      {
-        "date": "2024-12-04",
-        "price": 34.81
-      },
-      {
-        "date": "2024-12-05",
-        "price": 34.67
-      },
       {
         "date": "2024-12-06",
         "price": 34.51
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 39.16
+        "price": 39.18
+      },
+      {
+        "date": "2025-06-03",
+        "price": 39.72
+      },
+      {
+        "date": "2025-06-04",
+        "price": 39.55
+      },
+      {
+        "date": "2025-06-05",
+        "price": 39.45
       }
     ],
     "current_price_data": {
-      "price": 39.16,
-      "change": 0.15,
-      "percent_change": 0.38
+      "price": 39.45,
+      "change": -0.08,
+      "percent_change": -0.2
     }
-  },
-  "news_sentiment": {
-    "summary": "Kyndryl Holdings (NYSE:KD) has had a mixed performance in the market, with its stock price falling by 14% amid market pressures and concerns about its AI implementation. However, the company's revenues have shown improvement, and some analysts believe that its recent partnership with the Virginia DMV for cloud modernization project could lead to further growth opportunities. Additionally, Kyndryl has a high-growth potential outlook and a recent price target increase from Oppenheimer. However, investors should exercise caution and contact Block & Leviton for potential recovery losses due to a recent decline in the stock.",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

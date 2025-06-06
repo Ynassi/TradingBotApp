@@ -2,55 +2,73 @@
   "ticker": "4385.T",
   "name": "Mercari",
   "sector": "Consumer Discretionary",
-  "market_cap": 390682345472.0,
+  "market_cap": 409505464320.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 24.464691,
-    "PB": 4.6122527,
-    "EV_Revenue": 2.052,
+    "PE": 25.64076,
+    "PB": 4.834471,
+    "EV_Revenue": 2.137,
     "ROE": 0.21622999,
     "ProfitMargin": 0.08625,
     "GrossMargin": 0.70908,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 213.353,
+    "CurrentRatio": 1.343,
+    "QuickRatio": 1.29,
+    "FreeCashFlow": -13732500480,
+    "OperatingCashFlow": 2856999936,
+    "FCF_Margin": -0.07205030565052677,
+    "ROA": 0.03103,
+    "PEG": null,
+    "EV_EBITDA": 15.216,
+    "BuybackYield": null,
+    "PriceToFCF": -29.820167486351327
   },
   "technical_indicators": {
-    "RSI_14": 52.98156288243447,
-    "Momentum_10": -0.896580483736447,
-    "MACD": 16.51908446684547,
-    "BB_Percent": 0.6454341884551484,
+    "RSI_14": 62.40549846890729,
+    "Momentum_10": 3.791666666666667,
+    "MACD": 31.14963553165444,
+    "BB_Percent": 1.1316260454753273,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.891791833686259,
+    "ValueScore": 0.8883545359227184,
     "QualityScore": 0.3943271239250145,
-    "SignalScore": 0.60734611269353
+    "SignalScore": 0.5028637517275074
   },
-  "volatility": 0.03347164071019,
+  "volatility": 0.0334801284508137,
   "beta": 0.99,
-  "return_6m": 0.2342248766554142,
+  "return_6m": 0.3055555555555556,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 13,
-    "target_mean_price": 2537.6924
+    "target_mean_price": 2568.4614
   },
+  "news_sentiment": {
+    "summary": "La demande exceptionnelle pour la console PS5 de Sony a entraîné des ruptures de stock en ligne, reflétant un fort intérêt des consommateurs malgré les défis du commerce de détail en personne dus à la pandémie. De son côté, Canadian Pacific Kansas City Ltd a publié ses résultats financiers, offrant des informations clés aux investisseurs sur sa performance récente. Ces événements indiquent une dynamique contrastée entre le secteur technologique et celui des transports, pouvant influencer le sentiment de marché à court terme.",
+    "sentiment_score": 0.5,
+    "label": "POSITIVE",
+    "positive_ratio": 0.5,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Sony PS5 sold out online as pandemic chills real-world retailing - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEY4LUVDOGgyNDg5djNOV0RWam92VE1tMGZoWU1WRlM3V0pVOFIwYUdtVmFYN2QwMmstVzFYQWNRUGFLM0Robmk0ZlR3ak40NS1GUFRTVFFXSzM4YjlHcVJXYnJQeEpib0JSWXdLSTQ2dHJxd3g5cU1FNHBVcW83dkVyTVR6bHp3emNtRWFsYURUYjNuQjlRUTB0WjZtX0lHbWQyWmFfdEhHLXdxakZ4Z0Y0UnVjUVFVUElnTDJHcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Canadian Pacific Kansas City Ltd CP-T Earnings - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PeUEzQmdTUzFDWVZZUjZoQWVxeWxhWE1TNDAzSllxcmQtdUxrcTVlVVZPWk9taVFWYUpwWTZXU29PZ1d0RFYyZTJ6cUQzUzIxYzZIeXI3cHNxS3hLdmVicVpTMGNzS25nTzlrZE1qNkRSWXNVR3luLTRtdVZjQQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1925.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1958.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1948.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1908.0
-      },
       {
         "date": "2024-12-06",
         "price": 1915.5
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 2376.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2396.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2470.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2491.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2627.0
       }
     ],
     "current_price_data": {
-      "price": 2376.5,
-      "change": -16.0,
-      "percent_change": -0.67
+      "price": 2626.5,
+      "change": 135.5,
+      "percent_change": 5.44
     }
-  },
-  "news_sentiment": {
-    "summary": "\ud83c\udfaf Tokyo Metro sur le parcours rapide avec une hausse de 45% en d\u00e9but de march\u00e9 - Reuters: Les ventes de m\u00e9tro de Tokyo ont connu une hausse de 45% en d\u00e9but de march\u00e9, ce qui a pouss\u00e9 le m\u00e9tro sur le parcours rapide.\n\n\ud83c\udfaf Investissement de Bain Capital pour acc\u00e9l\u00e9rer la croissance des stocks de petites capitalisations - Trade Brains: L'investissement de Bain Capital \u00e0 hauteur de \u20b94,385 Cr pour acc\u00e9l\u00e9rer la croissance des stocks de petites capitalisations a provoqu\u00e9 une hausse de 4% en",
-    "sentiment_score": 0.6,
-    "label": "POSITIVE",
-    "positive_ratio": 0.6,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "WEX",
-  "name": "WEX Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 4518647296.0,
+  "market_cap": 4675059200.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 17.004187,
-    "PB": 5.568556,
-    "EV_Revenue": 2.182,
+    "PE": 17.592783,
+    "PB": 5.76131,
+    "EV_Revenue": 2.252,
     "ROE": 0.24365,
     "ProfitMargin": 0.12071,
     "GrossMargin": 0.72149,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 689.166,
+    "CurrentRatio": 1.047,
+    "QuickRatio": 0.956,
+    "FreeCashFlow": 666412480,
+    "OperatingCashFlow": 153100000,
+    "FCF_Margin": 0.2551251695984012,
+    "ROA": 0.030450001,
+    "PEG": null,
+    "EV_EBITDA": 6.49,
+    "BuybackYield": null,
+    "PriceToFCF": 7.011152444203926
   },
   "technical_indicators": {
-    "RSI_14": 47.28663062939867,
-    "Momentum_10": -5.349332240558454,
-    "MACD": 0.425314705607235,
-    "BB_Percent": 0.4530267147049327,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 52.985463313672625,
+    "Momentum_10": 2.646619753730028,
+    "MACD": 0.880232146720914,
+    "BB_Percent": 0.596187696955087,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9281893033167016,
+    "ValueScore": 0.9259202350505014,
     "QualityScore": 0.4167568005952268,
-    "SignalScore": 0.5275545356396765
+    "SignalScore": 0.5265634435770006
   },
-  "volatility": 0.0343606886019997,
+  "volatility": 0.0346923501032761,
   "beta": 1.22,
-  "return_6m": -0.3029082145394363,
+  "return_6m": -0.2540297886989908,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 12,
     "target_mean_price": 154.825
   },
+  "news_sentiment": {
+    "summary": "La société WEX a récemment attiré l'attention des investisseurs avec une série de mouvements significatifs. Le PDG a réalisé une vente audacieuse d'actions, mais a également investi 500,7K $ en acquérant 3 700 actions. Malgré des résultats préliminaires positifs et un programme de rachat massif de 750M $, le stock a chuté de 5,1% depuis le dernier trimestre. Néanmoins, l'annonce des résultats du premier trimestre et la perspective de croissance modérée maintiennent l'intérêt des investisseurs, bien que des commentaires d'Impactive Capital soulignent un besoin de changement au niveau du conseil d'administration.",
+    "sentiment_score": 0.3,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Top Executive Makes a Bold Move with WEX Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEtxQ3NDQ0RtQTVsdTR6OHlvUG9Qek55Y3ctOGQ2cXIzeUpFQVQzS3B4RXJOczM3dUNrdGxpVDhqYmVmN0RKdlNNVnhKdHFCVUt1czFPQjFXQnZRX0lNNnBNbnd1LUdHQkZBeno3MS1CN1plNHgtMEJ2VjV6SnpUNVByeUlhRTMwZEtXMnpHZkRoTi1CcnhfY3U5MEVtdlpIdUxfUzB2WlZ2M25iekZnQllLQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(WEX) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd3V5SzIza0xDbGlGeC1GSHdOUEtoYUo0OFhEc2hNeGlBUXZBejBCVnVJSGdpOU1VcWhHZDRtQzFSamRRNDFyX1BvM3lIeU9ZUkJvUmhtZUl1SnlGeVNZOVc3WkZYckQ1SzN1OGxtTTA3VEctS1Jmc2lZam5tT1VDTXZSYkwyTWMtSW1WWmFXLUdaTVVURHJycnI5Vmp5S2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fintech Stocks To Consider - June 5th - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEFSRTRVNng4dGZFUkwyVGhxbzFJRTBpbHNZQUdNSDJWc0Nfa3JrZjJLU1BGTUtMSEZIMWdSVGJfUjJjWnhVSHR3aXpxQVdxalFkdmdDcmhOdExtamI2aUpRZW1iaFVXWVNuV2lEdWxqTkRZTktJT3YtX0RPbGxCMl9QeUt0UkQ3SGw5TFg5VTlpSFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEX CEO Invests in Shares, Buys 3,700 Shares for $500.7K | WEX S - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFJROHZrSlhkWWxCRUp0Y01rdlI4dVlBakN6T0hrOUp2QWFXS1Y4UkwxYnR3Zy1DQklQTlB0SFZzRXNzS0drOEo1UzFGVE1lSWtrbFZBMjRCbUlFYXhWVUpTUm1KU2hYVzIzSEtRaGlFcUdPcmF1S3JpSEFVbzlodHg4OUdQTjdzT1FkNGpuVkJTcHVPcWdPSHN5aWpWbTJFemtaZFJpaE5IQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEX Stock Declines 5.1% Since Q1 Earnings & Revenue Beat - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42M09jOVIzaTdtMWhMVVY4YW9sUzh0YnhUVjZvcHYtU010bEd1ajAxOWlMc1F3MEJ2cE1rNmtpUGlzZVpQeFJvWlBDVWdpVnlSa1ZVOUJXclJvWnVtbWdjYzhlQmp0THY5a3l3MXFHcVhwaXFjZ2dj?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should You Buy WEX Stock At $160? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV2prN1ljeGd6cjQzdE1VOThiU1dwTE9fdS1xY0J3cld1aWR1RGcyQ0VnX1lORnZPSXlUVHllczVWTWtsMXIzMjRKajQxX05xMGo3enkyd2Z1SVprRG1yS293MlJwdDlfZlFDU0pEcE90VlQxbHNEWWNWNW1XaGlhaVBDZ2YySHRuX0U3b04wT0hMbkxz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEX Announces Preliminary Results of Tender Offer - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMnVldlI5RDRPNXVIV1o1V0NXQ2dzc015emliSkRDTFE5b1hZcTFRZHpXSWJCbE9sUnUxSWVCdDNhQjJ2Z1RBNzRhN2pObllXaG1EOUQ3NmpYbnZkWlN0eHdOcDMyc2c5eFlLWE5XZnp3Y21zVzFlVjJJWllEWk93SVp2YW1hdVJoa3g0RVNWdW5OWlRhOWJrYWFKS3NpSjAtYVVYcG54ZkRNdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Transcript : WEX Inc. Presents at 45th Annual William Blair Growth Stock Conference, Jun-04-2025 03 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcFRlZWxHR2lDYUNRcVRQdDFXOHlfdWhGS1YtUEVwb3J3UGdvTEVhdzd4OEtIbjZtZ2IzNUpQcHMyU05fOU13RGtXTVFGdW55VVI5SUEydERsTzUzWS03bmVYbEhNOGdHbm1DbkVadGxfYkFTMzNPdjNBYkRoSWpmT0EtclZmVXlTdS0xMHhqeWo0NVl5dkdQWURkQXlkdGYybVZVYmYwQnduTTRTS3BsbXRSa29VQmdybkVSd08xZVI2aUtWaG9EMzEtdkl0QnZ0a0NOa2ZqdWlJei03Rk91dkdKZjFZMGF3MmNQOTgxejBTWWVvVUV5RlhQdFhaMWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEX's Massive $750M Tender Offer Draws Strong Investor Interest, Buys Back 12.5% of Shares - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR2NRenUxdTRsb1V5dzhfNTM3OWdZT3d2ZEZZRlg4ZVRpUnFuTkJHaC0tdkR3RktTRVRUVjBJTU1lUjZhOU11SW9MeDIzdUZnN01qSXFjYXFLaHdfNkpMNllkcWdiSWZyaHlkZTl2dTU4c2FJRVhmTjlaVzhLVndhODlvakl4TVJuempjUTJOaERabDhmUkE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Reasons Why Holding WEX Stock in Your Portfolio Remains a Smart Move - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEFkdkkzWV9hVXdRQ3ZxV19NSVNyamJzX3NPRUpSSlNULU5vYUN5NUFzWVpTR3FGVlBXTGZzVnJDTWFtMWM2MEd4a0xyMVlWUXpmenc1cXBOVnNwZm9oNmlxSXhxSTczcjdIbXMyWmhtQ1phRGdjMDJyNm9nRXdHTDNKTUZCU0RBMVd1b3R2OFNxNkJNazc3RFJyNWRLbVBudnh3WlVLM3NlTVBSUnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Wex (WEX) Up 10.7% Since Last Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQRHppYzJQTmJwR21RanVaOGpfSEgxa1lwQnc2VWVlcko2Q0VUTG1wZ0c2STg5WWhtRW9WclRObVYtYjhLcDRvRnF5ZURFaHBiZ1NwNGlGNGJTSTVNNlFNVzE2a3d3ZGFEd05VUFlESjZ4Zks3Vlgw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "WEX Inc.: Cheap Despite Tempering Growth Expectations (NYSE:WEX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORWtOYkJfcE9xdk1nMGc0MFowUGY3UTdkQmd6WFh1WGx2Und5cVFDRlFhTWFBelo2ZVRzOGJzbmVTdnR1b1liX0NvMDNMYWEtanlmNk1sNTdKSnJiemRyZTU4WUUxWWwtazQyVlFvLVhPUjRodm5iVTkzdWh5cHNONVNueXFDWUJudDRnRUNSbFZ6Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "WEX CEO Makes a Bold Move with Major Stock Purchase - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0dFVzV0a3Ixd3NhLW11Y1l4WW1XQTVhSXFrZEtnM0hEM2FHODNPc2VWWVIxbk5oaGo2OFlnbXpoSWxieXliRFJ3OC10YklvRUc2RjNDSE9maVFkY1p0YnhvSjJaU1ZiVm9FTlBBdUdzUkdEd19lNjJ1WW9UeFBOYTdhMVM4aUNqRWNSd21iYlFVcTdtVmpVWWJyaFBMZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "WEX to Present at the William Blair 45th Annual Growth Stock Conference - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNi1kMEJybVNTNXROazVUZ3Q4c1BkR1pUSlZXd3h2dXN2QWpHemV1Wk5UYzVlUzU4ZFZfekhXS244TWt2Sk0wNGNZdUxIbGItWDlpTWhELUpiamFfTGhCYm5CN2NuMnRqMUxCdnBsczItQ2FselNIOXN0QWZGQVVCMXUzbTJBdmdBOXpfXzlZSWR2bTQxb1FyMEVVd0Iyb0ZXQVpIb0MtdjB3clhtWDAxVGRNenMyTi1nMWFWclBldXFfZUdFNnVz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEX Stock Rises 17% Since Q4 Earnings & Revenues Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkWDAxUS05UVNNQTRPcGZjSDJaNEFjdF9kTDFBalBoYTRXTGFKSmZEeUU2MGtmREZ3U0dZLThTWWxlWE5UTVI2TWphOS0xVzdXY3NKOWtTNjR6NHZBVXN5RFczWjBRanhUOUwxWlBhT21vb0VsWmJXSUpn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "WEX Q1 2025 Earnings Preview: Key Metrics to Watch on April 30 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2d2OFNPUTNUSXQwTkpYcmp5UFNZcEZLeFdyaVlxYTFBMUNOd1ZpMHBrTEZkd0xvWW8yU29STklZWW90WUpmZUFBRjQwc3RSaVRCQXdDRmJTR0pMLUhzWWZ1Z1l0dWRBdEpoaHlHdkMtajN6NmlPeEkwdzhIV2JJbTVEQWY2WElHNllYb1U2a2wwRFQ2VEtJcGdHOTJwanRVd1ZLQUJCdGNkaGJGdnJyekVBQUp1YXotb1BidHlB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEX Stockholders Approve Key Proposals at Annual Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVE5bkdqTzhoUEVrSWl6UElmWjZhd1E3Q0FRNUotN3VTb283YTlQZXZfVF9WMlBjNkNIMEd3ZVJPdjgwOGk3bWV1VWNrbWtRa0dKeFBBbmkzNlhZdVZhRGpiTFpTQTYzLVNtbVRnSUlUU1FhbTE1WGtFVkFjYzNFcnBrSXpoWjlRRGw1Y1BqQzR2aldGb0FuSHlhWmFELVg0RnFENmZhU29pZmpp?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Impactive Capital Comments on Clear Message Sent by WEX Inc. Shareholders That Board Change Is Needed - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNM0dNb3YxekE2aWRGNEgtQ1hTX2t3VjdJZjBmSHlZbDJwVjNva05PNkxCVzVaUEtvXzhIb2tvb05DOG9JSUNRek9EZ1gwZnpKMHNGaXc2M2J5V29GSjVOeWVab0N3S1ZfN1pfU0pBdFhvRUlERHpTcTc4S29KWGlhcUR5RFg5UkN4a0JNcXBhb3RjTXE0Q19XcnNYX1o5RE1abmJ2bEZGR01vdXQyUkJYZGloUktTLXljeUVTYkU0N0o2UzBOWUQ3V09kM3dIUUFhRHBkcm91VXVBWDBBVExuLUNlQkVLb0FvS1I3YnVRZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEX Extends 30-Year Partnership to Power Enterprise's Massive 900,000-Vehicle Fleet Operations - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb29WSV9JdGY1RExTVUtGOHUxc1p2aC1OYjg5ZjhnYldIaFJFMW5jSFhsZ0VmRHUyMGJnSEZ3YzFwQVAtOFhPTVN2T3FMTU15QjhXN3AyN19NQXIzVElFazc1ZDBDMzU4OTV2c1RLQmFiUy1vcVEwakd5alo3XzhQeFR0RGV1dU96U2t0dE0tc0lTOGZaNlNDajAxZjR0eFRoWDRaOXVR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "WEX Inc. Reports First Quarter 2025 Financial Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVJwbGJUeWw3aEFkcElzRXJzaTBfcUJfblRDWi1SSm1uS1NJbWw4cjd4eG5xbVlDX0hDRWtLclFWYTBXTmhnak9fSzBkMkJUNk42Yk1mb1Nid1hzTzZCT3pKaS1yUk14TG8zTllsQ3dvS09Eb1ZiLUMydDRhV1dwNVJQdXY4M3hhdExxOTBmNU1iMl9fejR5SXBGZEVQNDloQzRRalVGV2YzZ2dHR3RR?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 189.29
-      },
-      {
-        "date": "2024-12-03",
-        "price": 186.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 183.9
-      },
-      {
-        "date": "2024-12-05",
-        "price": 182.7
-      },
       {
         "date": "2024-12-06",
         "price": 183.01
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 131.37
+        "price": 131.63
+      },
+      {
+        "date": "2025-06-03",
+        "price": 136.62
+      },
+      {
+        "date": "2025-06-04",
+        "price": 138.28
+      },
+      {
+        "date": "2025-06-05",
+        "price": 136.44
       }
     ],
     "current_price_data": {
-      "price": 131.37,
-      "change": -1.57,
-      "percent_change": -1.18
+      "price": 136.44,
+      "change": -1.88,
+      "percent_change": -1.36
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent la soci\u00e9t\u00e9 WEX, sp\u00e9cialis\u00e9e dans les services de paiement \u00e9lectronique.\n\nLes principales tendances cl\u00e9s qui \u00e9mergent de ces titres sont:\n\n1. Investissement positif: Le CEO de WEX a investi dans les actions de la soci\u00e9t\u00e9 en achetant 3,700 actions pour un montant de $500,7K.\n2. \u00c9volution du prix des actions: La soci\u00e9t\u00e9 a vu sa valeur de march\u00e9 augmenter de 10,7% depuis son dernier rapport d'activit\u00e9s.\n3. Offre d'achat: WEX a annonc\u00e9 un tender offer pour acheter 12",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

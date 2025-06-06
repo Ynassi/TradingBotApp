@@ -2,55 +2,163 @@
   "ticker": "HAS",
   "name": "Hasbro",
   "sector": "Consumer Discretionary",
-  "market_cap": 9245711360.0,
+  "market_cap": 9178448896.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.77558,
-    "PB": 7.9027433,
-    "EV_Revenue": 2.84,
+    "PE": 21.617163,
+    "PB": 7.845251,
+    "EV_Revenue": 2.798,
     "ROE": 0.39041,
     "ProfitMargin": 0.09988,
     "GrossMargin": 0.64394,
-    "DividendYield": 4.2
+    "DividendYield": 4.28,
+    "DebtEquity": 280.61,
+    "CurrentRatio": 1.655,
+    "QuickRatio": 1.205,
+    "FreeCashFlow": 522600000,
+    "OperatingCashFlow": 807699968,
+    "FCF_Margin": 0.12252362176652426,
+    "ROA": 0.087139994,
+    "PEG": null,
+    "EV_EBITDA": 11.79,
+    "BuybackYield": null,
+    "PriceToFCF": 17.477244424033678
   },
   "technical_indicators": {
-    "RSI_14": 59.530928765192535,
-    "Momentum_10": -0.784366168139021,
-    "MACD": 2.015697840918122,
-    "BB_Percent": 0.612454708328996,
+    "RSI_14": 55.98504829656451,
+    "Momentum_10": -1.4921521293009734,
+    "MACD": 1.4985049736235538,
+    "BB_Percent": 0.457537030345936,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8883069173175688,
+    "ValueScore": 0.8855282023165874,
     "QualityScore": 0.4459047891913477,
-    "SignalScore": 0.575576302012861
+    "SignalScore": 0.5768373986202031
   },
-  "volatility": 0.0283905569241821,
+  "volatility": 0.0282862413978292,
   "beta": 0.556,
-  "return_6m": 0.0410488817892336,
+  "return_6m": -0.0030274223849956,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
     "target_mean_price": 76.34231
   },
+  "news_sentiment": {
+    "summary": "Le marché boursier a récemment été marqué par la chute de Tesla suite aux tensions entre Trump et Musk, entraînant une perte de plus de 150 milliards de dollars de capitalisation. D'autre part, Palantir a connu une montée fulgurante de 74% cette année, suscitant l'intérêt des investisseurs. En parallèle, Apple fait face à des défis avec des analystes pessimistes quant à son redressement. Ces événements soulignent l'impact des actualités corporatives sur le sentiment de marché et la nécessité pour les investisseurs de revoir leurs stratégies d'investissement.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is Tesla Stock A Buy Or A Sell With The Robotaxi Service Launch On The Horizon? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTNMQ1B6M3o1aFBpcDBFaHJpUWt5MHRuczhzMHo5bzRaS0hNVVpfRWN1VHdEWmc4VEJmU1Y5Z3k2VlIwX1VidXQ0eVpPakpPMVJta21BT1hLOGJEMGt6VGlSWkl4b3c1bDBkeHFQQk1iTGxjTjVGX1lBVG9qNExTNEdDR3pLUUxJcWJlX3BPOTdnNktMQVdqaHVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Has the Stock Market Reached Peak Optimism on Tariffs? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTDJaajRXamRiNzY3bmhhTmlBSjI4aG14SS1hMXhMTkJ3Mmw1eFRLclZCRTJyYi1BWHFXelQ5ZjBLU2hJeTRpTHBXaHdoRnAxYzl1bDhHbFd6bEw5LU9Ucl9YX3owZElqdHBEMFNIY3NBc1VDU0NBME5UNG1kMlBtNUVwbEdpOFJNa0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street stocks end down as Tesla slumps 14% on Trump-Musk feud - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnM3U0JhdEcyc1FOTEVUSXd4NU5GbXVIcTZyUzBiVkVDbDlIcnczbG9fYzRGN19mNWktaXpwSzU0OUN4ZjltQkIxU2o5YTVqVmJiU3VSenJtRXBndzBrNzBFc3pJOWlyTlBpQWgySFlsUnpfdFE0endiam1GRktJSkpybldrTDQ2YmljZktPNFdVNjFoNHdlLWpsMUNUOXk3d25NMg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla has lost more than $150 billion in market cap since Elon Musk left DOGE - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQk9UUFpOVE9RanlIYkhUaDI3amZCVExMLV82TGVrMnIyQzVFQ05jRk1wWDJWN1UzR2FlOGlvbWk0NThSemhGNlJQU3dQR1R1LWQ0OW84R2RmMUlUbmszTnhaZmdUdG82RllmUVhZRTYtQzlGUTd3MldqQzRncGZtQU1ROHhTR1hEeUJGS2pPRDFRbWV0NURTLUxOVEdqTTlGLU1HSVpyNXBUc01EMFBRREZqUWxhMXFKT2N4U0x4NHN3bl9OZ2E5YnAzbm5vYzF4UDdvTEdzalBhdzYwQjVlX25FNWdmSlV6ckE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Palantir has soared 74% this year alone. 3 reasons why it's been one of the world's best megacaps. - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3JnZ3h2SktMMlpqWm5xTGJ0RnZzVy1sc3haLU9vM2pwNlVsc1AtWHNRVFNUNXI2MjRIWmxSYXBZZk5meHdFc2JFWENTRzU4dWtmUnBhQU9iWW5TU2hqcXo4STJTdDJpUUNoY1RRTlRMWWNrdlQ0N21iZ252UUpoeDZSdjdSTUZvWjdVZ2F5WGlQd016OUZkc2RSZWdoaGNNbU1DQWRB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Could Netflix Stock Help You Retire a Millionaire? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTW1ORU5kcWpFRXE4cnNsQk1BdHpxYTZyLUtDSDJWVGdPelhEbDFEVmphZ0xtRGN3Wk5aUlNnUFZKZnlSOG9GeUdfOGFCV0ZNaVE0VHgyRzBXeTk4dnBGdGhzT0VzVG9jWTUwV3pyTkFObndCV3VuQ2FldnJnSmF6NnEzVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Near a New All-Time High, Is Nvidia Stock Still a Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2psWDdGanhOTVVtckZtcmNHbGlKbHZIWk5CMU9zVFRaZ1NlRk1mNnV2Q1d0RmZlRzhZbks1ODRIQ2dFQ0tjSW5mVDdSeWxWbnRrT2VTUzlrY2V4elpwWWg2ekc1eVZ6YlJNUWpPMHdVcFFTMkU2SjJBTXpkTDZNZjJIWTFIeVN4bkdhQ3ZkZ2VpTVhPUUV3Xw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vince McMahon Has Dumped Close to $2 Billion of TKO Stock in 2 Years - Front Office Sports",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzlVd0x2ak9IX3hVNDdMYUMwb2VSa2hfODNrcmJQbTY3T0FuSW41VVVSckxIOEFjQ3VWMExzb2lvZmFGU2FMZ2U3Z242MjA2U0U3elBYSG9WdHBqdXJDWmdnWkhGOGlkMHdUTXA4XzVGejhVaURlUU1Dcm5odFpBV0Q2QVBMMk1LRTEySGxTVnJXcFNlV190b3dxRFlIX1k?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jim Cramer has one-word response as Robinhood stock surges toward S&P 500 - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG5TWmJlYVd3U3FQM2h0OFZySkpSX0pvYl9tNDZ5N2Q1VG8wN0ZvWEhRclc3VjFXbE9aRDNtYllfQVBPYmI1MDlSUHRPdTF6enV6ZTg3VllieTZEaGFlN2N6UjhaTjIzdHJkR01MVjhOMEpwczNhdEphaFdoX3hHZnlHdGVRNllUX3Q5Zk45aFlzQUYzSG41MElycmJpc2FFOXg2azhOS0pvTjRFY0poZmc4UjU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tesla Stock Drops Over 5% As Trump Suggests Musk Has ‘Trump Derangement Syndrome’ - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMm43T19EUzZkZVVVX0QyXzFMWC1XNG9wYTU0WjdaMHZhanNpcW5OVWIzcGo3eDg1TU1CNGJDNHZ4RW1salJYNFhvQnBVX09qaHA5NkstZERnYVl4dWU4YVBMLWVmcmlKWG1WOXdlQl90RFVPVzdGNHRGV1F4ZkVPTjNMWTRtSTRacngxc3N0YWdnSWp6M25qQjMwLW1rQUhTa0luTXFMa2lPTFFaak9uZTkzVEc4MXU1ZThDR0xGSjdsejZQU190bnNsNklkZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock Market Insights: Investing has changed. Has your portfolio? - BizTimes.biz",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeEw2bGtaczdpbzZDUUxySEsyTmtyQjQ4eUlaOGlLRWJwMDI0S1BodmdZd1phUUpLeWhrWXB4djVZVkh4bGpaWWdicF9nWEx1Yy1icEgwajh3ZGU5T0VqbkFTYWFwRmNsZU1vdHA1Q2JRQ3huRlhTUlBVcFd2UE9xRnBvb0xGN0tMRkJsRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "This biotech stock rallying on cancer treatment data has more room to run, analysts say - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLU11SERyZHRadWRDcDNyWjBMM3dTRmRveHdiWHc1VG93LXNpT293N01TVVhwd3I0R2QzSmZfdUdUak9FcmpCVU41Z21yR1pLUzFtWnBZbXk0Q0RBbzk4Tlp0WjVrUnVfdXJjTGdIQ0pLRXZFX2pUUGRjUVZFcWJGX1Z1aXpOeWRHVVh6WkowYVFTa2JXY0hfRngzNXFUNjdpLWcwQXVESVdRNDlSX05wZ2owdTNWUkY0cGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JMP Securities Has Lowered Expectations for Flutter Entertainment (NYSE:FLUT) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRlhYalBjMDdwQzR5ck9PTlFVQlgydlVNdVlYTFVoQmZsaTAxUlZpZTdna0lVTG1Pci1GVVp3WjV3X1JwcldOXzZfYzJlcGMxMWRkd2pzekFWZDNjUWc1N3hjcDNPRlhOYUJFQTd0Vzd1X1ZMWEtxcHduNVRiVF9jc3RFZ0Z3VFc1MFR5TmE1TzBTVHliMGhEdVV1am1hTVE2UlVfN0xyTC1XeUxFTjhCbl9rcW9Ha25mWVlWYk1GdkMwdkxaSGFfQnF3UXdKSTlTYWNlUi03NA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple Has ‘Significant,’ Long Term Opportunities, Despite Risks - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XTVotZDhRVUtXR05qMk5JVkczTS1Kc0tuSVBCeEpob3lKanJ5eVZYRFp1My1ydUdvZ2U5eTFkNzhuOGJNR05oWDVickxrMElBN19rajB3MHNNb0xEMmtsMS1zWXpNLTMzSGViWWJQYkttVVQ3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "June 2025 US Stock Market Outlook: Has the Storm Passed? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcGtJTEo4ZUxia2VzaTB6ZDRaUlZDdmljaDQtd01md2JNRnQ5TkphWHRaZGpMNWExR2JyNUtPQ1d6OE10VDFuM2VfVEExb1d1RExVcjFrbXBzX0gxR05QNGhLeWI5aEtlTFJCTWNpa3FIV1Jzbk9mQU1QcEh6SnZBcGVfdTRtcmR3N1hqLXNhMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla Stock Plunges 8% As Trump Suggests Musk Has ‘Trump Derangement Syndrome’ - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTDBCX3FqeWhFMk44Z3ZFUHNzWnVtUU9Gb3gtel9TY2ZIREkxQTBrVWs5emxkS082WjQ3bUFKejVDeDltVVBnWVhjYU5pZU1SMjItc1pYUENfcTUtSjJLZWNZNy1PUkZEN2pxU0hYb010T3BpeExJTVdrWTIxNDBtYnlTRVVqSG0zQVJrbi1WNDVnT2Vrcm5taFhuc2c2ZmRWSnZiV2t1LXh6RDN1ZkxTcUkyRndRay1RQ05jRWJCOHJhQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apple’s stock has been in a slump — and these analysts don’t see an easy way out - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQME56aHJjcXNvYjZmNmRvbFh4M1hnV2haMkZEcFR6aGd6YmM2NW1EbEZjenB4a2pNT0hSTTNEb0xaT09iU2Yxd3k0SHNBVnc0MHU3a09YOTE3X0dPUy1OSk9qNnI4c19LZTlxbDN2dVlXUnVqZlJSOW1ZZFJzWkpmWEZ2bHJrbW9zZDRxQkpSU3ZXOFlaOENJc3NsTzVKM3paNnZPSHJKdWFDeFNJQW9jc0hnRmxROWhZS2hv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tesla shares crater as Trump, Musk feud goes nuclear - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmFsMVR1cm5Kcm9adG5NQV9uSkNZNm8tcWVPb0JHcm02QlktZXFCRHpxQVYwOHdMZncxQmw0X1dscXU5eWJHeTVhRDVEVG0yTHZKSWRxb0ozaHZ4MW9xOHBSNkhLMlJjSEZOQ2dqcmtxRE10TUJVT0gtQWQzT1pIR2dJRDVibnlLTEJNd2xWVFctc1hUUjIw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chesley Taft & Associates LLC Has $33.94 Million Stock Holdings in Johnson & Johnson (NYSE:JNJ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcVFSVUhUR1hNV3B5a1pEbmtONU1VTWx1c3d5NDZOUE1PZURzT0k1LWxpR2I4bnNIdml2OUU2NzBZM2JBS19CNWI2YXFYa3ZHNWlKRFZGdWsyWVJkM0NQZ1ZhbWVsLWtXbFNucE5raVhsT0lyOFVuTnU1WmJKdXczdThFc0IwcWlZZUxzbGtrUFRCajlxck5QT1daSFc2NGFDNnJ6RW1yOWNBdzIxbFM0dHFJTmVXaDUySzQ0a1Y1N0VxUEUzcDFELUljYTdNVzMyLVpSbGh6bTFKdENMNy1JZQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Another sign of Syria's rebuilding: The Damascus stock exchange opens again - NPR",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kVmFZNUdkeFVzOXRuWXV5MmtFd29VMkpKNXZ5LThWVTRVZF9wRlQtcm9JS29CLTFUazZUanp2YWRza0NLMHhuNUtBVjd4NEJzaW9fa2lLUkJPSTZhbVBpYUtfNU5TREJoUjNEV0phZFVaQ1JfWEJMR0V5YVQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 64.73
-      },
-      {
-        "date": "2024-12-03",
-        "price": 65.32
-      },
-      {
-        "date": "2024-12-04",
-        "price": 67.26
-      },
-      {
-        "date": "2024-12-05",
-        "price": 67.1
-      },
       {
         "date": "2024-12-06",
         "price": 65.98
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 65.72
+        "price": 65.55
+      },
+      {
+        "date": "2025-06-03",
+        "price": 65.68
+      },
+      {
+        "date": "2025-06-04",
+        "price": 65.43
+      },
+      {
+        "date": "2025-06-05",
+        "price": 65.18
       }
     ],
     "current_price_data": {
-      "price": 65.72,
-      "change": -0.99,
-      "percent_change": -1.48
+      "price": 65.18,
+      "change": -0.25,
+      "percent_change": -0.38
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte des 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9cents concernant une entreprise cot\u00e9e :\n\nLes titres d'actualit\u00e9s \u00e9conomiques r\u00e9cents concernant des entreprises cot\u00e9es sont orient\u00e9s vers les signaux positifs. Le Nasdaq s'est ferm\u00e9 sup\u00e9rieur \u00e0 ses cotes pr\u00e9c\u00e9dentes, tandis que la Chine a r\u00e9proch\u00e9 aux \u00c9tats-Unis de \"seriousement undermine\" le truce sur le commerce. Apple a \u00e9t\u00e9 class\u00e9 comme ayant des opportunit\u00e9s significatives \u00e0 long terme, malgr\u00e9 les risques. Les actions d'entreprises d'AI sont en attente d'une d\u00e9monstration de vale",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

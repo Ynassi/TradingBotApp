@@ -10,6 +10,8 @@ export default function Layout({ children }) {
   const [hasScrolledOnce, setHasScrolledOnce] = useState(false);
   const location = useLocation();
 
+  const isHome = location.pathname === '/';
+
   useEffect(() => {
     setMenuOpen(false);
     setListesOpen(false);
@@ -47,7 +49,10 @@ export default function Layout({ children }) {
     const next = contentElements[0];
     if (
       (headerElements.length === 0 && next.type === 'h1') ||
-      (headerElements.length > 0 && next.type === 'p')
+      (headerElements.length > 0 &&
+        next.type === 'p' &&
+        !next.props.children?.toString().toLowerCase().includes('chargement') &&
+        !next.props.children?.toString().toLowerCase().includes('erreur'))
     ) {
       headerElements.push(contentElements.shift());
     } else {
@@ -57,10 +62,20 @@ export default function Layout({ children }) {
 
   return (
     <div className="relative min-h-screen w-full text-white overflow-hidden bg-gradient-to-br from-gray-900 to-gray-800 fade-scroll-mask">
-      <div className="fixed inset-0 z-0 pointer-events-none">
+      {/*  Image de fond sur la page Home uniquement */}
+      {isHome && (
+        <div
+          className="fixed inset-0 z-0 bg-cover bg-center opacity-20"
+          style={{ backgroundImage: "url('/images/background_home.png')" }}
+        />
+      )}
+
+      {/*  Particules toujours visibles au-dessus du fond */}
+      <div className="fixed inset-0 z-10 pointer-events-none">
         <ParticlesBackground />
       </div>
 
+      {/*  Header */}
       <header
         className={`fixed top-0 left-0 w-full z-50 transition-all duration-500 ease-in-out ${
           scrolled || forceHeaderShrunk
@@ -73,7 +88,13 @@ export default function Layout({ children }) {
                 backgroundImage: 'url(/images/header_back.jpg)',
                 backgroundColor: 'rgba(0,0,0,0.3)',
                 backgroundBlendMode: 'overlay',
-                boxShadow: '0 4px 12px rgba(0, 0, 0, 0.2)',
+                boxShadow: isHome
+                  ? '0 1px 6px rgba(0, 0, 0, 0.2)' 
+                  : '0 2px 6px rgba(0, 0, 0, 0.2)',
+              }
+            : isHome
+            ? {
+                boxShadow: '0 2px 6px rgba(0, 0, 0, 0.12)',
               }
             : {}
         }
@@ -89,13 +110,13 @@ export default function Layout({ children }) {
                 <img
                   src="/images/Nastrad_full_logo.png"
                   alt="Nastrad Logo"
-                  className="mt-[-65px] h-36 sm:h-44 object-contain"
+                  className="mt-[-100px] h-36 sm:h-44 object-contain"
                 />
               )}
             </Link>
             <button
               onClick={() => setMenuOpen(!menuOpen)}
-              className={`space-y-1 z-[100] ${scrolled || forceHeaderShrunk ? '' : 'mt-[-65px]'}`}
+              className={`space-y-1 z-[100] ${scrolled || forceHeaderShrunk ? '' : 'mt-[-95px]'}`}
               aria-label="Menu"
             >
               <span className="block w-6 h-0.5 bg-white"></span>
@@ -123,6 +144,7 @@ export default function Layout({ children }) {
         </div>
       </header>
 
+      {/*  Animaux (taureau / ours) */}
       {!hideAnimals && (scrolled || forceHeaderShrunk) && (
         <>
           <div className="hidden lg:flex fixed inset-0 mt-24 items-center justify-between pointer-events-none z-0 transition-opacity duration-1000 opacity-100">
@@ -152,6 +174,7 @@ export default function Layout({ children }) {
         </>
       )}
 
+      {/*  Menu latéral */}
       <div
         className={`fixed top-0 right-0 h-full w-64 bg-gray-800 z-[60] transition-all duration-500 ease-in-out ${
           menuOpen ? 'translate-x-0 opacity-100' : 'translate-x-full opacity-0'
@@ -182,7 +205,8 @@ export default function Layout({ children }) {
         </nav>
       </div>
 
-      <main className={`relative z-10 px-4 sm:px-6 lg:px-8 ${scrolled || forceHeaderShrunk ? 'pt-24' : 'pt-[350px]'}`}>
+      {/*  Main */}
+      <main className={`relative z-20 px-4 sm:px-6 lg:px-8 ${scrolled || forceHeaderShrunk ? 'pt-24' : 'pt-[350px]'}`}>
         <div className="max-w-screen-xl mx-auto">{contentElements}</div>
       </main>
     </div>

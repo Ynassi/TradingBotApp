@@ -2,55 +2,163 @@
   "ticker": "ROST",
   "name": "Ross Stores",
   "sector": "Consumer Discretionary",
-  "market_cap": 46480687104.0,
+  "market_cap": 46768414720.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.330175,
-    "PB": 8.23526,
-    "EV_Revenue": 2.199,
+    "PE": 22.468405,
+    "PB": 8.28624,
+    "EV_Revenue": 2.236,
     "ROE": 0.39566,
     "ProfitMargin": 0.097950004,
     "GrossMargin": 0.32706,
-    "DividendYield": 1.16
+    "DividendYield": 1.14,
+    "DebtEquity": 89.95,
+    "CurrentRatio": 1.55,
+    "QuickRatio": 0.894,
+    "FreeCashFlow": 1142341504,
+    "OperatingCashFlow": 2397782016,
+    "FCF_Margin": 0.05374176363040403,
+    "ROA": 0.1129,
+    "PEG": null,
+    "EV_EBITDA": 15.561,
+    "BuybackYield": null,
+    "PriceToFCF": 40.945151813375766
   },
   "technical_indicators": {
-    "RSI_14": 46.55854613485496,
-    "Momentum_10": -7.572588261648522,
-    "MACD": 0.2383361731568243,
-    "BB_Percent": 0.3018337512384001,
+    "RSI_14": 47.62747267435096,
+    "Momentum_10": -7.001563856056485,
+    "MACD": 0.0485559598581062,
+    "BB_Percent": 0.3190136195855773,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8900049890410631,
+    "ValueScore": 0.8869133505353488,
     "QualityScore": 0.326745812098804,
-    "SignalScore": 0.687454513360648
+    "SignalScore": 0.6566947397376306
   },
-  "volatility": 0.0182525382518108,
+  "volatility": 0.0182401009776368,
   "beta": 1.157,
-  "return_6m": -0.0909293958357396,
+  "return_6m": -0.0867621506770368,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
     "target_mean_price": 150.562
   },
+  "news_sentiment": {
+    "summary": "Ross Stores, Inc. (NASDAQ: ROST) a connu des fluctuations importantes récemment. Après des résultats trimestriels solides, le titre a grimpé de 5%, mais a plongé de 15% suite à des perspectives mitigées. Les avis divergent, avec Jim Cramer recommandant de vendre ROST. Malgré des prévisions positives et des acquisitions d'actions par certains investisseurs, la volatilité persiste, suscitant des incertitudes quant à la performance future de l'entreprise dans le secteur de la consommation discrétionnaire.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "NBC Securities Inc. Raises Stock Holdings in Ross Stores, Inc. (NASDAQ:ROST) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSmNONENBX2toSTl0bTU4T3NVWFd5dW1TcHlKdkNDb0JtaFhOS3poOWsxcUdzeUx4bkVWcWdNVlhwR0ZoRGVzQ0VLb0kxV3R1RFE0RnBMaDllbVlyLUpGQmJyb05rQzEweElJUzVpRVZDMUZhOWlzT3ZtQ0FfS3Z4bjVlaWViRWpMU3BIM1RFaHkwWlp6LXByLXFzQ0x1WGtvSDJ5RGJDblRmbEQ0NlpBMDB5RHhJT1dWRG9tTEFZODU0eFNQM2hmSnltcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ross Stores (ROST) Stock Moves -1.67%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0Mmd2NkhkYU55aXAtckFlUnhZa0d6cXRHRHIzYzVwWWRPM1hLakh5TDNqdGZnZVFiUFlBVzZYdmd0Y2NscFczMllBLUFlUmhJZFctYTAxbTlMQVU4Nl94WHp3ZjBDR0FPc01mQkI1czFpTjZ6MERvTV9XclFKVkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ross Stores Reports First Quarter Earnings - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSHo4TjhzeW5PVVJ5bXdsRDBJaEltLWdVd0x6a2ZCdC0wLVdsaGV0eFlwRDFXYjZxYklpeXlhNy1qQ3JDMVZmTVV1LUxCOTRtRnQ1TmJjMzc3UnZYQ2F2X0ViRE9zbUdDUTNmdmtrMW53dzM2NnBOSDNrV2hTYThxYUhMRkFndWJlbWxJYnp1ZmQzZ0FnQ19YRlljVVdNbXNW?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$ROST stock is up 5% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzFKMlBFMWhldF80MVI3MllHd2IxMUFGV3JLSjhIa2FFR1pfS0VHYU9TYjlqbGxZVllkeVgxNmFrUmlQVnY0bWZqdmFiUndnR1dIUV83Z01DRlpzMzVzV0lFWDFBLVkwWnR6ZTRHM19Wb2gxakFTT0ZVdDNQQzBjV2g3Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ross Stores Stock (ROST) Dives 15% on Outlook Update - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUFMa2hibXpsZkpDcDhsbVQ0Q2VxVGxVRUFVdkx5WW43cl9xdGxibWhhNHN2TnZVcGNMN3ZQMTNnblBIMUljYW5wcldCY3NmZXQ1cV9EWVV6TkJQTmY2dFJXbVNjZ3lRUXBRbGdsWjJMeDJIQm9IaXlMUDJXMmdTZ2lVX2xMTWVzZG8wcTFWSll5VXowWUwtYW1BTXcxbTVzb3VFVVdkdzZGc21NVFlKZHgwQTNjZ3BtVzl6VHZSWFBaeGRTRTFFNUJYRUV0VUdTXzlZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Will Earnings Results Move the Needle for Ross Stores? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSE5SbEtydTRTZTZBb0RWbVhkdEpKLTFTdXVRcmEzUExqdi1adkhVVXNBMjNjY2ZSYVBDUTV5Nk95T05NRmdsZUVQUTZOdUJMLUIwMW9PaEMxYmdUM29iWHlmOFczOVg4WlZqc1hUMk1EQUlVYkZaRm1KUmk5QTFkUlpZcDRoMjRzMzFmMGRLWGh1czdacVMxVEJyZGp4VkRwaVpYT1Q5RS1YNDNHOUZyVnZGS3k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Says Sell Ross Stores (ROST) and Buy TJX Instead - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnRvVmdla1hLV0xpUDVqS2d6N0NxLS1LaWd6U3NMcWIydVM0MUQ3blhLNGRSdkd0TTVKQ1ZPRzlIX2Nlc3cxWUNWYW1QU2g1MVVWQmZxcnJVZUhlby1xOV9QbzdaRHJZVW11NFhnS1ZEdUpnWVBaX2pYeFFJeFJfNGRkQ0hBSkRhRHhUZk9SS1Nmb0JJLTR2dkxBSUhfTXZqQ1Jj0gGrAUFVX3lxTFBaQmxNckRJVlNBRWtUMGpZWEdPajhXc2trRzZIOGM4dTVoT0g1TUkwaWdnSFdDMmdyVVR0aW5fQlBfSjZMa1VBbkZ4ZVNEN2VjZW8xVnFEWlBYYURPSG5BMVVoUEpFQkEySlhjdlFJVGJOd2JMTm02WTlHeHk2a2l4S2NvUTFJeG9UNWc5XzlGZWM1MDVXZERpWjk0aXluUEN3U2N4SVg0QjRoWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks making the biggest moves after hours: Intuit, Workday, Ross Stores, Deckers and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTVHckYwVUNvcmVhYVQtZUNnbjNiek9OZGU5TktCa0ZxbG9RNkVKS012VWlPaWFWUnBKXzltZm02NVBPNjRqalJkX1NfOGJHMjhRR05YVkJPUGx3THJuYTlSX0M5RGJmeGR0cWJEZjV0eXFXM1pDRnZaclNoU1N3WGk4VERZZ2w0TlhTakJBekcweUtXV2ZGclAtU3daY3VVNHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Grows Stake in Ross Stores, Inc. (NASDAQ:ROST) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUpLQ0h5ajNoZ3Z3UkxZdlFsWko2WlNRd3FNVnlRSTVDWUpEWGR3QlBTS2FmdHh2d2VHZUY4YWh2OFpJcEw3U2VPQWpkVlNkd1Y4bkZ2OFQ1b1oyeS1ScGdlUlUwejNXbkcySHZVcTBmYVJZSzV1bzlaWFhLTlpDYW1DZzdCbGRtdkozQVlGMDRDWndkSm1tN2FRa1NBNmttRk9RWl9naTR0UUwzMlpkX0RHSGxZeTNlU2J4X2tJUmJ4QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ross Stores Gears Up for Q1 Earnings: Will Investors See a Surprise? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVl6eUhWdUhiXzUxUzVVUkIwdFgzeWd3MlJ1QUVlMGpjR0RWOHRtNmk1NGtoUGVkQzZsVWpKT3FVUWRERDNRTVhzZ2VZM1RjV1d6SnRjdTJ3VTBfcVpxcUZJS014NHgtUGZtOVBkRGV1cjN5WER6V1pZNlBQcjR0cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ross Stores Stock: Is ROST Underperforming the Consumer Discretionary Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXZMSjZBTGxvWUtsNVFveTNFejlfel9qMV9vUXRQUzcwbTJMZ3hiX2tGX19IakRKWE1WY0FVSG9pUk1RRFlUYkEwUHpZUGM4UjNFVjhPLVV1RkdjaC1pNFp6a2JOOWdoRlE0YUw2bGlxS01oa2tTQnJfZVRvOVNodVdlSm12TGlrTWI3WTRvTS05UXRtZGw4N1lKNEYzS1lOSkE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ross Stores, Inc. (NASDAQ:ROST) Shares Sold by Wealth Enhancement Advisory Services LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPU0dpWWxmVzAwQmRxd1I4SnJfNVQxendIaUNERnV3c1hwY25qZHZLM01wa1NwTmdtT182cWZkV0ttXzgwdUc2bzM5WEE5Nm1MOU9qQmNrZXNteVJUckpiY0RkN0p6RHlkQ3Fnd3VxaGNGX2luM01GOUFjM0hfY3ZmZ2Q3M1ZxMTRtbDdqcTN1QkJSYm0tQWl6UXFGVW1BdTVyY0UwdzJuc2NVclZ5YzFxVWFGWmRpWEM4OWhOSWo4T2QxZEU2VXBJLU9UT3NHeHVjRVJ5dFU5cmZqYTlTQmhBaVRwQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ross Stores, Inc. (ROST) Stock Forecasts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1YxcUhOMmZYWkxKR2tfVV9TNXhrUWZ4OUtqVjJwMXdiaGx5V0pfQ1FoNHpudk8tS2RJZG5LWFNGcENUNFprWWVJMllVSDd5LWJMTjk3Y3pnY2NIMlN2N01JSzNwWmxNZzVHbDVyTThPSUk2YTN0OGdqeHZSX1diYlctV0cyWF9TazJKMg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Ross Stores Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHFPNFBOT1RucUxjLVV6YUlSM3BsVGdGNWUxLW1fVXU2cnc2YUhxZDlYZUx5Nm56NG9mTDZ6Ui1FbjFSRHFPRjNXdTFzblo0dUVEd01rTEJlUjRGNGdtQnJwTThFZXZaOWFOaWRFOXA0bWgtRGttZjdOaFNKamxZZFhMUXhJWVNiOUhuZHFwbWdPcGhqUi1DVzVpbnpXMlV3TTl1Y3c2SQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ross Stores, Inc. (NASDAQ:ROST) Receives $158.67 Average PT from Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTFlSDZLQkxDTGRXUDlPZGszdHhHZ0tRamI2RG5rQ2ZJdFJsZlBaV3EwaGJDVU5JZTROd1lMc0RQOUpsd1h1b0Z3X2VYd0x0cEl4X2d4RkM4bDRmZDhobjdUWERpcVFXTDRmV0dGc3hUbldUbjZyNDlyMXE3dm8tVDhiRURTbjJYWDVWU0JhTTZCaWVVaGpHQXlFSkc2dDV4ZXlsNTByLVNhc0Q5OFI4TFV1OHRDMmRodFFnLXZKbktlTm1HWGwwZi03QUFCUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ross Stores (ROST) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oWVlvNDBYUXowVDZycVhxV1BCanRzWWhJYlUxLW81RjB3RFlQbUlNS3lhX1Y4RldCb0o0eWJVZHZvQnFtZmpNY1NpMjBVUUdXWmlwZ1lHTUh0dHZnd0U1MWlkZTlZUjZaSXVabUNtbUFlb3BZZkZhd0JTVEYydXc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Rhumbline Advisers Boosts Stock Holdings in Ross Stores, Inc. (NASDAQ:ROST) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZkVxS0hRei1HMDU3d0w0NHY4UmRhdEF2Y3B2TnhOYmNzRFczWURkWTBkR3BqZnp2X056SUhNODZVZUVNTXhVMlJyc2dSLVpqV05ZTWlxdHhORXp6YVVJbHNhTjJKVTNneFZuUFVGLWpNSUZqdEhDbFgzUi1qY19NWjJtWGk1TTNVeGl0NWlFdi02WDlmbEtLc2VMempIZHFDb3FNQUMtcmdRUVVhRDB5VlFzdjYtOVQ2ZDNzcGdaemRsX0xhY3ltYnZkcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Czech National Bank Acquires 3,858 Shares of Ross Stores, Inc. (NASDAQ:ROST) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNnRWR2czTHRBVm9MVlk2NUNrNW9ReV9QZlV2Tnl1anN4UEtJc0hoYXZXLWdrT0ZLNmRGWXhSWTZxLURNR3BxM3JLeUxkMzRicVlnbEk0eWZRSFk4RDdSLVV2ajktVzQwM1dWbjc4cmNkVmJOQUc5azhDSmh2YUs5bE5uNmo0LUFUX0pLRVJDNDJPWFNHUmJDc09KU3N1X1I0ZmplZmlidEY4WjFhN3phcmVIRkUtZUxwczVRMW4zeWJmQW9kZURLekFNOS0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ross Stores, Inc. (NASDAQ:ROST) Shares Sold by QV Investors Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2dfVlVLTVNEbjNXdUVfRWNvMWlNSmwybFFVb0lfWEtUZTVUYkFQclo5YjhtV1ZRZHVYY1pfcG51WC1CMmZoWmltT3VGZlp6YjE2eTVkWWdHOGpObmFzZnVtYlRDVHVTY2t6TnRFWGZwTERaRnZiMWlzejJVU1p6NVEwbERXT3RiUGVaQXExTWNxbkxOc3J4ZFE2bXI2ZFdSeTNsWlNNOEVoczhwT01MbmxwVThFMXUzY0FFelMzelh6OUQy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ross Stores (NASDAQ:ROST) Exceeds Q1 Expectations But Stock Drops - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlRYZVM1aXNPTGJKRUR5NHdXTVdoTEN4RVItVTRTNkM2d1JFYXZDcTF3R2VIMGdUUWlkd3dUVURwamRHTHBpbGNET2Nra0x6R2NSNm83eEVDT0VZSm9qbjd4bTgtYjFoUm1NUWdpNFNsbXVxT3RQMWVqTDNzUDFKb2NSbw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 156.36
-      },
-      {
-        "date": "2024-12-03",
-        "price": 153.72
-      },
-      {
-        "date": "2024-12-04",
-        "price": 154.48
-      },
-      {
-        "date": "2024-12-05",
-        "price": 156.61
-      },
       {
         "date": "2024-12-06",
         "price": 156.48
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 141.67
+        "price": 142.42
+      },
+      {
+        "date": "2025-06-03",
+        "price": 144.03
+      },
+      {
+        "date": "2025-06-04",
+        "price": 142.51
+      },
+      {
+        "date": "2025-06-05",
+        "price": 142.24
       }
     ],
     "current_price_data": {
-      "price": 141.67,
-      "change": 1.58,
-      "percent_change": 1.13
+      "price": 142.24,
+      "change": -0.27,
+      "percent_change": -0.19
     }
-  },
-  "news_sentiment": {
-    "summary": "Ross Stores Inc. (ROST) has recently faced mixed signals in the market. On one hand, Jim Cramer recommended selling ROST and buying TJX instead, according to Insider Monkey. However, GAMMA Investing LLC purchased Ross Stores' shares, as reported by MarketBeat. Additionally, Ross Stores reported its first quarter earnings, but its stock price dived 15% after an outlook update. Evercore ISI also issued a pessimistic forecast for ROST's stock price. Overall, while some investors have shown interest in Ross Stores' shares, others have expressed concern about the company's financial performance.",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

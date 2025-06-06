@@ -2,55 +2,163 @@
   "ticker": "TKO",
   "name": "TKO Group Holdings",
   "sector": "Communication Services",
-  "market_cap": 13008480256.0,
+  "market_cap": 13832086528.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 80.77665,
-    "PB": 3.1249142,
-    "EV_Revenue": 7.553,
+    "PE": 85.89086,
+    "PB": 3.3227618,
+    "EV_Revenue": 7.785,
     "ROE": 0.043169998,
     "ProfitMargin": 0.06022,
     "GrossMargin": 0.69767,
-    "DividendYield": 0.96
+    "DividendYield": 0.92,
+    "DebtEquity": 30.107,
+    "CurrentRatio": 1.246,
+    "QuickRatio": 0.814,
+    "FreeCashFlow": 399396736,
+    "OperatingCashFlow": 701361024,
+    "FCF_Margin": 0.1401051320459215,
+    "ROA": 0.01617,
+    "PEG": null,
+    "EV_EBITDA": 30.395,
+    "BuybackYield": null,
+    "PriceToFCF": 34.57411449651907
   },
   "technical_indicators": {
-    "RSI_14": 50.3192613839341,
-    "Momentum_10": -2.605820050262161,
-    "MACD": 0.261127646183354,
-    "BB_Percent": 0.3332265770692381,
+    "RSI_14": 64.40299461665214,
+    "Momentum_10": 5.774531530153769,
+    "MACD": 1.564753560663945,
+    "BB_Percent": 1.021655202935155,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.867310670360061,
-    "QualityScore": 0.3867214094769825,
-    "SignalScore": 0.6350755310164857
+    "ValueScore": 0.8628764713438832,
+    "QualityScore": 0.3865286911666119,
+    "SignalScore": 0.4845158885983136
   },
-  "volatility": 0.0225463757464782,
-  "beta": 0.99,
-  "return_6m": 0.1823673845888023,
+  "volatility": 0.0223673273202481,
+  "beta": 0.9915,
+  "return_6m": 0.1769057503777522,
   "analyst_rating": {
     "recommendation": "strong_buy",
-    "analyst_count": 18,
-    "target_mean_price": 181.72112
+    "analyst_count": 19,
+    "target_mean_price": 182.15685
   },
+  "news_sentiment": {
+    "summary": "Suite à des ventes massives de titres TKO par Vince McMahon, d'une valeur de 250 millions de dollars, les investisseurs ont été témoins de mouvements significatifs dans la propriété de l'entreprise. Des entités telles que WME Group et Annex Advisory Services ont acquis d'importantes quantités d'actions TKO, tandis que des investisseurs majeurs ont pris des positions audacieuses. Ces transactions suggèrent une restructuration majeure des actionnaires de TKO, avec des implications potentielles sur la gouvernance et la stratégie future de l'entreprise, ce qui pourrait influencer le sentiment de marché à court terme.",
+    "sentiment_score": -0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.95,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Ex-WWE boss Vince McMahon sells $250M worth of TKO stock amid sex trafficking lawsuit - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmNWMkFjbVZsQnN4clRSbnZsM05xalNxSGZiNF9EcWRxZlpzZVpXWnk4N0ROZVA3bXVCUWxqRUpmejg5VC1HYlBkMDIzSFc4VFdBUlREYk8wNzY2NFN0TFFQNlI5eWdYQ3I3d3VnTVNiOU1PbWZyeGtJMEx6SWMzemNPS1dNV0hEbEIwQ0VMel9fd0dLNXBiVUJKSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WWE President Nick Khan Unloading $4 Million Worth Of TKO Stock - Wrestling Headlines",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMk9vT3NXMmQxNjF3WEhDZVVNckNaOURVUFVlbjQxTUxCOGJMWTRxbmhrSnRWTHBwak51VU1BYkh2NUlZNVU2RHNZNlljZC13NUxiMnAwYk9hQXhZbHBtX0JBeDVGMVBWVHhNdTFMYWFTTHdpT2trRGZ2NHd3T01HVkNoS1B2MHpvUVpxQTdNcFB2M3VuUkVGYmNn0gGfAUFVX3lxTE1CTlpZWWNGN2VBd3ZHRVFYclFta0oyeUpva3A4d0VVUWptUnVaSm1ma3pIbkdDRVYxUkU0dmFMd2tKNnhhQ3ZsaTJSazdIM1JzaE9nRGtNeXMwWlBjX2xjZ2xOYU5UZURrbDhRYzRScTNySm5wUm9uS2EtN0JYNHdmOGs1RndLa29aNFEzYkhrLXdORV9DdG9RdHkydi1YQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vince McMahon Sells $250 Million of TKO Shares to WME Group - Variety",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1lYbnkybERsS0VWV2o5Q2tGc1FsOXRZSmw5MXRuRlBsMTg0QlB0V29hU2E2a1A0ZlJuVHpES21yWmlRaFRUdjdDRWYzWWZOYWJWRVZHeUtuSWptWnR2cHlGZ2NJcUdTUnNtMVJWcFJkTzcwdko1ZkE0T0wzS2syajViTGUydG1zclNMNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TKO Group Holdings, Inc. (NYSE:TKO) Shares Acquired by Whipplewood Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUEhIR2xSdnIxNFF3MDJyMEdLN3N0dHp3RE55MWtnX0JlSE1veEIyaEVDaDVRQUJfQXJ1U1QxV2ZucnhKNHc0S19TRXVMdFlMSW8xX2lwN183enFpdE9nLTktU0FtckstUVJDb0VDODV4MU9QZ3FPZGlQLWtsUndhUGpTZVhzS0pJQ1JuSjdJd2JZVUEwWk5aNHU0dHFkOTU2b2Q3QW8yWDlTem9rcWEzQWhmWEVzRDlacGE1bUt3ZjNnMkZSSkZrRm9UMVJSM2JCand5c1EwS2ZpN1lXOFF1c3FST0o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vince McMahon Sells Significant Amount Of TKO Shares - Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkJlMFhYdGlJMEEyQzkwbVY1dUFvUkxLUFdDWl9IbzdfWl95MDE2aXh4Z21sR004OXNianI5cGp2YmxGMUlrWWUxQ2tmQ1dYekdhZk1pNG1rZTNNZjJuQ0wyWGJpSk9EZndWUlZ4YnI3NmRjYThkN2dkVmFMaHdRa19BUTJiVGxkajctYmhQWG1pdTlDbVlnanlQc3N5bXRL?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WME Group acquires $250M of TKO Group shares from Vince McMahon - Sports Business Journal",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHV1bjYyS05qWXZUclIwWnZJRUw2QVpPM2x1OGs1MG9NWTlDM010ZmlxZERySFMzNkpaU01CazVwS3pyaVpPcTFHalVpd0VCbWdCcmNxRzNKMXFaYU1yc2RRRDNtcjhMYm1rSEktY3ZJTXlKMlZzUnNZSkpGdmVTRVdSLW1HNTFOWjYwSDdfTUhxcElRaUpabm9fWGVOSXZJLWJJWTBYVmtZcHRyWmdnR1dlbUdzSTRWa0lpLU1B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vince McMahon sells 1.6M TKO shares for $250M - filing (TKO:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTHIzamVRaS15ckd6NHFPZVVqQVdUY1puVlotb2l6MFMyY2d1b0xKRTIyalZtNVhiNmc4eWl6SzJvdlRXR3o4ZTFIODlZWHE5YnU5V1NXV2RTcWE5RmJ3cmhPQ0gteWJ5UnlpUkdYNzJhLWRjb1JKWWRrblNlcENWQjFVejVRVURLdERxQTVCa1ZPbm05?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Former WWE CEO Vince McMahon Sells $250 Million In TKO Stock Back To Company - ewrestling.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ1VJMHhKOUtzTy1VUVEwWW8taVZUVEszaFNyNHh5c1lMQVNRRHlYQWJ5TkRNX0tnZTJVQU96WDNWOC1rV2g1NGppV21Vb3d3UVB6ZzBreGhyVnpuazhwTDdNNHRnX3dzR3lPaG4xUGdyT3lRc1REMU9HN1hwY2QtZXpRbWg3dEpmREE3dTZSTkFoc0lQU1ltcGRtRnJXUGFrQjIzNGxHVnNMRlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Investors Make Bold Moves with TKO Group Holdings Stock! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbXZseGNkRDVYVHk3WEdDUm0xTi04dDVCWnJuekQxVmpOZEJLQVZwbVNidUF1WFpKby1SMnJYOWZfV1Z4MmFwR29Jb01QbWNnSXNVVEc5MGtCWk9WQ28wb1hiZjI4R1psam5PQzkxbllhTHZsT3Z1R0dVRWh2UEdUNE9TN3FYNlc1UlprcXhCRjJXbXdoY255SmhaTXl5YVllenlZbXdqRk4zaVd6RkhwUUxKYXpZVzhYTU5LZERYM3E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vince McMahon Sells Significant Amount Of TKO Shares - TJRWrestling",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3blJuVkpGSWJkdWo5NmNjcFJtaEF6TENhd2N1cUdYdk1DY3RoVm5IQ0RNSTBXb21qc0tfS21kSElyamlhYmdIVTdXNzNySjd1OUZoeUNwbTFoY1JWRGE0U1A4SzhBcENaZVZRTHFkbVVyT0szOU82ZkdBN1E3Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Annex Advisory Services LLC Acquires 42,238 Shares of TKO Group Holdings, Inc. (NYSE:TKO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTmd4U2UwcEZBTDZIRjN4bXhodGVFU3M3Yk15WUF2ajlIUnp1Rk1QeWN5NHF6YmVWbmREZEtTMDBLbG81LWdhRDdONXU3djNHenhXNnNHWk5OeTRKdTRkWnU3cEZIeGoyaDBnOTYwQ2J0Z3poM253TGpFZUJvYVRxZ09FTHA3M3VvSW9FQl9rUV9VSE93OXcyb3M2aEdRa2hPSUZpeUdwSGxldzBjd3l5UHI1WDFTRGRCamtiOGlmckdNZ19KU1YtTDFHVjdpdFZxVER0dWx1RlZZSVFT?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Former WWE chairman Vince McMahon dumps quarter billion of TKO shares to sports powerhouse - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb2YxREhfaHZ5d0dXZC1SSmNoWlhZZ0J0RENBc3BVUVdUemFYUVU0WmpZNDVuM19FU2NEeXJtSWdvbWxIa3N6MU1SeGI2M1ctbm5DQnVmNVVmZ0xLYWU1TWFwU0poTkVLUl85WGhOVGE4ZWREclhNeXpUR3ZHcWoxZzg5THFlQ1VjQVVPQkdHdlRrZmM4UUZIaFI4LUpyclpKekRDckx2dDN4NGlGS1NzemJnNnlUcXJ3Y3ZQb2s3QlFHcDVYS202LXJBMnJ6TFlOeUdVbWJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Retireful LLC Takes Position in TKO Group Holdings, Inc. (NYSE:TKO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkhFb3VZcHpHdDFXLVJuaC1FUDhydTlkcGJSUmdud0FoRHpwNnduZHA5MmxOR2hBbkROM3Z6eHl1NF8zSHM4a01SSUlaSmRrSy1Md3hMaGhmVVJXYXplREVPV1VmenhfbHdtTUdKYkpSMWJ3X3VrT3JLQ1FSQkR6WXJVSWVseWtxY3dHMmFrMVhua0Fab0NFTTN5WDhqT3R3bjlXdE1VTk1kQjFldDBqVU9iTkFaeWxnRkZtY0Rtajc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vince McMahon Sells Nearly $250 Million Of TKO Stock Shares To Endeavor - eWrestlingNews.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOenRya2lPYnUzRXEwdk9lOHh3c0RkRUNTdXZYTVEyY0ZHM1U5ZTlBWFU3dExaMld2SmFSYU9ldXhZemt3akowU0lNOGZrekkyelNsck4wYWI3UDFkV0VQRGJEUUpKT0tDWUp1cXVKR1plYnhnMHdOdWYwQmR4QlE1bkRYWVM1UFVRSHd1X1ZjNFhRR3d3R3FyY1ktbk9HMDg4d3FPcEZEdkE2SjZFWm1n0gG0AUFVX3lxTE5iUWRuR1dSZHlTb1FaQi1HNFFNcFpQbkNjVVN6Q2NUb0kwTF9PYkRvZEpPVU9HTGtsUmpTaHN5ZmJ1UzViN1E2VjdIYjUxcnQ2QWZlb0VNNWctX3FDTkJVNC1pTl93czhFalBpYnN3Sng0c3RiSEduOUNiSU5TSldrbXdTb2hVUHI3ZkljcFlDYTlqd0lGcjF1aXlSTkFMemZfa1FCU3IyNTNnUmpkS3Y4bUg2Ng?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Former WWE chairman Vince McMahon dumps quarter billion of TKO shares to sports powerhouse - Times of India",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZTFVRkhveml2VFJCWm5ZSnlPWVFJVHM3WDF4ejR4MlNZS2o1WTV2X0pDX19KMUxYV0c0LUpHbm9QbkxqYWtjOTFHS05jeW9GeUF6TmpwTk83MHFDZkRlbVllTTFpbHVWallfbzZRSmtwRUdzUEVnc01BVWMxMkpXT0pZbFpCaVJVNklLQXdnaDNXcE53T2pTMzdQam1BeVI2bUFVUHRrSnFlRURQVXY0TFU3UUU0WXhnbzRMZ29VUll4Y2tqcUc0U0ZWa3huQ2Z1d3QwMC1STU5wZUJNbDBzX3o1MjNGOW5PU0l4UUk4WHRqdDA0N3pFcThwdWRaRnBaNnZoWTJfSdIBjAJBVV95cUxPdXViLUN4ZXZtZExQZ2xOU3VTMDJHdzIxU2hYd1M2ZWJwUExxTGx3R0Ria3lvazJSVnJKUEtJSnJVTEozdzVPRUJfcWwyeUtabDdlOFFqYXVUTGptWlF6NFU2dmRCVzFYY3NRUmVMa3ZFbkhuZWVGVE90VG5rcWlGOU1LZmhIRV9ySTdVYWRtQk1MQjJmaDBpelF4c0gyQ0pDc2FFWVNoRmUyR0RrcmhVV2FGbXBab3lFMFh5UU56N0RuaXpUSjBncnhfbUJUYjBBdElvZjJfV0ZSZHpTY2dPTGt5WHpKWW1LZU1vRVRnQklQT3V4bGlzVUoxLWxESXhVTVZFamhBcUZ1cUk0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Czech National Bank Takes $2.34 Million Position in TKO Group Holdings, Inc. (NYSE:TKO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNG5ZM0NWM3l6Y1F5QjN1MkcxQlNOTlRzTU9HZ2RGckx5TlozNXd5SHRlWXBTTkxHRGZsMHZ0QVdyUTV5b2V2M0xxMWJ1akJ2a3lmM19iLTV4M3Z4Tm1iaFZVaTBlTEZiYVRDdlA4TUYtWENsLTJOUVJsWU4zYjkxLXN5YmYwU0VIMUNmTF9iOWNIQnNsMnZfYm9BV2EyTmh4b2tlc0UxVXVWbmxUVFJGRVdiNU5Hc1ZiTXMwbk5FVWRuOGJDbFdSMjhfbTJ2U2VSQUk1NW1aUVg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Former WWE owner Vince McMahon sells over 1.5 million shares of TKO stock - NoDQ.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVFFHWDlLTVpySWp3NU54d18zcmlkN0VGRTducFFSc0h5OGhBMld3MVVEWmp3czZWcjljcUZ2cHN5RFlFX2pHcEdOcFFxN3NRcGJpeFJBV21lNWh2TWhha3hVX2x3djdQV3RSdlVkaUVOemdkM2tCODhMcXdCMjcyY0JSZXpYV2c2a2RWWmxSZXhlNTE5V1JTUG5Bem8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vince McMahon Offloads Over 1.5 Million TKO Shares in Major Stock Sale - WrestlingNewsSource",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2ZSbkN4TnIzMzZ2ZXlBT0NzRTJuRVUycGxCVUg3VjFKd1hvVU5rTzZkNnhxa1dOdXhOTklVdUxYZnlUR2pDSmtxOWxyUWNxcHp0ZkpsNnFXMElRMDI2WjUyMXhKMWlhbVUydF9XSFh5X3lFS3M3VGpFSXVuVGlKR0FqaGM4aXhBMFpzQ2x4aS14ckl2SkpZQjVGNGdyRjJJcXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vince McMahon’s TKO Sell-Off Continues With $250 Million Stock Transaction - PWMania",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVFXMi05c1hyMk44OUNSU0lvN0JHM0EtSHpHNWlKTlFYa1AtdkRrWXgxQldRYlA1T3RZYUQ1YzFKMlhUSVo1NmQteHUtYVdYdnNpMlZNQXhTUUpxS3oxYXI3Rm94bVJmdFBoYzAtNlhmeTJRM2tkNnpKUnd3UWNDdE01OFFsSmYwa2dPMVNvb1RHejQxU2ZkZWxQZWE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Endeavor Acquires Significant TKO Group (TKO) Shares - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDBoamtuNGZfbmJjZ0t3dFYydHpEb0pBSkFlaE1xeEw1RE10UE1OOUNNQlZLc0luazdRdnhXTS0wQTFjMi1tTDMzVTRqMHYyNnFIWHFiMUd5TmJBRWM1WTMxWXhUQXFNT2k2bVZBbDBxQnlUb3doM0J1R3BUNUVuYkNJUXQtZDJHSXF0LVlfbjBOMjQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 134.95
-      },
-      {
-        "date": "2024-12-03",
-        "price": 137.04
-      },
-      {
-        "date": "2024-12-04",
-        "price": 138.08
-      },
-      {
-        "date": "2024-12-05",
-        "price": 144.16
-      },
       {
         "date": "2024-12-06",
         "price": 144.09
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 159.35
+        "price": 159.55
+      },
+      {
+        "date": "2025-06-03",
+        "price": 163.11
+      },
+      {
+        "date": "2025-06-04",
+        "price": 165.9
+      },
+      {
+        "date": "2025-06-05",
+        "price": 168.92
       }
     ],
     "current_price_data": {
-      "price": 159.35,
-      "change": 1.54,
-      "percent_change": 0.98
+      "price": 168.92,
+      "change": 2.94,
+      "percent_change": 1.77
     }
-  },
-  "news_sentiment": {
-    "summary": "TKO Group, the parent company of WWE and UFC, has experienced a surge in revenue and is facing ongoing legal challenges. The company has also declared a $75 million dividend. Investors are excited about TKO's potential for sustained success, with a composite rating climbing to 96. The company is also set to join the S&P 500 along with DoorDash and Williams-Sonoma.",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

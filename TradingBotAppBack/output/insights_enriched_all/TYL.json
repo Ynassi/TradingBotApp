@@ -2,55 +2,163 @@
   "ticker": "TYL",
   "name": "Tyler Technologies",
   "sector": "Information Technology",
-  "market_cap": 24361758720.0,
+  "market_cap": 24768843776.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 85.07982,
-    "PB": 6.9336133,
-    "EV_Revenue": 11.282,
+    "PE": 86.37143,
+    "PB": 7.0494742,
+    "EV_Revenue": 11.302,
     "ROE": 0.08871,
     "ProfitMargin": 0.13234,
     "GrossMargin": 0.44699,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 18.222,
+    "CurrentRatio": 0.94,
+    "QuickRatio": 0.876,
+    "FreeCashFlow": 513009984,
+    "OperatingCashFlow": 608952000,
+    "FCF_Margin": 0.23418602240534314,
+    "ROA": 0.04473,
+    "PEG": null,
+    "EV_EBITDA": 57.543,
+    "BuybackYield": null,
+    "PriceToFCF": 48.23265106668957
   },
   "technical_indicators": {
-    "RSI_14": 49.05790652119784,
-    "Momentum_10": -2.1364208156429427,
-    "MACD": 3.285716736444442,
-    "BB_Percent": 0.4228956626698378,
+    "RSI_14": 53.48031904268843,
+    "Momentum_10": 1.133514644851568,
+    "MACD": 3.6625873839577703,
+    "BB_Percent": 0.6398398860143201,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8536450541105605,
+    "ValueScore": 0.8503242094189789,
     "QualityScore": 0.3794488112780778,
-    "SignalScore": 0.6378762635750934
+    "SignalScore": 0.5700640675579325
   },
-  "volatility": 0.0182995808204368,
+  "volatility": 0.0182723213448641,
   "beta": 0.852,
-  "return_6m": -0.0969500667495779,
+  "return_6m": -0.0893567566102954,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 18,
-    "target_mean_price": 673.3889
+    "analyst_count": 19,
+    "target_mean_price": 669.5263
   },
+  "news_sentiment": {
+    "summary": "Tyler Technologies (TYL), société spécialisée dans les solutions logicielles pour le secteur public, a récemment connu une série d'événements marquants. Malgré des avis mitigés d'analystes, dont Cantor Fitzgerald, la société a renforcé son partenariat avec la ville de Kenosha pour moderniser ses opérations, remplaçant un système legacy de 40 ans. Les mouvements significatifs des dirigeants, tels que des ventes importantes d'actions, ont été observés. Bien que le titre ait enregistré des fluctuations, des perspectives de croissance potentielle allant jusqu'à 28% sont mentionnées, notamment grâce à des accords récents et à l'intérêt des investisseurs pour les solutions intégrées de Tyler Tech.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "JPMorgan maintains positive outlook on Tyler Tech stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczA2cDFYNDNZVlhJU0dlRWY4MC1oOC1wWWl1UmJpYW1DTUY3dEpvbENhaFpNVTVMcjNCRVZtSVdQTWxiZXdMZjI5alNaNDhkeGJhTnFCdUdPSWRoaXdIZnd5b3JTaWgwenlUTHdqVzRZTlRvZlFtY3g3UkJ3bVVQZHRfNGFvSWZFdFJNLXZnbllvLVpEdmI5VGhEemc4bFhSRktSdWhMTU84SVk1UnR6aW96dzlfZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To Trade (TYL) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ2FXY01tSXdKNnVoVnFmMTB4RXZHYlZrMkcyWmJpd2hfM0NqUVN3WE1RSWJoTzNRVVZhNzk2a213RDlpOEtuQklWekc1MXFBNWMyTElwQ2RyVzRPWnlDN3BHVVh5eTJnVHpiMUVhS1RyalB1eWNlY0xlUVk4SDVySWlBdHpQaW9jS1REM3B2ZlZFeEZZOUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyler Technologies (NYSE:TYL) Expands Partnership With Kenosha To Modernize City Operations - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHA0YTROc3VPVG03QVVvZThLMU5VNjNzdFhIanM3WExrcHRfZTV4bDZXakVuUzZ0NUFqQjMyQlBqVFBQR2RYUUp6bU1fQWdPMEpuYWdfOXVEU1liQVVQODlWQjhoRk1XZDNUV1J3ME9DVkxvcDV5d0oyZWpwakZYWXhrMXNhUlZa?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tyler Technologies (TYL) Receives Neutral Rating with Growth Potential | TYL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVEdyT2JPNEZmTkVPMWdfS3hqTGlaVmszejNBeDdCWXYyU1FkTnR4Vk9DNk04Yk1WV0g3dDQ1dTBYOWNFRlBNMHd3Z0tSV0lseTlFMTFnMFUzUUlxU3ZuQ3loa3hIdkYzdHBZeDJrTTdnSzlmc3laMmdKbmNnTTM3NGNoa3Bobk55MmV2djBuM3pvQzItTl8xcmgtSXdVWXRhVmpFT01mRnpVbkttb0txVjdfSFBIMDZESlFIc2ttRkk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top Executive Cashes In on Tyler Technologies Stock! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPODY1ZXFvV3ZaWC1CMGlYdFhxUEI5MHl0YXg0TFlUZVVlNWViRlhJN1ozN3MzOHYwMUlyQU1QY0dMQlN6Mm5mNlBuR3VzRlFpQkNvT3BKa0swSnJZTEgzcS1tY19lYW9hQ3hETFN1Nk5hRzdXeUlONXNyd3d0cWZRZ0hjdHY3MWhuZ29nMjJndDdBbk55cnhpT043NlZ1bTlFci1TU1JyS2ctRWR4M1F4MUlVWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyler Technologies Modernizes Kenosha With Multi-Solution Government Platform, Replacing 40-Year Legacy System - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNkE5SGV2NjB0bkN5VUlFSHFOOFlJQkxxQWhwZ0g2ZkpkdVBXQmcyMFAyc0FQQVp5MVZBWGx5dTBDdjRxOE9NODdtMlBONHlzV09qbjRzSVVHV01DSTU0OGFVUmdvWWV5bUlmVlFSZWFDQURHZXgtVUNQZmxJRmo3emdZWkhJN0p1TzlObE9rNFdLa0E0bVBLZ2ktSTJCVV9MeFpSeC05VmVsU3NXY3k4NWxHRFdQUDBPTGVV?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cantor Fitzgerald Initiates Coverage of Tyler Technologies (TYL) with Neutral Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkxzOERhbzFpeWlFSUxOT29fcUJjSFZpZlkyUEVkTUxSazFHMjBhUHI5SjB0R0pjWUFldnRfc2NmbGNJTmZYMzJMMkltS25rc1VEdFF4QlBtOUxMY0pGS2hfQTItTkVJZ2dyNFQ5Vm45Q0JTb21uUGc1bVdYYUJSQlN0NFlVekVjVnVmNlNhbFpicUxod1FvUmJ1WkJ0MXR0QkZKcmg3ckN5cmNSTHNEWGI5ZUY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Tyler Technologies Stock Eked out a Gain on Thursday - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFVZUEtkcUJSWGltcFZZM055TkdzU24tdmk5RnVhUktoeXFKMHBUdVFzalRKdGhRM2JldUZDbk5keW8xM1czZ0ltZVBKMkoyeEhybWM0cjJfUkNYczAxUjNfeVNKeU9IMUhocFY2TWJmQmVVT1c3dDZUTkNuZXQyM3g4SmJZZ0xsa19LcGxMVnFwYlV2X1lhSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyler Technologies, Inc. (TYL) Stock Analysis: Exploring an 18.8% Potential Upside in the Public Sector Software Giant - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWDBDSG9qVjIzMTNsSkJpamtrZzF1bG9OVGVzTzQ1bE5XVEFWUjhXQzVpemxCNFp3RzNfeDd6TXQ3di0tUUx1cTdSV0wzUUZ0RUJEV3FnRk9QdEdTdGxUdGNyNUNNTFh4dTYyUU4yaTI4TVZBZ0hpY1F3UmhSRFFhUzQwa0NpN2RsTVIxXzVIb2t4RVRjbi0xZGd0SVpFRGdOV0hXWWJjNEhiYmdoTmZpMEpEY3lnUVNKbHhxRjluc0NFd2xjNDhPVXJjVDdNOG1yMXUzbGNnbnVvbUZEbUh3Z2gxZUt3VDBORGJsaExDV0FLN2w4QlE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Tyler Stock Will Climb or Sink? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTV6T0p5cEJocWpRVDE5NHlPVEhTVFE1QWxjV0lWY0FaYXpLZGNydjdwX3gwMHBRcEJLRkJGZUxYVEhhU3NBN2JvOTV6aDZXN1JXZi1ZaThEZ3U4VmNpSFdYVGtTVWZhd2RxMUVZNGlEMHpyTXM2bTE1bnFORmFMbWVDT0lpTGxzbDlmT1J0cXZIbXZ4WG5HODJURkpIWkpJcEhZN0xfdGI3UzFXLWdmOVdZdFV4eEI2SnBUOE9CbnliZkh2QkhPN2VScUhqSl81TW5jOER3MlktTGtDa1JZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyler Technologies (TYL): Analyst Initiation and Price Target Announcement | TYL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdGlhMmZ5Tnh3RFBCMUtNOHZsWUpkV3dKRlFvTjNkS3FxMzhnVzl0eV8tLTBnU0ZjYW5vZ2V0dWJjT1lCLU15ZUFTelgtSmQ4b2wtSTd3czFwYV9GamZaY2tPRkVrWXhoclNBM1dHaHJZMFNvcklHd0F3eF81NDBSd2dkRENhVVRTbUVpVXhGaks3WVktd0RWMkdRbW42d1ZybER4MWRMUlllXy1XVC1wbFJBc0x6RHRJZmtxRFJ1NnVJVVMy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cantor Fitzgerald initiates Tyler Tech stock with neutral rating - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNy13S244ZTVfNjdGWWNibGk4R2xlb2VpTHdCWlE4TW5ZbEU3Q01MTU5yV3RCRHVYMU5taW12OHJpLWYyVWtlQmR3ZHc3am1tZHVGdWJfU1NqeG1qX05PaFFGa0tKMWE2c1BxalpEeUJWTGVGUFpxQjd5UG1yN2dPRkFKbVh5ZXYxTDdMOUFTYXBkdHBIaDB0YzVZOUV6YUU5MWJuNzVYbV9ySXRIT2RmU0x1c01zSlpIRlR4VGZKbFJFUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyler Technologies Executive Chair Makes a Multi-Million Dollar Stock Move! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHdXME8xb2RGRmxUM0JiR1RUQzBrYVRRVEt1bUw0bmQtcDQxdll0SGZIdG9jSmFKNWZhdGtKZm1wcXliSDdUYm9lVHQzZ3EyWXR2R0tfX0UyR0JobUxEcklKVF91aGtRdjI1WHI1cHVuV3dSN0RwZXcxdzBmWjVvYjlrNDhxX0dXbmFZTVZBaDAtUkFOWUZ1aEFTQ2VQVHhLWl9KSHNqajNjem92MlBwS0tuOUVXMWw5VWhJUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Tyler Technologies Stock Slipped on Monday - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQam1IVUs0eXdkQTJPVEpDUWtLWUVtZG5TSjQyV01wMzhJdXh6ZVNqbjBFTFVsSjk5c3pMa2FXZFJDMGlmQ1JtNk5ERHBJcGI2SlhRNzA5RjZaODV3bFJxT1dCNzR3OFVLT1o1VGNtbGlZNkJLa1RLMEF1VDhLeG1oTFRZOFFNeUhoOEI5LWo4MGJrQ28?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tyler Technologies, Inc. (TYL) Stock Analysis: A Promising 28% Upside Potential with Strong Buy Ratings - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWx2VldoNDQ5YlFUeWg1dzZhaUNfc1hwZWk2ZGFVR0hXY0c4N3h5UkpFWS1uMXg0SEFaOUxrd1FUbVF3MlNZS01FcUk2SW53U01ucUtWYkpobzN2c1I2aDNOWk8teGNhSnN0cU8tdnFBS2tNS2RNTGVTQUROZHJYX1o5d2g0elB0YkY5NXB3eHhSd1Q4c3FPdkxyNlJDZkRVQUpXZUtTUUxDWnhBYk83aFN0WE1TUEpFZ1dLbXdPTHVWTDBBc0w0OXJYY1V2c1B1azBxTE9WaDg5b1l6TVgxWHVB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Is Tyler Technologies (TYL) Up 7% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12aE9NMW1fZlh3SUhpQmdRdjFjZEFIQkcwYzlzSUNENDB3N0UzZTVkOERIdlJoeW1DcVQxT202bDFMLU5RYXdoNm9aVXk0RVdLYXJEdkJPWlNJc29fczlFSGhaY0Y2Rl9NRlJNSDhGNEI2NkJjYU1jNGM0THpadVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tyler Technologies (TYL) Secures Deal with Kenosha for Integrated Solutions | TYL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlJXNnNVUWZSbTFpdTRJaThXX0djZ00xZXZIWTVUMk45a0Z0aXRneTNjaGpaamlqel91Ny1hYzBXRGtRN05KNDNQUVFVbmQ4aEdiejM5RWZJWWpWNENITFhWTGlvbWkyYlZ3SFVMQjdPVjZTejVfdFZUWmNnbFoyVk5kMEN4MmdoeVJnZjJUNUpjamNZN2xrb1JOTEl2WV9ScjV4TnY3LU55VkR1QWczZWU3b0FVUkh3WmdRZ2Y1UWNEVWZxeFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyler Technologies executive chair sells $2.79 million in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFk5VHEtc09jTDQ0eWJqSWU1bTFpbVkyOUQzUThVclZIMDZ1aWJjN045RE1zNGNHUmltZEZyajM4aTNlQm9tSkh6TVV4Z1RfX2pFZXpVUGhvUlRrVnNadTlkc19PS1M2VjFqTjFMMGtpMEJsVjlCMXBKMnQ4Q29wRjJ0VndpMGpUTXRyR0VGcE9vU2tEYWRKTWRLb204WHdYaXpWZWhROFdLSEVEdjRGaFZWQTE0and2VDRhVFViMlFIRzlf?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyler Technologies (TYL) Stock Analysis: Exploring a 17.58% Upside Potential - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGJYYnVpa2ZZSnl3d2pTWi1fb0RxX0FicFg1WjdnOThLOVE1T1N1QkpjRTYxNzNDRTgzb1JVWXB2bFlKTDdiZ0loN1NIeHJTTzhSbzY5VGExMHpOaDdwTHFldnJzY2ZBTWVrdU9yWGh5ZDluaTZtM24xRUJ4NWRLQjBUZnBqTDRndXUzdnllYU1wYnpqS0pXTE43eFdMQmRaV05tam9tWTV0VjRod3ZqOW9JNGhEWThyekdDNXUyTTc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "City of Kenosha, Wisconsin, Selects Public Administration Solutions from Tyler Technologies | TYL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOTlaNy16b1NiRjhKczV5SllMcjBVRzNtZk5Ea0pCaFNOUTVzMFQwRmdNdjYwb1RNOEhiWlUwVkZSenBQWnB2LUhnZFAyN2JUaTNQNXRZZkNsb05kVW5RU2txaDQ3bXpROF9najRXZnhqZEZNcVh6LWFPdzNWX2xZNDZ2UUVONlppclB2TW5ubDA0NTBFWm56dzJyTW9PX1JlcG95Y2JTdXlibS16WlZ4UVFCcHoyYlRKSUVtX1FDcUZSVURzTmRDcjFVMEVIbHFOY2hURVNTa1FZVXJC?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 625.58
-      },
-      {
-        "date": "2024-12-03",
-        "price": 622.85
-      },
-      {
-        "date": "2024-12-04",
-        "price": 635.69
-      },
-      {
-        "date": "2024-12-05",
-        "price": 630.73
-      },
       {
         "date": "2024-12-06",
         "price": 623.15
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 564.89
+        "price": 564.72
+      },
+      {
+        "date": "2025-06-03",
+        "price": 574.01
+      },
+      {
+        "date": "2025-06-04",
+        "price": 577.98
+      },
+      {
+        "date": "2025-06-05",
+        "price": 573.79
       }
     ],
     "current_price_data": {
-      "price": 564.89,
-      "change": -12.13,
-      "percent_change": -2.1
+      "price": 573.79,
+      "change": -4.08,
+      "percent_change": -0.71
     }
-  },
-  "news_sentiment": {
-    "summary": "Les derni\u00e8res nouvelles sur Tyler Technologies pr\u00e9sentent des tendances positives pour l'entreprise cot\u00e9e, notamment un stock en hausse pourrait \u00eatre pr\u00e9dit par les analystes de Wall Street. Le CFO de Tyler Technologies a vendu des actions pour 2,79 millions de dollars, et le directeur ex\u00e9cutif a \u00e9galement vendu des actions. Tyler Technologies a annonc\u00e9 des vainqueurs de son prix d'excellence public 2025, et l'entreprise est parmi les stocks technologiques sous-\u00e9valu\u00e9s \u00e0 acheter selon aux fonds d'investissement. L'entreprise est \u00e9galement consid\u00e9r\u00e9e comme sursold\u00e9e et a des",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

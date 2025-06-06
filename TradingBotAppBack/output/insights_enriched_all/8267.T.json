@@ -2,55 +2,98 @@
   "ticker": "8267.T",
   "name": "Aeon",
   "sector": "Consumer Discretionary",
-  "market_cap": 3798811279360.0,
+  "market_cap": 3732512964608.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 131.58366,
-    "PB": 3.615934,
-    "EV_Revenue": 0.65,
+    "PE": 129.0947,
+    "PB": 3.5528154,
+    "EV_Revenue": 0.647,
     "ROE": 0.0339,
     "ProfitMargin": 0.0028400002,
-    "GrossMargin": 0.34877998,
-    "DividendYield": 0.9
+    "GrossMargin": 0.37048,
+    "DividendYield": 0.92,
+    "DebtEquity": 183.38,
+    "CurrentRatio": 1.03,
+    "QuickRatio": 0.527,
+    "FreeCashFlow": 409076137984,
+    "OperatingCashFlow": 566217998336,
+    "FCF_Margin": 0.04036320653255767,
+    "ROA": 0.011109999,
+    "PEG": null,
+    "EV_EBITDA": 10.932,
+    "BuybackYield": null,
+    "PriceToFCF": 9.124250030819416
   },
   "technical_indicators": {
-    "RSI_14": 60.86049101475857,
-    "Momentum_10": 0.9610983981693364,
-    "MACD": 77.39321224166997,
-    "BB_Percent": 0.784210340309869,
+    "RSI_14": 53.33610657291036,
+    "Momentum_10": 0.9548206800186306,
+    "MACD": 61.16193976075829,
+    "BB_Percent": 0.3915992986703446,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8802068656806413,
-    "QualityScore": 0.3921239494042272,
-    "SignalScore": 0.5445245603204658
+    "ValueScore": 0.8781724300113624,
+    "QualityScore": 0.3956628217235947,
+    "SignalScore": 0.5615646356027122
   },
-  "volatility": 0.0141642944268821,
+  "volatility": 0.0140674441806206,
   "beta": 0.431,
-  "return_6m": 0.2201062177673527,
+  "return_6m": 0.1881666732021043,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 7,
     "target_mean_price": 3492.8572
   },
+  "news_sentiment": {
+    "summary": "La marque de vêtements Carmy's Jacket est de retour en stock, devenant un succès. Don Quijote au Japon est salué pour sa réputation de transgresser les règles. Cependant, l'expansion de Wal-Mart au Japon rencontre des difficultés avec la fermeture de 30 magasins sous-performants. Ocado au Royaume-Uni signe un premier accord au-delà de la vente au détail d'épicerie, tandis que Talbots vend J.Jill à Golden Gate pour 75 millions de dollars. Ces nouvelles diverses peuvent influencer le sentiment du marché en fonction des performances et des stratégies d'expansion des entreprises concernées.",
+    "sentiment_score": 0.143,
+    "label": "POSITIVE",
+    "positive_ratio": 0.29,
+    "neutral_ratio": 0.57,
+    "negative_ratio": 0.14,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Carmy's Jacket From 'The Bear' Is Finally Back in Stock. Here's How It Became a Hit - GQ",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RNWdEZ2tFb0M0czdtQ2ZVY3dVZHVFc3ZfUUpnd3daSmdhMUVOZ2thY2tWazJ4aTFtWllaUkc1N1phSnB1X2t5WkFaSjhFMjJTM2F4dWdyeXg0cGdSUUk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan's Don Quijote rides high on rule-breaking reputation - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUVPZnJ1OU80MjZIcFdiOEp0QWFDV21pTXdTWkVSSk5aekZSSzBmSUxOYWdqQXZGODFLejU3alQ5RW8wU244YkFKT2lRWUVGQjAyRjZHUGJrZDFvZENmZFl4Q3FrMGVXMUx5aXI1bm1DbDdHZmo5MVIxY3FSMVo1WERMY2w?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wal-Mart's Japan Expansion Is Going Terribly - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdjRYeUE1blYzREE2VUZoZDY2WFZrT0JfRzkwZDdSazBkZEliekJwVThxVWQybTYxOWl5dGdmaGprVlFqTXczMWZZeEROSVhOWmlIQ2VWWWsydjMtZmxPRnRfOUJzd0ZQLUlpb1JtU0E1T01ZT3NFdXlHR2dodzJHRlYzWWtJYkJXenNTczVyaFEwMGF2NTJ0ajM3empXY0FzWlF6VngtZGx3Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan's Don Quijote rides high on rule-breaking reputation - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdjJXck5pZE1KcnVwREdEd3JrZEJ5QW9WZ3k1YzlVZ1ZGU2xRSDJyNXdRMllRT0FiYU5YdTZiSlBhOGFoWloyTWVpZ09VemQ5dzQ1NkVFRHVhaGtWeVJaRmxHTGI5Y0hlX1BpVmJ0YzdrVmVtMndPYWpyVG9Sc1hvOEVld0hlQXRSVlk1ODVERldZWlBVbzBZYU9iNjZ4ck12VUxoZnRFd0piRDhhanFKaENvcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Talbots to sell J.Jill to Golden Gate for $75 mln - FashionNetwork - The World's Fashion Business News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVJpbmJOeFkxOF9tYUoxLVFUT0lQaU9qTWJlTDB4d2VHR0p1MjY0aHN1TVA2WmItU2FsR0lZRkV0UmlOdHh0UUU5eVh3Z3I3dzdlRS1EbWNjR0paWGpMYUs3M3FYX3BVbURQQjFKRzgySm9xQWVpWnJpaWNmU21SajZlSjJVNG1SRXpUdTZ0ZENBQmJyOE5sblFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Britain’s Ocado secures first deal beyond grocery retail - Cyprus Mail",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeTBack4xcmp1WmRyLTNhQUp4UmdSN0ltdGI5bDZ3ZzVnWGtrUnpuMGhQMElTeFI4YmZiOWprVWN6RVZIbFo0bGtHc3h5cS1YY0hCZW5abnBPWjlHcmRGbFlLWGszZFQzZmNISjhzNlR1NUYzN2hwVVNyVF9YcHAzX3ZmbnhJQldweGdVZmZlWGhFeFVO?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wal-Mart to close 30 underperforming stores in Japan, take charge - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTUVXZVFMa2V3X2JFdHV0Nks1TDNoQlFfM2xtNGRhMjNvS3Q3VTlIQkVjUjhyR29DTXFKb0hPVVloOWdEd0c1Wk5fOEJTN3V3aTN4NU1vdUJRYmZzTFp6V3RqV2c3a2E1SjZKX0VyYm45a1ZkSnJWUWRWQzZLM0ZjdFBLaVdoYkFVUHkxSlB6NUo1dm01YXJjV3o5RUYxZHJEaFlYN1NTRE9KbUJPR3JqSQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3618.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3690.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3687.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3666.0
-      },
       {
         "date": "2024-12-06",
         "price": 3677.0
@@ -514,24 +557,28 @@
       {
         "date": "2025-06-02",
         "price": 4412.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 4412.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 4361.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 4335.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 4345.0
       }
     ],
     "current_price_data": {
-      "price": 4412.0,
-      "change": -23.0,
-      "percent_change": -0.52
+      "price": 4345.0,
+      "change": 10.0,
+      "percent_change": 0.23
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques r\u00e9cents concernant une entreprise cot\u00e9e sont :\n\n1. Le v\u00eatement de Carmy de 'The Bear' est de retour en stock - GQ\n2. Don Quijote, l'entreprise japonaise, se distingue par sa r\u00e9putation r\u00e9volutionnaire - Yahoo\n3. L'expansion japonaise de Wal-Mart est malheureusement d\u00e9cevante - Business Insider\n4. Don Quijote se distingue par sa r\u00e9putation r\u00e9volutionnaire - Reuters\n5. Wal-Mart fermera 30 magasins sous-performants en Japan - Yahoo\n6. Talbots vendra J",
-    "sentiment_score": 0.143,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.29,
-    "neutral_ratio": 0.57,
-    "negative_ratio": 0.14,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

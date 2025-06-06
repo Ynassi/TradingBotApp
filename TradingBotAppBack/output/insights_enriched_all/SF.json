@@ -2,32 +2,32 @@
   "ticker": "SF",
   "name": "Stifel Financial Corporation",
   "sector": "Financial Services",
-  "market_cap": 9559774208.0,
+  "market_cap": 9664556032.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 17.759542,
-    "PB": 1.9765095,
-    "EV_Revenue": 1.491,
+    "PE": 17.954199,
+    "PB": 1.9981735,
+    "EV_Revenue": 1.468,
     "ROE": 0.114829995,
     "ProfitMargin": 0.1234,
     "GrossMargin": 0.94824,
-    "DividendYield": 1.95
+    "DividendYield": 1.98
   },
   "technical_indicators": {
-    "RSI_14": 49.29766461301343,
-    "Momentum_10": -5.866885510771986,
-    "MACD": 1.1123484529501155,
-    "BB_Percent": 0.3846973654839538,
+    "RSI_14": 53.04901167262358,
+    "Momentum_10": -4.008958252813758,
+    "MACD": 1.0596344468745826,
+    "BB_Percent": 0.4670277294500467,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9325031823960674,
+    "ValueScore": 0.9280068741983156,
     "QualityScore": 0.4614849622512659,
-    "SignalScore": 0.5179138083529293
+    "SignalScore": 0.5335567329624575
   },
-  "volatility": 0.0266885986641271,
+  "volatility": 0.0267976739778107,
   "beta": 1.078,
-  "return_6m": -0.1854202733221259,
+  "return_6m": -0.1643676804053779,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 7,
@@ -35,22 +35,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 114.74
-      },
-      {
-        "date": "2024-12-03",
-        "price": 113.75
-      },
-      {
-        "date": "2024-12-04",
-        "price": 113.63
-      },
-      {
-        "date": "2024-12-05",
-        "price": 114.1
-      },
       {
         "date": "2024-12-06",
         "price": 113.88
@@ -529,25 +513,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 92.98
+        "price": 93.1
+      },
+      {
+        "date": "2025-06-03",
+        "price": 94.08
+      },
+      {
+        "date": "2025-06-04",
+        "price": 93.35
+      },
+      {
+        "date": "2025-06-05",
+        "price": 94.82
       }
     ],
     "current_price_data": {
-      "price": 92.98,
-      "change": -0.71,
-      "percent_change": -0.76
+      "price": 94.82,
+      "change": 1.45,
+      "percent_change": 1.55
     }
-  },
-  "news_sentiment": {
-    "summary": "Stifel Financial Corp. (NYSE:SF) has recently completed an acquisition of Bryan, Garnier & Co., creating a powerhouse in European tech & healthcare banking with over 500 deals. The company has also secured massive 750,000 SF leasing deals and declared a quarterly common stock cash dividend and a preferred stock cash dividend. However, Stifel's stock has dwindled after bad advice led to a multi-million dollar fine. The market downturn has also dampened hopes for a tech IPO rebound, while Tesla's stock is plummeting and the Bay Area's respect for its vehicles is declining. Overall, the news suggests mixed signals for Stifel and",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

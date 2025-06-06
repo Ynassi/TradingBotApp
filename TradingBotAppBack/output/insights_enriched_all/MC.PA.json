@@ -2,51 +2,163 @@
   "ticker": "MC.PA",
   "name": "LVMH",
   "sector": "Consumer Discretionary",
-  "market_cap": 238971256832.0,
+  "market_cap": 233948561408.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 19.004381,
-    "PB": 3.5294816,
-    "EV_Revenue": 3.168,
+    "PE": 18.714172,
+    "PB": 3.4769683,
+    "EV_Revenue": 3.159,
     "ROE": 0.19635001,
     "ProfitMargin": 0.14819999,
     "GrossMargin": 0.67032,
-    "DividendYield": 2.72
+    "DividendYield": 2.73,
+    "DebtEquity": 59.613,
+    "CurrentRatio": 1.409,
+    "QuickRatio": 0.664,
+    "FreeCashFlow": 11387625472,
+    "OperatingCashFlow": 18923999232,
+    "FCF_Margin": 0.13447357525383855,
+    "ROA": 0.08356,
+    "PEG": null,
+    "EV_EBITDA": 11.925,
+    "BuybackYield": null,
+    "PriceToFCF": 20.54410394715166
   },
   "technical_indicators": {
-    "RSI_14": 37.72935207280371,
-    "Momentum_10": -4.292016372747791,
-    "MACD": -10.545042598146438,
-    "BB_Percent": 0.2399808134462819,
+    "RSI_14": 35.544325934092655,
+    "Momentum_10": -3.0921459103835067,
+    "MACD": -10.922312808771323,
+    "BB_Percent": 0.1938767787170805,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8897502854361037,
+    "ValueScore": 0.8868916615962479,
     "QualityScore": 0.3949968144366825,
-    "SignalScore": 0.7124368240724048
+    "SignalScore": 0.6898210621294851
   },
-  "volatility": 0.0214832818625094,
+  "volatility": 0.0215191108105167,
   "beta": 1.007,
-  "return_6m": -0.2006886281784058,
+  "return_6m": -0.2165881300382668,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
-    "target_mean_price": 607.7731
+    "target_mean_price": 597.2346
   },
+  "news_sentiment": {
+    "summary": "LVMH, géant du luxe, subit des baisses de ventes en Chine et aux États-Unis, affectant négativement son sentiment de marché. Malgré des résultats financiers décevants, le CFO exclut une stratégie de démocratisation des prix. Des événements tels que le rachat de parts par Stella McCartney et les nominations clés, comme celle de Jean-Christophe Babin chez Bulgari, pourraient influencer le futur de l'entreprise. La baisse du titre suite à des tarifs américains, ainsi que la recommandation de Morgan Stanley de réduire son exposition à LVMH, soulignent des défis potentiels à surveiller pour les investisseurs.",
+    "sentiment_score": -0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "LVMH's declining China sales drag down luxury fashion stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmJEWTktSWpfblZ2a3ljY3NJd2JoekZWNjVuSlhRWkZxX1VKN0IzdTZ0WlQwRnJCenJMU2VHTm9oNzFyS3B6NTZWcGZDeE5udUdFak9ZdmxJSXlmME5CU1hmMEtLMDE4Sm8tcFVtS3l3Rm8tOGV1VHNZOUdSOU5ocGNGeE5WUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "LVMH.PA - | Stock Price & Latest News - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsYmNMWWkxRWxyYXQwdmlxaXpWNDQzRndDVk9ZdTNBR2xvVnB0LW5XdTV5S2Z4d1VaaTFsVEtIWElTYThxaWk5SHI4ZmRvVFJ3aV9HY2VTYkhXRVI2Q3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LVMH Faces Headwinds with New U.S. Tariffs - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2tkRVdUR2RSZWhRSFA2ZWdGUndCaFk5S3VFby1PQmZ5WkdZUlZobVBILWhLNW5Qa0VLd3drOEthT3RiMFc5OEFXMEVoaG1zcEVaLXhYYkx2WGdMRjZSVVBISTFHalRLNURkSUs0OHQweGR4Q1dnZGZUdHQtMmlHUEV4Z3RXQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "LVMH Shares Drop 6% as Declining U.S & Japanese Revenue Hits Sentiment - AskTraders.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3loc2RRNC1LQ0NES1F6VDBDTGVjQzRrQWh1MDFGa2N4M3Q4eE1GSFZGLXlJaWpVTFFKZm9fN2EyOTFNR2hiNlM1djhybFlaaXBEX3RwVmF0cjh4S0l3X1FmcFFtVEdPdTNOdzExTG1McnFnVWRXUHA5NGFCcTJGbDhHOEJ6TVZoWUt4NHB2eHcwVnpydk01dGRDd2pPdjNDY1ZjdmlhNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "LVMH earnings were a bloodbath. But its CFO is convinced becoming more affordable isn’t the answer - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMmJZSjlJQUtmaWNnaDRSZEUzNHoxRjlpRzBxMFllOUs1V01Va0Q5ZlVnMGVoOG1nMTBjc0pHZ1RSbjRra2Rla0ZnVlE2TGkyR2Z5c2hsSnFfeHlxNTRQaHQxT2ZkbW0zdGlNX3UxdnhUM0tYeDZZRm54WVhvei1fZjhVSQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Figure 1: Stock market data for Fast Fashion Brands. Inditex (ITX), H&M... - researchgate.net",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRk9TUDY3NHE1cXA5eFBQbUJLLVJiNzdkd2M2UnhDX1JFWDJPTTFNOGV3SkVrakY5cDZpQ3RPc0I0dXlxMEM4SGM0NzBxdWVueElZTm9MRlNkWHhjN09Jcm5LQnBoUWh2RXN5NVRQYXV0RnZqR1o4Q3hJNWVQX0E1dGZFbWhqUVl6NnIzVkczcG1fN0FwbG8wQWh5VWZRZnIyYjhoaDhHb0swZWxQNmliUWdxUVNWaEE3NWJna3h0UHBTYV9H?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MC Stock Price and Chart — EURONEXT:MC - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBodFFPOVF6Wjc2RktFSm9OdEQ5ekx6ak9SUFd1dHB4bmYxWDNueldyVzVGWF9wWlFmejBkN2s4OVhteWRGNzc0SkVrbU9KemdGbkM1SGRuY05zWWN6?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Luxury Empire On Sale: Why Wide-Moat LVMH Is Such A Powerful Dividend Play (LVMUY) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGpiTWE1SkVieXl2ekItQ0pRY2pVaFRBd1VDOVU0R2lOS3U3MUM2VmhzaERWT1RWMTlvVU00d0FsNEpnZktmOHhvSWlRenU3bFlrTUtXYkNxbmF3ci1LaWRMc0xyYXMxVFlvZ0NOcGVUQ3gyWlV0bkxEaFh0VGl6LUhjS18yWFk4bVJvOW1jRTljSE1LVURaQV9MaEJfTnpsRGtWSHcxTGtDTmE0Z0k2X3ZzSjI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LVMH: 3 Ways To Own - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQlg0aUZ3bk4wb3RnWnZ0MFJvc3E0bmUyTktZZXVsdTVVNy1ZUEYteDU4RUZNMnVycWhaUzNic1BhUTdZeFpHNGZldEZCdXpteUFQOGZhZHZPemtYc0xvSWtxbHJ5ZGJuWmxZQk5fNFlYcl91ZHdUVnlpQTVyTnR2MmtHR1dXR0w0aGZ1Vi12MS1oa3lJd1FzcE5kQ0p0Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Report McDonald's Stock 'Skyrocketed' After Trump Visited PA Location Originated as 'Satire' - Snopes",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsYnFuWVpoOUE0UnpXWjUwZEZIakFSUk1kZmc3SjBXejhnVVNKa2Q5M213Ymk0V1RmUnZYbEZ6eVlhRkhabV9RUVBlRkc4NFBpN2w4NjZYU1UtRDZHREFkRjNjOVhaM1FtQjBvclEydw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2024 Ram ProMaster EV Recalled Over Iffy MCPA Software - autoevolution",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0dXMUF1SGs3c0VGNWQ4VzhCZm9NN2hUYU10M3hlaTdUbGlzcWpINWdaQzRBYnJISXZVUktyMDVoMjhKMTdPbnVNcGV3ODJ1Tk5sMURlVkVfNWlGS2Jtc2xsWTktdHhzdVV0c2JTbU9hVXNRQnl6cEdYWjdEUWZYTTdFckZzUzhMUm5YTW1NSG9HV3BadEp5Ykc3a1J1RV9Kbl9v?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Downgrades LVMH to End Six Years of Bullishness - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3lEOUszRzdnNjdVYlBfU2FDSXlIOWd5cWQ0eGRGdFR6QmhHM1hqeVg0LUJBUFEyMlctS1pPazRDSS1PQzVVd28ydG5QZlZYblB4NG5JbnNjUEtPUkxfd0hxWmRteGgwYXlFOVBua0dwWEY5aWZPLVZ4SFMtYnJodU9fVHlXRnVGd3BZQnlZWEdzWnQ1OU5VbmNEU0d5cEpaLVZIenJkOF82dXJ1aTMwdmRzaw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Investigation into man with ties to Pagan motorcycle gang leads to drug bust in Westmoreland County - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1hSVkp5NGlMWUxmRVdBOTlnb0QyQ2tvWHZSSUUxN19wZWVOU0FvMXBCOEtqMDFEdkFwcG9zNWgtREVSNmtYSjFzZkN2bEpzNmNSaGRwOXVBOEFSUTZXVWxUeFpHbXdGS1pKQXlIMENkUmNJZjVnVFRkOE5UYUJCank4S2lJd3duS2NmaTVuRmR2OXFKc3ZV0gGcAUFVX3lxTE14TmFPalQ0Umh5eHExTlladzVqZkJmejlKMk9BV0FCanZHRkIwcjhGRWw2NHRzU0oyX1VJUGhhZWU4UVNZNEN6R0VzU2syMEcyUldyTExLT1lFeE5WamZzVG9DU2xvTmo2b0g5SmluVVlsQW9nX3RFeS1RSkw3Um1YMlNiWUV4RF8zX3B5QkYtRVo2VTZMcmNGTG52Sg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stella McCartney Buys Back Minority Stake From LVMH - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVpYODlwRFVQSmtKdnpRaU04UUF6SlZoWV9QT2V4UVRJYTZoTEdKMlA5MnZNdnZubHJOV0E5aDc0M0JyUlJ6Q1AwMlVGVnp6akU5SVlUQ3pGQlBnLWhybTJGYkVuUnh4ZjBROTR3UGZZS19hM09heHltWXFoTnhVamZBOVdJdzFX?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stella McCartney buys back stake in fashion brand from LVMH - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjlRekp0a1pxMFl5WllGQ2RDLWFLZWlFZnBZRWVlZ3lucy1JMHVEWW44U3Awc1lfSFNRY0tXX1hCYUstWXJwM3c4TDF0RTk2bkZlMmRsZUNoZHZ6MEJVcWVSMW4wUHR4UF9wTGlDSWM0Q0xrLVhyYUh0czQ4ampXWVhidGZud1Qt?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks to watch this week: Goldman Sachs, TSMC, ASML, Netflix, LVMH and Sainsbury's - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjhQb1N5Q1hfUVZWckFFWjRqQllXdHBESzNadThJRFU3TnhPSVpFZFdNWGNNcnNZS1NtaUxueGJKSC1NSUxzV3VCUTRGa3Y2a2lsYjZ1UkFzMUF1ZXlzQzdPXzdsRkd5RkhUZVVwbU5uUG1RQXlEcjc5YVhjWW1aeFhnWHFkRm5Kb0pmNEI1cVBDZTZfZkJ3NXA5M0VGblRzYWdFQ0RpVll4SVJmdjRqOTgzVW1vYk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "China's stimulus package lifts luxury stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEtsRnJUaGRNVElyQTNIejlBMmN6bE9FVS1UX0NUSG9RN2NMMDVaeUg4YzM0RVUwaTBRbE5XWVF2eEZiQ0JUaFBDN0FJQ3BuWXFnbWFBV0VxMnBocTgzWGc4YkJuYy16STlTNmJfUk1JRkN1Um9aUTlvem41N3lhVWN3TkN0UmVFazhn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LVMH picks Bulgari CEO Jean-Christophe Babin to head watches business - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc09aSXU2cGJwSFMxbkZXZ25wR3gzbnpWeVBmOTFYdDF2eEt4YkxfTlJ1cmlNTWtrbjRpcHYzcXMwRWFKd0Y5VFY5Uno3R3BTSmRLTDJiYWRZOWR2aDFuWGRGRGtaWmNWY0FzQUEzRUYzVTRQNWcxRFgtVHRNWENUMnZhUzdraWRCTVcxUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LVMH proposes Alexandre Arnault for Moncler's board - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSTZVbHdZanN4Y0dVR2phMW5PbWhSbEktT1FQUjVYTlpWbEMyTmRSd2J3Z0VOX0VrS0UteTJKbG50ZlhDZlptTTR3TTQ2aXQ3TTZfakNwcG1hTUhEN1JhcUw1dEUzQ2dRUFpLRHVUcXhlOVA3d25UTFJ6ODliaHBQbDFlY2NfZkh3bE4ybU14V3Nobms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jonathan Anderson will create June collection for Dior Men's Fashion, LVMH CEO says - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZGpvcW9zNktULXJCSHN3R2tYckplbnJvRmE0TlpQQjZmdVVDTFM5eUVSUHBZQ0hxb1NTMjVlSW1GN1Y3ZjE5cUhpMWRkTzJJLWVPVkVOSUNBZ2daRlhxQXpEd01NY2xrMGtuME50VG8wYmcwM2dlOXRhWkxrQnpWTF94cVZhbkwzREpQc21vQ0Zibjg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 606.1
-      },
-      {
-        "date": "2024-12-03",
-        "price": 609.2
-      },
-      {
-        "date": "2024-12-04",
-        "price": 610.2
-      },
       {
         "date": "2024-12-05",
         "price": 609.2
@@ -534,24 +646,24 @@
       {
         "date": "2025-06-02",
         "price": 477.2
+      },
+      {
+        "date": "2025-06-03",
+        "price": 473.6
+      },
+      {
+        "date": "2025-06-04",
+        "price": 476.65
+      },
+      {
+        "date": "2025-06-05",
+        "price": 470.1
       }
     ],
     "current_price_data": {
-      "price": 477.2,
-      "change": -1.05,
-      "percent_change": -0.22
+      "price": 470.1,
+      "change": -6.55,
+      "percent_change": -1.37
     }
-  },
-  "news_sentiment": {
-    "summary": "LVMH's declining China sales, 36% decline in wine and spirits sales, and declining revenue in the US and Japan are significant negatives for luxury fashion and beverage stocks. However, McDonald's stock performance after Trump's visit and LVMH's good start to 2025 suggest a mixed outlook. The recall of the 2024 Ram ProMaster EV also presents a concern. Overall, the market may be overreacting to the negative news, and there may be potential for recovery in luxury stocks.",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 4,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,32 +2,32 @@
   "ticker": "PAAS",
   "name": "Pan American Silver Corp.",
   "sector": "Basic Materials",
-  "market_cap": 9460403200.0,
+  "market_cap": 9511109632.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 30.372093,
-    "PB": 1.9642051,
-    "EV_Revenue": 2.926,
+    "PE": 30.534883,
+    "PB": 1.974733,
+    "EV_Revenue": 3.14,
     "ROE": 0.06577,
     "ProfitMargin": 0.10402001,
     "GrossMargin": 0.42254,
-    "DividendYield": 1.64
+    "DividendYield": 1.53
   },
   "technical_indicators": {
-    "RSI_14": 60.36949223379057,
-    "Momentum_10": 14.863681187930965,
-    "MACD": -0.0362723142925709,
-    "BB_Percent": 0.9316162924565002,
+    "RSI_14": 61.02891939685248,
+    "Momentum_10": 13.287316148215634,
+    "MACD": 0.1175581655279387,
+    "BB_Percent": 0.9041389136566682,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.930092902118626,
+    "ValueScore": 0.9228115534044692,
     "QualityScore": 0.4206881501643129,
-    "SignalScore": 0.3310062455699499
+    "SignalScore": 0.3901094057087795
   },
-  "volatility": 0.0343885686545981,
+  "volatility": 0.0341608455164533,
   "beta": 0.802,
-  "return_6m": 0.2291505835690541,
+  "return_6m": 0.1658117427576888,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
@@ -35,22 +35,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 21.34
-      },
-      {
-        "date": "2024-12-03",
-        "price": 22.61
-      },
-      {
-        "date": "2024-12-04",
-        "price": 22.62
-      },
-      {
-        "date": "2024-12-05",
-        "price": 22.76
-      },
       {
         "date": "2024-12-06",
         "price": 22.17
@@ -529,25 +513,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 26.02
+        "price": 26.16
+      },
+      {
+        "date": "2025-06-03",
+        "price": 26.26
+      },
+      {
+        "date": "2025-06-04",
+        "price": 26.59
+      },
+      {
+        "date": "2025-06-05",
+        "price": 28.6
       }
     ],
     "current_price_data": {
-      "price": 26.02,
-      "change": 1.63,
-      "percent_change": 6.68
+      "price": 28.6,
+      "change": 2.0,
+      "percent_change": 7.52
     }
-  },
-  "news_sentiment": {
-    "summary": "En analyse fondamentale, les titres concernant Pan American Silver (PAAS) montrent une tendance positive avec des signaux forts. Les analystes de Wall Street pr\u00e9voient un potentiel de rallye de 29% pour l'entreprise. Pan American Silver a \u00e9galement annonc\u00e9 une acquisition de MAG Silver Corp., laquelle est consid\u00e9r\u00e9e comme renfor\u00e7ant l'entreprise. De plus, la Maison de la Banque de Canada a rabaiss\u00e9 le prix cible de PAAS tout en maintenant la notation de rapport. Les investisseurs semblent aussi sous-\u00e9valuer PAAS, selon certaines sources. Enfin, PAAS a \u00e9t\u00e9 signal\u00e9 comme ayant",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "WBD",
   "name": "Warner Bros. Discovery",
   "sector": "Communication Services",
-  "market_cap": 24643964928.0,
+  "market_cap": 23986108416.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.917164,
-    "PB": 0.72802955,
-    "EV_Revenue": 1.552,
+    "PE": 18.9268975,
+    "PB": 0.7085952,
+    "EV_Revenue": 1.541,
     "ROE": -0.27281,
     "ProfitMargin": -0.28162,
     "GrossMargin": 0.43297002,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 106.412,
+    "CurrentRatio": 0.836,
+    "QuickRatio": 0.44,
+    "FreeCashFlow": 19488999424,
+    "OperatingCashFlow": 5343000064,
+    "FCF_Margin": 0.5082937535520317,
+    "ROA": 0.0050199996,
+    "PEG": null,
+    "EV_EBITDA": 7.789,
+    "BuybackYield": null,
+    "PriceToFCF": 1.225038521505577
   },
   "technical_indicators": {
-    "RSI_14": 65.28822851519436,
-    "Momentum_10": 8.897385891200335,
-    "MACD": 0.2616989976283541,
-    "BB_Percent": 0.8996108969462957,
+    "RSI_14": 56.55029769094432,
+    "Momentum_10": 7.877094287490722,
+    "MACD": 0.2537460002626446,
+    "BB_Percent": 0.6534805218975762,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8959319768663201,
+    "ValueScore": 0.8930932784897203,
     "QualityScore": 0.2464747244181743,
-    "SignalScore": 0.4818097111842004
+    "SignalScore": 0.5080825041977917
   },
-  "volatility": 0.0397546383032346,
+  "volatility": 0.0397834167156167,
   "beta": 1.517,
-  "return_6m": -0.0563447200175779,
+  "return_6m": -0.0922285189331134,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 24,
-    "target_mean_price": 13.75792
+    "analyst_count": 25,
+    "target_mean_price": 13.6076
   },
+  "news_sentiment": {
+    "summary": "Warner Bros. Discovery a subi une perte de 11,5 milliards de dollars en 2024, mais le PDG David Zaslav a dépassé ses objectifs de bonus, suscitant des réactions mitigées des actionnaires. Des analystes estiment que scinder les activités de streaming de la société pourrait être bénéfique, malgré une récente baisse des actions. Malgré un abaissement de la notation de crédit à un statut d'obligation pourrie en raison du déclin de la télévision linéaire, la spéculation persistante sur une scission de l'entreprise a propulsé le cours de l'action. Les licenciements liés aux défis de la télévision par câble ont été mis en œuvre, mais la question demeure : les résultats financiers et les blockbusters pourront-ils relancer Warner Bros. ?",
+    "sentiment_score": -0.3,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Warner Bros. Discovery Lost $11.5 Billion in 2024. So How Did CEO David Zaslav Exceed His Bonus Targets? - Variety",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVl9LNWZ1bWItakRyUWJHaU5EQ2RaZEM3ejAwVGVZN19id19saVluQ1J5UUdYOEF3eXZSOUVCVF9oQmVDNURjbzNCbzVIVEJ2T0lBWUpDSWFiNVc2WVBINzVBWkNZMUpLMC1IQk9hOUFGVVhzbkRqbXRBOVpOWFFmcG1YLV9HQmx3RGhJLXQzVXZBVUN0VUc3UndmbVZ1QVl2UDh2VVZTSkRxN3pxWWlOOXdwYXh6QjRYeEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warner Bros Discovery (WBD) Shareholders Reject CEO Pay Amid Stock Slump - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXZfTWxlT1BtRE1yREZWRlAwNnROcnZ0MlZQNG1QVnNVdGhhY1c0SnRUNF84WUtzUFJBZDNidFRzSlowOUlUU3IyeExFdVBOQ0ZQYWV3ZHlxMnZvcC14cWdndC1SRnpqclFaTnBWazFUYU1rX0VxeFRQdjYzRHBfU0IzeVRGaUNIbDFqSU0xSHM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "This Analyst Believes Warner Bros Stock (WBD) Would Benefit from a Streaming Spinoff - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2EwcTVSUEVMNkttZ1VYb2ZJOUFrYVB2bkVHcmw2bFdIb1VCMjg3ZVBhak9pTUoxS2p6NmkycDZCWGhERGlrM0wwcmNKTW1lWl85UXdFYXh4RFlldWZMZmN0VGk2VkJhWTZsVXR4QXEyQTEwc2NkSWt1V3BVYmhOSnp4WHZyc05ZcEhIaXF0bnNPQ3Bud3JEZ1BfVTJpb0JiTTQ4YnBwaUQ0YnFoRjZ0LVdoYWtSNE1rZWIyc3ZLdUNOVWZqdFNpNDhQSkNmZmFJNUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of America Still Sees Upside In a Warner Bros. Discovery Split - The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZzhTSzFKQ0liMWZTYWlNb1BjcUxHU0YyY0RJT3hNbmY5QnFrbzFiMTdKT3BTdGRaczgtMG80S0RaT0NxdENlVlZQdzdQa2wtVWwtaGZMejlVV2QwUW9BYnc2TkU2S25sSVZWbUxYTVh6Y0hyVkVITWQwUWd1UzdIVDk3UkJRdXZEend6Uk8tUmh3NjgtZk1oWk8wYVlGdDZ2V1d0N1pWTTFSdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warner Bros. Discovery CEO David Zaslav gets a thumbs down from shareholders - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTFBidVJxNEZNTnJCYVV5M1UtcW9xT0JuOFQta1JjSUVQNDZsOEJlblhlYjdqeWs4OE1jOFN0eWstT3J6VDlza29XcDFhbDNuMUd5LXBVeTZUd3puWTlPekdyZXdPSHRjRi1KVjdxU2xtTVRpNWNHaU1GM0FzNnV4MGRJZ0N6N0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BT nears deal to sell TNT Sports stake to Warner Bros Discovery, FT reports - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3k4aWN0aFBzT0luU1J3N1I5RzNhQ2lfZVdfNDRnZWR3VkZLRS1VMndINmNyejlteVJDVDVMaFdiNmZneXBlSmg4S1RZcF9xa1ZNSUVGMGhwcTgwS3BBRWlsQTNXT3htMGltaXJFUHF0aHNfUExLSzBGOVBUNHhsdW40cWZ2S0N5Y09yQjdNRGJvVkNMSGxsLU1sb3U1UGRlUlNoNThLdEg1MEgtYmF6dnY3aEhUT290ZTBMMW1wbTR0RkRVQ2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Warner Bros. Discovery Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0lsREZPZnhFbzZUWnFnLTNuUGM0cTFYbXg2WDNSSVBlQWZUMzFGTEZrWVBwMWhfRVlkNVdFUzdfLVpqeDcwcGZJcUpKWmVHbnVVS21ZLWppRzMtZHd2Mk8zSGRLaE54LXFMRVpwVmgwekhXY1RXNUdNX1NQU2VkU1VOVmhjTEdycDBVZ3lNOS1hTzVhbjRrWVh5bHhNaXAyYnNIS0ctR2JqQzB2bGhzb3lXdk8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Warner Bros. Discovery, Inc. (NASDAQ:WBD) Shares Acquired by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdC1YY09CY3JJNEtVQU16SjhURlFvSVNhejg5SlFXSEFrVkVpekVMZ1RUOHZQaVNVV1VULTY4X2xSY0VrNUpDNnI1Zy1GQU1CNjNlbWxMNVNwd0UtZ1pjbzdnUkVnNHR6NHVrek40VFJCYjNCT040cnU1b1l2bjl6QXo2eG1qaWNYUWJZQVhFYllEUVZWNW10cllkMWwyN2JNMkh0UV9yeDd1elpSN0ZpRF9iRVo5QXJCSklsRGw4U1BzeXhoUDctWUlON0ZuazRO?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warner Bros. Discovery (WBD) Shareholders Oppose Executive Pay Packages | WBD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHhuTGNVQWNZa3BWbjRmaTc2ckhwSFBsWkR1SGliUEoxcmNRZHgtWWdacEROYlM5WXUzX29sX1hraVBPcjVvX05UVmZCVTg2aE9nb05jWkxQcGVtbXpPM2Q3RGctRzdkcW93UXdEazNGeXZsQV9zcl82SW13aDN0ZG9WM3RxT2JiaG9TcjhZMlBzOFlDei01WkVfXzhDaXpNRTJLSFdfSldBSjhXQ0IwemQ0SGRZOTRSMkJTZ19vSQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wbd shareholders vote no on David Zaslav's $51.9M pay package - IMDb",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qc1JXYjVEcEhKVU1SQ3NuN3lCVEEtZFV1Qjl5eWF6NXF3cHVDcE5ZUTcycEhxaDE2Z2NHU1VqLXRuTWVDeFhlekZERmpVeVhzVlpSYjh5dkdLSXdkOGZOag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BofA Securities Reiterates Buy Rating on Warner Brothers Discovery (WBD) - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbXVNSE9ieE5FamZFY3hsUnh5blBSZ1NqdlpYLWlmeTlvU0diWElRcE1aNE4ybmZKVnk1N1B1ZXljcXFzQ2tSNC1Jb1lNa3JBcU82eEV4aW9mMlRMZExBWTUxaFMyTEFoa1dZZXQ0NENvd2h4YXpKNnBJbVR5a3FINUM0MHRNeXNnNXQzaTlMTEFPX1JlU3lsUHpDdlhxSDB2a0t2VDFxb1F5QkpiMmxxQzk2bDDSAbwBQVVfeXFMT0xkd2VKUWFkZ0RpR1gtWDJQMmRtcy0tNnlTLVF5UDRtb2IyRnVUY0llZ1A5anVaRktLRE9fT0pTUWZEYUNQY1dMdHVvZ2x4TWxnNDhrY3ZOOHo5NEpad05sRV9QeVByOGxObFNtS0JncnNxVG40S1lPZzFSVVJEa2wtWlBLNzRHZjFockhPQVZkalZ4dnNwb3ZGZ3VUQzFhaFEzWWhTWnB3RmUzcTR0NmRBRngtZWpiNXByRno?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warner Bros Stock (WBD) Sinks Despite Final Destination Bloodlines’ Box Office Win - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUUZJLUtUdGdDOTZuVUdDMnV6X2xKclVtS3YzSGhkRUI2SHdLSjBvd2R0Y3B0a1hPd1JQTnA2QzFUU1NiUnlkODE1OTE0aTd0RTVUVFFvd2pkZ1p2MEhfQTdBVjM4eXA2MzhsMUtvb3Ziem82TEZaODdaaHRQZ2xaa2dyMDQwZ09BRVVNQ0ExMGpqR19adktYei0wZXdjbWN4aGZiRXVZZ25jcTA3emc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Warner Bros. Discovery Credit Rating Cut to Junk Bond Status on Linear TV’s Decline - The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjZrVTU3RzhVVnNyenU0Y25neUtjakt5NmlZSS1iZ3RVMzVlOUxWUEpLVGtic2NmeWJEOTZpUjRvY0FXZk9TRkpQajdNRG9EZVg1RE9KTlpTLThUeDA0X2ZrR0RDSWU0b2dfR2dGRzM3Z0Vkc09IUzhKUFNkRHlGWkJmbk1MODZSSVY1cGpCTm90RWZHMV9DWGlaOUVDTV9WaTYtVEIyU3I?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Warner Bros. Discovery stock leaps on continued speculation of company split - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWtPUWdlX2QyeFYwTzJMRWlBdXB0elVJRmw4MEE5U3Z2dzVfNnNIM2hBSEtXMjUzSGpIMm5IWGFZYTE1dlNvZmN4M3Nmak1taEFRb3ZUaFQtUHdQZG9FV21pTnkteVY1WjhnWmJEWDhTUlRGSlRrMVVCSlozMTlKOENWdklhRFF6dHdYMmtaTFBaWURabmU1VFA2eUhQcXVVcTJjWUJxSlZKbGhJN1hULTctUmlvUzJTaDNjRk1R?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Warner Bros. Discovery, Inc. (NASDAQ:WBD) Short Interest Up 17.4% in May - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOFNQdk1mUGM3a25fa1kwcVBvMGJHOURVaHJ2N2lKbmFYU0RLdzFtN3Q0Rm9yRmpVOXY5QkY3TTJZczJKZXdzZWpmQjZKUWlKaUlLMjhZSzhDckgtZnJmRml6bkhVYjJnZUNWNEdkMXJoZjdnbHNOb1A0VWJodDVvekFGMjYyemotV0U3NlFtNlRrRmx4OE5EZnhrT1IxX0dZWExETDJOdGY4VEE0Q1lqOGNsNUlNMGtiblE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Warner Bros. Discovery (WBD) Sees Surge in Bullish Option Activity | WBD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUJ4MjhjSzk2TnJEcHVmZFQ2M0ZMS0YxcnhxNkYydTUyaTVOUzRVcmp6LVhQUC1JV3VBSHp0cFpDeF83di1ZWVc1anpmRk9CTzBKcDQ0WVB1NHJuLU1pczFLaEJRcVh0a3dqSFY2OUNVRnJwOVdUQmFjcDVFaHZheWdEdEF3ZGp0dXBJZHJENUJFTFk5YnNtaEtWVUZPM2Y3M0VSVnhGd0hpd0NSb2EwalFsLXNnUVBG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Buys 518,033 Shares of Warner Bros. Discovery, Inc. (NASDAQ:WBD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3lNS1Z5WklzbFFrbG9rc2M1ZGRiSjBfZEpYWFktMG1lNVd5eGhoWlI2SnBrMHZWMkFfeEp5TFZpbk9DM1ZVUVZsMUxjaGZ1MEtGU0hCaHFFUUU3UGI3VGJ1SmR6dUhFb1VvQko4cmpVaEFxUWNEc044azJsRjFjelRpMEUyUlREdi0zbzVnUUluUU5XZU5iaEhZOVJYOVhwVHNnazM0N1lkZFdOa0M0UW96VGxocEluazg0TE8zNWNnWmFGME4wMWo4NVhjRWtjT3g4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warner Bros. Discovery (WBD) Enacts Layoffs Amid Cable TV Challenges | WBD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWUVGRUh6M2NZOHFoZVN4eXhJbmNxQ3FZdXJpLUhPaFBDT1BlcDFtSzM3QnVOdzJnY2FpYVNzd3FCX3dKcjlhSjhEaGlxcFhGVjZuX2FVX21IVFJreE83ZktRMGZtUERsb0hLR1o1X0ZraXFNbXVFOTc5Q3FHZVZWTm15bExBNWg4WEpYeXpjZWlKXzdsOVAxaHc4WWFtbmhhTHFTV09FZVpRREZ3OGt2b1JwcWpVbzVrd3h3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Warner Bros. Discovery, Inc. (NASDAQ:WBD) Shares Acquired by Douglas Lane & Associates LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZ3ZzSTdxRDc4WkdzZkk1NEV2VGRqX0l5QS1nZnVRby1rU3AtOE52WVRQUGdvYVBXRGp3SjdwVk9fU0FvNy1VQVQxSHFIQ1llQnNEb3VXcUMwcW9IbkhKSnVKM3I1VERzY3psdlZZVEl4ZXFnVGlvZm9YRDdMbDRFSVhUWmloYjNJVmVTQmZlaEU3WkhlQTJnTXZJMWZfR0Y0Njh0YTVHaTZEck1Qa3JTRVdTYzJIQ0t5WlY0RVZBeFdkcVNGOE91VnZ6VU9GZDJQNzZQQ2tmNUZvRnl2bGtJRWJXTXZnWFdxUU9vRmxTSHk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warner Bros. Stock: Can Earnings & Blockbusters Revive WBD? - tastylive",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa040RHd4ZWhUNDV0c05Kdk1GTUFtNk1iSnFzUzJEd2t0OVVib3hKc1g2dkFRcnAyY0QzYnpRdmlOZkJXR2V1NnFLNWp2bnJLTktYSVJNZU9QcGFlVkpBMlgzamphS1hJSFhGaDRTUll2OVNfZjE1d1lubnZQeVFBT3RKbDhBN0Y4eHRzdXhJcWZ5M2Nf?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 10.56
-      },
-      {
-        "date": "2024-12-03",
-        "price": 10.55
-      },
-      {
-        "date": "2024-12-04",
-        "price": 10.65
-      },
-      {
-        "date": "2024-12-05",
-        "price": 10.68
-      },
       {
         "date": "2024-12-06",
         "price": 10.66
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 9.97
+        "price": 10.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 9.94
+      },
+      {
+        "date": "2025-06-04",
+        "price": 9.79
+      },
+      {
+        "date": "2025-06-05",
+        "price": 9.65
       }
     ],
     "current_price_data": {
-      "price": 9.97,
-      "change": 0.0,
-      "percent_change": 0.0
+      "price": 9.65,
+      "change": -0.14,
+      "percent_change": -1.43
     }
-  },
-  "news_sentiment": {
-    "summary": "Warner Bros Discovery (WBD) is a media and entertainment company that has recently experienced a mixed sentiment in the market. On one hand, BofA Securities has reiterated its buy rating on the company, and Insider Monkey has published a detailed fundamental analysis on WBD. On the other hand, Warner Bros' debt downgrade was seen as an ironically positive event by an analyst, and there was a surge in bullish option activity. Despite this, some investors are questioning whether to hold on to WBD stock after its 5% dip in YTD. Jim Cramer has also expressed his positive stance on the stock, stating that he would actually buy it. Overall, the sentiment towards WBD is mixed, with some investors seeing the company",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

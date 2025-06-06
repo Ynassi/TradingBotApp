@@ -2,55 +2,163 @@
   "ticker": "EFX",
   "name": "Equifax",
   "sector": "Industrials",
-  "market_cap": 32374333440.0,
+  "market_cap": 33113935872.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 53.30573,
-    "PB": 6.499402,
-    "EV_Revenue": 6.577,
+    "PE": 54.301426,
+    "PB": 6.647883,
+    "EV_Revenue": 6.638,
     "ROE": 0.12519,
     "ProfitMargin": 0.10679,
     "GrossMargin": 0.56438,
-    "DividendYield": 0.76
+    "DividendYield": 0.75,
+    "DebtEquity": 97.097,
+    "CurrentRatio": 0.853,
+    "QuickRatio": 0.701,
+    "FreeCashFlow": 783900032,
+    "OperatingCashFlow": 1295699968,
+    "FCF_Margin": 0.13671800388493846,
+    "ROA": 0.05641,
+    "PEG": null,
+    "EV_EBITDA": 21.403,
+    "BuybackYield": null,
+    "PriceToFCF": 42.176009708339954
   },
   "technical_indicators": {
-    "RSI_14": 49.731204966051415,
-    "Momentum_10": -6.293708058367085,
-    "MACD": 2.923601389042801,
-    "BB_Percent": 0.2487386895028981,
+    "RSI_14": 54.80573204414263,
+    "Momentum_10": 3.22278746929517,
+    "MACD": 2.667229380090987,
+    "BB_Percent": 0.4405354547179088,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8728786882532195,
+    "ValueScore": 0.8695119410704735,
     "QualityScore": 0.2961475747712276,
-    "SignalScore": 0.6622626806794136
+    "SignalScore": 0.5490297839312068
   },
-  "volatility": 0.0259349395570918,
+  "volatility": 0.0259148606647783,
   "beta": 1.629,
-  "return_6m": 0.0111467424367353,
+  "return_6m": 0.0259975392323565,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
     "target_mean_price": 286.467
   },
+  "news_sentiment": {
+    "summary": "Equifax a récemment révolutionné la conception des rapports de crédit, rendant les scores de crédit plus transparents pour les consommateurs. Cependant, des analyses suggèrent que les actions d'Equifax pourraient être sous-évaluées de 40%. Malgré cela, les récentes performances financières de l'entreprise ont été solides, avec des bénéfices et des revenus dépassant les estimations au premier trimestre. De plus, les investisseurs surveillent de près les nouvelles tendances en matière de revenus internationaux et l'impact des récents investissements technologiques massifs d'Equifax sur l'évolution du crédit mondial.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Equifax Revolutionizes Credit Reports: New Design Makes Credit Scores Crystal Clear - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZkxUZlN0Z1c2V2JLdGx6UjJHX3JTS2RXSVowSUlxLTZkQlc0a2szSnUzV2ZpZVlLYUZwb0V5OEtqYTVGU0NpWEstdFpMUlNNM2ZQNzhaWFl3MzgyNklBMG96aW9oNk9UaFdlMWhfeTM5Z0JrT3RkWlhyZ0xvOFFCa21fQmFLNXMwTVFGM0ZDTDFYMFFZMlhqN0hGQXpkeUdKX3JObnlHcUVQS0ExWGZrZnA1bFdyOEZsaE9YM1FB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equifax Inc. (NYSE:EFX) Shares Could Be 40% Below Their Intrinsic Value Estimate - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HRjNVYjFVSHJON2tmR2hqYlBrWHBMWDNNNUZMRHZERzdnUjljN2psVWZJSnZtNXljTktnTUVVa1AydktsUXNuTk5UeVd2UWVEQjhQZUN0c1AtUGJDWko3SUR5bDlmaUdHUWpWd2tuTmZGTUNJU1FHNE56VWoyUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Equifax Redesigns U.S. Consumer Credit Report to Help Consumers More Easily Monitor Financial Health | EFX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUkxOSF9SYjlvUXlxRjYyenhHSlNBQnRhdmdMd1I3eWtyaGFLTXl6WmRHMXRfWG5nQkFJTGxfQTZDdWE4SHhvZUxLNnJGYmxsVldqUWcwTGx5WUs4WEhoVklJYUNURjVWQWxFTk5maFNMNkdRbUtfYjMwRUlsTndXcHRrTTVPNEg2WTBvSGdZTGdNMkJ5cEVDdUhIWFI1T3QzNTFiVVJMNFJXTmdpdUNqeTVoTlE0WWNCWERLc0pWTDhRV3dRUWZlT2s0ZndNTmdLaVJuTjIwRm9IbXQyLXRYLWJGZEhjdzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(EFX) Stock Analysis and Trading Signals (EFX:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQblpJWUg5MEttSGtHMkJ4NUM3WXhlZms4LXRiS0VlQ2lHNUZGYXVuejAwbTJGTEpURmZKazNlN1I5bEVDWVpBTEx0YkRuRlRpMUF0LVBhYUJkaUFVUElqSW9TMmdBaXYtdUc5S1lKQkJuOTZSVmd0dElVMTg1M3BMVV9QN3lYZ3AxYnBqMkNTVWQ3TEM1YllwWUpYeXk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Sell EFX and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDeGRrUFkwNXdMMzFUN3hZekZYNlg4ZlhxSldEME1xb2NpYzM4ZDYtcUtiTnI4M1NtNjBQcF96ak8xVldwLWRDeUFNUks4TzJOQWZJbTNwUUdIeVp4SnlMZ2diNVZIb0FNTWVyTzBvODRQNnVV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EQUIFAX Earnings Preview: Recent $EFX Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnJLT2tzQUh3VE9maVptYUNJaXMza1A2aXZCMXc2enZRU2k0YXdXcDlpb2IyUDVpbWlocC1BU0tBak5xZFdCdHJISFhOTTk0MU85Y1lEVUVkMmlUTmRrdFhXMHV1NVhxVEFjUnYwd1g2Y21EUjFNWTJCWDNIdktsa0hNMzJuX245S3VibnZJOGoxTlR5UEtGUVp1ZnFFaGVhMjU5c0pjWFB3OTFHWV92Z2t3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 Gains and Losses Today: Equifax Stock Jumps as Earnings Show Resilience - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTB1TThYbHMza2pnV1RUbzRkSklETXpGWm9vUmVFQlB4QkIwYm55eGp0Q3BaWWZpYmt2c01zSUxnOTJxZk8tdTVmRkhZaWJSYzcyTFMwUmF4R05OdnliaTQ5NGkxY2VBaGhYdk5JNUt6dHB5QURVQnRZakNQX3VIb2I1aWdkYXpXeTktdFFZSkxncF9DMnFFdzlEd1BWcUp4ZHBTMDVfUW15b1l4RGgtSllTNUZaUFJTNUJaMg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Is Equifax (EFX) Stock Soaring Today - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWRJdDdHSHlneG8weXFwdnJoeUtXdjZ6OWt6bW5IclJwZGEyaXdoYjhQOTlyQkFwbzVIaVZxNEhhUlVOV1RoUnBKd1d2WmVQMkNjMFRIZ01ud08waVlWNDZGRDQwRjZDUzNOekJVMlZCa2FHUlJfbG03Q2tyUElHaGxyVnE2djRjUFdj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$EFX stock is up 13% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUo3Q0MxNXpHYTlTN29EdXFUSUZZLUR6NGFzVGdsa0hRZVZxeFJMc1dLZUVDbDRlX01KUnpJOFRIVklCaC1WdERmZUY0dF9xcGNRelVTQ0ZCS3hEN3ExOTVScTNyY2pIRHUyTTNFdTBXc2ExSU9hOTFtRUwyYmM3dXpodw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Equifax (EFX) Sees Decline Amid Credit Score Changes | EFX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWJQZFhrbjRTTWVSeVM2dFo2S2VsSm5pc3JxMTJHSjB4ODkwQ3pCY0RWWUVBNGplZ3ItNHlnRHVMOF9fVVlSYzlYZlU0ZEpQYTZlNW5YY0lFVGVNUzhWWnlLWjVuOUQ0OWdwcjcwXzdvOFE1QVY4QVNfY2phNkRpbTVZMTVIYWJTaEhXLVJ3RW5CbDJTZ1Q5M1VYSF8zZE8wQnNWTDl3MG0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Equifax Sets Key Q1 2025 Earnings Date: What Investors Should Mark on Their Calendar - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWm9DZ2xQRm56S1dweHBJY0JCUl82UU1QSlBrNnljZXJrSG1LRWNpeThYNGxiTHptVDlFVURyZlc1R3dUMHAtNkFCVXkzTmdvZW1UdTY0cTFhZkVpSHlyaUNnRXpwNDFHMm14MlQxLTZJQmUzSkJlNi1aR09ZWEE0a3E5SUJIOXJWN0pVOWZPZGZBbWxsMWw4ZnZFVHVSVXYwTEV5cEdJeUEyWHNOdWZKb2xqOVV4SVVJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "III vs. EFX: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11VHg4d19iaGM3Ynd4UHFSVU1Vblc1SHJIeW9yWXh0WWlhNUxjTm90QzNkUUhIWlIxMTVOVXExSXE3VVducXlWaG9ncXhBOXB0ZGRTdFotV0dpSkhMQzB4ZzhZNXhVS3ZsS01PcjAxUnUyWUtpMGtV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fund Update: Findlay Park Partners LLP added 224,700 shares of EQUIFAX ($EFX) to their portfolio - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0Y0T1RjYnhtTVJFbXFPZjk2Z1dVVE4yX3FzLWMwS1hpZEpHelNMUWpsSHY3ODJFa3diejRKNV81R05aa2EwSjBZX0RXcjVUbzNyX3MybTkwU0JlV1ZBTHRVNEFGZy05T1g4QVBicVNqa0tzYVZOckZUYnJzNDUycFlEbDJfNmM2bHpqc29PYWFONlp6Ny1XWjlQRGdldFpyaXgwV3pncHl4SUtVNngzUWg0T3lPYXQ5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unlocking Equifax (EFX) International Revenues: Trends, Surprises, and Prospects - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjlSWkVaaWhTaTVVT0VrelBoLVoyLWJmTHFDRFU1RGVLSjl3ZGtfNDdPZGN3Xzh4MVJodHc3eEZiTTkwc0YyM1dabUlCRk9KVEN5QnQtM2NMTV9OX0pnZjVUZHBGZnZDQmVGY0NCSXA0ZjBOUXl2UnRkc2t5UWxfbExLSmo3aldIbHNGWHVaZm16M1BJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "III vs. EFX: Which Stock Is the Better Value Option? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45MDBjN3ViYjlxVkNyeWIwZG4xSXpvV3N2VzRpekJDRE9ZT3dGcDZRdlhUX3NOMkN6R2ZWMHRTTEJHQmJPM21SZE9WMUdTZTNfNWFGTXFxbV9fbTlmRHB4djVfMWJ3Ujc4Z2tQVkkxSFc1V3Z3U1JTYUlmQ3pvUGs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Equifax Inc.'s (NYSE:EFX) Recent Stock Performance Influenced By Its Fundamentals In Any Way? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9idmVkYjJ2OXRqVG53S2MyTjR6cEdoZG9ybUVSa04wX1ZINE5weG9kdks2VUV5VnBNdFVYMXNJWHdGWHBQdVBQUWpRWmhWcUxfYldsemFlVUQ4TFU5Z0NLeHVVQm5hVWdVN3JtYmc3VG9tN1NzazBCUWdzM1pjdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equifax (EFX) Q1 Earnings and Revenues Beat Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGI1Ykcwc2JvRWVPZnZKZXRvbXYtb0ctSzltM3czb0Ryby1FOWoxa1NjZ3ZNQjVDQmliMDFhb2pJWmF3UHFXejVCWnRrVWFpYVFHMGc3STVka1loQU5oRzJOUVpzMUxicDVXa1FWcVRSeDQ3SFVpYWNuV3pJbHFWNktpc25kWHpoalJV?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Diverse Client Base & Buyouts Aid Equifax, Low Liquidity Ails - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclBHVWQ4Tm0zX2lsLUs2MElJV1d5bHlITnNrVWRuSk56MGRONmVpQWhqVzdOZHl5OHRGSGFRci1UQ201TnFZeXVoUldiVDlzQ2g3N21BYzJ2bnZXbFozOU44dWZuR0EzQTZoZ1otVDZaMU5FYUFSVDZld1hITm1wQUtnMkNOVGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equifax (EFX) Up 3.7% Since Last Earnings Report: Can It Continue? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXBMX0pRQ3B2SXlROGNhcDFQRHZrazRhMXFFWnZqQ3JQOHJRNnhzcGJpMVY0SVVhQ2F5cTZrWHJIbWgzb2ZhY2U1QzFLSlItTVMyZkp2RUFwTlY3TktFOWNXMDg1SjFtZnBBTXZWaDNMSHptaU9wbDIzdm1hMTV3Mi0tZ3hXWDVUVGkw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Exclusive: Equifax's $1.5B Tech Investment Uncovers Major Global Credit Shifts - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd2Z0R3ZxbFNyc3M1ZFhlTVltUGtOMWRIN0M5RWw3S3pLNU5rY3BOQ3ZrOFRJRTJBNUZXbEIyOE9vb1haY3VqcUNwanNRUE1HWlZDWU96MWlhUktPSFJEVW9oU2UwUmtyV2w0QXJoUkhRS0xBeWJ2QkVpTklMcGljcnluZF95NmV5cTl3TlZvLWNZRlBPbG9DTXp1d3RjUXRSb2pCT05WWTc?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 258.7
-      },
-      {
-        "date": "2024-12-03",
-        "price": 261.23
-      },
-      {
-        "date": "2024-12-04",
-        "price": 263.58
-      },
-      {
-        "date": "2024-12-05",
-        "price": 260.78
-      },
       {
         "date": "2024-12-06",
         "price": 266.82
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 260.43
+        "price": 261.41
+      },
+      {
+        "date": "2025-06-03",
+        "price": 263.47
+      },
+      {
+        "date": "2025-06-04",
+        "price": 267.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 266.2
       }
     ],
     "current_price_data": {
-      "price": 260.44,
-      "change": -3.75,
-      "percent_change": -1.42
+      "price": 266.2,
+      "change": -0.81,
+      "percent_change": -0.3
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent la soci\u00e9t\u00e9 Equifax, une entreprise de service d'information financi\u00e8re et de cr\u00e9dit.\n\nLes tendances cl\u00e9s sont :\n\n* La hausse de la valeur de la soci\u00e9t\u00e9 Equifax, qui a d\u00e9pass\u00e9 les pr\u00e9visions des analystes.\n* La d\u00e9mission du chef ex\u00e9cutif et la transition de leadership.\n* Le plan d'achat de $3 milliards de dollars de ses propres actions par la soci\u00e9t\u00e9.\n* La hausse de la valeur de la soci\u00e9t\u00e9 Equifax, qui a d\u00e9pass\u00e9 les pr\u00e9visions des analystes.\n* Le plan d'achat de $3 milliards de dollars de",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

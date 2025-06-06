@@ -1,56 +1,164 @@
 {
   "ticker": "RHP",
-  "name": "Ryman Hospitality Properties, I",
+  "name": NaN,
   "sector": "Real Estate",
-  "market_cap": 6080353792.0,
+  "market_cap": 6042086912.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 20.49416,
-    "PB": 10.768351,
-    "EV_Revenue": 3.871,
+    "PE": 20.36518,
+    "PB": 10.700581,
+    "EV_Revenue": 3.85,
     "ROE": 0.32494,
     "ProfitMargin": 0.12156,
     "GrossMargin": 0.36201,
-    "DividendYield": 4.74
+    "DividendYield": 4.78,
+    "DebtEquity": 364.889,
+    "CurrentRatio": 1.214,
+    "QuickRatio": 0.811,
+    "FreeCashFlow": 547166720,
+    "OperatingCashFlow": 667251968,
+    "FCF_Margin": 0.2281393699853651,
+    "ROA": 0.06172,
+    "PEG": null,
+    "EV_EBITDA": 12.278,
+    "BuybackYield": null,
+    "PriceToFCF": 11.04479991765581
   },
   "technical_indicators": {
-    "RSI_14": 54.52450267322359,
-    "Momentum_10": -2.5073282948970133,
-    "MACD": 1.4173301486561485,
-    "BB_Percent": 0.4385109282566506,
+    "RSI_14": 51.80965422855608,
+    "Momentum_10": 1.2882801056159596,
+    "MACD": 1.134221773758199,
+    "BB_Percent": 0.2867732717420798,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9210154008286896,
+    "ValueScore": 0.9189176728592136,
     "QualityScore": 0.3247212493753277,
-    "SignalScore": 0.4675834766881372
+    "SignalScore": 0.539256748216326
   },
-  "volatility": 0.0211361953851777,
+  "volatility": 0.0212460459080567,
   "beta": 1.591,
-  "return_6m": -0.1593015374047149,
+  "return_6m": -0.1695378137799869,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 12,
     "target_mean_price": 115.66667
   },
+  "news_sentiment": {
+    "summary": "Ryman Hospitality Properties, Inc. (NYSE:RHP) a récemment sécurisé un financement de 625 millions de dollars pour acquérir le luxueux JW Marriott Phoenix Resort, suscitant un intérêt positif du marché. Cependant, malgré cette annonce, les actions de RHP ont connu une légère baisse à la suite de l'acquisition, avec des préoccupations concernant le RevPAR. Truist Securities a ajusté le prix cible des actions RHP à 120 $, tandis que Wedbush a émis un pronostic pessimiste sur les bénéfices futurs. Malgré ces fluctuations, la société a réussi à lever des fonds importants et son PDG partagera sa vision stratégique lors d'une conférence majeure REITweek.",
+    "sentiment_score": 0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Ryman Hospitality Secures $625M Financing to Acquire Luxury JW Marriott Phoenix Resort - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORV9yRU51RDQtTDdyZ3Y5VkdNcV9ac3M5cVpuc2xza0xtR1NZaUJ1U19pbDFxMzRucDFqU1hDcWk4LUlWZEFsbEtOeHhMNzA4M1lFaEUzdDFVRC1jTEkwZG16VUdHeDlya2JvdXF5QWpqVENlYlJZcWY4Z3RDcnN4RHF4REZaY2VWTEt2eklCVnBsZEtHSHlrWjhOeDFZcXdVUzdFVGVjeV9QQlQzSzNxRmFpYnhpa294TXdqUzFQMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ryman Hospitality Properties, Inc. (NYSE:RHP) Shares Sold by Voloridge Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTG1iMTYzaGZfQ2E4Yko5T0xPek1aWW9aV3c2WmpGdzZwemxzcmZzWlYwS3NXUGszYkdFSkpLN09WalFnNERVZFIwajl2ejRUNWlXNHBhbWg2REV3Qlo1d0x4V2FCUWIyZnlGaTZ5RDBONTVjNTl3c2tpZ2FQUy1QeWlUY1hVM0JEU3B1bjRnclA0SDMzelZ1VFlhNDZaVUwxcF9EbFZIa25nc2FYazNmSGR5eDRuRjcyeXYzZjNpRjdEQ00yaW1XNlVrMlR2U2FMZWZFZFQxak5vZjhBY3NCZ3dJbFFiVFV2bEl3RUVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(RHP) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLW01b3FTSDljMVMtR09qbVZDdWxrd0VhcVJMWmtNbGlSb1gxOHlQc1dqeUpYRUkxZ1ZqZU5pZzV5TklDVm16YkxzUDdUbkliV0hJUmowWkU1cE1XQkZrdkhaRm5oQ3RfakpVS0pXTmhxUkpiSlFid0NSNjYtZ3pEd1BHVWNqZlZOY3d6Q3BiX1lDUkJoMTZLekNtR05JbVdfMWNSSERkNHIweElIbHdqTjlrVFotbk8w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RHP stock enters week with momentum - Nashville Post",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRWxXeWdGa3VONW1iOElXd3haLW1ySkltbVBMN0k0Y082LVJSVi1HZW5pVVJFcFNfSW1iN0hHRXVYa0ZtWmxvMFlzUWVRRHMyYkUzQWMwdHg3dkJoc09uT21nRnRybzNUUHFzU0dYOUxqODFfZGtiYTdhR2tlR1l6dHBfM01pYkdQNTY4MnlrZ0FDU1o4R2I2dHc2cDllNGNUbXlkd2pXeXZLd0ZJNExtY0RIOXFvTFN6Y2pBQk5QQzR2VlZicVMxU2h6VmhmbTFNWnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RHP Stock: Truist Securities Adjusts Price Target to $120 | RHP - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU9JMlpNakhVMzFMVmNMT1NZdmRJQnlQamM2Uk9lYTVGUmg3WFh6bHhQVGY0dFg0NXpaNVlNclhVTjkySWdDeGd0THY4SUI4d29sWUFzWEpyaDV4SWhIdUNVM1l0WlROdlZwbmtFVU9QdnhqbzdrOGlWcU5pdU96cW9ub2tFVXliTXh0Z1lfb29aY3JDTWRfSUV5RlNRaHltd253Rm5NSGZ4cWFmUkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ryman Hospitality Properties (NYSE:RHP) Given New $120.00 Price Target at Truist Financial - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMXRsMVJuZjVLRG1ydjMwV0E3c3JqTDV1X1VUWnF1clZuS0QzemZjVk9BeFBVWjMzSlhrRzZCM2ZmNWg1TEE3a0FJWko5RkJuRDRCUlEtVlV4SXpwRjQ3X3pLaXUzZk1rdjktVEhtZ2VfV0tRWUNzbDYxN1JRdVkwTUVfYk1UVmx0bW5OX0w0S0l5MzNUWlFOSDMzTHM2QWV5ZHFndVp3NE1aLThqdVdOOFFuX1hKdXBTeVFuaDlRaU1VSjJ5blB2VUZVeXhZMkwwdnBrM1NnaE8ydThqcTRsOXB5MUVydw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ryman Hospitality sees stock dip as acquisition announced - Nashville Post",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeEtJb0FnYXMyazJ0TEVuaV9yc3NIZU5ncWk4T0hma01YZ1FFSlZMZ1UwOHpZTU9mNjVPVWlSSERGVVZxcWlFZk45SDBIMVdkNUt5VUlvUEQ3dExPZzhGWkstcWxJZTJJS2pTMlpwUVdsVUh2djJhOUJzNE5VNDFnbWt5THc3WEl1YTlrcmpzNW5hdERiaDY4OE91amhNVUhmSl9rQzBBSG9sVWdIR2oxc3lNS3VvRjBnTmx3MlFEVmhFTmFpZTFzS1VUV3NMZ3dxcV8yX2MzRmdBYjFBYjE4NldvYzBWTjBWLTdVYXlGTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ryman Hospitality Expands Stock Offering to $250M for Landmark $865M JW Marriott Desert Ridge Purchase - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQlBGVWVCcDJNaHJGcXExT05iZXFwQ01ydmprMTRsZ05WUm1iOVZZQ3dXdU51Z09teUFPX2ZPMjVwUWE5UG0tOXpNSjktVmp3dG5DLXR1cGhjUTFLVHBHYTNoR3hCdFJXTHNJUWg5Rl9OX0dQWXlqVW1ZYkttMEEwWmZfVEhkV0wwUXloMnp6VDlNSk5vaHpCc2VSRi1uVkVTa0JFVWZTVWI3OHJlTWdLRjE3X2JVQ0NaLXhqSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ryman Hospitality (RHP) Faces Lower Price Target Amid RevPAR Concerns | RHP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1Z5U0RJcWVqNGRra09ZRjdzY3FnLVI3WDZfSmFlVjBHR3BJX3RudXYtM3BtbDRRUHQyalJ3MmFKekFTUUlpX0FKQ3BZd1VHNkh3WEhwQkIwLWhlaG56VU95WlVIUUZCX1dYdlB1eVpzOHAxQVRkcDM2YzUtY2xzSEtBNHFBUTU5RWhRNUxZWThKYy1qWVcwTm5Ub3UzNWs1cGwwQVh3ekRlOXJqR29QNGRVZDFmOHRGektjUDZoTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Brokerages Set Ryman Hospitality Properties, Inc. (NYSE:RHP) Price Target at $112.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOREN2WnZSNE5tNUI1d2hfZlMwZDEteC1ySjV5TDJxYVRFQjBPLV9jcjVPd3RPV2tCNlVnZm5xeFdnRzFpMm9kZE54TWNQNEFPRXk4bTRMTzk2aFNDTXVQRUJmNTE0Q3BFcWZLRGpWR0dXS0VYYzRoR296N2VVXzVGVFQxaVZ2VFRGUTM3WU5LbU9JYjVlS2pRQ2lSQzVUMHFteklKMXlmcFBXTVIzZUUyd3d6WkU4VF93VFQ3Y1BMYWdJR3ktNllmRTNncl9aenFVbnI2Rk5HRU5NQ0x3ZTVkQVRQNXA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ryman Hospitality Secures $865M JW Marriott Resort Deal with Successful $275M Stock Offering - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0l5dFl6czdXTWJidkw0RjM1dGw4T29xb2lvX01yY1dDOFpxdWFveTY5STlqTzV2OWFkLXFhcjRCaWNRRzVyVWZDRkY2MlBtWFRhQXlEcEtDaVJfSXNHdXRBbjFvZ19tU3lGTXJYX1k2cEJnVFFTdjc0VDlFZURsZjVoNG45aWNDbDdIeTB6dGNfbDhaR2FKMkhkaWoxSkFsTUdIZF9EMGtzdFVyZ21maXZSb19nTmtvdy05bC1wVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ryman Hospitality Properties, Inc. (NYSE:RHP) Shares Sold by D. E. Shaw & Co. Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcllvUG1WaXRhOEtzT25qUEh1TTBBLV9zVVdPR3FIWWdEd3Ytc1NjbGdscVM3RHI1a1ZoRlU0Rjlta0tUQ3Z3Z0s2RWRHdGNBZWx3RF9FNUQ4Q2lrb2ozZGJNYS01bGdUWUFLS2tFdXpTbXNhWk1SLUlKcGVCVWg2MEwxbGEzZDhKTzNxTktLZFhyYThoRU1QS0pFUV9Gd1B1d244YUQwYXNSSTdrZkw1UTc0cHVvYUM2NWYydVNtVWw1SjZtTDEwRW1zUE1mVGxnTDA4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ryman Hospitality Secures $625M Bond Deal to Fund Massive $865M JW Marriott Desert Ridge Purchase - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOFBfY2I4eGM2WEN0QWRXUHJKenZ6TGpMc2ZCdW9OUTFvdE9MSmtLajVnTVVvMTZQR3FQc05ZUWJXeU1OVHpuVDllUzVoWWdBRlZoenpjZ2lJTjVIQnY0b05zcFVCeHNpTVExc3FwRE56Q1hGaHdpLWdscXVDcmN0Qk1IczZjN1dncHhDbEpfQTc5T19UUC1fT19NTzhLa2MtQUtzdFFQQ1FETnBZY3U2dFlNeWs0M0xUYWNaSg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Research Analysts Set Expectations for RHP FY2026 Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdU5YUnp0c3p3UFc0RWdGamI5bnMxLV9ac1oyNDhCS05wR3NlVDItV0thc19WVjNOOGpFY3k0Qm94Slo5SER4VUdITjVpT0Q1UGszQkhsQ1gyN1FxMkhXRkRuS0F4QS05eTRvYVNtZzN6OTRvODg2MTlJd0QwcXg2VXZvZFdXZW9YSk55UWdaSkhwN2ZLSUxBSTQxNW5MSUVLSWtXS3prTTdOeUtteW8xcUNMYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ryman Hospitality Launches Major $600M Notes Offering to Fund Luxury JW Marriott Desert Ridge Purchase - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWRKQkh0Zm84NjRpLXpyTVVfMjB0b1JVLWNvZWZPYjJJaHdkVlFka21rMmxReE1aUDlJendTTGtRU0VfdDdBMUNWOEUyX3ZFZi1iX2VCVDFiRjlZTDctWExpODBhRXBRRFJHaWlvX0VUU2xwNjlzdmRVUXhkVm1oV1NOZW1faGphMklRMkFEYkQ1SjNvTzVOWDhmQUdsTThTVFBRZzMwUGxfZWNfR1A3UVEzbFl3MnR3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wedbush Issues Pessimistic Forecast for RHP Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY0lOa19hazNVRFJfRDJGdm9Venh4WjFpODhnWmhKSkdMZW5MTnk5elV3VVFIa29ZMHJOblNlajFKU2ZneG9Wdi1ZR0docFVkbmhwTFQ0N3NDYkwyT1lyZ2hDZk53XzQzbEVPMTNMWHBMZGw2c1FZWnNyUWJWSmZibHNzdk9RaENSUXVHLVpSa1hiVFIzc05QVF92SmltaXhIVmtUa0pKQ2lrdUI4WkE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ryman Hospitality Raises Funds for Massive $865M JW Marriott Desert Ridge Resort Buyout - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkpTaV9hTzJuWDNPOWpGdHFGbEUyN0ZUMHI2RnJNWkJqMWJGVm5OcWtzWWEwSHM4T1RHWkZvbGR3ZGVlQXJaRm5RZHlFc1FFTE5NMkJaRFVFSzlScFBianh4T0pCeF9HUnctVURTc2NpWVoxZ0FIT0hfYi1admMxT1BnZ2hfd3U1dG96aEpBcWM0Ujd4OGFHZm9HMTJib1ZTQkpCYU9nOWl0M3hUc01kSGUza280TEJ0ekE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GTS Securities LLC Buys Shares of 4,446 Ryman Hospitality Properties, Inc. (NYSE:RHP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMWphdThVVk45dGU2WDRkM2g5dWJtTmRzcUJnM2hEcnlFTzNScllXV2ZQOFBEMXVWYWMxQUlQTE5WclktcjZwUzk1bk1UU1dZbVJyRDF5Y3BvZ2t1U3N4UnpBLVVQOTFxckJCVUdGZV9VcTdiYWw2eVc3eHRvakQ4aFNNT3FaT2R6R2ZDYzFnVlBpNHNpa0lnY092SENnNDZCWmFweHBXZHNlMHo2RVFTdjF1a2JUR1BvMmc3SVExRmJaWndxb3VnUHhVLTZTTEVsWlh4TkNSR09VdnlzclYybg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ryman Hospitality CEO Mark Fioravanti to Share Strategic Vision at Major REITweek Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONHBZU3pZQlRoRnkzTnZFNTdqWWN5MW4wdlRpV0std052bEZDT1ozTU5aNS1qUUNzVE45NlRqeWJFTnRWakxIbzFjT1dkTkdCa3Jmb0kzMDdkMmZEU0tRQzBWeERzbHJtOG5JbEtqYWRUU0N3V194OUhRenRKMzh6a1g0bEtSZkJjQzZKMHY5a3JlOUlaaXotZDJjVzNkNk9kSXdiQklteDR3WXhreUhQT0lWYlR1bW5KbHU4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ryman Hospitality Properties, Inc. Declares Second Quarter Dividend - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjFXMlg2OUU0cnBFekV2dzVoS21YQndqMkJNeC1VVGd1dDdVWTRNZG5RUDRwa2JMWEFTaTNEZGlZa2N5UXhKcmxabzQxSF9xZ3V0SWpQU0lvalVocHJMYUNocVVTZ29hLWxZZjZjRXZ3OXRVX0s1T2ZIMHZzWXItVUZEY1dpNVVFZlNFRncwTzN0VXJTWWZ6b3dad0VBNlhGYklkbzFqZ2otNFlNbGJv?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 117.55
-      },
-      {
-        "date": "2024-12-03",
-        "price": 118.84
-      },
-      {
-        "date": "2024-12-04",
-        "price": 118.14
-      },
-      {
-        "date": "2024-12-05",
-        "price": 118.18
-      },
       {
         "date": "2024-12-06",
         "price": 118.25
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 96.71
+        "price": 96.95
+      },
+      {
+        "date": "2025-06-03",
+        "price": 97.8
+      },
+      {
+        "date": "2025-06-04",
+        "price": 96.26
+      },
+      {
+        "date": "2025-06-05",
+        "price": 95.94
       }
     ],
     "current_price_data": {
-      "price": 96.7,
-      "change": -0.42,
-      "percent_change": -0.43
+      "price": 95.94,
+      "change": -0.31,
+      "percent_change": -0.32
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres de Ryman Hospitality Properties, Inc. (NYSE:RHP) ont \u00e9t\u00e9 \u00e9tudi\u00e9s r\u00e9cemment. Les analystes ont not\u00e9 un sentiment positif sur la soci\u00e9t\u00e9 en raison de son acquisition d'un r\u00e9sort JW Marriott \u00e0 l'\u00e9tat de Californie pour $865M. Ils ont \u00e9galement signal\u00e9 une hausse de la revendication de chambre par utilisateur (RevPAR), ainsi que des prix de march\u00e9 \u00e9lev\u00e9s pour les h\u00f4tels de luxe. Toutefois, certains ont soulign\u00e9 des risques li\u00e9s \u00e0 la pand\u00e9mie de COVID-19 et \u00e0 l'\u00e9conomie nationale.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

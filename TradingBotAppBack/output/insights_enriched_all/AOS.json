@@ -2,55 +2,163 @@
   "ticker": "AOS",
   "name": "A. O. Smith",
   "sector": "Industrials",
-  "market_cap": 8975603712.0,
+  "market_cap": 9074369536.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.642458,
-    "PB": 4.8383636,
+    "PE": 17.836592,
+    "PB": 4.891604,
     "EV_Revenue": 2.428,
     "ROE": 0.27969998,
     "ProfitMargin": 0.13741,
     "GrossMargin": 0.38042,
-    "DividendYield": 2.11
+    "DividendYield": 2.12,
+    "DebtEquity": 15.945,
+    "CurrentRatio": 1.612,
+    "QuickRatio": 0.954,
+    "FreeCashFlow": 344950016,
+    "OperatingCashFlow": 513900000,
+    "FCF_Margin": 0.0906999411022297,
+    "ROA": 0.13352999,
+    "PEG": null,
+    "EV_EBITDA": 12.008,
+    "BuybackYield": null,
+    "PriceToFCF": 26.283672774202742
   },
   "technical_indicators": {
-    "RSI_14": 37.88060974950465,
-    "Momentum_10": -10.521835680879676,
-    "MACD": -0.4284835990213622,
-    "BB_Percent": -0.0359793354743167,
+    "RSI_14": 41.351776279082834,
+    "Momentum_10": -4.916571687604496,
+    "MACD": -0.7537848629189909,
+    "BB_Percent": 0.1669810387613781,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8915891459796516,
+    "ValueScore": 0.8885954672070796,
     "QualityScore": 0.3306111259452773,
-    "SignalScore": 0.7515781356712657
+    "SignalScore": 0.6726233095773162
   },
-  "volatility": 0.0165920864025514,
+  "volatility": 0.0166123407318575,
   "beta": 1.213,
-  "return_6m": -0.1452868110704074,
+  "return_6m": -0.1080415947311209,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
     "target_mean_price": 76.17667
   },
+  "news_sentiment": {
+    "summary": "L'entreprise A.O. Smith a récemment connu des fluctuations importantes de son cours de bourse suite à des rapports d'analystes divergents et à des résultats trimestriels mitigés. Malgré une baisse récente, la société continue de récompenser ses actionnaires avec des dividendes stables. Les investisseurs doivent être conscients des risques potentiels liés à A.O. Smith, mais certains estiment que l'action est sous-évaluée. L'entrée d'un nouveau concurrent a également impacté négativement le sentiment autour de l'entreprise.",
+    "sentiment_score": -0.25,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Here's How Much $100 Invested In A.O. Smith 15 Years Ago Would Be Worth Today - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd04wOXBybjktUm5VcUpnT2VUVFBlWFY4c2FZZ1pfZ2YyQXhoSW5PVTZHSURESUZLaXdRQ21vcG1HN080eU00UEJCaHRjT0x0MHZRcWZiRzA4MXFkUFpQNFNtZkFiVVItTjViNUNGYlM4MHY3bmJYd0hWdkt3ZlpJeDFJalJuQXFlTVFCb1FCT0FkQUFvdkRvSEZiRmJ2VnV5eWJlMnk5MFAxSG1tdDdUOUdHbEl2SU5ybVloMjZXd2xnMjU0cWZN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stepan Company Boosts Alpha Olefin Sulfonates (AOS) Production Capacity by 25% Pounds Annually - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEg1UkJGcFhuelpsOHdodnpPRnI2dzZkTWtDTWsyUU1KSkRMeEp0WUgtQmpKZGRYaS0yTDBuUGZyYjJPNlVqeGFiMVVSXy1qTTA3QkI4YTFYbTA3RlB4NVg5WVBJYVJZNnVvelQ4Mm4wRm0yenRjMzBVa2Q5VDRqY05qTU1tTS1kMXU3Z25KYmh0SmU0anZKTEw3WDdOcS1VemgwZENobTFHMDBnZTRaaC0zZU0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Is A.O. Smith (AOS) Down 5.4% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51dTJldnotVUhzLTViSWFqWU43bHVlTGpnSHN1RXFXSjFVSl9qY3phYlgxcnhsZ0VmTEF6MDFmcm5wNkpKWk40TGlpTzZlOUpfNnN0S3Bfa3o0YjZCdjJoallteFE0cl9ZalRES3VieEl6V2lr?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "A. O. Smith (NYSE:AOS) stock performs better than its underlying earnings growth over last five years - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSlY3TU5PQmN5Y0JuNlVtUlVlRlJFUVJvREh1MDV0dVZiSUg2ZloxS1haM1lnUjJSV05TdEdPa0pMMDF6bjBfVXd0RGxpUVNpbWlrTUtNZ2tfX1VwZnpoZjFldnpfQ2xlTVg3cnZLVHJBSWx0Ni1QQVhwSWVXYzdFR3FscGJyajRUQ211amZMVHphQ3pGNXY0U24zZXZTei1rRFRPN29iMGl1Nmh2V04zS2hzeGdrRnRROG1rZVMxOGxnNXFkcnp3TTlaVdIB0AFBVV95cUxQUjE5RVlianpJNUt3RlNxYkRwVEZ5MFBRcEFUVVE0OWp3YngyQUdOeVhuRVpid0xhYnQ4dEo1cTlic0VtQW5NVFZqMF9iY2twY0pFV1JXbWtnMkwwSmotaDJNNGtiaUJUZm84b1k0Tk4xWFF5MVA4U3QzanVma2p3VFZ5SW5yWEdlV2M5TnZPNFMybzVwWGF4UDYxbmp3MWU2Z29HM3VwN2pORDhzVTRFSzZLRXJvMjZCQk1HVHNPRWFPS3NMeXpaNkNsbTllRlRE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "A.O. Smith Corp (AOS) Stock Price Down 5.17% on May 28 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeUQ4N1VHRGJsNzNIQUItVVRKVVhtd08wcU5vTXhSaVdCSDlUZElhNFJGUFFpNm9nekxHelZmZGJLRkFBOTd4TmRQTmNYZU1iUFVkQlQ4XzY3anBFYW9MWk05cHh4Mk5aeEI3bDRPS1NzeGpqX0ZXRWhXdkR5cmVMb1VVcXl3YktNdUhLT0RtTUxKbW5WVTRCdXRpU3Vtd1VlVkc0X3hsSWZzQ0R5WDZBei1seWlaU2E3MUJZd2MzQUlJX1hZbE5NYjY3bUpER2g3TGFDVnlVOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dividend Aristocrats In Focus: A.O. Smith Corporation - Sure Dividend",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ha2ZlM1JjNkNrb3d5QXdOSmpKVGNFLS1sazRQU2llUU1DakVrNm05TmRWU0lsc3h3aVZjZUhtVHdDRXR0VmNxUXJTUlRxMl90WF9lZnpXNjg0Xy1JaGVId0ZtTnI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons AOS is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RUEQ1TlVKV3ZJX2tTX3VPclVWTFR1cE81aEh4VFRQNUZWdGNvXzdnanhVR0ZobkhEbG9oQ1NtbHZKQ2FnazcwbkFuMy04a1U5dC0wQlNhZXVOYlY1S2xlQmRVZ0sydXVmTS1nYzJQUmxTU0xrX3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A. O. Smith Rewards Shareholders: $0.34 Dividend Payment Confirmed for Q1 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVZpNDhBRXVkcWJfM0tCT0M4WGR5RzhfVFRRTDVGWTVGSjRseXNMdlBKVkkwQXdMME13WkQ3NDlqTjE3Zms1Tlh5cmdkdUdmX0NkS3ZOcHVza0pvdkNoVWZDREJmU2xGaTA4SlY5Vl96WWxLWkx0ZE51cHZqMVljb0YtNUtjcjJm?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "An Intrinsic Calculation For A. O. Smith Corporation (NYSE:AOS) Suggests It's 22% Undervalued - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONmlsNjRJSmt6Ni1hVEo1ZmJaS0RzNVBnd1NzZ3JrNEtjYTdMY21MRXE2NFZIVUx0VURZY2xfUmtUVVRIVDRGVW9tOWZrVUdKUjdhZWliWlp5S19OM2tEbTJVeV9FcVE2WlctRHJTS3F5Mzc1SEVVZ1I5U2hZRkxDUllReVpIN1VVT1JoakJKa1RFUldiNU5mMDZmNDFGRnBUaWJUT1VrcXlWOHFySGJRSURjYjRoUUNDeER2blA2c1BlVUdyNFRKTWpMeVrSAdIBQVVfeXFMT1AtNWVfMVNZdXlsb1RUNThReWc5SE9YVkJFaFRiRmdUWnhOSFFqY3pmaEEtTVRwYXpoa2lmT0FISTZRX3ExZ2ZNUlJNZzR5SnJxSU5COGROTmJLaE1jMGhIMXVUTEJ4RTlhTGw3XzNSb3RlWlpVb2tBa1k0RWI1MW0tMzNrU3R5MXpySnUtaGkwSW1vUGRFSEJ5dXBDZDdTM0w4cmswRGZlcXd0V3RNLVkwbzQ4Q3Y4b3FxR2JTUXk5WkxKUENZYXJ4eVQtUkItbDZB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is A. O. Smith Corporation (AOS) The Best Industrial Dividend Stock to Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51eFRTT0UyZFU3Y19uazRybkhBZDBkV3BFV0pmMXE0cThzX0dsX0d4LXM1NDVZN2w5N3V3b0ViaEtPdzlfdzhBSzhOV3lJNGh3LUVKdEJTNVNLRzE3am4ya012SmtnUy00NEZWWmY0Ym5ULUJpN1Z3eXIwQUNlMUU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A.O. Smith (AOS) Shares Fall Amid New Competitor Entry | AOS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzRTc2Q2Q01uMGI5NS0tX2dYOHBUMUhUWHBWMThPWDhaRmROci1lOGkyVkFBMnRNb3ZFTkdGcS1lLVJvZjJQM1FDcW11UnVvNXVJY0twWEZTTFIwdXhrMkdvNGZyM0cwQ09qZEd3b2pNWmRIRXJpZnZZZ3VCZ2NOSVY5X2hCVGlNaDVEQ2o0S0Y2RGFiOVM4Ti1IdWY5dnFhekk5NWhkSQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why A. O. Smith (AOS) Stock Is Nosediving - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZRGFocGJSZkkyLXM2V1dpeTVaQ2hlVWRRam9GZWhNcHByWWg2bkRkakkwQVRpY1k0UzdJTXp2Um5DY3F4UUhlYl9VejRwMGRBR0FFUnNKenRpWDdJZ29rY3lYRmdpdFhCNVFaalVJNmRlNjN0eHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why It is Appropriate to Retain A. O. Smith Stock Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb21mc0NHeEhzc2JmdjQxRWNWOHo4SFRzbHlkOS04WU1NQmZsa09Bc1luYVpUaXl0X25YeWdqcUk4aDJNcGw0SE1lTlBZSFExamprc2M5eWtLbGN3ZWVwNEh3OEN3WDlCZ0I5TE1TNjA4b3dZaENvUFp1VlFYU0lfdHVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Preview: A.O. Smith (AOS) Q1 Earnings Expected to Decline - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xRV9kWS1va05xeEVidVNvSE93cEZMUElFRFg5UzQ5OHFPekpTdjV2dW85cVh4aUFILVVsMWdPOFUwcG5tQjd5djJ4eW1PYUg4SWVURTRIWGJ1SVpvZGFOQW1NWFJ4N2dJUGtTdklaelJqRHotUnp6QlRrT0N5YmM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Is A.O. Smith (AOS) Down 7.2% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tNEExVnpXZkMtb0xjTkdkZC0xeC0wVzhZY0hKcXEzemVLdGlNVUlwZFQ0NkJlLTdVcUxNS3R0SDlnSlVESFE0bEpHX3U1cXVmc3I1V0huWmprWjg0enBjT2J6RzB4UTVIdjlNNXhnWVluN1Bn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "A. O. Smith’s (NYSE:AOS) Q1: Beats On Revenue - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yNHpwMFNNam9aNTluNF8xTEU5anloV3Q2UnZTbExSZkxmNkdVTnB2OVBTcl9hU3k3WmFHUlA4NlBwMVRncGN2WUZjYjJ0Ri05WE5aOVBieGRzMUZlWUU0ZHpwMlM5alBqQ0hFcWVsS1JSNFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons AOS is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jbEpfTkpva3FHNzdJN2REZ1ZBZFpXTE0zdlVIbDJZaW9FeGhLR3p2RTlqWENkbWFybUpTWUFUMERUSW1uZmd4ZGR4eFFmNDJlUzZKbktzRWJuWThFbHBQR0M1cEVSc3R3S3lNd2ZTTlVhY1Vsamc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q4 Earnings Outperformers: A. O. Smith (NYSE:AOS) And The Rest Of The HVAC and Water Systems Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZG5yZXVfb21JTUcwTURSME1XeHdSckdtZnhwZ3prcmRkcmkxWEtBVHQybzB6SUcxbkFYWi16bG5lbV9EZjBRQ0FYU3JLSk5FRDZzOXZ4RFRTV3JkQkxWTmh0MkpFa2xTYnFpd0N1SzdZbXJkV1FQZFVtXzZSazJuNTlzU3BuUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's What Key Metrics Tell Us About A.O. Smith (AOS) Q4 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MVXhRQnN6eUNlVlRtWk5zM1BFak1pc1RfLUpuYUl1Q3VRNXB2TUhVOUZfTnFHUGFhWFFETFJIZm5DWE90S3lJMzgtTzBaaTRxbXY4WnFNY0E2Y2VwZzNxYXRXdVI2MktGeWJ2aDZZV1ZJTGluNU9Ic0M4aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A. O. Smith Achieves Rare Ethics Excellence: Only 12 Manufacturing Leaders Make Global List - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSS1Jb2xBUzNaQlhUREl5cU41cHVtYmRKeHRpTktENGhVRzc2NjdiVlh0eHBIY0YtenhYTFdkNVpHV25hZXB2emJkdE8xenVEd0NyaThZcElqb2VYaVFQbUNmTjhzV3BDVHB0OG5qalZZSzRNVUZDeEF2bzJoOXBrTnpVQWRaZ1g2QWdRa3B1XzhvZmZOMGxrN0YwYmJwSWNqVllNY284cGR1Vi1VMHFZenYwaWREbjZ3Y0oxRGVB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 74.65
-      },
-      {
-        "date": "2024-12-03",
-        "price": 74.02
-      },
-      {
-        "date": "2024-12-04",
-        "price": 73.6
-      },
-      {
-        "date": "2024-12-05",
-        "price": 72.32
-      },
       {
         "date": "2024-12-06",
         "price": 72.61
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 62.98
+        "price": 63.01
+      },
+      {
+        "date": "2025-06-03",
+        "price": 64.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 64.3
+      },
+      {
+        "date": "2025-06-05",
+        "price": 63.8
       }
     ],
     "current_price_data": {
-      "price": 62.98,
-      "change": -1.31,
-      "percent_change": -2.04
+      "price": 63.8,
+      "change": -0.51,
+      "percent_change": -0.79
     }
-  },
-  "news_sentiment": {
-    "summary": "A.O. Smith Corporation (AOS) has recently experienced a decline in its stock price, with a 5.4% drop since the last earnings report. This decline has been attributed to several factors, including new competition and financial health concerns. However, an intrinsic calculation suggests that AOS is currently undervalued, indicating potential for future growth. Additionally, AOS has confirmed a $0.34 dividend payment for Q1 2025, and is considered a Dividend Aristocrat, further indicating its financial stability. Overall, while there are mixed signals regarding AOS's stock performance, the company's financial health and dividend payments suggest potential for future growth.",
-    "sentiment_score": -0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

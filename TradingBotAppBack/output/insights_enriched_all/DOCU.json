@@ -1,56 +1,164 @@
 {
   "ticker": "DOCU",
-  "name": "DocuSign, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 18022768640.0,
+  "market_cap": 18812530688.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 17.519686,
-    "PB": 8.998079,
-    "EV_Revenue": 5.745,
+    "PE": 18.287401,
+    "PB": 9.392377,
+    "EV_Revenue": 6.101,
     "ROE": 0.68183,
     "ProfitMargin": 0.35874,
     "GrossMargin": 0.79247004,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 6.213,
+    "CurrentRatio": 0.813,
+    "QuickRatio": 0.768,
+    "FreeCashFlow": 1175129344,
+    "OperatingCashFlow": 1017272000,
+    "FCF_Margin": 0.3947706922160492,
+    "ROA": 0.04188,
+    "PEG": null,
+    "EV_EBITDA": 63.364,
+    "BuybackYield": null,
+    "PriceToFCF": 16.008902155369885
   },
   "technical_indicators": {
-    "RSI_14": 58.474163614828505,
-    "Momentum_10": -3.700495819847884,
-    "MACD": 1.4951419990777737,
-    "BB_Percent": 0.6639487313396278,
+    "RSI_14": 63.92352264375877,
+    "Momentum_10": 8.744002334096391,
+    "MACD": 2.270337550535089,
+    "BB_Percent": 0.8565407894589383,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9230395959567756,
+    "ValueScore": 0.9206602749253096,
     "QualityScore": 0.4906906322789084,
-    "SignalScore": 0.4534148795451834
+    "SignalScore": 0.4297289337212572
   },
-  "volatility": 0.0391810348349832,
+  "volatility": 0.03007104540922,
   "beta": 1.132,
-  "return_6m": 0.1088960582001301,
+  "return_6m": -0.1316945192935832,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 18,
     "target_mean_price": 91.74333
   },
+  "news_sentiment": {
+    "summary": "DocuSign (DOCU) a annoncé des résultats solides pour le premier trimestre fiscal 2026, dépassant les attentes de chiffre d'affaires mais voyant son cours chuter de 12,2%. La société a lancé un important programme de rachat d'actions de 1 milliard de dollars, malgré des prévisions de facturation revues à la baisse qui ont entraîné une baisse des actions. Les investisseurs ont réagi de manière mitigée, avec des mouvements significatifs d'achats et de ventes d'actions par des grands gestionnaires de fonds tels que Gilman Hill Asset Management LLC et GAMMA Investing LLC.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "DocuSign (DOCU) Earnings Live: Stock Dodges Landmines Amid Repositioning - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTE1TTEE3QmlLLXh5WHpiVGpWWHp3NW1iUWhRaUxiUV9YTEJ4Ykt4NE8tMXd5czk0Y3lyT1hVb0ZxSl9zc25PWW5qM3VQc0lQa1VWUzJqTHdWWTB1VXVRNVpaRHpXNG9DaVIwVFdQVW00YTN3alFqQUlueG1wM25vUm5yamcyQjFZUkxXTThPY04zb0N5N21EZmx1Q3hmanpOTXJlc2U3S05OcFlZYmJtSnRnUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DocuSign Doubles Down: Strong Q1 Earnings Plus Massive $1B Share Repurchase Program Boost - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMi05ODFBOXB6TGJFR2Y4WGVEdnBZbWx5Q19FWUNYbVFEeE42VVN6VXRHRC15TWx4SlJPam9ZRUp2ZHp5aS1uZ1NKdDVzblVYSGtPT1J0dVZteGp4Unc4OV84aDMyX1g4bHYwOG1iSTg0MllsQjlINFJZN2diLTFvMVU1LTBBc2hyWVB0STY4QVd6TlJLSEQzc3MxT0VsdE9YSzdUMklJblE0VGdDakxkbVNkNWg2WFI5?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DocuSign (NASDAQ:DOCU) Beats Q1 Sales Targets But Stock Drops 12.2% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUFsdlNVRGV6a0d6YjdtdU5Rc1ZCTDBwM1o1ZGJNVTZSVFU0ZGJPUFI1cDNvc0NVbzJBZlV1bGVPRnRZOTJoRVhTTHd6aE5odE42M1JJdG9ZLTA5VTBDWWZLN1ZjUldLWEliMEtja3paSXc1UU9mYl9Fc01sdnlkQg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Docusign Announces First Quarter Fiscal 2026 Financial Results; - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWXBPdWo1cnNES0lzcHBsc0QtYzdJT1ZGQUxqcW1oZ0p4dDZCdl9PUXczMmNieDZHRElIS0lpMGpadVM5Vkdjc2dqbEwwaGswa2dkTjR4ZXpxTmVKWVhoN1dXYU14OTdWU2hERzNQbXlZUGZMRk1wdUFQSmdFUlhVU0NaaDd2MnFSSXNjUkpjZnpsTnBQLTVKYWZtdFRjUmg4b0RuLW5aX3IxVm1tWV85TDZZaGdEZ0Q4NXBENU5DNlpQY3AxYklCSUJ4N3R1aFpPZlNmeW1JUm01QTBXazhwcGtlRHhvUUt6bUlPcmNLY0dwYkx4VlF5TElDTDdfdEdpNGdYYnJR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DocuSign (DOCU) Earnings Live: Stock Dodges Landmines Amid Repositioning - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JYi1hQy0wN0wtRGNRT1RNNGd0Y1dwc29VSHZFdVpwa0lZcF8xLUF4UGpYUGZUa09mREg2ampEVnk2Njh3aTJvRzdwN0w5Nm4zSUhaYzk3XzhXRkhxYWZkRUZnTUNNSDhiNWFGN2ZUNzFMSGxZWFpJ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DocuSign, Inc. (NASDAQ:DOCU) Shares Acquired by Gilman Hill Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUhKdnVQZnRlLWk3aGtCTU84X1JaaXU5cTliUXRGNnBmQVNHZjZRNFUtY0VCTXBfdW9kaXVWenh6aFkzREZWbTlIcVVhd0txQXkyemh1SXlrT0pDZE9vdzIxNEhpbC12SW1mZFBuNnEyelgwT293V0k2c0p1TG15dkRnUTB4Mll1eEVhLXFzNjRWUm1xeDFjRDVBN3hxWjc5Nk1NMkdMLVpqd2RXSmEtbVlqWlVtVzZ0T09ZVy1jdUlBNjNRTG5yUW9UNGZYSDRQSEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DocuSign Stock Plummets After Q1 Earnings Report: Details - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0JBbHUzTGZXOFlGTmJtZkdlSmExN01hbGRYX2JCcUtjeHNXWnNkV20wZGxqUzZxMkIzMFkyOWVWbWktQ1VxQVVXT2M5SDQ4RUhuZ1Z2aXB4bzQzVmNWdkJBTmhtdzRuUDFhaUtJQWhHeHJYQklOYkhtdm9QMHRBNmYzeTR2N3BtamZmWUlONUVrT19qQnZvNXVzS1pOU1dRRGtzTXJBWmE5R0RnQ24tMEVFTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DocuSign (DOCU) Sees Surge in Options Activity Ahead of Earnings | DOCU Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN0gyd1l2aWh5Yks5bFlpSE5RN1NhQkZrWjg5T3ZpbzZJcGVEZks5bGR2b2ltellVUnN0d0V5N2lmc0M5b1pLdW1yVVFzMDVoZ1MtbGlFa0ZTZVdsVjlRdzNDSHdJRE12bjlma1NIQ3MwYzR1bnl5LS0wLTRzVW4zaVVvWEpKX0VaMW9qTDlTNVVVRHUwTTdQd2Q5dDVGZkozSHp3MVBxaURIbWpSTnZ1TExUeU9GUkdK?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is DocuSign, Inc.'s (NASDAQ:DOCU) Stock's Recent Performance Being Led By Its Attractive Financial Prospects? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMW01dHBFZW1IWHFYYUNLUmpra0VMdUNzb1J3V3BEUW5NQUpQWlJrVk9BcEYtSnJYYlVnMWM1TjhlR3ZkSjFkc1hZeFdwT29ESDN0SDVKOVRBSmtmRUI0c3NOTnNHa1ROYXNTdEZkbXRmSGJ1ZmpKUWpTcDcwZTJqSXlQSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DocuSign, Inc. (NASDAQ:DOCU) Shares Purchased by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGVibFI3ei1mVUdVTFoxWHRycTZzajBQdGVRUzMtM0lBZlB0VVdjbS1ESDlkQWxFb0FadTF4WkdRalR3UjlMU2xNQmkzNDNwZUtNbjJiaTZoRUFZZm5JN2FzRTVUakVGM01jQ2JnaWFEeEU1U3Z3dGxXMU8yQ0dtQlRIaUJ6eFg5Z3lqWGlxV2tQTmJ6YzhjLUNZcUU5RVBOQkFXZm5QRUJtdGQ2eXVKeWc0TmJJTU5lWjRVRjhyc3gxUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Docusign (DOCU) Exceeds Revenue Expectations in Q1 | DOCU Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmVnaDZfYWR1VlN5X0w3ZC1FNlZsOHZpQ0EzQTQ2QXdZTTZBUkljdWVld25sZk05djJmeXZaU0NVUlRFcC1BTEstUS16Y0R2ajh3YjlkTEtJZ0M2WnZndndYLVF6R2V5ZXg5a3hweVB5QWIzYWNEaUNteUMzVzdZNFVmU3d6cHo3UHd6ZlRIcDk0dUJvTVJkcFhya1BHQ1JILUFneGRn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Docusign Set to Report Q1 Earnings: Buy, Sell or Hold the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMzBrU1VXY3pLa2tUOHB1Y05aa3FxLXJmdTJlZnJJemxXa2plb29Jd3dTSXBNR3NibU9leDFUZFc1ZUZxNXZqVWVnWmFlOWhTQWlGeTE0MW92SjlSSFcyaEJvNFNpMFpvbUNWNk9PZkJCWWMzVFhRREltMFFIN1llZ3p6aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mackenzie Financial Corp Sells 50,884 Shares of DocuSign, Inc. (NASDAQ:DOCU) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOVhhSFE0dEJfYTRma1hrT2JjaVI5U0lFVTBVQUViX0ktSng3UzIzQzg2aER0ZHhJVHZwUjEwV1hLSV9STXdmUUhIc0N1V3IzeDUweVJjdTZvWmkxV3dmV3U4blA3cUhhSE5YLU1MUlUxN2haamJKYTF3YXNockJFeHRMVnJSYjlOenRfbXh5TGVOc0xDUmJvMzljd09qU0FRbzl6SklNMnBBZEI4WnFTYXNJODVBakZmQi1oVEVTdkExeXJucWtmZW1haw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DocuSign (DOCU) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmdKem5FWThyUE5VZTNPWEVkUjRTaFNDZ09qaDhSaEVrQy1nTEN4ZTlodDI5UGZ6M3RWZ2FveWlXVGY3WlB1UTdibEZOOVZrQVViYXZKeXJyQWFKcHEyYi1sVmJjVmprTDdtamdPbEF1MGh2Q3pjdmpZOTlONVVBeFdIcmp3bkU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DOCU Reports Slight Improvement in Gross Margins for Q1 | DOCU Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNDdxQWZzWlEzSHoyLUlOaEJSbG5DTDh3SzFTVkkxcW5LTXZvdkRtYTd4a3RSanFFQVoyZzVtTzFBNUtSTi1MVzdJS1VuVzkzcWZjLWpSRWhJX0Y4NzZma3I0dzZzWlFBczZjV0RZbGhqYnl0dVVyT2ZuUTFERTZvLU16b203SWE2WG5VeEhEZkdGUWUzQ3BWX0JnbVVsRTJKdWxyX2hDcjFiU2tESWtn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DocuSign (DOCU) Shares Plunge on Lowered Billings Guidance - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXpId2JXTWRsNE5SUEtGRGhQb2wyQ3RpTE03MC1oYURQb2dMbktDaUNYd291M0pEQkROY2NOWTlVQi1iejhseEFRSWlRTGdZYWlvNjJFM2tTT2F0TWtBOVlqVURSNU9aTjVTNm5KWmhYQlJpUFBwQnB4dXBKT080Q0JPblNXTUtwTFhzY0gyUVpPRjJOSDZiek5QOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wellington Management Group LLP Purchases 353,172 Shares of DocuSign, Inc. (NASDAQ:DOCU) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNlg4RUNlQm4zdEtPSGdSWkFJWXR4ZkV0OVpBOFc5WTh6VDhQc0VpMm1ZekxBd1dWUGdlOE96NllHTXBNTVQyWTlYSE1sMTlZZTBSLWpjdDNMMElXR0l4RGpiS1VaLVVFanRaRHZpY29KYVd3OFFrSENBdzlCWTljbzRTRGlJOU5DYUNESTA5TTAzWWZUUmI4Tl9ETG9UN1lFY1JmUE1iZm0wbWg5a2ZBRkRhWFA5R2Y2c2VNTWpLbTE0V2xieTBFaG8zR2xkcUN3cTZWdTI1aXhGdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DOCU Stock Price and Chart — NASDAQ:DOCU - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxbE1meHhNNDAybzFsS0tfMWJjYlBJWWR6RER2dXZVUHdMNjJqUUhnOHhveTNEYkZpV2dVZGk5Y1VRbmRzaWpULWZwX1RlRHVWOVJxcXh5QjlPWmxT?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DocuSign (DOCU) Reports Q1: Everything You Need To Know Ahead Of Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1dUT3R6TEFkWGQtSi1jSElQeVlQUFpSQkZ5VnBCOEFERE4zS3k2Mm9OMlphcG5QX1NtMk5DempiazlVc3ZieG9BZUtEZGhHWWVhXzE2dEl2Uk5iV2U4dzlUQ1lJZUh1YVZMY2xWYm42THM0QkVTRVltZlo5Umk0WlowTzFmS0Ff?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Flash (DOCU) DOCUSIGN INC. Posts Q1 Revenue $763.7M, vs. FactSet Est of $748.1M - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZXhlWkhWcUtqRlc3WGdSaDYxU3M1cVd4QlRNLU50dmxLd1RKdUVNbDI3RTZUcUNONFdkSE5MU3hITk9HRTQ0VWlPdkdUY1BmRUtrMlRyOFRsb3Y3YWlrdUJHZkUtdEowdXhRbG1JaWpaUzBINkp1c0NsUElQS2ticVRSZWZ6WndhR3A5ZkNHR3BTSV9rMzh5LWZlTXIzYU1kX3Y2Y2FFVVZpaUwtRkFRNjk4bEFMSDg4TTh0NjJQN1lLY192dUFjSjZTYUx0Q093b1o2ZXZaYmVSS1RIaFlzYWEyOEpFaGRFTWV5OWU2RHk2N2M?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 80.26
-      },
-      {
-        "date": "2024-12-03",
-        "price": 80.45
-      },
-      {
-        "date": "2024-12-04",
-        "price": 83.99
-      },
-      {
-        "date": "2024-12-05",
-        "price": 83.68
-      },
       {
         "date": "2024-12-06",
         "price": 106.99
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 88.85
+        "price": 89.2
+      },
+      {
+        "date": "2025-06-03",
+        "price": 91.61
+      },
+      {
+        "date": "2025-06-04",
+        "price": 93.84
+      },
+      {
+        "date": "2025-06-05",
+        "price": 92.9
       }
     ],
     "current_price_data": {
-      "price": 88.85,
-      "change": 0.24,
-      "percent_change": 0.27
+      "price": 92.9,
+      "change": -0.94,
+      "percent_change": -1.0
     }
-  },
-  "news_sentiment": {
-    "summary": "DocuSign, Inc. (NASDAQ:DOCU) is a software company that provides e-signature solutions. Recent news suggests that the company's stock is performing well due to its attractive financial prospects and strong growth in its AI-driven agreement product. However, DocuSign's business is trailing the industry, and there are concerns about upcoming earnings. Investors should keep an eye on these developments as they could impact the stock's performance. Additionally, the company has a significant position held by the California State Teachers Retirement System. Overall, while the stock is performing well, it is important for investors to monitor the company's financials and growth prospects closely.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

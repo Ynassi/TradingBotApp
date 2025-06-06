@@ -1,56 +1,164 @@
 {
   "ticker": "YOU",
-  "name": "Clear Secure, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 3306634496.0,
+  "market_cap": 3452310272.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.342592,
-    "PB": 19.931837,
-    "EV_Revenue": 2.366,
+    "PE": 16.018518,
+    "PB": 20.809944,
+    "EV_Revenue": 2.49,
     "ROE": 1.17273,
     "ProfitMargin": 0.21957001,
     "GrossMargin": 0.62742,
-    "DividendYield": 2.02
+    "DividendYield": 1.94,
+    "DebtEquity": 94.907,
+    "CurrentRatio": 0.845,
+    "QuickRatio": 0.77,
+    "FreeCashFlow": 183821744,
+    "OperatingCashFlow": 313675008,
+    "FCF_Margin": 0.22897377513570585,
+    "ROA": 0.079050004,
+    "PEG": null,
+    "EV_EBITDA": 13.482,
+    "BuybackYield": null,
+    "PriceToFCF": 18.787986518069374
   },
   "technical_indicators": {
-    "RSI_14": 49.23636500600876,
-    "Momentum_10": 0.9135216773703028,
-    "MACD": -0.204819211286221,
-    "BB_Percent": 0.4961042258504164,
+    "RSI_14": 57.05971092975722,
+    "Momentum_10": 3.0170711106349257,
+    "MACD": 0.0720862258847709,
+    "BB_Percent": 0.9554572800374715,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9114634035161068,
+    "ValueScore": 0.909398045912486,
     "QualityScore": 0.4733304623872394,
-    "SignalScore": 0.4794739028949318
+    "SignalScore": 0.5041765588888876
   },
-  "volatility": 0.0263915490839031,
+  "volatility": 0.0262437643535607,
   "beta": 1.193,
-  "return_6m": -0.0155554617114778,
+  "return_6m": -0.0219242707857215,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 8,
     "target_mean_price": 29.25
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente met en lumière des tendances contrastées sur le marché. Alors que des actions telles que CrowdStrike et Tesla suscitent des interrogations sur leur potentiel d'achat imminent, d'autres comme Fortrea Holdings Inc. subissent des chutes drastiques entraînant des actions en justice. Les investisseurs sont également attirés par des secteurs en vogue tels que l'intelligence artificielle, tandis que des analyses rétrospectives révèlent des opportunités manquées à long terme. En bref, le marché actuel est marqué par une diversité de perspectives, mettant en avant des choix d'investissement tantôt prometteurs, tantôt risqués.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Should You Buy CrowdStrike Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN01vYnJwblFIdHJLdG9NMHdwUEFlYkhVRlNHR2l3X2VsZmlWMk1wTms4a0ozVk9uaXVUejY0SDRYcW1SSzZpakIwclNvTFpuOHZXSHJvSURKMUM2NnNsN0NvWHJqeWItb1plUXZLUzdXWU5yRHN6R0VVSHl0dmNqaWFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Could Netflix Stock Help You Retire a Millionaire? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTW1ORU5kcWpFRXE4cnNsQk1BdHpxYTZyLUtDSDJWVGdPelhEbDFEVmphZ0xtRGN3Wk5aUlNnUFZKZnlSOG9GeUdfOGFCV0ZNaVE0VHgyRzBXeTk4dnBGdGhzT0VzVG9jWTUwV3pyTkFObndCV3VuQ2FldnJnSmF6NnEzVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Could Netflix Stock Help You Retire a Millionaire? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVVueW9Hb3JYbDhZUUZ4aTlMS29WRTBfNDh3Uml2TXM3UWtLOUhFanVzQmVBNmowaF9ZekdETjF0MDNwQXc2N3lLbmNjZnlRUmNHRUpubXR3U0gxN3Fiek9zaHdCTTNJVWtTdEh6Z09RZFZKeWs3VUx3YW5vWHZXUm1LMnJzQm1HYk9UejFyUEpGRWRxWEJv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Micron Technology (MU) Stock Surging Today? Should You Buy? - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTjhxYld4a2ZoVjFhS083V1Y4eHFwYXhDYlJoV3hKMWFRcUVvcTF1US1ldVZ5QS1Ua3NGcVk1T0VXQjF6b2t6U3JtVGw1b3ZWOGFTUllxZnNIZF9KLUFocFRzWGNqM294amd3ajJ6UHZRNE8tdTdnbFlQOWd3YUFEMDNkOEFUQ0NHMHhfc1VkcEd5X2lzQzFvbTMzZmJabXEy0gGmAUFVX3lxTE8tWTVCYjFPNk9HVDNFN0hEMnJhOHF6WVAtYXFCSzNSTERGdDRDU3g2Q0JiQmhyMmdKSmc4MjA4ZWVoeGdRcWU2NTNNc1d0VUJMblpBRzhlTGFtQlBtZEl3eTN4eFdTSkxCbnpzS0JvR2RQRjJ1a3VmbnprQ2V0VzdNcnVMQmliY3lxR2ZsOWtWTWRzLUg2dUdrRTFBWW9oVE5fNDFpbmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's How Much You Would Have Made Owning Saia Stock In The Last 15 Years - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWN6NkozTGEzc0cwOEU3eXNldm1KZjlKYlVoMVNBVGFPY09Qd016dXZMd1FVLVllSDJKdTl3eXpuX2hiUUtJN0VEYkM1N2VyWmJqN0FETnU0Z3VCVDE0cDBseDJGYUhHTFgzWEs4cjUzdlQwNEdCQ0dRVE5fR1k0Mk5aLS1GWTRnUFE1bTlVb09UdlB3cEQ1ODFXd2NLZnIzMmtydzBYMkVjMEpSTHdXM2xJR1dSWjN2NF94WlZSSkxxbXdDa3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FTRE BREAKING NEWS: Fortrea Holdings Inc. Stock Plummets 25% Triggering Shareholder Class Action – Contact BFA Law if You Lost Money (NASDAQ:FTRE) - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQeHNmVmtzYTZvbUY4WmF3RHJPNVBOb3pBdVc1S3NuQk9GNmluaWV4SnZZeHpnZkE5QnFTd0dCbDk1RVRJLTA3UG85cWdnSHJfbTRuSFJFLVJRRFRneElMbUdEcWJQU0J3eUlwdjFyZ1FfTUlpNEFaVFZVckpZWFI2U3pzRTZaNjJzYnpYR184dm0ycmRVcXpZYzk3NWdmOVc5UDVCalQwOFRLa0xET3Y2X3gyQWtxWXVtY2JJUXc5RDY0LUlSNlUxNXVwOHB6S2xockRKX1VBc05wN01yTzJWTkRWZ3M4QmFIekYxc3MyYjZ6T0hmazVBX3JnYi1fU1RiYlVXRkFXcG9Cd1lTUGNXV0FmaEwyTkZHTUFyTV9nc0czZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should You Buy Tesla Stock Before June 12? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjYyWWtFS0VSOC1vaHoxSlBNVWdpXzJGd29IQU5aRFpvbzFvdUNGSFRMX2JDN1dpNTQ2bXh4STlqdUJGS0UxTVNmc0JncjBlZ0JXSHJDdnFMc0JIVk5sNzJEbmt5SklSazFVak9VZjVjUm5FdGljMkpodWFvV3N3V0Fzam9sMmhiR0hSbQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are You a Momentum Investor? This 1 Stock Could Be the Perfect Pick - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3dnOEM4Vk5OWGpMV1lXYk1sNFc4Um1HZHRTWk1RdXUtVmRaVVdTNXRTd3FaQmNmdzI1ZGQxanN3d05Pa3JJNHhhQU9yei1VR2RWZGszQTB2R3JQZ2Q4TS1JQUwteGhfQUdCX2ozVUtHWF9FQjJqamYyeE1MRUloZG45QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "If You Invested $1000 In This Stock 20 Years Ago, You Would Have This Much Today - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVBtVXZmUjdIX2t6UkVhQnZWUnJjRWRBVnZ3WUhfY01UenFaMmtxbHpYUXBaVktJQS1PdDJVT0JtMWlTSG1scGp2Sk1wWnZsRHhjcFJocHVzdnEyNzM0czhhYW9mY19aWTZqT25ETWxsQy1JMndUX1otaVVrU0txZ1RfMnJ6anA4WE9aVXZ1MUh4Z2ctRU9XN0NXY25OaXRlcng0Y3BGLWlUT2J6TEtFTVpwR3phcHFZWlNQQkxSUDNPWDYtMU1DcGJ6TU4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ulta Beauty (ULTA) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ1FRazk4RjA0WmhLWXFyekNoNWZuVExHREgtSVRCcm04dWp1elpraXF1blctbEZ3eU5LVjJpS1pTU21MdFFMSDYzMVpJb09jaVZBX3A2WnlRRWIzSTAzVUhET1RmR2V4Zm5WaVktWE1rRHhSV1BXZ3hCcC1KNXhybHdVbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street Loves This Artificial Intelligence (AI) Stock, but Should You Buy Now? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzZHNkFEdWlxQUtOa2VZVzBxVFhiOFZzSm15Mnh1bTdHN3VraFlCUWxmN29lRjFvMEJGNXZqSThpMGlNZU9LVnduakdic0ZucTYyXzFrcHhOVHJ3M2dia28zQzQ5TkpOQnFDbkpzQ1FtVkJJX3hXRGUzaFlHOFpyTUtJa1k2N0ZicEVzVE9rcldhb3YtM3Jj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ka2lnMUIxWk5hUThpc2xYRXJUQ1Z2cmlDdUdZdkxtaTlaTlA5Q1A5cE1hSXE4eTNncFN2YWs1bzFnVE5JZ3ZKdk5KSW9UMVVLLWF5QVgzX21LMU1xak9pZTU2emZKWGdndzJTVFlxQUNmQV9xYkpYU0hCbTlMSFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdkpzSkNNY1VMWmJSUEZ2VzJIbEo0ek9mOEh5Qnp3dEMwZDNxV2pEUkJIRncwNTZNRmpZbWlSRGRyamxuVm8xaUNVN0RzMFRmV2lFTVpwWVZ6cFlIQ2RqTDdHZFk5b09lN3NHSFBzM08xZk56OGxESWxTckU4ZFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "If You Invested $10K In Welltower Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcTBWc1VGNVNRa3FnaDhjWGhmTXE4cVVmRzl4TExSZVlaUHBzeDdLb2RTbzY5dUZ0cEd2YkRYV3NQek1nNkoxLWNmOEtveHBNbjA3aWFJckpVRVVISW80NVAxazJQdEcySElSQ1pEdzRfQlc5OURXb3dPZzMxTHItVUp4UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Magnificent Artificial Intelligence (AI) Stock Down 84% You Might Regret Not Buying on the Dip in 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZFBGbVRMM0pJc1N3SlFWMXh4RGVsS0VJaEZ6Z3pxSHhRNDJwdWtrSklDaGMtMFZzOGZsZXdfNk5wWW8yVHJUOHRZYURHZ1prd0xzY2pIN2RpRTZRUnZ3d0thMXB2TFVYLTdoOEtfTWNMdWFsTWxyaExGYnZ5RU1fQXV1UUx0Ql90VXZzXzV2Yw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tenet Healthcare (THC) is a Top-Ranked Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ1NydmpmUnhoWFlSTkQ2UTRINGNPYXU4RWRjem9Qa1Y1NWRmLUZtWDVxNFoyYlVrRjFqV3pNWmhvQ2RnWDI3MmI1c1ZJOWl6RzF4TFBFcmZxN1pMZkNwa2FxNVlNOVlEbnQ1djNsVlB5UmQ1cWtzNkwtQ3NldWR5bVFXTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here’s How Many Shares of TELUS Stock You Should Own to Get $1,000 in Annual Dividends - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRUdNMm91MlVQLU56SUlkZzhEOHg5bFlUY2JxZWN6a3dkU1FJd1lNb3c2T012Q2FmYURLMnktMmhnX3JEUjFzUTBuSV81RXBudVpHYVlQOTZlVzBESF9Ed3ljQVZpSFVYbjczakZCY2NOSlFVbjgxYXp0bTZyVTRUQWx5dzdFTjUxeHp4ZEo2WQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Invest $1,000 in Eli Lilly today? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rWGhLSmw0eGVEVDBDVzRPMzNhTnRnMUZFd1RvSlVrYU5FdnBVZlBiWlVMQ2ZxMWNFVEpwS25nbUMwOUF1NDYwS1h6MjFJUWcxbjRPN2hlVFM3Snl4eFptVnFPOENrRWFUVHhnLTNvczdzSzI3UDRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 AI Growth Stocks That Could Help Set You Up for Life - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ic0tGYTEzRGg2OFhucmlPcHlkR0VRSU1ZREtfSmxRWGhLaWpNZXhHa2JWM0paSHlyZTUwM0dkbTNsMGRSRndjb1YyLU4teC10MUpqQWIwYmE4M3VEMkx6ZkNreERYUkdMeDR5al9sYlEzRnllM2VSUkRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy MongoDB Stock? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzlpQTJJaWNPSXNTTDdBS1BLaFhReTdOSG5adGZrb2FJWDJsbXE4QUxPOWpOZDRnNVBYT2J4N0pfVVk4cVZ4YkNkcUlDc0U0dms3ZndkbVdjeF9QRFJFOVpkTGN1UzRSZDlBLWZKVnVmeEQtWEM2UEFjdUthRjRsdnZDdGM2bzVNM0dTTjFheUhfZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 25.76
-      },
-      {
-        "date": "2024-12-03",
-        "price": 25.88
-      },
-      {
-        "date": "2024-12-04",
-        "price": 27.36
-      },
-      {
-        "date": "2024-12-05",
-        "price": 27.05
-      },
       {
         "date": "2024-12-06",
         "price": 27.07
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 25.07
+      },
+      {
+        "date": "2025-06-03",
+        "price": 26.05
+      },
+      {
+        "date": "2025-06-04",
+        "price": 25.82
+      },
+      {
+        "date": "2025-06-05",
+        "price": 25.96
       }
     ],
     "current_price_data": {
-      "price": 25.07,
-      "change": 0.33,
-      "percent_change": 1.33
+      "price": 25.96,
+      "change": 0.16,
+      "percent_change": 0.62
     }
-  },
-  "news_sentiment": {
-    "summary": "Les tendances cl\u00e9s des nouvelles concernant les entreprises cot\u00e9es sont les suivantes :\n\n1. Stock Market Today: Les march\u00e9s boursiers sont en hausse et les analystes ont \u00e9voqu\u00e9 des facteurs positifs tels que la croissance \u00e9conomique et les bons r\u00e9sultats financiers des entreprises.\n2. Are You Looking for a High-Growth Dividend Stock? : Les investisseurs sont \u00e0 la recherche de stocks qui offrent des dividends \u00e9lev\u00e9s et une croissance rapide.\n3. Chime IPO: Les investisseurs doivent d\u00e9terminer si l'IPO de Chime est une bonne opportunit\u00e9 pour acheter des actions",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

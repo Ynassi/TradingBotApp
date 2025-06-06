@@ -2,55 +2,163 @@
   "ticker": "GPC",
   "name": "Genuine Parts Company",
   "sector": "Consumer Discretionary",
-  "market_cap": 17742913536.0,
+  "market_cap": 17548607488.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.991789,
-    "PB": 3.9871502,
-    "EV_Revenue": 0.987,
+    "PE": 20.761904,
+    "PB": 3.9434865,
+    "EV_Revenue": 0.985,
     "ROE": 0.19131,
     "ProfitMargin": 0.03605,
     "GrossMargin": 0.36616,
-    "DividendYield": 3.26
+    "DividendYield": 3.26,
+    "DebtEquity": 136.683,
+    "CurrentRatio": 1.15,
+    "QuickRatio": 0.438,
+    "FreeCashFlow": -12288375,
+    "OperatingCashFlow": 892118016,
+    "FCF_Margin": -0.0005213785719832175,
+    "ROA": 0.04816,
+    "PEG": null,
+    "EV_EBITDA": 12.204,
+    "BuybackYield": null,
+    "PriceToFCF": -1424.9033487340678
   },
   "technical_indicators": {
-    "RSI_14": 61.65276984888948,
-    "Momentum_10": -0.6878017559881586,
-    "MACD": 2.402676569375018,
-    "BB_Percent": 0.7218970991958618,
+    "RSI_14": 55.85854955720091,
+    "Momentum_10": 0.7994244378254035,
+    "MACD": 2.0496311998410164,
+    "BB_Percent": 0.5512124191911301,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8958227639547937,
+    "ValueScore": 0.8930120659467952,
     "QualityScore": 0.3642915336516559,
-    "SignalScore": 0.5640310552024748
+    "SignalScore": 0.5611528882214893
   },
-  "volatility": 0.0171144175445697,
+  "volatility": 0.0171111154046972,
   "beta": 0.774,
-  "return_6m": 0.0188732639472664,
+  "return_6m": 0.031246511485512,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
     "target_mean_price": 131.356
   },
+  "news_sentiment": {
+    "summary": "Genuine Parts Company (NYSE:GPC) a récemment connu une importante restructuration de son conseil d'administration, avec le départ de 4 membres et l'arrivée d'un ancien leader de PwC. Malgré une baisse des bénéfices au T4 2024, le titre a connu une hausse suite à des annonces positives telles qu'un dividende de 1,03 $. Les investisseurs ont été satisfaits d'un retour sur investissement de 54% sur les cinq dernières années. Cependant, des incertitudes économiques persistent malgré des résultats solides, ce qui pourrait influencer le sentiment de marché.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 5,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Rhumbline Advisers Increases Stock Position in Genuine Parts (NYSE:GPC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnM1Z21lMVZhaDlsR3ZGTWdvMEszNHk1d3VCZnFPdkFPeXZ3M3o3WjZzOUp1RVI5c3ZXb2dXQk85bnhnREpZRC02UVlmSWo2aGF5S3IzM2VOZGVsVklpVEI5SFlWeE9CSzNsTmpYcFZLOFRtQlNCdEhYUms2VWhUS1JmRGc2VXM1M0FtU2prazdIMVJhVzVlb1dXQTRPcFRPdHEydHZ6T2l2RzdUTUVxUlE5M01pMUkzUVZQUURYeVdEQXYwZzltZQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Major Board Overhaul at Genuine Parts: 4 Directors Exit, Former PwC Leader Joins as Company Sets $1.03 Dividend - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHNfUUJrcEVpaVB4b3BuVGM1MGR6bkdITk94aG40cURpN1JBeHlkU2FCcmh2eHVZVzJzVlM2RXRBSFhsUlpORmo2cW5JWGhoZ1lYMGx3d3ZHcWFGYnNyY2kteldyc3FtTWJhSTdlbmcwZ1pIR1A0em9UVXVZVEhCZnh6b2RuV0l6Z3VMcU9feFJ4U0Nlakd5RU1CQklTYUczM0s1anlaUlZvRXk2V05BYmM0Z1VXNWpFOEo4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Genuine Parts' (NYSE:GPC) investors will be pleased with their respectable 54% return over the last five years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREMtcTY3bHp6LW0tWHFoTmdKMlFNTDJ3bVFvcUxOYVBLVkdsRUV5cTRSYndCWU93UHNqM29ydjc4TVdBZFFaNXFFVEM3a255MUJ0X0g5YTFQZnZhQ19JLUdUd2gwZ0pGNDExajNSS2c5alM3N3NmVW92eE94S2pKZlFwR0g?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Genuine Parts: Potential Winners For Tariff Protection, Buy Confirmed - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUhISXlJTEtKMHZhYkZjY044R3RDeG9RTkV4U2xyVndZN3MwdHA3WHNqZ2c5R3V0R0FhZlB5dlZ0Y052a0Jac0pnSm5QSWF0UEo2anZ4UXRBTXJrMGx1TkFIbmY4dkFOeGNvank0b2xTLUw2aWFJbmp4NWxRb3pheF84eWZzY2xsZGhNVXBGU281b2kwNmVfMzRXaEdwZVlFUlVsTjRiLVNGaDQ1S3ViaXo2MzUzcG95NUFsSUwzWmpoQTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Genuine Parts Stock Motored Higher Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU1BxalluYmlGdDh1RUllLS1FRkxuUTBndm5vYlE5em9OazYzNlA2RmtuY3lwRHUyd0RxeXNId29kMmxWbUQyME94WUdmdUdsWGs4WDNkaXU4QU9rZEg2MUliTnVaVWh3T0hnVE9qV3hQWEtMakpQMnQtcndrRWl5MlJ2WTY3X21xc1ptNllFc3U?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Shareholders Should Be Pleased With Genuine Parts Company's (NYSE:GPC) Price - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0E5MWphQ1pacnlUb09ZMzE0VWd0OF9vNkFPRlNTS2NhM3Qxdkh6c2VGaXJYX251NzlaLTA4cy1rRGpIY0J0MWhHZGhwN3FpaGE1OFhQZEhNZDVsbXFrRWU3WTUwSkxMcU1fY3M0MzY3ajViWnFwUm5ob1NtbGtxZEhnZm1JYWduSlB4UFZraWFjRVoxQzA4U3RMckZ4cF81RVJENzk1ZTJPZkJWa0s0czlLT2lPdUtyN0cyNy1WNXJrZTlqelHSAcsBQVVfeXFMTzNTaUNUXzlzWW95LVJJOTlmMHJCelJPdmJjN0taYjN3SWsyV0JzZGpJb0J2SVgxVG9tWG5fMXo3V1h1UzJmbk5hQ0FtWHhQYnR6cFVYQ3hSbXF0RGtNLVRtME1Lc3ZFc1RxS2dZOVZrOUdOczZnQThKa2llbm9OeVJXek1FcmRSMWp6bkM0MHVzRFhNVExjZGVxYV9RenhsS3VtU1FuWHcxd3lGY0E4S2MySHExVlU3TXB1UGJ3ZHhLNko2VVVnYi1mdDQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(GPC) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHV1Y2FlRldud2dLOG9fcV9PQTl6eFJqdjdmZmNpU0hralB2aGs3dk8tcWswMG5iUE1nblExa2NKTjVVZ1V5MExCSjRQem13OGZqTE8wcDd6dDJTcmJpUE03TWRwNUNlODFLWS1abE9QUlB1Z0tEUzhmZldSSlRIQ0tOazFZNHREYnFBWUl5ajVnZE5mcnBtd1NMMnRTOHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are GPC's Shareholder-Friendly Moves Enough to Buy the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWxISUdPN3pCME1ZUlNUMGw2Tk8zaWxNVFNzdTNFTFdNcnRwUHFYLTNKSnRpVzRwSWw4QVhYbjFSeFBrbVZTdU41OE0tRDRjQ043OFBSTUZyQ2k4SnUzWEZIS1BGZE9vbGVvaHRRUEFQaGIzcjM2UjJjc1BRWkMtQWNXQ3lDNkswYXJIcQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Genuine Parts Company (GPC) The Top Auto Parts Stock That Could Surge On Trump’s Auto Tariff Relaxation? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc2pMRGxoTjJWdlNJcUh2bkVwYmhFNTFmWF9ONi1UYmNxby1qbHR1cURpMjhabkJ6M0YyUjkzSU43cGxJcldsWnJTTW1mcUkwQW13eHY0WTlKV2JVTzIwazFlWE9ITldmYnJPODFmZEZBX3JBcWNxc3MwLWhqUHNpTw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Increases Stock Position in Genuine Parts (NYSE:GPC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM0VldlJNWmV4VEc4Z1hGOGN1UU5WQzVlOWFYT3ZJWnpPN1ZNcXNBRWtYVnlSSFhNZXVHUzNoa2hldGMyeFl1UnRtRUpRMUlFT1gzcnFqM0JybDd2WDlEb0RjTTBCOFpHbUtjQmNPWVMxVVI2RXpzTFZtUjJnakdOWWdxaWtMY2MtUUFzckthcmF1dmw5QnZVRHlXQTFlUE5DMDEyQ2syUTlyZTd4cFdwcTRBMEVoV2ZyUEtjVGkxNVAtaHQyaENpcVpac0lJa1p2Y1FhR1M2aGN3NnBGb2RPNw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Genuine Parts Q1 2025 Earnings: Key Date Revealed for Auto Parts Giant - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSnd1Z3dEemJIZU1JUEdWN2lWWHMyNC1aT0tZY0JvcXRNZE9zaHZ6NWctZFhHUmU4NHBUMmNWMWtOYVBpTEM5Y3RuX2pJVHFNR1Z0UTI3N3RFdUtLTjNWSWZqOHY5TFJwMlgzX3ZSYmNZNERCWlpvQ3QzU1NjYmdmakphektNMzg1VTY1d2R1WWFNN3dpd1NFRkVER1Y1STVLVHN4WURXQk9kdDNidDdhOHJGY3NvQ1U2dkEwcGNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Genuine Parts Company's (NYSE:GPC) Stock Is Going Strong: Is the Market Following Fundamentals? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVExYRm1aNWlUQ3hfRWlyQkJLaGFnZjRNbUdNdGVScUlHZjJYaEliMjQ4ZGg4MGJLc0s5SUxRbXpNZlE4bERDNW5KRnBIRG5nX2g0Rk1tMkxzeF91VktVQXFHOXRqZm5DZDlBVkwzUzFpemI4bDN5Z1RfN0hib0Fad3JEMTBtQkxjS3NxX2dVTjJFSDBFVVB5aDdYN2FTMnZ6SWZybE1NeFJFeWFPMDVKWXVBby0xNldMRGFJVWhnZk9MNmRH0gHKAUFVX3lxTE5OaWhJWkRhb0llMHdWalBnZDFraS1SYzVDSmp0QmdLal9obGgzSFZaV2FzYmVaQ3hDX3NfSm4talB2eWtQSnRFdkR2RWpJcHJuUW1xbVFuZW9xemFWeFRsYVRCR3REdUZtdEZoWThMdFdQc1IwNDNEYzR6dXNVWkdlS1JVV25SM21RNFJtT0FaUzVCTm5JY2VQdXBJRFpXaS1xb3B1VWhYNlZtUG9NbUR5bkNqRUVRbkMzVkVKQi02Tm5HVlFhOFo2aWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toronto Dominion Bank Has $5.48 Million Position in Genuine Parts (NYSE:GPC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOFQwMGhja1BMWW1IWEt4ZldHT0lfZGhTSE1sWnhxRDBTOS01QVF1eUhlVVdJd0VYUWk3Wm5QSmVZTGxpNnZnc1o2bDZsNkdmSHJWTmRvRDNvSzZtSk9mc2lkeVZjNTVlX0p3V29ZeXFfYl9FRm8zejlLTmhqd01CZk50MUgyN3E3VVlVZ3F4enhsTzY3UzZUdWdFdHNEVUE2WEd1dm8wZmZoXzdyZU1UczdOdVM3dnBRQVVTV3lGaTF0dlFVRm1zQzBR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Interested In Genuine Parts' (NYSE:GPC) Upcoming US$1.03 Dividend? You Have Four Days Left - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHdVYjg3cDFxcjQzNUhYTENZc1Zwcm0tNWRwSXc3Q2piaUJQOGUwZFRlaWczRUxqWUVQTU5WNDBReXdrZlVjRnljT0RXLThYTk9wOXVPOHo2N2ZuSWtaRTllNEhyc1F5UVdhTlBDbEpFZTlZd3BHNHloT2ZkdVQ3cHNrbmlWQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tidal Investments LLC Has $869,000 Holdings in Genuine Parts (NYSE:GPC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVUE1Q193RWYzVUtRaGZnZDJvaHQyZ05LQXFTSTJRbGtCWG5JQ1FBdDA0QlpVSDhYcEVGVEVndDJldkp0elN0WEx5b2lvazFNNU9sakF4UTBVR3dxR0s1c2t6QlpoMGE2Q0phekI4SkxGRFkybXQ3Ri1zYnNsUFlZRkxaQ283bHRGVDhJLXlrYkFxNENuXzd4aXktYWRicWVjYUVld0NVS2t4UXBBVURKZXNOTGYwQjZPZlBYekxZaHozVEkzVDUzbFllUXktdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Genuine Parts Company (GPC): Among the Best Consumer Cyclical Dividend Stocks to Buy Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcXFtZFg0RXdDT1h6dWowYWc4WERZS0RTS0ZacF9mZWlFUjZlUVhHbEhfNHhfd3F3V0JQMFFmVHlJZmFpWGdkM1RvamJhZ1F5ekkxTVdVTzBwMWdKekZXLWZWb2pnQUs1ZmhXLVU5TmpmY0p6b2tvMVNqdHRqM0lER3VxRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Genuine Parts: Solid Earnings But Economic Uncertainties Remain - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUw0VXBHOXJyZGtKTzBnOHJ0Z1VCUTRSWDhGSVo4aVY4dWViVVVXZk1YMFVnaUpXc2ZmSzE1U1F2UXdJRGhjaV85RW5FdHlXb0VMZnlzZlBBOG9tRnJFMlhGdnRJZTF1NWZTNzJXRmFYQkRWUHR2NVdOQlFXX0xmLXNpVmZUQUh2T1BYLVktSjJlQzdsRjhRcFhuT3plN2k0ZHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Genuine Parts (NYSE:GPC) Sees Q4 2024 Earnings Decline - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEUXJhenNqVlhfZDNlLUtxRTh1NUgwTTVpdEl5MkNvSmJ3UnBvODFnR2xjY0ZpSzM3aGY1Y28tT253S0FNSzhiQkc0b3F5dHQ0UDBQb0ZlenRiQVJCR21JREkxdHFkTGFoRnVKVHJpMkdkMzhRbmMyT3F5Y3l3Zw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "20,798 Shares in Genuine Parts (NYSE:GPC) Acquired by Jefferies Financial Group Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM2NwZ3g3cUplV1FJTm1odmtDSktIMU1GYW1xOWpsZ0pEYjUzeUhSeVE2bE5aZ1E1RHo5V3VlWlVYUDlSckt2WU52UXlwbF8tWU54Z3hubDFBWTQ0LVprdG8ydUxHdm4zZ0p4akI3Rm5xS2tqQmRhV3lCRnk0RW56LWRtZk02NmcwajZrWWhmM2FJaWdTd09hcnJTWEZvTVFXd2ZMdDF2Q3gwX3lESUszQS10R0tGRGJrSHlZX2EwWXg3YVQ3NUhJQndmOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Genuine Parts Company Is a Royally Good Buy Right Now - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTklIZG1EeGlmS05rZXpCdFR1dTNXVk9uY2xhbEJBMmFkeG8yOXdoZGI2QlRwaEhPdWVDaGVSM3c1ZWg4RTB5OXZMT1IzUFpQcXk4bV93MXJmemJoa0k3MXJ4TGJJNWJfRzdyODFlTDRuWF9FYUczRzN2S1lZdk5mREJLdmY0d0NpSHVrbzg4RDQ0cDJNYnJ5UVZiRQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 127.53
-      },
-      {
-        "date": "2024-12-03",
-        "price": 127.37
-      },
-      {
-        "date": "2024-12-04",
-        "price": 125.89
-      },
-      {
-        "date": "2024-12-05",
-        "price": 124.62
-      },
       {
         "date": "2024-12-06",
         "price": 123.42
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 127.96
+        "price": 128.27
+      },
+      {
+        "date": "2025-06-03",
+        "price": 127.75
+      },
+      {
+        "date": "2025-06-04",
+        "price": 126.28
+      },
+      {
+        "date": "2025-06-05",
+        "price": 126.16
       }
     ],
     "current_price_data": {
-      "price": 127.97,
-      "change": 1.48,
-      "percent_change": 1.17
+      "price": 126.16,
+      "change": -0.17,
+      "percent_change": -0.13
     }
-  },
-  "news_sentiment": {
-    "summary": "Genuine Parts' (NYSE:GPC) performance over the past five years has been impressive, with investors experiencing a 54% return. The company recently underwent a major board overhaul, with four directors exiting and a former PwC leader joining as the company set a dividend of $1.03. Toronto Dominion Bank has also sold shares of GPC. Despite these changes, analysts view GPC as a potential winner for tariff protection and have confirmed a buy recommendation. GPC's shareholder-friendly moves have attracted major investor interest, and some believe the stock could surge on Trump's auto tariff relaxation. Overall, the sentiment towards GPC is positive, and its strong performance and favorable outlook",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

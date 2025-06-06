@@ -2,55 +2,163 @@
   "ticker": "CPAY",
   "name": "Corpay",
   "sector": "Financials",
-  "market_cap": 22672087040.0,
+  "market_cap": 23394291712.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.585674,
-    "PB": 6.5623345,
-    "EV_Revenue": 7.322,
+    "PE": 23.28877,
+    "PB": 6.7713733,
+    "EV_Revenue": 7.353,
     "ROE": 0.30040002,
     "ProfitMargin": 0.25147,
     "GrossMargin": 0.78158,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 235.922,
+    "CurrentRatio": 1.102,
+    "QuickRatio": 0.68,
+    "FreeCashFlow": 690412480,
+    "OperatingCashFlow": 1516230016,
+    "FCF_Margin": 0.17068272361635337,
+    "ROA": 0.06493,
+    "PEG": null,
+    "EV_EBITDA": 13.873,
+    "BuybackYield": null,
+    "PriceToFCF": 33.802323109802416
   },
   "technical_indicators": {
-    "RSI_14": 43.14739798009408,
-    "Momentum_10": -7.755601779815822,
-    "MACD": -0.5805229467102322,
-    "BB_Percent": 0.20375877066432,
+    "RSI_14": 51.07125371798466,
+    "Momentum_10": 1.118906532845846,
+    "MACD": -0.7372762470772614,
+    "BB_Percent": 0.4243590145702902,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.875268208318298,
+    "ValueScore": 0.8718660339310964,
     "QualityScore": 0.4319302699123376,
-    "SignalScore": 0.7062334486807609
+    "SignalScore": 0.5826844444341339
   },
-  "volatility": 0.0261399950700809,
+  "volatility": 0.0261116031240102,
   "beta": 0.964,
-  "return_6m": -0.160239162072177,
+  "return_6m": -0.0971625160306955,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 16,
-    "target_mean_price": 393.64188
+    "analyst_count": 15,
+    "target_mean_price": 393.218
   },
+  "news_sentiment": {
+    "summary": "Corpay (CPAY) a récemment connu une série d'événements marquants et de partenariats stratégiques, notamment avec Real Madrid, la Major League Soccer et Mastercard. Malgré des signaux positifs tels que des résultats financiers solides et des accords importants, l'enquête des actionnaires et les spéculations des traders d'options pourraient susciter une certaine incertitude. Cependant, l'annonce du partenariat avec Major League Soccer et le franchissement du cap du milliard de revenus trimestriels pourraient renforcer le sentiment positif des investisseurs à l'égard de Corpay.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Is Corpay (CPAY) Up 0.3% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5S2E3V3VrMjc1VE51Q0pGVFJydVd4UDdQUWpVenUwd2NLY2VMbW9qbTdKeHRWN0c3dWZBaFQ1T1pFeFdLNXM0T0huV1pIaGNQbS1Eb1prTER3N2dnaHoxU2R6ZEtmSG9idzI5aGwxd2lvbjg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BMO Capital Maintains Buy Rating on Corpay (CPAY), Keeps PT - MSN",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNenIzWktCUG80UFc0aFNVLWN2d1YyVFFPTnNhd3E2T3JmRkJXdWhfZDJLME5MUlVQTFBuME1Pa0ZUYm9Hb0xNSmNQdzE3VnpMTEJONlF2MWdtOTZQRnJlbVhTYjZGaXZ4bWNHMlUySTNGakg0ZG84VVJMYTRiZk9ELUwtNnFldmNSajBWbFlQem9zdzNkMUh1ZWRUNGxyT3c0VG1JWHo0al9qU193b1V3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Real Madrid Chooses Corpay as Official Cross-Border Payments Partner in Major Deal - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFpnU3R2akpLV0ZWa2dPZUxRaDVId3RpelVtQUNCbTdVaUdCY05Vanp4SXRfMFp0N1U0YVVySjFqQjU2bThjaUdKUGI5ZE1STllMSlMteDFHdEhNX0lzUVRzNi03ZUtpMGZvY2hQRll1R2RhYVhiWHFYM2dTampwM0dVUGNwUzc0WmMzbUUtVDVIbEZ1THNmQlFMb0t1ZWZ0NktXYjAwOEhrSW9UZV9NWTU0ZThSZWI5?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Corpay (CPAY) Partners with Real Madrid to Mitigate Forex Risks | CPAY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdE0xcVZuM2QxSk0tTV9xTzFGaFNINDlSUFdfQjg3RlQwSHY3UHlJX0QtY2cyeEZUUUZtdzVIUzRfYVo5UVBOV3dPRno4dUhpVFJCLXBQdmI2WFVPU0NWYy13cnJreWhOTHhmS1h1MzhHeTJlUFN6dlN5eEsxUE9wZWFtdDYweF9zanp0enVKUjZLdDMzM3BoZVpmcWM4OEhPSjF0VXlFUjlfZ1ltdnQwQUx1WG9sUGVv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in Corpay (CPAY) Stock? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObzJBaVNLRDB0eDFYTnZYMGdhanN4ZlJNTHhhM0F6dS1SNF9vMjY1dVZfOVNYMldLY2lGMU8tMjhlNHp2b1VkMzQzSlIxdEVBdzNXdFlMTThZSmJhY1hPdnRsWEN3aEhucjRYcnNNYkpyYkFVSTBKV1M3WnFiQU1JRFFONDBEU3kyNVNJOUNMUElzcmJqNnBlQzh0Z3VCNG9IY2lKQzJ0cVNWTm9vczJPWlF2empkY1lSYWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SHAREHOLDER ALERT: Purcell & Lefkowitz LLP Announces Shareholder Investigation of Corpay, Inc. (NYSE: CPAY) - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ25JamNDZWJGRDVoSFdreDdHaVUzemZSWEZveHZLS3QzWUhCSktXZXNRRmRsWmdvUGN4TDhLZWo3MGlRR1J2eUJ2T2prOWRqa18zQWhvc0RzRDB4Tko4c0UwRG4wUi1ScUFKbGk2cjVqenNJNVB2WVlTMlN5WlNzS2RERXU1WEYteENjZGZWaGdKT1hPSzAxX2J5Qk5ZbXVKSmFXSnVzdUFpZzlobHZjZ2VPUVpyb0cxU181SzFkdkJWUTlSNnZSTUhJRDRaeWVCMld6WEFvWTFKMWNuR29zSHpWOUpjdkJxb1gwbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Transcript : Corpay, Inc. Presents at 45th Annual William Blair Growth Stock Conference, Jun-04-2025 11 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWEFrbDEycjg4cV9rWGZXQjMwU2cwUFdady1sVzl0NldFZmY5UmRvYkVhdFJJa0lqTmREV18wcFRTbGMwMmtnSVVEV0xUTERjX1F1S2ZxRFdQcENCLURiUzVXRGJ0Mm5zd2ljaFhjTTRDTWJ1bzFVd0VLRXRxNXB2QkpzWWdvYmZucjI4MVY1dXNLV056Rk12c1hrVlg0SXlvWk5aQzdQb0ttUGVxaWtGdWg0U0NaN3FuS01QUmF2QWdDeHJhdndNdEFRdzVCNHBNLXpRMUlXb043YThmY3BxMTQ0UkxBaUtHT0pDbWVPUldxZG9sOVdLb1NMWVdCYnpCVlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corpay, Inc. (NYSE:CPAY) Just Released Its First-Quarter Results And Analysts Are Updating Their Estimates - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejE3SGVrTHZOcnR3UEt2WndVeU9zLWRMdXRvZjlLd3pPVU05Ml93VTltbU56NFhlM1Y0MXVJMkVRb1BIZFV4VHZ4LU5iS3hTcUFsUzFscVV4WTV2NHk2c01rcXdlRUdFSmRFYWlKdnFZS2NjVTlTQjdOMzljaHVYLXgtRWFVZ3A5MWtrZzVseEtOa2J6MFQ4OEtoVmJmQl9ZRWVISDhXSVV4NjRHbUpqZUZjSjAwWGRmc0pqUERyMUxwTmY1SnZWNUhXQnJjMjRRQUHSAdcBQVVfeXFMTlpYTUI5ZmRxelhob0FfWU5HNWFsRlltZEJ0eEpmbW5sR3U2cUlLUXVRRWVvLUphZmlUc0JKY05DdlNJbWc4X3dYeFBucF9OaWF3cDFMN1VTU2M3UGRZYjQ0MWo5TWJyYW14a1pHdnFHamNDZE02dXljWVEwMGdUMmZuNlpkel9FRThPejhhOHRKemZWM2tOaDV3Z1JqQmRCTV9ZNlVEc2pBOXJuZ0JmdkJkRkUtSzQ3VWRyVnVGcDZrd3RmV2FlXzYwUlhuY29VWVdHMDBZVGs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New Buy Rating for Corpay Inc (CPAY), the Technology Giant - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWW5NSUxCX3FqNG5XWU5EX0FDSm50RVRWal9CWFozOVFPQk9uWjhBUDBpNXlWVFR6TFdjVFlMcVljelhqSWVabGx1a2FENUtQQUl0b1RJUU94Y3kybktKRGUzVGNXeVJSTTFtdk15OUFMUHNQUGF6bDQ3cHVDRjFUalRsekRfNW9NREJuS3gxWGlydDJmcWxIMV85a1hVcU03RFpITnNTbTB0bG5md2Y4dHZUR2pVYUdLUlYtbWdtN21nS2ZuVTlWS2gtN2hWaVhOczNldmRmLWs1ZlE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Major League Soccer Names Corpay as Exclusive FX Partner Ahead of World Cup 2026 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazFWN3JQNnZtdlZoaEU1OVM5UGNJdWRieExieVdaNFM0aWNqZ3pmcW52VDZMc2JTTlN6RGV1aFpVdUh1d2ZhVGx3UlNjVG1GSi1JOXlNMTVYbkVKam1vdm9NYUlIZ256dHU3cGQ4NFF5THZ2UGluWFVjRXhBcFI0c25uMmphTmV1a0pXLWdoQi02X0NxRzQwbTRVbDZKd3JUTXJJQmR4RlAxUjBiTG9kV3BUWERRand2Y3YyTWVWcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corpay Cross-Border Named an Official Partner of Real Madrid C.F. | CPAY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEtZT21kLWlyRzZKZDh2M3FVY1Zkek9tVWhRY0dtd0xtZmhhLTlwT1ZZbjFxSmJsT0dWaE9OaFd2dFlpYkVtVzgyWHRRWE0tR1hObHE5UUhlVm9CZzd5bEpCS0JUeDJRMDhDWVRVei1vck14YUFlOTg2emxiZGw3UHY0Z0tlUm9oSWs2Sk56UGhLY0RzdHpXNDhXTEdxaC1FM01IMjEyUVpXS0xrbk1RcGxJMnhfOEV0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corpay Named Among Top 40 Most Loved Workplaces Globally: 2 Million Employees Surveyed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXVhbG5hY3ExTVFldFVqdHFVQmRPNHFRb2xYZU5nM0hTYjBIQ1N3ME15RzVhQVY5RHktZWhTV1pFLXdVS2piX1pnb1lpcTVvUEFLVHZqMEdhVWtUekM1MTB4TE5hU05SREdMVkE4X0JudDl6SmJWWEVYX3NDMlRRUC1wa1RFQU9lVERnT21SVFNEeHNwMFdjWU1SRDh0U0FTOTdmZjBuSTNpeEcyaTZlZ0RB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Corpay (CPAY) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9URi1USzVEN1VZb2hxdkFLQmc3WUZSaFh5T3dfdHJEdXdBTGxpSkFCTDVrWTJrUjBJSE9DU3ljbGZQZnpFbThmNXZQRUUwekMwYUNoeGE3d01HM3V6cUVsRHJzZGZfQnc3Wk1fV2tNR1REQzZ5eTMtRUl3UzN0d2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corpay (CPAY) Partners with Major League Soccer for Foreign Exch - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3d0bHJLZmJRX085THZNMXRvMXVzM19zU1JqVTh3dVpZaVdjcklvN2NacmxwZmNmRURweW8teXVMbWhESUppRFBhWWN3TTg0MHBTTmVrZk84Z0RaYW9sZDNQMWJ1bEd5WEZwSC11dWFBWHFpOWV6ZGxIdEp3SWpzVFl0WFA2bVFvTDZwNndtMXk4TGdvWmU3YlU4TVRXYmphdG5xLVEtTmV0cDU3VnFydVBoQnVHcDBGUkcydkhMZmVnWElNajVYdnRfZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Construction Giant S.T. Wooten Transforms AP Process with New Corpay-Computer Guidance Integration - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmUzdzhjUzhPRkhqVTdGcmhBQ0Q0ZGdXOF9ZNEhScmtPR3VudE9xM0NwV092Rl9hWU9tQUxDTEpXRjBfR0JSRDhXejkzeUpPeURma3FiVnpUTTdfaWFyY3RPcjRCZE42ckVzbi1LMHQ0Y0oyWmw2ZVRId0pOeDVGYjFrR1JybUNuQ1g3S1dad01TejBTa1N1dF9wSjhOenFqeDlxLTVSMGNSajhYLUZPbVdvcmFsck1jOFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corpay Stock Jumps 25% in a Year: Here's What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zWEplS29OS0dtcHppM3BXMTA3ajZuMjAyQ2pNN3N1Z3ZVaVR4MzdOeVdub1VzQ3FQa3JYaGZmMmozRWJpMFdyOWNES1E1ZF94R2h2SFJWQndQM0loZ0tRdDNickRzZDRRZ0JiLWM4UkdlUVlMLVpweHBDVzhLZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corpay Sets Key Date: Q1 2025 Financial Results Coming May 6 - What to Watch - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeGRIdllWUXVpRnQtWmpjQU8xaEJtY2EtdlcyTFoxR0pfN3dWOS1MMWprWENla2FzRVFEOEFEbjE0Q1RKd1NUSGlFcElkSHBlQVk5OElQVDc0ZE8tZEpjcWJsM3hKeEZrMElFcVFTdG9QR2tkSHFGSDZDSlZ3Z29MWGVrVzUxSzF6OTBzeUFmSlFvbm50aUpvTlprbEluRkU0X3UtZ21fbHdIdnhBdEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corpay Hits $1B Quarterly Revenue Milestone, Announces Mastercard Partnership and $500M AvidXchange Deal - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQURPX0VIZXA5MzhmbmN0SWw0N2c4M21rT2lJQndRYkdwcG5lQWdFSU1mN3QwdlVMLXVRSTVmX3FnaV80bTZfX253cVRrVTRaWW01N2MyaTREZm1MWFJ1WkYzVnREdUV3amRtdFRrMTFjT0tqU1NLbTR5cFNWWDZxNi1vUUlXRTZOa1ZHNFF3Yy0wVWt2eDRYeQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on Corpay Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTJpSTBpV0NCeVQxbnE1WEdZSXRCQ0JXcFFTMVJMNnktdURqQmVlSHBjVE1kU0NkektOYWtQNlhMUy02WGxJMmNPNWo4V3VKTno1c2lTdlM5U19KbHNSWTNjQ2dZSXA2UHdNNmU1c2hDN01FU1pqM29FLWtUSzdWMUlrNkszX3FKbWNQb0JTS0o1Vk1KTVM1MWxtZUVaREhBZHNPZQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corpay Named the Official Foreign Exchange Provider of Major League Soccer | CPAY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMzhraXBOb3RaYllIcldGRTRtM2VZczlOcUZzdXViYlBnVHBfYXg4WVAzNnRzMF9MX1c2RHZTcDlfeUtiTUZ4OUdYZGdzemZWcExxUGt1cWJzMWFjYXkwbXZNaFNiTzRXQmFVeE56TnlCbDFKcmlSS3Fad2hxMlNiN2tVS2UxcE16UHZKdlMzMnpvT2JmSlJUUzk1YUc4cTl3aWVOb2hYSHVacW1tem0yNHRCaE1VTW1IVzhhUmxUM2JuTHM2MU5jTlBR?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 382.99
-      },
-      {
-        "date": "2024-12-03",
-        "price": 374.58
-      },
-      {
-        "date": "2024-12-04",
-        "price": 371.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 367.58
-      },
       {
         "date": "2024-12-06",
         "price": 365.76
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 321.27
+        "price": 322.07
+      },
+      {
+        "date": "2025-06-03",
+        "price": 326.05
+      },
+      {
+        "date": "2025-06-04",
+        "price": 326.88
+      },
+      {
+        "date": "2025-06-05",
+        "price": 331.06
       }
     ],
     "current_price_data": {
-      "price": 321.27,
-      "change": -3.7,
-      "percent_change": -1.14
+      "price": 331.06,
+      "change": 3.84,
+      "percent_change": 1.17
     }
-  },
-  "news_sentiment": {
-    "summary": "Corpay, a major provider of cross-border payments and financial services, has recently announced a major partnership with Real Madrid and Major League Soccer. The company has also faced a shareholder investigation and has been acquired by UBS AM. Despite these events, options traders seem to be betting on a big move in Corpay stock. The company is also considered a strong growth stock and has been named among the top 40 most loved workplaces globally. Overall, the news suggests a mixed sentiment towards Corpay, with some positive signals from partnerships and growth prospects, but also negative signals from the shareholder investigation and potential risks associated with cross-border payments.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

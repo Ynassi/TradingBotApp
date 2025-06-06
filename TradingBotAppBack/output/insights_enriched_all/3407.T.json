@@ -2,55 +2,78 @@
   "ticker": "3407.T",
   "name": "Asahi Kasei",
   "sector": "Materials",
-  "market_cap": 1367576543232.0,
+  "market_cap": 1362145705984.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.128747,
-    "PB": 0.73548424,
-    "EV_Revenue": 0.736,
+    "PE": 9.940638,
+    "PB": 0.72160715,
+    "EV_Revenue": 0.724,
     "ROE": 0.07463,
     "ProfitMargin": 0.04445,
     "GrossMargin": 0.3155,
-    "DividendYield": 3.94
+    "DividendYield": 4.05,
+    "DebtEquity": 62.439,
+    "CurrentRatio": 1.834,
+    "QuickRatio": 0.913,
+    "FreeCashFlow": 61524623360,
+    "OperatingCashFlow": 301488996352,
+    "FCF_Margin": 0.020256273375413608,
+    "ROA": 0.0345,
+    "PEG": null,
+    "EV_EBITDA": 5.522,
+    "BuybackYield": null,
+    "PriceToFCF": 22.139846318337543
   },
   "technical_indicators": {
-    "RSI_14": 53.86720314191823,
-    "Momentum_10": 2.098754178569079,
-    "MACD": 4.4967195001614755,
-    "BB_Percent": 0.6404549774400146,
+    "RSI_14": 45.84585462514207,
+    "Momentum_10": 0.508646998982706,
+    "MACD": 3.046427853605337,
+    "BB_Percent": 0.2556822064370306,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.899727676308951,
+    "ValueScore": 0.8969147617140899,
     "QualityScore": 0.3970432007684876,
-    "SignalScore": 0.5848296805296456
+    "SignalScore": 0.6117234054286442
   },
-  "volatility": 0.0173351406880132,
+  "volatility": 0.0173152324247129,
   "beta": 0.405,
-  "return_6m": -0.0394761293748063,
+  "return_6m": -0.0816808300083575,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 12,
-    "target_mean_price": 1328.3334
+    "analyst_count": 11,
+    "target_mean_price": 1299.091
   },
+  "news_sentiment": {
+    "summary": "Les prix des maisons à Dallas stagnent, sans croissance annuelle. L'utilisation d'antimicrobiens dans les centres de santé primaires au Punjab, au Pakistan, fait l'objet d'une étude. En parallèle, la sécurité aérienne aux États-Unis s'améliore, avec une décennie sans crash fatal. Ces tendances diverses pourraient impacter la confiance des investisseurs, notamment dans les secteurs de l'immobilier et des transports.",
+    "sentiment_score": -0.333,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.33,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "‘Buyers aren’t biting.’ D-FW home prices flat year over year - Dallas News",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEhRWWc3X3JtSmJFemZ2RkN5OGtQRjFjYjRZRmdDa3BmNlQxMUphQXdzazJTY21jOVFkTjk3N192TUhOempxWW1tRXVDM1ZxdGhLTGNUTUt4WlNBUnRGQU5iNmVNVkFUMkZjdTc0NlVoa24xMnRUcFE0WEJZaTZ1bVRMRGcySU9EZkFFb0p4U00wSUlCQTRRQlJLWmFjbEpNaGNBVW5ESnNTaDFJbzdKUmRwNHAtRTA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Antimicrobial use by WHO methodology at primary health care centers: a cross sectional study in Punjab, Pakistan - BMC Infectious Diseases",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82U0c1aVZDakdLc3Rvb09ldjAtbzlUVkhfOXctZ3pfNTFXVVlhRGV1SVgwR2FnYTE1NXJHZWhIblRiaHExQnl2ZGx4UVpOWU5fbW1vUG1IYnhlRTdXeFhXdlJ0bG1YUGIxdHI4OTUweFZJaWR6NjhyOHp4UmdWQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The last fatal US airline crash was a decade ago. Here's why our skies are safer - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaURiMlpaMHhUWVE1cTNTd0ZMOWVYdGwzaDk5U083djBZT0lzcWdMcEhEdVRRQ1FmUG8xTy1jMjE4RE12eDJrYnVUbkNuekpyM1hTTWV5dGVaa05UNnNHV0Zsanh2U3FIVlZ6elZ1cnRzTktwWUxjWklYXy1SdGdsa25TR29MdnRnRW4wQ3hXZVdUajBzZHk5dkh30gGfAUFVX3lxTE1rdzBkTnB5di1mT0Q2b1FRWkJJSE9BNHlWbGs1Wk1CbmQ4ejV1NVRRLUtsVV9IS20wb2tadTROVGl6TjFURXVyWWhGTm43eVpXV0k0RjQ1dU5yd3RDaXlLZmdIZkFnLUVKSlBpRG11OUFuajgwOUlOTWVTWUl4dm1JYnFYVElBdG53aHFCeUhHQkJxYllJel9OamJJekNfdw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1067.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1092.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1094.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1093.5
-      },
       {
         "date": "2024-12-06",
         "price": 1094.0
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 1007.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1016.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1003.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 988.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 986.0
       }
     ],
     "current_price_data": {
-      "price": 1007.0,
-      "change": -8.5,
-      "percent_change": -0.84
+      "price": 986.0,
+      "change": -2.0,
+      "percent_change": -0.2
     }
-  },
-  "news_sentiment": {
-    "summary": "'Buyers aren\u2019t biting.' : The real estate market in Dallas is experiencing stagnation with no significant growth in home prices compared to the previous year.\n\nAntimicrobial use by WHO methodology at primary health care centers: a cross sectional study in Punjab, Pakistan - BMC Infectious Diseases : The study examines the effectiveness of antimicrobial use in primary health care centers in Punjab, Pakistan, highlighting the importance of adhering to WHO guidelines to combat the rise of antibiotic-resistant bacteria.\n\nThe last fatal US airline crash was a decade ago. Here's why our skies are safer - CNBC : The article explores the safety measures implemented",
-    "sentiment_score": -0.333,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.33,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

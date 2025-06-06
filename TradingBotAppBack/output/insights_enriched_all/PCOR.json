@@ -1,56 +1,164 @@
 {
   "ticker": "PCOR",
-  "name": "Procore Technologies, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 9793689600.0,
+  "market_cap": 10149457920.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.491602,
-    "PB": 8.284542,
-    "EV_Revenue": 7.984,
+    "PE": 15.77421325,
+    "PB": 8.585489,
+    "EV_Revenue": 8.003,
     "ROE": -0.10776,
     "ProfitMargin": -0.10727999,
     "GrossMargin": 0.8121,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 6.064,
+    "CurrentRatio": 1.191,
+    "QuickRatio": 1.062,
+    "FreeCashFlow": 168586128,
+    "OperatingCashFlow": 193055008,
+    "FCF_Margin": 0.14132318896951326,
+    "ROA": -0.04894,
+    "PEG": null,
+    "EV_EBITDA": -111.29,
+    "BuybackYield": null,
+    "PriceToFCF": 60.150311774169225
   },
   "technical_indicators": {
-    "RSI_14": 44.94386520810286,
-    "Momentum_10": -7.632249454146245,
-    "MACD": 0.4597700229224273,
-    "BB_Percent": 0.2660007681953378,
+    "RSI_14": 53.530336585802765,
+    "Momentum_10": 1.0845392711507995,
+    "MACD": 0.3889389872798432,
+    "BB_Percent": 0.4396788322020504,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9235617773035654,
+    "ValueScore": 0.9220777579113052,
     "QualityScore": 0.4285192752616445,
-    "SignalScore": 0.5544991678060684
+    "SignalScore": 0.5328692145537548
   },
-  "volatility": 0.032145185015059,
+  "volatility": 0.0320677876255691,
   "beta": 0.906,
-  "return_6m": -0.1876392102547672,
+  "return_6m": -0.1802409528249717,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
     "target_mean_price": 77.58474
   },
+  "news_sentiment": {
+    "summary": "Procore Technologies (PCOR) a récemment annoncé une croissance trimestrielle de 15% et a dépassé les estimations de revenus au premier trimestre. Malgré un recul des résultats du quatrième trimestre, la société a acquis deux nouvelles entreprises pour améliorer ses capacités BIM, promettant un modèle de projet 25 fois plus rapide. Cependant, la vente d'actions par le CFO peut susciter des inquiétudes, bien que Stifel maintienne un avis d'achat avec un objectif de prix de 75 $. Le secteur de la construction se prépare à une révolution de l'IA, avec Procore en première ligne.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "(PCOR) Risk-Controlled Trading Report (PCOR:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOF8tSGl1VzRFX3hwb2JfeF9yc3JzRGRxWlZrcGhRaTRhek1wbFRjM0MtMkVzUXNCQVZzdUdfM25LSWpNZklsS3VPcGpPMHFBVXVGTm9BdDVKVExCY05ZWDk0TGxKSmZHM0VsZkc3SllIYTNMT1lteG5vbTg1aUV3SGpVdTd2LXdEM1NoQkZiclZjM0hqR2k5eQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Unpopular Stock that Deserves Some Love and 2 to Approach with Caution - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFhhMjg0czk3VE9RRXZtaFNxcEtRRnkzSnBta19hNjl3X3BaTEQzcFJXYlpyRUNuMTJXQmgwZV9DdlRfZGhXbVQ2R0l2d1RuNjNGRmUtdFNKTno1YzJHdlpMZUR0Y0VyWE02Sl9GWmFyZzNlbWlISlFnQnNTZ1NlR3hKaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procore Earnings Reveal 15% Growth and 218 New Customers as Construction Tech Adoption Surges - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWpOVmkyRDcxZ3JaVXdCbWNXd20xQUR0cDNOSUxxR0x2N1ljeHVKVmRoazRjemtaMXk0Z183clF0SlRCazE5Mk1iRUdfLTJNTDFGRXlQRFdPWG0xYVgxTkdXX18tdlZTMUlmNXl4aVR0aEZJTERFcE1WLWlMU19iQkpPbVB0b1VkcUFzNF9qSThfd3hLZURfdU85aXJWQndNQzdN?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Procore Announces CEO Succession Plan - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOajM2LVdKTUlNLTdlSVYwYVdPNGE5bXF5bjlaRjdJN2FjMG4zOHFIZHJ6RWpEamZnenNyQkdaLVZGWkpGWWFTNHdXc1dyLWRseVYzdy1PdUl0SXF6aGNXYkRBZ3g3alhQWFVqYjR0RXNpcUVDckcyNUJ2aXdYdVVfMW01ZnplMGE1MkR4M1lIaFBXX25yTUwteVRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procore Technologies, Inc. (PCOR) Stock Analysis: A Construction Tech Giant with 15% Upside Potential - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR1pfTVFPZldUTUtQTXZLWDI5MlUzZDl2bHlZV2x0TF81TE53Uk5HWFRzUmpRUFYzZVlHUGFVdkFyeXB6cGZLMW5NOERFZzhVdUVyaVBZM2ctRF8yeWp3Z1ZzQ2RaNVp0aU96Z1NDbXBaVGFReGl5RnlQWF8yTExmR1Z4V3h1bHdObDJuVnpQMlZBMHhkS3NIRUhXMWtiN2JxYnJUeExBdmF5Uk9VdFhrTTUwLWVuU3NRRk1PRmZ5b082bUpBNjVPMW5tNGZFWkpRSG1XTjNTMm0xcUh4MWtF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procore Technologies (PCOR) Q4 Earnings Lag Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYXprNnZ1YnZqbWJEQ1VrQTVlY282dEdMMFF5bTFaSFdDXzZBRERxXzE5SnVXMGxENEtUUVFwdklKRW5SajBKYURvSWZVOG9kWDR2akx0Yl83N3ZteXBxWHctNjJyQkJXR0lyUlQ1bWhwSzRVZkszTXVRRTh4dk9LWk5NLWcxZlBZOWZr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procore: A Generational Founder Steps Back, But The Business Marches On - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGJpdTRqZkpuQXdRWUFWYUFGUTFqbFFhU2xKMmw2MnQ4LUVVVC1zZWQ1XzhtQjRMMHhNQ1NzbXhRaUtfMHNLSi16V0U2dlpHTDA4cGtEUWxGeFluSG5tOXA5RXpSZENYYnNtaUxfZ3RZSFF6U2dvR0lMXzRiVVVDdzZiOC1hUDgzNXNxeXllbnZOdXVxckVjdFBvemlHSWxsenJKU09XNFFIdFUyNnY4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(PCOR) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWFBQWJ4Z3VNcF9fVUFpWC1uaHc1dnRjYWczLS1ZaHR2ZmxDbDMyOVhsWG5mMWUyTFNGcWVZUG5iY1hlbU5EVU1yQWs2dlpwc0kxOUpMeEdUbW5UZnpHN00wZ05VZEl0NFB1V0ZQdEx1MVZZRWZDYnFUd2JTWXFvSzV3YWU4b0JPcktudWhaVnY2MHRYRUJSTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Preview: Procore Technologies (PCOR) Q1 Earnings Expected to Decline - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDVMM2FRZk0yeEVSZ2FXQlljbFRYSTN5bmtERThQN3FKcEpuN1dVR1BQc25qaG5kbDZ6TlB0U1ZnQ3FYcm14cFBmRUFqSm9wSVFLcDFtRl9vRnFNT3hNX1prLVVnR2c2U18zX1hiRmpwcmlnYmpqZzE3XzZjbUV4akxGX043RkxlWW9IMFRsc0VSQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Insider Sale: CFO & Treasurer of $PCOR Sells 1,447 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDdILWVYajF0Wi1MSjYyRUdmc1E4d19xRzN1QVJ1MGFoWDgtTnhnUDA3Z09MeEdneVM4TFBPeEJFRGQtalo5d3NzNjJsTmVkRGlEZnc3azlNOFQxZXdEenB6NHYwOUQwc0hCXy1nejluTGhCS3BmM1hkay0taTBxMVZXcVRXamcz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procore (PCOR) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNi15TERlNjFtWnc2SkJZYkdUOTJ6dG9WaWFvV3Y3SXNoRU1HblljVWpUdWR4ZWs0M0Y4T2NOREphV054dWM5bWloNE53WmdzUVlkbE9hNWMzOG5CX3Fla3k1RzNSd1BFUEpPSUs2TUtNNXZYeUJtckxLSHlhcTBONg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Construction Tech Giant Procore Sets Key Q1 Earnings Date - What Investors Should Watch - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORUJkZTZRRXJlbXdLR0hfb3Q4QUlPYTdVb0VDMUNqUUZMNzhiZ1UxNXNybXBUbWtwVThYc0E3RFVNZXBwOU5Pa0Q1d0xZdXRTalR3bHdMYlplbFRSUlpvb0tqellYWnFhc3RPdnF4V3ByaDdHWml0UTV6S3AwMjJjWUE1cDBPeURYUTdaME8zTExSZmdlZmhiTDlnUkk1aERLNi1SalpUejQzU3BzWXBZb2twbE1nbVlsWUduOV9nMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procore Technologies (PCOR) Surpasses Q1 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQmZPQTBGR2MzZE9JOUxPWE84cWUya3U1QlJhWUVRUFdhc1VLSXoyNnc3TmgwTEZZeWZ5WEpyaVBMZ01fbGlhNXN2RFdzMFVBQVJDMDM2QnBtX0pMaUozTTVjeHc3SXlXZjdWOGJyeV9tcllmcG51dG5BZGFzTGgxU0ZlbXJLOEloTVUyUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Construction Tech Giant Procore's Dual BIM Acquisition Promises 25x Faster Project Modeling - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNODkwT2NzWkFyQmRuMWZ2Rk9keFVoaGMwNnVCelZONDZNVXdramJyVENJZlR0RjVtM1ZvMEc4ZzlBNTRBVlVWZUtpZDhYVTR5WVRPQzEycmlnSW5DVTJ4bXI0RnVkMktLMDZfVUtaZTE1dDZUM2xvNlJoZE9GWl9IbzN0Z21qQkU0RC1rZXZmR0tGc1dxU1BMa09kUWY0NkZWTkxGTFFHeFk1VFUtMzgzcGFyNFYwZWdoR3A4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Procore (PCOR): Buy, Sell, or Hold Post Q4 Earnings? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyR1ppOUFUUV9TaTd6X0lPT1F0VkNGLU1LbFY4dmxLS3dIX3lRY2RudDlhdGN2akRDLXpxMGJpRnRuY1ZVdTR6ZE1jeDVxM3FUUXViaElGS3RfZE9LREJyeUc4blUxeGI3a01DQ3h3X2pDTVNJTVpMRk1wOEg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Construction Industry Alert: 55% of Leaders Expect AI Revolution Within 5 Years, Reveals Major Procore Study - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXpMSTFUV21LSnhpb1U1cG9yZklzMV9EQnVDN05jTjdRSlhsYmxDQnBVV0NGSTJmWlJYSU9KSHd6OXFkR1hfcHNXTjl5UkdnVjBIT0s0MzhWOHhfdzhEUlQyZzRYUDRKMWFtSkt5ZS1ucE1xdHNPY3NFbTROMkxTc2ZjV1FpTUJpbFV2YWVIdkpLVDRxODhKYlVOZ3hBUmJzSlVpcVdFVS1Wc0xEVldkMFhscDd4QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here’s Why Procore Technologies (PCOR) Traded Down in Q3 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUVI5UVJJd1VNVU51bDNuX3R4eVBHNDdzQ3lmR01ZeEJZb185OERuSy1nTUN0Y1Y2Mzl1aDVoUU14OU44UUkzUHc1X3R5ZEJOTXB5WktoZzI5bVp4U2doYkVsRWxiVmltTWJXRXY3eXRPbS1LdjRBMWhoZjFMRHpHSFRPMkQ3aXF3QkE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Insider Sale: CFO & Treasurer of $PCOR Sells 2,642 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzJDNmxhSXlqNy1UTnBVdFduOHE2cUpKX0FTbTZ2c09PeUFwRkhFTFJjTXhXM0JhdEV4a1lzcVZPY2J0NUhZbHN3Ty1JZDZ2UTVNRHNiZDZLOWtaR3gxSC1kMThtWm01VGxMdTRaZjc0aWR0LTZmcG9Pc2VoZ05fRGxPTVhEX2Nu?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stifel cuts Procore Technologies price target to $75, maintains Buy - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcWo5SkY4VGtLbEJCSUZFd21CZkltZVdNSFNNNmp4b2EwbHFsZ0VXSDJaaEJGaUJOcmktR056OFlTcWVUcEdnWHFzbzFWMllXZGFDTlVBemlFN1B6aEo1VEFpU013N3lucHl4VXdFYXZrNU5IWnd1YjYzSmExcmZWODY4aWJUNnZ6SUVZYkdoM0hDdFVldk9KaU1YUVFjMWxqMmR5NFcyRWcwYjA0bmpiMzNzdWs4cjh1VVg5TVhqaC1QOFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Procore (PCOR) Expands BIM Capabilities with Strategic Acquisitions | PCOR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmNhdjh5QmFHRUR0ekl5dEVaekJIRU1EbHE4V2tHY09YWmtfNFZsY1BRcHFaWkl4RER4VE1wLVRCdXdfUGlwa2FoamE4aVZvV3IxeFFnTkFPTkdHS2hva1N4YXVkOXJUT1hvVWptaFBjbjBmVHhyeW5TczMwY05Eb2I1TDJNaWtwTTZ4X25IQ3BCVXJtclFiVXcxaDAtOGRFZUtVUjBZbktLSk9pS25iRFBZWjNsTTJzbnBLeW1R?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 80.82
-      },
-      {
-        "date": "2024-12-03",
-        "price": 82.67
-      },
-      {
-        "date": "2024-12-04",
-        "price": 85.72
-      },
-      {
-        "date": "2024-12-05",
-        "price": 84.51
-      },
       {
         "date": "2024-12-06",
         "price": 83.0
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 65.6
+        "price": 65.67
+      },
+      {
+        "date": "2025-06-03",
+        "price": 67.34
+      },
+      {
+        "date": "2025-06-04",
+        "price": 67.32
+      },
+      {
+        "date": "2025-06-05",
+        "price": 67.98
       }
     ],
     "current_price_data": {
-      "price": 65.59,
-      "change": -1.52,
-      "percent_change": -2.26
+      "price": 67.98,
+      "change": 0.68,
+      "percent_change": 1.01
     }
-  },
-  "news_sentiment": {
-    "summary": "Le r\u00e9sum\u00e9 des titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Procore Technologies, Inc. (PCOR) indique que la soci\u00e9t\u00e9 a r\u00e9v\u00e9l\u00e9 des gains de 15% et a acquis 218 nouveaux clients dans le secteur de la construction technologie. Procore a \u00e9galement annonc\u00e9 un plan de succession de son pr\u00e9sident-directeur g\u00e9n\u00e9ral. Le stock de Procore a trafic\u00e9 et le directeur-g\u00e9n\u00e9ral du revenue de la soci\u00e9t\u00e9 a vendu une partie de ses actions. Enfin, les estimations des revenus de la soci\u00e9t\u00e9 pour le quartier 4 ont \u00e9t\u00e9 inf\u00e9rieures \u00e0 celles de l'estimation. Le r\u00e9sum\u00e9 des titres",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

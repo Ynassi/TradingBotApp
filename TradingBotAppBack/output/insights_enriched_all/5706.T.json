@@ -2,55 +2,50 @@
   "ticker": "5706.T",
   "name": "Mitsui Mining & Smelting",
   "sector": "Materials",
-  "market_cap": 282137460736.0,
+  "market_cap": 288255967232.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 4.3622026,
-    "PB": 0.85097885,
-    "EV_Revenue": 0.584,
+    "PE": 4.370632,
+    "PB": 0.8694334,
+    "EV_Revenue": 0.591,
     "ROE": 0.21537,
     "ProfitMargin": 0.09077,
     "GrossMargin": 0.21090999,
-    "DividendYield": 3.94
+    "DividendYield": 3.94,
+    "DebtEquity": 49.328,
+    "CurrentRatio": 1.957,
+    "QuickRatio": 0.867,
+    "FreeCashFlow": 33959624704,
+    "OperatingCashFlow": 76697001984,
+    "FCF_Margin": 0.04767306833695401,
+    "ROA": 0.07163,
+    "PEG": null,
+    "EV_EBITDA": 3.915,
+    "BuybackYield": null,
+    "PriceToFCF": 8.488196490523855
   },
   "technical_indicators": {
-    "RSI_14": 75.30312992009199,
-    "Momentum_10": 11.226330027051398,
-    "MACD": 264.819719068988,
-    "BB_Percent": 0.7947454770555297,
+    "RSI_14": 78.17093282335502,
+    "Momentum_10": 8.222413052812366,
+    "MACD": 256.6526924617074,
+    "BB_Percent": 0.8000201362954084,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9010096737687624,
+    "ValueScore": 0.8980776006451862,
     "QualityScore": 0.3638329090666105,
-    "SignalScore": 0.370871840225964
+    "SignalScore": 0.3538294952281885
   },
-  "volatility": 0.0261614884320254,
+  "volatility": 0.0261264773778295,
   "beta": 0.645,
-  "return_6m": 0.045519066684118,
+  "return_6m": 0.0699716359216418,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
-    "target_mean_price": 5232.222
+    "target_mean_price": 5387.778
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 4811.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 4836.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 4898.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 4803.0
-      },
       {
         "date": "2024-12-06",
         "price": 4719.0
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 4934.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 4934.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 4944.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 5041.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 5010.0
       }
     ],
     "current_price_data": {
-      "price": 4934.0,
-      "change": -16.0,
-      "percent_change": -0.32
+      "price": 5010.0,
+      "change": -31.0,
+      "percent_change": -0.61
     }
   }
 }

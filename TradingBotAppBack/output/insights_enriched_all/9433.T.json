@@ -2,55 +2,78 @@
   "ticker": "9433.T",
   "name": "KDDI",
   "sector": "Communication Services",
-  "market_cap": 9769108635648.0,
+  "market_cap": 9594056212480.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.514128,
-    "PB": 1.9050226,
-    "EV_Revenue": 2.357,
+    "PE": 14.243945,
+    "PB": 1.8708866,
+    "EV_Revenue": 2.299,
     "ROE": 0.13384,
     "ProfitMargin": 0.11586001,
     "GrossMargin": 0.42386,
-    "DividendYield": 3.2
+    "DividendYield": 3.29,
+    "DebtEquity": 78.549,
+    "CurrentRatio": 0.596,
+    "QuickRatio": 0.495,
+    "FreeCashFlow": 957693886464,
+    "OperatingCashFlow": 1249041973248,
+    "FCF_Margin": 0.1618285663028456,
+    "ROA": 0.04397,
+    "PEG": null,
+    "EV_EBITDA": 7.651,
+    "BuybackYield": null,
+    "PriceToFCF": 10.017873506432416
   },
   "technical_indicators": {
-    "RSI_14": 38.54706089867664,
-    "Momentum_10": -3.5545954438334646,
-    "MACD": -7.6498198817889715,
-    "BB_Percent": 0.0434169427367058,
+    "RSI_14": 33.3339238519755,
+    "Momentum_10": -3.7325349301397206,
+    "MACD": -23.85913680439853,
+    "BB_Percent": 0.0545625525051013,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8936288129211302,
+    "ValueScore": 0.8909299182156156,
     "QualityScore": 0.4688561163530205,
-    "SignalScore": 0.7028520403085396
+    "SignalScore": 0.707452567361138
   },
-  "volatility": 0.014983634480525,
+  "volatility": 0.0148097937763931,
   "beta": 0.058,
-  "return_6m": 0.0062034550787737,
+  "return_6m": -0.0120852109791069,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
-    "target_mean_price": 2604.4285
+    "target_mean_price": 2616.9285
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Priority Technology Holdings, Inc. a récemment fait l'objet de ventes internes significatives, ce qui peut susciter des interrogations chez les investisseurs. Par ailleurs, le géant japonais NTT a lancé une impressionnante offre de rachat de 40 milliards de dollars pour sa filiale sans fil, Docomo, ce qui pourrait potentiellement renforcer sa position sur le marché. En parallèle, l'annonce du projet de KDDI et Mitsubishi Corp de mettre en œuvre une offre publique d'achat pour privatiser Lawson indique une tendance notable de consolidation et de restructuration dans le secteur japonais des télécommunications et de la distribution. Ces mouvements pourraient influencer le sentiment de marché en créant un climat d'incertitude et en suscitant des attentes de changements importants à venir.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Insider Selling: Priority Technology Holdings, Inc. (NASDAQ:PRTH) Director Sells 9,433 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGRBQjFPbTk3TU1ha0xzWkZSVm1GeHFTejJQZnVHVF9yUmtITFlldDJBVmFhY09LRkxSZGJCcWtnUUM0ZU5NclIwdWpHVmdRbDM5cVZ4T2lXX2IwclRqLTI2VHcxZmMyX0l5emhTcE9JV1M2UTE0RUZVMkozcTgwbXBYbkpJMk9DZ1FFdDdfMU9hc1ZlVVBnbGZmQmttT2tmMXpua0ZwU1phVkw3RDVDYnZqSnJNdEloR0RRbFZQS1Zlb04yb0VlNUxocWItZXhXSy1EM3Jn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan's NTT launches $40 billion buyout of wireless unit Docomo - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVG5hSzdFNktOWTBXelUwQnp6QUZXVENURTctMkk2b0F5R2dId3ZGUGgyT3g1eGtSZThCRWl1R0t6Tzd6Z1d2TnhjM09uRHZDUDltZFdfR2RnTmk4aW44eDlGcXAwekFsSjhpcXY2QV9ldzFYZXI3ZEVacG5iWVhxVDhiY2RFaUVFSlRnc1FXMkRGQ09UMFFTTGZTdGNLSTVvSncxOG54WUZ3SGZ0aFFCdVg2WDZscmQtMjcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan’s KDDI, Mitsubishi Corp Plan Tender Offer to Take Lawson Private - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yUFNqRU1jbHNYWG50VTFNM3FDOWVlUklmNEN4NHk5aUh3QnZnN0RyTHhvMFJadEF3ZTBwQ3MyTy1Id0RSTExNTEptRDdodUFtNVpEd255TEYwcm1IZDh3SEpOTVFIWFBmNU92cm10YjJ4MXNpYzFSNWNn?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2478.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2503.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2478.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2441.0
-      },
       {
         "date": "2024-12-06",
         "price": 2468.5
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 2455.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2434.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2429.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2411.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2413.0
       }
     ],
     "current_price_data": {
-      "price": 2455.5,
-      "change": -43.5,
-      "percent_change": -1.74
+      "price": 2413.0,
+      "change": 1.5,
+      "percent_change": 0.06
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nLes investisseurs francophones peuvent noter que l'actualit\u00e9 des entreprises cot\u00e9es est marqu\u00e9e par des transactions importantes de partenariats et d'acquisitions. Toyota et NTT ont annonc\u00e9 des offres de vente de shares et des acquisitions de compagnies, respectivement KDDI et Docomo. Cette tendance est confirm\u00e9e par la vente de shares de Priority Technology Holdings, Inc. par un de ses directeurs. Ces \u00e9v\u00e9nements pourraient avoir un impact sur les prix des actions et sur le sentiment de march\u00e9.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

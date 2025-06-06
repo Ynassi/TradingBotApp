@@ -2,55 +2,163 @@
   "ticker": "KKR",
   "name": "KKR & Co.",
   "sector": "Financials",
-  "market_cap": 112482402304.0,
+  "market_cap": 111520186368.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 52.40302,
-    "PB": 4.3322167,
-    "EV_Revenue": 8.042,
+    "PE": 51.731762,
+    "PB": 4.2951574,
+    "EV_Revenue": 8.0,
     "ROE": 0.07145,
     "ProfitMargin": 0.10873,
     "GrossMargin": 0.60527,
-    "DividendYield": 0.61
+    "DividendYield": 0.61,
+    "DebtEquity": 74.627,
+    "CurrentRatio": 0.879,
+    "QuickRatio": 0.819,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 7672171008,
+    "FCF_Margin": null,
+    "ROA": 0.01263,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 54.989116179910106,
-    "Momentum_10": -3.2962680505018644,
-    "MACD": 1.8800905330479625,
-    "BB_Percent": 0.5336035698653565,
+    "RSI_14": 52.88926167322082,
+    "Momentum_10": 2.50084888026522,
+    "MACD": 1.406503857217814,
+    "BB_Percent": 0.3982952891806706,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8695899445584504,
+    "ValueScore": 0.866828612282168,
     "QualityScore": 0.2679026328855776,
-    "SignalScore": 0.61556830637295
+    "SignalScore": 0.563683373322132
   },
-  "volatility": 0.0354878387217522,
+  "volatility": 0.0354911195823259,
   "beta": 1.884,
-  "return_6m": -0.2363361143629833,
+  "return_6m": -0.2302852844367099,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 20,
     "target_mean_price": 143.447
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente autour de KKR & Co. Inc. met en lumière une série de mouvements importants. D'une part, l'entreprise a renforcé sa position en annonçant l'acquisition d'une participation de 19,9% dans AEP Ohio Transmission Company et AEP Indiana Michigan Transmission Company. D'autre part, des figures clés de KKR, telles que George Roberts, ont réalisé des transactions significatives de vente d'actions. Parallèlement, des investisseurs institutionnels comme Mirador Capital Partners LP et Czech National Bank ont augmenté leurs positions en actions KKR, tandis que des dirigeants de sociétés affiliées ont effectué des achats importants. Ces mouvements pourraient indiquer une diversité d'opinions et de perspectives sur la valorisation et les perspectives à long terme de KKR parmi les acteurs du marché.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "KKR Accelerates BrightView Exit: Secondary Offering Jumps 16% to 11.6M Shares - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzhZZThjOVlteW5RRWFDSzN0amcxamRmdlcwNkgxa0w4QmJsRzJ0emNwTlZvUjVwYTRKczJtUmxPU0s0aHVjaUFDNUlMbkVjZDZkOEFXc1FkdElybEJmMV9MTXp1UXBuTml1N0pzcGlTTkh1LUJzU3VEZWlaTEE3WnNYbFJYeU55NnVxaG5ucmtxSHd1Q0V5WFRuVmtwOFJWZUZhUUN3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is KKR & Co. Inc. (KKR) the Worst Blue Chip Stock to Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44QUI1TUowNkNmX1IyZlo2SW5sSkh5VU5KbEZjN19yd3Y2elo0XzJhWDYxamdWRVlsZUM5ckNia04yOGI2MXBWMjVWMXNvMGJTdmpJNlFOVmk4UnZxVlZEYjF2a05nTTNLXzUzZWhuUXh0N3Rv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mirador Capital Partners LP Has $11.32 Million Stock Position in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2cxOXB2ekxPRVZGd3QzbFVVMGR0c25jbWJKUXgzNFpoQ0VfUlBGYTJlaWV3MlktUEhsVVVUR1B6dThCcDFRV1ZaZHNfZ2NyUGxiS3VlMlNaMHNYcDdqWFdMY1ltZzVrdnprZWxQdUR6dkh3ME9xOTVodDVCUzczVGc0Vll0NUJZdTJqY2JXTWpUWTdrSHp6Z0h5RWd4OFNzeWc1aDlUcnA5NFlmNW9SWWZwSGRCaEJQSDZydkh6MnBMMG1w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KKR & Co. Inc. and Public Sector Pension Investment Board completed the acquisition of 19.9% stake in AEP Ohio Transmission Company, Inc and AEP Indiana Michigan Transmission Company, Inc. from American Electric Power Company, Inc.. - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQU1dpRTdyUmc1ZXc1N210Vk5RUU5qVFZBaWlLZndnczFuVHFLNjVwNFA3Tl9xdGNQM0xVaERmSkR0U3ZKc1RyaXNTa3FOQ25Oc1lsODR1MjlyY2RSWkhwd2Nodi1SVWJEcUJOWHNaNExseTNseG1FeGZjVVBTQklhYktjM1hRY2l1YjhGUnBOUmw0S3hraDNzQnVJMmlRLVVHWVdyWm9naE8wWEVCMFRBY2UzZDFuUGttZEFlSmtXYkF4b3RRaVRoM2hfeWhBMlN3dnFyWDZQaEVEek1qM2c3c205SXZNdnZqa0lYODBOeDhSSzhVMFpSbXNEUVdVeGlDUWFj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KKR co-executive chairman George Roberts sells $142.6 million in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlpMS2J1T29qbGhrQ2J0OFFpa1dXdmt5dE81YkpOSVBKbzlqVExfNExTVl96aXBuYmdxaGdCSExmQWpqLUVybmNwX3pNMkJxZ2dsT0VCZjNDYkw3bTVxN1RTc1FENWo2MXdEeU5XOUNmVU42czl3VGxGTW9WRFRnRTM4bzhZbDRzRjZndEdaYVdJcl96bUo1MXNjOVpaYkFOeVVjMDBzazJpZHRocEh1RUxXdl85T2VJLUtpZkY2WFJGb1B4aHdFLVQ4R2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KKR Is Fighting Private Equity’s Battle for the UK Stock Market - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUVabENRekFITFdxWjU2SnpSQ1F4a3VGb2NQd3VuTlYzRWxjR3ZhUkwybE1wVUQ2a1Fxa1F4VWpVdXUwbWlmaklHZUlmNjhwQnczWE5IV1hIY2U1b0xGQlBHdEQ4NF8yeEg0aXEwblREOWRuVW9YOXRNQ2hKbENlWVhncS1nYkc1OWdwVkhROC1jd0dIOE5FWnp2WU1semVycF96XzdyVlMtQjBzdGlFaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Express, KKR And A Consumer Cyclical Stock On CNBC's 'Final Trades' - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTGZQWTFIWUFnMDhlcmQ2MF9iN2RYV3NnRFdScE1MT2dpbHRMNDhqN3J3UlZBblhBVW05b19zTEhrQ2JpbFVTU3lMZlZmOGRYZ0Z3dUlWM1hLRy1tR2otMVZib1VPZUlRYXp3dE1iTWNGLURwQ3pUbGFDb1VwdDkzWFVYOHJRRUdSeHQ3QlJnR2ItNU9Vdi1QODJFdDJ3dVlpTGhuYjh0YXYwMWhkUjk4ZXF0a0p5ZEJ3VDFPd2tuQ3VjbS1DTld4YTV6YUVWZFhCbjg5eEFXanI2enhOREVrNGN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Wall Street Analysts Like KKR & Co. Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUZTNKMDI4YzlVb2c2VHI1YmpoT0tURG1wYXVaaHR2ZDhyTFZkbzNyNVQ1dGVLTlBFNExPU2pmZzF2OW03SDZMZTRtS1NvaXd5OUp1a21TYjVvazlpSmNSQmZVb3pHeEl3eFhBZG4yTnIzVTlpcm9n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KKR Enhances Offer for Datagroup to 58 Euros Per Share | KKR Sto - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORnd2WGo4M05IbDctUURMMngycFBzWGppNExkeG81SmhaNHdnY1h3NG40WWtuWHhNSmZOeWpjRS1kU3Q3d2RfR3VwaGZoX1k1N2tqM291QVFRUFpGc184VFFlLWR3bUlwSk9GQzNIMU90Qy1GWUVxMzlnNTYyRU1jX0IyY3dEdWIwaWdIZDBkQ0paZGN3a2MzTVBKdWpXMVAwcFFHMFpKMzMyUVVtbU9ObkxkeGhZRk1jdmt2S05hVW93aTJocEkyWWM1aWJMeFlnSHV0dTVTb1djSlNZODI5Szd0dG9yUFJjU0tHd0RHZTZhSFE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "KKR Announces Offering of Mandatory Convertible Preferred Stock - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTVZabVBfMkJuc1dLQ2NDc0hsN0YwZlE1U1pINGtXSHd6bHY2TnpFUVYySWZ4YVlXSV9jR0dKNk1Qc3dnQjFNQ2Q4V3hTYkR6LW9QVXhVSy0tS05zcDl0Y3JaSVV3SE1RWEtua0tQT3V4cXVEUFpTb2kyMkpDa1lLbWE0bXptbEtub1pEZGp0UHE2Q2RCQkI5UzRrckdZNUZEVmZjV1d5RXJmR0VwU3Z5WFl4eU9PYjI0eUdKQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Grows Stock Holdings in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY0MxdTk3SWVmUFZwd0FlVnE5bTQtSGNxZTJXNkNEV2ZRMVRqcFhlaXpXSXc5MGkzdXFPWEQ1aV9XX3lFR2NKVk81S1VKb25IRzVzc3NSVURtZHZpX19SRF9LNDRUaHBCdFJ3QkQ5cUN6enYySE03N0FlcGE5RmRCQUkyOVZrLVFBNFI0dDA1bDBrWG0xeTUtRzVLQ1d4SEUzR243SFZuRklsZjNLVS1nX21rbFl1OTV6Q2lnVWZWeFQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why KKR & Co. Inc. (KKR) Is Plunging So Far in 2025? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zRUFFR1RxQWI2RnJXeFFNZDJUR0hiaTV1TGNsLVJoUkJHakFicDBtdEpOZG5VeG9RUVpZUzE2V2RVYjhWRGhYUmxiQUFnU3FnRHFkaklqZ1BkTjd2U1U0Qjk3RnpHTE1idDNKbmRMX1JqUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "FS KKR Capital director Hopkins buys $14,864 in common stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXdUcnVIRHZsWDF2UmZxOUZxNEgzY1ZaZE9lc1lqdDU4Qk9MVmNIVWJvX3hwdnRZakNBdEtoSFE4VXVOekZhcGdKd3JaUFhOcm5wOE1TMlNES3FiOGlabzh4Ym9yZUFpRlN3Y3BZVFpXelFuOWV5ZTdLdnZCYTRORnhRV0VjUnFPcGc2Z2JEbkN0MWI2OEdNZlI2U3I2ZzFSbzNja1NaM1dPY0Z2RGtRUzYxN3FHZmhodzcxRVRfRlg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vingroup Reportedly Seeks Private Loan to Buy KKR's Stake in Vinschool - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRTBEWGgwYUtrTkhLaDBrbmRvaVh4UFdXd3FzN0xQX3JKeFNQTWNVaVNzcFdyT1NEX3lRRHlLVldtbFNpQnNpQjBTRzhMdFBsNzJUa193ZHlMQ0FvdGpRRmpUamk1b0Nid2FHT282RjJzTmV0NEY4MVpVY0VrY2g5dS1UOFh5QmYwREFxc2oyM3I2WjZXU3hGZ2hSbmtxQnFKWDRLSTNReHp5NWRzYU1rSk8wNlZrYUtmcl9wUDIxdHZ6TUxYNGZiXzRQSldyMk93aTRfbWVnLUg1bVNjVXlFcHJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RFG Advisory LLC Cuts Stock Holdings in FS KKR Capital Corp. (NYSE:FSK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3ZFM19jaElvYVQ4Qm04S21VUVo2UWZZZnZnYzZVN19UU0Y4Z2ZwWnl1MXJEUXRyMEMzWTRtdWppbFJmV3Jlb3lUTWhsVXlLU1NoSEZISkN6YkNUUExzUjB3M0lTRnVuRVBacm9oeS1BUGw2NUk2UFNGaGk3MmRFTnNNVlhGUHpLZWJzSjlwN09jS2lEWWFTdEM0Y3dxTzhrWnE0TThMN2R3RXJOdTJjQlhvUW1KVV96eUVod3g0RHExcHV6b0pz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Henry R. Kravis Sells 130,925 Shares of KKR & Co. Inc. (NYSE:KKR) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSG13bHRXNGtBVTB5VURHTWg4VHk3ak16UmN6ei1Ea3QtYkFNNnJVWTN1cW5NZ0dMa2YtRXBsMWhoQTZGNF8wcmprcVhheU1Jb1NJa25jVWVhODJLNGE0ZDhQOFVBYUtDMUFqRFdTbUczY2pPdjlLcTg3ZGUzTE0wdVhjRnRma3FlbVVEMUZPd2RNdVJETEw1QnRYSnBsbnY5MGVJLVRwVHBhamJuMUtYcUgwM0pNU29OSk1DVlc4TzR1TDJf?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Timothy R. Barakett Acquires 35,000 Shares of KKR & Co. Inc. (NYSE:KKR) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnVqV3ZZcFpmMHJCX1p2eTd4WGluNVNFSElDR2lBcGxWcFpCYnllOWd0REE0Z2s4bEZoRnpoYnBKNVB6OXRkVjVHUlg0T0pVS1hTdHJuYXdMYmQtV21DVjcyYjh5djVGT29BYXJwVXloNUFnbkNZU1lHdmQyOW1zb3JONVJVZWFqMVZWMXZHaVZLSE9JMC1LRWxMankyRVZpZjBIOWNsbTZ4RHg3V0stQ1dSeEZqN3lYRlM1Y2UtZWs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Legacy Wealth Management LLC MS Has $865,000 Stock Holdings in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXVpN183ZUM0RHhJSmhhTW5JV0FJU3hWeXZGN1hhd2V5VDVQb2J4SVU0TDQwanF2ZEExUmVSOU9IUUN1T3pvWm5DUThLLXNNeTBjbU10RElGZHEzWDd5czl5bTh5ckFMbjhrSENoS2d4d1JPZElFTzhxSEpCdjFlVHN4ZmxGdkhZZWdZTGUtdEpGRjl3d2pGUzJIT1JPakEyOHpCYjZlNjdiTm1PTFRKcFBWT21mY0l5ZW0weUFjQ2JEcHpoZHFZVU44NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Squarepoint Ops LLC Cuts Stock Position in FS KKR Capital Corp. (NYSE:FSK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU5LT0hIM0liZE5DelFhcFRKN1BIcHU5cHd4YmVSdkdLR3NFczM1cVVkWnIteXVfYThvak5RZGtrbktfc0pRV1BjY2Fpd2JVajRYdldMam44aGxIekdyX1lDZXBnSTkwQmNwYmFLcllmT1dJN1AxZ2pmcHByd002Y2ludVFmWVdpTzVmeDdFVlRPaFh6Sl9BYVc2eEN5b0VzLTZUU2V6NlN5QmQtNXhyalRJS2lMeDEwcExsU2lXWi1sWUdyRnNDNXpBbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mackenzie Financial Corp Has $8.37 Million Stock Position in KKR & Co. Inc. (NYSE:KKR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmJ5OUxaSlhlQ3VJQ29OVmlZQm42ZkhZUGxYRmZ3aW96TFZjT1hHeHc4T2UzQU44dWxWTlZxdjJIX3VIMFB2M2RjbFpudTVfb1dfN0lpaHd5ZzRKLTk1MnFIN2psRTQzRVdwN0pETTlzZEVnNWJPcjlheURfY3QtdThrbXBZVkppVUNxelZBc1dzSFk2Um80T3c2b2x2SDZ2X3NuY3ZKUmlIZmRSbGxzMWZrMmViYm9ZQzEw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 159.65
-      },
-      {
-        "date": "2024-12-03",
-        "price": 157.9
-      },
-      {
-        "date": "2024-12-04",
-        "price": 157.6
-      },
-      {
-        "date": "2024-12-05",
-        "price": 157.04
-      },
       {
         "date": "2024-12-06",
         "price": 158.01
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 121.66
+        "price": 121.87
+      },
+      {
+        "date": "2025-06-03",
+        "price": 120.48
+      },
+      {
+        "date": "2025-06-04",
+        "price": 120.51
+      },
+      {
+        "date": "2025-06-05",
+        "price": 120.64
       }
     ],
     "current_price_data": {
-      "price": 121.66,
-      "change": 0.27,
-      "percent_change": 0.22
+      "price": 120.64,
+      "change": 0.14,
+      "percent_change": 0.12
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici la synth\u00e8se courte :\n\nLes titres concernent l\u2019analyse de la compagnie cot\u00e9e KKR & Co. Inc. (KKR). L\u2019actualit\u00e9 montre que la compagnie est en conflit avec les investisseurs priv\u00e9s pour le march\u00e9 UK et que la compagnie est en d\u00e9clin dans le march\u00e9 en 2025. Les titres incluent des informations sur des offres de stock, des achats de stock et des annonces importantes. Le sentiment global semble avoir une influence sur le march\u00e9 de KKR.",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

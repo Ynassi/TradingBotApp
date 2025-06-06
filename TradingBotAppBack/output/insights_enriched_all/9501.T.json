@@ -2,55 +2,78 @@
   "ticker": "9501.T",
   "name": "Tokyo Electric Power Company",
   "sector": "Energy",
-  "market_cap": 619844730880.0,
+  "market_cap": 602542309376.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 3.8424866,
-    "PB": 0.16488577,
-    "EV_Revenue": 0.92,
+    "PE": 3.735598,
+    "PB": 0.16028312,
+    "EV_Revenue": 0.915,
     "ROE": 0.0442,
     "ProfitMargin": 0.02368,
     "GrossMargin": 0.11519,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 172.719,
+    "CurrentRatio": 0.52,
+    "QuickRatio": 0.334,
+    "FreeCashFlow": -499644989440,
+    "OperatingCashFlow": 361249013760,
+    "FCF_Margin": -0.07336509577906956,
+    "ROA": 0.00991,
+    "PEG": null,
+    "EV_EBITDA": 10.353,
+    "BuybackYield": null,
+    "PriceToFCF": -1.205940862233657
   },
   "technical_indicators": {
-    "RSI_14": 38.75123519450245,
-    "Momentum_10": -4.821649717962023,
-    "MACD": -6.787522107139068,
-    "BB_Percent": -0.0237782321513218,
+    "RSI_14": 34.43210514126298,
+    "Momentum_10": -5.526249601282213,
+    "MACD": -9.12784599264512,
+    "BB_Percent": -0.0197006257233516,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9003899069892749,
+    "ValueScore": 0.8975124638500045,
     "QualityScore": 0.4007887575672184,
-    "SignalScore": 0.7101271315358002
+    "SignalScore": 0.7121107191490094
   },
-  "volatility": 0.024157568245138,
+  "volatility": 0.0241117659097079,
   "beta": -0.138,
-  "return_6m": -0.2865572513267521,
+  "return_6m": -0.2772867247133963,
   "analyst_rating": {
     "recommendation": "sell",
     "analyst_count": 2,
     "target_mean_price": 360.0
   },
+  "news_sentiment": {
+    "summary": "Les actions de Tepco chutent de 7 % suite à des rumeurs d'intérêt pour une offre sur Toshiba, soulignant une incertitude quant à l'avenir de la société. Le coût lié à la catastrophe de Fukushima au Japon est presque doublé, atteignant désormais 188 milliards de dollars, ce qui pourrait peser sur la rentabilité des sociétés du secteur de l'énergie. La démission du PDG de Nomura dans le cadre d'un scandale de délit d'initié suggère des problèmes de gouvernance interne, ce qui pourrait affaiblir la confiance des investisseurs dans la transparence des entreprises japonaises. Ces événements récents pourraient contribuer à accroître l'aversion au risque des investisseurs vis-à-vis des sociétés japonaises cotées en bourse.",
+    "sentiment_score": -0.333,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.0,
+    "negative_ratio": 0.67,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Tepco shares tumble 7% on reported interest in bid for Toshiba - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPandXZklxLTdUWkJTZENFNTBCWmJ2bHBoc050bFV1YU5nSFRPdlVWcVYzVEdCaUs0SU5qdHBxbVByclBhN2tCZjFKYXE5Rk01bmlGa0pFTjcwUzBSRUh0cmxsR3FvMUZkS2kwY0JvUC1OVWpPWm5LeUxocTNIVVA3QUs1d1hhRU1oM0pRY19GSTFwbW9Bbl9xbkpoNThDWUFpVGlLTEhCalkwUU51QzBZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan nearly doubles Fukushima disaster-related cost to $188 billion - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamhZSGJtSGJqODFkYjlPQlBoa0JDNUJ5eVZSVTdrYTN2Tld4SFBId2RoV1AzR19RbklwLUJEWG1lVEl6VGZUazFIS3Eyb0MxTjJsVXRoeENnY2tXVnZmSFJNSkRuMFNNWDdXUUJ3NXVqYlVWSEZpUm8wYmZQWmZNclEtallnMEllb0ZaTUF4U3paMjBmZUlUR05WZFFrcXhSVXk2Ym5FcENSVTBOaVhzdmhSLVFSWGpFdlpYbFFfSzQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nomura CEO quits as insider trading scandal widens - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVNDOTJtbEU4Vy1teWd6WGlUZEI5emwzZ2hCYW5VS3NseEhEYnBnMlcweWZMZDVfaTlwY09saDMtVlBQYl9FRkMwYmhSWGlGZEJqTk9rQUoxUTFNT1NRY2FnSXZVU3puM3g0R3hvUzl6T29yR0puT0lDeFU4OFFWeUJkMlEzWUNXYXliNURzNV9lazBVX2phaGFsWEFtQzZVcmdDX0YzRUxvdw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 542.3
-      },
-      {
-        "date": "2024-12-03",
-        "price": 533.6
-      },
-      {
-        "date": "2024-12-04",
-        "price": 532.7
-      },
-      {
-        "date": "2024-12-05",
-        "price": 520.4
-      },
       {
         "date": "2024-12-06",
         "price": 514.2
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 386.9
+      },
+      {
+        "date": "2025-06-03",
+        "price": 380.9
+      },
+      {
+        "date": "2025-06-04",
+        "price": 381.8
+      },
+      {
+        "date": "2025-06-05",
+        "price": 376.1
+      },
+      {
+        "date": "2025-06-06",
+        "price": 378.1
       }
     ],
     "current_price_data": {
-      "price": 386.9,
-      "change": -10.6,
-      "percent_change": -2.67
+      "price": 378.1,
+      "change": 2.0,
+      "percent_change": 0.53
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent le manque de confiance en Tepco pour relancer le plus grand central nucl\u00e9aire au monde et la d\u00e9mission du pr\u00e9sident de Nomura en raison d'un scandale d'insider trading.\n\nLa tendance cl\u00e9 est le manque de confiance en Tepco, qui a \u00e9t\u00e9 condamn\u00e9 pour sa gestion du d\u00e9sastre nucl\u00e9aire de Fukushima. Le fait qu'il est incapable de relancer le plus grand central nucl\u00e9aire au monde est un signe n\u00e9gatif pour l'industrie nucl\u00e9aire, qui est d\u00e9j\u00e0 en difficult\u00e9.\n\nLe scandale d'insider trading de Nomura est un signe n\u00e9g",
-    "sentiment_score": -0.5,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

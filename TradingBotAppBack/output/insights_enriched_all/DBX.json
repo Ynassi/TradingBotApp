@@ -1,56 +1,164 @@
 {
   "ticker": "DBX",
-  "name": "Dropbox, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 7949623296.0,
+  "market_cap": 8060243456.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 19.148026,
-    "PB": -7.5597405,
-    "EV_Revenue": 3.916,
-    "ROE": 0.11125,
+    "PE": 19.414474,
+    "PB": -7.664935,
+    "EV_Revenue": 3.954,
+    "ROE": 0.109745,
     "ProfitMargin": 0.18504,
     "GrossMargin": 0.82165,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 0.727,
+    "QuickRatio": 0.681,
+    "FreeCashFlow": 825487488,
+    "OperatingCashFlow": 872400000,
+    "FCF_Margin": 0.3247904815864023,
+    "ROA": 0.12513,
+    "PEG": null,
+    "EV_EBITDA": 13.955,
+    "BuybackYield": null,
+    "PriceToFCF": 9.764222442097148
   },
   "technical_indicators": {
-    "RSI_14": 57.59597552125793,
-    "Momentum_10": 0.6745060389257463,
-    "MACD": 0.1773832926514771,
-    "BB_Percent": 0.5552723243119047,
+    "RSI_14": 60.56417391548057,
+    "Momentum_10": 3.2179086092473117,
+    "MACD": 0.2529885864772083,
+    "BB_Percent": 0.7619799574834384,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9428311167020096,
-    "QualityScore": 0.5148923008574292,
-    "SignalScore": 0.4345085052396106
+    "ValueScore": 0.9400651570084908,
+    "QualityScore": 0.514786597537182,
+    "SignalScore": 0.4827924512497037
   },
-  "volatility": 0.0229725252162293,
+  "volatility": 0.0230949455031707,
   "beta": 0.66,
-  "return_6m": 0.0259076024413253,
+  "return_6m": 0.0154852295667398,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 9,
     "target_mean_price": 27.35667
   },
+  "news_sentiment": {
+    "summary": "Dropbox (DBX) a récemment été sous les projecteurs avec des opinions divergentes. Alors que certains le considèrent comme une valeur solide à long terme et un stock de croissance, d'autres expriment des inquiétudes quant à sa base de clients en déclin et ses risques de concurrence. L'annonce d'un important rachat d'actions de 1,2 milliard de dollars a suscité des questions sur la transformation de son récit de croissance. Les résultats financiers clés du premier trimestre 2025, attendus le 8 mai, seront cruciaux pour évaluer la direction future de Dropbox sur le marché.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Here's Why Dropbox (DBX) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9URWotekd2WFByb2JTRXd0eFk5U1c5bUhQbUNqaVBOeVBwQ1hHYUk2aXZlOEZkSW42c21ZNFFILWN3V1NqV3ZTb2dyX1EwWGxlMmhHZTRUZk5wdEVVSXVucUVnS1FSRmUtS1E3U1I2OEhqWEVpc25fOVYzeWxsUjQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Dropbox (DBX) is a Top Momentum Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkxweDROa3hLU2QtTXhHOFFwMFlsNm81b005LS1lY1IxbzR0QXAtMzRWVEtBYkN3M2xqYmpIOWp6dzJwVXA5eHR4d1FOdEdMUExaaTZqUU14QVB0VXByS3hHUUcwV0l0bXdGVXVicklLcnNucnpiS24tOEhzcTVmbjlHWHg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dropbox Stock At $30: What’s Next? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmZRWURvVFdvR0xuUXZ5T2Q5cjRjbFZQNFZMdG0zUHExeDF2SS16amVKUnlMRk9FLVluQ1o3YTVBSWh6aWR2el9lQ3dnRkJDb2ZuMG1hbnBreVNWLVZjMVFqV0tiZWhTOUN0RDlYdnhUQkwzeWpqejNMUlZWTDh3d0dhVnV3R3I1VHJqRGxVeXkwa1RKSjdVLWJwRTk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dropbox: Losing Hope As Customer Counts Keep Bleeding - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSkVNbzYwcmMxcWoyNkxvZVg5eWFBaG5UdWxqUmRzamROYW9LN1d5VTZyaGIwcjREcG45MGdPY0pQaHlTTjRiT0tMODdOejV2X0prbFBCUDltQWZEVXQtSHFMRnNTTXl5YmVkenR5QjlodkNLa0JiRHBrckpockVtNlVqblotQnZBa0xLb0ttWVhxc1ZM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "1 Stock Under $50 with Exciting Potential and 2 to Turn Down - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeTRXQ1NKWGdQdFFBMS1wSUMxay1mc2lwcGpDN0dTQ2NUa2l0bzBTall2Y3dSbHF0cUtSY0ZyTnp0T0NjRFpjTWM3cGg0am5lX1hJNXh5WUE4TXdhTEtkMGlPZHZhTlZXaGFHWkRITzRENl9uT3MyeDVNeGJNUEMtYjZfUm0yaTFCR3o4VGljVEdpX2R0eGZQX1IxSVBHZlY5aHRrQ0JtVTRXWHc0WmVLYXl2LUMtblVqUFlENWxBNEFMVXBaX25OTjUzbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dropbox Sets Q1 2025 Earnings Date: Key Financial Results Coming May 8 After Market Close - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXZTa0JORGdYcTlOVkVsOHh3bHVjeXpTNzQ0Skxsdk00WjlEZUVPY1k2ZUUxQWZwRjBHVF95NXdtYmJqbFp5MExuQnpzZzFPNEFiTm9FaGJZdDFmTTN0ZHQwckhnR1BsN3YzTWF3OEg0OThJd2xNbHZmVlNHcFByZ3JpYUpBX3dpd3NDa1NiNk43ckw1QkJ1RE1meXRuZGgxbkdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Dropbox (DBX) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JSDVDUVZJV3NjOU9yd3JSRDRncU5ab194TUZ0aVhlZ1loN3UySWgzQTNoX1Qza3JQU2ZZT3Z4dE9vUUV2V3pSUDhXRHRRYUctVEZMc3p1MkU4cXpvUXZaY1NSN1RTaFl2Z2F2YjkyZE1pWXVreWRWcVkyZVNvMzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Dropbox (DBX) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRTNWNi1wcEROLUc5ZndJa1lOSjB1NUpYSHFUeTdYaklEZXV4dGdLVm91RmgtQi1pMHpIcG5pQ1pyLXU0dHBreTNUVXQ2ZnZFdFctVXRuMVc5NnFQc2lNaE9aUjd3aEhsU1liN0I3cHZsczBWYWpOVm5DSTFjOXgtRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dropbox Stock: Low Growth, Fair Valuation And Competition Risks (NASDAQ:DBX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUZlMDJSN2dJZmtEQzdBT0tmZFZxTnRWT1o0ckFFUjF1WnZrZkN2TzJpdlZ3RWlRMzdaek9QX1BEcE5hYThYUEFkdVZ3Y1o5M1oycmFsVW5lcHlMbTQzNm4xTjBUdE9WdDM0UzVOOE4zZUtSa0dlR0ltMEl5NThjZDFHOFgwSS1UWUlaWm9nZTAwNlRFcmNnT0k2OEs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Can Dropbox's Massive $1.2B Buyback Signal Transform Its Growth Story? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEE4dmEzVjc4bW1MLVhRY1ppWjdLOXlNVTE0WmhiRjhKLXNGN1FRRlZKcmFwMGV2cHRuQnFYd1hQUEFZcGwzcW9ucnRoUWlsNndwc29hdTd0cUk1aUlNV1BCNk9lSlZ2MFp1T2RaSzdYMW5fV2dWS0dwMUhwUloyRS04TlE4UHkyNjdLQktvSEotT1Z3MVJEZDBoNS1ldV9CbHJUTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Dropbox (DBX) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44b2ItX0N1OHdEMW5yZ01KRGJVeDI2NTRxR25Lc1dHZlRHbTZPNy0tSEhtM2plZ0N3dlhIVHhPX19QVXphVXRMMUowNGcxV1VNMTdpQng1ektEVVZEX0lTZzlvNExhR2FPMURPU2NIOHEwd0xVTTY5cGJHS2I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Dropbox (DBX) is a Strong Value Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90RVdnSEpWSUVxNGRYZ1hnSGczc1lLX0VUUS1oOHhLd051b1RXRThZWHhha1dpcFJBbW04a0QwclRQdWlTTE5YdXdIejctMFVSN3dNSmt6RTBnNXRjWEZpVjktSV9MdVozQmV2RVZRc2RqcUJkMVVXdl8xdERqWFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Stock Under $50 with Exciting Potential and 2 to Turn Down - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ULXJHUmF5NmJpNHhNejNmVXlnRGpDQmJLUkpLNGdKbS10UGVHN1dnUEZIZTdEMDdUbk1MOGhWanhkdnU1NnBOR25ZZEJsZnVYQkJzZlRqY2JiMkRIQUZfWTBsTE9ESkR1OFRRUU04azRfVFlxSmdTOUZ4NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dropbox (DBX) Stock Moves -0.16%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFZSTW0zdlJZSmpqWlkxMXFFeGE2elUzQzYyVWNVMFRMalRiX1RYay02amdvbmRja0dsN25sMkJzSm0yZUpMZUNObW51ZjU0X3RfRmlpdHNuallkY3o5aEVXX2liWGRsU1lhbzFvenJ0NjI4TzczQ1lXckdwQVdCX1JmQzRkOWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Dropbox (DBX) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTjZYc00wV012RjE4TENnWnJCS1YzT1NZMlNxWHcyeXVZTllLY2VQN28teXZmVVBGNG1aNC0yOUxIVFh5UDJZNXNlRE5faVJUSWt0a05wUzRHWElrZWs0RGdMNlpBa3NQdWk1V3pRQzMtdmdpa2VUU1lMdEx2UG8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dropbox (DBX) Stock Falls Amid Market Uptick: What Investors Need to Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3ZwYjV5djJFLXdnVFgwUkdIVVVnNVBxNnlTWnpnZGstLWpCTGo1LWp3WThSRGpaNmhXRFFfVktvcUIzenZyX21JMkFtbmlYRl9rbkJlaHRoRno3Y21sTnZyZjRYTjJrYjlUSmFzcmNaTUFqRldnRHlXTHlXNTVUYl93T19IdVFWSHBIOFZMUkl3ZDlXTlBLTThhNHY4dXMxY2dn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why Dropbox (DBX) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMOFY4TXhoalFaMHhuZXd5aEJma0RTZElPa2pKZDY2LXFfWGxETjJsRFBtdDZuTERiNGowTHQ5X0E3VmVMQlZFNGh4OEprY1dJUmRGZ09LZXFENmNjdTBqWW9EZXppelowTFNGekNhOVNCeTRaOEUtZHB1XzR1SGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dropbox, Inc. (DBX): Why Are Analysts Bullish On This Cheap Software Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CWXQzZ0w1Rm5ycUw1cnJENlNDSWlNaDFvTFpmRGFNM3dmQWxabGk1MHJKckpid08zZlZFRm1vRWJlVGxHenJsUGYxc0hTRDVac1Q2R2g5RUdNWG9DTDdZcl9EUzhTM2tKWDR4bHpQUi1yd0VXRERSQkVzU1h4TVU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 Reasons to Sell DBX and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NU05iTk1MU0E2UlRsUEgwd2dma3Jod0hSN2V6TjVMbXFyUzM5VEo5ODRsQ0xTUWNWNzRMcUpiN0xLWEhJeXV2VWtlRFNoX3d3UWRuZ2RRcHdPT28wMFZKSkNxMGwyQi1zV0ZYWGNtWi1FakZG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dropbox (DBX) Q4 Earnings: What To Expect - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3BHUkVYS0xHa2xxWkg1VXVRdkpNZDQ3eUlhcWltVjlXeGgxOFp0Nk5rSG53QzVwdEJaaTJVQmZUR1M5S2JVekFhcUJuWXhhNmNQc2JUNFpCQUtzUWhlWkRzZVBmUENpN21vUUdOcjNpSUFhVk9SUVRfTUR6dGFsV2NR?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 28.37
-      },
-      {
-        "date": "2024-12-03",
-        "price": 28.73
-      },
-      {
-        "date": "2024-12-04",
-        "price": 28.68
-      },
-      {
-        "date": "2024-12-05",
-        "price": 28.73
-      },
       {
         "date": "2024-12-06",
         "price": 29.06
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 29.16
+        "price": 29.12
+      },
+      {
+        "date": "2025-06-03",
+        "price": 29.53
+      },
+      {
+        "date": "2025-06-04",
+        "price": 29.2
+      },
+      {
+        "date": "2025-06-05",
+        "price": 29.51
       }
     ],
     "current_price_data": {
-      "price": 29.16,
-      "change": 0.3,
-      "percent_change": 1.04
+      "price": 29.51,
+      "change": 0.31,
+      "percent_change": 1.06
     }
-  },
-  "news_sentiment": {
-    "summary": "Dropbox (DBX) est un stock \u00e0 forte pouss\u00e9e en long terme, avec des signaux positifs et une croissance forte. L'entreprise est en train de rendre des annonces importantes, notamment concernant ses r\u00e9sultats d'exploitation pour le premier trimestre 2025. Le plan d'achats massifs de la soci\u00e9t\u00e9 est une signalisation positive pour ses investisseurs, qui esp\u00e8rent que la croissance de l'entreprise soit transform\u00e9e. Cependant, la concurrence et les risques de concurrence posent des risques pour les investisseurs. Les taux d'\u00e9changes de DBX sont \u00e0 suivre attentivement, car",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

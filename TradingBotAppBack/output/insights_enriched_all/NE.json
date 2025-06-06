@@ -1,56 +1,164 @@
 {
   "ticker": "NE",
-  "name": "Noble Corporation plc A",
+  "name": NaN,
   "sector": "Energy",
-  "market_cap": 4101364992.0,
+  "market_cap": 4201398272.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 8.69697,
-    "PB": 0.8804581,
-    "EV_Revenue": 1.787,
+    "PE": 8.90909,
+    "PB": 0.90193266,
+    "EV_Revenue": 1.892,
     "ROE": 0.107609995,
     "ProfitMargin": 0.14693,
     "GrossMargin": 0.43945998,
-    "DividendYield": 8.07
+    "DividendYield": 7.45,
+    "DebtEquity": 42.482,
+    "CurrentRatio": 1.569,
+    "QuickRatio": 1.244,
+    "FreeCashFlow": 309930624,
+    "OperatingCashFlow": 797846016,
+    "FCF_Margin": 0.09874270236411593,
+    "ROA": 0.073189996,
+    "PEG": null,
+    "EV_EBITDA": 4.871,
+    "BuybackYield": null,
+    "PriceToFCF": 13.550808583536424
   },
   "technical_indicators": {
-    "RSI_14": 64.25398055765078,
-    "Momentum_10": 7.26744188349094,
-    "MACD": 0.7477122107665011,
-    "BB_Percent": 0.9774569679567058,
+    "RSI_14": 64.93243819490093,
+    "Momentum_10": 13.7086315597587,
+    "MACD": 1.00605814635011,
+    "BB_Percent": 0.9064766749291446,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9351569544492558,
+    "ValueScore": 0.9347588932477632,
     "QualityScore": 0.3897762924192416,
-    "SignalScore": 0.3553524736435062
+    "SignalScore": 0.4029705309137955
   },
-  "volatility": 0.0354901171815148,
+  "volatility": 0.0356661598394131,
   "beta": 1.108,
-  "return_6m": -0.2086356239399668,
+  "return_6m": -0.1468655874177025,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
     "target_mean_price": 32.81818
   },
+  "news_sentiment": {
+    "summary": "Noble Corporation (NE) a récemment connu une série d'événements marquants. Malgré une mise à niveau par JPMorgan et des contrats de forage massifs de 2,7 milliards de dollars, la société a rapporté une croissance solide de ses résultats au premier trimestre. Cependant, ses bénéfices du T1 ont manqué les estimations, et l'analyste Jim Cramer souligne les défis persistants. Les mouvements de prix récents et les évaluations contrastées suggèrent une volatilité et des incertitudes sur le marché pour les investisseurs potentiels.",
+    "sentiment_score": 0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "JPMorgan Upgrades Noble Corporation (NE) Stock to Overweight - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYzdLUDladmdtSkU1QW1wU09RVTVDTnVKV05fNnZ5ekt3S1pzcFFCSjNZaUJ1RTBNOF9qNnhUX2g1WFRQc3lOMndPdUx4blZ5T1hCcXNrNGd6ZU9SUFQxYUVVWFRSeVFaTUE2ODJ4cU5YQ3pvV0c5UUY5T2NLREc1RjUtVUxIcndKazRSeA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Noble Corporation Secures Massive $2.7B in New Drilling Contracts, Reports Strong Q1 Earnings Growth - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNE1qd1FMd2c2ODl6QXdIcjdiV3dhdnF2WlFHbHloeURPYlZfVFpsU19KcHNFT2QteHhqbDFLeVNIemNmeHNuZzNydmtLbnFoLXA2LTg4LUdEWW5wNHpUNmJvNmZxdS1ibjZBR3RRZ0tHRGxNVWVoRFBPYU1Ta1R4cVdOMHZoZmZNS1lXOHlabW1Tc091bVBCRmd6bmxEOFJqaENmeXRB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Noble Corporation: Time To Own The Best In Class (NYSE:NE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzVwVXZjd3VqS2dISTZETmh2MUUtVXFpeU1kZWVhczFYRE55U1RJYkhqNFJfYk5EaDRtX0V2a1NqUWRXUmFMV2U1bHpDRkxFLVE2NVR1QzNRWk12U3lDazQ3QWxtQjJ2bnZYcWp3TTNUTE1pNUtUV3Eta2pVUDJqQlN3OXFid1Ro?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Noble Corporation PLC (NE) a Great Value Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0VvV2NNNE55cjN2R2wzbHNMV0YzV1FfTTktd19ab1psUmJJUFpBcnpfZWVYWXh1enplRElqdDZmWGRYYTZEV3kxa05NemJQeFA5WF9jRWhrUnY0elVHZ2s5RkduRmhybW5KRzZFWVhRNDcyZFowWENUQ2dOTUxFVWtQYTRnRnc5clZ3ZQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noble Corp (NE) Receives Upgraded Rating and Price Target from JP Morgan | NE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWFTZXNwQ19VS3pZYzA3MEJ0WEo3YzhYSzRjTlhDVGlLNjFWQVlpRXJwWEpUeVRuNHNwUFlhNDZzWkotMGdjODNORHR5N204S3hadlAxNFRuUXVCYzlLQnY2d1BoRzB0US02bkRRdnBuUGtPdjEzZV9IbHlCTEhXZGJ3bVFaaGo5cDU1RW5kMV9lWHg0SS01dDBReXI2Wm5sSGZWUVFKTnBka3JpVktEVllpWHBGRnpadzJsTUJHQWF2UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noble Corporation plc (NE): Among Mid-Cap Stocks Insiders Were Buying in Q1 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1RpOUFSOGI5eFpObnFCMFhJUlhIVUl2QWhDSHRta3hzX1FkNmRaNEhsRHJGbFc2MkNaa3pNY0I2Mjg5UXJSS0lwTGx2SlE0dHBkVkh1RTRxUGdqLWVaZVI0dlppX1ZBUEQtMmMtLWhMU3c4Z0FDUlZLMXl3T0dTNlhR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘Ne Zha 2’ Mania Adds $5.5 Billion to Distributor’s Stock Value - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXR3YVdPb3BJblJhMng5eGhsSi05cDdoZF9FcUVNbnE4X0pEZXFzQXd3cDFhaGxuNlJaaXhMazI1eFcxOENOS0tycUtKeTFCclYzb0N0ZnNhWVJnNDFna1FGTDRRNUljelpSenJCc3hrMHJfS0tnUTlNNWJTTDB0TUpRZEoxVGxRTm80ZnM4NWJjbEwxZzR4a3I2T0RHRW1hUnhSWXgydXFwWmtUYzJhS0FR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noble Earnings Alert: Key Q1 2025 Financial Results Coming April 28 - What to Watch - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzFwd3pVTTZMUnFKNFM0VjF5aHJPWi1MTWw0MWJkTjF5dWhtQ1hqZjlZVnNBM2ZvRVRURGx2Um5JYXpGTVNlY0JVanV3cFNlRzM5S1ZNZWFzUkNSWlVBcVBXQ2dHN3NUSkVhSlBIR3ZSN0FPZW9uTzRDMlFFYk9DT2dhaFVPa25pb2hRaGhwcWY0WmhScU9MbWxmS1lwUUx0NVRRbzFtWTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Biggest stock movers Tuesday: NXPI, BP, SOFI, HIMS, and more (NE:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdDFycVBtcklIaGdTYlFUNG9KSE5pc1d4Vkh5YVZwTUlBZ2YzZ0VDMEMySWN3X0VIVENnbEdtaXFLTkFWWVdUQk05VEtqd01ILXEtLXUyWk9SN0RxVGMybzVDdzVHV0Y5WVU2QTA0R0RkN0VHNGF3UTBPWjdCNUdLQ3hmWUR2c0dkSzcxMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Noble Corporation PLC (NE) Stock Undervalued Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzhUdm9UQnpIVk40VUlUdHN3aHBkcjh2YWdwS3hHUHBIRW1kaDBRT2kyMmNWUVlkX2JrNVFkYmJVM0tfTVRGVVMxbmJOTlM5MzRBLWxIMWNzMGFLMmxFQlFhWHhYeXdvWW8xUWY3Zk4xUFpZLUMxMC1COXpXUGZqT2JR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noble Corp. (NE) Secures Key Analyst Upgrade and Positive Outloo - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUJCQzhSeHp5RFlrcWxydlpKOVZjVDdEMUZhOVVfeHNBbWZmT0J6eDA5OEhpdG9TSUlnWFllUE9ralc4OE5WZWNlSElHOHE3aHBsaEhWZkdqdWdlMEtMeVB1a0ZGMWNVX2xCM1FHZmtRRktLSVdWYWJKcDBFajFSUEMxRVU1aW1BSlVYeVJiclRrYjBZMDJkb2RVYkNoXzRWR0pVOVh0MDZJY25vVHZlcG1vMUMydw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Noble Corporation (NE): Among the Oversold Stocks to Buy in 2025 Amid Inflation Fears - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEQ3WEp2d3BocmdvTnBpV2ZLZ1NIWVppYnV5Rzd5MThSVlZmRTRoVV85YlNXLUhXTzFqdzZNWTRtTnVPMHZJM0R0bEthcU5aZGgxOWRQdFRxc01peklvSmF4MjUxWU9zUU1sdWJ1MnJxYlZrYVdxOVdxaXJCbFgyanozalZjZF9h?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Noble Corporation plc (NE): Among the Dividend Paying Stocks Insiders Are Buying - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVJ4M1RzdUxDT1hNT3B0ZDdJQVAtN2ViRkViV01EQkFaYVdMV2JzQWRvS0RPcks4NUZjOERoeXVEX202eHk2c3M3c2xUdjZkeFBic1FqUndZUWVLMnZCdTl5X3l3MmFGYms4Nk94VThUM3p6NjFMeVR1NlNjbUhuREV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Noble Corporation plc (NE) Stock is Gaining This Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PcDZpMFZUZHJISFBHMlJ0MGJyRjVPODBUczItblFpbnlyeHlGakJ3OVJEaFN6RXdIVDlkUE1Fbk05SVYzbDdwQ2RfUjdhN2pfRGdrb2NxQWhaYlN5UzhHYlhQc3FrTFRsZktjN0xVd3hHaXVkeVZxbENEdUo4NlU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Noble Corporation plc (NE): Among the Dividend Stocks That Are Underperforming in 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTE16dUVGa3BCUkZFRGwxeW5DOURyeUdHZ3podS1jMnQwY1praHRKRUhWWVNZV3JnbWczeG0wOHB6Tkk3NkpxaGF4VHRMS0Utb1FFMm1ZUkxDMHpsUXBlNGZpZllXZUxxM0M4ZF9jcnZjLWdYNlJ5VkpfY0hTOENCOWZ3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Noble Corporation plc (NE) Soared on Tuesday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81UnZTM3dxWUZzVV9QeUN6anltdWZxeC1JR09GdjgxcGNMUGFWTVFxY2hmdmFnLUVHUVdUQXRFRlNrS0ZlbzBKTVllbXVEZXBjUGd2bldmYlgxalBDSTFPeXQ4OGdWN3dFM21ycHpOQ0lmOHlSSkhNelB5aXU1TFU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Noble Corporation PLC (NE) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOV9TeEs2ZG53SGsxUk5wSFpwdzhKbGhxdEJGTm56QVhIYjE0NkhkT1Z4OEhIdURqRHNDSTlmbmNkSzdTR0tmMV9nWlhOSXBqcGdfUG04UmpvNFNNTm1PMVZsWXJxWHg3bFJFY3FZSFdRdWNQcFd0Z1ZIVDNiY3N1ZFJ1UEpvZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noble Corporation PLC (NE) Misses Q1 Earnings Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM25sRmU0aEpCcVY0Wl9ick1rUnkzM0xCRkxTTk9oeUV2VzdCSi1ETi1qR2JlZk1xRHZNVmRhUnZwck1WNjRVSTBwWXpxdTdjUHk2NlVzcmV2Y0NaVW8tMTlVMDBsQjFMZnB6UnJrRlJkSnkxbFpUeTFXeS1yM2taa1Z6dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Noble Corporation plc (NE): ‘They Never Fully Recovered From The Fracking Revolution’ - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGVfOS1oVkphNWoyaVd4MFlzVDN5UmppbmRRSXVPd1ExYUplVFV3aFdwM04yT19WOHFkZXc4TDBaSVhWc1hPY3Y2NHdnMXlRZDJ4N1RGSWwyNm94Ym5Ma0ZKM0dhZEdGbkZObVV3TGVkUnZoNHdzOGlkYVZ3QzltVzhSVGI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(NE.WS) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTRTSDVyVS1mN0VoZUtKN0Jwb2JiNDdGOGFsM2x2MGNCWUFQb3R2T041QzZqNDVGSmpCUDdza01WQ01VT0t4bG1USXVFOTJ5V09UZjBuWHJMRk90OExsd0FwdVBwTW5iVEN0R1BUdzBTREVac3VmQ2k2UTd4amcyb0YxUklpSTNVMUQ2T0tjbmZmNmlyLXlPWlE5cw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 33.87
-      },
-      {
-        "date": "2024-12-03",
-        "price": 33.9
-      },
-      {
-        "date": "2024-12-04",
-        "price": 33.25
-      },
-      {
-        "date": "2024-12-05",
-        "price": 32.93
-      },
       {
         "date": "2024-12-06",
         "price": 31.7
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 25.84
+        "price": 25.81
+      },
+      {
+        "date": "2025-06-03",
+        "price": 26.89
+      },
+      {
+        "date": "2025-06-04",
+        "price": 26.86
+      },
+      {
+        "date": "2025-06-05",
+        "price": 26.45
       }
     ],
     "current_price_data": {
-      "price": 25.84,
-      "change": 1.06,
-      "percent_change": 4.28
+      "price": 26.45,
+      "change": 0.09,
+      "percent_change": 0.34
     }
-  },
-  "news_sentiment": {
-    "summary": "R\u00e9sum\u00e9 courte :\n\nNoble Corporation (NE) a re\u00e7u une upgrade de son poids en bourse \u00e0 \"Surweight\" par JPMorgan, un signal positif pour les investisseurs francophones. L'entreprise a \u00e9galement rapport\u00e9 des r\u00e9sultats d'exploration et de forage forts en Q1 et a obtenu des contrats de forage massifs. Les insiders de l'entreprise ont \u00e9galement achet\u00e9 des actions de NE, un autre signal positif pour les investisseurs.\n\nLe stock de NE a \u00e9galement \u00e9t\u00e9 cit\u00e9 dans un article de Seeking Alpha, qui le consid\u00e8re comme l'entreprise la mieux class\u00e9e sur le march\u00e9, une recommand",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

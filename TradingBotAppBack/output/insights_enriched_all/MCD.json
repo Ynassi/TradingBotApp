@@ -2,55 +2,163 @@
   "ticker": "MCD",
   "name": "McDonald's",
   "sector": "Consumer Discretionary",
-  "market_cap": 223426363392.0,
+  "market_cap": 221352771584.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 27.578995,
-    "PB": -64.68019,
-    "EV_Revenue": 10.735,
+    "PE": 27.298943,
+    "PB": -64.0799,
+    "EV_Revenue": 10.672,
     "ROE": 0.317925,
     "ProfitMargin": 0.3175,
     "GrossMargin": 0.56825,
-    "DividendYield": 2.26
+    "DividendYield": 2.27,
+    "DebtEquity": null,
+    "CurrentRatio": 1.181,
+    "QuickRatio": 0.904,
+    "FreeCashFlow": 5306375168,
+    "OperatingCashFlow": 9484999680,
+    "FCF_Margin": 0.20641752081659331,
+    "ROA": 0.13416,
+    "PEG": null,
+    "EV_EBITDA": 19.742,
+    "BuybackYield": null,
+    "PriceToFCF": 41.63499740544542
   },
   "technical_indicators": {
-    "RSI_14": 47.88514292890527,
-    "Momentum_10": -1.9114267028294063,
-    "MACD": 0.2173921795933324,
-    "BB_Percent": 0.3452930232695819,
+    "RSI_14": 44.89371041642028,
+    "Momentum_10": -1.7385361977951297,
+    "MACD": -0.0556927398522475,
+    "BB_Percent": 0.2570418262488184,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8969911422499657,
+    "ValueScore": 0.8941565193626138,
     "QualityScore": 0.4670868331215964,
-    "SignalScore": 0.6428757237193474
+    "SignalScore": 0.6328042768522113
   },
-  "volatility": 0.0129520002117074,
+  "volatility": 0.0128853957549124,
   "beta": 0.556,
-  "return_6m": 0.0746618478569354,
+  "return_6m": 0.0455915039834353,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 28,
-    "target_mean_price": 332.00394
+    "target_mean_price": 332.1468
   },
+  "news_sentiment": {
+    "summary": "Mcême si les actions de McDonald's (MCD) ont légèrement chuté à court terme, le soutien à long terme reste solide malgré des signaux baissiers potentiels liés à des ventes d'actions par des initiés. L'entreprise continue d'attirer l'attention des investisseurs, avec des acquisitions et des achats d'actions de la part de divers fonds de placement. Toutefois, des préoccupations persistent quant à la perte de parts de marché qui pourrait impacter la prime de valorisation de l'entreprise.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "McDonald's (MCD) Stock Rating and Price Target Maintained by TD Securities | MCD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3BwbkREem13dW4taUhjMDdWOENvQXhBaTdzeXFCcHRTU1Y3VmhoQnZRWkMzTG95ZEh0UmFsVnVPRExxdTNSaUxHQlZWMXVCVmJxWl9RS0tPcnl6Yk5pc3k0NGlQWGxSR2pyeG1uRDg5NmZfMUZVQWdWb0VZbG1GckE3eE1nWGtSOUZEMmZTRkRLdnlXNXVTcFF4dnlMRzVFOEp3UHRreUkxUVBaQ1JQX2dHVTYxQ09aMnRVNml6ek1zNXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "McDonald's Co. (NYSE:MCD) Shares Sold by Chatham Capital Group Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalpTbGxMdm5PaXFtNy02WUs1aEE2bTlUWlVoSUpOaEt5SG82UUZtRHF1ckl5QWctWVVFc2RYVDBKdVNPeUUyM2paT0JuRlRERmpqQzlCMS1Pb2szejlNMmN5c1pBb2xpRTUtUkVWd0lCb3cyN0YzV3NNaDY3Xzh2OXdCeEl0V3o2T3NQanNFSE1SR0lVWlVFc0VtNFlJOUlGUkFpbm5LNExsNHdYWC1OQkVtR2hQYUsxSW1rNzFNVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "McDonald’s (MCD) Stock Dips Slightly on NYSE, But Long-Term Strength Persists - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXRqUGUtTU5VZ2FaNFY5RUtNZEhlMVpSaThTTUlCNUtMaEtNakc2c1M5TDluZk9kYW5yc1BfWWdmWDQyMVlZUXFQdUZmeGVYVUxOVFctbzFkVThmOGFPX2U4aHRMVF9LNGF3Xy1MUmJ0bl90dXI5WEUySmRtcjVhaUE4azBRd3pvTmpfbXFVS05EN3NOR0t1X1pHVlI5eURPNi1zVm5NUXNMU1JBMjdoQkdHUzFHb2VIUEE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TD Cowen maintains hold rating on McDonald’s stock with $305 target - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1ZCLTB6YnZlNkVKOTB0TEhhZTZ2VTgxbjZvZGdxdzlMeTBocTVtbjhQLWh0ektyWUxkNUlkZ2xhUktDRVRvS3RZak9MMXlqSEZOVXNoZUVxNTFlWjc4a2p3ZU50VlctaHNRVXRFZ1ZxNGR1UXMxZ0tHY293UzRicUtUSThXS1VlaTFaNlV6UndSZTQwM3pNVVpRT1J6Q1Q3dk9uTlh4T1FON0pCckZCeHZLU1JTemxmSFBMRUZ5LTJ6UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Traditional Fast Food Stocks Q1 Recap: Benchmarking McDonald's (NYSE:MCD) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdk5MVlc5ZklWU1Y0dkh4QkhqcHZoeDJPbF9NX3E0VExOQnVxZXZId3FIcUZYQnlIc2p3ckdRV3FGY3BHRmJrUjJfSklxOTAtRDhyUHFtSGJ6N0pqZjByUHVacm9pa1UzODlzTkxjTE1Telp0YXFvdUN3UTRtTTZrLXFmVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "McDonald's: Losing Market Share Will Decay Its Valuation Premium (NYSE:MCD) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGRleUlQa3U0RzV4dzd1V1FKc05ZUnF5MVhBQzlOZFkyYm5vck1adlNUUU9oT3FSOWZGNlBSOUp6Y29qNGFXZFJ0WVBaNzkwZmQ1ZlJuak1HQndEN1BTZUNidzFManZBd3JhbngxeXB5Wm1CazVYVjV1dXpDNzltMWRZQlg1ZWt0RUVnc0dwWExmYlpvVlBKczZCbXNqc0VTVXVKUkJB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "3 Fortress Dividend Stocks Set to Thrive, Even if the Economy Slumps - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTl9WNFl1S1ZjYlYwQUg5X3prNS1qaGJ3TWVHeExBcEkxbkdpaXpXNzJDWERKXzVyU25lbkJ1NWxLaTJEM0REUF96ME9WTDZuU3JDRFZDTEZjWFRGRjZOOTBEOEdvR2ZEQkJlYk5NX0NkVHlPaWwyd1RFMkt6WDdQRDFqZl8zQnVQOEJ4R0RnenRFeVBvNDFaX0JZc01vWjNJNTdrb3JZUWtNbVhBd3E4Vw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Chipotle Mexican Grill Stock Underperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSmVNUEZmS01iRTRNTXcyLTBQZ01lejVNUTg0Y3BUV1Q3TEZzRmE4SVRuTlFabTZQOHZzQnAyWW9yRGVuUjZvZTJ2NGRoZm9panpqSTYtR1NZYTl5S0Vjb2g0UTNjejgyMFlIRjhlNVZMd29rMFFMbVpsUzBGTW11cG9BLVlUREt3b2V2QzdheHlsc3VGUjFfMERDNGF4WlZ1cWdTQnIxcWVNN3VFQUJXMUZRdm9YMWlEN01KRjJwY3NaWTk4SUdpUDNLdlFSY2NlU2x4akllUV9JRWg4dFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "McDonald's Co. (NYSE:MCD) Shares Sold by Arthur M. Cohen & Associates LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUZXbmR1LWtxNzdJUEpKWWtPOVplZF9qTW5TcW9xY3k1ZW5EeGhHdE1WdzZIa0NzS09BNUh3eGcyRHFZc2pGazFZUC1pTU9ZY2c3V2xoaVhFN0FRZzN0cW5yanNzbW9TWWRWZFhiT2htY1QxdXFqYzdIUV9RSVgyUmxUUlByQXJQX0FpSmxHNmFkLWp4RjNJYXM2OUZieldEd25RSnE1TTAxejFpaWtyQVlrcVVkR0hnNXZYdWZ2QjlnalRO?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MCD vs. YUM: Which Restaurant Stock is Better Positioned Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtdkxsS1Jid1Jsa3otX3FiN29BS1hEYVdqYUdLa19Ea0p6R3lsZVdFaDB0eXd0MmtkTzhGTk5QRWxMX2w0bnNqcjh0QmZXZ2dSQjJPTTNvVmpELURKa0ZHYWFUbmYwejhJWTZETG5lZ1c3SlZCWlcyazY3Mm5MUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "McDonald's (MCD) Executive Joins Nike as Chief Communications Officer | MCD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNk0xVERlaXNSSnMzaDZXMUw5SnVkRWozelh0c0gxNUZIRTNyV3dUZzZGYVBCdVFsVVFub0NyeWcxWV9uSkFmWnQ1QWFNYVphVE5lSURxbFhtNjlnc3VsbWJUVzlUWGVZLVNuZ3JKdlFfMDg3M2J3eE5ZMDM5ejZtRWtmRnRfT090d3JNVEoydjJJd1NJeXUwdEFmNHVVaHIwM0JLdnVIbW8tN3F6andtTVJNZ0lLNncwMjAzag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBC Securities Inc. Has $2.37 Million Stake in McDonald's Co. (NYSE:MCD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd3lET2tZLWVGbnpHcmItbzF2b1U1NDJMUzdtVFNSZHc5U1dUTlBWbVNKSVJRTEVFdks0TkZLX1hVc1lOTGU3UVlkT3VxMk9HQjFGbDhrZFdZaHRubnRvNUlqX3p5MHEzRTJTZ3hkdzhqNU92bVVQbTA4ZW5NeW5WV3NKSTA4SGlMc3J4VjlScFFIV1JDbFZwdlMxQ3lLaVNGSjNabFRzaElTVXdLNFdnbnVXQTAtem1nMzl4bE1obGxWZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Possible Bearish Signals With McDonald's Insiders Disposing Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNURCRnU0RDlTX0c4VHZHQXg1YzFZUE9JTTFaX01DU0lFbm5kbVJfOXNKRTl6XzZSNlRzOERYb3EzTzZxMk5XeFU2Wm84cUxYWE1sd3ZhZ29KeWZlT3A4SkQ4UVVTSFd5Nk91VVpmUHZ5TnpYWWNMNHh4MzdkNkhwZEZ1bWp6UmJ0WmJENmNKMzBuMjA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "McDonald's Co. (NYSE:MCD) Shares Sold by LS Investment Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ1FDMTB3SHhwU2VETnR1Ti1uODRNbTk4Vm5NNjZYNmM5Z2pUeGlTQ3dwZGVfaVVHQUctSE1peEdfYWw5MjZ4eWFKS183NzJVckhkWDZiVGlHLUZlM3JhT3Y0MmgxUFdwaVZwXzBHZ1ZZdDYtSWpoTTBObEkzZERFZVFydG5RR0UtemgxQWYya05ZTk5vbUhib1lkV2hlZllYTWgwSF9XN09vVHg1N0tzWkpGOUdybHpqU0k2OU5yVm4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "McDonald's Co. (NYSE:MCD) Shares Purchased by Gradient Investments LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczYxZENrMkdXZ2pVRWtDOF80X2JqR0ptc1J0clJUTHh6RXhmdHlmZFNqSy05NllpaGdQNGV0RldHVGkzc0xHMmpkbXBfM2U1bjVPanB6U1JJLUcwWmNOZjBrN0RrM0Nhdm9kbkx3Zk1mZmlZSlBkTG4wbVJMYWVZeHJucUJHTERNQTU5c1lhaTNIdmptQmRMX3NYLTNJQTdhWURqZjBSSVdxQXRMM1Y3SUIxRlRGbTkxemxRLWE1dDI2b0dHTGpNLVhiWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "McDonald's Co. (NYSE:MCD) Shares Acquired by Somerset Trust Co - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVN0dmszT2tsMXhLcEtZZHdBRjNWWnNGTFIxU2VQOEJabzlWRTJWNS1WLTVicHBhY29zVDRfZjhhaHJaN2ZBc0tnSDNfY2FjOWR4MC1wQ2hWb0RpRm9meGxGb0lRVkZGOTBNNE5EYlh1alVnX1ViX1FZZXZaNHFEcUE2TzRzazJHcllyZnExcWt2V2hfMktXQzVfRXk0cTduNFlMclRxRmJteXRoc1d2eGIyYVJxSmxQbGVSQ1A3bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S.E.E.D. Planning Group LLC Sells 1,979 Shares of McDonald's Co. (NYSE:MCD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRjNWdlNiVi12TnFHWXhGUC1JLXhCSXZfR0gwamJfQnowakRnY3BWSjg2am9VN21TOVBaU0ZfWmh5blVXM1MtMGh4Z3VuMEEzcUs1RDNHWEhNUjhUbmNfUEpVUmpIMk9IM0xRZVlkM2pFcm5nSnJZb3FNQWl0bTVzVDlGSEZWY3R5Rm9raF9mellDTVp0Z3V5aUlYVU90OUI3aHJwVW44SEgzR0VHTHVDWjhJRGx0UzE4Zk5ncg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Secure Asset Management LLC Acquires 2,156 Shares of McDonald's Co. (NYSE:MCD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVjk0TEtGSDZzc1ZkMDhIRGxpaklZd1dKSm5ZVHl0aG1va01ZVlh1Q2hON0owWDVNYTNMdmVJODh3b2ZjSDM0d0Q3dnBJaWl0akNnbVI1YW5ud2xQVTZwOE11Y1NFS18zRjNkN0pMQWRhM3czUEFSSmFQYzRDUTZDWGhMdWs4b2c5dkk0QVl0OEZxaDU3ZHRoZzJSZXM2ZlY5bEhGRWxMUzR2NG9tLTlTeHFCOVBRQUtkQkVrZkp4ZDZWdjhHOGxPTnR4b2d1QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RFG Advisory LLC Acquires 1,105 Shares of McDonald's Co. (NYSE:MCD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEg4SVk1M2xnamg3bHBhc290bUtpMUFneXV3enBnVTlMczVBWGlZX0NESFVWNldPOS16LUpSUWVDcjhxallZdlJQTng5YjNHc2lJTUVHOXhYNGw2Z29uLWswcFZYVnlyQnhHX2premZqTEdLbGlwT1BVOVpXVFJJekNNVWFTU3l4UFB4T2w4azY5dE83MkZjTEl4aXV4dm5DaVNYdkVCbHdzaFZSQU00SXU4RVpEVVVTemVjRkJTZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aletheian Wealth Advisors LLC Buys New Shares in McDonald's Co. (NYSE:MCD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWg0dVFBMlB1RUFnMUF4bjB6eU5PY2dPUWxNM1BZM0U1T3RTeGlucXhwcU42azhLOGIyZkxkUk5ZcHpoaFUwNjRZVXd0ekV4ZXhoMXZiYXJyUGJDcWRwaVN1SG9xV240dWJ6MVlIY2pXYlpRaURUS29YdTZUbnpWVVFvNkJCaTNOUHNDUnZqV3E0YTJyMndidjlCbG50ODNHUEtYLWtxVnhnbGIzSWNWWEo3OWI5cjdRQ09TR002aFBtRzVxeFdvS2dseTd5dDBRUkYxM01haWhIdw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 292.44
-      },
-      {
-        "date": "2024-12-03",
-        "price": 294.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 295.09
-      },
-      {
-        "date": "2024-12-05",
-        "price": 299.47
-      },
       {
         "date": "2024-12-06",
         "price": 298.98
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 312.62
+        "price": 312.68
+      },
+      {
+        "date": "2025-06-03",
+        "price": 312.39
+      },
+      {
+        "date": "2025-06-04",
+        "price": 311.57
+      },
+      {
+        "date": "2025-06-05",
+        "price": 308.98
       }
     ],
     "current_price_data": {
-      "price": 312.62,
-      "change": 0.75,
-      "percent_change": 0.24
+      "price": 308.98,
+      "change": -2.7,
+      "percent_change": -0.87
     }
-  },
-  "news_sentiment": {
-    "summary": "McDonald's (MCD) stock has been facing several challenges lately, including declining market share and insider selling, but the company's CEO has also made a notable move to join Nike as its Chief Communications Officer. Overall, the sentiment towards McDonald's is mixed, with some investors seeing potential risks but others viewing it as a promising opportunity. The company's lower stock holdings by investors such as Confluence Investment Management LLC and Rhumbline Advisers suggest that there may be concerns about the company's performance. Additionally, the company's CEO's comments about a divided economy and anxiety among average income consumers may have added to investor concerns. However, the recent purchase of McDonald's shares by Sweeney & Michel LLC and Fifth Third We",
-    "sentiment_score": -0.3,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

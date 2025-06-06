@@ -2,55 +2,163 @@
   "ticker": "FITB",
   "name": "Fifth Third Bancorp",
   "sector": "Financials",
-  "market_cap": 25411418112.0,
+  "market_cap": 25594980352.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.085713,
-    "PB": 1.3891119,
-    "EV_Revenue": 5.559,
+    "PE": 12.173016,
+    "PB": 1.3991462,
+    "EV_Revenue": 5.581,
     "ROE": 0.11715,
     "ProfitMargin": 0.29202,
     "GrossMargin": 0.0,
-    "DividendYield": 3.88
+    "DividendYield": 3.85,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 3671000064,
+    "FCF_Margin": null,
+    "ROA": 0.01081,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 52.8083215150276,
-    "Momentum_10": -3.8471184022769624,
-    "MACD": 0.3139968127125101,
-    "BB_Percent": 0.4801011512821881,
+    "RSI_14": 53.1529308078709,
+    "Momentum_10": 1.902102020977689,
+    "MACD": 0.3227891530228106,
+    "BB_Percent": 0.4575725523270592,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8845674466816795,
+    "ValueScore": 0.8814305775236583,
     "QualityScore": 0.3314596592259665,
-    "SignalScore": 0.6306457132147458
+    "SignalScore": 0.5668308627516623
   },
-  "volatility": 0.020451135150583,
+  "volatility": 0.0205290509028995,
   "beta": 0.918,
-  "return_6m": -0.1849432651591822,
+  "return_6m": -0.1747184457378785,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
     "target_mean_price": 43.96591
   },
+  "news_sentiment": {
+    "summary": "Fifth Third Bancorp (NASDAQ: FITB) a récemment suscité un intérêt croissant parmi les investisseurs. Le groupe Wellington Management détient une position significative de 13,76 millions de dollars dans l'entreprise, tandis que d'autres investisseurs institutionnels comme Lmcg Investments LLC et Boston Common Asset Management LLC ont également renforcé leurs participations. Dans le même temps, l'annonce par Fifth Third Bancorp de l'offre de testaments gratuits à tous ses clients a souligné son engagement envers la fidélisation de la clientèle à long terme. Cependant, malgré ces signaux positifs, la question persiste de savoir si les traders d'options ont une vision différente de l'action FITB.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Wellington Management Group LLP Has $13.76 Million Holdings in Fifth Third Bancorp (NASDAQ:FITB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd2hwNURFU05OdXRZMkM1Wkd1aV9kX1hSU2JBM2EyV2tjZVp1TDBteXowZDd3U1hQUkV1cFZjckRJSHF3aXM2RDVxbVlBMTlDOE9tMWczT0lvTHRZSWZoU2szSklFWmpROEhoTnlNRmpFN0NuTlQ0Z0I5cGZoeDBGN3VCTmNjbi1FRS12OEdoZHNONW1meDdLT1BvN3QtaHloRFBZT2hyZUNaTFB2cmd3S3FwWmtER0FQUEtDZnNBT1pjTlFxNERnNnRqZVZncFZKblhtdVZyVkt6MWN3eFpqWm1mNjFuZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fifth Third Bancorp Announces Cash Dividends - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0pRWUd2YlY5ME9JR1NncC1RMVMxUTc0R3MwenJuUmZMVFc4TWFzal9ZNkNQOFI0dkt1UDBGNVBfMzdCSEhzcnh2cFVSUy1RLXJ3bmNHdHYwZE1nQU1TMjd5dE5ORm91cTV4WU5uQnIyb1h3RDNhdDdySW55NFk5Y3E1S3QxQkxwTkRwZkJCUWZtc3V1cEFJcHZENkk1cW9GZWVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Options Traders Know Something About Fifth Third Bancorp (FITB) Stock We Don't? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3JBVkNUVnhpZjMwTDhSOGlDbmJ0ekp4YkVsSHIzYktRMDkzcVpjZ0dhLTZHeUlJazlVc0VWcnJOU3Q4cWxSSjFxVXpsazZ0U0UyWDdwcWJUczIyY1poUUtGenhiU0E1RzBDaXJOdG41em4yWmRiZ1dLWFM5NG4xOWFwa0NuMExFZUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's What Makes Fifth Third Bank Stock a Solid Bet for Long Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVExYdTg2eGlTblE4Z2JCM25qSmRBUy1UbF9lMXFTZnZVbGpWd2h1azZyN0VnRWJlUHJISW9XRzFHZWp3ODlNSEM3Q2VmaDJLd0I5WEZlSk5wZ1F6R0tTZDd0djh5MHB1S29FSHk0Wk1vMEhNdWF3UG9QMDBmUlVyM3lmRWg2TUlRTEtDU0NoMHR4NzN2QlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Dividend Stocks To Consider With Yields Up To 3.8% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGdiQjhiak9BZzJxUTgweXZOaU4yVnpOaks5Z1VCWmxpUGNVR2ZBcXVFOENQbE1TTTkzQ2V1RE95VTF6OEw2OXctU292X2NLS3BpdDcwcjQxSE9nZVQ4bFUwN0FOOWpUZlh0YlRoQklUQjBhYkt3TFhXNW1nbHV4eGJNWGZhWUJxUzdOTkVCcHRkLTZCMXY1UTI4UG5xR3JELW5lLTIyTjNsbU9HdGZ1WlJlNnREdk5YaDFScHRDVzdKN2pWNmfSAcsBQVVfeXFMUFBTdmJ0LXIzTHBHYVY0S1ZJSmR3Y3g5MGp5OTRMaVhwa0NRaFJIUjZxdXphN1JaZElCN2tJc1lKR2VTWHB1STdiZWprWER6a3N0RlNLZkpBd091b1U4UmRXdFZuSzREQlpLZnFld01LeWRsLUhiaDlSb1JtRU5SbDV3RFRRRm1hQjFVNWZkeUJWVlhzODlkel9ETElNVGo0QUxNUlFTZ3o0eWcwVDhEVWJXVS1LWFU0N0QzQlZBQzNJT0hIdXJacGlHek0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fifth Third Private Bank Recognized as Best for High Net Worth Clients for Fourth Consecutive Year | FITB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU1dfSW5uTVhFeml1MUF2bEIzYXo5N01tX3I4T3dwVXV6RDgxc05jRXpMaHBESllEbW9VYndiZmFkWmZLU2VTR3lmMEh2Umh0QllQcGlTdEF0U09hRkpDdlVjTW5DU1dmRU1mVjlCTU9MZEVpZFRhbWxuQTlHWVNrYkZZNTFOTWxRWVpod1BENGJoc0NwbGVEMmY5NmV4dXhOeEdjVVkzZGJ1enRxbm9BV3NPcHNhNHBBWFlYUW5hcTNpcklGWU92ZDh2bDhJaUhxODB1OEd5cVpka2FMTXNUY2c0Tjc2Rmgzbmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Acquires 67,956 Shares of Fifth Third Bancorp (NASDAQ:FITB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM2xqR3hPV0lMdkxlVWFqbjJGdTBobktBM1huazRTQzhzMFlLYzVDRExpTGgyMmpUMXlJZHItT1RlVmVlNUt6Rnl1bVZVbkV2LWFacGdrMkdnbXpmbndjamFJMHZRTVVyU1FmNEhVbm53eTFYZUtnVllreXNDeTROTGRoLWpkVkJNVDQ1T2F2MmwtdkpfUVJ2QlBvTS1xQ1lneERreVp5SktIX0FDcUp4WGdSVjR0MC1IdWxkWnZ2WkRheU5VbGdTYTVyLVgxNzYtSlJGUDhWaW5VRk1VaEMyVUxsS0lXX3A0QUZwbTNpWFEtWVA3bXd6QjFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fifth Third Becomes First Bank to Offer Free Wills to All Customers - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeGJfZUhnYVZ0M2Z1Skg0NzlnczNZRVRwSUg5eUZ2dzVBTzBPYXQ2eFlBQkVCUVZ2WUlDc0lqMlRpVFc3cTdRcVFWMmRaaHdqay13aUdweDNmTzRGNW9mYWo1MzdDU2FuYnFKbXVJa0Z3MnJZZ083YndaTS1CSmJQV0NIUzFXUFV0bk1nVmhaVUhyNVFHZnBRX3BPd1JmN0c4b2s0ajRQYnZBTDNHVG9CZE5rV1VaRDhRNWI4cjhDM0tzZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fifth Third Bancorp Stock: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPelE3bTFmRzlTbXZoNHJBR1hBNmduV2JDUmc3eGxDbnlTNTc3UFYtaWhuNmxpSy00ZkdlNzVlMWhzY1lPM081aGkzQnIycm40VHVLWHhLdzljb3RFVmJGLWd6TVJBbHhVRV9zMU84Si0xVFlpUHFaY1g2YmNXaHZQZDMyOGM4Z3J6RHlIclktQ3QzUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fifth Third Bank, National Association, Names Scott Daigle as North Florida President, Cary Putrino as Region Chairman | FITB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbC1xZG03ZVY5WkNPb0VRYUh1a0Q2N3MyWVZnRmo5WWt3QVNXTUd6MURnUVJ5VVdCSWQxMXk2MjNyVHZ5ZE8zSHdnc3RFZ1N6aFNFVzBWRTBnSDVXWlBIcjh1Smt6cXd5czBhNmsxX2hpRmhyUHNaVy1hY2F5ajV0X1VCY0NNblpER0YtWTV3X0MxaUlwUmcyVEJ2Umh0S0JyREhlTE5tUzJHeGpFelVSbF9XRkhBdUlTMU52ZUh2ZTBhUzJoVGtzMDlrclZ1eWZ3eTRoNjdkMl9wVWp3NGpGclZ0QTJtSDN4eGRCZ1FDWkNOb3Jfa2o0UXFDZTJyMkk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lmcg Investments LLC Has $8.59 Million Holdings in Fifth Third Bancorp (NASDAQ:FITB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPelNfVXhoallsSm5OSFpwVTFuRUMzb1RyWFVPV0FrUFh3X1JhNTRmdGhRekU2YldvMUppeEktNmhuQlJYam1GUWhNMG44d2g3RnFNSk5BV1JUZXZpTUllZ0RFS1UwQ0s5MC1zS3lpQVhDWGp3d3F4bEJPWHhlNENDZ3NGSVBJQ2NVWVAwenpZbzRjcTZOVzNiU2NUbnlGaFhfTjVLZHY4X05vZnRmMzVoMnE5NjNfYTM1OW9IVWpNUVFtRm1BMW9zQUVyZXh4TmVxY195aDVJTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rep. David Taylor Purchases Shares of Fifth Third Bancorp (NASDAQ:FITB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEE5SVlWcXpPVW1oODV5V1k5aEFwMXdZSmZBcUswOVFkWm1yblExSXRLc3dmb0lmQzRkcXo1YXhYU0hya2IzeXluOXhHVkhWMGFpUWVKeklzOFQtaklyV2ZUSzBORVZSdE9scjZVS3dxRm04TlVVYzM0SlU0aDdJdDJHQ3R2UXVGRUlQZzY1M2xZcHNPRk1QSHJyWnJWc1R2MEFZLXJUVDI4UUQ4NF8xSU5RR0pHTTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fifth Third Bancorp (NASDAQ:FITB) Shares Acquired by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcFlyWC12bW1rU0R3U3FmaGY3Ymp4T0dJNWpZRFpNM3AxblhFMzZrWllNMjNzTEo5MFA3OEIxZVE2dkU5dHRWQ2YwQzVEeDRWU091eUQtcWc4Z2hWcU82c2RrNHhITDZTWHRmTUNCeW9ibFpSQUN6T29ZeWNfUTlLU2F5ZGJlcF9feWxnQjJKaEo2NnZob1kycWZvU25XVnpSWDFwVFRVX2FVVDh6NkgxT2tfZl9JVWttWjhLOGJqMEstVGRTa1VrSkVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Park National Corp OH Reduces Stock Holdings in Fifth Third Bancorp (NASDAQ:FITB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdWZfaVVOd29MVGtLTUZDNVEtZXRPZDEyQUsxUzNBZURybjZZVTV3WElUZ3JIbS1JMmxsMTNMdmMyWWZoNVdEV01ZdUpQb01DVFY3eXhWbWItQjE0eEYzLUYtRzlOX29USEN5N0Q0ODBfdHdzbUVWMW9BX1pTV2tDQU9ONV90NGJmZUxvdlVVaW9aMlpyZG94S19EZGprM2JYU1lFM3BFMm9aZFk4Y2pXbVczOW1PS19fcHkydW5WRkVCY3pIamRxcjAwSkxiUm5o?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fifth Third Bancorp (NASDAQ:FITB) Shares Bought by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0Z1TThjSEI4Y1lHbm1sSUZ3cExLTXdrd0kyQi1XZjBjdEI5X1pMZmxoYnE1OWt5cXJUWHF5bHJvMVhsVE9GT29kcjQ4cTRkTGtPQmd6cEEwbXEyT1JBMnU3eGVyNExIVDROc3ViYlBJNmxJNG5yaE1VbmM5WnIyQ3kxR0FTSXViZTd2MTIxZS1EYnkwQ1pIQmIwRmMtQXBGbndvazhjLTBaM1JScE9iSFdYbnA1eEhvaWYtVDZsQTM5U1JCSFdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fifth Third Bancorp (NASDAQ:FITB) Shares Purchased by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEtzNTFlQ1FuWXJRU3NRX1hZYU5xUVdhNEhxSWo3ZHJBblZydDIxV3NETGNiNDljVG1FQUhVMjFReDB2MW1wUlYyV2VoMzc4NDZWMHV2cjlRdnRaMDJaNXlOZUlQdVZTREdnVzdfTVp3ZEItVFFnSVFPc2hMcC1ZRFIzOEYwS0hJcjR1NllvTHdoR0hWMmRldFMxVXF5TU1hZHVqVWNhSlg3dll2TTlrU3Ywa0RGWm9pNUNSQ0VpSkIxcXNLc2VDVUpR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "California State Teachers Retirement System Reduces Stock Position in Fifth Third Bancorp (NASDAQ:FITB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeHJiTFF1TXFfdUppeVIxUmlDT2w0YjV5Rm02TzRpU0ZCYlU4V1JuYXZPTThWeGJrckVITzMxNnR6TmtfYkEtQ3lTTWYyaGpEc3gtMWxReWRfc3FoNVkweFM4aU83eGVjUWVXTTBlLVhQa2tGZDhMMGhTblJTSHVQck91V2hrT01fbTlEZ1RLeVE5S1dxNXlaV0F4cVU0c3NrcW0yWDdScVVPOExBeGNmV1NCaUxuQmFXWnhzQWpncXFRVVJHak50WkwwNVdMQzZ2djN2MjZJWjF6VF9PaTBiUy12NFA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Secure Asset Management LLC Acquires New Shares in Fifth Third Bancorp (NASDAQ:FITB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdllqcE9uaWtFVHZlcEhLSjZuR2ViY3p6b1VDVTZFbElEanl4Wm9UZ1FqSnZLZTlKeGoyalVjYWNEQkhqRVhOOVVQWjkzajdXM1NpeVd2aVA3RGJUUTBCNFhLdEJ5Vnk3ZFczM0dwT0VYVERYT2ViZzYtVzJxZUtTamp3M1NpQjNLekV2WkdYb1duX3poWDN5cU1QeTdtMFVXVi02eEFfX0ZHbkVocjhic3F1UV9rcTRqeW1adEZDM2kzajhQS3kycUo4Y21YVFNSX185X1JmT0hzUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boston Common Asset Management LLC Has $11.60 Million Stock Position in Fifth Third Bancorp (NASDAQ:FITB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUEpzM3YzRTBhaWpCWU9qa2l4cE1VcUp0NHlMLUVobTFfeVdESDN2R0dqVjlnbTBpb0d6dnVwVjZzdlpyaFN6Z0sxNW14T2daamdZZnUzeUx3akRqa01GU2R0eFBOZE9WX29LSTdrQWVVX2NfRXg1LXc5c1EwYmVwank3VUxWZ2UyTXFlTENmRjhESFpNbVBKaFNGd1FwNHhaY3ZZWU1hX0J0TVdGcWF4MkI0WFk3dHhBQWJVNFNvbExPaFZlbWUtSnYwU1gySjM4Uy1udTlsTm0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Takes $15.15 Million Position in Fifth Third Bancorp (NASDAQ:FITB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTmZUTU8zMTUtaFFoNURNcEVDQXV4SVlBQzE1UkRDcWcwMUNfNG9rdjFZR0VDZDJZYk1JaGthckxCckZTMmh4bnZVSmsyMW1UTzR0Q1NoQmJoZXIxTnNvdV9QSFZMV1BfTmpVUy1TdzkxSDJ3UjZVUUZXVVFJVm5XWnBQTVE1UjhJcURLUUtuRjNNX3pTekt2UzRxR1U2WTR5OUpyaUgzUWRjLVdOSXFhRzFMc0JBaU8xV3VkcTc5MDVkVFJ1X0lUQ1dEeEtGOEJ0TmFHQ2xFNlRHbUpJaW9reWk5aTBGdEtvY1FhOW9sY1VTamVtWXFHZ1liMzlmX1hhR0RwXzVTSGNfSUU?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 47.57
-      },
-      {
-        "date": "2024-12-03",
-        "price": 47.05
-      },
-      {
-        "date": "2024-12-04",
-        "price": 46.86
-      },
-      {
-        "date": "2024-12-05",
-        "price": 47.32
-      },
       {
         "date": "2024-12-06",
         "price": 47.21
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 38.06
+        "price": 38.08
+      },
+      {
+        "date": "2025-06-03",
+        "price": 38.89
+      },
+      {
+        "date": "2025-06-04",
+        "price": 38.45
+      },
+      {
+        "date": "2025-06-05",
+        "price": 38.3
       }
     ],
     "current_price_data": {
-      "price": 38.06,
-      "change": -0.13,
-      "percent_change": -0.34
+      "price": 38.3,
+      "change": -0.15,
+      "percent_change": -0.39
     }
-  },
-  "news_sentiment": {
-    "summary": "Fifth Third Bancorp (NASDAQ:FITB) is a regional bank that has recently been in the news for a number of reasons. Firstly, Wellington Management Group LLP decreased its stock position in the company. However, this was later overshadowed by the announcement that Fifth Third Bank has appointed Scott Daigle as its new president, leading to optimism about the bank's future.\n\nFifth Third's Southeast expansion and fee income growth have also contributed to positive sentiment towards the company, with BofA Securities reiterating its buy rating on the stock. Investors.com also recently published an article discussing whether Wall Street is bullish or bearish on the stock, while Nasdaq published an",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

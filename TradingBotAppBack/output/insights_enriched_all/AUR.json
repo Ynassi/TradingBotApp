@@ -1,56 +1,164 @@
 {
   "ticker": "AUR",
-  "name": "Aurora Innovation, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 10162157568.0,
+  "market_cap": 9994116096.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.491602,
-    "PB": 5.671273,
-    "EV_Revenue": 3.315,
+    "PE": 15.77421325,
+    "PB": 5.5774927,
+    "EV_Revenue": 3.341,
     "ROE": -0.43425998,
     "ProfitMargin": 0.0,
     "GrossMargin": 0.0,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 6.443,
+    "CurrentRatio": 9.544,
+    "QuickRatio": 9.272,
+    "FreeCashFlow": -366500000,
+    "OperatingCashFlow": -603000000,
+    "FCF_Margin": null,
+    "ROA": -0.24159001,
+    "PEG": null,
+    "EV_EBITDA": -11.807,
+    "BuybackYield": null,
+    "PriceToFCF": -27.269075296043656
   },
   "technical_indicators": {
-    "RSI_14": 38.55694703028536,
-    "Momentum_10": -14.253730610341616,
-    "MACD": -0.2617975621069295,
-    "BB_Percent": 0.1506584009103735,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 37.48072837123018,
+    "Momentum_10": -6.765674113588435,
+    "MACD": -0.3010741154852594,
+    "BB_Percent": 0.1976962928638182,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9279842173042064,
+    "ValueScore": 0.9265585441935356,
     "QualityScore": 0.1948869505231178,
-    "SignalScore": 0.6327981550757182
+    "SignalScore": 0.6652463123266537
   },
-  "volatility": 0.0776745713953331,
+  "volatility": 0.0758107392583522,
   "beta": 2.598,
-  "return_6m": -0.0519802079529356,
+  "return_6m": -0.2802547561773647,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 9,
     "target_mean_price": 10.51
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente d'Aurora Innovation Inc. (NASDAQ:AUR) révèle une volatilité significative de son cours de bourse, avec des hausses et des baisses notables. Malgré une journée de hausse de 16% et une révision à la hausse des estimations de bénéfices pour l'exercice 2025, les investisseurs ont observé une série de baisses consécutives atteignant jusqu'à -18%. L'annonce d'un investissement de 2.05 milliards de dollars par Uber Technologies Inc. a suscité un intérêt accru, mais la question demeure quant à la viabilité à long terme de cette entreprise. Les fluctuations récentes du cours pourraient être un signal de prudence pour les investisseurs, les incitant à surveiller de près l'évolution de la situation.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.45,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Aurora Innovation, Inc. (NASDAQ:AUR) Shares Sold by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcFdjTFA3TWgxODJfQVZHSjJxczU4S191UWZ2WVBaWUlXc0lLY0tWT2V2V3lkQXVySU9icEFzZklJbDZCejREVUhaNWJYUkR0TElKS3lqN3k2emtENlpMd2JrNG9SN19tSnZ5SmxZaVdmc3lDQWp2dEJxMG9nVEp2RUw4bHBRQUpMR3ROT2dlcGlNUmQwRFFmX1NhVzEtODhtd19DUkdPaVBWT3AyT2FZNTB2cmVhZkVERFZXaG9lSnlnVWFEMXVMWEU3bUhrSHBxdU55X3dB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Uber-Backed Aurora Innovation Stock Sank Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkJZVEdIUG9IT2t4dFE1TUppRHlTYjNkeExxT05OclZCd1MyU1lKUUtaZ2p4cTdVQ0wyd3NEN1o1YWRwQmREeVpheHVqdWYwSzNWWElERW41djJVbnRpaTdZRjNRZEFROXdSajZ3ajJER1pWanpNQ3BVaFVfZ09wQWtNMVlRS0hVMEpwZFc2aTBNaGgtV0Zjeg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Aurora Innovation, Inc. (AUR) Went Down Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNmVsajZTQ2xEM0ZvLVFDb25nd0JwTTVDTC1mTmJuZEg4Y3hBa3VIOG9WOVF5SHNnWXNpWGQtaXJEc2tYLTZkUGZZcGgtLW1kNC1nUERrYWZ3NE5oVG9yMEhabl95V21mZ2tzTUZGMDFzcFNXTEk0Z0Q4M0FqS2J1VA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "$AUR stock is up 16% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMHFFcDZrMzlIYk1OakdERVdFYVNvUl9yaUxxM29CenJJNms2RWVPdFMzdzZubWZPRjRBU2pEemNUeHcwNWtBRUNscVg4aEtQazVERGVKUFVveFhiNHp4VUxLdy1pbzkxUnQwYURiYTJOZ0lVeTRsNlVPV2tKcjVTY1h5Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toyota Motor Corp Buys New Position in Aurora Innovation, Inc. (NASDAQ:AUR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhkOHZNU1V0RjFMR2F4NlhjREVfQnl3cldpNUJUc3M4bktGcU1icnJFZVhXZ2J2ZjRObmZEZXExZ01HUTlyV1oteHNyU2JiSE9kRWg0RXlUM0ppVUdaVEtQdFlSOWI1ckZIU3ZkY0RpSnh0M3VGcDY4S0hsQUZaRGFTWkY1cHVnVi12OUpxd05MdW9jeEtxTmFJLXBlUEJCX0VHYWtaTDFYandSNktNckxGRUMwTnh0LXl2Y2hrZjFtNG42RXJvZ3RsaW0xVERSYjBqXzRR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Day 7 of Loss Streak for Aurora Innovation Stock with -18% Return (vs. -4.3% YTD) [5/22/2025] - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTHZzVmNGcWVheGtacFVDQVRiLXJVUUg5Z3BBLTYyd3hsODRKb0hidEk5QU1TT1RHUkNJbjFEVEFxaHhVdDdVbXRjUkpLTV9ka2NmcExBZjAxdXloaEdpeGl4OUJpSHEtRUp5QzFwZ3k0TjlpNUk0S09SN1NSYXExdFBuY2dDZjQxc3VMa3J4cmUtaWJTLUFWZ2VET2tiVHJWVk40cmNWS2NSVGI5cW4yWE9rWWFXeVhnbG95Y09ZeVprdlo0bG5DZVI5MVRWdllBX2JDbkp4SThHcDVZV3k0amIzVnJheGl4RFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Aurora Innovation: An Intriguing Long Haul Risk Capital Stock - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWFGNmN2V0hGWGFmMGhRSmJ1VlVGYTBEVHhVWGxieTBQNzlleDVpaHo2ZXduSS1yejJIVS1fdnFhbU4xckN4Wmd0QnJ3YUx4eThBX3F6YmxrVWVqWTV3VUR3STlacmdSYXJRaGpfN2lXWFg4aDFZdG9WQmp3emNCLU56cGdyNk1ON3RFNlRHVnlrTGMydFY2cEx4VEhSekE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Aurora Innovation Inc. (AUR) Went Down On Monday? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmJ6aXdhc2NHNF9PYWxvcEczR2FJcWxkakR3cWZCTTJwV3FRVmppNTFFWGw3QXEtYkhfMjc1OEt6NzJZNlljV3VnWmR6eGVnMk55WF91NGFGN2pTU2xTSlhSblVzcXZfamRwc0pTWnNnOU1neHZDNjZsMmZSMlBnWg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "FY2025 EPS Estimate for Aurora Innovation Lifted by Analyst - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTRnZDRrQnhGMWJrZ180WnRMV1pBMUhRM0Rkby1LVnY4MnRCTnZwd2lkNldMcnV1bnl3ZDNkZnMteElDanpfNktSOXFHenJjbTUtLVBGSWpxa19OLS1uUEZZbm5GNEpNSWdVRzYzUWRHR1VoXy1BTUhSeE8wTm02ZzhLcjZWNGFaQ2pWT0xCZ0tGRFM4U085X0p6R2I1LU1FbnR4ejRHR3llRy1adnhlUGtZOHA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Aurora Innovation Inc. (AUR) the Best Debt-Free IT Stock to Buy Under $10? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFRUTFdfNEROVGNsUERfVmo3TF82Y0lNSndUNTl4SUR0bzBvZnlfX0pZZnhWZG51aVN3eHBhaUJsT1NlTFJlejE0OE8yNDRvRmFlOTBLdnJETDE3Z2d5SUQzV21nYlhQcGRvR0VTTkVNWW9sX2xCSDBENFdsa0s2ZVd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aurora Innovation (NASDAQ:AUR) Stock Price Down 4.7% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3hGbUJ5ekZDeVhPakhsRFA4ZFlQLW1ITTdSalBnZF9xSWRXNnZmT2Zia1ZyZzFoTlJoUVVHZE5fWU5ZT3lnUnN5NUhvRjB0V1NhMGExckpYdTh0YUdZeWgyaGxUVHI1NTJKTTVxcGxMR2NkOUlrX3BLVjFJVzB1a0dhay00T0U0OHpTeXlycDBTa0RxQ0FKMWI1RnBwQ3V0OWtrQVo4ZEdHbUJjVGFpMlJpMkg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Aurora Innovation (NASDAQ:AUR) Trading Down 2.1% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTFpNR2pTRHpoa0kyZ0dwamdnVGUyRjlHRjNYZmtZZV9HOXVDYl9RaWtCZHFvdkp3TXZlM2tROFNna1VzTEJGUjdFNjl3UFk0Q0dhSjBnZVVYVUp2YUZDOFBXOGM2aG85c05vOUtoMnhoRE50WTJJLVBKbkVPRnRiOEFNTVFfNTdlVlAwcWpaN3RDYVZLS3dock1walBRWVRKU2xELVRxRXRTMmw5ZXI0dFRCT1I?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Aurora Innovation (NASDAQ:AUR) Shares Up 2% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdG5MbFhGQTJnX1pCZ3BRdTJCTzNRMmpqVFQtRjg3QmhxcGZSNk9mMEkzOEZyWXU0N1ZyQlM5ZDloZml2Rmp2d3J5WGNQdHQ0U3VlYXBhX1B0cWlfZkREWm5XNjFRTXJkMGszRWFTb29UYnlVRGhHM2VUODVkVFpGWlFOM3FtdGlRaWszc3F0Zk56cE9oUGJ4MF8xYml2VmprVzNGaktZVllHUDZBZjAzZEoxNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Aurora Innovation (NASDAQ:AUR) Stock Price Up 2.5% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjlVSWltMEl0SzRvTVlmOFVSTEtVWllCMEVyRV80M21IdEljYk10cGN1Y18tM1JtZzBIdFBJbjFWcVZFMzlmQVhRSnZtZGx6emlMRENVN1g3LWpNNWUxRWxGQ09HeWtmQlBtbEY0YXRLT1BHRHZUQVBSdTNQbXp0eEFpUGNMUkF4UmxTZjYzWHk5cmdOU0s0RzdNT3J0TWFGWmM1cDhaOG1hdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Aurora Innovation (NASDAQ:AUR) Shares Down 7.2% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOel9UTUlNcW0zNEVPT2w5SWdNOVZKcklRb3NEV2syT1VTNXl0TnEtRTJNa3RzbkxTQS16Tk40bTBHQkhoNXEtNEJ4WG13RUt6dDhQeHJvRHA3ekRqdXJ6czM5bmozZXpadC0tZ0ZWNWFOYXJyNGFDcDRvZ0hDTGJoYjlwNURfb3RMV1RHTm1feEE5Qy1uaHhXUDZSbzVJb0ZsalJqS0NjZG44akNyMWRKYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Uber Technologies Inc Makes New $2.05 Billion Investment in Aurora Innovation, Inc. (NASDAQ:AUR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaV8tWHRGVnltT2tGU3ZzRnh2WTVaN0VKUE1GblNqU0h4VnhyRjc0c0lRS0FJSW12bU1xRHNhOWZ2enNNUEsxeWpmT0tySjFweHJEQi1qX0hxV2NaUGZhdVdXdmdQQk5NNzhWYlE0azlGd1AxeGNiTUNZWU5kMjRMRXFyUzMyZUZpeXpMZTBETGE0ekJIZmhqUWdLdHgtaU5kenpMWlZ0SWNJdm43UFoyTHdZWUtRZXMtU1dGUWJ2a1hISlBFX1dzaTVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aurora Innovation (NASDAQ:AUR) Trading Down 2.2% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnU3Yjh6ZE0td0N1TE04UjRtT1RBRHFUbzFoNVFudlBCZEYzMTBQQ0VEZks4bDh5bktJb0hCc1pfZlNxMHlhaWRmYnZRUUNjOGNhWHFpY0UwOEFfYnVrc0Y3c1FGZ1JnYW1GUlc3aDVyYWhmdEl3MWRXRlkzUTkyb1BDRXBPUHBqQ2pwT1N2dTRQQWJISGozUXZZSXZDNUtoeVdJVkNGWE5scjZqX0NYOFNVU0xYMkUyajAxeUNR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Deutsche Bank AG Has $5.30 Million Stake in Aurora Innovation, Inc. (NASDAQ:AUR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXlsc3JSZUZmZVNKTHFaVGtMMW84ZVlNRC02NHdMTk91YjFMc180VGJsaFgzVFVZU08xTXYzV1JxMS1MZURycVVKeXRNaW5HZGVJalJQS3dseUxHbUhqYVhKMUVPLU5jRzUtMmcwbGNLVXA2RWNzQS1DWlhVT2RCZWRoVmI1a2ctd3NVUElLSmVIODR3aUZ5aFJnN0JRcU0xWkJ4RjVXREJVV1FnUEJVdFFDU0J4dFBKMjM2RGFEc2FQSFZoSUlEZ191ODllYnZpeUxv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aurora Innovation (NASDAQ:AUR) Trading Down 1.2% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSW05TkZmRHZtM2hwcXBMN3l1cmpQNjRjVVZWSlZEX0VBZEZTRlluSk51UTREMlFrOXZpSklNR0hSREtzQVJZUXF4RFVaMDBFQ1BDTWUtZ3I1ZHlLcmE1Uk4wOFhZN0EwcFk0QjVzOThWLXphbGlyWERFSEI1RUwta29WOElud2RpcjdHUi1ucjE5TUQtWDJOZzRQMmFzRWdrNXI0cUFuY0ZOUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Aurora Innovation (NASDAQ:AUR) Stock Price Up 4.5% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYk02V3RLdm5DLWZLRUNfZDlyWktXcHhJSDZTNHEtZWk1dHZNZ09DWVVOd212TktQUURDbHlxUjZJRkhyRVBfUUV2dC1XYms2c18tMTJEd3MtRkRUQzZIdGF4cUozM1NFeklrWjdjUV9GbnM5QnZLYktOb09RZ01DeWlnOGQ4V3dHYkdnNEs0cERfYWE1TjU0WHljeHhDWEhEakhXdUotMkdMMmhvdWtGdzdBdEFSUQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 6.06
-      },
-      {
-        "date": "2024-12-03",
-        "price": 5.92
-      },
-      {
-        "date": "2024-12-04",
-        "price": 6.03
-      },
-      {
-        "date": "2024-12-05",
-        "price": 6.92
-      },
       {
         "date": "2024-12-06",
         "price": 7.85
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 5.8
+        "price": 5.86
+      },
+      {
+        "date": "2025-06-03",
+        "price": 5.77
+      },
+      {
+        "date": "2025-06-04",
+        "price": 5.81
+      },
+      {
+        "date": "2025-06-05",
+        "price": 5.65
       }
     ],
     "current_price_data": {
-      "price": 5.79,
-      "change": -0.26,
-      "percent_change": -4.29
+      "price": 5.65,
+      "change": -0.16,
+      "percent_change": -2.75
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nLa soci\u00e9t\u00e9 Aurora Innovation (NASDAQ:AUR) a connu une baisse de 2,2% de son prix d'action en moins de deux heures apr\u00e8s le cl\u00f4ture du march\u00e9. Cette baisse s'est accompagn\u00e9e d'une hausse de 16% de son prix d'action au cours de la journ\u00e9e. La soci\u00e9t\u00e9 est active dans le domaine de la technologie informatique et est soutenue par Uber. Les raisons de la baisse du prix d'action de la soci\u00e9t\u00e9 sont inconnues.\n\nAurora Innovation est consid\u00e9r\u00e9e comme un stock de risque capital d",
-    "sentiment_score": -0.5,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.3,
-    "negative_ratio": 0.6,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

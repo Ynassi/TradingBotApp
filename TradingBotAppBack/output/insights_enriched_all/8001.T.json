@@ -2,55 +2,163 @@
   "ticker": "8001.T",
   "name": "Itochu",
   "sector": "Consumer Discretionary",
-  "market_cap": 10856017428480.0,
+  "market_cap": 10607068708864.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.578648,
-    "PB": 1.8743103,
+    "PE": 12.1565,
+    "PB": 1.8322074,
     "EV_Revenue": 1.006,
     "ROE": 0.15325,
     "ProfitMargin": 0.05928,
     "GrossMargin": 0.1611,
-    "DividendYield": 2.84
+    "DividendYield": 2.84,
+    "DebtEquity": 75.716,
+    "CurrentRatio": 1.286,
+    "QuickRatio": 0.835,
+    "FreeCashFlow": 240384000000,
+    "OperatingCashFlow": 1058067972096,
+    "FCF_Margin": 0.016444051185584948,
+    "ROA": 0.02913,
+    "PEG": null,
+    "EV_EBITDA": 16.48,
+    "BuybackYield": null,
+    "PriceToFCF": 44.12551879020234
   },
   "technical_indicators": {
-    "RSI_14": 61.40805619796659,
-    "Momentum_10": 1.646090534979424,
-    "MACD": 157.32009813946934,
-    "BB_Percent": 0.76867241317305,
+    "RSI_14": 53.350494503048395,
+    "Momentum_10": 0.5507791509940893,
+    "MACD": 115.08093831052884,
+    "BB_Percent": 0.3042899286026101,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8980161091102069,
+    "ValueScore": 0.8952072546942716,
     "QualityScore": 0.3635434005962226,
-    "SignalScore": 0.5237877855128463
+    "SignalScore": 0.5545384362500732
   },
-  "volatility": 0.0205382825055919,
+  "volatility": 0.020454444841535,
   "beta": 0.519,
-  "return_6m": 0.0349421785999277,
+  "return_6m": -0.0145767845628035,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 9,
-    "target_mean_price": 8502.223
+    "target_mean_price": 8644.444
   },
+  "news_sentiment": {
+    "summary": "Les titres récents mettent en lumière l'intérêt croissant des investisseurs pour les sociétés de négoce japonaises suite aux commentaires de Warren Buffett, malgré l'incertitude des tarifs américains. ITOCHU (TSE:8001) affiche une augmentation de ses bénéfices sur neuf mois mais suscite des interrogations sur la qualité de ses résultats. Berkshire Hathaway, fidèle à sa stratégie, renforce ses participations dans ces sociétés japonaises, tandis que Itochu envisage d'investir massivement pour stimuler sa croissance. Les fluctuations du marché, influencées par la chute du bitcoin et la baisse de la confiance des consommateurs, incitent à la prudence malgré les opportunités mises en avant par Buffett et les hedge funds.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Japanese trading house stocks climb on Buffett's comments - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjJobGR2Smh5b2NDNzVxX1JhZ1U2N05FY25FN05iQklQb09kbG5nSXA5VEJkMUoxMWhRMjM5cXlqX3B4a21xb0FSVTE3RFJRck1waTY3STlIdjJVWDVjZHMyZXkyRXFaWmhpNnR4UU9xQ2JBcTFFQVFRanNDRkJwc1RyNzhiRmhHcGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japanese trading houses lure investors with healthy returns amid US tariff uncertainty - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWlXblN3OUo2SVp0TDJqSVcyeG1QMElMVF9TUUM2cm5FSThCQlpoQlFYc3QtWWdDNHRKckR4UkFyTnVMdTJ1SGcyTlhPaldGLUhkVDhKQmlzaTBJVzhiRmx6dzBqaHJNcjZxQzVIWnlhYXBIWmIzUmNsMmN6NGlIQ2FRczcxeW05M2tfV3ZjMnVPTDhQY3J0U2V0amdzeGdmZzNqUC1rR3FyZ0hJcGZfNXhkQkxJQUlEU0Ew?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ITOCHU's (TSE:8001) Earnings Are Of Questionable Quality - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb0dxMlNMRldkaXpMLVd5aG16MnlpSHFvTnJhUWpkNG05QzhPNjhYQlVyZzhLXzg2Wm9mU2lyakN1WjdqV2tXVHVJRmczTTJHTlZnWXNEeGpWdkJZVGVQSzRNaEZsUzgxX2NyWEJiVGVoN0hvQ1NZSU82YmRUaVk4VTlJdFhLclRlbXJqUTdWVEY2R21JUDU0M3hJQ0ZaQjZvWkM3YUZ6QUplRWNrRklWaHR2OGZCcDVrYjNrMzI1R0R1Mk9z0gHKAUFVX3lxTE5hWmtFVlZGOUZkRnhCX21DbjRwMDMycGVZTmI5OW0tcUpScXAyNXE4bi01UHdXY3A5QmlfQVVGN3MwREhKaVBicVJOa0JDXzRNRy1sb3Jta0J0RDdjbG9teXhHMXlnLTFzWXlCcGhjYURaWENvTE5qT0lxUW1ZTFFRLWVSWlctUU1oOG9KTHp4RkNldlpTYkJtTUFzU2lwYVRHc2JPRG1iUDJ2SWNGMWNMclI1a3hROW5UN25MMnBvRlZ6V3NENmdfVEE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Warren Buffett’s 2025 Portfolio: What Stocks He’s Betting Big On Right Now - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YaVlGNGs3Z0VsY01qRUNTZ2FFM09LUGwtN09fSFl1VlF4dlNpWXdfZjVmd0ZKUWFBTWQxTVhYXzdzcmUzQkZLNkZzb3gwRHMtLXpvUXdySVUyQUY1bjI5WDRKYUdjOWpocFhVTEQwMExyT0owUlpSMmZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett's Successor Would Love to Buy 5X More of These Stocks. Here's Why They're Good Picks for Other Investors, Too. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeHUwWTBxcFFxODZOa1BXYzY0T2xIWUo3Z2JvdUtIOU53dTgtcWY5TEYyaGNsSEZJXzZQSGdzaEVlTVVDZmxORm9hQXBDaUUyWXFycFFyV00tREVmVmozZ0lXUHRnVlJrRFRONDY1ZzQzUmlzVEh0M09ITlNKSnU3NUtLNjAxSlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan's Itochu 9-mth net up 11%, firm weighs investing in Seven & i - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXBHSWg2REtxR3JoVE1MUmpmTFZWR3hfNFdpZVRZaG5ucF9nUEpuWW1iRDliN3NOSWM2UEM5U1NXVm4yUHhqTWthZEtWZ2pUc2dCaGlUQWtRaUphcGozNjFRbjUzdTJ6Wi1SdHZHcUp2WHZrWDYxUlhkblNlOUZjbE9kZnF0R2NReGpKYTFhY1M5TTQ4bjFPVVZEQkI5T0NHRHhJa2M2QnRpd3JH?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ITOCHU Corporation (TSE:8001) Stock's 27% Dive Might Signal An Opportunity But It Requires Some Scrutiny - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTk4xVTRZV2UyZ1Z5NkMwWEk0X1lLb1I0WDRpUUJnck5VbzlGVHdxWmZGYWZpZ2lnWWlhcXNFVVRzb2gyMVZlWXQyU1R3SUE2RmtFbTlEcHRacDJQcE5mcHBTV1VINGRKaWFmZmJZdEt6anNlMEViTURHU2EzZExqMktqaXJoOWxyMlQyTkdQbjhiblAxZGE1WW1sVUJIdkxvWkNoblhKMlNxYThkRTA2MGRyYjJXMTJlRHdteUdsbVVEZFQzWHBfTzVZamdGemPSAdQBQVVfeXFMUGNsMXRlR2xwS1FlbTlwLUN1MEVlTTlJUEhZNGU2VHFFTC16RDM1bnFzcUVmMWZWTlJXRTM0QzlWS0pXQWlfMXpUcmxHMy1RSWIwSXpDYnlfby1ZZmdqME9MN2JZTU9CUkVwSzFJVnlZUDU3VjdLQnBsN2ZDZnNHLUtCT0VQSEx1MkFCUWMtZ01ReFZFaXZaYTcyRXVRSzNZV2FsZHJFeWw3WXFUVElTUHJPSU5FdVZOYlB2aHp0R1RqM0NqVVhUOXQyZzJXekJPc1JRMi0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Seven & I founders seeking investment from Charoen Pokphand - Nation Thailand",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85NkZZZmFIV2R2SDZPSmFfQXhKWVRxX21VOVFfeTFHc0c4aWVlOUl1OFRIUjBsSHpyY0lFS3h6ZzBBWEktUFd6eFNER0pMcWdiMmVRZDJ0NVJVWnA5bUcyQjVWR01JN2FtTmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "As the US stock market starts to rebound, here’s Warren Buffett’s advice - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmE1WkhlMmJBYmxzcEJPWlVXakw5RFNlWU5OcldSS21BSmtpaWx1VnVwdFZkcTZzdEE4eHZoeEh2V0RUMGt6ZjM1dGt4RXBYYWx1RDE2ZFRSalNqeFZ4NFJIOUQ5dkNhYlZZSlp6SWNOb1U0VmExbzJtUG1qZmNJeGVWLXhDUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Does ITOCHU (TSE:8001) Have A Healthy Balance Sheet? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWc3ZzNKVjgwQUJPaDRUZ0tJXzVUWVA2amdzZG9fTVNQTmJIbzBDNFQ4UGg2c0preV9ZMlRyS0hWdkkyQWp1ZGRTOTRTZi16bkJWdkszdWdQTklzVHRQblhnV2wwNmIzUHpPb3JTb2oyVGtqeTljYThYTUpJWk9JVWE0THRScTVMMTlzbElrZ3p2VUdBaDhTNS1UWEY5WlJjUUZPTEx2OGoyQllBTnJjWUpISXZ5a1ZjcHhFOVFaUdIBxAFBVV95cUxQbVdMdklNQnhBaENncXZua2Jmb1pLeHY0Tms2Q1hwYmdnNE1RR0RwOE43MnFEQ0U3c0hUNEdpWVlqRktJcF9GY0lIZEt4d3lOWmZBMHRxUEZySHlacjNSV2VUMkszeGdLV3FpYXREVE5YV0NJaFAybmI5UGVEQ2RRZW9lczFkME40a1c2b3JkX0lZQko2MVFHR0Z4WFhzX2tVWmxFUVVvS2ZRTnVrNUUtUHlvaFhkcmxZOXdsUFFfUzRZakZC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Berkshire raises stakes in five Japanese trading houses to near 10% - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm5zN0g2eDFDeVV6RlJXeWF1eUFIaHhNNFhyeU1UaW9ZSEs0aHRER1VhdEZUeDJEUlM1SDF2RVdzV0p5NXpBeTlhY29zSmx6UWNkeTlBMldodk5Ja0lVUWpPSE5sajA2QTVzRVo4N05OcHdlenhaYkI5ZGQyTThXdGdWa0luVFNHT2M3Q2RWdTBGYXYweEJ4WFhVUF9uMXZ1YVdQYUVkYWJnaFdQcnNhOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Berkshire Hathaway raises stake in these 5 Japanese trading houses - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFNTUDM4UUg3bUM2T0IwTHk0V08xQ0pXTWx3RzQ4R09UWXdFc0lERWgxaThOeUFpTEJvMzlNbXZJS0kyNk9lc2tEWWhwQTBaWHdLeUY1dU9LXy1kcFVabXVKQzBTTzBoSXhheUEyODNPSDh2MGY1QjV4eWRiQWwzRFo5ZFVld28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Berkshire to boost investments in Japanese trading houses - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT3FxVVB5RkZXXzFOcjhtYmxJdURWUktNbENyQW9WeXV5ZUczanhBc0pjS09zSzdOWExkUkRUSDB3cUpJUGR1ZWdpSXVQeDdlZ3JCTUd6eUctY2c4Qy1yZk81VE5TM1VpblNwOUdNQmFaVm1vZlZrUFpDQmdkNVpZQmJNdkxNa1VDcm13aVpWNUx1ZjJrMTJpNS1Fd2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock market today: Nvidia, Tesla lead Nasdaq lower as bitcoin sinks, consumer confidence plummets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzlqV3h5Qzd5V21wLXFkUm9ORkdrY3hUTFdtNjVDTXQxM1RnWTQwdllVZjRzdUc5akpEZFZ0eU4wQmszaVl1Mk9rWENyR1dlN0lHcUtncVF3MjFwdDNpWUhtWlpSRnZ2ZHRsVFhaelVqTWpsMzBsZzRyMFFwUW5WNWNuTDU1bFRsaEFDSDktTDdBZHFGYWRBZ2ZBYkRZYmRIZmV5UzQ3ZFRUZHhMN1laUWdVR2ZZOW1RUEZTemNEZFlRWkFSUWoxV3g0N2NfRG1Tc2Qzd1BPdHY4T2VrTG1F?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Breakingviews - Japan’s virtuous M&A circle starts with 7-Eleven - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUm5HSjhkR1JtYU9lcS1lSDBXcU52MXVRUE1TS1FRbzNJYTdzN0o4TVlBZkR1Z3RQOVptWmN2RnNmNmNhcjNFbE4xallwRlN6Q1dwLVV2NldXdlYtamk2TzZGNGx3a2NQcWs1U242dHRMTmVSaHItT0l5SUNaWmlfQ1V2SkFwSFdpbkU5Y3N5MjBFbEdFTll5UEtQLU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Loaded Up on These Stocks As the Market Sank. Should You Buy Them Too? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdmtYYjItMlAybzRJNWdPYmlCekJDYWNTQlFjanBnU25PVmtkak5zZzRvSkVGUnFvS2RIWkFUd1hKNm9JVHo3WUNObGZoNkp4eF9KLUtvV1VRVWtxWlBxa0RUYUI3YVdOZWwwSUNCQkY1ZlRIUTljOGZiWGpxWTZzUGxtQmJDa0Zp?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ex-FamilyMart minority shareholders secure another landmark win over Itochu buyout - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnNlZnJ2enY5Ni1PbW1fNk05RlNfaGZITlFiYlRYT24tbXF3d21pWU1GZFQ1enVUd0YyeFgwVVduVTNraHBpTXZQNWFTdlVaT3ppVE5iTXFwNkZVUkVfRFVRbWctTjFXQm5lTjR3ZGpDTHpDY3FRdktfNUMySTFCODR5MExIWlc1ZDBGQ1ZLaENQRGlDekp0QjgwQWhiX045djdwWFYwVkNxSFUxZkdZeDREQWJaT2hqWHM0V3lzUE5CNzQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Japan's Itochu plans record 1 trillion yen investment to drive growth - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHYzZXhoVGxoWm5TWldmb1FKRWRnRUEyc0lxajB5QjFZVDhQVHhZc2dONHJIQnllZml0c1hfbTVZM2lkZWN4ZjVDbW9pTTlMQ29VbHMta29XNkQwTXNZMFlBNVV1UjNBTnVoUndwNXozTm5pYk9fY1g2Z3NtY2FacDVHRTJocm41OXB4NVd4bnBvOFFhNUpRZklobmJ0aDdwMlBiZFZWMVZ3OWxldTBpc0Zhd0RXaG9kU3Zj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buffett boosts stakes in Japanese trading houses, may invest more - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTZlMVk3MzBpOW1HTWlVekFBRzZMVkRMRGl2czg3TC1rb0lLWDRPb3NTN21sczR3S2QwN1pvUGp1c0RJMHZka1diX0RTMUNFeWtuMVBUS2o2N3VYV1ZTNTF5TktNZUVYcUMtc0tJeWZsRFpXWDNMWVpJcExjTXBRZXRXTTRYTFg1U2tLRm52SThzNDNzRVowcGJwWkpfNlBwS1RidkFwVkloVTlxRlJJOVpkNjRDS0hCbDJPUjVFczlxZk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "12 Dirt Cheap Stocks To Buy According to Hedge Funds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HR3VHRXFtY2ktbTZrWHo1OWZhRzJ6aWQyU3o0WU1aYUZYT18wUTRURExDcTQ3TnhyZnpjeld6a1M1VlFMb25BcDUzQXVQM0laOElyQVFVRlVucGViOUl1VGhDTGJoTnVlZWVVNF9sZ3hzX0FITXg4TFVB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 7502.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 7704.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 7741.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 7702.0
-      },
       {
         "date": "2024-12-06",
         "price": 7580.0
@@ -514,24 +622,28 @@
       {
         "date": "2025-06-02",
         "price": 7657.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 7520.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 7518.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 7485.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 7453.0
       }
     ],
     "current_price_data": {
-      "price": 7657.0,
-      "change": -83.0,
-      "percent_change": -1.07
+      "price": 7453.0,
+      "change": -32.0,
+      "percent_change": -0.43
     }
-  },
-  "news_sentiment": {
-    "summary": "Tendances cl\u00e9s :\n\n* Warren Buffett's successor is interested in buying more of the stocks he has selected.\n* Itochu's earnings are of questionable quality.\n* Itochu is considering investing in Seven & i.\n* Warren Buffett's comments have positively influenced Japanese trading house stocks.\n* Itochu's stock has had a 27% dive, which could be an opportunity but requires scrutiny.\n* Japanese trading houses are luring investors with healthy returns amid US tariff uncertainty.\n* Tariffs will not bring back America's unipolar moment.\n* Buffett is taking the stage at the Berkshire Hathaway meeting.\n* Nvidia,",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

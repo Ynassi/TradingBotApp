@@ -1,56 +1,164 @@
 {
   "ticker": "HUBG",
-  "name": "Hub Group, Inc.",
+  "name": NaN,
   "sector": "Industrials",
-  "market_cap": 2036376320.0,
+  "market_cap": 2044338176.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 19.558823,
-    "PB": 1.235646,
-    "EV_Revenue": 0.643,
+    "PE": 19.635294,
+    "PB": 1.2404772,
+    "EV_Revenue": 0.645,
     "ROE": 0.06279,
     "ProfitMargin": 0.026870001,
     "GrossMargin": 0.11171,
-    "DividendYield": 1.48
+    "DividendYield": 1.48,
+    "DebtEquity": 28.62,
+    "CurrentRatio": 1.355,
+    "QuickRatio": 1.245,
+    "FreeCashFlow": 143346752,
+    "OperatingCashFlow": 183938000,
+    "FCF_Margin": 0.0371161462932888,
+    "ROA": 0.031170001,
+    "PEG": null,
+    "EV_EBITDA": 7.49,
+    "BuybackYield": null,
+    "PriceToFCF": 14.261489342988392
   },
   "technical_indicators": {
-    "RSI_14": 44.882648705887085,
-    "Momentum_10": -7.536148925106119,
-    "MACD": -0.0652989103090178,
-    "BB_Percent": 0.348265671642481,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 46.14391667261912,
+    "Momentum_10": -1.5919726709315103,
+    "MACD": -0.1100654407686505,
+    "BB_Percent": 0.2540375754402962,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9333332291339956,
+    "ValueScore": 0.9306495358710032,
     "QualityScore": 0.3248687213342182,
-    "SignalScore": 0.5557381526546721
+    "SignalScore": 0.5896443273471317
   },
-  "volatility": 0.0237974044160293,
+  "volatility": 0.0240844960728508,
   "beta": 1.153,
-  "return_6m": -0.356266932423038,
+  "return_6m": -0.327380374043844,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 15,
     "target_mean_price": 38.73333
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Hub Group fait face à une incertitude dans un marché fragile, avec des résultats du premier trimestre 2025 en baisse par rapport aux attentes des analystes. Malgré une révision à la baisse de son objectif de prix par Barclays, les investisseurs semblent satisfaits des perspectives de l'entreprise, ce qui a entraîné une hausse de son cours de bourse. Cependant, les ventes en deçà des estimations au premier trimestre 2025 pourraient susciter des inquiétudes quant à la performance future de Hub Group.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Hub Group: Uncertainty For A Fragile Market - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPREdCRkNMUWwyOVd2Q3FMc3FOSnRmRjB2dGhNemk1TU01enJLVE1HQ05PNEhFemlON1UyYVU0c29rX0hKU21OWlJleVNhOE1WT293M1kyQUQ5elFaS3NLc3RfeFFudE5PWndJcWtSSVAzbWpDMVNrWFJDNjhRWUp4d0FCVEpfampadTJj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Winners And Losers Of Q1: Hub Group (NASDAQ:HUBG) Vs The Rest Of The Air Freight and Logistics Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RMWEyVXJXRXVNVlJLZjM1eTh2X2I2TU5wblpSSTB2UWdKNm5UdFNkdDcxcWFaYlZPUHpJbGdPdDVxMEpVTGdGcHBfSXR0Ymx4b2VJRG1mMEU4MVJzU0dJcnlfMTdWSU42RmQxU29sSVRIRkFKdW4zTXJaSFdmUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "At US$34.23, Is Hub Group, Inc. (NASDAQ:HUBG) Worth Looking At Closely? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUw5ZmZnbGhQdy1iZ0lPM29aaVpmOUpiLVk1SHZ5dElZelJuOEJqY29tclBndzNsOFg5dTFhdF9Cekl3Mkxlcm9JYlZNMTFfM3NpbFZJcWd4TFVBUnJLY2k2UVpaRHRGcVlNd2pSZXNtQTRPcTJOc3FaNThlOWxVMXdLdERTOUR6clBSaVFVanc0Ry15dXVWV2RfdklLWDBWZk1udmh1TW9YaGNxMjBrc2VUSkk0QktQREJGTi1aeW52d2J1S0dIdnEzay1hS2vSAdQBQVVfeXFMTmZJMXdhcDZ4dncwY2J6NnVuMGlKSk5jR2JkNkRBOGcwX1BWWDJraW5lX3hEdjFnOWhUblRQWG44ZVBESVFYdVE0enNJaGJIY0x0ZVZlZmpNcUtzVGZiRzM2MFQ5OGI1dDRESnNfeGstc3RlQ1NSSjZxOHpiOFpHRjM0Vm9JVGliUTBpSjhJcVp0cUNNeThpUmV1TWcxVGhoSW55VnZYaDctTUFkOHM3ZmNSRVlmRWs4VDJIdVVEX2tiS2MzdFJXVFItUWtNa19XUHlxaHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hub Group Earnings Preview: $4B Transportation Giant Reveals Q1 2025 Results May 8 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1lZYTRkcDl1MHNnZG0xOE45czdRMzJOU1ZyODBVNmFJUlJib2trMGhfQnJrZ3lNNVFQNWJkVHJuYWNHRW9aT2ZOdjlWQ1BXeHY5VzhhcVhUeXVRVkVQQ0k5M0xfbWMwQkE0enQwSDRCbW5CSnVTRG1naUFEZ3duX19faEdsSV9SbzBZYWtBQjVJeWZQUlpzUmducG9CLVVrNE9CVmdBUDN2QlVFcGNBZ3dEaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HUBG: Barclays Lowers Price Target for Hub Group to $40.00 | HUBG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3drbFl2aVRVSTlfOHNiTW81bWk3U0hzMk1yVkJIRkJqeWN5OTRyODNTUFR4Z290UFZhLTE2TEZYQk0xdXhsWll2RGx2ZDdwZXJkTHhtMnFnSHpMeEFJZTFzZzR0bm91Y2VuNVlYOU9KSXFNWlhsWHljbVhwdXlGSW42MFhNSkhLXzJadmFDNjgzc3RnaHg0V2lyeEZLUWNYMlRpZ1FOUko1NDlXSHpR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When (HUBG) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcG1tTGhnV1FSaTktWm9aRjZ4Rk9NVlNkYWR1Y2U4bzNLR0NlLUxONmFfUjRsRG1QY29GRVduS0FKZ2xZSnhBSXVYTjVCTHVIUnBUYnBVV0RraGtheWJhdndtaC1Vai1sS01GWmJPWDctT25iakVWdmpQdmdSYjNxSzJ5aDNpWkZBWjM5dEg5RS1hRVVRVkw0dENPSEVkNUlWMzRBSFhPM24tcUVkT3FqdWlXajU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Compared to Estimates, Hub Group (HUBG) Q1 Earnings: A Look at Key Metrics - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTlnTFp1THR4WWFtaWFsaFBNVE40SGpFMW0xS3g4THRUTlVQLUdoYWhRWTRSVHJSYk40eFpycF9kTzgtZFA4UnQ4ZWgtaEJrV3ZhTTlXd094NHNNY3lrY0x5YnVBWWlHRHR1ZUZvYW1ZTWVweDBhWFRyU0xSeWdYUVJJMzBSSFFGTnZtbUw3SjlfNXBYQ0RGQnFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Offer Insights on Industrial Goods Companies: Hub Group (HUBG) and Gates Industrial (GTES) - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUnE1SVVHcmZ0NVduc2NwSWpSQW5PYmVHRFBpcGZQSjZvV3htQVA2X2VOenRkX3JTWEtnT3RzQnFGRlJNTkFRUk5hZVVFTE9FdG5oSFFpZGxpdG1JTTV0bm1sb3F2eDZkcjhoZ1J0alpxdWZMcklrZTZjajV5VU11TGtXZm9uMVNFSWsxdEc2dGxjS21YeXU4VUdDMkZjeWJxSmEyRE1BSEFpZm1qTk83YTB3LWVuWmI4MTMyQktpZnhOVXpWSVVvalpzTUMtcU92eUJHOXM3ZGgtZXYtZnhKMEZGQ29fQTNSblZ6THVaeWZEMzhzcU5vc3dONVR1OHhkQWVQTks0d1RRMjRlenVj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Robinhood is Set to Roll Out Prediction Markets Hub, Stock Up 7.1% - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXlqS2lWNkEyVGJYei1tV1liako5d1FCRE01UUx6YlVhaHdFUDZCdHhuT0hwbi1sVW56VUFpbjNWMmxhczBZYVB6SF9ab01BZVdMam9SMnlEMHMtLW56QjJPWDRqeXRpSXZhUURVU2FLcVNOaWpTX203MlY4ZmFjX0tNUWxBV1lYZUd3aGJ1dTdBd0sxZ1FhdzJLOVRNYmlUNXZjYkY1aw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hub Group, Inc. 2025 Q1 - Results - Earnings Call Presentation (NASDAQ:HUBG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQWF4TV9mZXN6Z2tXeVVtNkM1a1k0UDA3U0lpN1dULTVCclB6TGtBZ0M3cUVEdnNyNTUzZlE0YVFZZkRTYzJ6R1ZRb1VNeFBpNXpkZGZ4eE5WaFUzTko0aE11T3BhRVU0dXR3RU5Bd01abmNUQ3h3SDM2eFJfbWdfOEJKWFlVUmhjdGI3azlnQ1ZIN05nczF3eDJuX3BpZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings call transcript: Hub Group Q1 2025 sees EPS beat, revenue down - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlR2b0pjREpMc2pxOGpZbXpzeFdHYUFsME93anZ3ZXl4a3VOZk1uRTR1VWNoX09ZQm1pdGJyZHhLR3R3bFZlV3ZnQWxDRjIxa0RVNmZhbHNsdFNweE15SWtyQklYUmlvVVV0VUk4S18xU2FhOFZQVmlzdDB5Nnc1a19lRERhNTd5cFF5OUhUUUxyWDJyRW8wWU5Zai1SdUlfa3ctTmNaYjA2a2R2TTBCOU40aXd1VTFiRl9QbndiaHZuNVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Preview: Hub Group (HUBG) Q1 Earnings Expected to Decline - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTC1jWE1naWZ6QnNtNFR6aVRkd3VIX1ZmODY5Uy1vMFBnSUdIMVFKR21EZmdEYWxfS1k4allIaDB2WTlGeE1xaUc1TzJkZkREcGEtMWZWQl91YXNmemh4MFdjeHI0T3NCSkQxOXFDSW95Z25LSjg0RzFISTd6WUVfbmY2dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Investors Appear Satisfied With Hub Group, Inc.'s (NASDAQ:HUBG) Prospects - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWlzR3hIZklWSW85a1NYWFFaOUlYVEhtNC1xZl9hTm1EM0w1bi0tb1Fta21uaW4yVWdKY2tZcTBSZXpHeEsxRHlYdjNFZUtSZVlWbm9KcHpIdTdseWYzV1NaQXJxdFQzZFhISHNMN0QyN3cycm9ManZ5c2FjbHpBUENmVmp4OHF5dmZsa2pXYWo3TzJfbmo5UHVKdV9ZNkdENFVjRXhpSjR5bS0tWmdRc3IwdjdfeVpkcmh3WnlwV3FsRUZqQi1HbXJraGxySFHSAdQBQVVfeXFMT0NUd1pCMlpUMWEtLTN3dEVvWDRQbWxaYTNaU1U3U3p2NFpNeEFCVm5CUmc5WEl1Z1NJdTFBTzItUFJnVkh2ZkdqX0M3U2ViZndIYjQ0SnUzak1TeWUxelh4MWN4Y1B1akVXV0hQdVZVVmZRRWF0dU90VVRpSnBVdkUxTWFhVlV1MFBnV3ZDcTBrWDZON0hxRUtIVk5WR1JKVm9EYmhTQ0FwbVNwMzROa1NYTWRZTi1jN3VNSGlKOWxZQUpoczVLY1VlQnM1NHo2NnBaODY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Barclays Adjusts Price Target for Hub Group (HUBG) Amid Revenue - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNkhsTGxLUFIxeFIzY2NQa2xaS2UwLUxhaDRGeGVFV1ZKeFFzYzBybktSMmlyeVBkYkItclp3VjVyWG5ibWtLTjAzN3lkbGFxaUJ2dHgyS3Z1aFZQRlFYektra3d0Xy1qU3VhcFN0a1ZNMVlDTkNZNnJoejBIRi1ncG5YUzNfU1ZIeHp0a2RwdkxDcUNlWTVXSnJfcm1HWm91U0pCWjExWEs0T2Qxbi1qRGhRMkZ6bjRZa2w2bm1oel81UEcxRGJyTHZUWWNRZzJ3VDBzdkFxMA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Where are the Opportunities in (HUBG) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1VmUEx6V2kwVlMxa19sanRzRHFxZ0lqRzIzclJteHJoaFFBNENydlpBU2tIWHVicjB3akFvVkVXdW5yVDE1OW5HNGFySnNMc0M5UFdrTmI2STF0UnpQaDhFaWZsRUkxZUw0TTNBYmlvQWVJM25BM3NXTEdVUGs1TVVhTmZkQlN3RnlwQUpKbk1CNWkzQjNFRFVsaTdhR2kzQXBrbEJkeFpMamdsMHp3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hub Group, Inc. Announces Conference Call to Discuss Q1 2025 Results on May 8 - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXplSUFVSE53cjJOQ1lXVXl2LVV2c3RuRUctaWVjaTg4NGkzSkQ2X0lLQTlzWkRfR3RIeU1SaHd1UTB5elgyMlhUdGIyN0t3VkV6Z284dGNCcTRaaVp1NHRWVDZHemktWHJ1ZlNlS1Q4M0JOdFh1OFZOSkRuYnVCa2RqRlV2WmtUVFY1QjNDY1lpbzB2eUNJNUppX2VkWlR1RU4w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hub Group (NASDAQ:HUBG) Reports Sales Below Analyst Estimates In Q1 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVhCLXhFQkVxVkN6Yzg4MjNNQ09Ma1BxUlR2WDRZSUZBdzFYTUJ6Tmd6ZV8zaUdDUk8ybnJzc3B0N1RLVDAybnh6U3JNVElXbWxTQnV6WHN2OXp4d2ZxcXFTSUdUcWRqRklIdmZtZUZqQkxJUFdZbHo4eWhHTTBoNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Hub Group Schedules First Quarter 2025 Earnings Conference Call - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVl9ad09vWDhOMW15MWZlZmliN2JGT3dsenp3MDFNazZQY0JuLWlqWDZ1c1FOaDI5SU80aWR3Z0RPWjJDT3B0MHZBZVIxZnVWSzloam0wRjVvcmFtNURFaEJLSjdCZXN1Yk5SbnhYMnF2MTJmc2lfWU5OVEx2RFZJWGV0V1hnZm8tUVJJdnNJcnljMWJocVNmYXdTUEdqOXBUTHVoOWthQl9IV3FQby1vRVRGTXg1V0RLdVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings To Watch: Hub Group (HUBG) Reports Q1 Results Tomorrow - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX3RxUWVEd0VVZ2FJdkNLZGtWU1RCM0lvUzk4WnM3aktrN0VoOG1KdlN1c3VhUkh5N1p3MHlxWEFMNmlRTV95elowS1pjUVlEaElrTXB1R3ZXMklmc0xHeUxsSV9iQlVRMV8zTGNubFMyY3JPTDFpckFwd204TXctWA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hub Group (NASDAQ:HUBG) Misses Q4 Sales Targets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43S2VQUkFqRi04UU1IenBqb2ZJVm5uSXg5bmpsX29LZEMxMng2VlRydml3RV9GcS1jdE40UmxITWhCbkQxbHl3N0N4bGs2azd1U2dFY1UyaE16VTJuQ2ZVdHdYMjViRFotRVZYSXQ1Y3h6VXV4X2gwVlZiVVMyTGM?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 51.95
-      },
-      {
-        "date": "2024-12-03",
-        "price": 51.47
-      },
-      {
-        "date": "2024-12-04",
-        "price": 51.16
-      },
-      {
-        "date": "2024-12-05",
-        "price": 50.59
-      },
       {
         "date": "2024-12-06",
         "price": 49.79
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 33.1
+        "price": 33.11
+      },
+      {
+        "date": "2025-06-03",
+        "price": 34.1
+      },
+      {
+        "date": "2025-06-04",
+        "price": 33.79
+      },
+      {
+        "date": "2025-06-05",
+        "price": 33.38
       }
     ],
     "current_price_data": {
-      "price": 33.1,
-      "change": -0.61,
-      "percent_change": -1.81
+      "price": 33.38,
+      "change": -0.41,
+      "percent_change": -1.21
     }
-  },
-  "news_sentiment": {
-    "summary": "Hub Group, Inc. (NASDAQ:HUBG) is a $40.5 billion transportation giant with Q1 2025 earnings of $4 billion. Its stock is trading at $34.23. Analysts predict mixed earnings results and lower revenue. The stock market is uncertain due to geopolitical tensions and inflationary pressures. Investors should closely monitor the company's performance and listen to its earnings call.",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

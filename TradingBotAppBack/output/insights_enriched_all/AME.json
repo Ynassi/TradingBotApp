@@ -2,55 +2,163 @@
   "ticker": "AME",
   "name": "Ametek",
   "sector": "Industrials",
-  "market_cap": 40708587520.0,
+  "market_cap": 40900214784.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 28.85761,
-    "PB": 4.0830884,
-    "EV_Revenue": 6.204,
+    "PE": 28.993452,
+    "PB": 4.1023088,
+    "EV_Revenue": 6.153,
     "ROE": 0.14964,
     "ProfitMargin": 0.20426,
     "GrossMargin": 0.35762,
-    "DividendYield": 0.69
+    "DividendYield": 0.7,
+    "DebtEquity": 21.761,
+    "CurrentRatio": 1.407,
+    "QuickRatio": 16.587,
+    "FreeCashFlow": 1462736512,
+    "OperatingCashFlow": 1836166016,
+    "FCF_Margin": 0.21086098879374374,
+    "ROA": 0.07521,
+    "PEG": null,
+    "EV_EBITDA": 19.573,
+    "BuybackYield": null,
+    "PriceToFCF": 27.926711306431105
   },
   "technical_indicators": {
-    "RSI_14": 51.70957827964259,
-    "Momentum_10": -3.518463844476744,
-    "MACD": 2.5290343818824965,
-    "BB_Percent": 0.4471498163617466,
+    "RSI_14": 53.30930647199768,
+    "Momentum_10": -0.216678592247834,
+    "MACD": 1.8680555696218732,
+    "BB_Percent": 0.3954666327663873,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8788317457837256,
+    "ValueScore": 0.875930547255842,
     "QualityScore": 0.3468818046065245,
-    "SignalScore": 0.6336913679399316
+    "SignalScore": 0.5807670402297145
   },
-  "volatility": 0.015823174440632,
+  "volatility": 0.0158249272101182,
   "beta": 1.11,
-  "return_6m": -0.0954589098797363,
+  "return_6m": -0.0837041559147783,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 192.43588
   },
+  "news_sentiment": {
+    "summary": "AMETEK, Inc. (NYSE:AME) a récemment suscité l'intérêt des investisseurs avec des mouvements significatifs de participation. Alors que certains actionnaires s'inquiètent du ratio P/E de la société, d'autres semblent confiants dans son potentiel de croissance, comme en témoignent les augmentations de positions de plusieurs investisseurs institutionnels. Les résultats du premier trimestre ont montré une expansion de la marge malgré des revenus stables, ce qui a atténué les incertitudes liées aux tarifs. La diversité des opinions des analystes et des investisseurs suggère une certaine volatilité du sentiment de marché à l'égard de l'action d'AMETEK.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "L. Roy Papp & Associates LLP Lowers Position in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWNvWEMtb0I4SjJmeDZKR2lCWDdWem1EbEhGbjZSczM3ZzNKYnhVSEllTWlreWhadXY4NTV2aGpOeUlWTG1KalljUW5aUnVySmlLdjBQTnBFV2JySjdidld2NU9TZ1Q4UnNSdzFsZ18wdmFrS3Z1bXg1NndlTWo4VnpiUDZYdHZGeXI5RDNnYVhqU1RFX2NvWnZ3V0Npajg3d1RWQ3ZhbXNhaUhDcXRWQzNNd2JiRGRZQXMxUlVnQTdIdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Barron’s seeks an AME for stock picks - Talking Biz News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNnV1aXFERmpNSmowc2Z4Ym5Hc1RCZVVyc0RsZzBfb2kxRVpEQ1hKY3F1cUtmelR3bGxVekN2ZTZpQm9rR2Nyd3lLQXF2M1lRZ21WdURXUzhza0V2SHZtWXBzVDFGOVhTLUdjajlQVDBkUTJwZTdaMHVKSVduV0FGbkMxUlJwU3VjS0tLTnFDNld0REozalV2RURRUdIBoAFBVV95cUxPQTdHaXRTdXhEMldUWmN6cVFhemU3MklnektqLVU0b2ZmNDZiUm41TWJ1Rm1jM1MyUy01Q05LS1RabFJTUUdsWVJucWJzMWtTclc0azVSLXF5R0FSNWFrcElLTkFxT04xOS16SFVMeFRWREczM0lFeWRTRGYyWVRlUUNOMkpIT0V6UXR4MXU2dDZFSkhtOFRYUXJzclZTUTBf?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Was Jim Cramer Right About AMETEK (AME) Stock? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUdxR1Z6bUFEYmwwZjVjNm9tQ0dka25vMzV6WE5aSktndlZpRDcxNjZiQndISEtjVkR4RldhR1BoZjdfZ0k4djRCa3NpSEdMNkY1VG5IVy0xUWlBemk4MlE3U1pDTmV4Y1RVQV9Jd2Zpa1l3dWFDSERjWXZkd19oeE9CVnYwX002eUpYOGpkRU3SAZgBQVVfeXFMTXV3V0xDQ2x5amt6WE1Gc2t4VzVhQWI3cmRRWk1TcVRVSWQzZXVjampuNzVfSEFGNkVicWJSemR0dnNjM0NqaGpIU0tYaHdOVlhydGNJdXlEOXZId184Zk1LTUVBdkYyQ1hWNTNVbkNSdkF0Y2ZlWUZBQUh2Q0VJWldUaHZ4dVlSY01iVnpkQ3p3cVNfbXNKOXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Ametek (AME) International Revenue Trends Deserve Your Attention - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcXllV0hkZ3Atb0x4cW9vRUktc0FxVk1oVVl4dU9wQmlyXzlWcnM2RWFITWJoX3ptb1FoUnJpaWZzdkJiX1hFOC1QSlVvZ1FjbjZvQXcxMDdvazlXR0RPQW1NNGhIZ3lhX0Z4dU9mUEJLY0gzUEpSaENuaXUySmtYMzA3b3lVckJxSkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Some Shareholders Feeling Restless Over AMETEK, Inc.'s (NYSE:AME) P/E Ratio - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWl9ON2lFcU9DZHZheFhPY1ZwZkxjTzdnUlFFQlh2eUFNUkxKMGJ6WWhyY0l2VnRwU3RTbU9sbHl4dXlZRW82ZjBWMTZQY2FCMVRzQ084WEcxTjgxNDZJX19QVWhNcTZYZGtqc1pfMTNRSjNQSEh1UEIwYmJhN0llSGVaZDUtQWY2Mm5JRjN2RmUxclNUVmRwNU54bzRiWk1kay04dHoyLUxCankzZ1kzVHZtTUZZbTZZNmZlWUt6UGpPejhJ0gHKAUFVX3lxTE5WaFgwVXc1M1djMGIxTk9WUnJZZENfbFNackU0WlhabVpEczRMZXR3WnRkSDE3ckJ3SFhpTndYOHNLcVNEUlZTTS1oSnZBLXZyQzdVdlg1Q094aENFR0VvRGljMnR3dTNOaEJ5Tzh0aFM1LUJ4bVBJM1U3T2FncU1CRHNCTVJoSzJZTmFsZnVURmY1ZTIxeUxpdW91REwzZmRLcnAxM3BDX2k0YTBPVV9tYXRHcUZyenZKMG9obTBUdXc5OXZXNHlQMUE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How Is AMETEK’s Stock Performance Compared to Other Industrial Stocks? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVJfNGphREpXRW5kVEVkNGhYWUR0UmN1M0lZVmdyR2JDdzhIOGJnaHNwSFhIV0hab0VyeE1sMWNiSU5BOHZBZ05MZlJGOHV5bVpwcWpDZzRteXg0dHNnb1k5aElTdG9QMlA0c2g0eHhKdnFKQzljOHdzX1pSeTZCR2tQR19Kc3JpeHZsMnVWc0w4cWFSeGtIRHd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Wall Street Bullish Or Bearish On AMETEK Stock? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVhhTkRPbTYzb0pNcGk5cUdVckxwbnlvb1g4ZjNVX3lCa2dMOHExZXk5UFVpX3hHS1Z0S2pJNDluQXBRLTJnZkp5NkZuX25QUWQ5Q0ZQd0lLM3hBU3dvT1Zad1BhS3dQckttWGVQbnRpams3alNSb1VOZ0hzUklhX3NnUm94ckNzTy1wQXNwY0dHcVNLUlZjY0xR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Increases Holdings in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3FrbEpwX1hUdlpGR2Q0TzBrdXRoUm1naWpNZENGYVh3TGxWRkRXZ20yOC03SEVwdXp4ak5LMHVQalg4UGg4U0EtVWI4eXJ1Ul9VR0w0QUtqNklHbm9Ob3NoZ2o4MF9vMEk0ZWZaTWxEYU5LUmJDS3FvQmhwenhxWUtHMDRBbUxHa3FxREFXV3o2dzRiaUpkcjRIbmtNYVBYZmxvc0l0cm1BdndINGZvRnhrdWNsaW9S?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AME Q1 Earnings Call: Margin Expansion Offsets Flat Revenue Amid Tariff Uncertainty - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84enBmTjQtU2VDc0FvT2dCeDVTVE15ay1hLXR5NExYYU5tazdrMFhWZXkzbWVpMndjNXFpcjRmb0Z5T1ktaU5PNnFrOTFua0JDdERIOENNVW82a3pkSndfZGRoM0Y1QU1uR0diSjJ4SG5vRjVQQmZUaXRtNGtBZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is It Time To Consider Buying AMETEK, Inc. (NYSE:AME)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VrR0p5dTVxZjhtaG1CM1h1eHJvTERLSy05YjY2cDFkNmxLdHdkQTJVRmNDSUF5QmVDQmZTSk1zYzlLSlJYV3hQY0k0VEFqOXYtMEhHTU03ZkNtQ1FaeEdTTlJ1dVdsb2E1SS1KYjNGQnF2Uk1pNkpDa0UwYXRlQU9iSExVVU5MOEcwaWVMN21FX2hZXzltWjBXanpRMnFoWmN0YnhoQUpSWXc0Nlh5TGVZR29qdnpW0gG-AUFVX3lxTE5SSDgtS1A3QTd0N0JEX091RXVKbzFNZ29UeWJWcDFIRWFiLVdLNnkxOUd5QmNyR3UzMVlOU01Dd2g5ZG9ILWltbWZhSUE5eU5Pb1pvcVB3em90ejFVN3YwUURINGM2SklLV2hoeFJQOHotXzR5clRqenlCbXpQZjhRbkRwdTRfZkV6eG1xbzh1SmNISUFhWVNYdlRiTTBYOF9uRmZDT0FXNGxxUWs5LWlIR0lRVXFIcWhZU09pTnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Grows Stock Holdings in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkhERG5xcFFEam1qZ3c2VDg5bGR0QXFRWi1XX3lSUWJYb05TZHV0czNPN1BNVi1IUEttbC1DbWt5V0F1WVB4bFZqOFJfWTdWQS1wclpaOWtyRW82dXZEUzZ2NVpYRFdEcDhwOWo1R3RpN3gyUlhaWmVDV3B6VGdRTEVDcmM0WmVkZ2JabmV3eFNGR05YSG9rLTRkYnVCU2tXSzVwRWQ5elR5TjY0Z3NHdmIwYjF0d1J4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "At US$178, Is AMETEK, Inc. (NYSE:AME) Worth Looking At Closely? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DeWE4RUxlR05aOHFSYm15djVrZlFmZTM3N3RjMHl0NnJ6dG5kYkFMYVNOaGN6T0xuMXZRbnNzc0oyLW4ydnJqUlNMMllUaHE2UnBkZFZ3QjVNNGVBMlhfMDdSMkdqU09hdjFKeVVWZ21WdFhwYjhz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $167.54 Million Stock Holdings in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObklZZ2JBOGZIZ04xWEcxVGwxQmIwcHdJUzJkb3dvNW5LUGtza2xtNmM5SGVrNHNzZzEzYWtMTEVQb0VIMmJjQnlxeVdBX0IwbTlaTlpRejMtU0Z2YlpMOFdWazRqZTlkbzZvM3N6Q0M0UWtLdVV4VHFmMndlRk10NzAxZHZvV1BGci1uN1JocXFkblg1YVJIWlJLMGs5VzF3NERoazFiUWtQVVBxZDdmaHc4LVpaT0tjNS12QmJWQTlpajA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMETEK, Inc. (NYSE:AME) Shares Purchased by Unigestion Holding SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVTEtRV83Ui1Id1ZmNGFnREhCeTQ0MVllTmZFcXVmQ2wwam9RWHM3OU1GbFNrVW0xLXVBc2pwVG1LQjBvVFlXai1pYTFScFAtRkRUSUJwYTQzX3VvOFJrMDZNSG9YVTkyeTN0blMyMHNxb0J4OFRtdnRiYjVNUEdQWkl0TGVrdTF1RDJXaUZweElMUkRJSzdaN2lYX0dxVzJQck15c0VPNjc5cGxDRkU4RHZGRkxKNXRiWWZ2MURZVnROOEtR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMETEK, Inc. (NYSE:AME) Shares Sold by Squarepoint Ops LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOHpNU3RLbUJ4MFNpSmpYOW43Z0NSMXFDYlhCblppVW91MEg4V0tjZExNNXczaUdjeHFoZVJLOVl5ZDczT3JfcVp6VlpyRlQ5ZXM2UFB6ZW90RlBzWFFxMmV6VUVPd3htSnJjMmFENURFYzViWXRweFYwMHJEVzZoRHJma25LazZGMVJLMzFLZFF6dTJDb1BfUVdQTGlyMWVLb0FsQ1MtMFZac2lRTDdxSEVoemdkbFA1cjdCeUNXMjVsam9wdVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMETEK, Inc. (NYSE:AME) Receives $197.89 Consensus PT from Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGlNbkN0V3hORnlhNnJJcGRvTVNYLUFBVldWTzBDSGp2SWhDRDR4eEF4NV91MUNERGNVOHNwUVljZWExdDRSeUN0a2dSR1I4dEVWeFF1RWpqN09qb3d6dkNFTzJtM2oxU0xFWngyT0tiQmdadXVMVno3OW1ZTVpPNWM3N2oxQzhVNmtmdTh3MjNZVEM1YjVtb3hBWU5RYlNxamZQQ2RMM212QUxxWUFqQ3V2NnNpc0VWNFh3QzBIY0d2M2t6VkZN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "4,809 Shares in AMETEK, Inc. (NYSE:AME) Purchased by 111 Capital - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0ViVE5NY1FnSEpWY1NWR3lPZzk3N1cyTGpSRC1rQmR6TlNpYVVVVERsYU16ZE1GUjl1M19QSmc2U2lESFYzRDV1a0FuRklJLXNlbF8zQUFjVUVBRDFSMVJmbjJoalpORjRCTVFhRmdWYzBkX09SX01XN0h0M1dBQUp1SEJrVnp6Um41NDFsb1NPZGpObWdJeG9pcG4ybHVEWk1TUzdXVVFBMGZDMUh2WlBkcHFOcUZlU1RVem9uYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMETEK, Inc. (NYSE:AME) Position Boosted by Vise Technologies Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjctaV9USUt2bEExeXlCbU54Y0RZOFhNb0tlVkpXQ0Q0cWRpTE15MV85NTBvUDdJZFVIbXE4bFZCQ3NJNzRNY1BONDBCRFMzZ0RxSnFxazBtdTZ6bHU4bENUeFY5TnRnNUNZbGdCVVU1REdRc0N1NHpuc3lLWmE5M05HOUNwSWhUSUZINEFFc3lHOG1GX1dXaW53c1JVdmZrd3RBLXRiZzNpei14RWRaTVBRUGdfREtFYzNhVXZUOUlfUEZ4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Chancellor Financial Group WB LP Takes Position in AMETEK, Inc. (NYSE:AME) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnN2Mk1PWlNudnYyMW0ta3BKN1lkeGhwVUt5TUZXRldwcENZNHBEaWlNWEppZFpNOWdBVHBGZ3MyNmF2aEl0VkhRYjFPQ0xXTWtvWGxCaEtKUzdDY1hROWg1UHdUUVRCUGdVbU5ORGNERkVUY1JndEpMRThIclhUb1FDTTFDNFZCYl9uaklXQTVmN1JDR3N3RXY5ZHB3R3VEYWh1TnpyTk9JVC0yWk5kS1NMWnp2TnNsUVpsWlFLWEhwX0I3a0VJUDR4LVhjQlBLRWZnRg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMETEK (NYSE:AME) Shares Unloaded Rep. Robert Bresnahan, Jr. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjlPWEdHSkQ1UlpCc0V0OGZ1azBqUk1XRk5fV1lMQ2s1cVFvT2hYa1Zsc2w1QkdkM3NVelhyMzlGTm9kM19lVmVVaWZRMlVicTdlR29ZaHY5eTg4LXctYW5RUkxpWXVCeTFGclVwX1dRSVI2TjI4S2RhWUtuMkN1TnVkcGR4UHZqaW5VN1ViY2VFRHZnYUQtWDQ0Vk5nOFFfTm5lVkx4LW5VLS1N?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 195.56
-      },
-      {
-        "date": "2024-12-03",
-        "price": 194.33
-      },
-      {
-        "date": "2024-12-04",
-        "price": 195.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 193.96
-      },
       {
         "date": "2024-12-06",
         "price": 191.54
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 176.02
+        "price": 176.32
+      },
+      {
+        "date": "2025-06-03",
+        "price": 177.71
+      },
+      {
+        "date": "2025-06-04",
+        "price": 177.21
+      },
+      {
+        "date": "2025-06-05",
+        "price": 176.93
       }
     ],
     "current_price_data": {
-      "price": 176.02,
-      "change": -2.63,
-      "percent_change": -1.47
+      "price": 176.93,
+      "change": -0.31,
+      "percent_change": -0.17
     }
-  },
-  "news_sentiment": {
-    "summary": "AMETEK, Inc. (NYSE:AME) est une entreprise cot\u00e9e en \u00c9quit\u00e9 aux \u00c9tats-Unis. Les titres de la soci\u00e9t\u00e9 ont \u00e9t\u00e9 achet\u00e9s par Squarepoint Ops LLC et GAMMA Investing LLC. Les actionnaires de la soci\u00e9t\u00e9 se sentent restifs quant \u00e0 son P/E ratio. AMETEK a d\u00e9clar\u00e9 un dividende pour le premier trimestre. Les performances du stock d'AMETEK sont compar\u00e9es \u00e0 d'autres stocks industriels. La soci\u00e9t\u00e9 a fait une acquisition de 40% de pr\u00e9mium pour Faro Technologies, un leader en m\u00e9trologie 3D. Les trois stocks en \u00e9lectronique de test \u00e0 observer sont A",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

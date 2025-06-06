@@ -1,56 +1,164 @@
 {
   "ticker": "ATHM",
-  "name": "Autohome Inc.",
+  "name": NaN,
   "sector": "Communication Services",
-  "market_cap": 2967000064.0,
+  "market_cap": 2982419968.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 13.660222,
-    "PB": 0.12244282,
-    "EV_Revenue": -1.305,
+    "PE": 13.911603,
+    "PB": 0.12469606,
+    "EV_Revenue": -1.3,
     "ROE": 0.06242,
     "ProfitMargin": 0.25461,
     "GrossMargin": 0.79482,
-    "DividendYield": 7.01
+    "DividendYield": 6.99,
+    "DebtEquity": 0.139,
+    "CurrentRatio": 7.367,
+    "QuickRatio": 7.24,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": null,
+    "FCF_Margin": null,
+    "ROA": 0.020060001,
+    "PEG": null,
+    "EV_EBITDA": -7.801,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 37.69425612275167,
-    "Momentum_10": -3.45568218582595,
-    "MACD": -0.5722345032798799,
-    "BB_Percent": 0.2622849499149616,
+    "RSI_14": 46.02537454357824,
+    "Momentum_10": 1.860845487858823,
+    "MACD": -0.4785279187260158,
+    "BB_Percent": 0.5276213891037901,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.93614666977324,
+    "ValueScore": 0.9345022076035764,
     "QualityScore": 0.6175940948346924,
-    "SignalScore": 0.5705934944925475
+    "SignalScore": 0.5740847110324439
   },
-  "volatility": 0.020930522724308,
+  "volatility": 0.0210398618268588,
   "beta": -0.006,
-  "return_6m": -0.0851984243956853,
+  "return_6m": -0.0657199762579591,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 12,
     "target_mean_price": 29.66892
   },
+  "news_sentiment": {
+    "summary": "Autohome Inc. a annoncé sa prochaine Assemblée générale annuelle pour le 27 juin 2025, suscitant l'intérêt des investisseurs. Malgré des performances en demi-teinte de son activité principale, la société a reçu une note positive de JPMorgan, avec un objectif de cours à HK$71. Les résultats du premier trimestre ont été légèrement inférieurs aux attentes, mais la vente de participations par le principal actionnaire indique des changements dans la structure de contrôle. Ces événements récents pourraient influencer le sentiment de marché autour d'Autohome Inc.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Autohome Inc. Announces Annual General Meeting for June 27, 2025 - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnliTTVYWGw3YzlmU3R2a1dZbmhWM2ZpQy1lS1FGLWVUUGptaFo0WFgwNUVPQUJMSGpKcXhjZHpjbmtEN2tnbmEzLS1tTS1hZDU2Y3NvQ05lRlFlbHFnM1hCMzI0QXBjX1M1OExLR1VlWTBwWXNBM1VOazFtLTJ0QTRfLUhWLXVreWhjSU44Q2poX2VHRS1iTFgzNnprNmd0SXBSVVo4d0tmZnJRMlhHeHVBX2k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Autohome Inc. to Hold Annual General Meeting on June 27, 2025 | ATHM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODJUd0J4ZjJySWtwV0tKVFVPa3puODdwTS14Zm1wcVExSTVqQlN0WUlaWXZDNDhPNGFaSkpBSjRmZ1Zfa3djWUNwWXVIMXczNFRKV2FNU0hfRlMtXzZnd1FBLW1acEM3d2xhbzEySHNVYWwxWE03S2JEbVFIb1FNWlNlU1dDRmRkbDhEOFpfRmNNUTNmTXc0bC1DeFB3d2ZraGYyYlVrODNFektEazFlMDJwbEM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Autohome: Dividend Yield Is The Only Road Left As Core Business Stalls - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVh0a3VjcHpPNDd3Rm9DRUR0SThLNE9YcXctS1BRQzhqN2dNV2FzTFY2aFZraVRqY0M4bU5EUTRtQ1NmQTVqSWI5aGZscU5oRk1ST0ZVbUQ5MjBhdVN1RldjVFlHeFhHWnZsUzc1MjFpbHROc1l3X09XcEtlSHQ0bnFCQzRxZ2xDNXV3VUtaQ0p3dV9nUnhMYU5jelFseEQ0dHhhZDN4NXpzUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(ATHM) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVJrbkJNZHQtSElpT1p2Z042UUxibU1uZmEwM19hVDVydVl1cFdKMmhNRXZTT0NzUktfa3U1OUlzUWw1NzA2N0NiMHFZbmtGT1BDYnZpNlh5dnFTR21OcVpKRVFCb3FXN0pMcFhsZ3hDdXBCZ05sSmxHWnplRk9VOHRNMFRJdmV6cHVueGxpUEgtcUpIbnFzME54Yi13Mnp5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JPMorgan lifts Autohome stock rating, targets HK$71 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXFmWDh3Mk0zeHZpSkpOTzVPVk5LVVNjd0dIdUw1b1N0R2dZd0JIR0JGX3hhT2cyYWN4UWxDclFBc1d1cTdVeHAwZ1NFcDhnYjVCMHJyRWpUeFhSQVpRY05aUnVJN3d1Z3o1aHpkSmJrU1hzV2ZQZ1J4OVgxZFE1Mi11czdPbG1QYWZDZkJWazUydnJVTFNEZk41MHRSYVA2Ukl0N0ZwWVFJOHJMcWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CoStar Group Set to Report Q4 Earnings: What's in Store for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nek5VYTczLVVEenRiUUVvX0RsVmZqdnBOSUNFTmhMQUFfaUJ0T2RPMkI1WE5VZnR0dU1ybDQ4VDg2aG1TYXBSdWtsbTUxS3NZeE9qQTVGSVRKT0Z1Z2dPdWhGRE91RDdJUnhmRFFiTWtEOVNDdXRYU3JScXQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Autohome Inc. Files Its Annual Report on Form 20-F | ATHM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2hCZzlmLUNmS2lBV254OF9PbTg5dktud2kwM0R1U1M1M1l3MjF3cW9yWE93MV9HNDIwNHJYSFI3NHZfWVhpNGxhWUowNjFyRV9IRjJudVcyN3E1QXBjVUNGTEZvYU95T1hlTWpCOGhkVUJfaUpBbVlsYl9BbFVPUWFsd1ZPODdSVTRTbzdmb1Fod1BtSFFNWkRUVlFTV2ltS1RydVVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Flash (ATHM) Autohome Posts Q1 Net Revenue 1.45B Chinese Renminbi, vs. FactSet Est of 1.44B Renminbi - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOV0VEWFYzRmgwWnBpQXpGcVNWajROUmJ5WjFqcGtRUjVsLVYySXd3MWV5UlBPMnFqRlJjOXZLMjRSOUpPZTlmZlpaelBHa3Ytdm85S1FRMEhZVVNQVU5rRU95UmFBQ1BnMy1xOFdNcUpGWkpyLXdtWGpwdzhlYmRFcFc0ZkdYdlpvVlhaNUNhaF9oOEpXUnEyUElzSGlfelVueEdiRG14bXlJeXUxdkpTYW1oWFA3NFlYanRScmY2clJwamJadFB2VlZCamhQSkV5czd1LTJ4Ynh2Y01yNDdwNmRyNXBXQjRQdmh0eGZxUzhtdElmT3l5c0VSeXBya0hiZ3lVV1JNOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CQQQ, ATHM, YY, WB: ETF Inflow Alert - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JTXF4UjBvVXpPQmlqcFFLM2k3SlBUUjVFM1lqUXprZGZaN2xJYVVvTE1EdXA2V3Y4cTlfVGRTdFhZV2VBeXZPTWpIWmlybmNSZDJwN0EtU3o1SFMtQmNOcGxQSHNfWUdycVRWTm1NUDdqZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Autohome: Navigating Industry Shifts Amid Evolving Market Dynamics (NYSE:ATHM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFZqV0wzSUJqM0U3QnVVbE1ncW53VVpQM2lQR29fT2hROXVCLXpzcm9aMFFkVXpRSEZ2d0UwTE5vWVJCTWJfaGROS0hVWnJKZ1RJMDltS25meTA5V1czOVlBZGpGcTBmYkhOVlRzMlZreW5lRGpUSElBUkdLV0hhZVJUSGROVEdxczdueUlwQWo3STRkS0UtWWZ1UTA0VGdQajVENndMY2lSQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(ATHM) Trading Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0RUZlBZYU1ibEVxYWpxNDZqal94RTNJTF8yUXdZMmNaY0R3WUVJdmVyLTN2QkxPbzJPZnRCc1hmMWJNOFVRcjBZSzF4TG5OdHpsN3U5bUlodkFRSFFXYTJ1TUdIYlN5M3V2dnAtRUs1Y3JGOWVadEVyQ1plaWNJLUdyc2ZQQjlQRnhSX0JFeHRXLUZscDhPMzJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AUTOHOME-S Announces Change in Controlling Shareholder: Ping An's Yun Chen Sells Stakes to Haier's Arm at US$1.8B - AASTOCKS.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDh2ZmQyZFlfcDR6RmVKSzZXNGVnYzZsbWZOVkdDRlpTMHNTYThyREZvUTRTRXYzT3UxcFlSVkthWWItODZiYUZmcHUxWlNEbU83ZEhLTTNZZWtuVmh1SW5rOGxiTEZIbzMzTjVrTEZnYWFUQnJRVTY4WWpkWWRGUmR5eFcwVWJqUlFWOUxCY1lQUlh2VFdqbklFZlNObUZC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Autohome (ATHM) Reports Q1 Revenue Slightly Below Expectations | ATHM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3pLSUxsR2JnRjdhWUx4NjVjM1JvMTN1TF9aem1kMzB6LVkwV0tVRUkzajFIX184X09CY3JxQW9pME5LLVNzMUhETk1XU1ZhTk0xUFh1TVJHSGJ0VFFzVTg3SXdEQ1Ita043NjI4N2VzaE5lZVFLdE9VQUlCdnBnblZXdGYwcEtTZTg1WmlTU1p3YVc0MHlxSm5SSU9xWFF1Nnc5N1FsU3R2LTZFek9EdzlsQnNqQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Autohome ADR earnings beat by ¥0.06, revenue fell short of estimates - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1NzVTdadUtwaXFhM0NSMzNQRmdlcm1OUWR2LXRsSS1HN2FpZEdYYWhpMDZKNmJ1M2ZjNFNzMFY0Z05jNUY3cVVKaThnY3pYcGtUZW5UY21uTWZBdkFNRW8wQTVuUlc1ZEI2OFJZbDRaZVNWQTZDbnY3RVVlYS1fV3EzLS1JUDJjNG9YVEhjUHlvOTgyQUN5Rmg0LUdZa0FKNC1GT2kzck44d1dRTFZBUUZSZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dropbox to Report Q4 Earnings: To Buy or Not to Buy the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUhxZE9YdThvYlRueUhpZk1iYmVwWHJBa1VnOGNza1Atand6a1o3ZThSdVk3cm95WHZXWHI1LTRGSFdWZnVYMkY3MHBPTkdSZmltMnVQYXlBWjEtVUo1MDRaZUxfeEthQ2RrNzhWZnhqX3NUWFVIdmY1NEJSY0NqT0Fn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Can MKSI's Solid Q4 Earnings and 1Q25 View Push the Stock Higher? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTlhEejkwa1FOcktFbF92S0xJdGdaa2N0UjBtOFZNZ3BzNy1qckxZVEFQQk1FVmdOd0hMbXEzVUZvRHlLZ1VqTVE5TjR0N1A1Rjg3aWg4UHhXeWE0RHplVnJpWmUtVGhUM1MyWEl3SW1Ddi12c3hrT2ZjWE4tbVZMa0NMeW03QXdEOHR6SGxObXF3YzR2QWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toast to Report Q4 Earnings: What's in Store for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVlBRVTBfblZQV2xBS1NlcGZRNTBNM0pnUFlRekFPd21FZjRCS3cyZnVuNmhQZFhJWjlxemFLNzVHejJYM2pNLUduczJlT3B4d2owQkpacmNlRTluSnJaTUl3VEdGYUEtamc3RFdIa3JCT3lIUUdlTHhOT3NqYTFSclFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unity Software to Post Q4 Earnings: What's in Store for the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOW1LaGNDMXZ3QzNHYUl2UmRUMk1qT2tUSlZOeXpxQ1FmVWpZb2dlbHE0LXN6MFZocF9kdy11bHFoZnI5dkhrdlh0eGUzLV9iaGQ1OXZVVjd0QUZ5eUd4ZHlRRjJvWFFwNFotZExlbWJLbm10dXlpaXRzal9EQXc3NG5EVzgxTkkz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warner Bros. Discovery to Post Q1 Earnings: What's in the Cards? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDdFMDRjQW5ISjN1V2J2MFhFcFJNWGo5c3N4VXJTYTlXWnJPblA1QVg3eE83ZldYQkVyNWtUZFJFb3VUREtBRUlDNjRwMHhDeXBteElRQVdMZ1BObzhNa29NclNSMWpBSlFseXJOZnFYenU4MzBJSGlWN1l1WGU5bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Booking Holdings to Report Q4 Earnings: What's in Store for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTJBSWdPZEpHMGdHNk5CRGxvc1MzYy1fcjJBa3dIYnlGVVJRM3M1RmlFazg1QlFtbXVlSlMwR1VsNTVsWlduNGZNTmRlaEdWdXhQckg2YjU5aHhQR3piOF9FRHdaVHJTazlUTmJXdmpOSUp6WUNkWEpXcVZHaGt0VFZ1RXowMHky?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 28.27
-      },
-      {
-        "date": "2024-12-03",
-        "price": 28.52
-      },
-      {
-        "date": "2024-12-04",
-        "price": 27.99
-      },
-      {
-        "date": "2024-12-05",
-        "price": 27.96
-      },
       {
         "date": "2024-12-06",
         "price": 28.19
@@ -529,13 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 24.72
+        "price": 24.71
+      },
+      {
+        "date": "2025-06-03",
+        "price": 24.76
+      },
+      {
+        "date": "2025-06-04",
+        "price": 24.6
+      },
+      {
+        "date": "2025-06-05",
+        "price": 25.19
       }
     ],
     "current_price_data": {
-      "price": 24.72,
-      "change": 0.21,
-      "percent_change": 0.86
+      "price": 25.19,
+      "change": 0.59,
+      "percent_change": 2.4
     }
   }
 }

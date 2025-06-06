@@ -1,56 +1,164 @@
 {
   "ticker": "CPF",
-  "name": "Central Pacific Financial Corp ",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 704070976.0,
+  "market_cap": 708656896.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 12.196261,
-    "PB": 1.2671748,
-    "EV_Revenue": 2.42,
+    "PE": 12.275701,
+    "PB": 1.2754285,
+    "EV_Revenue": 2.391,
     "ROE": 0.10939,
     "ProfitMargin": 0.23506,
     "GrossMargin": 0.0,
-    "DividendYield": 4.04
+    "DividendYield": 4.09,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 93963000,
+    "FCF_Margin": null,
+    "ROA": 0.00786,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 45.79888021235256,
-    "Momentum_10": -4.025012282754801,
-    "MACD": 0.1081616222925561,
-    "BB_Percent": 0.1319358284428909,
+    "RSI_14": 47.749855445836374,
+    "Momentum_10": -0.7627116323755294,
+    "MACD": 0.0547747358186256,
+    "BB_Percent": 0.2125679099261334,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933960722820535,
+    "ValueScore": 0.932961565953806,
     "QualityScore": 0.3504510740004273,
-    "SignalScore": 0.5282277089749916
+    "SignalScore": 0.5758808183190638
   },
-  "volatility": 0.0194291178004543,
+  "volatility": 0.0195025246869587,
   "beta": 1.015,
-  "return_6m": -0.1527617478400834,
+  "return_6m": -0.1499497149381659,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": null,
     "target_mean_price": null
   },
+  "news_sentiment": {
+    "summary": "Central Pacific Financial Corp. (NYSE:CPF) a récemment publié des résultats trimestriels solides, avec des bénéfices et des revenus dépassant les estimations. Cela a été soutenu par une marge probablement propice à une augmentation des bénéfices. Cependant, malgré ces performances, certaines analyses soulignent que la valorisation de l'entreprise n'est pas attractive. Par ailleurs, des investisseurs importants ont ajusté leurs positions sur CPF, avec des réductions et des achats significatifs. En parallèle, des prévisions positives sur l'acquisition de CPP et la génération de profits en 2025 pourraient influencer le sentiment de marché autour de l'action.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Wellington Management Group LLP Reduces Holdings in Central Pacific Financial Corp. (NYSE:CPF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUjlnbmR4dFBCMmJITWh5eTREblM4dVJkdUZLemxKM28xYzNVSG9ObFNPVHpuLUZVcmx1endLcGszM1hGYmsxRHdlNVdWcWx2Zl9IVEttV3ZibnBKTDBGUy1LOUZEV3JZMFF5SENUTURNbDJ5ZVRlRDh5aW9WdlJxUWpER29HYklSdDdOX0RfeTZmWVlhVE5uaXdsZnJhUlJhNGliaXR2RGlqOXV1RWZEa0ltdjZpUG0xSFlGajNoTjhYc3RiWGFRb09VVlFIa0NUV0R4TkZlN1BVYjBJeDdZc0dWdFdjU19y?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Trading (CPF) With Integrated Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamRjVjcwNnJVYW5SWWY1elVtOXRnRjkzMDh2blhNZXBxZ2J5bjFuUW9oc0dGOTNVOUptNnZNaGpSdDhKazF5Tk4xT0V6TDNuaG9oY09wZ190MEg0Z0xtYVB4Um1DLTJBQ2ZhaEdnbURVQ3pOb0FUSzZGM1U3Q3c1OG9JSXFGSFpEZjVkT0dHTkVVc21Bc1V0Y0FQWnB2aGdUeE1ES0hUWWZfNkJKOGhIQmhmWUxCSVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Summit Global Investments Invests $498,000 in Central Pacific Financial Corp. (NYSE:CPF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbWptZWJQTllKX0Y4eWdqTGVWN1pYNGlfU0IzTzR4b1pnUFlvY3dvRHp6dUx5OVd4QWQ3RDVYRXdzeklKWFZjZkMxdVNLbWk2bUd3RlBOQlhGOVFRVnZkYnhRMnZqeUJRc3c1OGM2MDdHTlJJcEtXLURXZ0tyRVQwOVBVdTZUZ19KWjd2eHA2QVpZT0VYUDRjNjlBdW1yZzgwc2dwWDVMZExtYUxGUkJYbXRLMnZsN2RkTUlDa2NTUkU1dlZEX1N2N0c5bktIWXFPdnRtSjhncWVjTzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Central Pacific Financial (CPF) is a Great Dividend Stock Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaV9KM2VNSTE3dHlXWmxpclQ2VkNtZFFlYWxXdDdVNm9BdHpycnpYbF9XbDNncUxwTnBOM19BZGNiNnFMU0FLTGFkSEN2Z2FpNTVQYlVudGktMjFqMkg1azY3Z25FMVpnQVhsVmFic05ERi1sNWxiVjBwVkdzaTBsWG1NMHRQZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Central Pacific Financial Q1 2025 Earnings Date Revealed: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVM0bHBsNFhtT2NwMFFhcmhfTl9MaHhWaDhUd3M1TF9jU3pPR0VoeHhSZ3pIT29IV29fZkxWNDdUX1JoOGkxdTJqaElzMS1xaG9mTkpNNWhJZVdqYWFXaXdla3FwYm5fOXhqaldOVDMyTklVS2Z2R3drNS1VVmM5ZlZrOExyb1JwcDg5RDhOY0JFeDZ0MXU4cjVIaEx6TjJTM0h5aHlDcEJGUzNxVUNFNUktQlJ6M1VoNlZnS1JB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Central Pacific Financial: Margin Likely To Push Up Earnings, But Valuation Is Not Attractive - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaHd5SDRTTG9GVzBuLV9sWTk0SXhhZnJaZ25weDAwVEhsWC0xdkZRWXhMaXF1S3RPNXVxMzA3RWxxU1lUTUxoaTdFTXZSY2Z1WXlQbFV2Yzk3b3djZC1IVUJ0V3BmVS1Pdm00TDhJMUQ1S0s5eUZqcVlja1hKZ01ULXJDWWxKUmNrd1pvQjB1WTlyUW8yVG42TERtNjN2SkYtYTBGbVpEZXZCT3dTQXotclhmOHZ5cFVjRkpUYTJ3WVRqT3Y4NWQzMkN0c1hUVVRnYW1faVNfM210RHVm?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Central Pacific Financial (CPF) Q1 Earnings and Revenues Top Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGVsLXh5bWNYNzBXSkRiekV3SmFKUm43RWFfUk9OTW9CY3p3Vmlrem42b3Z4d1o0NWZ4LVMwMWwyd1RPSDVsX0xxMTZ2WXFYNzFjREd1V2Z6NUwwM09rMkhtMGRaalF0OF9IdEQtSHBqZDhCczdoZjlmQUxRNFBocHA2cXd6NkQ3cnR2R3VTR0lKcDN1OU1MUFEzYU9aSnBXblg5Qw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Buys Shares of 151,880 Central Pacific Financial Corp. (NYSE:CPF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQcG5CR0d0aXFBcVd4Mm1hd3pLMXMwTTczcEFtT1ExbHBoMFE2dVBXUU50YnFTZWZvVGp5MVNRTXFwTkk3VU92enpVck1zTEhUZ2ZwNVh0WDd6Y1VQUkl4eFZ4cVBweHlCOVdDYko5Mi1DQnVYNGR5OVFfYkp4clBIN0xTYmkxc3VQZmVsTXRYYTlhSFRzSW5jMjN1OTFta0hzNTZpN01CcFVNaWN5RHg0aHpnUThFVGdPRU5DUmE4d0VVYVVDREVSbGVpemk1U0JsRFNMdHQ1bWFBWmhKRTNmN3pRTzZwTG5yaWkySGNjTVVPSE0wRGZTRXl5eWVtbGZEX0dN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Central Pacific Financial Corp (CPF) Q1 2025 Earnings Call Highlights: Strong Net Interest ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVjloak9wRm1ZNjhZM3JJcVpiVmRkeWc4WEF2Z3pqY19mNUdGcmw0My1Gd212Ri1IbG9RTlF5N3g3ZThGVXBpWk9qMHIzVFhEM3p6NnR4TlYyLXdEQTh0OEFPbnpwMDZJVGduUWpmZVpWRTdOdlpuWVRueTc1VGhMQTE3Y1d3WFU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(CPF) Trading Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVgtdUs2OTIyN1VIcFpCZjlULUNBcFV6Z0FuWWU0a2ROMU15MFZmQ2dkTkhSQmgzd3htNU1PaGhiUGtiVHVSWUxkcUs2c2pKMXZkbGVscGctaXZnTEgzTkppSVBibHNPMWVVSm9qZWdqMXpXMTF3Sk5id3FZTFNOYzhsWG1sREsyUkloRHhqZHpuSHRQa1RZaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CGSI Is Positive on CPF Acquiring CPP, Expecting THB3 Billion Profit Generation in 2025 - kaohoon international",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FajJwLVpMcmdJSXZadkItb1BsUkZtYVpVUzlFUkdwcmtmSXd5OFJOZklvR0VaZHNrMXhodUVfbmhnTVdHSjBIUDNxR0RVWGcydF93Ml9jd2NBZ3hNd3hUNw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Thailand’s largest meat producer to launch IPO in Việt Nam - vietnamnews.vn",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHdmWlQ4c1hEYXBCT1dlRXlOeXM5MzNSY2Z1WlRUd0N1TDFiWkVva3daSERKWDZLTGlHUEJ6eTNfc3paYTBnZmVqXzBUc1JzXzNXYkNrVUdMbzRkeS1vYlFtRnJTdjltaEE1anFacl9pX1E5cGJrODJhNVFRa1pDNVpwV1ZSTDJRaXBEOUVjcHZxeDhjMTRNUmZNTEY0WXdaTjl1UA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Central Pacific Financial (CPF) Reports Q1 Earnings: What Key Metrics Have to Say - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTlJQNUZoVmdxY1dLSEpmczBDQXlYbnFzV2poWXhLajk5eGNtWWxJS1djd245bmYtaDVYRnRzTDVoMUZfVXpvakczSFBJNHB6Mzh3cW1OUHN2WGpqMUpCbHBjOFJlQlh3b1N4VWtZeUozMmNpNFZBc205clFuQ0JHaC1FQ19ySS11RmVv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Sells 23,200 Shares of Central Pacific Financial Corp. (NYSE:CPF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdVowTWtZc0swSFZycTRpd1JpWmpMWGtrclJaMXZ4Sng0QXJwMDdQRlViVmNYZi02ZkdLNDZPWHQ2V1FEc0wyZG8ta2dwWlZhZnowdEtTQ0RRSy11d2d2RURkU2ZxbWVRaFVHb3ZUOW5FU3diLWlJdDlpLWkzal9MblpQM01JSklVbXdBY0NpdVY1VTNsZHl1NVZVN244c2ZoY3hZUXM3ajNoZnIxT1RUbWhUTTQwTk1zYWdtWFJIMTlFSnZORkxFOXRRX3JYbGttRUpmb2RvQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(CPF) Investment Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdE1HdVlqdGduZTM0cHFEOERTMC12d2FkV29DSk1JT1BMVXgwYlNKWE5iVy1lNWd6QnMxY3VOWlhjRldOQ3RIUFkzelg0eHJQWmlFRDQwRjkwTDhUNHJJbkNMd1NNSWxBdXh1ZTc4eWZRbnRQaVFaenRaUDlmeWQ5VFN6NldyTDBucllQTHVLcUtLeWJGcUVLa1E0VTM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are You Looking for a High-Growth Dividend Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUxjbUg0NlhWWUFCRVYyb0lBT0kzSjl4LXRxeGNuNWlBbkc3Q3ZqUWxtYXNpUk9DcUhWaTdEOVBIQTJsUFpVVjFuWk1PdVp5LURNNERrb2ZRU3RhbkNBYWdEZ0cyXzlqdGlOY0lvOUd6aEljeEgyTWN3ZGFaMjhRdzZubklGQTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mackenzie Financial Corp Purchases New Holdings in Central Pacific Financial Corp. (NYSE:CPF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUnNfUDNjZGVtMzFHbGtSbTZNc1ZUNkdTbXh4VWZjYy1NakxOODBzV0tyekdVbjNXdEpoUHZUNnNOX2o2MmtUX1U3OFlobUkzMmdCWDV0T2stWUFmVTFtcHhOb2RWU2lQWWtydnNOY1ZBNmkySjJBYmVraDZRdUU4dFRiRGlpTDh5bWwzY3hFaXFCZGhpVnRrTHFjM1RjV2VyVWN0ZVpHN2o5QUlaaGZZTkVlQTJsb3dqZENpMFVQUUhBX2NPV3BES2FMVmpSbE5xeW9sNXBTcUczbVNXeERJcWVvNVYwYzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Central Pacific Financial (CPF) Could Be a Great Choice - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWpGVTBEWGxxQXdSTHVWcS1laUJVUlktejhudGJ0Q194aDZLVlE3c1ZGTXo0V2FzS0JBR0tlUWxrZ0hDOUhITDJtaXFRMU9jQURyTGl4Z19fcDF0MlYzaG9YdWxpUFlCMkFvckVJYjUwS2NtY1dnR1BqeEhoZXJsUVIyNmhUSm1T?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank AG Has $783,000 Stock Position in Central Pacific Financial Corp. (NYSE:CPF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOWk5ejVMYjkzYnNGR0kxOEs1bkxtazVrb3ZwU2Y2b0JmU0V3eTB1ZUphU25iVlpUNUVveXBwdndPcTliX2JWU1hsc1dQMDE2UDJBSDNQanFNTEZiVWhVM2d5Z3NfTW1yQXlySGlWQUFadTR1QW1GeTZxOVBsVi1YeWg2NzhTT2xaazZoYnRqd3U4dWNXTzhFTWg5NDdTRzFKcXNUa2RLYXZUQzQyWllCenpVTEpMZGdvQ2VwdVE4UHVTZFdjMzNVY3RObjV6aGhVcHlGWlM5NGN2UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nuveen Asset Management LLC Boosts Stock Position in Central Pacific Financial Corp. (NYSE:CPF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmVxZzNjcHRsZ3RHYjNzTTFJOUJUa2RiZ2VNOXQzZXlFZS1wTW50amhLNXhWQ19keTVYci1iMzkzQ3JfaUl1VW4wM2tUMzdNVUxibllCMUdNbmhmenlDcVRiVjlWTmZMTzUwTXdxYWhBem1LaWVWeXNDQU5MNEN0WTVxZWgtemJPS052R0Rsb1lYQ0R6Q2VjNVJ3a25xRjBqS0lneS1Xdy13N0tYTzBPU3p3STJPaEtacF9rTWlRMXplSVZhWHg5UEV4ZzgwY3g1LVBMM2VBb2V5NmtQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 31.41
-      },
-      {
-        "date": "2024-12-03",
-        "price": 31.2
-      },
-      {
-        "date": "2024-12-04",
-        "price": 31.53
-      },
-      {
-        "date": "2024-12-05",
-        "price": 31.78
-      },
       {
         "date": "2024-12-06",
         "price": 31.51
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 26.16
+        "price": 26.14
+      },
+      {
+        "date": "2025-06-03",
+        "price": 26.56
+      },
+      {
+        "date": "2025-06-04",
+        "price": 26.43
+      },
+      {
+        "date": "2025-06-05",
+        "price": 26.3
       }
     ],
     "current_price_data": {
-      "price": 26.16,
-      "change": -0.55,
-      "percent_change": -2.06
+      "price": 26.3,
+      "change": -0.12,
+      "percent_change": -0.45
     }
-  },
-  "news_sentiment": {
-    "summary": "Central Pacific Financial Corp. (NYSE:CPF) is a company that has recently attracted the interest of investors. The company has received several investments, including a $4.41 million investment from Universal Beteilungs und Servicegesellschaft mbH. The company's stock is also being traded with integrated risk controls. Additionally, the company has announced its Q1 2025 earnings date and its Q1 earnings and revenues have surpassed estimates. Despite this, the company's valuation is not particularly attractive. The company's Q1 2025 earnings call highlighted the company's strong net interest margin. Nuveen Asset Management LLC has also boosted its stock position in the company. Overall, the company appears to be",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

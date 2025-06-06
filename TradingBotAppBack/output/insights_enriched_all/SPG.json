@@ -2,55 +2,163 @@
   "ticker": "SPG",
   "name": "Simon Property Group",
   "sector": "Real Estate",
-  "market_cap": 61264347136.0,
+  "market_cap": 60806119424.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.867039,
-    "PB": 20.675196,
-    "EV_Revenue": 12.984,
+    "PE": 25.63275,
+    "PB": 20.520555,
+    "EV_Revenue": 12.905,
     "ROE": 0.67307,
     "ProfitMargin": 0.34248,
     "GrossMargin": 0.8237,
-    "DividendYield": 5.15
+    "DividendYield": 5.2,
+    "DebtEquity": 773.472,
+    "CurrentRatio": 0.372,
+    "QuickRatio": 0.372,
+    "FreeCashFlow": 1983254400,
+    "OperatingCashFlow": 3868770048,
+    "FCF_Margin": 0.33086112778851023,
+    "ROA": 0.05826,
+    "PEG": null,
+    "EV_EBITDA": 17.395,
+    "BuybackYield": null,
+    "PriceToFCF": 30.568492223690516
   },
   "technical_indicators": {
-    "RSI_14": 53.49345332716101,
-    "Momentum_10": -1.501935441421847,
-    "MACD": 0.7711813294280034,
-    "BB_Percent": 0.5489863027180168,
+    "RSI_14": 49.74565544487943,
+    "Momentum_10": 1.6696176771899434,
+    "MACD": 0.5765059235558283,
+    "BB_Percent": 0.3841500377482849,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8511794756836175,
+    "ValueScore": 0.8481494501482605,
     "QualityScore": 0.3773792215578174,
-    "SignalScore": 0.6114083186463759
+    "SignalScore": 0.5849993103165176
   },
-  "volatility": 0.0207165880630938,
+  "volatility": 0.0207137672321407,
   "beta": 1.486,
-  "return_6m": -0.0827372832281042,
+  "return_6m": -0.0921508588781211,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
     "target_mean_price": 183.5
   },
+  "news_sentiment": {
+    "summary": "Simon Property Group (SPG) a récemment connu des fluctuations importantes, touchant un plus bas de 52 semaines à 139,2 $. Malgré cela, Stifel maintient sa recommandation d'achat, avec un objectif de cours revu à la hausse. Les résultats du premier trimestre ont dépassé les attentes, mais l'action a chuté de 8 % suite à l'annonce d'une collaboration avec Shopify. Les investisseurs doivent surveiller de près l'évolution de la situation pour déterminer si SPG reste un bon choix d'investissement à long terme.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is SPG Stock Still Worth Holding in the Current Climate? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd0QzQ093WEw1VDZGOVcwbVJnelU3OVdGcG1Cc2pvcUx4dFEyQXBmY2xldXV1OFVKck1ub25VRTRRcFVhQ2x6MmVJRlZGV3ZucEVIQVBBN3d0NjJ1Qjl6X0V1Z1VnOE5kdjVYZW92cUZHRk9RN0hBM2tTS2hBNHJKZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Simon Property Group On Sale? - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLRGR5SkY0SHNaUHhNZ0hQR2p3ZExyLXFLOHFWTUZHN0tkXy1EX1IxMUJzNi1sYUFTemVfa3ZxWWlNb2w2dlZrMEJUTXliSE5aUTY0WG9Jc3MyQVFwMXFPRmE0WWtFTTUyRXZZTVRRNkoySXRoQXN2NkxIYjE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "stifel maintains buy rating on simon property group stock - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHlYYnl3am1CelgxN3lCNlY3V1MwRVptakx5anlMVm9zRW1EdGMwaGRJQzZNaFNld3FUM3l2VThGWU9DX0Rsa0lNTy1PbXBjV2p4QnZDTk1TdjZUaEpTN25IWFdjV0xpRFRpVFBlMi13aVBTRVFvYVNfaTNSUVpXUU5uQ1dRRkgzVmxkWEhiVEZJV2U1dmczc0NsSWVSRDVqSnZiYWZSMnBTMU9IRUhsN3F0N0tZRzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SIMON PROPERTY GROUP Earnings Preview: Recent $SPG Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUkNCc1F3UVZlbWtJb3ROb1E2cTR6d242Y0s4bVFPLU03cW1vWnNEWWVpTVNJQ3N3Ym9PZnZ5YVdDZXV1LXRaZ2gzZUN4MTFtc3dIbHVld0ZHRG5LSkppSHlGS19JNmJUSFhGTkE0V09WQUt4MGwzRFhScnpzUWRFRXRyUDIwcS1sN3BYUVhvRWFjdHdWSUZLVzJ4VkJSSlpmcjY5Vmd4eE5URUVpZ3ZQYjdnazFaRi0yMVNDYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "O vs. SPG: Which Retail REIT Stock is the Smarter Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwZi05M1hYdGJmWXg3cWV3VXJEZGdBTHdhMFFWRGJGZFd0a1MzZGVEczdackcweEJDRkluTUdEX2l4ZmtEaWM0MVdrTlZVSVRsaHZKaENjcDdkc05kQVpQNXljakNsX0ZCNEFsbGxPTmJFUEVX?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group (SPG) Target Price Raised by Stifel Analyst | SPG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUFdhaWtaaU1VV28weERJWEU3aWdMYW9CQW9ycTN2Vy01d0Z5bHBsYXdTVl9DdUxRZVhxVEtvc3pwT1ZMVmpVMDB1dEdHYXpJNkY5M29GSHh6WkpXTkZ0QktDcWsxUFBpSkV1U2RWZjFBb3VGektUcEttemFoYnlwVTNhWHozRjg1cy1VaHloX0V2cEFNVkoyTUYtbTFFcTNfdUtjMVo4YmtQUVBlTWNZQ2l5S2ZrVC1q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SPG stock touches 52-week low at $139.2 amid market shifts - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3I1N29FOFM4czNtVEVZeUJkdlh5bG90TzhVYU5BeXRiZ0pTU0xlQ2gyVU1vSjlHUS1HYnlNMnQtY0dTU1ZQWmRxYmFDd2piVnF0dFVPdG9kUC0xNmwwOGFTWkVuUExnMHREQXIwaE5iUlV0NVRiVVE5dnBpMWY5ck5Wb0ZHQlFWMFBKTldzaEItSlpaajQ5M0lOQjZUWURIUlk0U1ZKaU1KS0FZTmx1YW53?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Preferred Stocks To Sell (Part 6): Simon Property Group's SPG.PR.J (NYSE:SPG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNzJCcHBFNWVkWnMyNjhWQmFpSmFYem8zQk5Zd0RLNUpudnpjT2E2VU5kb3cwa0dlMlgwU29WcnpFUzZrSUVWSUFnMU05S2JScDZVcTVPVHdzQV9uanlNZHlKZi1qcWhBbWZ4c1hWNVRTajZMaGV4cXkwWnlWaDdyamhlOExtY1JWV1UtdDRGT0h5Y2lBUlpKOVhBVFVfOXYxNEU4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property (SPG) is a Great Momentum Stock: Should You Buy? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU096cEpmRkJ2Vy0tVW5RblJDLVV3Nkdpa2NqWERleG1OR2JwbkQwLXhhanBkeFdCVzJOcERHdG4yVERmM0VwRTR6ZURac3N4QkVraTdvUC0zOExKaUZBR2NPWTd2eFlyTHczMUpzUExSZGNYVC1mMUU1T203YUFLNFotWEtjREJSZHBHOE1zSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is it the Right Time to Retain SPG Stock in Your Portfolio Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSnRMMHZuS1dsdTRaZ2FXWmw0b2FPZEpOOUdPaWlXYk9hNUpVTzRwelNPWGYxX1F6RjlkazFXTTNrQkR4bXNuMmtTXzdMVG1nZjFqVGR0aFltRWlQZ1M2S2xjR1lQX0tMd256aU4tU3ZLVnc0dEVVdHQ5U2MxQlZPaUVvNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group: Price Drop Creates Opportunity - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcTBNRkdvR2pCeHV3T05SNEdWZWVaNjNHdzhOQjNjenBzMV9BaW9UNE1td1JCWjFnSUhHUlhBQzFNaE9yaTE5ZWkwc1Y4NXJhVVZhU2NRNHF6VEYwZFFfa0w0UkJWQ2QtNUNnVWNpNXQwQWh6RjBFOVpfcVZOMTFtQTAtNzVBc3pZN05Jc0hQUy1yTFVOOGpR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Simon Property Group a Top Socially Responsible Dividend Stock With 5.3% Yield (SPG) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTJ4ZnNibDhiRF9ZMU0zRmdNYWJBcDRPTGRrZ2JCQ0dPSm82MUx4UV9IbWluV3FNdEZlMVdMbTZvYi1GOVFFbE1ha1JkX28yUWJRRnhzQVotdGxjQjc3NXNXT2NKVTJBdHE1SmJucTNCWHkzTk14REdUemF0Z1F1OEh5NFFXTGZDRXpySkhOdVdXVThBMDdxaGNtQXcyNzdWeUtBS1lBZnE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EPR vs. SPG: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxcHRqdlJ4M3JXRGl0Tnc2R3NpQ2ZLSUUzMkFfVU5tYWVKVjQyem54Rk9IdjA1RHVJUXZRRS1CYTVPZ2hvYjZhQ2dhUUlZS3o0bUMyOFQ0d2RXT1BFUk94dVFhYjVZX0hpU3VfbHEtdi1MaE1pUGxNUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property (SPG) Q1 FFO Surpass Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4LXhtUXpTTVZYLTIwVlZscm5SOERCODdlQUs5MVMzYmpOMV9zTUs0NFMyOTlZQ0VpLWZ2WlZXMFlPa2VMVGp1MGljM0pqazMwVFB3dTV2c0ZoQ2pUckpaYU12dHlSV0JzVy0zbVFGb1ljRmIzVi1lVnRHWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jim Cramer on Simon Property Group (SPG): “Should Be Bought — And Bought Right Here” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU0FSQW5CaWdZX2xQYlB3TnVUX3pkUktCYy1nbDJNUVB5anlVczl2enREUEpvWlRRSVRQMWJlQm4wQnpNSUNTZ05MTERacFE1V1RPVlRjY2h5S0dIclJnQkZZaTdHNnZ2X2QwUi1qREhrNFZ0SHFrTnZ0QU9fS2gzU29EVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Simon Property Group, Inc. (SPG) the Best Real Estate Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1scl9VS0EtNHptaDA2SFpacElITHVSTmVEQVBxOFRncVRPNkZ6bjhBTHZGb0Fld1R3dGVmVnhBaXA1RGFPZzB0Z2dLY3lCWWJtc0dNTldMLWRJYm8taVhqb3M0ZlR1ZGt3WGowZlUwM091ZVlGRW12dTJvSWNQVTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group, Inc. (SPG) Stock Forecasts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUFVVlR0WU91V2tMZDg5OVJjQUg2aW83WEh0VWJfZlZHNGotX2tfemJhMExHalNtXzR0ZXA3eF83LXJ1a3FmR05zM2hELTVwcmViUjlEQU1JdC1sNVBNMGsxRnhQWFEtUENTOE9Nc28zMWMwRkZkMC12NmxSclpSdUZMT2NPcXNjdXNzYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group, Inc. (SPG): Among the Dividend Stocks That Are Outperforming the Market in 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HYUVDVkZnRFVxQURFbHdZQzQxYmFRNXZvMnhJRmFRTTVqYmZCaER2TkxlclcxMmg2aGtObFRLOVBXai1peFljaG5JaGNzc1VjblJjYTBJcGR2MjhFQUxvWFNYWVpmVDRaYnUtRE5PMFowQWU0TTNHZE9xcWFUQmM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Simon Property (SPG) Reports Q1 Earnings: What Key Metrics Have to Say - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRlBaUGVfMlZra2tBMXdwRG80VS1qYllQbTljSTRuUXdwWWJXM04xOXUtcEtoLTZjQmNpQmlHUUJEVXBSUVFHaGFiR2xBelpqNVhKel9NX3ZYUnBNU3VKQlo1WjJaUHQ5U3l4TzdCOGFFNVlwbkp5bWZvbl9JMkczVA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Simon Property Group (NYSE:SPG) Declines 8% After Announcing Shopify Collaboration - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb1ZDN2pPVl9seUJkU3FKaDZ4WnJGc2tqTUlaa1h1TjJ2cXhlNXk0bGJTTlpyQ0xFMmtIRUFFZFNJRzN2aTJHV1FEUmo3SEtNYk5hVzlteUtoVGFTWXh0V2JSdk45TDlpd3pib2hZZVVwVXNpOWJza1RTVWpKM2V4aw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 181.37
-      },
-      {
-        "date": "2024-12-03",
-        "price": 180.63
-      },
-      {
-        "date": "2024-12-04",
-        "price": 181.51
-      },
-      {
-        "date": "2024-12-05",
-        "price": 181.88
-      },
       {
         "date": "2024-12-06",
         "price": 183.84
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 162.59
+        "price": 162.91
+      },
+      {
+        "date": "2025-06-03",
+        "price": 161.78
+      },
+      {
+        "date": "2025-06-04",
+        "price": 161.62
+      },
+      {
+        "date": "2025-06-05",
+        "price": 160.75
       }
     ],
     "current_price_data": {
-      "price": 162.59,
-      "change": -0.4,
-      "percent_change": -0.25
+      "price": 160.75,
+      "change": -0.9,
+      "percent_change": -0.56
     }
-  },
-  "news_sentiment": {
-    "summary": "Simon Property Group (SPG) is a retail real estate investment trust (REIT) that has recently reported its Q1 2025 earnings, with mixed signals from analysts. SPG insiders and hedge funds were actively buying the stock before the Trump tariff shockwave, and the company has also launched a game-changing digital shopping experience. However, SPG's stock touched a 52-week low at $139.2 amid market shifts. EPR is another retail REIT that is being compared to SPG in terms of value, but there is no clear consensus on which stock is the better option. Overall, the sentiment towards SPG is mixed, with some investors seeing it as a good value while others are more cautious.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

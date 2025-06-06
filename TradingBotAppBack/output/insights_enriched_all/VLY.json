@@ -1,56 +1,164 @@
 {
   "ticker": "VLY",
-  "name": "Valley National Bancorp",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 4844148224.0,
+  "market_cap": 4846949376.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 12.528986,
-    "PB": 0.677561,
-    "EV_Revenue": 4.915,
+    "PE": 12.536231,
+    "PB": 0.6779528,
+    "EV_Revenue": 4.878,
     "ROE": 0.05483,
     "ProfitMargin": 0.25656,
     "GrossMargin": 0.0,
-    "DividendYield": 5.02
+    "DividendYield": 5.07,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 431907008,
+    "FCF_Margin": null,
+    "ROA": 0.00635,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 44.96713944366952,
-    "Momentum_10": -5.622264172787466,
-    "MACD": 0.0092534270501083,
-    "BB_Percent": 0.1780757208321734,
+    "RSI_14": 45.49706752520825,
+    "Momentum_10": 0.2317439608823354,
+    "MACD": -0.016381588213985,
+    "BB_Percent": 0.2138707127513368,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9338865129332375,
+    "ValueScore": 0.9329697087443304,
     "QualityScore": 0.3408111741575083,
-    "SignalScore": 0.5430518191293572
+    "SignalScore": 0.5838334499067583
   },
-  "volatility": 0.022877702014613,
+  "volatility": 0.0229459104440312,
   "beta": 1.088,
-  "return_6m": -0.160860846757643,
+  "return_6m": -0.1571800684426673,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 11,
     "target_mean_price": 10.36364
   },
+  "news_sentiment": {
+    "summary": "Valley National Bancorp (VLY) a récemment annoncé une série de nouvelles importantes. D'une part, la société prévoit d'offrir 72,86 millions d'actions, ce qui pourrait avoir un impact sur son cours. D'autre part, des investisseurs notables comme UBS AM et Nuveen Asset Management continuent d'acheter des actions de la banque. De plus, l'annonce de dividendes pour les actionnaires et le rachat de notes montrent une stabilité financière de la part de Valley National. Ces événements combinés pourraient influencer positivement le sentiment des investisseurs quant à l'avenir de la société.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Valley National (VLY) Plans to Offer 72.86 Million Shares for Sa - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUVdoUldWcHpNYmlla3lKOXotdkxFb2xSOGFRN3ZWaXpQTVM2N0RGcEFDVklRQVBhMUNIUWRxRW1La3d1d0pkT1VnUDdXeDJ3Y1VhR1FjWVNHNjhZUk1NbzRCZTJDaGR2T0dJNHhmb0NFakM4U3FGNVdXY3NqaXdteElDV0JSMWFPWV9hXzdBNDdSTmluZU5SVjN5bXVXWTdESHU5S2xiQXloTTU1cTlyX1dNUU8xd2Qw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Purchases 199,097 Shares of Valley National Bancorp (NASDAQ:VLY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQY1l1SlpVLWJyX1hGR0dtNkdSYVZ2TV9HaVhFUFgwNEt1N2szYTBaejZHNEk3Ym03QnNXcWRnZnR6WFV2NDJHR045cGt5ZzNIUzRwd0hHYmJNVzJzRV9FRHR4c2IxcHBrOXl2ME1KV3ZmWGlPTDRYNklvakJrX0E1azNyNWR4N19EaWlyeElydVlxRERMYWFCTGFKLVVFSHBNTHZNMDVVTFkzQWpGcUl3eEIzMllTZVhqMGFHVmtFTUpjcERuWDFOZXdUbHk2UTIwbzJoN3R0X3dSTkN2WVRjNGdLckR3eFlMaEJtM1ZBeEI4bTJCcEU0LXljOEd3a2l5Uzh6Zk1fLWtUTTVOY3BmQWdSOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valley National Announces $0.11 Dividend: Common and Preferred Share Payments Confirmed for June - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYk04YTBKSmIyVlBsWkoyYXl3ZEtDbjVydjAwQ3Raal9PNVZxV2NSMm9FeTd3SDN0WElpNGp6ZEs0QnpOV3h0NEl4NWxJSTRHUVdMYWpRUEVLcG9wb0V0MXREaXVWV09ld1pIS1NsT3E0R1BNSlpFNHQwMEJKVWhqdjlGNWhlU2pabXh6WnRyOEpkRUVMTHQxLWVSWjh0TEdUb2ZjemxPdnRsWkh3dzFzd2xVNkpWVTRrM0NTYVVSdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valley National Bancorp Declares Its Regular Quarterly Preferred and Common Stock Dividends - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNFpCYlJXVFlpNkk1TTkxTS1Sem5JaHpKNmtwUHhzMzl5MmJheGk2Y3dKRERCbHJEeU9BbEhMQWpJeGpNRGxzYWQzM2RFWTgwN181dDZsRUtuQjN3R0JiOUMxYk1TNjA3TUI4WnBWLVNMZjB5YzFtMl9EZ3ZTWHRyT3ZvVWFKSjBCN2FHQ2NPVmZwaDhRd2s3S1U5bU5aVlNJSVJ0ZVpod20yWmt3YWpldnA2NXdWWThIY2I3SWVXTVpIV19NSW9XSHBOX3NzU1AyZjJqRklVMzRnT0ZiM0k4MFVRbkp2M2hTWUdhdm1RbnJOYWhKT2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Valley National Bancorp (NASDAQ:VLY) the Worst Affordable Stocks to Buy Under $10? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjhSZUw5ZUNMOVZlTUFBVnNtN050bFZDQlpLUm90M0p2ODJfWG5yaFVrY2tfbmp5U1pTWUUxdV9LN2EtNnl3VDNUYXpZb0MwcmlGVmNsT2hoLV9hdjM5S2VmbjFGMjI5dnhoM0lkWmFHSHJVV0VHZ1BNU3pVaEIxUGRicURLbUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valley National: Turning The Corner After A Mixed Q1 (Rating Upgrade) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFpTa2ZCcnFNWTNYem9EaTI3VU1ZYU1RT2xYckNZVW9QQXRyVExHTnB2c2lSTE9jdzB4MGZKRHlzS3pPN3plcFNOZEN5WXloNkJJbV9vcDVnbkVqUXZCdVgwM2hTWHpJSzRzZHVUVzJnYU9tTmFlTDk5SXJEVW90VDZrU1FNaDNrYVpPVmttbw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Valley National Bancorp Announces Note Redemption Plan - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTG82M3VoWkJuVi1UV1NaTzJYNGlYc200b0p3MU83eGREdUxqWGdHbnRkRE03NHg2cjhTNmxFZVFPYThsY3F0VHQ1UXZaLTRzbVZ0dEVMeWdMNlgyRVFPVFNQVXYzMDNoVm04THlIejhfN2tLOTNCcV9BamlEencxNW5tak5yd3hJbXZsc2thMHJGaDRXNWl5bjVVSGFBVGJOWGVIQUFnTzJxUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ahead of Valley National (VLY) Q1 Earnings: Get Ready With Wall Street Estimates for Key Metrics - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0NlX1BQRE1yaHJNSGJiWnhhb0s0aVIxUkd5X3c4cWNRSllydkt4RG9fR2JFOERydzZUTHd0ZmQ0UXc1WjRXZ2JLaW5yQzdqdUVMTERPUWF2VmFDWFBKUEptaVdza1dOZDNxakxJZFpuNW1zLTdzLVlNb3A1eHpPTUJ4NFlYZnJLNm15dk52TkFzdzc5QmNhckd0bDg1N1dDcW1KZEUzbTFsc3hqbUpwRVpwbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Sells 871,557 Shares of Valley National Bancorp (NASDAQ:VLY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTm9vbE9NT0JPT1BUMm9FNm80dTVRNVFPeDRRVFFJOEt0NEVMblNxcGVjQ2p6bFVqNm80WEIxNHhnMzl1Z2NFLUxFYk9EZlJha3F2Z0JJOTFIU0c5N0pBU1FuVG1aTWNvU01hREpuSjliSjZQWnBTbExoT3A5MzBzdTR6SWs1eFZ4bC1lOV9vbVlFZWEzem5QSFpHOUFsNmQ0YjhubmlUV3dITWhUaWNWXy0ySmgtT3hzTWFpcGFWM2JMekM4T1NsTFRKb2gteS02QTNzS2RicENyekFZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valley Bank Marks 10th ESG Report With Massive $2.5B Community Investment Push Across Six States - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzVsd2YxQ0NEeWJMOFQwbU9jQkQxSklvdEV0d0lRSmo1bjFYVG5DRkM4MkJ4eWNmRzFBVHFnQlU3Zm02VWdDWFoydEZJZnMyenM2VXRnM1hlaE5YekYyQTFCX3FPYXQ0WUtmd3QtM2I3VlZ4dGJEdEVVZFRZVjFLcHFDejIxamxtODlNZXBqWGxCYS1YeWlRd0E2RmVYMHpPNndtM0l1aU41WEtzRnBFRw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Valley National Bancorp (VLY): Among the Best Mid-Cap Value Stocks to Buy According to Analysts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXVjeFpoZFZYMkJINkhRaTQwcHdNMU8xNl90NTZNX0Z4WnVoZkJuWHF1YUU3dmV4V0g4emJtMlJRUVhyWGF0YTI4NkF3ZDU1S1lORnVGU0I2U2w3Yk56SUw4Qnd0SHBaVmZXdlhvaFBQVHJRcUhvQk1yYzJiWVY1cHFQeG9nQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Valley National Bancorp: Performance Improvements, But Still Avoiding Preferred Shares - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVJ4RUtRT2JjTmVwSDVhLThRVVRQWHRRVEhYMGFNc1ZYTlowYkJacGlldzJ6NTgwY3dwdG1YZDNfdVdRMlNxa3huODhGUmtPM0hTbmdxUzVuSW44eDVBNVpNM1N2S2dvb0FpMjVDUVJsWTRFN19VSzhYUVM3WUxuaURpekpzYzJkTk5fUmdtU0duS3ZtWkpyUmtJMnhIa3hOaWZwcFNqYThsa0w1QVNBbWZqZ19MTE5odEEtc3czWmJFUzg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Valley National Bancorp Announces First Quarter 2025 Results - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanVQVDFCQUE1SGU5UnFTODRTdkVFV0NGS21CTVdTQ3F2R1Zpd2ltMU8tNUU2SUJpYnNjdU5ISlJ1VTU5TDhQbVUyM1VzbXFGYkNJWC0xNi11T3dqRWR5UVhXRkNRSkJJSnVqZjhqcUNHX3J0QUlGOVlVTHRjUXNIRGtkcklOcmN6WWpTWllrVV83T1VTbExaSUtsakNlTjhYSl9lQW91cHRJLVJpMXNDLWVQMTVSNkIyekZGczd0LTB3U1B5Zkpjd1oxTmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valley National Prices $400M Stock Offering at $9.35, Issues 42.8M New Shares | VLY Stock News - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHpMNEp3cFJBemU2V0N2c3FxMzhwczRwRy1Nbi14TjZiMkNVdE5mS21IMGtnMXktNlk2eWpCX3A5dkd0dS1ySnFoUnI0YVpYeFYtZHhuSXBQcEdGbG94Y2hOMUszUjNhSHNqTFF6ZkE3REgteF9ZamF1NzNlak9hV0QyS0RGSWZ6RWVRUlJ2bWljYWdfM1ZucFZXNmxhN2IzRTEzdGpYT1hLSUt0T1VZRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valley National Bancorp Announces Redemption of - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPZVNzTmNVb044cTlTcW5XdFRvQ2ZJNVE4UDloM0ZRaW5uWF9Zc2lINFlrNWNRNzE1VmYzNmFMNkZlbU5EYXZpTVAxSnAwVkRkc2N6NHBKbDJGUlFqcHl4b0l6Z1d1SnBEQ2VGckJKUXp2cjFDNWR3RkcyVWZVVXBudm1DYXh5QldUUHVJdjNfUXd2Nk9aTWpVdE1YNVV1enoyN0hkOFhfWmFsT3ZXWXk5czlQMm9faExNNU5QWVRQMlhlenF1VlQzaDlCdVdQQk1mSm01WUY1UHJyZlhkSXJ6THpWN2NjQ1dUVVpManpYM1R0MkRycThzQ0lnUDNOSHNfTS1EdzJVOWVTZ0k5anVybnh2QUhWeUlMYTZNaERCZFpwYV9paEJVNkp6Rm9LUi1Ed1FwV1BoR01EQTh6Smc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Makes New $3.28 Million Investment in Valley National Bancorp (NASDAQ:VLY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcUtTU1RnMFdzZ0VVNWxfazZNZ19KUl9uOTlMejBNTk9NT3V6MW9TdE5VeW1BLUFxb3FSUnNGM0hpVFZoX0NFaHQ5T1cwUC1iNjAtRnlQSkEzVUtBeW5yd1R2ZWNrVk9Oc3pCM3U5MDNQb0JIcmhfOUdQck1acThlVTA5bTN5RXhrakoyNEtHVXA4T0wwQ2EzZ3NzLXl3eWR2TjdyQlhCbHBfUDZvNE9nMlpwemE0VG5ZZUl4aWZVRXpDRUhieUU1THk0SXE0dnNoQWwxVUJDMFJPQm9CYUJaTEZyQjRTcGNYS1JncFFRZzAzcHJSMHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Valley National Bancorp 2025 Q1 - Results - Earnings Call Presentation (NASDAQ:VLY) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVpqZk1laGRaQVItWDhHZ2lrTm5lQ0dXNjdxOXllQnZlcnNKaS04UzVkNDlfd2JQR0FIM0h0Wm5XbE4zRW5Qck9yQUczeU5ZVTU3QnJSMVlZN3NrUGw5YnFsUmtteThFTEU5Rlk4Z0ZyVjdjeTV2TWh3dXdZakNZZDhPUTdrc0llQnpEa3FpTU1tdkhTRW5LaWt1eDhmTEtXUi1QdWFVWXNBRzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valley National Shows Financial Muscle: Announces Full Redemption of $115M Subordinated Notes - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjE4S3VnVU9EbjF6RzY4dng3MGJXLWFNbDJkc25fVUxmYWtibEYxUG90emxEUlU3VU1WbjNTUUdzY2E2Ui14T2xzZF9SOXZuNlZGbjQ0WEc2VGx6UVhuM3gzRWpRN0h6ZmZNb3llWnJ4TnBJeTFYM3FUckNQZEt1SHBJcDQ0MXhuSEVwZzJlbGVpTUJyaDZaOGJBbWJBaFlsQ3N0VnRfLWdHUmJ0YU0zeXNCcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nuveen Asset Management LLC Buys 68,740 Shares of Valley National Bancorp (NASDAQ:VLY) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSjBlWVBFZ1RSMkNGOEFGLU11eVlHT0RSTEJwWG5GR3JYV2V0ZjNFVFdIV3RDZmg0a1MweWU0MVdOSGRFMFl2TmlfcE9KeElOYjZETWNCTlNvaWZMRDFVSkhnUEFYb19EcS1Nbnc2WkVubnJIQ3EwNTd6Q05sc3R3c3dSbkJCU05wYklPX3BzNWt3MXRMTkdKV09RZm5aLUlMWmdTbUNTaU5ONFBaNEJGUm9ocWMzTDlYVDZaMkNkTmtQUl9lUF9TTlBycFJWaWJRUGVHdlBsZTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Valley National Bancorp Announces Proposed Common Stock Offering - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWk3UEU5Mno2ek5GQ0pCTXhDaDJTdm9jeXFDYVRUOGU4MlRoRlZpa0FjZzlVZmYwRk9hYkFGQ0hOQko5di1RT05PMmp5aFF2YTQzTWNtNkdEdi1wVTVpbVNMY1NsbTJFMUpES28wRzFGckdtbG0yQ3Fmb2NOd1dvUmRBU1hwQ2lOTHNFaEZRUDdUZlc4OV8wdFd0SXR2cWJPVW9iaWNYVFg3aEZUX0tPcHVxOXJwdVhtOThvV0hiNmpvYjZyNVNlZ01kOXQ3aWtaS0E?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 10.55
-      },
-      {
-        "date": "2024-12-03",
-        "price": 10.38
-      },
-      {
-        "date": "2024-12-04",
-        "price": 10.48
-      },
-      {
-        "date": "2024-12-05",
-        "price": 10.42
-      },
       {
         "date": "2024-12-06",
         "price": 10.51
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 8.64
+      },
+      {
+        "date": "2025-06-03",
+        "price": 8.76
+      },
+      {
+        "date": "2025-06-04",
+        "price": 8.68
+      },
+      {
+        "date": "2025-06-05",
+        "price": 8.65
       }
     ],
     "current_price_data": {
-      "price": 8.63,
-      "change": -0.14,
-      "percent_change": -1.59
+      "price": 8.65,
+      "change": -0.03,
+      "percent_change": -0.35
     }
-  },
-  "news_sentiment": {
-    "summary": "Valley National Bancorp (VLY) recently released its 10th ESG report, announcing a massive $2.5B community investment push across six states. The company has also declared its regular quarterly preferred and common stock dividends, paid out a dividend of $0.11, and is planning to offer 72.86 million shares for sale. Despite these positive developments, the company has been criticized as one of the worst affordable stocks to buy under $10. Analysts have also identified it as one of the best mid-cap value stocks to buy.",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

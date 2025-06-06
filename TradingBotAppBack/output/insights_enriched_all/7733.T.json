@@ -2,55 +2,83 @@
   "ticker": "7733.T",
   "name": "Olympus",
   "sector": "Industrials",
-  "market_cap": 2092079906816.0,
+  "market_cap": 2165395292160.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 18.049833,
-    "PB": 2.7605162,
-    "EV_Revenue": 2.074,
+    "PE": 18.684313,
+    "PB": 2.8805387,
+    "EV_Revenue": 2.148,
     "ROE": 0.15614,
     "ProfitMargin": 0.11817,
     "GrossMargin": 0.68553,
-    "DividendYield": 3.23
+    "DividendYield": 3.15,
+    "DebtEquity": 30.477,
+    "CurrentRatio": 1.597,
+    "QuickRatio": 1.084,
+    "FreeCashFlow": 100442628096,
+    "OperatingCashFlow": 190463000576,
+    "FCF_Margin": 0.10071132335428144,
+    "ROA": 0.069,
+    "PEG": null,
+    "EV_EBITDA": 9.303,
+    "BuybackYield": null,
+    "PriceToFCF": 21.55852881597623
   },
   "technical_indicators": {
-    "RSI_14": 46.19126431047648,
-    "Momentum_10": -2.3872679045092835,
-    "MACD": -15.120113874826757,
-    "BB_Percent": 0.318007492478475,
+    "RSI_14": 57.22194958351211,
+    "Momentum_10": 5.004101722723544,
+    "MACD": -1.6792162025235484,
+    "BB_Percent": 0.647098441372317,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8935523230150278,
+    "ValueScore": 0.890262568169881,
     "QualityScore": 0.4588711216706391,
-    "SignalScore": 0.657268580752816
+    "SignalScore": 0.5254772563179781
   },
-  "volatility": 0.0237306956135629,
+  "volatility": 0.0238243828583905,
   "beta": 0.5,
-  "return_6m": -0.2071593657392747,
+  "return_6m": -0.1716278493620614,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
     "target_mean_price": 2432.2786
   },
+  "news_sentiment": {
+    "summary": "Les investisseurs d'Olympus (TSE:7733) affichent une perte de 32% sur trois ans, soulignant des difficultés persistantes. Sony vend une participation de 760 millions de dollars dans Olympus suite aux pressions de l'investisseur Loeb, signalant un changement stratégique. La sortie des actions Toshiba de la Bourse de Tokyo après 74 ans marque la fin d'une ère pour l'entreprise. Asahi Kasei acquiert le laboratoire suédois Calliditas pour 1,1 milliard de dollars, illustrant une expansion internationale significative. Ces événements soulignent une volatilité et des mouvements importants dans le secteur, nécessitant une analyse approfondie pour les investisseurs.",
+    "sentiment_score": 0.25,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Olympus (TSE:7733) investors are sitting on a loss of 32% if they invested three years ago - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdGVNTkJnbHV2WU9jWXRyNTZ2djhZOEpka0xvczNrbkU4UlFNOTdNeXM1NGd5T05kbVB3YTN0UUpnTWQ0YUdJRWdMSmd3c2lHOE5pYUY3aGtyanRERGJJLUsyTmRUa0FZc0VUcU1ORll2eGFrT3VjRUNQaExXYmZPMzl6ZDVoS3BDYlZsVTRGWTlLVGN2UzlrZmYwSzdyN1pUSFY0bDk5TE0wc2MyVWd3c3NRamdwSVAxblkzU0RXSEN2UnR3TThsUDF4VGLSAdIBQVVfeXFMTzRMVkRIUHpxbnBUWTJ1N0VrTEVtRWtBSVlhQkZjYlBvaVZxcTVtX3VfUlNpY1JhOFdUQzMxM0ZQTEJudW9GOEZHY2d5cTRGVlFNNXpsbDFKZmctZmd3NS16ZTdaRnVXakVocEJmUjBnQ29DRVNjNzY0WFNkVy1RdGQweVBhS21nWnMwbXZ5aEsxbWNEN2J2ZkhLcU5BWlF6YzFOTnMtOEpzWGVXU3dJUXc2QXJwWUVsVUtuZUcxcXpXYS1vNDVJb2haVWdMalNZUHdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sony in $760 million Olympus stake sale after investor Loeb's prodding - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejNoV2kyVkNpZlYydUJOaUVERENKbXYxbzFqQUN0TTBad2dnSThTQ0dhMFNMenVVM1M1RlpwUnA5Sm1ISW8yaU11MEpoMjZ2QnBjdU1FRkZ0czZBTWRGRUY1Uk9QVXNpckJrMjBPWF9qYnBGcnUyMWNvSnUxNWFSR1NKQURZWFhQT0NHaG5DLVdiRERCOFNqR3VfR1hNNzdSY1Z1bGZuVHd6cjNTMF92V1lDMWVTbVU2LXVDb2tMeXNVUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tokyo Stock Exchange Bids Farewell to Toshiba Shares after 74 Years - Industry Leaders Magazine",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0RMOVpUU0xPVXV4X2RNcGJLcGZjdlJVaERXMTAyN2NOWDdaeVczM0x3NmwwTWNrWk5LdEt1VHRKWjRkVVRuSXVkYVE3R0FnTlNxR0c4bEUtY0VpWTkwY1hQOTNqQk9UcXY4WDl1dk83MjdVQlE4Rmk0dU5wdG9oYVFQODBuTFd1WkRBN2V3UGpKb1BmRGc2T21lWHVvRkZYRVhnWHA2eGMzcnJo?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Asahi Kasei to buy Swedish drugmaker Calliditas for $1.1 billion - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmFKQ2Iwa0FJSy1vc0ltdXIyX0RyZEU4SkVSV2xXdjBnR2NZak5SNUhCanRDbmdnRzNEOUNpa0JST0hBMGY3T00xTURzd3kyUHJuTjNZemx2QTk0YzhSX0dtWDd1bEZUZ1Z3RGVYLThsRkxNd29iOWFvMkJaaDVndjlDTG5CdkM1S2dHY2gxNy1ZTGpTcGdtb1hYNWlNb0VHanN3SFFYRzE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2344.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2376.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2360.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2341.0
-      },
       {
         "date": "2024-12-06",
         "price": 2384.5
@@ -514,24 +542,28 @@
       {
         "date": "2025-06-02",
         "price": 1840.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1872.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1906.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1920.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1902.0
       }
     ],
     "current_price_data": {
-      "price": 1840.0,
-      "change": -15.0,
-      "percent_change": -0.81
+      "price": 1902.0,
+      "change": -18.0,
+      "percent_change": -0.94
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte des trois titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant l'entreprise Olympus :\n\n1. Olympus (TSE:7733) : Les investisseurs peuvent perdre 32% si ils avaient investi trois ans auparavant.\n2. Olympus (TSE:7733) : Sony vend sa participation de 760 millions de dollars \u00e0 Olympus apr\u00e8s que l'investisseur Loeb a insist\u00e9.\n3. Olympus (TSE:7733) : Zoom a annonc\u00e9 son intention de racheter le Fournisseur de centre t\u00e9l\u00e9phonique en nuage Five9",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

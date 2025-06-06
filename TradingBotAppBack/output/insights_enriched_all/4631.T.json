@@ -2,55 +2,73 @@
   "ticker": "4631.T",
   "name": "DIC Corporation",
   "sector": "Materials",
-  "market_cap": 281536921600.0,
+  "market_cap": 288022429696.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.322193,
-    "PB": 0.72295266,
+    "PE": 9.354414,
+    "PB": 0.7250193,
     "EV_Revenue": 0.661,
     "ROE": 0.07675,
     "ProfitMargin": 0.02802,
     "GrossMargin": 0.21174,
-    "DividendYield": 3.35
+    "DividendYield": 3.35,
+    "DebtEquity": 115.704,
+    "CurrentRatio": 1.691,
+    "QuickRatio": 0.783,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": null,
+    "FCF_Margin": null,
+    "ROA": 0.02473,
+    "PEG": null,
+    "EV_EBITDA": 6.917,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 66.05449046873471,
-    "Momentum_10": 10.31348543869412,
-    "MACD": 43.57549483382718,
-    "BB_Percent": 0.9990769709951384,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 62.62317388948273,
+    "Momentum_10": 8.653670978320276,
+    "MACD": 61.88561238684952,
+    "BB_Percent": 0.8354955560910658,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9000824451398018,
+    "ValueScore": 0.8971925037253576,
     "QualityScore": 0.3869901534010788,
-    "SignalScore": 0.4611961082883238
+    "SignalScore": 0.4618415070016911
   },
-  "volatility": 0.023915916096866,
+  "volatility": 0.0239412502627137,
   "beta": 0.313,
-  "return_6m": -0.0790571029003057,
+  "return_6m": -0.1186743437123822,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 3,
-    "target_mean_price": 4033.3333
+    "target_mean_price": 3833.3333
   },
+  "news_sentiment": {
+    "summary": "North Star Asset Management Inc. réduit sa participation dans T. Rowe Price Group, Inc. (NASDAQ:TROW), ce qui pourrait indiquer une baisse de confiance dans l'entreprise. De son côté, le prix des actions de DIC Corporation (TSE:4631) semble refléter l'opinion des investisseurs. Ces mouvements pourraient influencer le sentiment de marché et mériter une attention particulière des investisseurs.",
+    "sentiment_score": -0.5,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "North Star Asset Management Inc. Decreases Stock Holdings in T. Rowe Price Group, Inc. (NASDAQ:TROW) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYXlsa09yUXpOcTc0c08tVTZRSlM0allaNlVGRVEtQW03RTlQRXg1WG9RUjNUSEs5Z0VhY3ZucURmS1NsS1o0WkFPSFhzZV9lVlZUV2NiRjdsWnNIWUV4WGcxYXVBYVpfVGhXQVh0UG1aQTkwUUg5MEU4alZncnU0ajhkZ3B1Y3djekFKMlNqbEdVNEJpbXVRdE5RU0F0YnpMb3VGejVTdDV6T1l3WUJfbThGelV6QjdjT1NvelFNY0toTUFDc1JSczFvNF9wVGtLNTFtSlB6Q0xTbDVmNURzRA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DIC Corporation's (TSE:4631) Share Price Matching Investor Opinion - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkRZdHFNU3hRbWRNYkhXUEdkZGxaOTlkT0F0Y0duUlJrcS01aDVBT1BpQnltVkktVHRKRGEyeHR4VGw2WFFlYThEWmNpekNSeThqeC1HM2g0MHd2NmtQdFpLaXpnRUhFTm95SzBwWHFxMF9adU5Ocm5mS1ppU1o3YVlJb0N0ZWtNVEp3cFlrWmR1X3pOYzVaSS1tVjNJdzY5am9VWHVqMHB5X210cm14R2hCdkcwYlprandzcU1YUFlWeFdkX2fSAcsBQVVfeXFMUE1ndmdiVzJZSkRYQ3V6T1RFc3hHa3ZtWDZ1Q19wUU9HcDlXNUJNTmQ3cDJXVm44QkdXQTUwb2hzYmJ1eWJPT3lzcXlEODF5N2Vla20zaHFOdmNFblBlT2N6OHFYQWt4dUxPbjVMaHFIZGotTDZubmRza2dNSWx4enJXcXFtSDk1U3hyZlJ0TVNnWTAzMVZRUjROTkVFVFY1WGZzV2U0OHAxZ2l0dXdHNDFNTm5oRVdMeTZ1cHhneU1qLVJsYlRyUEpVTWc?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3275.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3319.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3398.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3432.0
-      },
       {
         "date": "2024-12-06",
         "price": 3425.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 2973.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2966.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3042.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2982.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2998.5
       }
     ],
     "current_price_data": {
-      "price": 2973.5,
-      "change": -7.5,
-      "percent_change": -0.25
+      "price": 2998.5,
+      "change": 16.5,
+      "percent_change": 0.55
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres ont \u00e9t\u00e9 s\u00e9lectionn\u00e9s pour une entreprise cot\u00e9e, North Star Asset Management Inc.\n\nLa tendance cl\u00e9 pour North Star Asset Management Inc. est l'annonce de la r\u00e9duction de ses positions dans T. Rowe Price Group, Inc. (NASDAQ:TROW).\n\nLa tendance cl\u00e9 pour l'industrie de r\u00e9sin \u00e9poxy est la projection d'une valeur totale de 17,1 milliards de dollars par 2021-2028 avec un CAGR de 5,7%.\n\nLes titres n'apparent pas de signal fort, positif, n\u00e9gatif ou mixtes.\n\nL",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.33,
-    "neutral_ratio": 0.33,
-    "negative_ratio": 0.33,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

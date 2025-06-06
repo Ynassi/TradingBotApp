@@ -2,55 +2,78 @@
   "ticker": "6473.T",
   "name": "JTEKT",
   "sector": "Industrials",
-  "market_cap": 357517164544.0,
+  "market_cap": 356084350976.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 27.845276,
-    "PB": 0.47980154,
-    "EV_Revenue": 0.274,
+    "PE": 27.701006,
+    "PB": 0.47104293,
+    "EV_Revenue": 0.268,
     "ROE": 0.020680001,
     "ProfitMargin": 0.00728,
     "GrossMargin": 0.14927,
-    "DividendYield": 5.28
+    "DividendYield": 5.36,
+    "DebtEquity": 30.93,
+    "CurrentRatio": 1.582,
+    "QuickRatio": 1.014,
+    "FreeCashFlow": -4920750080,
+    "OperatingCashFlow": 80238002176,
+    "FCF_Margin": -0.002611312869310072,
+    "ROA": 0.01505,
+    "PEG": null,
+    "EV_EBITDA": 4.579,
+    "BuybackYield": null,
+    "PriceToFCF": -72.36383583536923
   },
   "technical_indicators": {
-    "RSI_14": 52.41468984821241,
-    "Momentum_10": -1.8356643356643356,
-    "MACD": 13.769591001100707,
-    "BB_Percent": 0.2661671039955666,
+    "RSI_14": 46.23101923927769,
+    "Momentum_10": -2.0435362061306086,
+    "MACD": 7.718071503288229,
+    "BB_Percent": 0.0152824937326076,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.898548263793552,
+    "ValueScore": 0.8957925946312557,
     "QualityScore": 0.3821855850738405,
-    "SignalScore": 0.6169723745492084
+    "SignalScore": 0.6270416988041083
   },
-  "volatility": 0.0245762371376742,
+  "volatility": 0.0244975561455035,
   "beta": 0.212,
-  "return_6m": 0.0841460938412392,
+  "return_6m": 0.0470367069389738,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 4,
     "target_mean_price": 1325.0
   },
+  "news_sentiment": {
+    "summary": "L'entreprise JTEKT (TSE:6473) a récemment vu ses rendements stagner, signalant un potentiel ralentissement de croissance. En parallèle, l'achat de 6,473 actions d'Unilever PLC (NYSE:UL) par Griffith & Werner Inc. indique un intérêt accru pour cette société. Malgré une hausse de 26%, JTEKT Corporation (TSE:6473) semble attirer l'attention des investisseurs, suggérant un regain d'intérêt pour la société. Ces événements pourraient influencer le sentiment de marché autour de ces entreprises cotées.",
+    "sentiment_score": -0.333,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.33,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "JTEKT's (TSE:6473) Returns Have Hit A Wall - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZGxWQTZpdENrWUdva3lRVjZOV2lTZmVfTG5aZy0yMXhJeDVkU3NZZGJDbTJIUFdWdHNKTHNmWXRadEh6aFh6NkJweUNORkNZSHZ3ZXJMQTNqNXFKY1JXeFRKcVBYVEJtRFc0ZF9IVXVCbUpuYXhFODNwLUFhR0ZuLTVOU3dudjg4TUJmcTdOYy1BRmY3SUNtR01jaFdLTmlSYURySlVaXzlFczVPdXfSAbMBQVVfeXFMUEgzNTV4Y05KRjVDRzdIQWUxTS05bnN3QmZiMjA2WGg5Z3N6SmMyUVRoVUpua0VPcmY5SnNQbUR0STFzdk1tOC1TbUpCLThoTjhPRU9iZWZIZ0hrU3NSWFVrU2pGVHRwOFR3N0RzTzRlaEtFeng4RDlNeFpOb01lcXhBYWZuTVprbU5MNFVDMi1nSUF0bXBKcG9kdjhob19fYmdjYnN3VjVfbnk4TzFZM2Z5b1E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Griffith & Werner Inc. Buys Shares of 6,473 Unilever PLC (NYSE:UL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNemVjSXdZT0FVZ28xRXFNeUN0a3g4dTk5WnFsN3prVklPVGtUbTVjNHpjY3AwU09xWWRYMnFRS0J5S2NuMzhUVExGa2sxNmJPakdXY2JmWWViUjJPSEVqWVpIekt4ZVVpWnlZMk10RFg1WjBQS1hKVkc3clcyX2huRFJ2NTdPbV9aN1lRVk5iM2FuMEZNOTJ3VWlwMDBPREJLNzZOeWpGRUxGcVBUUW1oamFxd2hjb0NkanpJTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "After Leaping 26% JTEKT Corporation (TSE:6473) Shares Are Not Flying Under The Radar - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVFBcXcyRnRwUXZUdDRwdEVrcjRXeFU3eUdDSFhsaF9YSmFQZGNMc2ZPN2tybTAxYTJTa1dRSF9PNGU2cVlJS2RJTU5HcjNzc2QxTUp4VjZQLVp5TG41RkhzTEZXOW0wQl9oRzFQM3A0RzZYSXR1S2pySlZvUjNOVGdfTC05SkFkdlNvSjh6YlYtbFhfamR0Y3NUcGtoYzJvOGRrYWNfYTQ0WF9Zbml0ODFGQ3RUVHMxSTdQenFaY3E3cGRTOGs3OF9nb9IB0AFBVV95cUxNdS1uLV9KOGdwNzc3di1sbDRrTTY0elhOWExHbERlUWlZa19CZnNRUG5KMTh5dFZhaHdLZ3NrNGtrRHFhS1hyVjU3WGc0MTdQck92dzRLOEx0SEh1M0U0aE9ZdE9PeTFPWmQ3M3FYVUNPWnUyb1lhRVZ5UDFRTk53WHVESVlvU0tIbTNVa0RfaWU0N2xCTTdlMU8tY1JndVZ2bk1iV1piN055Z2EyNnJUNy1wbXNOTkNVYUR2SGdUYXRueXRRSHQ3Vlp0cUx4R1dD?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1058.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1076.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1060.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1075.5
-      },
       {
         "date": "2024-12-06",
         "price": 1085.5
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 1123.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1120.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1118.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1102.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1102.5
       }
     ],
     "current_price_data": {
-      "price": 1123.0,
-      "change": -13.0,
-      "percent_change": -1.14
+      "price": 1102.5,
+      "change": 0.0,
+      "percent_change": 0.0
     }
-  },
-  "news_sentiment": {
-    "summary": "JTEKT's (TSE:6473) Returns Have Hit A Wall\n\n*JTEKT's returns have been underperforming, which could be a concern for investors.*\n\nGriffith & Werner Inc. Buys Shares of 6,473 Unilever PLC (NYSE:UL)\n\n*Griffith & Werner has invested in Unilever PLC, which could be a positive signal for the company's future prospects.*\n\nUnilever PLC (NYSE:UL) Announces Acquisition Of The Suisse-Based Snyder's Of Hanover, Inc.\n\n*Unilever PLC has announced an acquisition of Snyder",
-    "sentiment_score": -0.5,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

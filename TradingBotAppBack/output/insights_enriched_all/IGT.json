@@ -1,56 +1,164 @@
 {
   "ticker": "IGT",
-  "name": "International Game Technology",
+  "name": NaN,
   "sector": "Consumer Cyclical",
-  "market_cap": 2977170944.0,
+  "market_cap": 2962960128.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 133.31818,
-    "PB": 1.804035,
-    "EV_Revenue": 3.491,
+    "PE": 132.68182,
+    "PB": 1.7954239,
+    "EV_Revenue": 3.479,
     "ROE": 0.01869,
     "ProfitMargin": 0.1364,
     "GrossMargin": 0.44988,
-    "DividendYield": 5.44
+    "DividendYield": 5.49,
+    "DebtEquity": 290.927,
+    "CurrentRatio": 2.476,
+    "QuickRatio": 0.424,
+    "FreeCashFlow": -2972124928,
+    "OperatingCashFlow": 1207000064,
+    "FCF_Margin": -1.221086723212449,
+    "ROA": 0.03982,
+    "PEG": null,
+    "EV_EBITDA": 10.056,
+    "BuybackYield": null,
+    "PriceToFCF": -0.9965748949836876
   },
   "technical_indicators": {
-    "RSI_14": 37.68303334370528,
-    "Momentum_10": -12.086811587044156,
-    "MACD": -0.3810356907485737,
-    "BB_Percent": 0.1490281593553162,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 37.45129435859979,
+    "Momentum_10": -1.3581714818150006,
+    "MACD": -0.4411774405193078,
+    "BB_Percent": 0.2336984426045774,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9136912035189358,
+    "ValueScore": 0.8870830021552667,
     "QualityScore": 0.3304071918199888,
-    "SignalScore": 0.6242819731599774
+    "SignalScore": 0.6386379600417083
   },
-  "volatility": 0.022692948274596,
+  "volatility": 0.0226928541939302,
   "beta": 1.516,
-  "return_6m": -0.2512399748552741,
+  "return_6m": -0.2400466957155107,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 6,
-    "target_mean_price": 19.66667
+    "target_mean_price": 19.18333
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente autour d'International Game Technology (IGT) montre une polarisation des opinions des analystes, avec Stifel maintenant le maintien de son avis d'achat tandis que d'autres expriment des réserves face aux incertitudes en Italie. Malgré un léger recul du cours de l'action, la société a renouvelé un important contrat de loterie en Italie pour 2,6 milliards de dollars. Des mouvements significatifs ont été observés au niveau des détenteurs d'actions, avec Wellington Management Group LLP vendant une grande quantité d'actions tandis que Deutsche Bank AG et Graham Capital Management L.P. ont accru leurs positions. En parallèle, des investisseurs soulignent la dette significative de la société. Cette diversité de perspectives crée un environnement complexe pour les investisseurs, où la prudence est de mise malgré des signaux positifs de croissance potentielle.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Stifel Maintains Buy Rating on International Game Technology (IGT), Keeps PT - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1k2c0E2NVh6U2tlN0FOdE11SmRFOTZmU2U2aWJhR3pSRmdYQ3JKLURwMWpaNFFBYXQtNEFIb2t3UVVMdzdnbFRYMXFNbW5TS0JodVVWVUdvRVYxQ0dsRVQwdlU4NGJ0S2hGdzJSM2w2OVd5WnlMaVBGYWM4T2hhQk1MSGRveU9CMWtKWVB5d3FDVEdZeXhPRUFzVlYxclhPbXVKQVZURHN6TmdqWmgzVF9iaTUxNWt4RVkwVVZjRULSAcABQVVfeXFMTkdZNnNBNjVYelNrZTdBTnRNdUpkRTk2ZlNlNmliYUd6UkZnWENySi1EcDFqWjRRQWF0LTRBSG9rd1FVTHc3Z2xUWDFxTW1uU0tCaHVVVlVHb0VWMUNHbEVUMHZVODRidEtoRncyUjNsNjlXeVp5TGlQRmFjOE9oYUJNTEhkb3lPQjFrSllQeXdxQ1RHWXl4T0VBc1ZWMXJYT211SkFWVERzek5nalpoM1RfYmk1MTVreEVZMFVWY0VC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of America Corp DE Has $3.52 Million Stake in International Game Technology PLC (NYSE:IGT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbWREaTJFbzRrN1hDekpMNVZKRWoxdkJFdWNIQUgtTkd1bkxYLWhDY3dQRzhkbkhtOFVjb3B2REhyLVE0WEF1Q1JvWlUwU0V6NHZmeGQya19kcTk5QWpFcEUzeWxsS1dKckRWb3ZqRjgyWWIxTndPZVlUWEluT01ERi0wd2k0X0hiM0o3N2Z2UjV2aDVRQi1mdWFxcmI0b1hxS1hqbGpGVHlHRW5zZmdjTjNzT1B5alFzR29HaEhGOHVLNWhYUm9QMUtZcDRTcHJkc0lJWHR3OW00WlRxaE0ycEhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "IGT Stock Dips After Company Pays $2.6 Billion to Renew Italian Lottery Deal - Casino.org",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORk12eXJ4VEhqRXBGaERJaDZyZVUxRWgzUVlwREZBLWhJWW1JS0JyYTJ5d2E2ZGcyM3Rhb3hoYUM4engybk5uQXdxQVhxcjRMeGhEQ0dDNDVFaDdpdGdqY2VBSWRDVEZhNkxoZ1RWME9FSjhRVkxvSTdmckI3TGdic1VZckkxWEZQSzhPOEVJRUktbGpfRk4xbXVNVm5JZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why International Game Technology PLC (IGT) Declined on Tuesday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc2szY3JkOXZhZG1qYTllU2FXXzdOVHdTcDFYOFduV2h2TXJwaDF2UzhzaDVXZkd4a194dEFTWjFfQnRxWFQtRlA3dlNJdVg5WWZHaWJ1U1VDeUNqNnNXQ3JDU09ROUNSLUNoOHNPcWlPQ3FySndrZzRqLW5ZRnVhb0tucE9ZcE12aV80?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stifel reaffirms Buy rating on International Game Tech stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTk4MTRMZ0FrQzdna2ptNjZnb3FaT3hpLTFUYlpkSTlWbXRrRkJiVThGUWNFSmZXMHNzUzhJQTVXaGhPSlBSbjBkSkFFUlpvdlV1bkNhSC1wQzlpenNDSjRlUGZzTGRxVkh5QWxYQy1OR0xwQTBOZDlHNVhSSklLaURYTi1pb0ZacVp2ZFNhMS1EZFNDXzliM0xSaEpxS1c3T2ZSblVXbDRINUQ2eG5GZDFRYlZrOTlOTUFNdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "International Game Technology PLC (IGT) Stock Price Down 3.11% o - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS3Z0WGZqVEZFdG14cjFqaHVaY0l2emJ5aFZhWXB2WGZCUkoyT1RaY1RucmhGVnF1R0xHYU15Y3d3QTRIUjMwaENaenMxTmQ2UUhGdDI0MEhrVFZDWWxydGphQkItZ0FJUUR3RmZ1a0cxc25IWjJod1BfT1hJempWSExVMXRQVm9FZVVOUmlnUTRIYUMtbk96UEhYZzN0blBfVFo5UHNlRHp5am8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "IGT to Reveal Q1 2025 Financial Performance: Key Earnings Call Details Announced - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUklMX1ZoSHphd2c1RUFHTS14TGstRDd5V19EckpaQXBWcWR4WTd5MTZYSThuWTFDeHhxRlQ3M1AxRlBoOGpjNW96NHA3SVV4MGgzaWNjTGN6ZjNQQVJWMl9VeGF4MWtEUkRZOWxvVVZZMnZaRFpwT2xiSTlMU1Vpb0x2TTVWb3ZQMU1IOWplMW5sUmlUWl9qWEVuTEhsRGF0SVk5MEdpLXJjWGROeGpybnlUZC1oWlFCLWFmYVJKaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Uncertainties in Italy prompt analyst caution on IGT - CDC Gaming",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdU8wR0d6Ml9qS3ZpbWpFTVpTZjdoNkczaGQweFlOcU1mQ25LazU2RlpYek5vQzhKcjI2Y2JSZEpnVEVwV0h1SFJTWWFmb1otYUY5eTRQYVMwSW9LRHcyUEl3dXJtWGVtNHBhSDNRREZrcDYyRE9YTnJSZzRQeGtUbA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Income Investors Should Know That International Game Technology PLC (NYSE:IGT) Goes Ex-Dividend Soon - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeGIxcWFXTjVxRm1OOWV4YXRITXJwRXo4VVgwOUdlTWFKT1dSOS1CS3lyUGhyV3VicGVGMjRVeGlDTmQ0UVVvU0ZkSGx1QXRLOC1XeG9sbUE5aXB5RFdnRldmdlhyeEI5U25TNDE2N2dqeWRVN1pLel9iZ3ZSQXVxZkVZbTFYcHVhRU44Q0tuNW1ERUdSbjZ0WjRJRl9iSGNGd1djUnY0UHRNTWZsVVFOeEV6SWhxUVkzekdTZVRIT3lpcVFwbnBZY0N6UzZKZFJGU1JyWXhrRTBaUi1BbGhqbUJqNGNoal9QTmfSAe8BQVVfeXFMTTZsLXRXRFdmTmoyZkFud0o4TW1Wekp2QWxMQVc3LXpBaDJfN1RWV3E4bGNNM1dkaFJFbFlpUjNyTllocGt1X2laZWNrMG8zUTNpY3BQZkJzckJjZ2o3NlNkdmhNczNxblJYUERYWEJHRF9KWHNFb1RCMmZ6Y3lua0tlOHZNN1NOWkFOSUZkczEteHJBZmpsbXZYSExPM2VWd3RlT3NMZGQyVUJ4U0NhdmtEZmp3OURNVzZwbzcyVmhhT0d6Q0xMU08tQUx0WWx6cW9kQUszMFFhNDNGUEF0cENFdHpzTWJuVEV4UG1GVE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "International Game Technology PLC (NYSE:IGT) Short Interest Up 21.1% in May - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVy1rVGV5YnNmNTc2NkdKS3lTWFZhNjJnUE1Bd0ZldXFiSTRFMXBwZ1VtLVFKb2pkcXVHYmFrS1R0M25aNDlGdHhVSE5aTm9EdWJ1LTZFSWx1cS1NTjJnRlN3QmdfaFpIVDM0bUdaTVR6bWZWTHZMZ25pTG1TTl9kLTU0LWhqNXd6UUxSZTl5U0xfbWRsUXlWUTVpN1p1bEIxMThWaDdoWDFmc1dwYzVHWUwyeUhJbURGcGQza21sLWo0QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is International Game Technology PLC (IGT) the Best Undervalued UK Stock to Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUM4VFJyMmhRXzBzMmNVOFIzODRDWFBfbTR0LTZjYXNTOUpOTzNiS1RCUXk4ZmZ1NE9QUWUzRkF3bFFHV3NtN0RXRmNBWEJTMWRZcHlzOTFpTm54aklFdlYzT2ZBOWRtVG1qTk0yeEFhNTVtNjNOTzMwRlJVY0dRRkJJYXk3Tk5HbklJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "International Game Technology (IGT) Target Price Cut Amid Tariff Concerns | IGT Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObHNQRTVLQnJGbDFsTDdCampnV1M2aU91ZUZ2c1JUVGRTbjZ2eWdWRVpzWllFNXdvcnZBZUdBN2ZMWEJXcUoyeC1xa1RQc3JyaVpBQmtSUmdaQllOZ2pZb3ctVmdiYldncURSLUFjZm4tLTZ0ZEQ5M0ZpaTlpUnNHSjh6WlNIMWhGb0NFc1EyZmNlOWFoYnl0MmF6d2JneTJRSmVuNUdJX3M5SW9uYW5fN1BLTW9NTlh2SmZoMEM0QVFrbGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why International Game Technology (NYSE:IGT) Has A Meaningful Debt Burden - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRHFJd3M1d2RfemR2dWt3RDh3cmVLamVGdmpBRUVqY1ZqWkVpYTExZnVEMVY5MjBDZmNzX25wbUJwQ18wTnpSVV8wRmE1ZGM1b3NyOW5fUnROeTIzallITU9WZldpall3dG8xamJRc2pQSl9OaWVPcEN6eDJqNVhDb2ZVWXQ2XzhKLXRacDl2bmxlV0NHdkZEYXFCb0RBVTh1MDNWbldvUG1KQ1hTOVd5REk4ZTJGMVllLXVoYzAxWXdLLXBRRWVMN2dnMTN5NEUxRFFfR21TSEl6SjFuSmo2SmFzRzJ3aWhqNHh0NtIB8gFBVV95cUxOOEJZUmFMcF9Fcm9BY2c5eFJYalVIbmJENE9vS21JTUkxZ2s5Tnh4S0tYeXk2TkRaWS01ZUJJUUlLbjhhU3ItbVZXVGo3U1l1MkplWklhaVBoajZvbzhvZTBsMkxmdGNqaUFHaE1XS3NQU25SZUdWSm9QU1RwZFdtcGRxLXBKQWx6MUhnajFLQmxzME1veFBKWjlhc055ZnFvazNUckY3QmZxeFFmQTJYdzJTdUVjVFRjZWpOTjE5WEVuTTIxMTJpSWhWTTBWdURSdjVBa0ZuRlIwOWNSeWh5NWtuUm45d1lRNkhSSEVaM3Q2UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Boosts Stock Holdings in International Game Technology PLC (NYSE:IGT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa1g5aHhSd01hMzdUUVhJMFl5eEZ0VFhtMkxRNlZnaUtINVhLZXQzREhEaWllNDhzRzdYeGdQLUtFRVJyZkFCZGs1YzNIR0JjZm9hdlpubHFKMDhJM282eDdwUTJ1SHNXeEs3S0gyQmFzdnJmamtob0ZiSFZDdzBid2ltb1FqTFNQa2RBcm81czFWdUV2M3BqWGt2QnlnUEVlWWtNNDR6bk05UWtFbUdya1h6dEVPbHo3SHhta3ZTVUVWaTFXTDlfUHlkX1pobzVXVEpBT2VoZ2hNRWZvU09PRTI5MA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Stifel cuts IGT stock price target to $20, maintains Buy rating - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQzBZM3NEVm95WklJc1Z2cGY0UjlnMl9yOTh1X3FLLU5ja2xMQ0FBeXJxMVdMaUJrQzdfZXBDYWlBanliclNKWVppSFVpVGEtdUhRam5QR0VHVzFaNDFrcTZqUGczb083b0VtVDdSd2cxZzQyQURSdGtYZWRLVnpDTUpETGI0bzJjaHF0VnRLQjJGMEp2dmZ5TElNVkRjdjF4YW5aNlpKZnN1NDFvX0VISVo1U29wUTJHbjdSNWxn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is International Game Technology PLC (IGT) Among the Best Gambling Stocks to Buy According to Hedge Funds? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalpxR2VjS2VWSDlCVWtYLUVmaHZKOUN6bWktemZWR25neVNxZmtBUWlFQnEyYzU3OUdXQWJoV0NqMEJRcW5KZXh4YW1RVXVGYkV5TVRtTjNlN2N5alVKUVBaTlV5bFhTR3dNZmYtdk1CT2xnMndCX1ExaWFRMDVoeFROYlJNeTBVQWtJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank AG Acquires 38,027 Shares of International Game Technology PLC (NYSE:IGT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQjJGNFUtUWtQQWhtemltUXB0bEhVSWo5eUNqZTVJU3hiaWwyaWQxb2hKbmUxaEtvOTNRQUtXb1ZtRTFleXZfdjlwT1U4U3dGZlAzMy1WbzFEREFoV3d6LUk3SnY2a2dwN0lycllIZ2VXLUpXWWduODdWV2VSR0pKbXRXbTNwdGN4T3J0Q1dmY003REFHdlVYcjM4dVhraENOcnIyYzFFMmJyc3B6MHQtU2tSTFZvUUxTdmIzM25GXzN3aEMxbmpZUE50RV9mN0ZaWjlBNTFncHZraVNKNXRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wellington Management Group LLP Sells 79,231 Shares of International Game Technology PLC (NYSE:IGT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOXQ4eTFHUTZIX1ZXR1FYdnpuZUFqRFZRTG9OQThoM0U0YXNpeTRlOWtmNHA2cjdjZFlMVGVhU1ZFUlNRS182QlR4ZVVhaHNzaDBmaVViLVltbkVUbWpnOXdHcTh0UmVycklCMlZxTWxvVFNmdUNKTkM0NkhDRlhHMTM1Q0VXTWxMSHVxREMxMG1UcVJYMllhaFBxTUZJR3VZUlBKeFRUaklpUVNtSm5LX1hQYnVzOTVXSE5mUENJR3YyaFFodlhHeVhSQTFXT0x0bWVCSTRzd3lKbzJGNlJHdWtMWmg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "International Game Technology PLC (NYSE:IGT) Shares Bought by Graham Capital Management L.P. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX1JLWUstdVNaWU5haXNPOE5yY1BUUk5Pd0ZqZEhNUk43QkNxUEhoUWl6TzJCZEUwR3d6SnljcjdZZXpUOThEckM1TVVpTlFjMnR6a2k3enhDbXpla1VaVXl3WE9lbEVyZHJBal82UnhhcDZ4U0g0VV85YXZoSlFlR3BXZEMxdEZ4dnRqeFlud2QtTXBNVUNCWnJ0TjIzMEp0Ql8wdXhDbDFmOGlwQTRlaDhIbEpjLTFBQUpoUHdoQTJfb0p6WktRaDQ5WTRhZWhwelZUU2JjX0UtMUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "International Game Technology PLC (IGT) (Q4 2024) Earnings Call Highlights: Navigating Growth ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObElLdUhWYmZxQlVtUk5haGRhRW40MzJfWlFnZ0dxa3pJZHU2d0hxSGxweEdsOGVxTjlISTFBQ0RGWUhmWTF6dFZxZFUzRFd3aGg3OVdwb3BuQlFvYTI4bzdEWjRBVzVxRlpUYjNsZzg1THREaUExTmpQYW5qU2I2OTdHVWMzZkZVejdr?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 20.07
-      },
-      {
-        "date": "2024-12-03",
-        "price": 19.92
-      },
-      {
-        "date": "2024-12-04",
-        "price": 19.91
-      },
-      {
-        "date": "2024-12-05",
-        "price": 19.48
-      },
       {
         "date": "2024-12-06",
         "price": 19.68
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 14.65
+        "price": 14.62
+      },
+      {
+        "date": "2025-06-03",
+        "price": 14.55
+      },
+      {
+        "date": "2025-06-04",
+        "price": 14.56
+      },
+      {
+        "date": "2025-06-05",
+        "price": 14.59
       }
     ],
     "current_price_data": {
-      "price": 14.65,
-      "change": -0.05,
-      "percent_change": -0.34
+      "price": 14.59,
+      "change": 0.04,
+      "percent_change": 0.27
     }
-  },
-  "news_sentiment": {
-    "summary": "International Game Technology PLC (IGT) is a UK-based gaming technology company that has recently experienced a decline in revenue and stock price. Despite this, some investors view IGT as undervalued and believe it is a good buy. Millennium Management LLC has also increased its position in the company. The company recently paid $2.6 billion to renew its Italian lottery deal, which may have contributed to its stock dip. IGT is set to reveal its Q1 2025 financial performance, with key earnings call details announced. Some analysts are cautious about IGT due to uncertainties in Italy, while others view it as a worthwhile investment. Overall, the sentiment towards IGT seems mixed.",
-    "sentiment_score": -0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 4,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

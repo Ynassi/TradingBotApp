@@ -1,56 +1,164 @@
 {
   "ticker": "AA",
-  "name": "Alcoa Corporation",
+  "name": NaN,
   "sector": "Basic Materials",
-  "market_cap": 6895854592.0,
+  "market_cap": 7215599104.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 7.121658,
-    "PB": 1.185886,
-    "EV_Revenue": 0.673,
+    "PE": 7.451872,
+    "PB": 1.2408727,
+    "EV_Revenue": 0.685,
     "ROE": 0.15351,
     "ProfitMargin": 0.0679,
     "GrossMargin": 0.20899999,
-    "DividendYield": 1.49
+    "DividendYield": 1.46,
+    "DebtEquity": 45.505,
+    "CurrentRatio": 1.713,
+    "QuickRatio": 0.839,
+    "FreeCashFlow": 545374976,
+    "OperatingCashFlow": 920000000,
+    "FCF_Margin": 0.04306158537354453,
+    "ROA": 0.07184,
+    "PEG": null,
+    "EV_EBITDA": 3.79,
+    "BuybackYield": null,
+    "PriceToFCF": 13.230528391533682
   },
   "technical_indicators": {
-    "RSI_14": 44.91300575033085,
-    "Momentum_10": -9.09566650887118,
-    "MACD": 0.1639870529394045,
-    "BB_Percent": 0.3679618752353182,
+    "RSI_14": 52.83282893845511,
+    "Momentum_10": -1.4149261126751176,
+    "MACD": 0.1483150059418498,
+    "BB_Percent": 0.4942700164835253,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9353680434119686,
+    "ValueScore": 0.9351972274878426,
     "QualityScore": 0.2441357598987072,
-    "SignalScore": 0.5647030889422726
+    "SignalScore": 0.5501367585130403
   },
-  "volatility": 0.0351399191374781,
+  "volatility": 0.0348575787298119,
   "beta": 2.257,
-  "return_6m": -0.413316196038043,
+  "return_6m": -0.3397356756930176,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
     "target_mean_price": 36.61923
   },
+  "news_sentiment": {
+    "summary": "Alcoa, leader en matière de critères ESG avec une utilisation record de 86% d'énergie propre et zéro décès, a récemment investi 1,6 milliard de dollars dans ses employés. Malgré cela, les avis divergent sur l'opportunité d'achat de ses actions, certains soulignant des fondamentaux faibles et une baisse de 26% des cours. L'entreprise a toutefois vu ses actions monter de 12,1% en un mois, suscitant des interrogations sur son potentiel de croissance future. Les incertitudes liées aux tarifs pèsent également sur le titre, incitant les investisseurs à la prudence.",
+    "sentiment_score": 0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Alcoa Reveals Record ESG Metrics: 86% Clean Energy Use, Zero Fatalities, $1.6B Employee Investment - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2k4M2FkR3R1UkhCZnUxVlF5SGpkeEJoLXRfZkhrakJUNnBZZVM0RmREVDRDNWR3Vm5yTDlFMHJaZVJQOXBqRWY0eEhFS1hQTUZxXy1xZlRROUw5MFpwTWFaQmtvUGVvdjFNVjYtbW9aZWFjYU5iNnk3ZEJBTTgwdXNHSDNkdkRKclZkZC01b1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Now Is Not The Time To Buy Alcoa Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iaHZ4QkpwajNjYTNjRGpMb0d2V1NJM3BDR3RueDNDd0JrMnM0RDE0U25haEdlMVVXVzFCeUlUODQ1RzV5V0xjWDVZbmpkbnc3MkVuUW5sLVJJUU1MRENIeF91cW1HT1Q0MTEwUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy Alcoa Stock at $26? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMTdFVGZwS0cyd3psOVlmZVZDY2I3U0J4YkFQNmduVVRwUzJGeGdOREJ2SGJUZEZOTjlkUWRNbktNVnpVWGpyNGVBMUdvVEY3R1hYWUVKLTRRUjB2V19XdndDbldaS0FoalQ3VTdmbm5adktaZ3dlYlpkVFJxV2ZobVlraFVjMHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "5 Stock Risers: CHSAA and Section I AA - NYCHoops",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtQzlNbGVFdm1tQk1nQmEyQjNicDlGVHpDRHZHVUlXU0NNdzFhcm1yb1ppQlpRLVBuXzhEN3JLdUJLV2hfSndMX05JOEp2LWZkbjV5Q05TM2dzSWVidU1jeTJRSndfclB0aWZKb0g0dlJtbWpUUVIxNHBB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alcoa Releases 2024 Sustainability Report | AA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWVDZU5IRU93WUJtbWloNElLd2JjOWlvZkFQYXhFc0JhZnVqbzZhYUVaN3RSU0xkNEZNbld3a09WcEN0R3VyQndUaTdyNldvNmVWSkxYWmJhWlVGSXRXVkpYWUQwLUtKUjF4d2dJRHNiTUUxcEFZclNuLU1mTXdaMVhhOV82Rk9TUEI4UGhJRlRKdl9PdlBmM25R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Alcoa Corporation (AA) the Best Aluminum Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV1R1TnRaeXc1Tk5VYWEzYlZjUVRScWZMVEhCam81VVQzSUIzUEF3cVc5NllyWVFNOXFyN1FvOGQwRXVzcGdaZ1VVaklhVzhoM3RRVmJtTENNV2xyd3RZOEdKNWkxTTF6N3Q1VnAzRkFJbXNITHBaQUg5Mk9DSVpKdVA4OW1uLUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alcoa’s Solid Earnings Don’t Make Tariff Math Easier for AA Stock - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPajVoRktjbW5CbHhqc0NhbFptalpJZFVRVmtxb3ZfMTk0N2QzUi12MnYyTjhHbDVmVlo1bktBMXVDQVM5cHFHeVZKVklVNXppWU1CbWxYZGJqQ04tUkVJY0MzTmI1NDgtNFVGNGRqU1FQSm44X2lKUnhTcnk1UUx3eHZad2lrU0I5X1hzQW10Rm9BSWVUY3ZQa2ZmNDZvUk8zRmNNQmRJV3BKU2VVMnR6QjZOQlNPaENZV0M3TGMtSTM3MkVF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Now The Right Time To Buy Alcoa Stock Given Its Weak Fundamentals? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN3RKMkxEUHM4YTFKSEVJV3dFazVaN2tybHNhWG1pOTZVR0ZkVmUySVplUXR6ajVxY2hPOGF1dURyVnU5anptc2paVDVwaTJzcDVwOWdZRWNDNXk3M1dNeUJmRW1oZW5NOFVqSWJUbEVNUmVMLTBZRDRhd2IxWXRURHg2czh1QlZVTktxcEpnNmlQaVVhNjh1aktIT0QwWWRNV2d0Tnl1dFZycUtnUkltTlhZSENWaWppbnNUUTBpSlhOUVpOLVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alcoa Corporation (NYSE:AA) Not Doing Enough For Some Investors As Its Shares Slump 26% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVdZcjVqQzctVktwMm5tV1dtblpYWlp5ZWxENVpuMFdmRWNlNkRCYjRUZHQ1N19NamJOZHUzNUN6UnZLalQ1NWFqLWxJMlpaUHdoMWFDcHQzY3F0UkdXaHgycVgxNkdhOHE1ZVNwMElYUWpHYzl2ejdCZFo4WXJ5QTlCMEhza0hmQWZGMWFibzhEZDdYSHBJcm13SFVaMXl2Y3pnRHdiUWRLR2RRS2g3Z0gwaWJRSEZMTTA1Z1pB0gHDAUFVX3lxTE5XX2k5MHhOX2VqSV9wUlg4WlhDc1JIcXppNGZaMUc3RFNPZ0F1d0xfc2E1VWd4SVJTWGFDMkVGZ2I5T1dDaXBDSmNXVk5rSVF6TkxWOUJxb0h0VC1TSU9BV1BOcHpobTdXZDJ1cDloTlBOVUN2Z2gzbUlLbTZPb3U2em03cUNSRHo2d0hadDNYcEI3OGJmTTFZTW1BS056eVJQM3R1ZWE5TElEU0F1YmRRZEttUVFNWVNNcWFINFVvdXUxOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Alcoa CEO to Share Critical Market Insights at Wolfe Research Conference: Live Q&A Session Announced - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWXpBS3FLcUk5ZV9KemlGT0ZSLUh1LXV1d1VHWDNmYmVOaDYxMUNoSWkyUzZkYjVyeTlTcEhiemdpeV8wRGJsUHROOWFpcjJNMTQzSTNrRTNGb3pOMnNuak45WDFuZ0VlbERfZ2VNanA1a2VuSkM5ODdnN1hrSTJQUXY5U082WnZXNzdXS1VnaHFkOUxOWDRUYk0xUHNLT0JlTmJGdkYwNF9acXVDSlhPdXRDZGUxQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Alcoa Corporation (AA) the Best Metal Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaDhuSUh6V2dQMjJlakhRbnV1S2JPTzh0SzBKRl8zOWsxVVRuOUJrS0d6R0lEVXVvdVFmY2NQTnpiTzdiZ01yNkwzdEFlYWhpRDBTZHRPRzVFOEdvbkR3ZmtpQTJzYVZISEhFbFN1a05nRTRCNk5ST01mSjF0RjJpSDFPMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alcoa Corp (AA) Shares Up 4.02% on Jun 3 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdW01cHlfOENKZGVzaU91YlJHZGRlWkUzVDd3Q3hZV2ZsMjkzOC1Ed3ZwN2p6UW10c3pzV0ZtTEpSY1VsWVBFVFdRREFOcEtrckd0c2tzeERvYUFmX3FqZEhNbm9lQ0pfSWMxeHN2ZXExNEVhSVNfYnM2S0RFSFJiRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How Will Alcoa Stock React To Its Upcoming Earnings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTl4QXE0WWZaNm1Nd1V5a1FDM18zOTRWOFRsQS1vMXFrcHFKSE5XQlBOQm9CVEhncklGZnlQRDJSekg3YkV3ZEUxYzBVc2JHNG0taWRaMTgzbW5zeXpVLUl4OUM0S29OangteGkwNGFMLWVRN1E1WFlLc1FXMHdKanZWQzRSZ0pGOFJjSFlma0lPY2QyOWxRakJaTEU1T3E0a2pPVVpEanRLcGhIQ1k4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alcoa vs. Constellium: Which Aluminum Stock is a Stronger Play Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXZjaklqa0hqMnFwajcteS0waGJCcFNfbEpUendmNFExcWoxOGlQRGJrVVhDRFZPWlhwX0lPSXdyd2xWcGpvWXlUaDdoRUFSdFN2RHMxRHFHemI4cGRPQlhyTzVfdXBMd0Rwa0pPdVhKVTllMGg0SWEyamw5b2xuVXBEVTZrb0dC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alcoa to Participate in Wolfe Research Materials of the Future Conference | AA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU2NwZTlOYUJkaFBQbXhicDZpYm9ibVNFdDZxUGRFWHhOMDFGaGNvS3lIWXZSX3ZyZUVtMHVPY1hWVGtMYTlpTUUtUFctNnBrc3g0OWo3MUx3aW9Qa2hiQ1Nfd2JpcU9WalpNX2M2S25oODVFWEtDZEdfX3c5anZYdjNSU3pxLWVIQ1JUd2Fncms5X2RoQ1pZNFptcHg2RzkwaURvS29SUDhieGJDd19oOWNxOV9EMFIwaDRZSU5fYmNKdkFYLXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alcoa Secures Major Victory in $74M Australian Tax Battle: Refund Coming June 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFNGNEpNSVhybTlhd0R6aXQ2MlJBd2VBbzJabWx6R0hsZFlSekZnMURzUkdSckh1WGZLM1RtYWc1RmswZXR5WUpxVU03X3RjbEJoM1NjMm84NUtyckF5M1doV2xSeHRfZThaS2hqYnkwQi00Mmw1NG9naVZKN2tkd3BHY2tRdUZGZmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Alcoa Corporation (AA) the Best Mineral Stock to Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0JVYUdEV0F4Ml9RSFBLdTlTaDJTbEt6Q1NmZ21SdVBSWlluMTduT0JkTEV0YXpScXo5VEFOY0ZvRDBFLWxnV3RZYUpiaVlLSDNwclE2VF9WVEwzWWRBOC1ieTVGLTlMcWdINGhZX3diLW1qN215SXprZTJZQ21MYUlXMDhkQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alcoa Rises 12.1% in a Month: Should You Buy the Stock Now or Wait? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13Y25tTFlIdWkyMDhZMndiRzI5VmdQR2Vwb1RqLVJ1dUZUVDVybGZJWXk5QUhRVE9DZ29CaUE1TnJfdGJ1cm4wUzl3ZEtkajBoZmdpOUR3V0tFMVI3NGx6SVFwcngwb1YwbXVHUlRuNVhHUl9UbnFr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alcoa Corporation (AA): Among the Undervalued Stocks with the Highest Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORzVUN0RjNHRuTjN0RVNrdERXOEpQUmdvNWRuMk50S3JSa1I2MWNvbVNRVm1vV1RRZDhFX0NPbEtIUVZxWG9HUW15Mms5dEZ1VEt4RVV1TnpCSjIyeUpjSnB5eGR5SDN2YlBYYlNDM3lmUklKU3pDOF81X2RpWmFua0R3ZEtNZHhfdVpxTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's How Investors Should Play Alcoa Stock Amid Tariff Risks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONldwNjJtLWNMTmpmSEozVkkzVU9XejNSQ3IySzZMajVxWGNLeTF6NElrS1BvUUpweW85ME5MMUF5ZDc3UUtSUzhDdGxQUU9MeGlpYm1KYW9CU3ZYMlNhSEtvb3lBaTZ3ZTZUYW1DWUlwNTAxZVhoNl9IeUpycG4xQkNWYzY?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 45.7
-      },
-      {
-        "date": "2024-12-03",
-        "price": 45.9
-      },
-      {
-        "date": "2024-12-04",
-        "price": 45.87
-      },
-      {
-        "date": "2024-12-05",
-        "price": 46.17
-      },
       {
         "date": "2024-12-06",
         "price": 42.49
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 26.74
+        "price": 26.6
+      },
+      {
+        "date": "2025-06-03",
+        "price": 27.66
+      },
+      {
+        "date": "2025-06-04",
+        "price": 27.37
+      },
+      {
+        "date": "2025-06-05",
+        "price": 27.87
       }
     ],
     "current_price_data": {
-      "price": 26.73,
-      "change": 0.0,
-      "percent_change": 0.0
+      "price": 27.87,
+      "change": 0.5,
+      "percent_change": 1.83
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Alcoa montrent que l'entreprise a r\u00e9ussi \u00e0 am\u00e9liorer ses crit\u00e8res d'environnement, sant\u00e9 et s\u00e9curit\u00e9 du travail (ESG), avec une utilisation de 86% d'\u00e9nergie propre et sans morts sur le site. L'entreprise a \u00e9galement annonc\u00e9 un investissement d'un montant de 1,6 milliard de dollars de ses employ\u00e9s. Alcoa a publi\u00e9 son rapport d'environnement social en 2024, qui fournit des informations sur ses efforts pour cr\u00e9er de la valeur pour ses diff\u00e9rents stakeholders.\n\nLa plupart",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

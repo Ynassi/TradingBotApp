@@ -2,55 +2,163 @@
   "ticker": "SBAC",
   "name": "SBA Communications",
   "sector": "Real Estate",
-  "market_cap": 24717721600.0,
+  "market_cap": 24795082752.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 30.429895,
-    "PB": -4.999674,
-    "EV_Revenue": 14.514,
+    "PE": 30.484808,
+    "PB": -5.0153217,
+    "EV_Revenue": 14.468,
     "ROE": 0.063930005,
     "ProfitMargin": 0.30369,
     "GrossMargin": 0.76794,
-    "DividendYield": 1.91
+    "DividendYield": 1.92,
+    "DebtEquity": null,
+    "CurrentRatio": 0.646,
+    "QuickRatio": 0.591,
+    "FreeCashFlow": 455928512,
+    "OperatingCashFlow": 1341587968,
+    "FCF_Margin": 0.16974128848811115,
+    "ROA": 0.09364,
+    "PEG": null,
+    "EV_EBITDA": 21.725,
+    "BuybackYield": null,
+    "PriceToFCF": 54.11976586364487
   },
   "technical_indicators": {
-    "RSI_14": 50.62789909600927,
-    "Momentum_10": -0.7649248625971713,
-    "MACD": 0.7658371661867989,
-    "BB_Percent": 0.4137831198341229,
+    "RSI_14": 50.5741860786813,
+    "Momentum_10": -0.2426437778432908,
+    "MACD": 0.5622769594002079,
+    "BB_Percent": 0.4868602577651712,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8576824650441098,
+    "ValueScore": 0.8545579478280486,
     "QualityScore": 0.4602023959973901,
-    "SignalScore": 0.6211206934212063
+    "SignalScore": 0.5944903818856988
   },
-  "volatility": 0.0181204458110073,
+  "volatility": 0.0180978898573264,
   "beta": 0.78,
-  "return_6m": 0.0421988532641546,
+  "return_6m": 0.0518774112164281,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 254.94118
   },
+  "news_sentiment": {
+    "summary": "SBA Communications Co. (SBAC) a été évalué en tant qu'achat modéré par les courtiers, avec une tendance haussière de 12 % depuis le début de l'année. Malgré des inquiétudes liées aux risques technologiques, la participation d'investisseurs importants comme Wellington Management Group LLP et California State Teachers Retirement System montre un intérêt affirmé pour la société. Le récent discours du directeur financier lors de la conférence JP Morgan Tech a suscité de l'intérêt, tandis que les mouvements importants de positions d'investissement démontrent une confiance croissante dans la performance future de SBAC.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "SBA Communications Co. (NASDAQ:SBAC) Given Consensus Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3hCeEZCY0FzMFF3ejRTay01a1hXWDc1ckN4Qjh6dXZyclRHTTc4NWhjVzlISi1MQWRZZEF1MmVKS3VhV0hMRFU0R29KLVBqY08zNlp2aHVvbi0yTE9JMVdlVnNGcGhfc1ltLWlKMlVIQzhKc1BUdTh1cHd1YU0tdUlLU2RYMWJ0YWZaa1g1NFVTV0VDQU1EVVVlUTgwNFNMYWlkRlVORlVSLUx1MEJtb2pWYkdIWHN4Z0hzYmtSOFpOclBXaDNiVUF1Sm15b2NsUHpN?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Validea Detailed Fundamental Analysis - SBAC - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CM1c1TjRkY2RqM0VxekV2UnNCZzBiOTk1dXR6OTBQZkxzczVFSnNlNUFNczQ2bXdvanhwYnVPRllqN0E3ekNnRmp4am1vVmJCZUIyVGV4U2d3Q09KdXRWM0NRZGNuT0E0RllYc01Sbmo2bnkzRFZFRWtFNkFaWm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(SBAC) Trading Signals - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1BjV0xQY2ZEanVHT290WjJqbFFvQmFUbXdTNWk5bHFWeUFPT05xeU5GbUk0QTYwM0RJT1c3UzF2RFFBbWJjb01pWHNqLW11ZU1rV0Y4SkVJUUhWZTJzb1gyM19hOFJ2RkRWQnpLV2hKMTBhQ0plZWVBZ1o0eUZjZkJuYUhMbmtiUzlCUHJPWTZIQU1PLUNXemh3bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SBA Communications: Hold Based On Technological Risk - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjBTS2tBUWFzYnhtUHlpa0tyRXlvcWk5UjdJRnVhWHRDeVg1RXNJUTJoazl5bjJSdmlDWWhxMVpFN3hFbnBQZTNYLVpzenROczhYZk9pM1loVjJVbW43ZTVHQlJXQW1SdTY5cFliN0FSWjRSaE1MaFRzT3pZMTBYdDkxRXVlcjlwTVZpUjN6Q0JLQWxvZ1NZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SBAC Stock Rises 12% Year to Date: Will the Trend Continue? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQy1mMGlTUmFZUHNBX1dZRWtpa0d4ektpVHZVbzNfb3FPSGx4dFhhZ1h4dWZ6a2JjWkx4cUJSLXZUYnlGQVRkbjJuMjllWnhzSnQyMUNvZVpHTUxYMlVoY2RmeTFzQjZOTWZqSWFTWVFvRl8zMGJRcjdJektzeFppWVhTUXRRRU5WMzc0R09wNTk3YXFaQTdsbi01YzhPbjIzdWZPbDNvU3c1UExkY2VMQVhkRm1PUGw0bTBZcUx3SWVqYWF2SmlhLUZTV0toSEkzSk5jdHd2TUhBaWs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SBA Communications CFO Set to Reveal Strategic Insights at Major JP Morgan Tech Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0Q2V3F6dzlVQ3hpOFBuSkRHQ25fMnBKaFNldjBjTWZ6WFRTd2JuUFo2OXJQZTY1dWozWmpYdVlHOVlnMnZ2VDlpYm9iVmUyUVpuckdFVE9vSTNyNXAzTkVVMU1GWml4bVUzdV9FM05JLWpYcTZwaTNCcmlVUTU1aDV1bE1LWkZWak9udzNEVmFYeVpTdzN5cDNTYVFsVmtTUFNEd2VpSF9Xby1WTHpiS0I4bkMyenl5el9yVFMtT2I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SBAC Stock Has Risen 10.4% Year to Date: Will the Trend Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtSGJyNWF1cXdFVi1ldlEtUFBtelF3MWxYcG9GT0ZTWlV3clVYNXRXM3BucUhaUmU1dXkwNnM0NkRvMUduam82T0dpYzUxWElKaC03TFBmYlVOS2tZYVo0TVFmd0pWZENpSUZ6YTV3Mnhla0VqMHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SBA Communications Co. (NASDAQ:SBAC) Position Reduced by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMEpKTEhFVEZiMmNrMWV3MERhbWVhYzVRNHV1X21zdC1pbTRYUWQ5a2xqSW5nTURCdXdzNFJsY0llZDhuRjNrbV9zZE5wQ09WM1Q0WFNCbHZNeDF5eU55NDZKVXlLdlU2QmFickwtX2VzaWVDT0VZRDk3YWFMR1ZJTlhzd1hMSGhmN0Z1MGlHVm5PaGRmeC1jeVdyX2pDMGlTdVlOQXNyNGNaTFZJeDdTbjBuTkZUaDBzcTd1OHpFM1BaR1V1aEpFN25vblR0T1JTVE1GTnQwSXJFTXRHSWhyckZkRzBpT01qV1dKQUctQm1hdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jefferies Financial Group Inc. Trims Stock Position in SBA Communications Co. (NASDAQ:SBAC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQWJBcmw4R3ZCMDYyRXBoVlZlRjdBTzhUb0ZGS284ejNsSU1ISW1IMnhMYVd2dUFYcHExazR6cFMwWlZ6dGxqYnBJaFJrTG5ZUVZhOC05dnVzSkhfY3RwOUdGb0J2V1otZnBaT1p6bHl0bUNYY2Y1czhfQlI3cVNVRnRJYVZrSS1oN3daVFZrc3NOLVdlWlVkSWtXeUpOaTZ5RmtBN012RktHeDRRZEwwUWFBd3IxVmRhYjI5b0Y2a00xZzNIMHZuWkFvNlVmbWUzOVRwWmFDZmlkeXBX?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "SBA Communications Co. (NASDAQ:SBAC) Shares Acquired by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3RRUFNuMjNLN1ljSk9haEk5SElLX0JoVjBRem1PUkxVWTNja0FiTjJ6MkhzRWg3LXA2ZmthRXRTZjI1UFRkeXJTWjVuSTMyZGpSa3J0d1dVVlJIWTJ4VGxFSmhJWTBsY0V2YndZXzZvSzNBUS1oSzJRNzhtMU1fYTdmd19mTVk3Y1QyU2loRWY5SHNIenJSdlhLdUc1WjNHaHkzYUNCc3Q5c2J3dXJTTEVwdF9vcTIxY0ZnZlByc1pDVGpZRTgxMXU3Y1Y0TDg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Invests $10.76 Million in SBA Communications Co. (NASDAQ:SBAC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcXJCUXAxc3VjY0RvWGdwZGwzWlJkZFF6ZlZ3UGRBdmYyQmQ3YVdjdklFdG1sMjFiSnl6WXpQZ29RZzdWMTgwVWYxaWNsMURYV3R3QzR1b3YySWhtWFlBUEV2Uzh0NHpVZkFaejA1N3RwQ3Q2RzRWaVJuajA3aG52YmRnaTczamVDV2JGZGRUQWZhMnBuVV8zdExSRDlrcElFRTg4MzBDLU5Pb1FqSDdBWGFYTy1yNHZfME1sLVZUejgtYmlXY0VqLWdVbG9fYThTNGhYMzVpZnZXX3hFbnQtVHgtcVl1YXhlYk5FLTM0MkNZMG5PQ1FraHMwYnE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vident Advisory LLC Trims Position in SBA Communications Co. (NASDAQ:SBAC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY3d5VVVkdXF0eC16R0l6MlR6ZzdBYlI3ZmNfMDRWQjlab1paWmpCY1F2RmxuOUtNVnRvMUZVX09yTHZYR0FJcEhXa1B2dVI1dklxMnNEUzB6NVUyZ0VrbXhUSzM1MU1wNnNzdko2dHpYcFp6RlJxWEprdkRfYlhCaFdDMUl2V3JVMWxGZEc4dDJzOEhDMnE2YWpySVB4VV8tMGVXeU5UZmJxc2ZrNWVISEw2a2RBSGtZZ0psUzJBRmU4NlpOMGY3eE03b0JRT0U?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "LVW Advisors LLC Purchases Shares of 1,935 SBA Communications Co. (NASDAQ:SBAC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZmY3NEN3eTEwZFViY1FyX1Q4NGw0TEgzY1BQN2N3cjdGbGxrQi14bGNoQTVtbUx4d0tPWF9TUzhremNoOHFuM043OHJSTXdhWTAzZ2ZZcTBKWUM3b1J0VzlwU0FmSU1ZcTBfX1BxZE9LOEFvMnluTnVfMm1LRDVBZnJPNkROZlF4OUkyY25MZFVsdGxvaE4tMmozNDM5YUF2Uk13WE1DSEhRYUI4cUxXTkt0d2ZSb2x4ZzlRdVV4eVJTSDJFMDlV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SBA Communications Co. (NASDAQ:SBAC) Shares Acquired by Squarepoint Ops LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcDhBemNIRkpfd2ZRX1E1VlBoTGJQOHlROVJkV2xaZHVJbk4zTk5COFhzSkRaQ0NtamFFX01JOTZOMGNpVEdIcVZVb1VrVVJ2QmduYmxFLTZuQTlwWmhNSWJhT3h2WkV2OWxNelNhUVRLcmJJTm9tSWlCcnFUVlpZNTVYbkZBS2hUWEFyMDV1RlBDVUdMeDFYdk5UV2FIanVjbFJKLUNRSkR0MnpOaGJhLVdFdV9tZUNwaWxsOXBmWkUxZVRMLUJQTlloanZOT1Y2YXg1Qg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SBA Communications Co. (NASDAQ:SBAC) Shares Purchased by California State Teachers Retirement System - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbXZMdUo4SkVWWFVVTl9KZGJHM0lvc2JmWXdCZ1RWOWw1YkZCVi1xd1ZIR3ZVOE5XNGU4U2YwQ0RqdHRqYTRMbS01MTAweUthZllZU1FDMVhjMlFubGRwMlB5M0pnQjZIZzIxSXlhd3VVLUhjSy1Va1ZBdzBTcm1Ud1AzM19DSUhaWkJUQzBJeTBPWHBVZVRHaWZIUjBiLUx1QmdabzBod3dqbHFtYXAwYVRBOEhfTklFSWVPaHhjQkd4SzVTSWtZbEJUSTlGc09HUHpUQTBLSHFMeVRidm5zRTBXNnBYc2NBREZLN2RBTm0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Versant Capital Management Inc Has $357,000 Position in SBA Communications Co. (NASDAQ:SBAC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON3Z3VmdmbC1RV3dGMk5oMUhKdi1CTy1Xa2ZQMXoyMWgxQkVuemduZE1fLUhRLVByUzVHQV8xZ2gtNXhNVDdQLUdubHI5MVIwTVRhX2JPb0lUNmM5TnJ1R2dvVS1pTDNlcEJGNnMyWkZqa0s1QXVlNXlJUXlxd1IxSkpRSFg4RnlDWUh2M1ZVcGd5WHc0YlBHbEhUd0xubURXUmxIdEx4cTF6M0I1NDRsdjNLd0JmTV9Yck9jMGhWbkJNNGZsVGpmSUhTNFItSW9ac3IwaU1QSm9Sendxck01dG1qNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "36,563 Shares in SBA Communications Co. (NASDAQ:SBAC) Acquired by Lansforsakringar Fondforvaltning AB publ - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb0EyeVpDdnR4bnpDQ1ZKaGVYaXlaUVN6T3ZzTXRsRl9BRkhwYm5uR2ZZT1ZaT0RJNVViSS1uOHRjX0h5akRZdDhSSWgxVzJxdkRCTmlubGRwRGRFYkluckM2cmxCQ2FuNHJBYk1lVExSNDRMLXFrTGFyRGJjX2tCMjFWdHBSd0lGa3k1REJSeGVna0dMZGN0a3ZyYjdtMXNrR3JQR3l2dnN2SVJVNVo4RnNQNjhwVElYNGdyWUdCTTJXSzBNUkRDQldCZWRFSkl2M08yVGxzelF1V19zbHlUYUhneEtiaVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Grows Stock Holdings in SBA Communications Co. (NASDAQ:SBAC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3Bwb0RaTUxpbzNCd1B1T0tJVVJsMVJPM1FRbkVhMk95VW42QUtHb0JoWTVpd0d6akt3RGhvX2RrRkpMRzVJeFZxR2FZc2ZUajY0NVYxVHdwTDFuT3RGX2lFWWdvLU5xVW91ajhPZ3JMcGlrR0lyRUtnV0dsY2s2Q1V5QnVIYzBmQ29RMm1hLWV3SEZsUXdtMVZjWkJnZWhVb0phTG9rcTBMLTFJdUt0QkZRWHNYMEpTQmhIVU5FOVJueVhxenFN?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $81.51 Million Stake in SBA Communications Co. (NASDAQ:SBAC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaVVwb3Q2X0h6c3lEV2ZPTDhvcDl5VzA5bVI5Z2RSUWZmQnVFVXdORUR5YkZjRmxSakN3c2JES0tiZ2Z4RVFFdThWVDdBc1k2eXBzbU9qZXhDanBEb0s0aHcxcTdyWURIaGZDR1hVS2FlYlpUTHdQb2t4aDRDZjdNYWVMejhVaXphZlcyajhYRjlWbWdROU5TSzRFa1JHNXpUUTAyTFhNRUhHbHVWYnllUF9yam9vYmUwM3J0NXRucTNVMndiWXBhNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why SBA Communications Corp (SBAC) Is Surging In 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUU1xQkFDQk1UR1lPRFFMNmtrS2gzRnE2Z0hXQWZzdzRWR2ZhSVRsM3BBbUV6ZkZ4Q1ZUaXo2Q2N1MGFkZjZLWDRtRjI2R0ttNlphclJDZ3ZOdl9KVGxfcTdnMWxzTHBoUFR3SWZqYTAxMWo2RXlyeF9FcGlLZEtyRVZ4T2Q?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 222.94
-      },
-      {
-        "date": "2024-12-03",
-        "price": 223.09
-      },
-      {
-        "date": "2024-12-04",
-        "price": 220.81
-      },
-      {
-        "date": "2024-12-05",
-        "price": 221.58
-      },
       {
         "date": "2024-12-06",
         "price": 220.38
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 230.27
+        "price": 231.06
+      },
+      {
+        "date": "2025-06-03",
+        "price": 229.48
+      },
+      {
+        "date": "2025-06-04",
+        "price": 230.75
+      },
+      {
+        "date": "2025-06-05",
+        "price": 229.65
       }
     ],
     "current_price_data": {
-      "price": 230.27,
-      "change": -1.62,
-      "percent_change": -0.7
+      "price": 229.65,
+      "change": -1.1,
+      "percent_change": -0.48
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres propos\u00e9s concernent l'entreprise cot\u00e9e SBA Communications (NASDAQ:SBAC). Les nouvelles montrent que la soci\u00e9t\u00e9 a r\u00e9ussi \u00e0 augmenter ses revenus de 10,4% et 12% respectivement sur la p\u00e9riode d'un an et six mois. Les titres font \u00e9tat d'une augmentation de la participation de GAMMA Investing LLC dans la soci\u00e9t\u00e9. Les analystes ont donn\u00e9 une recommandation moyenne de \"Moderate Buy\" \u00e0 la soci\u00e9t\u00e9. La soci\u00e9t\u00e9 est \u00e9galement pr\u00e9vue pour r\u00e9v\u00e9ler des informations strat\u00e9giques lors d'un congr\u00e8s technique de JP Morgan. Deux titres mentionnent des pertes de",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

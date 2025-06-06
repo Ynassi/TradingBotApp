@@ -2,55 +2,163 @@
   "ticker": "HES",
   "name": "Hess Corporation",
   "sector": "Energy",
-  "market_cap": 41148510208.0,
+  "market_cap": 41193353216.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.479168,
-    "PB": 3.5573914,
-    "EV_Revenue": 4.055,
+    "PE": 18.473648,
+    "PB": 3.5612686,
+    "EV_Revenue": 4.087,
     "ROE": 0.22753,
     "ProfitMargin": 0.1815,
     "GrossMargin": 0.79006,
-    "DividendYield": 1.51
+    "DividendYield": 1.5,
+    "DebtEquity": 76.69,
+    "CurrentRatio": 1.079,
+    "QuickRatio": 0.868,
+    "FreeCashFlow": 717249984,
+    "OperatingCashFlow": 6115999744,
+    "FCF_Margin": 0.05845558080828734,
+    "ROA": 0.096829996,
+    "PEG": null,
+    "EV_EBITDA": 7.458,
+    "BuybackYield": null,
+    "PriceToFCF": 57.369830778553215
   },
   "technical_indicators": {
-    "RSI_14": 50.51908512803686,
-    "Momentum_10": -1.186539695923405,
-    "MACD": -0.62535452335581,
-    "BB_Percent": 0.6261582974860906,
+    "RSI_14": 49.23892198662263,
+    "Momentum_10": 2.1819270574570298,
+    "MACD": -0.2027748527862911,
+    "BB_Percent": 0.4933241765004708,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8871391304133724,
+    "ValueScore": 0.8840530837816439,
     "QualityScore": 0.4693720619214918,
-    "SignalScore": 0.6247247487364287
+    "SignalScore": 0.5839840295638272
   },
-  "volatility": 0.0210740988963936,
+  "volatility": 0.0211144172972165,
   "beta": 0.626,
-  "return_6m": -0.0883340669543297,
+  "return_6m": -0.0732781862595478,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
     "target_mean_price": 158.54143
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente autour de Hess Corporation (NYSE: HES) a été marquée par une série d'événements influençant les investisseurs. Malgré le soutien de certains investisseurs institutionnels et milliardaires, comme Siemens Fonds Invest GmbH et Warren Buffett, la société a vu une baisse de ses parts détenues par d'autres acteurs tels que Toronto Dominion Bank. La décision de Chevron d'acquérir une participation de 5% dans Hess a suscité la confiance en une éventuelle fusion. La stabilité du dividende trimestriel à 0,50 $ par action témoigne de la solidité financière de l'entreprise, bien que les commentaires négatifs de Trump sur Elon Musk aient pu impacter négativement le cours de l'action. Les investisseurs restent divisés quant à l'orientation future de Hess, avec des analyses contrastées quant à sa performance post-résultats trimestriels.",
+    "sentiment_score": 0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Tesla stock slides as Trump says he's 'disappointed' in Musk's furious bashing of tax bill - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOXQxRl8yTTNOQ0F5SW9qb21ZQ21TdnRBNG5lbmRQODB2eXZILUxOR3dfTmpCTm0xTXRTVGFnUlRXdGxQSGJhQkpSV1l5dVlUbVBhVndQUW8wdjhNVzA1OHJ6UC1ESVB2LUdjUHRJajhGLTVfZ0wyb090bERvUVh2U2RKX1BXZkNHNUZ2M2hTLXNoRXhRS2NNMmk1dVhBZThxdHdrT0R3S21nRjJOMVpuSmRzdWs5TkctYVk1UzgwdEk3T1BfWlhwZUliV2w?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Rhumbline Advisers Has $89.22 Million Stock Position in Hess Co. (NYSE:HES) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnZTejZnNWZLNmJHWXZrRmhkajQzbFRIalVqNlpuc2M5MDczZ2o0Uy1raVBQQ2IweGZPWXA2dEF4Smg2M21FLUNmZFAxS2tVakl4QXVWX3lFLUJlV05zM1F6UG1IQ2FxM2lpTm9nUk1zMkdFaC15dnFnNHg3Sl9WbElRUFhnZEc1S3k1ZTBtLU9mYTlnUWhVeXpSM1VnRUpLWFVEMnhXUk1EMzJWMFpaTGpwVVZfVy11STFaZURINFNPZjJTUV9qZEFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett's Favorite Energy Stock Paces Bullish Oil Sector Move Amid Ukraine-Russia Attack - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1RDdFlLMWJWTzNac1BycTVtMDVtdFdyN0tMb3JjQmd4WXpaTVBodFF4Smw0X20xYW1QeC01NGlkZ1ZsendtNzcwVDR0NXB3Z2xOd1NRRDNzeXR6T1VRdDJHUE5obDltSE0yWjhibWtsZERKbGxWaHFhMWsxODBZcmlDbUZyc05NX0R3SXRWRHRMZG4zYnFTZkt3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Energy Leader Hess Maintains Strong $0.50 Quarterly Dividend Commitment for Shareholders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXlXdXhPQmVJd202OFZsNlZFVEVVSzZqNE9aOTZtb0o5VjRIZkhGbGlsczRNYS1PZDdUdl85YmhmSEF6YkdDR2txb1J0SElOcnkxenRvMlVGZkQ2NGIzYzU1TVJXb1VEUjE3djF1TUhEaDFYVjRYUlZXT0pScjVFV0RNXzc5QVdUOVZ1MlFyZU5Hbm1hYTFSa2N0ekhJY1QycVRzaGxYTTk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(HES) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWnNQNS02ajRsWWo3SlRZX2F3U2k5cjliVE1nRVBXS3JIeVNxRGRzZzlJQWtENi1jdF9lTWNfRFV6TzU4UDFwNXpLQTlKNEJsY0V3bWQ0TG5lTFZ5QmwtMUJjOE1ZMExYUTd3aUxUVVc2U2hISWZEMHd0c3VSMTJiNGp6dDNsTHhXMWRDRkV2U09SYlBoYlJqVA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hess (HES) Up 3% Since Last Earnings Report: Can It Continue? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaktLcFhoMTdLa1NJNVE5M0FCMDlYWHhJSm9MeUdKU3E1QmdTTjZSay1BcmhDYWJneWVpWmhmVUV2RVRPeFZWN3pFZElsN0drRTRkR2c3WVNyZWNmZVVnUkVlRGxuTlpXbDVZSXYzRFFNeVNXNklsdzY0aU1rVENfZk1vWGFGQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Analyst Explains Why He’s Buying This ‘Nice, Boring’ Dividend Stock With 3% Yield - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3p4LTlUTXlLNVZIbnJLU0stc1VsUWxQcVI0MVctOU9JMDdvbmRmYlBpemRNY0FkX1RrU2d5ZVBLWVc1OVJHSHlUanVmQ3hUOGFncTEwb2FJR0t4ZWR3SUpIa3JaeG1YZGo4c3M5N1V3eTFwT1JrN3NFNzJuSk9aOXNSSEhDUVBEVmUwRFNJRHZtMUNSRHFqUG1HM2NjX3dKbXVDOGFTSlVjQ2plNDR0SHlKbXc5R21EV3o2NNIBxAFBVV95cUxNcjFfeUl0cnNoS0g2ZktIU3J0LXhqQmxzYnEwd2VIclpYMkl1dGtUbTVtdnIxbEF6bEg3OUtDMjBlOUFZSzhPU2ZoeElSQnNERmNvRHAzU2U1dUhtaEtYcVV3RFVaczVWQmZJeWw5YmRhTjA1NjlLdnJ5YTVqTmZucHNwajBaaW9lMm1TVWZjc21hUHFkYk9yLWh4dHhaaHhOMnBsTlRSZ0RVYTBIUlh1NW5iSzY0allmel9mTl9OYkZuTDhl?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chevron buys about 5% of Hess stock, says it is confident of merger - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHlab2FuUEQ4eVhYOHplWkw0R3Q5ZnJwSWtFc2M2eGFjQUdIWDZsSlpHR0dxMUpRLXlhV3lIUUxpcktjUmxzQnEyS2Y2cGlUR0ltQ2UwM0N1OGNXZkVSVG9jNzA4OWZWS0hYLWg3UUNZVzRzcFFPS3FibDdONnlDNEc1Rml0bWFscWZJ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hess Corporation (HES): Among This Billionaire’s Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbklmZmdTU1ZXcUxCdFVsVjhjaXBaa1A3RUFSNXJXQmtxWEQ0QlQzWE5GUEdleVJJZE9nZXNJaUxucmdLaGJmZjYzaFBBQVJHWjhPbEdxYmNWQ1hEcjlwZi10bldSY2Rzc3p4MTdkT3UzU3N4LXJ2Nm83bDdqOF9FNF8xVkpTRkVPSWVNOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hess Co. (NYSE:HES) Stock Holdings Decreased by California State Teachers Retirement System - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUjQ1OHFJbzRMbm5PUm9kdWhKUGVaRFhuSXRVWFVnQnRYQXRyTDIxV2xnWFN4T0t5UmJnMjZULTdkd3VsMmdlRWJzWWVxdUp3eXEyd2ZxTUtlZmIwd2tDcndZQjNFOEY5ekZGenhKWFJQXzI0d0QyNUFrZnNGQkFkeDRHVUNEVEVoVmhmT0xuZjQ0eVg0VU9jcG15T3FNc2VDQk9XNnl2MHFxR1A4M2hqUUw3eXdQYUJrWlptd2dwd0lLSUlxLUlKdDVrUjIyNkNRMGJCWGt1X1czNUk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Hess Corporation Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTV2UGRDeFl4MTkydkZIQ3ZsaXVITG02TjBwdG94X3ZIbGlRcDJwOVdWMGZfSV9qWjd1LVB6TEZYNG1HdGtyWXBMcFkzVUk1dnlGdGFzWkppV2ZKYk1qNGEyUm44cEhLRzRORzRjQjZ1YV9EbzVkVEhKcFRqQ25kb3FnZWlqczgxaTRrd3A4Rlc1TERodkxVWg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Hess Corporation (HES) the Best Energy Stock to Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnM3a21TMWRPYVYtaFNJR0NzX1U0WkxDSlpsMnExejdJOVd3S3h5YXV6c0RMMVpXcE92a1BfbXBObXc2YjdSWmNrVTYwZzQ1X05DeWZFRW5Ba3UzR0lobTFwQkhjc2JUM3hrczhNNmFpdk5rTTNaWm9CN2RySmE3MS0wc0Y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hess Co. (NYSE:HES) Shares Sold by Toronto Dominion Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2RsUmswY3k0RW4zaVV1ejh2Zm0tbFFuNDdjWjFLQTVBS3hHbnFQMkRKaUpiclpHOFhveDlkVE1RaXFmNERjNXJhOFUxVGNoaE91dkhPaHFPV21XR0lQVjdTY2k3Z2ttUUpFTkZDUndTRmNkc2g5V2s2aFA3Wkk3OElwYTBLS1dwYUMtYlY3Q2ExWFlwZWRHNGR0TW5Tbm9JWXB4bXZfV1UyZVhGd1JjUHRIQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hess (HES) Up 3% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wS1VrWVg0Nzd2VjgxNDNTdm5CbDRQNk9iUHBmOURJY0pEVUR2UW9yMENXcG9FS2VXSDNzQmlzTFhDdWZYVHZabkRxdTViYVVMR0NCWmJkUDZ0RHU5R2tPOXlPYWRuOHQ1Uk9vZ2p0SmZfUlpuZXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Siemens Fonds Invest GmbH Increases Stock Position in Hess Co. (NYSE:HES) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbU9SXzJNMWJsNXlsTXVZYXl0LTdQUEdSZUl4VlN4anVlSjdVYWhRTEtYOUh3SmZzOVFQaVQ0LVNwbmhHZURoQl9WM05IR0lfUWFVeEJJemtnMF9udEJXdFBULWJna0llRUFRVGlSbUV2cG5DbHBHOGxxMDR4S3JnZHZMUUFxVkNYWUY2YllNY2dDbkN5X1ROX2JzYXZUcVcwSUhPckdRV240RnQ0SVotM2VKQnVkU0dUalBXRV80M2Q0OTZh?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Boosts Position in Hess Co. (NYSE:HES) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVkZLNlVSMzUyOUt1WDdQYzFQdzlFYVZkVGRzU1V1MDEyUkczRWhnZUpXYWdRVDVHUVM0Wkw3Ym1qM1poZ25oaGE2aWFjNHJfOU9rZ2xITVRjck5POFMtUlR3VzBUNW5pVlhFTEFVeVIyNEFBdEVYUDJoakduazZIQktvOEhLZ3FXNlRyYVpPejYyNGxSM21RMzZnT2FqQ0lOaUtJMmQ0TS1pUlh5aGt3REZSMW9LY0NaM3BNOGdXRkE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Occidental vs. Hess: Which Energy Stock Deserves a Spot in Your Folio? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNGFhWDg4aTNsVnZtM2ROd0djbU4zSWJvaVF4WE9qRDhsMk9wRmp3ckZxbGxMTFFPZ0hNRF9iVnc0M29nRjQwRTVxaGRQeDRkZGJRWUN5aFQ5UXV5YXNVbTRNUFZhNVdaUVNUdEo4anNBbkJMM18wNkhUcThVNnNBQk5xUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hess Co. (NYSE:HES) Receives $162.16 Average Price Target from Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXVVcjBvQkdCajRfV0lWUlZRX0Q3M2hvRG5TZ0l4cWI4ckFmVFR1XzVNbjBvbUd5d2stQjBzbEZIYXFjY18xcWNXajVZM2ZEMm5ocHpNSVRYMXc1TllSYnJGWDBGbktKeVNGUFp0TjQzNEZ6SWNmMF9tNGFmR2NXN0pOTXZHOUw4ZG42YkxhU2pmWFBVTFhhVWZyZ3BuNVVEbmk4X3NidUozeVNURjNQdVdXRElMdDFvRHlRZ19Oa2VOQmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Makes New Investment in Hess Co. (NYSE:HES) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR0xyTWtTYnNrX0ZDY1R1dk1uY3ktS3hfRXd4Uzd0OFJaaVA2QkYxQTBUZV9hcE9yYkl5bEtkU21LS2tOb2hJLXZ3MXBwZ2NxVFBOMnhHMF9fVUJKUUxNTVN4Qmtkb3RjMWRsRjZJa0NONEdXSUJyQl9PckdXd2NYSjNsYjdHMEl0ckRmWEF0OWV2MGVsYlZHVExkU21CbjFjNVlQS0E3THBqMTFxVjVGSUpqWDlUeGhFckFGUF9lX1F3eE5DTkY3Tk9RR2ZYdmxiOHJGamVKelJQT3M4TjNiUFVpYmROZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Polar Asset Management Partners Inc. Invests $2 Million in Hess Co. (NYSE:HES) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd194Wkk4NlNUdlowbjNNbjc5Z25iOUExN1JKLVVxdjF4Y3h6bTh3NnVYQUhPOFlxUWt2WlpjNmF2Z0NzMHVpUU55R29LMk9IWEN0Z2IxZm90SVJ0RXpmS0ZuT1RqM3FLaGVXbWd0MEtPdkVTY3l5bnlzY0M4NG1RckFpOGx1aUNoelY2cGVNdnBmUGVIUG94MkVOQWtxb1VDekxicHI4S242YkhIN2ZBa2lVdGlwNkNHYzZSdm92b2Y4UHQzVUtuQTREYlRnOGhYbEp3?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 146.96
-      },
-      {
-        "date": "2024-12-03",
-        "price": 147.22
-      },
-      {
-        "date": "2024-12-04",
-        "price": 143.96
-      },
-      {
-        "date": "2024-12-05",
-        "price": 144.73
-      },
       {
         "date": "2024-12-06",
         "price": 141.53
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 133.52
+        "price": 133.75
+      },
+      {
+        "date": "2025-06-03",
+        "price": 135.96
+      },
+      {
+        "date": "2025-06-04",
+        "price": 133.45
+      },
+      {
+        "date": "2025-06-05",
+        "price": 133.05
       }
     ],
     "current_price_data": {
-      "price": 133.53,
-      "change": 1.36,
-      "percent_change": 1.03
+      "price": 133.05,
+      "change": -0.44,
+      "percent_change": -0.33
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques concernant l'entreprise Hess Corporation (HES) r\u00e9v\u00e8lent des signaux positifs pour les investisseurs francophones. La pr\u00e9sence d'investisseurs marquants comme Mackenzie Financial Corp, Rhumbline Advisers et Universal Beteilungs und Servicegesellschaft mbH dans les positions de stock de HES montre une confiance des investisseurs dans l'entreprise.\n\nLe stock de Hess a \u00e9galement \u00e9t\u00e9 signal\u00e9 comme ayant un potentiel \u00e9lev\u00e9 d'augmentation de valeur, notamment par Yahoo Finance, qui le classe parmi les stocks des investisseurs milliardnaires.\n\nDes sign",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

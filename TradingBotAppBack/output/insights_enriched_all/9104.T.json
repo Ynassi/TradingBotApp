@@ -2,55 +2,68 @@
   "ticker": "9104.T",
   "name": "Mitsui O.S.K. Lines",
   "sector": "Consumer Discretionary",
-  "market_cap": 1748683325440.0,
+  "market_cap": 1681585995776.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 4.294901,
-    "PB": 0.66033244,
-    "EV_Revenue": 1.965,
+    "PE": 4.130034,
+    "PB": 0.63499534,
+    "EV_Revenue": 1.913,
     "ROE": 0.16744,
     "ProfitMargin": 0.23965,
     "GrossMargin": 0.17892,
-    "DividendYield": 2.93
+    "DividendYield": 2.97,
+    "DebtEquity": 66.641,
+    "CurrentRatio": 1.089,
+    "QuickRatio": 0.59,
+    "FreeCashFlow": -302253244416,
+    "OperatingCashFlow": 360498987008,
+    "FCF_Margin": -0.17023844212222555,
+    "ROA": 0.02071,
+    "PEG": null,
+    "EV_EBITDA": 12.196,
+    "BuybackYield": null,
+    "PriceToFCF": -5.563500233140869
   },
   "technical_indicators": {
-    "RSI_14": 51.48834390185099,
-    "Momentum_10": 0.0,
-    "MACD": 35.580860087087785,
-    "BB_Percent": 0.6069154387679008,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 42.13038083837298,
+    "Momentum_10": -3.2437810945273635,
+    "MACD": 16.52802984813752,
+    "BB_Percent": 0.196625378026662,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8969379892802177,
+    "ValueScore": 0.8941839752904591,
     "QualityScore": 0.3394452788845608,
-    "SignalScore": 0.6057961723727563
+    "SignalScore": 0.6538664035366282
   },
-  "volatility": 0.021813209929848,
+  "volatility": 0.0215477989590646,
   "beta": 1.011,
-  "return_6m": -0.0188239860275567,
+  "return_6m": -0.0190514742586345,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
-    "target_mean_price": 5580.0
+    "target_mean_price": 5510.0
   },
+  "news_sentiment": {
+    "summary": "Mitsui OSK a obtenu l'approbation pour son navire de stockage flottant de CO2 liquéfié, démontrant son engagement dans les énergies propres. Cette avancée pourrait renforcer sa position dans le secteur maritime durable, offrant des opportunités de croissance future. Cependant, les défis liés à la logistique et à la commercialisation du CO2 pourraient limiter les retombées financières à court terme. Les investisseurs pourraient être attentifs à l'évolution de la demande mondiale pour les énergies renouvelables et l'impact réglementaire sur cette industrie.",
+    "sentiment_score": 1.0,
+    "label": "POSITIVE",
+    "positive_ratio": 1.0,
+    "neutral_ratio": 0.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Mitsui OSK Gets AiP for Liquefied CO2 Vessel, Floating Storage Unit - Offshore Engineer Magazine",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmk5a1BtOGJackxOZnpPVmVyZjRsWE8zSExTSnRqZXZnMkhscGQ1dzJ3QXlKQ0lRcmo0cXNWSHZTTDRDbkZmcktlc3ZXSGpYMFk5WXEtY19DTXpFc2phc1FUbk9TWG50TFBXSkFaNUd1Rk5VZERwSzlKTUdUM1dXSjA0bUgtWm1yZ3plR2FGVHZ0bFRHTUpvb0VlMnM0NzdQcEhhWkVJNA?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 5153.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 5286.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 5217.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 5124.0
-      },
       {
         "date": "2024-12-06",
         "price": 5085.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 5056.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 5077.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 5046.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 4862.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 4899.0
       }
     ],
     "current_price_data": {
-      "price": 5056.0,
-      "change": -69.0,
-      "percent_change": -1.35
+      "price": 4899.0,
+      "change": 37.0,
+      "percent_change": 0.76
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nMitsui OSK a \u00e9t\u00e9 mis \u00e0 l'\u00e9preuve par des analystes qui ont mis \u00e0 jour leurs pr\u00e9dictions concernant le r\u00e9sultat annuel de la compagnie. En outre, la soci\u00e9t\u00e9 a obtenu un accord d'investissement pr\u00e9liminaire (AiP) pour un navire \u00e0 stockage de CO2 liqu\u00e9fi\u00e9 et unit\u00e9 de stockage flottant.",
-    "sentiment_score": 0.5,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "FLEX",
-  "name": "Flex Ltd.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 15791266816.0,
+  "market_cap": 15888329728.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 20.047394,
-    "PB": 3.1951053,
-    "EV_Revenue": 0.689,
+    "PE": 20.170618,
+    "PB": 3.2147443,
+    "EV_Revenue": 0.696,
     "ROE": 0.16229,
     "ProfitMargin": 0.03246,
     "GrossMargin": 0.08635,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 85.626,
+    "CurrentRatio": 1.304,
+    "QuickRatio": 0.668,
+    "FreeCashFlow": 933124992,
+    "OperatingCashFlow": 1504999936,
+    "FCF_Margin": 0.03614942025565844,
+    "ROA": 0.04282,
+    "PEG": null,
+    "EV_EBITDA": 10.068,
+    "BuybackYield": null,
+    "PriceToFCF": 17.027011240954952
   },
   "technical_indicators": {
-    "RSI_14": 68.24286729101236,
-    "Momentum_10": 0.6663464451370372,
-    "MACD": 1.8222003886896516,
-    "BB_Percent": 0.6950398847830235,
+    "RSI_14": 65.96005912585369,
+    "Momentum_10": 3.351143899680318,
+    "MACD": 1.6867605965314283,
+    "BB_Percent": 0.6858149201114231,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9309313163491766,
+    "ValueScore": 0.9281999055939196,
     "QualityScore": 0.3420734249048518,
-    "SignalScore": 0.3720502174064083
+    "SignalScore": 0.4471645622323078
   },
-  "volatility": 0.032456591760398,
+  "volatility": 0.0325429065539072,
   "beta": 1.031,
-  "return_6m": 0.0785313085286589,
+  "return_6m": 0.1000259210118048,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
-    "target_mean_price": 45.91444
+    "target_mean_price": 46.58111
   },
+  "news_sentiment": {
+    "summary": "Flex Ltd. (FLEX) est au centre de collaborations stratégiques avec le MIT pour révolutionner l'industrie 4.0 grâce à l'IA et à l'automatisation. Malgré une augmentation de 32% du cours, les investisseurs restent prudents quant aux résultats financiers. Des mouvements significatifs d'initiés ont été observés avec des ventes importantes de stocks. Flex cherche à consolider sa position en tant que valeur sûre à long terme, mais la volatilité récente suscite des interrogations sur la direction future du titre.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "MIT Taps Flex as Founding Member for Revolutionary AI Manufacturing Initiative: What This Means for Industry 4.0 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRkt5QjB0N2ROQ1pXMVdrREdveTVJUlJFUFJfUDlJR2pZZHdxTUtIc1hpOGFsN2tUMmt2d052bU95aE5BR3hjRjQ4cjBUOC1tVDZZZWF3Z1ZueDlTMlYtVHMwejVXMlZOSFFkWENVTHFOX1pFLXZyZW1VbUNKOTVUTTR6TE5ZS3IwQ1pHN1gwLVYyWVhjTnVPWm5BcWpZLWF4azg4QjJSdUhXUVBiejFCQ3ZWQ0x3d0s0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flex (FLEX) Partners with MIT to Innovate Manufacturing | FLEX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2RDWFhnYUFZZTF2dmx6ZnFCMGw2b1VfZEZ3dzFmWjRxUE5uVzRuX3M1cFNhSFA5SDdzZVB0UHNlb0YtTFFLR0xHSkRJczNETGJzLXVURS1jVU1FOU9RdDl1eGU1QmtkaFZyWFZ5WnE0dU8wQ0wxU2hMSTFhaERSdjVDanF6ZzRJRU5BaDNRbmpfemRHUzlHcFU4X0lNUTlMdkNUTzZ0Z29ld0NGNkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FLEX vs. GRMN: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GNlRtYl9uSVE2UU9VZ24yT192UEtiRWo4TGxEWlYtNV9zQmgydTdQd2VtQUZjRFIwOXRJcXlWcy1Kem9lWjFMT0hLazVLREt4eWdOTmhKRUxabFlGQUM4d0R0eDJfMG9NTDJqTlJNOHNhM3k2anE5bEJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Flex (FLEX) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42TUJPZVZrWGdtLTNqTkMyQzVTcHdFUEdIcXMtY3NyQ1llU3Atb3hKZ1RTR0JDVExqM0pla2w1aTBlRnNKRGZiWmpjaUVaZjJJM0piemlmSFIzeGlTTTVzajJvamdSa3h0MnYxU054cTM2c1NBUTlscE1RVjduZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors Still Aren't Entirely Convinced By Flex Ltd.'s (NASDAQ:FLEX) Earnings Despite 32% Price Jump - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUHFVTFRxSjlrdTFqU0lRT2lUVnZlZE5SbWRIdDdMTWRfRXFpR25Wd3ZMUEdScWxZWUE5bWNnOThORV9WM3VMWnpyUHdjcy1IWkNJOUE5dzdhc2RwZm1hY242X3o0N1VIMTJlUzZoOEdRcUZZRzZ1Y2swR2VMcWlhVTN0NkpLeWVTUjR2UkxKUkJGc1RPd244VFNDSHkxdTlsc3lsenZCeWNmMzBfeVlENTBUVWJRVU5iWHBB0gHAAUFVX3lxTE5rUmFNeHdXWU52YVFUUnNRWWM3Z28xWUEyTzN4d0xya3NsalVRYmRLNmFsTmdfdUhVVm5sdnBWNmpkWjJDeHhxc1Z3ZWY2ZW1zNkp1RGI5WW5mcU1SUFVJTGJqUUxTc1hKNU54UkZTUnFZeUtFZ1V2UnBfbW50NF9pZkR4WEQyQ01KeEpRZkZyeUJjNTdDa0hWbzNxYms1dURJb2J3ZWxWQmJORXBDaHVXM3N0d3Z0MGZ1ZTBaaktybA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fulton Bank N.A. Raises Stock Holdings in Flex Ltd. (NASDAQ:FLEX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmxIWndvS1ZjWTFtVUJvLVhQWHBwS3N3a2poeWZ0d29nWTI1d3FCVlhCZmJnMjJaZXdES0NZN3RWLXhDaE90MlRnTmZWaEVReU04MTRJLWtoSVNsUm41ZXlBVXlJMDhRX0ZrUWI1Vm1HTHcwZmVOSVpqOEp5eTZOcTk3WFJudVZDMUE1d09xRktCX01Eb29kcW55LU00ZEsxWXFwMUxYd0tDMjJJaVFuQl9yZV9jSF9OY3BMcQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flex ltd. COO Tan Kwang Hooi sells $2.66 million in stock By Investing.com - Investing.com South Africa",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak1Ib3dDdjFIMEY2WTRQME43V3RNQ1NCM1NIaXF3cjhaS1ZoTkw0ZXlKVjNfVVN5UV9VdlNmc0l3a29OSDF3T0ZaY256Qnh1c1l3aml6dXZuRzE2c29HaG5XeDlXUUgxSFJEQld1NjlHZTRtTmtYNlhvd0RrVEh5VDhkYmppRnBKUl8zR2JfRWZUWU1rV3EzRFZTTnl6OVg5UGF3R3JuWjNNVUs2eThqTUkzWktGWVhIQ1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flex Insider Sold Shares Worth $2,537,624, According to a Recent SEC Filing - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdFVkM2ROOXJIUEI2WVRrMXl0cXd4Y3hqbWxxeFVjVzkzUEhBZDZrV3RnNldYaXZPOUpjbWxFclZubzJSZE9OTnZnaTlkdjBfY0hFbE1vTWY1cFE1UlB1XzQ0Y3JKZ3NSS05sV1pHZUliRWo3OS16aFlBcmQzTk84T2JFbHowS2Zvb0JEMlQ4dWNSOElVYlFDVVpyUWI1QktfZjJEV0YxT2ttSU1nRDhQQnplRF9xT3pEMW94cENNRk12X0hpT3cwTDlXa1cwbnRIakxRQjdwQks1anhaT3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flex LNG Sets $0.75 Dividend Payout: Key Dates for NYSE and Oslo Exchange Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eUxIQXFJX241Y1ItYXEtNlVJZGRob3ZMQzNlQ1J6Z2V4cVQtbkxHUldpSl9lOEJmdnhYNjdNR1hyalY3blp4by1sUXZmMC1nZ0E0Y2FkaEpVbXNQaFhyaFBlMnpublBfMHJ0bXhKT1RXNGNmRmZWSEhfWGR6TXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Flex (FLEX) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBndkFGei1KOVltN25QWFFfN1NXRnl2ME9zVm9Dc1RvWTN5MTBmMVZKY3g0d3dTeG41RXV2Zm9iUUFOZlpodzFLYnZ0SXdYalA5bzRTS1RjczQtcmVDSmJpcXM1UWp6eC1DbHBWYklBSUoycEVDV1ZFNQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flex Announces Collaboration with MIT to Advance the Future of Manufacturing with AI and Automation | FLEX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSDJDN2x3M2duZ3dQZDFqNW80QjlpWTc4MG5kOF9INHplN2VITXBjSG5lVmNvSnk1ZW5CeHVKOE5TdmcxaXBMSmRXSVdTM09oeG81MFl6U09ZSU9WVVN6b3lKTE90dzBVci1vY1loQ1FnREI4Wm83WGlObi12eXp3Z2ZSYm5JdXdlQ3ZuRUV6NC1JOWhMMXpXVHlzcDlQNUpybmw1WVJBenRkLVlzTWRLOWZYX0I0ZTk1dlJBYkI1X2doNXF0ZEVKVVBrNmQ0RDRDRmdBLTcwYURaZWtxNnQzb1pzT05pbXUtSVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Flex (FLEX) Stock Outpacing Its Computer and Technology Peers This Year? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxZNHFMdjNtWlVnSi1hdDcxMW5IVUYwZTJnNG1VU1ktUHlyZXY2YU5US0pBUzF5N3NSclFEMHplaldCR0wyQ3VVQkZ3WUU5VjAyREQzejFPS3JEMWxNYjlTV193eW4zQWpUcl96VUdydVNwaW1Wd2kxT3RpRDBGU3RwdkNKUlUyWWFQSkxxZ0NTckhPZUdnMVgyQVA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flex Leadership Team Set for Key Presentation at BofA Global Tech Conference Next Week - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEZXNjZtQU0yc2R6cWEyWS1ockZkVDY5TkZsejA4VXZMMnRwS19VWEUyWlNwc2ZieklONGtfakJSUjF5OHVjUkRjNlNVQ00tWVJXRnRCcklMYXRkaDZ2RXB4YXJZSW9xTGNCRENSLVlVNjVvczNZbkh6dFAxS3o0bVZjZVh6VV9vUFFyb0hKMjVFeTBaVnJIMXdzcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flex Stock Surges 26% in the Past Year: Will the Uptrend Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wMk51WGk5Ymp6TXRXWHI3M05ZUEViZi1qTktoQ1c1WjFhWVJUSURtcmJqTUVKZGJrNkIwZ1RvZzhTNGxGZ3FqeEFNV2Mwd0hkV1VjTmY2YWM5VWhBd1hOWVFEcWhYTWwzRTVlYldaTXlHcnFCNmdSMHlRSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flex LNG - Ex Date Q1 2025 | FLNG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLWZsdGxoRGpZM09FTUJNa1ZHQVJPR0pjZVZDUVYzWjZFZzNubEJLZjN3YnBmSnE5ZjhPLW5JbnV1alprd2hpaTFoeGFXWjliRzYwdDdpMENYQjlHbFpWa3M3ZlJBWXotdGlkZE1IYTVUNW1GMHVVeGdSR2J6MVk3VU5zNnJndw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ford Awards Flex for Groundbreaking Auto Industry Carbon Tracking System - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlNtREktcEY0NXl6X183cFRnNEpVN2hkVURMVlhLQnBHcWpRdDZJalJiNl9CSXZiT0txLTFaLUxzamMzMHRKWGduWmFCdlpTWXl2QnpFbWJwak9XejdxSjVySFZJcm5XRzRaZ2tLd29sY2RZOUVOX0hDb214aUhpMmNhbFcySHJjakFGSGVFcnBudHdOX2NYSFdFM1Q5cEk4V3Awdlk3RUplNVUzbU9GUGZXZWtDd2N4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "KeyBanc Boosts Flex (FLEX) Price Target, Highlights Data Center Strategy | FLEX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnllVzMzcXpielB5YWpaNk95NDZ4cEthdUhZV2JsZFM5TU1xV0J4Q0V2SU9aUjA4dlhkNmZOVGYtdEU4a1NTVUU1c2E0QW1tRldEY3VjblFqXzRvQTRXeXNRemh0UHp4Z21Tdk9welRZdEJueXhUQlp6UjdaLV9reG4yWVRhNXVwaEdmLW0yeDdqOGtJMUxjd0p5a0x6YWUxZHlrQ1p5Y21NUm5DZVMwaGR1b2VHRXktT2Vwd3FrZy1sLVU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Flex LNG (FLNG) Outperforming Other Transportation Stocks This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYkRoTTJIVEkxMnNTUmlfMDlXNHNubWR2WlE2Q3ZIYXBQbUhPMHk3WHRwWXM3a1hQR0FzTkZXX0RaOWREenVGWTFHMWpHVHZaQUM4c0REc0hVN2ZhTWIwZ290WXVIbkVPeHpmMTFCbzlmWTI0SzhJRjJrTnd3SGJlQjdXNG9yUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should Value Investors Buy Flex (FLEX) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQREcxOHJZalN6WlE3MG9IR2xVZlVxd19wSGo4bWFYZEVLR0FWSmlkLU1KaGR2YkVWWC1NYktSRWZmVWdvZ2Z3elcxTlRoSW1rRGRkSmNVbFY0WERXZEhSYnBxUTR6RTZCMHlueE9QQzZJRGhiOW5yLURqMEw4ckE2aHRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Flex Down 28% in 3 Months: How Should You Play the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lUHRhcDlNd18zQ3NGX3lDQ1JucUE2eURmOFdjSVVDcVlVUDRmV2pRWkxiYXhsV0NPVzFGLU1MSHFrLUV3Z1E1d01OT1lhalJpUjJINDZSN3B3ekVqUmNRbGxITjZKMEFPdEFaTkszUFF0YWVFVHc?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 39.22
-      },
-      {
-        "date": "2024-12-03",
-        "price": 38.67
-      },
-      {
-        "date": "2024-12-04",
-        "price": 39.49
-      },
-      {
-        "date": "2024-12-05",
-        "price": 39.1
-      },
       {
         "date": "2024-12-06",
         "price": 38.69
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 42.28
+        "price": 42.38
+      },
+      {
+        "date": "2025-06-03",
+        "price": 43.22
+      },
+      {
+        "date": "2025-06-04",
+        "price": 42.77
+      },
+      {
+        "date": "2025-06-05",
+        "price": 42.56
       }
     ],
     "current_price_data": {
-      "price": 42.28,
-      "change": -0.02,
-      "percent_change": -0.05
+      "price": 42.56,
+      "change": -0.21,
+      "percent_change": -0.49
     }
-  },
-  "news_sentiment": {
-    "summary": "Flex Ltd. (NASDAQ:FLEX) is a technology solutions company that has recently hit a milestone with the production of its 250,000th solar inverter. The company's leadership team will present at the BofA Global Tech Conference next week. Flex's stock has surged 26% in the past year and is participating in an upcoming investor conference. While there are no major negative signals, it is uncertain if the company's performance is outpacing its computer and technology peers this year. Overall, the positive news indicates that Flex is a promising investment opportunity for value investors.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

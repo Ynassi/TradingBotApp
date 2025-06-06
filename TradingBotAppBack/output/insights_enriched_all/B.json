@@ -1,56 +1,164 @@
 {
   "ticker": "B",
-  "name": "Barrick Mining Corporation",
+  "name": NaN,
   "sector": "Basic Materials",
-  "market_cap": 34879246336.0,
+  "market_cap": 34432184320.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.367423,
-    "PB": 1.4265119,
-    "EV_Revenue": 3.208,
+    "PE": 15.170454,
+    "PB": 1.4082278,
+    "EV_Revenue": 3.335,
     "ROE": 0.10283,
     "ProfitMargin": 0.17459999,
     "GrossMargin": 0.41142,
-    "DividendYield": 2.09
+    "DividendYield": 1.99,
+    "DebtEquity": 14.084,
+    "CurrentRatio": 2.871,
+    "QuickRatio": 1.737,
+    "FreeCashFlow": 1162625024,
+    "OperatingCashFlow": 4943000064,
+    "FCF_Margin": 0.08738256517042346,
+    "ROA": 0.06924,
+    "PEG": null,
+    "EV_EBITDA": 6.786,
+    "BuybackYield": null,
+    "PriceToFCF": 29.62329659954059
   },
   "technical_indicators": {
-    "RSI_14": 64.87886222347402,
-    "Momentum_10": 14.370876844514727,
-    "MACD": 0.131272590447196,
-    "BB_Percent": 1.138539101537132,
+    "RSI_14": 61.005976940074454,
+    "Momentum_10": 6.965739149854593,
+    "MACD": 0.3129709297720957,
+    "BB_Percent": 0.8693010006646251,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9330404896687796,
+    "ValueScore": 0.9315112760555916,
     "QualityScore": 0.4947352566541348,
-    "SignalScore": 0.3091459582327817
+    "SignalScore": 0.461249899995276
   },
-  "volatility": 0.0234765486088015,
+  "volatility": 0.0233822972125268,
   "beta": 0.318,
-  "return_6m": 0.191609821072231,
+  "return_6m": 0.2072003589336488,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
-    "target_mean_price": 24.35615
+    "target_mean_price": 24.58692
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente des entreprises cotées, on observe les tendances suivantes :\n\n1. **Brown-Forman (BF.B)** voit son cours baisser, tandis que **Viper Energy** prévoit d'acquérir **Sitio Royalties Corp.** pour 4,1 milliards de dollars en actions.\n   \n2. **Berkshire Hathaway (BRK.B)** enregistre une diminution de son cours, suite à la réduction des estimations par les analystes et à la fin de ce qu'on appelait le \"Buffett Premium\".\n\n3. **Joby Aviation** voit son cours augmenter après un accord pour explorer un lancement en Arabie Saoudite de 1 milliard de dollars, tandis que **Nebius Stock** bénéficie d'un bond de 20% suite à une levée de fonds de 1 milliard de dollars en intelligence artificielle.\n\nCes événements soulignent des dynamiques contrastées sur les marchés avec des réactions diverses des investisseurs en fonction des annonces spécifiques des sociétés.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Brown-Forman (BF.B) Stock Is Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84U1RPWFJwTUw1dzY1OGE3UzNFMjUxUzhkeHhhWEpMbGtMUU94bXYwNkgwZ3BBR0R5ck9qNnNmT3BYM1dNWG9DMC1WeXNOX1hIZ2NxSmNIUUxVdkFhRFZCVktrSEctd2hoZ0ExOE1sa1N4RTh3bUE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Berkshire Hathaway Stock Keeps Sliding as Analyst Cuts Estimate. The ‘Buffett Premium’ Fades. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONXMzNVhRRFlHaWF0VVZybzNBUktZZlNQUk03MXBtYVlUbkNuS096Z0ticHlRWHFfNlgzSnozb05Xci03TXVORGZKNXJoQURxYWpzNEVpel9IMWdoUkFQWWRSaTJTa1did2JzalFiZUJ0WGNic3RQZlFPRko5c1d4UHR6eU44UQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UBS Lowers Price Target on Berkshire Hathaway Stock (BRK.B) as ‘Buffett Premium’ Ends - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUFKemxMcm55TkpMU2pxLWtfXzZfcUpXNW9UUXQ5d1c2TnJ3elBYVmFGaXN5cHBhaXB0SVFjRno2MWd0UHAyUk1TODRPWGhxMVQ4T3RIQ2liSTAwVmp6SnJqMWdpOWJhM2VwdGpfbzhjOWlZSkJlcmt4OUZ4emJXUS1NbXE0SlR4aGpEVEZpX1ZSNHNURFRJb0R4R2dLRFNZTV91TjVTOHg1WmJlZzVFdg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Brown-Forman (BF.B) Stock Is Trading Lower Today - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHQ4cHhDTzRxeEgxeWlXNEt6bnpNOHdlR3hfUWZYWGcwVERVeWNFemJGLVhVcG1KYVJRY25Sb3o2aktvQzd5M1R3XzM0bGFoekhOWVhWYmVzMlVsSl9WTHg2andBa3A5NVR2ZHlNaUU4ek5pTkN6cXZGRF9RRy1pN2dyM21KZnV1ZHk1clVuUGhFYy1wVmlUU19NcGFCVktreWRXUmN1N05aLVlXWVJNZWtTR1N4REtWeC1FcXdR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "B - Barrick Mining Corporation Latest Stock News & Market Updates - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vbXc5WUczWDBnbGpZakNlY1dqamhjVkxrdEJFcmFDZllvbnphTXhzcTVpSERjaG5hd2hXYW4xSGFKMXdxd0plQ2hn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(HPYT.B) Stock Trading Blueprint (HPYT.B:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2RaaU05MXBNYldQRmllUkhfMllMQlZ5SFhhbk5TV3BRem80N3h5c3BCQ1VEeU5SeGtNQTJnM2FORk5XVmpXRFNUNDZYekttbkVJRUNYSlhiUG5ncWxUM1oxN1FIUjRRd0NmcllhVEJYR3ZRVFl6VWt5aWE5eDhjYW80ZS1aQVhkZ0xPeHA1VDY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Viper Energy to Acquire Sitio Royalties Corp. (STR) in $4.1B Stock Deal - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRi1KVHowbjVwM3ctaUI0NFJ6Q0RRQk9nZTZ6WHgyNlVhOGFRZGN2SEFTbWg5RGNMWE13WTY5bVhpQUQtdEo5ZlVGRWtIcEJoT3BDM2pYZXRKTm5ncjRGb2FGc1cyZnhfWjY1dGR1MDZmY3hvUHBaQ1R5Q0dXQzhQbjEwQk0yOHFBMFdGaXVlUXBZUnltczkxMzlCLThFdEQ5OVlORE03Sm5icmpfTFdJY211Y3lMTDk1T0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Joby Aviation Stock Jumps on Agreement to Explore $1B Saudi Arabia Launch - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHJmbFIwSXY5R2wzaHNjSkJDVGtZRGMyOGN4TEpaNTJHSHlFTnd6YV9jdWs4SDR3SmVyRFZsWlYtc0FwdjdIUmU3algta0J0enRKR3Y1ZUdwb0o4RE4wN2dmTEVhbXpSMGpOcFRWNzQ3V3hydktQVURTOVp4YWJFOTlVNVA5YWhsenJza2xEUXNlSTZ1dkxCb1p3UlNJNkozYjdrRjNOQS1JTmlUUUlF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Berkshire Hathaway Stock a Buy Now? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb21HSXc4ZzRJWjgtakhfRE92dUVsTm9DM3B0aDdzSUlZajN4YkU1bVRhZFdhVWlBVnlGWlJvSWt2X1EtVnpXemk1cHk3RjJjeTBFVUZ3cWtlUl8zS0gyMXRycF8wV0pXT2VMdU51R2k2eHdFa21kc21HR1U0UVk0M2xSYWpGZE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Viper Energy to Acquire Sitio Royalties in $4.1B All-Stock Deal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVUxMGVhR3lrNmhPdllCTmJoZFR6Wk5MVHhSRC1Xa1c5NDhlNWhQOUVRSFdLc0d6b2VQQ0x0U2dpREhISkJKOERjWmVrMmV2VXNvcGRkNmhOeTBmdERySWlFYVpqSTZxemhHTndRaUhEWnB1MHNrU3Zwd0lPUEZKYS1VMldQeHVweHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(MULC.B) Stock Analysis and Trading Signals (MULC.B:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDJpMmRDS3FPOGhOb0RUalpBSDVRNjZjb0RRZmVDQlp1R3BpdGV2eEFYM1lDMDg5NjgyTFJ1VlVtcmx4TzZPczh1SUNZenhtdVk4cF9TdDZ3a25nRmRBaFp4WVc0NHBEZHlYUUs3QURpQklBTVE5UDdSMnNSdDVPc2JhUXRRSmdtc25EWkNZY3F4X2VBLXpRUXRQbkhuTVU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nebius Stock (NBIS) Surges 20% Following a $1B AI Funding Round - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTdGNHViNF9mZGFpeXhGSERIN212YXJFSzdyMkJZZWxVc1lCSmNwOElpaXF5c3V3MVZJSjVaVUVzV0ZJYUt1OUJfZWxDQzB4YlVaWnh4VlQxOXpidkY2ZGFMUlJGTlFGcFRRZUhRQ1hyRHlrV3h2MjdCTHFUc2FNWE1CS1RlSU5XVFloUkRzbm9jZm8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Berkshire Hathaway Inc. New (BRK-B) Stock Forecasts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVkFyMFV4bEp1d01VcmRwZ2UwWmJxb3pfWTFmNXY1RlRIQUNxWmFhWUE1Qkh1X1hDcG1DV09LRkRhVUh1YW52ZzFNYzNNOEJFdFhOVFVyNi00ejJtZ2ZRQjBkaEFtMml4WWlUUmxoeUZKWVU5LV9iYUpvazZaLVQzcFM4c1pBbktvaUVIX1ZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How to Take Advantage of moves in (UDIV.B) (UDIV.B:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnRDalpLMGZlSE9keEZOM3B6d3R6cFZaV1I0ajNuNXYxVm9mZTBkWEMxQV9wT3dtci03X2JkTXoyOFF6X3RQMW9pYUdZQTd6eUF5M2hLWFo2TFRvemVJRllYUnNCbEhyaENyamlDQzhDdERtRjBPWDgwRkZYaTlMeFFJQ1hycUcwbGF5Q0Nxam1UUFB0Q1JDWERrZnhDdFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buffett’s Berkshire Hathaway records $174.4B stock sale - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOaHZXYlUwVkNub21mdFJJdWhfeDNkdnE5WEZlS3VxY2NraHcwNU9rQ3VzY1J5b29manVwVmlKYy02WmNOY0k3UFdxQS02TXotanB2bmh6Q2ZEMFo5dTFWMDM0OGFPZUc2UzZqdU5Denh5cUNIb3RxY282a2p0bWloY3dBWWxGSnFhRDk1T0pQeDJENTNpM3gzeFhEcHlaMkpWYmVveVoyZWJiOHR6NHBxVGZOajFGMG9NaWZ4QzBmdGRkeW9KVzdVRENJRmhEWVpqck5sUDdoTXg4eTNkT3hneGM5Ym5MUjBkTXc5QVBaNTJNR3BrU3BBTXVjUUZ2WC1xSVBUbVk5T3Q4clotNU5zaEhaZVRRVWhXb1lKbVVWelpXcmltQnBkb05DNjlQNDFCOXBjNDVpSlVoVzhmTEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When the Price of (BOND.B) Talks, People Listen (BOND.B:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOW5WSHlhWXN6OFB1VWlWdDNFMTJCMVZoYUx1a1MxNllXUWpYTlZRREdzNFIwNGUyQWNNUFdPaGhoMnBUeDFEdS1sc3BrelBFeHlfQ2hnODlhZ0JNbjNqdWNKS0hUaXVsdWFkQW9wY01jVzhDT0M5c0ZWOVdwWkNwTFlUa0xod2g0OXVIS2hWV0FvUG9EZTZGQkNwb3NPOXU2Um5uYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(GDPY.B) Dynamic Trading Report (GDPY.B:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzZ0YlNVbFp0dUNaSnZoRjFWU0xpNDR4amIxMUdJbmU0dWxmWF9hSnNDUVV5LUFsakY2S1RPaDdEVk1kcm9rZTBoVnpGYUZpVUZPYWtfZjBNazlVbUN0TDRiSVVRY3AxS19yNWx0UFR6UXA1TldUZGUzYUVURDZ1d0UxZ0trSE1ER3EydGpaTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(ETHY.B) Financial Trading Report (ETHY.B:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnRlWjVaUXR0WXRXaGRhQ3cyZG5oc1NfblJ6Qk1jdWpjN1BWdElYU1BYSE9DQXlnZEVieTg5WGVjaXo3eWtESHhtX0VoaHhlYzBrWWdzTURISXhZZjBQdnl6ZGh6VWh3NVpvdURxLXVMTEEwTC1kSnR5MTl2NnFSeHNSSk84aUY2OGhfTWhEMUZmUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Aerospace Supplier Ditches Excel for Advanced Quality Management System in Major Digital Shift - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFliZGQ1NGUxWl93UVVZMVBjN0NGY2dKcWIzaEMxWFg2dlBUZXZzSy1YekcwX1RuOGN0UG9lQ3hCcUlCVEpEUnQtVmtqZW9UY2plV3pVanhDTmE4aDVibGYxM2h2SjgzNVhrOHRYUDRJV3lDbE81OUM5cF9pS3g1eTRPbVRkdmQwcTVleDdIdGJjVHhicTItV1gyVFRVTFJjY3FfSDg1QmxRNnlJZXBZb1ZNY1ZYSkU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(CMCX.B) Trading Strategy and Analysis (CMCX.B:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVM0UXd6TE5ZQ3B4S09ERndvVjJZZmw5YjVJVDNaaDByQnhqV0FuU1VwTXgzWlVBRzRWLU9FUDRHZzdRNUFPMHVReC1nMndsU0VBLVRCVktJTFpjVmI2S1hoSHptVzVBNGVPalhTSm9HaV9TX0xHS1ppbUNwSWR3VFU4RUNNN3hkV0xHTXZUb2tydGdjQWhYSg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 17.21
-      },
-      {
-        "date": "2024-12-03",
-        "price": 17.61
-      },
-      {
-        "date": "2024-12-04",
-        "price": 17.37
-      },
-      {
-        "date": "2024-12-05",
-        "price": 16.95
-      },
       {
         "date": "2024-12-06",
         "price": 16.77
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 20.25
+        "price": 20.32
+      },
+      {
+        "date": "2025-06-03",
+        "price": 20.09
+      },
+      {
+        "date": "2025-06-04",
+        "price": 20.14
+      },
+      {
+        "date": "2025-06-05",
+        "price": 20.03
       }
     ],
     "current_price_data": {
-      "price": 20.25,
-      "change": 1.09,
-      "percent_change": 5.69
+      "price": 20.03,
+      "change": -0.11,
+      "percent_change": -0.55
     }
-  },
-  "news_sentiment": {
-    "summary": "Cette synth\u00e8se r\u00e9sume les tendances cl\u00e9s de ces 15 articles d'actualit\u00e9s financi\u00e8res r\u00e9centes concernant Berkshire Hathaway. Les signaux forts sont positifs, avec une forte hausse de la valeur de l'entreprise et plusieurs acquisitions strat\u00e9giques.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

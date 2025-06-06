@@ -2,55 +2,163 @@
   "ticker": "EIX",
   "name": "Edison International",
   "sector": "Utilities",
-  "market_cap": 21244743680.0,
+  "market_cap": 20715694080.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 7.8097596,
-    "PB": 1.4184971,
-    "EV_Revenue": 3.662,
+    "PE": 7.615276,
+    "PB": 1.3831728,
+    "EV_Revenue": 3.634,
     "ROE": 0.15001,
     "ProfitMargin": 0.15757,
     "GrossMargin": 0.52954,
-    "DividendYield": 5.95
+    "DividendYield": 6.09,
+    "DebtEquity": 210.459,
+    "CurrentRatio": 0.956,
+    "QuickRatio": 0.513,
+    "FreeCashFlow": -1136125056,
+    "OperatingCashFlow": 5194999808,
+    "FCF_Margin": -0.0655507157660426,
+    "ROA": 0.02796,
+    "PEG": null,
+    "EV_EBITDA": 9.831,
+    "BuybackYield": null,
+    "PriceToFCF": -18.165905567353317
   },
   "technical_indicators": {
-    "RSI_14": 44.676952835020984,
-    "Momentum_10": -5.577350158947885,
-    "MACD": -0.1563496602959873,
-    "BB_Percent": 0.2491746349198045,
+    "RSI_14": 38.560409826491586,
+    "Momentum_10": -5.672637197292141,
+    "MACD": -0.4503520188236791,
+    "BB_Percent": -0.0518244504796982,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.89093125197494,
+    "ValueScore": 0.8880613059933111,
     "QualityScore": 0.4045406172235104,
-    "SignalScore": 0.6838041894196036
+    "SignalScore": 0.6914885184434718
   },
-  "volatility": 0.0257981169200759,
+  "volatility": 0.0259093847569957,
   "beta": 0.783,
-  "return_6m": -0.3394618649083811,
+  "return_6m": -0.3493882314674866,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 18,
-    "target_mean_price": 69.67833
+    "analyst_count": 17,
+    "target_mean_price": 70.24765
   },
+  "news_sentiment": {
+    "summary": "Edison International (EIX) a été confrontée à des difficultés après les incendies en Californie, suscitant des interrogations chez les investisseurs sur la viabilité à long terme de l'entreprise. Malgré cela, UBS a relevé son objectif de prix pour EIX, signalant une certaine confiance dans la capacité de l'entreprise à rebondir. De nombreux gestionnaires de fonds ont augmenté leurs positions en actions EIX, indiquant un intérêt croissant malgré les défis actuels. Cependant, des avertissements de certains analystes suggèrent de la prudence, soulignant des préoccupations potentielles liées à l'entreprise. Ces événements pourraient influencer le sentiment du marché à l'égard d'Edison International.",
+    "sentiment_score": 0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Edison International (EIX) Struggled After California Wildfires - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXEzY0paOHVIMVhhQ28xZUhWVG4yc0VEOW1XaHVlVF80TWlfN1NKRjRxQjNQaks1cVRkN0FvckpRSHhTZXRKVFFEVlFjZzF1NkJoRGl6SmxlV0ZwcEtiQ0JUekctaTFVS2wyNVhBbUpXRkljRVpsZWNPT0F4YVRNbDlGVW5sY0dUZndmbXMtbDJFbERCaTBlRnhJdjhkM2paNUYza0gtONIBsAFBVV95cUxNRnpNcF9qUVZVakpWVWduT2NJS0JkdzB3ZndKc2VrTkFHZVpyR2xZaFdXakZpQm1kZEptd29QTHNNSE1SQUNDaU1VTk1zWmRYMlVaalZXSndFbTZtdjE2X0MwLWduMTh3cG82Y2h3S0FPYmoydGFNbldCMDlUdGl3X0ZmcjZpVVp2NklGcm5VSUJVSG5jN050U1Z2YjNURFVKNWY2enE4a2hjOXdGSDhleA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should Value Investors Buy Edison International (EIX) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOEYzckk5dWpDWXloT1hLU01ubkxENndyRXZSSFdac3BodmVUX1E4RzRSSV9Kc09QTmlDMjFUNFNFZDZjNllLV3FxcTRielJrSER5N1NyMjdoTkNXYzZVU2NzMlJKNmVPNlpzMmhjN1FrWVBlbUFaMEk5UjY0cTVhTkhfaWdlME1zbFBpNXV0QVdwRnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS Increases Price Target for Edison International (EIX) | EIX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFRLdHpDZVdtRGxYbEw0WlQ4ci0xOGFJOTMzeGotcFFTOE9YbGR5aVFlS1VWNUtUOEc2V1RxaXpyMmV4YVNybGZNeXhnRUFRU2x3U2stNGhyVWdjLW1CYXdOUVZ3T2tIb0tTTFFRRW5aOVZOSnVvcWxZdDdnUFVOM2pQaWxkVDgtRGdsYnZsZWFWYUZzWkUwV0o1amFsQU1jUmVkUVBCRFBkckNhMU5Z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Parallel Advisors LLC Has $559,000 Stock Holdings in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaGJLb2RNTWlSdzVIN0FfeC1heUEwZEVDanVuMjZLd1VlenBQbTBMdVhDOGU1ZUhlUXR0MHB1NTRvZFM4S3IzdG90WGROSFVCS0R2NFZNQlFfYlhxcU5DcktKcVZsekt2aUdlZkR4RFFHaEtBVEFPUk5zYTFjcldSQi1DMTJTQlpmU01xa2VTeTlNTGkxSVZWQU5VNmo5VDNFS3ZZYVVTLUFONkVBaFZaQ0Q4YjYzeEFVVDh4LVJBYldnMUZYVlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Southern California Edison’s Wildfire Mitigation Plan Leverages Grid Innovations to Advance Community Safety - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVFpUOUlyNG5vSklpa2pNOWN0UUx2TUhheFNubFJRNlhoek1lTW1rT2R2dk1lclJ3WmhkV0pxOXJhWHB4Z3B6aDltdFZ2b013SVFTdFZpTHdhMG9GS3BaVHhBVVNGaWNNeTh4NThYdGdfd3RDcFBweU9JcEZ0SVJseExUZEhSZXJ0dDZLVElNTkxxaVI1WV9Ga1JncXhLTzVhWFJ6ZHpoQ25MWUI2WjVxSndQZ2M0QXNMY3pMMFkxOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Scandal Stocks: Wait To Buy Edison International (NYSE:EIX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEVNNnZaeV9BQlEtV1hIQ0VsVHo5YWprTUZtNm50T0ZobUJhREkzY2E0WW8zZ3FUMGVZNm1GREMxaE1YUFc3NTAtd0VvcFlwMC14VWJMOFRsem9NRE0wRVQ5c3FsT2hpZTRNU09yQThHTzBUUU9FUDNmTWNfeHMzVzJXR2RMMWlmdHVSQnVpaXhrdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Grows Stock Position in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLVF2N3UtTWlqV010Tm1PdGgzaFRFc21XUDFoRjJSY21KREwxYjNidGMzLWtIbXRJZnZCQmRYelRqSTU2R242RkdKd19udHc4WjUwY0F5YUhJY3ZfSXBRZmk0d3dMRmVOallHTVJHLUt2QUIzZTJrbE1uaHF1Y21JTDQ3VHktOFdVNmd3VGU4aDdHZk0ta0tSeGdnUnRFRFRvd0pTV3AzN0twa1VmYVV3ZHlLRDU4cWlkdnZ3dDRpZEpDQWowd2VpYkpWamFIM0hZMEZhYWw3c0EyR3RmMGJ2WDgtUHFGQlNxUmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Edison International (EIX) Stock Undervalued Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbGJKZkJ5MG9RalMyWXZRUER6akxESHJuRFdPTmJZejJUWGNLdElqYjVHZE11c19xQVZYVjRXdnhmTWoxS0lKY2dkMks0aGdON096OVNEUUdMOEdvM1FGUEJ0NDM1S3VjdGpfZE1yTWJOb1A1OWR1T3dIR0U3eEhZdmwySDJmN005cFBQaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Firethorn Wealth Partners LLC Acquires New Shares in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaldWYmJtRHBqcXhySHc3TUp0dEJycmpuaXdiMzNVRGVKYWpLMVk2SlhBU2RxUzRtVHpwb2pfNi1nS1NZZTE1eWxoVzdPWTlldjdkNUFCbjJ4UFFJRWIyUWJuYUFWNVBJRldKQ2NhMkZ6a1p4a0N1bl9sZDgxLUFYRy1TYXVHYW5UMDhaNHB0cE1XTG5OekI3UDdYOElDMFU4elNtWHlKMmh1Q3hjQjVULWlhNFZTeExxY0pLOV9KM2Z4RXFqa2thdzFfeEJqSl91VFdUQUZLT1JzZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Has $47.04 Million Stock Holdings in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMzVLYi1yaGJkUllFNF93QTlhcGRzY3lLNFBZQlVUaDRpazY1ZUdXRm9DVUcyaEFEdTBKUF8tblFScHhlNzY3ZDBwZHpicEhFWWxweHg3ZFlJZ3kyRzUxODdkSmFUQkhyaUpmU3B5YjdybUFGckszOXlfeUNZeTU4UkVRTFFHcC1mYTU5TEloby1Cb0lONHFueV9QZXdDOWJmdzhTc2x1LXAyY3UtNjg1SEJMRDZicTRZTFBqWnJWYTVsWXlIMHpIWXNsY01neUwwTUZCaU5UMTZNOG8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Key Colony Management LLC Buys Shares of 5,000 Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbjhOeXFfXzA5NmNKNWVob0NGSEhMNFM2dGdpNXp5NFRGaThKNldQeTN3VlBPY1AzTEFTc1hjNXBsTlIwMGhCNjNSOFRJQnNoR3FlSHp1dHp2aEFGNlBUYUNvRUxYd05UcUV3b2ZPX0RSblNiSWpJTHBpSm1oTGhuVjNEN1RBSWg3TE9CWW5Rc25IQ0c4djk4NF9KaXNBbjFiT2RZbGQ3VGtGQ0J0ZnZ1UGx0ZkJRX0w3bXNEV2ZFdGYybC0wd1lFMURja21ib1VhVjlrdA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Secure Asset Management LLC Takes $2 Million Position in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa2NtMnQ3bjJfTkJxSW9Na3ZZaE13VUpMSzdPZU1FN1VwS284Q2ktWTQ4YzIzTmoxaFpRU1pONktWUGdjOTZwd19XODI1bmdLZXFlX2xfQzdTV09XYVNpZnlDYTNCendpUDVyc2RBaW5tc0IwWGZadzJwaFd3eC1KQ0RZUGdNTk0zeWUteFVfX3psS3ZnSzN1WXhiLUg2d28wUG1odk1YR3dpaG5SVXZKeXptM0t4M3JrOVdVMWdXNDdZN0ZoeS1sck9DaFF5emFEbUg4enVQRG96UnhfeUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aegis Wealth Management LLC Buys New Position in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObU5NamxMYmgySWNuVFNERS1FTENEMmFZSmRKS0NLU2lVZzYzZ1AzUnNfRzhFNWN0QlBoZWxUenl3MVB1Wmt1enFvOS1CTTBJYjdRSnhfdHJFTGhOQ0VxU1k5OFJrdnBnV3BGeTFsRUQ4cklpSzFSaEZScjhJM2Y0QW9FcFRxSDI5X0dQVE1aSVdSZlZFd09ZNGUwbzdlX2dBSkNySG5zaE9zLUg5TUpxLUlPWWZSeTdXLUh2bDhWZXNWOVZ1ZjlyY2pVYmVHS2lEcWZDMFE5Vnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Increases Stake in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRk9XVnBwOGt0UWNNUXI1SEZwTzhQSmxQSHZwanpNOHVaalJldTlHS2xVT2NLbkt4Vjlrb2poMS1JNV9ZUHVaeVZiZFl4OXVld29yNENsTUt4dDBXXzJfU09zaUQ5Z2E4Tl91MENNWlNLalBLRU1mWktGUkR6Q1VCdWJabXFSeV9JVmdFQ2xTSWpNVXdxOWpuMmhCUzZqeGJYUGl5NVhiWGh5akJTMGlRdXVIS3ZlZTRfWS1KMUJNOFhIbVl4YTZj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Edison International (NYSE:EIX) Short Interest Update - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcXJBUU90RS1mSXNhS2ZlaXZfTVNWU3lYLTh3aDRscHhxSWJSSzdRUHd1V2NRQ3J6S29vM2lfQldTQTl0ZTdmM2xfeURmNW5fU0dCVmVpUVlJUy0yWWpQUWxVUUU2UXZrN0tUVkNmSWwzSUlmTXcxUFJ4amk4QzFXc3Z3YXJ2UmRXMXEzXzYwQkxxWHhVZVhWZF9YUHBSU1ZZNFIzREdoOHJVaDJPX1pkYWRPQzc4TjNwa3QtTTlzM25CYW5F?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fifth Third Wealth Advisors LLC Has $288,000 Stake in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRWlFYkp3MHQ2dTBsMDFUY1MzcVAtaHV0MGF5RnF5OFpTQW1Wbkk2NGtJc2VSUlpyQXhJM0JFVGdqbVl0dHBkRXlaeUpVZW5qNUZUR2pVOUJQc2JqZkpoa3ktX1MwQ0h0YlZQcHNyMDJHbGJMR2N4RkdPeEc1dU1obTlPaV9CLUdwZFBMSW4wa2RmOGlaejNXTHp2MWVFMGY2SGdPcUxxeUoweGs3aHROTmtFWTdzM21ZTzVLNFhISXQ2Z1ZNVlhxNzY5QWlQN1FNQnJxQWRhVFM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ProShare Advisors LLC Grows Stock Position in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWVaQldCcm9oaE5BMHFOQUVFc1BqdXdtZlpibzF2ZmtXYnA4S3JYOC0yY1hRYlFpTlIzTk42YVpzV1lmN2VkdnlqamdTNWRVOG4wdFo5TjZfRGdiYmItS1NLSFd4eGZEVXkwcmliU1k4MkZvS3ZRbWNQbVZuYXAzWlJJVHFLZllQaUNNNUtRNTh0U0t4MG44WEdCMjhsMjU2LXVGRTVQLVFjOXFJeFVwVWg1THFKSk5zSm8tOFh4ckFvbDZHb212Z0RVRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "111 Capital Acquires New Stake in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3ZSaXo5VkRkSzZpTlBObGVUdXgwX2F5UmNUREdJd05UM2VLMGpuanc5S3VGOUN5eWo0NGNRWTRnRTdYYk9CMWhTYjhKN3NqMTFuMW9idzlXVlB0Tm5LZTBteUl0Si1xR0FsSmJBQTg4VEs0cTZYdFYzMXcxZGF1ZG1wY2YzVnhfekFISTVrTi1CN0g0NmZqeWVma3M3dGdkV0FEdEZGOG45cXI0N3diWEJtb1VYUlphNWN3WHdnT2FYQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Purchases New Stake in Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOUV5ckZUanZRT3p1djg1bnFzdWZtdmRtdm45Y0JqX3RZUmNvUUI3WWZrMExCelZMRzNzMFF2UGNpTUhZQVFqUktFQUhLanhhVDYxbG1zY0IwQUZrQ084bGZCU21KZ0NtWC1zekRQaHhrRXJkRU1IT1hjZnFETElLUFNpaVZ6M3duNTRoSEd6cGpGNmxtdjc0Q2JpZ2UtbXkwLThiNTFkZEtLLUpsc09CbmZYYko3b1dldXVMUjBfa3JFTDRtT0RHRmxzYmRvVm9zS2RHSXo0eWJaNHlUV1BJLXdTZW1GcElILTBQNzRCMndKT1VZRmt3aUZvMXNHZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ethic Inc. Purchases 14,338 Shares of Edison International (NYSE:EIX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1VHQjJYTTRFTnNJY1NrSXlfVGZQVWFxMGEtQXFnT0pnZmd5YnF3ZkMxRU9Ud25fM2ZiYVZJdGRMb2xJYVY4MHlxYzAtWUpuTmZXTWY4eWJUYWtPVWxTdEkwNXFFR1VSUTBUS1lrdVB3bklObXVwT1d1VVpXS1ZheVlZaWtpQlIzcU1SUGJ6R2N2U214NV83VnpjTGVVX1E4VWVvWFMtTVR1bDJaTVFJVA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 85.78
-      },
-      {
-        "date": "2024-12-03",
-        "price": 84.74
-      },
-      {
-        "date": "2024-12-04",
-        "price": 84.34
-      },
-      {
-        "date": "2024-12-05",
-        "price": 84.92
-      },
       {
         "date": "2024-12-06",
         "price": 83.95
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 55.45
+        "price": 55.43
+      },
+      {
+        "date": "2025-06-03",
+        "price": 56.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 54.36
+      },
+      {
+        "date": "2025-06-05",
+        "price": 53.64
       }
     ],
     "current_price_data": {
-      "price": 55.45,
-      "change": -0.15,
-      "percent_change": -0.27
+      "price": 53.64,
+      "change": -0.7,
+      "percent_change": -1.29
     }
-  },
-  "news_sentiment": {
-    "summary": "La tendance cl\u00e9 qui ressort de ces nouvelles est que les analystes sont en accord sur le fait qu'Edison International est une entreprise \u00e0 acheter, malgr\u00e9 les faibles r\u00e9sultats qu'elle a r\u00e9alis\u00e9s r\u00e9cemment. Ainsi, UBS a augment\u00e9 son prix cible pour EIX, tandis que Douglas Lane & Associates a vendu ses parts dans l'entreprise.\n\nLe sentiment du march\u00e9 semble positif sur EIX, car elle figure parmi les meilleurs stocks d'utilit\u00e9s \u00e0 acheter selon les analystes. Cependant, les performances financi\u00e8res de l'entreprise ont \u00e9t\u00e9 mauvaises et la pr\u00e9sence d'un scand",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

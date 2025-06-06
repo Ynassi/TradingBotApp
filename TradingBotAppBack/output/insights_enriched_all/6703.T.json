@@ -2,55 +2,68 @@
   "ticker": "6703.T",
   "name": "Oki Electric Industry",
   "sector": "Information Technology",
-  "market_cap": 119486930944.0,
+  "market_cap": 131713220608.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.578092,
-    "PB": 0.82027817,
-    "EV_Revenue": 0.411,
+    "PE": 10.559451,
+    "PB": 0.8786143,
+    "EV_Revenue": 0.429,
     "ROE": 0.08704001,
     "ProfitMargin": 0.027579999,
     "GrossMargin": 0.25055,
-    "DividendYield": 7.24
+    "DividendYield": 6.58,
+    "DebtEquity": 70.673,
+    "CurrentRatio": 1.389,
+    "QuickRatio": 0.92,
+    "FreeCashFlow": 15222875136,
+    "OperatingCashFlow": 39260999680,
+    "FCF_Margin": 0.033644909827655084,
+    "ROA": 0.02791,
+    "PEG": null,
+    "EV_EBITDA": 5.779,
+    "BuybackYield": null,
+    "PriceToFCF": 8.652322207945883
   },
   "technical_indicators": {
-    "RSI_14": 74.1035856610997,
-    "Momentum_10": 5.755947812739831,
-    "MACD": 99.3238325165205,
-    "BB_Percent": 0.7095954751724984,
+    "RSI_14": 73.39267686292085,
+    "Momentum_10": 11.144578313253012,
+    "MACD": 112.55243275468229,
+    "BB_Percent": 0.9037656589925084,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9007535956536492,
+    "ValueScore": 0.8976510658271049,
     "QualityScore": 0.4105016207088856,
-    "SignalScore": 0.441206380966414
+    "SignalScore": 0.3826352954392157
   },
-  "volatility": 0.0315508072730868,
+  "volatility": 0.0329544268459618,
   "beta": 0.155,
-  "return_6m": 0.5116241015146803,
+  "return_6m": 0.6238713026682614,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 1,
     "target_mean_price": 1400.0
   },
+  "news_sentiment": {
+    "summary": "Jefferies Financial Group Inc. a acquis 6 703 actions de Mohawk Industries, Inc. Cette opération suggère une confiance accrue de la part d'un acteur majeur du marché financier. Cela pourrait indiquer une perception positive de la valeur future de Mohawk Industries, Inc. par les investisseurs. Cette transaction pourrait influencer positivement le sentiment de marché autour de l'entreprise.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Jefferies Financial Group Inc. Buys Shares of 6,703 Mohawk Industries, Inc. (NYSE:MHK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTVhxXzNBaWRYbmJvRDZpVHBycGpSZ1pzRDBVV1dqQzBkeEZnSFVSdkJtMVpZOVVMcDN2bGYwaVVHcVp5UUJtOGJIU1JyTm1FWnRPOGVHTkFaeHNlajFKdjY4ekszMWFHNVVpZ1RkdDFfM3h2bXVjREJpQlktVndRZHdKdTZlbmtidF90Q2RnaEpNaC1jcWp4UmVHMXJrbXlxSFhmS3FVVjNOMmZvamlyNHJpaXk4dk9GeWNEMkUweHBCbkI0WmY2Y0tUQV91YTlINVZBaA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 938.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 955.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 940.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 949.0
-      },
       {
         "date": "2024-12-06",
         "price": 948.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 1378.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1526.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1519.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1476.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1464.0
       }
     ],
     "current_price_data": {
-      "price": 1378.0,
-      "change": -4.0,
-      "percent_change": -0.29
+      "price": 1464.0,
+      "change": -12.0,
+      "percent_change": -0.81
     }
-  },
-  "news_sentiment": {
-    "summary": "Jefferies Financial Group Inc. has recently acquired shares of Mohawk Industries, Inc. (NYSE:MHK). This acquisition may indicate a positive outlook on the company's future performance and potential growth prospects.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

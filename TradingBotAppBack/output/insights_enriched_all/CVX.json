@@ -2,55 +2,163 @@
   "ticker": "CVX",
   "name": "Chevron Corporation",
   "sector": "Energy",
-  "market_cap": 237800538112.0,
+  "market_cap": 237630947328.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 15.689143,
-    "PB": 1.6064031,
-    "EV_Revenue": 1.356,
+    "PE": 15.677954,
+    "PB": 1.6052575,
+    "EV_Revenue": 1.362,
     "ROE": 0.10079,
     "ProfitMargin": 0.08026,
     "GrossMargin": 0.38939,
-    "DividendYield": 5.0
+    "DividendYield": 4.98,
+    "DebtEquity": 19.777,
+    "CurrentRatio": 1.08,
+    "QuickRatio": 0.676,
+    "FreeCashFlow": 13518749696,
+    "OperatingCashFlow": 29852999680,
+    "FCF_Margin": 0.06928677329076968,
+    "ROA": 0.05233,
+    "PEG": null,
+    "EV_EBITDA": 6.903,
+    "BuybackYield": null,
+    "PriceToFCF": 17.541731556296728
   },
   "technical_indicators": {
-    "RSI_14": 48.026659474414096,
-    "Momentum_10": -2.1011564463187185,
-    "MACD": -0.8648442849078037,
-    "BB_Percent": 0.523649884341068,
+    "RSI_14": 47.07667980634444,
+    "Momentum_10": 1.092507254566043,
+    "MACD": -0.5709917521831187,
+    "BB_Percent": 0.3826935654704335,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8966100147611591,
+    "ValueScore": 0.8937036402691839,
     "QualityScore": 0.3697407530438394,
-    "SignalScore": 0.6436011163291029
+    "SignalScore": 0.6022682678909326
   },
-  "volatility": 0.0186277873123458,
+  "volatility": 0.0186156417881371,
   "beta": 0.801,
-  "return_6m": -0.1338800505032271,
+  "return_6m": -0.1188530619393637,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 22,
-    "target_mean_price": 162.4641
+    "analyst_count": 23,
+    "target_mean_price": 163.4874
   },
+  "news_sentiment": {
+    "summary": "Le cours de Chevron a chuté de 16% sur les 6 derniers mois, incitant à une réévaluation. Malgré un proche plus bas sur 52 semaines, cette action à rendement de dividende de 4,8% est recommandée pour un revenu passif. Les signaux d'achat et de vente se mélangent, notamment avec une réduction de 20% des effectifs et des mouvements importants d'achats et de ventes d'actions par diverses entités. Les investisseurs se questionnent sur la sous-performance de Chevron par rapport au secteur de l'énergie et sur son attrait en dépit de la baisse des prix du pétrole.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Chevron Down 16% in 6 Months - Should You Rethink the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OSkFOZFRmQ2NTQU5sSEVzY0JDdmpBZ2dhQ0V1ZkIwZE1iZ2cydF9IQnpReXhoZDhVRmpaOXpIZGNSMlBES0lQU0w3OFVVX05XQTQ4WjF6OHJWZzFrTkJPd21IVGxHQnZZWGZIeGd1eE1WYkdaU1M3TU5n?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Near a 52-Week Low, Here's Why This 4.8%-Yielding Dividend Stock Is a Top Buy for Passive Income - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQODVuamRMX3pqQ1padHdFYk04WUhlYUthemR4MEMtYUltR01TSEcyd01VeFZBT0hvVDhCalptVVVPeEIwYzVOaDNwQWFQNzdHQ1l1WDM4ekk0MXBteXZsWkY4TUFpM05jNEhYd3hYemtNMEhndzY4NUp5N0tyTW0zcDBnc0x4OVQ2czNXZG5UTVY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chevron Co. (NYSE:CVX) Shares Bought by Charles Schwab Trust Co - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT29QRWFHTFE3WnM5bkQ0ZG03Z2tBTzM4SEp2N19ESGZqYUkyX3AwYlRWMUl6cnFVWUg4ZEo5cmo5bnE1ektHZ0U1Q3Mxak54YUdHbWFmTHZ1OERidGVVRHRObWNYNkEwMXFoNklMSW9KaGRJTHhXekJkN3B0ZnZnakxEaHpHY0NpLWhjalA3dUk5LWZZeUNRNlNqMURhYU93WG5GSzZGbHZBcU9kaVFEOFdWWFVRVzNjR3J6Sg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chevron Corporation (CVX) Shares Edge Higher on NYSE Amid Mixed Longer-Term Signals - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVVVeTQtNElaN0kxY3RWTjZYdUppQWM3YkhpVmZqbDhmZS1xcmpNOWJfTU9qWUVyOEd5NzBBY2Z1OXh1SW9GZG9ybHF5aGxMazB0ejBuWVNpYzNFRG1NSkNLU3F4RXU0VnNfeHFkS1ZEWklxLU5IZVU2MEtOd1hLa0JFcjhhS05pNHQ2NjFrZmhhX01IRVZwbjd6SkppWFVqbFNPdWlLREY5cVRnZ3ZDazR2QXE1NFJNSVgtT09rbEdadTh4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Chevron Layoffs 2025: Should You Buy, Sell, or Hold the Dividend Stock Amid Its 20% Workforce Reduction? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQME14X2QyNlQxcmxYQXV5UXVuOGROeXFYOEtXa2dOUEREYUd2Z1JKcTZxT3ptdmhlbjRCZERsUVR6LVVUcENzbVpqNWV0NHlTMklFQWxZUkY3N0M4XzFWTDFSQVJXSXN6TTRIdkNkNVNSRHhMUHRWVV9zT0dFb1RRb01sYWVqRmNZSi1Vc1QtU29uVWFQNU9tX2g5a1RTeUZyempJdWpMS0xyWTBNRG5lV1pRT2MtaVM5Ymhub19YcnRoanBMWk1lWmhVeDRiemo1ZDZscHF4UlFGV1d4TENma21RNUE2UDZBSW1yc2lvbXhjaFFuaElEdGU4MWlVTF9CUDhtRGZoYXU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Do Options Traders Know Something About Chevron Stock We Don't? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjdtdFZkZWU3d1NaLUxFM056QVU0MTRHbWVFLXFGSWRnTkR4YUZGZDlNZmFVV2JKazlJc2FPamJFLVYyOUcxQjMxOEJoMFJKZlRxeVNCajJLaEtpNk9oaEVmRGVEZWRQWnNuNUx1dTVscW9lQjVieHZseEhtek1rTFI0Z1gyQndRTVNtTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chevron Co. (NYSE:CVX) Shares Sold by Lake Street Private Wealth LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQndZMjJfZGNFVUNIMmZwUzNycUxqc1pORjBxcVRTbFVWQ0VTSHl1WFBRd2hzSDhZYzBsWFhNTzFHdkVudnBKYkNKWk14NGdIVGVvSmdWQWM2OHdhU3pjQk92a1NWclNYSjUxdTBFY1dVWFNjLWtwS05kUXRkWHZwOVphTmQ3NzRPbHdBeEJIdG9iTFBZOFUzTE91S0Vzd1NnOEZYNTVCVk1mQmlXOEMyN3hkT2JKY1Y5UElyNXlmZHVpa1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chevron Stock: Is CVX Underperforming the Energy Sector? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFlBMG1OcFNXYkNNakNoTTVIc2pqMW0waFJZSnVRTmNwRUdsRG9QbFFTMFpNMTFmTzNrSTJpdmtRME84OGxkTVNTdlQ3Mkp5S0pYQTNMRmdKT2xkM05hdEVTenpxR0Z6ek9zQlhPWDh3QU14bER4QVVhXzZFZEVKWkFGVzdzeGZHbnZOeVZXb1VjQmlvSEtUc0s2MUpYNDlOSzFHb3JiM0FSZVY0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Chevron Corporation (CVX) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0xJQWNCNVZZdDZialI5X202SWJNRVRmTWUtM3dWRjVOVm1mWlROZ09WS0ZxQ3hlcU4zNm84Rk9OaVVUem1WOU54OEJfdEEzYUZmTVNEWkxZaVpyTkZlLUZ3WVNGR2dpNHQzM1l6ajhjTjc0eUgzSHlCS3VyenkyWVNhWHdUYnJaMjBjUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Annex Advisory Services LLC Purchases 17,142 Shares of Chevron Co. (NYSE:CVX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONXFzbFlqb1YtRkpiWllWd3JPVkNuMW9mLVNMcjJYX09uaFY2aHp1bDRGbE5FbnN2Uk1vT1BaNjV0U2ROZ1JYQWkyc0hOelFiWGJLb29MMk93UldsT0ZOWnBtN21Ua0NQdGQzN0ZXQkc3TVNxT0tELVVBSWFMZ0EyeTFKVFlWUlZYeGVBNWFKenY1Z0V1MXBwenplTGI1MGRZbk1QZjNTa3pobVZHektfbUhKRnNiLWFsMXlYWkJHUmx2NmtoWlFrbjY2eEhKdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Street Wealth Advisors LLC Reduces Stock Holdings in Chevron Co. (NYSE:CVX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeDNpdWR4V1RFSGFOOFBtQm1NR2VHTXpRMGlvUFZCT1RuTGI5Y3pRNHdDZU9LeEl6LXdfSVd6djhIVzEtaEFJdmJSaXVacVkxZnRaSzZiel9JLUlNbTFxVUU3eTg4NzBpSkpkazlpU0hNOWdwdHJjYW12dVU0dlZTQUdUSTRrR0htTlJWTE9oUFF3VUJrbWpLd0lNaDlrUncwRWFRMmRDVlU0eVd4dTBkZktsdmVGY1U3Sl9Zd3E4aHBOTV9sVzRVS3JkUlV4QzI0UDlOTHNn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Apella Capital LLC Acquires 1,859 Shares of Chevron Co. (NYSE:CVX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWNwZkhQUVhyaUozSVdmRzV5SUNfdlZrNXBrcnJZQ3lya3VqR0U3VzlMQWNyRGpRc1F0aTRVYkt5TVo1RHNCWHlYR21JMnM3ak5rWmlJd2ZSdTNoeFNDbVJrVGhlTXJHUzdQUTNqZTBwWDQwUk5kRkdMRDk1NWZQZ1JhaVh3YjBxVlNyNUxjQWZaVml3WVBUU3lIa2pIdGpCVjU1NnlhSGc3LTk3QjlISG5yNXlsZlNPdDkxdE9EUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Top Oil Stocks That Can Still Thrive Even Though Oil Prices Have Dropped Into the $60s - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBObTlvOXNwYW0xQzZLRkRLZEVIRFBjNGgybk1vUnJyR1pSX3k0TzhyLWpTR3BGWEJ2aXdQWkNIS2lLYkpySng0SXltUVBScDhxMkwyUDJORHp3SERhdUdUSFoxaUlXM2o3QVpmTkVpbUlsejlYajRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chevron Co. (NYSE:CVX) Shares Sold by Fulton Bank N.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnZEQVVNTk1OOGVubGtyZlFmbWpNRGo4cUV4Vlh1MUVET3pQQlJXQXFFdl9wUHVUS2RDazYtTVdsSnVkLVV2cWdNVHZsUDE5ajcyTVFWWWt4S3pKeW95TjdBUXFqaFhQM0t0S012TjRtS2o3blpGVlNYcld2NHJGMVlDbm9xbkd0VUhtZERkRVlteTY5YjRIVEJZYndrdHNiMGMxZFRpNk5EOGpJUm9GSmpfbEo3UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Chevron Corp (CVX) the Best Stock to Buy According to Billionaire Warren Buffett? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FQ2VEVUJxSkpMaGJWeEdXS0N2R0FUVmM4SWpFaWNXMWhhQy1qRFRmNmtJZnhBd3JNNkIwRXBjSWNfWXFVOUVldFNjb0UzbXY5LWc1aUE3R3lIaG5aUFdsVTBhMnJ3RVZEeGI0Y1lCX0pQSFRhekVtQU11QXUzdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBC Securities Inc. Raises Position in Chevron Co. (NYSE:CVX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbVU4Z1lrMU0zYlNoNlVRc0Y0ODZKU203V1preXNtYy1QdmM4MUd4QkZWXzFjQnJzaU5Vb2NNRnpaN0sySEJJaFZGNGVfMmlVWnM3dnBPRFNjZlhJT1pwM0ZjT0NCWWFHQnVJUDB4bElKNjNsYjVfYkVPdjhiQjNzVWJSMkdORGJyaDhEQVQwVE10dHpvMVJNUVJjYUhEY0xrVE9sU3FSSE9vbHAtWjZQZnBRVXl0QzdRUERiTTFGYTY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Chevron Co. (NYSE:CVX) Shares Sold by Richard P Slaughter Associates Inc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa0tjcnJ5UTBBekJjQkxIbkpSZGJRR2tJdzBEUzZpM2dRUnd5eHVDLU1tc1NOXzg4Z3FNQ1Y3bGlyemtFT1BQcHY4UUdUU1pETFpGRkY1a0pHVHZVbGtyTzRfYzR2UWVEWUNuSU02cEcxSURUMWJnc0Z3WGVhSWpnZHk3d0p3dmtpcVpQZWZxelE5REh2UDJfWVJ2QVlwT2tneGxmUHFlbGlpRWJqX29ud2hmZ2tCWi1hV2FCd1VvYngwQTBrUjAwZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Raises Stock Holdings in Chevron Co. (NYSE:CVX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVYxMHJwdkRwS3l1Z21Fekx6VzNoa2NWRDhwQTdHUTJMNjRMaWJFTElRdXBRbzI0VnlMZmR1NVk4eVlRYTFhT19Fd29GbUhJRVk3TU5OZ1Z1YmFaeGJYQ3dKYUxkam4zaERrOG5JLW1NSW1hazE4WWpCSmFxQS1GSlAxV2FnQzM3eWZyVkRndkV4RExkdGh4MXNHNWtqRkpjUWZpRWVZRmF0UTh2bDNpLVd2bGdGSnc2OXF2MDUzMGUxZzBnRFJR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chevron Co. (NYSE:CVX) Shares Bought by Viking Fund Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNndHOWE5RlhEaVVmMkhRQUg4TVpmbUVFQXNSY09wd3NweEM2UkVoUmgtMkJTSU1HckdDR0JLaU8tLUNqSjlpUlo3ZFJtVy1RQ21xcno2S21OazZ3dko2SV9kQ0hZcGo2TU5nOTlteVgtSFN4ZEt0V1pFOWRHUl82OVM4ZFl6WG5ya3pIUHljVE1Tb256dmVGeW5GYy1FaHNOd0YyYXpLeW9qV3ZVMDdXYTEwLWFOYjlUNXhJaWYwVXg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chevron Co. (NYSE:CVX) Shares Bought by TruWealth Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX2FyX1Zudy0wOVliS0ZJQ3NkS3QwMnZVa2JpRXVEUTRHQ2wyQjJkNXVOTVc2ZG1XcFppMktCVTAxaVlyak5TSzNMSlJlQkJxekkzQUdWcmhjRm91YVZES3Y3S0JFSWNHRlpDcldGY051N0pFM1U3Y0UtXy1qMjlkaFFzVWlYV1RRQmExX1JTT2p1QjBzS1dZV0J4OTNGeXQ2UjhNRnFZZ2t4blU4S2ZCUG9IYWxBaGtPQlpB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 162.21
-      },
-      {
-        "date": "2024-12-03",
-        "price": 161.92
-      },
-      {
-        "date": "2024-12-04",
-        "price": 158.32
-      },
-      {
-        "date": "2024-12-05",
-        "price": 159.33
-      },
       {
         "date": "2024-12-06",
         "price": 155.24
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 137.64
+        "price": 137.84
+      },
+      {
+        "date": "2025-06-03",
+        "price": 139.55
+      },
+      {
+        "date": "2025-06-04",
+        "price": 137.37
+      },
+      {
+        "date": "2025-06-05",
+        "price": 136.9
       }
     ],
     "current_price_data": {
-      "price": 137.64,
-      "change": 1.02,
-      "percent_change": 0.75
+      "price": 136.9,
+      "change": -0.5,
+      "percent_change": -0.36
     }
-  },
-  "news_sentiment": {
-    "summary": "Chevron Corporation (CVX) is a company that operates in the oil and gas industry. In the past 6 months, the company's stock has decreased by 16%, which raises questions about whether it is a good investment. However, despite this decline, Chevron is still attracting investor attention and is seen as a unique buying opportunity by some. Additionally, the company is currently in a legal battle with Venezuela to preserve its oil assets, which could impact its future performance. Overall, while there are mixed signals about the company's current performance, it is clear that Chevron remains an important player in the energy sector.",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

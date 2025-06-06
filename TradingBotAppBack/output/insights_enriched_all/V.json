@@ -2,55 +2,163 @@
   "ticker": "V",
   "name": "Visa Inc.",
   "sector": "Financials",
-  "market_cap": 697830670336.0,
+  "market_cap": 703769280512.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 36.684288,
-    "PB": 18.396797,
-    "EV_Revenue": 18.383,
+    "PE": 36.959255,
+    "PB": 18.553356,
+    "EV_Revenue": 18.523,
     "ROE": 0.50655,
     "ProfitMargin": 0.52859,
     "GrossMargin": 0.9777,
-    "DividendYield": 0.65
+    "DividendYield": 0.64,
+    "DebtEquity": 54.594,
+    "CurrentRatio": 1.084,
+    "QuickRatio": 0.682,
+    "FreeCashFlow": 14747499520,
+    "OperatingCashFlow": 21888999424,
+    "FCF_Margin": 0.3920018140813739,
+    "ROA": 0.16936001,
+    "PEG": null,
+    "EV_EBITDA": 26.572,
+    "BuybackYield": null,
+    "PriceToFCF": 47.64267158640328
   },
   "technical_indicators": {
-    "RSI_14": 62.77231129787959,
-    "Momentum_10": -0.1533735665213337,
-    "MACD": 5.597645854620737,
-    "BB_Percent": 0.7663042380947371,
+    "RSI_14": 63.84576136246787,
+    "Momentum_10": 2.32487227843752,
+    "MACD": 5.722894863281908,
+    "BB_Percent": 0.7723699909885245,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8342831749363127,
+    "ValueScore": 0.8302255235010205,
     "QualityScore": 0.5040172919053277,
-    "SignalScore": 0.554210448769056
+    "SignalScore": 0.5108553176454349
   },
-  "volatility": 0.0153812088093136,
+  "volatility": 0.0153018619464736,
   "beta": 0.943,
-  "return_6m": 0.1542522072968584,
+  "return_6m": 0.1925854920411374,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 40,
-    "target_mean_price": 379.1225
+    "target_mean_price": 380.7725
   },
+  "news_sentiment": {
+    "summary": "Visa (V) attire l'attention des investisseurs avec des analyses positives et des prévisions de croissance à long terme. Les upgrades d'analystes et l'introduction d'une carte de débit révolutionnaire renforcent sa position sur le marché. Cependant, les divergences notables entre les recommandations de Wall Street pour les actions Palantir et Nvidia soulèvent des questions sur les choix d'investissement. Dans l'ensemble, Visa (V) semble bénéficier d'une dynamique de croissance constante et d'un fort potentiel, tandis que les investisseurs doivent prêter attention aux recommandations divergentes pour d'autres acteurs du secteur technologique.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "William Blair 45th Annual Growth Stock Conference (NYSE:V) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmRGOHdjeVNUZ0FjN3FyQ2Jvay1LclJjbmk5XzFiREgtTDBQWmxacXlFMnNDN0tlMGFUWnE2THhmYXhJTFdGXzQ2ZTV5X2JFb2F3YWRoUFYzcjVnVjR5SGF0bEs2NkR3X01qQXVoczJ6dUxHSnI5MVF1ZDU5Y0w2eUpURTNBempyN2V6elJkeWd3Wk52?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa (V) Receives Analyst Upgrade and Price Target Increase | V Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbEMya2ZRMlVtVE8yYXJjVXI0RkRxYWtQTlc4VGZXWWJHbm8yaVNJeUNHekU2WnRCRXh2cUlrOHJOR0Q4ZFdRQmcyZXNFVUR6Zy1LSVYyTktQOF9MRVB1TDd2U29jZWRiN1AyVW5BSzVzZERwR05FcHROamtIWGZOSmNGRTVwWkJ5U2RwQ1BjUWJveXZER0VSSVJvNjJzRTg2QzVKZ1dDWFJqbmM5ZzFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘Now Is the Time to Buy,’ Says Mizuho about Visa Stock (V) - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRVlaVTk3VGtDYl9iYXBEb0liUk96MldndE9WRVlocUowUkhUcVJmRUJySHFaN3BPbndjRDhKSS1vQ3l4SFpqaU04MVZaREl1RkpvTVN3Y00xQWlSRG9Pd1VtQ3IyZUpLcGdMWjk0ZEppVTROYjhNS2hjVHM2cjNfYnFEOEJ5dlU5ZUdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Visa (V) is a Top Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15Q3pDakQ3RXE5OGYyTlNmZkN4VWNhcDRRNXZLeDNwcnVzSGlDQlpJMGZqdU1fMXg0Q09DbnFoMlhJcTJ0aWlEcVZVMXR4WUpMUGw4aVBrZ2ZGQWc3bGVhRmdCcHB1aEdSSDFHenZ4WjYwUXd4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Visa (V) is a Top Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kZVZ5QXBlMzVWV1RxODVkcXBSc1RYeVdLNk9QT2pxdWg5N2dNMWVVSmtrQ05SMDB4UHdNV1NrT3JUaFh3N0JqNUFXX1EwaVNJaHVKbFJKZEhHWWRnbzlXcjZteW55eHlZc2h5X05abWFVZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CrowdStrike vs. Palo Alto Networks — why Wall Street values these stocks so differently - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDRQc2lTaXRjZ2IyRFNXQWtyUGcwNzZ6UTFvWmwwZU1XSWx2VWJhZXNvQ1dRUkV1WUhtZlA4a2tOcVZvb21rUTlkM0tqZExCVi1oMGFlMVlWaW1kMGRrLVAtbWlxNm9NX2JuMXBTWnpqM3ZScl9ZSGtkdnRNb1ZTY0duWHVEVEg1c3pHTWFOVFZPMFEzWnA0bUhzVnF1ajR2XzR1VnhjcS11Q2xNM0tXQkZKYnlOSENWY1dFcDdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Palantir Stock vs. Nvidia Stock: Wall Street Says Buy One and Sell the Other - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3ZiNndUNW1kanFxN2pJaHZSTng3WVZuZzE1ZV9LSEtLUG5CX3BocEZfV2xqaklYZjZmVVptUUZmRkVPQ01sWmFJV1dtM1o2SEdJLWlpUTNQTVFWb2Y0T1VTX1lGZ0t3a183TlBXb3dvV1htRFdqMzJoNHNvX0ZYYkduclBaV2dqa3QtUU5xcnZRV2hac2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa (NYSE: V) Stock Price Prediction and Forecast 2025-2030 (June 2025) - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOG1JeWlncDRRa2I3MDZaazVGUjdBb19yakVhaWh5T0Uzc0JZUXFEcFlyNExvTThsUDBJSy1fN2pWSHo3NUpkamdkZHJXTzJwX05pcnV2S2hEa29qVFdnLTJkTGxJNFRsMWJ3bkpTVllHVWNEOEhVLXF5QjNaVWJnekFIZlEtS0drbG5wV1NtOWtGZHNU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Klarna and Visa Unveil Game-Changing Debit Card: 5M Already Waitlisted for Hybrid Payment Solution - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaW5EMFFrcUk5UlY5Mng4WU1GQnk2MG15d3QzUS1pZEY5a2Qzb3R5Q3VjQ1hRWnRZcnY5cGktQkpQNG9jMW1oZFljdERrQXVOeUZyU1BmVW1fdXI5ZUdKVERKbE90Tmpmc0htaVcwb0Nhell1Tlo0bjVOM0ZjUzAxQjlzV3NIaVA3Y3ViSkYzV0x4bGNVLUpaRVpiWkt0ZXRua0s2NjR6Z29BRTFUeVdJVmc3bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa (V) Stock Edges Higher, Reinforcing Consistent Growth Trajectory - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjJaMm1EcnJTbmxMN1pEQ1BIWmhlN3ZuQzVhejZFLU0wMlowdUR1Qmw3S25FeTV1TlNtSlEyYmJNWG5GNmRGZlJHRFVqUFl3YVA3QTZhNzlLR2psdmx4TVRMeTZBYUxKelFBT2lxTE5mejgyVUJ6eVhNWTZQT28xODlCYXp4aTdVMEs5SG9JLTVpbkoyRmwtU0s3NGR4ZXFQVWxOWWdqbUs4aVJJem5zQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Palantir Stock vs. Nvidia Stock: Wall Street Says Buy One and Sell the Other - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnI0X0Y4SVFuN0FCdEdINno4ZjNtWHpnRllUSkJPemJoSzIydkt2b0hWb1l3Nm5HYWhyS0FUbWVUVVN3aUlPUFo4U3RIVEdJcmVkUmZZQTNHekd6ZHl3MU9tUmtoYXFhcFRhSlRwRTB5V2RmWVhrVXVVcTJNSWxSQzdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa (V) Upgraded by Mizuho with Strong Growth Prospects | V Sto - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFpxc2lxR2lmdGRrZXpyakhKcVVHNTJqX0liRWhWbC1jcWRTRUhWSmd4VmVXZXZaXzNBRmFWNlhaLVpLN0RvZEhSNXVuQnZRX2IxOWU1ejVFdFFtLVhBWTdEYzlQRlEzMHJmSGpOY1Rpd19neE01bktTWXZSQ0N4Vy1VcTAtSFowSXBOUFBLNlNBQ0UzODdWRWNwMjVCR3BjQVdONjJ2enVMdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Better Artificial Intelligence Stock: Nvidia vs. AMD - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbEtfMlRSdVUwRTBnSW9ldm9XaThRRFJKd19EVFlwemd2bjZHYmZjaWpKTGVONnh5eHY2UUxQSGh3X29MOFFxcmNlMjNXN0NtLVBpZHMyeHUtYmxnQ005UDN4eThuQS01cEdTRGdOc2s0NU1TZlVOaU5OMEh0QTVyR0Nvbk1QSXJsZXhxcWtjRjFkbEthTmJXNw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Palantir vs. Alphabet Stock: Wall Street Says Buy One and Sell the Other - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZXg1UG15TElvamtLYks3SmFNN0NYVTNvNENrWEpiNDN0ZU9JVXdGcmg0bDlCMTR4cjNEeFlSWlRSS29VcmRDRWFyRnhuNTdPaldCUXlNMDhGT183NUw4NU5CdjVMQUJ4bnpRRS0xYWU0dEZmUHgzeXVybE5vWmprR2lsOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Palantir Stock vs. Taiwan Semiconductor Stock: Wall Street Says Buy One and Sell the Other - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1k5aHdhZUtnWUJGUVpsaTA2UVc0Z1BLM2ZoMTltQmQ2STlRUVZrWEVvci1MY1JaM0RxWlI2dFgwQkhfN3hhWFVmeTN4a3RiS2RORGhBcjVWcHpEUlpCY1Y1Q2NpdjRJZThBNWNrcTV4MmRJNEZrX1prZnpyN1Ywc1lrWmxkdG81ZW5LbktjZjNNbnpic0RV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Growth & Price Strength Make Visa (V) a Stock to Watch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcW03eW84T3JOMmlISHNXcjNUdlJlaUZnZXRVUVVMS2xLM2NJbVBOUkhLNm9hOXMycDY3RFByeVFkdFNyT1Z0LXF6aWJHT1VFM0NTZXBLT0s0SVVEdklscXZMWk12cHZfeTNTNmZZM1o2V243eGFwR0tiTjNTbUIzeFFINUt4cHBl?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Better Artificial Intelligence Stock: BigBear.ai vs. Palantir - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzN0dFluX2VLWEY5X05WaWI3dm9jWFljVHBsa2JnYWw4NE5zTUVRaWZkZnNXZjdpVE1ia3NjTEViMU9QbjBTV1NhR2VvcEVIeUp5dmR2blNQS3llQjgwYzJ1Z0h2Zjd0d3BMZEc4UXpCLUxtekMwVHVHN1h3Q0RRd3UtQmI4N0c1ckdFdXI4TkI1NDdxMjRn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here is What to Know Beyond Why Visa Inc. (V) is a Trending Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFb244dENrTUlJX3E0M2V5MnJvZ2dBNFFRZER3eFRjdl9BMTJ5YUlTRXZ4QVBwUjlHZVJGQU5naEZEODdOZHFDY2k0S19sdHRFZ00xdk4wU0hjNFR4enVQd2VDbjZ5VTR4MVNGUWMyUTROZDhnWmFCT0RR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa Inc. (V): DBS Analyst Reiterates Buy Rating, Sets $400 Price Target - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uR192Y3VHcUtNNnhVU053d1gzUzFVaV85Q0hBTnNQbF9kell5TXhHWVpwcEFNUXVqSDNQX1BnOWNxVVl6RDBuSmd6QTByVDV3UmF6OU9jc3hmTDFLM0hkT2NqMV9ObTl1VHpYSEgtOGJBMi1fdVpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa Inc. (V): Among Charles Akre’s and John Neff’s Stock Picks With Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uUmIzMTFJQTE1UFhXMjhTYmNTbVdhaU9fbGdQWU92Ym1SN3JoS1pwU01Bd2ZoQk5iaDN0NDlBcG9oNzVrSXdzTlNKaHp2ZGVpT1BkbkZRakFsYlF4M3lzeFJSdjZ1bnkydDl0RW9zcFQ4d1RYRnpSenJ3?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 316.65
-      },
-      {
-        "date": "2024-12-03",
-        "price": 313.01
-      },
-      {
-        "date": "2024-12-04",
-        "price": 309.9
-      },
-      {
-        "date": "2024-12-05",
-        "price": 309.08
-      },
       {
         "date": "2024-12-06",
         "price": 311.01
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 365.01
+        "price": 365.32
+      },
+      {
+        "date": "2025-06-03",
+        "price": 365.86
+      },
+      {
+        "date": "2025-06-04",
+        "price": 368.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 366.77
       }
     ],
     "current_price_data": {
-      "price": 365.04,
-      "change": 0.09,
-      "percent_change": 0.02
+      "price": 366.77,
+      "change": -1.31,
+      "percent_change": -0.36
     }
-  },
-  "news_sentiment": {
-    "summary": "Les tendances cl\u00e9s des actualit\u00e9s r\u00e9centes concernant Visa sont positives avec des pr\u00e9dictions optimistes sur sa croissance et ses revenus. Il existe \u00e9galement une diff\u00e9rence entre les actions pr\u00e9f\u00e9r\u00e9es et les actions communes, et une discussion sur les stock options de Robinhood et Coinbase.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

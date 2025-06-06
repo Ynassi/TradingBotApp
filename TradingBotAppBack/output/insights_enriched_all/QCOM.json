@@ -2,55 +2,163 @@
   "ticker": "QCOM",
   "name": "Qualcomm",
   "sector": "Information Technology",
-  "market_cap": 161477378048.0,
+  "market_cap": 162630270976.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 15.006633,
-    "PB": 5.834292,
-    "EV_Revenue": 3.789,
+    "PE": 15.129214,
+    "PB": 5.875947,
+    "EV_Revenue": 3.889,
     "ROE": 0.42205003,
     "ProfitMargin": 0.2611,
     "GrossMargin": 0.55683,
-    "DividendYield": 2.45
+    "DividendYield": 2.39,
+    "DebtEquity": 52.737,
+    "CurrentRatio": 2.733,
+    "QuickRatio": 1.838,
+    "FreeCashFlow": 8322874880,
+    "OperatingCashFlow": 12839999488,
+    "FCF_Margin": 0.19682342283263898,
+    "ROA": 0.13428001,
+    "PEG": null,
+    "EV_EBITDA": 12.316,
+    "BuybackYield": null,
+    "PriceToFCF": 19.46693742439151
   },
   "technical_indicators": {
-    "RSI_14": 49.48807895049516,
-    "Momentum_10": -3.4996758132684427,
-    "MACD": 0.4951568820538341,
-    "BB_Percent": 0.4386336527895339,
+    "RSI_14": 50.31265284385534,
+    "Momentum_10": -2.2999112971312146,
+    "MACD": 0.4735767344667465,
+    "BB_Percent": 0.3773029158849889,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8874220564572166,
+    "ValueScore": 0.8840746993059749,
     "QualityScore": 0.364988250306721,
-    "SignalScore": 0.6452505700969071
+    "SignalScore": 0.6103215577432046
   },
-  "volatility": 0.027210475463234,
+  "volatility": 0.0272157422943849,
   "beta": 1.256,
-  "return_6m": -0.0883185461001092,
+  "return_6m": -0.0715528325062606,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 29,
     "target_mean_price": 173.02655
   },
+  "news_sentiment": {
+    "summary": "Qualcomm (QCOM) a récemment fait l'objet d'une attention contrastée de la part des analystes, avec Bernstein recommandant un achat malgré la baisse actuelle du cours. L'acquisition réussie d'Autotalks a été un point fort, bien que certains investisseurs aient réduit leurs positions. Les résultats solides n'ont pas empêché la chute du cours, reflétant un sentiment mitigé du marché. Les annonces récentes concernant les offres de titres et la vente d'actions par le CFO ajoutent de la complexité à l'analyse.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "No Respect at All: Bernstein Calls a Buy on Qualcomm (NASDAQ:QCOM) Stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONy1KR2tsb2xfclNpVG9UU3g5alBjY254X28xb0pDdTd1cFZWZXR3STJNbUlBSFk0YlhIWndPRFhycFRNeFg1c1dqQ3RleGZ2RXlRVmMzRUEtdDlCNmZtYk51dXRQN25oQXRUQlZiU3I2amtjS0JtdkhjWHJoWlVGbWdFYVE1UXBScFhCNlcwODk5bEZLckJJQmRocmVTdnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Qualcomm Stock (QCOM) a Hidden Gem in Deep Value Territory? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVnZGRXF2N285Q0dNQ2lTbzh1T0xLbWJleTdvZFVhTGdPdFNyTF83SkwzMzk4VWVnLVhlNVoyVVNzYTRBNjBlbkZKLUU3NWYwLWZxQnBNeDB5STA1eXpTZ0pPVEIxakgxbWwwZXRTcTRldlRZd0lzdDIyQllEUzZPaHVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Qualcomm completes acquisition of Autotalks after overcoming FTC roadblocks (QCOM:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQUZyeTZPc21vUnRMVHUxUjM4T2syM0FJTk5LYVpSWmdodkl0RWNXZDJyMndQRTFVMlBNOFFucWxGT2hYT2dBN1ItaGFjSVpCLTRoQV9yTWplY0tFbll2dkhHbUhmQmRZRnRaZnJLQ0xVaEJ6TGV3RnA4N18wUVFrQlJxUF9vSnM2MXFXNnpkQkVRS253ZWNJdVpURExIOTdjcEM2YUU5RnU4ak5tZFF6aTdKYw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LS Investment Advisors LLC Sells 1,852 Shares of QUALCOMM Incorporated (NASDAQ:QCOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbzhlbUVleTJPRFhsRlZpc2xTNEYta1hwWW1jcXM5bkZMRDF4SzlmRmVMY2hfQ1I1S2VwZFhmNHFoWm1nUlkxSXlGM1R6ZUNPanltaERwT0ttaEJlZ1BCXzJndnA5ckhISVdoV2NMdWZGS1BLSnFFcnVqaXpjdDYySWd1ZnBYOG14LWh2NWM4SHR0dW5jNW96SUxqRGZfWGlFNUE1ZFI1SVJXZXozaVo0RVlIZGFiS0Fld3BqYm1HVGFXQm0wRHlLX2pDMzI1TGc5T2VKRmRyRkg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Qualcomm Reports Strong Earnings. Why the Stock Is Falling. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00LVU2NTd0ejgtMnRsTS1FdlBHcEJNU3FJMS13WTFoUkFia3lZcXJwZFdWT1BvMkE2LUhJUVk0VmtuOE1ZT204cl90TEphRVdGOGYzYWYzMVVPa3FPQ2NfQ0s3VUUxekpWaVdxSW9aNWhzQ3lmUm4xWXVwN2hmdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Qualcomm (QCOM) Stock Outlook Brightens Amid Market Optimism - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXZlUl9KUWZkZlU1b0xKLUlNZXNERzhERFNuQ0RxVzctUENiaVkxemlXRDhNdjFIRnpsSEUyZ2ozcFhWTW12TmZ5bmc4dHY1bklSUlpteUtFUkRyT2xwNTdWdkp2bGpvcHpSM3JhTnJHeUQ3MlR0Wmc2X3pDVW5hNkUwaDlSRWk0ZDJiOGdHSm4tOXdCN3ZWQktEcF8tdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bernstein Calls Qualcomm (QCOM) the ‘Rodney Dangerfield’ of Chips – But Says That’s Changing - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0o0Vjh4RUFaekUybUZEemwzNXowMTI1c2w5S00xdVlCSE96OVF4NlJNY2g0UXNWVnJldFRDc3VUcEhiYUFHTl9zUlBjcUZPbHN4WkdTME9ER3ltc0p3cGRWaVpkRjFwOUN2YkxGTVpUdlhvX2xlaDlJX1d5Y1cwamZBc29yRzVkR3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QUALCOMM Incorporated (NASDAQ:QCOM) Position Raised by Chatham Capital Group Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVVhxZ0ViOHlxTXlHUk5JNVJDUVZIZGN5dW1rX2M5dGxGREtXVjFkcW9mLVJJMDlocWYtWFE1WWdTNVYtMGtoWlhtUGRibTQzTHdBd3l5M2oxMVRFdE5Rb1diVDJvX212NVAtYS1ZenppX2VCQ1RRQ0xxVXFIMzRUWFdPSEdhU1dQRFlpM3Izb0dOOVI4NS02d0lKTVp6SEVZUU40bS1weXEtWl92UVFpbVVyMmFWY2c2RFFuZWg0V19STFVKY01oaFo5bU42QUlsd0Vxaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in Qualcomm Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmYzSFZPclpScmp3Q3pTbXRzekVrT3ZVTXJqVS1mOE5CY2syS2h0NHhFd215RDM0QTdWNVVGMFM5Y0NZbWVtTTk5emdYdHJPNExQMGdHWnZ6TVBweU9ESTB0aHM3RnktRlR2MTJ4SVpfUUItMUxYWVdDOUFfU0NIQVZiMG4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QUALCOMM Incorporated (NASDAQ:QCOM) Stock Position Decreased by Douglas Lane & Associates LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTmUyVzB6SGJDeFBoM2wtNkNRT3ZTYmVleks2Uk5LcFQ0S29KWjhnTmFydEFmWWtmeU1EYndNRGJKUWgxODJkczlrSmhYVUQ2UnpxYlRtMnFIaklCWDFEY3RmVUUwQWhZN0VKVUNQQTEzYVMyZG9pVUxQSE9raEFxU1ZGVTMxNjVkaGNsakxsVWxJWkZsU2ZYTzR6UmVPNTlLNUo3ZVhrNndWeDFGS290Z0tKVTVheUFrYnJVd2N4V3Q3N2pkbUVnVlZ5VmxkVGFEV3BwVnd4ZW94NHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QUALCOMM (NASDAQ:QCOM) Shares Up 1.8% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbU5paU8wb0ZhLTJVWUhfVDlNVGR2bFJ2LWthelJlLVdJS3VMVVp5eHNqLTlqM2pGZkVrd2tvX3B2TzdiQVBzY1dsNGhmQUliQkUtOVlSTWRJS01nRWFCWUxWSlVrWll1QmJpcDJUZTM4eERBVndoczNzSlJtVnUtRFdTYUUxbGlOQ1UwOTBHbTBfYmhTRVdoSkNBQlNUazVyWk5Bc2RYUEtNQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "QUALCOMM Incorporated (NASDAQ:QCOM) Shares Sold by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajFSQ1FmVEFxdkRhbmd4V1IyUldaZTUtRDdMRzE4aHhzS1BsOUo5U3p1dmdvdkphRi0wVkdnYnNwOE1aNXlXYUdSclkycjdMaXdnNHpia2t1X1N4QkY5d1VJa18tN185elEyWW01MkM5LWk2TmRBRHFxVURqdnlnQWM1ZzJ6c3JEV0lrdlIzZ3RKRmZWVTRocGpKYWdZVENCR3FZZ3p3MXlBR3NhVTJmRXU3V1RVdlB3bEZUdENneUEycGFha0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is QUALCOMM Incorporated (QCOM) the Tech Stock That Trump’s Fellow Republican Bought Amid Market Rout? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMm9fa2pkbDlQRFowYk0zQ0RVQmlJbFlVUmcwVHF4MXI2b29EdkRfMjUwUWJBSUJTRmtCQjVPYS03N3c4Z2I5NEJVSmhTRnlVM2VyaU5ib1o3UFhIeU02YjZBNnJCbW9hWVdjU1JVeUR6SHg0Q0VtRjA3b0UzUGdva2UtUE12TFVlSHYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QUALCOMM Incorporated (NASDAQ:QCOM) Shares Bought by Wright Investors Service Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ3Flek1EeHcxN3hSNEdfRjlmOGlEeG5jM3N2bkl5cGYwc0NER3J5Q3pZWnB4cy1FVWJwUUJacnA2NUpFNEJNaF9TbDczSzNITnRwbUx3aTdPTmhvcGg0ZTJFaWhqb1JBczhEcS0zUWF6Z1BZazdYQ3RkQVhqV2xKNGFBMWxmQVhEeDBRdElINm1Ydlhia1haUF9oX09KV2RXN0pLWUpJZndHWXd2MlFrY0QyWFZkV0NYRnFiTUh1OGRyeVJ6bUxSaEdaVTh0clZiS08teWxvR3JPRVlNa1QtakNCTkM2RllwR1ZyeA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QUALCOMM (NasdaqGS:QCOM) Engages Multiple Co-Lead Underwriters For US$500 Million Fixed-Income Offerings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFNBNlg2b2tWV2VGblJNOWhPenk5al96bVZObk1PR01IcGxrdEhTNFI2SE9CdFFnUWdWMnYzbGlEdmtldWduRktuZ2tybXNHTTdkZnpPWmxOaEUwS3RsSlRKR2g2UVM1YW0wZy1PaW0tUVdTbU9qY0F4QlNZdkdiVndQaFpzTV9DcnRHTzBn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Qualcomm: A Technical Deep-Dive Confirms the Worst - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXQxcDh4Q1V5alNwaDN2YTNlVFRydjNydjJfNTdSREpRN1pPWnZDbnNSU3RnTUFNODVRNm9peGdXWG8wa0toR0MyZVJSUzZTbzZCSHpkd0dDdFlDU1ZQcHM1Z0JUcWNZd3QzRFZoR0doUVdaZ1pJQ1Rkdy1IUDlfUG54dlYzTUdHclRxWWtRTWw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "QCOM Unveils Advanced Snapdragon 7 Chipset: Should You Buy the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlotbUs0UTc3cjdsczJKQmk2TWtEMjNqd1pJeFBzb2FxNmd4YUtfSGVDbzkyNUVoSjU3cS00aHY2Z3VnTzR5a09MaUYtNkQ4Q3NnakR4cTlzUldPRkxFaVVKWmJjcm9lMGNwRm5YYnpySTN6a3JxSWNCNDJiRU10bThfLW9JMFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Alphawave Talks Boost Qualcomm Stock Ahead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1E3QzF3MTVfQmpXRjkxNkw5UTQyczBSYksyRVF6Zm1NQ01fZlVfTkt0VUV4MWlkZHVfenhSQkpseWNYSEpTVFZ2UC1CSkU5dlZmZ2FBbDRYbWFzTE96WHowS3JpWE9TZEJONDBmN1FSVzljX1pDd1FYNVFfWjRtdURqRC1RRGVfa1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ST Germain D J Co. Inc. Has $15.15 Million Stock Position in QUALCOMM Incorporated (NASDAQ:QCOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYUh2a0dwRUVuU2VZZWZQZC1BNU1ST3JiUGlmYmNwbDJvVnVveEVpWWl0Z1JTLURtT2lQWFc5bXRKUlRrRUJOWjFQcHNOcEprQzRCZXpDTFBnV0RZbE8tQVg1VlZZYlRnT09pNTRxRlp1VjNzTktFWmQ2UkZwbEMtYkJrS1BvZlNxTHNZRGRjRmd3ZDd4am9PcmUwc1NDTThzWHJVOVJoTXFPMVVxa19wSHhzTkxBN0RIMW9kXzJhRWJVWmJtd3NaYUZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "QUALCOMM Incorporated (NASDAQ:QCOM) CFO Sells $486,951.30 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0JiTVo4RFE4dGZ4bUxqVHQyNGYydk9oWU1peWdYd3VSM1FCLXdDeGRQSDhKQXRiUmZuQ2VOUGJ2a1RCZnVmYWltRkpXVHhUYldFYzk4VG95alppOWlGeURmVnpsMVcxUmxqbDh3WGF0SlJzc0p0Mm1IcXdtclJLeDgwTjlqWGd1SGpjblRwSnFLN09aZVllcTUzR3djOFJIaEFsYk5LbWY3TGE3U195NHlWTUs2bUJtRGpZVGRWM0xRSkswRkFRdEFkd2xYZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 163.03
-      },
-      {
-        "date": "2024-12-03",
-        "price": 162.58
-      },
-      {
-        "date": "2024-12-04",
-        "price": 163.34
-      },
-      {
-        "date": "2024-12-05",
-        "price": 160.39
-      },
       {
         "date": "2024-12-06",
         "price": 159.51
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 146.75
+        "price": 146.63
+      },
+      {
+        "date": "2025-06-03",
+        "price": 148.94
+      },
+      {
+        "date": "2025-06-04",
+        "price": 149.05
+      },
+      {
+        "date": "2025-06-05",
+        "price": 147.56
       }
     ],
     "current_price_data": {
-      "price": 146.75,
-      "change": 1.55,
-      "percent_change": 1.07
+      "price": 147.56,
+      "change": -0.6,
+      "percent_change": -0.4
     }
-  },
-  "news_sentiment": {
-    "summary": "Qualcomm's recent earnings report was strong, but the stock is falling due to various factors. Investors are buying options on the stock, indicating a potential big move. Milestone Asset Management, O Keefe Stevens Advisory, Welch Group, and Legacy Private Trust have all recently purchased or sold shares of Qualcomm. Overall, the sentiment towards Qualcomm seems mixed, with some investors seeing it as a hidden gem in deep value territory while others are more cautious. The global market does not seem to be significantly influencing Qualcomm's stock performance at the moment.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

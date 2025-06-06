@@ -2,55 +2,68 @@
   "ticker": "3436.T",
   "name": "SUMCO",
   "sector": "Materials",
-  "market_cap": 328410759168.0,
+  "market_cap": 333097074688.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 18.377691,
-    "PB": 0.559681,
-    "EV_Revenue": 1.661,
+    "PE": 18.587934,
+    "PB": 0.56564075,
+    "EV_Revenue": 1.632,
     "ROE": 0.0324,
     "ProfitMargin": 0.044060003,
     "GrossMargin": 0.18384,
-    "DividendYield": 1.63
+    "DividendYield": 1.69,
+    "DebtEquity": 56.273,
+    "CurrentRatio": 2.867,
+    "QuickRatio": 1.214,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": null,
+    "FCF_Margin": null,
+    "ROA": 0.01729,
+    "PEG": null,
+    "EV_EBITDA": 5.845,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 43.18610778197939,
-    "Momentum_10": -2.613295916834709,
-    "MACD": -3.162231315924828,
-    "BB_Percent": 0.0128411943481134,
+    "RSI_14": 45.3048374863614,
+    "Momentum_10": -1.7698236809201844,
+    "MACD": -6.572934617725423,
+    "BB_Percent": 0.2196935999631525,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8957623212096034,
+    "ValueScore": 0.8929321480590855,
     "QualityScore": 0.3300341559618091,
-    "SignalScore": 0.6721249024845317
+    "SignalScore": 0.632211989929365
   },
-  "volatility": 0.0354391265783129,
+  "volatility": 0.0353532305945974,
   "beta": 0.833,
-  "return_6m": -0.2143298402322683,
+  "return_6m": -0.2079413208294104,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 1469.4117
   },
+  "news_sentiment": {
+    "summary": "Malheureusement, le titre fourni ne concerne pas une actualité économique ou financière liée à une entreprise cotée en bourse. N'hésitez pas à me fournir des titres pertinents pour que je puisse vous aider à rédiger une synthèse concise des tendances clés.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Tumor-necrosis factor is a master of T cell exhaustion - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5dWl6X05ScWNYY1pxN2FETC1KSHRlanFUUERtQXNReFpkMERNRW1LMXdOeGMwaGJzdlV6cDlQT0J5X1FwWURlUWlPUi1sQ3kt?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1201.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1229.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1207.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1204.5
-      },
       {
         "date": "2024-12-06",
         "price": 1177.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 939.1
+      },
+      {
+        "date": "2025-06-03",
+        "price": 949.4
+      },
+      {
+        "date": "2025-06-04",
+        "price": 952.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 949.1
+      },
+      {
+        "date": "2025-06-06",
+        "price": 959.6
       }
     ],
     "current_price_data": {
-      "price": 939.1,
-      "change": -43.6,
-      "percent_change": -4.44
+      "price": 959.6,
+      "change": 10.5,
+      "percent_change": 1.11
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres \u00e9conomiques r\u00e9cents concernant une entreprise cot\u00e9e que vous devez analyser sont :\n\n1. Tumor-necrosis factor is a master of T cell exhaustion - Nature\n2. Cryptocurrency market sees biggest surge in value since 2017 - Financial Times\n3. China's economy shows signs of recovery - South China Morning Post\n4. US stocks hit new record highs - Wall Street Journal\n5. European Central Bank announces new stimulus package - Reuters\n6. Airline industry faces tough road to recovery - Bloomberg\n7. Gold prices surge to record highs - Financial Express\n8. US unemployment rate falls to lowest level in years - CNBC\n9",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

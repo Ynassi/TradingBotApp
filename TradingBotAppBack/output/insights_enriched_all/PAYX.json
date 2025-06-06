@@ -2,55 +2,163 @@
   "ticker": "PAYX",
   "name": "Paychex",
   "sector": "Industrials",
-  "market_cap": 56560791552.0,
+  "market_cap": 57495490560.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.57884,
-    "PB": 13.73961,
-    "EV_Revenue": 10.321,
+    "PE": 33.18607,
+    "PB": 13.966664,
+    "EV_Revenue": 10.415,
     "ROE": 0.44254002,
     "ProfitMargin": 0.31988,
     "GrossMargin": 0.72025,
-    "DividendYield": 2.74
+    "DividendYield": 2.71,
+    "DebtEquity": 20.981,
+    "CurrentRatio": 1.393,
+    "QuickRatio": 0.598,
+    "FreeCashFlow": 1158000000,
+    "OperatingCashFlow": 1778800000,
+    "FCF_Margin": 0.21288722266508647,
+    "ROA": 0.11643,
+    "PEG": null,
+    "EV_EBITDA": 23.335,
+    "BuybackYield": null,
+    "PriceToFCF": 49.55270057340242
   },
   "technical_indicators": {
-    "RSI_14": 61.99331804573438,
-    "Momentum_10": 0.7276636727235197,
-    "MACD": 2.82249050689623,
-    "BB_Percent": 0.7035276510169041,
+    "RSI_14": 67.22121058109124,
+    "Momentum_10": 1.9907826053322344,
+    "MACD": 2.808300367513283,
+    "BB_Percent": 0.7982768437599405,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8613918412184433,
+    "ValueScore": 0.8576915280291446,
     "QualityScore": 0.4425446208729548,
-    "SignalScore": 0.5527686648644343
+    "SignalScore": 0.4973310761348807
   },
-  "volatility": 0.0154210112711849,
+  "volatility": 0.0153668294811265,
   "beta": 0.911,
-  "return_6m": 0.0945091601208869,
+  "return_6m": 0.1364267075241509,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 15,
-    "target_mean_price": 146.292
+    "target_mean_price": 147.42532
   },
+  "news_sentiment": {
+    "summary": "Paychex a récemment annoncé des performances financières solides, atteignant un niveau record de 159,81 $. RBC Capital a relevé son objectif de cours à 165 $, soutenant ainsi une dynamique positive. De plus, la société a augmenté son dividende de 10 %, renforçant son attrait pour les investisseurs. Cependant, le rapport récent de Paychex indiquant la croissance salariale la plus faible pour les travailleurs des petites entreprises depuis 2021 pourrait susciter des inquiétudes. Malgré cela, les perspectives de croissance et les synergies anticipées du récent accord de 4,1 milliards de dollars avec Paycor pourraient inciter les investisseurs à considérer l'achat d'actions de Paychex.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Paychex Partner Pro Revolutionizes Accountant Workflow with Real-Time Client Insights Platform - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2s4c21ndXVMOU52YmJXdXdJTHp4TEQ5OVRCWDlzWUZzZnFsd1ZGTDByYWREZ2JIX0RLSlZhLU9CT0ptc1B3ck94QjBpb3BRMmp2clE0QjUyTmJUTXVJZzVRcVhwb2FVVktOMEN4OUlOOTM5Z3pPNXdDdjd5SWQ3OUVGVUdGOFhZV3lvTXFMSWdUekU2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Will Paychex Stock Rise On Its Upcoming Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNODlLdWhBOVJKZDdTZmsxMDM4dE9vRXV6SFFtWUdyZ0ZzNXJrQXFOMmxaOHZRczlFYWNadkxzVGxwRzljWFhuSndZQTRSaFhKMkpZT1hGaXFWTUNMSlBRNjd6bmVvSjl1eXpmQU9ESDEzTTlLc2VuUUJBdTdvRmJuWWF1WnQ5bDNmSTVSQkt1T01jN1hwZEEwd2VQQTJRLVEwRFpGdXpuVm01RDQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Will Paychex Stock React To Its Upcoming Earnings? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWJvZkZMYzN0azJZM2QyMDBxWU8tR0JLYUJCYWVBdXByczdEb0N1RGRhRi1FUkJsZmR0Mks2STRqVzRrUHB0N2R0VzdYbEZQVUdSNk1NLUtVUE16YWYyYzlvaXFQS0o1NzRFa1dPMWFUMnRXaW1rdjdmMlVMcm12ejdvb25IblBnSlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paychex stock soars to all-time high of $159.81 By Investing.com - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVVqTWxWZy1SSG1ZWE1lYV8tZk9MTFVib0dtQ09WNmEzTHdQSF9iWXFDZHlQWENDTDZDaXZrRXo1eW8wV1lhaFFfcUZSQTJqdjFrRHdfUlFBb3hxZ1FHbURxNmg0Mjd0ZVVkT0FLN3JLdDkxUTB1WFZkNHpJYmpmNGJDcXowdGpNb0VHc0paeV83WUc5RWlnNGRMWUthbnl1NWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PAYX: RBC Capital Raises Paychex Price Target to $165 | PAYX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVA0MVRkcnB3MVBMbDFHWGlCTTFvc3M2eWJCWGtrcGtOVXFoS1AyLWJ4NUVwN21wOWRfN2ZFQ1NIaWtUd3RQekRFdE9pSTNDR2szcnBZMEhRSUxrVTVEUDgzLUIyWjBHVXAwbEYwV0p2elMzaHNjLTFkdHZNaC1mamZwQ0x0R2RJdUF1cEc0cGFsNGludkg5UFVidnpOWHVfdTA0emtIZk5kekk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Strong Financial Prospects The Force That Is Driving The Momentum In Paychex, Inc.'s NASDAQ:PAYX) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWEVCUWViQUtQNFVZSEppcXFGQXJOaW96NFZnZGhMdlVpZ19BS1ZGcFJTNVV0cjgyMGphM1ppM2ZtQm5oNzhmZGstVTlNeEtDcTQzY21tU21nVmhyQWdjMnh2QkF0QXZmQWNMZ0Z6QUpZSUFHQS1Sc0twbEE4eVN2SzdacWpjOWdBS0ZGSk9Qaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paychex (NasdaqGS:PAYX) Enhances Accountant Tools With New Partner Pro Portal - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWk5uSUlYOFlaMmIzc1htQlU4Rld0SFk0RFg3QXU0Q3pIVjRtTThZSWJvamhwTHRLTGk5UHd6YlhDSzFTcDdDZjFKNERMMDkwR1k4dEc3WmlTZ0d4YUw3UHdZUl8yaW5GZHYzTUlsTWtLZ1Z4T3JtelNhVFVjZkRoWWROUHc1RHo0aXJYbzJxVHFvbU9fdFpzY1NraGs2WEFKcG9yYURxUHR4X3RSejNIWlM1TldBVjBrbGhWLUtxdUxRMmpsNzRKdWZkVllDZjFrWXMw0gHYAUFVX3lxTE9tUFY0X3RnRzZUMXMxankyRXpYWVBNM3R6Qm9VRkNBNHlnbEpQN2M3dnNZZ3M2N3B2RXlrQzlvZnJfNEg1X0xabW1kQ2FWXzBiVzlDZ2U3VnUxNThTaW56Z1M0X1lWMmR2MHF2Z1hLWFkzVi1TaUY4bmxQTEJNQjVHUngxUlRYZjJzdTd6Yzl5LTlqNnJCdzZ1OHpUTEQ5WW5ZVVJTXzBqQ2ljejcyRXhCU2hmWDFWOWZNdmRkbFZTa3NUNEJWTG5JNVh2SExudzZpcnVlWEp5MA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Paychex Stock Popped on Wednesday - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORU5Ec1BtekktMVctcTNDRFlvc08zQ2xEVE5QUXo4ekdndDRjZjRTSlVTV2U1cWxSNTNLYTRWUzNSdWNQVExkN2RILUpzT3J3NmtUMUhKeGxpUjlUcUJiT2YyYUZOYXotY3FDZHFPcjJETjZJZFRORFRTSDJQZFpxYjc3WUIxaWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paychex Declares a 10% Increase to Quarterly Cash Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTkzY3hhV2Zxelp4VVVfbEIyRmZrcTljbkFOb0NnbzdZcEI2bldyWF9mZWJYLXczM05BWXBXYmVoYm5zTEpYQlJ3SGZDVDhHaXU2NEh4M0RhX1FiYkxKUWthSVprRHN1bndBWDY3ejZWb1k5cDlDbUw2VkZRRmpvamZ5bDl0LTFPQl9QLUNJWnp6WEI2bWlnMWxXVkllWm9Jbzl2dzJNUFh5V2tlYWRpN09GbFU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Companies That Just Raised Dividends; 2 to Buy, 1 to Avoid - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMW84YmNVdHlQRkZDTkZ0SVB3emdQc2lyM3dUTlpDNlBNVk8wcmgySWsxLUVlN2pvcFdzcHR3V1hMZHI4aTllY1M5Rl9McHBsYU8tM1pTeFhvTUEzZ0tiWmx1amx5TmFiT2pSeHZVNGlya3VZY1RHdVhVOFcweWxfMzd3ZHVMQmtsLWQ2NWNFSkp1ZHA5Z0RFOEk0c3NJRlk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Small Business Workers Face Lowest Wage Growth Since 2021 in Latest Paychex Report - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0FHN0JaQWZ4dndyd1dtZkJmY2FzVm1kalFnVGRNMGlBVnpOWEcwOU1HOVhoRkxxWmFCTnZvelVnc0lTRlJDaENKb0FyaWt4S0VSalU5SXdzbG52YzdRdV9Ld0tVMkhOVzhOalNFSi1JUEFxTTNDcVBXdmRLMDIwY3ByVktLSURYZFlrQnJoal83bDk1cWtGYzN6N0ZhWkhhVU9DdDVEQ1BYRmM5aklSTXNIYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "RBC Capital maintains price target for Paychex stock at $165 By Investing.com - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYmRibXFUV0JGaVNXMlBzaW5INnhfVUJrYlZQc29MZ0ZjeGdYOU5GeTBJOXlUaTRsSUxpaTJyVjVYb1phU3UtMHRRSVdNbldERDZVQjQ3VTJtVTdoUzNaTU15WlRQQ2VZUF9kZVQtZjF6Z1M4bk1lUGlHQXRIRkFfSF91TzNVZFYwdG1QS05jQm1aNTBSbUc3RHJVYjI5VklISW9LZXl1RHVISi1XX096X0RQQ1VKM0ExSHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RBC Capital Adjusts Price Target for Paychex (PAYX) Ahead of Q4 Results | PAYX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWllMN3lKUEp5U1pIRDRfNWY3U1hub0JhOE90UnRLOEtPRmI0WW93RnNodUY4eDFOQ2lCVEFNQmZiMzY4WmZFMWpkTzlsOTRrTHpwSm44OEdLdnE3akJwNUtzdk9FcHJHVnNZWkdKN0g0c2dpYVpXYUh1cWN0SS1ZX1NMRnRUOFhzMjdNaDRaLTFTd2pwSjgwdGRRZ3BFYVdfYVFMZ0RnUDR6MnNiNTJoaXZmOHFvYUdiMWRRZjRXMmVwR1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Paychex, Inc.'s (NASDAQ:PAYX) Latest Stock Performance A Reflection Of Its Financial Health? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPenh3N2Z3OWtHRjRnd1JoR19WY3N3ZGptZWpkeDlIaWVxdGZpWFRtUXdocVdEQjhLZHhfdWVhaGJxZllhSHBBZUs3NVRiOGItamJNdEd6Z1pMRXFZWkE5aVV0Zmp4N0J2bkxJNDZla1JDdjVyV2Nhckg3THUtVUR4Rk9QWFl3ZmM4ekcyaGtENDBNek5UaWRNd3d3N3p6X3RRNFR1bUNKdHJLT3pTSkpIQkZZYUV6TDktekhDcVZhZ1Nqc21INHJKbHlKNjAyZEhTa3J30gHYAUFVX3lxTE41UkpBalhBWlU0RUlVOUlhZUJGYk9JdHNFbEs0ODNjWXluWnRQN3hNZDVRZVliMlpZbkhWekNtWWVUX2VYVkZ1RjJoa0JKdHFYUXNsampZVkdkM2xKUzk2Z2tNSENQd1pMWWRpMkJMQko3OTBkZnM3Ml9penVaX0Z3N2hTQzBtRXJHUXhmOVJEVV9KcXBZM1RJTUNFTVVsWm5Zdkd2MzZ2RFFiZjEwVkJZa3E4Y2dWb01wdHdGMHpGU1owRzA0TGpUV2hyUTJlT1pQWGRaVTg0bg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy Paychex Stock? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEtvXzVjLUctbU5QY1YxZlhXMzNzM0JqbW5iSmY4NXlFa05JUmcwRHNuUEFXanFqQVdldGNLbTZabVM0ajdPc2g5NDA3Y0dIdldvcGlLaXMxVi03SEJENHNvbS15S2t4TFBvRTFvWExTM0RHd0ExNHI2N2VvR3dvLW0xclBxdHdlcV9DQnYtZGcyNlVGSV9NZWpR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Is Paychex’s Stock Performance Compared to Other Software Stocks? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTVqOVZCOUNQRUlnWXRRZV9sSkFEV0o1MFdQNk5XVF9tdEpROTY5Z3g3N3hLcW9VUFdfOFNNNENtNFoyYm5sNjIzdE5IWVlJaTIwei1rd1NkYTBlSDlJSy1tTXJ0U2NaZEJndkZ0Y2lQeWtZZHFCTm51NVBobHUweHFJaG9QWU40RE1CV0o4T1ZqZ09SeDhBcg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RBC Capital maintains price target for Paychex stock at $165 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnRHeW5RekpYUmozLVVIcFQwSWl6RHRaclVDcnQwem9qenRTcHpXZEFpSW9zQnFqQ1VpMVpMVmVqYXNKZ2NMTGxNS0swWk8wTEhJMTZGWW02ZzVzRHJLUmJBMFVvX2hwcC1uRjlfaWE5RFd1S0VzaE40NXBDSm1pbUZrZndPeWZoU3RPMjRhVFdoWlYzLTNJazVYVWdaSjdYbUhGQmNvdjNESTliUmpoRmt0Um9ITDRBdjVv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$4.1B Paychex-Paycor Mega-Deal Promises $80M Annual Synergies in HCM Shake-up - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNajhnQVRwMUVjVUxpS3VvaDMyVlFySGI5UGVsMkhpVkVLdUhOVHk4T3czX19IbGdNc193UXZsZ3ZteXdia0FkMEdoZUFvSlhDM2F1NkxSdEpuU0pUWEdzWkgzM2RkYkpkWUUwTE5jNUtBM19JODRPaVQ1aWE1bS1qbmV0ZGdPTGE0cFJyWTFEbEs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Reasons Why Investors Should Consider Buying Paychex Stock Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1BqeFJPQmxNRzV5VmtPeVVYaTk2WlVnMDhMU1dkeE42MEttVEQ5Rnk3ME8zdUdqalFpdFFOM24tV21ueFJqbTBYRmhXaGlHZV9FRkk0ME9MNnBkRktGWHUzX0J3UnZ4Q0tibkZWdzB0TFlFMW1UUjRsdmVvd2RJUDN1RTlGSEJQV1dj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Paychex (PAYX) Stock Is Trading Up Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPck9qTWRjLTBlRkg2X2Q1c2t3dmRKZzcyckp0djNYbnJlTDRRcXVWMEEwNTAyNVZBaTFLcXhHbUtaa0dHQjhRNXVMZWFUUjI0NFJDWHhQUWpoSDBaOVlwYVZCME0tamstb011TDcyNExsMVVaMk9XZU8zV0tuZkhjcUVR?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 145.45
-      },
-      {
-        "date": "2024-12-03",
-        "price": 144.49
-      },
-      {
-        "date": "2024-12-04",
-        "price": 143.98
-      },
-      {
-        "date": "2024-12-05",
-        "price": 142.4
-      },
       {
         "date": "2024-12-06",
         "price": 142.86
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 157.37
+        "price": 157.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 158.25
+      },
+      {
+        "date": "2025-06-04",
+        "price": 159.33
+      },
+      {
+        "date": "2025-06-05",
+        "price": 159.31
       }
     ],
     "current_price_data": {
-      "price": 157.37,
-      "change": -0.54,
-      "percent_change": -0.34
+      "price": 159.31,
+      "change": -0.02,
+      "percent_change": -0.01
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici la synth\u00e8se courte de ces 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant l'entreprise Paychex :\n\nLes titres r\u00e9v\u00e8lent que Paychex a annonc\u00e9 une hausse de son dividende de 10% pour le prochain trimestre. Les titres mentionnent que Paychex est en train de fusionner avec Paycor, avec une promesse de $80M d'annuels de synergies en mati\u00e8re de gestion de la ressource humaine. Les titres signalent \u00e9galement que les analystes de Wall Street pr\u00e9voient que le stock de Paychex continuera \u00e0 grimper ou tomber. Le stock a r\u00e9",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

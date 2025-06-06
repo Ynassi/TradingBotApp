@@ -1,56 +1,164 @@
 {
   "ticker": "AVTR",
-  "name": "Avantor, Inc.",
+  "name": NaN,
   "sector": "Healthcare",
-  "market_cap": 8800668672.0,
+  "market_cap": 8824518656.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 12.41827,
-    "PB": 1.4433393,
-    "EV_Revenue": 1.883,
+    "PE": 12.451923,
+    "PB": 1.4472507,
+    "EV_Revenue": 1.924,
     "ROE": 0.12517,
     "ProfitMargin": 0.10704,
     "GrossMargin": 0.33562002,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 67.343,
+    "CurrentRatio": 1.122,
+    "QuickRatio": 0.694,
+    "FreeCashFlow": 751075008,
+    "OperatingCashFlow": 808499968,
+    "FCF_Margin": 0.11234892335018581,
+    "ROA": 0.03529,
+    "PEG": null,
+    "EV_EBITDA": 11.546,
+    "BuybackYield": null,
+    "PriceToFCF": 11.74918425191429
   },
   "technical_indicators": {
-    "RSI_14": 45.002905261380135,
-    "Momentum_10": -3.691274356387172,
-    "MACD": -0.3008433217877968,
-    "BB_Percent": 0.5574097685907143,
+    "RSI_14": 45.72718853318453,
+    "Momentum_10": 3.1872479079767366,
+    "MACD": -0.2101478274457004,
+    "BB_Percent": 0.4954681868628098,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.933871745404096,
+    "ValueScore": 0.9328082337789948,
     "QualityScore": 0.3804344960860545,
-    "SignalScore": 0.5316287141579705
+    "SignalScore": 0.5682625908016401
   },
-  "volatility": 0.0326536854589568,
+  "volatility": 0.0327919987778638,
   "beta": 1.047,
-  "return_6m": -0.3879147048170134,
+  "return_6m": -0.394576896737444,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 19,
-    "target_mean_price": 16.98421
+    "analyst_count": 18,
+    "target_mean_price": 17.15
   },
+  "news_sentiment": {
+    "summary": "Avantor (AVTR), entreprise leader des sciences de la vie, a récemment fait face à une série de défis : baisse des ventes, révision à la baisse des perspectives et départ du PDG. Les résultats du T1 ont déçu les analystes, entraînant une réduction des prévisions. Malgré un plan de transformation coûteux de 400M$, le titre a chuté, signalant des inquiétudes quant à la croissance future. La transition du PDG et la pression marginale dans un marché difficile ont contribué à une incertitude accrue parmi les investisseurs.",
+    "sentiment_score": -0.55,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.55,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Avantor Stock Plummets as Firm's CEO Set to Leave Amid Sales Slump, Outlook Cut - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelRFZF9TWVhlTnhpb2FvdG1JTmNocTNPOUVHV2Jub29xVWhUb1dyTmItcmN4ckhrbFd6ckp5eS1qOWFmMTl4cXM4cjF3eE9ZdGdtdWhPWXVOY3NrRHdXVnltLTZyVEtUd3hjN3dkeHdZSG9HVDF3Y2pSSVBJUkpnMEd3Ym5zTFBNck1oRTlEYUl5T0FNMzA2QTIzMGVqU0MwdVNjckw3dE55ZlZVRC1FeHJFa1d4TU0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Policy Uncertainty Pulled Down Avantor (AVTR) - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORW0yYmp6NkVqdlhlS3JxQll4cVl1dXZQSEcxX3NmTHVhQ1lNaVpPMEVuUWNGbHJDT0ViNnVTdVI0dWd2Z2V1WEFWak1wcl9LcjVyeDhoSG0xMWlpdThGR3lRelVPQ2hGbEtxNzBpbEhfR1czcmE5TVp5LVFxN1dpOGVkNUdfd19Qb00ydWJKWXfSAZgBQVVfeXFMUHlId2NSTDRmV2JVU2hUSThJSkFqdGQxWEJrM3g2TjFCcXNLTURMb2ZlTnlzMHAwV2FHX2pmYldseXFnR0JSeGdMU29xYlhPS3VJM2d5RUh4czBkUzFDOFhCbEYyUVVJLTJCNFprQU9hN096WkpnN0lyNExYNDhYWVY2Wm84NVltTFVHNThqbzFCbWI0MTJvS04?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Earnings Working Against Avantor, Inc.'s (NYSE:AVTR) Share Price - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWjJodE1DM3FESWtkampzT1VmdzdYanJaeElfNTRLOVRJYVgybGJhMkFZa2JydUQtZ0psUlBHRzhGcFRDcE5DSE91dEU3S3J5MVRDa2F5WVVVRjZ1am52UktZM0RUTV9QZEZKV3FVNTc5em56OFEwZjlYTFNQeVlDZ1ZId0lUWTdjX0JCTzc2OHo4ck5hZFYzc2FRTDdja1NsX3VKRXNWb3RxMkZyNjJZblhGTFFxWGlCaW1FWkdJT3NkZ3UyS3ZXQmk5SWgwdFNYSTRV0gHYAUFVX3lxTE13NUFEbXhSZktRYmVfTnpxdmVWRVB4eDdNbE1qZGdzSk4xZ0h0ZDU2R2VTWHhNZG5yUjlhcFBHMDRaLUxIdGVaaDVaZWxhdXBxU3pEamJDcnYtYlVLOFQyZkdPejRENjVwdHhvaWRha0RfM3dWSjBWOWV0bm1hb05qYXRjMDdMNDJZbU9YMktXZ3NiWF9JbnJvZ2xnZXUxM2ltb0V1SjJrdDJ5QkNxRVFVMkxsSVcyWW5Tb1pzYi1ucW9FS3I4WUpjTXhKXzBxTWJXa2VWTEY0bQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Avantor (AVTR) Shares Are Falling Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlc3V2l1SHJJckVUcmR4U1RfRzJoQjhSSENqRE9MeTdYaE9XRWh3SXJuUmV2bFBJN2pjVWJkYzVybWNKNC1OUkFmVTJ3cHF5VVVCUUlMX1pVWTJPVDNESDBaLXhpWUN0UERNdjFIelItVkhuaW5VaWsySFB0MTJaa0RNYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Avantor CFO Reveals Latest Strategic Vision at RBC Healthcare Conference - Live Webcast Available - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUp6Q3QyM1Uya05BdGJuWTJUMzh5RXZuWkUxczZJa0hTZFVvY0dZcjFPbVdLZ3YwbVEtWUNSU1o4RzZrT1hvUG5ySTZSV3lZNXlJRnNraE5uQkxQbUFaQlZHWXFNekpydGJOZXJWdDd0WjNkcnRLaEN1Y2EydzZoX053RncyUG9BWE9tVHZwX2FYUUhrMDB3N3I3Um54OXNwemFlaDRiRGk0YndMNnEwMURJbGdyYWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Long Term Trading Analysis for (AVTR) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeV8xWTB5QkJZNlFJSm5SUDlLOEFVazQyS2V6Zk0wWnpNLUFnNmwzb0tFR1lNSEpNUFlDTmR0blNNM0NFSUZFOHpGLTlMajB2MHhldS11MmtjYWRzQzRuYjMxV1RoUmo0RXhRcUw3MDFBSWc2dk5uOW9OUVdrSU9oalVkejA4bFlHSWhSR0l0NEdSV3l6eXdhTWdsMUkxVWQ3UUhIanluNHVUOTladFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avantor Inc (AVTR) Stock Price Down 4.16% on May 21 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWFJQWVdqeXRWdDF1SXBXNGlqZHllUmU0SGk2RlpjREhheVdHUlNscDlYOHlZQ1VENU9tcEQ5Nm9BdXV5cFhJc0xFX1lVYjRfcE5fU3FrV2FaN1U4ZXZ3ZHROQjkyRUJSOFByREpBeWMtUlBKWUlTQnFwQnMxVTVKNmg5R3dDOVFiakJUNFZCaWFnc3luT0liQ1hiNk5PQ2E5eG9NVDlkWF9NVGRpdWVOVjBOVU50YzNKY3V1Nllsby1temltT0s3TzlXSVd1TngybnNNTVB3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Avantor: A Healthier Diagnosis As Expectations Cool - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUVjN1B3YjBpbFZtX3AwUFZjQTNFa1ppVTlkcWJnV1dpREFmcHI3NXh6OHY0MHNhMUpJSnhJUkNua2tkVzV4Zl9QRUxtdHEyeWFPODc2RC16bnBWQTFRLUltcmphWXNsNC1HWk0wVFlRSWx2OVFfOHR3LUppXzk4cndXWWJkSGdGN01KLVc0WQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avantor Analysts Cut Their Forecasts After Q1 Results - Avantor (NYSE:AVTR) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUpzcDRJTGI2ZkZySGpXZnQzVEVSd0M1LXN0VkFaSUdYclhMVFU5TUNqYWd3bkZFX1JYbVEzSlFXZWhiUzFzWkV4bmU4bENERU9SQVp4MXNVMjkyYXV2dFNYVjNKd2hEd0V5Ul9SS2pfcUF3ck5talI5ZDY1bDRmY2E0VnBVMEJoVzIzOTRBcVFsN3NzSXYyYg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Compared to Estimates, Avantor (AVTR) Q1 Earnings: A Look at Key Metrics - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLURhMWFTZXhyNVNsYTVaRlRtTUJlNWJWWTR2ZHdBY01oa2pnN1VvN3JSdHRMcTV1SzNMdEpPLTUxQnE0NFNTM0l2VEVxMGQwNzEzRmhkNDdjMUxla2pxLUw4MlhjYU42OGZNdHVtNkV3TlNIejFKS1FlWndqSHEteS1UQy1mcXBGdmg1ekFaa2dlcUFZalNZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q1 Earnings Highs And Lows: Avantor (NYSE:AVTR) Vs The Rest Of The Research Tools & Consumables Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWTZ5azRFVExxcTJZdmtSMGFLcU10YlphNEU1RVItZHpmVHlaUlVDZUlZb3NGUGY5ZV9ZVVpHdXB0VG1tRGNmWG5reHlBYzZWekJZRmh5VUQzOWU1WEw4ZHFQY2t6c0JLOEZ2RjdNQUpLQlFKaHAtblMyS29xb2QyemdR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Avantor, Inc. (AVTR) The Most Undervalued Stock With Smart Money Ratings? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLW82eXhxaDkyb0JlSnZJTE5iRnZrRC1EWDVfR2hVbmdHSVJYMTZSbXNpV0l4RUtVeVpJNjJvSHB3VzJQTzlyNWMyeWhaLU1KNWhaTHJuWHBuNkhkOFVqNWg5eVRCR28zbkZ3NEZIZHVJc1VEQ01fYThzWTNGM0I2R3VCWGlPaXRwRlZySnNiQnhUMEw3cEZ1OVpRT3JKc1pTWTExM1RnSGxnMXQweFNwa0Mxa3I4d9IBvgFBVV95cUxNQ0FxazBOZ3NhUG1CRFhDdVNlYlNsR3hqX3V5alhvVktsZFR2T24xLUtiSmRWdUZKZVFZOHFLQl9oTjk4RjJhamFpY3pUZkNVcUlLdjFZSlMtak1zNDQ1UnNMODIxaV9DUTB3YWdPanA1b0hNRUk1R2FsWGU0Ni05bGZtZElNemxjN1dhaVQ3TTJwSzlPYlhibGVQNGM0MEJCRzU0dFF3bk9laGZVX2ZaVzdYZEpFT1ozbXN2cExn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avantor Unveils Massive $400M Cost Transformation Plan as Q1 Revenue Dips: What's Next for Growth? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTdOeUxnU09LdTZfSXNlLXgxaGxVQlZKVW9NZnN3S3ZPSnczeU9wZzJreEZnSkVTdUxTY09naHVuWVhBYkdBMlo0Q25iaWtfU0hzalBtYzJ0ODlSVDVZWjRrSDhwOTBlYzUzdkdxVjlOalRlN3dEb3RFeEJaQ051R3lvV2hWQUMzaUptNVhyaGVNWjA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avantor stock slides on revised outlook, Q1 miss (AVTR:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdHQ2b2Q0RXRwMWZNQlhzVHpjY2lVdFlVa0QtV0M5SW5rV3hwdDFPTFpsVUFnWUU4MFpfNlJ2OHdNcEszZXFsaHExWDd2Q1UwOTg4NHhuQjBGS0hxdHVFNkMwbWtILTVYWmpDRWl0THA0QnNzOEhoR2VaQjk1cVVId3VfMVlCck1jbk9tVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AVTR Q1 Earnings Call: CEO Transition and Margin Focus Amid Weak Market Conditions - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZQ0wzbVZPX1ZnZ05TVmd6OG9UOWZ6U0pTa1ZJMlBNbWwwMXdsb1R1c0VINXlXUUhhQWlRR1g3azhlcW1uWXk1ck1KTWJkTVdyM2RqTGZFUjJmWGdvNXluYUdMbkowWk9QSEZvOUp0cTg3RmhNOVZPSlVHbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Avantor CEO Steps Down After Decade of Growth: Global Life Sciences Giant Seeks Next Visionary Leader - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZl8zX25ENF95NVdOQ05kQllWcFNsQy11RENnUExCZjFEN1RuMUFXZ01hLTN6S096MnJ0d3F1XzhMWG5OanRNazlEaUlNRUEtWmZQbTJrandDN1pma0dkcDltcGdneGNZSTU0X0Q4ZGo3Yjd3aFlhXzhaVEN6SmtBUi1R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avantor (NYSE:AVTR) Misses Q4 Sales Targets, Stock Drops - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yVDhOdXhnVW5mTVc3MW1QMndwSGcySmpCU2Y2a0JweFpuSlc1a2RmbXlGeVROcm5yb281SkRQNVItWWlsV2tUUl9QUlZqS1NiVnpMb0c3VUxZVzQtVVpNV09EcFlTdFl5M2VoNFdpcTlpMmpaYUZEQ0t6ZW85QQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Revolutionary Smart Fluid Handling Tech Reshapes Biologics Manufacturing - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3VOVWJUM29aTHdZNW1yU2EyRGhLZ081Q05qdFZkbXdTR3ZleUZ4TlRhelduOVNDdnNuX1NKeEZZVGZ6T0tpZ09JaGtYMjFrWHB6YUkwaURRZzBGbndfcDFqVFRMa0RvVWdJQy1XcG1pdGhRWVkzQkd0T0Z4NUZiaTJ6enU4QnFqTFdkblVWWXBLT2dYQWk5cVJ5YmZaWGZOS0t5RzlmTEhpZ0dUbXNSVA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Avantor Stock Declines Despite Q4 Earnings Beat, Margins Expand - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbFNyQk0zLV9LdXRzRUZIaTJGeXB2VkRua3JOeElOemZYM2J4OHp1NVVkeks0M2pYQnhDME40S3llY2ZLR3hZa1k2SHBDaE1FYVNrUHdwWWc4UGdIb1pBX3FJaVJqLXhsaVlobWpmZVNfUzNsS21QbVBWZVpqQ3FoWE5WTHM2QQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Avantor (AVTR) Stock: Q125 Revenue Miss Deepens Concerns - CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHBBcy10NDhOUnFUcEdST0g1V3ZGc2trbC1hWFUtRThPQmJNOUl1U21WNnVJYTVLZGhsNHppRHBSSEVCU1VLYjRxaVpRcFNQUVhJVnB0RWpLZ1VUNS1IZEJJTVNVMTR0Q1JLR1RkR1JlTnhlWFRjNzBlRGtQUWhYaGhZTjE?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 21.1
-      },
-      {
-        "date": "2024-12-03",
-        "price": 21.09
-      },
-      {
-        "date": "2024-12-04",
-        "price": 21.19
-      },
-      {
-        "date": "2024-12-05",
-        "price": 20.84
-      },
       {
         "date": "2024-12-06",
         "price": 21.39
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 12.92
+        "price": 12.96
+      },
+      {
+        "date": "2025-06-03",
+        "price": 13.15
+      },
+      {
+        "date": "2025-06-04",
+        "price": 13.31
+      },
+      {
+        "date": "2025-06-05",
+        "price": 12.95
       }
     ],
     "current_price_data": {
-      "price": 12.92,
-      "change": 0.02,
-      "percent_change": 0.16
+      "price": 12.95,
+      "change": -0.37,
+      "percent_change": -2.78
     }
-  },
-  "news_sentiment": {
-    "summary": "Avantor (AVTR) is a chemicals and equipment company that has recently experienced a sales slump and a drop in share price. The CEO of the company is set to leave and this has added to the uncertainty surrounding the company's future. Despite this, some analysts are still bullish on the company and see it as a potential buy. The company's CFO has also revealed its latest strategic vision at a conference. The company's earnings have been working against its share price, and the stock price has fallen by 4.16% on May 21. Some analysts see the company's financial health as a concern, while others view it as a potential turnaround opportunity.",
-    "sentiment_score": -0.4,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

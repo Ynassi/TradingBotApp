@@ -1,56 +1,164 @@
 {
   "ticker": "SKWD",
-  "name": "Skyward Specialty Insurance Gro",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 2618108160.0,
+  "market_cap": 2543362560.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 21.744967,
-    "PB": 3.0775077,
-    "EV_Revenue": 1.86,
+    "PE": 21.12416,
+    "PB": 2.9896467,
+    "EV_Revenue": 1.864,
     "ROE": 0.16086,
     "ProfitMargin": 0.10225,
     "GrossMargin": 0.27853,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 14.052,
+    "CurrentRatio": 1.896,
+    "QuickRatio": 0.78,
+    "FreeCashFlow": -208417872,
+    "OperatingCashFlow": 307609984,
+    "FCF_Margin": -0.17171273384675673,
+    "ROA": 0.02871,
+    "PEG": null,
+    "EV_EBITDA": 13.379,
+    "BuybackYield": null,
+    "PriceToFCF": -12.203188409869188
   },
   "technical_indicators": {
-    "RSI_14": 68.96972538944698,
-    "Momentum_10": 1.870778855506873,
-    "MACD": 2.0346635325911535,
-    "BB_Percent": 0.9956874056523404,
+    "RSI_14": 59.42009054989704,
+    "Momentum_10": 1.6962830552137669,
+    "MACD": 1.9209905121187203,
+    "BB_Percent": 0.6393094603438545,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9304628462729344,
+    "ValueScore": 0.9278299091182078,
     "QualityScore": 0.4074347730372185,
-    "SignalScore": 0.3599344512197517
+    "SignalScore": 0.4917363158059674
   },
-  "volatility": 0.0248026451525148,
+  "volatility": 0.0249446162790016,
   "beta": 0.785,
-  "return_6m": 0.2006670666314576,
+  "return_6m": 0.1731271140876713,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
     "target_mean_price": 62.33333
   },
+  "news_sentiment": {
+    "summary": "Skyward Specialty Insurance Group, Inc. a récemment atteint des sommets historiques, propulsé par son incursion audacieuse sur le marché de l'aviation via l'acquisition d'Acceleration Aviation. Cette expansion a été bien accueillie, confirmée par une série de hausses de prix cibles par des analystes. De plus, la société a remporté plusieurs distinctions et a vu des investisseurs renommés augmenter leurs participations. Cependant, des ajustements récents dans les détentions d'actions et les horaires d'appels de résultats pourraient inciter les investisseurs à surveiller attentivement les prochains développements.",
+    "sentiment_score": 0.45,
+    "label": "POSITIVE",
+    "positive_ratio": 0.5,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Skyward Specialty Insurance Group, Inc. (SKWD) Hits Fresh High: Is There Still Room to Run? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlQ5Zm9IN0liajl1SXNHRHVQbzlUWmJxTl9nd0hfYnNOZWxUdERoMjFGZV84bmZkaWNrc3RJQWNQSmYxaFJwUm5tU0Nxa2pJRGVDcVZEZVhabHZ2ZFRab3p4aEs4SllaeEFWS2YtekRrdUMyYUhEQXBzVnVIdWQyRTJ6RlBnWUdYS2JDZmhzM2hJQTZ1MVB0S0dnV05VelBUMHY2V1dJQUhMakNJNmVhWjhhOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Skyward Specialty Makes Bold Aviation Insurance Play: Acquires Acceleration Aviation to Launch Specialized Unit - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbk1HUWNoMUpCSldBU1JZZVhHTEw5SkZ0dUNrWm5xcVItY01pQV9GNmY5US1PeldBZTJmYTFRZmliY1F1S3NpM3JFdnM2dUZVeE9qeGNoMHhNQW04TUJoX2hQNGJXQnFZR2NydXRWaDFSMWluYkFOMGlFS1g1Rk5hR1N5b25BclVacS1VeEJrbkFqNXNMU18xMG03Y1hIWDRCZTByYlBYa013RGs0bTN6aHZLNXlNeG1CTllILQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Skyward Specialty Insurance Group, Inc. (NASDAQ:SKWD) Stock Holdings Decreased by State of Wyoming - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlVUMkRJUXZxZk1WaEh4Z3lmYTVPcEFRNENXaEJ3YWR0WU44azBNZm50aHJqNmxhdklTVW9QNjBQYUFxd0lsbXBUVUF0ZnpTUjVBMmliQmN0enktanFYLXF1Z2tWcVNJU1hRd3R3OTVVa0lfUFM2eU9XdnlNQ0RSdVVKcmdzVGxhcl9kUUlnd1RteURHSmVncXNSYTRIM2ZrbEhuUTVBeFlMMGZBVFMxSlBzcmZEdTRIMkdJa2RYV3ZyVWtybTk3YU9sUy1UeUd3REZNN0RLcTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Skyward Specialty Insurance (SKWD) Enters Aviation Market with New Unit Launch | SKWD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWTZFQzk5a0c0S3FaNk1BdG5Ud3o1YTc3V1N1TElldHo0bnNsWTdweGEwcXZiNmRaUmZsZEozMkc4Y3RnTzAyLURuZmZGRFNNUjNXYWczMExlYTZxNHprajE4T05RaHhlU2xEVVcxandqaWlMSllaX1ZWclhOc0FXTlB5clpzWHV4YVlrelNjVFMySDNlUDJZNDViS0pqaUNvbHpXR3U1cnF2cUF2VUd4dmF2SzEyV1RHR1hxQ2FBbE4zU3VWc0hJX2pqUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Skyward Specialty Insurance stock soars to all-time high of $63.84 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1RDMmpJUmdXWTNTZTVxRHZ5ZkdSb2VyUkV1T0tYN3AwM29OY21sZXZuM19nTjJ2eVBBVDljb0lhZnFRSlhSLWE0QlVqQTJPeDBGbWdRTkVJT1Y1OExhdU0yOGFNQWI5VGJOUGVBbW1Va1NUVFRoQjlvMkt1WU8xeW5zQTZ1RURlczNfRTFFbFljMnM2U1hfYWdtS1NqeUxLWjRIQU5PQTRPcjByOWdmSDR2dWRrckFiNnBMNQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Skyward Specialty Launches Aviation Unit Following Acquisition of Acceleration Aviation Underwriters' Assets - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNNHJMRDBGQlZVWjJONzRuRU52MW0tcUItcUdYUmpmYUJrTDVtOHJKQVEwak1ZTWdSRGJZUjBsLUVkLUNvRU9sZGd3U1JPYXQyWXhoRGEya01GLUpEWnVNSFQ1MHJpdmExaWVrbHk3d05ZeHpiRGJfSjRWS3FRU3p3WkZnUU9YempCc0pOU0lCZ1Vta2xNWExoYzg1aEpXTnZNRHR1NDFqX21tYklfNWhOZzNULW9zYjg2VEtNRmlIck9KckJnUEJfelJMUHZaSnlHOEE5Q2xCU2o3d0h6VEdwM2lqbUotcVkwZWFfVkZEdDMxUmVCRGV6LTdMSFNYcDMwN3hFUlk5UTJBZWdVVWQzWkJETjl0WlFCZ1VibnJ1MA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Skyward Specialty Insurance Group (NASDAQ:SKWD) Hits New 12-Month High - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR3V0M0FhVk9ZYVdyRmlGOTMwVHVmMm5wb2tLeVNwYXowU3JuQmZ1RkhRRS1XazA5TVdRTE1Jczdsd2VGZGxQRHJzcnFuRTJWandjbk5lRnNDUHBYYjF5OWZLRFlVMXc3V3hXbDkweTRYVERRTzl5a1Vub2Vkd05zMkp6MWQtXzYxWE5rR0hvUGs3WFQ2RjVWdE5KSkNsbXZKYnpSSTdMZ0JKcWhrS19vbllWX3M3OTdKQmlnc251OW5vb1VtUkJKenlhQUtvQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Skyward (SKWD) Upgraded to Buy: What Does It Mean for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZl9wcnEyQmxUbXBJMUtCcFBhWVZ0VFFiaDJ5RlRlRXZVeGhISTlPUUdpdU01eWxDcFVoUWdWYnBCVzVudjJjaF9BYlgxTGVDUDRibjFBeW9WQU5VODluMUtPdEFKajhSVHB2b3ZGM01qNDJrN2xJUEFHaEFvSlpoWnJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Skyward Specialty Wins Triple Recognition in US News Best Companies Rankings 2025-2026 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUjZ6YU9wRFpyMW9KbHFCUzU3NnNiRUI3WGlpb3JpRzhHVzhMdzhGS2tUcW1mX3cwY2V0Rl9JaFBjNk4tcUhlSjlYa2F5M0FJRURJc1BtR2ZYX1NyUkxRcjkxekdudEVVaUU0di1wd0JSS2pFa1lhMDc0Y1BkOUdieHJUN0xBQklYY09mejlTUkxmQ1ZJX0lmXzVYZzJON3hYNXE3QWtWbHIxMHl0aWhDSE5QWTdZQVJobWNfeGJWRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jane Street Group LLC Has $442,000 Stock Holdings in Skyward Specialty Insurance Group, Inc. (NASDAQ:SKWD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWWc3UmlYUlljcElXemp0cUtCejJfN1RlZGhZVERPN1lTUEdQSWE1eDFZZENMNXNVZjV1dTk2NUg3TlZORV81Smk3ZFdtN2JPWW5ZQi1RS19lSU9maV9wcmNFa3FWRlVHRWVoTjFvY1Vnc3Jwa3dSNU1RV2NrRWR2Uk40TlQyNWdTUUlxZUxvUktKYnljTE82aVREaGRONnFzX0dpaGZTU3RmdUhNOFRyR0ZFa2gwc0xPNUtPdkpiR0otVEw1UFV2Mkd6bVp6LVQ4ODFFa1VuNTNvTUhtczVsNFF5Q3g?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Important Update: Skyward Specialty Shifts Q1 Earnings Call Time - What Investors Should Know - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc2w0YWJHMjZTOWd0aVZ1dG4yajdobmY4ZVpZYUNXZ28xQTUyX0ttNGlQN3Y5dWRtZUpDSW4zdkh0MzV2LUVKZjRXS2g2WXA2SHRSeUEydmJRUVJpS3pPb2lnN1F3WlhkUjBZWGk5NUZFVVNvZXNFWUEtMUZJemp1dDdxS2gxaExkUzUzdkdmVzZTX3ZhaXBTNHphajc3Qm9vb3FJdDNVTXpEVHlIa2FwOWUwcGNYVDFWdkZXUnZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Summit Global Investments Makes New Investment in Skyward Specialty Insurance Group, Inc. (NASDAQ:SKWD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQamk4MVBzbUF2X0JBUG5xV3RJMmFER3Bpd0Q4RGVnb0pBTVJURzVTUnpmUEwxdk8xcFNNZmJGSWxqX29ubjVHRTktZlhyQVZMWVNxWGN2QWdULTJleHRLOGRmOWwtbXc4Tm41Q2xUWHlTYlE0NU9JUk1pNVFqQ0dYZmpqOVFZS0pVZjhTZVlmbk1BWVd1WHhpeHpaZG5VY3JYVkgzc3pMVndUUmhhM2k5RjFJRE5jVHZKb1hhNl9ENDZlX0xkaHpTX1ZkeUppVEp2R2FMaVJBalk5R0ZqVmlIek9KNzdMUlBSX000blNaOWw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Skyward Specialty Insurance Group (NASDAQ:SKWD) Given New $72.00 Price Target at Keefe, Bruyette & Woods - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTWlUMWR4MUZFdGdpWmZESWF0aE1zV2JGREprV1piUGpqZ1k3M1J6ODFSVGV0S0Z1MlllSXNZQlZpcFVGaEVFU3hsVUhHMFRhRzJTZnVNNFFidWwzcE55bklPSng1Smt2ZFFwZjR0RktGN3AtT1hTclNJNURfVjA2ak1zM0IxRjU5YkJRRnpnaUJJWXYyUUtURndwY2E3c0RuVVJPTDlwQjRoZXN6ZXFoYU4tUWstcmVRX2k0cGFHTDUzRWUwNG5KLVNUdG9ONENUNERET2JTendlVFQ1S3p1cGF2XzZVWnE0a0R5dmlUUnN1S2FTa05xUA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Purchases New Position in Skyward Specialty Insurance Group, Inc. (NASDAQ:SKWD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOaXFydHdnTzBTaUNNREI4R1NRMFJvbVRKUXhsZ01JcUctUDZsN0dqMUpKMEpWWXVNMTZCXzduenlqTXdWY2NORmh4REs0RmhOZWJ1WWlFelZ6THZHTXdoajk0N0wyWVdKT1FrTHVicXhLSC1FemxZbC03S2JRR1Q4NDFabHpNTGliLU5tQXViZnZkZ25keE81Qmh2bDRMUWdqcm15OFQtelM5SWFOQkpGN25OY0FwUl9DaUN1eWhpNi1aTVF2T3JfSWFZaW5uMXRDMkVOTzczQ1p6TnpENVdmdjRBREdrc0ppOHdMQVF4LVRjaEFlbzhQQ2VtT3k0NHFlM1JteXhnenNiNDBPWDMzNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Skyward Specialty Insurance Group, Inc. (NASDAQ:SKWD) Shares Sold by Nuveen Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaE9FTDljQjdJS1RIVTdpSlNzVXU1QzY4Tm83T0Z3cDAwX3MwMElyZUw2MTNFdXlVTDVzNTF6el9sV0VIZFNFWFBfMFJwc2VWY2l5Yk91Ynppa0JfcWtkalVXRnB4X0swTkY5SkNPVUs3VURTVFBHeHI2RmFpcFEyT3ppZjduQjFRNjZLYnNDNGZRSmVvd1dEWDFJRGJlY1lyaC1nOWdQMExoc01EOGQzeTJwd3hzNW9TM014NEhrMUdIaFpSMEtwNmVWUVpoUjdCZlBCU0c0U1NsSjJMRWtFUjdKZGItUkM0ZkN4dUYzMHVnSjRnT3ZTMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Skyward Specialty Insurance Group, Inc. (NASDAQ:SKWD) Receives $61.13 Average Price Target from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTTFFczE5ZTc5Rl9WRWl0bmV2ZTExalNuNm14VUszRDJSOFptX19FQWhSVEJqamhYTXU5OE1kZkF3WGtyWi1MLUZwNjBKYS1ObHhoYlVvVGJqZUdkMlM5TmV1MDRZTGNiNGk4WFBYZnB4YjJGUFBhWUlJSVAwS1N1aG1BRzZiOGh3QnRIcFlSUVFiU2dnVU1sOFRJLUJKSXkwZHlJbndQVVFEcG9OVjNOa0hLc3FsMzFtaVNkcWJ3WGtLc2dDNGVxNDZXQmtPY1JLc0FDdjdYM0FLYjRaZDhTcDQ1cVF3UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "10,038 Shares in Skyward Specialty Insurance Group, Inc. (NASDAQ:SKWD) Purchased by Man Group plc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2Z2S0V2RTUtaHFGNTdxLVNhZHUzV1F2MmZtbGxheld3RjJ1M2lOR2t5TWd0aW1FOHJjYWdYV3dHdm1mdE43ODRNZ2lFaTl3clZ6bFd2dTNmeU90clV4cC1vbndsSExqYUNzN1VtT3ZQcGoyQ0IyZkwzbmhOcWpJT2RjeTdLSkJ5elVrTDEtZk5zQWNIcVpoVkNuSUxCSUdHUDdHTzdfdXBNTUpNNnpOcW1JckFnenY1cFZ1OVJLdEpBMl82UHhYanlBajMwMFZTRU9iallFQ0pBRWljYS1ucEhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Boosts Stake in Skyward Specialty Insurance Group, Inc. (NASDAQ:SKWD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOWDY0Z1FlMzNfM2tKdG1jWGdPejVZZGRCOGI5V19raVNCazFPUzQ1SURSWWYyYW5NeUJwbUp4VHdzQl91WGJiZngyRWgwdWY4b05kcF9KRVItUkxPX2FKRVNfOXlPNWtqXzE1V1JMb1ZsczlVeFlnU2N5S3gxYzFia3FrcUs5Y3BwRVRZT3A0Zm1xUHg4bkxFZWQ4bERXQk82eEp3RWZvYnZSeGcxOFZ4ZXNndnluZXVyMGRRWkZRSFBVZlBNVTJUSFZHWEtra1E5NWxuV2t6bEc2dktXNFdwTjJxQlFZWTRqRm1UYjRvMW5DZ2hqN3lfUXRINVdXOEY4NWt4Q2ZUZXkyWmFzWHZZendNb005UTNhSkRnZ0NpZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Skyward Specialty Insurance Group (NASDAQ:SKWD) Price Target Raised to $70.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNk9JT3JELW5NMzJQZ29lczQwczM1WnpDVy1LSG1UVVNVb29YbTRQcFdZeVpWSGpVQjZUSl9mSmlvR3BTcF9RWTJEMlVSTEZreGV4V3A3ZGlyMmY0ZUF4TWREMkJUdW9aaThWcXRaLWJGcWsxNHg1VHhmYm44Y0wteGZVTUJiMmpPQ1JKZnNSQ2Fpc1JCbjN0bVdHUUhZbzlJelRrZ2hwMnN6SUthNU1TbVc5djJrRkVpRVhzX3RtTzZZTGxvRDdrVnAzOUJTMHZDY0RXb25hVVVQeWc4ZEE5V2t4Rk5JWjduMTBFc3dHWUNPaUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Skyward Specialty (SKWD) Price Target Raised to $72 by Analyst | SKWD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1Z2RU16d2dHa004WFFzcllnZHpjSk40SFJCVzBtbUs3UFlFUkl4bjlwRGp4SDlZU3RlczB0bzQ2dE01VEhiNlRDWmpkbGk2RHVkcnVZeDZLTERuUFh5eVJNcXdSN083YWpyZ2VGWGtOcnBxWnZBWWJUMTZDYXZJQlozRk1qeDhiZDFod1ZfRTVGOEpmY0JtWUpMVXcyYk1KQUJrd0JUSUhpNmQxRXBzR0VOcnA?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 53.97
-      },
-      {
-        "date": "2024-12-03",
-        "price": 54.16
-      },
-      {
-        "date": "2024-12-04",
-        "price": 54.93
-      },
-      {
-        "date": "2024-12-05",
-        "price": 54.46
-      },
       {
         "date": "2024-12-06",
         "price": 53.66
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 64.79
+        "price": 65.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 64.82
+      },
+      {
+        "date": "2025-06-04",
+        "price": 63.46
+      },
+      {
+        "date": "2025-06-05",
+        "price": 62.95
       }
     ],
     "current_price_data": {
-      "price": 64.78,
-      "change": 1.43,
-      "percent_change": 2.26
+      "price": 62.95,
+      "change": -0.51,
+      "percent_change": -0.8
     }
-  },
-  "news_sentiment": {
-    "summary": "Skyward Specialty Insurance Group (SKWD) has received positive recognition in the US News Best Companies Rankings 2025-2026 and has seen its stock price soar to an all-time high of $63.84. Analysts have also raised its price target to $72 and $61.13 on average. Skyward has been upgraded to \"Buy\" and its stock price has been increased by Kee. Importantly, Skyward has shifted its Q1 earnings call time, which investors should take note of. Overall, Skyward Specialty is seen as a great momentum stock with a positive outlook.",
-    "sentiment_score": 0.6,
-    "label": "POSITIVE",
-    "positive_ratio": 0.6,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

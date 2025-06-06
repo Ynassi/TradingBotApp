@@ -2,55 +2,163 @@
   "ticker": "ENPH",
   "name": "Enphase Energy",
   "sector": "Information Technology",
-  "market_cap": 5415568896.0,
+  "market_cap": 5458867200.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 37.866974,
-    "PB": 6.678803,
-    "EV_Revenue": 3.653,
+    "PE": 38.169724,
+    "PB": 6.7322006,
+    "EV_Revenue": 3.816,
     "ROE": 0.17132,
     "ProfitMargin": 0.10434,
     "GrossMargin": 0.36846,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 152.289,
+    "CurrentRatio": 1.895,
+    "QuickRatio": 1.496,
+    "FreeCashFlow": 358479744,
+    "OperatingCashFlow": 512905984,
+    "FCF_Margin": 0.251895632633663,
+    "ROA": 0.03012,
+    "PEG": null,
+    "EV_EBITDA": 24.031,
+    "BuybackYield": null,
+    "PriceToFCF": 15.116192361485284
   },
   "technical_indicators": {
-    "RSI_14": 41.06838663109818,
-    "Momentum_10": -17.956354717788855,
-    "MACD": -2.7422462115464796,
-    "BB_Percent": 0.2905167160447301,
+    "RSI_14": 42.630662649267336,
+    "Momentum_10": -11.91584273025517,
+    "MACD": -2.170612801872963,
+    "BB_Percent": 0.3218113109367816,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8839704401500332,
+    "ValueScore": 0.8804841370932347,
     "QualityScore": 0.2668150838931681,
-    "SignalScore": 0.785337002422366
+    "SignalScore": 0.7161400388205392
   },
-  "volatility": 0.0436459780227312,
+  "volatility": 0.0439649058375351,
   "beta": 1.701,
-  "return_6m": -0.4506123675608963,
+  "return_6m": -0.4085157562081842,
   "analyst_rating": {
     "recommendation": "hold",
-    "analyst_count": 35,
-    "target_mean_price": 57.38571
+    "analyst_count": 34,
+    "target_mean_price": 57.42647
   },
+  "news_sentiment": {
+    "summary": "Enphase Energy (ENPH), fabricant de solutions solaires, a récemment connu une volatilité significative de son cours de bourse. Malgré des baisses importantes et des avis négatifs de certains analystes, la société a remporté d'importants contrats et continue de se positionner sur le marché de l'énergie renouvelable. Les investisseurs semblent réagir favorablement aux annonces de nouveaux partenariats et aux économies potentielles générées par les produits d'Enphase, malgré les ajustements à la baisse de certains objectifs de cours.",
+    "sentiment_score": -0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.35,
+    "negative_ratio": 0.45,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Enphase Energy (ENPH) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGFvRms0UmY1ZDBmTWpWYzg4dkVvTS1CemNqSzllS3kxTVZnd1pMNE9sclZWTDBJWWdNcHE2MnZaMGk5S3dId1djVkN6OXN5RE9DQU1rZ29aQlpZTjQ0VnBSXzZaUVZIX1dLZy1paVZ6QlYzWFlRWllNSFc0aUVzZmJ1dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why ENPH Stock Has Crashed 70%? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbkpvWnVEX201M2d1V3ViU3BtX25PakdQUnhBdmwyWlNSMi1fOEZTLTBDZms3MTN2dWU0UDBxbkJsdjJacHBVUkNHb081VXpMbjdiakZaX1JxTXFTUGVaalZqbmR4VXZnbGZnZ25qS1VBX0FZZkhHV3A2RF9keGxsZUN6SlJoVUhfdW5fQ1o2UFZpUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Enphase Energy Inc (ENPH) Stock Price Down 3.27% on Jun 5 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXZqdTNfN1NYSUFVY3FJOGE2VGJoS3dxSFNjWmFXTWdWVzZmcHpQZWIwbVNsNHBhMEhoS0lQSktEODdYNUpOdTNxYXlCOGF2eHk3dHJkY2dMTlNUZFdNcThzZGJmQzMtOExBaGhhR2FCeDk4QXlpRmVxaFM5QW9zZWhNM3NaNlJTdHg0R3FNbDVrOXBtVWRR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Enphase Energy Stock Will Climb or Sink? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOQVppck9zb2ZOcTN3RFZWa0FzNUJWQzBnUVJjd3hlVmFqV2NJVTAwbk5Wc3BENzkwZzVmQ1I1U1VKUkZmUlJBZ1BIUTA1ZHNfOHNrbXZCYTJrZUM3ZWJXUkw4QVZsVzVTaUxrVlBjT2pZN0FUaTY2ZjhxaEx1WTEwZFlWNUl4Y3M1RE96WGJRNDhRcWZTR2d1TnltN2UtSzBWU1JuOHVXUmRXM0FGTEFQdUtUUTRmVlItNXpaalMyT1BWTkM1UEs2bHU2VXU0dnFwalE5dHlrTFI5QVhjY2g3MkhFUE1yY2xjTjRwaXY5N3o2anlvNnh4WTA2dEZ3c3Y2RFFHSE15b3ZGRXl0VXhZakRSR0RPaktwbjNmN1E5dkNENkprTUNyclVSQTc2cUQ0bk9nVlJYanJyRDhSbTRDOG10dWxOSjkzZ1EwcDVwRkhnZ0ZucjF2SkJkYXByQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Citigroup Cuts Enphase Energy (NASDAQ:ENPH) Price Target to $43.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzRIUGJTUkJoLUFyMVRRMGJDT3J0NjhxWHpBa0VsRnFGQWZaOGN6UlpIbEQ3Y1p2YzRVZExydmxQcTBuYnhQOGFBdEZuQXQ3UF9JM0dtYThJOWVqYzZ2cmJzNzA2c3hoaW5DWnV5R2ZTbi0yV294Q0xUTmpqYU1EMFNmYzRiWDJaRUFXXzRhdU5kejF6QnhURTZQUFhHQWRXc1BiSnNDc1FZMFpia1lKY2x5SWdIdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Enphase Scores Major Wins: US-Made Solar Tech Powers School Saving $900K Annually - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOXc3bm5OZVd5dFQxU1F4SVZWdHhUVlZhRnRkMEhJWDhzN3pKdzRDRUhGNklKSlNmYVpJbHZKdHI0NDZETkJHdi14YTFtQ1RQWFZEWEpIdjcwcEk1OFlXdl9PN2ItRDhDV1BuamxfUllfbWVWR1JHdUdLUnZoTUNpMGFxWXRua25NSUc0YUFBM3QyRVFpTGhWVl9zQkZLVGR5VE9lV1oyTk8xYzZ0RzRHT1BDUzA2Qll2blE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Citi Maintains Sell Rating on Enphase, Lowers Price Target to $43 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXZBaUlDbHl2R0p4aEZKbGZIVUh5cVZVWWJheFlVS2RSeURpY0gyRDYtVWFuLWxZUTlsb2M2TUY3OEJKZWhUQ2pJV2lOdUdTa01VZ1FlV1BsTTk3bC1TUk1NR3dwZnB0NnNtMnphWXVwMC15OUd2bVdQR1RJSjhGeU9DSHZjb2tlVzB5MTdRNDhtZVFTR2Nhbl9Rem1GUUptNXMwYU1xQnpvV03SAbMBQVVfeXFMTTZUdk8yVVRRSWhaZVRWYzg0QmxfQTc1SXVQdm9sWUx4WHNlT2xaMndFaGEwVzVRQ09iMTlMVTB0ZV9TRDNnS0dOUG9LNWpaWEhqSXphUVo1VU1lR21SRWY5NGROUnVCQ2c1SDh4ZFdNZ2pMVjhUT1N2OUJhR244Q2xXWWE3eWdJUF9mdzNEQjdvdEV4T0dQWTJnODdnMXFYN3ZjcHJZR0hFYVVTcmgtbzJRVDQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "“Time to Worry,” Say Analysts about Enphase Stock (ENPH) on Policy Shift Concerns - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2tXMURZV2hlUzZ1ay1iQ2VteGdwa0hfSmNOeUxfd1JwbGV4VktnZlc1cnBwT3JPRllsaFFQTEV0dURWbWMybUtEVHEyQXZybnJlVFRxU19tWDYzVEFuYzVIcHdOYUdXMmt0d3B6eTloTlJMa21uR1Ztcm40bWZrekZaWU9SRktpME1OSVI3c2lfOVRDZ1ZmM3dKclNIcGRWRWFlLWZVN1l5QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lmcg Investments LLC Increases Stock Holdings in Enphase Energy, Inc. (NASDAQ:ENPH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdWxVSERpbzY3ZUZhR3M0NG1fZnY2azNZWEZKQmc4dDg2RGlvV1ZQSUdEclg1WUxtSDJSa2YzdVAxSnNOd01JNUNwRWRmTEZaVi1Pb1FLWEx4LUo3OVJaUnNZN3pIVFhWb2lGcFR5djJMelJiZlFtLUoxRTZmUFhmWnZ3RHBKM042SWZrTTAzWVktczVvRThYMF9PNUZINWNqUWVadHNoMnFlY2pxV1FTUlExbTZoM28yVnh5Z1VtaEtjTUJNWFo2RTkxNl9taHI4ak45aDFn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Enphase Energy (ENPH) Faces Target Cut Amid Legislative Concerns | ENPH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcnduQlJhTjFJYTNrcS0tQTR4Nk04TU5PMWtxbmJtZlM1SjVjUHFiOE1PQ2hDa0JfbEtySTRtSDB6WXVMM2ZOdHVBWkZvZjJKeUNaSjZzRTROMkxfVWgzQ3lkQ2pYUnhqR1dVMTlfY0JaaGEzLUpJTWtSUXJ4ODFuSWl6RURrWjNQb3FVWUVRRmRWN1B0bS05WkNPRmVDZ2hTRUJRNGVWaVFHWXd4azNveWkxQWt3ZGRHS3lLRXQ2MWhVQUNHVVdORDgxSUhHbkF1dXpoS0IzSVhxSnRzNEZraVFCdlFuakpkWHdoTTFhNlZYRUZQNm1JaWoxdHNhZlk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Enphase (ENPH) Stock Trades Down, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmdYTzduWXhVdHB0T0s5ekRKaFI0RGo1SDJwUDdVcGVtazY3dnZEXzd0N1U1NkZKN1RmcVI0LTFucHdHaXJkZDVZOEp5U2NNWFhlV2VRR0JTajlLaEVMQjdiLU1xazB1NGJwbUF2aFVrTXc2ZkkxWnMydlJYcG5WR3NB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Interesting ENPH Put And Call Options For July 25th - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzBnRzBlb1RSWmN4dC1JYlhQMnphNS1aanN3dVlqbVN3Z1l2c2xPY3lhWm85Q1YzZTZIcDJ4dUJaejNvU2dKb19FZGxpVU5XbWFaakdXdWJHV2xmRG5jSUVqZzhrOEZsTmZzOC1FdG1PNWY3RWRZR2N6dWRQMGhvRG14dzVuQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enphase's New Energy Management System Promises Major Cost Savings for French Homeowners - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkMtYTJyM2NHTEt6WFVLZUt2U0V2aEhGMlkycVMwZU9Qa0pOZW5sZHRoQ0ZyeWRMWVpTR2loSzdfY0dxQkxrWW9Qc3hxNnBvR19FbmtCcGJwNmdOcnpwanhWNUZVb3NXV2dPbVNwYWNKU3ZMdkZYdHIwNmtZelJBcXlJaHUzblJ0dlNfckNlZGJQN3Z3WFFrb04tLXlUNENKSDhmZ25wYmFMRTA5NVBHNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Enphase Energy (ENPH): Citigroup Maintains 'Sell' Rating, Lowers - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUDkwdzVWaDJVZUJFcWNZTEMyQ3paSnlhQWlNSlhFNVdFYkJ5ZnY4QXh2andBd1Vmd0NzT0hweENJaXdfamFMVW5qUXA2YlFWX2xBeXllZUlTejhxdEFQUmY4cXpYWDZEQ3dzanFfWmNFMS1lYlRZT09ySm1WV0xxQmNHSWNLeXBkRXRaLVg2eXhhS2ljdXpJdWZkazJWVXBRSDFkcnBKMEVBcUJhVG45XzI5SnI4NlhyRU82c1BNNlpJaHpo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enphase Energy (NasdaqGM:ENPH) Microinverters Power Major US Solar Projects With Tax Benefits - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSERQb003OXJFbDd1bXJvLU9NcUcxUmdVdVlJbDFnWW9lV0dESHVwQnpLNUItTnV6M1RielVSRUxxMkp0eTFObmV5Q1JwOS1XWUFtVGE1VG05dnlvZGZ0WjRkV2tDZjRsemFUTEQyb1RfOHBLdlNhOUllRncwckFrZW5pWU5sMVphMUQ3S2ZLeUxRV0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mizuho Has Lowered Expectations for Enphase Energy (NASDAQ:ENPH) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUTItR2Q2ajBTZFRPZlFTLWdpdXl1QmQzRGN3Q2Y0bVhoUGt4bm5yTGZHZ3dpSEtOT3hUMUM4M001YnlPenV3Rk1XXzB5TnBWRG1fYU5XckZzZFJkcFFYdzlKdXdHM0luU2R6eFJ3TFA3dEtXUW9QUUowUHB6VGc4TUh3djVBR0RxLURlZXBzN21qRnpnaGd3V295ZHB6S3BweG9KU3B3ZHFBeVJzVjRUMUJsc1NMMG1wbl9wMXBpRTZqQ3NsTEE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Enphase Energy (NASDAQ:ENPH) Shares Up 4% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTdMQU9LRnpaTmxEa2VFOWpHeGpMOHRqYnpPcXVpMU9ETGppN0tFNWF5RkxuUlN4Wk44VG1HVWRTUEJhUFdMQm83Smp1VzBWdHBKQ1ZjdkdaY0htbVBkQnA3NXBSaE5EM1F0Wl9qcXZHSEVYM19MOTl4c0NtV0FzWFFtQzBSRUxkZmdET3NDUUVhSjE5RGR6UUxuNXQteUxxZnpYc1U5czhuVHNv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Lowers Stake in Enphase Energy, Inc. (NASDAQ:ENPH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPajk4NVVMX0ItMXlaYXNDcXZ3QUpLTUl0cjA3R2JpQUxfY2tKMUhnUDZNREE4NmNDNTZMbHgzLU9ob0J5alZFc0lTSGZYQmlqRW5IeEFoSUM4eGRSWnJaOE10bGxtd0hsb2Fadk4tVG5PSVJMQ3FvYkpTeklnT3Z4VnVwV3prU0w5T09zT0tGcTczZlpRUGxWVlZSZVBaWGI0QTFrUnR3NTNQM2ZZQmdPNzc0VVVhZ3k3U014dU96UWFTdjNmS3ZtbXBTdUZEQmVqY0JuZ181Y1RkVnc1QXpVb3QzU25IazkzdkdF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enphase Energy, Inc. (NASDAQ:ENPH) Shares Bought by MassMutual Private Wealth & Trust FSB - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaXpmX2NiMDV3dmdDOFFwSU5yZTJkM04ySkJjb1hzMk0zSkx2bnpMSlB3bTJBeVpWNW5NemZaWnM1U0lTeTFjaG53SDZ6Mkh1elkxOE1OMEtTcXRYU1FObllBZ3FxLU5rdjlHa2tCQlJ6UDVNMFY5a3FiVEdaRGRiWWt0bUNQbG1ieEN4bmdxaTVRN0R6Nmpfcnh5UEltVzR1M3ZpTWpsazF6M2lyYlg2Tkswc25rcG9pdko1VjRWX0syVkE0UEQ5OXRuaWtQb21ydzZfUXF6Q0FaTDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enphase Energy, Inc. (ENPH) is Attracting Investor Attention: Here is What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWU0VHgxcUUzSjM1cXg5MzdBc2VEUHNybF81T2dBNkRjMmU0WkFvV2JoaUZFaHlNYUJDaDlDbmtpNGx1YkF0TU4yclVjc1U2REZPUlJ1VEl0aG9aV3pmYXZRY1hXdEJCVVBzVVhfN2h3Z1psR2YyYjRSVmxRTFhmMDQtNTVDVGNVdlpsVks3ZlBIWHJYQnVxN0tReWtoekY1UDZZQ3ZXT2tpU2Z0aTJGamNRaw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 75.12
-      },
-      {
-        "date": "2024-12-03",
-        "price": 73.26
-      },
-      {
-        "date": "2024-12-04",
-        "price": 73.12
-      },
-      {
-        "date": "2024-12-05",
-        "price": 70.34
-      },
       {
         "date": "2024-12-06",
         "price": 71.56
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 41.42
+        "price": 41.32
+      },
+      {
+        "date": "2025-06-03",
+        "price": 43.75
+      },
+      {
+        "date": "2025-06-04",
+        "price": 43.16
+      },
+      {
+        "date": "2025-06-05",
+        "price": 41.3
       }
     ],
     "current_price_data": {
-      "price": 41.42,
-      "change": 0.03,
-      "percent_change": 0.07
+      "price": 41.3,
+      "change": -1.86,
+      "percent_change": -4.31
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nEnphase Energy (ENPH) est un fabricant d'\u00e9nergie renouvelable qui a connu une chute significative de son stock depuis un mois. Les raisons de cette chute varient, allant de l'att\u00e9nuation des pr\u00e9visionnels de Mizuho \u00e0 des inqui\u00e9tudes sur le changement de politique. Certains analystes ont \u00e9galement signal\u00e9 une potentielle de croissance dans deux autres industriels.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

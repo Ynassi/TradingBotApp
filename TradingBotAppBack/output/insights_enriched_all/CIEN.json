@@ -1,56 +1,164 @@
 {
   "ticker": "CIEN",
-  "name": "Ciena Corporation",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 11533726720.0,
+  "market_cap": 10392294400.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 147.52727,
-    "PB": 4.140007,
-    "EV_Revenue": 2.901,
+    "PE": 132.92728,
+    "PB": 3.7302923,
+    "EV_Revenue": 3.035,
     "ROE": 0.02763,
     "ProfitMargin": 0.0195,
     "GrossMargin": 0.42584,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 56.506,
+    "CurrentRatio": 3.65,
+    "QuickRatio": 2.394,
+    "FreeCashFlow": 282591744,
+    "OperatingCashFlow": 352179008,
+    "FCF_Margin": 0.06978425038766604,
+    "ROA": 0.020580001,
+    "PEG": null,
+    "EV_EBITDA": 38.661,
+    "BuybackYield": null,
+    "PriceToFCF": 36.744758912702
   },
   "technical_indicators": {
-    "RSI_14": 65.11430374558151,
-    "Momentum_10": -0.123090197871226,
-    "MACD": 3.4592609081643815,
-    "BB_Percent": 0.673229386568545,
+    "RSI_14": 41.756988354649295,
+    "Momentum_10": -8.52101816143425,
+    "MACD": 2.585436934041283,
+    "BB_Percent": -0.1284591669224771,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.90883835594234,
+    "ValueScore": 0.8849002203099511,
     "QualityScore": 0.3676489217312691,
-    "SignalScore": 0.3892759631907204
+    "SignalScore": 0.6409390619185416
   },
-  "volatility": 0.0416627189188177,
+  "volatility": 0.0433644798131492,
   "beta": 1.124,
-  "return_6m": 0.1671461925730826,
+  "return_6m": -0.0063876217587257,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 79.14067
+    "target_mean_price": 83.00733
   },
+  "news_sentiment": {
+    "summary": "Suite à une série de publications récentes, l'action de Ciena (CIEN) a connu une forte baisse, chutant de plus de 12% à la suite d'une déception des résultats du deuxième trimestre. Malgré des revenus en ligne avec les attentes de Wall Street, les perspectives inférieures aux prévisions ont pesé sur le titre. Les investisseurs ont réagi négativement à ces nouvelles, entraînant une volatilité accrue sur le marché. Cependant, la société a annoncé des rachats d'actions importants et renforcé ses liens avec les fournisseurs de cloud, offrant une lueur d'optimisme pour l'avenir.",
+    "sentiment_score": -0.4,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.3,
+    "negative_ratio": 0.55,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Ciena Stock Is Falling After Earnings Miss. What We Know. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yQjdEbE5fTVhkdG5PQ1NvQ2p3N2Rfa0xWaDdqWTdtTnJZcmNybDF2UlhMUHI3Um42ZmFIOVNQVktZMHBoMU1FR3BpcmoxLTZ6ZnIwYXdFcExqQWJNZXZoNkFub3NIUGhBb2h6LWFXSjI3S19UTl9J?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ciena Stock: Ciena Earnings Miss Estimates, Revenue Edges By Wall Street Target - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFhrTFBhMi1yQXhHQUlNNExPS2NFWTJIWks3aEtDa1Exejl1Q1BUa3E5V2VtdHFaa25FaEFhYjdadU5MRUhvekZNVDNKMTRlNnQ2ZGZrV0dkcVRVRmJEUWFmUGozXzljcUtmQ2NSdDlBVVR1ZkVsM3JkWWJnUThXYWNR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ciena (CIEN) Shares Drop Nearly 12% Amid Market Sell-Off | CIEN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzNYZDFZSUFnLXZiYWYzMjVfVC1iM2prU3BjLXk4SW9GTFA2aGE4UTVCc2dlWHNyczNIWkhCOUpHVklmamU4WThrTGdDdDFhSkFfS2hmLXd5LWJUMF9CVk5nVVV0bTlzTHd3blItTFlSdzExVTB1Q21MUlBlSG5DVTEtMHJsV1hOVzVXX1VubkZQVkZjWTBfTi1hbnFXNUQ5bjV5akFfYnc3Yzh2?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Ciena Stock Is Plummeting Today - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PRnFkdkc4TU80Y1huWVRwMlRqeFIteGxKWURhVlpxS0tDSjRJYl9pcFc5ZjVQRzJjZE1LS1BsLUtqQjEwTU1jUVBGTmwteW82cHFEbmZScUdROVdqMGVJTXhkdXhWZjBabjJxRWZSMndTSDZJemc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Networking stocks mixed after Ciena's mixed Q1 results (CIEN:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGllcFp3WHk3dmJFc2hZSXp5WVdIdjFDTWp1dkFOTHFId0FQT3N5T2tQV0picm9OWlF4RldFUDdDSk5fUmNack5fNEU0QU9HUjBZc0ViaEpvUmNNaVk0SnUzWjVmbUxGQ0VYSC1wTEJ0R2x2MHZFUk9YM0VXOUFsVDVTVWp4NFRqNWd0THBIT0lRczNONFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CIENA Earnings Preview: Recent $CIEN Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY2x0cXpfN01nVHQ4UTVfa191dk1TcGJrbTNMTDNMVEVad01rQUh3cXd6UHZzbjRnSTlTXzlZMFdwWHg0SXg5bnRic29LSU9UUzlHYlZTWjZ4eUNYMUNITklWZm0zQ29UNDIxODkyTXJTMEZBc2ZlbGxqQWNLRDR0QXExQ0l0bWp5dnoycGRhaHRib0VMNTJKdERGNHBGYVRKRUZGMUNXSmdCVnRNMFdlYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Brown-Forman, Five Below, Ciena, PVH, Planet Labs and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmJRZ2xxR3FHelhBdWhUaGRuMkhkS3Y1RF82SHhXZEVPTm9GaVZBTHNncHY4OTdjMlhrdGFIbFRtRkhraTh3MFpOOXBLOVJkQkxwY2tmVHY5MWFsazdxN0cxdEtCYTNUQnhLUmlEVkhTaHZNOWRiZGVadFU2blJyaHdxQkVrSWhxRkJVWGpVaUV1V1pwWGtXVDVfV1o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ciena (CIEN) Q2 Earnings Miss Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BOW5CZ1hMR1JicXNqVlJfLU4zdTQzN3YycTVaWXNkOVZQZGJ3RjBNeTE3dVJlZ3F2d2xRSHpoNVFPX24tZGNQcVVxNjJ2TnZUUnJIQ1JyT2tQbUZDNEQ4SmU1U3k1OVRqdTYzSVZwRnFBaW1LM2FGOEpzZE4tQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ciena Corporation (CIEN) Shares Plunge Over 12% on NYSE; One-Year Gain Offers Contrast - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXB2a0lpTmNZYjh1eXRLbzJhWHB3Mzk2c0lqRmkxdEM0NWJ2NVFiZXF0S2EtODA5NnBHMU9ZWnBBUmgwdVppc0FGM3FfT1NaeXRsYm9YS2Myd1RmVVZ4SWxWMWZLbHlvNGlYTGEzUFYycGd6TE55V2dCcTNvT0xPVGlRbDA1QlNTNTByRTlFZ2MwMjJxR2QyLW0telFqY3NtM2hnTDVlWWpXaWh3ODhVZnVOYzcyejNTemVsWGJ6WVZodVZhZGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ciena (CIEN) Stock Drops Amid Lower Earnings and Guidance - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGgtaVdqbDlGdmhfMlYtWnM4bUc5ZUx5ZVB0b2ZwTmo5UkZxU1U2TUlGcTl0NUJhTTJ5UEFiNlpUbDRwYW1wYWw5YWM1M2NtcjNsWXZNTlhIWGNMYXM4aEFhanNXMXdlQ1M1SjhsQmtuTVNRVzBiUDEwNlU0X0ZadUgzWDZQSUs4UHJSdXhaSlNIdC1oSnVvN21n?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Compared to Estimates, Ciena (CIEN) Q2 Earnings: A Look at Key Metrics - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXU4RDZfeFZxN0RSSjZGUEdCODREVDFyRFVkNEZYMVNpME5INmluLWtvVnE3R3poaHdUeWk2NVdQYURZMHNjaWhYejUtSzhNcnBRbmdiNjVacWdJNlU2dkdDZ2tZMTd1VjR3X3NCWWFqQjRYUmtUNnAwQ0ptVWJGaU1uWVExbGZpN0NWSnY3U1B6UHBi?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ciena (CIEN) Shares Dip Over 7% Following Market Activity | CIEN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUF6UjlmaktqREdObXJxVXp3VjJINjg1N3g2aTFHQU5YLVY3bm9oTG5hWEN2THJsU0t0YXlyNW5kNlB3eU5nSC13eDNNeFFqVS1PR05maGctOWNmVEFmVjNyUFNwVTJjRXRua284eXVpWW1MejVxT2FMdDlWQmlRUnRPYXB4SXJuYjRwZ0ltLVVkUnFkc2tHWHNzR3FqY2tLeGc3UXA0ZFBRSmdkanVF?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ciena (CIEN) Shares Slide Over 12% in Market Trading | CIEN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMXBhLVRra3RERXdKWkxzQmZGa1NJUWpKQThzM20taEtwb18yUE5nWkhmdHI2bmpSX1NKQlFFZmNxQ0xSTnE2UTU3enNtRmU0TV9rZ28tU3hsZFdkODlIWWZ4Y1Y0ajRpV00wMUFpUm05bGFTWjBZV29XMDdrTl8zZEgtQmVGUlZkQWZacHl5eVJONXZwOUVDTG9uSW5WNWdBQWRqRkw5VQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ciena (CIEN) Projects Q3 Performance to Align with Previous Quarter | CIEN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRi1WN2VRb0E1Um1pMGNWcUh0S1QzMFhEWkZKMUQxQ3pCUWFzMENJX0ZYOGtIMzltTlpQeWxiajZWWTFfZ1o5aDhXQTNDeWNwVWJEdHAtU21fYldDMnBDTFAwc3hUTVpOelJmTUNaLWV0OWxwMjl6Rmc4RjZDN0ZTTnR0ZXh4N09EeTNmWVhYMUp3MXRDYUJvSEJfaGpEeWsxaG1NRE1sSmR5UDB6OGxzMFpwMkxBS3ZtbWtfdQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ciena Reports Fiscal Second Quarter 2025 Financial Results | CIEN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTNWWS1zZ1VqVWtCM0FCLW5LUGxRcjJ2a25kMldHS2Zpbkx5YmVmUmd6VVlHc0FOR2dCTW9kWUpNU2c3blByRVk4cWtuUFBMUkh1T3cwcC0tYmUwQ1FXR3dBTjU1bXVITFBBUVNOT2M5enJtTndUVnFUb01jd1pla1ZRWnVUX2c0dXNsbnUtVkhxS3JZTm5tNDRBandsLTE3UmpCbFhWZE9ObTg5MW5ZdDdrSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CIEN: Revenue Concentration and Positive Outlook for Fiscal Year 2026 | CIEN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0ZjdXdaME51RjJUWDJWVVNQYlhMazdYeGE4Uk1Wcnc5WWVSMDF1WXRaeFEtSXlWcjI3d1VtQW9FSWc5MTRnU3RMSVpWSUotWEJ5UHhOM0VqZ1BzUjVRc2NTWlJIaUpsNHIxbkpYRlNNWmQ4MTlIVURWRHVrRUJPMTRCT2RqZElZY2VJbnBTNWZtbThac0E3cFEtZkFibnd5MXFFTmFqcUF2Z1kwVUxmMk5wZy1ma0kwVlV0R2FiVHdtQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ciena (CIEN) Plans $330 Million in Share Buybacks for Fiscal 2025 | CIEN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTHY0RVFMbVRjOWFSZ01sNHZJcGNkeG5wd1BHR21hOVJuTENlb0o1a21IdFlSUjhUSEpMREN0cHhHUXQ2UXBMN3NZWTRzWk1QMUtkWXBDdWhGVTREZ01VZjFnWFM5ekVVYzRnQ2NYVEx6OENjR0liSU5uWXVPYjdWYnAtY2RWUXJybEtDMTJWOHJmVFhLd3hVSVFzbC10RDUwVjgzNzdacFQ3NEdNUFhidnQ1UU9NTVBVdE1OS0xCVnpsby13LVRXajJWMUp3UF9XTGNvZzFvZ1lXMEVObmUtSU1LMUtwSXJp?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ciena (CIEN) Strengthens Ties with Cloud Providers and Sees Robu - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXRXVklsSjE5TzFpRVY1azBvSHd3NU53U255MUlTTFRnQ0l4ZHJBUmZrVEdBczFsZzhPU2JxMnZKaGFtMG1fTHBkTW9NRjUxalgzWERmeU1MWC1VczRudXhRSjVXelBfVEtXcERNOHcwM3prWG1GSmNfRzlWY3AwWkw4cFJ2bW5nVm9lUC1xbmRVWUFQblgtQUIxS0ZONWxiMk9mMDZHdUF0UkM3SEpoQUxocVZnUkFhN0tVeHdrMWpfR1RE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ciena (CIEN) Shares Drop on Mixed Q1 Earnings Results - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXZTb3VjbVdWc1NVWU1mQUN5M1JjRTI3Rnk3ZG5adS1qYWwxYTlWSG5waW9aSnFIdFIyX0JySUNQMG1Yb09aT19VZVVXeUY1UGpYZ3lpendpdkVucTNob0J6QnprUlUyaGJLeGU4dVhjcEVHVmtUazI5aHRpOUNOaUZ0TGVGOVljVVJRdHRrS01EZFdm?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ciena (CIEN) Surpasses Revenue Expectations in Q2 Earnings | CIE - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRHBvM1NkOUd5azZTZ3hHb2lfVjZjd1ltaTk4aUF4bGs1eElBSm0yVnFieWZyX3gzZlNIY3JEd296eEIyTmhBM0U4MGQ2U1AxTVFxc0pZYXJxbENwX1MtcXlXMl9jWEVMTkpjWmpkb2RRTW96NDhvSTJYdG4xX2I1ak1Ca2JPbm1NN2s1a21rXzVVcHhobFEzTlBRN3UxbHJZbDBZMGpxOGR5ZGU3bVRFcQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 69.52
-      },
-      {
-        "date": "2024-12-03",
-        "price": 71.05
-      },
-      {
-        "date": "2024-12-04",
-        "price": 73.15
-      },
-      {
-        "date": "2024-12-05",
-        "price": 72.23
-      },
       {
         "date": "2024-12-06",
         "price": 73.58
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 81.51
+        "price": 81.75
+      },
+      {
+        "date": "2025-06-03",
+        "price": 83.26
+      },
+      {
+        "date": "2025-06-04",
+        "price": 83.89
+      },
+      {
+        "date": "2025-06-05",
+        "price": 73.05
       }
     ],
     "current_price_data": {
-      "price": 81.52,
-      "change": 1.47,
-      "percent_change": 1.84
+      "price": 73.05,
+      "change": -10.75,
+      "percent_change": -12.83
     }
-  },
-  "news_sentiment": {
-    "summary": "Ciena (CIEN) Q2 Outlook: Wall Street Estimates for Key Metrics - Nasdaq\nCiena CEO Gary Smith Nominated to Planet Labs Board | CIEN Stock News - GuruFocus\nCiena Fiscal Q1 Earnings Top Estimates. Shares Reverse Down Amid Guidance. - Investor's Business Daily\n\nLa synth\u00e8se est en cours...",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

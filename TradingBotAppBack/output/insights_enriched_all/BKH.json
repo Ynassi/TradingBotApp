@@ -1,56 +1,164 @@
 {
   "ticker": "BKH",
-  "name": "Black Hills Corporation",
+  "name": NaN,
   "sector": "Utilities",
-  "market_cap": 4225847808.0,
+  "market_cap": 4148987904.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.943589,
-    "PB": 1.1625309,
-    "EV_Revenue": 3.91,
+    "PE": 14.671795,
+    "PB": 1.1413867,
+    "EV_Revenue": 3.876,
     "ROE": 0.080819994,
     "ProfitMargin": 0.12667,
     "GrossMargin": 0.38794,
-    "DividendYield": 4.62
+    "DividendYield": 4.71,
+    "DebtEquity": 115.991,
+    "CurrentRatio": 0.762,
+    "QuickRatio": 0.435,
+    "FreeCashFlow": -173475008,
+    "OperatingCashFlow": 713699968,
+    "FCF_Margin": -0.07861998660887437,
+    "ROA": 0.03235,
+    "PEG": null,
+    "EV_EBITDA": 10.906,
+    "BuybackYield": null,
+    "PriceToFCF": -23.92109932054305
   },
   "technical_indicators": {
-    "RSI_14": 48.07590630080464,
-    "Momentum_10": -0.3590406789939191,
-    "MACD": -0.2598052220514759,
-    "BB_Percent": 0.4622447791231493,
+    "RSI_14": 41.82891164824462,
+    "Momentum_10": -1.7344982474207558,
+    "MACD": -0.3293804266523992,
+    "BB_Percent": 0.193132487651567,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9332178552978664,
+    "ValueScore": 0.931875907442216,
     "QualityScore": 0.4327699434668699,
-    "SignalScore": 0.493917543180259
+    "SignalScore": 0.615436530307677
   },
-  "volatility": 0.0132398722806707,
+  "volatility": 0.0133416446208194,
   "beta": 0.698,
-  "return_6m": -0.0505466871632922,
+  "return_6m": -0.0544166753818626,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 6,
     "target_mean_price": 65.5
   },
+  "news_sentiment": {
+    "summary": "Black Hills Corporation (BKH) attire l'attention des investisseurs avec des recommandations d'achat et des éloges pour ses dividendes élevés et stables, mais des inquiétudes persistent quant à son endettement significatif. Malgré des résultats positifs et une croissance soulignée lors de l'appel aux résultats du T1, des questions persistent quant à la viabilité à long terme de l'entreprise et aux défis à relever. La récente victoire de Black Hills dans un litige tarifaire majeur apporte un soulagement financier, mais l'influence des propriétaires institutionnels massifs sur l'actionnariat soulève des questions quant à l'indépendance et à la gouvernance de l'entreprise.",
+    "sentiment_score": 0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is Black Hills Corporation (BKH) the Best Dividend Stock to Buy for Long-Term Passive Income? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcC1TSG1XRHQyTFR0VHZqZTVtN1dJNy0yVEdUdTlHaGlScV9nOEc5T091cmFPQUtWc3hwMVVEcHBHME9GQmY3Q0ZDZjNhUldNSF9faWt6a0hxa2szVTctdHlGelFHV2dkbEJneWhkeU1ScDFuSjdkMmJZd3lod210dFlRV2E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO Capital Initiates Coverage of Black Hills (BKH) with Outperform Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYThTRUV2S3R6dThoNkYzampZVHcxQVE1ellmY19sOUF1OVkzaW03WVJlUXNOS09pSzhKd0hYazBBQklZVEpESFljZkFOUVJETWR0cDNrTXhhNFV0SEFvY29iRE5zOHN1ck8tcjJsUzIzR0owUUpFcHJoMkd4cmdvSEstNUVWN0o2cFJFQldrbFpYM3cyNDl1eV9YUXdiS3RVUDlvai1TSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BKH Stock Gains Favor with New Outperform Rating from BMO Capita - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeEp2dXRTTWJFOFg4ZnN1M3MxLTdBWGdXNUg4akh2MmNBRWtac1JOSlN5N1Q4UnhheDRKSk9XWWNGU1hqYTI0ZDkyTVY2aElTVmdiaUswSm1hTlFkaXpWYzZ3S3BEM1lwYVJfc2Yxb3o3OXZMZW5kTllPRDl0ZjhnaDdNVG1KT2pLc0k2NDg2dmNrRzc1d2c2YlE2TEFIaXdTZ2JJLXRISTlBdTMwVlE5Qk5iOGZDQWc2TlJv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Getting In Cheap On Black Hills Corporation (NYSE:BKH) Is Unlikely - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaTEtSVltR2dzakc5b1lpMEZZOG5NdDZRSGJBRngxMWxoZE9uMFZ3VDBzX2ozanFIeEI3SG1LeC1hbWdpdXBMVU81OVNNSmJ0aXJ4cG52Z3dMR2dtYXhQRXpfX0xJNnYxRXFDQXBCbE1Fb05hdzVqVGticEY0MkdXVzY1SGFBNnpGZlExQXltUnFQNnRjcDI5YnY2Vk84a2JxVHU5dFNobHpuQ3NtV1RDaXpzQ09fN1hMVXd3dktEVE0wcnVVZkpj0gHMAUFVX3lxTE1heFhpMHh1VndwTGZETjVvd2doZEtDSVQ1cklvVkdENlFfQjJLQXR3b1VsX3ZvdUtyd0RfNmNmZERmM2Uta1UydEptcUp3S3Z3aEpHdm44cTZRTGxEb1JKR2p3TGxjbmxrR3ZiVkxNcEwybWxmSHZTaC1tZ1EtdlRtMmxjNHVnOWN5NThOVF9CMmJNaU9hb3FzajlEdDRkNGtJRjZxOTc2UFp5dkh1eVR2NF9iWFpoXy1XcldNUi1sTXF0VWpRdTlMZ0tWRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major 8-State Utility Provider Black Hills Sets Q1 2025 Earnings Date - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObWpLVHU5YlJCSVhWdHdwelJTVWZwNHltckM4R2hCbExmUkNaR2FnVFR0TnMwbVBTWmtMdDRUT1FiOW1GTFo5MmZWcF82TmNra1VGeHhUNlJlZnc1Qk5VOEozV1BISUR5T1VyMzI5UHZKVUN6eHlzQzhZQWlkYXVmNkx6ZS04Ti1QTzkxSzdyREhWMXE4N2tCM09CcXBIVFZoSGtNWldCUXJjOUN5OUdVTVFaRTJDNTJvcGVrXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How the (BKH) price action is used to our Advantage - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUdpWndCcUVOSUpGRVIwQ3FHbGp6OTY5eE1xQXVDSDVyTVNMR09VUnFKTjAzSll4bWtlamVhNXZLQTZLUFB3ZlZDdXB4Mzktc1Q2Z1V1WWduZzJUeDhmdGFHanc2SEtiWkRHb0UwMHN3Z2pGNHMzc0hYSkY2cTYyS19RTlNidkptbXpnRkc0czFWYXp4Z3JiOE5Ic0U0SjZ0NjlZdzQ5ZXFIajNaMXJlc2c4X0hLNExEMGViU2tfeXk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Black Hills Corporation (BKH): One of the Best High-Yield Dividend Stocks for 2025 and Beyond - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOU9fRUE5Q1lPNF9GR1BFLTZvRnd0dnJVT3RjWlNkTnJkNFFzLV9qQmZ6dHJZMndSWHR5WmVfcTVhRXlGUlhqQUxFWk4tNnVYVFViZEhfYXFGU3pWWnpoTG5UMEJTdThRQWNRdllJT2ItdEFsN2tTYmNtV3N3Umk1OUVROA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Black Hills: A Utility SWAN Powered By Data Center Demand (NYSE:BKH) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc3E1VVNnLTVLcWstQ2ZiUTBfSmIyd0NTRjZVUlF1S29heVNWUHN0TjNMUEd3allPWEx1N2wzbldKZ3VmZEhjWjVDMGEtbmlBbngzSk9ZdEtqbE52cGhqcVBSNWNMal9lRVdGbUN4NjlZVFNBMWZLVVYxUE80Z3oyU2FfaURKN0s0ZEpTSzFGNUs3c0UtMHdtaFc2VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Black Hills: Q1 Earnings Snapshot - MySA",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTnViTUNHQURiREtfakYxZ2tBTVNWNlV2M2x1ZFZOeGJ4MmgxOE83ZVhudW03SldXWHNVT3R3Y1ppT0RMcjBOZlQ1elJXTEdCOWlUX0MxMnN0TGYxZU5XRUY0N0Iwa3ItMjAwNFlITjQ2QmtqVThnZnYzX25LQk41blR6RXY1N1ZIY2wtejZVMFNrMnVpcmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Black Hills Corp’s Earnings Call Highlights Growth and Challenges - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDRUV05iZFFzeXYzdFRpeXBVZTN2WnluQ3ZoMUZuVTRzbC1VVGIwcDlXbGs0dENFVDhLQWMyZmhQaDBBLWlnVnNwSzJxRklzTTZFbTExdm96VjlHUmFhcVhFOWRkajdfczVqT3NRVE9QX1l1Nk9zN2xzVUQxS3U1aFA1ODNFdVZyZGxkMU9jSlY0U05ua0xEX2NHS2Iyb0hqNzFUZnpZUDNJX21aeDVPeTNmTkZnREE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Black Hills Corp. Announces Quarterly Dividend | BKH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFdjTXNHaWhYNmhUblhOVXlZQlVjUGcyYlJVa2ZCMDByMnBlUDlRREx2RXV4eUVtd0E3enRkcXc0NVVPZGhuYTkwNFNyRk96anR2YW5tY0xtRnFwck5kS2szbzkwcHhrVERfZldwTXhOcDZQdk1lNjRINHMxUDBsMklJRDlfQ3NiaGJFX1RkU3ltZnpPMGpKZTVoTlZPeU50?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "With 86% ownership of the shares, Black Hills Corporation (NYSE:BKH) is heavily dominated by institutional owners - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVVuMl9Rd2ZOc0ZpTHYzSFRhM3NpOUpYeDdWcm9SZ3dVN0E1QU5SamJoemJoWFhQSUdROFNFLXNOOF9fZ050bUNOME5RU3ZGRXNEYjB3WmRxckVFRWRVYWJMX25RTGlfLS1jNGd4ZzJ2QkFsek9EYThzeXNOQnRoVzFBbkk3UW4yY2ZUN1VRQ19vdzRKM180Q1hjRFMzWGNVblBuUjAzTUV2VlIzQkpFWXdEaExxUDR5Q293SnE5dWgtRHpSSlNF0gHMAUFVX3lxTE5PMFJ5Y19FMjc3YkZRdFF2NXVkQTV6d2Y4aXBSSlpwdmZsVjFpX2E2dldMUVZuMUo4V294a0ZaNXdRX2VGSzlLSEQtWm8yWWd0WHJlMDBwaF9LeDRiOTkwZXNCdFFCSHFoU3NFQWc4S1I0Tk5BZERNRHhBS3poeV9pOHl1RjI0STgwaHFzZGpad1VxcS1IZ1JfUkd0SnZEbUlWZzIxekJZb0ZQbzZCdUpTQ193Y0ZoRGE2UWNCRDEtb0t4QWtfLW5QTDlkdQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Black Hills Maintains $0.676 Dividend Payout: Key Dates for Q1 2025 Earnings and Distribution - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaG11TkJsUG5QaS1OX0tCcUVxa0RjWFVHUW9FTGxyRVl3YWUyelV5UGhmV20tbmZ4WDRjLXFvT2J6TllnQ1R6Nkp1VGt6Zi15V180eWpRbnpUYWtQSjNaZTZnUy1KQ3pIZW9WaHVGZnJmWHJFMU13a0c2UXBpYlBoWnI0NVB0d0tMT3NKa0EtMWJjZ0xZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Black Hills: Ka-Ching, Ka-Ching, Another Dividend King (NYSE:BKH) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNERrb2FIdk9SaHZlMUVwd1lfbUNaWXFlVFgxazZKSTVPSXZ6U19fMzN4V2lqYlgySVUzT2ZFRWJLQ0NUbG1uZjZMMzdqMFh6NGVoaWFKNUZIODRiOXBILWFsZGJQVlhkb1QtTjlRNHF4Z0xQdTNIejBLb1RNd1pqU21hUTlCTWc3MjVrelpNR3AydjdqZEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Black Hills Is a Top 10 Utility Dividend Stock (BKH) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTVRDRUlTV0I1YkNSblVXQlR6OEVCb2tCN1h6MXVHV0Z5a3NHblppR3BRZ2V5T3R3QUdJVThXZnIxWERFRWpSa2ltcldOMDJael9mOC1tX3lEbWN5T1g5Tk1XamYwNHdtd2NCcnFsR3JMZEhFb1ZjNksxVDk2MVZvODI3em1tZVB5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Black Hills Wins Major Rate Case: $370M Investment Recovery Plus $17M Annual Revenue Increase - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajJLOEh6M2Y2Wnpmb1ZqaWRaUkwwNmtCNWJrVXU5eFA2czc1UHZvaUJFOTRTdEtpWnJ1b1V2OXVaX01NOUNydVhBcUpCT0RSUmZpZExLREF4eFRNNFFKcnJVbkFGRVJwdDJzdngwTGxWZEREZk5rblJOVGh6bVFROTRsWmFORkFKa1ZNd2ppazhoX2p3R3REb2V1OWR2RFN6aDY2ZjZ6Z21sVGl1bnJaVnFaUHI0MUF0UXRxUm5qRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "We Think That There Are Some Issues For Black Hills (NYSE:BKH) Beyond Its Promising Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkhvRzhaWFJVazhaZ2NocjBzVl80VExuN005TW5WSV9XdGZFUkk0b2FPZ29rZ0pEOTRXSEtGUHRSWkxZcnJEaWg4UklMaGJVcHFkcWJXWEN4YzYxWm5tb3cxS2MzbDJtTGdKV056ZmRVaXRaeUtCckVQeXFUV3VhTHUxdFBrTWpCZFVUenp4eWJxV21oRjFTRC1pcGJaeU5EV3VVbU83WFdJMkFYLXVabGkyN3NkR0JXTmNZaVhDZ0JZN1luRnfSAcsBQVVfeXFMT2RRZlhtemItWmFsUEpnNlF2YTg5aTFJOTdTOFpTY3UtU0xiT3BKZFFQUTdmNW83LW1SUFRmZ1lfb1lXNjBPZk5hY3MtUkFFcHdPazJVOE9iMXVGdVlEV1dyVmszTjFVaXNRMWFYaXB3LVZlb0VXQUxiWTB3aWYxLVgzMUFlVHlvdk5VR21jQkthQmJ1c2ZYZ3cybGZ6UUpzZHh5M1R1clJXMzZDQ1NxdGg0ekVoazRFN1ByM0ZEV0Q4MTB3QUgwQmVoRlU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BKH Named Top 25 SAFE Dividend Stock Increasing Payments For Decades - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS2xlb3liaVRzTWg0MU1aSDBOalVnMFVVdFp6QWlSVE5tcDE2RkgzeHFWcFQ3bmRma1ktNkVEM1NfMUdnLWFMRlcycVZZTlB2Qy1DWWp1ZmUtQlVRZlRURXZDQ2xhanV5aXFnNG1kX0N2LUJNcFZuTzdxbzVxbEtsckRzejZSWmRVQnlSQ0hSQkNOdWlPTnBhb1BpU3U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Black Hills Corporation (BKH) Among the Dividend Kings You Should Consider? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVZnbE1nNFFsM1lrRThhdlAwNXcxSVlnRkgxVDA0SG5vSGpQRGF0NFd5Wm16YUxLaDdOREpJODdHTlBqUEpsTDU1cjdvUEZ5SkpQcjQ2Q0xzcDJ6dWhHVzR4ejBiQjVVWkpjck9NajZ4WERsNmcxLXNJSUNFZGFzamc0Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Black Hills (NYSE:BKH) Has A Meaningful Debt Burden - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSEM3cWE2RnNLS2I5RDB5d2pfQld1ZXdGVW10aFFhT3MtaDVKeXhYWGQ3VUZZN2NzalRqajFjR20xSlN5ZUVqUFVTcmtzQ2QtZlBVck16TUkxeTRCQU9STTFHYXp6SjJZb3Yzc1UwZ2drcWJJQ19sN19OeENkVGFLNExqd2NMRUV0LXFjR0FzLTZuNXRhOUhMNFhNTHZSVEZuNlJrQmlESzMxdFhhN29LTEpyQlRYbGJ2eUZnNWwxbDBSUkxf0gHKAUFVX3lxTE8waDRWM201N1g0YjlaRy1kSE5tUGU5UEpEQ0hiZVZNOXNRMHV5SlNNYnJoeXh5emdCVXE0cTVwS1RwcGtTUFJuSjd5UllUYVFNM1B3NWltWS1GNGhxcUF3OElldXNFX3UtUnFnajQ2LTFqMFpQWnp2TjNTWDJFVGEzYkFleUpXR0taUEhJVjVtV0U3R1Z1d0ZRc2Nwd1VKa0RUOENkUTlyS1kxWG5CM0FtTGN5YkZFb2hFa2Yzek1fa0ExU1gycmFsSkE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 62.81
-      },
-      {
-        "date": "2024-12-03",
-        "price": 63.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 63.01
-      },
-      {
-        "date": "2024-12-05",
-        "price": 62.77
-      },
       {
         "date": "2024-12-06",
         "price": 61.92
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 58.38
+      },
+      {
+        "date": "2025-06-03",
+        "price": 58.54
+      },
+      {
+        "date": "2025-06-04",
+        "price": 57.45
+      },
+      {
+        "date": "2025-06-05",
+        "price": 57.23
       }
     ],
     "current_price_data": {
-      "price": 58.38,
-      "change": -0.1,
-      "percent_change": -0.17
+      "price": 57.23,
+      "change": -0.22,
+      "percent_change": -0.38
     }
-  },
-  "news_sentiment": {
-    "summary": "Les tendances cl\u00e9s des 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Black Hills Corporation (BKH) sont les suivantes :\n\n1. BKH est consid\u00e9r\u00e9 par Yahoo Finance et The Globe and Mail comme l'un des meilleurs stocks \u00e0 dividende \u00e9lev\u00e9 pour l'avenir.\n2. GuruFocus a attribu\u00e9 \u00e0 BKH une nouvelle note d'\u00e9valuation \"Outperform\", favorisant la croissance de son prix.\n3. BMO Capital a commenc\u00e9 \u00e0 couvrir BKH avec une note de recommandation \"Outperform\", s'associant \u00e0 d'autres investisseurs positifs sur le stock.",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,39 @@
   "ticker": "BABA",
   "name": "Alibaba Group Holding Limited",
   "sector": "Consumer Cyclical",
-  "market_cap": 279990304768.0,
+  "market_cap": 275982024704.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.476447,
-    "PB": 0.2631338,
-    "EV_Revenue": 2.012,
+    "PE": 15.452957,
+    "PB": 0.26308805,
+    "EV_Revenue": 2.029,
     "ROE": 0.114379995,
     "ProfitMargin": 0.13059,
     "GrossMargin": 0.39952,
     "DividendYield": 0.92
   },
   "technical_indicators": {
-    "RSI_14": 39.83527127331228,
-    "Momentum_10": -6.860522666056282,
-    "MACD": -1.6249891520793796,
-    "BB_Percent": 0.1030928839977839,
+    "RSI_14": 39.82976115454951,
+    "Momentum_10": -6.498046456783444,
+    "MACD": -1.8791801559249135,
+    "BB_Percent": 0.1478299624730387,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9347384576903602,
+    "ValueScore": 0.9308342116208776,
     "QualityScore": 0.5021329409674483,
-    "SignalScore": 0.5833740967359131
+    "SignalScore": 0.6367490787138703
   },
-  "volatility": 0.0333538644402898,
+  "volatility": 0.0334667587345176,
   "beta": 0.209,
-  "return_6m": 0.3378708777967125,
+  "return_6m": 0.3537030590790737,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 39,
-    "target_mean_price": 162.7532
+    "target_mean_price": 163.01717
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 85.95
-      },
-      {
-        "date": "2024-12-03",
-        "price": 85.68
-      },
-      {
-        "date": "2024-12-04",
-        "price": 84.93
-      },
-      {
-        "date": "2024-12-05",
-        "price": 84.15
-      },
       {
         "date": "2024-12-06",
         "price": 85.93
@@ -529,25 +513,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 114.98
+        "price": 114.75
+      },
+      {
+        "date": "2025-06-03",
+        "price": 114.97
+      },
+      {
+        "date": "2025-06-04",
+        "price": 119.45
+      },
+      {
+        "date": "2025-06-05",
+        "price": 119.96
       }
     ],
     "current_price_data": {
-      "price": 114.98,
-      "change": 1.17,
-      "percent_change": 1.03
+      "price": 119.96,
+      "change": 0.52,
+      "percent_change": 0.44
     }
-  },
-  "news_sentiment": {
-    "summary": "Alibaba Group Holding Limited (NYSE:BABA) est un des titres les plus m\u00e9diatis\u00e9s r\u00e9cemment avec plusieurs nouvelles qui ont eu des effets sur le sentiment de march\u00e9.\n\nIl est important de noter que le sentiment du march\u00e9 envers Alibaba a \u00e9t\u00e9 positif avec plusieurs analystes affirmant qu'il est une valeur achev\u00e9e et offrant des retours importants. Les analystes ont \u00e9galement soulign\u00e9 que les ventes de BABA ont \u00e9t\u00e9 inf\u00e9rieures aux attentes, mais que le dividend de l'entreprise avait \u00e9t\u00e9 augment\u00e9.\n\nEn outre, les nouvelles ont \u00e9galement signal\u00e9 qu'Alibaba est en mesure",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

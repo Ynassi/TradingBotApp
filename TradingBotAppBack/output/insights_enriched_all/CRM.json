@@ -2,55 +2,163 @@
   "ticker": "CRM",
   "name": "Salesforce",
   "sector": "Information Technology",
-  "market_cap": 250617790464.0,
+  "market_cap": 255390613504.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 40.961327,
-    "PB": 4.1397295,
-    "EV_Revenue": 6.434,
+    "PE": 41.741405,
+    "PB": 4.2185674,
+    "EV_Revenue": 6.38,
     "ROE": 0.10312,
     "ProfitMargin": 0.16079001,
     "GrossMargin": 0.77336997,
-    "DividendYield": 0.63
+    "DividendYield": 0.63,
+    "DebtEquity": 19.813,
+    "CurrentRatio": 1.069,
+    "QuickRatio": 0.899,
+    "FreeCashFlow": 14430499840,
+    "OperatingCashFlow": 13320999936,
+    "FCF_Margin": 0.37393432729428694,
+    "ROA": 0.050869998,
+    "PEG": null,
+    "EV_EBITDA": 21.971,
+    "BuybackYield": null,
+    "PriceToFCF": 17.69764491705923
   },
   "technical_indicators": {
-    "RSI_14": 37.92780530171595,
-    "Momentum_10": -9.874635274841117,
-    "MACD": -0.6306032983631553,
-    "BB_Percent": 0.0097856423710448,
+    "RSI_14": 43.52234857339034,
+    "Momentum_10": -5.591966745915647,
+    "MACD": -2.264848205648377,
+    "BB_Percent": 0.2177276298904744,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8762721025149227,
+    "ValueScore": 0.8732937298430226,
     "QualityScore": 0.3588756467112625,
-    "SignalScore": 0.7470486303794173
+    "SignalScore": 0.6671162513350044
   },
-  "volatility": 0.023650529206571,
+  "volatility": 0.0214207241065646,
   "beta": 1.377,
-  "return_6m": -0.2058730105023695,
+  "return_6m": -0.258758008706102,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 50,
-    "target_mean_price": 355.8596
+    "analyst_count": 51,
+    "target_mean_price": 353.9996
   },
+  "news_sentiment": {
+    "summary": "Malgré des résultats trimestriels solides et des prévisions optimistes de croissance, l'action de Salesforce (CRM) a été impactée par une révision à la baisse de la croissance, entraînant une certaine volatilité. Certains analystes mettent en garde contre un ralentissement de la croissance, tandis que d'autres soulignent le fort potentiel de croissance à long terme de l'entreprise. Malgré des fluctuations récentes, des signaux positifs persistent pour les investisseurs, bien que la question de la valorisation reste un point d'interrogation.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "What's Happening With CRM Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmdFNnJDejNnbHF2V1lzSWxJZ2Y2NlZlNVo3S3ZhR2ZaVEk0Qk0tRFgxTmxvRFdPT1ZiZkhwUjY4YWRHdUM4U3pIM1AwYUlJMW1KNHpENlhZYmtoMlpyX2MyREhPa1pmMkYycV91c1pNUm9CXzdwaWxfWnUwUm5KTFNaeXpWVW9NMXZaZkxyZzl2YUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Salesforce Reverses Down Amid Q1 Earnings Beat, Updated Guidance - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRWdrcjZ1dEY4XzBrZGtJQTlVQmNkREVHQXBvVTdNVlRfMGY5NVMxeEprYndPbG80LUNQWVlwdmpxdlh3eF9BUDVPUzNuZGJ5ejktbVVzUWc2WFgxN0xNc25Sc0xUUy1laGw2VVVtTkF5LVBGWktzNVdyamJhdi16SDk5eXZJMlp6VG02TVhhOGt1elFv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Salesforce: Earnings Expectations, Stock Reaction, and Other Things to Know Ahead of Today’s Report - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVjFwSDJZVGJEdElwclVVVzQ4Y2J2a0txbG9TYUdobFRBU1RUNzBBV190Ymg1d2lJQ25KVUZzYmkyM1RpLVVyOThrRFFkUUpHLXdVZGtPRVdOZ2pid0VGamN4S0dUV3pPYWxvbEZjZW10Y3Y0aUV1Q3VDYnNGVHc5dV9KOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Salesforce (CRM) Faces Downgrade Due to Slower Growth | CRM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX2NZeVh3OWRrTnFSb2dVR0hIRHNmTVlncFRJQ3VONDhDRkNxOC1EVW5YMkNFeVJHa0FvMC1WLXZpcGt6TkxUblVHbTJpUV9oN18xM3pJRERfZ0FMdG1GTU1JYWNZY016OHAxbEdFcDFKOGpQM2pQd1BjZjRuTG9VU2ZjVlJDeGJYaDV1aWNUVHB2RjVnTVFGVTBVdXVLMkp4ZDFVMDBYR0pxWmt2YVhuOUV1YTYzWlFNZkNoUWhxVTU1MlVsRU5KNXdWX05xTFlYbmd3eEFCa0I?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "What Analysts Think of Salesforce Stock Ahead of Earnings - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0MyTDMyQmdaWG1zdzd5N2F4a0xYa09KM2JDbkRUSkhyeDl0ZXJzWVNtbEZMeUVaMTZ6aGlmZjZFTmNfLTRJUFZJc0Q5dW5qeUxHMWlqX3lxNGxKRGZjMjg1blhUX1BxMmdLdTdpcEN1dnZOQXR2UElndGd4NmdzbUd6UUU0TWFaUEUxR2VPenV3SkJkU2pRV0tfamV1cl9TZDRQYlQ5OVVsZ2cyMDIzQnp3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Salesforce.com (CRM) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTThpWURkaWwwQ0J3dlRPWWhRM0lXaFF4bU1yY0JHWXZKd1huRDhNbk1NOHNvckkzN3YxNEV6Q2dMbTluNVVkZ3IzOF9famF2T3laVXg5bmpEY0M4VjBFODlkMDdDOERLX0ZvRVRpYnRsWGdVXzRhdDlnSVcxYjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘Think Twice,’ Salesforce (NYSE:CRM) Downgraded as Analyst Warns of Slower Growth - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTC16Y1lVWDNtUlg5S3cwTU90Ym15NFAxeDlUbHdNNm5tYzBSNHlQRUVJVUFpMmtwcW40cXhhWVdMcVVTNmkxbE9ZOWJ6YkFIa2QwYnhmQi1uOVl2dTUtUEpzZXRuY0w1U3M3OThPUWVVWXRlV1VTLUl0RjB0dmo0Y2dFQmk3VTZIR2NoajVQdU9VUmVKYjdrUUxHM2N3NTVVU1V5SQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Salesforce turns in strong results and optimistic forecast - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTZIdjFXVXp2dUd4T0l1MlBoTE5sZmxFN21CNVYxeDRhRTJSNmdtUjF5b05QT2g3UDJLU2NCZTI4SUM1RVg5eDJ0cDJXTHpHNzlTa1d5eHN5NjBfNTJCUjhwUlRjYmx1eUZ3ek1FU2NXSkpTVDR3QmlxVDd5S3hJZtIBhgFBVV95cUxNQTVRa3AweDQxeGpWaEtSUVZIV3dYZ3FlcnctVGVxWFlwU0pfRVBGNEk2QXJTR240UUNURGs3SUQwNF9sVXlIc2hMM19GWWhGSW9GNHFuYi1VRThGellrLWptRWNpTndZbTZDbDN0ZXM5VlFDeFQtS3A3YnZ2WWdTbEk0NEhOQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Salesforce.com (CRM) Stock Declines While Market Improves: Some Information for Investors - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakUtZHJRYVpHd3NscDdJVVd0c3RmeGtKdnZNYXJjMW5tcndoTXRuSkx2NWJYQXo3aXNBcW4ydGY1Z05ESXFRNG9tVnF3LUhfal9wa3JnV1Bsa0J1NDlaekpjWWliSXN4RXlMbFRwLV9GTld6QXhuN2lkQk9iQXNsTi1QcE50VnEzeE1TN1d6VVFlYjg5OFJkaUlZam5ta1NIYS1GWnliVmpKWXk1Zzd5eDZZWQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Salesforce Reports Record First Quarter Fiscal 2026 Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWlppVk1wRTRVbXVyak92WnlTWmFQeEIzSzdLQ0dmb2d6VFI1R1BGZl81cVQwTmhlcE94ZTNJR050OWdxWlczOFZEeXNhSTA5NlljTlJCUXlheVFUY205R3hHWHJTRGU1TmZxTUhic09qU2g4dkVCU1o4QUQ5ZGJGVDB2NFFZblBMY3VLaTBidnFBUlBONk1UbmZRTDI1aVhMeU9nbDByZEFPOWNtTkhvRmZhSDRzbzA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Salesforce (CRM) Stock Rises Over 1% on NYSE, Long-Term Growth Story Intact Despite Recent Volatility - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmlMWS1YeWhoLVlySlp4WTg4SWJlTHJpMGdCTGtaTUpIdWgya3k5OERWa2RiSm56YTlPZGx5SWVyUFpWTXlkOE16ck9pcEQxdkNnWmo2Z1lVVFNRYTFKN2xlVVk5MzZfVEVOellkWmlfbmpiN3ptckp5NnY0bjR3WHFpNERQWnZ5TFYxNU5lWWJuMlpCcjVnSkdjRFp4U09FaS11WmxEMlB0WERHb2VxeGI3SUNqWnJpQVUxNjlXcXlTN24xVGRoVXhZLWs2ZUdZdEo4bg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jim Cramer Says He Will “Stick With Salesforce (CRM) Because They Got an Incredible Track Record” - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOV9OcGZPQU42R2RjT2tRRk5yR2N4ckpxWXkwQ0pVLUIya3liWGpERTh6dkNlZUVzLUhmYmJEMUVMWFVpMTJ1NUhsbUI0eVdqV2p1dUd0RjZVQWRnODRZVFdjOXdudTVKUXpRT0VYbzVCWkF0MXRJVV9HNnJIcl9fd2hMdmhvclQ5OTdvdldPcmZ5VnpVbkNrOUUzZklxekRLUVBaUnhuT2VLVE9jeEVuWG9pNzQzbjJTLTF4YTNGRWtXYlJ2VkZ2VDFCRmdnQ1pFdFNZ0gHbAUFVX3lxTE1YOC1MTGdNLWF3cU5STk9uMm1nZDRZZnM0eWZLeVhRVFF0MjNEa0dOOXZ0b1R4andnZDIzMk9kanFXMXl3ZG9DNmFoRW9BMGFOc2FHOE1SbjJCcjJ5ZjhkTWw4ZzdzS05PSUlDcjNNN3A3OFpRdUNtSThhQ01PbUJaWS1JS3M1cXNMS0hiVkwyWURrblJ3OGM3R1AzU095cDdXSTBJNmx4Q0lvcGpMLVRPemFjYjl6dldzV0pmbUt1WnBIa0wwYWpxdFhkV0pyX3p6M1N0Z1Vsb0NXVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Salesforce Stock Is Sinking Thursday After Earnings Topped Estimates - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWt2R1RyVkFQRl9OUC1qd3IteHJDN2dNUUpQSUVudGt6MXNqaXhUQ1QtRG9xUXhPWTV3TTdGdnFiMXpMUllpR1l5dGd4ek5FSlNEYjBvSVFKd1hTVlVBZWdEd2ZncXVqUTZVcDVIWmtxOG5sNnlTS3czTG5JUTBOaGtSVnJISG9VUVFDaktSdWtQbFlmSFpWT3pzNHhORmhQM3dXRnhQZWtoelMyVXRn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Don't Overlook Salesforce.com (CRM) International Revenue Trends While Assessing the Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWC1pMExVT21WQ2tGQzkwTHFBMFNBYUNXWE1MRlo2ZE5pZkZUWENkYll3R0pSTko5cldNb3hWQjlEdnYzS0lWMlNwV1VjZHQyWDlicXV5ZEI5VWYza2lPSHZTelZvLWhiRjNxa05LcDFEOVJyMDd3djFSMkVjRERJQnA3S3M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy or Sell Salesforce Stock Ahead of Its Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTNxLVF4WjVvSTdPbGppekhFNU5aaXBTcVNZa1JzVjBVT1RUb3FSZWo0LTM3NkowSVgxM0pPZ2lmcDEzdlBqb0thLUFzdnZ6UTNtMU5MOHZkaEphU1owOURmZnBCRzZrelBNNlVNUVliMnhzNl9OMjBOTzdEenAyQl9FSERsalM1aVBYZXdaLVR6ZGtRdTBwbmxHc1NGUThiWjJ6XzVRS3NLcTJxQUZ3ZThnMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Salesforce.com (CRM) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczFZZ3RVak1zNlBJXzJiUGNDMmlTVG1wZTMyZFFGMUN5MzZCZm5JQlFDODJCSE1ZbzFkd1psd1JJUFdCZmhlU2JHR3lCQ19zX2sxVjFub19yWXZyMzh5THFfQ2tSSEprM0ZTTTBBWFpFNlYtRlpSOUNEY1hCUkZlQi11aG1YYW9N?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "‘Don’t Miss 50% Upside,’ Says Morgan Stanley Analyst about Salesforce Stock (NYSE:CRM) - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMlE4QWoxLXJRN2hob2ViRW91a2Q0OThJT0hMT25yamNZNWFRbEZ6am45VzZncGNEMWlKZ1NVcFFjWlkyY3VMUjVwcDdBZWl1ZmhIS0tqNEdFNEFUTzNwQjJGT0JCVDZRT2JiejNWMUxsUGdLNzN4Ym1oQTVkRnRiY3hOVml3cU5Mc25pc3RBS2tOMUx6UmNuLUwxU0xrdG5Bcm1MOTFST1loTmF5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CRM vs. ORCL: Which Enterprise Software Stock Offers Better Growth? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZU8weEdNXzhabXFHMUJ3SEJBcHNkNGN1SzR2SlFhUlZ1TDVNSjEyTEg0VDJSb1gzdlVRS25rRzNOMHhITnU1M2xVUkF0eGJlakxud0RCbFdPamFoakdFQ2I5Qm80MGtJQW5LeXhRaXlDanNUaWxvSEFhOUh1ZVZpMVpEdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "“Time Is Running Out,” as Analysts Project Strong Gains for Salesforce Stock (NYSE:CRM) - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmIzNDd5WEZ4UjEyOEJCd04zVFppbFY3VmQyb1FhMFdheEk0REQ2ZDR4UHFwN0pwMVRVUW50RzZiMmtjRmdTdVExcTMxRE1manBkM2c3QjhMbXBKeDdoY0oxUUpVd2Z3LXVoNkhRSnZqR0djbkVFOXZEM1VSdFZqczA0RUMzTWNKblpVSEgxMDBTdDJiZEZoZk83MXRxcjh3M2JZbERSSU03QXlTOWlQZA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Q1 Proved That The Market Is Wrong, Salesforce Stock Is Too Cheap (NYSE:CRM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVB3MWNUMTgweWExcVJ6cnhfVW1MNWd1UlYyMmpCRFMyWFBXVkQ2UGpBbFdjY2xoS2pjS01xV2NGcWYtdElkejJEbDRSZTQ0SUx0ckczdHpsbE83YVpOQ2dSTm9uSzVRUzZhVzJyTWc1MGFxWlk2TURob25kZEhla2s1LTlYM2NfSEdfblNLTlVNbzdWbG10M0NTWjRjQTdveDdHOVZzZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 331.01
-      },
-      {
-        "date": "2024-12-03",
-        "price": 331.43
-      },
-      {
-        "date": "2024-12-04",
-        "price": 367.87
-      },
-      {
-        "date": "2024-12-05",
-        "price": 361.38
-      },
       {
         "date": "2024-12-06",
         "price": 361.99
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 261.62
+      },
+      {
+        "date": "2025-06-03",
+        "price": 264.47
+      },
+      {
+        "date": "2025-06-04",
+        "price": 263.17
+      },
+      {
+        "date": "2025-06-05",
+        "price": 267.14
       }
     ],
     "current_price_data": {
-      "price": 261.62,
-      "change": -3.56,
-      "percent_change": -1.34
+      "price": 267.14,
+      "change": 3.95,
+      "percent_change": 1.5
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nLes tendances cl\u00e9s concernant l\u2019entreprise Salesforce sont principalement positives. Les analystes ont \u00e9lev\u00e9 le rating de la soci\u00e9t\u00e9 \u00e0 la suite de ses r\u00e9sultats financiers d\u2019un quartier et de ses tendances internationales de ventes. Le stock de Salesforce a \u00e9galement \u00e9t\u00e9 consid\u00e9r\u00e9 comme un prix trop bas par certains investisseurs et comme un volte-face positif par d\u2019autres. Le d\u00e9bat aiguis\u00e9 entre les analystes concernant l\u2019avantage de la soci\u00e9t\u00e9 a \u00e9galement \u00e9t\u00e9 mentionn\u00e9.\n\nUn \u00e9v\u00e9nement marquant concernant Salesforce est la r\u00e9versal de son prix de bourse malgr\u00e9 un r\u00e9sultat d\u2019un",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

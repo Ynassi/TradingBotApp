@@ -2,55 +2,163 @@
   "ticker": "VST",
   "name": "Vistra Corp.",
   "sector": "Utilities",
-  "market_cap": 56704073728.0,
+  "market_cap": 58261643264.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 26.482567,
-    "PB": 24.19007,
-    "EV_Revenue": 4.093,
+    "PE": 27.25319,
+    "PB": 24.85453,
+    "EV_Revenue": 4.32,
     "ROE": 0.41676,
     "ProfitMargin": 0.13401,
     "GrossMargin": 0.41307998,
-    "DividendYield": 0.56
+    "DividendYield": 0.52,
+    "DebtEquity": 366.143,
+    "CurrentRatio": 0.864,
+    "QuickRatio": 0.258,
+    "FreeCashFlow": 2785625088,
+    "OperatingCashFlow": 4849999872,
+    "FCF_Margin": 0.15387644234222972,
+    "ROA": 0.063,
+    "PEG": null,
+    "EV_EBITDA": 11.565,
+    "BuybackYield": null,
+    "PriceToFCF": 20.814594662352494
   },
   "technical_indicators": {
-    "RSI_14": 69.33203084660346,
-    "Momentum_10": 6.882900724924028,
-    "MACD": 8.719186408015076,
-    "BB_Percent": 0.9159944325455897,
+    "RSI_14": 67.52186002149956,
+    "Momentum_10": 12.500817775530148,
+    "MACD": 9.732614878274347,
+    "BB_Percent": 0.8433624531219215,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8763129309192208,
+    "ValueScore": 0.8721153890298455,
     "QualityScore": 0.3321564436245172,
-    "SignalScore": 0.4731984856180715
+    "SignalScore": 0.420312030394338
   },
-  "volatility": 0.0524594294803007,
+  "volatility": 0.0525434820072959,
   "beta": 1.246,
-  "return_6m": 0.0879570427863416,
+  "return_6m": 0.0708014769019242,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 18,
-    "target_mean_price": 167.07611
+    "analyst_count": 17,
+    "target_mean_price": 167.55118
   },
+  "news_sentiment": {
+    "summary": "La société Vistra Corp (VST) a été au cœur de l'actualité récente, avec une série de fluctuations significatives de son cours de bourse. Malgré des hausses notables et des gains de momentum, VST a également connu des baisses, notamment suite à des résultats trimestriels mitigés et des prévisions de bénéfices pour 2025 en deçà des attentes. Les analystes semblent divisés sur la valorisation actuelle de l’action, avec des avis divergents sur sa prime. Toutefois, des acteurs majeurs tels que Morgan Stanley voient un potentiel de hausse important, ce qui soulève des questions sur la stratégie à adopter pour les investisseurs intéressés par le secteur de l'énergie.",
+    "sentiment_score": -0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "The AI Boom Continues: NVDA, VRT & VST Stocks Surge - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZcWVNTXZLOGFtMmVSem9GSTdZSWJBZnR6NmdxT1k1NktINmgtWHNQOHJ3dFkwMzdQZm5xREhZWHJjY004QlYwU05ZWGFpb1I2MmhmOG9qOWNRSUlmLXlNOWVTYkM0YW1raXkwcG1yTTduM0Z0UHNudnNLOVU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Executive Order to Quadruple US Nuclear Capacity: Will Vistra Benefit? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb3JOaFhwMzRqbFNtcnpPbmg0SUhtNlhwVTk2SkxqM2FHM2NhYjVVdVJBcW1jU1FsQURpOF9RNkFWWnZXellzS2pJTlRsLTNyV2t6X3JoV2ZmNDNkWjhqUV9wWTM4VnJLMHFOdVdUSFhJV0UzMWktSmNxMDJiYVhndVZfTmpnMTl0WWQydkw1SnlFZW9EQV9iZS15S1J5aF9YRjZtVUpYRTA1M3BKQ3l4NXJ6cDVOdzZrTE5PVER0S2NsQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(VST) Trading Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT3FRRWpyZ0pBNThQVTY5MXM2SVR0aGhtUEFDRm10TUcySDRvY2JxNjlyaHNNdnV0LXlWeGh6QUJWVUsyMy04aUJMS21oMDZka0E0X0JiSEJlVlpfRlVqVUNPVkp6N2R1U1VydmtLR3M2VWhSY3NoV2cwQjRPdFBjOUxNWkVNV0dwMFB2YlB1U3VPbG9vT1ZTSA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Constellation's News Drove Fluor, Centrus, and Vistra Stocks Higher - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnByaG1LUlZzWjVPcDc0b1NmaVBraEE2MGN0Q2E3VEpBUWFqMjhpdGpOZ0RnTnc5Zi0xNjRtR3ZDNW9VYW9TQ01UTTZVRlVZUE8zeU5Zc3c2eG5RQk43Nkg4UWtDa2huY3lIN0ppeVRxXzJETDZObThxRXJEeWZucnBxUG01V3FpZUd4RjVBeHgwSkVG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vistra Corp (VST) Stock Sees Minor Dip, Capping Period of Strong Gains - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWRTV19jTlJ1eVNBbFNjNjBPOHU0dmNOTUxiTGdFUmJrZlFrOU5jVnJWNFVmQURkUkhTQm1BNm9WQTVGeU1PUUJZOERqSm5yWXNQUjNOdm9rMWRTMHpyT1l1cFJNQllXU2dob1RMbG8xbFA0RUh1dWJuODNWdGVvZGZBNTJKaF9zcmozc1V0WGNKTllSSXFCVmd1VmdXNjZaVnFuZGpjZmVqX1lrMHhKVUx3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "S&P 500 Nuclear Giant Makes $2 Billion Bet On Natural Gas - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWhLMTV2UU81V3Jkbi1vN1hUWWFHbG9GZGdodEs1bFlKanBuemMtbm10UFFLLU1xVXJXVGxEdU1iMlFyak9SaWYzcDZuaGlxaUZGeFAyR0g5Y2pfR0JxN2RSRXZaTUZVRlR5VzNVY2lTalZwNzI2amFZSG96RTkybUt4Y19DMWN4ODVKN0xlcDBSUUx5a2pn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vistra Corp (VST) Stock Price Up 4.06% on Jun 2 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNzNvUC1iY0ZldDBXajZ2UVl2LWJhREFUQ3BJSDFQaE9XQVp0TXdaMF9RdXBHZHJwN01naW80YWpRWHludFQyRmxFYnVJT212QVJCTjNxMl9Fd0xSYzE1ekxzckhjdFlib0RuNFV3NXczZVVleWpoOFRSaW1WUmYzQm9NTk1sUXhMSmpvZkRSV0ptRmpTY1ZvMURoNTBZRUVyV1ZIYzZXWG5rclVzbk9jcFhWbVhDTHhHakpaeHJpUnVXeUtrbTJKX3lKMDI3RWpE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "10 Unstoppable Dividend Stocks to Buy Now - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWt6V012WlJFS1oxbEdKNEdZNVhGNm5KSVB2QldoM1pFMFlzQnhrV1JDNllzSzVIR2luREdwRmZfZU8yYlZHM29pZVh4cTFuMFNBWDJkZFBra1pORXBtTTI1ZGFWQ3loWDlNTElhOGZvSFc5NFpna3hoa1VkREhwMjVFQW93VGpwUHhCQm5QOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$VST stock is up 7% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSWowQ1g0Y0tnMVJoU1c0RUk2X3pIWkxPdXNRTENVR3JRX1FLVF9Qa3JwSTUwaU4xenVTZkxoUjBJdGRaQ01TZ2dfQUxPbmYyeVFaRkVORDF3c2NGNDZEWHI2UWtzLVpRNjllNmtFb3JIWnRfcWwwNnR4M3ViMGxCUTJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The AI Boom Continues: NVDA, VRT & VST Stocks Surge - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVVPY2M0UExiUGw3YjY1R0tNZi04TzQzS3FhYmpId3VseG11OE0yZGM1VVV4RnZqMmhjZFlISFV2WWZZbzd3Njk1cnFaVENBeVp6VEstb01HQ0tEOWc1Qm1UMk1Md3pqT2ZxeXlpWlpENmdETmJSaWZyZ01DTUtZaU4yN1QwUmdGbEF0a01saFNQeFJFaEE4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top Stock Movers Now: Charter Communications, Vistra, Cava Group, and More - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbElpa09SNmozNjlZdTdLb1VaQ3J1bWJ4N3FsTGo5NlJVY2JjTHNKZUFqUU94am9GVFVuREVGblFzc3MwUWE0dlF3bm1KeC1CZDR0aWhiZWtJcmF2OEhuT1NNT05kNnlUci12dTZJSlI1aTZzN1A5bFBveGEzVGhkX0ZrQU9VUnVrTk44V01PWHNSVS1LNGk1NnAzMDdWd2RFSDY3UExKVF9yMWQy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The AI Boom Continues: NVDA, VRT & VST Stocks Surge - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR0dfanpfTkVDVDI1RnRRRDVrWVBJM3JnU01KODh0WjlmRkp3SFhGZ0tCa0UydEJvWktIczFLTVNLQVg1Vld1bkNfbXQyeE9zcm9yM1hLN0VHMHBQVDhNUlk0bGRVeXpscklFcl9ybDd2RTY1ZlhwU0xGaEVOZ0tyLWVQbzRPVUszOFR0dkZHVzExZE8xbmZ0ZFAtZ2Z3d29MOWVtYkF0Mm1LcW9RVTlESDNrYUZxTEZHQ1MxOGRJamE2cGNhTnJwM21Gb3VtWTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Vistra Corp. (VST) the Best Energy Stock to Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DZHkzU2VrVHRqZm84MzVxVlQ2a3I4Q2wwYVdyU1p1YzRLZ19UTWUzZ2NDV0pJUTl4VFVPRmlta3lybGQzV3p5RU5ZRG9mN3ZRQWRFVDVvWm1XNUFQR3F4alVWdEhCNVl1eGFybVg2WmxnY25KNXBOMzdrT0RfQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vistra (VST) Price Target Raised by Morgan Stanley | VST Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzVBVG9fTUMwUUJFdzVhcXZCcFZPemkyLUQtdEZBcHdZWlEzQndJS1gtbTdiZzR2VTl4ZHdXaFh4TzlSVXpqS3JSQ0VJWUVhdzJhZHhzYXg0OE5oRm5VVGhXSDNnSDhBbEY1Z2RFVld4alJRWU9qd1BlVzlRMUptMzN2LTdDNjRXcVFCNVNLdWRWaTYwQlhKQmRUckkyTFA2OW5oRW9B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VST Stock Trades at a Premium Valuation: How to Play With the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaFZNT2pLa1FjZm1oRWhHUlZ6S1ptWjc2d1Y5aWtBRWdSaldVU1l0QkpETVRNS1pJZlBnVXBXaFJqYjRkVDVLRUR2Sk82Sl9Hc29wNkF4N1BGZHNkVmFES28zZ0M1TTlIbjhpQzdON3ZTdDI5cVo2bjM0R2tyTm9tcTBoeTdVMW5F?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vistra Corp (VST) Stock Gains Momentum, Rises Nearly 5% in Morning Trading - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHlPa1Z0MkVSanB5ZzdlUjE5Ny1Tal84RDBpVUxFbnVzaDhuSWVfdlVKeXF6Y2dUSUpXMjg1UnFNUlNYdHVWY19JandHVTdRbnRTRWlSc3Q0RWo3U2VENnpRdDJfcWtrVTZDX1gzZTVqV04yUlpxNTluMC15V21WZEhJLVFPbWNocUJfZ3VTSnJqb1NXTkdVZV8zUVF3cGdRbC1OVlZ6WVQ0a2MyVkV3b2NGOEFjZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Vistra Corp. (VST) Stock is Gaining This Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ydHV5WGJPYllYYm8xQWYzZ29LY3VCczlFSjRta2VyTUNWS1RUY3FhalB3aF9USjNXX1FYcjF1eU9pLXhycUo3R2pzSndfeG96eU1BQWVVdW9oNHR2bzYydVNGYzh6Z2pkV0ZRaUxQdV9TR3g4SnVLQV9qUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vistra Reports Mixed Q1 Earnings Results: How to Play the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnRhZWtydTlpNEZKZ1RFeUE3Q01zX2lrUU1NWkVOWWd6WW9IMXFGQVlwa0xLdDl6emdJS0hPcWprUTBna2dERlZTbjBWclM0d3VtaXpXOXJnMUxiZV9QZ0JwcGI5c0ZzN0ptZWRsTklDSjVlaGR6UEhNOW0tMlFSTkZtQUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Vistra (NYSE:VST) Stock Dips 14% Following 2025 Earnings Guidance - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12MFJjU3ZxVGVwem5ydzY3MUVWSk1ESUs1NFFZREFnZjlVQ0NnLVZQNFgxOXBxenNQOUZhRU01cnBYTkFPM0RVNjV1ZGdVSXFUZ3lCYTYzOVBpWXZ3OTNQR0lIXzJwVlN0RndMR3pLLVVWckN6akROUWhOV1I?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Vistra Corp. (VST): Among Richard Chilton’s Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUV3azdZbTRiaTNGVmVyRFk2YXpfQUI4UTlWb2t5U0tzd195eFgxbjJPd2NoSTFhYm1CUTFQbE5XLUhXMkEwcHNOM3J6VmJYX2U3bS15UjFRVGhoZzhjT0gyR0RqaFNrRE0ya2NCNUV6TEtCY2FYNVpmR1NHWWhyYw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 154.11
-      },
-      {
-        "date": "2024-12-03",
-        "price": 154.16
-      },
-      {
-        "date": "2024-12-04",
-        "price": 161.31
-      },
-      {
-        "date": "2024-12-05",
-        "price": 160.88
-      },
       {
         "date": "2024-12-06",
         "price": 159.98
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 167.81
+        "price": 167.47
+      },
+      {
+        "date": "2025-06-03",
+        "price": 176.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 172.69
+      },
+      {
+        "date": "2025-06-05",
+        "price": 170.87
       }
     ],
     "current_price_data": {
-      "price": 167.81,
-      "change": 7.23,
-      "percent_change": 4.5
+      "price": 170.87,
+      "change": -1.78,
+      "percent_change": -1.03
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nLa soci\u00e9t\u00e9 Vistra Corp. (VST) a d\u00e9voil\u00e9 des r\u00e9sultats d'exploitation mixtes au premier trimestre. Les informations disponibles concernent une vente importante de shares de VST par un conseiller g\u00e9n\u00e9ral de l'entreprise. Les actions de VST ont \u00e9galement \u00e9t\u00e9 remarqu\u00e9es pour leur activit\u00e9 d'options, avec des mouvements positifs sur le march\u00e9. La question est de savoir si la soci\u00e9t\u00e9 est un bon choix pour les investisseurs. Les experts recommandent de prendre en compte les facteurs li\u00e9s \u00e0 la sant\u00e9 de l'entreprise et de son secteur, ainsi qu'aux mou",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

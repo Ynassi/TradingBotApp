@@ -2,32 +2,43 @@
   "ticker": "9843.T",
   "name": "Nitori",
   "sector": "Consumer Discretionary",
-  "market_cap": 1604205281280.0,
+  "market_cap": 1648280076288.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 20.884212,
-    "PB": 1.6617783,
-    "EV_Revenue": 1.792,
+    "PE": 21.434975,
+    "PB": 1.7074348,
+    "EV_Revenue": 1.819,
     "ROE": 0.082600005,
     "ProfitMargin": 0.082770005,
     "GrossMargin": 0.50979,
-    "DividendYield": 1.07
+    "DividendYield": 1.08,
+    "DebtEquity": 21.031,
+    "CurrentRatio": 1.16,
+    "QuickRatio": 0.731,
+    "FreeCashFlow": -41292001280,
+    "OperatingCashFlow": 112069001216,
+    "FCF_Margin": -0.04445018738378904,
+    "ROA": 0.05811,
+    "PEG": null,
+    "EV_EBITDA": 10.962,
+    "BuybackYield": null,
+    "PriceToFCF": -39.917660205206694
   },
   "technical_indicators": {
-    "RSI_14": 29.30344665304645,
-    "Momentum_10": -7.433974567981741,
-    "MACD": -528.228021493851,
-    "BB_Percent": 0.158864100630682,
+    "RSI_14": 38.066145337625294,
+    "Momentum_10": -3.4425686858656075,
+    "MACD": -525.7876218421861,
+    "BB_Percent": 0.3256523181584947,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8944787358319711,
+    "ValueScore": 0.8914067782493538,
     "QualityScore": 0.4020876146230012,
-    "SignalScore": 0.863018834150342
+    "SignalScore": 0.7737311759646328
   },
-  "volatility": 0.0221424956340353,
+  "volatility": 0.0219633685775492,
   "beta": 0.68,
-  "return_6m": -0.2563766492216236,
+  "return_6m": -0.2598588665895092,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
@@ -35,22 +46,6 @@
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 19190.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 19350.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 20050.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 19810.0
-      },
       {
         "date": "2024-12-06",
         "price": 19840.0
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 14195.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 14235.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 14235.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 14585.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 14585.0
       }
     ],
     "current_price_data": {
-      "price": 14195.0,
-      "change": -175.0,
-      "percent_change": -1.22
+      "price": 14590.0,
+      "change": 5.0,
+      "percent_change": 0.03
     }
   }
 }

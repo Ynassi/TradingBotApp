@@ -2,55 +2,163 @@
   "ticker": "EW",
   "name": "Edwards Lifesciences",
   "sector": "Health Care",
-  "market_cap": 45672677376.0,
+  "market_cap": 45725466624.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.173553,
-    "PB": 4.506048,
-    "EV_Revenue": 7.741,
+    "PE": 32.210743,
+    "PB": 4.511256,
+    "EV_Revenue": 7.702,
     "ROE": 0.16511999,
     "ProfitMargin": 0.75706,
     "GrossMargin": 0.79498,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 6.863,
+    "CurrentRatio": 4.454,
+    "QuickRatio": 3.334,
+    "FreeCashFlow": 1447462528,
+    "OperatingCashFlow": 876200000,
+    "FCF_Margin": 0.2621122635790843,
+    "ROA": 0.084180005,
+    "PEG": null,
+    "EV_EBITDA": 25.226,
+    "BuybackYield": null,
+    "PriceToFCF": 31.51714055011447
   },
   "technical_indicators": {
-    "RSI_14": 61.97743878609784,
-    "Momentum_10": 0.025636721880008,
-    "MACD": 1.0949958658929404,
-    "BB_Percent": 0.8270891692886869,
+    "RSI_14": 60.59397856617227,
+    "Momentum_10": 2.2864624161079883,
+    "MACD": 1.0602055157819024,
+    "BB_Percent": 0.7182831588476419,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8734925854659525,
+    "ValueScore": 0.870531142127287,
     "QualityScore": 0.4757468519763203,
-    "SignalScore": 0.5578270840210628
+    "SignalScore": 0.5277903081081479
   },
-  "volatility": 0.0175665162173692,
+  "volatility": 0.0166607385648482,
   "beta": 1.123,
-  "return_6m": 0.1039274345373491,
+  "return_6m": 0.0762114678973977,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 30,
-    "target_mean_price": 80.96567
+    "analyst_count": 29,
+    "target_mean_price": 80.86793
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente d'Edwards Lifesciences (NYSE:EW), on observe une série de signaux positifs et de tendances encourageantes pour les investisseurs. La société a reçu l'approbation de la FDA pour une thérapie révolutionnaire, ce qui a stimulé le cours de l'action. Les résultats financiers du premier trimestre 2025 ont dépassé les attentes, entraînant une hausse des prévisions de ventes pour l'année. Malgré des préoccupations liées aux tarifs et aux tensions commerciales, Edwards Lifesciences reste un choix attractif dans le secteur des dispositifs médicaux, soutenu par des données cliniques prometteuses.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Edwards Lifesciences: With A Heart Beating Strong And Steady (NYSE:EW) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeGNwVklLMzBRdmp4V3pJNEl4NHZCSkN2WnNzcnZWZFdzOWlldzVxZFVXNFBDUXdOTlE5SFBSNG41d1ZyWDBUYlpHbDl5VGgwdUhUX2tUNEhXQXRDZWhuRlJiNWYyX3dhXzFxcDMyWlg5ZjdzRlJrZmMxYzI4b3ppcnc3enlLR0ZRRjdiRjVuV1gxVXlKVzd3eGdhNnlKZ3liU0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sports Betting Stocks Slip as Illinois Passes New Per-Bet Tax - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHRqTVN3MUJTZHFjRXNrV3hWRkdqMDVnSHBDa0UyMkNiRnNUZ1VBdExlb0Ffb2hDMlNJUEtGN3BsbnV3YmJuUXhzVDRWLUZVRHc0LTEyZE83bmVMNFFjV05laVNzT2RSajVYNnNTdDRqNFpUVHRRX2Q3MzdQdmJEeVlLaU04cUNvUnRsaXByQ0FBaXYwVzJTWnl4MTJjYnp2?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Edwards Lifesciences (EW) Is Among the Best Medical Device Stocks to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmJHZFBoaW1ZYWNiNVNYYTdlYTV4X2JmdjlvQmZOSGtETFlXb0U2UmxoQXlMZUxqVjNvMTZybC1vZWI3NFM2SW1zTTN0S3VzRkpzeDluQ2E2LUxaVEg1M19WQmlDeUEya3djZlNORmFQMkRkNEczOHRXRm1CZnNyTFYwTlg0dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Edwards Shoots Higher As It Shrugs Off Tariffs Worries — Until 2026 - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTVtZ0ZGSDc4MXNxNjJZcVZnd3l1NzdYZDNYdGN5LVJ1LUl6bmt0dEc0OHJmQjU1bTZBOWdvbnhSVVhoNmViVk5NYnlIRllyQlEzSDJnNGFyRnRqNUFEODVXNTV5V0pZS2oyWWhiblc4Mi03TnNPQWFzdFp6c2JfY3VXd3hoWWdmd191UnZPTVBOUGczRHhEQW40ZDlBSDNNX3pvRFllbkRGXzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q1 2025 Earnings Alert: Edwards Lifesciences Unveils Critical Financial Report Date - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMkgyUVNyeXliN0N3SWxKSE9hLWNpLWc3Q2pNc09pUVpGT1B3V1kwdXBTTjVvRFVBa1l0LWZ3Q0lTSWs0RWNoM0kxZjlzaEpFNWxxVzQ1ZUFmZXdaWHBpYzVoczY1ZkZSNGI1YWdtUVBfZERqNll5b0RaZUNmazBLeU1JcHZIUHhodE1MRW5KYnB5ZjhTTjBRWkFXWFdQSXRuRFhfNjZjblN0WDUyMU9tbHhmRDkxQVNEOUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "At 10 AM, Stock Options Soar as Retail Traders Unleash New Bots - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejE3dE5HNGVmS0VLUXQtM2RXdzhKbWlMZEwwbHZ6MDh0QjRTNEk0emFtUmNxeVFZQzBRZ1kwZHdXY05fN2FiSmRwUHdGdmRUdFZtd1BlYWxHRGFLalBvd2ViNTlPNThyR2Y5UnhMNkVEalYxRTZjeFliWFJxTHo0QUdycU5vdXVqcUpZWnowb2pzbVhLSnBfSVplbWszcmlWM19vMVRoV3pnaWdjRHFoeHVqUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "7 New Stocks to Watch - Money/ US News",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LTXpJMkVPYVBTVTItRnFZU2luTFhXUkNNbS1aVW1LLUFIVnYzaDBCdURBUlNrTnV2SVdvVXhZMnJ1Y3V0dzhydXZPdkp2ZTVINmx5a09KNThSYzNta3hUSk00RlhQby1CdVFmbXdHUG0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Robust Financials Driving The Recent Rally In Edwards Lifesciences Corporation's (NYSE:EW) Stock? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZV9ja0lCMHhLUDlVdElQNldTZk01SU10cVViTmJRZFhVMGlzZ0JOdGd1TW5ULUxzQnJBNkUwSDNscGR4TEdkRUVqdVg4RnVWczg0R0tXOXd6Y1ZOTDkxY2pWaVRsNE5hSHpBd2dRZ1FuM0lNWU1JbFJaLWlGZzZka0liWWhDamdIWkhLdG1udFpKZ0VxOWVsLVhLamlacTNEa0o4RlNMMEJkVmgxWW51X3NEendNV0ZxclVuQ1oyU0UzUXJmbjlyMXNheWhjYTBIY0V5VDJR0gHbAUFVX3lxTFBrZ1VnNGhBR3BSVHVPMS1KX0gwZ1RidjVvbkJ1UTZxMnVHcEN3cm9LdVZBalpyem1PbVFRbFRlNzJFTVNVNkVTb0VaSUVadk5yVjFLNWl0LUZJbEVzV3JSYkZVYUJ2MUJoZkJQdWdYUFprNWVMazcxT01aNktBeFY2ekROMDc0RXNMYlpiVmR1Q2IyenptWFNxeUNMTUZhVUNpWlhzTGttcUROUzUwTzNEYl9rLXItbEFEVnY3Z3hlSl95X1RCUkNLRHdTWWp0LXpQVzBkeHBOTUIyMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "European stocks to scale new heights in 2026, trade tensions temper loftier hopes - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkhEZ3p1YjlOeWg3WFNJQmFZRndHd3BLTGU4NUFZa0dTSDZfYU8zLWZ2X3NQSzRIbVJYMEVVZWlfUWpHaGFqRG9HMWRsV3hDQVlxREVmUDFsMG8yVGpsNmhYR0ZTMG5na0ZmZnR2eGJLUGF5Q1hYU2tveWZlYlh4ajdubkIycnlZM29TWjJkekZYbDVOR0lXUlFYeF80OXlHZzkyY3VtV1l4dTEtM0FOZ1JiaUVmazRmUVlyZjNhNGZHRndWOXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Quick! Switch 2 now IN STOCK – buy Nintendo's new console today - T3",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnJmbVdIbFhMTEc3ZG9feld4ejhkenZmQlJFLUp1MzBDRTQ3UThxbVBPV2gzTkF1TWRRWUdGMHJRUGVaNE55VTI0UEJmUlB0a2R2QWplZFo1N3lETFl2LTRrVThDZkktQWd3bklBRWItZ3FxUG04TWIyWE9rZjQwVjZOa3ZSTFRyY0JPREF1cGRpc1Z3Y3ow?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Charter Communications Looks to Retain Workers With New Stock Program - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxObjd0NWlneUJHSzdWYjJwMXZCWDFhZG9DdWN3ZnlrWmswa3JCYVpGU2lncE01cjBnWl9lTkt1MFhtYXdqTWpmQzBJdFYzSUptdjVodmd1YS1sOHFxZXNObmhCNGxRRW1YcWw4SldGRkJiSnRTb2NVRzRleWRvc19udkZ2OEpTMDFxeWxoOXRZSU1iN1F2MEQtQWc5eTEwcXVwQTJIRk1Qa2pIOXhzVUljaVBTd2N5cVhTU0M5NFVEcGtfOEYwRmMwMHN0S1VUNFFqaG1jZU9Ib1ZucThIeFZTT3lVS0RWZjlNODRETGF4NjMybUxMNUtZeTRjNW5iczd4emlvdzZiQzZyMmp1ZkM0cnFhQXVsZ21fQjBWY0ZCb0dwVVRxOXJMbmt0cVdLZ1drUUpqREhsSmN5dlo5YmJYcFhJZVRkdGsxdl9SUjJwblRGWnN0SHNySm9xanl2ZVNCWmtCZVFsSnk4bmdGZkwyWVpoWDNBUGpUVnFZc0RVTmc2RW9iU2JmTnNTR0JILXdEWjE1R1pMemRISXhoYno0VERaM3pFcnhuSGN2LWk2V2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analyst Elevates Edwards Lifesciences (EW) as Top Pick | EW Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDVCSlFfSUhmejZBSTl4VUJoX1hoaGZVbWtNVVdJdXM4Y0t5d3MwSmdHN1V5eDNQRWhXT1Jwekt6MFh2NzB0bndvRWhZWURWV0dfZXF3VHBUcEtXRHA1LWI5WDYzdGRtZTM0QTRHUmxtYW1fdkI4Q1J6SzZUN1YyT2dlQmhyYjhqUU9MNjhLNGl5aDdXTXg0bENLTERkbUdkTFdZUWdPU0pPQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Good News on Trade Will Bring New Market Highs. Eventually. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WeFJ5RTlmQjBqU2Q5QzgxODZSYTFIWU02dlNNYWdZd2RDYkFjdDFMREpDdVdFRlAzRmotdkRJTU9wZW5FRks0c281QV95dWRWbDk3Vm9DVHhycnZEMWozamVjUDhUc0RqbVc3cV9WMEd3S2tGbldn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EW Q1 Earnings & Revenues Beat, Stock Climbs, '25 Sales View Raised - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qalItaGFCNWJCWnhTZGhaUWhoZE45TlNzTzBqckV3cEZaM01NUHlaOEFBS1VoSXl5UldaSVBrU25PQ3ZRcHRsblBKckhsblhpQVJyd0VKVm43NU0yM0VjellJemI3Si1BWVUwblVkdXlYQlBkb18zLWZsMHpCVU0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Edwards Lifesciences (NYSE:EW) Receives FDA Approval For Groundbreaking TAVR Therapy For Asymptomatic Patients - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZVNiODZsNUZaWVpGcnByRzF4ZVdQR2dwLUdMRFlaNmNOVlJUSENyOFg3Vzl5enRwTktrNWFTbnkxM3ZtWUc4c2VnZmxzcEk2V0RiZVJHWHlIbGlkOHE4T1AwZjViVmxCbE5xcGhIT0JfdFJlWV9kLVZFV1E1cVFZTGRMUFh5WkZXRE90TTdoWlRNRTVLT2cyRnZCU2RnRC1hN19OejZxMGpGWWhWQ2F6RGEyQWJtVmwwOTlOSEJGdlVaLXNDaURKcS1PSTJIOW5jVGJr0gHYAUFVX3lxTFAwMkl1dTNoVjg3Z0NqMDBKUUFka1lQYmZLRW5nUEwxemFMMG5zdG5nekNRZE03V2RXUlFHSkFteV8yYzY3TWZLbWhWdkdlS01kemdmRWJoaUpvbTQ3TkhHWjlZckhjeEFLQW9Xb3BEWWI3STY3MEtIUzQyaTBubTlLdjAxSENBeEN6dzY3M2xHb2xjaWM0MWE5RWNVc1NUS1JQSWkwLVJCMTUyZjMtbjZuUmtlNXRyRFBPUHFJY2lIbHRYUHpZUUhhMXRuY0otM0M2TzZfLVJQbQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Edward Lifesciences: A Closer Look At Growth And Valuation - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNODU5MWN1UF9MNlRlMEVLRlBLLTVIWjhOSU5QUTNEMHE5VDFzRWZOWjNKU3dLMmN5cTNQd24wMzRHNjZnZVphc3BVTzFKdkE0VnRjN1pGWEZIZWZ5Y1RRNmRWR2QtZjNDSGlQQmUyTjNRMUV5cUEwSHFrN1dmRjZ0WjM0ZWV6M0hJLU05ZDczeDdoNlBpZlNxTW5fWDU1VFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Edwards' New Late-Breaking Data on Severe AS Expected to Boost Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZk5XUGRQNFNDOHJldlpyLVE0cFR4MGRKbmF2amdHTi1WdkRoaE1BTWtwNjRjU3RsYU1kaFR0WDN1YzF3WGFITE5qX0p0VjQ4ejNMX1lHWTJPeDJRQXpKWm9IdVVwSkdDaW0wd2x4WlZGdUxQZmh1NE5QM1V0QjZhdnFWNTZHWUd0LXJn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Edwards Lifesciences Corporation (EW) the Best Medical Device Stock to Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNWttYm9iSDVNTnR2d1BFUGtXcE5KMWZmUng2Sm83bFNBaG5COExRb0ZxSVdoRjJtMndEZDV6cDZYVFhZT25ybThuVXdBQzd2Tk1WYTBpSHVUZGFmdlVwbktjSHNjNFFtalRUMjdELVpNTFdEODFSR2daZGFwYzlGRnM0am85SGxUZ2ZSUlhDVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Edwards Lifesciences Corporation (EW): Jim Cramer Says It’s a Hold — But Is Boston Scientific Now His Favorite? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzFKTUV3cDJXbE92YnplWWVsV0JfQlZCekFCV3hEbjBqSUNzTDdWUDhlZ2VwOTVYRHBzdFF6cHVROHc2RVg5UXhNZ09KTVZpMmJUcmR3ZmFRaTViYnFQajlyQ1prZXI3bTZvd3llZWVIYVNsTlJ6VkM5Q2c3OFlPMGJYTTJocnZVZzZvQWR3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer: Is Edwards Lifesciences (EW) Poised for a Comeback? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRWk1UElPWUZsdktBZXRmemNOWkVmQ1lrTDdJM0tFYTJyNkc4T0xyZXpQWUJlRlpsMUFyYVlpUENhMF9JR0ItUkloY3NrTlgtMWR4X0k4RDB2SHhFTzVtaXRoRy1GVldKMmJNX090QlQ0WU1NSkl1XzhzY2hGdzFmSkc3VzFicW8?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 70.53
-      },
-      {
-        "date": "2024-12-03",
-        "price": 70.2
-      },
-      {
-        "date": "2024-12-04",
-        "price": 74.2
-      },
-      {
-        "date": "2024-12-05",
-        "price": 72.43
-      },
       {
         "date": "2024-12-06",
         "price": 71.53
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 77.97
+        "price": 78.1
+      },
+      {
+        "date": "2025-06-03",
+        "price": 77.72
+      },
+      {
+        "date": "2025-06-04",
+        "price": 77.85
+      },
+      {
+        "date": "2025-06-05",
+        "price": 77.77
       }
     ],
     "current_price_data": {
-      "price": 77.97,
-      "change": -0.23,
-      "percent_change": -0.29
+      "price": 77.77,
+      "change": -0.09,
+      "percent_change": -0.12
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sent\u00e9s ont pour sujet la performance des actions d'entreprises cot\u00e9es. Les informations ont \u00e9t\u00e9 collect\u00e9es sur le site web Yahoo Finance.",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

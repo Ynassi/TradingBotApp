@@ -2,55 +2,163 @@
   "ticker": "ACN",
   "name": "Accenture",
   "sector": "Information Technology",
-  "market_cap": 196982210560.0,
+  "market_cap": 197423546368.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.940231,
-    "PB": 6.7398148,
-    "EV_Revenue": 2.958,
+    "PE": 26.0198,
+    "PB": 6.754915,
+    "EV_Revenue": 2.954,
     "ROE": 0.26965,
     "ProfitMargin": 0.114300005,
     "GrossMargin": 0.32182997,
-    "DividendYield": 1.87
+    "DividendYield": 1.87,
+    "DebtEquity": 26.706,
+    "CurrentRatio": 1.477,
+    "QuickRatio": 1.33,
+    "FreeCashFlow": 8601244672,
+    "OperatingCashFlow": 10407318528,
+    "FCF_Margin": 0.12795379056523606,
+    "ROA": 0.11576,
+    "PEG": null,
+    "EV_EBITDA": 17.309,
+    "BuybackYield": null,
+    "PriceToFCF": 22.954361567079022
   },
   "technical_indicators": {
-    "RSI_14": 53.14386017962406,
-    "Momentum_10": -0.947467576094138,
-    "MACD": 3.175470333821238,
-    "BB_Percent": 0.4766328100703516,
+    "RSI_14": 53.60146143671832,
+    "Momentum_10": -0.7270544975823282,
+    "MACD": 2.460104999510463,
+    "BB_Percent": 0.4317102221841144,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8878530202886527,
+    "ValueScore": 0.884907403956039,
     "QualityScore": 0.3069805112335933,
-    "SignalScore": 0.6090885497145802
+    "SignalScore": 0.5828463209897787
   },
-  "volatility": 0.0188216368884798,
+  "volatility": 0.0186267276058699,
   "beta": 1.327,
-  "return_6m": -0.1212596958222865,
+  "return_6m": -0.1112985914976957,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 24,
-    "target_mean_price": 356.28918
+    "target_mean_price": 353.93124
   },
+  "news_sentiment": {
+    "summary": "Accenture (ACN) a récemment renforcé sa présence dans le secteur de la défense en intégrant 250 ingénieurs militaires via une acquisition stratégique en Italie, mais ses actions ont globalement sous-performé le secteur technologique. L'entreprise a également lancé plusieurs initiatives d'intelligence artificielle en partenariat avec NVIDIA pour soutenir les start-ups et les entreprises, ce qui a généré un intérêt croissant des investisseurs. Cependant, malgré des annonces positives et des collaborations majeures, le cours de l’action d'Accenture a connu des fluctuations récentes, indiquant une certaine incertitude sur le marché quant à la direction future de l'entreprise.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Accenture (ACN) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORkFFcXZQWHc2emNsOU9vNlRvOFZhbjEtYmFVWnZQSGhuR1JvalBZMnVXclFkMXphM0s1OHgtWllBejQxaVNZUXU4X0VHSncxMlNtNFdSM1VLeGh6aktQZjFITkEtVzVrUDZGTGJFVjcwZUZ3N0FfUi0zVDVmeVVsdERfWGxMYzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Accenture PLC (ACN) is Attracting Investor Attention: Here is What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUZXTVdJZWZPbDdCemNFVDlfM3R5ZXdtUmZ2b0RKV1dmTmt1NjVZanc0VVFuOXZHeFBJUld4dDQteG1sUHNJbzBmRU50cDEtOG11QnVHcGVRYzhPa1BDTFd1MGI3ZHdsSmI1RmxWS2cyMC12Nm9kSXdvMmRWdmp6aXJpZW9oN2VMLUN5OHNSejAtRDFRaVl4Z2t4S2FNdFJhV2k4OUtlTFgyT2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Accenture Expands Defense Tech Arsenal: 250 Military Engineers Join Through Strategic Italian Acquisition - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZWZRTmE3WHVrMDBZSU4tNXV3NUxIZ3ZIMDNuN0xqTGtGRnJwSDR4enFIcGt5cFc2UWs4SVUzN3poeE41RUJGZy0xcjlEUXlqX2RXRVJLWEZudFlPdDJjdk9YeHVzNkZKQ1hvdWdJRjBLUUdGaWE2QWpnWGlyUW55MTFBWElrdUlYQ09tZW42OFN2ejNaR3F6dktuczYxU2ZsSnBTSWF4RU9RMjFpOTBUS1lqRFc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Accenture (ACN) Shares Edge Lower on NYSE, Monthly Gains Contrast Recent Pullbacks - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGVLMk1FLUZ4UnY3RHg4N3hoQUJrT2hSdkU1N2VWbTJlZFlCdENSVHpKTm5PWUxKLS15NmNkeUJjazVMUEFaTURLREdIektwb2cwUHFqdF9rV2JDcVdObklPUzFja3ZGbDhRQWVJbHhsWUlJTTVMVEE3cDMwX1RfSzd1MmZ6VEJjMzdBX0EtTzgyZlZucTB4Z3FaamRDSGlHTjdNd2tSVndDOXFTVlA4bUZsay1GQ05jWU4wZDdKT0N5Zw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Accenture Stock: Is ACN Underperforming the Technology Sector? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcm1TLWtDNUkwMEdzWHlfYkRjYjdtV2VUeW9sZV9SR1l1ZzE1ekxCQ2p2QkpRY0pkdFFWOG1hajhYM3pDc3p1N0dRcGdqNGhtakY0Wi15TzFiSXR0Z2JpM3JTRXp6ZVpVMHZyQ0hwOWZ6T3JVcnhnckhiWGxBOU5vazRkUDRhNjEtWnV6cndrU29waEtjNjRnZ0RHMk5Ka2tkb21DMzBFOUN4M053aVBOU3UyT0s5Tll3R3dRRW0zX0Rjbm85WmNDY2pIeGJDeFlDS2pnYm54OA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Accenture to Announce Third-Quarter Fiscal 2025 Results | ACN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlpBVDZSU251U0xQb0gyR19BcXE1TzFfaHhDYndIc1BQbVRZR1U0d241eHBGX25fUmVhZGpnM24yNmhOWFhwWDExdWktN19saEZtZldRR1ZuZTZzMlN0bWtZeDJjb0M5RE5CemdWWm1KZUtIUGdIcWZOckFjT2JDeFF4R2s5WkoxNkk4UVJjbk9kZ3l0MVctQmNOTVJLbHBVTkRHMEVySDlTRzAy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Accenture (NYSE:ACN) Expands AI Initiatives Through NVIDIA Partnership And Reserv Investment - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYlprZEEtLWFMVks0eVFWUGRSb1R5UzRVY1ZHdVBWRXJDMHF4YmRaeHJfeEJYMVpReXZXeWk3QjNaSjlpUi1GZ0JDa19za3Y5bjRCemN0cTl4eGIwbHhfZjNvdWVhUG9fVjNybHExWkFDRlBJYUxJLWZIX1RfM2ozMVNmZEpZTmgwQUkydVJ2LXRvbmdKOVF0VGVVSDkyQUZlNDhBamd2OFBtRU1DZC01OFVIajU5WlFsbGhMVV9nY2diczTSAcgBQVVfeXFMTW5GTUVKaGRmQl8tVDFSeXA5SGZacFlqeDZsMTYwT0c1cXJGeHo3aktfOGh0TGZ1SlFYa1JWQlo4YTdabU1vazZRMWhSamI4dVY2QzZIWlFuU1ZIN1NDc2RpUWVfUVFRY0t5LXZmT1E2U0ZZTS0yQlh6OVBZOFZZRHBaemt5UWw2b1VJczdfVTdUM0VJU2FvNWt5TnpIUk5jaVJKODRHZW1Dd3NlUk10SlRYY0Rycnhtb3JvVWUydlFNc2dnNllwUHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "EY launches Studio+ to compete for bigger share of marketing budgets (ACN:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZm91aGtseDJIa1E5VEFQWGVUUldOMEMzMGpyLXdsRnZLVzdabVdlUDh2WDBuUXdobzdZZTZpeE5taXNTVGZ5Q0lLalplWjZUaTNnakdYaXRZaEJfczFUQS1DcHN2T3hJVDI4Sk54SnRHMzNWSVJUUmRFNkV3ZkJJNzExTzlVWnNqWXEwM05YcGJaNVNXc3hzSURsS1hwMWNJcHIyRklXOHE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Insurance Claims Revolution: Accenture Invests in AI-Powered Reserv to Reshape Claims Processing Future - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDB3TXFpZW5IZ1UwT241SUJfY19Sb0NseDk4a0lWQTJUSmg1eGdvN1poQy1kNnRoMUZsdi1UTUcwRnNhb0ZGOE1kWEpoRk10b184aFlnUnJQa0pqT1FjWHBHVXNFdnlqWC1kQkdoR3FiT0t2SHpEcjNLVS1WOTl0VkdyaDBvVnVPRU1YNENYd1poMnFDOW5nVG5SbDdQVEpxSEhPazlraTBzSGNHZXZFag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Accenture (ACN) Enhances Support for AI Startups with New Initiative | ACN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjBKMERKekwxS04yaEprWU1ac3BNWWVjVjFCSGZ1bndZamtrQ1EyT2U3bU5qSnpxRXRoWHlpRmU2d0lCRGhWUENISnVZTGhVSXV1clhqejRLRjVkZVZFRk1qenJTa2lLMERQSzZWeWkxVG1NZzFPb0ZfaDBQaWUzdlk1dUN4d0syRlRlRVR3NTVNMnlfd09zaGw1RkJNQ2JIWHpVamRMODB2Z1Q5Q1VSVk91eFVEZ19ha2daVg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "$ACN stock is up 2% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkJDVlBON3BDOVQtU2dxTW1GTzNrVGFPNndPREplaU1kQXJPaURzZjE0WGpIRHJ1b3ZFcllLdUM3ODJrRXVwNE5XUWlQeERvSUx5bTMzRmtxVEV0Rm1uRGR2SXpkUVFSVGhjb3Y2a0VObUVCSk11bGxweWRFeWdIV3Fn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Accenture Earnings Preview: Key Details for Q3 2025 Financial Results Conference Call - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3N1dkNNVzdxRWJhSjdXVG9NVjZ0YzUyTmMyUWU5enlFT2xSMmdEU0kwNVNoLVdIOWhfSnYyNXRRTGZkR01QczFxVzVPYkl3TUw1UlF1ODBZY0JTbC1wcmszNUlkem5CTDlaLVY5aVc1ZGxuNE16RmhrU1NVbVdyNy1zYjFUUkJsb1RUa1JiVUxqQU1ISjhreDhUVHFMQjNJcC1r?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Accenture plc (ACN) Among the Top Goldman Sachs Value Stocks? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Y21vV1c1X2Ixcld3SGxhRThMTWlnZERXX0tzUHRJSWNuQzZBRGVwMUNnOWFjTUV1eE56ZUNmM1d3dEY5akhhWFU5RURHVTBrZDJNX0FFak9qNHBqbHZqa0xaZTlCbzVFVHNDTDZTRmZCTDRaVkxXOEZDM0pQUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Accenture Launches Major AI Startup Program: NVIDIA Partnership Promises Enterprise Breakthrough - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQODZIcFRydW9Ld3hVZlN0Ykh1Qy1kX0o4MWgyQnJqTXBzaHI0Nm5GMVlPVXZnd2VWMkVRNFJ1MlBuVHhPLTJBU3pCZUV5X1pLeFg5MFhNQUFPWWRfekJraVZZQTBrWWV4cndmUC1QSWJzZmNrMmxrNzFuaV9vR3puWW1fSTVGdDN6VXZUWFFEQXNpMllYQnJkR201NUxQVU9uanR2WFpGeXNQdEVQM0E3NUl5TW9VNzl1UDNZ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Accenture (ACN) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWMxcUQ2b1I3NEMxbFVCT2FaeENrQ1Z1TEVqOFlCd2lMRFNCVGl0ckkzdkFPa09IUi1GUUhzeGpFNktCblZBYmxIaTJoZER2WC1LOUJnU1JqQVpWbmlYNzNWdTQ4cmFmRVJBbG9melBkV281LUkwMnp4aFNpcDd2VTlR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Accenture (ACN) Ascends But Remains Behind Market: Some Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb09iV2xScUtsOHVRYVVfa0VHVWpVZHpXdFNacFVVMkZ6SWNzcW1SM3hzMDNlamFUNGstRndOZUxndGhpZGRfNTVpWV9PWEN1d2NPV3cxUEJfRE5EWnloUDltOWdiUTEyRDcxdVdMWUhFNHRuR2Q3VFNJMHV6QlNnTHIyVGFvYzlOX3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Accenture's New AI Platform Enables Enterprise-Wide Agent Collaboration, FedEx Among First Adopters - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT1NyTXE2OGZKcUVBUzhqYVphMDduamR6V0hHOG5QUUxUb09yRThjbmxiR0d6cEhYa0ZHVXFNNHFPSzY1VUYtM0czckNHaDVISWtVMVo3SlM3aXRDaUM2QkJySy1Kc2M4cW5oQm9wUnBZaDZFczVfUEpHbUcxOUVVdHdsTzI0Vjh1NVliU0hxMW1MNzc1QWs2ajFsUU55Nm9YTHhXRXFuZ2JuU3dJMFVKWnJqbDhGT3NHUXNKcFBYMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Accenture (ACN): Buy, Sell, or Hold Post Q4 Earnings? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WQ0JJYm14bk9ERU5WMmNBbTVkRmg1YjZLZENiRElIRmtIbVBpM2FYd0h1alVaQXVnUUFqQTlXTXJDOEJHWU96VXp4eDNxZElESzRqeHhxVVRtVjN0VV9sQTNTX1JDZVlRMi13dFBzSDNPRmZ2YlpPU0tWeFIzUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Accenture Teams With Dell and NVIDIA to Transform Enterprise AI for Regulated Industries - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTdDYWgyRkxJa1Nya2FiejVGS2Q1QjBwUTA1bU5xb3A0bWF5eUhTekRqSnV0YnJBVlVETzgzRFNXRkxUcFoxM0tNOHFwMzZ4OENheHlzRWk2bUNybDVJUGpyQTQxTXhfZDR0SkQtYTJzN3RwNmsydFV4VVlqYlQzUl9aRmg2elloVlRmbGZYZTJZSjBlVzZvX2poODVhbGE0ZUd5X200UTdDX2VVVGJaekFpaw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Accenture (ACN) Expands with Acquisition of Sipal's Integrated P - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZHFDVUg3d1FRS044WDBKdWxrT3I5Y3gxdUJJRWs4a1paSkY4QkgzWTlOeXZIQXVhYVhVRDFOWnZrUXdvb3FzQUdCMzVtaGFrdk9pVTFCMTgySTVyNXgtZjJKbVhvQ2dRNi1HVmJTUnRJZFdkU2ludFpJS1RKMndZa1loR2dZdWJqZG8tVnJJQmQzYmdiMXg0NjVZQUVKTXVnODBmUzFhVjhtU2RCb3ROVmhISnFfRlFLQXZEc0s3RW1Tai1xeDNkVA?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 361.38
-      },
-      {
-        "date": "2024-12-03",
-        "price": 352.54
-      },
-      {
-        "date": "2024-12-04",
-        "price": 360.03
-      },
-      {
-        "date": "2024-12-05",
-        "price": 358.13
-      },
       {
         "date": "2024-12-06",
         "price": 362.7
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 314.38
+        "price": 314.47
+      },
+      {
+        "date": "2025-06-03",
+        "price": 312.9
+      },
+      {
+        "date": "2025-06-04",
+        "price": 316.4
+      },
+      {
+        "date": "2025-06-05",
+        "price": 315.38
       }
     ],
     "current_price_data": {
-      "price": 314.38,
-      "change": -2.27,
-      "percent_change": -0.72
+      "price": 315.38,
+      "change": -1.1,
+      "percent_change": -0.35
     }
-  },
-  "news_sentiment": {
-    "summary": "Accenture (ACN) is a global consulting firm with a focus on technology, business strategy, and operations. In recent news, there has been some debate about the company's underperformance compared to the technology sector as a whole. However, some analysts believe that Accenture has strong financial prospects and is among the top value stocks, as well as a new AI platform that enables enterprise-wide agent collaboration and FedEx as a first adopter. While the company's stock has been trading with integrated risk controls, some investors are questioning whether the market is wrong about Accenture's attractive financial prospects. Overall, while there are some mixed signals, the company's strong focus on innovation and technology positions it well for the future.",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "LVS",
   "name": "Las Vegas Sands",
   "sector": "Consumer Discretionary",
-  "market_cap": 28996478976.0,
+  "market_cap": 28459442176.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 22.924582,
-    "PB": 10.747773,
-    "EV_Revenue": 3.592,
+    "PE": 22.500002,
+    "PB": 10.548717,
+    "EV_Revenue": 3.604,
     "ROE": 0.44687,
     "ProfitMargin": 0.11642,
     "GrossMargin": 0.79011,
-    "DividendYield": 2.43
+    "DividendYield": 2.42,
+    "DebtEquity": 456.677,
+    "CurrentRatio": 0.595,
+    "QuickRatio": 0.555,
+    "FreeCashFlow": 1662249984,
+    "OperatingCashFlow": 3016000000,
+    "FCF_Margin": 0.1484019210352593,
+    "ROA": 0.06875,
+    "PEG": null,
+    "EV_EBITDA": 10.943,
+    "BuybackYield": null,
+    "PriceToFCF": 17.114659047576804
   },
   "technical_indicators": {
-    "RSI_14": 57.23940968675093,
-    "Momentum_10": -3.21706733124932,
-    "MACD": 0.904370718253226,
-    "BB_Percent": 0.543956401823111,
+    "RSI_14": 50.63626420057927,
+    "Momentum_10": -0.1364433225056248,
+    "MACD": 0.7675953302608036,
+    "BB_Percent": 0.2502672003707444,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8845525066958543,
+    "ValueScore": 0.881675045905942,
     "QualityScore": 0.4085049446959664,
-    "SignalScore": 0.6037109306146755
+    "SignalScore": 0.5934003583124687
   },
-  "volatility": 0.0272362364741472,
+  "volatility": 0.0273676909498822,
   "beta": 1.022,
-  "return_6m": -0.2446145209906719,
+  "return_6m": -0.242631241754495,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 51.13
   },
+  "news_sentiment": {
+    "summary": "Las Vegas Sands Corp. (LVS) a récemment fait l'objet d'une activité baissière importante sur le marché des options, suscitant des inquiétudes parmi les investisseurs. Malgré cela, certains analystes maintiennent une recommandation d'achat sur l'action, soulignant un potentiel de croissance. L'entreprise a récemment attiré l'attention des investisseurs avec une annonce du PDG concernant sa vision stratégique lors d'une conférence majeure. Toutefois, des interrogations persistent quant à la gestion de la dette de Las Vegas Sands, ce qui pourrait représenter un risque pour l'entreprise à l'avenir.",
+    "sentiment_score": -0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Bearish Options Activity Observed in Las Vegas Sands (LVS) | LVS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGN5bTlzbnU0SWd5cVktdUlJNDBUZTM0RmZBaHF2Y3BvOHpCSWJKM2RESVl4Yk9rcVpSMmlOaTcxdW5jY0JYblV2QldWaS1CTVk4eFF0WFBLU3k3QmE0azQ1aE1HRXBjREcwdUo4b1lrakNzb2FfNVU5S3RicVpMVHQ2Vk5TdUR5eWtlSzN3T0lQeWVaQngyY1ZnOFQ1MURMcFZUZGVlVTE2blcxSGlz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "stifel maintains buy rating on las vegas sands stock By Investing.com - Investing.com Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1k5QXVJS2c5U1I0d3V3a3huYTZOWFUzQzltcWxpSUk2bXlwVXBYYzhEQTJMSmhPRjZfTGFwTHQ4MExONVR0ODRGZU5WRklaRG5zRkVwWV81am9kR2Nhend5MGhaR3hmS1llSFVQa0puSW1DUFNIRW4weENrZENGMklaNHh5SVpOLTgzcVdZanIzNUhvTWxkakJoVlpaZ3ltTVBYZlpuVEZmNFRJVlJlcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Contravisory Investment Management Inc. Takes $449,000 Position in Las Vegas Sands Corp. (NYSE:LVS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc1laV3NMQVA4WFlGMWdNZ0ZHRWpQWHBJd1E0TTh5UjEtU3E2cDdncnAzR0kxaVpaZ0hmbnBmSDNuZVdtc1A5MFNkbWxTLW1EcmxfdnRBQlhlc2RRdG8xUE5mTk5rZnlDSlV6NXZ6YmVreFYteTF5c1VXNkdXRHBLdXFObzd0aUppaEU0UG9FS05pUGZsMVBOZWVtZU5hUEMtblVhd1FYVkdnNkFuUWl3TXZkZHBWZXNwOV9ZenkySTYtS0x2enhBRzI4eUN0MVFMWHl5aUkyMm92VkpzZFFrWTRUYmRkaDUz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy Las Vegas Sands Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNempIV3drUXZFX3JwUFFLUlRZcDhySjJUWUxPcEU2b1BSR0ZTd1RNZjJmZXhJdkljWmxGQnBlM0FsY3hHUmZOYzVwWXV4b3dpb18yWGppVFRaQnRtWDZtOXZfR0h1TWNiSURmLVV3bVFWZWJ0ZHl5Z0Z2Z2dkYllSTWNBUzNtUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy Las Vegas Sands Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PQnFNX0ZSU2dRRktvVnlWZ1IxRzN4ZFBDZXFhaXhLOEd1dEltMTVQVmJKRE9nWWJ3cFN2YVhyRTktMDdINnU3eDdQV2JVWjNaeWUtbzFMekdIc1pzNDdwZEtGMXN5SnRnRnhtWk9VZHlscHp1dUtB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Las Vegas Sands Corp. (LVS) Declined on Investors’ Concerns - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ja2xzWTRadU9TREVBRS1IZVlZallvQ2hGd3RMbzNEMnZBMk1FT3g2d0hIQWEzT091d3ZNU1FjU1NjeHZNODB6aTJCLU5BVk1xaVNkaGVCVHpiNDJzenk2UzB0bmppRzZLVGM4UWF3YTZ3T3NHbF92eDhn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "We Think Las Vegas Sands (NYSE:LVS) Is Taking Some Risk With Its Debt - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVmZIaDktdC0wMWp6eHo5ZFRpUDJ1aWNRUjBKQm54Nk1NcGJJZWtvZDNSZWpPQ1ZEZVRUa0JKSVVyUFBvLTBkcnA1enJuOTdKX2dGZkhSMFFpU2NZUGlFbjFISDNzZFl5UzMyQTFHUlE0eF84bm1mNUN5Y1U3OXJfSjhLYURjUjJEaFg3NXFsMTgtakNHdkFNZTR2bFBfMjlZUlJwZDRhZU0yc3czMG50Y292dWtfUHlJSXM1eXNISEd3MFRiU19lcG9EZWRobllXdVRfeGloY9IB3AFBVV95cUxPanAzVFpNRkNTODd2WUJzeV9Kd1gwbU52Qnc0cVBuZXBKUV9xRGtaZmlnOW8wS1lZME4ybGxoSU1tOENTcjJaRV9ZSHNOZlhBQXlPcFZ4ZW1ZcERMdXZWZUlQdG1vd0JZTnFfSDBnTkFDVmFoWTQ2c05iQlZNOXNUMnZZME92WWx3bmpFOXU5am9QU3VtRUpwM1ZOZ2Z6cHBwcWVsYlJRTHl0Z05nMWt2RExiV2N6ZXpQTl9LQVNROHRFb1ozVElETmxwNUNieFkyb2h3aXdTYXdOVmpQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Las Vegas Sands Corp (LVS) Shares Up 4.09% on Jun 3 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUFVsODA1STI1QWdJY1pIV3JvT1hZWnNhQ3UyMDkwYlZzaHEtWVY5TWpiV0tFMFJsaVc0dlJEdkRPWXlDLVc1QzV3X252bVZ6aUhzZmhMcHg4Yk1nTDhBalBzMWtLUnNWaDljbXZLR3BMbXh3QVF6Y0lOUnV0QlVLaUlaeWdxLS1UUUhnWWxxaTRGdnFsTEl1N3BZSmNXYlVMVHVJSXZ1WFZyaUg1QW5jb1BhTHBlOS1mdDgtdzA5X0JVUm1pcFgtWVFjZEpNdjZoOU1ucmZR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Las Vegas Sands CEO Set to Reveal Strategic Outlook at Major Bernstein Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2hpc2R5N0pYMk9wWkZGdzB0VEhGTjcxaW5La1BJWHBxQTA1eUg3TUtBM3BzSUQyTVhSR09jQmtub0l0eTZjVUVMQUZPQzJJM0ttOVE0WmVBbDZfVTVCUmlrUXg0eGZDOGpTdG5VaEZoMVFMVTZLYnNIdDRZa1dkblNzR0ZTR0R5enpOQS1CaEs5WHlJRUEybi14dUNkRVJBV0JjQ0pjbXZBaFZCQUsxdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Las Vegas Sands Corp. stock falls Tuesday, still outperforms market - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOEZlRUprQ2hRa1ZoRlhBVC1rOW40SDJSdm5yM3NVRUhRbkZFWVV0YW52V0RtTHBCZmlZM0V6YS1JLTBoVGZZd2VqdzN4bjFLSFE4eXVRU2FWTkdYbHlvNnA1aEZLY08zM09fbnQtLXh3MWs1Q0dJSDlpQ2FoUmhkeV9sRF93d3FKVGVEeWRLMkoxZUUtbXRDNGh4NDJaZ0RSeGFrbFVReEhXVG1mczNvTzJUYkZPQmljYXdpSlc4NHI1aWM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Las Vegas Sands Corp. (NYSE:LVS) Short Interest Down 12.6% in May - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUhNbFdqOElVcGw4MW9RQ3Fnb2ZpaFdQZTVNR0VWMlJwSE0wb2VUOXRGc3hINHFmb0ZNNDNHRVhSVEhUa1I5ckJlS2xXOGZhSGdoX0xTWXlGazktVmR6cGtFMjFXUGJLNjdnN1RyS3VmM0RBWUJDbVBUamVYTGRKUTlVM3ptQ1VhWk12Ukxxcm1FeXVsQ29UWTY0enZJUE5oOU1yUk9kbW5IaV9SYnQ0a21vNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Las Vegas Sands Corp. (LVS) the Best Gambling Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GSFk2ZVhoaWprcGdCN1pCTXFocU9NT2ZFN2g2NHM1UklfRnRpSWIxZC1uWjRLaGRIWFMwR0pCZzAtV1NBRW5CMW5WNGszTVVlR0Z1U0VTZHNQSFNobVUtLVlaanh1YlhoUUVOcFlNcWlrVjRYYUs2dmxn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LVS Quantitative Stock Analysis - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mLXZtUVFERFZJSXQ3RWgtb094VUdrX2tGbXFNQmlWdUtIQzkzRVhILVdtV0l3Rl9CaTVXa1czT3BtRW1mN0lfSzY5c1ZMOUpYQlNQbm1rUXdSTGtZYVU2cTFwNURxNUxfb2lNZEdBaFpLc2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Las Vegas Sands Corp. (NYSE:LVS) Stake Lowered by GTS Securities LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHUyYmpTSHd5YUNzZW9GTUZtbkItZDRmX2h3eGpWbURZV3lxSWcwWTdJemg2NEtVVi1MWWlueElCV0RYY1FkZkFOZ3dlTnAxRU9HODNxeWlVdGtHb1VtVkhXXzdrYW45eVNVTC1DX18taU8wbVE2MVU0aFFtN1BYUnp3dV94QWlVWFZBblVldXprd1BQN21jNEE4UWZPMjRqWEdwaHd4UUR1MThVaUdHTXJna1Roc3JlejB4cEJHS3BTZ0loRmtDaUp3MA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Las Vegas Sands Corp. (LVS): The Best Economic Recovery Stock to Buy - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5VG8xNnBrdGw0b3d2OHpOUlJhcEgtaE1BMDdkUnZkOExYdGlwQURieHNpUGMxM0E5TW12dkRZYWNEcldjaUJjZlBJVmVfWjBqc0FHQW9NQ25TYWV2bzlac01tUG5TcXV4Q3FRUXhlZWZaR1YzNGpZOGdn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Toronto Dominion Bank Lowers Holdings in Las Vegas Sands Corp. (NYSE:LVS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjJWLUllcGR4Q0g3dXg0djh4bkFibWN0WF9sZEVZWDVJenpWZUhNYl9mUVlMeWtDeWRlOGJHdWplT0NmaGZZYUcxajBUcE9Pc2tDajE2WmdybWhCQy1NN0pHOGY0N241N2FqY2o2WG5xa0gyYThXU0plem83U3BZRTJDZ2NmWHFhUlVaanlDeVFmSUVuN3lIRmd5b01lRHFfMUhXdWNYUHdhaHNjV3lZWHFZbmp4VE5RZXVSQml4d0VYYjJI?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "LVS Sees Growth as Macau Gaming Revenue Climbs | LVS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVlLRUxyWS00WWJ6SU41QTBMeGxWbEs2NXZ3U3pqbWRIcjQ5VzFCaUY3aDNwOElUSHpmVVp0Ui1Dd2ZlemhULUd0VHRMelJiMlpXa1VOUEJZYXFpUXV4T3B2VnRXVmpLSTVKZmdsSkU0OTcyeVNZOVdtZUlSc1BPclZIb3NYNVlkbXF6Uml3WmpyR1RNMGpPbWtITm5FbGJ0R2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PKO Investment Management Joint Stock Co Buys Shares of 29,000 Las Vegas Sands Corp. (NYSE:LVS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc1VuaGF0QVlNekFobG5HeXlTNDlyR0o2RVNOTmpJT0NBWXBvLVBRSHlDSlJxcG5sTGYtaFlJcXFUb09xYXJ4NEZkYlFuRGY0eENITzhFZlZuZm56NU0zMG80V1FFUE84OEhZX3VITV9DZTYzcXlHTDBUc1B0MmdHQ3pWQmZRNUo5SlU4M0laQ3p6MkVSTU9Zc3YwdDI2MGF4T2xVTDRhWU9USXJpeW1YTk44VmhPWmhSbkdiRExVQ25JeFJXZ1JFc0x2MjJaS1lSUEdnTDNCWFBteVZ2d3ZfY0g5a1lwRkpsaENiR1FHNG55a0h2bm05LW5R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brokerages Set Las Vegas Sands Corp. (NYSE:LVS) PT at $56.75 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTkhsVExLV2NqTWlNRVBTeW0yZDRhWjJpekZxVzNsSDlpRGc1MThuVlpvcVBwZW9mVFhOSW9UUVFnWVByaHdzS3ZxRC1jTVdibmNnbGxZa3N3anloeFRFaC1CNE1Rcy1LM19TQXNMMUx1WmFaTFQtQ2xWUlBxQ3ZQQVoyWFNDVEZJU25FZUJhRjRraHVPLXBkYmUzWHVmVU9jWHdxNUozejhUV0xTX290S01uZFdZb0RVSDF1RkVSY0xzeDdGV1FIbXJuWEJnaVBYNW9udzk4MkxGN28?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Woodline Partners LP Buys New Position in Las Vegas Sands Corp. (NYSE:LVS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMjBMa3pROHhFd2pRclhrS2hPTUZRMldBcXFQdk8zR0J6ajFRSmxXdjZ5MDNhQ0dWa2thdUtCdThNdWFCcWtCTmp6cFc5cDJ1UzliczVUQi1KaWJhNzRCeUFSR0dVR2ZWa2RoQV9SY3RDZFNwQXpWdjBoMk1RbmJnNlNSeW56Wk9ZUC1YeWgtVmpYb25heGJKWmhZRnhGbkF5NEdIWlQxalRDYTZiRzU4dTVXZEpZWWI1UnRKZ2RhclQzUTVOelFSZXF6bw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 55.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 53.9
-      },
-      {
-        "date": "2024-12-04",
-        "price": 54.6
-      },
-      {
-        "date": "2024-12-05",
-        "price": 53.84
-      },
       {
         "date": "2024-12-06",
         "price": 53.99
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 41.01
+        "price": 41.11
+      },
+      {
+        "date": "2025-06-03",
+        "price": 42.13
+      },
+      {
+        "date": "2025-06-04",
+        "price": 41.35
+      },
+      {
+        "date": "2025-06-05",
+        "price": 40.26
       }
     ],
     "current_price_data": {
-      "price": 41.02,
-      "change": -0.12,
-      "percent_change": -0.29
+      "price": 40.26,
+      "change": -1.09,
+      "percent_change": -2.64
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sent\u00e9s se font autour de Las Vegas Sands (LVS), une entreprise cot\u00e9e en bourse, sp\u00e9cialis\u00e9e dans le jeu. Les principales tendances cl\u00e9s qui \u00e9mergent de ces nouvelles sont :\n\n* LVS est en plein essor, avec ses revenus de jeu augmentant fort \u00e0 Macao.\n* LVS est pr\u00eatier une partie de son capital pour soutenir sa croissance, ce qui pourrait cr\u00e9er un risque pour ses investisseurs.\n* Les experts conseillent \u00e0 investir en LVS, car ils croyent qu'il est le meilleur stock de jeu \u00e0 acheter.\n* LVS est en train de r\u00e9",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

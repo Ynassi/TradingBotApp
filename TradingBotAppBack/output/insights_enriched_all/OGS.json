@@ -1,56 +1,164 @@
 {
   "ticker": "OGS",
-  "name": "ONE Gas, Inc.",
+  "name": NaN,
   "sector": "Utilities",
-  "market_cap": 4659195392.0,
+  "market_cap": 4582406144.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 18.02657,
-    "PB": 1.4042184,
-    "EV_Revenue": 3.395,
+    "PE": 17.72947,
+    "PB": 1.3810751,
+    "EV_Revenue": 3.361,
     "ROE": 0.08078,
     "ProfitMargin": 0.107480004,
     "GrossMargin": 0.36277,
-    "DividendYield": 3.58
+    "DividendYield": 3.65,
+    "DebtEquity": 100.849,
+    "CurrentRatio": 0.592,
+    "QuickRatio": 0.407,
+    "FreeCashFlow": -279704640,
+    "OperatingCashFlow": 537608000,
+    "FCF_Margin": -0.12373967940599313,
+    "ROA": 0.03392,
+    "PEG": null,
+    "EV_EBITDA": 10.288,
+    "BuybackYield": null,
+    "PriceToFCF": -16.385251184964254
   },
   "technical_indicators": {
-    "RSI_14": 48.166083636853955,
-    "Momentum_10": 0.0133938709033286,
-    "MACD": -0.3886196846514878,
-    "BB_Percent": 0.4256624734859805,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 44.036210764424894,
+    "Momentum_10": -1.858536398760568,
+    "MACD": -0.4589186280927322,
+    "BB_Percent": 0.3205485482844722,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9325887314700506,
+    "ValueScore": 0.93057884971451,
     "QualityScore": 0.412618609690757,
-    "SignalScore": 0.4914608422671693
+    "SignalScore": 0.6039845535834665
   },
-  "volatility": 0.014577307330221,
+  "volatility": 0.0145891532218536,
   "beta": 0.806,
-  "return_6m": -0.0101000747947546,
+  "return_6m": 0.0293563952665387,
   "analyst_rating": {
     "recommendation": "hold",
-    "analyst_count": 9,
-    "target_mean_price": 77.0
+    "analyst_count": 8,
+    "target_mean_price": 77.5
   },
+  "news_sentiment": {
+    "summary": "L'entreprise ONE Gas (OGS) a récemment connu une série d'actualités variées. Malgré des résultats financiers solides au premier trimestre 2025, avec des bénéfices et des revenus supérieurs aux attentes, le titre a subi des baisses de prix, notamment une chute de 6,9% depuis le dernier rapport trimestriel. Cette tendance baissière a été renforcée par des ajustements de cibles de prix à la baisse de la part de Morgan Stanley, ainsi que par des pertes continues pour les investisseurs sur trois ans. Parallèlement, l'entreprise a annoncé une offre publique de 2,5 millions d'actions ordinaires, ce qui pourrait indiquer une tentative de lever des fonds pour des projets ou des besoins de financement spécifiques. Les investisseurs pourraient donc être attentifs aux prochaines annonces de l'entreprise pour évaluer l'impact de ces développements sur sa valorisation et sa stratégie à long terme.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Is ONE Gas (OGS) Down 6.9% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pLUJaTGp3X1FxbnJpTmNzaDFnM2tXV2hmVWQwY1FZTFZoNEZFeDBfenYwSW1lSlc3QXR4dWpfczM4cWRUcDdUSDUxbDhVXzcweGhWZFlZeUY3WUxZUERhUkRuMzROblBZSGt1R1Jncmx2dVRZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ONE Gas Leadership Team to Share Strategic Updates at Major Utilities Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVAyOGJPSTFzd2VPQXhmQktIYVN6eUprSW1KZWRKTkJfT3FjMjZhVjZpNTBDenFsRF9qSW5rR1ZHZWdyTEFNZUJqZnhaT2FrLV9oMGxYX0dqWG9ONFVQM1BUZXR0RkFQeF9VSnB4VWxvVDRiNGxvSncycTJSaFZzMWtDWkU0S0xuakl6NTlPRW93QV9lTTBoczVwY2hBNXlEbWU3emViOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas to Participate in Mizuho Mid-Cap Utilities Conference | OGS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTm5uWnFKVUZ6SXc3SkVOR004SzBiOGFmbFQ5dFUzdzNfMzc1ZlNIaHRzRzVURUhTYWk2bmMxLUFDUF9wVFlrblFpR3BsOVozblFhbEozWWZpeHh1NHpock91RHRlOTJhNlNkT290OEVMZnc2eTE0Q19weEszcF9rNTVONHBReDFaYS1CWFphNU10cExZX0R0QmZ3YUowZk40WU1mbE5KWGhrb1lINjR1N3Y0Zi0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To Trade (OGS) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWw3eVhUN09ZSFE1ekNNQVJwTGtBbmdfNnJOWTdJV2JZOGh5b1hka3QydjM0ajZJcU1zWnl1cG9GaEFPQU4zY0E0blVUeFh5TTY1R2cxOWtKbnR4M1NfZld5a2t0SE5FcVZ3dXctVjdUSVlkci1yTndvczR5d1U0UVJyZTE3dzV3Z0MzaWtCMVNGSVhaX2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas, Inc. Announces Public Offering of 2,500,000 Shares of Common Stock - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcmJjNV96VnllWVROY0taZVk1ZWJVU3NyRHhrYWttdlRYU3NPUDZGUjdLdU81YUNyMkxnNk1ZcEgwbjF1QUVFNUZtSnNLSkotTmhPSVE4bVB0dnlBMGUwcFdBUXJCXzc3NnpTQWgzVVdfRGJYRXduZHhLOWRWUmhLTUozZ256bWIybFlTMXQ5ekJaQU5GaFFzaUtRLXBGNlNNUE1vUGQ5SFlfM2JhWGk3NTEzZUZQT2k2NEFlWDg1NUxIZlBtaDl6OQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas, Inc.'s (NYSE:OGS) Shares May Have Run Too Fast Too Soon - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0ZIVlF4WGF1YWRtQk1ERkxyQTg2N1NBMVliRS1QRnk3a041QW95VmtiOXJkVzZiNjYwaDlDeS1ZYjdPY05Kdk85NDVqRHJ1Y25QMkJEbkI4QTZuenNveE85OFZJQmRoZU1EcXZHbEhmS0NHelZINGVBcno4ZVFqZWhLaEp5cHI1N19rNTVXS25wMmQ3MWZ3ZnBHWloxQmpubm1zQWpNa0xUOUFsT1IyazVPMnFJUTVGX21TcDhaZ9IBxAFBVV95cUxPQTFwR190VXhUSlRocC1VSFVNYTZMYWNQUVdLdWQyT2FOdmdaTzcxbnpoa0lGNVBCbldsMW8xVzhPb0ZOU0xrY2NlVXliS1pEYTh6WVdFN3hMY0JJdUxsZnJKd29tXzcxUjdlUUI2N1diR1Q2ZmlTbXdFRVF1ckkzMkxyR2UySjRzNVpaWDhqWnNzUnBwQXFSZkwxOEl0UlVQeHVhMTF4cXdGM2lpTW9fV3IxajQ4WUFJSkhONmFDSTJLQXh2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas Announces Key Decisions at Shareholder Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQm1jMlRXZnpLRFBsdFE0Y193TVRCZDZwSUdFdHl4LUloTE1BUVhlUmg1Qm9nakszTENSaHo4elFGdXZOVDE0SDRwekxWUC1XUE1neWdoY2ZHWlpoNzNDY1JNZ2l2bGpEdnFja3ZyUzdmOC1sUERSS1JrSWVhVXBTX256VkhxLWFtbzA5ZEFvRkZ0S1pDbmtEd2h6TVVLcnBsanZBc3FJWGJuUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas, Inc. Announces Public Offering of 2,500,000 Shares of Common Stock | OGS Stock News - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVJrQUJnZTdkeGNDRVJNbUotX2VjV1U5eUphWUZiNkZNZFpIUDhib1k5UEVfSDhQTlp1Y09xMGdfcTJJQWtsRWNSQVNramlTdzlQRmpnRVVVZEY2RkoxQ3hMOEFVbmdoWlRyUEZVNC1ZRzFOTzRSNS1IOU1rNUpnb1dsMjh0dTE0c2J0WV9RczNxNnZqbmQyRF9fVmRTZmN2MnBlanRfMnJjV3M2Zm9JaVU0a3IyT3Q4NkFZVF93?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas Announces Fourth Quarter and Full Year 2024 Financial Results - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZuaWs1czVxVVdUdUM2ZUNHMDl3TE9mSGM3bkhUeUtUSkl6UzBsaVVYcFBQeHlqdHpfeVBqQks5MFdzMnFwWWV4WVVXWFlKalpHTU9XZGNjaHhvTTdyRlh6N2xZWWlfNUhxUjB4WEN0anlyZHkwN0pQVmZzVDVfXzJvaHY2a0xJU2lQdkM1TDJ1UWxZWHNuQ3lQMVBQOGlBOFhmN3Q4Sy11OGpKazAyY1pWZ1d1NFlFeHNIM0xYSTVtcEk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas (OGS) Sees Price Target Lowered by Morgan Stanley | OGS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkxDQ0VORVoxUnlsOXZuQXZ6Wm5OMUVJQjdJbE82WWtwdExVRGpPMmdRVDB1VTVLb0JfeXo0S25mZ052VkNIZTRDVjhTa2w5QXFvOTVhYkQwZGNFdHhfTUVGbWNaWi1rWjNBM3hFbEdubFgxbVYtQlhrbGNiRUh2STN5aDNXaVAxUVFSQ3pwc0ZQeXEzVEJBUHBmNzNDdHAydUNnblYtQTl0ZVZBWGNZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Investors three-year losses continue as ONE Gas (NYSE:OGS) dips a further 3.1% this week, earnings continue to decline - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWZ2cjAtaGxibW9KQVlrVTZMS1kzQmRhUWc2UHI2MEI5aE5uaVRsa0xrMmhvWlZwaVl0bUtmZk0yMWdyUmFqd29SYnYxTk42bjlGeV9vRUtUNFZxMlM0MmVqX3gxQ1JFYTZkNFZBZWZCVG1pRjZFWlRUSTdXQzkyS1JUcnpRTFFxS0wxaGd3QXF3cUhXMGV4cnJ0cEphN2FmbGZrY2ZwS3ZJN011UEtybFQzOGlWQW90VHBnckpHdDN2UdIBxwFBVV95cUxNYXU4UDJiYVVDcnBoTVJqREVaZVRGb2VzN3d5Q1o4ZHNHXzVzWC1iMGo1NGtUZ1MwVzRPMDhUSXpIUFVjRzJBRHhvaTZRVjdwdjc5dWt0OV9DTVNDTkdSeFI2MXp4ZlI2SUNoWUw2ZkZncEw1ZW1sZDVjNVZ0RUg4UzY1X2ZmRURFa0pvc0JpMGdIemV3RWZ5NlNfRlhpTWtUYWszX0ttczBjT3hxT2xKLTVsM3ZVUmZRbzA1bDduRnhpaUdMaVU4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(OGS) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDFmdmdmenZpTlJlOF9rcE05alBpU3lhZU1VZmgxMHg5ZHFhZGNDbFNFRm5iaFJsVWc2TWNzT0ZEdFRCVl9aZ2NvWlQ4S3VqZURYNWtHNmN2YkZfU2lTMGZaV0xiU0MtaEQ5MWRBelhFOUhpWnpVSUpYTXlGUUVNbzZtcmt1dmsyRk1kb3pmaXZDWGJUUzZKbzlRQ2dCTGZ2Y0RxbE5PRjZvaHU1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SR vs. OGS: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RV2RWdG90c215R2NOaXZBZ3Q4RXpHYWRXaXVXQmVUN0FsWWJNbFVWSV9BRXBmTXEtekRpTTZWSzl5dDA4ZzRCM01rYTh5UGZXajk4ZGZxaHJmYlBkMjFrY1h2STc5NUU1eGxfeDFDU3oxbkJPenh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas, Inc. Announces Pricing of a Public Offering of 2,500,000 Shares of Common Stock | OGS Stock News - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdVZCZXZxU2dxM3BZZklrZGwzRWk4R3hNOVI0NXNpeXZtSFF3cGZNRjJucXF4YWw2aDdoZlZUeEJ1M2RydzBRTGlIbDlpaXhycUVsdmp1YTZPako4cC12bzdidjZVc2hXZnl5eS00M2ZvSXJsTGVheEVMRlZtVkVDRzZ4LTcyNm1WN0wyQ1Y3RWxqS2M2R0l3ZVpPR3dmSVJrWEZIeUJUYkJTdUVaOTBlNm5qNy1zLUtR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "One Gas (OGS): Morgan Stanley Adjusts Price Target Amid Utility Sector Review | OGS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMFg5bjBLcEZKRklhQWxEUDZkUkF5VklkTTFQa3JhdlduNnN4T0tkMWJvZXVvZk92RkFJTmtjRVBadm8zaU1BajB5U0ZZT1ZCbUkzcEUtR0ZsdWp2Y2dVcURQeWNKZmE4Uk5FdURoTUk3WnlUNmVTY1lzWU9JUTFjRWYxWGZuc0llTlJ1QzF2S0lqWFNZOUZ3a242SnNPVm5CQl9HeU53elFZcDBuc2ZZZXl5VDBxNk5tUFgyZWNnQ1M4Mk84MHJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas Sets Record Date for 2025 Annual Meeting of Shareholders - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZEhFTS00MUFSX0dFWEt5aWV6R1AzVjE0MXhLS3ZjNy1kZ0FkdG9lcVBPNVZMb0ZZaml1Z3Ftd0h1bkxHeVVxQ3c3MVdQN2ZyTHFUN2UtNjVPVlA1NzJ5aG5rdm4tYTY1Q3dFNUM0T0hVWjRvYXAxV1lYYmZHU2JBQ0dQb3luQkJDR3F4SHNfOWV3X2tWazljcTNfQkN3QzBGX0p0ZDFCd2wzWkVudlROY0VfNWlBRHllMmczeg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas Leadership to Unveil Latest Strategic Vision at Major Gas Industry Forum - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2oteTZSM2o2b3FST3Rmc2U5Rm1TT2hobDNwbVBBLWctbnhjalFNSGNZUk1lX1JrUFU2MGhBZEtCUFpRYzJKZE9EZEk4aTNwNFh3U1BRbHhRd3YwSEp6RXJkQ2lUSHZ2UW9hVVB0ajNGQ1lrY3ZFR005Slowb05pVmpYUldwclFMMkQ4SHJwUUhNYktLT0MzdFhpRDZISV91WGJZZnNwRWJycDNHOUFsNUdtZkQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ONE Gas (OGS) Surpasses Q1 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zUjg5QU1KbzVmRWZPODlJTFpvQy1rcGdac3IwOWZFbFl3SFFaaFd4TXJtdFNYYXhEM3pMTmpCU05KT3ZqckJQd3NDYUo5OE15Mk8xSGJMTlRzVlhUSTVFVnBHWkJjSHZrQU9iclR1QkRsUm43b2VHSG1B?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ONE Gas Q1 Earnings Higher Than Estimates, Revenues Rise Y/Y - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40X18tVDlzR0JQMXhJdDNsbF80X0Nrd0pRVVoyQzYtb2x2TUxhRFk5aGVvTFg1X2pHa0c2N1gtQlhYcWJFNHhsZmFlNzJoWWdBZUwyYmZuWDE4V3B6ZkdDbl95YkNHX2VnYm5XZ28yazdUeVJuTTZleXpWaUU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ONE Gas Q1 2025 Earnings: Major Utility Provider Serving 2.3M Customers Reports May 5 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWZKelEzV1pVNXRJWC1zOHZQSUx4azd1RjBYU21tMEt4bS1VUTdFcXlHamR5OWd6Vl9rck9wdHdIUXBBTzBrSVRvbDJ0Wm1FaVBDYWdnV25UcUVOMW94Q2oxbzU4a2R0ZlYyTUhLUE5hOXpSSXFxaVhvV25DZUNNYzVyQVQzSVNWTlBBNmQ0cmdhaThBbWw4Q192dXBRcFJEM0k0dE12WHpEUTlw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 76.78
-      },
-      {
-        "date": "2024-12-03",
-        "price": 75.93
-      },
-      {
-        "date": "2024-12-04",
-        "price": 74.92
-      },
-      {
-        "date": "2024-12-05",
-        "price": 74.04
-      },
       {
         "date": "2024-12-06",
         "price": 72.62
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 74.6
+        "price": 74.67
+      },
+      {
+        "date": "2025-06-03",
+        "price": 75.3
+      },
+      {
+        "date": "2025-06-04",
+        "price": 73.49
+      },
+      {
+        "date": "2025-06-05",
+        "price": 73.41
       }
     ],
     "current_price_data": {
-      "price": 74.6,
-      "change": -0.13,
-      "percent_change": -0.17
+      "price": 73.41,
+      "change": -0.06,
+      "percent_change": -0.08
     }
-  },
-  "news_sentiment": {
-    "summary": "L'actualit\u00e9 concernant ONE Gas, Inc. montre des signaux positifs, notamment le prix de la bourse atteignant un pic de 52 semaines \u00e0 $79,03. Il existe un d\u00e9bat sur le stock parmi les investisseurs francophones quant \u00e0 sa valeur, avec une analyse longue terme disponible sur StockTradersDaily.com. L'entreprise a annonc\u00e9 un offre publique de 2,5 millions de parts de stock commun et a pr\u00e9sent\u00e9 ses r\u00e9sultats financiers pour le quartier et l'ann\u00e9e 2024. Enfin, Morgan Stanley a baiss\u00e9 le prix cible de ONE Gas. Il est possible que",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

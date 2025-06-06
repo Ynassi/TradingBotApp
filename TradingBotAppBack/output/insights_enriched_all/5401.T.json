@@ -2,55 +2,163 @@
   "ticker": "5401.T",
   "name": "Nippon Steel",
   "sector": "Industrials",
-  "market_cap": 2992407576576.0,
+  "market_cap": 3008089817088.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 8.538877,
-    "PB": 0.55586135,
-    "EV_Revenue": 0.62,
+    "PE": 8.583639,
+    "PB": 0.55372566,
+    "EV_Revenue": 0.614,
     "ROE": 0.06803,
     "ProfitMargin": 0.04028,
     "GrossMargin": 0.15774,
-    "DividendYield": 4.13
+    "DividendYield": 4.17,
+    "DebtEquity": 42.476,
+    "CurrentRatio": 1.948,
+    "QuickRatio": 0.9,
+    "FreeCashFlow": 164414242816,
+    "OperatingCashFlow": 978592989184,
+    "FCF_Margin": 0.018907911853196183,
+    "ROA": 0.03211,
+    "PEG": null,
+    "EV_EBITDA": 5.667,
+    "BuybackYield": null,
+    "PriceToFCF": 18.295798256690126
   },
   "technical_indicators": {
-    "RSI_14": 41.44414130167991,
-    "Momentum_10": -0.4347070074769605,
-    "MACD": -32.8324806651508,
-    "BB_Percent": 0.2772611353711555,
+    "RSI_14": 40.64248941422792,
+    "Momentum_10": 0.1404494382022472,
+    "MACD": -31.114152687823665,
+    "BB_Percent": 0.2265727645682503,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9004021568482339,
+    "ValueScore": 0.8975301477215131,
     "QualityScore": 0.3095532882432062,
-    "SignalScore": 0.6714326754730777
+    "SignalScore": 0.6458493263271374
   },
-  "volatility": 0.015488918703875,
+  "volatility": 0.015493453899081,
   "beta": 0.995,
-  "return_6m": -0.0421023801372898,
+  "return_6m": -0.0353800205495293,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
     "target_mean_price": 3794.0
   },
+  "news_sentiment": {
+    "summary": "Suite à l'annonce de l'intervention des gouvernements dans l'acquisition de US Steel par Nippon Steel, les investisseurs ont été témoins de plusieurs rebondissements sur les marchés. Alors que Trump soutient l'accord et provoque une hausse de 21% des actions, un revirement de situation entraîne une chute des cours suite à une modification annoncée. Les incertitudes entourant la transaction ont pesé sur les performances boursières, malgré la proposition de Nippon Steel d'offrir un droit de veto au gouvernement américain. Les réactions du marché sont fortement influencées par les décisions politiques et le climat économique général, notamment les inquiétudes sur les tarifs et l'inflation, marquant une volatilité significative sur les indices boursiers.",
+    "sentiment_score": -0.2,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "US will have golden share in Nippon Steel's takeover of US Steel, lawmaker says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTEwtb0h5U0ZBN19HblZ4WldoUkR3ZWYycmVUQlZVMmhHWUtWdVZCNUZqdXFvZUFsblk3QlhVX2d6MGlNNTBPZEtsWlYwbkxnUVFPSTN5V0lLVW5EN2x5Q2t6aVhoUHk2RGMxZTdrTWxrWVB2V0RLVGtsQzFBeGhLcjBHNWwtMzhpQUVIYWJ0TnNtMTZGZWNRYk1ZRmtMQlhmWXFvZlMyd3ZyYU5QcmRZQnZtMm53MzZU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "US Steel stock skyrockets after Trump backs Nippon Steel deal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkwtVks1VmVsS3ZCZEFHYms4ZVB1Y2JJMTBIM1RicnJvWXhabG80OFlDdEM1YmVPeXdCRG1rQWg2NWJKOHRRYmFmYXhtd2RDOXlvSU9LcUVjdEI4Z20tZUtqMjFadUpaNEJYX3FENW9fbkFVZ2piVEpOY1V3cWVobkhTVWE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nippon Steel Corporation's (TSE:5401) Shares Lagging The Market But So Is The Business - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUtTbGlaR3NCUXZWaWFpaDdtZGZIeDVhOFhMeE1HTkd6dnBId3Y0d09OLWQ5bl9kbmozZVUwdzY2X3J6Tm13S2hiWDNqWVZlcTM1UUlLUFk0RmFmMDRKN0dKdkpwRDc0Qk5DNkp3MXRNRTE5djR2REFjZzYxZUpNZVB5ek9BSjE4bEhmcTQ5dUJZb1F4QW5QdkRTclk4bnk5bHhwVUk5QjFuVXRhNlBPSkxYVDFrbkJoV2pmXzhkbHVNajVrblVOelFmLU9tdGdG0gHWAUFVX3lxTE1UZ3o1THVEQWUzUTE3U2lPa3NEdHVXUWNNVDI0Z1VlWXVXYmtuVWhGdHJkcmJ4OW5mYm9rZ1hEcnJfZmVUVGl6bkJJVmJ0a2FXWHJFdk1TQVJWNDFoTzlyT0tfMFY2YmZmbDZRMmE5RVhkeWlsRklwbDFVc1FQSGtIaUctaHZadWNKQ1AwOXRHRDlablNUMHNRSnR2aHRvNmV2bTcxamNPQnlkMmRoWlZDaUJ4NDg1NzFzTm1BMERVRjljRG45d3VFa1FQVk9TZlBMbGhpVmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CNBC Daily Open: Investors don't feel as threatened by Trump's tariffs - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQejlMbGxGbmlZUTk1VTFKTHVyLWNHclZJWGRoX0ViNXh0Y3JpSFpuWHE5NmxkQzhEZWxTTnNiWFRZZEYzRC1jZnVLRlRfQWdPQ0tQYmV2WXh6RmFwLXR3NzY4WUFEMFpFa1ozNEVlbUVOM2Jqa0Z3d3FtMXVsTHBOeS1NX05USlJ2dkptVEJfeHVQM19ncGxIY3Q5bDJfdkR5c1FvT0Myc9IBrAFBVV95cUxNci1HeEQwQUhUQlVBS3VMM3JTemRXNXlXRjJpU0xEaEV5LVhRMW1jX29URUFERWplR3hRQjVaYXBWUGg0dFJ2VjV2bWpCdTIyeVAtblE5TEM5ZlJlMUtEWXBSc1k1dGdTeWVPR2pHQVBQejItdkR6NWpmWE9NRVRHZ25xRkgxdWdnT2hfT1pQSmJUS05KYU1rWS1yOVNhOExqS3lCZDRiZjJoZG4x?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trump supports Nippon Steel’s bid for US Steel, shares jump 21% - Stabroek News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0RlSlA4eDFhWkFuRlJhSV9Xd01vS3JsZTA2RHc4Zk11ZnRHeFJjWEptQlhmbGs3RUJDRlVHUHZDU1FzRmdMeGhBaVZFb0poV1ZsdmUtcm8wQlR4R2UzelpKRFctTXB6N3Zsdk5NQ1RxakhkdHpPM29LRFpMdENRajFaWV9TUFVhM25aT2hoemUwRVB5bmJZQktKdXRZRF9zU21zNTg3VG5Qby01OW9rVVpR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Trump announces modified US Steel-Nippon deal. Stock falls. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLXVjSFh6RkMzNTQxVTlCLURxSl94Y0VYOWt0eWE2SEsyOGFFek9zWlhwR1dILU9NaC1icmRBYlZOaDBya3k2dVA2d2xQdjR5dDJ0WWFvbkN0QWswNGlkVGdpTkQ1UDhDTURMYlFUd2N3clpkaXhVbXdFbWNMRGsxV0ZTVVN0Q3M?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nippon Steel to use U.S. Steel merger agreement as base for US gov't talks, president says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM3EzRXhPYWVPeXdyZ2NJbnZ6U1hqQlFnUDZmUWxXU0dPdVAwM0xDd0Zwd25Pc1hEaFJKaU9Wcmx6S1ZiMTF1a0RpU2t1XzQxbVJaZ3R3NzJwaW9ubEU3OHRYZFRlZ2w1cFdUZ0xSMjdUd2w4OHNmbDRLanNySUdINnpBaV9sQ3dlMDZNanNwcnJ6OHhYcTFVQ09TODhObjZpT3VyeFE2a2ZER09GcFpkRDJUNng1U0VhSi1DYktiNXh2VXdjSjhRZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nippon Steel (TSE:5401) Has A Somewhat Strained Balance Sheet - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTXVyanotVmUtWW5vemJyZ1NIYVp3R1FnZERfZ0RvbFBkZHpnTURPNmppMGloSVBFMm9qUGlBYTh2S0FoeEVDM2Y3bUhaSUxvdDlvemREWXNJWVVmcmZaTFBhdjRLOVRRWXdGa2p2SFVTN3R0WGVLeGp4QjZUMlJKVmRhd29ENlVNdHNjYnAwY3NESml2VnBsdGY3dkliZzllZ0M3Tmp4bDI5U1VJZjZTYi1YeXM5Z045TTV1Wl9qQk1leU9fc1p1V0dwbHVpTE3SAdQBQVVfeXFMTUIxaW5LTXB3V2dHZmRpYUJNcXlLZElpaDJIejhYUGlnNi1PNWpnSG1FclJUWDBQNE4tZ1NseTFkdjh3eWVCeWpxcnJNNjNiR2MtbEJlb0o0aElTYW1xcVBJQXY1N2E3TUg1bGgxaGxaUXpsbkpCbWFZTXpFT3BvMHBhdk5ON0NGbkU0aEp2X21hRENULVgzVF9QblRfdXZpdUFFX0RmYkZrTUdKRTFVc2lZMHBvQ3dJSFRDcFVmTTRNTjJnQTVSNUZtNFViYUc0UXVVM2g?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CNBC Daily Open: Trump's proposed EU tariffs didn't seem to worry investors much - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTNCYlUyYkV2YVNmLUFsdGxpRGNHcFRUYWVxanNQc21QbWtIalB5VzhpWjRnYXlXbjZCTGZrVF9kdFBoXzdKaUQ3a3MtdENGbzNDWUZqYW9BM3hScUphRGhEOHlWaEtfVk81OUVtZDJ5MXgtSUNUNlZiREY0Y0o0cFBvQjYwWlZLWTRSV3Ezb1dOaGw4cEVvTldyOHEteG9KVHVIN19RY9IBrAFBVV95cUxPRTRleVVRU19pTk5jd3llWEVXSTU0WGt0TjZsVWFLd0doZzBWZDZyQXNJUExycHpjd1lxRm5id01BWGNjRndjT0ZqRjZJNldFNXdNN1JsVTZFSEdqSFhfRUZTRDlEc0dFQUhZd3hUbnVxWUpialpCYy02UzJTMllwaDJYY005UWdWVmZSY2kxSjdpbWVTM2lITWtHQ0lCMkRkRk12ZFAzc3hwZHdC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nippon Steel considering 'bold' revision to US Steel buyout, government spokesperson says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnRZQWVZeGFRRjVLNHJBVGg0T3ByZlNZbzc5OW1SUzJ0WEg5NkZhYjBFaDA0T0dZb1Q2Z0dHTFBkNnNGWEdZX2pGbGJqYURoTEw1M0tmdzczNVpBQmdIcEYxQkF5WXpmeWFYZDhHWm9WUXQydVh6RS1jeDJnR3RfNkJYLXFfSmUzaWVqZXFJY2lLdTk2Q1RHeHpCU2NhRXNtNHd1U21kQ3Y4QnlSWUVIUHBRNTRwLTFna2hib1h4eXBITklWTElN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Biden weighs Nippon-US Steel deal push: Why he should approve it - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkY3ZUVBdmdlRkRpalRpNVVKWVYwS2VhOEc3VWpmRFlGR1R2QXM5MjNKRUVhRXE1b1A3ZGFqSlVRUXdabUl1Szk3ZVEzWlBvSUFPMThJQjZGMTl5aWI5X214Zm9Wamc1Yk5YVmYxZld1eVlCN3BiYU9WcHh4YTQybQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trump says Nippon will invest heavily in U.S. Steel rather than purchase the company - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbnA4TmZYWHczYzNVV1VGX081SkFia0pqYk5hVnFtYUE4aG1FczhfU2xKM0poYmVMclpJUjdldlVnZmVBS0NHREtjVEZxdFk0Z3pTRHZ1M1hraW1KbUFfU3h0c1dvb1VGeFBGUzZhdmZJM3g4NGs3elY0Rnk3WV9iTEFZcmxKX1dWN3JRakRkbWVoem9MRGN5Ni1IaXVLMkdqV3BSRU1CdExoRW1nemxVTkcyRmRzM0JEREY00gHAAUFVX3lxTFBXQlJmWUctN1RaQ0VNcXV0eDd3NUpROE5aVFZsZ1hWaU9NRkpNb2JiSFlVbjlPUTE4amw2NUUxcks4MnktdVlxaXRySUI5aTdqSmE3QkxUQng4aHBOLWRtdjZfUWFhZllyRkRGZWdRb0J1WWh2QXFmVFREaVczLXNNakp0STlmZ3lSNmZLaU83dENHeUI0Rm5nN1l6QkZTcnV6OHFuS1ppMjZoT2RTMDVSc3BYUkEyaEN2dWtYWjdrVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trump doubles down on keeping US Steel control in US hands - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONTJ0SVFFV3hOUDBGel9Xd3lqTjM5Z2dXODRmUDNDbWZPTVJtdjYxVS1WTGVXQWJnR0tPNzNld21YOVZNU1JCaElSZDA2a0lidHdmeFB2YnFIcnR0eVpmVVN2dExsVlgwYmMxS2l1R3E2ZTY0am9HUi1yRkJHR2dSX2QzYk50c2xLdjlUaWxaQVh0dnRjMTVIM1kyNkg5b2tfUkpSbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock market today: Dow drops 700 points, S&P 500, Nasdaq sink as Wall Street reels from tariff, inflation fears - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMWRwczEtWU9GVjNYSksxRVFmXzFwakRFMEVMVWg0d0g3d0tpZENjMnlmRE1oV0JpSG8xbVg3bGE0cTEyN2ZDbFp1dW1nU05KRXlOTnpvdDNaLUtsdmtnSHRQUlhobEFhdFNiajMwaG9IdC0telFaNDY5ZldYbXo2dmVyNnJTZ1ZZMkhQVEJ5MWhNd3N4Z1J5Vm5Hcllic0daNlZ5WXN0NjlRY244N2tpR3I1OWpMN3dsRjhwNG1xWU5yVFdvTkRTeXJ4RW9KcVFWOE12MTBGa2hPbF90M0FrMmdSaWQ1eUNxMWotdGtoZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nippon Steel offers US government veto power in bid for US Steel approval, source says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObVBTUnI4TmNVak94aU1zX3RJeVJpV3pmXzBRVDBhc3ZIYWpLNWZJbThGSklRN1h3ZzM1T040SDMwTFg5a3BEdkdYaG9xbFVSdURmb3ZpLWZuODlKVm5KNGlwTFhycmhIcFZ4ZTlVdzI4bFhFZzVtNE5CZ0stbjFOanJ0eFhQOExlX2twLWxTbzZmZFJ3UHgzQ013TC1YLUM4WmpESkZNYTBNU25JRTBUZS1TSF9MTGxlUEtFTXQ5OTJBdVlPWGF1eXZmNDVmWG1r?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trending tickers: The latest investor updates on Tesla, United States Steel, Broadcom, Levi's and Porsche - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcE9udTZXOWJyWHFzd0JINzNXRDNIaF9rYWJrRlVicWdVdmNzUXI1SkhBZlJDSFluS3luQ0tjVkFiVGhHeVdTTWZMQV9TY2pyR2tkMDBlMVFEcVJNcE1XemkwX2F5azFmQ3c3SWJYS1BlbFBzTHpPalQ0aWJadEkxYU5zdzgxTHVPUUNHRXh6U3pZWGtqUlBHdUh4V3BpYjlMTklzSXpTYVZQM2dyRE9Qd2hmVE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan PM asks Biden to allay concerns over Nippon Steel-US Steel deal - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTk9YYVJxN2dRUkxSSEJyMmdGTkh5TS00elNsVkpTbWwwaGN4THowdHBuYmJXYlVtSkRYT2huRjUxak9FOWpxUUJKVzk5N0FLZDUzRE0yQnZlajdOZDI3VGpFZXcxV015Q2QxM3Z2Vjk3MHp4UlFDS3JHTWdCZWFmbTRNa3AwQ1hNcjlCOXZwcFpMZUpIMC03MUExdG5yUjNBVEhuNDF6aXZ6cjA4WHgzRjA1SE5YME1STnVGZXFkREJWcWdJY3ZjWWFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Governments must not intervene in deals arbitrarily, Japan PM hopeful says of U.S. Steel takeover - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM2p5d3BqdElzMmVKVG9oZlJMRmdEeG02emVQZU5DQUY0d01KT1VrVXRJQW9sN0tvSVBJSnljaUxhZ0haS3NjWXE5UlN0U3FPVXd4eWhzdEFCekRHdVM5anZWcUlraHYtRXQ3Znhja0VxaU5iZVp1OWdEVjhVNjBqWk9LbUt2YXZSNlo5bktRQ29MY0xNa1dHY3FwNm9rVFgzWGN1bUJGdUhVT0pONS1hV2tYQVctTnJQSWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "US says review of Nippon-US Steel deal ongoing as US Steel shares tumble - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1dLSjZXdXVrcEE5U1JQUFUxNE4xMkZqazBHbEw0Ym5IOHB6RUQ3QmdEbVNzUHhGWk5rM1laR1VUOXFxOTBjOTRlaktXLVdjVnhRZE5NSHRFWGpsa2QwRWhXNjVEbFlYRUZCaGFPMUpLR3dlZXRlWDlMUnZ4NUVUMUZURFlISFM1QkotWEJIRlNRQ3Z2dW5GLW8wMUZuZUx6em8xSTZuWG41YV9lSmdHRXBNVU5SWTd1WnhnLUpn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Trump says he would not mind if Nippon Steel took minority stake in US Steel - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON1pyNThka0ZDbE95cUhzUHJ3TWdjWVRicnRheFVlcHpCdEtvVlhJakppRWwwX3M4d25ZTXNOeEtEaTJBLVJiRkJOdlBRRjY4UkNfTWZzVGVtd0lBOFlqMHhFcFNhTE1ZNkt3OXpsRWNPQmpVRzlGcFhjOUNTNFg1SmxaQ0w3ZWt2TG1SMTUwWnlfb3YtZEpFUXNmX05CWU5hdTdkNU9rcm9BX1BGc1A4eEIyNGdfUVZIUE0tblRoM0RLMEFlMXc?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3060.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3060.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3033.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3027.0
-      },
       {
         "date": "2024-12-06",
         "price": 3033.0
@@ -514,24 +622,28 @@
       {
         "date": "2025-06-02",
         "price": 2863.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2871.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2878.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2852.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2863.5
       }
     ],
     "current_price_data": {
-      "price": 2863.0,
-      "change": -45.0,
-      "percent_change": -1.55
+      "price": 2863.5,
+      "change": 11.5,
+      "percent_change": 0.4
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s r\u00e9centes concernant Nippon Steel et son acquisition de US Steel montrent que le gouvernement am\u00e9ricain aura un partenariat d'or avec Nippon Steel, qui auraura des tarifs positifs sur les produits de Nippon Steel, mais des tarifs n\u00e9gatifs sur les produits de US Steel. L'annonce du partenariat a \u00e9t\u00e9 mal per\u00e7ue par les investisseurs et a contribu\u00e9 \u00e0 une baisse des actions de US Steel. Des rumeurs ont \u00e9galement circul\u00e9 sur une possible r\u00e9vision de l'acquisition par Nippon Steel, qui n'a pas encore \u00e9t\u00e9 conclue. Ces titres suggestent que l'ac",
-    "sentiment_score": -0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

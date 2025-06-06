@@ -2,55 +2,163 @@
   "ticker": "MTD",
   "name": "Mettler Toledo",
   "sector": "Health Care",
-  "market_cap": 23659347968.0,
+  "market_cap": 24245006336.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 28.389278,
-    "PB": -130.01486,
-    "EV_Revenue": 6.795,
+    "PE": 29.16475,
+    "PB": -133.23322,
+    "EV_Revenue": 6.871,
     "ROE": 0.151085,
     "ProfitMargin": 0.22172001,
     "GrossMargin": 0.60137004,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 1.013,
+    "QuickRatio": 0.611,
+    "FreeCashFlow": 743663872,
+    "OperatingCashFlow": 972808000,
+    "FCF_Margin": 0.19416020281859891,
+    "ROA": 0.21216999,
+    "PEG": null,
+    "EV_EBITDA": 22.238,
+    "BuybackYield": null,
+    "PriceToFCF": 32.546768484135804
   },
   "technical_indicators": {
-    "RSI_14": 51.3621335759094,
-    "Momentum_10": -1.6441377686899084,
-    "MACD": 14.807181430752962,
-    "BB_Percent": 0.5215228827176986,
+    "RSI_14": 55.36207687664077,
+    "Momentum_10": 2.9825502123837717,
+    "MACD": 16.114132831724646,
+    "BB_Percent": 0.6701292242409673,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.938831713826977,
+    "ValueScore": 0.9377241199862306,
     "QualityScore": 0.3448411218752794,
-    "SignalScore": 0.6208948666252792
+    "SignalScore": 0.5455751543811931
   },
-  "volatility": 0.024478101547081,
+  "volatility": 0.0245307399173592,
   "beta": 1.387,
-  "return_6m": -0.0956961507338735,
+  "return_6m": -0.0651575102195612,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 12,
-    "target_mean_price": 1245.38
+    "analyst_count": 11,
+    "target_mean_price": 1244.96
   },
+  "news_sentiment": {
+    "summary": "Mettler-Toledo International Inc. (NYSE: MTD) a récemment subi une révision à la hausse de la part d'UBS, ce qui pourrait indiquer un potentiel d'appréciation. Cependant, l'entreprise a annoncé des résultats trimestriels en baisse en raison de litiges commerciaux mondiaux, entraînant une réduction importante des perspectives. Malgré cela, plusieurs investisseurs institutionnels ont récemment acquis des parts de MTD, tandis que d'autres ont réduit leur exposition, suggérant une divergence d'opinions sur le titre. Cette actualité pourrait influencer le sentiment de marché autour de Mettler-Toledo et nécessite une analyse approfondie pour les investisseurs.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "L. Roy Papp & Associates LLP Has $11.67 Million Position in Mettler-Toledo International Inc. (NYSE:MTD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTTRzU2lkd2xkOTdYeVBISnZXS2lQV3dJREVjOXVuWU1FOHVuYUsxUWlINHIydzhPR25xZ3pBVHhYZ0V2ZEpMZTE4dUJJRXV3ZXhkVUFXbW1peWs1SVFKamUtc19Vc1F0cVk1UjRJR1c0anA3SVFUeXVKZmhldHBKcDVCUGRPaHRuUEpSaHotX05tanZpWmdlVlhHRjBSY21uRy11MmtxZ3BqZHU2YkVEcWJVREQzVjdVRDVMVGZRRExxem55VW5WZkhDTm9KX1dKd0NVaTlqMldTaWwxRjNHYW9GcUc3LXEzd054eA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(MTD) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjBDS3VuVFhyazFGeWxaUVpZSC1EXzNzWWo4dS1uSGs4ZlUyZFZJRFVnbUpIOWtldUQxa1d5MWkxQmV3TmdjclU5a2MzNGZUTF9RNndGSlAxNkIzS3piX1JkejVtb1dlaDRYSmhWeUpiNlZpN2VBd1lfa3ZxdGstTDZiVV92RUVrMGFENXNnU2ZydWpSUGxGV1N2TlpjT1NyQThrVTk1cnh6djUtTWxMY01CcmdOQkZZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons MTD is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VSzltUWxaMVJmVVllekV4ekFxd3NWSVJjc3ZpcWxxZHlBc0IwY2VVTUExdmF4Vm0xLTNYZHFCcUtPRXNnREFkSmRJYXNVV0FlbnlIOTgxLWE2Z2k2THE2b3V6Wk9jUTI0RHNlY2ItZFVLY0MtckE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mettler-Toledo stock upgraded at UBS (MTD:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14UFVsUmFzaGFIdVpJU0NLM3RfV3RnUWhGb1lBTXdvbk84RkJScGU2M0R0TGE3cXV1WVlMeU01Y1JnY0lUUnJ4RV9seGRJeDB1Ykx4UFJ0RFlrN3hFM2E2THNERE1rczN3ZnZTRnd1UDlGVnFzcW9yVUZNYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mettler-Toledo Earnings Miss: Global Trade Disputes Force Major Guidance Cut as Q1 Profits Slide - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHpLVndQWm83SW01Q0xydlhNc2I5Um1LUjk2MnZla25BbjFoc081bTRQMWxCNlB1dExCRzVfNldRU09JYkd1WGlVd1JhQ3FSWWJhcURfazJfUWJxcUY1OWs2TmdqOWs3UlRMMlZ2MDVnQkx4dDRUZzlOMGkzakRsTnhPSFdXNVd4WXg1RTBTT0tpcVowcTgwc3lDSmV0V3R5VXFMQmpZUTN3aHBqN0tDR1NIYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Rep. Robert Bresnahan, Jr. Purchases Shares of Mettler-Toledo International Inc. (NYSE:MTD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU2JzcHp6SExoQm1ka3l2MDlDMjV4SDl3eUE5SmJvckZZaUhibEE5R0cwZFJ5N1UxTi03V0p2b0ZDSEhHVHZjNFJFa2JVYlJHOWI4WnlidnIzZFg0cTlQbjgtOGhyN1Frc1RUNlN0c1czMkNzdlVNQXY4bnNTcGJOMnJqbVhvd3h5bGUxcm1YcWFDUm03eTlDME41b1phTzJVazhYa1pUUklqZzZGaTFkNGhJTlFKVTBfUmdZYXFlUGxZSnpQLXp5dg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Research Tools & Consumables Stocks Q1 Recap: Benchmarking Mettler-Toledo (NYSE:MTD) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTV5Q1VjSHhWNElHVUpEVDRNRVdjaURYbk5oWERqT1UxQkk5RWlMaFJJV0l1aDNrak51cXpCRnhhUlpfSDdRcFNWaWE5VXhxZExrcWZIanRGeGoyT05fREFOZ1FiSnFBdVpLM1h4R3ZGRzg0Y0JXaGVIQUVnU00zQ0xvX1JtclRqYlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Grows Position in Mettler-Toledo International Inc. (NYSE:MTD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmZWUkJNcnBDRVd1eGJiaVBJckcybkYtSnRobF9UTzJyUVRJLTZaRlpCdUF5OEx5OGhzNTFaT3g0MHBudDhlaXQzLXhIanB6YlJzWE42RC03YlRRdmx0TnRIT2N6NDQzUUNLV2ltb2p1QzZFek5HZ3BNVG5RTlRfT2hJZ1U1TUh0cmctalJpTnl6UjRIMkdKWXZxa3pFcUNUVFgxLW5NMjFCa0VScDBHQUlEaWVLdDFIZV93UzVkU2JUMl9sY2Jsenc1YlVJUXBIZ0NMLQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mettler-Toledo International Inc. (NYSE:MTD) Director Michael A. Kelly Sells 1,062 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSFZLelRWMnlPYWdiVWkwbVhVc3FTRlU0NEdlbVVWRHIwUlc4eWJTRnZFZ3U5MWh3MHpIN3MtTTZBRVJscEkxdHhxSnR2UTJacXI0NVNhbU1UX1dRMzZNLU9rZUMwUWVVLXZDQTFkZHZocG54MGppeTBnbDEwT2lCWmNZWmtpQS1FT2lNeWg0U3dUNHljT25wZXZXenl1QklUbWs1aWkydlF6YzNvU0wxN2QwanNnVUx6SmJqdk42Q1B6eVdSTk93cmFWa3dIZnd4Snhv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mettler-Toledo International Inc. (NYSE:MTD) Shares Acquired by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVUROSGhPaFhsTkVOcTlnUVM1TS1CVjRmQ1d1M3pDWkFFRDB1RW5nN0o0eS16bzdrdWNBaE8xY045ZENhY3ZRZXFTRUljY2lGS0szWmFHYUxfODVDTmlJRlVIMk44MFBqOTg3ZGZfUVpjQjdUdktFVktDU3ZlVWJZTlowcmk3M0J0N2hPLWwybUhGdE9rOV9qNUxobnFkWVdkaVlBTXBkY0ctVTJBZlRDU09GNTRWNW9wQ0htalo5SEJyRnVsWElfTUE2UERieGY4R1RBaWctMDI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mettler-Toledo International Inc. (NYSE:MTD) Shares Bought by Toronto Dominion Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQclhkd092VjJfWUpiN2tEc1NpUl9aNmV2Q05ISkhZdmhvSE5SM1FhTFpYNkNWaVRiVy1lQ3BxUS03RVA3QTc2aDVQUGRDN01LekQyS1gyeDhXMnNUWEdqdm5KTzlKa1IzYnFDU1d3VmNhUjdWak9UUWJnMzBiN2kzemxRaXZLNV84WDJVVUM2SE1JbjlRTXh6WVdHRUxRaHE2ZlpvREhveEkyVUMzbU1heGExVVlmREo5a1ZYQXVyWmYxNF9nVTFzWURuSC1GR19BTURrSlp3emtZdnR0QkhuUGZDUjA0anc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Acquires 228 Shares of Mettler-Toledo International Inc. (NYSE:MTD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaG5rMWx3bjBmOG8wTXNpc3o1eEE0anlXZHBGanpmMGs2NURBQjB0VTVTenl3UDdPR3pQNE9lX3psdGVkbDRnVVFKazZvcTFUYmpTbEdHeFh3aElFS0tfZnhNc1k4cVZ2cEFsNVpUa1pTSFZEU3IzTWlQX2hFVl9jQmxhaTB4UjRnSl91ZWlBRDJjLUVpUm85UGtCc1lJTnpQZmNYdWZocHFaN0VkQU5uNC01MUV3anJwOGItSmNsLUtqTFRWVDlLMHVQSDNyLV9fUVlXT2VYRDdiMzlG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Legacy Private Trust Co. Sells 315 Shares of Mettler-Toledo International Inc. (NYSE:MTD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVUZKaFFsMXd0QlpUam5TMFpiVDlnZmg2eE54REtzQm82Q2JSVVNjU29zaEFHQzRNemx4QzEtMzZIOUhCTEoyNThsMENRRm5sVjMzYWI3RzBfb0M4dkxvZVFKS0NmTGUyNjBzdWFqeDZXOC1lLVNCX1NCNTNXZVJKaWdSb09NWVo4S09pNFhJVHJaNjA5NjNzb0lBVl9VczltSzhQUnJCZk5vUnpnMXhYaTQ2WG5wSDgzbEc0cTJVNlNsRXZMLXptaU9PZ3RSbDFRbDdfWnFKRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "247 Shares in Mettler-Toledo International Inc. (NYSE:MTD) Purchased by Vise Technologies Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRS1tbXFzRVh5ZGRxVl8tUmpZVF9XRjlQSGJCb1lqR1NPNnVpV25WNHZQWjRtV1l0LWlVUDJlRmozYWF2X2QtTFZnVUxyRnN0Y1d4bzh5TzVQdHFtblhrem9OX0w1MFpWZEpJbU44cDJUNmtxYnR4QU9oaDNic2dBNzYwQWdUQ2hnNHpEOE9ndGdaSXpCVG9CdjJzVEQ4SnRHejZPcXk1NklVTGdORi1jcS1sSFhWMDNSUXFtNHJVd2pOMFdYdGt4MGdZS2pMTlpSV2pGWlQwWHRLYW9ZdVZNYTRhRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mettler-Toledo International Inc. (NYSE:MTD) Shares Acquired by Whipplewood Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOFlrYVFlenhXOVc2SFZKaEV4aWNrN25peDIxRzE2ci0yRHBxa0d5RWZzUjQyNFdFZXhqelpLelBncHdRVVlkM3E2cXNNcTBpdm9ldDFmdmVBYzJCeW05Z25fRkxiTDM5bnJWVFJpOC1FN1lRREM5SWNDcVdBZUE2OHk3VkRQelNuMjhucTAtOEY3MlBDY1Fzb3lMM184aVQyTlhpZlhjYmJFZHY2QkZqamw5Y0luYTU5VTNnOFVuRHBXR09aS0tQQjNJUXdkbWw1YXNxcUpQRWF4RG51bWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Purchases New Stake in Mettler-Toledo International Inc. (NYSE:MTD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbXNJVDJxUU1PSEZRUl85X2FtUU1Fa1RvMWVrTkwtU2MzTmlrYS1XNjZPRUpQUi1TSU54UjlvTG11ZzQwTDlGRWlVd2NPNFJmNmtJTGRhWklNSUV6YkNCTklFYjVfZ0ZvUFRPSnRvVWtNRndKOVpuczdLSVloVWx0WC1nRVoxMGhkNmwwQmtrbmp5VDVOTWdpbklmNjBhbVhtTWhqdWFfSTI5a2J2YTk1cXNQZVBZOFVIVzVlR1NLc053TmdWUFZydE1pa2ltdk1rNWRvZ3FtSk1wN0JiZUlsZXdTQTZmd0NGMGZBcUx3N2RPNTczaHRJSVdGWkxDZU5nVThSeG9EMGE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mettler-Toledo International Inc. (NYSE:MTD) Shares Purchased by Mackenzie Financial Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaTNtY0VaSE11TWlaZFRRR1U5ajBTSjQwMWYwV2UwVDZpY3Q3aFF6ODUtb094aThrelMwTWRvSjB5MEJQTjI0S2dITzV3ZzFuZmE1WGx4RFNLbTZoZ3Z1dk4zOW0yUW1jQm9JUk1sVFRwOXE5Rzl2RUk4akhMdExsdnM4OW9yc01kSnJEMzhIZElYNDd3dWNmRTJxMzBUSmlQWUE0ZXhfbmYxMUlPeExUdlpfTk5zR2I1cy1ldWFDdTRwVGlOcnZCdk16LXhHd216NVZpcXA0TDJJczJscFV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Versant Capital Management Inc Increases Stake in Mettler-Toledo International Inc. (NYSE:MTD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ0FHX2tHWmlqSWlvOUlMVTB5QTlLWDVxakJObUhmY0h3UkI5R3lXbDV4NHRrYjk3a3BLSkpKeXBlMlNLcXlEQ1VoUkJtOTVrMV8tcjZfRWJ3aFNCTjBwallFc0EwcVJfUE9SOFcyU0lTZS0tamItdHFmSndpd3JON082MEROZVJiSDNEZEEzSHIwOWx3Tk9VcUloaWd0b3VOM3NmblRqM25oQVdXR25JYnZIcVpEMzV3MnN2d0p0cEFlTEdmSWxCaXZIWHowX3p2dEI3ZkM5R3BkLU9IejlwVmprdHdGZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Lowers Stock Position in Mettler-Toledo International Inc. (NYSE:MTD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQb1JlOEE1Q1BfTjU5bjhzSE8zbXhZaEl3ZnRhUGRQRWlnMEJyRmtDQWRvR2REZ1gxajdqRjB4X3Y2WDVycXVnaVIzc29vZmdrWEt6RlRSdFpObXI1R2lGMXZnS3ZkM2lLYVhKREZNSzNUN2J4RnNtdnpIM0MtLWxjZ3l1ZWZsNXhYVW50UlJHbmhubXFrcHEyVnFvNDBiLURIcnViZ29TN3FTNFc5MnJyei1GM2h6RDNGQXROVDZRb0FvSHZhZ3RLVzFQQ2dPN3h0QXJ5WU5UOEozM1ZrbDViQnBxQ2VnU3BtWjJJcktPOG1hckpKbF9XcC13QnBFYjNaZVE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "521 Shares in Mettler-Toledo International Inc. (NYSE:MTD) Purchased by GF Fund Management CO. LTD. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbF9yYUZVNDBMTlRvd05pU01FSlctYTRpUHdHN05rclpCeDFhd3ZNYzBMQ3NiWEJIRTdJQVEwY2o4dWVwYTZWaDlucTRLMFd4SFhGZHdJc1ByT3QzakpHa3F4cWVBU1Q1ZTctNXQ3X3EyRkxOVjZTLVF4Y0lzX2VaN1VaV3dGdGJvZ2VDUG8zeHZEemxNcm9EYUV5QzZseG1jbGhrR0lfQ2ZTVldWaGI0TDBIU3VMWDJXQjZGYVhIVnpSemVIbk5zNmNIamxnUlJ3bUJyWjhORFNkRTVkMks3Q1NKcko2ZXA3Rmc?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1258.88
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1257.86
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1262.75
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1247.9
-      },
       {
         "date": "2024-12-06",
         "price": 1257.92
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 1137.89
+        "price": 1141.13
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1166.46
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1169.67
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1164.61
       }
     ],
     "current_price_data": {
-      "price": 1137.89,
-      "change": -18.5,
-      "percent_change": -1.6
+      "price": 1164.61,
+      "change": -6.95,
+      "percent_change": -0.59
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent la soci\u00e9t\u00e9 Mettler-Toledo International Inc. (NYSE:MTD), sp\u00e9cialis\u00e9e dans les instruments de mesure et de contr\u00f4le dans les secteurs industriels, pharmaceutiques, biotechnologiques et agro-alimentaires.\n\nLes tendances cl\u00e9s sont :\n\n* La soci\u00e9t\u00e9 a vu ses actions augmenter de 3,52% le 27 mai et a \u00e9t\u00e9 class\u00e9e par UBS en tant que stock recommand\u00e9.\n* Les ventes de Mettler-Toledo ont \u00e9t\u00e9 affect\u00e9es par les disputes commerciales globales, ce qui a entra\u00een\u00e9 une baisse des profits et une r\u00e9duction des pr\u00e9vis",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,50 @@
   "ticker": "5714.T",
   "name": "Dowa Holdings",
   "sector": "Materials",
-  "market_cap": 267793203200.0,
+  "market_cap": 274820022272.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.870717,
-    "PB": 0.6721716,
-    "EV_Revenue": 0.484,
+    "PE": 9.960073,
+    "PB": 0.6898092,
+    "EV_Revenue": 0.486,
     "ROE": 0.06968,
     "ProfitMargin": 0.03997,
     "GrossMargin": 0.12764,
-    "DividendYield": 3.47
+    "DividendYield": 3.5,
+    "DebtEquity": 19.533,
+    "CurrentRatio": 1.82,
+    "QuickRatio": 0.672,
+    "FreeCashFlow": -44953874432,
+    "OperatingCashFlow": 12826999808,
+    "FCF_Margin": -0.06623799708431471,
+    "ROA": 0.030840002,
+    "PEG": null,
+    "EV_EBITDA": 5.366,
+    "BuybackYield": null,
+    "PriceToFCF": -6.1133778955518
   },
   "technical_indicators": {
-    "RSI_14": 45.80048424184198,
-    "Momentum_10": -0.8160564622849581,
-    "MACD": 10.796116962062117,
-    "BB_Percent": 0.1544880026751277,
+    "RSI_14": 55.57385991102356,
+    "Momentum_10": 3.2207559830015655,
+    "MACD": 11.654899085382567,
+    "BB_Percent": 0.7506682333910797,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9005568832896589,
+    "ValueScore": 0.8976537643126703,
     "QualityScore": 0.3505251588672474,
-    "SignalScore": 0.6444370752227484
+    "SignalScore": 0.5436727626750166
   },
-  "volatility": 0.0173477405802004,
+  "volatility": 0.0175314451311556,
   "beta": 0.551,
-  "return_6m": 0.0304759351575467,
+  "return_6m": 0.0210176991150441,
   "analyst_rating": {
     "recommendation": "underperform",
     "analyst_count": 7,
-    "target_mean_price": 4665.7144
+    "target_mean_price": 4722.857
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 4499.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 4588.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 4472.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 4520.0
-      },
       {
         "date": "2024-12-06",
         "price": 4520.0
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 4497.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 4548.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 4539.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 4615.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 4652.0
       }
     ],
     "current_price_data": {
-      "price": 4497.0,
-      "change": -91.0,
-      "percent_change": -1.98
+      "price": 4652.0,
+      "change": 37.0,
+      "percent_change": 0.8
     }
   }
 }

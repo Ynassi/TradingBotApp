@@ -2,55 +2,163 @@
   "ticker": "AMZN",
   "name": "Amazon",
   "sector": "Consumer Discretionary",
-  "market_cap": 2193242062848.0,
+  "market_cap": 2217932488704.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 33.701466,
-    "PB": 7.168286,
-    "EV_Revenue": 3.444,
+    "PE": 34.080864,
+    "PB": 7.2489834,
+    "EV_Revenue": 3.481,
     "ROE": 0.2524,
     "ProfitMargin": 0.1014,
     "GrossMargin": 0.49158,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 51.641,
+    "CurrentRatio": 1.048,
+    "QuickRatio": 0.807,
+    "FreeCashFlow": 39273500672,
+    "OperatingCashFlow": 113903001600,
+    "FCF_Margin": 0.06039168868372221,
+    "ROA": 0.07632,
+    "PEG": null,
+    "EV_EBITDA": 17.943,
+    "BuybackYield": null,
+    "PriceToFCF": 56.20216145645658
   },
   "technical_indicators": {
-    "RSI_14": 59.37237172375289,
-    "Momentum_10": 0.4134472098139569,
-    "MACD": 4.0509947552259575,
-    "BB_Percent": 0.6603759290400781,
+    "RSI_14": 61.6847647639241,
+    "Momentum_10": 3.8683367980213346,
+    "MACD": 3.95157566652108,
+    "BB_Percent": 0.72793029465804,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8850091496829599,
+    "ValueScore": 0.8818725935347684,
     "QualityScore": 0.3250663784620869,
-    "SignalScore": 0.5680461253677769
+    "SignalScore": 0.5107766594081533
   },
-  "volatility": 0.0243180253670314,
+  "volatility": 0.0242114480217091,
   "beta": 1.334,
-  "return_6m": -0.0195529886797037,
+  "return_6m": -0.0527159848525993,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 65,
-    "target_mean_price": 238.95708
+    "target_mean_price": 239.21861
   },
+  "news_sentiment": {
+    "summary": "Amazon a récemment affiché une hausse de son cours suite à des discussions commerciales entre les États-Unis et la Chine, ainsi qu'à des gains d'Applied Digital. L'entreprise a annoncé un investissement de 10 milliards de dollars dans l'expansion de ses centres de données en Caroline du Nord, ce qui renforce sa position dans le secteur de la technologie. Les analystes mettent en avant les avantages potentiels des investissements d'Amazon dans l'IA et la robotique, avec des prévisions optimistes pour l'avenir de l'action. Cependant, malgré une baisse de 5,8 % depuis le début de l'année, des questions subsistent quant à la performance à court terme du titre.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Amazon Stock Gets Price Target Hike As Analyst Sees Robotics, AI Boosting Retail Profits - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU25kNXhQVDZTc3BCRlNKdS1KVHVPNS1KTE1aT2FPY3NCbzRBQUdNN3FTdVlSSDV4TW5IbWVZOEFHMkh1d2tCN1FnVmJWeTBmR0RqU0hYcnR1M19sUlR1NTREb1haUDIxM21qaVFJeFNiTjRHRVVZZGMwQ1J6SV9VYmNoUVZ3V0U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Time To Buy AMZN Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1E3eGVQcG9ZZ0g3Vy0wenFFaHhRa2JwemFHWVRULXdWUVhKOXJZSW9pOEFRYVZxbkF4N0EtZ1BQcVR5RmU3N2piNnBpS09Ra2hHNkxWaVc4Wl83cHYwR0ppOW9QZ01Nc29ORXRvYnZnalpiZnFwVW5Ib1QxQkJIV0x2bXNVSTdq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Hold on to AMZN Stock in 2H25 Despite its 5.8% YTD Decline? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81N3pkZnh4RnlsaVlSZ2JoQ0toc1NNMmRVQTJzRkd4SEpzSVh5c2JhSjRlMWtLUU9LZXBhdjF3ZWlydnJhLV92X3p1c2V6NTNkYU5hendueG10UXd0YXBDR0VReUFuN0VuRXByTzVDdUJ2XzdiTFBROG9Xb1pjX0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon.com (NasdaqGS:AMZN) To Invest US$10 Billion In North Carolina Data Center Expansion - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjVfanp6Sm9GbEpIUkV5WWN5cmFSOTl1T2s5UTNnalBVa2IzS25GdGZyVVdsdkhZWlQ4RG1odnRVb0ZrYUNobU8talVobkxGUTNhbl9zd0J4TmZzNU9XMVZzVGpFWkQwaFRCeGtDcGxwbUZvNW1CN2xqT3ZXVjRic0x5dWxZT2Z6VDExRUxXV0RJeEJwSV9TOTRSTG54UWYxZEd2VGNpRmRKNWNMa2NtQVNzMUMzTGRxUi1keTR1Ylh4OW9t0gHKAUFVX3lxTE9adVh6dnB6TllRLTlsX3ZKWG9obXRyYVAxcG00MUxXc0lYSDZsTnZESDBqODVKcUJ6d2wwZzdEVE91Y3V0RVRRMUVtekpRcEVEc0xHOEd2a1h5cURXeF9nd0FvR1IxNThHbTlqME5BSWlmQ1dqMlVhekpvd1k2ZU54QVpBYXh0N0FJbGhadWVBcWN5RGhpZUFuVWN2T2l5SzE3aUUyWnZWYmp4eE1BcU5FQVdqdUdnNUlXQkR0MDQ3NkRodzZtVTFyTkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prediction: This AI Stock Will Be Worth More Than Nvidia 5 Years From Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekRjSzB4eURva2U5VjB3S3dBUjZyNDhCQmFIb1RLMlFOR3Z6X0xxTUZnZ3B3MklrbnFKOWc2N2Fab2xDMFBWZ3JKV3ZOX1E2QXZuLWZNTkMxb3JBWXlRNXZfR19sNkc5OEFwSzEwVGtfbUJLWDAxMXJoSmxYaHU2Z1kya3NhZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cathie Wood Snaps Up Amazon and AMD Stocks but Offloads Palantir and CoreWeave - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVGNQWkxfdkRKU0QxVDE3aWNXU1BTOTBLR3o1MzNWMWdiYjlhNXgzWlhueFZGV1o1azh2WFlLbjEtS1BoYzktQWVFWU41VTJpWFhsbW8yRm5sYUJRMHZvNjFxVmI5QmhSeWpsY1U3VkEtRXNLTFE4WVVQVnVYb0hIZ05rTjhTQklmZUJJajY0dTNRdzVhczlzeDZHMFR0VWNUazhpUC1yQ0lMUmhK?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Amazon Just Doubled Down on AI and Robotics. Time to Buy AMZN Stock? - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVmlodGs1elZIUjZpS0EyQjVLRjc1d1N0SmdiZGVUY294TGFqdWkxSWZUOC1KN2dUVFJxTWptQktvZkgxVXFPV2NhV3k5UDQ0ZlhiNWVfNVFJRXE5emx3Q0tEUGdObDNOOVJUeW5Cb3pONVdQMVJ2cnFkZGRZM2lMZUlCUlhXdUZnZFktdXdHWmhwOTVGRlp5UG5EZ3dQSkhsNFV3VkVB0gGrAUFVX3lxTFB5N0stczFrN0ZmX2ZrTThkMFpVazdBTFRXOWdRRjhKZkF0QjZIdXFac0dKT3M0UjJYOXloRDN5WVhMbHIxaFNnNk10bFZManlNbEsyU0xJQ2JQc2FUVzNiSmFJMEFLMXRqNUxnZ3YtcUNVRXZzTkROTnEwWEVTbmdhZ3RMR2tEMmh5Z21HYVRZeTZqeDdVVGdUNG5XaFFwOFlvQXdzU1FJYW5rWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon Stock Is Up, So What Is The Best Play Here? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDVVWExha29WN2EySHBESEI4cHY3M1JxRW83NERFU3JFYkVxcmlvNXBobEoyX1JOcWp4N21JbU5kX25KNFpKemdyOFZLMThpZ0xqc2ppd0NnTTcxSmZZdGctVmZXQlJjTlhWT0twMk85eEpndzFtOXpuU0lkNVUwR0RWTjJMTHZTNzF4ZGRJMldYLS0wQUh5Nw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon pops on US-China talks, silver prices, Applied Digital gains - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BTHB4OFhaV2ZZZlhOZGRUZVdPOHhvcjFoM2ZubklEY1F1UVNsT1RaQVZRa0NNYkJIU05fNUY0VWV0eThEdWhVZDZTRnVfdVhwMFFVcEtQWVBvbG5saUZWN2gxOGpCSFNrMHNRdUJlWXFoQk83UmlUdE5PeHBDQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon Analyst Sees Robotics Unlocking Billions In Savings - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSno3bmFwYzFBbUpmS1pLX1dpU3J6QkVMdHpBVmRlX3ZZb2VsV0dSLWY0clpRYW5zSEJkSGExcklaa3dJQWlhVGV3UWVRUGlQZFd0UWE2aXg4UnNNWFFVbWJqekdKNG02MmdEYmU0dk1sU21ETHFuMlF5MUhTelBtNTNxaXk4SjVMclNoTW9DeU1TZm40OTZ0Z25iM0xTMXdkakQzMzFiZW42eHdoYmh1cGFWVUtsZDZWTDVkOXgtQ2lqU1ZnekNTSC12aGJXUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "$AMZN stock is up 2% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWdhR1p0ZmhicGFiNnp1ZTRsck1JemV6alVYRUJrajh0YWMzYVdoV2ZtdWxNM1lSdXFuQWRiR2hTZFhXeUt3eWdvMkpMcFdQbkhsNzNWalN0ZGlOLVBJb1hkMXg4Uld0djJmRWNmRzRid1hnV0RBVC1vQ2p2RGJQYjJTcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Trade Desk stock falls on report of ad spend shift to Amazon - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0tUcGJRWEZJaFpyTUk5MVRRTDl6akpoSFQ2XzN5S0puVHk1QTg2aGhyc280MUtKd19hZTlSLWNDNkZZcjBUOWhmbTFpMnFmbWR5TjhqRUVYckRRT0I0THA4OGV6QzA3N2VpNXZna2VGUUtyNHNMbmRJZnIwVXFJOV96TExwMm5xODRoNWdnOFNUUHJQYmFHTkpqbTlJMkJOMG54Zm1sdWs1dl8zek8ycTd6UnZwWDRH?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Amazon Stock (AMZN) Powers Up as Robot Delivery Workers Are Put To The Test - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYkZRYXZLUDBteXVDa01IaWZ3VVhXQzJ0dUdndVo0T21GbERqQnlyN1hfZlJFcS13UGczcE1MQTJaYURqa2RfQkktZV9QN0g1aEhUaUdsWkphNEZDc2hrRHNWdUlNRmpfMmlsMjJZTy1Ua1VsV2FpUWdzVjBrMTZMWTBhR1QtVTlEeF80SHZYTHZGZHJFQU5ldjJMaG5SaEJhZXFDdnh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon Stock: Buy, Hold or Sell? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mOWZ2UEFhZnd0UmE4aVcxQ05nblNuVzRyNXRSdzZSbElNUGpLT2RqYVFTZ0hGcVlwUDFzWFBRMnluQjhBVXU4RVUzbXYxd3dWeGJDakk1RjZxcS1vRzFmZ1dpMkhGcTlva3dhN0hGcVh3VDFyc3k0eGJxc1I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon's CEO shares warning on prices, item shortages - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkNoOW1fVVZQYUNBNS0zYWVzRjhCRWtHMGFRb0ZhSjFINW5BOERhSnZ1eU9pdmpHUmNiWDRJVWYxT3pxRlZ4ZjBVcGNibkFTVldtckZrQm5pRmlkalBET0JoYnVvWHhCVlNFNHNjdWhVTlpyU0ZIa0paSkpVZnpsTDFSbGdHMUFSMV91TA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Amazon (NASDAQ: AMZN) Stock Price Prediction for 2025: Where Will It Be in 1 Year - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWpJVkJSOHQtLXpQRVFwb3BYT1JuVEh5UEROLThnbmU4U29kSEhwc0RTN29HQnF2d3A2b2N2b3ZQVmFGaDZxNXQyMF9DdE1QMVpuUmgxRElhNkQ4YmgwZVFaU1dvMm8xdDlLSTNOQWQxN281OHVnWDRHcXJ5X3JDNEx6Ql85UGVvcnM0bi1ZN19TWlU3VVplSjM3bVF0ZWRLYmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon stock leads Dow Jones as equities rejoice at Trump-Xi phone call - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTmRvNmdxaDdEcTFnZWVZOVN5S0V5eEJ3SHBQTTNaa0V0Z3FUUkJHZ2gwLUxDdk9HMGI5VlJDQUN6M0NzOWd5dzcyMUh1UktxMTgtNHhabXhGX3ZMd04tLU5Kck8yb0NjMk5qejdPSWF1ZlJHa0RzcndIanpfTlBVYll1Z1k3Z1RrTU4zSG04QWIyNXBpejFJODNfM1FOak9rZFI3ZUdoT0tRRzR1VEh4RHR0X3LSAboBQVVfeXFMUGdDbjFnM1RLVWZ0WTVuaDVDYm9ENjFKNUQzaUhuWkxSNFBsVEhTUEkyaV9pSWFSb09QNmNpd0lueFh6Vnd2T0RtMXl5M1ZEeWFjLVM2djFtcnZjRVdwOXczRnBtT1RhU01uUkVjYUdVMVV5d3VDeFN0a00yZzhhOTZia01LQXpwOFBlcUxIX1hIem5zRjlIUGpuRmpEZ09LNHQ3NllzX0xEZ1pSblJQbURNYmt5NVJGSEp3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amazon (AMZN) Gains Ad Spend with Competitive Edge in Connected TV | AMZN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMzdDTHltZVZVZXlkRGxGTWxTQ1pEaUVZV0lUWmlSbmVYbTRyZkxVV3VCV2RGNG5PUjNmREdnVWdSWXBjNTQzeldUOWtXUTVoa0NROVl2RjJ0c0g5U1RUNS0zQ2FIOHNlTTZ2OURIZjg0UmpEcGp5M2ZobFNyUzJDRWFxRzlWdDdVQnF0UUxkdV9jR0NNS255U0k3OXcwT2otTUJYWno5LXUydEFLTk5DLXJIc1g4QkYtWW5z?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Amazon Stock, Meta Get Price-Target Hike From Analyst After Tariff Relief - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcmVDZHNuYjlvOE5HUHpTRHh2RkR1VFVHN0ZvaEJSWlpwVnFSeHliVGtwd0VNNTNMZ2xNZzhlam9kaGQxamlwM1hJeGNzM0FhX2E2NFhSRkVLenlfNl9tR29SSFhvUjktb3V5WUVHcWlLWDM1bmgzTnQxM1d6ZDl1LVlUbGVTWjRLNFFLb2hBU2ZsTXNPWGd5bG5OR2VNeGRz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Barclays reiterates Amazon stock rating with $240 price target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVlg2ZlE0dWZheE51aWlSSjZqNTV1TlJ1ajdMUEZOMmh2WENXbkstb1lob2pudW1GbGZBSjltai1ueU1KUFlFdHc2UEU2a3lwS0RZR2NvRlV3cmFKWlNwODZkczFzSkc4RUU2dEVUYzNSMU1Va2oxQjNEZVdINlkzaDlUU0xSMFBOdUM1UU9EREJWSFNKeDV6emtXY0Q4UlRRVTZZT1hWMTlMQ1ZzMWVnY1FRTmlEYnFIbElWMmJn?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 210.71
-      },
-      {
-        "date": "2024-12-03",
-        "price": 213.44
-      },
-      {
-        "date": "2024-12-04",
-        "price": 218.16
-      },
-      {
-        "date": "2024-12-05",
-        "price": 220.55
-      },
       {
         "date": "2024-12-06",
         "price": 227.03
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 206.78
+        "price": 206.65
+      },
+      {
+        "date": "2025-06-03",
+        "price": 205.71
+      },
+      {
+        "date": "2025-06-04",
+        "price": 207.23
+      },
+      {
+        "date": "2025-06-05",
+        "price": 207.91
       }
     ],
     "current_price_data": {
-      "price": 206.78,
-      "change": 1.77,
-      "percent_change": 0.86
+      "price": 207.91,
+      "change": 0.68,
+      "percent_change": 0.33
     }
-  },
-  "news_sentiment": {
-    "summary": "L'analyse fondamentale de ces titres d'actualit\u00e9s r\u00e9centes sur Amazon est la suivante :\n\nLes tendances cl\u00e9s qui ressortent des titres d'actualit\u00e9s r\u00e9centes sur Amazon sont les suivantes :\n\n* Robotics et AI sont de nouveaux march\u00e9s d'opportunit\u00e9 pour Amazon, et les analystes pr\u00e9voient que ces technologies pourront contribuer \u00e0 des gains de profits pour l'entreprise.\n* Le stock d'Amazon est en hausse, et les analystes ont revu les cibles de prix, signifiant que les investisseurs peuvent esp\u00e9rer des gains sur le prix du stock.\n* Jeff Bezos a r\u00e9v",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "VEL",
-  "name": "Velocity Financial, Inc.",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 608313280.0,
+  "market_cap": 611415040.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 8.637306,
-    "PB": 1.0473737,
-    "EV_Revenue": 32.668,
+    "PE": 8.681347,
+    "PB": 1.0527142,
+    "EV_Revenue": 32.682,
     "ROE": 0.13647,
     "ProfitMargin": 0.39360002,
     "GrossMargin": 0.72242,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 927.527,
+    "CurrentRatio": 8.076,
+    "QuickRatio": 7.984,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 30710000,
+    "FCF_Margin": null,
+    "ROA": 0.01317,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 45.10199761314771,
-    "Momentum_10": 0.0,
-    "MACD": -0.2207482326575345,
-    "BB_Percent": 0.6037467426742399,
+    "RSI_14": 46.76895238073085,
+    "Momentum_10": 2.4144164772531194,
+    "MACD": -0.1410040618698786,
+    "BB_Percent": 0.7432907021830826,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9261022914282482,
+    "ValueScore": 0.927596663544264,
     "QualityScore": 0.4393981710749523,
-    "SignalScore": 0.5076905614248519
+    "SignalScore": 0.5660472653126283
   },
-  "volatility": 0.01467759411579,
+  "volatility": 0.0147310888226452,
   "beta": 1.212,
-  "return_6m": -0.1915616198920728,
+  "return_6m": -0.1878332601859401,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 3,
     "target_mean_price": 21.33333
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente autour de Velocity Financial (VEL) met en lumière plusieurs éléments clés. Tout d'abord, les actionnaires ont approuvé des propositions importantes, indiquant un soutien solide. De plus, la société a publié des résultats solides pour le quatrième trimestre et l'ensemble de l'année 2024, illustrant sa résilience. En parallèle, le titre a été réduit par certains analystes, mais les ventes nettes en mars 2025 ont affiché une forte croissance. Ces éléments combinés suggèrent une situation mixte pour les investisseurs, avec des signaux positifs mais aussi des ajustements potentiels à surveiller.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Where are the Opportunities in (VEL) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1JadVkzN2EzeHZsQmhpZmVPdk81bVlvT3JuVlcwZUZ4OUNOanFQX2hNb1ZPanFwbS1hYUhoMm1IcnYxZGJlbVNyeWdwT0RlVlNXdmFmX1ZTWlB1Z18wUnNZNWI4OXFTMUI5bFNzUkVKbGZ4WTJnUzhwZnBTdXB4VndPVXVBZmFhRzRpZTg5RkZqTWoxV3VkQjBxZmg1SDJZclJKaTBmRXktQ2M3bFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Velocity Financial (VEL) Stock Stands Out in a Strong Industry - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1Jub0FfVDVLZGtVNEk1REVlTXJTUGtFTm5FNC1vakxTek5JOFcxc2xwdmtnRVlSLVQxcmF0dm9TZEVyUmF3NnJ4S3JXa3lpRzdUcmhnNWZyRlNFMG83Zmx2b1BOMTk1dEozSGlrUGFOd0JQRFBZUzk5Uk5ob01QMERBbEJ6QlRBakhpVVQyZHMzbXBDemc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Velocity Financial Shareholders Approve Key Proposals - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ08zWEFjdkVLNmZPVUEweGpMSXhSZmp6UzFsSFZ3eElxZ1Z5Q3dVQ1lEN0Rnb3Q1ZW5fakFfQ0I2VlJ4djFwYjNZMnp0WkxBRVJfa05EWlRFRW9zc3ZHQjFXdlNvSlZ5NWNvNkhKVUd4SjFQelRFbHVJMEE3U2wzOTVibnVFZmN4Z1BicE00YjBuVldZUjZCd0pGcFI2SXJMSFFqdHE2SGI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Velocity Financial, Inc. Reports Fourth Quarter and Full Year 2024 Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDhyM24tUEdMVEVJM21OLXpFaFVPLVNPdjBIWWN2YWVMWGpDd0pDM0JYWS1pRTNSYjBLRU1jYVRLMnRBdlhFcHdKN0haak9oZ2JpZHZ5MEg1SWtzQm5wZk95VkVIczAtSm40YkRRekhnbm5adDBuMDZfSUVOUWFkNzVXYlN5SG1CQjVvaGpYRFVkVjZsbE8wWm5zbjRpQVdHMUo2blJTMFl3RW9PLWF0WFlVTGVZbTRWTDFBWDVPamJXZTd1RHBPV0ln?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Velocity Financial’s SWOT analysis: small balance lender’s stock resilience tested - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZDdoNkJ2NG45Q0tYSk8tWENSbVV3V2pDcWFodlVGb25PQk1Sbkl5VVcxQlhMOGh3NEtXeV84MklwbTNKaHdMZzh1T1FIeVJhSi1kVTIza25UcDd5Y3V5ZHdQaktheU9tSWllOTV2cTZCNlo0VVBpaHM0ZnJ4eGpXZVY1QWEtWTAzWE1hV2t3dmZYd3hKNFpxb1ZrMzJtRXVJMFdDOEpYWHdxUVVmaEFUNUYzU2s1YjVUV2daRWRRNzhGS1NSREZwYlhVTGJjU2gtZjQ4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Oil Prices Climb While US Stock Futures Dip Slightly - Finimize",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd1lPN3BqV1lnXy1NVElSZVJ6M0Vmb0Y2Wkl5bWxDUzlZOXBxcUVuWGEwdkJHa2hJaVNBQUpzaWppZXNmRGFkbUhqV0ZCX29nSVlIcUpuUUZxQWZGdFA2QVQ4UC1IVWZRN3VnbEJOblVOSTdQWndzSFhnVkk0cFZ5UDRvUXNHeHN0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sector Update: Financial Stocks Decline Premarket Friday - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkpHLXRwdFhNUTRicl9kbFk4SGdqVG8yWmlHZU1WMl9mNmFGdUQwZUxVVUVpd3lkamlhanRDUmFMTG0wblBKdkZ0aWZ0YXVXV0pTLW54SnN3Q1RjWWlZNHF4WkpmdUVlX2ZLUG1Hejlxc0EzdTJ5Wnlud2pyRm1iYW5zRk1FVFcyTWRJZG9EdUpleVpXTHRfQ1RKc3JZaTAtdlZwdkRVUlYzWmREaHZEZ3UyT1ljZDlwaU5UTTNjMTVCVlU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(VEL) Pivots Trading Plans and Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdWdlRHZmNUlWV204LXZIWnd5QzFQZ1lfNmVwakE3cTFWZ2pldG1uMmFqQlpBV1J0cjFNdllWeWZFN0RSYVo0UUp4bTFTZ3Y4WkVxRjdIRllKUmVPQ3RsSF93Nkw1ZGtOSVVoVGd4dTBvd19pMFhiclNSdUZLV1N5UG8yaGdZY2RJbjVPRUJibk8tMHhzdThBN1MxNUFpTm9nU0FqeFhteXFzV3hPa3UwZ0xkRDgxeTM1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Velocity Financial Releases Q1 2025 Earnings Presentation - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWm9UUDBEUXp2RldtUmpPYmdRZTB6Y09VM0JITXM0cUxkb2FyeTlaNVR0OTR0cktudGhNbm03SzNQdkVpMUthVUFBNThEakdxV2U5Qlp2TDRXYkctTkJnVmRHWC13S2xkbEk1OEthVUE5Zk1YU3JiUU9QUlRSQWFkSTF6ZnNqQ2xsVXlyX2ZQUWNmQzByZTV5TkpVRkVsRU5qQ2JueGY2b2syQnJFcVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Annaly, AGNC Investment upped, Claros, ACRE, Velocity cut at Wells Fargo (NYSE:VEL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWDNLRU9uVDYwZ3otanlRT3VLTnpVa2RJR0FUanByb2ZPVjNvbktnUW5nelZQZ0hxN3JTdkwxVHZOSm9ZZ0tjUDczWDc0N29qZS1FSUZ1eHUybTROZ2dMU1RRSWxGZUpqWnVadjk4bXktS25rOTVsSlRfeUVDdmMxU2dKd1pGYld1Q2NIR0N0MzhxMjBrRXZQM1k2WkpheG51dXhxZkVBdFMxdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VEL Standalone March 2025 Net Sales at Rs 3.19 crore, up 168.39% Y-o-Y - Moneycontrol",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVlhfdTU4WlN5czJQRzRvd096b0NSOTBHazFqLXprSTlOWGJCLVNuc09aUm5sSzRFVEUtcHV5S1BfcktMN2dFZDlfQjIybVZZcm83REpBMHNVV2FkUWljNW02UllqaTJQNHJWMXBzaTVLVEd4UXJIaVlzeEhyQWNfTkZjSnMxRV9sZE5NRTFDUlpvbDhLUU1oSDF2MGdCaTFhUHNERG9kZHhaVHVjc29tQXowS3VUN2tJeUdrYVdKczJyVkQ3NHFlWWRVN0hKdTjSAdQBQVVfeXFMUFFlSDFWSmZRQ3ptRnhGVHdJM1VyVFc1bTBTRHJfQTJjYk9UMXNEdzJVczhmNnVhYlA5cThzdFE2cWVJMG8yVkhuZGN4YTlTQ3pqZXF4QlVOS093TWZxTUNZNnExUTVBc3BLaTBPU0g5OGd3dWlNTE1yTVRSX3doQWR2RlJjZC1acF9LZDBPTUxxWHQ2eGVSazgtdnI0bGhIRlJqeWkwLXEyLWc5X2lVaHBuUTBRVmpUbnhLd1czdnRJUFYtTGZVMThUcFgzQ1JYZnBPVUk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Velocity Financial, Inc. Announces Date of Fourth Quarter and Full-Year 2024 Financial Results Webcast and Conference Call - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTVF1Z2c0bHNxbE4zazJLdEI2OEh4RW1BckdBdzl4alZkeEZobXJuRDFQODE1MkxyR1ozS0VFakhFcktfdER0YVZKTDluQ2diZlZsZEd1X0dNYm5rVVl5aWNFZngzLXhnbWlRMGptQ1ZEN0dWYlR2VWprWnQzWk1fYWQxaFduaDYtTnFPOGpNbUI2eHpPeHNoczFac2ZvWTFUZTM5U0RGa1VDRHp3VENzRFpzeXBVNTdveVc1OWUyeDZqRHB6WFhqTmg5enBRTWVCZ2hMbHFKQjNLX3FPbTVubEhhWkZMY1A0WnFiUXJpaDZrazAtSFhPcFNVUVpSZ0hVZWVoTlg4R2JBUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When Should You Buy Velocity Composites plc (LON:VEL)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQU2daelEyZV9HSU9uSGpTZW8yRVJodVBqbmpYWnMzXzh4QXdxWWRPZElTTVh2ZjJ5SkFOQ1FOdzRmdGFZSVptWjJJM3pDaHFBODZsMm56MUU4dTFqNTdiNmNCNFoyaWRVS3Brc0RNUVJUZTREUnVObExTa1JzM2RZNU5QN21ZdzF4QWtVbUw2ZlhjQ1BRM0lNOFhWdXQ0S1ZOSGlpY25ockFzVUEzM0h4bUdxYV9yOWtjSGs0UTJHMnAyMTRHMGtnUGVkV19pTldMYWfSAdcBQVVfeXFMTmhQTjFRYjBSODZ1LTNjNngwMWFENXFBYUpNTjdxcXZEWElHNXR3UFFscUFwWWhrYUpPUGgzUDNWaTAwak1JTzJLd25mUVZWdzV5RkxwWUlKaW9JX2VTX084NThLRjRVUDYxeUhOdk5Kb0lmdnduLXBWM3dHLVhETGQybTlYd0paQUFGc0g3MVdRejBaTDBJYkZZd001Tmxyd25lVW9BZDI2YzlUY3ZyeTJYTWhGMlhlbFlCUG40c0JPT2c4emhwLXhFc3gtd2FmN2d0UWREQWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Velocity Composites shares rise 15% on BAE contract renewal - Proactive Investors",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX1NhTG0tR2JRN0t4am1FQ25FYnFVWkZlSnFIYi1SUE8wY3lNQll3aDRDQ2VFYmJGZVl3M09oaEhaTnc4VlRrekphWXhtOURfUkNha1NuWDV6cURaTHZ0QXpWdE5JM0VNX29tdzhHcHdmVGVBS2Q2UWZ0NFloS0dmOUgtVHhtY2Z1NUxkS1BiUmRsYy1lZE9oQ1BDd3h6VkQyLVotLVp5MlJFOHNvSFhrU3lIQ21YXzJJVzV3QlRwMzduYVBPZlNIeTJ1Yw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Two high capital efficiency smallcap stocks backed by India’s Warren Buffetts - financialexpress.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU2pmMF8tcFNXcU5ZdWpHYmdGSml2REIzY0tCd05UXzRjOTJXaTFGd1BYdzhMaUtoUGIwSE1IaTFMRTNVOWFad3hJbDF1TGFpbDIyX0FuaE44Nk94X3pGdDU2N3dyWmpoTGZhclJ3YVBYdTRKQ1JhbVJuLXJZTnR4WFpOX1o1cWRiNVZBOUlnekRXV3U4eDFkXzQzYUl1bGRjbWQ0NmtFYUZnTy0tRDN3RlB1NXB0YkhxUGNJLWV3N0dPbEpsU2h3WVVENXcxbGpxekhBYWNkYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aberdeen continues buying spree in Velesto, lifts stake to over 6pct - NST Online",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkJKQkZYcEVrWjBkb2t0ZFp2Z3FGQnlpcUFPVlRZMmN2S0F5V1dFOEd5Z2pjUmZEdXhJdzdyZ2lKdFV0YnFua29lOW0yeDI1aEJIMHBkOHVqUUEyaFZmY3hZcXRlOV9tZ2ltVmFGR1hLcUhxZDQyVDFLLVpoOWNuUTRPRVJuaXhPdk9ZeEpCZXJQSkZLNHdXRlp5dnB5TDVUdVU4NjVreFJmUkdIVjBUTENiYVBSMnNEOHBR0gHAAUFVX3lxTE91dXRjUVg5dlBNY2liMC1wUklEZ09uV0FwMzZFa3ViNS0xbHNhODRGbHM1eE0wai1UaHBka2RxeERTLW5xOEd1VTBDaEdzWUxVeFNJRXJodGx1OVBoWHkwdXAtX3kxNkZibXNUNjJJS0dMS09RRGZpMUVkQmpTTUJ4VnFiSERxejl3bkpSeURFdnZSdF9YZ0NvTm5kN2VRQ1VzUkNjRE85ZGZJclZmNFFZbmFqUWdDWHFKakRRbjhySg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Claims that investment firms bet on Trump assassination are baseless - AFP Fact Check",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uWng1RUx5UGl4X21IVG5pNW5CWExPTFNpYUxscFlNeHZCSXRKem5XaXpSYTlqTzRNTHR5cGF6bkFKVjlkYUhHZHZ0RWxSVTQ0SUh2dHdKeTY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings call transcript: Velocity Financial Q4 2024 beats estimates, stock surges - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT0RBUV9uZzNHSWh4SVh6S0d4MENyVGFRamNwLTBsLUg1SFJnQzQzMGh6OU4tR25NOThNd25lOUF0RVVSYXQtd1BsVU1LRkNfdDEzQVhrZmNfUWo2eVowMUJoTEpQVlE2VV9sQjFIVDB3R3lWVTEtYmZwV1Q5RGFDSWxvVWl4YlI4dW5xYU1yVHRqT0UyLXpJTUp3Yzc2eXU1cHhNeHFVLVM2aU1sRlJpU1hzMkJhWk9Tb0luYkpjOWg3MGZxVTNIdG9sUV9Hd1hBeUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Velocity Composites Announces Share Option Exercise and Equity Issue - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSENJeXNOUEtJVjlULTFYaFpKXzhCbkhJMFg3LUdGWlI2UGI5cE8zeU54MHZmYXpWM0M5UjRrVmpSQnlyeXh2cjhhUkRJZko5QVBKZ0o4MkNqY2V2bEtSU0ROSnlaTjBtTkprRlZKRVozcVhGazdCbVowdTJRbTdJbjcwLTA5cTVsTTc4NTFCTlFFU0JpZHpxRE9BMmRtT2RUM3JZTmJ6aHgxSm1IdFVLTGNwYkE3UnRTeWM4TmRXZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Velocity Financial Reports Strong Q1 2025 Results - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWJjVW9qNmlrS0k3ZzJmR3lVOEl2T0hOWVNjZG5oeXVzWVJuOGhnNGdqSjc2WTVnSFlmNHluN2VXYWhETzJTM195VnFneVdzX0hsSjh6ejBodmxFWjZTU3VFNFRiQjdpQjQyc1lTWnJySDBqeW1DSlI0NjM3RTZmVk5fTkpnczFXSFFCQzB4RVc3THlublJQTVFvSHdMYm5FQmZR?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 20.62
-      },
-      {
-        "date": "2024-12-03",
-        "price": 20.54
-      },
-      {
-        "date": "2024-12-04",
-        "price": 20.64
-      },
-      {
-        "date": "2024-12-05",
-        "price": 20.61
-      },
       {
         "date": "2024-12-06",
         "price": 20.63
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 16.77
+        "price": 16.8
+      },
+      {
+        "date": "2025-06-03",
+        "price": 16.83
+      },
+      {
+        "date": "2025-06-04",
+        "price": 16.82
+      },
+      {
+        "date": "2025-06-05",
+        "price": 16.75
       }
     ],
     "current_price_data": {
-      "price": 16.77,
-      "change": 0.02,
-      "percent_change": 0.12
+      "price": 16.75,
+      "change": -0.06,
+      "percent_change": -0.36
     }
-  },
-  "news_sentiment": {
-    "summary": "Velocity Financial (VEL) has recently been in the spotlight due to its strong financial performance and positive industry outlook. Shareholders have approved key proposals, and the company has reported strong financial results for the fourth quarter and full year 2024. However, recent developments, such as a decline in US stock futures and an oil price increase, may impact the overall market sentiment. Additionally, Velocity Composites plc (LON:VEL) has been working to lift its share price. Overall, the trends suggest that while there may be some volatility, Velocity Financial remains a strong performer in a resilient industry.",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

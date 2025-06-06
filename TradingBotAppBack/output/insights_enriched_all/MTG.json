@@ -1,56 +1,164 @@
 {
   "ticker": "MTG",
-  "name": "MGIC Investment Corporation",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 6250528768.0,
+  "market_cap": 6176923136.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 8.775001,
-    "PB": 1.2301977,
-    "EV_Revenue": 5.509,
+    "PE": 8.671666,
+    "PB": 1.215711,
+    "EV_Revenue": 5.433,
     "ROE": 0.15121001,
     "ProfitMargin": 0.63492,
     "GrossMargin": 0.85882,
-    "DividendYield": 1.97
+    "DividendYield": 2.0,
+    "DebtEquity": 12.55,
+    "CurrentRatio": 2.291,
+    "QuickRatio": 1.581,
+    "FreeCashFlow": 631942720,
+    "OperatingCashFlow": 758148992,
+    "FCF_Margin": 0.5181540373604294,
+    "ROA": 0.09746,
+    "PEG": null,
+    "EV_EBITDA": 6.409,
+    "BuybackYield": null,
+    "PriceToFCF": 9.776377302044084
   },
   "technical_indicators": {
-    "RSI_14": 56.33916552460968,
-    "Momentum_10": -2.137542244404821,
-    "MACD": 0.4091168963679585,
-    "BB_Percent": 0.4912311303011661,
+    "RSI_14": 51.12850462691467,
+    "Momentum_10": 0.096189375723099,
+    "MACD": 0.2907562946908513,
+    "BB_Percent": 0.151790089948073,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9336633075602124,
+    "ValueScore": 0.9336782283933616,
     "QualityScore": 0.5387525315641449,
-    "SignalScore": 0.4583138062304122
+    "SignalScore": 0.5517256063624947
   },
-  "volatility": 0.0168515101728355,
+  "volatility": 0.0169372001004463,
   "beta": 0.887,
-  "return_6m": 0.021755993225349,
+  "return_6m": 0.0299025729306092,
   "analyst_rating": {
-    "recommendation": "hold",
+    "recommendation": "none",
     "analyst_count": 6,
     "target_mean_price": 27.0
   },
+  "news_sentiment": {
+    "summary": "L'entreprise cotée MGIC Investment Co. (NYSE:MTG) a récemment suscité un intérêt croissant sur le marché. Malgré des controverses entourant des achats d'actions opportuns par des acteurs politiques, le prix cible des analystes a été revu à la hausse, tandis que la société a annoncé un important programme de rachat d'actions de 750 millions de dollars. Toutefois, la performance boursière de MTG reste en deçà de son secteur, ce qui soulève des interrogations sur le moment optimal pour investir. Les mouvements significatifs des investisseurs institutionnels et la proximité du cours de l'action à son plus haut de 52 semaines ajoutent une dimension spéculative à l'équation pour les investisseurs potentiels.",
+    "sentiment_score": -0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Jane Street Group LLC Sells 350,654 Shares of MGIC Investment Co. (NYSE:MTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGRmSk1laUZydm1RZzBaNUVqOVhIc1lPX2lnbnk0VnlTOHBGVjZBRnJSVWExNG9HWmRQN0tjV2dBWVJEcHRHOVA5UW5LN1RORWVhNTBwV1I1MkJxdUZOUm80Y0lOVTFlcG9FaTF1MU5jbXZveG9JeEhYalJ2SmhncklOV19CVEUyRDNpYVA2Slp2OU9uNDB6M29LYll1ZUxDeDhZSmQwb0xkUmNPNm00aVdJSU5EUU43cDNaaWlKNV91ZnRrT3VsN2Y4bFA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DOGE committee goes off the rails after Democrats suggest Marjorie Taylor Greene engaged in insider trading - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1QxT3o4UWY1SUkxRGtHSGZNX0swNy1QYi1nZi1ZSVNkMVpDMEFMaDhDYXd0LXBpcFdjR29LOGJOaWJkUHZfOWpzeEJpeFI1NUowTXBBa0xKMWJ2dFVtdENYV1oyVjJBYXJMaHFoR2kzU2JfR2JGTkxucXNaV3VTTC0zSkQyRENOT2ZubldYU2E3UHRCcWV5X09R?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Final Fantasy Magic: The Gathering Decks & Booster Boxes Restocked At Amazon - GameSpot",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd2I5ZnRGbGN4QTBKU1M1ZThCS3owSU8tS0RaeDFiMWk2eHZvYzliUjh6dUtzbmJXb0ZRQnZfaWhKUDA2dzh3WXA3ZlhCUFFyRlhfNGdYUU1QcUZyLVdkcjVmUUpOS3h1bWhkR2dISXlwWUhWOGVHOUxMTTBWUzRuYUREclpTX0NfNmRLcklwUlRfSlVwWmMtYXhMMXpuc1FSVWdreUFKMjFvR2dyZG9rVkhtbDJ1MjYxQTJySUhQLVpybEVmMDQ0Umh0SzhKMjNWbFVRNWVEd2JyaFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is MGIC (MTG) Up 4.8% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00UUQzV1lxcWxyTEpTR3g2ZTkxOFpSbThndG5IQTV4VFhLRWNfUDBFU0Itd1Rpb0RiUlRWLWdBRkhnMUIxS0JQYUFhaW44WE5EN3hDQjRpSTVCYW5TUzhVWFViN0RFcW9xdDBtWkpfWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Marjorie Taylor Greene’s well-timed stock purchases draw scrutiny - MSNBC News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGk3U0VrMks4MFYtNTJudGdrRkVwTUlKREcyOUFsbmdkbjZPVDZHVVVhclc1Nl9kNlpFazg3Vk9nc0s2bTRzV1BhMjBhZkU4ZUFueDNzVWpQNWdMelZIR3ZRekRPWTFNS1BadG5sRU5fel9fZjZuc2F5SWlTZDd1N2VyMC15Vm83YmMwNnliSWVhMEU4MnZjd19DWkpPaWNtemJ0Y1lvSXc4X3F5dXJTclJPZ2h5OXVDa3o1QUFnd3JWNjhpRkHSAWxBVV95cUxNU2FBZE5KZGpmNDlDNzFOVWtVNmMwY3NtRGNhOUpucVdZZnRvT3VRaEJ6b25ib2ZDTU5iQmE0WVhaYjEwYU1IMEVnY29XeW9udDBQbUdZM3NMb09vVnUxTGJpUkdVdmZOV1NpbXU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MTG Stock Update: Analyst Raises Price Target for MGIC Investmen - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXV1OHo5d3QwTjNOSnRrU3k1cUR1NXBPNFhLRTZhV005bU81OWxjdnYyZ0RyekpaRXJPall6YnVNOGFuenh1OXowVUNNRDhmVmZMeGRVcGZZVVFFLUU5a3A3Q29SbU94WWotN0lkcWhaTmx0bFZIeTFPS2UxZFhJX1JTQldZdXpTWExYcEt2M0UxazVtMDlIejF6ai1uRXpsNk1pLVJoYkJUNFprd3RqNkdVU2FrWkwtVFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MTG Stock Lags Industry, Trades at a Discount: Should You Buy or Wait? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOakw0em8tNTJmRnFHRF9KQTl0OE8wM0pOS3dMWVJZNGg5bl9BcmF3T2RPOHFrMlREVzRxS3dVYnZFa2FJbUctVHo2S0RzNzhhMkgwZnIzUGRuY3VqdW5QNktVRUJsNklRQ21tajBDN1ZzalJKRXpaSjVobGtmYVRhSzFoTGV4UUw0b1hpaS1UbFlfaTg3aFB5Y2hn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(MTG) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS2xGSURMRHdjcHlCVlZEZDNGRDZHUGwxX0tCV1pvN0FKLXZXX0VzREI1X2VKdEhHd2Zaa1BDYzNFcjNONDJYMHlEdE9tN2o1U3B3WWFQX3lHRUJUZVNwbnBGZENrVU9rNUZmVWZTQ0VfQkNOTXZqQlBXZDBSMVRteVZoWG5reWt5LUlnVU1DLXdvd1hqbHRLM2F1N0xjZWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marjorie Taylor Greene faces scrutiny over stock trades before town hall - FOX 5 Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmFHMktqMGlVSkdXaV9nY1RDSGdNMjRhemVfZGVGaWI5MUpPWUdUUlVrSHhqWVdpdWhwSzBzdXRKNVNsa3VMYmp1dkNXcG5TRXlTWUVfWGJKQWYxRktEN3dRN205Nm4zTDFPdUlwdU1YbkkwcXhMNnh5U09aLS1lZ041VlpSNVlsaDFyT2dkLW91aTNJRG9pQ0ZyN3Z2bUNHSUZ6ODFicU_SAa4BQVVfeXFMUFB4WTROaUtHSkt4eEVjeS1makNZcTljV1YxX2VNdlZDaS0yWjJTUi1KNjlBaFpGN24tamk3eXVTamZaRDVmbzlXdU9JT3BHcVdQWVNOWnJpb25rZEt3MU5rZnFhYThBTXVkUnJXS3JRTEs1dmFaZ2MxVFJjNUJ1eGZVTHh1ZG12ZGRncW9mYjRqa3dSZnM0V0hKbF9ZczNwZHZpQlNHbzU5N0xMeDVn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "We Like These Underlying Return On Capital Trends At MTG (TSE:7806) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY25QYl9Xc3oxOUJqalIydnNyaUZoUy1nTFIxSzUxTHZNdEViREw2THpZX25mMnhxTVdDYmg5ZkZocnJJMHNmMmZVU0Itam9aR0hnRkZMTEF0V214eU1md2FZUjNJSWdtbjNxaU1ja2ctalJ0eTg2T0JrWGtDQnZCTlJSeWRoSUdnU1Vyck41bTZWRVZSdXAwYm5nVEpiT1VtSUllcE1LTk9seDN3UkF5WXI0X3JBdENRMUtQdkNRcF9KN3I1QVHSAcsBQVVfeXFMTlhXU3VjSms1N0YxaTBSV0FSbmNTdW5mWm81WWdKYktZT1hyWnFqcjI3cDM4QjliOThiX2Qzd2diYm5XX1hsSXJmTGd6bkp0M2diczdYNFo4UjhvTDJUYndKMm9UQnFGNFRhZ3U2d19pNHVVcWJ0bE5YUVR2NTg2MERPZTA4amF1OUhfaktTQW1Ya09EWWY3eWpwZFZHMVd1djZ3VzRKSllTRl9VYk9XR2xvLUlsMUxqRWtIRm9SOHFRQzNMTVdIM2NMbE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MGIC Investment Unveils Massive $750 Million Share Buyback Plan: What This Means for Shareholders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0hOUTUyRnBGUDNYY0xacnQzejNJZ0dTRkhPSDFoSlp2SUJOOVBtUjFkTmZwdElrQ0RtOGtLUFIxT2p5NlNFeU5iR095dXRUUmtUVEI3cDkwb2Q3YjNhTWI5Wk1NZ2hhZVV0U0RtMU9HTFNLcFBHMXI3Nm5yQW9aUUxqMFE1ZjIyTXZjZ3RLQ2lzdVRrOTZCcmZHWjZoUzZoTU10S3ppR0lFdzlTNF96OENObWI2X0c4XzFz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Selling: MGIC Investment Co. (NYSE:MTG) EVP Sells 20,000 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVTZJWS1RbVBoVVB4YXE2bVhXaWRTZjNoQXR5ZjlOazZTVElKRjEzcEE4eTBWNW44THRFajBvOFBWNkIxZlAyUUxhNGxvbkFIV0F6aVpKZldtU0hGZmZ2VVdCSjNTRF9yVkVRQWUtU1l2QU5FRkxOcUdlLVF0amMyYUZCdXV0RGg1ZnRWZUxsalB1elNYOXVIaVVKejZXN3lGMjF4Vi0zS05oNmJO?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marjorie Taylor Greene's Hearing Disrupted By Insider Trading Scrutiny: 'Maybe It's a Coincidence,' Says Jasmine Crockett On MTG Buying Stocks Before Trump's 90-Day Tariff Pause - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTy1BXy0yTEh3eWJGT3h4Rm5pTVpvY0VYdHFtOW5PaktZYW02Mk5ZY0haTG9mRzdRUGJiUW9qcUxuRGtVMHd5b2hMNHlWU0hFeWdaMlZmZWJoUFppV0tIeGlKZzNxOHR4R0Y5aVVzdldOeFZqYmlDT3N4b3YzSVA0RzRab3ByVDFCcHYtWTVwNDQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Compass Point Raises Price Target for MTG Amidst Sector Challenges | MTG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQURWMElfUDFaeTBySTVRVk51MzJaS0xTcS1aRGowYm1PUjlTcjdOdWFGM0xHaEhoUm1WVXVBU3l1aW5FUDctVmNBNVFHQklWS3ZYRHF6WTV6UkFfWlRGNDVmU1luTlE3MU1zYjYtYUpjdDdsYmM0UlloXzVLb3paby1kQk8zSDRhVHNtYVVNUVZRWVVzQVZXcXlNRG81d1lYQUhzYzNYQ0ZtZUtqdEc2VnJNbUtfMExEYUJzbEhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Invests $9.95 Million in MGIC Investment Co. (NYSE:MTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOVVTeW51ZzhjS3F2UkdWUk5DdUdPZXVEaFdZdmhabjd0WTZ0ZXcyLTlIZkFWdFFFeU1MUjIySGdXTVpWcVV3Q2M2Sjd5SVFtNXM5ZVhwWmN0cmY1MHZZZlpEZVR4ME1xbTkzRGItajYxdmRGdVVqYlBKc0tNbExLaEwzSTVkN0FmOU1pQnZSRGcxclVxQmw5VUZXam1ZYTRZbGV6MWt5dVpObmtaM0R4d0t3X1A2ZnhVT1gwcklaVXo1aExfQk9Ub0dYSzJ3eW1TNmt2UU9YS1I5S25KMDBxZTdkWnRoVjBlZEtTUk5TZlFLeHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mackenzie Financial Corp Sells 426,905 Shares of MGIC Investment Co. (NYSE:MTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUW5EWFZibGhvVTdQYWM4STRFRHVnTXNyRlVVSTJORzNTeUlGbUlubzRHZ2FBS3JRWFljMEpMMmlXQ0t1eWRhRFRaYm0teVJBUmdJZmZxM1NWU3EtcWV3QlFnejI2XzNkX3JEdlpmeTBXV2hibTBSaFdyVzdBZDdzZFFPY2l3Q1U4N2xlc1JhUE94SG85dHppX0ViSHFvV1VXWFRLcmFnTXhiN2FJX2RDWHRIdU4yMS1MMXRDS3R6QTR0WEFqdGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Millennium Management LLC Trims Holdings in MGIC Investment Co. (NYSE:MTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXFyU190ZEVwaldSUVptWi1rRlNoeWpMdjl5TkVBUENDVGZBWERHQjBORU9YZy1nTnhsRTV4T3UtUHpHVDZ3d3hoNk1TdVBhN3lod2JRNk0zaHdlaVRIVHdnbllKR2MtaGdrcjVrRmprRnh5b2c5RS1qc1BLeTl5OXVKZjZsOF9qXy1HckVwdXdJU1ZWaWhMcnU5WFNPWFJlcjk4a1lVU18xaFI3SEQwdVVhdjctcHVkUzJMa0pIcE5uR2lNOXJzc2dFekxkYllMOWQ5OHdGQy0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nuveen Asset Management LLC Reduces Stock Position in MGIC Investment Co. (NYSE:MTG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSUhOaENjLWlRODZvaTFfcWFicFU1amRuN3poLUZRb01nMVRZZXlpVm9fZEQydUcwc1hGZzVSSmVFcHY1NXhSQ2FaNmZVX2ZKUldqWkJkaTBiR3FwZkM4T3lGMTRPc1ItT3dTakJQYzVycm5OUzVJVGtQb2kyU3VpU0VVU2kxc3hyZ2kzRl9YUUwtWGJGZm9vam54UHQ0U0k4MUJpUjFNLVdoZl8zT2xLNXFXYkloMXpzY0Q4cUhsdFNKYzJ6cVNpdXhkYWpLQXF3NDdn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Amazon Just Restocked Magic: The Gathering's Final Fantasy Booster Box Preorders - IGN",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVd1ZEduQmZmTlpMbVBKUlAxd2xNWkJrV3kzYldOX2dzcjdzNk9ZQld4eGhMb2ZLMjFPeGJLRTAyREJYR2tnS2xmYjhsSDhjTmF6SDBKU1F6dmU0OU5aNXlSbmpQT1NhTXhDZkkyaGFWQ3FMY1dPYnUzRDloOUVna09adkkySUNOUENKeXJxay1CM3M3Zk02a1lJT2pYXzZE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MTG Near 52-Week High: Time to Buy the Stock for Solid Returns? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUWlVMmZ2bVZoelhCdjdzenFDVWJCRnhwZEpoNlBnc1lMNVJjSWtWUFdyZXFUUWNFODJfVkdZWFJOcjBxY25TUENTUVJyZmdOakhGTkdwcnQwT3AxQ2I1UEJJbE5sZXZKanRzSUtuT0VNclp0VGg0WFZWYXJoaVpGaXJILW4wQjVZTGJFMXI2ZW1VOHlrZEY3cnZSNmNXNzdaakRNag?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 26.03
-      },
-      {
-        "date": "2024-12-03",
-        "price": 25.93
-      },
-      {
-        "date": "2024-12-04",
-        "price": 25.63
-      },
-      {
-        "date": "2024-12-05",
-        "price": 25.7
-      },
       {
         "date": "2024-12-06",
         "price": 25.52
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 26.31
+        "price": 26.32
+      },
+      {
+        "date": "2025-06-03",
+        "price": 26.47
+      },
+      {
+        "date": "2025-06-04",
+        "price": 26.06
+      },
+      {
+        "date": "2025-06-05",
+        "price": 26.02
       }
     ],
     "current_price_data": {
-      "price": 26.3,
-      "change": -0.14,
-      "percent_change": -0.53
+      "price": 26.02,
+      "change": -0.05,
+      "percent_change": -0.19
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres de l'entreprise cot\u00e9e MGIC Investment Co. (NYSE:MTG) sont \u00e9clair\u00e9s par divers signaux positifs dans les derniers articles \u00e9conomiques r\u00e9cents. L'entreprise a fait des ventes de stocks pour un montant de 529 728 dollars dans la semaine pr\u00e9c\u00e9dente, et son stock s'est \u00e9lev\u00e9 de 4,8 % depuis le dernier rapport d'exploitation. De plus, un analyste a \u00e9lev\u00e9 le prix cible de MGIC Investment Co. et a consid\u00e9r\u00e9 que l'entreprise \u00e9tait en position forte.\n\nLe dernier article \u00e9conomique concernant Marjorie Taylor Greene a",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

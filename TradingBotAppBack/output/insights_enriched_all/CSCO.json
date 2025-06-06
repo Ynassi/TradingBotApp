@@ -2,55 +2,163 @@
   "ticker": "CSCO",
   "name": "Cisco",
   "sector": "Information Technology",
-  "market_cap": 252064301056.0,
+  "market_cap": 256409993216.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.980652,
-    "PB": 5.487293,
-    "EV_Revenue": 4.746,
+    "PE": 26.428572,
+    "PB": 5.5818963,
+    "EV_Revenue": 4.842,
     "ROE": 0.21356001,
     "ProfitMargin": 0.17604,
     "GrossMargin": 0.65245,
-    "DividendYield": 2.6
+    "DividendYield": 2.55,
+    "DebtEquity": 66.932,
+    "CurrentRatio": 0.951,
+    "QuickRatio": 0.714,
+    "FreeCashFlow": 11596375040,
+    "OperatingCashFlow": 13688999936,
+    "FCF_Margin": 0.208481653752174,
+    "ROA": 0.062,
+    "PEG": null,
+    "EV_EBITDA": 18.27,
+    "BuybackYield": null,
+    "PriceToFCF": 22.066827526130098
   },
   "technical_indicators": {
-    "RSI_14": 64.64273382974815,
-    "Momentum_10": 0.1414651903472208,
-    "MACD": 1.2582062645476952,
-    "BB_Percent": 0.7194121474776324,
+    "RSI_14": 69.06449957208343,
+    "Momentum_10": 2.381330775232789,
+    "MACD": 1.3057818882719374,
+    "BB_Percent": 0.8100639641634658,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8830247995575984,
+    "ValueScore": 0.8796259575058412,
     "QualityScore": 0.4131693676504576,
-    "SignalScore": 0.5434153395779169
+    "SignalScore": 0.4858789099057519
   },
-  "volatility": 0.0164326783140579,
+  "volatility": 0.0164582474516731,
   "beta": 0.882,
-  "return_6m": 0.085549611736948,
+  "return_6m": 0.0934099625792761,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
     "target_mean_price": 69.32818
   },
+  "news_sentiment": {
+    "summary": "Cisco Systems, Inc. (CSCO) a récemment affiché une forte performance suite à la publication de ses résultats du troisième trimestre, qui ont dépassé les attentes de Wall Street et ont confirmé une tendance positive en matière de revenus et de commandes liées à l'intelligence artificielle. Les analystes restent optimistes sur le titre, soulignant la force de son cœur de métier dans les réseaux et sa stratégie axée sur l'IA. De plus, l'accent mis par Cisco sur la sécurité de l'IA le positionne favorablement sur le marché. Ces développements pourraient propulser l'action vers de nouveaux sommets à moyen terme, malgré des interrogations persistantes sur la croissance internationale de l'entreprise.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Cisco Systems, Inc. (CSCO) Surged Last Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01WmlsZE82Nlc2REt2X0ZVRnpBNmhWeWZpcmpValBnanNkZ0dJOGJpNXdNVTh3S2NlVGtZQ3k3cW1rRG1Bd0t4cldzRXAzc0g4UkVVbjdMWnExczI0cGI4VnN3ZENXdk5KOE80T0pUbGFuejRKV05odjNBSzY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cisco Stock Is a Buy Because It Is Hidden Sovereign AI Play, Says Analyst - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wRWdSME8tZEM5RmNsSGxjaXpGX1ZrY21PSHN3N3lscWYyalhKOWRUX0VvWmhsRXRfcXF3aFNGMjNWeEdOMjJIbWFVTkJGYWJGOWRtXzlaN3JDR0ZmQWVyZlc3czdyUHRuM2lKWGNWM0UyRE4tbjAyNFJVaXE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cisco Reports Third Quarter Earnings - Cisco Newsroom",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeVNRZGNyWGUyUjY3ZDBJQnJCZ0x6Rm5VTldZdVhfZTg4UTJyb0U5V1ViY09BeHRJVWh0ZlFReklza3NjOTgySFN6ZloxV3N3a2tGSHMwM01FRUExOHdoMWRZbS03azdiRTNSbk9tVVVPNkJpMmpaeVNsOVJNVk9hX2dUaXJCT0dWRTRDUmhkTVFBSVQtem8yelJ0c2dqTTVC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cisco Fiscal Q3 Earnings, Revenue Top Wall Street Targets Amid Growing AI Orders. New CFO Named. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0FjMHZYdloyenpIbnBka05TS0NWY2dja3pyaFVFQUlPU0t4SUFvR2lvUFZ4WDVvdVFVV3FDNmppc0ZTaDBkdWwzYlExalJheWEyaTlpZDBSdjFwYndha1c4TWlJdGY0a1RTUFBOdjJFc2FTdHFMLU10QkRvajdNa1hXUWRqVE9W?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cisco Systems (CSCO) Shares Rise on Nasdaq, Continuing Strong Performance Trend - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUlNMF9VOXRzR2ZVLXlPcDl3YWFfMU43S2JZVTI1TXUzdVVtYXJOcEJrVjlyZ1hoSnhqOVpNWWw1TkxkdzZ2U29ZNEtkY01UYXJlUTNLbXp6S2p1RTdHVllsQVR2eTZsa1k4NmtaaVBNVldtb21EUTY0UlR0UHo1WWdNTUgwRTlMaVc5OVAxUG8zS3JfOVY0TFY0Z2dRZ3FkWVZBSFUyWDBfRkQ4WEowZmNiS3BWc01RTDRWUUlB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What Analysts Think of Cisco Stock Ahead of Earnings - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmstYzloN2dmVVJOOXpaMzlqMl9VMGFxaEJZMGVjMURTM2tQbTVfZUFfaGtOMm56cnBITG1QRGNtc1pqekRUWHRjVWNaekFXWFRwc1BISUQ3bmNlam5VRGZuTUxncENVXzNUZ1Y2Q05sd0xTQlExbGtlZjRMVUdjX0phX2NRcmxnWVdPUUUtcVp2TXJDU0FBUm1udDhqRmZWMkc2Ylk4TlQ3V2M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Will Q3 Results Move Cisco Stock Higher? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16bGUtM1Jadk5rZVB0aFlVY0V3TDZkOWttd2VmVWV6aDRvSVA4SnExUFdvay1UdVp6ek9GV0E1MUlYdGNkMjlsbnVMc2htRlo0ZE9waExEa2hWOUpVNzFLdFVSMWhBVnNKM29scFAwb2hvRXlUV2VUcWlPbw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "New Cisco Research Reveals $160B Cost of Network Outages as AI Demands Surge - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSUc0Q1hlTnY1U0p6QUxNRXdNTG5nbjdyOHkzUFlZRE9Sck16WjhpOEVQWm92RDRZcUxUN2V2MTlCVzkzNVpsNTd0ckdVZVkxeXQ2MTg5WkY1bHI3d2l4MDBaOUZFcVZnS3hYX3VwRktuaFMwQnJhVHNwenNEMkJjeXByTjNGM09KaDJRTUtYY2hXcUdrN21qdVhldEUwUGRMc2VsNncwVDVEd0RjMFZjZDRxbkVGeE41cVRZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cisco Earnings: We Like Core Networking Strength - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWpLVEVKbjJKOGliVEp5d3loYnVlTlgzVHZTVFY0Smtuc2tRMmxKRG93bWRSME5oOWtlVzh1V1BsZGkxUFRlNXB3a2pkcGdMSURkUmdGM1Rma1psYWMxbXZkeFRHdEFLejdBRi1PbHVxRG5aSnpYUzY1WUN2THd1a1pWWXZUUEdsRnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cisco earnings showcase AI momentum, and the stock is rising - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFcyYWtacy1oRU5wVEtfZU9FQ2JDdk9jLXNudHU0U0l4UWZ0MkpyRnkzNlVJV0NIWEV0N0NGNkFPTUdac2t5d1NEWEhIYnBCd003QkE4MEpPdHVxQmliWncwakMweXNpQlh6N1JCVEZzNWxpMy1IZDBiUGFJVkpkVTA0bi1YUWRMNGxjRDQwLXItWHZlY0JjZGZodkU5Um9KaUk3NA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cisco Systems: A Safe Investment or a Stagnant Giant? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeldpb0ZFMDQ3cHBocjg4WUJTZy1xdXZ0UDREN1FJSF9CczB3WlM2VUc3WlcxcGxGQVRfcTlIVlV6dVUyakVWZkxuSVY1YmJNUFpEejdtdmUxTHdWRVFnZHd5ZkI3RmJpcnRxMmloVXE4dHNORHlGQUlvRkNtQlNodkRJWUprdWpPVjdJX0FnVXpTU3dGZHZsXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cisco (CSCO) Earnings: Will AI Strategy and Buybacks Impress? - tastylive",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObUh6YVc0U1NMYzU0S3AxdC1telNvUzRHT0lSeV9wMGxuTExxbTFidEljUUlBdXJxcEEyYzFsUFdlQ2pTYVVaUlVqempoazYzeDd2M3NiYjNrX1dmVU42Q2JYSGRudFo4b2VZcUVKbEVDcF9ZaUZMNjJ3UmM4SmlXc284Yksxd3M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cisco Stock Eyes New Highs in 2025 on AI, Earnings, Upgrades - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYlhpNm03VGpRSVp3dUpDN2tPX3RmaUhOOFZ6c1VpSUxCaEJBWUc0eHM4bGkwYmpoOVRjbnRkaXpaZlpDOThFT0JHVEdfZ25xb2IwV04yRlJWSGJiZWtvMngyX01WQWVzNVFvZ2sxQzl4dURUR3E3RnZuSG5XVTdVWnRieVN3N3RZVWlueDIwVFdEMktNVmFhaV8xUE8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Don't Overlook Cisco (CSCO) International Revenue Trends While Assessing the Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMnNoTlpmWkQ4SU9sMGs3TnJZa1ZWbVV5VzItUkdfVWJVb1RCYjlLbFVaT0c1R2sxWE1FUGdfTk5pMDZCRG80LUtidWYwckZvZURkbFVlUFZoT3lGckw1bm9GTkg3c2tkS1FWSlA1VDUyUS1QUG1BaXhmelZLT0sxWWN6Y3ROdnRVWWFseA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cisco Systems Stock Is the Top Performer on the Dow After Earnings Beat - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11cGNTMEVGY2dFbXNtMmpnUmptb1VpQTJsclJpNHV6LThLc3Y3V2xfbVZHTUpCY2NKTUJHWXZaMllMXzdhRkRRQ0U1aHZGZTlTWFZlZlFsS3JtYW44YzN3bnljOUNfWFVVbEgyOVNaalYxR2xGbXFwdUJOY0Q4dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CSCO Q1 Earnings Call: AI Demand and New Partnerships Drive Strategic Shift - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFQVBOM01tYWxteTlWenlETzdESkhWUnQ1TXNqakQzSmVMTTFyczNjOHF2dWRIMDZNWVNRWFFFSVhYWW5vUFJ1blQ1Qk5jZ1ZqSldoaElfOWJXVXRBOFhzOHJoQXBEUEMxRWFjejZyZ3ZoM01PNHlDakxB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cisco Systems, Inc. (CSCO) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPczVGRm43eWwzaFNPc1hfRE9NeERIdlZ3MXdpYzlHSGtRQTRKR3hicE9HVWVlX1dxTTVVMmcySHMwWG1PQzhjanBOYXZpLXVPZXprV3NLRmkxdXctcjhMcVlDYWJGMFNEQ0pIalVuWkthLTdhcjZWNUJKT1lnTXlZdHhwVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley Sticks to Buy Rating on Cisco Stock (CSCO) Ahead of Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzVYNmVhV2lBSE1TS0ZNdXRlNkVVZ1ROYmRMVW5nMzkwYnVCWUxPaU1RQ3AyLVFFcUNRZ3hFYndtU2I0OVRxT2owd1VEb2Q2MjlzN3NGbGJOejVRNG9LNWJnMlRZVnJpQ3kxQXktSnBKSm1GREFHZGVwa3A0SENLdlJmcV8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AI Security Pivot Places Cisco Systems Stock (CSCO) in Pole Position - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcFFsZnRnQ3p3NTNHckx1M2hRLXBnNnJaTGhaQnFNSHpNNjNSZmZpTFpZNkoyVUhGRThQTHBtWFROd2dISWJXajNGMF85ZDZtV0x3NkJjdnBBTmF4MGx2U2RrdTN0NFlqVTg5MG1NTEtNZEdDQ2ZnQVFFbFoya1UtNlNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Intriguing Tech Stocks to Watch After Earnings: CRWV, CSCO, CYBR - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnVzU2JEYlRibHk1alUzeTFsb2pyemNfRG5hS2dFQlVjQTVYcVItM0NucVo1djNFTFZjTllxWFk2bkZ0TXlzcmJHa1JBRVhtUlc5VTRhSkVDT0d0bGxpWk1UVXZYMGdaSGNXTHJrb00yTWNhV2E3c2FjS3ptamxORExB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 59.43
-      },
-      {
-        "date": "2024-12-03",
-        "price": 59.48
-      },
-      {
-        "date": "2024-12-04",
-        "price": 59.62
-      },
-      {
-        "date": "2024-12-05",
-        "price": 60.02
-      },
       {
         "date": "2024-12-06",
         "price": 59.89
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 63.74
+        "price": 63.85
+      },
+      {
+        "date": "2025-06-03",
+        "price": 64.36
+      },
+      {
+        "date": "2025-06-04",
+        "price": 64.39
+      },
+      {
+        "date": "2025-06-05",
+        "price": 64.62
       }
     ],
     "current_price_data": {
-      "price": 63.73,
-      "change": 0.7,
-      "percent_change": 1.11
+      "price": 64.62,
+      "change": 0.23,
+      "percent_change": 0.36
     }
-  },
-  "news_sentiment": {
-    "summary": "R\u00e9sum\u00e9 court :\n\nLes titres concernent Cisco Systems, une entreprise cot\u00e9e en technologie, qui a annonc\u00e9 son r\u00e9sultat financier pour le 3e trimestre. Son stock a b\u00e9n\u00e9fici\u00e9 d'un lancement d'ordres en AI et d'un changement de CFO. Les analystes ont soulign\u00e9 le d\u00e9veloppement de son activit\u00e9 en AI, le changement de CFO et le r\u00e9sultat financier sup\u00e9rieur aux cibles. Le stock a \u00e9galement \u00e9t\u00e9 compar\u00e9 \u00e0 d'autres titres technologiques. Les analystes ont \u00e9mis des avis positifs sur le stock, anticipant une hausse des prix.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

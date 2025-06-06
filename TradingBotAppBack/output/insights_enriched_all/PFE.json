@@ -2,55 +2,163 @@
   "ticker": "PFE",
   "name": "Pfizer",
   "sector": "Health Care",
-  "market_cap": 133009227776.0,
+  "market_cap": 131644743680.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.952898,
-    "PB": 1.4722171,
-    "EV_Revenue": 2.864,
+    "PE": 16.778986,
+    "PB": 1.4571141,
+    "EV_Revenue": 2.855,
     "ROE": 0.0862,
     "ProfitMargin": 0.1262,
     "GrossMargin": 0.74424005,
-    "DividendYield": 7.32
+    "DividendYield": 7.35,
+    "DebtEquity": 68.843,
+    "CurrentRatio": 1.258,
+    "QuickRatio": 0.88,
+    "FreeCashFlow": 15049249792,
+    "OperatingCashFlow": 13989000192,
+    "FCF_Margin": 0.24092677049180328,
+    "ROA": 0.0479,
+    "PEG": null,
+    "EV_EBITDA": 7.648,
+    "BuybackYield": null,
+    "PriceToFCF": 8.734372385650412
   },
   "technical_indicators": {
-    "RSI_14": 53.6840389728141,
-    "Momentum_10": 2.584319555670477,
-    "MACD": 0.1218116842846797,
-    "BB_Percent": 0.742356529813012,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 49.81954643316644,
+    "Momentum_10": 0.4123233922723905,
+    "MACD": 0.1058378340819459,
+    "BB_Percent": 0.5440096488542439,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.891926644309179,
+    "ValueScore": 0.8890485865480595,
     "QualityScore": 0.4695968915280449,
-    "SignalScore": 0.5832538242977916
+    "SignalScore": 0.5936135661469433
   },
-  "volatility": 0.0165283325069412,
+  "volatility": 0.0164017012340417,
   "beta": 0.491,
-  "return_6m": -0.0613687343047694,
+  "return_6m": -0.0666600701841141,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
     "target_mean_price": 29.2387
   },
+  "news_sentiment": {
+    "summary": "Les récentes actualités économiques autour de Pfizer révèlent des tendances contrastées pour les investisseurs. Malgré des résultats solides en Asie-Pacifique et en Chine avec Cresemba, le stock de Pfizer a connu une tendance baissière sur le NYSE malgré des gains historiques. Des analystes de Wall Street maintiennent un avis d'achat, tandis que d'autres recommandent la prudence après un récent downgrade. Les investisseurs se questionnent sur l'impact des accords de licence exclusifs et des investissements massifs sur le titre, tout en comparant Pfizer à d'autres valeurs et en évaluant son potentiel de croissance et de dividende à long terme.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 1,
+    "headlines": [
+      {
+        "title": "Buy, Sell, Or Hold Pfizer Stock At $23? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWERTZHpXb2ZNZUJ2eDlidGc5ZEFRNVhWem1reE12cEFGZm9Sb2JteFhCMFlEdHRVUmlYTzdHZ1dzLXBJa21wN3EwUUhUVFJsMzFHb1RhLUhHZDRTX2FmOU1XRkZJSkprdnBQUVYySVFaZDlHbThTSXEydnVSakFkX3BJOFlVdFZBMEdtQ3lhbDF6aU1jR1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Terrible News for Pfizer Stock Investors - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMS1pU3VadW1Oc2cxZS1QU1Z2NndHUS1wSlJ5QTRqMUNiNUREdHBHOHoyYktrSUQ1WEVEVW9QSEpaa3M5a0ZSZ1FoYlhXWl9RQ0Z1ZFF3ZHByV0luN25CUkN0VEZYTUgxcHhPX1J6b3BZNHppbkItX0dUTHdJNkxMcGR4UXBtSmNJOGU0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Pfizer (NYSE:PFE) Exceeds Sales Milestone With Cresemba In Asia Pacific And China - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQW1KU1hGZzZPakJRYjNseGZfYTdURWVVWEswTVlVUGNWOHhvbk1WXzJfODI1RkpjT0ZBczViMmppM3RUbXJwdEcyeUVIOWdxWUI3cldYSjF1UV9OdGxYcHBDNXhLbHRXUEpXZlBXT1hYazJvbHNsbEdnV2t5Z1FFdEFfNnp1eGVweDJINzgyMTd0S3FQOTQ1WTF3RjNtSm1ia3dFVEJaY0ljSXJOZWZDRHpqdEFUUUFpZ1FydHY2YlIwUzlVYWdLemp5UEZlX0M3NVBZ0gHYAUFVX3lxTE1kY291ZVgtaVNWa05BcXNSRjVlWC1sVVEzS2ZiREVIMzg3TXJIYThjSUtlUEtIeEdSaWh2MUVzR01oQkJLaGgyVkdZQlFfbFQ3bG1MRzVSM0JlX09QRUpfMzhucTRiNi1CNDlDYy1FOWRwNjVLSTBIZU5Gc05WN2FNU1d6ZHo3U2Z2WXluSUM4MWNqOHdXWWlhWWR3SWR3YlB2LUp3dmVLOFJiaDV0MEJsTncza2wtMzQ3bzBTUWlGODg0M3AyMFV0MzVzUllZcjhrVEItQ05TRw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Pfizer Inc. (PFE) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZzVnT0JGYmpBamI0RTBfd2pJbkJuaUxlOFRadUcyT2NWSy1VU3ZmdHFleTRfMXgxYVpkcThvZ0hQckJKeXF6UFRhSG81OUNBNVR1dm9vejM4WnJ4VXdBWi1OY091WjdWZ3p6X0ZTTGJoTzhITnQ5a0FvbThFQnFoeDJnRDNyN1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Wall Street Analysts Like Pfizer Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KcWNmaHFpcE9xTVY2VUdjMm02YmZLTXhqcERlaFhPQzF3aUFfTTZ1X2FtX2R1b3M2QUZMYVVYUXVDY1Zsb2lDWndha0lVV1FMb0ZJSG43QmNuQ2pVUDhEWmNBVkhpZ2hpazJSbjkxSV9JclVQU1BF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pfizer (PFE) Stock Dips on NYSE, Continuing Recent Downward Trend Despite Strong All-Time Gains - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnRWUEtjZ1k1OVF0ejkzbkNURGVLcWhxNUFlRU96c1pqOHpMQ0pnMjZVeGZldktrMTdJWk1kSzVKaEJXdUw2M3ItVGI5QWFpUHUxM1BWWjB1VmIwbmE5emJBNWFiM0lOSTZZdjdqUDhYdHNFdkE3NmwxMS1nUWlCTmZZS2gtbGZpdzNYZXd6WVBzWFAtanNGQlN4Q1V6Y19FNm90azhBWGpQMzhNWkx2Zlo2THlaOE1Fb1FTTHV3a1h3TVhFTHN2a29VUlZ4TWFwM2sw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Pfizer Stock Is Trading Higher Tuesday: What's Going On? - Pfizer (NYSE:PFE) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3REX25xYU45R1YyZkxMT3hxZExMajVWT2hFQWRNYnZZQ1NCdEZDUmp2RWw1dE1ORllKU0ZJYUNoajg2WTZKQUdqQXZiWWZRc3pRQWt4bUFXZThUNjZ4NnNQLWpvQ3ZrNllSeUU2Y0ZkNlFmUUhJX0E4RWE4ZFJSZFIxSC1PRXBxUmtEMEVoQXdfcnNzWExGcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BMO Capital Maintains Buy Rating on Pfizer (PFE) Stock - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZTRPUnVBMmhiSTNoRDNSbVg3QTRBQUJVSFk3OFRxdlVNTnV0VHBHOHdJLVRtdGZyUk5IMTNsQnpCdjdtQ0JzcUhFLXU4RHdZWHFleTdiZnNiS3lTY1YwQkZLZkNrS05vSmJHZkZOMVV2N19XVEY0N01WaTIyamJzWC1rMXNGemdVb2ZyeElGbzR5V0tOYm9SdHl6NFTSAaQBQVVfeXFMUHJSSENZZ3RfSEdNYmFRR2RzT2dNT1hQVjBGVzkxeTBqc2kwc2RmcUw0dGtwLXZZQlFjS2pqNE5aOTA2clQwSW4wTzN6d05JYVBKQ1kzWklSYmpSd1Ntd0haWFhpMzdSNVFJdWJsbDNfWW5mcEQydklvRWRzNnpwakdZMEJqSGJZbFRwNjNoNUlnRlh3X3gzRDBlRjVwX0dyMU5ZVy0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pfizer: I Should Have Sold Earlier (Downgrade) (NYSE:PFE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlFJVnZDdjdzWU5BX2RHWEhSeno2b3kwRVM1T09pMkhEUE8yeE05ZlhSeVdkRHZob3A1WWhYblJtQm04RlhBWFBndDFGWHYta0liUEJCVVRaZEh1ZmNtT29mTElZTDFoY2g2OWdjVE40aEltbEVUcXphdmZOdlg0SW1ocjkwWTljZzhDNw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pfizer Enters into Exclusive Licensing Agreement with 3SBio - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZGkzUDgwcUp1UWp6NmlSdzJUbDM4cVhxbndKcG5OY283YTUzdVM4MVFoSDRKUUZ4X1hSQU9vZ09pUTl5N29ZeWJyNndpdUJTOTZWTVFTN0NFV3NrMTBOUmtXNFdDQWhBazdtNkxWNkozS3drRjEwVUJzVHo0UXMtcldxelhpcFhPWE9tOXZkR01NQ2xyeUtmS2xaSkZRcmNyVGRkbWJfeGN0T0h3a0RmY1BNbkozaDA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Better High-Yield Dividend Stock to Buy Now: Pfizer vs. Prologis - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjF2NTRwbExOSG5ENmJDandyNTNTLW9peF9rRng1MUNHZHByRFNUVWJmQVFXU3RfSVdIa3lBcFNCMDRxelZKNjZ3N05nRTRybVA5M2RyenVQbE0xdVhXLU96SVluakVEcGFoaGgxQldZRUtleEdXUmVFS21LblhRNzBRdHJrVHQ0WVI0MUtRR0l6LVVPUFhtbw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Buy 3 Wide Moat Stocks With Double-Digit Near-Term Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wWFlSNDhnTHFtQzlsbnV2R3NPSEZHMjRGb1Q5VDcyVUpJOVc0SVJtLVRoRjVuTl9oMElENW4xTXJIVnBoZmMyXzZzeUFZX0ZKU3BIUWFEaWhTc0V0R0E1d3A0NXdfaVY0UWhHUWRWTVpTZ0pnaGNZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pfizer And Drug Pricing: Should You Invest Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPci1ET1hha2o0eEJPYjZFNlU4NXRvdF82aDJYUXd2Ymp6XzN6c19wWUREamQ1T2ZScnhhTGNva1cweXBLLUhrcER3T0xfN2FaWU85UjktckM4Y05sbVNmMi1IZ3NoOFVtLVJJZEhUMzBQRFJUZWNtd3VYdm1JTUVuYkVSbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pfizer's R&D Optimization Delivers Great Results & Secure Dividends (NYSE:PFE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzl2VFZFaFA0ZmRoelpkQUdhZFo0VnFvOFF4SWtoYktDMV9teGtEVk4xMHZIMVRjQW8zRzhtNUJJNUdpdnZBLW5YdW9mTHl1aGdSWlhHcWVyOXNES1RJZUxlY21PMTk4STI4THppUUllVDZfWmZSSC1PVnJrZ1dRcXBwSndxajk2NG5EbmVKM291M3pwVDlTbDRvdzFDVXJ5QXR4YlRHTEl4LVA0cE5sZWtLdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Pfizer Stock a Buy After This $1.25 Billion Investment? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHhKTHUwNTB1bGszUXBORTdjX3R5RTNZeUxybFhhZWZNZzRLMldiVzhLOFJVMk5oTVROdW1FWFY1RHFGdGQ4a2t5MHhISGZMdkRxeVd0VHVUYVRCcmJLV25xSWc5R3V0Z1laLTZiYWhZdUNhdXZzSXlNckRZY3JFR2RCMFhoTFNaU1ZpbzRVMHMzRVR4NXgtMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Value Investors Buy Pfizer (PFE) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWlsUzl4U1U5SW5Kb0NzUkFpdlYyRy13eWJiTWRVcXcyQUhzclVSWFpfdnpnaER3S2ZHVEpZM0s2Q0tPWjUxazhDNFRqV0pSRC1fX3RGQ2RuY2k1MEx4VG1CUW1oWGVWWlVSU0FGRkRuRl9kazFnRkNweWZ6ZGNpNERn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Pfizer (PFE) – “Caught in a Vortex, but I’m Sticking with Seagen and Dr. Bourla” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lQVM4bWdJMl92OUd0ZXVDMWc0MVVGV1REOFNvTlZWbUIzSWVjU1hwaXU1akRSMnRqMlBxZ0prUThPSUFGVTRNbldRR3Z1OS1HVW5BY3oyOEFmVVQxWHd5eENjbGZoR1lXOWpzMW02WTFNMkhBVDZrLXllOW9Rc2M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Don't Fall for These 3 Dividend Stocks: They May Have to Make a Cut. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTJQLXMtenVxbG0temVUNmV6a0syT3RMVE1hbVM2WGl3WC1vU09JYTlRTTJhNTc4aVJFMmVIUGdaYjV1cHRONGxSSXByeFNsR3BqWDcxQVduSHc3TzZWUUFyNmZZRmE4ZkNnMmZCaklpNW52dnR6Zl93VTB2cXNIZF9JLWFRdzcyUFZqWWwzMXhJNWYyYWNvXw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PFE vs. MRK: Which Oncology Drug Giant is a Better Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50ckxfZHp4UnpQM1FocE0xMUJsaFUzaDE0UEpaLVhPRGM3c19pM1drenl4enB2RHVnQ3JPMWY3eTlqeVRHRC01YTB1NERJZV82UDF6SGMyWDJvTmNpcXZsaV9wQUQ2SW15ZVFzS29FMFF6SldFVzdvZk9B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pfizer (NYSE:PFE) Reports Q1 Earnings, Reaffirms 2025 Revenue Guidance at US$61-64 Billion - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIekVSdFcwdUJDUWRYNi1tQ2JiOWJpSlRqVG1fM2RqZGFDMEhSZ2lEUHlkQllFblhLZ3U1LVllZFdfR1pXYWhSV1FIY1AtQmpsSGticWRTUU9Ob0pTM1JxTlppN3ZIV1ZzejVJak56U3ExTGhmN3ZEU3h0RW0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 25.82
-      },
-      {
-        "date": "2024-12-03",
-        "price": 25.56
-      },
-      {
-        "date": "2024-12-04",
-        "price": 25.23
-      },
-      {
-        "date": "2024-12-05",
-        "price": 25.7
-      },
       {
         "date": "2024-12-06",
         "price": 25.73
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
+        "price": 23.46
+      },
+      {
+        "date": "2025-06-03",
+        "price": 23.35
+      },
+      {
+        "date": "2025-06-04",
         "price": 23.39
+      },
+      {
+        "date": "2025-06-05",
+        "price": 23.12
       }
     ],
     "current_price_data": {
-      "price": 23.39,
-      "change": -0.08,
-      "percent_change": -0.34
+      "price": 23.12,
+      "change": -0.28,
+      "percent_change": -1.2
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres ci-dessus portent sur des analyses d'entreprises concernant Pfizer. Voici une synth\u00e8se courte de ces nouvelles :\n\nPfizer est une entreprise cot\u00e9e aux \u00c9tats-Unis et ses actions sont \u00e9valu\u00e9es par les analystes financiers. Les derni\u00e8res nouvelles concernent des r\u00e9glementations sur les prix des m\u00e9dicaments, la politique du pr\u00e9sident am\u00e9ricain sur les prix des m\u00e9dicaments et la performance financi\u00e8re de l'entreprise.\n\nLa plupart des articles sont n\u00e9gatifs et critiquent l'entreprise. Par exemple, le titre de Yahoo Finance est \"Terrible News for Pfizer Stock Investors\" et The Motley",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

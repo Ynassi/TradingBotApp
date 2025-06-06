@@ -1,56 +1,164 @@
 {
   "ticker": "NWG",
-  "name": "NatWest Group plc",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 58270404608.0,
+  "market_cap": 57818329088.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 9.441176,
-    "PB": 2.8015902,
-    "EV_Revenue": -0.719,
+    "PE": 9.203226,
+    "PB": 2.7666795,
+    "EV_Revenue": -0.664,
     "ROE": 0.12781,
     "ProfitMargin": 0.35017,
     "GrossMargin": 0.0,
-    "DividendYield": 3.81
+    "DividendYield": 3.78,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": null,
+    "FCF_Margin": null,
+    "ROA": 0.00722,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 74.0135792175488,
-    "Momentum_10": 6.135195144823611,
-    "MACD": 0.4883834282769914,
-    "BB_Percent": 0.8580413081455917,
+    "RSI_14": 66.19598797441277,
+    "Momentum_10": 2.184815933684385,
+    "MACD": 0.4523171622954098,
+    "BB_Percent": 0.6937071445113487,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9334922408735044,
+    "ValueScore": 0.9331227852916472,
     "QualityScore": 0.3683428533485224,
-    "SignalScore": 0.3102412231126451
+    "SignalScore": 0.4555336188674695
   },
-  "volatility": 0.0222647102620588,
+  "volatility": 0.0223627056065536,
   "beta": 0.98,
-  "return_6m": 0.4383046657055609,
+  "return_6m": 0.3883131348916451,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 2,
     "target_mean_price": 13.545
   },
+  "news_sentiment": {
+    "summary": "NatWest Group (NWG) a récemment fait l'objet d'une réduction de l'objectif de prix par Citi, mais reste attrayant pour les investisseurs à la recherche de dividendes. Malgré des gains impressionnants ces derniers mois, une notification réglementaire concernant des violations de règles a eu un impact négatif sur l'action. Toutefois, la vente d'actions par le Trésor de Sa Majesté et l'intérêt accru de grands investisseurs tels que Millennium Management LLC et BNP Paribas Financial Markets pourraient indiquer un potentiel positif à long terme.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "NatWest Group plc (NYSE:NWG) Short Interest Update - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdG1sem01ZG9uakY3Sm9Fc3ZjZHNVNTRhX2hVUVZ4dVFhR1IyZ09mM3ZUeWVUa2Nac1pldnFTdHdtamZRNUx5SmpmVnhmVWkzSkZ6aXZQUWR6UlBSc251Znc1Y21kaTRBNEpkZ2xLMm9iazlmdEtGZjF5TmEta2VyZzh3WHVSU0FaN1ZuSzRfUGJOSVZQMi1wRC15OTdDNGl1VGVr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NatWest Group (NWG) Price Target Reduced by Citi | NWG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnFYbmhJR0ZxZFg4M1ZWZEhQVzdGbFA5RUhjNXBtQzlBcTN4TWhtWmUtTXlnTlUzcVQyek9ZYU5qLXRLd3BVWTNXanhCbUtDSTNYT293U2hPN1Vac0c1cXI3T0RJUXFWVzJRMWpET1dKVkZwMndhLW9JdUd5MFNfOWpaSDdieGQzSVNQd1lEMjN2b1piWGRMU1I0TWV5NW54T1NidUFHQWdLQTBBZ1ZwQ1RB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why NatWest Group (NWG) is a Great Dividend Stock Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TNktZT0RXX2JxeVp4ZEREdXlWQWlKOC1MUzFvWnRoMVk5NzRDbFpxeVpOZkJVSFFkcGhSeGhyMlg4OThIWFBrNlYwaU1RZGJQeE9zdUF4cFRnQ0puQkgweWVtV2dSNVhzY0hSejZQeDRZcFRyU0RwWUFUUlZYdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NatWest Group (NWG) Shares Edge Lower, But Show Impressive Gains Over Recent Months and Years - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTWRyTmo1SEVVY0RWY0twRHFQOUs5elZudzREUENWVThfaWNwaTJIOGE5dHQ0OEd5akFGVUlQY2hNRUtKZ0FTN2YybGRyeVZaeVVHZW5XZGhJeFBDVUs1Y3BIdmZYV3RZWURQZl8taUtmYkNLZlltN1VhclZpc3pyQ0tFOGJtcnFmNHhmOGpNcmNsazE5ZVV2am1Ed1NNZmxkYjU4MzNpbUtfR2RKZDBGcXFfYU1BUHRDQy1pNUFjSWZFcHBCa3lQcG1DdnZFekN2?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "NatWest receives regulatory notice over breach of rules related to charges, disclosure (NWG:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbEZHOGhsUzBsdnQwMjd2V2VmbnhISVEwZTlTMU9uWGx6MDhrS3lPUWlaX0tzdEo4eHJlZ244U1EyM09aRmlLTlA3c3BkSHo4WkNDbDZGVHItZHltYzJPNUZzZmpuaGUtbUIwbXlNSkx6TG00QUN0WnBzMVdxM0N4WXlrMVV4ek1vZ0JrNzFNa09JbVBReEFGRlZ2SmlPczNCT1MxRnlMYy1VQy1xNUtvcDlHeVdtXzlWZ1lGdUdEMEI?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "NatWest Group plc (NYSE:NWG) Shares Sold by Summit Global Investments - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOGhVV2t2VlVhTF9LVkZLT3lxdFJ0ZXZYN084OWNVVGRQaFhMMlBkbzBqcmxvY3M1REh4amRlLXAxQVpkSGJRSDVqMnFtYWJFSU1iWUllNTgyZGxSV2c0Y2g5Qkh2dkMyTTJLRFNzSkRzekxoNnc0NnRJMGs1amV5NWRCWjQwOXdsdGtROWgzd01zU05NblpadXhQMGhXZmdCS1FRTGxVSnNoUW5rdVhBd3JWTWluSnhEVVlNOXZwWEktMG80dWNMQjY1dGZoQ05u?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To Buy And Sell NatWest (NWG) Stocks & Shares - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ia2VPSTY5MEQ3Y1pUUmVTOFRXbFdkLTFtR05fbHFoWHYzcjFqZ0ZVOFBPNFluUUJOMWlKN0xpWGdhQXVncW5YUC14THdFYWVIVXRHM3ZvYUZ5WFlzQlptU1lTS2Mzd2J4X2xIMFRtNWU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "5 Momentum Picks to Tap Market Rally in June After an Impressive May - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNnhMa1ZpNFZPZC1ncjdEOXBRYTBIaTBBNE0xWm9GY25ncnFBZ09rd2lLOEFDeWJkNEZUZEVZTlN1ZkFiSFYxSzg1dlVETnYtZlZJcWczU2FtVThvQVRaZjhHekkxWG1pYkVYNkVtdUtEZG5mYUN5bEVDQXJvQU93SnlXMnBHZFVpbkd4WVB3TUZFSDl6S3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NatWest Group Announces Disposal of Shares by His Majesty’s Treasury - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3NMYjV0bVdORXY0T1RZWnlsN1pDanNyNzVhSU1LYjd4cVRMelJaalQ4bFBrWnY3end2dVFrWHlkUUVOMHFhRVVXTlJmcFVsa01pM0dHaXlkVXlPTU05SnJmTHJhWTlIR0Q4V0dMR1N6YUNNOTc2ZEpWQUNfQks1NlR4RUtVaEtKMHlobVlEb1lJMktZa3lHaU8wNDJFNFZmc1NDNjJ2SjJEdk00cVRSMUFjU2pUMzNKbFQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NatWest Group (NWG) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYmZlVGhEbE5xY1h6Mk5nelEtb0NjdjBZdzhwWHNPY0V2TnVsTS02dTdBeXkyUVp5RTc1TzdvTVlPRGdzZGk0NkJqaERiVExwbFY4blNrTnZZeGFMR19sX1VmMDlRRDdmbTZvVm9ndkx0RW9nV3BDWGZKLU4tSl9NSlJ4VXA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UK Completes Exit from NatWest Group (NWG) After 17 Years | NWG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOFBkVXNod1Brc0dDT1lqdkxMUUpsUFdWdUxBRFR4ZWd4QS1qbFV5THRTcUhjQ1BGeXRCdE1KdDBXS3FEa3ljQVJLS2NNc29hV2twTHZlOXNJaFpudGJmc2h2eXlNZmtIZDFkR0JLRXctMGZQT1ptVWhhY3RQdDktZmd4ZmFGR2NGMmhqa0NlSF8zZkQ5UEZ0X0VCS1l2ZVFEUFpJSlI3bTVjQ0RnbkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NatWest Group's (NWG) Hold Rating Reaffirmed at Shore Capital - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVmdNMUdHUVRoLXNVel81Z1dmWFN1MTZPdlB1TlVpZWdKV0o0a1VxTkYyTTNVSFAxRHVQZ0dOMFJFZ3VjQzNMSU4zWFlWMG9nWHlpUTFqLUdQVnhaTVdWTFpwR3kxdXZqYS1PRFRxeHZXMkhGaHZQb0ZSVmg2M0tVbXZFdkl5MUlYaDVER1dTVjlqb0h5NkNGWTJVTUZjam9xMmJLSWhKc0tDMndWeUJ4TEhn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in NatWest Group (NWG) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVhMV29NeEVuS0xOVEtncDliYlcwT3BEcUNLRHU1UzFaaXNNc3VMbXJMVWJFcjZ2QW1DSUZxZU9KQjRjTHVJN1E0R3lyaGdxTG5kSk1WXzBwa2c2N25iZUJXZGc1bVQxVUxMMUV0R0FsSEJiV1NxUXZSZGE0WURIQ0E1OU5HNjlRMnI3eEFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NatWest Group plc (NYSE:NWG) Shares Purchased by Millennium Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbzJTakZoSmtIdExjNU1GcGtYM25Ta3gzNURRc2FRUmFLcGRSeUVpb2xKa1QzWXZ2WkZPM19qWDFHMEQ1TTI0bFA2OUpmd25ULXhySTNzTnAwT0FEZVdIczNvR2tDRE9TQ08zcTRnS3FTWVFHWU9xZGpIbXpSMzE5QWM2aDE0bDBvVWRvVFZJeTc5QldEbENkV2FxSnJXeUhUSVduZlE5XzlEQlpwVnpFcGFyMDNQVFhnczF0UFZZQWk5T1NHR2JyTmNvR200RXo2TnFV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NatWest Group (NWG) Is Up 5.07% in One Week: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92cE0xSllrQkdqbmh2Y3Y0LTJCZnFtZVl1Zk5rT1lyNEdGWUVndzljR2I2RkhfQjRCT04ydWx2aV9EWktTSWZmYlZpdXlKNG5OeWc5N182V1NPQjNpRVgyLWlZNkpvV21uaFhXMVJid24xdVRyT0lv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Versant Capital Management Inc Invests $273,000 in NatWest Group plc (NYSE:NWG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTzFOU1FRMVA2U3pfTVctelRHWHBBNEJZVmVWcTNTT3dwVE1lOTFpVkpQcTROeU9JelN0WlZGdlR3NzNReVVQTjE1SWdFbEx3Ni16d0RiZThhRDR6VFNzY1dEalZqUEw0QlpHVWhLQzRDT3oyb0wxSkFUY016eTQ4aFhhdDNpU1NSR2k0UFJMTjJiZExZamtUV1JRT29YWUlrWmRDUXFCdkJhdm45cEU2SWFNMEQ1TUYwUmpVT3JmWlU3SV9IWkdzNVpvVVI3YlN5OEREYTNoc3FiNFVkWEROWUNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is NatWest Group plc (NWG) the Best European Bank Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsV0dQRy1pWUc3LXpxR0VwcElqUWxRU3hZYXhkYS05a29KWkh1NXI0Ty1qRXV1MkhCZDRRbDE2dzRldXcyRjlyTTJuSUs5UGlRVjNVbU1MZGw0b3JFTjZKTDMtYVVVT0VsSDRnXzEtYnQ2eFVtdE9nY3lwX3o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NatWest Group (NYSE:NWG) Reaches New 1-Year High - Should You Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQenRBM3dlQTl5Sk8za0xaa0phUGJnd3dSU0tEa2F0d1pPd251QkdJVUZOOVFrbWhSMXdNWkdsWHhsaks3R2QwQjMtTExScjlTQWlfMGRMNjFDT0ZVMTlZM0ZHTkVCam10eFd5bmRuaF92dHhvenRKbTkxbDVnX0ZjdzdpVUNTT3NkamZVcGNseW8yYzN3bGQ5WkY4MDhTR3V3YnJ0Vm9JR1lvZlBzMEVpWUVYbTg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BNP Paribas Financial Markets Acquires Shares of 28,937 NatWest Group plc (NYSE:NWG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZEpfYUo0Z0tTWndObUo2OE5UbWN6d2gtajZJSl9iS2ZTUVZRSmNSMWdxOWdFV1BKTmFmVm5zbnJoMzlhWWdGT0UyUnoxNVdNTVN6bkI1NDdHVU1zQ1BNSkhPMGVwMGpVOXNuYS1EaFpNYzNnQks5ZkVseG9JaDVDb0NGSUNXT01qdWF4MGVmZHJNOUpnb3VWb2phVHN1YzZUOC1mTm1xOUZ3bmdUdXprN2F1bFh2NkNTVWhvRENKY3pBV3FacU01czAzTWJ5eHlkbWZtLTlDZTE5dGp6Vy1BLQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of America Corp DE Has $47.92 Million Position in NatWest Group plc (NYSE:NWG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlRKbV91MThmTk9lVzZlR3RxWDFzcWRmWERIQktWVGMyQlN6MFhlSUZOZmxDc0tlM3VFOWd1WURFa2lWZnJBVmt6OU5hTXdyYTctczJjSXlTMDltNEFObGdpRkhGM3VYeTRpX1dsTkNCOFg2dkZwQ0dRRTNIVy1uVHlsaGk2Y1VGS3JGbkM0WFJvVGhfNkFzbWJFRDl0VFNuWm9vaGZHT0t4WWprRl9wZ2JIdE9rWGlOM3BkZDhraWEwbHlCN0E?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 10.39
-      },
-      {
-        "date": "2024-12-03",
-        "price": 10.42
-      },
-      {
-        "date": "2024-12-04",
-        "price": 10.39
-      },
-      {
-        "date": "2024-12-05",
-        "price": 10.56
-      },
       {
         "date": "2024-12-06",
         "price": 10.63
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 14.44
+        "price": 14.46
+      },
+      {
+        "date": "2025-06-03",
+        "price": 14.49
+      },
+      {
+        "date": "2025-06-04",
+        "price": 14.4
+      },
+      {
+        "date": "2025-06-05",
+        "price": 14.27
       }
     ],
     "current_price_data": {
-      "price": 14.45,
-      "change": 0.16,
-      "percent_change": 1.12
+      "price": 14.27,
+      "change": -0.12,
+      "percent_change": -0.83
     }
-  },
-  "news_sentiment": {
-    "summary": "NatWest Group (NWG) is a UK-based multinational banking and financial services company. Recently, the UK government completed its exit from the company after 17 years. In May 2021, the company was named a momentum pick to tap the market rally. NatWest Group also announced the disposal of shares by His Majesty's Treasury. The company is considered a great momentum stock and a great dividend stock. Millennium Management LLC recently purchased shares of NatWest Group. Overall, the recent developments regarding NatWest Group suggest mixed signals for investors.",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

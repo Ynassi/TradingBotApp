@@ -2,55 +2,163 @@
   "ticker": "AIG",
   "name": "American International Group",
   "sector": "Financials",
-  "market_cap": 49195528192.0,
+  "market_cap": 49207054336.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.819513,
-    "PB": 1.1957526,
-    "EV_Revenue": 1.685,
+    "PE": 20.82439,
+    "PB": 1.1960328,
+    "EV_Revenue": 1.693,
     "ROE": 0.057439998,
     "ProfitMargin": -0.07106,
     "GrossMargin": 0.32488,
-    "DividendYield": 2.13
+    "DividendYield": 2.12,
+    "DebtEquity": 21.112,
+    "CurrentRatio": 0.636,
+    "QuickRatio": 0.23,
+    "FreeCashFlow": 19411625984,
+    "OperatingCashFlow": 2696000000,
+    "FCF_Margin": 0.7176997795713836,
+    "ROA": 0.0072600003,
+    "PEG": null,
+    "EV_EBITDA": 5.934,
+    "BuybackYield": null,
+    "PriceToFCF": 2.536114525623862
   },
   "technical_indicators": {
-    "RSI_14": 60.73848847109593,
-    "Momentum_10": 1.3168463143411806,
-    "MACD": 0.531694894470192,
-    "BB_Percent": 1.0521169375249322,
+    "RSI_14": 59.198803024278064,
+    "Momentum_10": 3.315993687813808,
+    "MACD": 0.7649650878577603,
+    "BB_Percent": 0.8571815560915166,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8950261011002242,
+    "ValueScore": 0.8921205438126439,
     "QualityScore": 0.3526118258660923,
-    "SignalScore": 0.5556249773854824
+    "SignalScore": 0.5273515401181998
   },
-  "volatility": 0.0165333980170321,
+  "volatility": 0.0165063525041072,
   "beta": 0.658,
-  "return_6m": 0.1346684152062909,
+  "return_6m": 0.1329964930639326,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 89.24824
   },
+  "news_sentiment": {
+    "summary": "American International Group (AIG) a récemment lancé un plan de restructuration de sa dette de 300 millions de dollars, ce qui pourrait impacter positivement ses obligations. Malgré des résultats annuels 2024 exceptionnels, le titre a atteint un sommet de 52 semaines à 85,11 $, porté par un optimisme du marché. De plus, des offres de rachat de notes en espèces ont été initiées par AIG, renforçant sa solidité financière. Les avis des analystes varient, avec des hausses de cibles de prix de UBS et Keefe, Bruyette & Woods, mais une réévaluation à la baisse de JPMorgan.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "AIG Unveils Major $300M Debt Restructuring Plan: Key Details for Bondholders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3ZVaUxmRHNfazJpMjQxU1NOWWFvSFNBbW1IWkV4dGl3ZlFJMFdvVXduR0xXVXNvdkplelFqa20tRXhxSDkxY2hBejFpWmMwODNDVFJwQ3JDcTNMSmw4dVFUZDlVcENUSVdodHVGX1FvendjazVKOVdrVE1ocWRENHZCQmJYV2hfa0c3UTl5X09YeDd5UnNYODlCYmxjVXFUN2J0Y3BRNndxclNWdzBn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIG 2024 Annual Report - AIG",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wTmZXXzNiUENJUFFGT3V3dHc3cy0wdlA2V1JSb0NWX09wMTAxZTg3UENlMVFXTHlXaUdpbEhvNjZxZHZPVzdLSXRKUUZ5WHIwTDdDdU9OcjktWGhUVmZoRURFWmtNa0lOQ3JrSFBNOG5NQ19z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What’s Next For AIG Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHAxaHFYeklhS0pCckJzVWFMSzdhSkxJd05faldsT3FoT0VTLXNWOTN0ZklVSERQNk1YazFUMUJLWkR6MUlHYWlRVHVRZGNyX2VJbjE4TFZKNzVQN0M1WVNEV1ZhS3kwTXl3a3NkLXNNMnpZRzA1Z0duQU95MzVFRmJsSVR0Rm45d0Jr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American International Stock: Is AIG Outperforming the Financial Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjBMRWlmWFFqa2k1MEl4anRQckx5T051LS04SzA0dW5XT2NkeVVMbnA1NFd3YkxvTFNLQ3RwMWtVd0ZZd1FlQk11ZE1pUVZxbTFlLXlNQUJHTm9nUUdYbjMxSVFwRnljUHNpR2dubzFzNV9NcTExRGNLOGliWW9QVEVxeTdVVlU1MTFZeEppUXRRMUFSQ0pldFdaVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AIG Initiates Cash Tender Offers for Notes - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEs4bW5nWnNEVXd2VHdnQTZTSm5laDd2WDk3UzByT0J1VmJOa241cjdUQ3o3UUFuclgwOXBFM0p3NjE0aDl4RzhuSHZMX3RPSEpDLWg0UzJsQXctTU9qdzd1WmdUaFNTbHQ0ampzcUUtSlRnRnJURnBkZWs5em5iWVFpN2pjOUZkZ0lCb19tNzNVZXZ3d3FNRjFR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIG Announces Cash Tender Offers for Certain Outstanding Notes | AIG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXZjMGU1amcyR2dFbmhlbFFQU2RuU2htWVpINzRMZXJ2OWdhMFNvYkRJaUNTUmZoVzhBWDA5ZWZzMk5JX1BvM2xLbWJSUDZveUNEV0JqdWwtLW1JUDBwN1o2VW9iWDRJMEhPQnBwZUNsYkhjN1FIOFFicjVPaDNreVJOdXRDdGpMOEk5LTlaODllMWp4RjZWNEpLcEZDWU9xN3c1OVhFZ3M1bUdmblVHTlJSbm5lY29z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIG launches up to $300M cash tender offer for outstanding notes (AIG:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaERGLVNBNTR6QlhvYnRJdXRWVzdtYW9UUTE3TXNIM3poQ3NsQ2hjT3hxZkFtTXRoeXhyQWFMbWJzcGdsVWdpV0RmRF9KaGtNS21Qa3hSbm9IaENSdWVZTUR6T3RJbXRZNTB4aVcwU2prdFRZYVpTdVFsSXdZLXkxMnhoLTR4YjRtRUNWU2JWMWF0bzZPY05YUEk0S1pZNnRVeU1n?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "American International Group (NYSE:AIG) To Redeem US$236 Million Debt In June 2025 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmZXeXVJODF4U3A3ZURJVW9VOXVBRXFoRkFiQzdWSWoyeGw2SDhHemJTRlFjSkJMcFRCX1Rub1R2Rk5vXzVoY3ZGT2FZSFd0QTU2R0N6MmVvazYxR2RQbzVDSEdWeTZkZS0xeUY4NGVOS012N0xtZmVfd1RZWnZXZDFNU1NUV1UtYUMxcW1weEhBYkE5S0VldlltZVFLYVllNFlSejNDZy1rRUZXc1FTcEZYOWhyRnhITjBVLXFnaDFvQVhDVEFmUjRTTWtyY0ZjS0IxcHV4UE9US3RHTHfSAeMBQVVfeXFMT1BiZTNMN3Z5M2pSQk45YjZfQURMNzYxb251aTlKc3Y3QTBTMzhSWm4wcllEUEt3XzAtODdTRFIxVUxVWmN5MHl1UnFuRGY1eHJPUUpRVjZtUU1ldi1zaHNtWkphaWZXVlNac2VMMnRrMVNhendnOXN3aU5xQzBEVmRSYWQyT0J2UXhyTG56akNjczRtalZ6V2dVckFXbkNBUXBVYlhHT1N5dE91N0NmLWlKUW8yWFdPdFB2MTNDemlzWDhXXzRaLUFjQkluQ08ySlo1WDl4V3R3NU1lYzJVVWZnQUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIG Stock Touches 52-Week High at $85.11 Amid Market Optimism - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0dJSmRrNjdLSGVoUER2amoyWlgwdW5CdGZwNmNCeGRsYTkwM3NBbW9tLTRoV0FqSkhFZUZmOVU0eVZZYlUza1dzOTAwNHNVWXQ1Y1NUMnBlSGEtc2R3cEpWS1ZnbkxFRUsxQ0VRNjJ4c0pMNklsNUtqanUzaktnLW9DQXJTYWgxRWZuN2xaTUtCSVZkYUJNTy1sdEIwM0Z1M1lsczFpdkg3emhCQkdLZXJiekhWQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIG Reports Outstanding Fourth Quarter and Full Year 2024 Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmlRaDZWVkxQYnlCMGt6SWJVMHBka0J0SmhZUkpCbDFBd0NtcFlwbTVjQS1YdkJocEp5UnVXRFBDcGtYUjdyNS1taFdGZnpKNHdSV0JmbldaemlWdGRRQndEa1ozZ0Z0Uk91UjRIMjY3a0Z0U1I4NkVqOWlaMWt4SElmX0k2UXhoRDNWVWR5NE1iNkh5NHBic3ZIa0h5RXlYRXl2YkFpM2dCbUF1bW9ucktjaGJxb3c5MmJGaWVFUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is American International Group (AIG) Up 4.6% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSElDNmdzX3BLT3JrenhNWW90Z1h0SnBKdFU1dmF0M2s1QllTaUNHTFlCSzliY2V2YVZTVHVUaFhQWkpiOTY3V0JSWFlSclNiN3IwWTR2WU1ISU5XRkY0TDBVNXZEM01PZ0tKUUJBVWZ4alFrVEwxRDU2VU9aTWJ1ZjNGXzljc2U1bVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AIG Announces Cash Tender Offers For Certain Outstanding Notes - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeG5NUEh4MG9mNm94QkNMQnZ3cHZLTUdpRTgyR0s2S0U2OHNqMWlZZXppWFY4ZTNmTjhDRXdxUXlPR1A4V3lydHYzQ2VneUdGWERNLWZsbmJBSzQ1R2s1TnJIMjVEblJOQjdVbmd5dC1sa1lJcTNqdXJQd0c1b2s4LVB3UFFnemRFTThlUk5BS3otOXpEaTNqdjF6NTVJR0Zta2Z4MFFnRWJEYVVYZEJtYTVpeFZtcS1NakFoSXl6OGwyLWpORjVzWTVjalRGbGQ1NnJmQmlBMXMwbGVNOWlTcjVvS1A5QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIG delivers Q1 results above expectations - Insurance Business America",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUy1GZWkyWHhrUk1NZGdnOUFwTGJVWC1Zb3JLenFNNl82SEdQeDl4Slk1N0FCR3p6ZTFsU3NybzNPeF9RS1hTMWZ5TkxKZkpKcGVHd1RWa3NSY01GVnVLcGFZR05pV0x2V2JSWHhsenF0SURoRUc5SUpvRDd2Q3NMN3psd0VQQkNxMGRDMi04a3VZVlUxMHNNMUFGeWlGM2o4UVNlYWRJZmgybFFhazB5RmRlUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AIG to Redeem 3.900% Notes Due 2026 | AIG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUZuR2lyY29adVNHNEJtRUdpZ2R0dFdYQkZrcmdYN2VzV3JCTkV5bVpyMTNpc0k3MjhiekVJc1UxajAwZF82VDZwSzRJS1lCRGhBR3RiRG40bDJ0VUdieUVvdGV4ekpJTW5IYzhCSWNucFhiZXh1eWt0MFVvMW04VWt6Y25paHhqbDJOVHJUYTY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AMERICAN INTERNATIONAL GROUP Earnings Preview: Recent $AIG Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXRFMHpFbWxZWGF0dENVVFRlbVdKcE53a3JIYkRsQUMxTWxNX25kaktOZjVOVkY3b3ViNTRjNXhFYnZqNnU0OFFVdDJGQ1dDVWZOdDBHSTNqcDhrb2Q2aWxaUmt5WXhsNTlFamNFbl9ITEhFQWNYc1I0eE1pRUM2Nm4wQXpXd1dfb3BhWHdDdXRoQ2hmQ29NcEYzcVNaTUFpMTdYcm5leTNweGRpdGFvR2RqeXVUUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS raises AIG stock price target to $92, maintains Buy rating - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTNKcXV2bTEwNTFhRmx3WTNiR01jYVJhdVNXRWZKQTFMUU9ldjliQTVDajMtNzBVX1lfbUFjd1R5ZHRGY1lDYnNwZ252MjdWb3ZKZkRXZ3djSHZ6cXgwcHJvSlg4SVNod3FBQWhGS1ZoUUpQaWVwcFE1TWd2VVYwb0JJWlhuUFRSZ2tEZDJubTNEYmlDVHdGaTRvSmpPLWs1M2hrWWVQR0h4WHY3X0ZGRlBkbVp5cUJSV1RsYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corebridge Financial Announces Pricing of Secondary Offering of Common Stock by AIG - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdTZEdGhtcDE4VWhralktNWw1M0EzRkszeDdLS3RGbG41VG5RZXlBTTVfaHFRUlAyLS1oQVRUNnFqTTY5NXk4T09ySC14NDVEVjVOdVgybExVejZlNXRJXzF2S1JVWUdkSHhsNHJTM25nSGlyamxZLXIwSWNmbzVwNFhmRHBfR09xU0I0bVVWb1ItYm9TRFlJOGVVMTl4ZUgxZzFDZWNZXzlzUWU0RnhQMk41dmFCR2wydXRHOXZCSEtzQnh2dXh0aEk2VXlnTG54UWxxOUZ4dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIG Stock Rises 12.1% YTD: Should Investors Hold or Fold? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kR0F5cTVEZmV1Snk0NnBic1cyd1pJSXctTXVCeDVoYXJQeVJxZWNtckxtemVkTUZMTmlNcmhCREhybGZwbXVQNW9uT0kxQV9TQjBDTHRYT2RsMF8yeFZOVXR3Y2FOZThuS2ZjQ3dGVnFHekpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JPMorgan cuts AIG stock rating to Neutral, raises target to $91 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWk1ZVC1ndk8tSWNKam12d1VfOU5LandSR19DV0RJOXVoTHM1VVZUVFBfVEsyT014TkRjUUhiVFFCdHc1OUNDR0FOTmZpVWl3TzJVdHU1WVF2OTI3bjlXN295ZkdPcTgxaHYyYjljdmJPbXRJNnFucFVDbWdOelhPaEZWRFhYbXRVcjBPX25jQWlVVU05cklpYkdEVUltQWtkMWNwTXNZdngzT1RxLXd1YklyY1RqU251Y0kxM3F3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AIG stock price target raised to $97 by Keefe, Bruyette & Woods - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVDdTZEtmNC1SYzdVMFNneFJCdGpJNWNPaTRaUy1zWWxjUmdfV1kxMlpaMkhfN3dfYVh4Ulk1MVNsQzVkdHVoS1JCcHlDbDE4LThtMWRKeXhad0k0RkZLSmJLejRqaUE4dkw3VURhY1o4U0ZSVFVLVHRaVGRSbjBNMWI2NVY0X0lOVkNsaHVEdWQtS2ZqS3VMYXdfMHhfSU1CQXRIN2Z5Z29BejVYZVFwbTBDSGZvemJmbWY3ZA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 76.01
-      },
-      {
-        "date": "2024-12-03",
-        "price": 75.1
-      },
-      {
-        "date": "2024-12-04",
-        "price": 75.96
-      },
-      {
-        "date": "2024-12-05",
-        "price": 76.14
-      },
       {
         "date": "2024-12-06",
         "price": 75.56
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 85.56
+        "price": 85.76
+      },
+      {
+        "date": "2025-06-03",
+        "price": 85.55
+      },
+      {
+        "date": "2025-06-04",
+        "price": 85.01
+      },
+      {
+        "date": "2025-06-05",
+        "price": 85.42
       }
     ],
     "current_price_data": {
-      "price": 85.56,
-      "change": 0.96,
-      "percent_change": 1.13
+      "price": 85.42,
+      "change": 0.44,
+      "percent_change": 0.52
     }
-  },
-  "news_sentiment": {
-    "summary": "AIG a annonc\u00e9 un plan de restructuration de 300M$ en actions en \u00e9change de certificats d'\u00e9mission, en plus de deux offres d'\u00e9change de certificats d'\u00e9mission pour 150M$ chacune. Les offres d'\u00e9change sont ouvertes aux actionnaires et aux d\u00e9tenteurs de certificats d'\u00e9mission, et les certificats d'\u00e9mission seront \u00e9chang\u00e9s contre des actions de AIG \u00e0 un prix de 26$ par action.\n\nAIG a \u00e9galement annonc\u00e9 qu'il lancera deux offres d'\u00e9change de certificats d'\u00e9mission pour 150",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

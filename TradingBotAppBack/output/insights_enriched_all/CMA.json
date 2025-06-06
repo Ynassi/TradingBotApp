@@ -1,56 +1,164 @@
 {
   "ticker": "CMA",
-  "name": "Comerica Incorporated",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 7447174656.0,
+  "market_cap": 7549677056.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 10.712666,
-    "PB": 1.1168703,
-    "EV_Revenue": 2.836,
+    "PE": 10.860114,
+    "PB": 1.1322428,
+    "EV_Revenue": 2.851,
     "ROE": 0.11174,
     "ProfitMargin": 0.22635001,
     "GrossMargin": 0.0,
-    "DividendYield": 4.97
+    "DividendYield": 4.94,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 1079000064,
+    "FCF_Margin": null,
+    "ROA": 0.00932,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 50.75287819053386,
-    "Momentum_10": -3.606060067303224,
-    "MACD": 0.4247720419727443,
-    "BB_Percent": 0.4331815194340493,
+    "RSI_14": 53.82192539929555,
+    "Momentum_10": 2.791199481708974,
+    "MACD": 0.456168236561723,
+    "BB_Percent": 0.5180363565896585,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9342552753242918,
+    "ValueScore": 0.933547646998678,
     "QualityScore": 0.3580891660517226,
-    "SignalScore": 0.4978027218895184
+    "SignalScore": 0.5224242756480861
   },
-  "volatility": 0.0225766510209758,
+  "volatility": 0.0227431687347387,
   "beta": 0.943,
-  "return_6m": -0.1835079790952716,
+  "return_6m": -0.1524652959347839,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 20,
     "target_mean_price": 58.9
   },
+  "news_sentiment": {
+    "summary": "Comerica Incorporated (NYSE:CMA) a récemment annoncé un double dividende, avec des paiements prévus en juillet 2025. Malgré des prévisions de résultats en baisse pour le premier trimestre, le prix cible de l'action a été revu à la hausse par Truist. Cependant, des signaux mitigés sont présents, avec des investisseurs qui se positionnent à la fois à l'achat et à la vente d'actions, tandis que certains fonds importants ont accru leurs investissements. La récente diminution des avoirs de certains gestionnaires de fonds pourrait indiquer une certaine incertitude parmi les investisseurs.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "17,635 Shares in Comerica Incorporated (NYSE:CMA) Acquired by Fermata Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM3lEVkV1UFdHS1BPRFpZZEJiVEJ5UjVONGlsSFJvNXJVWmhfcVR5Yjl4SmZOTlNlU2V0YUVxS2tmdkw5M1ROSDNDMWJjTDVnaFpOQVcwWjhmdFdhRHhKUEcwMGsxWHZudThyVkxWN2VobjE5MFFDbGhiaXpmajN0YWtFS0lET2ZqUUxGTndVcTJ1X3A0WUY3VVhLOEpCcGlqYURmQVBnTmNDQzFmOVdpRHljeGJza3d0NFRMSENlaWdoMUw1UlpINDQ5OGhtbGlZSDNTNWNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Invests $4.18 Million in Comerica Incorporated (NYSE:CMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMEZ3RmsyX0dMYjVfR0FTb2tjZGUxZ0tBdVJaXy1qamdwQllSZFJSaGRHY1ljMjRZQU5TY240ZVBLa0x3NkN3UEwyTmRUMUhQQjBURTlQUElHYWVIQUVQYmJta01jRnlOdDZtY1lIRW9rcGpwTENnQzRzdHEwUkJmVGlMN1FHeWF2dEpDLWF3V09wTmhxNEprdHJrZzZ6S2VhX2R3aUxnTVZaWDUzMDRxQXRXZldKZ3VFUUc5Uy0tN2Q5RE1SSnVEMW1rNWNvSkFBel9PMERxUmZOZUtyY1FkTEp1eHUteG1Ra0k0bVlOQXU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comerica Announces Double Dividend Payout: $0.71 Common Stock and $1,406 Preferred Share Coming July 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2Z0OVRFcVpCYjB3dTBsV2V4VTFWekNGbk1hWWE2ZkVaQ1NYZE5hcEI3SUJVS1ppa25xbE5RdzZldW1ZN3NmalpkUFZHUlF4aWo4SEUtdmg5NmFEWk8xYTljZXoxY2pzeVdCTVN3RTJwUC1ISGkxUlhhOGF2UmtJV21mbG56N0JrU1BEelBuOTBfWHZxRnRsSkhSTi1FaXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comerica Declares Common and Preferred Stock Dividends - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHhIc3Y2WEJTa3hGT3pLdU5TQVdyV0otdkl1YmdtZ04yNVN3TTJmdWs3ODNMMzVXTFh0Tkh6cG4yVUJ2cDJxWnB5dl9DWnVraVNHdkRMb3RndHBIQlhsVFpQVVFtQnBMSVVyMWxydndsX0dsb3E5ZXpDUWd1SzRqdzVRZ3EtalVhNE5RSGRfaVBlSDFyX2lsM3ZsclU4ZlVFU1VJT1FpanVMWVNNRUQ0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Preview: Comerica Incorporated (CMA) Q1 Earnings Expected to Decline - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUtuNmY5cENPdkdNMXFvaDZoSDJIWjN2MFBaUGVNQ2RXYUctUDJOb3dPczRVbXN6UmZJLWNIbE5SMk45c1EtUjNnNWlIQ3dMZGpBTnZMQll4WVh2aVNCMEdvSzlMZHdqUFZJUUF4cWZoQkpOemRBb05sWVhkQ252eUpiM3lObjc3MF9FY2xTdVpEZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Comerica (CMA) Price Target Increased by Truist | CMA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUZ4R1VYajdkT216ck55dUpRak1fbGx6amRTVlN0cHNLM21kVzBDcHJYbExfTVdLVDJrNVJuSW51UG1ybk11YlVHdkh4UW5sQ2RiODZVZlMxTjN1VEJlcFNOcldYcGlvYTUyYnQ3WHA1eDQxMllUN0VoNnBUZE9wUXZveU9fZm83LUVKTFBlSFI4aTdpdkszZDJoQXhOc0ln?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comerica Incorporated (CMA) Stock Analysis: Navigating Through a 5.24% Dividend Yield and a 9.34% Potential Upside - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSHhJUTVvZDFjbmJ3MHhQSVNDY0hCbF9MSUk1aldpRzBybk9JNV9NS01LMW5tOHZUUWVSaXBJTWxyRzc2RTQtNWJKRFJMVTRDYTdIenhObF9yWTR4eFlOUEFFSFFqeldTbHhEa0syUVJiMUlkb0E2eDhUVUhRamZkcDZCSDU0N2RHYVVLVFQ1elh2MktEWjhZTXZyUWViRkNJM0dUVHdPMkNwMkRPS0prOFRNVW82TDRSNnlkb0pqSWNBTkNneTJIYmFHenNrTkpDel9RajdLbmJocVF6QVlwWjZDblRnMEo3UngzWWRBcWVYQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Comerica Stock Was Sliding Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1U3TERCaFY0UFdZM3lxV0pqM2J4NkNtOVZBNWd2ZVRTSzNST19zVjQzc1g3bV8wZWFFQkJKekVRTlZRUUZ5endqOUd5amk4dFk3VnlfTWg1TzRNWWdlWU5xZ0NrTm02ZF94azNjN3pHWmJsazFmcTh4M3pVUEtPNzhfdFE0UQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(CMA) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPejZ3RGE5Y2xTd202OVhoOFVOQmhDMkcwQmZzU2xPd1lYMFladXlLODVmS2pQWjktVXctdDdIOU5QYTA3UVFoSmVFdU1nNzN6QVZJVVFWbzE2M2VaYVJGbV9mNnJwOERqUUx0ZnNTUXU5RnpWUzhROHhfb0tWZGYyRkFhOHdpbDlOZEFHeXhBWU9WN3hadnUyS3ZtZ2Rmb3dCTTZTS0Zmdks0b1Va?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "COMERICA Earnings Preview: Recent $CMA Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGJLWElTeWtZTEJpQmFiTmVOUVVRNVNPM1hjUVMtUlBFeEdQQ0UyNUNjUjVkNEgybjhmLUtWSGdUR0lqbE5KX2RQMGlzLXU0QUdFazBfV1lXS1p3dlZoNTVQbUlTRktUcHgyR25CSF9OOHdoQzRlWkxxNU9yczVEWUhPWmpzX2VwY1p6N3NpZnlNMExiQ1UySXg3QU1VWHJONVZuM01TNkxoNlc1VU82R19GZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Don't Race Out To Buy Comerica Incorporated (NYSE:CMA) Just Because It's Going Ex-Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWm1uQ28tNERvcDV0T3doYk9Kc0t5cGE5ZlIyYl90eV9zUzJiZ1B0NlM5NDVNcmxFbnpCMWlHdmxaOHdJTVpoU1ZCVEd3QjNzRFBNc085VFpJY1J0eUlZVkdCemgxcFhvMmdlM0ItLW95dlBoZERISU9sN3FERmZNY0ZlbkdqdVJhYkRkWlc4Z1Q3d3RRNWx6bXlyVlFqRnpBVVYwdjh5VUJkLVExM3h6VmtuSXViUi1CMzhyek5B0gHDAUFVX3lxTE5qV0YxQlZUSTBobkdaZnVILXpwMVlma09SZzMzRDMwckVnODhFM2FFd3dVZTQzYjFXcTR3UWJ2dFBab0FfeHVpYWgwSGdlYVl6TkNqQVg2aWUzTExvYk1PR3Q4cnRvSHJKRGNuMG9tVWFEYVZGYkNyZnVOTjZ2TWk2aGRtUWhRMUtOSTEzcWRjNm9MSlR1bV9BR0tRYzZuTzROOVBIMTJpN2FrUUc1SndrNGNGSVRDU0oteGtEak9Xcnc2WQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wellington Management Group LLP Makes New Investment in Comerica Incorporated (NYSE:CMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVk1OLXhPemNwOWsxVWdPT05ZMlM1cVFvNWk3QjRaVnV5MkJHZUVPNXJZUkwzZnNPYk5zRGlqTmFtSFFLalBtTFcyQm1XQlpjOHJQclpwNTNpTUJjRzdNOF93TDlaZ2llTEJtUTVUeGJMekc3a0JtRFFaSHdqVnNsLXk4OW14LXVXNGdTcUZrR2VxcDZacG5PVnVrY0ZMbkNYZjBJcHJJWnVoaXlQZmliakhFdGE2aDY5dzNZUWEtaTlTMWNSWFZZejdIenRQUm1KWE9RNjZMcWs2S0xB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comerica Incorporated (CMA) Misses Q4 Earnings Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXpvbndTVFhvRTNEY2UtWnhPUlpaNFpmNV9Uc0lPd3M3Zm9VWldTMjZkMHhFU2xabnZqUkZyNWstczY4XzItVXRVTHJiMDIwOXZUZkdSZW4wMFBZRFJSbmQ1dUFaaEFseEhueUMtU2dhMlJzbFZIN0stYnBCTmgtbWQ5U2tQRzNt?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Comerica Annual Meeting: Shareholders Greenlight New Board and Executive Pay Package - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObW5mSlYwZjNTT3RYYVJHSVBpdXJqU0poSHVnNEtLTHA5SldMTjVNbHpfaS10NE9hTDd4OFJTVEg1eE1kOFY2bUFxNHZOcHllOEpuenIwWFdRaGlseFNETFloZ2U4SEp4cTlkbU50Sk94VktHMTJsMHZybzBCaWVJVHpmTEgzbEV3TldhLWlONFlEbjF3T0ZQeXZtZUtiME9rSW5BZ0t4VHI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brokerages Set Comerica Incorporated (NYSE:CMA) PT at $62.37 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWU9EazZLeFBKa1Y5SDZrSnBPcTk1UEEydVFBT1ozb0laWXBrNG5hYkZMWUQtY2xNMzg2Z1R6d19EdVlEQXYybjV4cnl3eWd4ME45cVJWSXI4b1JvZmgxazEyS3JGcDRkVEVSZmNDRlRHZE05YU9VR2ZnSFJSNFlycEw5N1VXN3dIUjE5c3ZlN3IyeUNoUDhRMW1SYm5zLVREOWhZT01YbnlKZjRUS3piQ2VOSjlNQjRVUGE4WXlIU1lhRzB1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ProShare Advisors LLC Acquires New Holdings in Comerica Incorporated (NYSE:CMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPekFFOHV1dGFxVWhpMU44cHYyOE5ZZkQySW5WbFFDM0Zta3lQM3pvdHhWQXlXZGVRNkVWaVVfVDhPX1NqQ1BOZGVwWVo5LUg0aWVmV1VjWGs2SkhtdG5lMFoxMFowZlRWdmF0TF91LXpXTm1CZmhKUlZ1cTlFTVlaV3c3LXNoc1RTS0hFUkt1WWhTcVdOUmZNOWZ5c2ZZU29hamt4cF9XcUVpM2NEaHprQ1ZLMXlNUU9VMUhqUGF4MUtVcnJwMklyRm9nQnJmdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mackenzie Financial Corp Invests $25.69 Million in Comerica Incorporated (NYSE:CMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOEItcVlra0dkVFFnNFZvVjNWS0tfNmpYZmFRRmpON0dYVl9rVjh1MHlqa2dVOTNwWndFSlU2SXFhN2hQRmZjOExSVm9tUFRKdXJjMFA5X29uNzBuS0RzeVJyVkoyTWkxMVBOUElHOTFtSzY1X1p2MTMzV3JlSTZnSTVMalpPRFdIclI5b0JNdXg1VlA2UlpXcWRDTEprdFFzaWZCaUhGMDFtbngtRjd4VjJXVFFmY1Z6cnBrQzNsYWNTdU5COW1NRjh3bWs5SEF3TTBHVEtn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Buys 53,039 Shares of Comerica Incorporated (NYSE:CMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQelduWmNrbEhtWVB4X0dpRUROQ0hFZkRMWUt2ZGtrSS1jSlNWN0txSUFsdVVra0p1SFJQQ3N5b21MdGozek42ZzkzZVFnTGJDZ2cyQ2FZLTNYLTJvVDBRQ0lQTXZzb1hRTGFsb3l0SUI2S21aaVJKRjhkRi0xUkVxUlhCNnNYMm4tYUI3bzh3QUVuN2NFcjczTzFCdUdBSDdHdUZhT0FzNkRwOThCaXZ0eHZuQ0tlQmhCNFJMMW9uZWxJWTZaZC1FMW4yemd0c3lXckItdkxnNUZpdWhPdXNuSm9NR2dvSGw5Q3FESFJFTVNld05LOE1xWFZ5RUkzejVwbGxENTFCdG9pNExL?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Point72 Asset Management L.P. Decreases Stock Holdings in Comerica Incorporated (NYSE:CMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRVpSQlpuR3ZLSTE0d1FzdWxKa1BJVkZ6NGlEX1l3Rk05allnbktzZDUyck00UVdSc3FGcnJyQ1BpQnJhS3ZrdF9BV3ZXeTBhaE5pRmt6NjJ0Wm93SllCSEVBaVFtLUFiRXhMdzNZYVBHTjJtTGhaeUhEWG0xTDRrQ2ViQU91b2NOMW1rcGNrNm4tYnlEbE1NbVJqUU1OZlV0R2o4RTF2LTZlTFJ6aGdOQ2RnaVZrbWZXNHFBN1dmdzNJRF9wcE5zY2g2Y0VvdDl4UEV6Nk9vZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jacobs Levy Equity Management Inc. Acquires 393,507 Shares of Comerica Incorporated (NYSE:CMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYkpqWTFnRUc2NklMd3VIZnpRYjBlcmYxUzFmcU43OGVGSFhpTFA2TGhtTnREMmc2T3RXeXctcnBFaXliaDhCS3JTMDNHZ200czFEMThvNk80Z2NyQm5WRDFTVWVjY2RDWmFhaEktTUE2OGVrUTc3cWZSU29tb3duRko0UlhZaFVYcndrTlFOb1JIMGdhOU5PM0JUY0dKVTFLXzRYRzJBWHJxVldQLVpNbWNzbnF0dEpPdDB0c3ZnMUUybkVfa1NabTYwWE1KZ2t6MW9SUUNzRkRyblBubWZDQTFDZG1PcWc?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 71.04
-      },
-      {
-        "date": "2024-12-03",
-        "price": 70.8
-      },
-      {
-        "date": "2024-12-04",
-        "price": 70.83
-      },
-      {
-        "date": "2024-12-05",
-        "price": 69.92
-      },
       {
         "date": "2024-12-06",
         "price": 69.38
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 56.72
+      },
+      {
+        "date": "2025-06-03",
+        "price": 57.97
+      },
+      {
+        "date": "2025-06-04",
+        "price": 57.47
+      },
+      {
+        "date": "2025-06-05",
+        "price": 57.49
       }
     ],
     "current_price_data": {
-      "price": 56.72,
-      "change": -0.4,
-      "percent_change": -0.7
+      "price": 57.49,
+      "change": 0.01,
+      "percent_change": 0.02
     }
-  },
-  "news_sentiment": {
-    "summary": "Comerica Incorporated (CMA) has recently attracted attention from investors, with Wellington Management Group LLP and Universal Beteilungs und Servicegesellschaft mbH buying shares of the company. The stock is also considered a potential investment by billionaires, according to Yahoo Finance. Comerica is set to provide key financial updates in June and July events, and is participating in the 2025 Morgan Stanley US Financials Conference. The company's stock analysis shows a 5.24% dividend yield and a 9.34% potential upside, as reported by DirectorsTalk Interviews. Furthermore, Comerica has announced a double dividend payout of $0.71 common stock and $1,",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

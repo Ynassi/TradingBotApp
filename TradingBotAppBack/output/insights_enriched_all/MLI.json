@@ -1,56 +1,164 @@
 {
   "ticker": "MLI",
-  "name": "Mueller Industries, Inc.",
+  "name": NaN,
   "sector": "Industrials",
-  "market_cap": 8539966976.0,
+  "market_cap": 8545499648.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.058289,
-    "PB": 3.2026224,
-    "EV_Revenue": 1.989,
+    "PE": 14.067396,
+    "PB": 3.2046974,
+    "EV_Revenue": 1.99,
     "ROE": 0.24735,
     "ProfitMargin": 0.1592,
     "GrossMargin": 0.2744,
-    "DividendYield": 1.28
+    "DividendYield": 1.28,
+    "DebtEquity": 1.225,
+    "CurrentRatio": 4.295,
+    "QuickRatio": 3.126,
+    "FreeCashFlow": 325789888,
+    "OperatingCashFlow": 585841984,
+    "FCF_Margin": 0.08312499559102361,
+    "ROA": 0.15765001,
+    "PEG": null,
+    "EV_EBITDA": 9.356,
+    "BuybackYield": null,
+    "PriceToFCF": 26.223300927007287
   },
   "technical_indicators": {
-    "RSI_14": 52.29012115359683,
-    "Momentum_10": -2.7714752133573035,
-    "MACD": 0.6959938220563799,
-    "BB_Percent": 0.5122549685743262,
+    "RSI_14": 51.474208629650384,
+    "Momentum_10": -0.2325284803776436,
+    "MACD": 0.6500039400957291,
+    "BB_Percent": 0.4185012739762305,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9315049158055057,
+    "ValueScore": 0.9301968629439552,
     "QualityScore": 0.3864364251533753,
-    "SignalScore": 0.483441646398431
+    "SignalScore": 0.5503095457232141
   },
-  "volatility": 0.0215971181837394,
+  "volatility": 0.0216598879361242,
   "beta": 1.037,
-  "return_6m": -0.0387092917998528,
+  "return_6m": -0.0157813289681421,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 1,
     "target_mean_price": 110.0
   },
+  "news_sentiment": {
+    "summary": "Mueller Industries, Inc. (NYSE:MLI) a récemment attiré l'attention des investisseurs, avec des mouvements significatifs de détention d'actions par plusieurs sociétés de gestion d'actifs. Malgré une baisse de 3,6% cette semaine, les rendements annuels se rapprochent davantage de la croissance des bénéfices. La déclaration d'un dividende en espèces pour le deuxième trimestre renforce la confiance des investisseurs, même si des ventes d'actions par certains directeurs ont été signalées. La question de savoir si MLI est le meilleur stock de dividende sans dette reste ouverte, mais l'intérêt des investisseurs institutionnels persiste.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Rhumbline Advisers Raises Position in Mueller Industries, Inc. (NYSE:MLI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1JfNW5sODJzOGhuc2E0SWFaR0Nla3E5QmpsTU5pOXhXY3lybnduX0lacFNzamJSeXBkRzlRREZycWtlWU9Ea3U1WUlWSm4wdklCZWplRm9pajh6SVh1cGhpSEx6WEczT1JFWUNoT19LUkJyOFVTZUZISWxqME11OXUwQTg0UndNMFpWSVBPSDNkMDJKQkJFUlZaa180T2F4N0Q3MlhMbTlfdERWUWZIVFUwMzloNW95VjhwMEtUWkxBV1VlbE0zdg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Strong Financial Prospects The Force That Is Driving The Momentum In Mueller Industries, Inc.'s NYSE:MLI) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlVQV2cxUWRrNXItb1ducjMyOUJXNktFaXFEYUhZUFlxaGRMZGVHZHNjWUtGR3FYTFRfZEV4MHB0M1E1T0pwMjN5aE5ZSXJjQ21ESTlMRXZZX0dYTUozYUdZVDZxS1IwdXQwM2wycWE3eEdxYnBBNzRFTW1lblpILXo4bndHNVJ6VlVkcnlXRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Price Over Earnings Overview: Mueller Industries - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1VOWWpFVTY0UTh2UWNrYWRpWnQ1RE4zU003RnpLZTRvZUN0VjJ3UFpvNE1UbU45WVNEdHBhYkxyMkZDMVlBVXlxWW5lSXYtallyckhPelF3T3U3WHNOanNKanVFWWxvU0JNSGZnR3lBRTlJdV9venZuVFVVWkxBOTZweHBfemtiQ1BreGltN01PdzI1aXRsQ09BOUg1c1JZT0l3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mueller Industries Stock: A Valuable Lesson (NYSE:MLI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXdrcTZOa0JxSENFcUFJSDd6RnY2OUFsWTRQOThjUGZTSld1VGhPY3JuSGtHbkNUNVBpV0tJOEtjcHhFQ0QxdGxuTVdRU2JSMjVMeS1CcU5jZHZkcy1saFdncFQwajBpZEg5X3c5YkVuWXA1bXpvZVV5T2x1Y181aA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(MLI) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYjJhc1Z0UVlEMlhZR0tfc2tFWlpKekVFQ2JYUWEtVE9RdUlUOGxVNU9oSmNOWDcwai0tSi1vekhoTHdYZ3lBellnX1FSbUpCSjE3WVFOVmtCdmlvZHBzS2xPZmpfZm1OSGFlWTZmbjRjWDJIUllaSGY3NFhoTUJaQUstWmY3YmZPNDJuZ1J3N3Jyel9rOVZYSWtpV0VWcTl2bWY2RFZzbkhPMmZKWmxkOXpiVFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mueller Industries, Inc. Declares Cash Dividend for Second Quarter - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSExaeF92ZDhzMHE3WG9mcnVZUzZyVzdnbzgzTFpUWXlLUUg3a1AxaWlMMXBEb1dIQ0JrMWp1QmUwN0ZsRW9VZGx1MC1rbkhFMlNqZ183cll3ajdaZEpmcEtpS3JBQTVlSTdFdnhPbDJFSjZkU0VvU0dIbGpVaS1yWDIwQU51am51U3JzQTluS212ZW0wYmVuRlI2Y2oxdk9GSUd4b0Y3WFZ4alU4RGwydmVTMUtQVUJLcVRWXzk5TQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mueller Industries, Inc. (NYSE:MLI) Shares Sold by Insight Wealth Strategies LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa043Mk5CZ2tnVWJ1bjg0WE11cF9yYU8yY1BhcExMNFhma0VLaDZaZ3c2ak5qXzdVWE0tVGFObUFMWTVpY09DSlVUTlRxRnlnaXd2MXN1NGxCZ2xqSXYzWDNwckV0YkRRS3J1YlFBMlc0RGlhc0dHNXF6emZuRE5KNU4tZGtOLVhEQ3lHcVB6MjRuUlBGalFmVVR0ZkdPUW9Ed1FxV1NNWG9hckE5VUotVi1PYWRrb08yRWxZN3IzVXRpVHpEQWNVa3RucHBGelk4TjB1WHlOSXdqdjMxWHFxWmxjZGI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Mueller Industries, Inc. (MLI) the Best Debt Free Dividend Stock to Invest In? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTZyNlcwU0l2dGtIcFp1Q1BBdTIwakVEYWY2U2g1Y2RxaFZjcmRYdGxiNXZvVUVzS3FCSVRtNlZlWEphOEFBRE9wTk1wRy1vSFg2UV91cjBQMW01cWcwc2o2WDZDQUIxOXkydHVGdzNTOWdtWjNxQ2k2QVBFYVB6UWFNOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GTS Securities LLC Makes New Investment in Mueller Industries, Inc. (NYSE:MLI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2VIMWVPVUVpQm55c3NXVTlzc2Q1ZUtLUWNlTnpld01YQmlSVFBnc0lTV0trVWZhSm4tam91bm5jaFp2Z1l1dzBWMzdtYnhCRnVTMi1VeXoxeTNLYWpOOGtkeHczU0FQZmtWaGstaTVDbnZjeGFpREhIMm1wY1doZ0tnZnF4YndpTFNxcVpCQktUZ1Q0ZWgyMHdSaUx3WENxZjJRcHE1T1VlYlNubF9zXzVWQUlnaEhCUmNsdExONU5pYlhvWDhxWjhEVDJQTG5JeU9KdA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mueller Industries, Inc. (MLI)-A Bull Case Theory - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2JnYVlSRkI0Rkdib1J2dXNScTU4OVZIbXp0MFR5cFJtem04OWgxRUsxWGxnMUJ0VXZ4blVkWFJZVkZvakptWGRLTTRiRlJ2TTFDemhVdFZNRE1YWTFMMVdyRE1jaUNwV3MxWHVZVjAwemNWd1lFeVlTWl9rTmtnb0hQNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HWG Holdings LP Cuts Stock Position in Mueller Industries, Inc. (NYSE:MLI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3FaZ3JxQjk4Y0xJaTJ2T3VOczhBVEV0OGlLSUo2UTBKNVVqZWtfUWhQbGlXWXdFa2Vya3h5dGllR2QtbDFIRFdaTkdLWmJpdFlvcndRT2xlLV9nWWRFSUV0RUhJNTlzUEwyQnVHNVhGaWltSHVPaUNGNmxacnJxVmdIQkFUaG1BckpkMy1aSV9oWXJiMEY1d0h0bktHUWxveDluQTlQY1JaQzJhVDBuMHJlSWZYa3g4VGliX0Rqaw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mueller Industries (NYSE:MLI) sheds 3.6% this week, as yearly returns fall more in line with earnings growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd3Vld3hxbTk2RDRtTmxSRTlCNVlrZEZDVUlweHB6ZmZRakFmWE1tY254MF9yX21kQkM3aGZjdmNkVmhQa2duaDlLeVVhN0l5SDdieU9VTjJ2cjhMY0xGYjNjeDZKbEdpSkM0ZlN0alR5V0tIbkdKWk0wOFRpNU9TRFhpREtfdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Summit Global Investments Has $1.13 Million Stock Position in Mueller Industries, Inc. (NYSE:MLI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcWQ4bzhhWGRHWV9va1JHakR4MGNqZHRvNzNsOFcxM2QwWlRqWFBrRS1yZlpKYzZsb0FpU0UxbERRWVRtdXR2LVBqeHBfNjBvQS1tNTNtVEc1LU5MbVFLbUMzM3p0WVRwYm9kTncyRldvdVFoMkNva3hibXpyOFMxQVA0VTZaWUdPYnVZYy1RODBRd3cwWkFzZS1UZkJ4azc5TmRSSlhDMml2TXNESHE0OC1fVDdaTFMwcmRvMHVxR1RGVnNZWHdobjBDeU42S3Qtb0ptNEVoVlBhc2w3bXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Has $2.08 Million Stock Position in Mueller Industries, Inc. (NYSE:MLI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUlgzTFhwNTFUdEpFUTBLblZscUlrOHd0bFB3a1hRcWNacmpRblNWaUQ1QnlWR0I1WUtxb3lsWU5yNmtsVTV5NWZmSkVZbmIyZXhsaDJycHF0MXY4TGN6c0JNQk1FeWdadmxlTlJVYkpUVDFqNVBlYzFNaHA3dkllYkxGZHBjN0cyaTdOWmJ0SzVtTzBMZnpEWWhnX21OZW5tTVBRSDBKbHNoRFRwVEQ0dHZzT3BtZ2xocV9ncE5zNXlENUtUT1ZKU3R2Rjl6Q2pSUVpwQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Takes $9.85 Million Position in Mueller Industries, Inc. (NYSE:MLI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWWdpZ2dhcGhpMEVheDVnX1QxeFpBaVlIZ1FmLUd6V0JablhOZ3dKRUZZUV9HVDlzRUZpOVlSM1lXY3h1TFBzQWxTeWpZM0RobWtFTWl0c1JYRGVfS3YtTmRHYnl2YmNBVHh4dl9mcmRxZEJndXhxdWdPX3RGM284VGhTaV9fQ2pjelJLNmc3akxSRVc1OF9Meko4bGJBVUtqdFVVbGpVNUZDa0NBWURRUTZWbkpRd2tGSlhaUWFQMDhGYkZoZVVFdDdjSllqV0lnN3JwNV9sSFdXZjBHOWx4YnpHaVQ4c3ZUck5veElfanNORWZZcVJMdy1B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Increases Holdings in Mueller Industries, Inc. (NYSE:MLI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbFN3Z204ekxOTm14Sy1sa1RWa01kNmREektzNF9CaGVtYTg3U08zT0Rib2FIUFBvNlVVdUxVc0ZOMDNMOGRNbkUzOTBOdXpNMS1kYWQ5TkNaN1pGaW1rUmp1Z2p6dXAtMU96MURyekZDMVMxZFd2RUpwclZ3cmVtOXdwY0lLS1FINmpDU2d3S1MyRHdtTF9QekpFLWk3WllkVWRYSkx4TXdUNVFKNUFxX2YweUFfaThMdXBFUUYyQnBnZmVWeWxRSXp2cUtJZTVqRnJVMkFWR0dMOEc2UDFtY2lnaDZuNnVNNThtWF9qckstY004WTMyQnlFOVZlcnVlQ3B6bU9HSHJQb0U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Total Wealth Planning & Management Inc. Makes New $396,000 Investment in Mueller Industries, Inc. (NYSE:MLI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWXhpc2ppXzBHLWRJYnpLLTdjTG9vd0FPV1RRa0tndXBhbkpxZ3NBc0hGTXZDVTBDUjdpR1hiQWJCWEI4bDZGQzBsT2UwR3JkWlYyUGd6SE5wcVdaV0xya1BYQkw1MHFkc3NaaHJYVlNJMlNtZEVSdTBTR2VabEU3YTJqRk9UZXpyYWkyN2F2eERMS00zRUR5aXY5UzdjSWxfZ0loZ09HRVNjRmdlMDZFMWpmRzhRVHAwa1Qtb0h3bFAyOHdWU2NkZ0VDTkR1eUFway15MzFFRXJsRHYxR3k0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mueller Industries, Inc. (NYSE:MLI) Stock Position Lowered by Bank of America Corp DE - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ0w2aTNYamp1b0NOczNBMEk4VjlhRTE4ZDZTV25sNnA0bUxDOXlaaVFBbVNrOXV1VTM2WGhJU0JhV0RmczhuQzhnakp5VlRvNnU3aUkyU0lrb25LOWNiQ3B3c21MVUVIYXdBVEQ5WnpFWHZ1emZXeWFlWHZJREttZjdjYjBOb2xaVVMxQ3NfTHpDTGhqSEQ0MmdqYk9xUlhoenR0UGlTM3BWV1RRbks3d0RPZFh6R21qblRfenV4UC1ZYm5NSjZ5MkF5UWt1RjVKYWVjSWpWZUlfaG8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mueller Industries, Inc. (NYSE:MLI) Shares Purchased by WBI Investments LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbmtkWDZ3R09vdVRRc25YU3djTDRFLU83cTV6MlZ1OTZZeGVFNUlabU56bUxUSHBXLWZBU0J3OHhUc185WHZCUXRwOUVBaFJiWGNUZUJ0eFJfdEdIaWJadXFBM0ItVGNQY01GMlNEeWlMamo1cU9Xc240OXpteXRlV3lTX244akt5blFmLV80Y1B2RVMtUERfT1dHT2g2ZGlkall0R2RicU42eU05cTg2c0Z1UEI2WWNHZ1d6UG5YN1dUWlhRLXVQLUViRWgtMWhOeWpr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mueller Industries, Inc. (NYSE:MLI) Director John B. Hansen Sells 3,130 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnBndzNoX09vMkNlaXQzRWRBRmVYZ3MzUjRCVWFsQzNIbzRFS05IZlBNRTJiWm9LSTN0SDdUS1NSSWtid2wtOFNZcy1vLWduUmZ4eDRzMnAtZTd3V21SNmd4WUJ2U3ZBX2dKUGFFelJwZmJ6TkN1QUZpekdkZXlLV0xOb0JZN1pWV2dZaWg0X3VvQThFTEExRC1HQ0tXV0plMFN5SnVETnVKT0VjZnJ2aHEtWjAtSkdBVkZnV1lESUhEMmM?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 80.75
-      },
-      {
-        "date": "2024-12-03",
-        "price": 78.88
-      },
-      {
-        "date": "2024-12-04",
-        "price": 78.68
-      },
-      {
-        "date": "2024-12-05",
-        "price": 78.93
-      },
       {
         "date": "2024-12-06",
         "price": 78.72
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 77.27
+        "price": 77.37
+      },
+      {
+        "date": "2025-06-03",
+        "price": 78.67
+      },
+      {
+        "date": "2025-06-04",
+        "price": 77.89
+      },
+      {
+        "date": "2025-06-05",
+        "price": 77.21
       }
     ],
     "current_price_data": {
-      "price": 77.27,
-      "change": -0.65,
-      "percent_change": -0.83
+      "price": 77.21,
+      "change": -0.66,
+      "percent_change": -0.85
     }
-  },
-  "news_sentiment": {
-    "summary": "Mueller Industries, Inc. (NYSE:MLI) has been receiving positive attention from investors in recent news. Insight Wealth Strategies LLC sold shares in the company, indicating that investors may be bullish on its financial prospects. GTS Securities LLC also invested $285,000 in MLI, further signaling confidence in the company's future. Additionally, HWG Holdings LP cut its stock position in MLI, suggesting that there may be some uncertainty surrounding the company's performance. UBS AM also acquired shares in MLI, indicating that the company is attracting interest from a diverse group of investors. Overall, the news suggests that MLI is experiencing mixed sentiment, with some investors expressing confidence in the company's",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

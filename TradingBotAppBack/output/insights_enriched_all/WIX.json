@@ -1,56 +1,164 @@
 {
   "ticker": "WIX",
-  "name": "Wix.com Ltd.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 8258934272.0,
+  "market_cap": 8531151872.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 58.873016,
-    "PB": -49.012226,
-    "EV_Revenue": 4.514,
-    "ROE": 0.11125,
+    "PE": 61.05578,
+    "PB": -50.627686,
+    "EV_Revenue": 4.646,
+    "ROE": 0.109745,
     "ProfitMargin": 0.08161,
     "GrossMargin": 0.68084,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 0.786,
+    "QuickRatio": 0.746,
+    "FreeCashFlow": 456146752,
+    "OperatingCashFlow": 529070016,
+    "FCF_Margin": 0.2513863065663834,
+    "ROA": 0.045700002,
+    "PEG": null,
+    "EV_EBITDA": 53.13,
+    "BuybackYield": null,
+    "PriceToFCF": 18.702647414663605
   },
   "technical_indicators": {
-    "RSI_14": 34.99994759349144,
-    "Momentum_10": -18.818057121558653,
-    "MACD": -5.207617486870305,
-    "BB_Percent": 0.1723981367087133,
+    "RSI_14": 40.69971047926439,
+    "Momentum_10": 0.5973504555500867,
+    "MACD": -5.062017565558705,
+    "BB_Percent": 0.3056586952188562,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9852037950951332,
-    "QualityScore": 0.3874065128974928,
-    "SignalScore": 0.6949749027453924
+    "ValueScore": 0.9730244178892904,
+    "QualityScore": 0.3873212539918803,
+    "SignalScore": 0.6247855244435414
   },
-  "volatility": 0.0316032881665984,
+  "volatility": 0.03138738412862,
   "beta": 1.306,
-  "return_6m": -0.327196026002566,
+  "return_6m": -0.3023943685842305,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 217.87434
+    "target_mean_price": 217.84
   },
+  "news_sentiment": {
+    "summary": "Wix.com (WIX) a récemment connu une volatilité significative, avec des baisses et des hausses marquées de son cours de bourse, notamment suite à des résultats trimestriels mitigés. Malgré des prévisions conservatrices dues à l'incertitude macroéconomique, la société a augmenté son programme de rachat d'actions. Des analystes notent toutefois un potentiel de reprise important, avec des prévisions optimistes pour une hausse de 50% d'ici l'été. La récente intégration de Wix avec ActiveCampaign pour le marketing des entreprises multi-sites suscite également de l'intérêt.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Wix.com (WIX) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xLUp3TWhFWXJJSC1ZaDhRSUx1b3lTM25CZEhDWEpfaUpZSkcxN0RnTS1nT3UybkJCZ1J0LTNfaTJlWXdZVzQyVks5alk1V1ZaRExHdVVuVTR2WFRUUWhrLTlYVElEQ2hSdGtnRGJXTlAyU2NOT1dqZmpQU0o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Wix.com Stock Dove by 16% Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUy1YMC01eEc2eTNVUkZQbXU3aG45c2dZa3VJMzg0enZTN0EwenotS1pxOHAtOWEwbVJHaTI3TDJHN0tZMFYtS3RNc1FEcG1UVTJSQlBueEZQUGVLWDd0VHFlT2tZTFlGOURsNk1IX21RVFZfMkZsOW9ueUltWXRLSmJHbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wix.com (WIX): Top Stock for the Next Bull Run - Entrepreneur",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOXdEcW1GTHFyU0kwMVlmZnVQd3JqZHJ4S0dTZlFvWU12dlpYTkNvWE5vT25BLUhULWVNNmhJcVlrbGNmM3BMc1BBQ19fMndCb1pZdC01SlZUdGo0dmJTTTR1TXNzQ3UyREVNR3Q1UFdWN3dYVUxrUG9zZW82dFlOOW0tMEJuYVVXNWxyMDd0cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wix Earnings Alert: Leading Website Platform to Reveal Q1 2025 Performance on May 21 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNm5Yc1RiY2t5bnZ4NUE1bUtZUjRMZ2Z3V2hOSkZBOXN3MW9lcVVKZ2lRZW1kb2NweWVhVXZueGktZ3dIX280d28xamRvWlkwVENUbkJTRnF5TktZQ2xtVzlhU0JxWk52Qy1xSWV4bVk1cllwd0lSQW9BRm5nU2ppLWVJMmxpY1dkeWIzN21PMnFNay1mTkxZcDZKRzhxLXVFX2VUUHB1MUphQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wix.com (WIX) Stock Jumps 10.3%: Will It Continue to Soar? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3hnODFkNy1zcXE0VUpCU0cwMUxDN1VIczZ2b3JhbndoczMyX3FQaDZIdW52Wmo1RXYtaWthSnpzdXVvUzVMX29ySkRna3E0RTFpN21JaDFxUHE5TG42QUZrMExJVzhJRDF2Uzh2UzE4UnNueWNWclp0Y0tia3p6anVFUG43N0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's How Much You Would Have Made Owning Wix.com Stock In The Last 10 Years - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMUFVUHBqcjRadTJHaFF5dzh2TTFVSDdyZ0pmNjZUS1pSZ3J1TnJxdGFEbFVfaUFjQWt4WElKSXZjWXBOdFl2NnVBR09LNHl4TDNvbzdiTlRac2NjakJCU3dTSWxMb0JWbFQ1b19wSXpXTEJGSEo3c1JyS3V3Ull5S0RpVVFRWG92QjdBV09sYkVJNlNoTVJGZVZpSktHa1gtUVg4V19uYmRSd2RGdEl5SVduZjZkYnZHdjUtem0wWTVmeEk4ZXdfWFhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wix.com leads enterprise software stocks lower after earnings results - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekpRcDNtUDVhTFV1c0FQUS1udU1mM18wOUlLUHJFcnlEM0dPeUt0QWhZUk5DWEZnR2tYOVduY1l2T213ZFlfeWZjYVhpUEJHWGlUeFBGbjZRS0dHTVdpblZPWnJYa3hIdDhWdDg0V1NhQUlyRWFDR0tGSXhaZ3ZyTDJuRVVuSklVckxGZzBINzJjMU9GMzdScjBLcDZXVnBVckdKOXpYS19IQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Baird Upgrades Wix.com (WIX) Stock, Cuts PT - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNQUI1ZzJPa1hWTzFyQ01OSnRDN3BodFI3bXlMMGJqT1lBamEwcUlkVmtMMVljS01MUVRGOE9XclpCNUlIZWRVVVI5N240eHlzRjJMNDFVdC1RbHNEUmNuS1ZKS2VrMUFpcGRxRENLTkk4TzFIc25FVF9mSVdEUVR2TTg5RjBtZV9FeUFrdmJWejFpOVBnSjFMWG9VNUtyWGhlbU41Y19fLXRxUTBCNjUyMzVHUl9ZX1hPd0lodVdzM1VIejdzdWFrWC1PQ3lpMldMMGZUYlhtWHc5VndWTXJtYk16TXZNN0ZacnVtNDV5R2lkOHlkZ0Z0VXB5QUo5c2d3bHB5YkwyLWpOWjhMd29CZktBVjVkUEJ6X3RBX0FmT1hJa2VhdFQ2ai1vQTl3MXJVekl0dmNuWnlzZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "3 Reasons Wix Could Rally 50% Into the Summer - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQak5EX3REUDRHOWFkOTc1ZVhCT2Q5OVpvQ0JEUHFyeWhQY3lmd2JjQXduSmQ5bTFCNERFYzRCR2hHVENPLUJUMVZmeDZCMDFiUENIRXlFVUo0ZVV1cGdVRmVURlcyY1FWNnFMZ2ZsWENmZEhuUnhjaHdGeDJyMnFyUGh0RElZQVI3TXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wix.com (WIX) Q1 Earnings Miss Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ybnBBVlRad1FUUFVQVDdRWHpXaHRRTGJQLV9RNlJkYkRYMFduaGZLSmpMT05penNCanItbEd1Q2tsaWRqdHk5WlFQdkRFSFVsUFF5MV80UFQxcHhDRHE3eGM2QWdJT3ljOW5iY01fZnRGS0g2UDcyNQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wix and ActiveCampaign Launch Game-Changing Integration for Multi-Location Business Marketing - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTVRQVnNjQVFDMkx5RVNydFZ3SEd2QlczM0NhWUlSdnlWZ2VhN1E4Z1dOUk9TdkRJZW53NnZCVHFTRkZqaUZlOGs0YXkwRkNqNm9kSmFYLWRmWEllWDNac1pFODl6QlNLSW5wOTZ3cW9TWXVnVEd6bTE5MU9fcjFYam91cGpab2RNVHVUSUhzLXRvM2tTeU5UWnBNR3VURFlyT0c1Nnl5ZTh5REMyS085MFZ1dFU1cGtWUDFkRnpPVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wix.com Q1: Severely Undervalued At 16x P/E (NASDAQ:WIX) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWcXpJWm5PYTRDN0t3bUJfSWxuX3J0YThUQnZCc0g5dVN6djlKeE1leVZCOW9rT29xX1NoeGY1QVRnYmJLZnN6TGhwVDZUVzR1ZGE5NzBwbmM1TXMxUF8xd1NaZXZJRXdETGZlTXVJRWtoRVR0SGpj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wix.com Issues Conservative Outlook Due To Macro Uncertainty, Increases Stock Buyback - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM2RodFlaTDdlX05SdU1veE54SUwzVzJ4dWxxU08tTW1VYW51bDQ4X044bGl0cE1QTDNTU3M2OVBWZFBEZjBaVzZGVUFzOU9HOUc0NWNUNGkwWmUyV2xZTFlJODZuUVpYSGhkMEpmMXBOZC04TUV0azcyZktEVHJYWE5Rb016NGdYZFNkeVlUOTNWQ0IxSy0xMVF6OW1GR1RFZFpTWjRMX2t4Wl93ZDVrY2k0UTJ3MmFZRlFpRkpyTndiU1ZIeFo0RFY5ZHAwMVJOM2Rn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wix.com price target lowered to $230 from $240 at B. Riley - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkTEFkcGJXS1U5WjRVdXhFYkE3N1M0RVFBTW82dWx0WDM5aXUzZUdkdHIzT1FleFMwQjdRZTZpLVJaR3BvWGdkUU9KbXpJZE5FbUlGSFhFb0J0ajZta1RCNkJUaXRjS3RxejBPZWdTVDFiVDhUZDZCMzFGQUJSZTg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wix (WIX) Reports Earnings Tomorrow: What To Expect - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUZmRDdYT2s4UkdMVWhURjZhbnZZVEpSS3ZHZUFyOFpvME15X0I1R25iaVhiVzA5WF9UQm9udzBYOUxLaEhjQmZRaDZYQy12YTFnVmpodV80aV9SVzdSNEVUcjN2R0haaW5tazROZjVCd0hQSm9qeGZSdFpuXzJJTUtTRHNSQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wix.com Ltd. (WIX) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlb3RpaTdPMGZicDJBbmVoWUFkd3hDR0JZYmZLUG9xQWJRY3hwNDY0eURySmdPQ3laa1EycW5pcHduN2xiUkpVZGxocDE2bkhuX2tFcnA2bHJfOXBsUW1jTTJSMTNrZkpOVVJ2TERnZVNoWmMtSXNYRTJVNXE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wix.com (WIX) Reports Q1 Earnings: What Key Metrics Have to Say - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10WEFhUHA0NHNzRExKajM5WC1QRzdtYnJtZzkwS2tpZEJiWEppS1FyNkozR1FrYTVTNzlpUUtGc3RJOU9Ub1lHRXktbDdaUUtteVhGYUhtRDkxZGtraHZ0RlM3LXhJa2kyWVNqUEg0eUt0UWN0dzRr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Those who invested in Wix.com (NASDAQ:WIX) three years ago are up 192% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWVCR3Z4d09qXzE4c0M1QlFfS2ZScHNpMTVPSk9mek1XXzV3bXBqZzEzTXNadG1jcWZHZFdNSFBKeHF3LTNHdFl5aFVBVV9GN3Z1czMwdW5RU3RCcmR2dXc2VlNSQmo4MW8xdEoxSWplZlVhdkc4b0I4aEh4a0VsNw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wix.com (WIX) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WLWpFb3ZkeEpBckpBb1ktbEZUNkpfOFI3TDB1clRrRUhRNGY1SmFPQ3RjRl9aeklQZGtUR1RmQUlYb0pNbTR0UFh5Y28zOEptNERsaG5iZ3U2YVJXSGZGWGxCbm1DRG5heGYwYTljam5iZDUwa2xlUlNB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Trending Stock Wix.com Ltd. (WIX) a Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WR3FWWW1PUnlBbmM3eUgyemdVMEVGOURIamU5RXNpVlVHSlVrVFMtMlpuSVNWbk5kU3lVcXI3WjZVRm1vZzB0aU5qODBMVUlEbS1CeE4xaGhad21LS20yZm01c0M0cEhyelpmUmRPT3hnYlloaE9ISDhIdWg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 220.51
-      },
-      {
-        "date": "2024-12-03",
-        "price": 219.72
-      },
-      {
-        "date": "2024-12-04",
-        "price": 229.35
-      },
-      {
-        "date": "2024-12-05",
-        "price": 221.22
-      },
       {
         "date": "2024-12-06",
         "price": 219.68
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 148.99
+        "price": 148.96
+      },
+      {
+        "date": "2025-06-03",
+        "price": 151.65
+      },
+      {
+        "date": "2025-06-04",
+        "price": 153.25
+      },
+      {
+        "date": "2025-06-05",
+        "price": 153.25
       }
     ],
     "current_price_data": {
-      "price": 148.99,
-      "change": 0.04,
-      "percent_change": 0.03
+      "price": 153.25,
+      "change": 0.0,
+      "percent_change": 0.0
     }
-  },
-  "news_sentiment": {
-    "summary": "Wix.com (WIX) est un titre d'actualit\u00e9 \u00e9conomique r\u00e9cent concernant une entreprise cot\u00e9e. Les principales tendances cl\u00e9s qui ressortent de ces nouvelles sont :\n\n* Wix.com est consid\u00e9r\u00e9 par l'entrepreneur comme un des titres-cl\u00e9s pour le prochain bull run.\n* L'entreprise est en train de s'approcher d'une mesure technique importante, selon l'Investor's Business Daily.\n* Le stock de Wix.com a baiss\u00e9 alors que le march\u00e9 s'am\u00e9liore, mais les informations fournies par Yahoo Finance permettent d'y voir plus clairement.",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

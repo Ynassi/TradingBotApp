@@ -2,55 +2,83 @@
   "ticker": "9101.T",
   "name": "Nippon Yusen",
   "sector": "Consumer Discretionary",
-  "market_cap": 2229702754304.0,
+  "market_cap": 2137555599360.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.011409,
-    "PB": 0.76471895,
-    "EV_Revenue": 1.127,
+    "PE": 10.551605,
+    "PB": 0.7331153,
+    "EV_Revenue": 1.071,
     "ROE": 0.17187999,
     "ProfitMargin": 0.18454,
     "GrossMargin": 0.18129998,
-    "DividendYield": 4.55
+    "DividendYield": 4.63,
+    "DebtEquity": 24.864,
+    "CurrentRatio": 1.331,
+    "QuickRatio": 0.962,
+    "FreeCashFlow": 74937753600,
+    "OperatingCashFlow": 510755012608,
+    "FCF_Margin": 0.028948024942919606,
+    "ROA": 0.03073,
+    "PEG": null,
+    "EV_EBITDA": 7.589,
+    "BuybackYield": null,
+    "PriceToFCF": 28.524415220260884
   },
   "technical_indicators": {
-    "RSI_14": 56.02743434672197,
-    "Momentum_10": 0.6837272904864231,
-    "MACD": 117.33094204480494,
-    "BB_Percent": 0.58429809249045,
+    "RSI_14": 44.42197147737147,
+    "Momentum_10": -5.742083174360931,
+    "MACD": 77.34716705446954,
+    "BB_Percent": 0.0518873135143361,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8983995584179695,
+    "ValueScore": 0.8957588123696008,
     "QualityScore": 0.3280763874456211,
-    "SignalScore": 0.5643793841998266
+    "SignalScore": 0.6493139752464729
   },
-  "volatility": 0.0198464351902589,
+  "volatility": 0.0199431019137224,
   "beta": 1.049,
-  "return_6m": 0.1069198746662978,
+  "return_6m": 0.0470971707426102,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 10,
-    "target_mean_price": 5190.0
+    "target_mean_price": 5175.0
   },
+  "news_sentiment": {
+    "summary": "Les inquiétudes concernant les tarifs américains pourraient ralentir les flux de cargaison pour la principale compagnie maritime japonaise, selon le président de l'entreprise. Un exécutif de NYK Line estime que le Japon et la Corée auraient du mal à répondre à la demande américaine en matière de construction navale hors de Chine. Les actions du secteur maritime ont été malmenées après la fin de la grève dans les ports américains. Les investisseurs de Trinidad et Tobago semblent hésitants, peut-être en raison de ces incertitudes économiques mondiales.",
+    "sentiment_score": -0.75,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.75,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Top Japanese shipping line fears US tariffs will slow cargo flows, president says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUXRKY24tanI3UDFNcnctc0tzZmQ3TlQ3R0dhRlhMYmRMeEZEZUhQXzNHVkZVWlVHX09Lc3U0WUNDYml1X1pMeUdwYXY4bUhuWFpUU01oZ0JlUllLZjFWS1BoVjV0c2tuN3EwRjRITU1GRk9BcDFtVjRCampNUmREeTEzb1JvTFMzOUtJYl8yZWs3RHptWjBzZ1FuTEM4Q2Z0ZGsxOFozUERKT0NpVjZTbWpvcm85RHZibWRoX2MtcVl1bFhwMkxFOQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan, Korea would struggle to fill US demand for non-China shipbuilding, NYK Line exec says - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNnB4aXg2Wm1sZldrZ1RlME9NUkRid3ByZnVoNkFlLTF2Nmp0akFESlRjSElvMzlXODVsbHptRndCNEZrckRjc3FmS1M2VlZfRmJmTHYwRVd5RjVnMGhNZGFVeFFWTFBxdmFhbjBfZk5lTGNkWWV4ZFctUllfOF8xamx0SQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Shipping stocks battered after US port strike ends - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZzFtUEJoakkxblIwb3ppOWlXSkpKYWJIVkR4UWVXclZCRUk4cTl2SV94RFVuUDloZlpOSndwUmFBNWt1dVRmOGxPY0RFMEFvT04ybC1FcVY0UEtOM1g1QzZsWC10T3pLZzFyVGVwNi13ZFRhRUxHXzdjeWIxTm5BSXJjWnJCeWNpODRXYXBNQTBQVkNLRWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "T&T investors ‘gun shy’ - Trinidad Express Newspapers",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeXQyYVY3WE9udWdUZnR6dVBGQ3NJX01wb1pLRlhJRWRkR2xILXZFS1JCWm1tcHF3V3VMOXRGbXc0VVJlSlotZGFzVFN4X0xjNy1LVTRJM0dnajBnT2NUU3hFaXFBRC1GendHR3ZBVTQ2dkxhRDNfdEFDdlkyQ3JLN3A1MWtLVkFvTmZvOWE3TmtNUkw5eGhteWlWQWhpWDYybVA0bk5WandWbkpxV1BNbm9pOTnSAboBQVVfeXFMTVlZbXdvektGVTA1eGE1bUhjZnV0bkdTbW1lODZCWm9LQzR2UFYyb1ctVVAyTVZHTVlhT0FCZHY1dE1TWDRTa2J5ZHhGRGxxV2dlNkUySEtUU05jZjBUN0hPSTZibGdHdS1iMUhhY1VRTHZyTkxYN0g3dGZfN2ZUbmRqYmZKRzAtaFJCVjU0VHRKWUVYNmZQUWY3QnZ2cXpIVmFqdEx4a25HbGw5Tmo4My0wbWczYW5OQkN3?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 4835.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 5020.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 4990.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 4900.0
-      },
       {
         "date": "2024-12-06",
         "price": 4868.0
@@ -514,24 +542,28 @@
       {
         "date": "2025-06-02",
         "price": 5154.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 5192.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 5180.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 4941.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 4981.0
       }
     ],
     "current_price_data": {
-      "price": 5154.0,
-      "change": -117.0,
-      "percent_change": -2.22
+      "price": 4981.0,
+      "change": 40.0,
+      "percent_change": 0.81
     }
-  },
-  "news_sentiment": {
-    "summary": "Les tendances cl\u00e9s des nouvelles sont :\n\n* La crainte des effets des tarifs am\u00e9ricains sur les flux de marchandises\n* Les difficult\u00e9s de Japan, Korea pour remplacer la demande am\u00e9ricaine pour la construction navale non-Chine\n* Les investisseurs de T&T sont r\u00e9ticents\n* La vente de parts de la soci\u00e9t\u00e9 Envestnet Asset Management Inc. dans la soci\u00e9t\u00e9 Savers Value Village\n\nLes signaux forts :\n\n* Negatifs : la crainte des tarifs am\u00e9ricains et les difficult\u00e9s de Japan, Korea pour remplacer la demande am\u00e9ricaine pour la construction navale non-Chine\n* Mixed : les investisseurs de",
-    "sentiment_score": -0.5,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

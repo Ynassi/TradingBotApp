@@ -2,55 +2,50 @@
   "ticker": "8253.T",
   "name": "Credit Saison",
   "sector": "Financials",
-  "market_cap": 591328182272.0,
+  "market_cap": 614043025408.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.345817,
-    "PB": 0.84028774,
-    "EV_Revenue": 7.853,
+    "PE": 9.796537,
+    "PB": 0.8725659,
+    "EV_Revenue": 7.911,
     "ROE": 0.093760006,
     "ProfitMargin": 0.13489,
     "GrossMargin": 0.85897005,
-    "DividendYield": 6.59
+    "DividendYield": 6.36,
+    "DebtEquity": 473.473,
+    "CurrentRatio": 12.769,
+    "QuickRatio": 12.21,
+    "FreeCashFlow": -255023497216,
+    "OperatingCashFlow": -249173999616,
+    "FCF_Margin": -0.5180898077421836,
+    "ROA": 0.01635,
+    "PEG": null,
+    "EV_EBITDA": 25.715,
+    "BuybackYield": null,
+    "PriceToFCF": -2.407789996260295
   },
   "technical_indicators": {
-    "RSI_14": 70.50568618897508,
-    "Momentum_10": 2.8933092224231465,
-    "MACD": 157.3473626431678,
-    "BB_Percent": 0.7928322334491997,
+    "RSI_14": 76.25889402701104,
+    "Momentum_10": 8.81347013943699,
+    "MACD": 175.08172370315697,
+    "BB_Percent": 0.8702329746118715,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8783100775902112,
+    "ValueScore": 0.8749103251680095,
     "QualityScore": 0.5031831062511299,
-    "SignalScore": 0.4689947595927509
+    "SignalScore": 0.3737950555620689
   },
-  "volatility": 0.0259448621739484,
+  "volatility": 0.0255738788240711,
   "beta": 0.393,
-  "return_6m": 0.1039356984478936,
+  "return_6m": 0.1647331971583381,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
-    "target_mean_price": 3993.75
+    "target_mean_price": 4118.75
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3608.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3725.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3641.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3657.0
-      },
       {
         "date": "2024-12-06",
         "price": 3612.0
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 3983.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 4050.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 4091.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 4136.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 4132.0
       }
     ],
     "current_price_data": {
-      "price": 3983.0,
-      "change": 39.0,
-      "percent_change": 0.99
+      "price": 4132.0,
+      "change": -4.0,
+      "percent_change": -0.1
     }
   }
 }

@@ -2,55 +2,163 @@
   "ticker": "ICE",
   "name": "Intercontinental Exchange",
   "sector": "Financials",
-  "market_cap": 103077724160.0,
+  "market_cap": 102423781376.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 37.127068,
-    "PB": 3.687186,
-    "EV_Revenue": 13.004,
+    "PE": 36.891525,
+    "PB": 3.6637938,
+    "EV_Revenue": 12.964,
     "ROE": 0.10421,
     "ProfitMargin": 0.29423,
     "GrossMargin": 1.0,
-    "DividendYield": 1.07
+    "DividendYield": 1.07,
+    "DebtEquity": 73.534,
+    "CurrentRatio": 0.999,
+    "QuickRatio": 0.029,
+    "FreeCashFlow": 2783000064,
+    "OperatingCashFlow": 4566000128,
+    "FCF_Margin": 0.2941238825769997,
+    "ROA": 0.020869998,
+    "PEG": null,
+    "EV_EBITDA": 21.148,
+    "BuybackYield": null,
+    "PriceToFCF": 36.80440331028321
   },
   "technical_indicators": {
-    "RSI_14": 65.71199274621571,
-    "Momentum_10": 1.9886552526595744,
-    "MACD": 2.90833911177279,
-    "BB_Percent": 0.9168306436887972,
+    "RSI_14": 60.40452364918496,
+    "Momentum_10": 2.143426677554157,
+    "MACD": 2.677502918751685,
+    "BB_Percent": 0.6861237121688746,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8572261995451738,
+    "ValueScore": 0.8541576983067437,
     "QualityScore": 0.440069542363358,
-    "SignalScore": 0.5253426432861323
+    "SignalScore": 0.5294285286870355
   },
-  "volatility": 0.0132918307467004,
+  "volatility": 0.0132507522784803,
   "beta": 1.129,
-  "return_6m": 0.1417232786254598,
+  "return_6m": 0.1484097778204358,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
     "target_mean_price": 192.9375
   },
+  "news_sentiment": {
+    "summary": "Intercontinental Exchange (ICE) continue de marquer des records avec un cours atteignant un niveau historique de 179,44 $. Les statistiques de mai signalent une croissance robuste, renforçant la position de l'entreprise. Malgré des signaux positifs, une augmentation significative des positions vendeuses est observée, soulignant une certaine prudence des investisseurs. L'expansion récente de ICE dans les contrats à terme sur les matériaux de batterie indique une diversification stratégique, mais la prudence reste de mise face à une évaluation parfois jugée élevée.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "ICE Quantitative Stock Analysis - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mNkE2VjI0a1pSVEJrREplSlNsMTdhaHI3R2E5U0VMLTg2eVRIZUVOMXduM0ZYRHVnTjRtSkRBdnctWUxMTWpkT1o3bmJWSXQ4cnhwODE5TG90VC1CeHViWFZlaXpUb3BZNThTbXVyZVlHeERz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ICE Stock Trades Near 52-Week High: Time to Add it for Better Returns? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02QUQ1ekZVRnFRSzZpR0ZIUnFsX0swankyRjdFOWNld2wxbkpKMFVQb3BIYjdVN19lYVY2aW9fdW5UbGRHblBBd2RtWHV1Z3YtQUUwb1BqMG5CNzBDQ3lzN0k1TzBZXy1hWUdZcXhjYnhOcTVjLW1Cd2tR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chesley Taft & Associates LLC Trims Stock Holdings in Intercontinental Exchange, Inc. (NYSE:ICE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORTRINXB1bmRuY3doa1BuMDhYMm02WEJrVklEelhfMWdZQTlSNnh0U0FxdGJnejU2SFJsLUtNRGx2MG94Z1dnT2VXOW1VbFp2bTdkamRfS3NDVWhFeFFWZkRRR2g0U2hhTnVuaU1BeDI5LTVBZkE4RWdmYV9XUzJuMWNWc1g0REM3OVpwVHpNZ1d1VE5oQ1pGZ0dwdkhDdkYtbFl5cUZJSFRKNHEzbXBhb0U1a2Jta0VtVVByQmx6OXFRZkdibWpiLWZYM0o1LTdHVGtSUnVKNV9qa3dhUElMN0UxOTY?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Intercontinental Exchange Reports May Statistics | ICE Stock New - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWNqV0U0c2IzRncxNzlhbFM3cmtJMGxJT0xYZlBCRmEyZEFJa0RFUktpY0xVM0xZc0V1SWRQYlFlcENCVjV6UWdPUGtwYXEweVk4Um10TEZwUkNMam9ySHV2SzZpSFg3TlRja1NrSTA2eGJtU2Q3dUVJLVZJaXJDVW5ZekNoU3NNQnNOMXpFd2xTdjhiT0ZHbTNGSDFGOXQ2QURxcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ICE stock hits all-time high at $179.44 amid robust growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1M5UzVSRGhYLXc5dVF5bnJxRndrdGFxQWFFTTh3VU5FNG85OWNHT0pZRXgzUFUzOEVWbzFtN2RILU1hUUVRM1lpaWZOVWJ6Z203T2FBVlhDQktZMU8zd1cyem9fZjdFMGlYU0xUbncwYTVnakNyVTJqekNzei1McVFQaGNrV1JNU0FMeExWc0NqWUN2TzJWaGpBdk5EMkZaYzRkZDg2eXRHaWtxamtWOFpn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ICE, Stock Of The Day, In Buy Range Amid 'All-Weather' Growth - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWNob0NkeDY5RkFRU2tGcVBJTGgwRUFCTFFLQU1ibXNfZUMzd2JQNEhEdW9WQjVmY3pyS29Ba1hOWWFPQkNtY09DQW5Gd0NDcVA1czQ3RDZfSm5scDN4Ynl2U2FCZzJpelRkTmZrWkhSazk0b1pCdnJrTUMzeXJqX3V4RFdvU2drbmNaWmNFVDBEUEJlam11YmRRQ2hGbFQtWVoxR0NKSXJOa1dQcFU0LWJDR3VIemRvd3FIZjVKanJTY2dvSjRYTEdn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Intercontinental Exchange (ICE): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PN1JNQ29oR3BoYmN2cU1YOGlpbFdrak5lWVNVeTRkUjcwbFNnSmlTMnBpSVhsMlBYc3g0cDgtR3J5ZW9JQnVQaVBOdXg1LTRpYW1sejJJSjZmZUtOaFNwM291aUM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Healthcare Stocks Skating on Thin Ice - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVUhtZ3VKM3JQMDVhVEFQX1pJWnh4WWZjbk9uQWl5Nzk4LWRtNnU5RWtYOXFNN2dUNTBmVkJUSWFUQ1NoM0hSVzVIOHpDUzQ1YUdtbzFoemRsZW52TFpGX2NpSlpqUGMzc2Y1dmJmN0syem91MG85X0FGVFdTd3NOeW1qVGU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Intercontinental Exchange, Inc. (NYSE:ICE) Receives Average Rating of \"Moderate Buy\" from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenZSY1M0c2pxcXBUMnpZOUxEYm9PZzkwVS1qS0I1UEktUk1ZZTFJNVF3NVlTM3ZJUXJqX0JEcUpuZzA3R0dESDdXQVIwcVlrNzV6a24tWWZCX0s5T0hsR0ZFdG56TUFDV0l5U014dmljZVJxeG9lc1hoS091djNac19lXzFKWGpxOGw2S1BVT1lPcHQ4S2w0V3NUcmthMHFnOVM3eV9RVmpUSVRGWlpzcTY2TzFSNzcyOHFoZDJxMHdJSm94VzZBVVBpMHkyeExQR1hMdEVKdEFJRUpCUmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Intercontinental Exchange (ICE) Stock Might be a Great Pick - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazFzUnR3TWZDek1vVjZxQUM0ZG5TUTBtMk9fYmxkTFJGSGxmLVc5MmtXckZPYVFOU3BaWHJRYjFzMUVDYl9Jczh0RmhwOVdZZW1GbDhVOFVRaDkzWEFHbFJwdEI4ckJaMHNFMVRBQW1mMGJULVNPVjN2MTdTNzVjSGY2SHNXMU9hQlFRczJBRVdpTzFfeXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Value Stocks Skating on Thin Ice - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qSXZQU0pwajZGQUtoODE4YTFQUzg3WjJDajItWml5U0hWOHJidkxZbXBwdk5Pdm9jN2FtQzdHR3dWMEM2SUJDMFVZV2FnY2V6TUhGRXdJbXl2WUdRQTFjYVZQNURLRWUydUpOaG1aRUpSWTdVYXp5dG1hMFpSZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "IntercontinentalExchange (ICE) Releases May Trading Volume and Revenue Data | ICE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzRLUjZTdzA5UWlFYmNmVUxsaFhCWXJtTlVxa0NWSy1EenFlMHYzTWdDMUp3dXJqdm9XamRYaW1wYkZQbjVKMEE3M2FvbmZsY0UyR1Q4V3pBVEZ2MWlQQWM2YlNJMzRsbFFLUkhzUzJpOHd3SEdPNEQ2cFVKbEtFN3JIRFNQbUc3endyeHhfMWpQVjI5MTN3cXhrblNYSlBScVFCdnBzdEJ5Zm04VWt2cWVvQVBWR29DUHkxaXgxN0JvWC12YkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Canlan Ice Sports (TSE:ICE) Stock Price Crosses Above 200-Day Moving Average - Should You Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRWZsUkplVzdvVThvTWt5N0k0TlpuUHNUV1lEYTQ0N1dGOGJXMTlVTm1TblRweVJ0VG9fV1RZZW9aYXFoVmUza0tQRjZ0SDc0RXpuSFQ5MkpUVXdqa1hYV3lMUjY3dnJaNGtnbGVXT1pUZVVuVFZEeDBwREQ3c0lUbm8tWGdCLWktbC05SGJiMUd6ZFQ2XzZkSG1MdTJZallMTTRibHE3aG40YVVzdHQ1UnJRV0VKbXNqelU4RXlnV016R1hLbEdjX21rUVhXR0hCZy04LV9wQ3JZTEJMMGZKYWhRcTVIQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intercontinental Exchange (ICE) Partners with Stoxx for New Index Services | ICE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmMwSDZEY0pFbmo1bS12QmJ0SDFIMkhsTFNlU1V0T0N1R2o3LXZ4bHVfTElmc1Fud0IzemtoZFV3bW0wVkk1MUh3d3d6R1ZDWWo2NnM5YWhtWl9Bdks1Vkl5bDI2SFVfSFhoVHhEX0lKb0JtS2ViS0F5UW1uVi05ZHFDc01LZ25LMERKdnhBTWlYamJ1U2FRc1RfX2xiTENtZGdaTnlWS0g1U1lhazhta0dqQ0JlUDlYSkpLdGRKcm1pSVNK?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes IntercontinentalExchange (ICE) a Strong Momentum Stock: Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGU4OGdFbEN4UU1HZEJSaWNFaHRPVE5tNExEWVNGaXMzQmx6M2ZLVnhPbG9IX3J0S19TMnowQ3FTVE54dEhXeFlEN09nSjY0TnVXelJfdUdjVWVUU2luMjByQjFvRDBHVFFaZ0xxX05VVGM2T2RjdzFMVF9KZXE5azJwd3pwVGw4WXZjRWRaMk83d19EbFNKVWpXbmE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Short Interest in Intercontinental Exchange, Inc. (NYSE:ICE) Grows By 33.7% - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzhpTVVWS1BUOGQxc21GeW1xWjRTQ2V3bGJVTkZSMjRyWXJsaEFVRlQxZzNaNnpRVEdheG1Pd3o0NjNlOGJ6bXlJVWZacWx6LW9TSFZNQmhrbzNwLUVHT1JDRWxsMFJOM3dSNVVPLThiTkRDSl8xUHJDQU9jZldUeG9XVFhzNnU3eHR3RlAyVk9zbUsxeXRRVWlMS0I2MFd4cGU3ZzhlNFdlOG8wdmxNMldKX1hFN1Qtbkhsdk1VQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Intercontinental Exchange (ICE) Expands into Battery Material Futures | ICE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZVFkdGZTU19TV0F2ajR4Z0QxTi1kWnVYaXAyMHVaOUZmeDY0bnYwSFhpWFhiNzZTNjVLM3dTS0p6UnJ3MmM4cXE4RndLdVM4am85UDdjSE4wT25GSjFyUFM4X19rZmplZVJVMFlKVFdnR3R0YUVNdTlGM1JGdVhzMm9JT3VtYzMzNV92UXQyQnlyZW1rZS1nS1ZpYk9mbEZzRnVlNWUzSHFCZTU0b05YZmdCSmp4QW5KeUNmcW5ubkxSYWNRdHVmSWtTd1ZFUTRBOHNFVFJDeVhlQjFLRm9TZ1pfU0twUjlPNDFiR0xkcGVGQ0xJbkZURE5ScV81SkxmT2dLYlVR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Intercontinental Exchange, Inc. (ICE) the Best Monopoly Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTZTVmdsNGhBSDhjd1FmeGRMLUZaV1VVYThCZFRFeldJYVBXZzlmeVo4QnBjVXhMNm5pTmVBZXlGT2E2OUU2aTN1Zmt6VFNpaG9ocEZsaElXWHJTVklsLUFxWXRPN1ZyX09tRFB2NG5pSjkyTmVRVDVhcEF3QjJRZ1pZOXNJclphZlkxTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fiduciary Alliance LLC Decreases Stock Holdings in Intercontinental Exchange, Inc. (NYSE:ICE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWWNuYVY1WXZBZmZWVHIzeGszLWZJSGE4RGZjdFgxUUZpWjQydnJSWS1XbV9uNHRjNGpub09BSE1RYXN6bldwbElwNmNqaHIxWGZ0NzJoT241aFNBQ01hVm5xaUxtV1NSS3MyYUF3b2ZTUXJjenlCUmhoWU1QY05JbUdVOVYtNllTekJKMzJ4MUR5bEpUX0xNaGV5aFBOazZJR0hmQlJhanZScWEyZDRfZUhlak5TMGZrTXNjS1RyS1pGenJleEE0MDQtaGxWMGRvaTZLSjlfLUhQd3BFNjJsa243SQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Intercontinental Exchange, Inc. (NYSE:ICE) Shares Purchased by First Financial Corp IN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMEtaaENDWElfY2ZONnhiX2V2c0Q0cXRXNkYzSzhtTDlONi1GMWJBamRYZkZBVnRvcEdOTjJjRE51eEIwZV9LUGJ6aHpscXg5SEMzLUdhbGtPREc4MDdhcElOZWxmV3UtTEF0aHZjRjVReE00THFQTEtvNDkzS1JYWHIwb045cmVreklaMU9PdXdaM2g4WEVDMzFnUzUtRFBadHJfaFhrYmdMUkxLSV9hdVdVdkxFQmZ6dnQ4YTNDMVBZV2VxZXVhWllrbkRIcGtmY0d1TnhXa1NJUTJrQ1NWUmZKSDhmQQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 158.29
-      },
-      {
-        "date": "2024-12-03",
-        "price": 156.26
-      },
-      {
-        "date": "2024-12-04",
-        "price": 156.1
-      },
-      {
-        "date": "2024-12-05",
-        "price": 156.37
-      },
       {
         "date": "2024-12-06",
         "price": 155.93
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 179.88
+        "price": 180.32
+      },
+      {
+        "date": "2025-06-03",
+        "price": 179.34
+      },
+      {
+        "date": "2025-06-04",
+        "price": 179.13
+      },
+      {
+        "date": "2025-06-05",
+        "price": 178.56
       }
     ],
     "current_price_data": {
-      "price": 179.88,
-      "change": 0.17,
-      "percent_change": 0.09
+      "price": 178.56,
+      "change": -0.59,
+      "percent_change": -0.33
     }
-  },
-  "news_sentiment": {
-    "summary": "Intercontinental Exchange (ICE) a r\u00e9cemment \u00e9tendu son march\u00e9 \u00e0 des contrats futurs en mati\u00e8res de batteries, avec des contrats futurs en lithium, cobalt, nickel et cuivre. Cela offre \u00e0 ses clients des possibilit\u00e9s de gestion de risques dans les secteurs de l'\u00e9nergie et des mati\u00e8res premi\u00e8res.\n\nEn outre, ICE a r\u00e9duit les positions en action de Castle Rock Wealth Management LLC dans ses titres. Les raisons de ce retrait n'ont pas \u00e9t\u00e9 sp\u00e9cifi\u00e9es.\n\nLe prix de bourse de ICE a atteint un record historique de $179,44",
-    "sentiment_score": 0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

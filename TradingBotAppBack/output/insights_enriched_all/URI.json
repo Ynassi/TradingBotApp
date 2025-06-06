@@ -2,55 +2,163 @@
   "ticker": "URI",
   "name": "United Rentals",
   "sector": "Industrials",
-  "market_cap": 44963708928.0,
+  "market_cap": 45505150976.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.949144,
-    "PB": 5.1158113,
-    "EV_Revenue": 3.819,
+    "PE": 18.141747,
+    "PB": 5.177415,
+    "EV_Revenue": 3.77,
     "ROE": 0.30173,
     "ProfitMargin": 0.16375,
     "GrossMargin": 0.39905998,
-    "DividendYield": 1.01
+    "DividendYield": 1.03,
+    "DebtEquity": 159.21,
+    "CurrentRatio": 0.854,
+    "QuickRatio": 0.749,
+    "FreeCashFlow": 2394249984,
+    "OperatingCashFlow": 4942000128,
+    "FCF_Margin": 0.15368444787903035,
+    "ROA": 0.09315,
+    "PEG": null,
+    "EV_EBITDA": 12.981,
+    "BuybackYield": null,
+    "PriceToFCF": 18.981309781226255
   },
   "technical_indicators": {
-    "RSI_14": 52.9699448046455,
-    "Momentum_10": -4.651564165220768,
-    "MACD": 18.032649479084625,
-    "BB_Percent": 0.4366138360879082,
+    "RSI_14": 54.561370930290046,
+    "Momentum_10": 0.3794214853052025,
+    "MACD": 13.560759018674844,
+    "BB_Percent": 0.3889845369785555,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8872150202094516,
+    "ValueScore": 0.8843173777541861,
     "QualityScore": 0.27720398201342,
-    "SignalScore": 0.6322297787720323
+    "SignalScore": 0.5683358702997798
   },
-  "volatility": 0.026685731954467,
+  "volatility": 0.0266925664391468,
   "beta": 1.705,
-  "return_6m": -0.1889249261868323,
+  "return_6m": -0.1771804392861597,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
     "target_mean_price": 767.706
   },
+  "news_sentiment": {
+    "summary": "United Rentals (NYSE: URI) a récemment bénéficié d'une hausse de sa cote boursière suite à une recommandation positive de la part d'UBS, avec un nouvel objectif de prix à 780 $, reflétant un potentiel de hausse de 9,26%. Cependant, l'entreprise a subi une récente déception en perdant un contrat de 4,8 milliards de dollars, malgré une consolation. Cette actualité a eu un impact mitigé sur le titre, mais le maintien d'un dividende trimestriel de 1,79 $ par United Rentals a rassuré les actionnaires. Les investisseurs surveillent de près l'évolution de l'entreprise face aux craintes liées aux tarifs douaniers et à l'examen prolongé de l'accord avec H&E Equipment à 92 $ par action.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "United Rentals Stock Is A Wonderful Company At A Fair Price (NYSE:URI) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXRJaWFTMGpvc3R3d1hCeFpMNUJuaGpLcXlrODE4NmdTamZvaFREaW9SUlVLS3BrRWM4bVloUnhBOEdMalRIbGJNVXhYcWVwOGhqQWV3a0FiNHBDMFFlY3QxZmdHM1Y4Ny01N3E1SDNveHk3Q1Vrem01b2tWZXlWaDBhajZobEYyZWozVFZJdWQtOHFi?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "United Rentals (URI) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNXzhBTzZoOGczdkU1azlZZUVYcnZ4VUk4aVNMQV9xVGFzVjFTdWdoemZkY1ZiaU9LQVVXLUpDUE5aWmVPMWljb2dkUXRRd21sZE85NmpnLXFiY0psYmUtcm5DeEh4RmJVQl9TV1VYcWREWG9aT0RINUE5SDhoT3k0eVpxWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "United Rentals, Inc. (URI) Stock Analysis: Exploring a 9.26% Potential Upside Amid Robust Financials - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWEo1Y256aTlHYUhRLWEwWVp5ZFJsU1A5aERDQThyZTJuQlNDZFRUX2ZPc204eVhlUWRnQmpaRUhZMWRXZmwzNm9PTGxqOWdhRFRYQWlqTEJuWk5MeUxLWWpJUFkzUnpKTjBUMllDUE5JeUdTSjdJN2xITjIwakwwNGtIOHRtcWNQZ2dRTWZZTlIzaDZsUlhPaXJqQWt2RV9oQnlGN2J6WVJ6M0FqYnZrX01OQV9sdkJFWTNyZ1NNTWxZTlNaMlpaUUFua2VqQ0ZnY292ejN1QlRiZlNscFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "United Rentals Maintains Strong Shareholder Returns with $1.79 Quarterly Dividend Declaration - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2QxTEdNczNBTkVQTGhSdEF0TkViWG9aU2JoandnYTVwZUdWaXpjbW5BX0dRN2tkSzZzVGtjelg4d2xMTTh2Uy1ndTZlQTVoZlhQVlpfRlRrNkZDT2RxeXNpUHZVR0pieHg4ZWRDdi1hTklVUFByNk1DQk8zTUM0OXF4Q2hxLThGZEYxWWFjRWpyeFBjeDFz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "UBS lifts United Rentals stock rating, target to $780 from $485 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWRrVDBmcUk5dzlGbzlFYk5ucnNuZDYwMHBfbWRvR0VKbnJxVHJiRVhORTZLdmZ1Y1dPQ0VCX0d0ZG1CSFlTZkNjVHBEWnMwcWVDRWVrbWhHbGYxenpfMXNBb1JncVNYcy1WR0VqcFlwRVNPWkQxMmlXQU9GZ3owWjhEc2dJbU81U1RxRHdRV3FNRXhycVhyUDBNS1A5TDEwNnRXZVJNX3FwWmg3aVJoU3BEbmgzNWVJNHRRNQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "United Rentals (URI) Receives Price Target Upgrade by UBS | URI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkVBdE92V1pHWUhWNFNwNF9QQ0x5bHJEeURPaUJhUHRWeGNfUWhsS2pNaVBzUTZkNjRvd3p6bXNFNFVYZXhKaVlnYjh0YlVUSjZQSF9rYjNWc1dYWlE1RGNsUXhBUGNvOFpvNk92Z3VBcGwxcWt2MmZCdlVIblFTbndaVUZBNnJndjg0R0w4Smt5SVhjaFNJWXY1Ny1UUHRDQXBGelRSY3pyMGNJb1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "United Rentals Falls After Losing $4.8 Billion Deal, Despite Consolation Prize - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGdzUUxGMloxR3VnbVRwcHFoRk1EMWE3d2hSOWdBZHFqemNrNzVSZ1ZUcmJhUnRkdm8wM3Iwazk1a0xCbGtNdGtPanctd3NVQWs3bWFQMTlBaWU2cDlnVUpyM0VqUVdDQUlKaGRFTmN2Q1U2YXBVOWtsRVVCcEVZc2JuMk0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(URI) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTI4QU5hOHdTUlBCalAxMThabWk2eFFlSmprX2x1VGRmWHhRclVjTnQ2cC10UUtSOWNQSzl6T201S3BjY3RPa1NFQ0tQekFRWG84bmhJZlZ2cmw2VEVRbDlpNnN5S1FRZDNvdXdPeUp3eFZpTFBCT2hWUFhvbmV4X2c4bnVHZFBpQUNEQkJXdHN2akZGdWJxVjZUZnNlNFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Wall Street Analysts Like United Rentals Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLW0zWlFYaGp5WVBlTzJTOWJIWFJHc2FRY29zRHZqempZUFh1emtoY0xUSGxLZk9vNDBpNnMwM2poSDhHeGNmNGRkdV9jN3pCajlod2N4UktiTElXa0RZUHlPV1dwaTZZNXZObm9wUG5mOHpkSlJsMjRDb0xJTFpNTUd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "United Rentals Executive Makes a Half-Million Dollar Stock Move! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1h0am9lMGNNY3hrbEtaRWRwRFZlbjhRcEUyeU9CdWhraUVITVdad1F6YXJCdGhpVERSUldJV3ZFX29aLU9KVTVTVlEyU3p4RUROUjI0eWt5WjFqQ0IteXFiTEJaNHZLVVpYY3VVc3h5MGZCdEdlOHozSFU4dUowWU13UTJHRmpFOHItX3NWRXVBaDN6VHo1ZWszS0JuNTVJdFN3Y0xkcmQ2TzNWQXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A Look Back at Specialty Equipment Distributors Stocks’ Q1 Earnings: United Rentals (NYSE:URI) Vs The Rest Of The Pack - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ09xQ2N2NlNodlZIRTl3WV9TZ0FmUTJrT2ptRm40QXVRc3B6S1QzUFhyZ1NfbXppVWZVdFVkWmdsR0U3YTNlZ0VDOFB4OHdNcS00SlYtU1l0aHN6YTAxd3o0VU5ZZmozM0JINTgzbGtvMEtvbmNIWnFQRk1TX3U1c3ZNQlR6OGlUaW1IZFRkQjJsUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "World's Largest Equipment Rental Giant Earns Elite WSJ Management Excellence Award - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlFvdGZsejluVVU1R2dycGRwYWJ6bVppZ0J5eExwRVlqX1JXakJYTnJaa2lyQ1AyaGVkZkZ2YWZ1bFNiSHYwWS1hS2VqaXZpNGJWeWZ6cjZhTUpZNnNNZGg0Z1VNS0VpM3dUbDJiTjVXUXZzeUpzUUI2elo1NG5jOUJ4dkdHalZsRTdBcnhMNnNXVlNRRXNXanVQNzNmLUZGYmdKRnByNGxLN1NkdDRJ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "United Rentals: Nearing A Buy Level Amid Tariff Fears - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWcweHUtbWU0Tk1VblZMWXRBZVEtT0tpZWJ4bDM4V1hCcVVYMmk4MnJxUHBWTFVpVnFHN2xDUlliNVBTYjBBWl85czRudEFDeGg2MDdXaUJMR1F6NHp5dEJUVGVrTUtPbDJXbFAtc1dnek02TVZEdXQ4N29xczZVQTI1Wl9SZWczVk9fUElZNWtYczdWY2g5UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is United Rentals Stock Underperforming the Nasdaq? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbUl4Yk5kTVBCSE5KclhKUFQ0TGZPNUpIUUhkcGF3eEE4aFE4MW9kNWx2dmszZDNOOUJYVXUySktPYTR0c2tOZ1JXMHhJOFFOQXhzdVBTM1ducjNHTk9qTll6YlpZRi1hOHVURzFJZWttaXdTVlVSczNiUjVCRzRjSw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "United Rentals (URI) Stock Rating Maintained; Price Target Lower - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzFpNDhPWlpHS08wSlFYdmMxY0dVWjNKQnhrWnZrXzh5MXBqQWpBaS1ndDI3SUhjc21TM21OQ1Yzb3c3dzROcHJMTjJybzhrNTU5VzF4M3ZsV0UzX1Z2UjdRX3RjVVhoeXZkdHV3TTRzdWJxdld1ZmtqdkdTLUFpdjFWdzdZalZfWnBpVHZBbTgzR0s2QWcwZzB2dnkwQTlBbVJqUnRVVlFIaG91Qi12bVlQMHZ0UXk2?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "United Rentals' $92/Share H&E Equipment Deal Faces Extended Antitrust Scrutiny - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLVY3S0l0dzhKVHFxMDhBbVR1NmUyb3ljV2hNY1hOZnBXZ2pHNUNsSklqcmVjSTd1R3Vlem9aNHIzVEVESGhQODl3OER2eW5zNm9nNmxxQU10ZUJYWTNMQU9TdUlsanVrOEdLY25NYVExUWN4eGxCVkJvSWdWTXVIaHJkanpOV3BIamlJQ2VVaGFPb2ZtVTEyU0E1OGpQWWNCQXJrSmo3Zkhvcm0wV3k1Nk1vc2hnN18t?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "United Rentals (URI) Target Price Raised by JP Morgan | URI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUVRjcm5aWnI1Tm9rQ3k1bXV2NURYR3JVdFZWazV4Q1V5MlZ3V1RQZW9ZcExKS3RURVRPQ1BsMkxvWjZlRU9FUmZmcW5Tdk8xcVFkb3BDS2xTX29zU0RWU3BkZTZkeTB3eGJYYTJCeGUzR1E4Y0JQcDNpWlFqQmpST3VMeFltUkprbm9ROXM1OHhkM1hVWGZiUmd5WDVQaVJjTmRyVzZwR1Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "United Rentals Sets Date for Q1 2025 Financial Results: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHFSRGl2Nk0xd2toS3lZZzc1MEhscDY5LTR6dlJ5R3BBWThtWEpoZWs0UkpaQkgyQkpqZEJlM2dIRjZhbFE0NDJMVW95LW0teHk2OF9GaEtmbUdJTUxvTkRBcnFrMDBsdVpteVJPRERfOE5GLUpqdjBHaXhRTWxfd2xfN2pFTTVzSnJPdncwVzZmNWJzU0M4WW92NF9rN19jRFhCb2V0S1lzUnpIa3BJYklxWXk1Nko2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KeyBanc Boosts United Rentals (URI) Rating Amid Growth Potential | URI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1VYX1VSemtqdkRqeUFNMWw4cWhIZDNJQjNWY1p0WmQyMmppNHh4U2ZJOXBLaEUtU2c3VTlrYTd2Z3NrdUpMTzlrd1h6YldIVEtORnkzVnc0N0JadDhaRnZ0YjM4OWF2OE1Tb1J1MWhDeTRFTmtGWFVnZ3hPWVdHNmRXU1N5ZjNjeVNHT1Rkajk0dGVLbzlncjZGZ0NHSXNpeF9fTmd0czVpZ1dfUFhXNFJzQ3VHVUk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How United Rentals' New Tech Solution Solves the 3 Biggest Worksite Challenges - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnhmOVJMZGw3cEpzZEkwclMxRWhxa1Bpa1RGQWk0N0dQZWlnVEtTUTZMVXl0X2tVR3pLdFh0U3J6QTVDUXhrNDRtNVlOTUNBYUs0bjdKUlAwX3JxZHdoWHNpTFFUSUFwRzFWODlTN3lyemQ0eWlnZ1lZakZTOFlwdjl3RlRpU0xTQWJqRDQxS01ZV1RPUHhuTzhNLTkyazVmdkhtY2NXU204MDJUZFJ5RG5MNDlidnBQQ0xaQzh6SQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 857.05
-      },
-      {
-        "date": "2024-12-03",
-        "price": 869.02
-      },
-      {
-        "date": "2024-12-04",
-        "price": 868.24
-      },
-      {
-        "date": "2024-12-05",
-        "price": 854.99
-      },
       {
         "date": "2024-12-06",
         "price": 858.92
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 690.07
+        "price": 691.15
+      },
+      {
+        "date": "2025-06-03",
+        "price": 702.89
+      },
+      {
+        "date": "2025-06-04",
+        "price": 696.57
+      },
+      {
+        "date": "2025-06-05",
+        "price": 699.18
       }
     ],
     "current_price_data": {
-      "price": 690.07,
-      "change": -18.13,
-      "percent_change": -2.56
+      "price": 699.18,
+      "change": 2.18,
+      "percent_change": 0.31
     }
-  },
-  "news_sentiment": {
-    "summary": "United Rentals (URI) is a rental equipment company that has been attracting investors due to its strong financials and dividend payments. However, recent news suggests that the company may face near-term pressure, as a $4.8 billion deal fell through and a target price was not met. Despite these challenges, some analysts remain optimistic about the company's long-term prospects.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "ROCK",
-  "name": "Gibraltar Industries, Inc.",
+  "name": NaN,
   "sector": "Industrials",
-  "market_cap": 1685081472.0,
+  "market_cap": 1745241856.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 13.165898,
-    "PB": 1.6694909,
-    "EV_Revenue": 1.339,
+    "PE": 13.635944,
+    "PB": 1.7290947,
+    "EV_Revenue": 1.351,
     "ROE": 0.13697,
     "ProfitMargin": 0.10221,
     "GrossMargin": 0.27413,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 4.589,
+    "CurrentRatio": 1.712,
+    "QuickRatio": 0.947,
+    "FreeCashFlow": 68861624,
+    "OperatingCashFlow": 134767008,
+    "FCF_Margin": 0.052716103551718144,
+    "ROA": 0.07402,
+    "PEG": null,
+    "EV_EBITDA": 9.14,
+    "BuybackYield": null,
+    "PriceToFCF": 25.344186712761815
   },
   "technical_indicators": {
-    "RSI_14": 44.45772023953025,
-    "Momentum_10": -8.5760009765625,
-    "MACD": 0.512375202991997,
-    "BB_Percent": 0.1741518229959509,
+    "RSI_14": 51.62229297474659,
+    "Momentum_10": -1.4159561742557305,
+    "MACD": 0.3999467018754572,
+    "BB_Percent": 0.3500591430713555,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9336419502361138,
+    "ValueScore": 0.9321775858462582,
     "QualityScore": 0.3357150608356203,
-    "SignalScore": 0.5629100427599294
+    "SignalScore": 0.5562038910736093
   },
-  "volatility": 0.0259748654973639,
+  "volatility": 0.0261837638226009,
   "beta": 1.336,
-  "return_6m": -0.2152176719458739,
+  "return_6m": -0.1619937977411072,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 3,
     "target_mean_price": 90.33333
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Scholar Rock (NASDAQ:SRRK) a connu des fluctuations importantes de son cours de bourse suite à des annonces majeures concernant le développement de son traitement SMA. Malgré des ventes significatives d'actions par des directeurs et des investisseurs institutionnels, Lifesci Capital a émis une recommandation Strong-Buy sur la valeur. En parallèle, Gibraltar Industries (NASDAQ:ROCK) a également été au centre de l'attention avec des mouvements de cours et des spéculations sur un potentiel rebond après une baisse récente. Les investisseurs doivent surveiller de près ces deux sociétés pour saisir les opportunités et évaluer les risques.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Scholar Rock (NASDAQ:SRRK) Trading 5.9% Higher - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUYta0FYM2RaX3VTUDVjSFUwYkR3MTI2YTRwdXZCTkVLV3poZ3dKR3ZDTm5oQlpTd3padWo5NDZBajBGQlBjUGlUZkpEM3l0UmR3YWl6MzBEYXBuVllxd2VYQkZUWFdMTVhlSW1hWF9vVzk0ck92QUsxYk1NeTNEaV9BSUpQQ1pZWjJZZU4yTDctLXd4SjdoZ0EtZnRWWmNZYURiMlBwUE8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gibraltar Stock is Trading at a Discount: Is It Buy Time Yet? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZklIODB3RE5ra1lSandlXzRkRDJUaVR0RFlaZExXYXBacTJzUFBGWjNiM2ZtNTFucXJsNGxzVlljQUw3M0tjdDhpRFR0Y3BUeVRGeVo0WWNFanZWT20tcXBhSFVISFc2TmdwQW52WnRJeG5FU2xxLWd5d0IzdENxc0szZV9uX3d1LXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Rock-Solid Dow Jones Dividend Stocks to Double Up on in June - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNm9ncnZxbF9wejJmXzhNMkRXWEpoNlQwdzlYaVRSREVBWmI4eXBBNVJUemdpejlnOFR5dkhycVJoa3dQamt5Tm1NdlkwdEEzNzd1VnZuczgtWVMzUVppVlhtM21FSkc5N2ZBdm5NYTRXU1k2cC1zQnhxRnJWVkdxMXlDSTRfN0wzWjNMcmxn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RockStock Launches in Salt Lake City August 2 with a Full-Sensory Classic Rock Experience - PRWeb",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPalY3YnBkM1owTDNmS05WUG9mOHBmNFVzY2w0UXhXekZVanNSWnZRNHpxZjNTQ2Y1c294bGpyMkxWMmNIWmZIRDlHRGh3VnptdVprUUhPM09NVXhrdUE5emN5SUJxYkp6RG5LNW5tU2FqeGpTbkxGeGFHek5uWk1NWlpmdDFDdnBzbl8wTTF0djhQR0otV2RrRUN2SW5DRE15Q25McVBlT3Y3dVBfTmEyVzVzQU5LYnVydGszcXFtR0RNUkQ2OGZXTEE1andmeGlv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gibraltar Industries: Shares Have Fallen Enough To Justify An Upgrade (NASDAQ:ROCK) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQW9YNmc5VmlHM0VmZlVwOXVNUTVUbG9kYjl5TVAtLTVkV0FzLWh0bTU2TzJiYWEzZU50WjZZNXR1ZFd4V0h2MExXT3h0aFlEYzJnQXNtZ1k5WEczbHpud2lXTjU3WlRtNmZTWWR1N0FjMlUzVnBvZ1laeVJHNE42M2g1SmpJMWZaSTBxX0NUTEtyMHFmOG1xUlJBME1aOGl3R01N?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Gibraltar Industries (ROCK) Stock Outpacing Its Construction Peers This Year? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFlvX2RWSG5zNzdTdTNvWkVKTTRjaDJCNDJ4ZWo4UEFaNWhZb1VjTC02VnBha0ZFMmFJMzZNbW9DcUxPOFE1ZGpHNkxYNGt0TWEwOWsxVVoyakluVS0xSEthTEhTcG9rNjRxWElINF91cmVZSUxFT096NXJwdzVOQmZwSE9BQ3lBc3dsaWxveUhtTnpGdUhTYzk2U3VjbHE4OVBN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Scholar Rock SMA drug shows muscle function benefit - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblpqWm5rZEE1bGZCVUJ6SFlhRXNYOGpESXRmNEVpRk1QazJNNUk2X3dSSzU3aHRiVjN2bjBSYjNOLVl1dmxuenhBWS0xOHFGM3VzS09jcUc0MVgzN012Qk40VmtXUHduUGVtVURkQ2xJMWh0akVoMGNNczk0X1B5ZmZQM2JGYjJ3UnBPLQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Squarepoint Ops LLC Takes $873,000 Position in Scholar Rock Holding Co. (NASDAQ:SRRK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM1VUaGtVS1FKZjN2dVJfamNZR25qbFF1Z2JxOHZfMVNZOVM0MXNJNlplRzdUa01KQlZ2a2hnU0JKbVkyUDd5OGJicFZhVm5hX1V4MDVfa1hMMnJzeXp6T2ZHVnZMWVctSXNSYl84SnZQMi1JcWo5a1d3aHJCb1ZienNBODk1ZEVBbk5mbTZLRDk0MW5jMWkxVURwbHVQd1FzMGdPUTN4TXlTWUJiTGNRUEF4V3ctQmUxMFBhZTFuYl9qQmFXekZOMF9UaU5WcnVyQVkzc21zcmpJQkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Where are the Opportunities in (ROCK) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRG1UTUJhT2g5U19zdGs3YlJHYmt1aktHRENZSUt0QU9iRl9TbkpXYjJUTFgxVFFSLWNGbTduSDdvN0REdkQ5STFkY0ZXRDBKbWZTM1N6NXpScHdwTm1veGhVOGxQV3djcVcxUXdkM19CQno4NzdVUGIwZGkwbldUT0JSQ0ZscUQ3WVNDcGVjLTFsNkUzaUgweE9TVjhaTE8yTDQ2QzduS2pRY2tYOVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Investors Should Retain Red Rock Resorts Stock Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXFxQW9fUUpnUE5tUUdkUjBFMXM4eEEtSXhVWWZWQkU0NS1rdWJycmdFaGwzREg2Zk02S2U5STlVMXNsc2RNSmtSbGpacHpJOUJmVU45TzRzZHpGbXhUdXVHZ3IzNzBmalVKZ0lkbWRVVU80N0hWNnN3OVpmeUYyeUF3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Scholar Rock Stock Took a Knock on Monday - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEd5bUE4cUhuMDNMRG5DX2Q4TGlRWmk5RXVqMF9SQUowSGpvb1pma3p5UktUY25iVlFOVHk2ZkRVQ3JKRmZOLWVWRkE5YUVidFFKVlJyd2lnUU13eDBkZUVyUW5nb2N0QkhRNnhVd1I1R2hFNmxhUGxfZnZpWG93SG5QNkp4SVRUYjBEVERWQm5XQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Scholar Rock stocks skyrocket after SMA drug scores at Phase III - Clinical Trials Arena",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeDBEQXBYY3RBQTlzYnVZdXBwWXlCVW9xeWRDRlVDbzFfNGdEb2VuczRaMkNDSGhOWDRmdGlkTVNjVHBRSFVYVzUzTXdhLXZJYy1OWDIwbXB1V3NfTlVXVG9lWDl0ZWdVOTF0VDdFLWJ6OWhrY2IzVVJlUVVDd0ktN0F5c1E2eW1UOEZROEVGVVFQWDA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Scholar Rock Holding Co. (NASDAQ:SRRK) Director Sells $100,305.00 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOFdsOFV0RVhpZlZUd1IyWkNtNW12U3BSQlBMUGw2QU1uYXpMazNBRjlxTmkyb0Q5Rjh0THRPX2Fmck9FdnFkdXV5aDltRHhwOHpHZlVpdHdLUWtGamEycEhyR1lCUldWQkVDR0F5d3NPNTdHVDdGblltX0RGQ0lQbDdEcmJpN2NRUVBLWnRvSHBJeEZScGdIZGpmQ1h2cGpFQVN2dGhaUVpsUEM4NV9rZEFhbHhvdnBsVE5pZDB2ZFNKOWtOT2hUeTl3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gibraltar Industries (ROCK) Up 6.9% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnZrb0lMZk9wNUhJVVZ2Znc3WWhOYlAwZFJyaF9NZkh1UnVlUlVvc0FtNGF1TlNvMGxydHVwTEI0ZHN0UkRBM2lTVGVwTlF6NU9nVFVZY2dTUlB4UWhPcURRTVpQREpPNzBwOFh2bk9QRW9HX2NlSFBOTzlZUEc2Vw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Scholar Rock Holding Stock Topped the Market Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWx6OXlWYmhqaHY3M2FoSjNVRUE5azBsWE9QaFpScXZtcXJEUldOU0hHeWVhV2lPeEU3dUt2U19vOVRqcWNpcFdkaHJ3TUtwbzlUWk9zWTdSWmxHYU95YTZjeDQ4QXpReVRYWS1EUzJfRURMOFlGRVZtSV9HMHV3NUdkb3dha1dWc19obElLM0dicUhXejV2QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Scholar Rock Holding Co. (NASDAQ:SRRK) Director Sells $180,609.75 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOamdPYTZhYVRJbzdSR2RLc195djlaU3ozQ21vaTQ0NDM5TkxlRGQ5VzFXMzhQQWlxUzhkQzZtNXhCNGdneF9ranBiTmhNSTJOcC10R0p6QnN6TlBORkpkQ1RGekVERm1fOUFHMzVmNjJxalZ0UnB1X203eU93YUFZeXR6b3JXOFFqUEFvbmVvMk1qblpqNGZ4dmd0QVQxczVROHFoMURyeEpZaml1eF9GU0lfbURxZFpDdGRrMlVXTFNsSHVXNGtPZWRUYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Selling: Scholar Rock Holding Co. (NASDAQ:SRRK) Director Sells 5,400 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVJvQU9PVmkyXzZiUnZCVy1oRFU2UC1zUUY1TW9mNlNvdndMZ1JsckUybXNkdlpzZHJRdmQ5NTNYU0R1aldDdG10bE9TZ09VQ3hsTkdZZG9Lb0NNWGJQcW5HZkdfWUZzcEVWRjZqS1h6aUliMk5QSHNVVmZ4VVRDTldGcGxSQXI3ZnlyZlJfd0txX0VxMDI1NDd6SnpZT281Q0h1V2YzeGdTTldHVWZEWDNWbEJtbC0xUFhVOElfX0NqaHl5S2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Polar Asset Management Partners Inc. Sells 28,000 Shares of Scholar Rock Holding Co. (NASDAQ:SRRK) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmdzRlhIUE9iZlh1Vk9ZRnh3NUpQTU9MUWU5alhVa1NoRlZwR1RIczBtT2g5U2pZc1p6VEVpX01mWHpiVzdEbTBGQ1h3MnhPSjhXZGFSckJKcldKUm8zSW9qZGd2eXRJZ1VEdXJ5TDhfRXAxTHoyUmVLT3hlWUo2Sk01Q0Jla0NqX0tKd245bVRqOVhfUTVTMzVYWlFZRFY1VUpIWEJObGpjWDNYYWhramRDanhqeUQ4R1k0Q3FqVjN1YXBDcUxTbXZrLWVjMmpsNGhnMEpwaUk5YVpJS2w0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lifesci Capital Upgrades Scholar Rock (NASDAQ:SRRK) to Strong-Buy - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXhXLTdEbE1ZQTBPMERza0tyT09sMm5vU3FKUnl2OXVGMUJ0RmdvSF9wTkU2elFrMDdnM1ZDOUlYbWs3R2pVZUdoY0NuU3A0YUtoZm1FMndGZmtoMUVpWnFWa3VXakJmVHcwZmxxZ2FSNERjejFMMjdRbmV5Ql9RZzhlY1UwUzZFTWlpa1JGNDRicXdjSjhvYkw4NG9kT3g4RTRqMW1hUGs1R09fbXJsamhSOHlZY2M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Scholar Rock (NASDAQ:SRRK) Trading Down 6.2% - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnlLVEZXYnJHTjNRczE4TTFtSENRTWhjcWZ5VTZkQ28xM3VrOHBvWVIzTktSdTRYRlFoQ05ZeWZ5bTZxVWRNVDYwMWFNWkxOenBnRHcwbmQxazBxZjJQTVJOWEsxZTR1ZkFpUmlvT3lDMDhpeUMxQnZhUzN3b0xzWU1YR2RRaGVKTTdwMnIwVmlURElyS0lqMVpSeThVaEhORWM3Y0JB?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 72.81
-      },
-      {
-        "date": "2024-12-03",
-        "price": 71.69
-      },
-      {
-        "date": "2024-12-04",
-        "price": 72.01
-      },
-      {
-        "date": "2024-12-05",
-        "price": 70.66
-      },
       {
         "date": "2024-12-06",
         "price": 70.62
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 57.15
+        "price": 57.22
+      },
+      {
+        "date": "2025-06-03",
+        "price": 59.15
+      },
+      {
+        "date": "2025-06-04",
+        "price": 59.14
+      },
+      {
+        "date": "2025-06-05",
+        "price": 59.18
       }
     ],
     "current_price_data": {
-      "price": 57.15,
-      "change": -1.43,
-      "percent_change": -2.44
+      "price": 59.18,
+      "change": 0.04,
+      "percent_change": 0.07
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres de ce journal \u00e9conomique traitent d'entreprises cot\u00e9es dans le secteur des services financiers et de l'industrie du divestissement. Les signaux forts sont positifs pour la plupart, avec des upgrades de notation, des ventes de parts et des gains sur la bourse. La performance des entreprises est compar\u00e9e \u00e0 celle de leurs pairs et la performance du march\u00e9 est \u00e9tudi\u00e9e \u00e0 travers le stock des entreprises cot\u00e9es. Les entreprises pr\u00e9sent\u00e9es se trouvent dans des secteurs vari\u00e9s, de l'\u00e9nergie aux services financiers.",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

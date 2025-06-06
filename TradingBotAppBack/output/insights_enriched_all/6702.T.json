@@ -2,55 +2,73 @@
   "ticker": "6702.T",
   "name": "Fujitsu",
   "sector": "Information Technology",
-  "market_cap": 6151374110720.0,
+  "market_cap": 5964752224256.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 30.498766,
-    "PB": 3.5333128,
-    "EV_Revenue": 1.71,
+    "PE": 29.49767,
+    "PB": 3.4230564,
+    "EV_Revenue": 1.727,
     "ROE": 0.1097,
     "ProfitMargin": 0.06192,
     "GrossMargin": 0.32900003,
-    "DividendYield": 0.9
+    "DividendYield": 0.89,
+    "DebtEquity": 12.991,
+    "CurrentRatio": 1.566,
+    "QuickRatio": 1.027,
+    "FreeCashFlow": -138058006528,
+    "OperatingCashFlow": 303882010624,
+    "FCF_Margin": -0.038888308006620284,
+    "ROA": 0.04725,
+    "PEG": null,
+    "EV_EBITDA": 14.394,
+    "BuybackYield": null,
+    "PriceToFCF": -43.20468167158613
   },
   "technical_indicators": {
-    "RSI_14": 68.21946162255908,
-    "Momentum_10": 4.090225563909774,
-    "MACD": 82.90688506406968,
-    "BB_Percent": 1.111039155640457,
+    "RSI_14": 57.917842741242325,
+    "Momentum_10": 4.879574601188614,
+    "MACD": 74.94129969220967,
+    "BB_Percent": 0.6405145452864268,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8924041049175311,
+    "ValueScore": 0.889693329051587,
     "QualityScore": 0.3551162270801613,
-    "SignalScore": 0.4851246827667622
+    "SignalScore": 0.5090293261928587
   },
-  "volatility": 0.0220060169924552,
+  "volatility": 0.0220386791933031,
   "beta": 0.83,
-  "return_6m": 0.2143524686904709,
+  "return_6m": 0.198648188912824,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
     "target_mean_price": 3516.3635
   },
+  "news_sentiment": {
+    "summary": "Fujitsu (TSE:6702) fait l'objet de préoccupations concernant son niveau d'endettement, soulevant des interrogations quant à sa gestion financière. Par ailleurs, l'annonce selon laquelle Mitsubishi Corp envisage de soumettre une offre pour l'unité de puces de Fujitsu, Shinko Electric, a suscité l'intérêt des investisseurs. Cette potentielle acquisition pourrait avoir un impact significatif sur la stratégie de diversification de Mitsubishi Corp et sur le positionnement futur de Fujitsu dans le secteur des semi-conducteurs. Ces développements récents pourraient influencer le sentiment de marché autour de Fujitsu et susciter des réactions chez les investisseurs cherchant à évaluer les perspectives de croissance et de rentabilité de l'entreprise.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is Fujitsu (TSE:6702) Using Too Much Debt? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVEJrdVFHbmxrMG1POUt0NzRyaUc5bl9GQmZSdTVIS3pXNHM2NDFqR1NLVTR3T0wyenBVd0JzYVB6VTZyc0haSHZ4M3Z2amFPVGgzajlPb2s0U2JiYkVsNHl5dHNreTlCYzlwUTdOY2RaM3N2ZV9QZlJHY1VYQTdKVW45MHBERWlPRUFpZGQ5TWxsR0d2MmNCd0c2MGdhMEt1LUZMNjJZZDBuSXNq0gGyAUFVX3lxTE1neERJUmlZY2w5cDRRVC1fMVlXYUpYaW4yNS1MYVBaMzhCa2JVY2k2N245dXZsa0tBV0M0RGZ2elNNTmpEaFljb0pwU2prX0VDUFgzMnowa1NHSnhieUQ0ajdHZ2lKcVJiYjE1LUVXaEhpRkx6QnFtRzcyZjZOZm9Oc3RpaHFwdURiaDRBcmhiRXNJblV0d1d1M1dRVUZRaDdBTFRWNktRbjRqSVVUbzhLRFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exclusive: Mitsubishi Corp considering bid for Fujitsu's chip unit Shinko Electric -sources - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOWNQT0ljVDJhT3FqS09mUGpzS0pFRUJmeDBfaVM2OHNDTTZXbjByWE8zc3FhVkJGeHB1azluVl9aRDNsUENvMjNTU3VjdHFhQUFVcVh5WF9QN1BSN3JYdi04dHo0enJRX05Vd2dwVUpRTzdCcFRiX1lFcFJhVFN1U1lva0V5TTB3YmdDZHhWZ1BWRVM1T0pDMEtGWk9NNng2cXVSSlowUXpTWUU3Zm1MNklYRW9xRjVLcDdadGZUS1FMdw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2863.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2860.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2807.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2810.0
-      },
       {
         "date": "2024-12-06",
         "price": 2779.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 3461.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3407.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3356.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3353.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3395.0
       }
     ],
     "current_price_data": {
-      "price": 3461.0,
-      "change": 143.0,
-      "percent_change": 4.31
+      "price": 3395.0,
+      "change": 42.0,
+      "percent_change": 1.25
     }
-  },
-  "news_sentiment": {
-    "summary": "Les actuels \u00e9conomiques r\u00e9cents concernant Fujitsu sont g\u00e9n\u00e9ralement n\u00e9gatifs. Les analystes questionnent le fait que l'entreprise utilise trop de pr\u00eat et se souvient d'une tentative de rachat de Shinko Electric par Mitsubishi Corp. Les investisseurs francophones devraient se tenir \u00e0 distance de cette entreprise.",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "KB",
-  "name": "KB Financial Group Inc",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 27320215552.0,
+  "market_cap": 28641062912.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 6.9187145,
-    "PB": 0.00051054964,
+    "PE": 7.3952603,
+    "PB": 0.00054416776,
     "EV_Revenue": 2.846,
     "ROE": 0.09505,
     "ProfitMargin": 0.38395,
     "GrossMargin": 0.0,
-    "DividendYield": 3.16
+    "DividendYield": 2.95,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": -13985198899200,
+    "FCF_Margin": null,
+    "ROA": 0.0075499997,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 71.04367456895442,
-    "Momentum_10": 9.107170880706692,
-    "MACD": 3.5491380068249043,
-    "BB_Percent": 0.8234170430745924,
+    "RSI_14": 72.90244138778628,
+    "Momentum_10": 10.135517612012311,
+    "MACD": 3.9819177659839937,
+    "BB_Percent": 0.9462193989872206,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9361743429678177,
+    "ValueScore": 0.9361275450652764,
     "QualityScore": 0.4162704801513757,
-    "SignalScore": 0.2989013832559449
+    "SignalScore": 0.3666508599018311
   },
-  "volatility": 0.0226497299393286,
+  "volatility": 0.0222981540374533,
   "beta": 0.602,
-  "return_6m": 0.0645723483721685,
+  "return_6m": 0.296228583205939,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 1,
-    "target_mean_price": 91.17363
+    "target_mean_price": 92.65785
   },
+  "news_sentiment": {
+    "summary": "La tendance récente des prix de KB Financial Group (KB) est à la hausse, avec des signaux positifs tels que des gaps à la hausse sur le marché. Cependant, la publication des résultats de KB Home a déçu les investisseurs, signalant des ventes \"muettes\" et entraînant une baisse des actions. L'augmentation significative de l'intérêt court sur KB Financial Group peut indiquer une pression à la baisse. Malgré cela, des investisseurs institutionnels tels que Trinity Street Asset Management et Deutsche Bank AG ont récemment augmenté leurs positions sur KB Financial Group, suggérant une confiance persistante dans l'entreprise.",
+    "sentiment_score": -0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Recent Price Trend in KB Financial (KB) is Your Friend, Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWRkZG1pcWZ5OGR0WW5fZDNZNkZycl8tdkhtZjd3Q1pmYzI2TlpxM2plTFpGTl9WbXhUdTFZdGtsRGN2VXVWMlZGUmxUZFlSQ002ZUptVTdFZDZtLVM0WHgyQUxIcUxsMUNlWm5Nd190TTlSVDRMWGNicjQzUGlVVE52OA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KB Financial Group (NYSE:KB) Shares Gap Up - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaEpJYlhuTkNmXzBwcDVzUkxYR3F1dW9Ncnp5R1djUGNuYng5MVkxWFlYeWlwY09FSEFuUHA2MTdGT2NTOGVvOFdwQjEtbGEzdmJ3RmRFSWw3bDRzWEFHNFV4aVVaTGwwbm83OFJ4amJ6aVRXTTNscW1PdVl1eEQ2b2lLRmJ3bHBaQl8zTmZIR0hvTzloMmJmZlRMMzRGeWI3SnVUX3JQX2U?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(KB) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmFBUXVfSG0zdTZuTFZCVFNNOVNFMVdzOVVZVk4xYXRjYnZ2QmRuall6S1BIYTNDZ1ZiaWx0eDhlamk2TUN4TS1jVE5lUWdDU29EaFB5VHR3N1JqUjl3U1ZvNEZCaFFtNFJ5NFhXT2JJc1c4Z1dtOHVtX2EtQnhQUlp6NUpGcDUyemlFaEZMSXlpbWY1b1N2UllJYWNDdG8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KB Home Stock Slides After Earnings Miss. Sales Were ‘Muted,’ CEO Says. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oejJFRTFibDRGRF9rZmphOXR2S1M4MmwteXFjMjc1UWFYSnNhUm9ndkZpdnRsakV3WGxSRjRuamNVYkk4aGVBY3VvYXVaYjhqRGFXek9qbUEzTXh4NVoyRHc1aVpkTXVhdm1QN19aNUtlc1E3eDhmaDB3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "KB Home (KBH) Laps the Stock Market: Here's Why - MSN",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXVWNlEwcWdBYkFrbF9BSFZ2MG9ZR1VwbUlPcGI4ZHJyRVNSTThCcmtJN09GUnpYU28ySW53NjNFOTRsZW1ic0VjdDdFVkF1WWJwcFV3XzVLU2tzR3RBcVhVdTBWeTVsS0pUQy1yUWhJU184bVBLQk5OUTVWbGJ0dXRzNGFJSlNMRGxaS0dzeEFfRzN4UWp3bXZXOTBRdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Value Investors Buy KB Financial Group (KB) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVlWdllKd0JyZ2pZSUhaOFFmd1JDVlRqSldob1ludTA2Z0pZVjNOWTAzVmk4UUZPYlZjb3h3LWFRTktYU3Y4X0xEYXZYQmZISGFla2tQM0JRZnk1TXJXSFI0ak9URkh6dmtqLTVDWjJJNG4wWkxlcHEwaWpuWW9oSVBCUE8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KB Financial Group (NYSE:KB) Shares Gap Down - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1JISGJhVU52WTNvNGFQV25HWVU1YXdKTjB0d0dLSkdoRzkxNmhiRjg3eGpSZjZfUHktNWlpYUJjRlpnVHBlY0syckc2Vk1FYWZDVmx0RmlaUHVxYnp3RGhFZURHckQxeFk2bGdnLUFzU2JkZko1QnBibnd4VE5UdUJ5Uy04YlZtZVRpZGkyc3RBUkJHbkNxaVpWd0VEZDYwWnlvRHdndUhMdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KB Financial Group Inc. (NYSE:KB) Sees Significant Increase in Short Interest - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaVZ2TFpXdEs0U0luZ24tcXk3RVF4NVpfN2RZNmc2cHpJNVRzd1VJZTZ3X3NDQ1prMXBSY3VMZWh4V091bFctU0lpSVdCZ3MtTXFhVEFxb3hvXzJPUjJMeFNkVmdrRHIxc3dQNDZhcG9tbkhyei1FM0ViRnlKOGhQZV9ZMFdnOXYzT0RWeV9NaXFlWFZlM2dSR1YyaDlmN0ducVdTRkRpcE5tS0NObmVNYjc1UXFVUERiM3V4Umt3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "KB vs. NU: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZY3A4RkVlUktsWEhVOV9KVWFTRFVmcS04QUJCQW9Ta1JYRFVTb3BtYUxzdjl5SEI1V1dndjRpeHdzcEZKcThnRVJudW1VbXVwY1o4UjRYSTNVOHJ1bzh5NlFuTjd3b2NRc0FrbV9LS0lYTXI3eWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trinity Street Asset Management LLP Has $17.88 Million Stock Holdings in KB Financial Group Inc. (NYSE:KB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSHRDenRkbVlyLU5fbUJGWXh1c3phbE1idUVoWTU5WE5IS0NfNXhESlJIOS0tbTJjSWU1d3JaN3ZXQUlkNlZFTmRSU1BZWVd2U3M3RlVnS3BXYk9kYVgzcTVFR3ZGZThtTHJtTDBSU3lVNm9ULVgzOFAyelNxTnZfcjVDT0VoekVBaVpUTDQxdU5tbGtNdjdiSW96MldBSS1MVVFaeXUzTlZjRk0yZTFwMUlYdVAyWkhIdU5HMHNMWEZXcm5ORWFJZzZlaElSdGI3dXFHdGtoc3R3N0dTUG9HOF80aDlvTEtkMlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KB Home (KBH) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OTktteXNwVE5uRHcyTGxBMFQ0TE9kMXBHWWJDbmJrblVXM2Y3RjBac2F3Xy1WQWxNVWdBeEJ6RXhCYWxFb1VoaVNueWo1RlI1SDFUREoxU0p3YXFMRWJIbVlSaHZHUnVuUzRkcmNYVFlfWEpicktONw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Two Sigma Advisers LP Cuts Position in KB Financial Group Inc. (NYSE:KB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmhBeG02dDlfc2hoNEJHVzl6Yi1hRkhBUDhqb1hUOEJWajdVWmxIbHVNZDdIc01remZTM3l5aHRDdDlqUUNhZlpZMmFMYm5vUVV2T3hKQ1JPQjNkQjBlVWhqTmhrWm9raUR3UzZHZWpGM0puSHBYYnV1RmM0V1NaM3hNbmdPSU02bnl0Vl9pc2gxZ0lqTzZhbzFMTXdsY0FKQW1rUWVCb2pMR25sODI4dzlXc1h3UUtYZGpvaTk5c0ZTUDI1ZFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "KB Home (KBH) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45bmVnMWUzemhSX3pkS185LVo5bFVNeXdzbk1FR3JfVE1hNU8ySExmdmg3Nk1QNXNYTVRDX0NlMXZ2WFJTRER3ZTZOaV80WUUzWkRtQ0RIQnZFenN5TGo4U1prbHhXckxJQlYxRXhTd051djRmU3R4RTBVaHY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Increases Stock Position in KB Financial Group Inc. (NYSE:KB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUnRzeC1CeGMtaHNNYzdpSE1aRHNtYUVScHdkMENmNlhIVEF0Y1VqMzBYdGtQSzNOQ21FOTZYNmlvd2UzNXluczQyOUxCY25DYUMtdDVBdFJrTkFFeE1xNDI3cTUtVHN3YWUxRFVlSHdEcnpZSmc2TDhLYWF3cDByZldOWTBMWjYyNkpORFNmbnVwQ05rX241aUtzSFBMdkkySUIzcXJyejVlWGxhcFNYWGdPWHZQYy1MR2ZIcHdFNHdrMUpPS3FORDN3MjYybUp6U2tobmo3TVVtQ1VIVnlqb0lLWndrYUowcGFZSmJLYw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "KB Financial Group Inc. (NYSE:KB) Shares Sold by Royal Bank of Canada - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkZmR0lGcGI2RjR2WHFST1V4bG5HTjV3OWNobzNXTTNUZE1qa2oyMmtHdUs4ajI5X0tjQk80VGJqY1YyeTlnWnJ1YXhybmJiNXFuYjdMY1NQNi1nQTE5Zkp0T2F3LUxSZFJHVEdveC1OM0lMMVhDSHJYUGhHbzVYQTk2eXJ0MHRTR1Mxcy1fZWhSUFBBMTZ2Z1J6alZ4UE93STBHNldDY2VaSWVIMngzN0xLMzdfNFI5aUFZWkZtMk1qRWJl?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vise Technologies Inc. Has $1.21 Million Stock Position in KB Financial Group Inc. (NYSE:KB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQkJaYTdBQ3RhR1MxaHJ0azNVZ2lid3YzbERmRk8zZ1h1SkRNVmlqMklzTm95Wno5bjRSa2xhYTZzNmREbDJPZVNYVW9RQTdBNF9sRU1fa01oRXNRa043ODEyMnFWSzNSai1MSG13UlBleUJlTGtLYjBfV0ZpdzlrYThxb2tOMV93Y1h5YWxBWDVwS2FqdW8zYXFhZHlCamo2czF2ZWZPamREaTg0WTIxaFVFeExrVElOMjVsOUgzSmlIc0c2dWlwaXZjSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "20,200 Shares in KB Financial Group Inc. (NYSE:KB) Purchased by Deutsche Bank AG - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTjRhMHRUTXp4VGgwZmMwNGRVblFxNXRFc1JrNThad2VfV2hNWGVYdWtTb1Jpd3ZrRmk4eFoyVmFRUWRpWHpWSExxLU1veHotTGNfTGRHekdpRGxYS25rdTFISHZ3UzMtTm9Fdzdfd09ySTVzM2RNM28zT2xaUEh5a1Z3Qkp4THNxcXRFLWFSSlpwTHh0Q3lSelBMY2dMbFdxd3ZYaFljSjZZelh4dXVsUUQ3TGRCNGNFOElmSVlPazI0MTBHOHVRUHc4MVJVTURoWGYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is KB Financial Group (KB) the Best Asian Stock to Invest in According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02ME1PNWVUNUVVTkk3X1dUbHVQNG9pZHdiMVNBdDhkUkFwUFdXSnl6QWQxRU1LLVg0ck92TmFQM2tqUFVEYlA1WmgzYTFHX0pmd3IweTN4a0VDZUJKNGVybENEOVNya1dPdjN1eHZ4MnhsT0pUX3JMLWc4Zkw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Voloridge Investment Management LLC Sells 12,086 Shares of KB Financial Group Inc. (NYSE:KB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLWU3UTVhWWh1QnA1NFprVXlkUDJGTU41bWhGbEY3bHo0ZWhpcWIzNV9jYlJDMTA5WkpuVVByZHc1X0tMMUY0QnNJMHBGdkZoNGMxdDRVVjFfNHVLM0RjLWxTeno2RmZRRzk4U1I0TmMwNU5rbUtmMTV0aE9jWWNlQXZESGNhSHQwTy1TVGNnaWNMR3FIOFNrdGhPaEdVWjdDYk5FNllOR1J4VzlmZksySWRMUlNlZnd5UDQ5eWRzRHlsZ2RJTFppdkVLNVRVS3U3WHEzOGtNTmtJb3VjNXFv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KB Home Stock Sinks as Firm Warns Consumer Concerns Are Reducing Demand - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRnAwTWZZckpnZVlmSGROQjdzbW1HdGdPY3JlYkI2VTE5Vnp4Q2JCendLOU1HaVlZdFhIWlRLbmFzSldaN3lSclVBNzk4MWVMZUZEaDJUNUVQUW5jMHN0LXdLLW5TVGRhT08yNnY4ZC1CZHJHY052eWpkOGNCN3FYeURnZHIyZ2F1OTRvZ2Itck1QS0dULXZ1MEo4eUlFcVFQU1NUMnl0SEMyd1RvNkE?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 68.76
-      },
-      {
-        "date": "2024-12-03",
-        "price": 67.66
-      },
-      {
-        "date": "2024-12-04",
-        "price": 67.28
-      },
-      {
-        "date": "2024-12-05",
-        "price": 60.28
-      },
       {
         "date": "2024-12-06",
         "price": 60.19
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 73.22
+        "price": 73.24
+      },
+      {
+        "date": "2025-06-03",
+        "price": 73.33
+      },
+      {
+        "date": "2025-06-04",
+        "price": 80.14
+      },
+      {
+        "date": "2025-06-05",
+        "price": 78.05
       }
     ],
     "current_price_data": {
-      "price": 73.22,
-      "change": -1.54,
-      "percent_change": -2.06
+      "price": 78.05,
+      "change": -2.13,
+      "percent_change": -2.66
     }
-  },
-  "news_sentiment": {
-    "summary": "KB Home (KBH) stock has been on a downward trend after an earnings miss, with sales being \"muted\" according to the CEO. However, the company's fundamentals look strong, and the market may be wrong about the stock's performance. Meanwhile, KB Financial Group Inc. (NYSE:KB) has been sold by Royal Bank of Canada and has seen a decrease in stock position held by Public Employees Retirement System of Ohio. The company has also joined South Korea's top five in market cap. Vise Technologies Inc. holds a $1.21 million stock position in KB Financial Group Inc., and the company is being compared to NU in terms of value. Overall, the trends suggest a mixed out",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,68 @@
   "ticker": "5631.T",
   "name": "Japan Steel Works",
   "sector": "Industrials",
-  "market_cap": 511401984000.0,
+  "market_cap": 552031944704.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 28.45442,
-    "PB": 2.6467302,
-    "EV_Revenue": 1.908,
+    "PE": 30.76923,
+    "PB": 2.8051987,
+    "EV_Revenue": 2.058,
     "ROE": 0.09715,
     "ProfitMargin": 0.07226,
     "GrossMargin": 0.24539,
-    "DividendYield": 1.28
+    "DividendYield": 1.17,
+    "DebtEquity": 22.31,
+    "CurrentRatio": 1.763,
+    "QuickRatio": 0.858,
+    "FreeCashFlow": -17928624128,
+    "OperatingCashFlow": -4567000064,
+    "FCF_Margin": -0.07213112730670675,
+    "ROA": 0.0373,
+    "PEG": null,
+    "EV_EBITDA": 16.608,
+    "BuybackYield": null,
+    "PriceToFCF": -30.790535891812524
   },
   "technical_indicators": {
-    "RSI_14": 73.5781088535997,
-    "Momentum_10": 19.83442566402208,
-    "MACD": 299.51462692310724,
-    "BB_Percent": 0.9465172571696002,
+    "RSI_14": 75.20474192726242,
+    "Momentum_10": 25.387365911799765,
+    "MACD": 396.29916183241767,
+    "BB_Percent": 0.9286270671516044,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.892524933124936,
+    "ValueScore": 0.8887817105068841,
     "QualityScore": 0.3850481282610402,
-    "SignalScore": 0.3163904726964345
+    "SignalScore": 0.2215007520264081
   },
-  "volatility": 0.041685320819813,
+  "volatility": 0.0415838164358069,
   "beta": 0.455,
-  "return_6m": 0.0609253321117728,
+  "return_6m": 0.1403699186469333,
   "analyst_rating": {
-    "recommendation": "strong_buy",
+    "recommendation": "none",
     "analyst_count": 6,
     "target_mean_price": 7216.6665
   },
+  "news_sentiment": {
+    "summary": "The Japan Steel Works, Ltd. (TSE:5631) rencontre des difficultés dans son activité par rapport au marché, mais ses actions restent stables. Cette situation peut indiquer une sous-évaluation ou une résilience perçue par les investisseurs. Il est crucial de surveiller de près l'évolution des performances opérationnelles de l'entreprise pour évaluer son potentiel de croissance future et l'impact sur le sentiment du marché.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "The Japan Steel Works, Ltd.'s (TSE:5631) Business Is Trailing The Market But Its Shares Aren't - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRzM2SEZSYUc1MkZPSVA4WVFZRXVURllQS3RsRXlObzFnTUdTVkZENEd1N2lBQUlZb1hVeTl2TDQxQWV1M1QxdzIxUExJMjZzNlYtUWRpcVo3U0xhaXA4aXdndXE3VW5RTHlESWNFblhQM1dfMldsQ2JVS2h3T284cUVOMFhhYWIwZEx3VnBHZFhGd2ROTllJV0xndGJHck1DaEpWX3ZMRFJvcVNJQWhzVkNMdVYzVDB3UmhBUmVxOXFxMUNHQWluRTBlb0NzSU81VFVfQmZ3djU5TGhn0gHiAUFVX3lxTFBISC1mS1k0R1JhejE1eEV1c3d4VnhaQWxOdnc5UUNieldIc0g4Sm4tejRnTndzUFl1ektPOTBrZklubS1RNlJidGZpbkZwM0I2OUE3UTBBQjJteG5TMFZOTHBhNjJ3N3E3NVlJQm5YVzN2N1QtRE1ZYm9rRE5OeTRIR181SUE4bk1SWlR0b1N2SHo5T2RuYWpZbVo2THFrZlhmcnE4LXBHOHFUT25YcGlUZTQwNDZDSUNuX01XTmJPODFTdmp1dUp5T01iYTYwbnFSeWZRTXFhbXNTT0hBMkNwcVE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 6549.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 6686.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 6885.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 6512.0
-      },
       {
         "date": "2024-12-06",
         "price": 6232.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 6948.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 7100.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 7500.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 7364.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 7358.0
       }
     ],
     "current_price_data": {
-      "price": 6948.0,
-      "change": 89.0,
-      "percent_change": 1.3
+      "price": 7358.0,
+      "change": -6.0,
+      "percent_change": -0.08
     }
-  },
-  "news_sentiment": {
-    "summary": "Tendances cl\u00e9s :\n\n* Japan Steel Works' (TSE:5631) earnings are expected to remain strong in the near future, but their foundation may be weak.\n* The company's business performance is lagging behind the overall market, but its stock prices are not reflecting this.\n* Investors should be cautious about relying too heavily on the company's earnings as a basis for investment decisions.\n* It is important for investors to closely monitor the company's financial performance and market conditions in order to make informed investment decisions.",
-    "sentiment_score": -0.5,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

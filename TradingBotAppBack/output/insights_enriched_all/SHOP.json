@@ -1,56 +1,164 @@
 {
   "ticker": "SHOP",
-  "name": "Shopify Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 136798896128.0,
+  "market_cap": 135915126784.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 86.54471,
-    "PB": 12.49413,
-    "EV_Revenue": 14.365,
+    "PE": 85.39024,
+    "PB": 12.327464,
+    "EV_Revenue": 13.861,
     "ROE": 0.16145,
     "ProfitMargin": 0.17166,
     "GrossMargin": 0.49941003,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 10.298,
+    "CurrentRatio": 3.706,
+    "QuickRatio": 2.892,
+    "FreeCashFlow": 841500032,
+    "OperatingCashFlow": 1744999936,
+    "FCF_Margin": 0.08972171908402281,
+    "ROA": 0.07078,
+    "PEG": null,
+    "EV_EBITDA": 91.425,
+    "BuybackYield": null,
+    "PriceToFCF": 161.51529603744567
   },
   "technical_indicators": {
-    "RSI_14": 56.686348099347704,
-    "Momentum_10": -3.882621265695542,
-    "MACD": 2.9362245023470877,
-    "BB_Percent": 0.6133174178630166,
+    "RSI_14": 53.9349426168426,
+    "Momentum_10": 2.648552670597535,
+    "MACD": 2.168146703233944,
+    "BB_Percent": 0.4967012537636551,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9054264492430384,
+    "ValueScore": 0.8904496055348914,
     "QualityScore": 0.2792363710371767,
-    "SignalScore": 0.4601160670287157
+    "SignalScore": 0.5171859792253495
   },
-  "volatility": 0.0414933886141749,
+  "volatility": 0.0415507935793018,
   "beta": 2.626,
-  "return_6m": -0.0577978953325164,
+  "return_6m": -0.1126975049231411,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 46,
     "target_mean_price": 114.63783
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente des entreprises cotées, on observe une tendance positive pour les actions de Nvidia, avec une augmentation suite aux discussions Trump-Chine. De plus, l'annonce du nouveau Nintendo Switch 2 a également suscité de l'intérêt chez les investisseurs. Cependant, des incertitudes persistent quant à l'achat de certains titres, tels que CrowdStrike et Tronox, qui sont sujets à des débats sur leur attractivité. Les investisseurs sont également attentifs aux performances de sociétés comme Dollar Tree et Dollar General, qui ont récemment publié des résultats solides. Enfin, des recommandations d'achat sont émises pour des actions comme Amazon et Tesla, tandis que d'autres titres, comme celui d'une société de logiciels, affichent une forte baisse et pourraient représenter une opportunité d'investissement.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "How to buy the Nintendo Switch 2: Current in-stock availability on consoles and games - Engadget",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd3V0b2daRHo0Ny1KODN6b1BqMFZ3TmNSbVR1Uk1zVEc0SmU4bklMZnVNWEd4QllJQXExMUExTjJXRmxRMm5keGFNUWJTamNvNjZqS2ZWYWxGSHBta0RKUk1MaHdKWVZiUU56d1J5aHFNYVY1VUlLZzNZc2lnVmNJTDk3LXZkLVB6VFd4YXF4Y0VmMW0tcEJkSWxrcjFPOS00MHpPSnhNSkZ0OXF4QUx5eDkteHE0ZV95REowb3JNdjVkdXE3ZUdXTGh2M2syaUZGQWNNN0M1Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia Breaks Out Amid Trump-China Talk; Is Nvidia A Buy Or Sell Now? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9weXMxT0E4LWxzVWtpX0pEamxBSkN3Z2paR3RFOW5LbndrZFgxaUNESWZGWFVXQ1VBcS1OTEdIZ2VqSUpZODZtV0YtRzR0TlJzc0NVcVRtWDdoQzNlclB3T1Vkc04zNFIwUkpQanhMVUtqX2ZY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SHOP Surges 34% in a Month: Should You Buy the Stock Now or Wait? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Dc1lHR3dMaFB5ZUFxdXJmVWI4OHA1aW5BdU43d1ZLaGpHaE95SlVkY3h1NVhzYlB4RGF2eGpNSHI3ZnhZSGVwUHc1eUx1NTREXy10R3BMM092clkybExWUXVHdC1rQUhuMi1lc3JWT0V6SDZhOXpNQ2Rn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Near a New All-Time High, Is Nvidia Stock Still a Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2psWDdGanhOTVVtckZtcmNHbGlKbHZIWk5CMU9zVFRaZ1NlRk1mNnV2Q1d0RmZlRzhZbks1ODRIQ2dFQ0tjSW5mVDdSeWxWbnRrT2VTUzlrY2V4elpwWWg2ekc1eVZ6YlJNUWpPMHdVcFFTMkU2SjJBTXpkTDZNZjJIWTFIeVN4bkdhQ3ZkZ2VpTVhPUUV3Xw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The new Nintendo Switch 2 is still available at Sam's Club: Join now to shop 🎮 - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUdodzR0T1ZSQjRFUjF3cDhRcFZHSXRSNHM5QVl1ZVVTY19FMGlTS1I4blZ4R2pYNzRqaUZqc2FRcHRTRGdwTkRtWW5TQjRZcGUtY0pNclRacnBueGpQeWJvYnhYSk5wMUI2TERia1dYVXA3RnJ5a192UTNRQy1WQ2RYanplWjZuRE1nZU5rLVJZMERNUG80bjQ0RHhVUzY2X0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy HPE Stock At $18? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjVKazF4OGdhSm9KaTVDdGJsMWNadks0d2dXZ185YmltTk51ZTM1WEVxT2ZmVnpEZngyS3lZTUx5eGwwTDhmeGVaYW5wT2xmTDYyVHBjOW85X2lFOGVnbll6cDcyZWhJbnZzb1ZSTTRlWnRoUDlBVm1pQ3NsYmZ0anh0a1Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy CrowdStrike Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN01vYnJwblFIdHJLdG9NMHdwUEFlYkhVRlNHR2l3X2VsZmlWMk1wTms4a0ozVk9uaXVUejY0SDRYcW1SSzZpakIwclNvTFpuOHZXSHJvSURKMUM2NnNsN0NvWHJqeWItb1plUXZLUzdXWU5yRHN6R0VVSHl0dmNqaWFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Best Dollar Store Stock to Buy: Dollar Tree or Dollar General? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORk9lSlVpT2cwSHVJVWxvZHBURmVBNGtOZlZ4cldyTkVITkQyRW5ZR0c3am1TMzhUMkhnaXRlbFRYSXBmWEFaQy1WbWZxM29FSC1feEhxZlZrSE85TGxXUzhJYmtIeFl4V2pPWFZXMkd4SHMzMWVCSkNVMFpEMjc3aldSWU5hXzE5TEl0X0RYZFVuSWRNaXlqb2lzYjdpeXpQbmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dollar Stores Dole Out Earnings Beats, Lifted Outlooks. Two Jump. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSG55LW5vS1JiQjUxT3ZCaW5nR3ZablI5c1c3b2ZUYWFCSUJGYk1YTV9fLURDTU8xb2phR2tzZ09vR0Myb093U1pMa2hraDNRUU5DTDR3RE1zN0pWWjBBSXRPQzg4TGhFZ2pYNnN5eUpOUjdnbUVqdVJlcDdUMk5yMHZXcUYzNUxaNV9wZ0t3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Better Buy: SoundHound AI or Palantir Technologies Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUR5U2hkbHRKdXBGcFNOUjFicnQ4STJ3NGNscy1WRjB4UmNNQ3F2dmpGUG56ZExJSHhOQ082ZzctWUt4Tm91OXB3bkNmVWw3RHZpcDQyeHFDM1BKUHR4TmcxZ2hLdWRGQnBOaS1hNTAzOVNFcDJsRVpyc3ZSX29wUDRTQTZFVGJ3cEtyQVVEMVBmWUhFdndn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Best Warren Buffett Stocks to Buy With $2,000 Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFVYal9hVHBRZmFrSEtNM3h6M096VWliRUMzVHhselBWVFEySGp4Sy1QYzZCTXNaRmVxM1ZTZlFyNU1hX2FYQlJ3QjZ6dnVBWi1pb2hnVnMxY2Z6UkxZM0dRdGRKRmthWk1qS2RPdC1rbU9pOEFUR3Q2dlFQbEdJejl3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Time To Buy AMZN Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1E3eGVQcG9ZZ0g3Vy0wenFFaHhRa2JwemFHWVRULXdWUVhKOXJZSW9pOEFRYVZxbkF4N0EtZ1BQcVR5RmU3N2piNnBpS09Ra2hHNkxWaVc4Wl83cHYwR0ppOW9QZ01Nc29ORXRvYnZnalpiZnFwVW5Ib1QxQkJIV0x2bXNVSTdq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy Tesla Stock Before June 12? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjYyWWtFS0VSOC1vaHoxSlBNVWdpXzJGd29IQU5aRFpvbzFvdUNGSFRMX2JDN1dpNTQ2bXh4STlqdUJGS0UxTVNmc0JncjBlZ0JXSHJDdnFMc0JIVk5sNzJEbmt5SklSazFVak9VZjVjUm5FdGljMkpodWFvV3N3V0Fzam9sMmhiR0hSbQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy Or Fear Tronox Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSldHLThFSzFucmVtbnZhemh4U1hQU0V0V1hvd0NSRFY2RS1tT0h5YlVWR29nWHhFc1hSUU5GWHpxM1FfYUIxU1BvcV9uU1Y1aWlFZkJNVE9XZjI3N1ZOaUNBbGphdC1WcXFjcDlTQnVIZlZWczUzU0F0OHBhaVZVVkE3OGJFZFhfWm1J?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "My 3 Favorite Stocks to Buy Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDFIQzV1WGhzRTFkOTdHdHEydUZyYkFSN0J0NURmTElrbzdwV1BCU0R3T05kbGpITzFQdjV5SlVoNVgzSlhEZ0M1RVhkaFpTRmJCSEVGLUFCQWlOdk45Nzc3VkxSRnVPWXlhNjBZRkNKUzdwT2F4MWZHNlJBTEJiVTZ6TkFoV1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Netflix Stock a Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNTDdLVDYyMzJ5ejBob3ZKMEktVE1pU1BzRXhuZDZBcnVickdJZFVnbHFCMy0yZnpTNGFNXy1EZ1ZoS21McGZWRG5CT0o2V3VQY2wtN2NGZ29SVmZUYzEzZVZpTDRIaTF1SGotMmw2NHlfMzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Apple Stock a Bad-News Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40QUIyLUh4OXJUQ1oxTXFuSUlvamRxajJ5MjBTZW5qVUpfS01jTG9OX21KYThVOVVxRXd2VjNGVUFTOHd0TkdURWxnakk1SVVEcFR0SG43UWE1OXo0dXdCdDNNNkJUbHVUTHZSX2VDSmRGeWtn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "10 AI Stocks I'd Buy Without Hesitation - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHVpVHBVSk5zeVNGc1hVdTZtSDQxaExqeDF0UVUxQVhqZm5Fb2VCeTJMMy1KN3RoRzhBTG92YUZQWm8wQjRkbUdKdW9vTTdZWjR0VmZ6V1BWeU5xdUlFTHFrdEVsMU9wQVhPbEYtRFlRemVCbWJINVJkNWNUVnZXSGM3RnAxQ3Ja?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Dividend Growth Stock Down 61% to Buy Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVU1eUJSYU1neWZxRGZ3NTkzcHZkdUNuQmtpZ0EzQ1BiUlVaTmpaalZHN25wbFpSY09kVjlRMDg3b0Jqalo5QXVPNUJJRGJLZmRrOWtOTWM5QmluajV0dGRNaldNNlg1V0hLNHlXeklvWFo0XzZMbGdBVk5PY0VwWmhUSkN5d2tCVTNCb1dZWVRWSGs0YUE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Down 87%, Is It Time to Buy This Super Software Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeE1iRE1ZaE5tNW9LT0ZNRHFab0RNQi1BejBIQUJ6a3NseTB4MDBlam1QNnRrRTh3SExMa05Kbk1ST1N4d083aGZZU291Y2R5ZWdqRzRXbzlIa0xLVVF5cEswQnM5OHM4NHVTaEZBUmY1ODNzOWNoYVdnODFnTjJFZlVCS1JQLU9kb3hTUnNhXzBHeEZFQUE?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 112.98
-      },
-      {
-        "date": "2024-12-03",
-        "price": 111.86
-      },
-      {
-        "date": "2024-12-04",
-        "price": 113.43
-      },
-      {
-        "date": "2024-12-05",
-        "price": 114.09
-      },
       {
         "date": "2024-12-06",
         "price": 118.37
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 106.58
+        "price": 106.54
+      },
+      {
+        "date": "2025-06-03",
+        "price": 105.11
+      },
+      {
+        "date": "2025-06-04",
+        "price": 103.58
+      },
+      {
+        "date": "2025-06-05",
+        "price": 105.03
       }
     ],
     "current_price_data": {
-      "price": 106.58,
-      "change": -0.64,
-      "percent_change": -0.6
+      "price": 105.03,
+      "change": 1.45,
+      "percent_change": 1.4
     }
-  },
-  "news_sentiment": {
-    "summary": "Boeing, Shopify, Palantir and Taiwan Semiconductor stocks are being upgraded to \"buy\" as they show potential for growth, while JPMorgan suggests investing in retailers' stocks despite the risks. Meanwhile, Cramer recommends buying on the dip or going big now with certain stocks. The Motley Fool also suggests buying growth stocks, specifically Palantir and Taiwan Semiconductor, but advises selling the other.",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

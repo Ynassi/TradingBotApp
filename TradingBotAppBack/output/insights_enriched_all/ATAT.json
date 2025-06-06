@@ -1,56 +1,164 @@
 {
   "ticker": "ATAT",
-  "name": "Atour Lifestyle Holdings Limite",
+  "name": NaN,
   "sector": "Consumer Cyclical",
-  "market_cap": 4276856832.0,
+  "market_cap": 4319694336.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 24.563494,
-    "PB": 1.2934097,
-    "EV_Revenue": 1.274,
+    "PE": 24.809525,
+    "PB": 1.3063647,
+    "EV_Revenue": 1.28,
     "ROE": 0.44867,
     "ProfitMargin": 0.16406,
     "GrossMargin": 0.42786,
-    "DividendYield": 1.34
+    "DividendYield": 1.34,
+    "DebtEquity": 53.586,
+    "CurrentRatio": 2.288,
+    "QuickRatio": 2.09,
+    "FreeCashFlow": 1220349824,
+    "OperatingCashFlow": 1584679936,
+    "FCF_Margin": 0.1587869779123489,
+    "ROA": 0.14077,
+    "PEG": null,
+    "EV_EBITDA": 5.739,
+    "BuybackYield": null,
+    "PriceToFCF": 3.5397180800511183
   },
   "technical_indicators": {
-    "RSI_14": 59.49311306479913,
-    "Momentum_10": 4.454949846642857,
-    "MACD": 1.4060298485277087,
-    "BB_Percent": 0.6418353886703716,
+    "RSI_14": 62.786733588037336,
+    "Momentum_10": 4.986849453434612,
+    "MACD": 1.2784687750034252,
+    "BB_Percent": 0.705632691566395,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9322852655052212,
+    "ValueScore": 0.928493440913006,
     "QualityScore": 0.4828914294741649,
-    "SignalScore": 0.3969498712828003
+    "SignalScore": 0.4581416412164647
   },
-  "volatility": 0.0314261198506367,
+  "volatility": 0.0313916572344471,
   "beta": 0.6,
-  "return_6m": 0.2276875004728651,
+  "return_6m": 0.1961129860081158,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 14,
-    "target_mean_price": 38.35302
+    "target_mean_price": 38.48185
   },
+  "news_sentiment": {
+    "summary": "Atour Lifestyle Holdings Limited (NASDAQ: ATAT) a récemment suscité l'intérêt d'investisseurs institutionnels tels que Public Employees Retirement System of Ohio, Deutsche Bank AG, Wellington Management Group LLP et d'autres, avec des mouvements significatifs d'achats et de ventes d'actions. Malgré une plongée de 27%, l'entreprise a lancé un important programme de rachat d'actions et de dividendes, tandis que son action a récemment été déclassée en \"Hold\" par Wall Street Zen. Les résultats solides du premier trimestre ont permis à l'action de rebondir, avec des analystes de Citigroup émettant une recommandation \"Achat\". Ces événements récents indiquent une période volatile pour ATAT, avec des investisseurs réagissant aux nouvelles et aux performances financières de l'entreprise.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Public Employees Retirement System of Ohio Purchases 43,634 Shares of Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeHJrQlhkM3U3YWg3N1VQeE5pdXZ4NU1iWEFhbUVrbUE5bkpXU1V4Rkhiekp1dHhWbllGaF9OZEY2TzZIR1FhMTRpQVhEdzh6T3pjZUhLR09NNE5hQ0FZbDI5STUyejJpcE5iUVpYWFM0ZW4xZUZlN1JVdlRBVVNoRnJCTmdGT28xOHVVSi1RMkJ3T1Z4Tmd5ckZpRUlvaTdJc054aWpIT0NLVEtJQUlpNGxpOVB2WVNsVVpYR1VYeC14eEkwR0k1Uncyb0otSVpRMFVaMmdWRkFGb3hQWXE0VFZzTmFjRmI4ZHdUV3BoZ29VamlsT3RZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "China Hotel Stock Tries To Claw Back To A Buy Point - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVU9ScWg1T0s5eUlCc0puWFo3NGljWHZhQWtLRHRTdHpDMWV2NkZ2STJGZ2hGRTE2S0JwbFVxaDhMQ1pDU1c5ZzVxTFp2ZHRtbkk3TGVHWDMxaFRiSHcyRndxN0pLTDZSRi1HS0IzbW9RWGg3SWdpcEtrVjNhYmtYM0xGWTFCTEItYVFneFdrNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Sells 23,000 Shares of Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRmFrVzJpV3FKZ0tteEZwQjR2Q1hfd05TVGNCSVFTMFJTWF9EYnU3T0pjbmJseU1ONHREWWhRQ0l2LVJjd1NUMGhiS3FzbzRuWlJKbFllRGI3aW1KWkE1SVZETjhUWkhXeUdLdzNrbV9nRGFnWndVZUdrX3lYTUFlcWIzd3Z4QUJadVp4ZEIyRE5xN2NEYWhIZ05mYjNiMzEyUWhTdEpGS3NKYkFBVzFYZ3M5ZUNBb3I2UWktMkZpZzFuTUFtQ0pzY2tGM2Z1ekQzcTcwVUZWQ0E1WlFoek4wV2FR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chinese Hotel Giant Atour Launches Massive $400M Buyback Plus New Dividend Program - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW04bWVBanRMMjVublUxNHQ0bVhvckc2SVhtRXlxdWNIOGJIeHhYUW43ekctSkVCdHZUMGZTdjZjNXhPWFE0NHZ6eHByMlNVTzBrdXZFa3NfR2tUdmJxcHNtR0tyejJRRTlVV2RaVzB5cXNJYXR0SE1LS1VDSV9acEpXX0xmS3VaREpXV2FWbnRFYXRENWVjdjNUZEpuTDN2alA0QXR2ZVpiXzdlYmhDTm4zZnphanc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Atour Lifestyle Holdings Limited Sponsored ADR (ATAT) Stock Outpacing Its Consumer Discretionary Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3d5XzluYUJEU0pkb1R3NDJ3akYxVmNpRTRBYmNqVnFac1JPbUxnQVlEeTROQld1aTBMVWdGNTlUdmc0R3UzTEZCOU1HSzE3RDlwYll4YS1ySXJmcUZ6Wl9fM0hITzhVaWYtcXFPcGpyeHF1S09sRkdKY01ReUZOUzBXODZuVUtjNm5CSmppdHRGQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Not Many Are Piling Into Atour Lifestyle Holdings Limited (NASDAQ:ATAT) Stock Yet As It Plummets 27% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSGZGZ0g5d2tDdGpIUTNhVEJhTmx4aGVtY3hkN0JMUmpWWElFZ2VINVl6SFFSdFRzU01Tc1ZnOU9OamxhbW1qLUNqY19Tdl9pMU5CVkVoVzdxZHFqeFpldUVNUVdzZFVNU0tWTHoyRGxIU0lmdmhGTGRZSzVUbFA4WmdMTU5sNkV6RF8xUHFsX2dxNEg1d3RmWUZnN0JrQ1hwcjlDWEhEVUNudGdmNDY2SVJUVW9oUlp3QjRDTDN4ZXA1dF9GeEkwNGx3LUhDT2lQZC1ndHZYWWk1MVBZSzBDSUltdGk4OGvSAewBQVVfeXFMT2hyOFVmV3NBeDFBWTdyeEtzcXo5Y0FQTFNkalZOZVFQUm8xSDkwcmw3ak1GSTItdXIyRE1iR1Z1MklpMDc0RHBmZkluMVU3YXFOMnBmZHpRYkRBbnZSN1JFXzlZUHF5bk9mS0ZrRkFXZkYwN3QxZmFuMU5vZzJqTHllYUJ5MkRfb2JMaUE4a01IUFdLQkdWczBGb0p3WDdkZGFUSHZuNFFmT3NZQ1RTOUNhN0xLVllFODY3VXRTUTA5RmJ5NTh4NVo2WWhGRlFuNWI0OVowYzFNNFpMZFhBYkdFYjNwbzdMTE9EZTA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Atour Lifestyle to Post Q1 Earnings: What's in Store for the Stock? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORXRSVFJNWVJSeFFJZE8wSE42OE5VYUlSczM1UUtBcGJQR3FJOTNmejZncGY3OXpqMmhBME9YNzlacE1fUzR3UnRteE5vZHRkX3Z5amhsVS16VGI3eGdVVUIxSnBuOXN3ZndYd1pfZWhNRS1OcFhPY3FIMmNURmpKMktPdWpSdmc1NEl3cC1rd2VybnFGems0SWVxaVhGRjdkamN5OE5GNTBVeXlfcWkyNlJ5N0RGWWxrRjBLaWZwR09idTRvNHZ2bE5hdGNKYVJuVnk5M1o1c2l4V1VrNTNpQXk4R2szdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank AG Makes New $235,000 Investment in Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQURCMjVOUlVUQkhWdVkwTGM0bmVGLVdENDBDV2xaaUlxanQ0b1I0WHdHcnBwandQV0dwektIVmI2ODFPSGhIYkQybWpodjdNaTVtZGNZVjZTV3VNRGhmZU95cmMwaldjZWw0OGxoN1c0ekROYXRPNTNjZHlfTHBmcTBUM19QQmlXeWd6RlJvdDdkOEdvWjFfWHpZbjctNERvdHlCTURjLUJlN1JhSWY3Mno3WjFOLU9PTmsxTHgwNFA5aVFHTmZSSGxPTEk2UW9TRTNzRDN6dU1iamNWTGpJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atour Lifestyle to Post Q1 Earnings: What's in Store for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM182Y1BjOGVxR2swLWdIdWRtWkJzenQxMEx1THB5NVpDcDA4MlV4QlFyVHg4S1k4RmM3eTFWOEo1RlpBb3MzZWx1cW1GbjZsalg3T3prOVNwZ3VwVzZXb0dxZEZ0NHY1WWVRNER0WHNQQU9sZVlzLTdnZ3F6aUtqdG5GU1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "China Hotel Stock Breaks Out Past Latest Buy Point After Strong Q1 Results - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1VxTjVadFA2aE5qQ1N6Um1vdGlCMkZ1eUp4Nk1ETERCYjR2WFNDdXdrXzVBdjhGZHJxR2otZF9FcUxXNGFLWjdDTWM5b0tJVW9OMnNab1J6MmRRRXF4TXExZHJLaFhCTmtHMDBGMW9ZSkN4cG5ZQ1hnUkpsYXhJMzdXYUotTHNaNGJRS3hfeHVZcExYeFcxNEFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wellington Management Group LLP Increases Stock Position in Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZURlTTFaUzEyVTBpQlRBVGJKcmlZT0J2NzhNVjBHVW1ybFMxNGVGUUYyVEdCN0NTZTIzR3lGeGhKSXRKSTdFSlJETDNOMDIyRWhOTWdSNGhrUTRkTWZ2bUxmc2hURzJabDBVaVRtY0c1MTZTOWRPbzVVbnI5QkttakhjREtSREVlR2l4b3Y1d0h0c2NhVVhCZWQyVTI2MlJ1SXBEUlpUSFl4M2M5MG5RNGZEMzdnYWJZS19NZlVPNVN3dHNQbXdpaW03Q2prSVFKTER6U09ScS1iZUdUNEg3aXo3OE5mbzlyZ0RJZXJseFBhUG1u?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Two Sigma Investments LP Reduces Position in Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPazItbEpRUncya1VTa1R0aDJYcTRhaHlQb3JsVHExQ014RDZMb1l4Qk9lOVRwNzhqZDZDeVRvMGZFN3p0M00yZUFnWE1zZ3VHSmwteDhBUnp1MFVubkZXLUZVWHdTUk42TVlxSWR3NkZPU2JvZ3FZTmN1MGgxSFdCSWhxaTh2ak1ST0NEejBxbWlZTWRhNm1HS3FRN3lFNVVEYkt5OVdEVE14cWZqemZ5cjZCc1ZaQnBvV294VDg2LU5YTmxLdHRaSmFLNThPbTB2OU01RmdsTEM3NmVxamdsRXFSaEhqX01GS29wWG9ES0h5OWZfYnc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Atour Lifestyle (NASDAQ:ATAT) Downgraded to Hold Rating by Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbm9PRzRzbF9XVjlFTW1pNTNxUEhkLW1vbVY2WnNXbVdCYU1oSVp2NGUzZkc3X1c2ZnNkQjk2Z1R5bzNJYVcxVjB5MVByNjNOcm5SMmptSktYMU1VZGFxSjVSQVN5ZW1LODhqSHptc2NjdjZrQkdrY1h2VkpGSXFuM0F3V09tNkVzYW9iMDhnbEhLX0VBODg5S1ZoY0dCZWFvUFBIdmpwSFZKV0VBMVRZdmpNVnZldw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Nuveen Asset Management LLC Buys 43,300 Shares of Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUkNzVVVsQ3h6M2ROXzIwVDJkQmlJS0JkMHhOMllIRklOdU8zcTVLcW9MOHMzblpxamdmLVNWS2FsQmUtQTFZUzJaMHF0YnVwbTdqRWVmWGsxTDBqQkl5dG90Mms5X2NyVzZtYkpMU1pObTZ1VXpCT1JVRHN4QkxTM3dyX1NXdU9kQV9qREVNbmE4alNCX3pVeWlVUEUwTXJFOUdrSTJMcjltSWI1a1JmbjhrMTN0LW9FT1pnM0N4RTRlWkNhWnZjVUhZUVRzaXljSlA5RXE0VkR1X2dnUUNWZjBGZ2Ytd01IZ2ZHdWx3WQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atour Lifestyle (NASDAQ:ATAT) Shares Down 2.5% - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzRzRExuWnBGSG1sZWpEWnhORUZUcVhPZ0c2eWxLTGZFNHd1M2pQSDVlNkpuZU52bFI5TXJ6YlRLMXdKVFQwOUh0VnZjSldoa3VLZ3d2aHZ0Vng3YW5kclY1MFB3NjRzNzFyblVVMjJYenFVWS1tUHVQQ2dvcUZ6NjB0ZlRYRG1vSENyZDl0NHUwSFFzSnZWM09GMzZrM3VuSFFqeDZ6ejNwZTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Squarepoint Ops LLC Acquires New Holdings in Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc1ZzczA0NFczblE4U0M2Z2VGcUNKNTBKOC0weWs4MEo4dm1CWW1PQnA5UUg4Ukt3XzhzQXVmaHdyeW02OGVETlNQNWNvaHVWbmhNYzhWQVRORUc2RkptQzhHS0s4Rzd3Y3FHMVdDMk1ycTE0WlRtelNvVFRtbk5TS3RqczVGVzdmS0NrVmJNTGZWSUg3WS1CNU1xTzB5UjlLTWlkd1R0NjF3Y1JmV3FYNDM5RlRzTkFDWS1mckpmUThCVUxLREhQYmFfUUo2YTh3NmpSWlhzYnlDRlhVLUhfUDJMUjI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mackenzie Financial Corp Makes New $5.67 Million Investment in Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX1VQSmZsNTJxNnJLdk5MZHJGLVE4cld1VDBWM3gwQllySDVuR0NpWE9KYkZWajcybnpEUk9XTDZBTzNVLTRSbVlTVHVwMEJvaG1OYkY3dkh1TjdaaTRDRlBybkZOWHhFLUVMd2tYTEt5MVJDRFJOcUtzSWVaQzR2dnRCVXR5TlVfcmxTNF9FWVhJSXp2SHRsclRIeXZMU3dETmhzQ2RwY1F3czM0TGhTNS03NjdNb0RtSE01TlkzeF9JYnlPSWpwdWFKT2pWUDJ1TzJycEFJX2pVU21CZTZoRHJvR3Z4SVZ5Qm1R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sylebra Capital LLC Raises Holdings in Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNam0xLVFrOGVwMnVhRWVtV3RlSkpoeGg5LUg1M2xIeWVBM2Z2OHFWR3hzQng4WVc5dmhyUUItb2NFYnEwQ1JYcHgzM3RXczhYYWpyMG5Ibjh3eVd0cWJrM05hNGE3UHVNWjQ0cFNoeEJpNy0xVE9wMjl0OE1BUjVGcC1rOGtGNXVyMzZBQ2h2Xzg3WXduNVhRNUFiTzgtTkFUQzZHNkJIVDJlMlppTEl3WE5fRFdjYlMzbWgwejlsUDJwYWMxSFEzVFBLSU1nLWJNYUxPU1ZaSjlual9MY1k4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Northern Trust Corp Has $2.03 Million Stock Holdings in Atour Lifestyle Holdings Limited (NASDAQ:ATAT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeW9faEt6QXZYV2dTazVURFBZd1h4UUdZTk9iRkxiVGlvVEw3R3NadzhzdWdkRzBhTlhNUWFpdU1MVUFTWV9RVm5YcVVlM1JGY3BvRWtrdUNOT0N3YWJmY1VIa2J0dE9TUmZVZzR5cERZal8tN0s2a3phT2dsNXBUc08ydkd6RzBRaktjRHZPNENVN0FieVJXeGtDRGZZWXBrR25wVk05V3Y0Y3JVNHF3bTZSaTlVQW1RNnp5TTNkUFlXdFZiY0JROUNoeFdvTGZNOWFua3FhbjgyMlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Atour Lifestyle (NASDAQ:ATAT) Earns Buy Rating from Citigroup - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaGpOZnRKcmg3SmpIMlo3NmdOeTdoU0hnZXBCaUZVbkkzbW84cmtjWGJsZHhlcHVleUtFMjNKMkZfNGFqLVNYaUFPNlBlVmtTOURpbFlaZzlzQ3hXbDNsSV82OTFwS212UDdZZFh0Z2FEaEREZUpHV1NHR3diNVh2TU9jTnRWanl3Ym8xeW0zcFRTN1BEXzRBa28tNTZGelI1UDJZTWFlTUo3aFNfTng1MEVOWTZ6UXVQelBIS1hMYld2MnQwakI3TDVvUQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 25.21
-      },
-      {
-        "date": "2024-12-03",
-        "price": 25.96
-      },
-      {
-        "date": "2024-12-04",
-        "price": 26.55
-      },
-      {
-        "date": "2024-12-05",
-        "price": 26.29
-      },
       {
         "date": "2024-12-06",
         "price": 26.49
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 30.81
+        "price": 30.83
+      },
+      {
+        "date": "2025-06-03",
+        "price": 30.9
+      },
+      {
+        "date": "2025-06-04",
+        "price": 31.43
+      },
+      {
+        "date": "2025-06-05",
+        "price": 31.26
       }
     ],
     "current_price_data": {
-      "price": 30.81,
-      "change": -0.08,
-      "percent_change": -0.26
+      "price": 31.26,
+      "change": -0.17,
+      "percent_change": -0.54
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques concernant Atour Lifestyle Holdings Limited (ATAT) nous indiquent que le stock s'est retrouv\u00e9 en baisse de 27% sur le march\u00e9. La soci\u00e9t\u00e9 chinoise a cependant lanc\u00e9 une offensive de 400 millions de dollars avec un programme de dividende et a atteint un nouveau point d'achat. Des experts ont signal\u00e9 que l'options march\u00e9 pr\u00e9voyait un pic du stock ATAT. Deutsche Bank a pris une position dans le stock, tandis que Wall Street Zen a downgrad\u00e9 ATAT \u00e0 \"Hold\". Citigroup a \u00e9mis un rating de \"Buy\" sur le stock",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "KO",
   "name": "Coca-Cola Company (The)",
   "sector": "Consumer Staples",
-  "market_cap": 309025046528.0,
+  "market_cap": 305710759936.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 28.833332,
-    "PB": 11.792871,
-    "EV_Revenue": 7.423,
+    "PE": 28.524097,
+    "PB": 11.666393,
+    "EV_Revenue": 7.356,
     "ROE": 0.38776,
     "ProfitMargin": 0.22999,
     "GrossMargin": 0.61075,
-    "DividendYield": 2.83
+    "DividendYield": 2.86,
+    "DebtEquity": 180.05,
+    "CurrentRatio": 1.1,
+    "QuickRatio": 0.751,
+    "FreeCashFlow": 4730375168,
+    "OperatingCashFlow": 1075000064,
+    "FCF_Margin": 0.10088238706037883,
+    "ROA": 0.088929996,
+    "PEG": null,
+    "EV_EBITDA": 22.416,
+    "BuybackYield": null,
+    "PriceToFCF": 64.52253541341099
   },
   "technical_indicators": {
-    "RSI_14": 52.88460643163301,
-    "Momentum_10": -0.2451366848415798,
-    "MACD": 0.1416780518470517,
-    "BB_Percent": 0.6436971166760997,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 47.02717300315281,
+    "Momentum_10": -1.2456460154119082,
+    "MACD": 0.0398843031380096,
+    "BB_Percent": 0.4420767939628164,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8716067939104192,
+    "ValueScore": 0.8687994464582376,
     "QualityScore": 0.4734457144214766,
-    "SignalScore": 0.6062293360151467
+    "SignalScore": 0.6189265644076789
   },
-  "volatility": 0.0126393820248027,
+  "volatility": 0.0125061360162106,
   "beta": 0.464,
-  "return_6m": 0.1362892410463003,
+  "return_6m": 0.1371445403738154,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 25,
-    "target_mean_price": 77.6684
+    "target_mean_price": 77.7884
   },
+  "news_sentiment": {
+    "summary": "La tendance clé de Coca-Cola (KO) ces derniers temps est mixte. Alors que la société est confrontée à des problèmes tels qu'une action collective et des baisses de cours, elle attire toujours l'attention des investisseurs institutionnels et reste une favorite de Berkshire Hathaway. Malgré ces défis, les analystes de Wall Street semblent optimistes quant à son potentiel d'investissement, en particulier avec le lancement de Fizzion, un nouvel outil basé sur l'IA visant à stimuler la créativité. Cela soulève des questions sur la capacité de Coca-Cola à regagner des parts de marché et à rester compétitive face à des concurrents comme Celsius.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Coca-Cola (KO) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EQlFYUVJKWG10SkJReTFucW85b0pXal82MlNHdC1fS1RmZHlhQUZHLUxtcWtBdGxZbVh4UnpHajdRVFJXcGVwSjFlTVNobW5Cb2k2bzdlTzRRMVlEYVlsYkhmOUU2ZXFzU0tmV2xaZnBBaENZdjJvVA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Will Greenpeace Protests Affect Coca-Cola Stock (KO)? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkdDbGpkV1VjN1cwYjBMNXlvMTdZa1FkeUsxVWNkbk9wRjNiUzBmdVRqNVp4Q0pEN1pSaUpaTGREby1od3k1d2Joa05XTGJGMjdVMEtWd04xeC1uY3MzbFV5Z2Zvby1mWVdhR3VVNzlwOHA1d1pFeUJRSkRZNnpjNFl4OGJ4NjA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coca-Cola Stock (KO) Slips on Class-Action Lawsuit - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWUlXTnRXVTViOUZ1MjB5TnlhNjBEeE1Ockx2ejNoaFdGMzVrbFhOeGl1SkYxOERUS2h4SE5veldvSmI4LVdVOVVUOGFvNDZvYWJmOHRyYkZNRmdzNnNMM3lGMHdIVG1rWkxOQlZCSUhzeDRNamdnVVFaQ29vdWliSmFGMW9NUEZXZDYxYWZRS2VYNDlGa2hTREN6eXJLR3dicnlScHZkem5USTJ6ME1US0p0S1VIMUNDTlJqckNB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "4 Reasons to Buy Coca-Cola Stock Like There's No Tomorrow - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUEJGc242N1NHRjZTMWJFeFNlRHVsd1JCUnQweUR4d2JsWkhYMVo1VFN3c2hCRlNHYTRvU0lHWkNWMldSU25PZlpCcDdJVWNXenNhbU9RZUFtRFhoZ0NKS0VoN1I5SG5RQ2M1a1JyS2pkdkpqaWpmczl5ZjZmZVFfMHAyUmhiMG95bzlBUXJFRDhaelFBV2FLTw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coca-Cola (KO) Compared to Mega Cap Consumer Peers | KO Stock Ne - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjZjWHFvVmgtbm5zbnhoT0JURFB6YUVzZHg0SFJvRlNkaEllSG1ybk1XNkloMEJ5Uy1HcTRiX2RVWkxjeXphbmhaWGZxbVNCXzhhX1BBOWpNek1vSzllSV9hNkFaaTlvTDMzOTlPaXBKUnJBd0RwZ1FQbXBnbURxYmNidUM4d0t0YzZkc3dOa0JKVHBScDZxblB6LXd5cVVoWGRENmJheUkxbGljRlk5NnB3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Warren Buffett first bought Coca-Cola stock in 1988—how much a $1,000 investment made then would be worth today - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XSmg0OUVyZkl3eHlRUTZqb0t5amJ2WDdGQ3hVb2JOeUd6TG5Fdk5neDdBZy1GdHM2ZG5MMWhVQ1daa2lRX1VBWDVLSUtudURZcDVnZ3U4bmp3TjVxd05kYURjNlctbW9KT3dNUEpFcXNfXzJDTWgwRXJB0gF_QVVfeXFMUHJPSXZCSkEzQUxvLTV6UkE1OWg2SUt5dVhjU3dfTlNNVEVLaTdZd0RWRUp3MndtdjhBT2tLZGVWb3hTN3NFS1lRNzhITzZYckNPaHNvWjlwTHBpRDJVYm9GRGluM0h1WmJIV1NtRjFXLTJUNXcwdERjMzdYZE9fdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "With 65% ownership of the shares, The Coca-Cola Company (NYSE:KO) is heavily dominated by institutional owners - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQblFseGZqeWRxMk90VnZCclh0ZURNNGh3NEJDaUNOSmVUZ2FqNW8zZkxsYlNrY0V1bXRMNVp6aXdqYlRNOVBpNHBNVXpnREtDd0t3dFhnYmUzVk5uU3d0NHF2WU5SSVo2eVh2UWpTd2xjTXltMC1nMkloa1FJbjBWVUNPeWJ4bFRQRDBLNFdRWFJ5c19vMEpSa1FNZElZbG5XWmc0Q0xMMy1BNW9XOVVnWDNodHlyTll2QWlXREhWeVNIWE9DUC1vRVVOSDVJak1zN0hV0gHYAUFVX3lxTFBnTTQ4a2Jyam91eHMyeG4tOGliclFtb19GOTdyaXZ6Wjh5czQzN1F3aF9DdFF4MmhyRjRrcWtUUjc1WXlRLUM0LWl4dEZaUGt2cDQ5SmtUV01QMWlqVGllc1djMEsyLUFLZlZpZTZCQUJFdHNWWHpBc1BlaDdTbWZXd2dtR3NDR0xsR0ViOFQ0TENIelBqakpES3U5X2p5Wk9XUi0yMHc4TC0teWhpQUNxVDdsZlMzeGJ4SFFhQVl2elFRWUVOLTVYc201bVJOQkRvTXM2X0liSA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CocaCola Company (The) (KO) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWloenYyNllEUXNfZ243WTYwV0NzMTdOQjBMSmVnVnZXSm04c0xQRnZfRnlSdkJXTDdQVHNoaUhZSjFEVGx4dGhXUVVwaHJZbUJVMWswZE4yRzY0bmRMNzB0aWJWdktBOHZqY29zX3IyMEhfaEVmUDQ3TnRvYnBURVBZQXM2RG53MkpDYkZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "After Earnings, Is Coca-Cola Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMk5TbmtuZ0dCenJYQTJWV2VZaEZveWctdTVPVnF0MGFGMEZ1aWVvZkZPR0I3RjU2bndmVXBhbk5uMXFuaGJZWXhERkFSUGc4c2kxYUlUeE5LQWtrRTFWaVZCMy1MVmpxMzhXN0hEYVBuXzBCenBTcUtYQ1JCQjRUQWo1cFdCMjU3WHN4T1RTVHFkYTBPRUIzbjBxLWs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Unstoppable Dividend Growth Stock That's Soaring Past the S&P 500 - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNXlNN2dFZTFneGVGNjNVQ3haQTZ3RDdqTmdWRGFkRk5ybVhxYkRlWE04WDBNdjBDOU9mWms2ZTZEdjZQQ3Y3b2NKci0xQzBuYl9jVTRQSjJKUEJYVGpLWUdUN180QnltOS1SY0ZqcE00UzdzQzVFcGdfd2Npc0NKZmMxQ19RT1lHMk5LcEs5cGRWSHpGSERvOWxJSHgxRXdUVU5Rc0U1Zm5CNVlINHd2Vy1VM1RCbmNWT3RnWkx1bHZjNHppQVJHZFJaUGlXclBSS1ZIaUtnQnJNMHhYTE0wM2cyVE1nQkU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What a Costco Recall Means for Coca-Cola Stock (KO) - MSN",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEZ5Uk13VmZTakY0VzVRa3JpOHFzXzQyWEVrX3ZoWFVLem14c2EtTkowd1VET1hjR0RGdm84bWRCYUkzV3JjbkdqOEhQVEE3M3dlN3JZS2Z3alNOMjA2VUgzWVVyenJkRGdEMkNxQUEzTC1oWVZ5TmdnMnJLX2FqLThwOEZJUmliZkdWMVVsNVVvaGNLOGpzMF8za2hRS2JoR2lQNW53?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Coca-Cola Consolidated Stock Got Mashed in May - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW1GLXRKVkx3TXotaTc1dkxHVl9XM0FjREtiQzVhWFRDWUxIWnota3VVaWMwNUhSNmt0UWIxU1BMSm9NU0I1RlY2S1J5cXdYQWota2ZuVFJLVDhGbnJwWG1BZTgtU3BUTmpwT0hvdVJMUGJ6XzNsazdzMmFRMlhPWkFnMmE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coca-Cola Stock Slips Below 50-Day SMA: Time to Buy or Exit? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ra2Yyd1FFblViWDUzeExqRWRLQWtfa2hqNXJoUVEzLUxCU1BBUHl6WHNZdGp0UVZ4TlB4MVVObHFVN0JSblIxcEdyRVBuWVIwVkFabS1hUXJndE5LUjIwU2EtQU1xZDhUVmdUeUpfWklNWnJ6TVh4TGpaelVOdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Coca-Cola (KO) the Best Stock of 2025? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84Sl9FQk9jUUdNbTVMQ1JCVlhDc2d1a3I3eG5lYjlSQWl2WENjUXAxSk5WeUdBN1o3LTZYWkR3LVRSRS1aMmpqaXRSZWRhLVpBdnVzc0ttYUZyLWhnWXBRMlh6bE1nVWo4cEpOZ0k2U1hDbWRZejYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street Analysts Think Coca-Cola (KO) Is a Good Investment: Is It? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzlhOV9zeFQ4V1Vab2g3dC05Z0dhaEh3dUtWbmczM2dDTWJDeXpmZHVlZzdTRUEySmtBSGtMdFM5MnlwWDRnOGgzTmpPSHRTYlJfM0pKLUNqOWI2aXZ5UXRGNkUwdlVEb0ZXT0gwTXRyc3FsckNNRjAtUE14Wm40U0tuOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wall Street Bulls Look Optimistic About Coca-Cola (KO): Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQUtOeTZVOFBtNGlSdjQ4YktIeWF1b0I4SU95b3p6Y3hJSzhGdTBMT2U5MGVrTEFVaUo4Yl9xZF9BWWlDVkw1SFVBbmZ5VDF3T0I5bjlGaVcxNGtkN2QtNHlRMDlpbEtKUGx3WFNVSkVQV0lsbEU1VnJHbW5pbHJhT29zNnI0QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Coca-Cola Company (KO) Launches Fizzion: A New AI Tool to Boost Creativity Worldwide - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFlCSVQyVWdFcy1MbHhFdDcyUkJsdU9zMS0yQ1FaYU93SW1SM0ZwdVppYWJSc2hIb2JBa0lKT3JWY1hKcFdEc25DdWc1Z3VxOXpaaUhucm9jTF9KZGtXei1SazF0dEJQYzBwTHJwR19IZWJtWEJaZ2kwUHBxc1hWTw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Coca-Cola Company (KO) Might Be Clawing Back Market Share, Believes Jim Cramer - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZG4xNE11emtQdy16QVg0c0xsZHlsV2tVTFRZcjg4RzJhcjFHdkhnRlZ1VFYzb1FLNF9CeXdxbEhmUVRXM3h0YTJYNTVsX19hTGI4WUJYMGtwSFZ6Q21kWDZzWE9Hd04zRnBTMTFqbWdCZ1BpX1lyYmpkbW0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Coca-Cola Stock (KO) Remains a Berkshire Hathaway Favorite - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNandqQmdEb05sZW9tS1ZBLUxERkEyeE93YVZLZHV3UGVReU9Bc3dJX2hoVDBwcjJyLWgtU01hM0ZwNWFNNnN3eGZxeXBJWXVYcVFZTDUxSWpaSDFyVG84eXk2Y0JSTkpEcjBQNy0zTlNEQTN2MW5RRDJMN3hqSVVaOWFXbE1uMEF4cGoyWEJ2Yw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Celsius vs. Coca-Cola: Which Beverage Stock Is the Better Investment? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUxhUHNjcGh2WDByODVrQTFOSFltN3htQ1Z1U0VtaFZMOW8xR0dBRk8tN1dvUEdJWlJNelFIMUdQZXRfVkNvS2h1d1FxMk1lN2h4Sk9YeUZlTms3TjBOZElPMS1RVHo5Y24tbGdUMHNzRTdDYVpVM21BU0hmZTJ4VQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 63.65
-      },
-      {
-        "date": "2024-12-03",
-        "price": 63.52
-      },
-      {
-        "date": "2024-12-04",
-        "price": 62.21
-      },
-      {
-        "date": "2024-12-05",
-        "price": 62.92
-      },
       {
         "date": "2024-12-06",
         "price": 62.53
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 71.89
+        "price": 72.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 71.16
+      },
+      {
+        "date": "2025-06-04",
+        "price": 71.37
+      },
+      {
+        "date": "2025-06-05",
+        "price": 70.91
       }
     ],
     "current_price_data": {
-      "price": 71.89,
-      "change": -0.2,
-      "percent_change": -0.28
+      "price": 70.91,
+      "change": -0.46,
+      "percent_change": -0.64
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres \u00e9conomiques concernant Coca-Cola pr\u00e9sentent des signaux positifs pour les investisseurs francophones. Les titres \u00e9voquent les raisons pour lesquelles Coca-Cola est un bon achat, ainsi que des analyses quant \u00e0 son prix de pr\u00e9vision et son investissement potentiel. La domination de Coca-Cola par les actionnaires institutionnels est \u00e9galement mentionn\u00e9e. Warren Buffett a \u00e9galement achet\u00e9 des parts de Coca-Cola, et son amour pour la soci\u00e9t\u00e9 est d\u00e9crit dans certains titres. Tous ces facteurs font de Coca-Cola un choix int\u00e9ressant pour les investisseurs francophones.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,73 @@
   "ticker": "7912.T",
   "name": "Dai Nippon Printing",
   "sector": "Industrials",
-  "market_cap": 965356355584.0,
+  "market_cap": 961745846272.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 8.920677,
-    "PB": 0.85057414,
+    "PE": 8.921544,
+    "PB": 0.8473929,
     "EV_Revenue": 0.647,
     "ROE": 0.09287,
     "ProfitMargin": 0.07593,
     "GrossMargin": 0.23208,
-    "DividendYield": 1.88
+    "DividendYield": 1.86,
+    "DebtEquity": 13.403,
+    "CurrentRatio": 1.892,
+    "QuickRatio": 1.366,
+    "FreeCashFlow": 64727126016,
+    "OperatingCashFlow": 132729004032,
+    "FCF_Margin": 0.04440637152478348,
+    "ROA": 0.03021,
+    "PEG": null,
+    "EV_EBITDA": 6.37,
+    "BuybackYield": null,
+    "PriceToFCF": 14.858466696547975
   },
   "technical_indicators": {
-    "RSI_14": 58.33374202474891,
-    "Momentum_10": 0.3048065650644783,
-    "MACD": 26.436522757620423,
-    "BB_Percent": 0.655968340711775,
+    "RSI_14": 55.44951738054439,
+    "Momentum_10": 0.9952606635071092,
+    "MACD": 23.992630913161975,
+    "BB_Percent": 0.5524816975752671,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9001269922571588,
+    "ValueScore": 0.8972423822489176,
     "QualityScore": 0.4050468508008195,
-    "SignalScore": 0.5703322224361578
+    "SignalScore": 0.5577645165459613
   },
-  "volatility": 0.0172170603383921,
+  "volatility": 0.0171644274998259,
   "beta": 0.255,
-  "return_6m": -0.049755664149267,
+  "return_6m": -0.0306434390341279,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 4,
     "target_mean_price": 2502.5
   },
+  "news_sentiment": {
+    "summary": "Suite à l'acquisition de 7 912 actions de Nasdaq, Inc. par Fiduciary Alliance LLC et de The TJX Companies, Inc. par Legacy Private Trust Co., ces mouvements pourraient indiquer une confiance accrue de la part des investisseurs institutionnels. Cela témoigne d'une vision positive des perspectives à long terme de ces sociétés cotées. Ces transactions pourraient également influencer positivement le sentiment de marché, renforçant la stabilité et la croissance de ces entreprises dans l'esprit des investisseurs.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Fiduciary Alliance LLC Acquires 7,912 Shares of Nasdaq, Inc. (NASDAQ:NDAQ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXNUZl9aYmozYXo4NGR0Z3ZkUkpNMmRGX3VRdUpYT1JnU0FFUm8zbmFNbVAzWmN5Qkh5TU1oQTZlWFllUlN6REFCemxKbi1IQW5wZmMzOC1oM1E4ZVJuS2ZfMEpqQlE0OGVZcFpSdFROSW1CREtZWThBelRUM1ZIbzE5ZXp2bHdtbHJDem1Dal9CZ2ViU2xkNFljSnhTOF8tLWwyRlVCNHBKaGZqdExWMjRtZFJEOWtEYXcwYmxyZzRudw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Legacy Private Trust Co. Buys 7,912 Shares of The TJX Companies, Inc. (NYSE:TJX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbEczVmRuNXB5V0NhTFc2Ykc0bVoyZ2wwQ2dmRDVnSWRaUkFzSmF4UGVqSVJNS1pPRDJ4b0FaZVRjSkMtX3NDRzByRkZEMHpFSVp0TEN6cWI5clR5SDN3c2FfNjB3blpXQzJnOVVoNUd3S29jMThGUDJvaE5QUnNtTl9xS3VLbnZ5bDF3NHJieUJvMDhFc2RWTDdTTC1nOVpWV0YxdTg5allJVEhJaHF4eWEwSVlkbTUxbXUyVTJ6aEJnUEpwR0tuc09Xa09mMXM?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2251.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2278.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2243.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2220.5
-      },
       {
         "date": "2024-12-06",
         "price": 2193.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 2139.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2110.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2148.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2131.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2104.5
       }
     ],
     "current_price_data": {
-      "price": 2139.0,
-      "change": 7.5,
-      "percent_change": 0.35
+      "price": 2104.5,
+      "change": -26.5,
+      "percent_change": -1.24
     }
-  },
-  "news_sentiment": {
-    "summary": "Legacy Private Trust Co. buys 7,912 shares of The TJX Companies, Inc. (NYSE:TJX) - Positive sentiment, strong buying signal.\n\nSolid earnings may not tell the whole story for Dai Nippon Printing (TSE:7912) - Mixed sentiment, potential warning sign.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "APP",
-  "name": "Applovin Corporation",
+  "name": NaN,
   "sector": "Communication Services",
-  "market_cap": 134486843392.0,
+  "market_cap": 140139593728.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 71.73917,
-    "PB": 233.64786,
-    "EV_Revenue": 26.512,
+    "PE": 74.75452,
+    "PB": 243.46857,
+    "EV_Revenue": 28.062,
     "ROE": 2.8750799,
     "ProfitMargin": 0.3739,
     "GrossMargin": 0.77724,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 644.739,
+    "CurrentRatio": 1.68,
+    "QuickRatio": 1.511,
+    "FreeCashFlow": 1899940096,
+    "OperatingCashFlow": 2537944064,
+    "FCF_Margin": 0.36998696258813163,
+    "ROA": 0.27267998,
+    "PEG": null,
+    "EV_EBITDA": 51.427,
+    "BuybackYield": null,
+    "PriceToFCF": 73.76000644601376
   },
   "technical_indicators": {
-    "RSI_14": 68.25072367421724,
-    "Momentum_10": 9.685654792571176,
-    "MACD": 25.394609614698027,
-    "BB_Percent": 0.853637269722705,
+    "RSI_14": 70.15506271400847,
+    "Momentum_10": 15.568580325014969,
+    "MACD": 27.589881014018488,
+    "BB_Percent": 0.9340098771139982,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.6435006244327484,
+    "ValueScore": 0.6291851898350203,
     "QualityScore": 0.4340957580244624,
-    "SignalScore": 0.2476041051140427
+    "SignalScore": 0.2815210429502786
   },
-  "volatility": 0.0624194479010306,
+  "volatility": 0.0622346685874316,
   "beta": 2.53,
-  "return_6m": 0.1669015585657678,
+  "return_6m": 0.0314819791990972,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 455.70956
+    "target_mean_price": 457.66608
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente met en lumière une forte volatilité autour de l'action AppLovin Corporation (APP), avec des signaux mixtes : une hausse de 4,1% suite à un signal clé de trading, mais aussi une baisse de 26% sur 3 mois. Les avis d'analystes sont partagés, certains anticipant encore un potentiel haussier. Par ailleurs, la société Wise envisage une cotation en bourse aux États-Unis, tandis que des analystes maintiennent des objectifs de cours élevés pour Apple, soutenus par la croissance de l'App Store. Ces événements pourraient influencer le sentiment de marché, mettant en lumière la diversité des opportunités et des risques dans le secteur technologique.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "This Billionaire Just Bet Big on a Controversial AI Stock. Should You? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeG0tdVA0QnZfUTM0dFpPRmlrQkFGaWJkT2t6eU4zbWNaUXV5R1UwdVZrS0VYUVhuaWZnZ2hlWVNjYjF2ZUgwemdubmJXRGtIYW1aLTFvbE1rQUtwdDk4RGV3RzhGZ1E4U1hXSVRSMWR0ckZ2VmVGZDNpY3IzVXozeEFBNjItU3ZaM3hTZG96UzB5WDdWcC13OA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AppLovin Corporation (APP) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb1JodUc4bENCZ18xZkdWclVZaG1FWXBncFI2TVo3MGw5c2VZeFA4WGFpc0dzTW9BelJDWjhuYWcxc2ItSlBfdDhCZjJsM2JjMGZBOE1pazB0dktiaDdEQ3I5NVVwUFE3RG9Jc054bHRqVUpzanpvYlUtaWs5bjdXN0g4YXBqUkJheUM3dFRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer has one-word response as Robinhood stock surges toward S&P 500 - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbG5TWmJlYVd3U3FQM2h0OFZySkpSX0pvYl9tNDZ5N2Q1VG8wN0ZvWEhRclc3VjFXbE9aRDNtYllfQVBPYmI1MDlSUHRPdTF6enV6ZTg3VllieTZEaGFlN2N6UjhaTjIzdHJkR01MVjhOMEpwczNhdEphaFdoX3hHZnlHdGVRNllUX3Q5Zk45aFlzQUYzSG41MElycmJpc2FFOXg2azhOS0pvTjRFY0poZmc4UjU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dub wants to make stock market stars out of everyday investors - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdlEzNlFIcEU5Zm1LQWxkeGhwQWdGcUpiZEtZM2RQVkIzem9oLXNuSkp3V1A5eFJadDZ6bHRzeEQ1VFZoZU1oajE2cGxXcUVMZVZjVGhBcHl3d0tRSGVtUm1wSzNGRmUwWjF0di1IQTJwNlBuZnNmdWhaYjJSQml1bTNVZlV2dXVuZHpIVkJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Wise's American ambitions include a stock listing - American Banker",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3BvZ0FBb0Q5RWRSQWFCdVkzR2hPdGJNVWJsYU9BVHZIR0xmMWNBSTZWTDRuZEpMX1RBTE1pSlhIaWVsaEIydUdwN0V3c0drRWhjdXh0cVZDSHZJUDVVZnlNRmlEcnJyZGg3X3dTU3RfYWJGWTJCRnpHUGZyWG1NeW0zTnJJOXNBZFRfR1dqOFdoUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Morgan Stanley maintains Apple stock target amid App Store growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONEI0QkI4SEV0clpfTzBJcFdaOU9zWkxuTXNYak9Gdm5vM1A5SEVmbTRnR2ZWWFR4R1hraXhDX210bGxoWnNwalBWR0FHdEVVNXkwSnBuY3lvM184YXQzY2JaaUprdU1jNEVPXzI4eU9HNFJQSldNdDVsdUhhSkw4RzRNb2tOQ05JbXVydmFyZVFCck1KbUtjOHl2WlBpcTMtRm1ZLUJPcnllS3BjQ3pzOFh3OTdrLWVNUVQ4Qm5KRXFDMzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AppLovin Stock Rises 4.1% After Key Trading Signal - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1hkTFJ6Z1V6cHhlUFJOWWFBcEFINHJGSDNYYzA4OEh1a3lnbWllTWxMTUJNRTFGWTUtM0NHMnQ5WDJkMnlLU2FoYTFwWnBvZ0s5Z0l0UFgzMkJrMkRiM2tYOHZZaVZyWnFUTDNBc2hNVGRzaDZxSmlJT0Y5YVhpZzVwdm9FUEtsdnNISDViNTZvQ1lYUFF3Zi1DZXZRd1JzZDhHUE1tbUJQZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dow closes 200 points higher, S&P 500 climbs as Nvidia lifts tech sector: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yNmZMWEtCbHlqcGc1RVRZdzQ5a1UyZEl1TUE5YVZLU3YxVS1td2dhdHhUUkpkamNmbDQzd1BtMDhBN2hDOUFWMFc1cklINkpNOU9LNllFbFVDWGNpdGFBLVRpMlgxOXpVLVZyTG9fUFNqUkxSN1840gF8QVVfeXFMT3I0Q2RoNC15MGxZZVBRLUoxTzNBV3R4SEJEMUd5ZUNMT29jYXJNWEhLYnFQVWhwSnFTS3h5TDNiWVFvaG9iQk16RFlRMkoxc3Vpa1pkTXl4QVNnNzVNNzVuRlVzWFYwenR3TGJxNjloTlVka0FTTG9hWVBDZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘More Upside Ahead,’ Says Top Analyst About AppLovin Stock (APP) - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTk5jYUJDcWxmUTFfVXBELVFsVFJVRFJLWWtnMXRmUlVLQ1lsbXpzcy12c2FyUHNrTXdCQlBrMzQydFpfbk1UdW1ZdFdzWHNjYndBUktOZlZDQW9jNFJsZlQ3QzU2TG5PRmw1cE44dW1aZkh1M2ZYM2dBZ2FIR2NiZEx3dF9lMENaSmJndEljeUhPd00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Trading App Market Is Thriving Worldwide: Webull (United - openPR.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTlsR3NnbWlBLWstazZMVjIxaDNCb09ka0NFTVBqbXBvMU5LVnRGaDZWZHRfWExITzZnTm85Qnp2Mk03QV83M0lxSGRqZE1QMGNxQVk0RXlTdUsxSFNvUzlvakU2MlJxTHYtdl9yd2xOVV9mVFJ1Qmw5ZEF0WFBJU1c2RndacXdYUjZDT0J1TnJKSTBoQno2MUpvcU8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AppLovin Corporation (APP) Shares Continue Impressive Rally, Edge Higher on Nasdaq - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdUk5WG1Ra0xyRkE1MEtJOHN3Uk9kWW9vc0YxZnJrMFZCOC1iUFpEMDFQU1hTbUxSTW9XWXVMQWttQzY0UThCRnpjVGZmZW16Ql8wd1dVamthNlV4ZElPVG5LNjBZWUg1djhVMWs5bmNKODFBRFl6RWhBZEtveGhyVnhkN2QtQmJLUTlYYnIwRzBhSnlaOGlGdTlVZ0pGeVB6VXJaMnl0RTcwQ1VNc2N3QTNQWmttUkNJTWtSX0dTeDlsQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Digital Turbine Sets Q4 and Full Year 2025 Earnings Call: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEkwUlJVNXFBQ0JSOGNCNDJzc1hqcXlnd1ZuWHFjQjN5cG9BTFhXcWlmZHMzdW4zUVhTU0labm8tTm9wWUU0Q1VKNTk2UEY3YjctOUFvYVpfOE92TXRvbm1FSVJUMWc3REgtRHFJWjNFMTE3T1pjUVRwSHJ6QlBxZmpyNWJhXzNRVkZkcnYzNExPX2hpTW1uVmJoRDF1SkdYRUlKMTZPVVI4MnZPa2lMdDR0S1dFWm1xbjVV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Got $5,000? 3 Tech Stocks to Buy and Hold for the Long Term - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWVtZ3E1cUFUNlJBQnlPM2MxMGRYM1ZKeWxkYTdZOWhndnN0RFIwWUxIR1FmbmdOcE1Jc0FILW1vZGNsT2tIX3VHRmNDaWFMN1NlSnZRVzRET3UyWHJYOHVmVm9Jd25mQ0s3cUZoVm41U001NDhjZkRxeEtqUmFpUE9Tb3BCX0RK?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AppLovin (APP) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2QzRDFCVnA3amc3bU93a2FpbU1HNlJ5MTUtT0VzOHdnQW4zdkt6ekdqSkJvNDVjM010RXVPV216ejNfaWszZkVkRXJQaXFPMkRGclVHcmwzc0ZEODVaWmktOVN1MGZYMFYyeVRCN2lTTWxTYndlcWY1ZXJaRTN2LU8wLUdFdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Evercore ISI maintains Apple stock target on strong App Store growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRXY2bTY1YzFvdmo1c0dRRVhtM3BqRGVVVjRmTVRXakJLV1JNNlNZVFdaLW5ueDE0MWJSa0h6OGtWMGxJQ1dtaWl1d0xTYy1aWVpMek9yWXZXQmdteVpzaklaWEZUdmhHd3dHTS15cVEzbVVXOTBJMmRvTXZzaExHUE8zM2ZhU2x6czBmdFV5VEZBLUJCWDhrcjUtWFpaX1hHRGlWZnZZZHliUFZ4M2F3X3BjQlZtUlZTY0pNNkNtMUl5dzJCTXFN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AppLovin Stock Plunges 26% in 3 Months: Is it a Smart Investment Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vUDFZRVN1UXpjN2RqSm1FRm5obFAzZUlJVVJ6c0IyUDNiemNBcUVnNFV3QnplVUFudFVJYVlGckR3YkRPRG91dkh2QU9ZSWg0WTkwZ2NGRFJYUnBzY1pvczJ4elNFVV90a3NIM25POXRadnh6MXNDWGFFQWd6dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why AppLovin Stock Jumped 46% in May - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejdKTF9GOE0yWW0xOTNGNHZhX2Y5Zld0VFJycHlVb1BONWdfMUtOUkx3QUFNNVRPcHpzckhfTHI5X0JEUEVScTJHODZIeU9XZ0Myb2U4STliUU1ZcGp5V05tWk5iMkNfdFQxXzh1R3plSkR5ZzFGem9jRktNRm9iSHZPc2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ARM vs. APP: Which AI-Exposed Tech Stock is a Better Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1U080ck96YmlmZnpKU0NPOU9IQ0ZQNjJzZmdkOVVoZUp6NGNCa1hxa2JsMk1MOGlKTW04cFcwLWc3YnNZc2RNaDFlQnBLTWQwWDc2Y2c4UU1HMXFwcFUwc3UxajY0cnZ4XzFKbWk4cUFxU1NPYVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy 5 High-Flying Growth Stocks to Maximize Your Returns in June - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tX215OXU4Q3hvcTFJeTZQZ0dheUZHeldTWk5rS3Rhd1gzeldrenlncjBZWGlEVGlCMUotdnJncG1oWDlFTkJrU20wY2lnU0M1SGYybWJOTGMxMERvZFRjYi1TQ1ozbzZOOTV0bWRQMjFJbmM4REF4WFpR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is AppLovin (APP) Stock Outpacing Its Business Services Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVVnQmhfN0FXMHlPdndMWnlmRVZBNFEyaHExZkRpb2pYYTR1LVp4bFI3THhZd0h5eHRQR2pDTmdCWmlPZnl2b0U0N0NBbUxUUmxUZmc0YlBTQ1k4VTJnaDFuWFhqT2JSck5rcXFGdnlQOWJIc3FPQTF2aW10dExEMnAzRFpGb1hoWE0w?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 340.59
-      },
-      {
-        "date": "2024-12-03",
-        "price": 366.55
-      },
-      {
-        "date": "2024-12-04",
-        "price": 373.7
-      },
-      {
-        "date": "2024-12-05",
-        "price": 379.07
-      },
       {
         "date": "2024-12-06",
         "price": 401.5
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 400.78
+        "price": 401.91
+      },
+      {
+        "date": "2025-06-03",
+        "price": 398.51
+      },
+      {
+        "date": "2025-06-04",
+        "price": 416.52
+      },
+      {
+        "date": "2025-06-05",
+        "price": 414.14
       }
     ],
     "current_price_data": {
-      "price": 400.78,
-      "change": 7.78,
-      "percent_change": 1.98
+      "price": 414.14,
+      "change": -2.38,
+      "percent_change": -0.57
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sent\u00e9s abordent plusieurs entreprises cot\u00e9es dans le secteur des applications mobiles, notamment Apple et AppLovin. Les actualit\u00e9s \u00e9conomiques concernent des pr\u00e9visions de prix, des signalements quantitifs, des analyses de la performance des entreprises et des \u00e9changes boursiers.\n\nUne tendance cl\u00e9 ressorte de ces actualit\u00e9s : la croissance des applications mobiles et la hausse des revenus des entreprises cot\u00e9es dans ce secteur. De plus, l'impact des technologies de l'artificial intelligence sur les entreprises dans ce domaine est \u00e9galement soulign\u00e9.\n\nSur le plan positif, les signalements quantitifs de la performance des entreprises et",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

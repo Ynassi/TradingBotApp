@@ -2,55 +2,163 @@
   "ticker": "AMP",
   "name": "Ameriprise Financial",
   "sector": "Financials",
-  "market_cap": 48505495552.0,
+  "market_cap": 48459788288.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.308529,
-    "PB": 8.968924,
-    "EV_Revenue": 2.463,
+    "PE": 17.286345,
+    "PB": 8.960472,
+    "EV_Revenue": 2.454,
     "ROE": 0.58108,
     "ProfitMargin": 0.16558,
     "GrossMargin": 0.5662,
-    "DividendYield": 1.26
+    "DividendYield": 1.26,
+    "DebtEquity": 74.235,
+    "CurrentRatio": 2.91,
+    "QuickRatio": 2.082,
+    "FreeCashFlow": 3326500096,
+    "OperatingCashFlow": 6837000192,
+    "FCF_Margin": 0.18396747766647162,
+    "ROA": 0.022219999,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": 14.552914578962934
   },
   "technical_indicators": {
-    "RSI_14": 56.314417101761045,
-    "Momentum_10": -2.648294204111369,
-    "MACD": 7.773396757771138,
-    "BB_Percent": 0.5538745851400578,
+    "RSI_14": 54.49331784303647,
+    "Momentum_10": -0.449989790057307,
+    "MACD": 6.177441101121531,
+    "BB_Percent": 0.4203545508103012,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8896332855374742,
+    "ValueScore": 0.8867010761950879,
     "QualityScore": 0.3599990890364988,
-    "SignalScore": 0.6034874056525725
+    "SignalScore": 0.5758737063685846
   },
-  "volatility": 0.0214721345322131,
+  "volatility": 0.0214849953190977,
   "beta": 1.227,
-  "return_6m": -0.0935385352611436,
+  "return_6m": -0.0941363176852947,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
-    "target_mean_price": 522.0
+    "target_mean_price": 522.3
   },
+  "news_sentiment": {
+    "summary": "Ameriprise Financial continue de dominer les récompenses en 2025, avec des scores parfaits dans toutes les catégories de gestion de la richesse. Le lancement du programme Signature Wealth renforce la personnalisation des services, tandis que l'autorisation de rachat d'actions de 4,5 milliards de dollars et l'augmentation du dividende trimestriel de 8 % témoignent d'une confiance accrue de la direction. Cependant, la récente vente d'actions par le PDG et la baisse de la capitalisation boursière pourraient susciter des interrogations chez certains investisseurs.",
+    "sentiment_score": 0.35,
+    "label": "POSITIVE",
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Ameriprise Dominates 2025 Kiplinger Awards: Perfect Score in All 4 Wealth Management Categories - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1Zva2hFWlg1NzdkSkFGRUlPQmRhV3Zwb0hZbTJYVVA4ckQ4SXN5VklLdUdkcklVa1M5MjhEbk9qUl80d0htUkFzOEJGMVRiM0QwTFo2TW9xOGNPb25pZU1vRkhDZ3hVUTVMYTFLOWUyMWxGOUZBa0hWdzhvR2dHRzdIdmtnbGRFVm1iVmlKZzA3bTBWRllPZHlqMmhrUUM1a1JBV1V4Q250dTRMbWdBUmZtZXVmeUZwWGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ameriprise Financial Recognized as Most Recommended Among Wealth Managers in 2025 Kiplinger Readers' Choice Awards | AMP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObzBuSTFsOVRDcHNSY2R3OGlUdkJ4QndpV3dzV1RBY3NfR3dUd3JOeXo5WElxa3JXZ1BxVzlBcGU0b3owWktvMC10ZEtjX3pqS0xOS1VCVWpiRDJlQlBMXzk2M3VxRlVZcFhZdkRhdGYwb2l6OXBCZUxPOHNMMkNYZWZSQmptSFpqbkNRYlFyRGwzMm80NmVjZGk0dkctWWp4c3gwVlhrc2lLSjJmUWhlNmtxUHNwWXNXc2NOV0U3OFp4S3phV2psLVAxalJqdk1JVGxMNHEwQkh6YU1fbTY5TGozOVdYVy1SWkZMRW1TMzB3NHhyaW9oMm1ibw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Amplifon's (BIT:AMP) earnings trajectory could turn positive as the stock lifts 4.9% this past week - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTnFFQUlETXJFbVJSNDkxRzVxcjQ1clBxNnhuMlZtcW5xYUY5b0UzVkFoNDR4QW9GSU1tYXA2ZjZ6aXdsU2JESk53YnVrVmk2b1lteHJ0MnJKcWJhZUxSMDNhMWxqcEUxX1dXQ1VJdDdlMnlxM3dCOTUtTjU0MDhRcm5oa1VkT3lYek1fMzlqVll5XzRIem1IcW5kZ3hDajA0a2pBZFhON3dwOTJYYlRPREI0anBfMmljSW5HRUM3X0xVb0hGQXU1NG5hd9IB0AFBVV95cUxQQXVWRDROb2xhYXhYVWtFdXNuNHc3OTZOSVY5ZWczZGp4TWQ0LWJGd0Zwd2NOM2U0OFpydEJVOXljaVM4U3dNejhEeTV0NGVxeG9JdHhKN2VrOWhNbV9WNzhVOXhHbFZwbjBqQVoyY1pFYlF3eTBwTEp2QjMya1AwU2lBeVd5dXFsQk1WZjFLWWdEUlZMMjZoQmZaSGpQN1haNEJTM2NmaHliRm5RTXhnTGo4SFdTdnJnVmZFX1BCOWtaU2kwcmoyX3VQcHc0UVp3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(AMP) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORU4xN3BUNEUyU04zR3B4M3dXVU9EWXFZWVN6NEhYVlpIMmZwS2dCT2Y4OVNVak1HMmlLcWVKU0Z1X3oxVXJYRDJzWDNQU2tnMHdOeHlybjgyNzhlYlFrdHNSWFlYN3FRTzJrU2I2ZVJDM2VHa2ZfLWZzUVJ3T2VzTi1pRTAzT2djZXpXb1hsTWlfY1ItLVpTUVdiY3I1NFZhYkc4RXZoc3pYTmdrU3lXVEtTRGY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameriprise Financial (NYSE:AMP) Launches Signature Wealth Program for Enhanced Personalization - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM2JSZTJHYnhzOU9SemFjLXp0SG9ieEk3dkhtbXhqcGRlb044cnJDS2FvalhMQ0pWU0pMRU5DeFFRU2ZMVlI5NmZzVWJwTkV1X3ZiSWFNcDl2MkJJcU5aQmVOOGdPWmpIamNBNGF2Mlg0NTk2TUdGSDNwWndaejVDdExHRXRqRUdfRHA0Uw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ameriprise Financial: A Proven Dividend Grower With Strong Credit Ratings (NYSE:AMP) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbC1nTmxlb0VtYkFCTFdmU1c4Vi1aazJpYjZ6eDlMUjhKWXY5SHZwRnFTdWIzZHJHaFo3OS1tYVlwM1pYUElyRUlHTTdGNEhUZUU0cXE1OElVNjlzc3pERGhETnFnMjRhNTFJS1R3NWliTlNsYVEwOGJQcHpLTTZCeHRtZGMwd2h2NnRHcmpzRmg3cUo3WWZidGRxbVdFRTBXTkVWeUMwMFluMTdwdHFzWUphWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Insider Sale: CEO of $AMP Sells 6,000 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11bWF1VU13RkxCNmF0RkQ0SDBnMm5NbGEzeFd0TkJuV2lIMGU3YTN2WkV4Q2Z5Z3k5NWVaTDQ3QUtuVGdIbzEzMTZsTDVxNVdrVHNCWnR0My1DWTZId19HUUQ4SG90ZlU2Yl9LZzVZeTBHVDNSUk5xbnZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameriprise Financial, Inc. (AMP) Stock Analysis: Navigating Strong Return on Equity and Stable Growth in Asset Management - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOHAtTlFTbUJUdlN3LVFqZHFEUl84LTVQblgyYXhjdEhucFhRZGtZTnF2cENLbEZPaTRTMGxpclNRM2pkS1pVX3NvLXR2OENRR01sZnJFTE1ZYjhFVTItM3FhLUpvUW5fMTFKQUk3YVNJV3V4bkRXU0w1WVRkdmpFVHBXNXNCNktkTjNFLVlIRFhRb2xxeGNnMDZaSDZZeGJZcWkxR0NUTVNNRkIzZnFELXdzT0lReFU0SG5way1NX2lJODl2OXlFZzZJZXVndGM4Rlc3MHZTOXl0SjNDZFhMejR3M1NrNkpkMnlLdGlEY01fYlRTdVR5eWlvOA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Ameriprise Financial Inc. (NYSE:AMP) the Most Undervalued Quality Stock to Buy Now? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3RiNlVteU5QYTFGLXhfMlUtYk1veDlUUHZVRVpoNHZVWlduUlZXNTVzODZJYldIRFQ3U0czRWdMSDFuaGhpTXhwdXRId2xXS3hHcHpTZi1DamhuRzdOakRYYTUtUTNNa0xhMk03R0xXLUk3N1Qwb1RHVC1IOU1MQTJmVUVacFdwQmZzT2pUXzJyZmd2NjAzZS1pZnhMQ0k5ZFhYdHZjQnhzc1F2VTZQX3hDQTY5X2FOYkZMYnA2ZDZsV1HSAcsBQVVfeXFMTnNzdDNEVHkxRFBOX2dJYng5TXFSQXNuLWFpUUl4VlExalhnNGNYLTFKOWtTNmVuVldUUXk5a0tLemYwZTF5RDYzbWlQNUdhUEZfTTBzaVlOYmg4VXRHWHVfM2JZTFFmWHFFWDBwT3gxYkVwbkI5Nk03dVRYOG1tN2JNLW9CUHZsWjhtS1U0Y1YwOGwwXzUxTWR3bVhUeWZndGJNLW8taDg3ek1nNjRhWDl4RHBtMlRScjM3eV9lOWhCUDlva3F1MTdpTlk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameriprise Financial Announces Additional $4.5 Billion Share Repurchase Authorization; Increases Regular Quarterly Dividend 8 Percent to $1.60 per share - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPeWp2Sl8zQ3BUVlFNOUZkUnhwczhQZm1LX0g1bnRHMEs2QVN1WU45MFNYRHo4Mi16cFE2c1hfdEJIY0IyVW5WNWJLMHZSQUFGUUlnd2J6SUtwdUcxX09mSGZ5bGRSeVM0MUJESlprNmtHNWdCT3pLZWNVdnUyVTVFUDc0ak45ZGpfVnJ1dUkwQ0FjbXQwX2Y4d0NsX3lIcm4ybG44dS16OHZOTHo3SzZOanNqV0ZaeFkxTDEycjJjNUJQNDNRcTN3Mk1TaWV1WDlqZ1NTTTNpWm1RUXVxbHhDUVphNW03MGtrbnppMWhuUzFsN1lkRXhaUDRJM3Y5Y0hXbHg5U3pGaW5PVk1IZ2VBRkZjTU9heDhoMk1HUHFVZHM5aXp0M295T2laSHZDbEllXzZKUHo4QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ameriprise Unveils Game-Changing Wealth Platform: 85+ Investment Models, $5K Minimum Access to Elite Strategies - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkJDSTFtUEg1eF9taWpBcG9VczlsbldjYjJMdE5xUHpweTlxdzVOaVZKc1NfZUNnYko2OWdvYXJnV0FoNlZYVl9hdzhsdnB0T0xNMlBzb2pKeThSLWd4Q0VTOE9oZnNTbjF3ajZINmpaejFGQjR3VXRac1FBWllTZS1IZDBtNDdVNll3MW11bFJNOUFHdVl0V1pzX3RJaXVqVHNrSVFaV1NZT1VXdmxPUFgwdEw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Ameriprise Financial Services (AMP) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkdrd0RxNHI1QjhhSnhlUEZ2VWpaSng4ZVRFTGczVml5SDU0MW9oUGh1SDYtcEZKSDJXc3ZTUjBhQ25MVlBqeFdZUm9oQVhWR3k4MzBsZEQyWWdkV1VPOG83VE13ZXpWMmdyY2thZFpqdmNlYU5NRUN2YmEtVnhXS0NLd2JqQkZpZTBuM1N3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Institutional investors may overlook Ameriprise Financial, Inc.'s (NYSE:AMP) recent US$1.7b market cap drop as long-term gains remain positive - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQclZaTHFtbXRNdHR0SUwyLXlfWFhuOTJvakUzREc3aGRNVWtBcjIxM19kamNON1dfaHZneUpuLWJBdVpjWjlFRWIyeFN1YTg4UDFrUkt2cUE0Wlo3VjBmZFVhcUxWSUNmMHJmb0VzSXQtdEZ3VlV1X2pyMmZOZVQ2M2sweU5kWl94Sm4yN0xnODVyNTZnWXBZLU9Ud2lrLVBzdGZhb3hjVVhVTmhnQWExMXhwYmJPSUdsQmJuTDZsRk16ZGl5RlMtelRQYzZBVmQtRG9DTW5PVnU1OTlSV3dYQmUzYmPSAeoBQVVfeXFMUDZZYnRTLW44eXZKbGJQZVdCb0hMcFg0aC1fMWMwYjM2SXR6c2RkRWZRNWJiWjl3Y2xoVnhIck82SUxOekxXX1ZzUk5hU1EyTmRyZ3lWdHhRa05hODJOek9JYko3QUgtY1lRdUI2a19KXzdkUnlKY19mWHNqcDhnQVhCd2NQcEJDYjhFLUZJSEEwa19OWFQtZEg0OWhBbTBNS21fTHVLLVlsYk1QNDlocGR0Qks5eTJuSTgtRDVuSS1BRUxWT0pVTzA5RG9LeTZGQXZLTlk1SXEya1ozUHhnMjJpNDdRZ0JqM2tB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Do Options Traders Know Something About Ameriprise (AMP) Stock We Don't? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTJ1c2tuNWkweTNOZDljZm9JRGdBazk5YU1uUXBWdmQ4MkVxWWdYUkNPNHAwNldvXzhaeUI1Z0tpVmRkdGl3S0RWTEhfY2YxMDZJbGFEb0YxQXJLUVBRYzhJSC1ibU5VLTFpdnhHRThkUTMzTTJud0ZFblh4XzBpVmFHOUxpbFdKWGxHcm83TXZ6eEgtTmoxU2lvZVpxNHJfakE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Record 515 Ameriprise Financial Advisors Earn Coveted Spot on Forbes Best-in-State Rankings - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEQ4eTlEcGZqYW9OOEZJRmRTXzJPeUFWU1JGNHRHUmNmUEE0OXlDei0tcXhFUDJXaGlfZkpJRFkxeGxoTmRGZ2dHVkdabE1TS2s2OUhQWnN4Mzk1ZE4xYThua19WLVZLcEFhNXZLTVFBYk9FeU1mSnVYQW5WNlZ4RllBOUVKU2V4OUpXdWtUNjNMTTY5SVpLZF9QRDRLU1FubVM2UGpNdm5RRWVYOHhibmtlSkItWGVEcVVKanpn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ameriprise Financial, Inc.'s (NYSE:AMP) large institutional owners must be happy as stock continues to impress, up 3.5% over the past week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWV5S0tnbHlCX0kzQkstU2RRLWx4QzFkazktSmtVZ2dMYWdqMlA0eFE5Z0g4czhuazNyVGNXOUpzek9ZRlRvQWpoMHZBNDN0bG41anNRRTViNUt2dGpjWDFjZ1FDb0JUXzlZZ09zbzViQWdsOWt5WHdzZnBVQWp0b3NDUW1kdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Major Win for Ameriprise: $100M Team Exits Edward Jones for Independent Channel - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNW9ZMy1yaXRJU0hySTlUQXpJcG0tNERXRG9EY1VHcnZJb2VVM3VMMHd1cnJ5V0U2c0ViZG8zT1A0cENMSHh0a3diM3ZURTZyd080Q0R4T0RSaHlTdHpBQy1IMlhxYnNjX25Vazc2MHFHYWZXYjhmLUd5dXhOQVg3aEpWaFo2TGtUaDNzMFptM1cyYTRxUDMtQkltLTFlazNzOXZ5UFhFNmJCN2d6WTVhVThzbFhRdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Institutions along with individual investors who hold considerable shares inAMP Limited (ASX:AMP) come under pressure; lose 8.2% of holdings value - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWll0LS1nNXdRdDFObE84VGRST2k0cjZQdDJDOWctYlhUYWJoVExpUEN4Z25uWHlEQXJXQTRLNGJKMkdOOHFCc3Fxbl9EMzN4V256ejBiNm5BcVZSTHRuU2VYX2d5TG1TUkt5S3dqTnhKUGsyZGlsS1N0Qlp6UC1EM0YtUlNDeVNCYXJ0ODQxUFhLaUNT?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ameriprise's New PracticeTech Platform Revolutionizes Advisor Efficiency with Industry Recognition - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWNFZ3pFSE93SVFXaEQ4MGdrZ3JNVS1PQS1USE5XTU9TMmdPVHhsYU0wLTZPd0FDT0szODdfYWxoSnNZeDJhdldFZDgzekxZS19wTFRXTTlJZnBwZzhmbTdFZmMtVE1kckNYWlcwWndSekJIUkVRZ1VqbXhVSWo3MlZSZzhqVGJhbF9VVHdicmhyRGZNNW9TTWtyOGxrcXBVbW1fMUFBVk1qb2pLa1lCQnY5QTdlTjA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ameriprise Financial to Reveal Q1 2025 Performance: Key Earnings Call Details Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTAzc2Y1NFpxSWFkZEdycm9jOG9IdGl1eFMxQWxaZ3JFbmI0djZhNUZWeVVlQWFMNWMwQksxU1RJbFJDZFZGQ203WnBDTVpyTXdZWEdCTC1rNE1MY2tmV0xFY2RYbXZaLTE4ZGdOODN0U2hNeHBoQ29uUjROc1A4QzJmZWpfTEJvNEdNaWRzT0JaM1JVSTdGZ2NJTXlhamktMWRiU1BPYVpSOUM0VkJTWkZzRS1sODg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 565.37
-      },
-      {
-        "date": "2024-12-03",
-        "price": 565.72
-      },
-      {
-        "date": "2024-12-04",
-        "price": 561.42
-      },
-      {
-        "date": "2024-12-05",
-        "price": 565.21
-      },
       {
         "date": "2024-12-06",
         "price": 561.55
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 509.84
+        "price": 510.13
+      },
+      {
+        "date": "2025-06-03",
+        "price": 513.24
+      },
+      {
+        "date": "2025-06-04",
+        "price": 507.52
+      },
+      {
+        "date": "2025-06-05",
+        "price": 508.39
       }
     ],
     "current_price_data": {
-      "price": 509.84,
-      "change": 1.03,
-      "percent_change": 0.2
+      "price": 508.39,
+      "change": 0.69,
+      "percent_change": 0.14
     }
-  },
-  "news_sentiment": {
-    "summary": "Les 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant l'entreprise Amplifon (BIT:AMP) sont \u00e9tudi\u00e9s pour d\u00e9terminer les tendances cl\u00e9s en vue de l'investisseur francophone. Ces tendances cl\u00e9s sont r\u00e9sum\u00e9es en une synth\u00e8se courte de 3-4 phrases maximum.\n\nAmplifon (BIT:AMP) a \u00e9volu\u00e9 vers un potentiel de profit en augmentant de 4,9% dans la semaine pass\u00e9e, ce qui pourrait \u00eatre une tournante positiviste. (1)\n\nAmplifon (BIT:AMP) a lanc\u00e9 une plateforme de gestion de",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

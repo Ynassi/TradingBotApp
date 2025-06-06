@@ -2,55 +2,68 @@
   "ticker": "9021.T",
   "name": "West Japan Railway Company",
   "sector": "Consumer Discretionary",
-  "market_cap": 1460843446272.0,
+  "market_cap": 1466018824192.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.928881,
-    "PB": 1.2629924,
-    "EV_Revenue": 1.703,
+    "PE": 12.982793,
+    "PB": 1.2674668,
+    "EV_Revenue": 1.702,
     "ROE": 0.094689995,
     "ProfitMargin": 0.06672,
     "GrossMargin": 0.24485001,
-    "DividendYield": 2.76
+    "DividendYield": 2.77,
+    "DebtEquity": 112.743,
+    "CurrentRatio": 0.884,
+    "QuickRatio": 0.5,
+    "FreeCashFlow": -47793123328,
+    "OperatingCashFlow": 281431015424,
+    "FCF_Margin": -0.02798283896287341,
+    "ROA": 0.02991,
+    "PEG": null,
+    "EV_EBITDA": 8.318,
+    "BuybackYield": null,
+    "PriceToFCF": -30.67426278317995
   },
   "technical_indicators": {
-    "RSI_14": 51.30928830402869,
-    "Momentum_10": -2.081362346263009,
-    "MACD": 17.68912052440328,
-    "BB_Percent": 0.2837777415829784,
+    "RSI_14": 53.37128218946303,
+    "Momentum_10": 1.2016888600194868,
+    "MACD": 12.965040599557142,
+    "BB_Percent": 0.400132751249815,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8961397768698468,
+    "ValueScore": 0.8932218325524277,
     "QualityScore": 0.4027622762312942,
-    "SignalScore": 0.6236027770134369
+    "SignalScore": 0.5684195264696217
   },
-  "volatility": 0.012867369088613,
+  "volatility": 0.0127659900490869,
   "beta": 0.282,
-  "return_6m": 0.109761511849016,
+  "return_6m": 0.1257747722939046,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
-    "target_mean_price": 3470.9092
+    "target_mean_price": 3498.182
   },
+  "news_sentiment": {
+    "summary": "Malheureusement, je ne peux pas fournir d'analyse financière sur un seul titre d'actualité. Si vous avez d'autres titres concernant une entreprise cotée ou un secteur spécifique, n'hésitez pas à me les partager pour que je puisse vous fournir une synthèse pertinente.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Incorporation: Why are law firms reluctant to move away from the partnership model? - Lawyers Weekly",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUU45dXQ1SFlVT2FWdUFmbE5TVGdPTmdwdG1pRXBqdDQ0ZGVDbGw4U3R1MGdUbmtRT2dOUFhKS0lsR0liRTItZFBlVER5SkRZbDNzQjFhSEZZcjZkc2hqcm1NbXZ6c2VkS05EdktMZnpDUnA2S2JQTDN4NmR1Vkw3VnFVMzNySWkzZG9QWWl0eExxMXRmamJB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2842.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2867.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2846.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2811.5
-      },
       {
         "date": "2024-12-06",
         "price": 2823.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 3105.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3107.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3109.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3116.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3156.0
       }
     ],
     "current_price_data": {
-      "price": 3105.0,
-      "change": -14.0,
-      "percent_change": -0.45
+      "price": 3156.0,
+      "change": 40.0,
+      "percent_change": 1.28
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres de la liste n'ont pas \u00e9t\u00e9 fournis. Veuillez fournir les titres pour que je puisse vous fournir une analyse fondamentale.",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

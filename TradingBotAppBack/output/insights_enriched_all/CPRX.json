@@ -1,56 +1,164 @@
 {
   "ticker": "CPRX",
-  "name": "Catalyst Pharmaceuticals, Inc.",
+  "name": NaN,
   "sector": "Healthcare",
-  "market_cap": 3030468864.0,
+  "market_cap": 3093286144.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.82484,
-    "PB": 3.8146782,
-    "EV_Revenue": 4.614,
+    "PE": 16.152866,
+    "PB": 3.8937511,
+    "EV_Revenue": 4.689,
     "ROE": 0.29114,
     "ProfitMargin": 0.36912,
     "GrossMargin": 0.83505,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 0.389,
+    "CurrentRatio": 6.142,
+    "QuickRatio": 5.848,
+    "FreeCashFlow": 223082128,
+    "OperatingCashFlow": 267926000,
+    "FCF_Margin": 0.41725201595816247,
+    "ROA": 0.18591999,
+    "PEG": null,
+    "EV_EBITDA": 9.315,
+    "BuybackYield": null,
+    "PriceToFCF": 13.86613159795571
   },
   "technical_indicators": {
-    "RSI_14": 58.14171285405029,
-    "Momentum_10": 1.949111439324988,
-    "MACD": 0.3798567805828661,
-    "BB_Percent": 0.7971338482232619,
+    "RSI_14": 62.785486301951906,
+    "Momentum_10": 4.276319607638304,
+    "MACD": 0.4433864162659553,
+    "BB_Percent": 0.8815298926418703,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9297474679196046,
+    "ValueScore": 0.9280154712831236,
     "QualityScore": 0.5423484756988025,
-    "SignalScore": 0.4229639125141825
+    "SignalScore": 0.4643176385938926
   },
-  "volatility": 0.0286743449224883,
+  "volatility": 0.0285463276495184,
   "beta": 0.718,
-  "return_6m": 0.1027518222882781,
+  "return_6m": 0.1516802944211699,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 8,
     "target_mean_price": 34.0
   },
+  "news_sentiment": {
+    "summary": "Catalyst Pharmaceuticals (CPRX) continue d'attirer l'attention des investisseurs avec des signaux positifs tels que l'acquisition de 70 000 actions par le PDG, l'arrivée d'un nouveau CMO avec une expertise rare en maladies, et une victoire majeure dans un litige sur un brevet propulsant le titre à un niveau record. Ces développements renforcent la position de CPRX en tant que valeur à forte croissance et valeur à long terme, selon diverses sources. La nomination de nouveaux cadres et la participation à des événements de l'industrie témoignent d'une stratégie centrée sur les maladies rares. Cette série d'actualités globalement positives pourrait influencer positivement le sentiment de marché à l'égard de Catalyst Pharmaceuticals.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "What Makes Catalyst Pharmaceutical (CPRX) a Strong Momentum Stock: Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzdOWUstYVYzb2ctODBWbmNTdHQ4bmE1cE95anpRTHgtZXN5aVY2YURORGptTDV1aDNzMk1qTk1qeFhJVTRSSlJFcDJZcnhwMHV3UWh4RW1UYUNQU1UwejZ0eE1peFN6Mjh0ZW13QmEtOUxfQ1BWS1RoVFlhdEh0Z09RcEtGeF9halg1d091MXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Catalyst Pharmaceuticals Taps Harvard-Yale Veteran with 18 Years Rare Disease Expertise as New CMO - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFFZT3o0M3RvLXpWemI2QUFwYkdUMG5PRzN4clFKZ1hrSnd1aUwxRFM3MkRIeTJTeURvOUtLaW9hSXFKQW5NVkNtZXVzZmdxMTlFdmdHWTBFYUdHMXhuZS01X280My1CU2FPTDZCRHdySWd2M192ZXBFMDRUQTE1cDlRX0hoSHp1R295Zm1FOFgxaXVkWTYyZHlfT1JJSVNXb0VPTWFuTjJjc29PUHh3OEJrWEtScnppN3RuemJqMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Catalyst Pharmaceutical (CPRX) is a Top Growth Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVhjVUpLdHhTanVYUFh5WUZ0WjNaY3pQb0V2V1BYU3VodlJzT2pXOUdTajc2RFpaSWh2V3hhc2dXeFhKalhiN2tRbl9ob01ZN2g5aWNXcGlzaXdMWUd4Ml8tVzhEczlOYjBaMm9wVEN1bjJKNU9VVXQ0VFJTRzFKcG9pYnVGQko5NWwwVnFBVjQ5eW5STGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Catalyst Pharmaceuticals (CPRX) CEO Acquires 70,000 Shares | CPR - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1lxc0tGcGtieXhBX1VDbE1oUGthZ3J3Y2dzdGhnQ2x6R1JuZ2xkenlMWFpBbFpjSzZQcjlLUGdZaXBGVk9XSnhXTmRNYzdfUXBQUEtKRTdIa3h6YU5iV2tMY1hZYVVjVWFteGhHOGFvRTZFUkFVZmVRaUgteHpNQ1VsbzEtX09OMjlHNk1wMUl2UDdlTktrbU5PaEo2ZG5leEkxeXY3UVNGQnJjUTEw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CPRX or NBIX: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2SlZyOVhST3BOYzUxekw2eXVrVnNKaUdSMjhrZGhEY0dQMDYxb0x4SmpKU1VHM3V3cHlPX0I3MGhxaE1Vc09lSlJTMTJhWG40VnFobXN3VVZZME9MbW1MczFJWE1NdHlwMzFQa0JpdUpFeXllQk8tbWFlRFk1WjQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Catalyst Pharmaceuticals (NasdaqCM:CPRX) Appoints Dr. William Andrews As New Chief Medical Officer - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUUt5UU1DS2tCamQzYTRFaElBeFExaVVNSXNNSTlHdENUNFZtZzlsZ1R6enV5YWNQWjUtV25vYjFhRDBRdkwwVVJYcTk5OFJCY3p4aGtyRFdvM3dQblV6T3NCSDVSaE1PV3lXUXhUT0V1ckJRQlNuaG9taGdqcFRUZnNjb2dfLVIxUFc0SUdvX2MwTmx5SlVUZXpibnNMMUFnV3p3aTdGMmRXYjNySXZ0ZnRlMVExb2oydk9UYXRlMEMyeW4wV0FpQzFoSFBYVGRfVEFhTmljQTA1NTBsajlLbW1Yemo1eTVxdndtZ05LVdIB9AFBVV95cUxNLUVFTWNHYTBkdkdTdTdYMFVyNmR1ZGd3eE5STmlRakV3eFdGR0djcDRkSVhRY1dGY3RBR1p4UjFWbzdHZWN3dzdiNUVJS2h5UEpwVTd0dGVxdnNpel9PeWdleGhVR2xDUW1IQ08tb21icFZwMGxGTEp5QnVYY21QRGZ5ZEVHSC1Nb1lnTzlUbXk3TUdqOC03eEJ0Y0hIekhWSFJwN1NfU3g4ZGZWbldNVjZQeGJSVUJYNzZhYVBKdUFlMnFUNFluZDUwRjVOYWloVU80QlRXTXVydjFzQzNVajNxclp2TERXeTZiZGU1Z25yT081?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Catalyst Pharma Battles To All-Time High After Huge Patent Lawsuit Win - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbW0yR0dsZzhYWUVrVzcxTWkxOUFHcEczY0VDSGUyQzVIUUsyTmJHUkJCZURKYjJyYjRPRVQ1My04aDJ4NUlsR3JCY0pYRUtQRGt1OWtJYnVLYUh4b0h2ZnlWV2pIYTZodDgwNUhWZnJ2Y2NPY3lZNjZNSk1QSDU4eXZmOThmS3o1cGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Catalyst Pharmaceutical (CPRX) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2I5WU51ZXp1T2l5Qk1MUHRHOWhheVUzT0cxcVRGVV9ELUJ4eUJkMXp1akdIeE10TmFnemxTZHg3eUkzV0lod011SllaOHNuUk1ITy1DcmQ4NzYzLXNFMU5PSmR1ZExpY2VQRVFRU0dKVnVvLUZLY3QzR1pkTXlReWRYX2NaXzNINnlIN1YwUm5OTTZyTXln?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Catalyst Pharmaceuticals Leadership Team to Share Rare Disease Strategy at Major BofA Healthcare Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3VnTGZmdEV2Y1FtQUpjSTBrYXBTY2Q2VmtjQ2xQS2FCSUJDZldlZFR1a1lqYVQxSXpVTk56ZUV5clFVcVlSdWU3THp5amdRMi13OUJTQnBINDVfWjNudkVkQ0pySEtJV01WQVFkY3kxbUJWRjVQR3dvbnVUVE8wRVF1eTFHZGtmLWhMRUk0NXlLWnBvVng4Q3F4M0U5dkVSeFFhYzlXODR4SWFfYS1RTFRLeEZQY0lKSHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Catalyst Pharmaceutical (CPRX) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0l4Ukx4cThObDVkLWVnb2lDZUJ6U3BpMFhaUzEzZHFaVzZHalJpYVUwOExNYXNCWC1POEdSYk11Z1dIWk05eDRhQ2dia2Y5aU1yX1k1ZXdHQUJab2NkVUFiZFlWTDQxeFpSSGtiMkNDek9VdjF5a1NRWmFxeDRJa2k2TXBFZ1hPMUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Catalyst Pharmaceuticals (CPRX) Names New Chief Medical Officer | CPRX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVC1vb3I0SU1VRjNObWJYci1ObURPWHlZR2pPZTZRdkVpanFJLTZWaHJQSGJmOXJUMGJUbFRqSzNRUXpZc016dFgycFNPVzNhU0FtOEkyelhrZU9RYnJOVHJ0eTk3UGNQT3NTLUFOZ2oxMXE0MXl1UTlJRXZsclhiV2NoRmx2U3JwX3FJVzhtdVVtZDJJOTZISmI5cVB1UkVHbHdiSHQ0a2hYTy1RMGN2bkNpbE1HMEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Catalyst Pharmaceuticals (NASDAQ:CPRX) stock performs better than its underlying earnings growth over last five years - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMzVoalFFUDRGYlZOYXhaQzhUNW1BWFJXX3UxaFdSQmdfQVpTdm5sQlVjeXpuVldVNDVZRDlXZzc5emNEOWR5WHlpVEs1R05aaEEwdzBZN2dlOUlnSEh3T09CMEk5MVJxWEhuNmNsWnE5Q1R6NXNENk1lZ3N0dW9nVDdmZWlrTUYyMThxMWZxTDZUdzNZanFyUGFobUVMMW9ET0prVEtDRlNwdC1xSG5TZlFsY1dzU0pZYVV3TzBrMmhIY2V0MllhRkNGcFV0VUoxX1R4SVQtbE1JZnJDcTRXQk55YUR4WG1FMnBzWjVfSdIB9AFBVV95cUxOVjdMbW1KRk9UUm05a0t1bHNQMmdXNUhueGt5b0JxazNKRTZvYTViYmpTUkR4QW5SNmg1TEdtamhnRkIzdThNcGYtSEJKU2R4bml2Q3ktMDlOMXpYZk1qYllJVzR6TnZQSlRxN01ReHF5U3pwNWNPOTF4Mm5fZEZNYzltTGlFTnJjWHpKQnAzbmFoelhGZ0QyVVoxYmpDbWV6NmYtZlZwLTZsQzk2YlE1cGhWUlF3MkNKMmltVkdCaDJITUVXTmhxMmk2MlRJS1pFSlJ5VFZaWW94V1phSUdxUnpWY3IxU2JkQ3dlbmRtSXhjUm1n?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Catalyst (CPRX) Is a Great Choice for 'Trend' Investors, Here's Why - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWpJS1h4QjVLMjhUNnJYZGVDWFdPMnVzTnRObVFDamZfT3J4VlliQ3RXTkNqYTRNbExjQ0xwRThMVTZEaVFmYXR4bGRFZjIzenNCV3NQcktmZzRubmVQaGEzdHltNThPZjJWWGJjUW1HVkdaNDZSVU14UGpsbFNuVTFpZnpJbl8zNEVpQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings Watch: When Catalyst Pharmaceuticals Will Reveal Q1 2025 Results - Key Date for Rare Disease Leader - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajdNWVFrWHcxQVBLdlNOb0VwNmducmRUR3hmRWtaXzAybmdhQjZUUmRtTXZGRWpTQWdPU2JTXzNsTmx1MkNzUUtSYlotQU53ek95Z2tNa0pCRjRsRlBoejZVQkZpanlRenhud25kbklYMlVpdDB5N1U5WkQweUVsY2ttaWxJSG56WDFFRGdaNTR2SHlRUnlGV3NpOEVQTjVmcUx6aS0zUzBhZmRUSHBnNHlJTEtRZm9jVlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Catalyst Pharmaceutical (CPRX) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPREc5WW5PMlkzb2stU29DMkpTcWczd3NQellKdWFDVk10OEl1TWFsNlBKZmdaQmttTFpfYVg3VFBzNzdlelplcDVuOTN2aVpUZmhzdm1JQW9ITnRvNllwcGdHVnhfdGVQSFE5VkN4cEUzaTZJdVNRQ1BDeUlHM19NdGtRc1d3WW40S3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Catalyst Pharmaceuticals, Inc. (CPRX): Among Stocks with Consistent Growth to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1BvVWdYTkY5cFZIZGxjWDhMdjRYWU9Ed243NUdKMlVyN0tRbHp4X0JXYTE3N3M2NDF5akdsbm9UQTdxTHoyS043b21yQWQ4dkVUaDBxc3d4VnBZTW9YY2lEMU1MTlM0bzJDbnVYbW8yQVJjV3pSRkhYX0cxaFk5aDZkc0YwU1pWTExNYjhn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Does Catalyst (CPRX) Have the Potential to Rally 36.22% as Wall Street Analysts Expect? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1MzX1JUazhMV1NZam9Vb3paR1JGME1IQlpwSFhHZlAzWlplZ0tWUndWZTRsTjFGOE9YM0x4Z01FOVJvTHNNUHdjWFdXVGlXSk5mOTZiY1J6X1JtbUtiRVJsWEgzT1AxM0QzWElHRE9vZzdYR1hUWXgtVXNKcl9zS2FLOWxsbW8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Catalyst (CPRX) Is a Great Choice for 'Trend' Investors, Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3ktbW1PUTBoVmJ4Zlp6M2VsSXdWQzZlVy1kUGJWYlNib0dZN29RUWlfMGdQUkZEN2VoUElLMFFBZ0lMMlItRGtwM0NrNUxGcmh4LW1UZldUTWFIdi1lTGotNmowYzA0V1dYLUhDenp6TWpjYW5ZeWpCcF9YNEFZbnJVcmM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Catalyst Pharmaceuticals, Inc. (CPRX) the Best Russell 2000 Stock to Buy According to Wall Street Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWdmbmZHUE1HZm9CZzdhQUNYZHl6SW5BS3Rjci1keDV5RHRlT3pfMWUwb0lYNVNPVGtzbG95WHNvNlB6cDZzM3FuVUJwdkZNd0hISUQzT2ppYWMyN0xzdHZsMHdTMENNVGx3ZDF2dDJWc0JtaUdWaHozbFU1YXpuVTM1U1BLUWZvVG5MOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Cencora, Inc. (COR) Stock Outpacing Its Medical Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXdhQ3o0ckFWa2tFMGFCcTU1RDNJSnhjTG11bE0yZVdtVExfcDJzMk9WQ2Y0QjlERldzaS1WZWRISm9uRHFPdGZ1ak1YTFUwQ0FtNlhhRnpGT3VWRHF5VlA5dVpSNF9KLWdfSGxqdlJtSUw1ZnByMXVMdURLZEFlRWZ3SQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 22.53
-      },
-      {
-        "date": "2024-12-03",
-        "price": 21.71
-      },
-      {
-        "date": "2024-12-04",
-        "price": 21.96
-      },
-      {
-        "date": "2024-12-05",
-        "price": 21.7
-      },
       {
         "date": "2024-12-06",
         "price": 22.02
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 24.82
+        "price": 24.9
+      },
+      {
+        "date": "2025-06-03",
+        "price": 24.91
+      },
+      {
+        "date": "2025-06-04",
+        "price": 25.29
+      },
+      {
+        "date": "2025-06-05",
+        "price": 25.36
       }
     ],
     "current_price_data": {
-      "price": 24.82,
-      "change": -0.14,
-      "percent_change": -0.56
+      "price": 25.36,
+      "change": 0.07,
+      "percent_change": 0.28
     }
-  },
-  "news_sentiment": {
-    "summary": "La tendance cl\u00e9 de ces actualit\u00e9s \u00e9conomiques concernant Catalyst Pharmaceutical est la forte pr\u00e9sence de nouveaux chefs d'entreprise dans l'entreprise, notamment le nouveau CMO qui est un expert en maladies rares avec 18 ans d'exp\u00e9rience. Ces nouveaux leaders apporteront probablement de la comp\u00e9tence et de l'exp\u00e9rience dans la recherche et le d\u00e9veloppement de nouveaux m\u00e9dicaments.\n\nDe plus, ces titres indiquent que Catalyst Pharmaceutical est consid\u00e9r\u00e9 comme un stock de valeur pour le long terme, notamment pour les investisseurs francophones. Ils soulignent \u00e9galement le potentiel de Catalyst Pharm",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

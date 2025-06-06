@@ -2,51 +2,163 @@
   "ticker": "AIR.PA",
   "name": "AIRBUS SE",
   "sector": "Industrials",
-  "market_cap": 128383082496.0,
+  "market_cap": 130303115264.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 28.980392,
-    "PB": 5.8186893,
-    "EV_Revenue": 1.781,
+    "PE": 29.448399,
+    "PB": 5.9231954,
+    "EV_Revenue": 1.872,
     "ROE": 0.21065001,
     "ProfitMargin": 0.06334,
     "GrossMargin": 0.15184,
-    "DividendYield": 1.23
+    "DividendYield": 1.18,
+    "DebtEquity": 64.595,
+    "CurrentRatio": 1.172,
+    "QuickRatio": 0.448,
+    "FreeCashFlow": 1687000064,
+    "OperatingCashFlow": 9025000448,
+    "FCF_Margin": 0.024119985471738645,
+    "ROA": 0.023610001,
+    "PEG": null,
+    "EV_EBITDA": 18.702,
+    "BuybackYield": null,
+    "PriceToFCF": 77.23954375854724
   },
   "technical_indicators": {
-    "RSI_14": 59.99489851861341,
-    "Momentum_10": 0.4200172700470242,
-    "MACD": 2.7647037229831426,
-    "BB_Percent": 0.7746886807354506,
+    "RSI_14": 59.716959706378155,
+    "Momentum_10": 2.6292978032963563,
+    "MACD": 3.39705717172643,
+    "BB_Percent": 0.8221012738413097,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8913686961113245,
+    "ValueScore": 0.8880923532352444,
     "QualityScore": 0.2887534170596138,
-    "SignalScore": 0.5650382827468583
+    "SignalScore": 0.5292068403492753
   },
-  "volatility": 0.0203133607359403,
+  "volatility": 0.0206118091967914,
   "beta": 1.236,
-  "return_6m": 0.088095912344847,
+  "return_6m": 0.0858523737623211,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
-    "target_mean_price": 182.5
+    "target_mean_price": 181.05556
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente met en lumière des tendances contrastées pour les entreprises aéronautiques. Alors qu'Airbus confirme ses objectifs 2025 malgré les tensions commerciales, la rentabilité de Wizz Air a chuté en raison de problèmes moteur. L'achat d'usines de Spirit Aerosystems par Airbus suscite des inquiétudes syndicales au Royaume-Uni. Par ailleurs, Air France-KLM surprend avec des bénéfices inattendus, tandis que Boeing fait face à des défis persistants, impactant ses perspectives à long terme.",
+    "sentiment_score": -0.25,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "French and Benelux stocks-Factors to watch - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnVFQUxpTWlGYzdrUjEtSkt3Mlg2cDhFOWVRdnlSd0dRWU9Oa0dzaGpSanl4MW9kc1ZuY0E2d2JWMmRuZDFRR3hzNURBRlJXZndIZkgzOFJEUzlDcVhHODZQV2FkOXp6U05BNFM0ZnMtelRXTGRqbHFEMDFFTWFjbzhUT1ljeEQ0Uk9ydXFfblVkZDVyRDJXbl9lNGU4blZvSXVYUHVodENrT3pyNkhPNXhB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wizz Air profit slumps after grounding planes over engine issues - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3FLdUM2a3ZUcDBYMUM4cnoyVzVjR3FCckl5WDEwelFKOWZYaVRRZkxiVWFSVE9lQVpMSmNkamdTRS1jTlpWcVRIRGRwSE5idW1kM1AweFpZWk5KeERaaHQzLTd6M1pHODVFclhSNmt2dE5sVXU5R05kYmhOT1pDNFZWUE9fZTht?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Airbus Spotlight (AIR.PA): Flying Above Its Rival’s Troubles - Securities.io",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tQUh2MlFMNXlneXhidHZOWFRsYzQxbVJlaXplSmhFVWRJeUZiOFkzc29kQWNuWnowT0Fvbi1qbDZmTm5BWTY5WVlXTlRRTEkwdUdlTS1PZjBtNWRMZzR3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Airbus affirms 2025 targets but is still assessing impact of trade tensions - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQlVBck9wUFhMeU83bEJDT1JwUWNUVEF3eU9PU19GRmljWDFFYW1Kc0xYdXAtYUVjQ2JodUFFOERVNkxmeTI0UjZIc0Z0YW90TTRlbkF1YUttVzVERWlodVlmS1FpYlFVVWFLM0U1R3AtNjF5LUtJWkdlMF9xazZSNlFZV2ZCbGlVc1JPX1F5ZzFHcnRnR2FhRlRVYnlJdTF3MTlEcmUxVUcyNE94a0FwNXdoVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unique late season pheasant stockings happening across Pennsylvania. Here's why and where - Erie Times-News",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUXVGUGNFZDRLOUZOdXdsVVd5d2djRDZ1U0o3cHJnWTRiMGFfVTREVWdyQU1NN1FuNC1HOF94NVJteHJJeGlIbkVLbDZPb0RQLWk5YWtLckpGTlM5WXhmYTZZY1JScWc3cmJ1TUNYSDNuenVxTEI5V1A5Vndfek5rXzdGcExxQjVpNXR3bG9COXR6blVVRzRwa2laQUhtbVNUY3dZLWJmd0YtZ1ZFMHJwWEZJaWZOM2ppLUY3cTFieFJjT1RTUTRQUEdiZGItMHVFRW9mQko2SUxWS19xRWdWcFM5dEtNeHo0NmRBTjBOQlNKcDNKVThpV25Obw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbus says it is in defence and space talks amid spending surge - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWFo2RG1QZUJPVFRpUC1MREt6M0NHNVUzaVF4eVVoRmhhdks3b1BLeWhqYlJQcDRTdkhJd3dEQ3pfTUpqMzNkMldWbjlzb0FOdVF1Vk9Ca1liN0Nnd09KWkFXWXFWc0tlQzRXWnlZSnFSRXR5YjdmbDQ0YlhkTmYxSFZad3pTbW9Gak5QZTNXdjRRRDMtaWRsSUFXX1BMS1liRHZrdlEtOFpITDlXRUl6U3JSV1VmYU0wVUxYZg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Huawei & Nvidia, Plug Power, Airbus buys Spirit Aerosystems plants - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRjZIVl92TUVEUGM0LXFMdnIwRzJHMXRLeDUwdFJVWlZoNnI0cTF6NXFyUzJ5R0RwekpVRlBEYkVHeWVSUmVtRGo2UHViVWFFRjlOTWI2ZWx2R0lQdXZFQVJjM1JCT0VNaU1fMnZzZElyYktIT1JqMS1ZR2JHbzZWM3YzOWI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unions warn on UK jobs as Airbus reaches Spirit Aero factory deal - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1Nxd1pzNnlKR0d5dXZoNkdLaUFKZEhOMEFoZEZ0bk9lWnBCR3I0YlhoV3NxZG9qQWNaaGJUdjE4TGFmaUpsTFJTaVN5R3RCT3dsSVlsWXQtQlEyeEJMRmVaMG54LWhyLWR1clBZbjhiYlJjSGJHa0p0RVJNa041M3BBTHhodDJwUm9BaW55cG9XbmFmN0VoUHVKZmpHVVdNSlVkREF0c1BkSWcyNXc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Down 39% from its 1-year traded high, Wizz Air’s share price now looks 68% undervalued to me overall! - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyUktka1lJN3Ezc2hzampqc1ExZzR1al9zRXNjT3FwZXRaSEFkenZCZ09HeGlWRFhFUGk4ZVQyU1VYX0RSX0U0Yk13ZGZtSnlaQUN5SnRoWGh4aDdVMDc3WU50ZkhEQ2pETTRQSkZUakdnSndadEFSV0hB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Air France-KLM surprise profit beat lifts shares to 5-year high - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUEYzVUhIdzhWZEZNVDNGdVFkUTFDLUZ4U3pkQnZuR2stX2lMei10bmFpSGgtNFFFWmhVeEdWenZYTlMzRTVtUTJlTDBJT1JTcGlDNXIxaXV0UXJmVzAtVG1taUpvOGlFb1REWW00NHVhcEc3SEdTNk1vNDZpMUxuTmpnZFh5UldCcWVfWFltbXRiS0tQekdoM0FnOGk2YnMySktmdl92UlhJZHFkQ1h0TDBtdWhDVEFHdnJudkxuQWhCakpjWldsdHZiZm9FcTZsUXl3VDZvQlo?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Boeing's new CEO may need a decade to truly turn things around, says one veteran leader - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORVdzSXpRZllBTTRZVWI0dEpaeW0zZHlLUTA2M21xWndoNWFsRDBMRFNnWEd1Ry0wUW10T2JaOG1yUHVRZ1kxc3RNNTJGYVNIYTVyc2RYRFREQWtMQktnN09XSXltcmtXNEh4b1E4ZDc0aEMtTmFFRUVsQmdwRVRSVUo5ZTg3RDkzSUlVQmo1X3dDV3pTbkx3cFAxQ2NqOGhia2NaNE81NGU2WVBzQ1pvaGkyTE1DY19yNzZsNXByT2NQWkMydjVUOHBMOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "China orders airlines to suspend Boeing jet deliveries amid trade war, Bloomberg News reports - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYlQyV2FjRlE2Vk9WcjdiWWRvOUpyYUlrU3ZLTXdydU5ZZ2IwR1BKTzJGc3dYanBqUE1SaGtmQWhKcjBYUGNMVDhuejJIZEI5Qzk2WUlDYTkxUEJuc2ZNVTB4V05ySkg4WjY2Z0hCN0lsd2szbGRwTnlBOXJHYW9kSGVxdjQxeS0zZ283X21RQkVNcnlXVXFvUFB5UEJPV0dxUm5uZDFmV2htTlkzT1VOTkhHUUtUUlBFTzNFZTV6X3NuNmlJ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Airbus to sign deal with Spirit Aero in weeks: CFO - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDJsT2h1Q0NZaTdyX1h6WDktR1JBWnhUZDJyNDdKa0hodXh4N1JNUC1QU0I0S2tLLVJ2dS1rNXRsSU1HX1hVVm9vRURWVXd5UjZ6RHV0UGNwbWRTaTgyaEQxMVh6YU04TmJvTkk1eVZHMmgyZWZlVGdnTlo4b28td2NCVGVsMXVEa0tYQWI1RGpiOFFqTk4tbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Europe's top money managers start to bring defence stocks in from the cold - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzVHdjZfLXVpbXdDRGhUZmE1ZHBqdDMwX3o5SXc4T2c0STllXzlHY3BXTGN0TVRpNDB0ZHo1R3A4b1ViOEhJZC1QYklQbWtmc0M3Ynp6ajljd3p2cnVUN1pUVEFyc3FaT2pzN1ZsWEdMTjgxenpDNG01OVR2amNxY2NUdzdqUEJaa0otT0lxLXlKRXFreUdqR1NPSk85eUhVQXVROXVpeE1IZjVoM1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbus leads call for Europe to create sovereign infrastructure fund, buy European - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzBmTWdvWXNUeWlvcEJxUlFXTC1jUzBTWTNpeVlUNFZMV2swb3Z5eW5VR3BOck9kVTRUWVFWZmVDRk13enlvTVdBNjhrMFN0SV9leThpOE1DWmJXanVydFVFLUhqd0o0V1NYRUV0R1V1a3NmbldFV0ZkWGxfTVYwYXZZZWVtWVF4UkhUSkJpaEY2amtjX0dtTndaWV9CSXVzVEdwbDEyRkVoTlRDY19GNmdRZzRSSGx4bmplMU0xSnhXQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "European shares fall as Airbus leads aerospace sell-off - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmd2bl9LaVR0U2VPT1VEbEd5TkNieFRQTzhfLS1OYTRjeEtzWXBMQXBZemtFNG1xdlhTY1JBZW1VZlRIakJab1Naa2VhU04zdnlUWFBWNHhNanU3UnJ2XzlvUTB3Y2xtYWdUYnBwRnI0QVZtQ093WlF6WVVSeVJPMXdFS1VhaC03OXRkYmJKdGI1ZEZaRnBZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Boeing on track to be 2024's biggest loser in Dow Jones Index - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMUx3QkVKZ1ZnRVZtOFdtTV81ZTVvclYteTB1U0RRMTlqVEh5d2hMZzljQWFhRTdPbW9vVlo5WWJLVzBFb0xuRmhDQ1VPTDlSS1U5aFJKaFlETDZ6eE05eWV6dTUxbFBoRU5JZV8zWkppSE5wNHd5YS1fb1ZkZ0hUR21Nc1ZPai10ZFNicEpxTkE5OWJOTnd2ZWdQYXVTS3NKLUxyeW9uWWdKb1hXNXVURHZKLTM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbus, Thales, Leonardo CEOs to discuss satellite merger with EU antitrust chief - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN2Rybk1CTkFGeGlFN0o3cWhhV1huaHpRTFNRMkF4X2YycUZINFdoRW04WjJQNDJmRXJKcTZFaWFpcFV6dHBjMUVVNGplR2RzcTBrMFdydXVGTUdmUHoxUC1fUzVtMVJqR0s3UkJKMHNfV01RbmFheDZ3b0lzVkFvbXFwWjdPeEY3Nmc2dVV6OUItNmhBVDNzbkZncV9XUHllZTdSemhPR201VG1EN0U4UF9JcjNtYzlnR3ZtUU92MUk4Ql9GTXl6MUtTYU5kUjVHcnFHOUZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exclusive: Aircraft supplier Howmet may halt orders if hit by Trump tariffs, letter says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbVJiZkplMUt4dHo4ek1yODVwbTJZeXQ4dmNKTEZKSmp1YUlzSmRUU19TbjlzdmZEWFVCbHlaS0tSWl9mQko2NWNlX1pDSWU5MlF5MlRaN0h3M2xKa1luVDA3eGhaTVk2UjVGNWp5RFpWaEtsWTR6TWZ4dHMwcUxYWC1WSEwxM3ZBVldRWVdJNGJRMUltZkpHQ3RJWXdncDJNZWRlT1JpVU10WFZ5OTA2VmRLemNlWDR3QjQwUWtNNU5nUDhtaXgtbVJ1bk45emg3TFZQR2VB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Planemaker Embraer shares jump after quarterly earnings beat - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWpRMk9HX2RZdXdEbEJ4TVpPUGJhZ09nMU9XNXR6NXNTdmsyX2phV0RDdGFZSVo2VHNvR3EtUDhPdEsweFBtRVpIeVhyYWxPd3c3SWdSZFhXWXJTOFA2ZGttX04zLXY3Yk1jZDlOOTZDWURhQnBYdHo4YjV1YUV6SE9PcUNLTFdiZjdlWGs2dFZUWnhmRGJRQm5KNWtOYTZleVN2dktlUUlsbTVUc1FoZG42NA?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 150.52
-      },
-      {
-        "date": "2024-12-03",
-        "price": 152.08
-      },
-      {
-        "date": "2024-12-04",
-        "price": 154.22
-      },
       {
         "date": "2024-12-05",
         "price": 153.54
@@ -534,24 +646,24 @@
       {
         "date": "2025-06-02",
         "price": 162.58
+      },
+      {
+        "date": "2025-06-03",
+        "price": 166.44
+      },
+      {
+        "date": "2025-06-04",
+        "price": 170.18
+      },
+      {
+        "date": "2025-06-05",
+        "price": 165.5
       }
     ],
     "current_price_data": {
-      "price": 162.58,
-      "change": 0.5,
-      "percent_change": 0.31
+      "price": 165.5,
+      "change": -4.68,
+      "percent_change": -2.75
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant des entreprises cot\u00e9es que je vous ai analys\u00e9es pr\u00e9sentent plusieurs signaux forts qui pourraient \u00eatre d'int\u00e9r\u00eat pour les investisseurs francophones.\n\nD'abord, l'actualit\u00e9 concernant les air rifles pour la chasse au gros gibier dans le Pennsylvania met en \u00e9vidence une possible hausse des profits de la soci\u00e9t\u00e9 GE Aerospace. Cela pourrait \u00eatre un signe positif pour les investisseurs, car il indique une possible croissance de la demande pour les produits de la soci\u00e9t\u00e9.\n\nDeuxi\u00e8mement, l'actualit\u00e9 concernant Airbus indique que",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

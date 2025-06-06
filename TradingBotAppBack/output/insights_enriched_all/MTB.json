@@ -2,55 +2,163 @@
   "ticker": "MTB",
   "name": "M&T Bank",
   "sector": "Financials",
-  "market_cap": 28934612992.0,
+  "market_cap": 28881643520.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.065596,
-    "PB": 1.1016182,
-    "EV_Revenue": 2.428,
+    "PE": 12.035451,
+    "PB": 1.0996015,
+    "EV_Revenue": 2.378,
     "ROE": 0.09405,
     "ProfitMargin": 0.30063,
     "GrossMargin": 0.0,
-    "DividendYield": 2.96
+    "DividendYield": 3.0,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 3636999936,
+    "FCF_Margin": null,
+    "ROA": 0.012410001,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 52.296831418479584,
-    "Momentum_10": -3.888565076383762,
-    "MACD": 2.506833264260365,
-    "BB_Percent": 0.4333705374400481,
+    "RSI_14": 52.91333435695271,
+    "Momentum_10": 0.7670574651549333,
+    "MACD": 2.045988672150088,
+    "BB_Percent": 0.3720725126362966,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8941562276717384,
+    "ValueScore": 0.8913753658586328,
     "QualityScore": 0.3655498040281689,
-    "SignalScore": 0.6331678469504174
+    "SignalScore": 0.5757063042520485
   },
-  "volatility": 0.0192178515523347,
+  "volatility": 0.0192555919984194,
   "beta": 0.61,
-  "return_6m": -0.1583369817094349,
+  "return_6m": -0.1405925359719833,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
-    "target_mean_price": 199.125
+    "target_mean_price": 200.675
   },
+  "news_sentiment": {
+    "summary": "M&T Bank (MTB) se distingue par ses annonces majeures, telles que le projet de complexe de divertissement de 650 millions de dollars à Schenectady et l'obtention des droits de nommage pour le Mohawk Harbor Event Center. Malgré des signaux positifs tels que des dividendes stables et des recommandations d'achat de Jefferies, des ventes internes d'actions suscitent des interrogations. L'entreprise mise sur la croissance avec des mises à jour d'investisseurs clés et une stratégie de développement dévoilée lors de conférences de premier plan. Cette actualité variée peut influencer le sentiment de marché en attirant l'attention des investisseurs sur la viabilité de M&T Bank en tant que choix de placement.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "M&T Bank Transforms Schenectady with Premier $650M Entertainment Complex and Hockey Arena - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWjRJV0JZaWtyNzhQcnJZVTkzaHhaUnRLRkNaNUVXd1ZKT0hoVXJBRk05WjczRFh3am9FazdXMzNid2I1dV92c05xNGd5ZW53WjNtRXlodzlSWXlMblBqT3NjR0l1SFNSNXpMUFFIUkZXc3hlcDJoSElfYk5FeWs2LVFxM1FRa1FocHQ1TG1wRDlXcEMxTnpLRlgxSl9HQ01aTXNaQ3VRRGlpRGg3S1ljZDhYc3p4UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "M&T Bank Center: Naming Rights Secured for Mohawk Harbor Event Center | MTB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWFTay1xY2pWODhvakgweE1mSWtkRnFrNWwyOE9ZY1NUQ05pZ1FIOVhGLVROWUNHUWwwZzQwUUNDdkdGUHE4TzQ4MHZYcm01d2s0SEVXNUxJUE9GMkpVV0hMSGRaMzNBdjJ1cDVQQVc0WkJlQXZXMW9GMEQ4OTFId3l5cm5mbWttak1MR0NnZjBFRXNuVUZOV3R2bmFCLTFsSkdzcmtIaGd6MGlBMHpxUjhYN1J0dHJVcTJaLS1R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "M&T Bank (MTB): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjNDZNUkhxZDAtSkVOMDFhLTZQVUdEdHpmYkFHRUZsTzdzWVZ5Wk10UHFxWG1BQ2MxQ1VkclhURGVVRklieHdjTGRFVEkzTEJyRzQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why M&T Bank Corporation (MTB) is a Great Dividend Stock Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxQ1VYc0ZpLUZnZnp4d2NNUGR5RGtobElaQjRxcWFRcW83ZnVwbC1yNWRSMk5BbWY0dXFOSEZUUll0NVhuTENSbTBnUVNvWm5JU25lNFdFZXNzNUNrQlhPSGxnbTFZZmRTYkVZWmhlak9GNUIxSXh3dk9B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Initiates Coverage of M&T Bank Corporation - Preferred Stock (MTB.PRH) with Buy Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0NwQ2VrQ2thZzRGcVozODNCSEc0MDU2YmJxTmlMeDh1N0FaRG1JTk1IdUROMzVMM2dQNXpzMG1fMjlnWFVjaFNDQVhoTF8tbld1X3ptclNYWmtvN25ZV3phUVpzTFFQVF9MbUZEVXUtV0lSNlZ5N2x2UnVTOWdfeEstd0FtT044SWR2TEtXVUg0Y2ttcmlaZVVXOWZ2RHJrTmJWeWRrbmg1LUlKNXZQV0JuUHhqY0J5NkcxbEgyYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "M&T Bank Corporation Announces First Quarter Common Stock Dividend - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa0hma3JxN29RVjdlUnB2ZGJLaWd0TS1keFp1Q3RuQi04cjZ1eDNRaGI5SElKNEluM2dCM3lkbEhzeC1OWWc3bHZxTkJ6M1U0Y25PSkZvVUttUlI0Q3R3MWMwNVNMb3QxdkNqQk5iZzRieHNLQmtWQ28wVWtFOGVZSG83cWRVdlM3UGprR1MycExhSWlkRk5EODVMMUNMTFVRMFdDbWZucnBlei03ZTFsSEpBUERNSzVjVjdOVTFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is M&T Bank (MTB) The Stock With The Most Insider Sales In The Last Quarter? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QS19KWjFHdGRpRXNOc3FWV3BuUHQ3dHRaMEVKeVZKZlplS2VnVUM4N0NmY2xVX0k0M0tRbUhPWTF0YTQtZmxrWHBRemJpN1hLUVROamdURUU3d0VuWlJZMU1EcG5WOVVyRTVJREs0NjlHQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "M&T Bank Maintains Strong $1.35 Quarterly Dividend Payout for Shareholders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXFBWmYzNFlRMHloV0wxTTJxcmNROWRJSW5fdUd3R1VHa09KQjlGclNRSm5YbC1RUkdxVGZDMGpOQ2hhXzd4allOY3JIR0s1ejlVbjJoOTZhdHJYRnRyV25qNGVISDhMcU5Fc1huNEdRWUFjaXp2N2t6ZTJrMGEyOENKRkp2bXh5NmllLVpqRWRNSzZzT0tOSmZBLXc2Y09IVzNhTDU1M01iZjZmMTllSEZB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jefferies Initiates Coverage of M&T Bank Corporation - Preferred Stock (MTB.PRJ) with Buy Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdGdRY1FuVC1US0l6c196azhHcFZwajh3cndYaGRfc2RLS3RrOWJ1UFVRREdzdDg3Mjh6OENkMGc0NnFtN1I1VXdUZ1cwUXE4dmJjX0MtUlBDSnNjZEdVSWV1eXIzdGtFVEExcThYN0pscnE5ajZiLW1Pam4wRm1qZzlvMDdlOXBHM2E5b185Q2ZvUXJMMWpTeGl3WXltQXN3RlpDMm5ZaFg0X2xqOTRlMGZUeU5aXzRCMDJrN3o0OA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "M&T Bank Executives Set for Key Morgan Stanley Conference Presentation Next Month - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONV9uekRDcEhDcHRQOThveFNoeTItQ1c1WGhFeDJLLW9EMVBUQmNMVWQwYkRNTkRJak90UHo5bktoOVV5TTExc0Nic3RFaExRRzdabl9NQTBwV1pvdy1lOU5pWlBnUmRyeHpfQTZzNXRrYUl4c2k3Rll1WkFQeEg1Zy1qYVFjNll5dTllUTVkSWtEcUdFdkUtYjd1dWYyZlJxb0V0ZlJ3cG5sVHF5TTZpM2dQTTk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's What Key Metrics Tell Us About M&T Bank (MTB) Q1 Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDFvTTNrZV9yaUw3cC1kd0ZucWlFZkV6OTdqYl9Uc1Y4VGhMMmNBaUxEUEFjbFlyeTZzWkJUR1QxS25wMzB6a3lWY01CS1l4RW1iVjhNSXVNRHlrb0ctZmNwVE0wTHJGZXlXRm4zMWhtQlZJSEcxekl2M0hUX0J5dkYtbXo1V3I2Q3BNbDVwZXg3eXBMam44?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are You Looking for a High-Growth Dividend Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU195amdtWTFWWDh0SXFpMXBTVUV1X2o4S3dlQ0Z4VzZOMm50WkRlTHctWThPWDV6NEU2VFYybjhIV3RxWU85RGZHMHczY3UweUZ2bnJwS2pZSklKZFNUYlRHVjNpUzlsOXFJUExQVnZtTVFoLVBuWE5IbUJ3b3d5bkpxVThCYTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "M&T Bank Reveals Growth Strategy at Elite Barclays Conference: Key Investor Updates Coming - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbEtIM3NHQl9pLWotT0tLSFA4N3oyVURjZWdIU0ZfbVpjMEpkRWVyY2NqZlV2OTlFeUN3bjlSMU5LNFFWSjMtVEpwdVpGcURsNXJVaUZaalVzVW5WVFYzYVUyZlVfZXBBSTh3TFFibTZvblJQZVNvbU5fUkgzR0xJa21VaFVOYmg0Ul9oS2MzNEVzSDllb2t0Qk5PcVFZblFCTERuMU1YSTVjb1Q2QlNQX28tbUhLdWd1ZndBSFpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "M&T Bank Corporation (MTB) Could Be a Great Choice - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2c1Y3UVlvZ0R6NFBCVm1MRzhjMVNNM1R5QnRsZjIyX2pzWm1UbFRkQmR6VVhoQTBtOGhYSUVOaUxENXNlMExSZnpwYU5fX0pjV2d5M2tyMXlnZGkwMVFaX1VuYzgzWnRaZUl6d0VlalFKM2dMQmNoX21n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Wall Street Bullish or Bearish on M&T Bank Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdVg4eGhXRTRoeFppNVBEYUx2WjRzR3c2Tk4zSS1ZMzJZcnl1Z3NyYThFbzNpUW1Odk9rMXExcDdwenJ1X0FyQ3lOWUJPclpVYnlHNkxOVEstSWZZa3RTZ0NYUlhWZjNKeGpUbVBubjFGWE9lNnNROHRUbk91eGRIYU13?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "M&T Bank Announces Two Preferred Stock Dividend Payments: Complete Details Inside - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTFKYmRxRmdnSzhIN2xZd2lzQXNxLVZlbjVnSV82Wm5zWm5SeXhGbHpUdlJ1RVA5X2RRQndwN0ZCUWFmNUY5NVh3OWRLUURELUpvVWtBTlRVd2loT0xnUEZ1VkZVbzBtYWtYZDdXTmM2RmdYX2JjenhpSmRYZnZ5YzFLV3JxekxaNUtQbGZ1eEZNY19VYUxYSWlvMHZXTEs4MlRWSWtlcXRjNmx2MGpJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "M & T Bank a Top Socially Responsible Dividend Stock With 2.9% Yield (MTB) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORkZnbEFnMXdseFBITnlfY19GdWpLMk9OT01Dd2luZW9LZnNsM1VKNWRhNmFSMWk4TGRHd293X1lUN2s4RTA2QTdCVkR6MWVDbUw2SEIwZXA5a1lxNDNIOHVMc2VhaXNESlhYVEdNT1A1dUhNYmQxMUwxYVR4UmtCblhybWdCUEhYQVZOMkZtblZtNHdNeE44bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why M&T Bank Corporation (MTB) is a Top Dividend Stock for Your Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDbjljUEZvTnlvNi1YelZqTzFpT1B6QWtNLTRTQVotN3ZyUTg4M2dzZ0l3SktxNk0yeGJDcDREUWVnUjB4UkZ5d3dxVHRPTFZmSWNKZmhLXzhmN3FmLXZtdHNZLXdVMkRwSWhOZVFTTW9mLWtqVDlnbUpn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Historic 40-Year Partnership: M&T Bank Secures Exclusive Founding Partner Status at New Bills Stadium - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0R5cDVBVllTeS1UWVJfeUdINW1yVEstZ1NUWjJaT2RWWEstYWwyM0IwUEtkbGM1S3E4WHhseWpJanVwWEt6enI0VTc1aEFmYmZENFBXUTJ1cXdGYW5laXFZWXdQandzQXBnTEZZbFdncFVtRnhudVcwdDFfUkNpVklYX0xQNE90UUM4WlB4MXlfRHM3YTA2djdMSzNOQng2U1dz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "M&T Bank (MTB): Among the Best Regional Bank Dividend Stocks to Buy - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMTGVISWdvcDB2X3VOX1dBNVItVXlzZ3pFOElpaW9uYkFVdDZQTUY1aENQd21UR3BZQ0hTTndUTnhqWko5dk4yMzhJbU5KbExKWmR0eWpXeHFCUDhheHFwTEN4TDFhZWJkSG9lVFJ0NnVuZw?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 215.69
-      },
-      {
-        "date": "2024-12-03",
-        "price": 214.33
-      },
-      {
-        "date": "2024-12-04",
-        "price": 211.88
-      },
-      {
-        "date": "2024-12-05",
-        "price": 212.42
-      },
       {
         "date": "2024-12-06",
         "price": 211.26
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 180.03
+        "price": 180.04
+      },
+      {
+        "date": "2025-06-03",
+        "price": 182.61
+      },
+      {
+        "date": "2025-06-04",
+        "price": 179.87
+      },
+      {
+        "date": "2025-06-05",
+        "price": 179.91
       }
     ],
     "current_price_data": {
-      "price": 180.09,
-      "change": -1.16,
-      "percent_change": -0.64
+      "price": 179.91,
+      "change": 0.03,
+      "percent_change": 0.02
     }
-  },
-  "news_sentiment": {
-    "summary": "M&T Bank secures exclusive founding partner status at New Bills Stadium and extends its partnership with the Buffalo Bills. The company is also considering issuing preferred stock to raise capital. Investors are looking for high-growth dividend stocks, and M&T Bank is one of them. The company announces its first quarter common stock dividend and maintains a strong payout for shareholders. Jefferies initiates coverage of M&T Bank with a buy recommendation for both its common and preferred stocks. Oppenheimer hosts a meeting on M&T Bank's future plans. Overall, the news indicates that M&T Bank is in a strong financial position and expanding its presence in the sports industry.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

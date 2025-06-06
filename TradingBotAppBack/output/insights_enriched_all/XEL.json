@@ -2,55 +2,163 @@
   "ticker": "XEL",
   "name": "Xcel Energy",
   "sector": "Utilities",
-  "market_cap": 40211779584.0,
+  "market_cap": 39635017728.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.505882,
-    "PB": 2.0297534,
-    "EV_Revenue": 5.233,
+    "PE": 20.211765,
+    "PB": 2.0006406,
+    "EV_Revenue": 5.166,
     "ROE": 0.102589995,
     "ProfitMargin": 0.14097,
     "GrossMargin": 0.44152,
-    "DividendYield": 3.25
+    "DividendYield": 3.33,
+    "DebtEquity": 163.558,
+    "CurrentRatio": 0.796,
+    "QuickRatio": 0.516,
+    "FreeCashFlow": -3678500096,
+    "OperatingCashFlow": 4618999808,
+    "FCF_Margin": -0.268542862488939,
+    "ROA": 0.02172,
+    "PEG": null,
+    "EV_EBITDA": 13.206,
+    "BuybackYield": null,
+    "PriceToFCF": -10.751257573434627
   },
   "technical_indicators": {
-    "RSI_14": 48.24260753690025,
-    "Momentum_10": -3.744127089400632,
-    "MACD": -0.0837265915676965,
-    "BB_Percent": 0.3959920809369489,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 43.264686139929275,
+    "Momentum_10": -1.9665332322773152,
+    "MACD": -0.2942755696514894,
+    "BB_Percent": 0.2479023612380988,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8839774779553775,
+    "ValueScore": 0.8812267004230057,
     "QualityScore": 0.436498632063951,
-    "SignalScore": 0.6533401935994962
+    "SignalScore": 0.6423821346614995
   },
-  "volatility": 0.01420754290726,
+  "volatility": 0.0142530961932812,
   "beta": 0.385,
-  "return_6m": -0.0044096106087768,
+  "return_6m": -0.013980976868706,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
     "target_mean_price": 75.125
   },
+  "news_sentiment": {
+    "summary": "Xcel Energy, société en transition énergétique, affiche une réduction de 57% de ses émissions de carbone, soutenant ainsi une stratégie de croissance économique de 5,2 milliards de dollars. Malgré un dividende déclaré sur ses actions, des mouvements significatifs sont observés dans la détention d'actions de XEL par divers investisseurs institutionnels. L'annonce des résultats du premier trimestre 2025 de Xcel Energy est attendue avec intérêt par les investisseurs, témoignant de leur confiance dans un avenir prometteur pour la société.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.95,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Xcel Energy Sustainability Report: 57% Carbon Cut Powers $5.2B Economic Growth Strategy - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHUwSFdRWUNMTlJ6QVJQcW9aWTMyQ2JIaGhhM2IxbkJyTDdCaldkY1lIWklyX1Z1Mks0aldqNS1ncU1kMXk3NkJXZUE5aEZFTS1nM0ZVUW1iOGRnMmxLMTZIXzluelZieEw2Sk95dmlDZ3ItTm5ETl95MFhsdHJuVmtRV3k5U3dWWkIyRGJUZXh5RGR2UXBDWDg0NkNJNkJSZktBQTd1MDh5UHpuQU1SeWQwOTNiQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xcel Energy Powering More of the Economy as Energy Transition Continues | XEL Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdlRERjZzM1d5R0ZVei10ajR1RHI2blE4T3lJNFpNNkp4dHdMRTJOQUpvYm1xTzYtbzZuX0xJRlFSejlJSWwyNlA2NlBuY0wtdEg5TjNOVFduTVNjMXlwRC1yLXBiY2pMUTVnNnMzVlhXVXJ0b0lJbU9DaXh6c0NVV0VLMmRvV09KSVdlYVM2MlFwYy1kSzNzVGlCNmxLQl9FeVN2Mkwta2xhZUtSckFzazRfME9TVy1xWk83X0xtTjhDNkk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xcel Energy Inc. Board Declares Dividend on Common Stock - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamp2U19ZNzBTcnFFZVYyM25ZM1h1Zk1kdlR2MmNJT0dMYi1BdEtaRFFpcGJiRWJaNV82NXFiNklVVE42MkowYVJiOF85d29rMlBudXp0Z2tLVXRLVUJHc0RDM29IeVBlX0RUVlJFWEZBZVRJaUhsU2kxUC1tUWNVYk9nZVVGRHJjUlJtQWdiQnFkZWxtQXJ2UTZiZWFNQ1NVbUZjSkRYd3hvdEY2azJtRlpiOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBC Securities Inc. Buys 46,433 Shares of Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1dBaV9ocGVSNUlPNjdkQnVoczBQZEt6Zno0dWc2a1FKWkIzS2phSXgxS056eHF6ZkF3aS1pVVZJUHhSc2REWkNma055bzdXVE1oclI4ZHU3Y3lqcERacFdzb0lLUkpLTHVlTER0eDloVUFOMmxjR0M4aUFia2J3bU1aQkNSR2ZGdFlhSE9tQ1ZTQVdIN3lGRExaLWJ0TWlhQUhDMVpmMzJNZ0hRa2M4VXU4VGl4VUlTdDdhYmotbHNzYWtHOG9VYTI1QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xcel Energy Stock Powers Ahead With A Bright Future - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM1lTZndiRTR4d2lqb0lyOEtVcGlSdV91U1R6azBrNzBlSUpFVVpETC1HbEpDbGRYTE9URTRKQm9vWk1yUUpHTVpWTUlFeFg2T3ZfaFlOTkpUMXJ1VGhwTmVOSjNnQnN3T2hEUXB6SzZ4elFFREZ1RU5ET1FaODJLQ3phX29vZXYzN2tOVmZZQkkwQkZzaUFkQ2FpamZ2SkFKNi1ySFh1QUY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xcel Energy Inc. (NASDAQ:XEL) Shares Sold by LVW Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzZWeDFCTnpmcWw4OUhKZThqZXo2N25kVVMycHFWMkloZmZ4SkhiWTFlWDlsZ05iTW4tWEdDbE9lUFR1MmptZDFtTk1QRTJybmtJTlZtRDlTeW53RGl2SUlFUzg0V2wwSFZ5LUc1V21xWXFsb3lhX1hMRlNBaHozSjFiY1VhUWIxeWJXZnlyVWpDOVlCNzVhUktUU0tldGhURUp5bS0yajZIcW1XRkdrdnoyR01xNEVLeUhjOEFfdlN4Q0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $82.64 Million Position in Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbUtaY2haOGN2aG4zVGV5YTNoYWdocXBCS0NqbGpXUVR0VWRrUzA5dE1nM2NSbzRrdkJ6eHZWZEoxNGRSSFNTaU9OUFRuaGl1RFNjOEg1UkFUU0p4WWV3U29DMjREN295ZHBoSWlpY0N6NTQtb1NiZ1Y5OV8xY3BDOFZ6amVJdGliT1htMVFfVG9vMWtGQ183WDgtbElZeTVuR0k2bnpqSW96VXZaMjFJcFBSZms2M2wyMm1Rel9XSjI5aW5GcjVyelpDc2FqT1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Gradient Investments LLC Sells 6,038 Shares of Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdjFwaFlJRzUtV1Z6OGJuWEZ4d3VjQ3ZoeHR1RXN5T2E1NG4wSmVDeXNSdmdQcE1OVEh0aUp2XzI2SG5fUXJXS3Vld0s2NHExWnpVQ0VXTkVUa0V0SzBvRmFuejNhZ19oMFJ1RFNkYUlMcURfc2VuQ1Q3WE94MnlrMG5XYUtlMWhZNEpHY0lZVERXMEtDUGRnVVBUbWk4eU5OT0tZYnZZYW04cy12ZjhZTzIwYWdWLU0wNGcxb0JZdkJvM1VnQjNzMVIzLXA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kure Advisory LLC Invests $293,000 in Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmN0QUg5LUdxNXFFNUFRemZPWmE0QWxLQWpvSFloM210ajNLOGRuRWtyYTZ5bU1fN0I3YzRzOEpCZW9TWEVmZ0hGal9ZbWk0WktPMkVtMHJfcVUtbWlub2VKVU9VYVR2MzRiMDZOcjQzNkw0QTRzMzdycUpYN2djSUVEeWlUWWdOLUt0X2JQRk04dTJOMGNtOE5rOURab05aTjdvWUFjLVdMdjd5Z3BnWlR0cGxWRDViR2p0SWdFUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Acquires 7,387 Shares of Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlhpYjUzV2pvZW43Q1h6YW5fTDAycmVVa3RuT2pMSFpTd196VFJZb0p6OUUydWVTVDFERUJEUGlsWHVoRGF1SkcxRXlzUmp0OTFyYWNibWtubTJqa0tSMFhXczBFR2ZROVFtOWpEYndGbzVaOVZ5bWJYVUxzdENfaUw3OU02UVI3X2xWbmw2bDNaWUxnZlJBeFRyNVp2N0Y1Ni1kSE5MaUZNbTQ3YWZZalBPRGdQdWw5d3FjcXpHa25INHNuMWJ4cGNqRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Has $26.96 Million Stock Position in Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUnVkZnVJVGdkOHdyamh4djVzR1pxVjF5R2lYdlhaTmRISFBVZ2c3dm01ajlBcVRIS0pQVnAyU0FsNmlNaW9lcUw1YXNHaENwMTRGUUpGX3dNTFBfcFZTVnphdGVXdUJ6TEZhMkhQWkNOT243U09YdHpJak1RT2IzSXlIZlJEUDRkZDdyeGMyeE13NUpKbWhaLTU3QnJtQ2VLaVE3T0tBbEhsQnBEcm5WemFVaVVCdTVnNzl2NXFlR21OMXk2RnBEMnVtS3AycGpCU25QRnNicUZxNlRwb09V?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Boosts Stake in Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXdUZWJxb2RxV3Q0TjdHWktuSDUxVEJZMzFLZXVpREJEOExaODVkd2wzTUg0dDIyLXZsSTZhNGJqQ1NLdko3Nmk2alNybWxUR3JXRjN0Y0pVaHM4NnF1NVltTmp5eWlyaUNhU2I3cDNSNWhGbEJaT0lBY2h4enh2VU5DNzhfdkhlODdCS0FidTd1VVVuYV8yYS0wSExJdUh5VjYyWnRQajYxVWszQmZ1dE0xb0ttbEJUN2RXMXA5R0hUeHhs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Takes $20.75 Million Position in Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaDBjQW1CX0JORVpVSk9WZnY2WS12b1RjbjlTV0ZOSExxVDhoRWYyQ29BOW1GRElWY2dkYkNpdTJqd0liUmZ1QUNUX2FJVkI1M19jY1o1THNONFJ0TzVLeW5oblJwT1VxZHUyMl91eC1mZDg0anFXS18xS2RCVlZOa2hkOEp6eW8zWmcyQ05zcnRqc1VzeHR4SVhtbHk0NEIwRzNLRi1EejhZXy1TRlltMHBpMmpVYWtrSFlRQnhDM3lxcngwdFZJQXpLSXZUOGM2RF9WSnZkbFRCRTBQVW1iQ2ljclJVZDN3ajJ2Wmt2aEZWYTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xcel Energy Inc. (NASDAQ:XEL) Shares Sold by Mackenzie Financial Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWRQX0VtTzBjNzU2VGNqZ1RJRXcxOGVZczFnQ0NaT1VjMkZQVXdaUUxTZHVlMEZweHVNM1dsT3ZJLTVpeTNyU2hCaGlNejFCakVkMGxCLVNXYlNkYTRqUnNKck1QRDB3MGxuczZWR2ZoUUp4SjVpQmltSE5STGVDMTRpQlpxQi1NTGNTeVVLZWNCOWlndnBVV3JpTWwzUVNYN2lWci1aZEtOUDlBZTYyNVBhaTJRcEdob096bzNCUjhOeHlHVDFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Summit Global Investments Acquires New Holdings in Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmRNbk9ya3lMZGFPb2V2WVgxeDZsODR5cE5rczhqNWkwYnRTYUI3SVRJUXIwN21vbDIxYWtkS1kwN1dDYWI2Ml8yLWNYZ0xpdXlaLWU0QXY1TUtObktVa196alI5R00wX0E4NEw0YlFSNjBvcUNRZXpGMnE2NktsaksxQnJ5ZDc0d0tXVjdvcExvSFRQUVZod2NJNlB4Mm5oSEhNcDNERE5QS2VUbzQ4Wi1YRmVReUNYV3c0U1B6QUw5TEhIUTV5UTl3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "111 Capital Purchases Shares of 6,373 Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRndhYUhqV05ObUlYb1lLVGZsNHBUOGFHenNxTUR4cXlOS1VyME04aENIUUgyb2FUU19HTzJCQ3luZ0NMbl81eGlNM3FIc1B2cUpkVWJxdm1nVnJSRGtlbFlPTGZ2RjktcGRvWUxsX2lMa3F1R1RSNFd5ZllhZTNIU0JPNUJwcG8tLTNuS2hlMFlSOWJ3WGt2ODVXaGF6RDV4bWI4TlpsLWNvckNLM3ZGZkZnM1pRUVlfN0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "First County Bank CT Takes $541,000 Position in Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3Q4d3ZfTi15QVJ4cy1TWUN3Vm54VFFXclJ1TXlGY0ZHcDRnUTVsTzYyLWRoYXRnRFI5OTNtYWZQS2dDMjBXdFk4QmZRVkNiWXFlWjNlbkRKZGtmQklhLWVWU1RnSFM4SlFITEtfLS13MWJoaVJhX21LU2pJbHAtc19Fa2xZbXMyTjhiVDlhX3FGTFJVcnZfTXc5MGVjZnQ0UEpPSkM1eFFCZjZ1YjBLMWtaRmlXN203emlFNk1RUmNlTFA5dHRz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xcel Energy Inc. (NASDAQ:XEL) Shares Bought by Ascent Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ2xFYVFDYkx2c1pKZTJ0VVg0TDJLVThEVEpuUWxiMmJURVlNeEFkN2tGTFpybC1KVVQ0R2hhTGF3cC1rVXRfWjhYUFI5WXNGVzctdHFZb2pCTXQ2c21EaHR1RW1aN2h1TVpCYzQwWHBxS1otcm1VekhaSkhyT3IyenVKZG5fa0NJZHNpTlNzMDBYT0syVWJ2cWpwZWowaGlsNk1qcDJwQnVmRDQ2Z3FzOU9uM1dGT29zVVd1b0M0OW4yT0dvc3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Contravisory Investment Management Inc. Acquires Shares of 105,171 Xcel Energy Inc. (NASDAQ:XEL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdS1QRWVEZld1S0hzdW8tOUVBWXhGajRjaUFScm12NXpMUy1TQU5BY0tkLU1SRThxU0FXR2JnSklzTkFtQlZPWFdacUZJLUlfWDYtLUhLb2hTQ2RWVThnQ3g5aHp4Z3Y4dkFRRWhBTDRKU0QzeUNtaVFPZjB5cTB6SlNkRHN1SWVqc2VwN0Zfcms0SklCNW1SSzFQNzVNTFFuLVo0WDNsb1EwMnhxNWRuWHVzNmhxd21jaXNPcDhtWFBTQ1RVQ0JBeGNMdDlYVEtDTlNGQ3hZWlQtcWJ4cWNhdkJlMmI3dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Xcel Energy First Quarter 2025 Earnings Report - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFBMT2dWSVVjbHFJQ3BZM3R5d2x1X1ItdWpBZFkzQjZHb0JTdTRNMmg3Ym1fZU9ZZEJHQzZ0UjB1bk56ckE4WWRQek4taXhjVzNtMnBmSUNoOXZMeDJBbFFFQ0JFeVVZRmszWEppS3lxYzRKRFFUc0dnUTFlc1RKUmJXcTlvQjJSbGozTDEza05SbzlyeHhucE80aW8tRDcwQlE4ZlFR?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 71.2
-      },
-      {
-        "date": "2024-12-03",
-        "price": 71.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 70.72
-      },
-      {
-        "date": "2024-12-05",
-        "price": 70.86
-      },
       {
         "date": "2024-12-06",
         "price": 69.74
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 69.72
+        "price": 69.73
+      },
+      {
+        "date": "2025-06-03",
+        "price": 69.33
+      },
+      {
+        "date": "2025-06-04",
+        "price": 68.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 68.57
       }
     ],
     "current_price_data": {
-      "price": 69.72,
-      "change": -0.38,
-      "percent_change": -0.54
+      "price": 68.57,
+      "change": 0.07,
+      "percent_change": 0.1
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici la synth\u00e8se courte :\n\nLes titres de Xcel Energy Inc. montent et les investisseurs \u00e9trangers ach\u00e8tent des parts de l'entreprise. Le conseil d'administration d\u00e9clare un dividend, et Gradient Investments et GAMMA Investing ont achet\u00e9 des parts. Une analyse du rapport d'activit\u00e9s du 1er trimestre 2025 de l'entreprise a \u00e9t\u00e9 publi\u00e9e.",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

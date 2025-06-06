@@ -2,55 +2,163 @@
   "ticker": "T",
   "name": "AT&T",
   "sector": "Communication Services",
-  "market_cap": 200925839360.0,
+  "market_cap": 199928545280.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.118711,
-    "PB": 1.9353238,
-    "EV_Revenue": 2.899,
+    "PE": 17.033743,
+    "PB": 1.9257178,
+    "EV_Revenue": 2.874,
     "ROE": 0.10885,
     "ProfitMargin": 0.096429996,
     "GrossMargin": 0.59897,
-    "DividendYield": 3.99
+    "DividendYield": 4.06,
+    "DebtEquity": 119.246,
+    "CurrentRatio": 0.704,
+    "QuickRatio": 0.444,
+    "FreeCashFlow": 14413375488,
+    "OperatingCashFlow": 40272998400,
+    "FCF_Margin": 0.11724482480765785,
+    "ROA": 0.041739997,
+    "PEG": null,
+    "EV_EBITDA": 7.982,
+    "BuybackYield": null,
+    "PriceToFCF": 13.868544076605964
   },
   "technical_indicators": {
-    "RSI_14": 56.35693149050601,
-    "Momentum_10": 0.6673931380722966,
-    "MACD": 0.1263004520500388,
-    "BB_Percent": 0.7239283283014087,
+    "RSI_14": 54.29212422103448,
+    "Momentum_10": 1.2923242026161157,
+    "MACD": 0.1306525766137696,
+    "BB_Percent": 0.7083946416177002,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8915826476361619,
+    "ValueScore": 0.8887343732180786,
     "QualityScore": 0.4276717183439164,
-    "SignalScore": 0.5824054609038198
+    "SignalScore": 0.5656359971346583
   },
-  "volatility": 0.0165396931197131,
+  "volatility": 0.016174597014772,
   "beta": 0.604,
-  "return_6m": 0.2580440773387182,
+  "return_6m": 0.1924403270154751,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
     "target_mean_price": 29.25808
   },
+  "news_sentiment": {
+    "summary": "Le marché récent met en lumière des divergences d'opinions sur plusieurs titres. L'incertitude autour de la valorisation d'Arista Networks et Nvidia contraste avec l'optimisme entourant AT&T et Visa, soutenus par des actualités favorables. L'intérêt des investisseurs pour les actions d'entreprises énergétiques et la résilience du marché malgré les inquiétudes macroéconomiques soulignent une prudence sélective dans un contexte de volatilité.",
+    "sentiment_score": -0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Here’s proof that buying stocks at all-time highs puts your money at greater risk - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRzNHb0NGdHl3ZDFSdElTRHBhRU5OMUE2RTM2ZkVmVFNoNXVQZFFlZ2JLMnFhd08ybGZEUTNDV2tVOUhTWTZubVV5eVlTblpTS1dWWERaaEdndUhmUmR1d1Q5ZzFlUk1QSW05YWp1ZExrUm8tZldiQ3AyeEd1bnpmUGdOZzlDZzFndWlGcWtaRzlJNHR6SU9qZjV6NGhnSkJwOGJOVERUUlNwX1lwQjc0WVRzX3RKN3NwOWJibmtVWGZiMjJWblV6SA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ChargePoint Stock Is Dropping. There Aren’t Enough EVs. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HLW9zeUl5Z19qTUJwd0h0ZHl1TC0zQ3Y5Wkg2YmUzMGRQX1ZKSTFFSTJobTRXY3h2VVluZWt3LWlkRGZIN29GU2tMVlB2WU8tNkd6UzlHTG5IMDdqeTdHNmhDS2lSWUxYeTQyMGs3X2lvNkRpV0U1b1FDV2E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ollie’s Bargain Outlet Stock Isn’t the Deal It Appears To Be - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTFTOHI3Ym1ULXVlQUVGVWVTSzdiYVE2RnB1c2tZdVVzdWxCOW5neVkxdU1QT19LTUp2cjVTdjQ5VVloRGhkR0loTTh3bFNKLTdGNzI1YVNwMy11c2hsc0RiV3FIZlUteHgtODNIem9pdVVHeGdhTWZvbkxfcnl3by1KMkxQSkoyYlkyR2ZfYkRVMUJSZDBCWGV6cFRXQm9aUWhEUks3dWF6RTBhLU1Hc0hCM2lnMWx1WmNN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Arista Networks Inc (ANET) Stock: “I Don’t Understand Why It’s Down This Much” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHk0US1oRFBrUjY4UzdFNzlhYUxpTzFSZEs5c0xaMGNqMmRtYmd1OV95YWNWSDk2VFNVclRiUU9aTHBqVkNKNjE3V1hYaHY4Y2xSaEJpNk01Q0g0ekJoS00xY1dJanVuMnpQaW04aTIyLWdQbkFsNGtQM2VWRldvTm9n?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Savvylong [2X] Tsla ETF (TSLU-T) Stock Price and News - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMcWZnMUlKbEIyOUloN2lZUmtLcHUzcVYtREVMSHZQdVJISjRndXNIa3dub19sN1hrckc4WDB6SmFsTDQydW1VTTNEVlNVS2s1dWp4Z2NmVDd2YkRTMG9GMFI4YV9kTER1czJIQjdOdFRKQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "‘Don’t Fall for the Hype,’ Says Investor About CoreWeave Stock - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVhFR2pqQndqSnAzZnJxOWFiZlJKRkppSEx0cU4zRGFkeWRCRVNjb0dQclZ6cHYyRXJaOXdjRWIzMlVQOEZPenBCQjlIZ2ppM21JR3Y5VjVjQ0p0R3pXLVY3RmtPSWFEbGtxX2xyZXlPSGxsakVUZG5RZkZSbzBuQjVYdU1pd0tpUlZ3MXk1bDZGUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Options Traders Know Something About Veeva Systems Stock We Don't? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbHdoZWotXzFfWTE0VmN6THROQzJYamNDMGphdTBRczRNclh5M1hhcFl3bW5pM1R4QnZZNUQ4NE5BV0pieDRnVjN6QjJZdTBaQTFFTG1IWTJvdTg5WC1ZNVlwWWJTTC00Unc0UjFzTWRROHNZUnJSc3lyUEJrQ2VTaUczeEZVdWEwVTliYlNtT2YwZVJaQldObDV6c0x4aGVUVi1Vb1dqRTNiWjFfTU9lTmlkdFJMQUlISkM1UU5CYUZxZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nvidia stock isn't as overvalued as you think - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQk1kMHl2NFNkcGJNSW5uQTdFOUQ2WTlEWWt4MUxIQXNRa0JrWU9Ic0ZYMVdGd0NKVVkxWTNQMnVNZl9iY3dQX3dmZlRhelNLMzJsZ0FvNHlBOXc1ZnROMTByY1N0aUJfa0UwenhQdVpRbmg4bVhHZUtxUjAwaXFad0h3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prediction: Tesla Stock Won't Recover in 2025 (And Insiders Seem to Agree) - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUYxcTNTT1I1RkI4eURsTmthQTV5VHVqVHQ1VXh1c2VWaGxvMjhTTGxJY1VURExhZEFvNjd5OTVnS3RfSmJxM0VlR1lFVVlvRzRsTmdxTVhqODREUmZfc1NPaHdlc050eHotVkpNbTJ1OXk4T2RzaEhUT1RuaFBlV1lzM2pCcmNaWUNWUzlVTEZ5LTRMRUx2WA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AT&T Soars 52.2% in a Year: Should You Invest in T Stock Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QMzNOLXAzX1JqNGxoZ3EzWll1NlJqWG5QMG5DQV9jV05YUFJzX2JWVlFKWjl1M0MwcFJjMjRNN0wtWFBSV3dDaEpEbzdoc0cwelpOQUxMZjMyem1BWmc0SWltUlBOSXppSnJCMk9kS0lqMFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Visa Stock Scores Upgrade. The Move From Cash to Credit Isn’t Over. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSzFwN0duZXhFbWdCdzRiNlFmbzE5SENiRVE2RnRwMlpQclZ1Szc5SGpva2trVFBPSC14aHQxYTRtS0VMcnoxYzFwYUU5czVGZjFmaGNSMGE0V3BSTTFMejZLLWZhYUU2ckdTb3I5NUJ3ZV82MlNTanFJRTE2bTloUncyTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "“We Still Don’t Want It”; Ford Stock (NYSE:F) Slides as Locals Like Battery Plant Threats - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVC11VmRaUkJxbnRHTW9Odl9FQ2FMR0M3SjgxNEh0SjFBODNqWlh5OXRTX2Qxc1hucXZrOVRLb2I4U2xmenRPSDFZTDIzZTRpQTJ3Z0h3YmNodHdBd1hCbjVtdmtaUXVJYjN1Q3h1M0ZJMDRHSjBBc1Q0ZWJsMTZfU2l3bWNkN2RHXzVOa1U3b2NRcHlmSXJ0N3hYaE94M25pTlhZQjdYT2g4RzR0ZE9qb0NB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Do Options Traders Know Something About Box Stock We Don't? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWg0Nm14Z3JHRmltTjdhYlQyeHhuT1drN1EyUG9RbFhoNEl0clU4WjVEdGZ5ME42RkdsRFB1Qmk1TlpFYl9lTFQxdjRjQ0UzTzFmYlJQUjRZV3lrYll6N09xdm1fTG5fbVZXUWhtZlZjVUZmOUpaRmF1LVdGVm1GeFQtaVBCVy0xVVdlNEtMNUtnODU2bDRhVEt3SFM5MmltYWl6cEcxX0dfaXdUQmVYZTVqME8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apple’s stock has been in a slump — and these analysts don’t see an easy way out - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQME56aHJjcXNvYjZmNmRvbFh4M1hnV2haMkZEcFR6aGd6YmM2NW1EbEZjenB4a2pNT0hSTTNEb0xaT09iU2Yxd3k0SHNBVnc0MHU3a09YOTE3X0dPUy1OSk9qNnI4c19LZTlxbDN2dVlXUnVqZlJSOW1ZZFJzWkpmWEZ2bHJrbW9zZDRxQkpSU3ZXOFlaOENJc3NsTzVKM3paNnZPSHJKdWFDeFNJQW9jc0hnRmxROWhZS2hv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AT&T Recommends Shareholders Reject Mini-Tender Offer from TRC Capital - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN1hTaThkTmUzM3NBRnRiVWR6blBZNGdWb1NFbW8xZ3d6anNDVlNtV3ZITGNDRzJpd2tLenJFMUtHek9nX2lRRFhVRkdUX0IyOXdmZXFBU0F5VXNuQVJ4N09UM0RsQTVJdHpITDZvaGp3Q2NrRkUyVUJjMFk1OU90czMwZThDOHRkLU04?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Stock Rises as Fed Removes $1.95T Asset Cap After 7 Years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00QkVPWjBZQU1hNzRGVlVYaGRXQmxxWlRrYTB3UlhtejZVN01NMGVNQUNlVXRUeFNZdGFYMnFrblRacEEzRDcxakQwUDVXSWFzcEViazVnTVU3Uk9iVVlPbVd5M1I5bUlXT0xkRXhveW1FM0xJRUJzdFFzUnJUUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Buying the stock market dip hasn't paid off this much in 30 years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHNMZ3BVRVFaZU5uUEZHMnhNS0Z0N2dlUXFhZ3dtQk1pLWVFX3RQNE5rdlVwMjBSTWU4ZmloN1BUM2RWLXllR3AwY1lJM3dvTG5rV1BqZTNxb0RseDdBTmFXNy00VzBIbTJ2UHlTNVE1MGFaa21UejRlOWt2WEN4SU5XckVHTzdZMDlINllYd0cteUpzdk1rRnZEclJLRVJQMHNsQUVGdnljbWdOdGNF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Top Energy Stock I Wouldn't Hesitate to Buy in June - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3JZUWVhZHJ2REtzcDYwZzFTN184Zk9SNWtKenBLLUJqM043dGlpeWZ4UjB2RzdUNlZUVHh0YWNnbTN4REg2N0NXNENJQXY2bGFNemhTeHgzWmJIUmxIWG84emctX0ZlYkl4RGZVSWE4RnlfaXVtRWg4M0VSa3ktdmRZY3B2QXhydUVhTkRpbV9wNTFhcWxSXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Stock Market Isn’t Buying the Bears’ Gloomy Outlook - Inc.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ3JYTV9WMnVFOU42UGN6NFhaY1ZGR29WNEJXWUhRZi0wOG1yRzQ2dlBqWDlKNUhzUmxZd0M1NHJIemhHSXRBaG44OFM1UWFOTnM1NTJ4TC1nekRqamoxMVlUMUNzV19yS29SdmxSNXlqN202TzJseFdyMzFvSlQyVVZUcElOekZYNmtaNkZ6MUV4bDExSy1OTk5EbUhHbnk1aUJ5dEVhVUlXdFJDMXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When the Price of (ZGRO.T) Talks, People Listen (ZGRO.T:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbDYxVGdzNHFiekdQRFFTcVFjYWl6Um1ENGR6aENHeUcwXzl0MldKUDZlWnk1S3l4QjhNaTNKWk41bU9IUWdkSWNwUk14aVVGbFhkcDdDUTZtVnV1bDFpWnJWN0Q1Nkt5a3l2NnA4OVRqMmxyR3RWTjdiMlpKWWtQVTROREQwZjBFM05xRmxyTmxDSFkyX0Y3UVU3WGRGNURkWUJqQw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 22.7
-      },
-      {
-        "date": "2024-12-03",
-        "price": 23.74
-      },
-      {
-        "date": "2024-12-04",
-        "price": 23.53
-      },
-      {
-        "date": "2024-12-05",
-        "price": 23.83
-      },
       {
         "date": "2024-12-06",
         "price": 23.88
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 27.93
+      },
+      {
+        "date": "2025-06-03",
+        "price": 27.96
+      },
+      {
+        "date": "2025-06-04",
+        "price": 27.36
+      },
+      {
+        "date": "2025-06-05",
+        "price": 27.76
       }
     ],
     "current_price_data": {
-      "price": 27.93,
-      "change": 0.17,
-      "percent_change": 0.61
+      "price": 27.76,
+      "change": 0.39,
+      "percent_change": 1.42
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nLes titres trait\u00e9s ici pr\u00e9sentent divers signaux et tendances concernant le march\u00e9 boursier. La premi\u00e8re \u00e9tude souligne que la perspective n\u00e9gative des marcheurs du march\u00e9 n'est pas partag\u00e9e par le march\u00e9 lui-m\u00eame. La deuxi\u00e8me \u00e9tude examine les effets des taux d'int\u00e9r\u00eat \u00e9lev\u00e9s sur le march\u00e9 boursier. La troisi\u00e8me \u00e9tude met en \u00e9vidence les tendances internationales de l'entreprise HPQ. La quatri\u00e8me \u00e9tude offre des conseils sur comment identifier les stocks les plus performants. La cinqui\u00e8me \u00e9tude examine les possibilit\u00e9s de rassemblement du march\u00e9 pour Airbnb",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,78 @@
   "ticker": "2871.T",
   "name": "Nichirei",
   "sector": "Consumer Staples",
-  "market_cap": 461664157696.0,
+  "market_cap": 472564760576.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 18.93628,
-    "PB": 1.7753595,
-    "EV_Revenue": 0.782,
+    "PE": 19.380203,
+    "PB": 1.8167926,
+    "EV_Revenue": 0.791,
     "ROE": 0.09983,
     "ProfitMargin": 0.03523,
     "GrossMargin": 0.17979,
-    "DividendYield": 2.58
+    "DividendYield": 2.55,
+    "DebtEquity": 38.502,
+    "CurrentRatio": 1.588,
+    "QuickRatio": 1.09,
+    "FreeCashFlow": 18590500864,
+    "OperatingCashFlow": 53193998336,
+    "FCF_Margin": 0.026479176465997834,
+    "ROA": 0.048649997,
+    "PEG": null,
+    "EV_EBITDA": 8.871,
+    "BuybackYield": null,
+    "PriceToFCF": 25.41968955183498
   },
   "technical_indicators": {
-    "RSI_14": 46.30899766537049,
-    "Momentum_10": 0.6830601092896175,
-    "MACD": -11.439053416286017,
-    "BB_Percent": 0.3685958405360555,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 52.23777691071407,
+    "Momentum_10": 1.9740400216333152,
+    "MACD": -2.3368901664969144,
+    "BB_Percent": 0.6075112664224194,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8977719387300414,
+    "ValueScore": 0.894800728995462,
     "QualityScore": 0.387277420477129,
-    "SignalScore": 0.6355467726629731
+    "SignalScore": 0.5712571633715198
   },
-  "volatility": 0.0153607184284547,
+  "volatility": 0.0156455540527664,
   "beta": 0.274,
-  "return_6m": -0.1386161757830761,
+  "return_6m": -0.1036367958164963,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
     "target_mean_price": 2300.0
   },
+  "news_sentiment": {
+    "summary": "L'entreprise solaire a enregistré une croissance du bénéfice de 2,871% au T4, stimulant son action de 5% en bourse. Cette performance solide renforce la confiance des investisseurs. Parallèlement, une étude sur la corrélation entre la divulgation des risques et la valeur de l'entreprise au Royaume-Uni a été publiée. En outre, une analyse sur la source de richesse des millionnaires peut offrir des perspectives intéressantes pour les investisseurs cherchant à comprendre les tendances économiques actuelles.",
+    "sentiment_score": 0.333,
+    "label": "POSITIVE",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "2,871% Profit Growth: Solar stock hits 5% upper circuit after reporting strong Q4 results - Trade Brains",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWDJTVUx1enlMSXhySEFuWDd6VHhLVzdQM01udkxvT3l6S0czaHBQN0UyRzE1ei16eWE5Z2ZYTUlac2FoZW5mNC1qMmVCYXkxSjJ6TkswX24xU29adEEwdkhKYmp3VjkzekNxTTFqSHY2WUVvQU5kNVhmb2JfVkpEMlpHR1hva1BhM2tmR0RYc3pMYy15azJZZVdsR2JtdzVEbklDaWVYYlEzWXd1V0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Corporate risk disclosure and firm value: UK evidence - Ibrahim - 2024 - International Journal of Finance & Economics - Wiley Online Library",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQjFqOXg1NjJSMTBGVzl2V29Kc3l0elhWWnN3aWJjd2tKY1lxRkhZV1VQc3lLSTA3OHh4cWd3aXBfOWx6UXlmWERneTIwNXpJRXFOQ0ZjVmZpQVFFZTljYkwwVmtxUmlkYVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Do Millionaires Get Their Money? - Business News Daily",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BUWhXWTZjcDlCUm9JZ3Z6MmV3V1VUWW0waU9oTmlFQmRVM0RBZ1pnOGhmaDY2T0NuVW52N2EwYlZ5UGNWSUxUekVGOVF3OW5vSkNwVnZpUjY5aVlxV19tbkF5WHNTYWN6b0FxNTlyNGtzamFGTVpDQzlKS200cUU?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2139.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2111.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2119.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2103.5
-      },
       {
         "date": "2024-12-06",
         "price": 2106.5
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 1842.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1904.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1886.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1885.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1895.0
       }
     ],
     "current_price_data": {
-      "price": 1842.5,
-      "change": -18.0,
-      "percent_change": -0.97
+      "price": 1896.0,
+      "change": 10.5,
+      "percent_change": 0.56
     }
-  },
-  "news_sentiment": {
-    "summary": "Solar stock reports strong Q4 results, leading to a 5% upper circuit in the stock market. Meanwhile, a recent study sheds light on the sources of wealth of millionaires.",
-    "sentiment_score": 0.5,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

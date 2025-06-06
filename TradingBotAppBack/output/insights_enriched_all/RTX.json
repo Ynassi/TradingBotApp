@@ -2,55 +2,163 @@
   "ticker": "RTX",
   "name": "RTX Corporation",
   "sector": "Industrials",
-  "market_cap": 183038492672.0,
+  "market_cap": 185843990528.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 40.178883,
-    "PB": 2.9754379,
-    "EV_Revenue": 2.715,
+    "PE": 40.79472,
+    "PB": 3.0210438,
+    "EV_Revenue": 2.749,
     "ROE": 0.07802,
     "ProfitMargin": 0.05628,
     "GrossMargin": 0.19532,
-    "DividendYield": 1.99
+    "DividendYield": 1.96,
+    "DebtEquity": 67.798,
+    "CurrentRatio": 1.006,
+    "QuickRatio": 0.605,
+    "FreeCashFlow": 5729124864,
+    "OperatingCashFlow": 8121999872,
+    "FCF_Margin": 0.07009047114599708,
+    "ROA": 0.03471,
+    "PEG": null,
+    "EV_EBITDA": 16.792,
+    "BuybackYield": null,
+    "PriceToFCF": 32.42913476566881
   },
   "technical_indicators": {
-    "RSI_14": 63.58918984910978,
-    "Momentum_10": 1.7042073928907475,
-    "MACD": 2.2430210058518583,
-    "BB_Percent": 0.8536031212913728,
+    "RSI_14": 66.96992668449474,
+    "Momentum_10": 3.515025071523336,
+    "MACD": 2.6180788341205528,
+    "BB_Percent": 0.8828825283391282,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8881555750940606,
+    "ValueScore": 0.8850844637546876,
     "QualityScore": 0.3569354684809823,
-    "SignalScore": 0.5381941161410486
+    "SignalScore": 0.4878127467637924
   },
-  "volatility": 0.0196872461431761,
+  "volatility": 0.0196685479465857,
   "beta": 0.617,
-  "return_6m": 0.1662066738741585,
+  "return_6m": 0.1856800662139341,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
-    "target_mean_price": 139.45435
+    "target_mean_price": 140.28043
   },
+  "news_sentiment": {
+    "summary": "RTX Corporation (NYSE: RTX) a récemment atteint un niveau record de 138,84 $ par action, porté par une croissance robuste et un contrat de 1,1 milliard de dollars avec la marine américaine pour des missiles à courte portée. Malgré cela, des signaux mixtes émergent avec des ventes d'initiés importantes et des prises de bénéfices par certains investisseurs institutionnels. Les analystes de Wall Street restent divisés quant à la direction future de l'action, ce qui peut influencer le sentiment du marché.",
+    "sentiment_score": 0.25,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Insider Selling: RTX Co. (NYSE:RTX) EVP Sells 16,922 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVE5pal9nZVFsc2tTbTNENkxRMlQ4S0k1bE9DNHdKT05wQ0hfQWlGclZEX2hYaHFUTU9teUI0dUgtakJrNjhxaVdBbmVKS1lfQVpBY2VMTEtGZV9jRmFfVWJSUlRUQURpWDlER3VtQUlpQlVVaV9wLWJVWTVpRGVHd0pZalNaWFp0SVVPaXdVM1d0NnBHdU0wM0drSHlCU1ZsVXBrMXlQZ0ItOWRfVk1nXzdEelRQT1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RTX Shares Cross 2% Yield Mark - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6TXF3a2d6Mkdxck00M0RfOU1qcU5PNWJmNVdhOW44NXpyUXRFVTU1YlgtOFBtZGxXaER3ZDliTUV5OFViME1zM1AxUW1yWHFENG1ZcWd2VUFFZmZkeURSRV9WaDdITUR0OTdTRXMyZ0I?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RTX stock soars to all-time high of $138.84 amid robust growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLTMtbDRkS2FOenhrd3oydUF5Ty1Qc0RVYmhrZzdjV3QzQlg4Uk16QUYtMXVhUmVuNkpUelZJYTlBa2VHWWU1YmpDeGx2RUNRMjFBaHl3STdmbGh6bDlCTVh3RjIyQ2tfUVlLamdzeXptS2QxVmowalFFV0ZuWTR4bm1TZjBONWJXb1M0M0xYUnd0QllqZTVSTWtRcExJaWY1Ny1fZEx6bUFrem1ST011WWxCMURqWnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Reasons to Avoid RTX and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJLUFJUUp6aENUdm5kQzFMbUN5c0tsalhmQkJBeFF6a1R4OXZhVG53a3hZUGdlLUNaU1dRZUJPc1I1dS1IQl9UU1h5WDZ5WGo5VUtvOVZCU2FZU0pqbEsxSGtzbXJmWXVKZEt2bm41Mko1SzkyVEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why RTX Stock May Be the Best Way to Play Trump’s ‘Peace Through Strength.’ - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sRTNMMk9fa2Qwa2oxbHkwQ3JUS1NUVlpUVlhudW81MlVVMzFocV9WVVhfMHdnSFVOLVpRMml0YWNGSTNncWVyM0Q4YWh4dWhyZFYwSFpUQU92NVA3Qy1VLWd5YlltcVdwNEV6dWVBVVZNN2xFTVFBNg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raytheon Stock (RTX) Pounds Higher on $1.1B U.S. Navy Missiles Deal - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXhRRS1MNHpGZ1NCTjk1NXRzM19vbDF1WnhRbF8tdFpkLTIxeUNSblBuaUFaYjM2VGR5NXQ3X2Jhd3FWSkIydUMzN0hTaHJObndRWnMyeWJIdUpvMC1CLVlqMjB6RUFJV0VWZ19ySnVBUkh0c3d0VzNSbTJxTmY3TlhKeWVsaGo4UWlxb2hsMVV5X3VOTmd1MA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting RTX Corporation Stock Will Climb or Sink? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbzEzSEVaVFNJT1haaHp0VzJ0TzJQcWRnZGsxVlEwRTdYeVN2VGNZcmJYcmNKR1gyT193NjFfdjVPVGRrYVFncEVnZ3hycVNndFV4Vkd4NmpZR21YZmRrT2dYRGNPVGIzcENLbEtfMzNMVW54V3lGVTVFbHRtOTRzenFlcDN6V3I3YW9JVmRvWm9mNHM1eTdzUGZWR2NMT0hSS3BjdG52RTIydUtzMUQxbWN5YVhqNHU3YmdKQ2VwT2sxdTk0MDQtRGg5VUtselRNMGhrN3Brelp0WTlETWFLRkx2dWpYWWlnYjVRZQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Chesley Taft & Associates LLC Acquires 2,725 Shares of RTX Co. (NYSE:RTX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSHVFR2tSbndVcW5rYWZsMzM1bDhjZFlTQzc1YThBeUc2NzMyZWJXZmlPTE9uRElXMHlkQ2dWSFdyTHBDNkRSZnR4YzkwVmpZT2xUd29kekc3ZUh3TDluNGF4ZjNtMjBVWThZLTZPTEVrZEFUSlBSazRZTmsxaE1ub1RXajY3eEVWQmpTaU1FR21YaGYzWnBOaHBtc3Fhb0RhdkxQdHNTdWRyUWFJM1ZwM25WYUxXaEJ5MC10dlpjSS1zb0o5Qmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boltwood Capital Management Increases Stock Position in RTX Co. (NYSE:RTX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjZGUlVjeFhkZlR2UGVobU9sT2JPZDB2TTFpUmdtUmItMjNydjVoTFBFa1IzeHdVOUJnX2ZnVWZLUTZUNVpNVVI2Z0ZYaVVnTXJBNnBqSGJpWDgtWGRwTEpuZWVWZXhhc202Z3lCQVFKVF9FZUI1eTlkS21udGh6Nnd2cllzVHFRQ0FQOUxXSDlYaXRNYzlmYl85X1NpaXB0SndDOXlBMzJVb1gzRGRIZTBIYjRVMFlRdENSMEd1VDl1VmdRYXh0UUF1dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Steigerwald Gordon & Koch Inc. Has $25.33 Million Stock Position in RTX Co. (NYSE:RTX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNem5QT2tNR0M3SzVtN25PcFQtZG9mb1V0bUk5bkE4QUxHbC1IZWNKeDV2dXFvZTZyM0FHNXN4M3JYMm42LVRKNmFCdFVmTDBnZWEtUkxyRm92MWtrbHFMX3IyM3FZNzF3WEFnS2QzRkZXQ1dZQ3o0c2prMzRsLXdXeTFoNnlEZ1ZXbGt5RGV4c0NNTUJrX09KSjFoVkRUd2lpTVRPX0VGTHBxNGdIOU50eG9LaTRlcVpESkpacTR6OFhOVjFhX0FSandBdmNrZnpMSWdFYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RTX Co. (NYSE:RTX) Shares Sold by Gradient Investments LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeEtKejRETzlWR180LWdCYlk0Q2kwX3BMUlVQTUVaREhIMEJqQldLMXhMVkt2ZHB0YnVyY0RnaTBueXp6eExiakRZRG5qUXlrQ2tOalBzQjVsRmxwU0sxYVFvTklBZzB6Unc5b005UWlTa0s1ZmNTQWVwZzJQbGF1VWVkLTdZTmVJUW96cjdXVG05ZWgycjgwdHRNeGlESzMyc3VaM0hMNG5lTkgzVnMxejVnSU50eG9qQ25JM0l3UzFVRXBS?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LS Investment Advisors LLC Has $10.60 Million Stake in RTX Co. (NYSE:RTX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdmVUWk5aRFJjbHY1bThWOUxOUzVPU3lYYmg0ZzdhcGpQOURRUXhUMmhUcnU2UEFuQ20zZ0VEUm1yS0NkWE4zb1U2eWtpNVZfRmtDanYzSXNEeHNfc0I4SV8wTDR1elQtTm51OGRVQXp4dXBmeGJ1amMwSEZzU3RFRVNvdVR6TkJCRThaSWtteG5GWHdXQjB6amhtQ0N3RVV4aVJvOHB4LU1DaDJmRzhkM1FiUDZyM1p2eXlHT1NyNWhlMzRRMUp3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apella Capital LLC Boosts Holdings in RTX Co. (NYSE:RTX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFFHMnB2bjhTUzExbk1VRFBIeGJTVG9Va3ZTUUJfQjY0T2RjRmVlTzRQbXRWc1RTeGk1a2ZRY0F6eFNpZUlKQTVsT0VyaV9QT3JqeHlyV3FWTWxoQXVPUmtscXBld0h1SmI4M2Rna0lJTEtaMlIyaVE2SkZQd0FXYTBJaWUzeHBranZnNU0zWldnZUc3QzhXQUhuRHJKVTd2blFGZV9iRFA4aEdnZnBpeW5uZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Contravisory Investment Management Inc. Has $539,000 Holdings in RTX Co. (NYSE:RTX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR0JxRkhIZTZWV1Z4dmw2emNDay1tUzlxNnJqc3VhWlhLd29VT2hZeWZHZzFBcjBGeU85OU1LYzZWaGdJYTZVQmhULVRnYTFYSmNBTUxCQU9tWDVObmtRNF9xNmpGTnRPX2c1alhqTDhQU2RpOGNSTFdXZGM0WHh0eWlybzJZa3ZXNnBKSVZPMVpfVVFvSUtnVzAzLWVDUlRWYXlGY0dsWVFzNDk3Z3Q1a0NuUm1EOEVPUDJWTTdXZWJiMUw2NXBoaWRJUktxX3RiR2pR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Somerset Trust Co Has $5.13 Million Stock Holdings in RTX Co. (NYSE:RTX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjN5V2FWeFVsR3IxNmw0Tm5SaTdvcGFpM24ySWxTTHlySGFzanN4T3VXbmpiNENhSk40Y0d4WGlkOUIyVFhETzEtb2ludnM0cVlaWllPTU9rMkMzOXJmdDFXRU5zNWE4bU5aNjVnRjd0QWc5SW1XX3JQb3h2ZXZJMHZwLWhjd3A2bTE5YXhoSWdXWFp6cGR0TTVJLTRWaHhmS3EzT1hJU0RaekVIcUhVVEVSeUN1WWYwbHdpRmZDNnBBQmlPM3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Meyer Handelman Co. Reduces Stock Position in RTX Co. (NYSE:RTX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnhhU2h4bXpuc0N4WjRwQUN4NXJENlVQalVpZmlvYmVnbXJ5eGwwZUd5ZHBjcHhBR1Z6dV9lVVhCaElyQjI0RGhHV1FERFJkWW4yYjdFMDlDNWhkQmxPeDh3bTVWb3hKSWFlNm8wVEg1WXQxSGthYUhWSHJJZHNFSkswZnJHXzE0aEUtaTFTYW84TEpHNWt4eEdQNG5nYXN5dG9TMm52WlFweDVZVGN0NF9LV0MxSm10Wm5lUXZma21fTmVlaTdsZQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "RTX Co. (NYSE:RTX) Shares Sold by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEhWSW1KNnpBN19USFNSNkYtMWxHeHp4MW1vZ0tSRUZWaGl0M0EwdWhScTVadG5ydEVRV0ZOMkJDMDZnb0J0WlA3bnlpUnRUQk5qOGxlalQ0bjZQT05OMVJQaXB5eWs2ajd2WEdyckRURXRYRVhuZ3JXblFFQkNINEVlTVhtSUt5c3RHVDZwejFVWEVzMDluTFYxSlpjVDd3amFZcXJDUzdWajJ3bFIxcTJ3T3pTdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RTX Co. (NYSE:RTX) Shares Bought by Wealth Alliance Advisory Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVDNNdXVjbElBeFNBWDU3dEZMUWFTR0dzN2NSY2dWejREU1lIeUpwMlNrSm1VVURVd29QeUVYWjRRTHQ1b29zbGFiNzhFWERZWXJWdFpYcWJvbFhlTkhkM04ydGpxZG9yZkJRUVNmVUlkcjJGYmRFRVo4eWlGV0lCakR5VjNlMUZJVm5CVTViNWlrUnBxQUdqbDVlUHRSbEJCWFlsZWpQM0l0dUZWZWZFRzVJRjg1Tmhhd2Z4Yzc0azl3ODVIQ3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Boosts Stake in RTX Co. (NYSE:RTX) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWdqNmFVVF9MQ2JoOUN0dDNXQWJnaldXOHFfS29uakFHaEIyYnQ3T185aHZLaVhPY2FUaGZ6SlNEZmNXX291d2ZVaG5fLW5GOTQ2Ukx5VW9ybW5CeUc5ZXVpR0pUOXpfZVpxeC03V0hzekxubWJfWkRKdEpPR1BIVGR0Q0lHUTVXOW9lczJIN250TEQ2MGVjTEZxWkpRUjNvd0FVNmt5Z3VZcW5oRWVlR3hQZFNBN1lEX2lYMzNPaV8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "RTX Corporation (RTX) Awarded $1.1 Billion Navy Contract For Short-Range Missiles - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObjNxWXNrS2RkRkQ4VmtZQXV6VjlZODlWTkVNR1c4b1h4emh0S2ZtTDNYZHgxYzRMTGhBUHFLZVBOQ0VTUzB5bTVuWkNrdThONUV6aVh0NUtTOElOMURGRU1KdWZjYjNRRDZySGJ0UjVkOTc0RjZpanBvdm5fUUVkcnVRcXdrejlBeFRJdGxMbHIxN21lZnNRVGpKb2ZvVldBTjJxaXdfLVJsVktaMWhqdjBCT08xMXZYc2RWLUhaY9IBxwFBVV95cUxNblFibHMwUXFxQVVpZS0wbVc4a25hemRrbHlaelhFUGN4aUViV1o1SWd1dkVadFQ3ejBJZktxV0hYYXlsRlBEcnBhT3pyZWJVRkJYR01XQ3hyR21feDVrZGJtSlZnZnhpWTN6ME5KWGFES0lHQ20zVVVLS21DTVVyY1BXVkw0ZUJwSEloS2xsdWtXY2tYNllWMFFQeGVxS2RWZ3N2U01nNHBqSkE5YVNuNXBVeUhLcnJmQlluTFRwQ0lIUmdNN000?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 118.68
-      },
-      {
-        "date": "2024-12-03",
-        "price": 118.1
-      },
-      {
-        "date": "2024-12-04",
-        "price": 119.23
-      },
-      {
-        "date": "2024-12-05",
-        "price": 118.52
-      },
       {
         "date": "2024-12-06",
         "price": 117.99
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 137.32
+        "price": 137.46
+      },
+      {
+        "date": "2025-06-03",
+        "price": 137.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 138.55
+      },
+      {
+        "date": "2025-06-05",
+        "price": 139.07
       }
     ],
     "current_price_data": {
-      "price": 137.32,
-      "change": 0.86,
-      "percent_change": 0.63
+      "price": 139.07,
+      "change": 0.48,
+      "percent_change": 0.35
     }
-  },
-  "news_sentiment": {
-    "summary": "RTX Co. (NYSE:RTX) has seen increased interest from investors in recent months, with multiple buy and sell transactions reported by various analysts. Enterprise Bank & Trust Co, Rhumbline Advisers, JGP Wealth Management LLC, and 111 Capital have all taken positions in the company, while Gradient Investments LLC and Douglas Lane & Associates LLC have reduced their holdings. The Czech National Bank has also raised its position in the company. These transactions suggest a mixed sentiment towards the stock, with some investors seeing potential for growth while others may be hesitant to invest. Overall, the recent global economic uncertainty may be influencing the sentiment of the market towards RTX Co.",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

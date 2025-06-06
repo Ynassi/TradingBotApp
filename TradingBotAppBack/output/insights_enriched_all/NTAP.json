@@ -2,55 +2,163 @@
   "ticker": "NTAP",
   "name": "NetApp",
   "sector": "Information Technology",
-  "market_cap": 20292016128.0,
+  "market_cap": 21548234752.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.341269,
-    "PB": 19.192854,
-    "EV_Revenue": 2.478,
+    "PE": 18.414816,
+    "PB": 20.381027,
+    "EV_Revenue": 2.62,
     "ROE": 1.08509,
     "ProfitMargin": 0.18045999,
     "GrossMargin": 0.70192003,
-    "DividendYield": 2.1
+    "DividendYield": 2.0,
+    "DebtEquity": 311.058,
+    "CurrentRatio": 1.255,
+    "QuickRatio": 1.092,
+    "FreeCashFlow": 1234125056,
+    "OperatingCashFlow": 1506000000,
+    "FCF_Margin": 0.18778530248432176,
+    "ROA": 0.08625,
+    "PEG": null,
+    "EV_EBITDA": 10.297,
+    "BuybackYield": null,
+    "PriceToFCF": 17.491770351026727
   },
   "technical_indicators": {
-    "RSI_14": 56.558237218466154,
-    "Momentum_10": -2.2729494284898126,
-    "MACD": 2.303062262090748,
-    "BB_Percent": 0.5175718067198363,
+    "RSI_14": 69.8560494766209,
+    "Momentum_10": 4.670082896586189,
+    "MACD": 2.83172520191404,
+    "BB_Percent": 0.9375259058268404,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8848778670069358,
+    "ValueScore": 0.8807035898902748,
     "QualityScore": 0.359658843741737,
-    "SignalScore": 0.6006503486240831
+    "SignalScore": 0.4655720676732797
   },
-  "volatility": 0.0279946073514708,
+  "volatility": 0.0281576675723683,
   "beta": 1.414,
-  "return_6m": -0.193759274003525,
+  "return_6m": -0.1803466519471032,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
     "target_mean_price": 114.52125
   },
+  "news_sentiment": {
+    "summary": "NetApp, Inc. (NTAP) a récemment publié des résultats trimestriels dépassant les attentes en termes de bénéfices, mais les prévisions ont déçu, entraînant une baisse des actions malgré des revenus annuels solides de 6,57 milliards de dollars. Malgré l'optimisme de certaines banques comme Citigroup qui ont augmenté l'objectif de prix à 110 $, d'autres analystes restent prudents quant à la capacité de NetApp à stimuler sa croissance des revenus. Les actions de NTAP ont fluctué récemment, entre hausse de 3% et baisse de 4%, reflétant une incertitude quant à la direction future de l'entreprise et impactant le sentiment des investisseurs.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "NetApp, Inc. (NTAP) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1RKNmw4alBnWm9LcGpSNVBkLVNFRU4yRDJXQ2RTWlhSekNSM0pIYko4YlhNRHlsZXhEMHYzOVppcE9DN2h5X3pTWlF6UHVoYnBrQlJfS2ZlTVA1ejNLb1VjbDh3RXNsZHp5dk5Yd0dVQk1CbFdwYWhEcDFhY1llUjdqMm9lM2Fi?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NetApp, Inc. (NTAP) is Attracting Investor Attention: Here is What You Should Know - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZXM0dWlRR3hFOV9EMU5CRTVpTmJ6a1ZVeWRRRE5sODRQVzZIQ21KM3hTR3VuRXA3T0NxRlBuVlB4bnFMWlBucXdobmRoalZkVkstR045RW5DbkpPOTBZQWlRSUlGUzRycEFfVzhKcWo4bEMtbVFBc1R5RWdTLU5PWTVPeUs2TUl2d0RBX0hzX2FndWtZZWVab21UWUl3dlI0cVhGenNGcVh3S1JnNFdGOG1FQ1Y4T0V0Z0ZkRV9KeXFEOTNMUHEyc3BXRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$NTAP stock is up 3% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkxtMXVLRHZjQ2NWclJrM1BlZl94RGVETmxpVVlTd3lPV1FkMy1QU0ktbHpRX3ZPbC1sYXlpX0VDWGFSbEhPRk9BNWhsVm9kSjUwM3RZQzV2QnM4NEo0Snp3SDFkQ2xfR3lmcEdWMEdsWVd6bW9uLU1GNlFDeG90eEUydw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NetApp Earnings Beat Estimates. Stock Falls On Guidance Miss. - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVEhvbG1wUnprSmx3dE9lSEpkelpIY3l3RVA4SjI4UGhNNWpGVERwenZQNU1lRTktaG5RdERTNkVfeUhERjhKcGZLTThFS1NHaW5rZWgxWG5UaUF1VDEyakppOWpKWld6YU96YkxrNVlIc29fNjJtQ2dxY1FVU2tkZ3p4cS1lYnhMUXNFRHhvaw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "NetApp (NTAP) Target Price Increased by Citigroup to $110 | NTAP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVIyc1BSOVMwMDVNQ3UyVjZqZlZXa3pHd1A2Q29SWmpSeVhoLW1NdWs0YmN4MDI3TWJybm1WTV9mVk1iTnB3NDdFdUotZndPYjZMQ2JuTkN0QUVlSnpZYnNwcktzczJIM0JZeXZ6R0xHc25ScGRTR0tTaFZmcTNkb1p4NUsxa2NpeGt1NlV3TUI5SWNfTEtrZTlFeUJJOFR6VXhhc0RqV2QtRWI4NGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NetApp, Inc. 2025 Q4 - Results - Earnings Call Presentation (NASDAQ:NTAP) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjBFeVhEQk5TRjRWUVUtNFh6MmlBV3lnZ3R0T0dDUXRWVTRHUUdabzlJMHJFcWNYY0NSeXUxdlpKUFEtUkJOcFU1YmU0STF2T01jbUVDeEF1UUQ1WUFXYTVWZmFMMFQ5cnljQndSU1ZXM2dCZGtydDUxRE14Z3NfUWZPYnFuOVh0cU1sTlVXWHZYN3FMNnpZT3dR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Will NetApp's Stock React To Its Upcoming Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkxOaDRYX3U3ODJrWlMwZUwyYmliMk9Jb3dYbzNBVHFOZXl2ME4wNTFTZXBSMEszTzVROXRvTEgyYmN2QVh0Wm5TTF9hanBjUEpkZ1BfTUNzMk9xUjhnX2Z6MHlnTk5xS2t1UWtCdDFJdTlidTM5U04zbkdlYUpDTG5fVTRkMlVza2NkcmJsZU1vZXpLNHlocW8xbVlIVGlNUnZWWWlUX3g5TnpidGhWWXNR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NetApp, Inc. (NASDAQ:NTAP) Just Released Its Yearly Earnings: Here's What Analysts Think - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDNTWFV1cDkwdzFlMWhtcHV3aDRvVmVWbkRha3dSSXdZODdyUkxZRkxNWEktdG1DVW9WWHdDa0tkSDZJdzNMOTNyZTc4dTN0WWljTy1VeWUwcWtTQzBnRUV5WmUxRHhacjZpNHBZZkkyU3JmelhMYkp2UjF2T0s5cjNyQUw4eW93TG1pekxmc1ZBTXBDWVNLdmZ6QURFVVhZRWVNdHYyOUNWRVBwWDQtdnk1ZVVVdFJiX2tpeU53?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deep Dive Into NetApp Stock: Analyst Perspectives (11 Ratings) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXdpOV9XMDN4VkpqSFFZN19aLXVBUm9lcnJ4WjJzOTB1UGh4cDZ6LWpfN1NyaXRNWGVMYkd2enpPY2hUUXZtSzBGREZiWnBuYnR1Y24tQTZvZmROSm5mLW04TVZXdXNlbUdZam1HYnpHdGtxQUE3bkVBV1JyenZtd19VaDZFeFFaeG40VFJ6U1pxNWloaVN0YjFHY2J2ZDVMVU1jMy1mMko3dlpIaENZbHh0Z0I1ODlSVExWNVNXODBpQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NetApp Inc. (NTAP) Stock: Flash Storage Soars, Revenue Hits $6.57B in FY2025 - CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUG1VbDJtT09wS1RySGlVSGZQSGd4Um9nTjJfaWFCTnJ1TjVPT05sVTRIcUhJUXk4QmliVURsdVJZOERoWjh5WFNtaVVZTjlLLTl3UnN0OEVISWV1bnBSeUV1WXg5dFdzSGMxbWZ2N0Q2c2w5R2pncG9lVDhXQzRITDE2Q1B3a1RncENqNGRleC1xdG9vTUFhNlZ0cw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NetApp shares fall 4% on weak guidance despite Q4 earnings beat - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0hSeTRtbWpwZzNpSVJVOWNna3k0QkM5NXZkREloaklReno1YlZlRXBrOVFPcUFJV2d2cTNyWGhzcktPZUhHN0lEOVVSanRKalpLdlhPbUJVNVlUWHJ6NTVfdFVSVGJWM3JlNERfajVobUpSVzFoS0VReFc0c0VtUldFWDd4SW9BTHhwbHp3c3hmNUJicVVGUFV3WGZEMHlHVmdjbElHYndlVFFtazZmVTZYVmx1QQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "NetApp, Inc. (NASDAQ:NTAP) Just Reported Yearly Earnings: Have Analysts Changed Their Mind On The Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fcHV2TWlDMC1mVjR2a090azQyX1c2aS05bVp2Sm8xSFh6djgwWlJmWXJHY2NRLTRZcUNNTDZTRmdCNXpCblJRblBPemNmZnlIZE1UMURVaGNSYXNuMzFvZS13VWx3Rm5ZalB1VGtUTktubUppVEt4Y00zazZXQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NetApp: Needs To Prove Its Capabilities Before Achieving Revenue Expansion (NASDAQ:NTAP) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVJLTkN6VnZKRUcxT0kyRjRnT201MHdiN19iZ24tSUZjWlF3M1Z2ZFBhZ2lManVULUJUUWRyajh6eXNvUm9pSHZlTURlb2JkZEZFNWdvanFiNzlGWVh0Yl96dG02TEVVZnVmZEdxZkVzeV9Fb0Q5bWxLZG9hMHdJWHZGaEV5eDdoajhpdWdPdHo0THVGal9WSUNibWhYUWhQdi1DRjhuZXZBcU91Wjd1VGo3cnA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NetApp (NTAP) Target Price Raised by Citi Amid Positive Q4 Performance | NTAP Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbzRVbkJtZW1kU2x5RF81VXg5eHdTN0NUbEJJTFNFX1VGWHdjNFhJZDBwNEpBdGN0Wndfc3hydmV1UnRDRGNYX1RLaVRjeHBJVHRUenNSaXhmRHhEaWxmcXF1RGs1UWI1MlQ4bmlUV0h2ZWdjdTlCSGJpemZJeEc3Z3o3UlBmcUNVM1FEV3FfLTU5Nml3Tnk3Q3dPS1J2RmZ2OTRPMGhuSjhtSnktSW9RUnRwTUs2ZTRVczRLOW50Vl84YUJyUDZKLU5uR0JUME5nNTM4YTV3Y2lxc2RYT2duQU5sTFl1VVBheGxES2t1bUg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NetApp (NTAP) Stock Moves -1.02%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSTM0LWdfVFlpczBiWktfM2o5Um5ZQVRWaUxMa2xQYlNQeWlJRnNzWkMwVGtlS0RpbUthXzZLT1J2cDRYeTg3bUJLOXZUT1FWY2pMY3BQUXFDU1VyYjdhUmNCUDF3U25YVW1rNFRBdVFHU28zbGl4bkFQNkRGdmNnM1lCUGNzSHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NetApp, Inc. (NTAP) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONnE3UGlmcnVpVXJ6QmhFYVdBZUYxMlhLUm1nM0N2Z2p4MFQwQ2o3dU4yRDNTLU5pZkRvZXNsWWFobFJ2cHNkSVp4c0VZUk9YbkJ2NFNKbUhWMUdvamJreWVieC1NdjNncGdkNjBnM2M5VzRMWkphSzQ1RG1KRnU3QTZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NetApp (NTAP) Stock Rating Maintained by UBS at Neutral | NTAP S - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUEFGRVpYR3FjT3NmX2RLM0ZaNkpFUUxhSmFhdjRYaF9KQ0FRTzhOX1RNRXkyVnBOaDhteDlYYkhic2I1MlNrRlpXSDY1THNjUUlsTG1hNnhsWmtGRWRHaTJoT2NQQVpnbS12SlZ3LXNMeG9Dd3dBTWQ5OGR0SjhjMWZLX2hEU1NqSy05NHNLYm96TEtNWURhRDlPeHNkenF4aVBnekNHa1hObG9z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NetApp (NTAP): Buy, Sell, or Hold Post Q4 Earnings? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nT2pQNk9Ka2VOY0wzVFN2RGpSU3ZDd1B3eXVWYUtPeG41eGZQRWpSdlBENlBQLVNPWXlBMFBCQ3pxQ1poeEdMOTgtTWY4Rk5POFp0OGhHRnZvQnFUNmZNdDFJbFFleUFyMnN0RTFkcHNRbWl1S0pCNnlyTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is NetApp, Inc. (NTAP) the Undervalued Quantum Computing Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXRJYXhBV0czT0tLMXJBRnNjZkQ2N1d0bEQtTWQ4TkF3N3V3dGcxUXRBYTZ1NUlUVjBGSmRGa3BSZWFVLTA4TDhCQ1gtSWJCV1pzbUpNbDk3SzRBWWJRclB2dWJBelcwU2dqTmN0NmhLalFaSDE2ZlFaSlpZSjhrZGpBVlFQd1Uz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NetApp (NTAP) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XZnRXMDFLa3RNMGdjaDZqTFZra283UVM0N1FsTzhnZm4tcWVyem5rRFZkaG12ckRJUF9KZWNTeTRod2ZaQnlHMjRHSXExQ254b2NIWjNQbG03cklmZEtBaEdVSG9DZFhPNnNqZEhrY0JnSS1NYVR5UnlfMEd4UG8?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 123.29
-      },
-      {
-        "date": "2024-12-03",
-        "price": 124.67
-      },
-      {
-        "date": "2024-12-04",
-        "price": 129.05
-      },
-      {
-        "date": "2024-12-05",
-        "price": 128.79
-      },
       {
         "date": "2024-12-06",
         "price": 131.11
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 98.54
+        "price": 98.77
+      },
+      {
+        "date": "2025-06-03",
+        "price": 103.66
+      },
+      {
+        "date": "2025-06-04",
+        "price": 103.76
+      },
+      {
+        "date": "2025-06-05",
+        "price": 104.6
       }
     ],
     "current_price_data": {
-      "price": 98.54,
-      "change": -0.62,
-      "percent_change": -0.63
+      "price": 104.6,
+      "change": 0.84,
+      "percent_change": 0.81
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sentent une synth\u00e8se courte de la performance financi\u00e8re de NetApp pour le quatri\u00e8me trimestre 2025. L'entreprise a battu ses pr\u00e9visions en mati\u00e8re d'\u00e9arnings mais a rat\u00e9 ses pr\u00e9visions sur la croissance. L'\u00e9v\u00e9nement marquant est la pr\u00e9sentation des r\u00e9sultats par NetApp et l'annonce de ses objectifs pour le premier trimestre 2026. Les analystes sont optimistes sur le futur de NetApp et ont augment\u00e9 leur prix cible pour l'entreprise. La synth\u00e8se est orient\u00e9e investisseur francophone.",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

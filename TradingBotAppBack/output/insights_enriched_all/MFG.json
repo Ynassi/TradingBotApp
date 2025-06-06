@@ -1,56 +1,164 @@
 {
   "ticker": "MFG",
-  "name": "Mizuho Financial Group, Inc. Sp",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 70441402368.0,
+  "market_cap": 69301411840.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.687501,
-    "PB": 0.0013482228,
+    "PE": 11.285714,
+    "PB": 0.0013289968,
     "EV_Revenue": -14.783,
     "ROE": 0.0853,
     "ProfitMargin": 0.22797,
     "GrossMargin": 0.0,
-    "DividendYield": 2.82
+    "DividendYield": 2.84,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": -5748180910080,
+    "FCF_Margin": null,
+    "ROA": 0.00316,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 64.32332976913216,
-    "Momentum_10": 9.143974304228236,
-    "MACD": 0.1412906075004585,
-    "BB_Percent": 0.8593894263537731,
+    "RSI_14": 59.857449763810635,
+    "Momentum_10": 1.0968998522502138,
+    "MACD": 0.1314252898206689,
+    "BB_Percent": 0.7121425047389592,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9404744334360576,
+    "ValueScore": 0.9387230964757116,
     "QualityScore": 0.4450991198052978,
-    "SignalScore": 0.3449411138794421
+    "SignalScore": 0.4978379655880883
   },
-  "volatility": 0.0252568160322166,
+  "volatility": 0.0252459785256771,
   "beta": 0.184,
-  "return_6m": 0.0767754496043533,
+  "return_6m": 0.0821917936047273,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 2,
     "target_mean_price": 5.85964
   },
+  "news_sentiment": {
+    "summary": "La récente actualité économique met en lumière plusieurs événements clés pour les investisseurs. Espey Mfg & Electronics a connu une vente importante d'actions par son PDG, tandis que son cours a atteint un record historique de 36,95 $. D'autre part, Mizuho Financial Group attire l'attention avec des acquisitions significatives d'actions par des firmes d'investissement, tout en maintenant un volume de trading exceptionnel. En parallèle, les investisseurs s'intéressent à des valeurs telles que Taiwan Semiconductor Manufacturing Co. Ltd., considéré comme un fort potentiel de croissance sur les trois prochaines années. Ces nouvelles traduisent une dynamique mouvante sur le marché, avec des signaux à surveiller de près pour les investisseurs.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "MFG vs. NABZY: Which Stock Is the Better Value Option? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmN1N3ZQR2dfM3VaeUMyM2QtYjVsWnp1ZmZJcGxVMGJiSmZLWUMwQ2NCc2Uwd3BzenlOc3dwcWY2RHB2cGxHTUdNYTJHMTNXNy1Cb01JVTk1Vlo2OUJrTjNsVUpHNWhjdmRoZE5BZ1ZEbDY3Y2JsbkpodWpDUmptQkVOVHk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CEO’s Surprising Stock Sale Shakes Up Espey Mfg & Electronics! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTHJHNkFTcGlyVGt6ckRuSE5TQkZvLThHeEdiZFpjLWwtZGN1UXhJcnNuRGpxUkJPd2hXX3BBSGZoN3UyOHVZZGNKSGY1aFYtWFJBTkNJelJPRVdtR1JTeElfQXlETnRGYmZNZTgxUjEtOGFBbDZZZ0J4Zl9MVWhjYlpGSnY5eV9uSXd6S2pETjI2VnhmVURUQWlSQVhfNFJFZ3UtTGEyckoxaVdnSlM3bnY5aEZINEhTbWVSZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Leading Restaurant Sector Analyst Nick Setyan Exits Wedbush for Key Role at Mizuho Americas - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGJIVjg5d0ZUTWtMTXk2ejBNMWZLa3BTLVMzZGpqNFhQTldrREc3R1NrbFJjNFpLQXlJUGVGRnduTF9aNTNSRDd2YzdZbGJKOGRPVUg3N21zWjlkcXJEazBQczRmSENyNmhkZkNUa0hoNEtnREhmSHVuN19hcVpPZXBfRi1wbjNXUThfcEFzU1diZVV1NTVFWUFCZ2VzVFBjblI0UXFQTXRzY1hCVlBoTC1kZWpXQVFJMkdN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Virco Mfg. (VIRC) to Release Quarterly Earnings on Friday - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOajgzR3dkRGo2SHEwUE1xQWpQdG5DVy1Hdl9iMWhka0ZYWllLSVVpS21SLWVBQ2VMZzc4U01TU0c3OExKYzFHN0tSdHE2V0EtODZBTnZNdEZtbXF2cm9TMm5BaVotSGJzYVNkMDB6T2U1VXFlbzBybmJrQUoyd3B6ZjZybHRFT0piV0RCZ090NlpoeU5SaFdibnRSazIwZ05mdVRFWTdmb0FqNVQx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Espey MFG Stock Hits All-Time High of $36.95 Amid Growth Surge - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2Rnb1NrZGNkSlpUUzZxdDBtSFNlZzJweDFBUnhGZklaT2dIYWgzLWdoTTJDZnhwZnRMX3NUNDJuaS1jd1FXZTJ6R2J2S0dsUTZ0cVd3bmh3WmJvUXk3U0NVVnhRMU4zYThNTEJsWWtSUUxQczQ4anl4VHRra0x4WnBQYWo5Ty1pclpvekxJX1R1YXdzYUNYWjZSZGVZZzVxeldTLVFIOG0xOS1YT2tJQTRPazlPS3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mizuho Financial: Staying Bullish On New Goals And Potential Earnings Beat - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjhKazE4TmFqUmNSVDhndDM0cm1MMjdILU9pSHRlODBIQVdadXBjYk53eW9LTjhrSVh0bWpJdHk1ZXJkbzBFQWREVTg2VFFhOE1LSjhRQUFMVGtIbjZ4aEItazdmdzVPZkREQlFUNFhHQkFGb2F1MW5zaEd4YVJBNVRwbmRjVHFHV25MQjVLV2Ixd1JHb2FURmdESVhYM05Lenc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How To Trade (MFG) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQW9ScW1kZF84Y3hKZGxLNHNZR2FoY0RGX0FXSlFxa1Mya2lMTnllZllDQUU0YTVDSGZ4ckM4MEkzZG5DdHhjYWRmelUxMzB6aG9JTVJMTG1UMm1hY1FhM1dUWXFoRVpvbHBtcDhBeksyRmRHeUE3Njl4N1hlcFhCSC03T0FnaDJsRUItUWpmb05lYU4zcVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CEO Cashes In: Major Stock Sale at Espey Mfg & Electronics! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXlfWkJ1TFc1TmhwYk03QnpmbVRPM3VXeTBXUm1hS3dfeldqb1pGRENoVTZCekwtZkhaNlpPUXRPenFOa2ZhUmluY2dSSzlLUjFOXzl1bTRnOGJLZ0F4cjI1VGFZd19jNHh2T090MWNidzRBQkljc1BtMXBvZDVob1pBdWw2QXpCN0NERDVGQ1A0clplbl96SDdkdm03LW9oSVFr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "7 Best Semiconductor Stocks to Buy for 2025 - Money/ US News",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdVlocTJ6U2RLbGpQUnpwLWxwSjQ4ZlI3cjR5U204TDlkakhISEo5d3ItaGFVQ1VSdk1UdXBFc1JGYnVqT1ZoN2RKQUREM3dxeDRYbzF5Rl9XeHl6WXZzWWNkY1NRS0pvd0RDYVVLbFRTNHdzR2xyZXpaam1naEc3Y3dR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "54,675 Shares in Mizuho Financial Group, Inc. (NYSE:MFG) Acquired by Voloridge Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaUN1UUhRdnpuVGwtSlBMUHZTNDVXVndldnZQRVVzWDc4TnNjVWFMZWZ0bGpnYW1wWjFyTm9NOEZrY3VVR0d4RkRNenhTZDhBMEVzS1BQNzJWN2xaU2d1TV9xcEZBcFJMYmdXWUFDdUN6bzNzb3lZVHhjMmw2NFN2a1A0dEZFTFg4OGFqV2dEdXpfNUptX25kU2I0MlBxNVdHSGFzd3FxQmRWc1FuUVNUbnd1RV81RUtOWGJDdFhKY294MkNRMTNnamh6T3RDUEdpTE1JZ3Bhd2VaMWVYeG9wSW82WmRfdTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Taiwan Semiconductor Manufacturing Co. Ltd. (NYSE:TSM) the Best Growth Stock to Buy for the Next 3 Years? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUJRci1PdnNsYllEeDJkS3lYTFRLOXoyR2ktMUd6aERiZ19maGh6QzZZUWZOd3ROZ29kc0ZMSkN5aUZDRVpSckFwOGZyTmNRQWIyeFlIVS11MXJ6NFRQelRvbzBGX0xhaVBOV1hTMm01Q19ERmhLMXd3NnNqTWItNzhBVlFibVdPcTFSd3g4NzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cetera Investment Advisers Buys 52,621 Shares of Mizuho Financial Group, Inc. (NYSE:MFG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTk1oZUh0N3FmUExETlVxV2J2cWU5SEY4OEQtWVd5MkRjaGdjNXBINmJYNVRYalVYT29aSWt4QW94SC1ibm5qMjYyZkNUUU1rZVdjUGswMXgtdzBQNGxEcXBob0tDRmVzd3ROSnp5bUFYMTNZU0pIS0w2Zkh2dHI2aDhERVBLVVl3d2Rpd3F3N3dhQ1hRUnNGTXVsUmIwT20wXzNoWWZJTDdsZW1oXzZMYnNUVHJsSUxNVE16Vl9DZ3l5SkltZThCUW5VZWpXR1pVazN6ei1pRlB4UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(MFG) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3JJOVBlMDhLdVo0bk8yQjFzb0VRU184RzN3aEtUQnRKc0ZLUjZYcWNKajA5OFh0cmVBdXBfa2VFb05ZTUxndVJPLWVydTZSd0x0QnViN1FfeFQxMFNJY1hzZDNwVG55cUkybXIzeHNPemF1aEpnb1B2YTdRNmVOdEJnVUF0aTBkWkRVcDF5QTNpbDE3Mm80N2ltZ1ZmNGFhaHY3MWhZMnJ6OFU2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(MFG) Investment Analysis and Advice - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcEpTLXNVMzJFbF9TaktaSUFtTTVlR3JWY2djMDhRS1hiVkRCQ2t1eXRSeXVPX20wUnRUbThvSFpDb1hRZjdlbXE0YVRUQlA0dzNmaDN4b25zSi1qS21sankydExJdFJqb21SdEl5NnJSLS1zMFZnY0FuSUprOHZZYm9fOXlwYWl3WnI0WXBpb3JMZGNUZFhnOUFEVVMyLUNwN3Z2WkdOZ1lZUzhVblE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mizuho Financial Group (NYSE:MFG) Sees Unusually-High Trading Volume - What's Next? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTV8yMUo2YWJJNHpVSVVqZ25mMDdncnJnbzVDSGktT0RtdUpjbldkQWc2QnJ2MGNWcm9vc3NsQ3hoZ2xYUThIQVV2Z05nQW1KOWhTWDV2ZkhYWnNJeHFFazhyQkg4U1EzSS1FbGZjTUdmZWlCQzBKM2NGeXZ6R2RGckJXMm1XaWVaRzB0bkpCeVBrR3NLOGF5NFNuY05NeUNfXzQ2MlVmOFp0TkFWZ2M4SjhFam40SnZEbFNVZTl6eF8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mizuho Financial Group, Inc. (NYSE:MFG) Shares Bought by Forum Financial Management LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ29XYmNlS0E5Z1RLTlRBUHhBZ21QMVFDbWUxX2J4QjY3RkRxbHdYakxxdVFucXpSemJWVUJFMUV4ZzZDT3hlMkszUWhqR1ZXeUhna0JUNDBjT0lzM0RrZWU0ZklsTlVmRmJidlhoemlsNzdUd1BFMGl4alkzWXNKSF9ldGlHTE9Bb1h6SjB2QUJwTHllaUplUHZnM2lxei1ZZE5SLXR6clp5ZUtXc3o1QVJROGR1NXNkLTZ3aVZEVVdaY0ZycFZDM2dLbXlXYmluS0VVWHBocWxaN0I2c3pOVVNLTlQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Millennium Management LLC Boosts Stock Position in Mizuho Financial Group, Inc. (NYSE:MFG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYl9rclBKYkhnX2xTT1RxWXJxS1pYdkhxdS0xUkFGRGg3QnRQRnlzNmpuaHBMTUtTQ3VGMTBpLUVpSEM1U1hOTURsNmM2UXZvY0VPb0JkeGlMNEtyblNtWmEwTTdUeFh4TFluX0ljUUo1OWtMeER1TFEyT3JIZnJLekc1S3NGS0lzdmY0U21xQkQwU25ubkUyVUpXWHVMcjMzMzZFZk9BMkhBYTVOU1ZfQnhsQkd0cHhlRlp4bDZnVHNJX012My16YktESmM4eHFrVUR1aS1aYw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mizuho Financial Group, Inc. (NYSE:MFG) Stock Position Lowered by Cresset Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQkYzalZBNGVWZnVaNHhxblUxMnplV0Zsd1RSYV9QYmh0eUxaT3RBMmsycW50UC1VTjZRRXVDS25RUVpRcVFiRzZiN18zV0c3TmdfdVM3QVFsQkZqdGlicHVoU0RSQzR6REZiVzU2WkkzTTZVZlVlU1JtRlpGNUxhdWNub3lONS1Tc1JscG9VQTNFbWdxMU0tT0FYTWtCbjJoQXJaZWJUb3FqdE16eFZUdlBkQ3YtcjJYSUYxdVhBQnB1bkN1UWozellLVjhLR1ZicnVLV2R3MWMwWXdhZjdJeQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "33,018 Shares in Virco Mfg. Co. (NASDAQ:VIRC) Purchased by PharVision Advisers LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0NsXzNBNXQ0OUZZZ3lTRFdFZW9rOEVYYTRmM0M0MkJhV2xoVFVFZnJqLWY3WFljdE8xaDZKUWtXcFNqcG1XOWFocTYzQ3NYcGg0SVhzZ2pmQVlLLTNfUlpLNEhnaGlMeGotdktMNmg5VnZnTm9XcmtXc0VMZm9IWXFXYVhURXBYblpOOFdmNzA3SW5pNVN3YVVEVmhGS1M3MmtieVRZQk5Zb21QVml5VnVFbkNZZjlPZF9uYm1ub09qeU9LdnRMTEJBazV2dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Taiwan Semiconductor Manufacturing Co. Ltd. (NYSE:TSM) a Reddit Stock with High Potential? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWR1c1dXbzdjR1dhSWFiQmdGMVRyaGZFNUVYd3RKVmQyQWFqQ2hlNVJMbkNBazZmb0hocm9GdF9MT0hyclpNZU1tbTJLWWZ0NHFJbjlvdXUtdzdpYm1RcmJLdGF6eHpLVHlwNWt0Q1EwNDdLd0VmdnhsYTlVN1FDcHdDeUl0QmFNVmU2X3BXank?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 5.21
-      },
-      {
-        "date": "2024-12-03",
-        "price": 5.26
-      },
-      {
-        "date": "2024-12-04",
-        "price": 5.11
-      },
-      {
-        "date": "2024-12-05",
-        "price": 5.13
-      },
       {
         "date": "2024-12-06",
         "price": 5.11
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 5.62
+      },
+      {
+        "date": "2025-06-03",
+        "price": 5.54
+      },
+      {
+        "date": "2025-06-04",
+        "price": 5.53
+      },
+      {
+        "date": "2025-06-05",
+        "price": 5.53
       }
     ],
     "current_price_data": {
-      "price": 5.62,
-      "change": 0.06,
-      "percent_change": 1.08
+      "price": 5.53,
+      "change": 0.0,
+      "percent_change": 0.0
     }
-  },
-  "news_sentiment": {
-    "summary": "\ud83c\udfaf Synth\u00e8se courte\n\nMizuho Financial Group (NYSE:MFG) a connu une croissance importante et ses actions ont atteint un nouveau pic historique de 36,95 dollars. Des experts recommandent de rester bullish sur le stock et des fonds d'investissement ont augment\u00e9 leur position dans l'entreprise. Cependant, il est important de noter que Mizuho Financial Group est une entreprise japonaise, donc il est possible que l'actualit\u00e9 globale influence le sentiment de march\u00e9. Il est donc important de suivre les d\u00e9veloppements sur ce sujet.",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

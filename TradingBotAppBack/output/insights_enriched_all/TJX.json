@@ -2,55 +2,163 @@
   "ticker": "TJX",
   "name": "TJX Companies",
   "sector": "Consumer Discretionary",
-  "market_cap": 142983299072.0,
+  "market_cap": 142269431808.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 30.132942,
-    "PB": 16.80643,
-    "EV_Revenue": 2.639,
+    "PE": 30.005882,
+    "PB": 16.735565,
+    "EV_Revenue": 2.661,
     "ROE": 0.60356,
     "ProfitMargin": 0.084750004,
     "GrossMargin": 0.30482998,
-    "DividendYield": 1.34
+    "DividendYield": 1.33,
+    "DebtEquity": 153.616,
+    "CurrentRatio": 1.163,
+    "QuickRatio": 0.452,
+    "FreeCashFlow": 2886874880,
+    "OperatingCashFlow": 5773000192,
+    "FCF_Margin": 0.05065403887807888,
+    "ROA": 0.12752,
+    "PEG": null,
+    "EV_EBITDA": 20.459,
+    "BuybackYield": null,
+    "PriceToFCF": 49.22157037578297
   },
   "technical_indicators": {
-    "RSI_14": 49.476071572632506,
-    "Momentum_10": -3.94479874853666,
-    "MACD": 0.2445290376357718,
-    "BB_Percent": 0.363481337971895,
+    "RSI_14": 46.7296676896428,
+    "Momentum_10": -2.972069300499279,
+    "MACD": 0.0385670715566277,
+    "BB_Percent": 0.2848466884945058,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8835463443555093,
+    "ValueScore": 0.8805597695668008,
     "QualityScore": 0.3539560740930834,
-    "SignalScore": 0.6483265277420243
+    "SignalScore": 0.6325780083140116
   },
-  "volatility": 0.0129564279160376,
+  "volatility": 0.0129275001053032,
   "beta": 0.903,
-  "return_6m": 0.0212336094933753,
+  "return_6m": 0.0191080041430216,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
     "target_mean_price": 139.706
   },
+  "news_sentiment": {
+    "summary": "Les récents titres concernant The TJX Companies, Inc. (TJX) soulignent une situation contrastée. Alors que l'entreprise a dépassé les attentes en termes de bénéfices, les ventes en magasin ont déçu, impactant la valeur des actions. Les préoccupations liées aux coûts tarifaires et les perspectives pessimistes ont également entraîné une baisse du cours. Malgré ces éléments, certains experts estiment que le titre pourrait être sous-évalué, offrant potentiellement une opportunité d'investissement intéressante pour certains investisseurs.",
+    "sentiment_score": -0.35,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "TJ Maxx Teams With Ilona Maher: $20,000 Sponsorships Available for 10 Inspiring Women - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbk1BT1UtLUlSaUZUQXJlY05QeFREWjJvcGp1SmpjT04tcHBCNTY3ZVhxUllCTk9fTlNHZ0ZRYkZieWFfWWdBR04wd2c1ak9XMFRUbUVnbi1rWGg1b3ZoMFJ1cTg4S2pCYlNTZ1U0UFkxd3ZMWC1ZM3l2NDU2c20yZHE1YS1ZOC1UVTlwcFJIcjVPZUZLdTZ5UjdYUXVFVlNUWHRVWkx1OVBvRXg0QkJORXRJbmNFM0toVlFTbVBDNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer says TJX stock is an 'anomaly' right now — and a bargain - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0duZFM5dk5faVdMbGlFT01uVU1RVHhLdUZhM1JQWHNfekc2TGJJYmRJWDZmWVhyV3F1Y1VUTUtRbzk1M0k4TU1EN19CMkhwb0FsNDhyRHV0MFBNUzdCZHBwc0p6ZHJzaFBicXFtZW1nM2FDUmVkdWNJSlJ0Q2NDMG1RTVFWQTJ4M0tYa3RBVkhsVkxPXy1oS0FEdXp6TzZ5cmc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TJX Earnings Top, But Stock Falls On Same-Store Sales Miss, Guidance - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sSFF2RGhzeXpnWmwyQm91M2dOSjdTNUJlX25mdm03TmhCUEd2WU1rRjZsMk9VTzhMSXFtRmhiZThMNGRQTnRXUXFZT2tvZzlOemp1UHBRVG16cUE0LVFKSWp3bDlKcnpfTmZkQVBMcXA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Will Strong Customer Traffic Sustain TJX's Comp Sales Momentum? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTJmOENJN0tia3UzaHdxR2xjRm5VVVFMOTloSUdUZmNKTzJ3TEpsYlctZ3JlR2NmMjhBMnBCY0l4ZkN1eExwaG9oMlVucUZCRWlsOUt6T2l1RVUxTS1PMy1ueW5lNW1TczJtbFNKVnVHbTVGVHFDSldUeHFlcmVRVVVKVTVQeEZ2U0VjZFdNTDlyanJoc1VjZA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Director’s Stock Sale at TJX Companies: What You Need to Know! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQlFPOWhxaHZCM1lQT1JBSDhpTzZiczg1dENBYWJaZkRfUGxjN18zLWJYemg3QVFMdnowbjlHOUc5Nm5QLVljaTNYMkFLdUUyQkhGdmI1TXdqYzdmTF9nY3hxcFN6Q2tCNVlwQUpxcXVYaUJXX29nd1ZFdWxTRi1ybWV4cE5SZUlKV0dJRUJFa1h6TzUtY0RZSTJoYWk5ODAyaTZtdjNjVDhJQms4VlJKaWJ5QlBHZVZxR2FBV1N3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The TJX Companies, Inc. (NYSE:TJX) Shares Sold by Thrive Wealth Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSlItTEdRMEI1N3Zrb01zMThaZVR4aVlYX3cyem1SWmQ4VWhnRENscXE5TkR6d1V2NTFLLXdBRFZYdHBjSkQ3RmFtTGdhWHlUZTh5NUIweEthQ2puUUUxeFFIZDM2b21GNzhiay1QeGM0SDhKaE40aGdaTmNrY3ZWcm1GYXVfM1p5cHZjNU9ZQ3ZGQW1Rem1tR2JmRzFLMlhSQkx2alVDd2VyYnZ0RnNCaTZqeEo5allDQ2JZWE11Zkc3Tld5QW5yLTFoWHJ3c00?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TJX Stock Drops as TJ Maxx Owner Posts Downbeat Outlook on Tariffs Hit - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONmJtYmRXZU5PYVNYUTg1eU04SHU3S0Zfa3ZuaEtDMm03Nmt4WWRTUkJaTmhkSzhfNTZIN01vanp5emwySmRKdnRaMmZmZkRHcW1YZDY4Y1RVREFKTlhvck4wcjhuSmJZTFgzQXdmakFJbktac1ZabjZQUXlnbmF6VE41TDJKYk5rbTRWQWpKR0ZsVHBvdk9vZ0txSXFWSUFhQjZvUjJQWXlLaWFG?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Will Q1 Results Move Up TJX Stock? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVR4Q01IVzJxQ1V1NDFSYUtyVnR1bFBRMktaUDFxakFpbGtOWU1zWnNWenFNMjJNUGxaUXJldloxS3VwZ0xfX0kzXzlZYUNoRkZmVzN3dEdsYldiZnVoNnNEbTF5SFQyQl9yUWJiakVtUk5Ic3dGTHlBc0c3bTcxZi1jZFV5LVh2U1ZRVkItd3NKNzBwMnlFbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TJX Stock Drops as TJ Maxx Owner Posts Downbeat Outlook on Tariffs Hit - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxORlhFZmxLNi1CRFBKcUlWQWg5cGtIV1pZMjR5REVoU2tjQkFNSkZLV3docmVWQTdrUUltUmItNFRmam9mMGNhY18zVXRYZVpzd0FnOVdxTkhPLVhFaFh5VjBzOWdJZm1JR3VWeG9SeW1QblY4TTBlcTlTTWhwLWdMaldMc3RGZzlzLTBQWHdROWcxbFc4ZmJCcndTaDdQaEVjbjdkNUp3bG1GbXFBUFR4eVh2NmxqM1pSXzIzTm9vcmtSN0VNeGE4SHlmdElZSmJIeGpzRHhGdUZoQkhySGxYcWIzeVdzaGlZQVVsRkZuRC1KS2pvcFlpN2pjVlh0dXQ2V1A5RDRQX2NNMDVmRTVVeC1qSTdUQmtCV1lGdjN3MGxwN2hLejZBSVdQZFctdDBnRWZxYmJ1Z2hpMk4teWpnSE9RclVFai1tY1VrYWdlczNQcG9RV3lB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How Will TJX's Stock React To Its Upcoming Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb2ZMaG15YlJLVzVaQ3NDUjhRZkhNeUVTUEF0c2ZpWjM5R3QzcHIxYW02Uy1NZ2F4S2JuYW53dEJwRnNkMWFocERvc3R3YzNkWjI5cUx4bE1Cczk0SFhScnJNaHlCZnFnQURoazJObnIyMmpwZVdkSEdyTU5zTzJ3Wk16bURMQU1tU2hDbnM1MVM1N1VYZXN3MXdMRFFsOWhPSTRHajFUOHZKbC1FWUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TJ Maxx parent’s stock falls after it warns of a profit shortfall on tariff costs - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUENaM1A1dkZKSU81eURnR2JtZ240aWlMWU5MeFItOEZSc3NfMEZjMVBCMExoY2RoQllsN05TNllfR2g1NjlWcGRROUZMR0loUnpDZHFUN2lyNHBsZXZ0c1dXRVc2ek9Sa1ByY2s4eWkyUndLN0JaV2ItNkRmcTNERjFUOGs4Z0p0UWNCdjFqTjlxbUZlZVpmVUU4V2hJX3M?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is TJX's 5% Drop Post Q1 Earnings a Caution or Opportunity? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUUxDUUJ6OEkxNkNlSHdoVVpjNFJOUFUyMUZfUWF1YjR6aTljdk4zbG9LUm5ETUNGcDlSN3J4Ym5lOGdqN1p5Q3VEMkc2bGR4cjI1R0xkNk5GN0Fjdy1ia3NQUWpHS2tQZ1AwemdYV3lwY2k1a096R2M2WEV2WDlxOG0zLUctdmgzNFBMTldVQ2dVWTcyemhkb3lCRFVwTHlfVV9yMGN4aFNDem1XOXVhYnR2SlhnRm0yUS1PdjNvcnNWeHRIbFhsQ3pYeGNjRjBJZm51cTFMRUtKNWs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TJX Beat Earnings. Why the Stock Is Down. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpa25vZU5OMEowdWE0STVGT1dlQ3FLN3R1X2dHcGsxMkg4aGVTY0FfcjBjaGhiYjZ1TGpLWEQxZFBMVjgycVNTcEtYS0xNd3Q1bko0akNfRGtHT0FrMFJFSVFwSGNhMnRmM1VBaE0weXVsbk1RVmU0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TJX Companies (TJX) Price Target Raised by JP Morgan | TJX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0djREJrelJpZ1RXZTZZUDVLeTJ4N2cteVFkd0dONXJ3bjBJTjJUSUswSTVheTh4ZDlIRm5rV1h3R1ZGRlAwU1I0ZkxNbWRDTlk4blFRQU5DNkhockRuZVA1R2wxaTdib0YxaXBFUTFkcVNSOTZncDhhTDhjOFRiU05oOEtSaVk2QTJIM3dBY2hUMUVSV3RCeXZnQnJMQWItS3ZoNThPSVM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why TJX Companies' Stock Is Sinking Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDF1bFZ0ejVaNU5UcWNPcDZyd3dDNVRQNnhXWk5zOXNzeE5XZTRrRWYyUzFNbjRkWlhjQ05LVVMyblRyTHdWV1ZZSUFnRDJtTV9fRTJtTW5ZSEVnQ0k2NzFLNTlXOXFQWl9QN01wTTBJNG04cGxqTVpJZS13VG9xSDJMd2JuWU1oYzVv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "The TJX Companies, Inc. (NYSE:TJX) Stake Lifted by Chatham Capital Group Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcEhJVnh4S1VzUlhra1FyY3gtU3kzTTZ6bVNubUpmVm1kZEN2WDhGc0w2Vzg3em52amFRWjNzdWVFOTh6UnFQU2RvUG12Zjg2Rng3bU9xRlJUVjVEbmduQXUwcWxDb0RHQlhjZV9HWHRRbUhZUnVOOTZWbkl2OE5FTzJWZldKTDBfcV9fUU1zRTF3cEFXTlRxYktNT3RyYm50dlBqVXl6LVYybno3Z28tVm5iZXFPazhVYWV6SEpMZ0RxT1pmRkZnVFBiSGw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "August 15th Options Now Available For TJX - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jM0ZiQ3lhbVBWNTZDbGczMm1kVExheUZLR2tqYklJUzRoOTZnd19Sbm1CNTItdkxlbE04a0VzVGl5N2daT3BzclRjY09PeEM0bmV3LXhua2JJeG1KbDA3Y2RXdnZST3N6cEY5cFMxQk5zNDAtRjJoWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The TJX Companies, Inc. (NYSE:TJX) Shares Purchased by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelVqV09NMVdsYm1hR2Y5TlBRSEpyNnVqaFVqaTB2cFNJT1hPc05fTTJmb0hTZlJHRk5zUHdLQVRLNXN6UGE4eWZqN045R081RHY2SVJvWUZyenFqNE53NU1fSi1CYm9TcHlOWXdlZ0JJSE1XR1FmM0hKNzdCTjBpVGNIdjk4UHBsMGx2TXhVdk5WYXBHcTkzYUMwMURBaUkzVllpRzVLc2pnUGZOLVRvbEo3T3ozb2t4N3pWUTc5ZDZVY2JpcmMwbVFwcTRzN2FG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The TJX Companies, Inc. (NYSE:TJX) Shares Sold by SS&H Financial Advisors Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdDVzSG0tV21lTzhlV0ZoXzBhTkNib2JTelM2QmhhY2NIendOMzNtRmtqQUJRclpib3diY2ZKSXlsZFQ0bnN3NFo4R3RaTGl6WDJuSGNJLVVsd3Z5eXdfYkw1Zzdfc21UMFBGVkpSZ0lNY0h1TVFfX0otRWFqemJzSmJEOXZzdDRyQ2VZQjFMeW82OVRqMGtWVzl4NWpsRDY4YmdMWElKc2ZPcDdHOXRPOV9VdEYwMWFHTXNjWm0wZjdrZGpOaGVqamExLTkxMXc5Z3FQa19xd1JzZ2NYaFdN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Notes The TJX Companies, Inc. (TJX) Stock “Might Be Most Undervalued Stock in Our Entire Portfolio” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOanF2eUlRWjR2bzZ6enBxUk9UZXdZVURlcWc3Wml1WEFkVUVFd1l1Ym1qZlFWeFIySHFTVFpnRkkwa3htYVhrTFlsRE52RzY3Ry1jeUNjUnFQRjZlUlEyTElaOHhCclN3UFZiN254ejdYMzZUU2tGalJJQU9MTHVBUUFB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 126.19
-      },
-      {
-        "date": "2024-12-03",
-        "price": 124.75
-      },
-      {
-        "date": "2024-12-04",
-        "price": 125.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 125.92
-      },
       {
         "date": "2024-12-06",
         "price": 126.09
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 128.16
+        "price": 128.43
+      },
+      {
+        "date": "2025-06-03",
+        "price": 128.12
+      },
+      {
+        "date": "2025-06-04",
+        "price": 128.07
+      },
+      {
+        "date": "2025-06-05",
+        "price": 127.37
       }
     ],
     "current_price_data": {
-      "price": 128.16,
-      "change": 1.38,
-      "percent_change": 1.09
+      "price": 127.37,
+      "change": -0.68,
+      "percent_change": -0.53
     }
-  },
-  "news_sentiment": {
-    "summary": "TJX Companies (TJX) est actuellement sous-\u00e9valu\u00e9 selon \u00e0 Jim Cramer, qui estime que le stock est une \u00ab anomalie \u00bb \u00e0 l'heure actuelle. JP Morgan a r\u00e9duit son prix cible pour TJX \u00e0 145 $ apr\u00e8s un report de 10%. TJX a \u00e9chapp\u00e9 \u00e0 la chute du march\u00e9, mais sa gu\u00e9rison a \u00e9t\u00e9 frein\u00e9e par des informations d\u00e9favorables sur les tarifs, et son stock a chut\u00e9 de 4%.\n\nLe prix cible de TJX a \u00e9t\u00e9 relev\u00e9 \u00e0 145 $ par JPMorgan Chase & Co., apr\u00e8s que les profits d'",
-    "sentiment_score": -0.4,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

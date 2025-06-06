@@ -2,55 +2,68 @@
   "ticker": "6504.T",
   "name": "Fuji Electric",
   "sector": "Information Technology",
-  "market_cap": 900102029312.0,
+  "market_cap": 942093500416.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.802457,
-    "PB": 1.3421143,
-    "EV_Revenue": 0.911,
+    "PE": 10.235402,
+    "PB": 1.4047264,
+    "EV_Revenue": 0.933,
     "ROE": 0.13889,
     "ProfitMargin": 0.08211,
     "GrossMargin": 0.28298,
-    "DividendYield": 2.64
+    "DividendYield": 2.58,
+    "DebtEquity": 13.863,
+    "CurrentRatio": 1.777,
+    "QuickRatio": 1.091,
+    "FreeCashFlow": 73389498368,
+    "OperatingCashFlow": 144920002560,
+    "FCF_Margin": 0.065327615254614,
+    "ROA": 0.05688,
+    "PEG": null,
+    "EV_EBITDA": 5.995,
+    "BuybackYield": null,
+    "PriceToFCF": 12.836897939975302
   },
   "technical_indicators": {
-    "RSI_14": 47.11105430402622,
-    "Momentum_10": -0.4108723135271807,
-    "MACD": 54.10947908568232,
-    "BB_Percent": 0.2358641188281498,
+    "RSI_14": 55.56826548985603,
+    "Momentum_10": 2.454178316247282,
+    "MACD": 57.911563174367984,
+    "BB_Percent": 0.6542045257459174,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8989697014500796,
+    "ValueScore": 0.895914206082314,
     "QualityScore": 0.373454051810409,
-    "SignalScore": 0.627795259852705
+    "SignalScore": 0.5407009883099441
   },
-  "volatility": 0.0297519383674211,
+  "volatility": 0.0297437362971057,
   "beta": 0.635,
-  "return_6m": -0.2657369240941336,
+  "return_6m": -0.2609032113480939,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
     "target_mean_price": 8600.0
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Fuji Electric (TSE:6504) suscite l'intérêt des investisseurs pour la persistance de sa croissance du ROCE. Cette tendance positive met en lumière la performance financière solide de la société et son potentiel de rentabilité. Les signaux envoyés par cette dynamique soutenue pourraient renforcer le sentiment de confiance sur le marché et attirer davantage d'investisseurs en quête de rendements durables.",
+    "sentiment_score": 1.0,
+    "label": "POSITIVE",
+    "positive_ratio": 1.0,
+    "neutral_ratio": 0.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Investors Will Want Fuji Electric's (TSE:6504) Growth In ROCE To Persist - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWlZZVnNTVEwtUk8wUlhMdF9ZcVFYYkVNQjRFUUZPcGZFNGFIbVZWUm9kMllNazV4NGJEdEE0ZzEzTGZHWFp2UmdvWlQ3YVozVUkxOGszbUtjZUg4a2tTTHFCU0Zvcy1QUXJ0bE8tTmpHLU11aXBkZTNBMkp3OG9fenhHeU9lek5tQW16RTV4QVdUdW1Hc0dWcEc0NnQ1dC1LNHUzcUd4cUdpY1dwa3NaZjRKUGVrU3dESHNKVmhjdGkza3FBRnhWTjJoVkNzTVlvOHdkMUFldkfSAd4BQVVfeXFMUHF6Z2VvVGpxX3JmeXJnMkpLMDBJT3FDWE1WMk1aZE4tdU0ySEV2dmw0dVVtUnZwQVNOTzRqM3FKaWpWa3hiLS1SME5Yb3pSQ0ZVSmxOY0o2bTJBSUdJdkZXaDVlcEkxdmtoS0VmdW5JaUY1MmlUWWhESzd3VDNpLVpjTmpwdW5qNXRtT3djcERaN2NyRFR5cEFObk9ITVJGcjI5WlA2dldfX2p5M0YwSE05cDFVTTZPTk83dnB6UldqYVpCUVhMM2xkLWl3MXhzSW5RTDhKbzBZckxENFBB?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 8692.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 8951.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 8879.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 9038.0
-      },
       {
         "date": "2024-12-06",
         "price": 8800.0
@@ -514,12 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 6302.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 6369.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 6577.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 6596.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 6561.0
       }
     ],
     "current_price_data": {
-      "price": 6302.0,
-      "change": -127.0,
-      "percent_change": -1.98
+      "price": 6561.0,
+      "change": -35.0,
+      "percent_change": -0.53
     }
   }
 }

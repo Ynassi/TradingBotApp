@@ -2,55 +2,138 @@
   "ticker": "8411.T",
   "name": "Mizuho Financial Group",
   "sector": "Financials",
-  "market_cap": 9950245945344.0,
+  "market_cap": 9812750368768.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.428489,
-    "PB": 0.9528883,
-    "EV_Revenue": -12.2,
+    "PE": 11.18376,
+    "PB": 0.9413527,
+    "EV_Revenue": -12.255,
     "ROE": 0.0853,
     "ProfitMargin": 0.22797,
     "GrossMargin": 0.0,
-    "DividendYield": 3.62
+    "DividendYield": 3.64,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": -5748180910080,
+    "FCF_Margin": null,
+    "ROA": 0.00316,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 61.38091159213733,
-    "Momentum_10": 8.067593349686565,
-    "MACD": 99.34180909592214,
-    "BB_Percent": 0.7587964157448448,
+    "RSI_14": 56.6406678634368,
+    "Momentum_10": 1.2668045501551188,
+    "MACD": 88.53130831905219,
+    "BB_Percent": 0.6233950012762037,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9384877485392228,
+    "ValueScore": 0.936277414233294,
     "QualityScore": 0.3986509423712688,
-    "SignalScore": 0.4907362318226957
+    "SignalScore": 0.5383067580086811
   },
-  "volatility": 0.0279517556848275,
+  "volatility": 0.0279936347103479,
   "beta": 0.184,
-  "return_6m": 0.0374444559498576,
+  "return_6m": 0.0243200836820083,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
-    "target_mean_price": 4484.5
+    "target_mean_price": 4467.8335
   },
+  "news_sentiment": {
+    "summary": "Le secteur financier japonais est sous les feux des projecteurs avec des banques comme Mizuho Financial Group et Mizuho Securities explorant des opportunités de croissance aux États-Unis malgré les incertitudes liées aux tarifs. La vente de la dette de Musk par les banques et les avertissements des régulateurs sur les pratiques de fixation des prix d'IPO soulignent les défis persistants. En parallèle, Fast Retailing et les sociétés de négoce ont propulsé le Nikkei à un niveau record, mais les craintes de récession mondiale ont intensifié la vente de titres bancaires. Les investisseurs sont confrontés à un paysage mouvementé, marqué par des mouvements stratégiques et des préoccupations macroéconomiques.",
+    "sentiment_score": -0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.13,
+    "neutral_ratio": 0.53,
+    "negative_ratio": 0.33,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Japan's megabanks forecast more record profits despite tariff uncertainty - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkxudW5HVTlpOU9uV24ycTVNaHY5Q2RJNjJ5TVZCN0NIWm0xT01lVTQzMllfM1NFN3RGZlZ1NjIyaWZLamRaOVo4bkpfVzFMQTNEaWZTWktnel9RTjhFMDRpOU5EZWFZMmZZV3dnc0g0bDUxYVhxNGdCcE53eUpKZXRsaWcwYTM5NnJ4M2dhd1RjYkFuX3ZOYmRhOG5SWnZtdXZtM3JBWC12S3dSQm9XbDFsOVM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Now The Time To Put Mizuho Financial Group (TSE:8411) On Your Watchlist? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbENtR0Z5Nm96M3hPNGJWeDFXMzlQWkFBSWJ4RWhMMGMxZHpjWmt0a09MM0VHeVRWbUZtdGp0bzBrTlFKa0phTExtZUd0c0pLR1ZBeEpyRG9IYV9SNFBhczQ3QTBKdDU2cGVIUUQ3SzZ3TDM3Q2N6YUFQM080MlU0a2pMdHFfMk83ZU0wS2FFT04tUk16WkhDZmJENUdmVmkzMEV4NWpJZEIwcXFGRWlHMW5HWldNSXFKZlg3Z3J1aDZCX2NOSVFDXzY5ZnZIaDB5V1RJM3ZSQ3RVZ9IB3wFBVV95cUxQVjUtVTRoUExIX3pJVDRWS0NVQ3ktckE1c3BGQW5RQ1ExR0pKMmhDN1VBRDdwNDJqcExoMkxLc3lfZ25rYUlrWHBaSHNLZ2J1dzVwaFRrOVJPLTRUX0lBa0pLb09ES3J1X2Z0bWpWS3liMWZ2WmlZNnBEdkNiZVR4LXRHcExqdTYwZlNObXJiZUVIZmh1a3ZhWTYtcl9kVU4yOUEyR1lTUWsxakg2RkxsaEVfV1lPd3FmUEQxLUdVMmR6UUQ4YUl1b3BkeTZlVmh6ZHdyOHdLcUtSRGVkcUtN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global rout in bank shares intensifies as recession fears mount - KITCO",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQW1HVnFKZnJrZmhyS1pfNHdoN1E1TUstN3BEVmdHdjVHQ2JGT2RMbThjaEtWeGFMbDFyaWhNcXZYWnNndEh6Y1IyR1BXNzBsTHdQT2hWdmlvb0VDRHE4djRHZXpwVGF1YXRhNXBVTTBYNUh5SHBLT2gxWi1JVDVkc1Q0NzdHVGY3ZThJb3JkS2tGUmp1UGdjVFJwR09zbE5QVW1oU0VucC1XRHE1?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan’s Nikkei Stock Average Ends at 2-week Low as Automakers Slump on US Tariff Worries (Update1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbWV2X1pVMmtUSWRSQkFLb1F4WTBCMXJDTUs1R3dMZjJrVGtOOGdyazREblJmS3JOaHM1eXdMOGd0QkFmVDhyWERYTndzQVg4dGNGcHRRZDdEemFsYmdST0FlUVBHc0R6X3dVY2pKTWdNLW1oVXB3S2Vn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan's Rakuten Group scraps plan to list Rakuten Securities - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZURaM2Y4aC00eTVRRjhUWmNCbUxSdXRQSlhFd1h2cVZJa0hhM0pyb0Qybl8wVUpSZEd6MWJSMzN1QkdncVlyaGdKQ3JNZ2psbkxiaC1kdkNsdUMwSGxHLVNEcUdhakpkY3hZLTFZbGVhWENFZjNhMzh0TldMWTRLTm9wMXAwdURscEY1dXg2dl9RbDhMc1lJUTg1V0dkdTAtc0F4cUdJLW4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banks sell down $5.5 billion of Musk's X debt to investors, source says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXlrOHRnMUl1R2MtcFkzc2E0ZnRLY0FVYUNvbXBPVXNBSF9IOFdCdC1MVi1pa3dJVElKdEUwRTlSOXJOVzZxd1YySWdGcUlJNVF1Vnlvd2hTVGRXMEVrTm1weWVKVll0d1VHbjZTN0ptZFc3QV9tS1EzWlZmaVhiWDB3WXNpd0dNS0FOOGhRVkFHUTRXbm5kZlhfeWp0LWZZZ3kyZm4yTnY?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan's Mizuho Securities looking at opportunities for U.S. growth - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzcybUYwNU9tVm5nZGxiX2kyOVA5NWZNYkVYTTNaQnRYTEthN2toVGtFVGFsMFBVYTZlaTFyUXJuQWRBRk11VldJQkd4WU43ODRwdERtRVBMQzZ1TXAwTVJZNWc0VHM1SVNGeTBGRWlsQnF6Qy1uMlRwN0tQTDhYNlRzUGdEdVppbEwyb2pkcjNzSU1FUndEX0NwRlh0Y3pUc2hvSDVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mizuho to buy 20% of Rakuten Securities for $550 mln- Nikkei - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSnYyYzQ2Z2h4OTBybmh0ODN0dDdkZ20zOWltQXBEbEVKNDNpbW9yUHNSTERReWVRb2Z1QmphRElnUXpjNGhObkhJekVyUWt3b3VTM0ViTHVjWFVNaHJXVzdUNmN4TkhsdHNsTkdhbUlnN1ZCam1VTlJRWXg1SlBSdjZQaHJURVJuMnJ6djVVYkRaeVh0OEI3MEFiZFEzWThId3hVOTlHdXNfV0ky?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan's regulator warns Mizuho Securities over IPO price setting - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGZ0ck9iOFN5REtsaEtGSUZiY2ktV2lpY3M2c0ZwNUI2TGNKRXRucGlOTzg0LUctNVZJWWNFQTRxODNFcndnYTY3UTF2QzVHZEFQYm92V1FTSkprXzQ3T2ktWHFZd2NiLVZZZTJGMVdDRHM5RVlMdjF6RDZFdlF2VjNvNmw4MWFkWU55b2ZZSks5QnFZaVZFLXZ1VldsSW80T0RMR0tSOWJ0Q1hJNWJjbXVDaw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mizuho Securities to buy 20% of Rakuten Securities for $550 million - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmtzUUxROFdkZUJUaXk0M1VqTUN6X1ZHelByOXRwZlg5R1BaamJRWlNfTElqUEJkMWJWZnFISnFuLUhwVjlITTlySU9FWjdyb1Rmc0J1TDBzNjRIVXpfZ1JYcmhJb1FkV3ZvWUp2VmtqME95a3ZQejJEOFEtTG91WjNfb3RjT09FdFRQTFpGWWNJZlU2cnVKcmswc3BBQTBpbjhV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fast Retailing, trading houses lift Japan's Nikkei to 33-year high - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXhhNmYxTzFHQmhmSWNBZnVZS2JPYTcwNnItWF9za2czRUxyOUE0S3pBU3lreTJZZzZvUnVlNnRiV1duZngwMnJSNkhma2I5VjFsMDhPQU5XWGEta2dNZnh3cjlYMVpfZEFEVjVKaFlkYXBZNmx4TnFueEZDNzc1Tlp6Q3lDWjVBZ2dKcnNDX0YyeDZsdFU1S1VLSEJjSWY3ZkZOSHpwVkFkOF95ekYw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GE to sell European private equity financing unit to SMBC - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXRTcFR1T1Q2ZnRQNmYtcDhaajl0TnhpMFNQTW1Qc3ZFZ20tbzZKeWFPSW11bF9lUXU2YlVuTFVPVS1UaURoY0tJb1JJdHp3cE85OUZTQ1M1VGUzNlUyMGhuLWNJQy1aRFZjSHNZdGxJOTVYaVRtMklEbUoxdm1HRGh4X0d2RFRSa1drdHBVSWZwOTdhR18tVjRNcE9FVW5ua2hqcGF0V0syYTNmTnQ2aWpKS01mdmVKa2Fv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nomura CEO quits as insider trading scandal widens - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVNDOTJtbEU4Vy1teWd6WGlUZEI5emwzZ2hCYW5VS3NseEhEYnBnMlcweWZMZDVfaTlwY09saDMtVlBQYl9FRkMwYmhSWGlGZEJqTk9rQUoxUTFNT1NRY2FnSXZVU3puM3g0R3hvUzl6T29yR0puT0lDeFU4OFFWeUJkMlEzWUNXYXliNURzNV9lazBVX2phaGFsWEFtQzZVcmdDX0YzRUxvdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japan's SMFG plans to buy 10% stake in SBI worth over $443 mln - Asia Business Outlook",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXNCR3NzZTNYa2VPZ3BmOERHTlduZU96NzZXWmxyN1l2VTBzSjFZUGszeWdEamMwY1ZSby1zTTJYeU10cGhFaGVyU19ZWFVNSVBYSWc3WmNnOXBnVVlOeUsxSnAyNlZHeF9ZVVdYUy1aNHhtTjNiVFVaSi0wdHpmMC1QWVVKSjN0YkRPNXhJOEd3VjYwWi1EM3p6WTdEdFIwQlFhdUFtQWpWZ1ZIU1R6d0U2UnZBZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HSBC cautious on Japan outlet expansion - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbWRNTWpZZzRVUjZubTJIZUpjQmhfM1FfNnpFcTBfQlhCeWFKUWFSOF9BQU91d2k5ZHNKc1hLV2NvMjdOYkxzUS1LaDdPQjdtWjhfbzVTR3Z2Vjdqdkw1aVEwUjZCRXppZm9TdkxNYTRwQUktMWpCNXVQNnZGYWJMUzhkNzQ3dkVNQm5EMXZGdmRac0tPUHdRMkI5NA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3879.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3925.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3810.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3824.0
-      },
       {
         "date": "2024-12-06",
         "price": 3814.0
@@ -514,24 +597,28 @@
       {
         "date": "2025-06-02",
         "price": 3965.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3947.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3980.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3917.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3935.0
       }
     ],
     "current_price_data": {
-      "price": 3965.0,
-      "change": -37.0,
-      "percent_change": -0.92
+      "price": 3935.0,
+      "change": 18.0,
+      "percent_change": 0.46
     }
-  },
-  "news_sentiment": {
-    "summary": "\ud83c\udfaf Synth\u00e8se:\n\nLes titres \u00e9conomiques r\u00e9cents concernant Mizuho Financial Group (TSE:8411) mettent en \u00e9vidence plusieurs signaux forts. La premi\u00e8re mention fait \u00e9tat de la n\u00e9cessit\u00e9 d'ajouter Mizuho Financial Group sur le portefeuille d'investissement, tandis que la deuxi\u00e8me annonce l'abandon du plan d'une IPO par Rakuten Securities. Une autre nouvelle signale une d\u00e9pression des actions bancaires \u00e0 l'\u00e9chelle mondiale, tandis que la derni\u00e8re mention signale l'achat par Mizuho Securities d'une participation majoritaire dans Rakuten Sec",
-    "sentiment_score": -0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

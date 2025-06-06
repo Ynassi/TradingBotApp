@@ -1,56 +1,164 @@
 {
   "ticker": "CVBF",
-  "name": "CVB Financial Corporation",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 2541124096.0,
+  "market_cap": 2561794816.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 12.717241,
-    "PB": 1.1509894,
-    "EV_Revenue": 5.679,
+    "PE": 12.820689,
+    "PB": 1.1603521,
+    "EV_Revenue": 5.624,
     "ROE": 0.094189994,
     "ProfitMargin": 0.40089,
     "GrossMargin": 0.0,
-    "DividendYield": 4.27
+    "DividendYield": 4.31,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 214168992,
+    "FCF_Margin": null,
+    "ROA": 0.01281,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 42.02484630997442,
-    "Momentum_10": -6.774520253139291,
-    "MACD": 0.0287384570367059,
-    "BB_Percent": 0.0699714250635663,
+    "RSI_14": 44.959835644877614,
+    "Momentum_10": -2.414693453518663,
+    "MACD": -0.056870654511151,
+    "BB_Percent": 0.2089743360866182,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9330787903243364,
+    "ValueScore": 0.9321450908356992,
     "QualityScore": 0.409188028833717,
-    "SignalScore": 0.5661959276108801
+    "SignalScore": 0.6003128670699407
   },
-  "volatility": 0.0189323797830117,
+  "volatility": 0.018742066486554,
   "beta": 0.676,
-  "return_6m": -0.1928129840953315,
+  "return_6m": -0.1841469683483966,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 22.2
   },
+  "news_sentiment": {
+    "summary": "CVB Financial Corp. (NASDAQ:CVBF) a récemment annoncé son 142e dividende trimestriel consécutif, soulignant sa stabilité financière. Malgré une perte de -12,62% sur 4 semaines, les résultats du premier trimestre ont dépassé les prévisions, suscitant un intérêt croissant des investisseurs institutionnels comme UBS AM et Citizens Business Bank. Cependant, des ventes massives d'actions par des fonds comme Two Sigma soulèvent des questions sur la confiance du marché, tandis que des réductions de positions par des acteurs importants comme Millennium Management ajoutent une nuance prudente à l'ensemble du tableau.",
+    "sentiment_score": -0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "CVB Financial Corp. (NASDAQ:CVBF) Shares Purchased by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNlMwMEFLVWlza2tlVE1tc0dHV0dfaGEtd205dm9ValJSa2YzdFlhOXFZMlV6RkotQkd0bXk1OF8yQXhqdWZ3UzYySmhRWE05aHBSUjI1ZFlUVHFIejJJZmhYU3VPUThzV2h3bEZlV0pVYTZtNERrZmRzWG5fM0RpeVRMRnRpQWRfc3FjVDhxR1dxWXVEY2VocWNJWEM1SkEwdTRFUDZNQ3VTTWtIWnNDSVAtVUpjT1RUSGpJR2Y5Q2N2cHhrSEhoTlNJQXh5VkVhNFNuM25hdVBROXdYc2NDRW9SVjNPQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(CVBF) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3A5N2R4WGo5QkxIR2dZVmFVdnRwcF9naU5USXNJOWlkazVpR1lfVmNrZTh3SFRmM29VeUt5WklaT1UtOEs3YWlObXFwd096VGhVYUpyY1Fic2VwSUZhNmpISGFPNmpJZHpqV1Rfcmg1TE42eERfbXRmUENUSHhKcm82RFBjMHQ1YXJoSDBjZUtyUUhESl9FMXVvbzhzVU5EalE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KWB Wealth Takes Position in CVB Financial Corp. (NASDAQ:CVBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFctTjZSY2FWYUJ6LWI2MkkwMDZPOXg0TnJpay0yMURucWtDaFc0TmNmY2hiWU5KZnN0dm9OWmNjR20xUjN5UGF0RnZTMXZkTllUSDFwSmp5RFdZMzNMcXo1R0t1dGVMOHYwcDgxcmR1VTBHRzRsNHEtZ1hnOEl6NFozb2R5T0RZcDNFLWdibDl5aDRzdWQ1SnBMMXpuOTU1R0hLVldidmZjWWlibVNOTm1HWE5mMUNxbkdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CVB Financial Corp. Announces 142nd Consecutive Quarterly Cash Dividend - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM1I2RVRqUC1Vc1BJYlpfaEg3ZDZHQ296Y2s3VXBTME92Y2RubjEyNnBEb3lPZ1BDc1p5cUJtTm5mYlBHX1dQYllaMTgwQjI0d2loYXA2d2Jfa0NzZGRnLVpmLTAtMlBmWm9pcTNqWmg1TzFiaDExZW5hMnpHczYxZjZQdzlMOGFPbjFnb3VGYzFxQXZ0MTJyVkFZQWtTc0wzdG1YaEhYUFFVOWtWWlpyNnFMWVFiblgyZlFkQnhaMFFVS0Y1ZVBUQmt6UTlEWC1waGxSdk9SbHVDQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why CVB Financial (CVBF) is Poised for a Turnaround After Losing -12.62% in 4 Weeks - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2JQMXhtLVVpMzdxcWJwZVM2Q2F2REZWY1VXLVMzcjNNR0w1UWg2UXFSN0ZxZFlDc2xQbE52Y25aWkxkaXF3MndHd29HY09Od2ozbDQ0c3MyOWFmT2lvLTgtNUFscWxWWGxJMEpBbUFFeEFncFJxY0hCdEZsWmF4S19obTJtbnNOSFEtQW5hTWdtaEl0bGYxUEZpOW15WVFnYUhxNWNiNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CVB Financial (CVBF) Reports Q1 Earnings: What Key Metrics Have to Say - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEFLalBTaE15TU1rMWNsZmlBam91T3pYRzBGM1RINTdXRy1hNVB4RkFIRlVMbFpIdHlrM1MwTGxLR29BWHQ4WGhxTXZ1eE5EX1JydVFFLXN0ZFBZRkRrR2RUNkxYUFNjNi0xN2xaWDgyWGVrZnRPUEhUNmFKTGh6dg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings call transcript: CVB Financial Q1 2025 beats earnings forecast - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3JqVmp3VGlrRFlwa2IwVXFxa1pBeEJBLUF5dGdnakoyeENRY3dUemRZZmFWdlM3QTRNNDJXS1VRajJrZG9xWm1TR0tBNUpvVXRiMjhzSThWZmd5ZEE4VXRjMDBSUFZla2NXUGpJcWRodXZleDI0SzRWV3R0LXN4UTQxMzFlRk16LWY2LV9ZRF9Vd0JUSFNXRnBBaXJURnNkYndEdGpHQmNMMUhDRC12RmNjaGtpWXQtS25LUmNvZnVwbF9R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CVB FINANCIAL Earnings Results: $CVBF Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEUtLXlZUEgzN1IyamwzRGFRMmNEN3B4MFBGY1pGNWdBRnVXMlAxYjNVbGFPNUhaS2R3UU9aQXZEd2JZblNEQmVWdmY5R1VjMXBfMVZHTHYxcHg3XzFiRTRIOHpGaTA1aHJ3dDgzbVJ5WmUydDJVbFpiNHVzdnpVY0pjQTBGSUtmYVVMU1FsVmc3amxXbnZXZ0ZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Sells 73,600 Shares of CVB Financial Corp. (NASDAQ:CVBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTUlPZ3lVWENvNUgzem9UTXJZdE9aMnRYWWM3a2h6QkllTXhxR3VnS2N5ZzluRkpsX2psRWZtMk05eTNGS0l0ek8wQ3JYR0R0dU9OZ2FTOEZiSmp4YzZyS1NhNTIwcGY4MTZza2JUcExnXzZRVXhRLTFNMjhwMzlCSWloVExTeENINjZ5dy15QWlMQmNDendQRUU2RFJXZ0xQbk1pTXl0UU5VeHp2Y3lzYU9wcFEwNTZiTXhOV2JLTkdKbUFDWTJidXA4czRLbms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(CVBF) On The My Stocks Page - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRC1ydjI4OC11VVlkck1oY0E1UE9jajJSOXZmdy1EcGhSM0xEcUxQR3IyM1FBT2kxLWJZMS1XS3hBQnNlbDZFWExKS2xON2FTcm42M2cyREJiaWtyUGdjXzRKRXY4Z2padEdBdi1WWVVzNFk2QW8tRXJsdVplNXlxLWRSSHRLMjh6MTRsQ2FiNUk3aWtpU0lIOFV3cVh5NDhoMnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Increases Stake in CVB Financial Corp. (NASDAQ:CVBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPX0dxNFJzdml5ZGFOUk1EaEVuVlZGSjBvcWRCUTZ3dlBKc19SUWloYVpiQjZaWUpPbGpOMGFBNC0xeUZHWVI4ZHc0bmlrbndTOFBDdkdOQXYwOGZJREFSS0k2ZkNZaGM3N0NmWjJYVlR6SHdGaFEyLU9xVkp1Q3FXU0Q3N2VCTjNxZXZscU9EdkZmYWFoNnVab0p1M2o2aG9QeWtiakJIN2d1QmFQa2trZTlTeWstX2k0UmlsV3EwbzJrc3lQdkppbzVaVGJvSnhNV09kLTBpS3U3UUYtNkZ6bjRDeHYzNDNDZ2FpSlFNRTBtUW56YlVhR2dyNGVmSVBoeXp0TjJabmMzVGdiRld6TVdB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Relative Strength Alert For CVB Financial - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50djR6Y1VidDVITEltWGNkVDltU3VtMGVRMGQxVUJOZ09xZnhzcUtCcTh1NzVkNS1YVjBFLVgxdG9ueFZTLTFlNWhLcGFPVVlPN3VQNUdkWnJMTktBX3ZqUXZ3X3ZRZkdTZTRiVzFtb2gtR0lVc1dHUEJiYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Millennium Management LLC Reduces Position in CVB Financial Corp. (NASDAQ:CVBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDZSRm4tSWQ0aHpiWUtXOEM4Zno2bEhVNFB2MlotUldna28tZUREMnA5eDdBMWdQUFNKQWtxS1NEa1czTUVvTFQyb1ktWGdxNUJSOHlDTkJlQjFqRDhPN2xUUEcxanZ5eDNEazVtb0NxOVc3cjlfbWozWFNFdDhZOEt4ZkpLQUVUelJtcE1JUDZjdXljV1BseVg2V3pKcnhaWUJfMEhZblBOdzdlbWJROWU2Z2M5ZTFCVlQ3UC1NRDNaSkllazFUWktMcXM3OHVB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CVB Financial approves new stock repurchase program By Investing.com - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3AzUE1LT3c5blBYVnpDQ0hnS04xVG1ONlM1ZDA1UVpXUU9BZDFuVVFNalhyLXpQZjhscjM4YlJSeko2NEpFQzh5NVdNZWk3NXBtdmFDNWNkeWtJZkZZTkFaOFE1VHctaGdZR1lydHQwZUdETllobklGTlozek9NYktpMFFWeHNfQ0g0SlRJVUd5MXd0WW5qMjF6QjdkXzk2dElsbGZ1b3F6ZE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CVB Financial Corp. (NASDAQ:CVBF) Shares Acquired by Citizens Business Bank - longportapp.com",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DSEs5VVhFWUpnUGZkZnZNNFIzQldjVVQ2MWFkZm42SWtOcmduWEdxVnVrT2hpTlRsV1pHYl9MREFad0QxMjlSZDBhc3o4TzBUY08w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Sells 177,328 Shares of CVB Financial Corp. (NASDAQ:CVBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOem4zZjhRdVkyWDV3YV9lQTlORlAzemVpQ3c3RnBrdEZCSG44NjRTMTdrRGtuZ2t0LUdPcThRSkxFOTZDUmN3dnJMbUFwQmNGaVNxS1NMc094YW13T0FHVE5TZFg3ekRoTmtwWi16aW9pOUZTSFQ3aUFraENDbERmODYtYVc4cmVrQ0l4VzVyT3FpRTl0VVoyVVZKTlFkSEZOa29HLXlRMFFFOHNHVGUzcENIVnVvclBBOE1NaHlLR1NzTnhDM1lXam1EejVvdUo4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Squarepoint Ops LLC Takes $643,000 Position in CVB Financial Corp. (NASDAQ:CVBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2hybmFkN1FvTW93LXY3eFpEa3FqeVloc1dxemJKYTY3MXp0dmR0ZlFuNHZYMlVPbklyZUN6NUE2TGNWV19KSzM2cjRVcWVwV2JnWE1sVVBqNjEwSDNUa0FvZzhPSnFCakhPZmt3OEVwRGVLRWpfbXR6dk16b0lIVl94b2JrV3czTmoyeXAwd3Y0NTJNNnRMSExTV2RQM1VLRkxOajh5NnRrWks2MktmT25xTTJWZ1ZzeGhLYzY4OU81T2Y3b0ROZ1M3QUlpa1Z6?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CVB Financial Corp. (NASDAQ:CVBF) Position Raised by Parallel Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXcxWE9hd2NWNXNHaUJqWG9lSVh3Ni0tWHp4djc4MnVhVFR3LW1xamQ1YmY4VWVpTXVUeWI4Rnl3cXpGMThULXE0clhhYzh6Z2RqSXlIUzBUeUlhVl9aclFBRlFOR2NmRTRzVXJyc244WEROMFRSNUlMRndISU5abDJ3dWNCcm1jUTJxUklBa0xqY0NURUszUkJiQkVxRnpjeUdzTzhGSmprRTVubW9kMXpqWkwwOXdhMmdPMWw5c09LLXc2ZU92d2tqaXBtSndzeUNv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CVB Financial Corp. (NASDAQ:CVBF) Stake Cut by Voloridge Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR014TE1NLUhFS3pua3pkclRJV3lVVW5ZNVVXWGdNY011aTdzVkhuUkZRS0VZemZCQ3lWeHAxQ0Q4dGtoZGZuYWR0bWNXNVF2YkR1bmRpdDBhdnNpRnpndi1RSG1nT2NoYndhMWRwRkpwSm1wS2xhMjZIMVVoNTNmZmJiTzlsOTNiTTBpQkNuUEtyOEFJeUllOE5zU1hHLTE1ODRpWDZpbll0dFdNOGpFVVZoTDROWFo5b3M2VDZzUUNqbDBwMTltZWNacnFlWEoxQkVJYTZOVEZYWnM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ameriprise Financial Inc. Has $6.72 Million Holdings in CVB Financial Corp. (NASDAQ:CVBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTjRDY2FOUzlEV2gzSzk1WlNETVMzMTY5Q0Eyb3pzeUdhR0o0UDh5YlpZUHM1UnBiMFJzdkNJWXBpMmplYUV1ZHlKeTlaU1dCZ0RwOV94YlJ3VkgyTlNaNmtkT280NVVvREphNDQydFR4MFNvam1xd09kVk9oa3FMOTJGbGZQMzlBSDBKbjBxcEdMSWxsOXZhRnh5b0RWRi1ER1RqbEl5OVVUVjZuaGdWYkpicEdGM05tYzRhM2Z1MHFxQjFLU29pRUV3ZlZyWkE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 23.31
-      },
-      {
-        "date": "2024-12-03",
-        "price": 22.97
-      },
-      {
-        "date": "2024-12-04",
-        "price": 23.52
-      },
-      {
-        "date": "2024-12-05",
-        "price": 22.98
-      },
       {
         "date": "2024-12-06",
         "price": 23.25
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 18.38
+        "price": 18.39
+      },
+      {
+        "date": "2025-06-03",
+        "price": 18.57
+      },
+      {
+        "date": "2025-06-04",
+        "price": 18.55
+      },
+      {
+        "date": "2025-06-05",
+        "price": 18.59
       }
     ],
     "current_price_data": {
-      "price": 18.38,
-      "change": -0.37,
-      "percent_change": -1.97
+      "price": 18.59,
+      "change": 0.04,
+      "percent_change": 0.22
     }
-  },
-  "news_sentiment": {
-    "summary": "CVB Financial Corp. (CVBF) has recently announced its Q1 2025 earnings, which beat the earnings forecast. Despite losing -12.62% in 4 weeks, the company has a history of strong Q1 earnings. The company also reported strong Q1 2025 earnings and has institutional investors owning 76% of its shares. However, the company has been experiencing a downward trend in earnings and investor returns for the past three years, with a loss of $247m.",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

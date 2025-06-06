@@ -1,56 +1,164 @@
 {
   "ticker": "MFC",
-  "name": "Manulife Financial Corporation",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 54703960064.0,
+  "market_cap": 54918045696.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 16.810526,
-    "PB": 1.1136681,
-    "EV_Revenue": 1.705,
+    "PE": 16.613989,
+    "PB": 1.1180265,
+    "EV_Revenue": 1.71,
     "ROE": 0.1073,
     "ProfitMargin": 0.17557,
     "GrossMargin": 0.50465,
-    "DividendYield": 3.99
+    "DividendYield": 3.97,
+    "DebtEquity": 44.276,
+    "CurrentRatio": 36.552,
+    "QuickRatio": 11.041,
+    "FreeCashFlow": -6061250048,
+    "OperatingCashFlow": 28605999104,
+    "FCF_Margin": -0.20188688788859338,
+    "ROA": 0.00551,
+    "PEG": null,
+    "EV_EBITDA": 5.717,
+    "BuybackYield": null,
+    "PriceToFCF": -9.05627637026995
   },
   "technical_indicators": {
-    "RSI_14": 58.94533357451631,
-    "Momentum_10": -0.1874983310699463,
-    "MACD": 0.3641846941624038,
-    "BB_Percent": 0.7676511619902497,
+    "RSI_14": 60.15777992254834,
+    "Momentum_10": 4.208638770489741,
+    "MACD": 0.3681135805405979,
+    "BB_Percent": 0.768415232169565,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9336107044628436,
+    "ValueScore": 0.9316737024820624,
     "QualityScore": 0.4078526419095165,
-    "SignalScore": 0.4320592893575909
+    "SignalScore": 0.4797471097542961
   },
-  "volatility": 0.0209271885757231,
+  "volatility": 0.020979966105985,
   "beta": 1.063,
-  "return_6m": -0.0117573998872114,
+  "return_6m": -0.0103395951664491,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 1,
-    "target_mean_price": 27.887365
+    "target_mean_price": 27.957525
   },
+  "news_sentiment": {
+    "summary": "Manulife Financial (MFC) a récemment attiré l'attention des investisseurs avec des titres contradictoires : d'un côté, des données indiquent un potentiel d'achat proche, une croissance stable en Asie et un intérêt constant des investisseurs institutionnels. D'un autre côté, des mises en garde contre des offres d'achat prédatrices à prix réduit et des signaux de vente potentiels, comme le dépassement de la moyenne mobile sur 200 jours. La société affiche une certaine volatilité, notamment avec le lancement d'une nouvelle initiative de réseau fibre dans le Midwest, soulignant des perspectives de croissance mais aussi des risques à surveiller.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Manulife Stock: This Insurer Offers A Decent Dividend, And Is Close To A Buy Point - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzRBcE5CTnRiU0lyd2hqdkFxcUNsWUdleWJmdmRGNFVGZFNVNWdCQWh2WnN4WVkzT0NCOTdVc0ZjTHAxTjBjdExmdVpPQkVmRFBYU0l3aUVpZk53N29EeHB5UkNtNDRXZnJocnFZQnpNTGdvTHZmOVc1MTdGYXJVcjNzS0N6SmNod21QWTVVbURWc1lRNU5RQi1OSUZwUHRtOGIxRDl0c3FQRXZpWkJDUmhsSVlFRWlBTHZTWHppaVU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Manulife Financial (MFC) Could Be a Great Choice - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2dBWS10TG1hczlwSUxCeVRWOF9zbTk5WDVmQnJZYnNBcnhtclNCY2VsVExnSjVCcUh4ZGhWblJFQ2hXTUUtcEFNTnhEZjhocUpWdmxKVERCeGRiUmxDaDhsU21QNXRobnFpMHhfQUVyUklDNm8wQWlDOGNQbG5oWW9SRUs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Addenda Capital Inc. Sells 80,121 Shares of Manulife Financial Co. (NYSE:MFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ3J5YlVVamE3YUpDalFZX3pOdUNkdmtSQlJPNm9ESm4yYnI0R0Q3WndfOWNyWFNJQnUwN1JtbUVVaVhHbjhhbTZUc2JtR0N5VkZUaHhGakxKaTRPdklOR2lHTTRtWGlxVjRTUDZvR1hCSHVoanFkTXd4UDRDTDNSeTk5emRlQ3lzMk4zV0dFWlBoMmQ0eDQxRkp4YW8xU0VxY1Y2ellDU0hkZk5kejI3QkIzQTFvYk9PZW1pRkhzMTdWUXB4bDNvYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manulife cautions investors regarding New York Stock and Bond LLC offer for shares - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamFEV3Z0Ri1WR1U1SDRtdlF1TEE4VVV2RjU3dWNjalFseUFqaWdVWTdGTkJ1ZVp0R2JlZF9yMzZQZlozQS02VGpmUnhsVE9sYklGNGw1aVd0cnZkeXhHOGRjNkZCeW1oU3V0Y2M5ZkstVDdhQjV1bHptM09ZNTVVRU01ZXhHZnRVUTJkUEdYcVN2aVFRSW9KdUthNThlcjRjZlN5X0VlcUFheDQ0VTlfbnRVMVo1aTQ3X0drYmUzV243MEdSSE5fcU9kR1p4dE4zZjNZbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "MFC Hits 52-Week High: Time to Hold Despite Expensive Valuation? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEkxNnZwbG54Sm5LYThVYkNXRzNBZ29mbVF4VHpfVFlzRmFrQVl1aE5FN05jQndXSy04LWJlSXAtWGNfdmhsaFJRSGlnMS10ek8zeUVkb25kZGk5eG5vbjNjdkEyTUkxSEZ1MUxYdEY5andPbTRHZ1V6dGxWOE9rWkhPUDA3NkdrU25UYTU0SUpsVEplUkI2OHQxbzRqal91Qy1teGtEOGNEcFhVQXBPU1pPbFlDejlfY1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(MFC) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVzRDeDdTWEdoX3ZLaTFkU0xfUHY4RWJzZHNyZ1R2XzhHbzhRYThPZWhQNXFFc1dsV09mOUhzQ1JKUGJraTBiNzBEUDRVUG96SzZQZDB1Y3BrRXJHVS1ocEtIRllaVzZNMmcwbUhkRTRvYmJGUjNxcUt0RVB4bG5TUksydVRPY2RNVE1QRUdnUXBQU2pCVkpGbXhXTlZYNVV1QTdwdnRmSHZMZGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Manulife Financial (MFC) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2wzSlp3Q1A4NlNIc2Qyc3UwWTBnZExoRVJZc0ZDRHRwOVRqSjAzclBqeldRMHZpd25mb0h1Szg1WWpHSEpKMkdxLUFUZWpvZHZySkdxVmlvNC1RaHpfQWY0amlpQng4VWdKaE1xdzl2QTJUTURROTJiQmRFS044QV9R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Urgent Alert: Manulife Exposes Predatory Share Offer at Massive 41% Discount - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFc1X1NXbHRZLXdjNzYzZzNmY1hhb2t2UUtaN0VuYWpNd0xKVGk3WmJ2SW14Z1NlbGx6clEtZ0QyQS1Pb2c4RTBNOEtTZmtpeDJzeGJwWElIS1ptbkNsQmtPdTZKMWlzV1F0T3E2ZGJZdWJxTFF4aWpybjl1amJoQzJ3R0NuRmhMMmhJdHd2YnBic1R0blN2bjBWSTJIMUltaU1tWkpDbGVXaExWNHA1UGEyMjNKSnk2Vk80?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manulife Financial: Asia Engine Drives Steady Growth - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQTI1WHFQbXVXYjZwZlRxZUlFdmdXRHlGYjRxLV9OOWg4d083SFhmZldrY1VTd2lyN1BudU5aMDdCMkFVT3Nrd0QzQnFVVG5NWkZ0cTNQOU9BUzNvMmZxMHRHcjVoYnp2Q0hUVEtqR1ZHNWRpcWVaSENtbmttU2lBdlhwaHBnYkMwY2gybHZUT01FMFNEZ2E4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wellington Management Group LLP Acquires 8,128 Shares of Manulife Financial Co. (NYSE:MFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVnN0TmUtRlhfcnB5dUNFSmJiZ0FoZ2JKREY1b0ZBUG5fdkNWc00wdklzTHJlaHVQM0s5TlFRSXRRS3hoM3dXWWZsSFpiYUo3SVBVcko4ckpIeXBoblVxRkNQellBNHZrRThJcmZhbjBidTJGS21aX19lNUFUZ21sckZoSjZ2bThmTV9MeTNPQ1ZWZWJVcFdXWXR3NjhfVXczb1BHal9vQUFKb1JVQm9lMnpYMWFyTTFaTUtiUjNaUDE3V3RfVFZKZXFIXzhfMGFheVZWYlBOLTVTeGhmUmdteS14UU5wUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manulife Sets Date for Q1 2025 Financial Results: What Analysts Will Be Watching - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXBPYmt1TzZib0h5QkdrcHlxNEpuTFFVSW41Z0xWdVVXN1JQeFJUcWRzekxkRHlyY3pJdkRuT21oMHI1V29sVnRWdENqZ3JxdjJmZlZhNy1oeUF2RHhxWmNHV21pbXluT3dYaWlpZUl5ejBPd0JoUTVwaWt3TVU5b3FhR29wakIxZDhpbVMxdEVLWUFDV1RR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Value Investors Buy Manulife Financial Corp (MFC) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQjBzdWIyUzRXbS03UDVZa0JXUU5WUXh2V0hHeUxEek9FOUNqVVB5aWNRaXJlMHFldkU3UDZoUTUtMWdIejRmWE9zRzZmS3ljMlBPbExYTkJQc3hTWUh5VkZ0U2VHNnlQbjlldklDM1JINlpUTFZNVDN2NnRocGJPeEJsaXVSMFg5RUpScWktWEFlVzdKS29BY2RR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manulife Financial Co. (NYSE:MFC) Shares Purchased by AEGON ASSET MANAGEMENT UK Plc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUFFFWjVHS3VpN2ExNXZ4aUxjV1c2dTFLcTlmQl9OUU9PVXJHMk1hUG1ZNjc0UnQwVEk2YnIwNnMyZmoyMkdXSk9tMkx4aFdndUNOZjhIM3BGU2dZNkkxLVI5X1p5bzZXRmxVc0ptTzl3d1RaVVd5VjZOcm1uVjllUXVGSTNPc2VySV9wVnNySUoycnhqR0dSdVpRZjFnQkpjYjFhNzE1Nm9uNzcwMXZwWERXQ2EwdkpLOWdSRE5WSjZFcHI4TlUzUkxoby1uVDdlWmxaSjUwNkpRcFVvdHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manulife Financial Co. (TSE:MFC) Director Anthony Alex Silva Acquires 2,200 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW05LWVFRmhBU05tbkg1dGpFN1g1TUhkY0dTY2tEVzZQQWdtU0MyVUtXWmlDV2M5NUZaLVM2RWduWWxlcW9vdFg1ak1fOWtNaVA0cjFxMTNUNXpPMlpQUEwxRlNzVm54WmlWTmdibnZVVXNyejQ5Mk52anBoMkJDVk5kdnpaTWkyN294ejhrQjNYNjF5MTRGUkVLSzk5amFlM2czNUdvSjJwNHE4WTRtVm5Mc2pxTVZsblZWZ0JCdGRrVkNzUUg2SFhpNWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manulife Financial Co. (NYSE:MFC) Short Interest Update - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU05lMHJldkhSTktaaE1oVlJGN0dTbVg4eXpneWtHbTQ5aHYzV0xtdV9PWnkzUHhfUWp6ZXhvTFYxeEUySjg1SUxDZjFZcVJCU2l4YUMyVjM2OWc2dGo0QUdtOHkwWWstajI1U0Zad1JfX3gzSm1CWTZIdkJsc3RpTm5jVEs3TWoxdGUweW9aVnpRelVZV1RzTGl6Y2hZRUp2dXoyYXItVlpBaGpyM0VJV1hSdXRocFZEQTU3ZlRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manulife Financial (TSE:MFC) Shares Pass Above 200 Day Moving Average - Time to Sell? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWmhBM3h0V1FyZ3ZmVUdXUXVvemZXUmhteHhvbEJVd29GLUsyZktMZ3FKdU1SaHhzbXV4S3FxT1BTZS00UFVPeFVBUXVDbGF4Z09Gb0MzZGhHVV9OX0xPaTRuY1pqWmc1a1BkTVZaWXFfSjAyLTI4LXNCcVlUckdZQWNJUXJ4Q05zdEZVWU1ncFJxQkNkQVR3WTkyXzNseVpobXRHQ0t4V1R1Z21aTC0xeU55d1p1cm8wZVNHZl9scVRBTmJFdEJhWGh2ZGpxcmVDM2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Sells 19,362 Shares of Manulife Financial Co. (NYSE:MFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOUZZRGxfM2xDaEVPMkE2dHNvMUZiYUM5ZldMRkVER1FmV2dIX0s3Y3B3ZlVGcUp3eTdwOVlxV0R5M0V2UVZJQmxSUkhuMTlYNlVNd1lvV1dpSVhsODMwWEhTYjRGRUR1TXJnbEtZeE5FcVozRy1PVDh3dU1zbS1EZmU1aXdLLTVxY3hjZEIzakpTZGNTcmRSeVNtZ1o3Vk1hUW1mZWFSdnpINkdSeGM0SDFacFNEYVBNanphbUdZYkxsMlE2RFRoakJyZzYwSXpBOWxPV0dpVWhYX0hIQzI0OWhwaUtlbmY0Q0stNg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Manulife Financial (MFC) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmZtRXNzSTZobFN6Z0s3RGtoRldBejBIS2w3dWJkTWpucmM3cVpyaHZCY0ZJRVJkRUtlQXBPVUdUVVNWYXNIQzlMS3JzUlFWSjZ1WFZmaEFoVVV6dXF2eDBkZVpuT2M3aDBFcmstdnA5X1NxLS1IdkVSc2hVR2Vwdk9mQXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Graham Capital Management L.P. Sells 9,795 Shares of Manulife Financial Co. (NYSE:MFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZHV1Yk12dl9lZWZ0T3J0cmdfTElIX2NGUTF3WlhJQWY3TDQ0NHNkN0dmbGxjUGNRYXFudGxzcUdOQ2trYks4ZGZLTnhxc19adk5Pb28tLWhVUjBtT1JQOEN6S0s3SG1Yakk2cGVxN20wZFVZNndocDVLQUozTVFfSUFjOUZKaDNoa0pKMUZQWWlSaWFhM192RkJhSC1PMVdPZmRHU0xvS241ZVlJbTNkX29wd1U5SlRMM0JvQmxZN0hGQ0kwNUhuZGVwOFZPTHNyaUFOenNucFRBOFNFSmpv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Manulife Launches Major Fiber Network Push: New Venture Acquires 650-Mile Network in Strategic Midwest Expansion - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWS1YR3kyYmtvc0Vwb0N1VDZtLWpiTTlZOHJlWkxrQlNiLWEwWFNDU21vaGNZZXZYTWpGS0RCb2NWWXQ0eXhCazNQYlBFUTRPTnlzRnZDbFVZdnFWMWVNSWViYVBVV1R1bnV1VUlxcFY5cVVPMGhWTmhmV3Q5SWQ3Y3ZhOEFIbzY2aG5pOEhiZXFWSENXemJKb3lKOXdmeUN3LW55TkFQNnNiaVI3N0RpbU9tZ25DQnBY?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 32.32
-      },
-      {
-        "date": "2024-12-03",
-        "price": 32.07
-      },
-      {
-        "date": "2024-12-04",
-        "price": 32.29
-      },
-      {
-        "date": "2024-12-05",
-        "price": 32.55
-      },
       {
         "date": "2024-12-06",
         "price": 32.4
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 31.92
+        "price": 31.97
+      },
+      {
+        "date": "2025-06-03",
+        "price": 31.94
+      },
+      {
+        "date": "2025-06-04",
+        "price": 31.94
+      },
+      {
+        "date": "2025-06-05",
+        "price": 32.05
       }
     ],
     "current_price_data": {
-      "price": 31.92,
-      "change": 0.09,
-      "percent_change": 0.28
+      "price": 32.05,
+      "change": 0.1,
+      "percent_change": 0.31
     }
-  },
-  "news_sentiment": {
-    "summary": "Manulife Financial (MFC) is a major player in the insurance industry, with steady growth in Asia driving its performance. However, the company has been under pressure due to a predatory share offer from New York Stock and Bond LLC, which is seen as a negative signal by investors. Despite this, some investors are still interested in buying MFC stock as a value play, but others are cautious about its future prospects.",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "STE",
   "name": "Steris",
   "sector": "Health Care",
-  "market_cap": 23840528384.0,
+  "market_cap": 23994972160.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 39.406506,
-    "PB": 3.6077409,
-    "EV_Revenue": 4.793,
+    "PE": 39.66179,
+    "PB": 3.6311126,
+    "EV_Revenue": 4.737,
     "ROE": 0.09458999,
     "ProfitMargin": 0.11258,
     "GrossMargin": 0.44307998,
-    "DividendYield": 0.93
+    "DividendYield": 0.94,
+    "DebtEquity": 33.292,
+    "CurrentRatio": 1.957,
+    "QuickRatio": 1.189,
+    "FreeCashFlow": 1609312256,
+    "OperatingCashFlow": 1148087040,
+    "FCF_Margin": 0.2947720248726568,
+    "ROA": 0.05824,
+    "PEG": null,
+    "EV_EBITDA": 17.658,
+    "BuybackYield": null,
+    "PriceToFCF": 14.889295835947452
   },
   "technical_indicators": {
-    "RSI_14": 57.6031648683495,
-    "Momentum_10": -3.562140978136973,
-    "MACD": 5.264163225511538,
-    "BB_Percent": 0.5964796975298732,
+    "RSI_14": 57.603268371152375,
+    "Momentum_10": -1.2828334505013572,
+    "MACD": 4.158328251808911,
+    "BB_Percent": 0.5510805867880529,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8817078465184505,
+    "ValueScore": 0.8788948996861969,
     "QualityScore": 0.3652564761635996,
-    "SignalScore": 0.6034288220325423
+    "SignalScore": 0.5670034970519484
   },
-  "volatility": 0.0158493162189686,
+  "volatility": 0.0158489520668041,
   "beta": 0.943,
-  "return_6m": 0.1101871967983851,
+  "return_6m": 0.1247280885089185,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
     "target_mean_price": 263.09888
   },
+  "news_sentiment": {
+    "summary": "Steris (STE) a récemment publié des résultats financiers solides pour le quatrième trimestre fiscal 2025, surpassant les attentes en matière de bénéfices mais faisant face à des vents contraires sur le plan des revenus et de l'incertitude tarifaire. Les analystes sont partagés sur l'action STE, avec des avis mitigés entre les recommandations de Jefferies, Morgan Stanley et d'autres. La société doit composer avec une dette de 2 milliards de dollars et naviguer dans un environnement de marché incertain. Malgré une croissance des marges et des acquisitions stratégiques, les investisseurs devraient rester vigilants face aux défis liés aux politiques de santé en évolution et aux fluctuations du marché.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "3 Reasons to Avoid STE and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MdVBPcTJOUGlQRG1UMlVua2RZLTVpOE13YUZkakVwdzdjQTVkbk1tMm5OU2F0djdTZmU5Rm1NcWJLSjVjWlFrOEUwWV9ESTltV291dTZTR3R5cEJRTllFYkRuRTJnN0hPV2hDWkNqdkVKUjRVU2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in STERIS (STE) Stock? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanFUSU9mbVlSbDdQaVRpR2VwMk5qMWVBVll6OFZyM0RONlE3c21saHhHSVVkdDZnUTEtUXBXakFxSWREYUhSS1UzNXBHb0N5Mml4cGZzUjV6X0ZaVDhxMnBIeFFETVJ5bmI0UEI4VUpWY0FldkYwY3Jvb0Y1X256TW1qZS1DUEZXcVl3MjM3UVNxLVQ0LThCaDQ2dTV0R2RmNXh2SFBlR2NYYmFYc09NelNoellCWXRY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Steris Fiscal Fourth-Quarter 2025 Financial Results: Just the Numbers - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2hOX3hFb3B1aXNicVVqVnBSUjIzMFR0RDlvZ1RvS3BBUGUzaDZlSUZvd1l5RG51NHV6aVFzWE9iamZNR05udEJXSnFxaDJHc3haTVA0NWlNNG14QkctSHFRRFJFQVJRSERuc0RhcUdQd01xTGtra3E4ZGg0OE5GV3dqQVZSVmluVXJVX2RNZEZfcWlNWkRMc2V6WDBlZFdY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "STERIS Stock: Analyst Estimates & Ratings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHX2lSWjVMXzFTRWFudlV0ZktROWhkakp6OUdOUVRCbm1DS05KRG1DNkRERk1MVTB4dElkcmhoNWhNLWtOTnEtUmVmN2NpY2ZLenhsZUk5MXJYY21MejJ4VFJMaTJTdU5lZkZGRTEydkxRUmxpRS16WFdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Steris (STE) Faces Challenges Amid Healthcare Policy Shifts | STE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnB1SS1JTkxTZlR1VFJ6d3R5emtMdFNldVZla0xjOGdEMzNOSkRLLVB1ZmF2SVBXdlRQdkwteHNIVWNxSVpJdzFWMV9DWjNha0tYaFR6Z3hEMnY1aUt1dFdhSXZ0M09GbzdLUmhwbkJhMy1jbXN4TXRuZm11bnp6RG14YVNhRFVvNjJwanFubWREVGplQ1ByaEFnOUlhUWo1cEl3eDB1U2lhVzJ2S19rbA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "STE Q1 Earnings Call: STERIS Outpaces Profit Expectations, Faces Revenue Headwinds and Tariff Uncertainty - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONFlWM3dZVExRSUMxaU9GRDlpaEFSckdWb1UxdnZ3b2lNWFFXNExTUlNqN3N1SXp0eTZaU054S2QwZjJ0MmdvZGZSdTIzQURPR2RUd1A2QUV4enFKQXh4emRnMUdKLTJiR3NfS3dOTG9FOUZ2TmZ2Z0hXc0thQXU0TGZlY3MzSGRCRi1tTG1HTGRpWU9rOVdGLTA2emU3ZXU4bU0yNTRiZXNaUzh2aE1hUTQ3V1ppeXdDZzMyTVphN01QRDRBUTJ5Y0VQUzR6eHNWeGlXeER6X3I2TTVQZ1NLaTdyZlE1NUJWbTVwcUVycF9yMmo2TmZVcGFzSm14SVJKcFJyRlVR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "STERIS Faces Financial Strain: Navigating $2 Billion Debt Amid Market Uncertainties - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZTdNd3ZlU3h6eHd1X0xwT2RXdldHZXA2a3RrQ21HN1pSd0N4czFxdVgzQ2k4X3lVVTZBaTVhc0FxNVcxXzd5ZjZmR1VZb0gtZFFzdFpUZVdleV96YUlqU29nU0UxWFBmZFcxM1dCWlhEY3laUl9yX21RZWQ0ZnZDcU9MeU8zZDk5U3NjYUhDYTVXa2dRWjd3Mk9jYU1aV1BxN29HUDhubVVaZktjcV81bDhvMjd1WE96Wi0tUkkxa0ZpX1o1dGM3c0VSeHlndw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "STERIS Stock: Is Wall Street Bullish or Bearish? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGZGbG1EZUxKQk5CVHhsRnlOZVJ5Zlh5UFh0TlJRbE82aUtTOGctckQ1SEstWDhmX3VncURCTVhDRUlkdlhrbFFBY1diVHFmNXRLMkE5SXNMMVhvQlJOaUdaRkdpNjJJTUgxV3Rac0FZTjhiOThPY1FEaVNsOFRMZ1Q3R3FyLVFKMVdyVDBjSzMwNkpXUTdWYlpGQ193Uzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "STE Q4 Earnings Beat, Margins Expand, Stock Up in Aftermarket - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jaURDNXFzTUlOYmlSREIwckVHTjBZZm5pYjJpVWxHaWUzdExpa3hfMWFZWHZCVUhQOHdoa1lMVHF4QUJnTmprSnFjeElLZFpIUWY0WWM4QUNnOUpOWXU2TUFpZ0dJS3NQbHN0RkFFUzVFY1RjbEtvTUkxeENIcDQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Steris (STE) Target Price Raised by Morgan Stanley | STE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHNhSTFidmtfVHh1eEhyT1BYbnhFVmREeEJEbU9mMENXTFVCY1R4VnBvd3R0UFdxYjViMzBaVzBoeUhrQzIwVkhuNEk4ZGh4VXhvbGRiRHF1d1dnSkFvZ1hTc1ZRQW1GbFNrR0ZMVXpyX1BoZjY5Mm03eVFUV3VJQnJ5MGNIT1BsaFRiZWo3akctZkMzOEFUWlNYbjE0djFQWE1BdDhJY2o3aXNiTjh4dkEwWEM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Initiates Coverage of STERIS (STE) with Hold Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX05uaVRsN1pobnVZVUhpUkY5OXZDdVRhZEJoeS1qeGNZeUNfVzdWcy1XMk4yc0llWlFuT3ZvRWhTNVJ2dk9ERlhSc2VRM1NYLXV0bmxJWC1zY2FXeGc0T2k4Z3dPY1ZlQnNFeVdtWGlIZWg0eDZPN2IxczktTk1tYVNrTUZ5ZjBFdktIT3RJZlJWaE9NR2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q1 Earnings Highlights: STERIS (NYSE:STE) Vs The Rest Of The Surgical Equipment & Consumables - Diversified Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYUZoUU9LZ1NmWmtGalUtRzZSWW9OQjkwaVpnOERrMnpZZEN5d28wbU1zTms4S2NOem90T2NnMllUTHhuMERKYURSSDhBdEQ3NkZDZ2kwdHc0eVY5M283Z2ZPSktTOEluOWVVN2RvVzdvaGxnUUhqZXBDNHhKQi14VGVEenNhUkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "STERIS Earnings Preview: Recent $STE Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3J6bUllVXJWX2taUk1sOUlCZm9aVUJWTnN2ODZTQm8zeUFBb2pRb00tUHY1X3VacHMxWHFFNmFtVkNaR1cxNFFQdFEyclVSU0NKYU1oQ1g5S3VQd1dQMTdaY2thQWpHcUl1MFktSTY4TDhFSzNnYVBZUkZVakRvSzc5T1VyemV1c2xzaXl3cXhhSXhGZk42V3AxdXVVTTNMelAwWkF4YzBjOW1sMGQ3NQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Steris (STE) Receives 'Hold' Rating from Jefferies with $263 Pri - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLWM1RXBEV3JmektlbXZyWjFWWS1Ldno4a3B1NkExcmlVYUFyNDFnVHFLN3Z4X0xrTk1CQ1Z6NnJFdWtiQzBSQTVRZzEzYmJPRFR6TVMtODB6cWxWSkxHSHRSSkwtTE5RNmxNT1VMMUotd2luT2M2YVFWenVMQW96bi1iY2ZORzhfWEpPSWs4SEhXNDIxaFZEQV83ekFLRldEWHl3R2M2SUNrY1ZvaXlkY1JRUklfRmliWm5JZ0ZsZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Steris (STE) Surpasses Q4 Earnings Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnBSZ0RsX2pHNjQ0OTZSUm4zYk0zLWctOEs0bGI2ckJXMzdZY1NxSXZnUnhqdmdiMUZQd0dFTFNvX1hIVldPa0pESjZxSTk4dTVIOWhXY3p1cTdveWozYnVibGY4cHVOLWp2VlVOZjNiY054R2d4Sms2OGZySVV6QVdWN2M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AST Business Growth & Strategic Acquisitions Support STERIS Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmJKSkhBTTk1VDI3czhnU004WFd6S0FPUDBjbVBkV2xDaXV2b1B0SFBNdmpsdFpzV3BwU3k1V0xydVhkWmd5Um40ZG93b0lncXRQV05wclc0aE11WHhibFp6SjUyck1zZG5wOFF5X3Y4TUV4T2Y3UmlZSjVmbm5HbHdEd2tFSDJpc3dteGlMTG1Tdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is it the Right Time to Hold STERIS Stock in Your Portfolio? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHh0YWVxM2h6X3Rvc2ZjSTdIMmozdGlaaHB5NVRRLWFLLXVxRmY4VERSQVBGbHdOV1JGSWpHOGFReFVCNUVhbzBTUm5VUTJ5MExrRmNnZnR2VHRZa1RyT3pwS2pvczMyMDNzdjA2cFhCOHNlTmZlTzVfcXZPeHZ1akU3ZkY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's What Key Metrics Tell Us About Steris (STE) Q4 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DTGFLWTh6bmVFcWdFa29JMXVvLV9KQWRVYjZuT3VGZHdvYU9BQTJPR0NXX19HS0lmS1hybVJnb1NpcjlsT0R2LUpOa0p0eXRaazcxeldreG0xdC04dXVveXE1ME5ydWZGT3JhNjU4MjdyWGl5NVF1aDdfcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deciphering Steris (STE) International Revenue Trends - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWxmZkhPaVBIaEVaMTFlWUVSYVlRc3dyazM0NUtOY0x2VEhXYnhqaG4yTERIZjZGSnh5cW9oMkNsZDkwZTBEZXVERTU4eEl0bERnRzcyMFhva0FFck9UM21hZ3ZoXzltVDV0eUtrbm81anRRRWVhdXdwUDhGb29PZWk1ek9PcEJqdlNGSV9rUWdzRDFh?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What to Expect From STERIS’ Q4 2025 Earnings Report - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xMFgzMG52bTVwQkgxejM1OUplc001RDRqQzRsWGtTTDV2NVMtOFh3TDFMUmpUd3hoQ1JDclZSOGFvQUNzOVI2N3FSRjJtbHQ3ZG56VTJnYnViaVQ4RkwzLWtxQXVLeGtoSnZsNXVXTi1adGREalJ4YlJvNzZWU3M?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 218.86
-      },
-      {
-        "date": "2024-12-03",
-        "price": 216.65
-      },
-      {
-        "date": "2024-12-04",
-        "price": 217.25
-      },
-      {
-        "date": "2024-12-05",
-        "price": 217.43
-      },
       {
         "date": "2024-12-06",
         "price": 215.89
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 241.88
+        "price": 242.08
+      },
+      {
+        "date": "2025-06-03",
+        "price": 243.33
+      },
+      {
+        "date": "2025-06-04",
+        "price": 242.1
+      },
+      {
+        "date": "2025-06-05",
+        "price": 243.58
       }
     ],
     "current_price_data": {
-      "price": 241.88,
-      "change": -3.21,
-      "percent_change": -1.31
+      "price": 243.58,
+      "change": 1.53,
+      "percent_change": 0.63
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant STERIS (NYSE:STE) r\u00e9v\u00e8lent plusieurs tendances cl\u00e9s pour les investisseurs francophones. D'abord, Jefferies a initi\u00e9 une couverture de l'entreprise avec une r\u00e9commendation de \"Hold\" et un prix cible de 263 $. Deuxi\u00e8mement, les options traders semblent parler d'un mouvement important dans la valeur du stock de STERIS. En troisi\u00e8me lieu, STERIS fait face \u00e0 des difficult\u00e9s financi\u00e8res en raison de sa dette de 2 milliards de dollars, mais son stock a r\u00e9ussi \u00e0 se rall",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

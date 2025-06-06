@@ -1,56 +1,164 @@
 {
   "ticker": "WBS",
-  "name": "Webster Financial Corporation",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 8660428800.0,
+  "market_cap": 8800058368.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.594594,
-    "PB": 0.97299135,
-    "EV_Revenue": 4.537,
+    "PE": 11.781531,
+    "PB": 0.9886787,
+    "EV_Revenue": 4.563,
     "ROE": 0.08682,
     "ProfitMargin": 0.32847,
     "GrossMargin": 0.0,
-    "DividendYield": 3.11
+    "DividendYield": 3.09,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 1255508992,
+    "FCF_Margin": null,
+    "ROA": 0.0099599995,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 54.619709574992505,
-    "Momentum_10": -2.684313691272593,
-    "MACD": 0.8970936526621642,
-    "BB_Percent": 0.5182573870459608,
+    "RSI_14": 58.003578365457734,
+    "Momentum_10": 2.992715948739002,
+    "MACD": 0.8111257525427646,
+    "BB_Percent": 0.6029450148961261,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9337957732094632,
+    "ValueScore": 0.93297222735307,
     "QualityScore": 0.3631214001252555,
-    "SignalScore": 0.4696738290237817
+    "SignalScore": 0.4966678259985267
   },
-  "volatility": 0.0269690381771234,
+  "volatility": 0.0271032850124742,
   "beta": 0.982,
-  "return_6m": -0.1427606893576708,
+  "return_6m": -0.1154404257779997,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 16,
     "target_mean_price": 61.625
   },
+  "news_sentiment": {
+    "summary": "Webster Financial Corporation a récemment annoncé des récompenses pour ses actionnaires avec des dividendes de 0,40 $ et des paiements d'actions préférées en mai. Jefferies a initié la couverture de l'entreprise avec des recommandations d'achat pour ses actions préférées et communes. De plus, Webster a dévoilé un vaste programme de rachat d'actions de 700 millions de dollars. Malgré une transition de leadership avec le départ du chef des risques, l'entreprise a reçu des évaluations positives et des recommandations d'achat de plusieurs analystes, ce qui a entraîné une hausse de 11,6 % de ses actions.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Webster Financial Rewards Shareholders: $0.40 Dividend Plus Preferred Stock Payments Coming in May - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcjdpOW04ekw2Nmo4c182cjJFNVp4UW56amtOaUpZVFYzWDVEb1VtZG5sWE9ydW5BaGxiU3J5M1E1NVFmQVlINXVzWWN2dUlLX1hOU2g2S01GNmpLSV8yXzVGY0ZnRjJIVnpETFVjRlhpQjJKNGZ6TEpGX21qcHRxRDZDWk5vam5pV0VIQVhwd01ldk5wSUloMkxSbUtTX3A5NUprd293VUlvdzBBS2diUG9sdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Initiates Coverage of Webster Financial Corporation - Preferred Stock (WBS.PRF) with Buy Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdkNLaEhfN01qdkZyWXZlMGFiRm9lUlhZT3lBMEN6ckNoUEJfcG5VVGZkcEM1TDlOeXZXZjBELW5Zbi1yVHY2cFQwbDFOTzNyNkRONmNaeEh0RmstYTNHRzRPTmNoRTVMTk01QzYxN19tcVFsNFBTVGdwWG1rdGo1VUpnLWxlTmRVWHVlYnZjYW1DOVNnRGplbUNkQy0xNmFqVEk4S1dZSHdIaGRHajlTMUJwNnQ5M0pa?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Webster Financial Corporation (WBS) the Best Local Bank Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHF3M0x6bTZzOWJwdnlYY29kUWhRV1UwdW5uSXplMEZ5dnlWWGJlY0l3WF9uelFKUDVsYWRKWUV6NE5DN0IxTG1SVXBuRlRqNWMwVzVMZm5ia3U3MURlT3dtcHBENlRtME9CTnRvRnJvaENVU2lydXhDS2VvYU5wdENqLXV0ZG9jME55VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Webster Financial (WBS) Receives a Buy Rating from Jefferies | WBS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGlDZHY3ZGtuemFualZYVS03THpqNHQ3Yk9xWFhXWlFlM2pFcmtEUl82WHk5eVI1T2pMMkRkd1ZnY2VjZTJNSVdTMnVBVVBxOGxtZkVEVXpoN3NRNTFJbmhWeEhpZUVEandQZVl5X3c4ZXdPaHdpaDZZNl9NMjBlWnhLZWwxNlM3c2ZRb0h3NWQ0Q3g4S1BKanZYSkJsc1EycmlRTThRZmFSS3BTVEVRUkxhbw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jefferies Initiates Coverage of Webster Financial Corporation - Preferred Stock (WBS.PRG) with Buy Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQnNhZ1BMNGVvMTVLb19STXVGQ3dpeUhmbks2OVFFZnhXLTdfWmNXU3RXbEY5MWJEbTFVU2x0VURYRHVGMEZXZWhFanB6Nl9UYnV2dFR5Q3ptcVU4eVpaS0FDU3c0S0ljNjB6cEY3amtCSHU1TjBiVXNXenp5bVg5Sy1vS2M1ekcwRkFDelFYdnotb1JyUUJFd2ZuaVlqd3hYcHRPZEw1bzFlZXd2Tmg3MXJlajhWR3Fh?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mark Your Calendar: Webster Financial Q1 2025 Earnings Call Details Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTZ6bk5pVUFyWHRtaVRhME1EY1NySUJqWW9jVlpMM2tfbWsteFpILTRrdmR6OGx0aThUdzY4VTl0aFdTQ1RtNENXQUVzdDI1NGh3V3lUMWdsR0xhbk5JVjZ2NVZEX1ZrWDVFYkZNUlRTRlpjNGt1cjNJejNiWHdUTEpzYXFEZkF3T1MxLVRxbVJxMTNrUG1hQzlzdFZ2TGhCVWRVWmlqQmxGUVB0SnQ4ODhfcVh6NzRyTHNrQnYwQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's What Key Metrics Tell Us About Webster Financial (WBS) Q1 Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQeS1xbjYtOFRWQ3ZKaHRvTW0wZFFqejlPMS1YVGdFdjZEWnpJQ0hDbk0xWU90VzZFM0VOVGZyWUFPNDFmWTh3Rl9FWUdTN0JBVFRLd0xZTUw0RTVsTWZGbnZXc0p1RS1sOW9aMWw0UHBIRnRyWXpaTHprTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Webster Financial Corporation Declares Common and Preferred Dividends | WBS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGZTOW5UV0V6eWU4dUd3SXIwb0doMzZocHcxLWRWaFFhelZHRUx1QjZneHZuazlXSEw0TXFadmttSU9rLUM0blZpNHlzWXAzanJKLTV5bGhyR2FMTHprMFh3c2czQi0yUGl2Z1BqQkQ5eXAwSUhvNWgwdVdVN1I0VFc5RkZwSlQ4Q1NnZE95d0swT2NOMDMxYzhvT3VHMUN3TWFtenV0TldMVlhpZkZRNVN2clFENUhmb1NiX1FvazQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Webster Financial Unleashes Massive $700M Share Buyback Plan: Key Details Investors Should Know - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNU0zR1ZjWVJpLS1nMm5wTG50aTVGSmlaWm40RXY1WmNmWVdhYWpYc0lsaWdxR0RYR3RxMFVPRXMxa1JvUkhfVWNsSmFYX29UYms2UDNNMFZKUHBZM0lDNmpFXzZCd1FJbFYzYkRIVFFMaE8yTEtLNEZCZ1JMS1QybVA3MUIybzRjOTBRSXl5cXdNZWZQQmE3MjRidmVzcUdPODhxcFVnbkhfVmM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WEBSTER FINANCIAL Earnings Results: $WBS Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1JKR19JVjl4UTZIRTZ1WThubXU1TVY2aWFfd3hRNDFyOXp4ZFNHUGh3eld0SExvbEhXNWg1VjItekk3YmhmcE5hRVNxZEg3bWtJS19yd1AxUDRhYzhrZ3pWaGFHMVB3QkxZcjlNSmZ6b2hGNFcyRlF5MVU4eTUwSVZuUFFjYXIxN2xJdmZIT3A2VXlwYndKbzMtZ0tBUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Webster Financial (WBS) Moves 11.6% Higher: Will This Strength Last? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcVVaa3VZVHI3SHFzdUJMTFZERUJTTmFrRUxVTE1UWmU3bmNtOWxSS0hGR3BGdTZYNEhrLU1xVDhCQThUemVaMVNiZ0x2dlpla0E3czctZGZzUldXMV9OMzlpMnUteDZvQUF6OHYtNUkzcjd0aHFMLURWdTVQOVlBY05B?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Webster Financial (WBS) Receives Buy Rating from Jefferies | WBS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenRtZjd3UWFUTHNoYkRvRENCczhUSTlqdktKXzlPMUpGVkthZ2NsYnhMUW1PZlk2YnE5UDlxejRBb3c1dDY2Nmd4cS1hck9xV0c0VnRCcEJyZ2tpR0ZKSmZEWFRjZnh2bFFPTy13eWJQUk1hamoyVkVUMlZlMkZHbFVFaGR1bFVtNUR4WGdKaHpacU9oVFNsbEcyU1VwemNPOTdWUUwxNEQ4NnpxWjIxLQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Will Webster Financial Position Itself at the Upcoming RBC Conference? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzU3cnlHWnZQZWI4X1ZiVE1WRjh0aGR0X2UzYmdLczdBbmhFVTFGS3pHUzVTWTQ0RW1ZNnlNQ2tqUnBEX2U1OUJsemZ1UDk3dVZWWG9yN08xaWpDYnE2bldLR2t2ZzY4eGN6S1ZGV2VPX3BpZlZHaHJEWG1GNDBSMVZIMHlUb084cldaSVVmSUFidmFENnVKaE5LQS1UM29hb0gtX0RlRVd0SGRpXzNQOVdndmF3MWlYSFlLc2dwTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Webster Financial (WBS) Receives Positive Outlook from Truist Analyst | WBS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm1pdTdwSVJ0d2tCQnVLcmpjTi1UcXlpM2JuTkhHN3hTS0U4QTRFUzg0Q0syRzdPUE9hZ0FSbGRMWFBadXlkLVZObXNGYzZlVTgwYkU0TnNNb2g0aVlaSmQtQXIyaGRrVTQ1aEM2LUROWEJMLVJrU2o2MVZYSXQxTHpBckJjM1F0RE5MUC1KVjg3bDdLWDViaEh2ckJsNW9sWUpZeElwVUZZMERUUnotaEpteHRyMGJnTDZZOWstcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Leadership Transition: Webster's Risk Chief Steps Down After 14-Year Legacy - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWTNzamFLcVczUDdIUEV1elJhakNUYzRZWjRHcjZXT3BtS2YzN2xhZWh0WVJnaDNDQVJGdGxtRmR1YmtRa1JuYjBVR3VoVTBFTHAxQnBZNFBFZkZnQ1lKRlpCR2NUZWhVeXptY2xDZWcyUmh4R2tKVVZQcGZkY21XMmQ0eDA0TkRnY2NqbHQ2ejN3bUky?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jefferies Initiates Coverage of Webster Financial (WBS) with Buy Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEtlYVlEeU1Ia0NYM0RNaTRmUjlFaTB1b3lNTExnVGJCclEwSGJpODFudkJSNHNrdG95TUF1WGJvVEJFRzIwZkViTE8tUzJvSkt2S1FuQlpEZU5mUk1ReHVmRUNXU1V3blJOMVZIZndWdGhuTE5JSTVVZ2ZIbG9Ja1RvMmlvTVZaeUcwR0ZWNGdESEx0eU9MUTZoREhPSzR0b2tj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Webster Financial (WBS) Passes Through 3% Yield Mark - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjYzaXRmZnFwWEhyLTdaLTI4R2FUcUNTUWpBMWNOQUZtMHV2MDFsNUQteUFDSkRmc01LcTR5QjA1LTRGY2dEbGdSTFdrZmI2NktMallKNEtERTd0bHd4WTdHTXVLcC1YbU1TN3ZDbTNmRWtEaVA4djA2WmtOVTJnWHhvZmVuOGUxNlg0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exploring Analyst Estimates for Webster Financial (WBS) Q1 Earnings, Beyond Revenue and EPS - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlRJdUNCZ1ZRRlVYMEpFWjkwOUQwQmtlTHNCLTFCTFhqZHQtR0ZLbF96STZuOFdrcmMxZUEzM1pkYWJ6MWU3bHp5dWVPcEk3WUtIZXRjcEhuU1ZWV3QxRTl2TERkYzhONzdVdEl0R2dhUEJ4TWxSU19vM3oyTV9FUWRxbndtdzBLWE5oV3RSUkVYS0daYjl2QWdWNjZDTDVvOTZkYmVmbEJQODFZUFV4V3U0djFaODg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Truist Securities Initiates Coverage on Webster Financial (WBS) with a Buy Rating | WBS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZU5SazZHamRudFZRTVJtY0VucGdhMV9Tc3ZOQkNhb1hhZE1wNXh0bmNfbm40WWFhMUpHSWhJUjE1bnJQWF8xZ2FXbTlZc0Z1S3k3Y0RVWU1JMlcteDRvbkJMaGw1T1hTQ1JSSWcyVmV2NXhFLXd5eGI5VmFmWm9lbGFrQ3RRUWU1bXZUeDAxRGVWajRKU1Z5aVV2dFkxUzBWZEtqYXAyUUlaVWdNWTlTWVEyX0RpTUhIU3A2em9NNDlrYzExRkhleVQ1QklCZmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(WBS) Technical Data - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREVEb19KNlJDY0dCc0RWNG9VdFRTcEU2Y1czX1RFRlZLZ09keG1sU1hmRS1HS0Y5UlVjZzh3LXBfREFCT1VLWEN6OTlEY25zb1pMcWJ4VnQ0T1NhVnhKMDlqWmx6b21iRE5obWh0RXh4TWhVNUozVHoyakxVTlhjLWNobExUWnVjSjlhU0trMnNkSzJyUWREdQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 60.94
-      },
-      {
-        "date": "2024-12-03",
-        "price": 60.3
-      },
-      {
-        "date": "2024-12-04",
-        "price": 60.39
-      },
-      {
-        "date": "2024-12-05",
-        "price": 59.88
-      },
       {
         "date": "2024-12-06",
         "price": 60.01
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 51.5
+        "price": 51.35
+      },
+      {
+        "date": "2025-06-03",
+        "price": 52.06
+      },
+      {
+        "date": "2025-06-04",
+        "price": 51.85
+      },
+      {
+        "date": "2025-06-05",
+        "price": 52.32
       }
     ],
     "current_price_data": {
-      "price": 51.5,
-      "change": 0.01,
-      "percent_change": 0.02
+      "price": 52.32,
+      "change": 0.45,
+      "percent_change": 0.87
     }
-  },
-  "news_sentiment": {
-    "summary": "Webster Financial Corporation (WBS) est une banque am\u00e9ricaine. L'entreprise a annonc\u00e9 un plan de rachat d'actions pour 700 millions de dollars et a re\u00e7u une recommandation d'achat de pr\u00e9f\u00e9rences par Jefferies. Truist Securities a \u00e9galement initi\u00e9 une couverture d'achat sur WBS avec une recommandation de buy. L'entreprise a pr\u00e9sent\u00e9 des donn\u00e9es techniques sur son site Web. Webster Financial a annonc\u00e9 une r\u00e9compense pour ses actionnaires et a r\u00e9ussi \u00e0 maintenir un cours \u00e9lev\u00e9. L'entreprise a r\u00e9ussi \u00e0 g\u00e9n\u00e9rer des revenus forts. L'entreprise a",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "AZO",
   "name": "AutoZone",
   "sector": "Consumer Discretionary",
-  "market_cap": 63042961408.0,
+  "market_cap": 62489976832.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.30789,
-    "PB": -15.862225,
-    "EV_Revenue": 3.987,
+    "PE": 25.32049,
+    "PB": -15.723089,
+    "EV_Revenue": 3.972,
     "ROE": 0.317925,
     "ProfitMargin": 0.13961,
     "GrossMargin": 0.53125,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 0.842,
+    "QuickRatio": 0.1,
+    "FreeCashFlow": 1432363648,
+    "OperatingCashFlow": 3135281920,
+    "FCF_Margin": 0.07670972471439351,
+    "ROA": 0.13438,
+    "PEG": null,
+    "EV_EBITDA": 17.169,
+    "BuybackYield": null,
+    "PriceToFCF": 43.49529652402907
   },
   "technical_indicators": {
-    "RSI_14": 53.123844907207385,
-    "Momentum_10": -0.4439500847756193,
-    "MACD": 21.047742881568865,
-    "BB_Percent": 0.5545402862166742,
+    "RSI_14": 50.095687994175854,
+    "Momentum_10": -3.569435959897038,
+    "MACD": 11.15803441927028,
+    "BB_Percent": 0.4544611312600626,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8952439310420336,
+    "ValueScore": 0.892378211044516,
     "QualityScore": 0.4527500278043557,
-    "SignalScore": 0.6028393446161897
+    "SignalScore": 0.6184067740140431
   },
-  "volatility": 0.0142246828879095,
+  "volatility": 0.0142376856269962,
   "beta": 0.401,
-  "return_6m": 0.1855909333062229,
+  "return_6m": 0.1713049687954573,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 24,
-    "target_mean_price": 4059.1272
+    "target_mean_price": 4079.9604
   },
+  "news_sentiment": {
+    "summary": "AutoZone, Inc. (NYSE:AZO) attire l'attention des investisseurs avec des recommandations positives malgré les préoccupations tarifaires. Les avis divergent, avec Jim Cramer encourageant l'achat tandis que des insiders vendent des actions. Malgré une baisse récente de 0,76%, les prévisions de Raymond James indiquent un potentiel appréciable. Les mouvements importants d'achats et de ventes d'actions par diverses entités soulignent une volatilité et un intérêt significatifs autour d'AutoZone.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "AutoZone, Inc. (NYSE:AZO) Shares Acquired by Chesley Taft & Associates LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFlZSXZYRjlOLUN6NTlyY0dfNUNKTTRVUW5sZVRVNThmT1pWd0hhQVBjOTB6a1MtTGlSaXZPQW5aYUVybFBjN1BRT0w3dlh2S19WeDhySXhTZ0NzempkeEdxMDJnQkpxT09ucEVuZlZoV25rTzAwM1JDUHEyYnNFOGwxeDFHMHc1WWR5OXgxbW5nZ3I2MktGbmxZYjJrR3BlYVhHanBqcEQ2bm5EcElUQ25jUHFGS3FQVXJ5X2pFcGNkNDZGeWxV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AutoZone (AZO) Earns Bullish Endorsement from TD Cowen Despite Tariff Concerns - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1U3ZURoVUJtNzFYcE5PQ2JodUpnRHVmS3BySTl5VmI0Qmc4cTFEemNkOVZiVlI4d2RrdTdVbHM5V3VXTTY3bWRQVWlFejd2cHJocDVROXFJVWZ6REk2RnNhdWpuZUl6NTJ6cVZPVDI4cTZlbTVWaXJZbmhwbVFYY014UTROMUI0TmJ5TnlqMno1ekUwLW45RkFHTkt3MHBuX3dxeWdaRVlwWUZtVGdWTDBVSHQycGxXay1MdtIBxAFBVV95cUxOd1gxMGVXYTYwV0x6TENMaTU5aXZkNUU1b0NjMzBzaWxWQkVfUlIzTzM1LURmQTN5VVFfQ1hYVktwLWhPLXZGWWc4NWRXWDZnTDlvME1iR2dLeDhFa19Va2duR0Vqb0NCVktzZG96SThoOTZWVi1pSXJ0c2xnbFdJeEVZVld0VnNHWDJ2VHdHTExJeVpzZEI3ZzM4c2RqblBNNldQcVZpT0IwVzZJU3dNLWpILXZYWVpKVDcyd2dpcnQtSDZz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AutoZone, Inc. (AZO) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnRYUDU3RHQtcDdJRnVwR2pfRTFFU1ExTWV5VHktbnMwbGhOX0IyQUpPR05aNjNCcl9TZUs5NkFOZlF0d1hCOWhVZlo3QTdDLTBiaGtZTGxNQzlQRlN0Sm1yMEVtZ0lGZGVPUG9rVkpxc19JQXd2azBTaThoZTdvZlRTb1ZnYVFWR0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AutoZone, Inc. (AZO) is Attracting Investor Attention: Here is What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkQtZkl1WlVZWEhBbnhKbWhLUHUzS1FEbGxGZ1kzOURfSl9Mc2FwTzBVNGtldWRiQmhhOWNKQmtRdWRYblBNamdzdzFxTm5OZUw3TVA1Sk9qWHJsSThqMTFqdHdqTnFVdFZha3hyZDNJY2ZqWl83bVVTc3BYbTZZcEFNQ1FZekFxQUNDQ2l1eEptMElNWmE1VWV6cEJwM1BTN3ZrWVZEb1VYQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AutoZone, Inc. (NYSE:AZO) Shares Sold by Summit Global Investments - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaU5PU3h4dE5uNUJONk9RTjdlUUNtSnJVU2NlZ1YtM29PRXlJc0MzeUVrdmZvdHhzZGJ2d083RFhsT3dmUTkyNDZlT250M2JyQUtjd1VhSDNHSmowOG1wcTl5UlotV2VvazM3bVdRSDdhQng2MXM0d2RvRm5CYU9rdnhFaTBFbzB4aGlfclpUb19tSW12eUhDaDJUY3RBdkthai11ZFFYTjZiOEJKeWhrQWVIMm13Q0JPM0NtRnM5eVJGUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Says to “Just Go Buy It” AutoZone, Inc. (AZO) Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96dXN5VE1wZmdxM0lYem12RFJ1TDBHRUhFMVdsQnpLQlRCM2FUZFhXb1BicHcyS2lLS2c0UGVVYkhic2ZrNUs5Z1V2VDFsZnpYRXdwNlp5QVlDZEVPUGx0ZGJSenVmNFRoblZFMkpDOWx6VU9MZlJyVzF3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is AutoZone (AZO) a Tariff Beneficiary? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObW43U2pqdjB2NXZjY3JoUGJ5NXZTNWpKN2hadEZaV1pYa3NNbk9tT1ptVnh5UXNMaXhRbTYzTWRiOTQ2elNlbXJqdWJFSWNfZXRqdUgxX3hhbjY1RXRLaWNYYXlfX1AwbWhpLVNsQWkxRUZ3MDdrcldkek9HaWF4X19CenB6ajDSAY8BQVVfeXFMTUMxS1hzVjkwNUJRZmpyYWNXTURUSEdWTXpRYks1UUQzSy1GSzRVR1Jibnh3QUdfSzQ3dldJOURPekFCa1czNDBwOHhCVm9CQVVSTmZoN3k4bzdmcmJad2VURUJKa2p2ZGpVQWRiLVhicHQwQzc0YU11bURDbzllazJjcFdOYlVrM2x1N2g0bG8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Grows Stock Holdings in AutoZone, Inc. (NYSE:AZO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0VKRlRsTHFSQ2wxQi1WNldGMWdUUzFtc0Y0LUMwRUpwNHFiTk1BSW8zeVdTSVNoXzEzQ2ZuenVubzVLTUw1ZnZiZ3Vjc1NIbmRKRXlWUkxmNnZRU0VZS2k4VmhweXh4cDR1c1kySTBKMWNXYS1xYnlxWUhHYUprSE0wc0h1VHlfN0d1NmdOSzFfZkpUb2NMelhBaHZaVGV3UmVoa2hpRTZ1MGNpRWNVUi1wdlY1c3A0cUctQVF4aTlMdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AutoZone (AZO) Stock Moves -0.76%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QUkh0M0FMRXZrdG1PMnp0YVVqdXgyT0pqN0I0VmM0MzROMHZIY3cxVklRWkZkb21jX3BSWlV2UmY5MnZZc2xXejNlNTc4Q2hFQ0ZLQVhuUmZnZkVxM214U2tvb1Qxc191WlVTMnhjMERINzd1TEFaQkNEOGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Farmers Trust Co. Sells 1,414 Shares of AutoZone, Inc. (NYSE:AZO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjBieDlOYTVxc1F3N2o1U1ZFQm00UlpjYUFqU2ZRck5oR1FkeVZpYlI0cnE4dmFUUWp4d0Q2a3FCWjVtVjhHRURubmlWUGRuZ3gzbFExZFA2d0tyeFRTMGZwR3JHa2d5S2Q0cUJULVRBN3RLUUplMHoxaF9mTF91cHdfUENmUkdGVnE1U3JIcERHbG9TUVgta3ZwOUZxejItMGZrNWQwalZaTWtUeDN0MHNaSXUzVF9RWUFB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raymond James Forecasts Strong Price Appreciation for AutoZone (NYSE:AZO) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDB4Z1RuTndsNmRrNjN2X2gwQ3djN1RScHZzR0JpaG96QVJOVmhvOTliNFp3Q1Y4OE1UaEpsdFBFNVd6aUxQUUkyTUNWdGF2R2Q4OGRXXzAzZkRFOFpmWVg2TmF4NkhXTTRVUkk5UnpZS0o4WmZ6VmVTaTFWZ3F0cnkwdmo1SFZPSUhvdlFGTEk3cTBsMjZPWElmWk8ta3B4MzJYVVlhcFIzRG1Cd0ZMbm5EUGNsYS1BY1A1OGVfTVVmdWpoR1FMRGJn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AutoZone, Inc. (NYSE:AZO) Shares Bought by Wealth Enhancement Advisory Services LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTmQ2UDg1SHNiTTh0MUJoZjAtTEhyaVJrOWN6SUZmUEVjbWdtQlBCcDVSYXlvYVhaYTcyaTh1bU1sR2VydkpoNy1ZRzBjRkhCZmhCOGlKNFFhdEpMZUFZSlRqMUsxay1rQlB4Y2t6MFRPZGdLREg5emkxYko1WU41dHkycmZ5SUpoZHU5YVhBdnEwZEFDdE5Nak9WNUhodDU4ekRYNVNFaHZXelhOaUJOUTR3aFFHdHN0eHUwMFRENGQ3UFlVTm15Q0xVeWZ0X1FjNTJaQU1RYzZqMTRxekRrcS1fYVc5UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AutoZone, Inc. (NYSE:AZO) Shares Sold by Unigestion Holding SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONklQZFlCU3R1NDRQU2pIT05weVZQYlhVMk1WX2RvVmxGcWJmRURPeFFUZ2ZuN1p5cUg3NmtvZHM4WlF1S2tmdDUyUEZxcWR5bk9DbXBnUHNUZ2dUclVELTkzTjBPU292MWFWZUs1eHJQRURNUEEyS0FKRlJTaHdkcTExMFJlSzFoMzJHT3JzV2lOckpfbnlib0VOVjRZRVlYdmVERGJQSjRNM01vZkhLZVI5VHRNQmVlS3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AutoZone, Inc. (NYSE:AZO) Shares Purchased by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDkyUmY3b25lRnZuRENtbERjNkw0UkFfWVNfMTE1Zmw0MWFSTm5rWE1VRzJBdFNYcTZqNUFtSE93VGpCblhUbktreFNTaHg2SjlBRU95WXBfTzNnRkFwM2hrQVhHblhnOHZqYUdVMThsQUs1WXV1MnBSV0RyMHdkMHNwdTJPS1VBWjJ6VmZnNTZlT01JRTlvMmlnZ2xlTmJmWUthczR5dTFYa3BubU53SWlWd19HMlNoMHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Legacy Private Trust Co. Sells 594 Shares of AutoZone, Inc. (NYSE:AZO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa1R2VnFaVFNGQTlJbjQ5YlZyTXRWTU5tbUdQdTJXVUpmUEVXVmU2VlJiY0x0MjlUdTE0eC1wbVNCUDJWV3JoYk1XVFR2b1laeEtSQjluQlFLT3M3N2Zaa1h0Y0tUaTN3dzdpLW81ZjN0dU9YWk1iT3FjWi01elYyd0hHVjJ3djBfUjBVWkNSdEY1akxaY3o0UGxIMDJjTUl0LUJDSHJUdXBYdnJMa0kweE9IMGRLbXkyR29UQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Selling: AutoZone, Inc. (NYSE:AZO) CFO Sells 2,612 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVllmWndudEVnNDFXdXBWeHFScHBzT1dmdU1XUDB3elJhSXlVTVl1TGhXVlB6U1R2emNXU2Y1aHRUTzltTWM1cUNacVU3SEpFOS0ybU9BQzJlTi1yQkhXOEFxTEtHUnJiY2lUc0ltWVZOUlIwRGdRaWxlX1gtZnBOWEJkRUNtUmxLZGZrWnpvVjNfUnpXWmhRTXo5WlZmXzJLZl85SWgySlZLWklYcG9xTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Romano Brothers AND Company Trims Stock Position in AutoZone, Inc. (NYSE:AZO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDdRYnhwRGJjUDJaRUtZNmg1VkgzZHF5X1l1TWVEaFlJOTZFUjdTYnJEMXVpN29KeW5HVmpQSXRsbERzTmt2eU5qaWphOUpZX01zWlV0UHljZzFHTHloMmcxTkRwdWFFN2tDdGlXQ2daX2t3M2hEd0xOU0k5R1ZUWnpEMGN3WkZ2YTZnaFJDNUZGek50SUhheUFIN2xwQ3U1UXQyclpoSU5tZWRmMVVVbUR1M1g0ampqa012SnIzeU9PSVJmZl9PUEhfX3dwdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "AutoZone, Inc. (NYSE:AZO) Shares Bought by American National Bank & Trust - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUnI0RnF5QlNEVmUyQi1sZGFVdnBJN2NteDZ5TWRrNkpRc1Bod1ktQVRVMDVUeTlXZVhERXB3dmppVF8xT0tSWGtsWXR4eUtUbjN4M3h5M0ZDVzJ2bFFHZjVfajVJRW5KbkloSFlhU1IxcXdUYmNJNXYtVUJtTUNQSUdmNW1EWF92eWxLVmNzY1c3ODJlQ2ItQ0dfcGRMOE45UnhIZ0lvRTg5TTNUdnRiY1JHNlQtaHBvUUNNRXJOZmJlZTI0MUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Financial Group Inc. Sells 529 Shares of AutoZone, Inc. (NYSE:AZO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQalY5NExidm1JUzAtNG5Uc0pLUHg0Z0N5QWt3WC00dEVRR2doNXRBdS1RVG9oWWJpUlY5SE1ybWlpdjdCQ2JsVlgxaXFaUGx0Q3hVTEF1OWpNNV94WWE1eV8wUW96ZHZZT3llM2E5eWlQaWpoUlhVNkpxOE5McUpxQ1FiSXFPcDRGS3daZGd6c3FWTmE5c25NYmhzZXdWMFNJaE9pOHZpQmFHb2VZT2dHYzRGY1pUTkQ3dlRkQTV1WEU2ZUhBVHpMMUpKNmh5Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Buys 592 Shares of AutoZone, Inc. (NYSE:AZO) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjR4d0gySGVuSlJmTnQwTW90VTViU3hBUmZhNjYxNFFkZGVObnlfVDhYU3VxTnBiNVg5M0dUQ0cwLXNXdTZDLThDYXo1QVc0X2J6MDhoaDc4SkRsb01LME9nSHRiMXo2RlFPY1dneHJuRWlsUFgxTmluRFJiVkhhY1NKVXB5OEFCMnNKLUREZzNpVDBFcHdtQU01eS1HU0syV016QkRST09nOTk1SU9SSnZCMEN6SzFFWGlJ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3179.52
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3189.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3189.98
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3190.07
-      },
       {
         "date": "2024-12-06",
         "price": 3309.44
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 3752.04
+        "price": 3749.81
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3748.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3717.04
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3725.25
       }
     ],
     "current_price_data": {
-      "price": 3752.04,
-      "change": 22.09,
-      "percent_change": 0.59
+      "price": 3725.25,
+      "change": 5.82,
+      "percent_change": 0.16
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d\u2019actualit\u00e9s \u00e9conomiques r\u00e9centes concernant AutoZone sont :\n\n* Raymond James Forecasts Strong Price Appreciation for AutoZone (NYSE:AZO) Stock - MarketBeat\n* Roth Capital Boosts Price Target for AutoZone (AZO) Following Mixed Results | AZO Stock News - GuruFocus\n* Jim Cramer Says to \u201cJust Go Buy It\u201d AutoZone, Inc. (AZO) Stock - Yahoo Finance\n* $AZO stock is up 2% today. Here's what we see in our data. - Nasdaq\n* AutoZone, Inc. (NYSE:AZO) Shares Bought by American National Bank",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

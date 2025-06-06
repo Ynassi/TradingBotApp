@@ -2,55 +2,163 @@
   "ticker": "UHS",
   "name": "Universal Health Services",
   "sector": "Health Care",
-  "market_cap": 12045843456.0,
+  "market_cap": 12213389312.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 10.501685,
-    "PB": 1.7752136,
-    "EV_Revenue": 1.078,
+    "PE": 10.641774,
+    "PB": 1.799905,
+    "EV_Revenue": 1.071,
     "ROE": 0.18473,
     "ProfitMargin": 0.07442,
     "GrossMargin": 0.42712003,
-    "DividendYield": 0.42
+    "DividendYield": 0.42,
+    "DebtEquity": 73.981,
+    "CurrentRatio": 1.321,
+    "QuickRatio": 1.089,
+    "FreeCashFlow": 849583872,
+    "OperatingCashFlow": 2030743040,
+    "FCF_Margin": 0.05282143690023552,
+    "ROA": 0.075679995,
+    "PEG": null,
+    "EV_EBITDA": 7.351,
+    "BuybackYield": null,
+    "PriceToFCF": 14.34235648013808
   },
   "technical_indicators": {
-    "RSI_14": 50.296971185175586,
-    "Momentum_10": -5.633024662902102,
-    "MACD": 2.705992978235912,
-    "BB_Percent": 0.3752214665860222,
+    "RSI_14": 53.45615771434544,
+    "Momentum_10": -0.3475658581350991,
+    "MACD": 2.1234566980782006,
+    "BB_Percent": 0.451638037318877,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8981599159039065,
+    "ValueScore": 0.8952482170614477,
     "QualityScore": 0.3149540550781858,
-    "SignalScore": 0.6549975284006377
+    "SignalScore": 0.5809316135374114
   },
-  "volatility": 0.0233344299521479,
+  "volatility": 0.0232589112361179,
   "beta": 1.318,
-  "return_6m": -0.0682885047752077,
+  "return_6m": -0.031134262103082,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 225.21312
+    "target_mean_price": 225.33812
   },
+  "news_sentiment": {
+    "summary": "Universal Health Services (UHS) est une entreprise qui affiche des tendances de croissance solides malgré une sous-performance boursière récente. Morgan Stanley maintient sa recommandation sur les actions de UHS. Les actions des hôpitaux ont bénéficié d'un répit grâce aux dépenses de Medicaid, mais UHS reste risqué selon certains analystes. Cependant, les investisseurs à long terme peuvent être encouragés par les perspectives de croissance et de valeur de UHS, ce qui pourrait influencer positivement le sentiment de marché.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Universal Health Services (UHS): Company Profile, Stock Price, News, Rankings - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQWVRWlFRWUFvX1doZk1JVGprYXFtRGlFc3JDaXhnNnozUTZwRkNMSGJYOV9zSUtRSTluR1JON0d3WG9MczJIWDVxeEhaLXBudHluVzFTNkh6VGM4M0tDdG5lSUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UHS Shows Solid Growth Trends Amid Stock Underperformance | UHS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1MzNjZDUjRkQUx5LVEzNTh3WGt6ZV9lVFFWUFVINzVLRGhQUEQ2M21GT19YUmZMTlFFcWg3bk43ZXVjVDZSTjUzY1hTVVpHRmo5b0FjYkpJNkt5R3NTOE1XZ1RTLVR2dXh2aC1yTHBNRGN4YzJYLVh0LXFSQjJqUTc4dTg0Q09OZ0RPcUgxaEJZM1g5QTNNWDd5bDVZbFZjWmFfdkF1Zl9SWC1sdkY0c1dzeFhmbDB1ajlRUk5BTE4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Morgan Stanley maintains Universal Health Services stock rating - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmhoR1VfOUtncEJEXzR6dnNoWWhTR0FkdXVqeE5XVjFpUi1KbmxTWTh2dGdYMXhkM0dfYW43ajFnMEVaMjFPVHpWLUFVVENoVzVfUUhzNTI3bDlSSWxVblIzVmQ1eGdmRmZ5bkNoLVY4R1c3R0Q2Y1lHdDBSeW96ZWpIUkQ5ZF96VzJ5SDUzSkxwVTJxNXVERlBzeTdtUV92eEJlYzdvSEw4a2p3UUZzZzMwZnl6SGRud1oxUkZGOHo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hospital Stocks Get Reprieve on Medicaid Spending, for Now - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPWkEydmFBdWFqN0ZXWExEWFVKb2lfVEE1Uy1ZRzQ4djdMY2sxX3I2V2VYdUNaanF2dmlNeFN3VU1iRTY1bVJtSk1kYmRyN3NYd1IwSEo0T2ZLdk0zZ3k2YmptS0xJbkNOUExLaVlwejNOSzR6U3hyT3M0ZzVZNmN1TEFZaEREN2hLWVBWRXhZR2pkaEszN25FWWxKSUhfUmtnMmZ4NXV1aW9PWFREVGhRV0MwQkV0TlNQMnU0Y3JRTS1INnZLUEIxaWhic2hXOUlRVmJZUE4yQmtjYXM1MzRUSzk1UlpNbE9qNnJoaFdBTGF6Zmxrc0swRDEzY2Y5aTJma285TGx4ZXpuZVBFZ3VzemVuOVE0Z2VCMnVvQ1g2MndEbWh2eWlBZXhsQkhjOVFMdG1OZTRId2dnUk9mMUFYTUUzOEt3VU5jYjE4OEh0U0hrNm1UVGVkWHdnZ3BGNHp0aHBMMnliaHJuV3M0dDdtNFV5dmI2cFo5RXU5OWd5RDZERU9vbjJZdWJsVjJuZmZGVEtWdGZsQ2J2VE9qSnVUVDBVUEU3Y1N1?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons UHS is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10dGpGLURrU2dwZV93NTJpVlNiTXhpUjNqejhCV24tQmN0YU9peF9wZkVLQkN1ZWNGRWJMRVFhbDNvZnNBTDdYd1ViMEtJakVEZDJjQk0xRFN1bW83QmY1VEFHY2tkWkFjU0dwdXlIX2FGT1E3cUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Director’s Bold Move: Universal Health Stock Sale Revealed! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0VCanF6Yzg4LTFPem8yd1MyV2VYSjUtVWZzZWFtbXhEY1kxZFhHY3RpOVBIQS03LUNnLW16NkFhS295R3dTYU1RTG03c0FzMnBYbVZjZnI3ZXd3RzVJaVlNR0l2bE5rcVk0VFFVdGNnbkNpTzhDWkI5RWJ1bGxMR3d4YWFMTHREVGdId3Bwc29XTHV0MWxTNUVpZjVBNlJiRVNjMg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Are Wall Street Analysts' Target Price for Universal Health Services Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2Q4RnVvWXVoeU44em8xbWxZQTgwM0hQRUlvbUpIWHB3NlVsbjR2WmYzUWsyUEtWR2psZ3hKQ1NWYkJsMnhtWWowWVZMaWJOcC1YaVE4Q2pHRTNnYXVYc2U0Z09hNGtoOElfM0RpbTYtWkxvQXVIZ2RDUERUM3NVbWpza3pvVEcwMlpxa1pxbGs4dHhnTXU5bjdLeVdtTlBmUVhHTzdqU1RQZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Those who invested in Universal Health Services (NYSE:UHS) five years ago are up 86% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaUwtaWtRSkJDR0hFbUMzSEpBSGQtTUVNaWw3b2o3YXZKdHA2OS1rVHhWOEwxcE9WbFNiSzZaRld6Q0lRd1BESEtETG1VQUl3WHY2MzR1dEN4czJzWklLYTNxaklRcFRLSkdwTmVETHRrSl9TMkFPSUo1TFVQaDl1RzBFQ25zZjliTTlXV3FlQVdtMDNHZ01qX0E1UmZPSFNvT2hTN2EzakF2UjJFcjRNV2t5VDI4TjlPZFdfNGhZY211VFhrbmxIUkdYUGdvZHRZVWxJaWN0ZHQ0S0tnV1HSAeMBQVVfeXFMTnN4NTBFa2ZjQ3A2dGdYNmlzcGprRy02VDdyaTMtWm9QTE1oVE1Jdi1rNlp3TXBlcEYxdkZCX01WYVM3ZVpaTk53Q3FGa3pPUWtjWEtieU40V2ttVHZ2UHJsaG5TRmlwOXNvX0k5eVVnNkpGeUlUREpMeXpuNF9aUDROYy1ORzg4TGdfQ0wzODlxUW1uOHNFVTlhNlloVGpJOUt3SmQ4SE51NmtOWDZMdmxrWnpYU0lEZ1RseUZid1BaWk9NMlFtNUJpVDFCNkRmMzhsZUVpcGtPMUR6eWxfdzFCM0k?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Healthcare Stocks in Hot Water - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb09HZnBYWEJKOHMxZUpsVnk1M3RUOUJtdndKOXVHMHQ0SzM4ZmFmTmJMdDlBZDNvMW5PTFdxRmtUUXBvYTltT1RlclhHVzBfSGxmdmJxM2NKek9RdUFibmd3bXlVZHRzaHJsWG1PQktHSWJ5N2NMSTRsT2EybE5iUEw2MU95VWE4V2RuR2N0V1kwQWpLVWpHdXdOcTZDZUhOaG1neGxESQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Universal Health Services (UHS) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTdBTEZXR0ZRbmZMVjVtRnNROF9yWFZRc3JtSTB6SGs5c2JLUE9LY0tob3ViWnk5d3FqLVZnZkgzd0lyZjZuWEI1QW1UQXpfRVlDZEdtTFpuVTE3QUtSWXM4bE9UTDlRNWpYYWc4SXVzY1VjTW51NVFNdlFSaG9Gb0s4WmN3X3lw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Universal Health Services (UHS) is a Strong Momentum Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXZ1SU1OS19PaGhXZFVuMEMtdFY2WlZ6eHczclNRLVF6bWJlbkNiZDhVaV9tMEItQUxGVlJLOVlOXzhjRkVOTTZOdlJlWGFVX3pfbGR4eC1SUUE5RzJsOTl5cVA3QWk1eEtVbEI0ek5rV1l0UGVCQ0lQQWdDdEpGdHhZX211V3Y3dXd5OVloVk5JQXZFNTF5STEwUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Health Services, Inc. (UHS): Among Small-Cap Healthcare Stocks Hedge Funds Are Buying - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN29CVlRtY2puSkVOQzM1VEJLT19fOWJzMGozVVZ6NGUwYmtZT0VEZzhmNUNtcGlzYnpPMEpNZmIxR0IyQmpuRWZQMzRIWXRtSzliSUZHM0REQjhIZGlHMm5RSDY2Tmg0NU1MWW8zZ0Y2TjY2RVoyTDROaHJvVlp6LTFsNGEyZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Universal Health Services (UHS) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3BYdkMyeG9saWtVM0JUQllQVzVjTUlwekhzVUwwcHVrMldTNDRJaDNsZ1VtM0hWcmRvdmZvVnloT3RGN0otYUt0UE5XanJ2Ul80aWhObFJ2S2ZzZ1poeHJGRjhodjQxQ3MxMnVXbGI0YXRLd3EtRTdfUm9ZdGdwdGJDOUdFZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Universal Health Services (UHS) is a Strong Momentum Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU193Ym9IanpVRE5yWXNtM3A5dlRiVGJBR1FKck4zeldUaUxPTTR0bHYxRzQ3ekxXZ3NmZWZ6LTNWUFptSFNSX1pZOEJUUGREUmt3dVl1amVVcDhFNWpsSUU5OW1uNnJFY01XeU1XekxOM2dUeGcxZFZuWXJIbmZ2WU1qT1BBOHJI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Health Services (UHS): Among the Best Healthcare Stocks to Buy According to Billionaires - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUNsZnlZMnpQdTRYbExOR0l5ZGlFUGNBbi1lT1kzX3BLSjFBRTk1cEM2bEotN0phQU9ZeXl2OVB6U3ItYzZmY2xlWlJIWXpzaG16cVBuWjNvcGFWNHNFam1FNFY5WVlHMGgxOHFDZENNb1BPNUl2V2lUMW91Mk1SYmJwTmQtS3RU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Is Universal Health Services (UHS) Up 12% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdjJxTnhYT0VBQ3pEVDBjby1iUXpBSlJTbHI5eFhqTC1KVkdoVEhNeWxPRG1NVEtfcWNmSmVhTTM3M0l4dmxHQ2hNamFRS25qc3NZUEI5VWJFMktHNzZYamg5THQxVFdjQUdFaXNacEQyUXBzb0Y0c2w1aXZWNzZKSUxsNjU4Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's Why Universal Health Services (UHS) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3duOWpueTRhNUZrc1ZwYjBuV2REU0t3aUN6UVlCS29MOVZLcUh6UXo1V29oRE9zT0I1Zkc5Wi12a0kzWnBESlRDSFFXRVVtdWdYenNWR1lob2RWMVhBb0hFbDA4Q2swcWhDR2x3WHRHckgxSUtWOXRibmpJWm1Ba0xRYTlmSm8y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hospital Chains Stocks Q1 In Review: Universal Health Services (NYSE:UHS) Vs Peers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzk3ZTVaSllERk1ocUhlMkliU1pGWEdiejFGNkRwWWxYWURmUm1kODB0c1E5SV81VU9DWEp3UjBQMFF2ZDhVZ0pxMnE4RmllTVljdEtIUkhzTHI2ZUFoZGpMOTJZTkFvak9pT2R2bDg1aU1HZWlveWZsN3RuQllGbElNWEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Health Services (UHS) Shows Fast-paced Momentum But Is Still a Bargain Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYW9MaGY0X0Frekp6X0lmMXpyc0dpM1g4Q2ZTamFBRUdKOHd6V2I1MGtsOVdhdVEtQTEwbmx3T3dWLXhCaWtkQmdaQlRZLUdnR1VIUkxtZUs2eWNwS2VRWG42Wmk2TnNGT0ZVYmJVQVJnSnV5TVVJN0tPNWFSWU1vX0o0T0lmaV9s?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Hospital Chains Stocks Q4 Earnings: Universal Health Services (NYSE:UHS) Firing on All Cylinders - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXF1Z3JEUjgzZGN4NXRUNi12ekZLT0Y3c1BRTGJlM1REdkstVUViODgwU001bHlWYkNNT2Raa0VPY3ByU2dhM0RDbnI5bDhENllzcEJzUWNYWm1FNDRDZzlIU21YLTRXRERBNE5ubld6Sll2OHZWX19kNjRSR1RmbnUxWllnZE0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 201.06
-      },
-      {
-        "date": "2024-12-03",
-        "price": 198.34
-      },
-      {
-        "date": "2024-12-04",
-        "price": 199.12
-      },
-      {
-        "date": "2024-12-05",
-        "price": 196.05
-      },
       {
         "date": "2024-12-06",
         "price": 194.22
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 186.88
+        "price": 187.38
+      },
+      {
+        "date": "2025-06-03",
+        "price": 188.81
+      },
+      {
+        "date": "2025-06-04",
+        "price": 188.65
+      },
+      {
+        "date": "2025-06-05",
+        "price": 189.09
       }
     ],
     "current_price_data": {
-      "price": 186.88,
-      "change": -3.11,
-      "percent_change": -1.64
+      "price": 189.09,
+      "change": 0.35,
+      "percent_change": 0.19
     }
-  },
-  "news_sentiment": {
-    "summary": "Universal Health Services (UHS) has seen a 12% increase in stock price since its last earnings report, with strong momentum and potential for growth. However, the company's benefits from secular growth may not be at the right price, and there are concerns about Medicaid spending. Cantor Fitzgerald maintains a neutral stance on UHS stock, while Deutsche Bank predicts a rebound for hospital stocks. UHS has also announced a $0.20 per share dividend for June 2025. Wall Street analysts' target price for UHS stock varies.",
-    "sentiment_score": 0.3,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

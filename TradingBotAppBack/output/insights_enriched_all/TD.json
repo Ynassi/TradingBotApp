@@ -1,56 +1,164 @@
 {
   "ticker": "TD",
-  "name": "Toronto Dominion Bank (The)",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 119212843008.0,
+  "market_cap": 120504696832.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 9.943965,
-    "PB": 0.9739108,
-    "EV_Revenue": -0.388,
+    "PE": 9.951635,
+    "PB": 0.98446465,
+    "EV_Revenue": -0.373,
     "ROE": 0.14597,
     "ProfitMargin": 0.27929002,
     "GrossMargin": 0.0,
-    "DividendYield": 4.37
+    "DividendYield": 4.34,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": -30289999872,
+    "FCF_Margin": null,
+    "ROA": 0.0086199995,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 81.48796156931316,
-    "Momentum_10": 7.619346465399016,
-    "MACD": 1.89161224320155,
-    "BB_Percent": 0.9291781343228056,
+    "RSI_14": 80.07630911396481,
+    "Momentum_10": 7.996295774601442,
+    "MACD": 2.012624933943897,
+    "BB_Percent": 0.8574879346080003,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9354722920577796,
+    "ValueScore": 0.9347959446344956,
     "QualityScore": 0.3601725225323145,
-    "SignalScore": 0.2563272994465334
+    "SignalScore": 0.3429757240602583
   },
-  "volatility": 0.0128287251939808,
+  "volatility": 0.0111490952705299,
   "beta": 0.993,
-  "return_6m": 0.2481738658072059,
+  "return_6m": 0.3646560834277228,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 3,
-    "target_mean_price": 70.73072
+    "target_mean_price": 70.910225
   },
+  "news_sentiment": {
+    "summary": "Le Toronto-Dominion Bank (TSE:TD) voit son prix d’action soutenu par les analystes, avec des prévisions haussières et des augmentations de cibles de prix. Cependant, des ajustements à la baisse ont été observés pour d'autres titres tels qu'Eli Lilly et Franklin Resources. La banque TD est également attendue pour surpasser les estimations de bénéfices. En parallèle, des maintiens de notations et de cibles ont été effectués sur des actions comme McDonald's et Wingstop. Malgré quelques ajustements à la baisse, des perspectives optimistes persistent pour des actions telles qu'Apple, Snowflake et CrowdStrike, démontrant une confiance des analystes dans ces valeurs.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Toronto-Dominion Bank (TSE:TD) Stock Price Expected to Rise, CIBC Analyst Says - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc0dtYU1ydF94SHlXSUJvZHZpYk1xa2R3QnB4R29uVjVPcGpsQnpESUotTEZTeHVDUDJYa09OaHZFVk1fYm5OUlFtOHR2Ujh0dzdTdVBYRV91ZXVCZ3o2VW1Wa1ExQ1FXbkJaNFV6c3pPYXJVNWs5b2tLN0IzWENwNTFDWHlnbUFkc3JJbnFlcnpFeUw5UXM1SnR2MVU1TkFWYkREYlhHamlOTENmMTItQTEybGdOcUN4VmNjaFBCMExMWnJsZzNr?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TD Cowen lowers Eli Lilly stock price target to $960 from $1,050 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVnA4N3Bzem1sUDNlNzZSdDdsa0h5VTdkTldST2ZqV2xnSlduRHJtNmctVHA2NnNBclkzNmRrM3k1Ylh2VkVEcVBGX2hqOWtGQXNqWUxrMzBRRjJ1UUJkSFFxbGN5U0o2bjU3RFpybW1nMi13LXRCMVVFeUZVTFJyWjg4ZlIxOHFrMERHZzhsM05xa05BZllmSy0yVi1YUDVRc0dxUmdOeDV4bzVVNlBPRGVJTm1TdUppSndMenlR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen Expects Franklin Resources (BEN) Stock to 'Both Rise and Outperform Peers on 6/5' - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWVB1Yjl6MTJJcDFnTlNsR1dmTl8wMl9pT1RVdGE1M3VFZHNMZFotNm9DS2xjZUtJWnNpMjVzczRYS1RSYUYwdi05cG01RWpjM3RuRG1SeFdjcFByOVdLaW9NU1FYWFFwR0huOE5nRTRLcVZUOTZnRXlfbHNhLVJYRmFOQXYyaEM4eHZMT2x0UVRRSDN6SXNLMVp3b0hjU3I0V3hvc2pjV1pLd2UxZjJVUVVlVkp3VFVnTk56MU1sU3kxSnh1SkpvZVpnY2J2N01CZk11YUdvTm5lN0dIaTYzcHRDNklKcWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CIBC Boosts Target Price for TD Bank (TD) to C$99 | TD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX2tpSk5Eb1c5XzVodVJTclNZQ1lNNXVDWEQtMW1GRGNLQWsyWk5CZjJBbkJzbEN0NGVSNWNlc3NNeXVRTUZDZVdSVkxYMjZ5N3FvUUZmbXE0aGZSc3Y1cW1BZ054MGxHR1lFT3dtQllnSVZ1eFBDTEsxSGZnU1VtTnZuWEJEY3NJZTMzSXIyZndEOC1lSDNBUzRtb291VXdBdmlsWHZDVi1oaHJFVHl4QVFBMERHVFhmXzMxZmtYRkx5VzBtcFJtVkdrREVsa1Bh?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why 43 Analysts Could Soon Downgrade Apple Stock - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFYzSlRSendkVldXcklqOElQZi1OVTBFQU1BYWlVNElWM1hfWnd1QlNjd3ZaZURqVUpVd2dNTGhSNEtXR3l5STd3YWFBOEVJdXJzN1VPODFQUmdLZzFZWXQ0QXRvMnl6UW5mdE05bGMzUzJvbl9va0VkekFTZm5rRjZYYW9sZzZGX2VwV0Jmc3pLX3VMZFV4NHJoSlNwWWNON21seFNvWWFTS0ZkRWx2VUdMeUxlcG94NjNQZGVzV0wzMnVkUmpCaFFJZWR5YzA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Toronto-Dominion Bank (TD) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnMyYVZLMHFoSDFWVW1zcXYyTkk5NDI2RjQ1d2JxVkxSUjJTOUtIUi1ETzBtOW9TczJ2S2RLRkpHaVh0aXEwTU1mLTNsbkoxSlJpdV94ZXBZSGQ0dlY0N0VLekFhQkRwTkFZdmtLaEpJT2hUMWQ5Uy1IZW40ZFoxVGYtbnhkUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TD Cowen reaffirms Buy rating on Amer Sports stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdi1fd01CRks2UVNkTmZsOFBPNTNTSDFLMng4Q19seFp3dTZHbVZiZnZ6YXVkOVBsdXFOeG5US0ItNzFFTlZETDNVWEVTeWRrVXoyN1pNWE03ZnhXYmtBYVBpWF9ZMG54MVcyZHB5Tk5IZ1NCV1cwRmlsbHFORUJGR1Q2bEdJOS1ObzhZbWk3ZF83UElDQlRKV0cxSlhZYzhKbzAzQWJXYlF3TUd2YW5v?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toronto-Dominion Bank (TSE:TD) Share Price Crosses Above 200-Day Moving Average - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdzItVGtJYThZYnJrV1p5c3FGWmdZejJHbUF2VVBrbWNuU2FIMG5JZHMzb3piY25yR3JBR0d0aTBYT3c3M1dCYVlQVVJFVkx2VXU2UHVyTnRST1UwU3VNN3JmbDZvRUVWbnowUFVRbTJZOVZPSHFyNlJ1SnVXbXVoMWl5bGhIekNLTVRCNDYxMUZ6ODFtUko5R3FNakFXX25QeFlRYmMxSTJaSnk2UmFMRlBtU1pnaXVyN0tmSEJGRWM0Z3FXQVV6Zk1PVHN1OTk2MEVYbWxWMFhuVGZPMmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen Revisits Eli Lilly's (LLY) Surpass-CVOT Expectations, Lowers Stock PT - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSi1SeTR5S2JmUEZYeTdfcVgtNTVBMm9aeFpycDJYbHlFak5hRVVNNEZ6cmFuQmtDRVhsajV1bmJCUnoyUnJHc0Z5RWluU1lyaWxIWUdZcUFoYnBySmd1endFd19kZ2ZuLTZjTkpqYjBndG4xdXJiUFowT1FwU0hFOGsxa204S1dXT045YTVNOGxBYUNSX1k5V0Nxdk1YbGRMMFJaVFpVd2dta0tSMUt3b2tKSnQtNGc3YjNXakVHR1ZOZVlxQjRPTU1DSTRua3dCRGVJMk8xbFZaWDBG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "McDonald's (MCD) Stock Rating and Price Target Maintained by TD Securities | MCD Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3BwbkREem13dW4taUhjMDdWOENvQXhBaTdzeXFCcHRTU1Y3VmhoQnZRWkMzTG95ZEh0UmFsVnVPRExxdTNSaUxHQlZWMXVCVmJxWl9RS0tPcnl6Yk5pc3k0NGlQWGxSR2pyeG1uRDg5NmZfMUZVQWdWb0VZbG1GckE3eE1nWGtSOUZEMmZTRkRLdnlXNXVTcFF4dnlMRzVFOEp3UHRreUkxUVBaQ1JQX2dHVTYxQ09aMnRVNml6ek1zNXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen maintains hold rating on McDonald’s stock with $305 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0VucUNYSVBocVlQRG5qOXh1YllsQTA4dXVKaGwzWk5OVXZJOEVFWkJCdkhQM0lYX3IxcUUyUjNqbEFyYlotUk4yVlpUM0FCN2RYRDdoaG8wRlN4NFg4dXllSVgtYXo2Wm16UzYwRmlEcFV3bWNuUmJPXzd1M3dXSnFrNWNGcnZ1dmFGSkZJUm1CZVk1N0l0TDM5R2s2bnU5QlJuQVBYeDYtM2JfVXdDaTJDcHpzTnhyelpKdTQxcnhPYU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wingstop (NASDAQ:WING) Price Target Raised to $400.00 at TD Securities - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWxHaFFKVy0yNlh2TXh4aUdEeENhZU9OaFJTVXdmc01GSWh1YTVSNDJIeEtXNHA5SGVWNWp2MmVxaWJhVkgwLWNINUhqVXNnZi1jYVpCc0F6clJmOFJzM01yX1FjVUt0ckRiekVvRkVSd2M4dlMxNXFTUm5ycE5PbExNTTVmU0RGNUZveFBxYW9oeV9ETzNiMzZBbW9FRGFqQ0FjNEJMR2VfQWJ2VDFtVUE1ZlRlM1B2WFJz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "McDonald's (NYSE:MCD) Receives \"Hold\" Rating from TD Securities - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemtDM2dQc2dRRzhBY1JrakJkbEVRZDQ5VWdQdk0wWjJiYXhrMXFvdHNtWWZ0RGhtYUd1dTczX3AyeWFySG1DQ19MT3g5bGZGN1FBa1lRZF9xdENtaklPUTlCcExqQzZtTjd3U2hNNzFtbmlmUnFFTzBkOUFOdHhaTFZtcnFVbFd3d1hFRnhjVTd6UnJfWnVIR3VKSy01TkI2d3R1ZWNZbV9SdDVKN1hvVA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TD Cowen maintains buy rating on Tempus AI stock after short report - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZG1meU51N0JVOGZSQkhpRDZEUnVvMkJMMV9sMVdjMEZkVGxIV0s3TUxMaE1tdzJ4TGVoTHp4ZmJXekhDYm5vOTZkdjk5d2FZQVJGZmlJb0dBZjZsUVFvUFNLQ09YV3RIa0RZeTRvTVRDaU83dU9nR0RsZ3hBVkY3a2dIeUhQd2IwUDJTd2hlNTUtcDJHZFRHQUpRZVllYTNEZHdic0Z1dkY1NGNSTkZpYndXbWpRblZSU1drU2U2ZFUwY29pX0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen maintains buy rating and $78 target on Dutch Bros stock - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNamdBQ2xEQUhxZnIzT2FFcmJQeEJGenh2TzJlb25ETUwwdDVzZWI3SjF5Y0xLWXhOMU03VGVaVEVsTWk4VFM5YXRKRUtYa0gza3V6ZHpiWlVRUDBtUmZqOGRMMVl4azhRMnY2SHN5MmM2NHhBTHFUeTdCVVNrTVloRnRrV0JKWEt6Ykp2emtkbjR4N0o5dDdsQVVGMk1pM1BpSnhqRkhOSk9zZlVRVWQtUl92VkhJNUNUb1FwQkR0aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen raises Wingstop stock price target to $400 from $330 - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRkJPeHJBRG9uN1g5VE04cVUyZk8yV1lOd0p4VGJNYU5vUzV3RG8zV1RlVkZHdDMtdHM0OXRWb0VjeF91ampGSHBkUEt6TlM1SmJvU1RVTHMwWGtLM0QxcVVxN1pkbHJPUnZoSVRyZkdseEZtazVBVHh6VE9EMXE5ZXdlVUxxc3N3TFY2MlNRbFlMWlVYWVh6MGFXX3BLaUxqM25ObUs2Z0o5ZWh4Q2ZtcjhIUU16ZVVjRmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "TD Cowen maintains Hold rating on UnitedHealth stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjFQdkUyYnRzRUFFbzlSbTJIWHVlbk5WSzJmb19KWmdCWjJJcU1UY2VIOHIxMl9CYzJxVHRudm5idzFiNmFiRWtySWFXVDROQzBVNGpwZHpXeWR2MkVjVU42b3BqV2pQM1Q1TlNmYXQyU3NhWlVhT0pycll4NHZKd0xHUkRjeHlXNjNMWmpDeDBUa0Q4aWp5MEcwWHlzNDBzXzJoYUh5WmdDeENuZEg4Tkx3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen reiterates Buy rating for Apple stock with $275 target - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMHRpaEJtWW90aUdPZThQR2I3R3AzX0U5eHpMX3FtLVNVMTg4dFNDeDVOblk1VXFXcVZlMXU4YlRnbzk4NVFYRzhQMEk4eUpRYzJyNTlHTmtrLXV3TnFPbUgxODFBQ1BkdVFGRGVidEdKZjZkWklnZTFfcHZWZC03MTNWX3RQLU84cTlzMElaVjRCbW5pMkhpcXVWMjJ6anJzWGlqUnRveUtqS2tmNE1ZZUFibjNqZ20yNDdMbThZZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen raises Snowflake stock price target to $240 on AI advancements - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSV9BUmRISW5jeV9RVnFKanFhdDR6VzkxanZmWUdLcXo4U2xNMlNYQ2daU0gyV3hHNEs3Y3BoVnpJUFRVa3JNVE9rdHd5bmlhNU5jUTRHbEVGTGJxYVdmX0xQRnBZVDhubFNBQ2RxZjhGdTJBQ0NHVUk1UVNULTJIcTR4anlLNjFYa3FUbFVUVzd1U08xZFBNajZCWEdyd3hvdFVkX25sNC1PTHVoeExwb3VHWE9CTEV4ZUdmZEdwd3JzSzVOTHZmUFF3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen raises CrowdStrike stock price target to $500 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTExaUJGT3dmSU1wS3dLcjZCc2QtNkp2UXFXV3NjTFliNzQ0ZE9ndTdDWmdBNGlCcnBXS3VJbzRjTkhGeFhvdS1nQ24tNlFra01MQmlCTkxicnBzUkM0UkNxVE1TOUFja1RWbFNMb2RnbGRzclgwX09haVVlX2MzSGdvcmZpRzdPU01jMGZkVHQwYldMb3hKUHRWX0VIQTd6S2poQy1OMGxjZGYwZGpLS3FYYw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 56.2
-      },
-      {
-        "date": "2024-12-03",
-        "price": 56.25
-      },
-      {
-        "date": "2024-12-04",
-        "price": 56.6
-      },
-      {
-        "date": "2024-12-05",
-        "price": 52.8
-      },
       {
         "date": "2024-12-06",
         "price": 51.96
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 69.25
+        "price": 69.3
+      },
+      {
+        "date": "2025-06-03",
+        "price": 69.96
+      },
+      {
+        "date": "2025-06-04",
+        "price": 69.58
+      },
+      {
+        "date": "2025-06-05",
+        "price": 69.97
       }
     ],
     "current_price_data": {
-      "price": 69.25,
-      "change": 0.21,
-      "percent_change": 0.3
+      "price": 69.97,
+      "change": 0.37,
+      "percent_change": 0.53
     }
-  },
-  "news_sentiment": {
-    "summary": "\ud83c\udfaf Le r\u00e9sum\u00e9 de la situation financi\u00e8re de l'entreprise cot\u00e9e est positif.\n\n\ud83e\udde0 Les signaux forts sont les suivants :\n- Le conseiller en gestion financi\u00e8re TD Cowen maintient sa notation de tenue sur les stocks de UnitedHealth, Tempus AI et Dell Technologies.\n- Cronos Group, un leader du cannabis, est en plein centre de l'attention lors du conf\u00e9rence de consommateur de TD Cowen.\n- Citigroup est consid\u00e9r\u00e9 comme un acheteable en dessous de 76 $.\n- Kenneth Lamneck rejoint le conseil d'administration de TD SYNNEX.\n-",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

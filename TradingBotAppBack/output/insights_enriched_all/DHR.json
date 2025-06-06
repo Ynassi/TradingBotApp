@@ -2,55 +2,163 @@
   "ticker": "DHR",
   "name": "Danaher Corporation",
   "sector": "Health Care",
-  "market_cap": 135490650112.0,
+  "market_cap": 137723543552.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 36.618958,
-    "PB": 2.6643026,
-    "EV_Revenue": 6.36,
+    "PE": 37.294575,
+    "PB": 2.7082102,
+    "EV_Revenue": 6.456,
     "ROE": 0.07219,
     "ProfitMargin": 0.15806,
     "GrossMargin": 0.59803003,
-    "DividendYield": 0.67
+    "DividendYield": 0.66,
+    "DebtEquity": 34.562,
+    "CurrentRatio": 1.433,
+    "QuickRatio": 0.949,
+    "FreeCashFlow": 4234749952,
+    "OperatingCashFlow": 6248000000,
+    "FCF_Margin": 0.17778127995533263,
+    "ROA": 0.03928,
+    "PEG": null,
+    "EV_EBITDA": 20.602,
+    "BuybackYield": null,
+    "PriceToFCF": 32.473225715500284
   },
   "technical_indicators": {
-    "RSI_14": 46.335302732914286,
-    "Momentum_10": -3.5030868099903016,
-    "MACD": -1.7844786222036362,
-    "BB_Percent": 0.3445054645189856,
+    "RSI_14": 49.71958485246127,
+    "Momentum_10": 2.8437985490223623,
+    "MACD": -1.0360598278093107,
+    "BB_Percent": 0.5229680135781134,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8778343518436109,
+    "ValueScore": 0.8744245332300891,
     "QualityScore": 0.4114446235261622,
-    "SignalScore": 0.6617548883444297
+    "SignalScore": 0.5771191377306877
   },
-  "volatility": 0.0231401209341814,
+  "volatility": 0.022933271077286,
   "beta": 0.799,
-  "return_6m": -0.2132686858797647,
+  "return_6m": -0.1532065991581851,
   "analyst_rating": {
     "recommendation": "strong_buy",
-    "analyst_count": 24,
-    "target_mean_price": 247.04625
+    "analyst_count": 23,
+    "target_mean_price": 247.35262
   },
+  "news_sentiment": {
+    "summary": "Danaher Corporation (NYSE: DHR) a récemment fait les gros titres avec le lancement de son nouveau spectromètre de masse ZenoTOF 8600, offrant une percée de sensibilité de 10X. Malgré cela, des signaux mitigés émergent alors que certains investisseurs vendent des actions DHR tandis que d'autres, tels que Lmcg Investments LLC et GAMMA Investing LLC, augmentent leurs positions. L'analyse de Wall Street est partagée entre le sentiment haussier et baissier envers Danaher, avec des interrogations sur sa valorisation par rapport à des concurrents comme CVS. Cette activité intense d'achat et de vente d'actions de DHR pourrait indiquer une incertitude quant à sa valorisation et à sa performance future.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Danaher Co. (NYSE:DHR) Shares Sold by Arthur M. Cohen & Associates LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb3kxUHBjMnFGTmJxOWpFTWpQbnlha29tbG5WU3QtTGRLLXR2RGJFUUNWZmhhdThGR2lHR1lBbTM4V1ZPWFJ2MUxLeHhGRnNiNktXODRLZ0t0UUctN196cUVFNTVNS1dPdlVmVnhCMGZ0bUFpMVBFdzNjcDZCZUhHdm9IcG9LekRlUFc2Rk9zZXFLR2N4bklSZ1JWVXgyZ3Z2UFFwanJkYkR0UWdyMzNEeWpiWGVXaGdWRmsxR1ZhMXRrQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Danaher's SCIEX Revolutionizes Mass Spectrometry: New ZenoTOF 8600 Achieves 10X Sensitivity Breakthrough - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOU9HTGdVMlZQSkFXVmpMb1gycVpIYWswUHZzQk1jZl9vQXdfNEYzaGVITkdvSFNIODNBZXg5UFVFeGQ5aW53NDY3YmJsNENrQTZTbE1nOHdESUVOTWF6N0lwNGRLV1lOeVVrdC13UzdmeXQtS1JQS0hFSXlTdGZIdjAwXzhNUmNBc2plOFlkN1ZIOTlkVGtKSjVhM0U1WFZ4N2Fya0N6MzVwOWUwOGhVamllZUZSdS1nRWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "3 Reasons to Avoid DHR and 1 Stock to Buy Instead - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZlQ2X1djV0xBZVBZcVdGclM4NDBLSDA1WTRWZW5yd2RieVQ0c2N0ZlNVV0J5b2R0Qm9OVzFMWEE4amdOVWREOXNtSVl0Umw3VkstNVdESU1WSFc2R2NyLUFYVGYzYUlJcWg3ZU9xYUozVy1QZVh5QjZvMW55dTA2Nm5rcmh2aWY1LTNxaVJMVWVlZmY1VzNYb2h2c1RPb1BPcmdDZmZIWDcxS0cwaG5YNXZweEUwbDVfV0o5SkJB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Danaher Corporation (DHR) the Best Medical Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZlBiZjB6ZV92YVBKS0R4MHUxcjlTWjZ0UGNoaUliYU4zX1hCbnA1dkxEX01DSEVXN2Yta0lCMXhBMTh6RXl6Sko3b09yUUpqQS1LYXlYYTFBX3pqWlAzZFc3LU1fSTdaekFuX1Z1eHdVSFZNUjRKWW1uUmdTLVlpbXBHY2dCYkdyd1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Wall Street Bullish or Bearish on Danaher Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNkl3enlnRmNINmFFRGN2NXhBT3FsNnFMS0pGTVNOZUN0VkUxRWoxOEt5OHg2UUNqRGpWYnZKSXlsZEdNd1VidFN1aFlnV1Z5REVfVzZOeHRYbEVrbHFsNUpvQ21jMG84bkFyNXdGcVRpbTRheHNyeG5TOXhRLWhnaGJR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lmcg Investments LLC Buys 10,342 Shares of Danaher Co. (NYSE:DHR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPakpXWGdYLVh5bE5peExYckNtU0lKNjRtODc3c19EWFBfbkwwMnlySUZ5UWx6Mm1aQWhNRmZkR2EzNzgtQUFfMzlTVHhIMVlTTEpSZjBjc3B0SHA4OExpQ0pvR2NEQ2VRRGhKcTVJZlphNDBEZTVhMzY2Q21sU1NSd05WVTJPS3laaklsN1lMdF9PR1BUamdfVjlJQ2dWUDB2M2Rfa0ZHUnlsX1RidVBnZmNMZ212cExYLWtoODd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CVS or DHR: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BX2tlMktTQU9tMjNDeWVTZHRHODNWY0dGMWYtYXFuNVU4QWhTbUtxcjRLRzQ1SzBSMWZNcjA0MUtXWEdjN2k2ZmJJQktFeUtEakdMSWdUZDJvVmNQdWJ5dktXTFdZaElZSTJUekZoV3lWS2ZNZXBlYVN0dzY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Buys 4,505 Shares of Danaher Co. (NYSE:DHR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNWE5SWpCVHZ4MWpOYXNfZHFlNFlZb1otWFdfVDNkUDNyTU5EdEhlTXNnWC00MndtMFM5QWljdWtycWNwRHB4enBqaDJpMENRMFZMcVhxWXFUWjVoeWFJZmQ1TXVkakpTX05OMktKUUZPR2doanQ0elZYUzNNaU5uTlBXOVVZNzJTMS1hWUY1UmM1cGd2Q2VXZ2NPTGpDZG5ocThuaHFUVG5lSFh6c2hNZkFTekZUam84NXFPckZvQ3gtSGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Danaher (DHR) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjeUtMYVg1c3dBQjRQelQxWkRYN2NzZXB0ZlJVYXUyaHM0QVJWSXF4eU5rOHpFVzYxY2pkUkh4ZGdXSnFDOHJHSmNBYlA3MTBST1Z2a0hTY1hFdDJyVlk4cGctTkRMbjhmN0JlOHM1OXFVWTFPTHJPYnowUHJfb3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Danaher Co. (NYSE:DHR) Position Trimmed by LS Investment Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbTg4enc2bkw4bU1SODExTjljM1BnRDlJQzJwaWpxNG9yd0NvVndkc3BRczJZNWU0WnNmbm1idEJvNHhXZE5WMVl6MkFhU3R3TkRtVXVfTGxkM0tVNjRDTy1Wa0E1TV9xWXJTOVkyMHZyd1dtbFZncTBSd1owTWVBUmRBWWxHYVRqcWp6cnVZamlwSjNBMHh3eTBZMUZqWlA1bzJQSmV3MS15am9PTE1oQmpiXzljZDkyY2E5N1dPMUpjSmtX?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Harbor Investment Advisory LLC Reduces Position in Danaher Co. (NYSE:DHR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWDBSY19WU3UzWTBxZUNROFBuVC1hNjdid1R6cXZtMXFqN2djdkZtcEoybk9JTjdybVBaaE1CVTJReFNhdDdzMFllTG56d2xsQ2M2QmpNLVFkNWpaZnhmRXdfOFd2WFNJbWZXM1lTdF84ajNIajQ1dlMzR1BxOFAtbl8zeTZpaUpVSllGbG9xOU1NN0d3dmliUW1CaFc4ZXVWUHpHQm9rYzk3Sm9ydGtNUXh4WFhWVHkzMFFmS0VSYlIwaFU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Rep. Robert Bresnahan, Jr. Sells Off Shares of Danaher Co. (NYSE:DHR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0dzS3RPU1Zqem1JeTdScndSd3lHd2RZVmtZMmtXMElGNWktUGxOT1lvU0VUbWlmSGdDbDV6TFVDR2hvQ3JyMjVxY1F0SHZQeXc5ZlRPWi00NGJFb3d0NEpmcjllNV9jMGRCdEwwZlVmMnhsWkxOSnRvYmliRk11X3N5YldYWlhIaGY4Um9fLWZia3lFZkFMNk1pY3h6bnlicl9LOE1pYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Danaher Co. (NYSE:DHR) Shares Sold by Legacy Private Trust Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWEI3dmhTTXVUVkx0OXdrdHRldnY1bXpVNFdfUk5JUkx2UUJYMF94YlQ0VXFJTmZBcDBmMnktUHA1WmRIMk9oSllQc1pYQXNObmRzZGhiVTNoeE5tQ0EyeTdxYllzNF9rV2tJcE9LbHNUMDU3WkZJWHp3NHh3ZmRhdlN0ZVVpbGUyMEVtQ21URldIc3hyN1BGM2VETjIycTQ2MXBvQURuQ0ZTaU9McWk3SGpaWXRaU2t0YlZTUzl4YnFrQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Danaher Co. (NYSE:DHR) Shares Sold by Neville Rodie & Shaw Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR0NTLXVNM2g0d0xRWnN5VUVDeXVwblA0ZlozNDBobTB3eEcxdXFhWGRRSFdPQXJTcmEtZUFqWVVCVFVHSUg2em91dGppX2pnY0Q5ZkxadmxOckZNOVpiVVItLU1WNGRweUFqbXlRTFlOUzZ0R2ZBN3NmcTF5MlpDaUVRSGd2bjcySzYwS1JKeDRnMk1sckNRM1gydEduTl8xZ3VQWlBOQVFoRWxncXR6OWZ3MFJncE8wcWNkR0dBUDJKNk1vOU8zeF9n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Increases Position in Danaher Co. (NYSE:DHR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGFSRFdVOTFoMnc4eExvT2F1UkxURnBzeU9jNVl4UkZINi01aGp6MFVzMFVrN3k0al83b1RxdE1DeG5pYlZsTnotOEZISU9ySHVjZ2hSN01iNjlod1lDR0d6cTZOWWRlaFN6QVlzdkdlbHpsanlSNkZhSjVzTHNMcnQ3bDdJeEpnVGVUX2lrOUdLbTduaVlGc0tsVGFOZVVsd0JUUkI1ejRlNEZUTDNYQXpNM0htLUE3OFJsb0dnYw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Douglas Lane & Associates LLC Purchases 20,322 Shares of Danaher Co. (NYSE:DHR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ2dsZUN2eUEtbTJIMXhPLWFvZUR0d1JFOFhRMWswV2RoYmtNUWFtUC1tTEJWbnNTT2c4aWNPdC1PTEtQa2FNQ21lRVIyd2dUR2NIRDg2Q081VnFrb1pJbS1BckhPSXZwNk9Kd1k2T3FoMWU3QUJRb2JMWHN3THBYaUNLMzg3UXZhcTlpVGR0azhBUkdmdzR6NFpGTXhOaFFfSUtNa01YTTA2YzFYSXZjaW1BV21TMHRWcUdfSDIwQzluMDlRajVmaTdpOXlSZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Danaher Co. (NYSE:DHR) Shares Sold by AEGON ASSET MANAGEMENT UK Plc - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdF9yZWw1MnhRWjFxbDNCLXN0bjZid3BFc2ZyRy1jOFZYWTRwWnlZenpUVnBZRmlxQVdUeXQ2T3Bqa0oxQlJaNk1Ea3g1VlAxNDY1VU1oNGpVVUFvM25UOUw1R1JkQ3lialFwR1lqaEtfQ1BRWmFkMHVhbnlqQUZ1MGl4RHM1WlA0ZFN2OV84WTJpV2hvWHkzeTFlUzRycjI5bF9idmZIR3A2WFEycjdKeE4yRUJkN3Z0SXFCQkpiWkR2QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RFG Advisory LLC Acquires 5,914 Shares of Danaher Co. (NYSE:DHR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkVaNzZqSklZd0dneERYamRUeFo2dEhXZEl1UTVpbjJ1Znl6N3JDUDhISDJRRUZoeE1pdlNXaTJFanREeHNZUUxsdzJqTHQtNldDQWo1OExEMVJPZUpFQTAzOVZqNEpKM3Z6MGgyYzNvVXktTU9zbEJBR3hRZllHRWpOZFU2cmV5bWl0TGdiQ2VYdndPMkZBQTA5MXlDUG12d05wdXJWZHkwdGRKRFNGWGRPcm5rdk5BQjlZZQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Castle Rock Wealth Management LLC Sells 6,786 Shares of Danaher Co. (NYSE:DHR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZzZJNFVBdTBFX2pfeUN1a0hKSVdDZmVwT195V2tiTEw2ZXpUb1JEeHRoX1htWE13bXZqQ1dBb0pLeWtUVjdaYkI4bHRZME5hemhuc1JDUHNjTmN1ZVZRQ3U5VkFSQXNScWJsNWRBQ3U5SWF0Q25IVG11dmJERG1xREVQMU9tdmYwN1VGRk9BaERrZkJqLWlvdHExN0ZFV0syYm5HaUY1dHhGcUQ3UHNSRDFuRXloNV9sYjFkQmZXeXdqVUlzbGVxTUc4MjA0cnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Danaher Co. (NYSE:DHR) Shares Sold by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlF0ZFhtNUpYRGZhTExhOVFMemgwRmpJdVBRX0hzUnlhTkczN3pwRURzLTh3Tk1ZYXBDZDZadUgxZGtYUjloV3dacExRODd5WmlqWTZ3bEJWeDFKeWlNZFZUUFUyQkkzSWVhOEJHRlA0SXk1dVVzTUk2M28yR2dwaGpURFFFVjFEdnoxZGMzY2dMRkpER1BQaDc0MEpaNm1nUjJXUElGTk5vS0hSQk9kcDZkOA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 241.29
-      },
-      {
-        "date": "2024-12-03",
-        "price": 240.87
-      },
-      {
-        "date": "2024-12-04",
-        "price": 236.26
-      },
-      {
-        "date": "2024-12-05",
-        "price": 227.87
-      },
       {
         "date": "2024-12-06",
         "price": 230.12
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 188.99
+        "price": 189.23
+      },
+      {
+        "date": "2025-06-03",
+        "price": 192.06
+      },
+      {
+        "date": "2025-06-04",
+        "price": 193.08
+      },
+      {
+        "date": "2025-06-05",
+        "price": 192.15
       }
     ],
     "current_price_data": {
-      "price": 188.99,
-      "change": -0.91,
-      "percent_change": -0.48
+      "price": 192.15,
+      "change": -0.97,
+      "percent_change": -0.5
     }
-  },
-  "news_sentiment": {
-    "summary": "Danaher Co. (NYSE:DHR) has recently launched a new ZenoTOF 8600 mass spectrometry system that achieves a 10X sensitivity breakthrough. The Czech National Bank has also bought shares in Danaher, while several investment firms have sold their shares. Additionally, Danaher has enhanced its software ecosystem with new developments and partnerships, including with Evosep for proteomics solutions. The company has also set a new standard in accurate mass quantitation with the ZenoTOF 8600 system and new software collaborations. Overall, the positive news about Danaher's new product launches and partnerships suggest that the company is well-positioned to drive growth and outperform the Nasda",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

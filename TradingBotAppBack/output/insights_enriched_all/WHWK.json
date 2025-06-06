@@ -1,56 +1,99 @@
 {
   "ticker": "WHWK",
-  "name": "Whitehawk Therapeutics, Inc.",
+  "name": NaN,
   "sector": "Healthcare",
-  "market_cap": 80556904.0,
+  "market_cap": 79143624.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.4,
-    "PB": 0.36083564,
+    "PE": 11.199999,
+    "PB": 0.35450518,
     "EV_Revenue": -5.453,
     "ROE": 0.17691,
     "ProfitMargin": 0.9942,
     "GrossMargin": -0.77703005,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 18.952,
+    "QuickRatio": 18.825,
+    "FreeCashFlow": -24650750,
+    "OperatingCashFlow": -51761000,
+    "FCF_Margin": -0.8875157515751575,
+    "ROA": -0.21925,
+    "PEG": null,
+    "EV_EBITDA": 2.51,
+    "BuybackYield": null,
+    "PriceToFCF": -3.210597000091275
   },
   "technical_indicators": {
-    "RSI_14": 48.36204704119437,
-    "Momentum_10": -0.5813947847045612,
-    "MACD": 0.0184347079971569,
-    "BB_Percent": 0.4483875909155134,
+    "RSI_14": 46.54257161367885,
+    "Momentum_10": -12.727273290244591,
+    "MACD": 0.0034352823387688,
+    "BB_Percent": 0.3204452543530522,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9374173106564676,
+    "ValueScore": 0.93621053289763,
     "QualityScore": 0.3745265522463289,
-    "SignalScore": 0.4929602439340088
+    "SignalScore": 0.6430695780560047
   },
-  "volatility": 0.0608899039773971,
+  "volatility": 0.0609041734169086,
   "beta": 0.593,
-  "return_6m": -0.2754236804415028,
+  "return_6m": -0.3057851675274693,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 1,
     "target_mean_price": 2.0
   },
+  "news_sentiment": {
+    "summary": "Whitehawk Therapeutics, an emerging player in the ADC cancer space, has been making waves recently with breakthroughs showcased at key industry events. The company's rebranding from Aadi Bioscience to Whitehawk signals a strategic evolution towards becoming a leading ADC-focused entity. Strong financial performance in Q1 2025, coupled with a successful $200M strategic sale and PIPE funding, highlights investor confidence in Whitehawk's innovative ADC platform. The upcoming CEO presentation at a major oncology summit further underlines the company's commitment to revolutionizing cancer treatment, potentially impacting market sentiment positively.",
+    "sentiment_score": 0.286,
+    "label": "POSITIVE",
+    "positive_ratio": 0.29,
+    "neutral_ratio": 0.71,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Whitehawk Therapeutics Reveals Latest ADC Cancer Breakthroughs at Major Jefferies Healthcare Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHJhaUYxempLOWRkQXJMN283R000TTYzWWw0M0tsYml5STVocDJRaDhUdC0yakljc2t5UXFfM0ZMb2pGTHA5TWRMQWVXYV9VUWlWdjFqdzFTbEsxclBvcjBCVjVGQWNGQjJNNWhtYlJHb2hPNjhfVGtIeDNvajM1d1VhNE8wNVMxMFF3VmQwVWV3RTlCc3BPanRIeW5wUFQ0QkhiNWI0Ykh5U0x4TmROb3lLaVdXVmRI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aadi Bioscience Relaunches as Whitehawk Therapeutics Marking Evolution into ADC Company - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaFlSVG5YNU5uZjY1eVQweUhhWjJmODFWSXB5VUc1OVZPZ1FaSkZENlhmd09RRFY1blFRczdUX1lwbVgzNU5aUWdLU0pua0RVaFRfYlpyTW1zbDlwelVxdll4UktnVkc1ZXFUM1N6Rno1dTYxQkZseWpLbENOWFlZYUV6ZEdxNlRGTTNwcFZiUTJqLXpVTjFER3pRNERUajd2alY3Ykw4SG8wajRiRC10VmxvRE1wRERIVllBcUdIcmNkZkFSSzJPdXdpRVdRc2tBUEIwVmtaNEdVTEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aadi Bioscience takes flight with new moniker: Whitehawk Therapeutics - Fierce Pharma",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUXFKOVo5OXI3NW5CQ1BsZTVtQnRSU0UwWTVWQW9jTG41US0wWWJ2SlRQWFdhY19xcGlleTNNRUsxekJXckwzblRlWnRkTDR1NnRJX0F6TjQ1MGZ5QlVsMFNBRk9UOTFQdUlpeTVPRWsxT1FVaF9qcXkyY0RkdWw2clZKbGJzQ1VBREdBMDEwd2VQcUZLWldYQVRfRVBVNXNsMHQ1RA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Whitehawk Reports First Quarter 2025 Financial Results and Recent Highlights - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHZUUV9DMTdtRU4xZ0dJRjdkX0VUNExWLXFOb1Fsa3FKWU9tN002b2Y1aTFJRzVoYVRPR1NhOFFQT0JCZDRFY01rdkpadzk5R3RiTTRlRFRyaEpZMVRPZUN2VW1lTDJvdEtjWVpMRzl1cVRoeF9BY1lzc1VxNXp1Q2pXNmR0cHVfUkhGbEJxVUhaSjRXTndPbVJLa0k3alk2TkQxUnlZQlMxQkJXTThSb0otdFBnNktwUkJfNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Whitehawk Therapeutics Reports Strong Q1 2025 Results - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNElYTDRUSnJkRzBpOHhlOFZTV3hGakNaMk93RnBwZ3YzSWZYLWFHWlpLaENnbTJmMUVqTlNSc0JDRm5XTm0tb2dJbkd6ZHpjWVcxVXIxZDlwY3RsWEZpUm5pZUFKYk1EeFd0czJmbGlERk5lVUozM0wtTUZCc3dHMHdNc2J2TDVRaFhYSVFaWGFfQXE5T0x5RExiSjdrc0tlQWUtNENEUlg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Next Week: Whitehawk CEO Showcases Revolutionary ADC Cancer Platform at Major Oncology Summit - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb0xjalkxMHZscTN3d2MtbzcyZmRWZ09xbUZhWW04SDBHaUJZZ29KQ25sZ3JoUzVxUjJ2ZEZhb1FKREdmak9vdjk2R0tKVVlSWVdfQnBFUHMtdlc0Y1BHeVN2aHM5dE9meE9TcjlmbzZKT1U2Ulh2Zm9KTVlRYTRsR3FjTy00NzltcmhZU0NyeHNwYlBkdmw5UWQ3ME05QmtjX0dBUHNSY1ZaZjVIdkVlZkQ2OU5HSDY0VGFV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Whitehawk's $200M Double Win: Strategic Sale Plus PIPE Funding Fuels ADC Future - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdndYOGl5MWJhZEpPU0drWmVadXoyOV9POEhkeWZfVzhxQkp4NVR4dFlCcGxDVVA2dmd3VzV1eVZneDJnQ1JMa1FXMXNKTWd2aHhYb0tOVHpfSWhkeHdRWlBUaEplUjFkeFRlVzhyaGt1dDVsc3praUhlUUM4aklBSUxnWGdqaG14UkhDaDhwUmlpR3FwNGRVcV9kZGdOSXo2dEd1VWFWdjBPYmc1R2ZHSXVqM3BNUklC?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2.36
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2.48
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2.45
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2.36
-      },
       {
         "date": "2024-12-06",
         "price": 2.42
@@ -530,24 +573,24 @@
       {
         "date": "2025-06-02",
         "price": 1.74
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1.7
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1.69
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1.68
       }
     ],
     "current_price_data": {
-      "price": 1.74,
-      "change": 0.05,
-      "percent_change": 2.96
+      "price": 1.68,
+      "change": -0.01,
+      "percent_change": -0.59
     }
-  },
-  "news_sentiment": {
-    "summary": "Whitehawk Therapeutics (ADBE) has announced new ADC cancer breakthroughs at the Jefferies Healthcare Conference and is relaunching as Whitehawk Therapeutics, marking an evolution into an ADC company. The company reported first quarter 2025 financial results and recent highlights, including the successful completion of a clinical trial for its lead candidate, ADC-1234. Whitehawk CEO Lennon has sold $13,371 in stock. Next week, CEO Showcases revolutionary ADC cancer platform at major oncology summit. Aadi Bioscience has transformed into Whitehawk with $180M war chest for ADC cancer programs.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

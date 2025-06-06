@@ -1,56 +1,164 @@
 {
   "ticker": "CIM",
-  "name": "Chimera Investment Corporation",
+  "name": NaN,
   "sector": "Real Estate",
-  "market_cap": 1057882240.0,
+  "market_cap": 1097962752.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 8.652318,
-    "PB": 0.4001531,
-    "EV_Revenue": 34.312,
+    "PE": 8.980133,
+    "PB": 0.41531393,
+    "EV_Revenue": 34.347,
     "ROE": 0.08088,
     "ProfitMargin": 0.65463996,
     "GrossMargin": 0.90953004,
-    "DividendYield": 11.23
+    "DividendYield": 11.11,
+    "DebtEquity": 393.237,
+    "CurrentRatio": 3.206,
+    "QuickRatio": 3.206,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 197198000,
+    "FCF_Margin": null,
+    "ROA": 0.01661,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 52.56359343079793,
-    "Momentum_10": -6.944447180333496,
-    "MACD": 0.2367724345939308,
-    "BB_Percent": 0.4844392139605241,
+    "RSI_14": 60.134843957543154,
+    "Momentum_10": 3.1963475290727317,
+    "MACD": 0.2353196588156532,
+    "BB_Percent": 0.6648517158357402,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.926391077916756,
+    "ValueScore": 0.9278246691647504,
     "QualityScore": 0.3801036201178164,
-    "SignalScore": 0.5094718339616586
+    "SignalScore": 0.4853829375333549
   },
-  "volatility": 0.0225191314464873,
+  "volatility": 0.0227472505773056,
   "beta": 1.824,
-  "return_6m": -0.0662263730406433,
+  "return_6m": -0.0255772512882479,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 2,
     "target_mean_price": 15.75
   },
+  "news_sentiment": {
+    "summary": "Chimera Investment Corporation (CIM) a récemment connu une série d'événements positifs, notamment des résultats trimestriels solides qui ont conduit à une croissance de la valeur comptable de 7,4%. Des institutions financières telles que UBS ont augmenté leurs positions dans l'entreprise et ont émis des recommandations à l'achat. De plus, Chimera a réussi à lever des fonds importants grâce à des opérations de titrisation hypothécaire, renforçant ainsi sa position sur le marché. Malgré des perspectives mitigées concernant le niveau de risque et d'opportunité de l'entreprise, l'ensemble des signaux récents semblent indiquer une tendance positive pour les investisseurs intéressés par CIM.",
+    "sentiment_score": 0.35,
+    "label": "POSITIVE",
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Jane Street Group LLC Has $425,000 Stock Position in Chimera Investment Co. (NYSE:CIM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU2tLMEdLdFF0aGN4alhCZEVBRm02eFRMN1VnY3ZUTHN1eVdqVWZld0hLU0RMX0tQNHBaNFRNMHZlSHZKTTgyQU9LT28xQnpjWUM4SVVGbnlxUVg1b2ZXdVBMZkZXZlE3Q05tbVU0OUZsSlBTRkVZVDFkdUEtUlphQUVsNlZCQXN4a2I2VHdQZ2JSbUJKNEdib1dSVmJlRHFZUXhBS3lGaTVnaG1wZFRzdXFTenQ2SVBnajBqLVMxdEpnOGNSS3VGVGJhd3NXNlUtTTd1QzdSQUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chimera Raises $187M Through Dual Mortgage Securitizations as Institutions Back $646M Deal - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkVKbjBuNEZqeDBCWTNwcFpybUpjRlpCMkNRZEZVaHpWclJ4VGFUTDRYTFVTS3JxVjZKQzBkOUNuVXJyRVdYZEVmZnpxa3NaS19oU0ljREZrMWdwNzd4V0ZpRHhTaWNSSEJsRTlDMG55TmJGZzlGZl9peTdYYTVuZVVjTjI1aFh5ZHEyR0ROcnNzcUNQR3dqbm1NUzRuSHY5U1l0UmdodHZOdVRGLVJxS3prYVcwVVpCRWg0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Chimera Investment Corporation (CIM): Among the Dividend Paying Stocks Insiders Are Buying - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHNSVDNLbk11cllPTEMxWDBzUXpqZElvalY5YmdPdEJEX2N1QXBQNHZRVm1zY1JiMXNoNE85M0Fua2hXUmRkTWtNdDB0UHBOVlMwaHhoZEE4UGJ1b1RLbWd3aGczZl9NZm81SmdXNUE2V3VMUmhKT3UyVy1WWS1OWV90TS1iek4zTnYtb2lPZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS Upgrades Chimera Investment Corporation - Preferred Stock (CIM.PRC) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUG5DZFF0QUpsQ3hUMWdKQXJ3dzFaal9vNVhUYkUwZ0ZxSkhpT2hOWUZCLXlsYnRxZmk5Y0ZUXzlfeXJUd3JKMnZfWUVtRE5WaGxnMnhIZ0hQVzVET3U5NmZWNHVDeDZvcWFsNTFkamNRUk9tdW5yM3hVdWZwOElWWG5MV3BaNjBFaHBVYTZjYlVMN0xrWXBFa3QtTVpKOEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chimera Investment upped to Buy at UBS after Q1 earnings beat (CIM:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd2FFZnByWVl2UUZfSnpXaG5UUVFXQ0M1NjRzdkNIVEFOajdxY3VseUM2VW81akd0Y1VEcjN6dXotWVhrUjN0SjNPSUVBMUJ3WlYwOVU4QjdacGxqMmJheDJ0QkNKNlpNV2JlbjhMam5fbHNHNndpZ3dYTzJocTN3QnZnZGs5aXBqVW1raU9fTUp2QXNFREwxSEJCazRNTEVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(CIM) Trading Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbVRDR0RWcDVfUk1NUDQ2aHRjRzhHVlFHY0FES0dPRFNFZnJsdkUySHppbjFpek96U3pWTDhPb2lRWGk2cHdNaW80cWQ0cUt3RFhMQUw0ZU9oSHltWlp1WDNwdmdZV19HelJ6dXNaNU5oLVM5Wlh3aWRFMmhncTFBbTJXWWgwalBUNTJNR3VuaHBOMkdsTHcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Deutsche Bank AG Increases Stock Position in Chimera Investment Co. (NYSE:CIM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUlBfZG05Y2FGeWptbFQzaTFHYlFQdnNQX3l5eEM2Y3htVVhuRzJrNUdyZnVEMFM2dnNmQzROY0FteUVGRjZHaUNoTXZYYVlMNDgxTmRoZFRLSXNmU19ha2hSZ1k5RVBtVTlzOHE0N1EzTF81dHcyWDE0eFF1Y19WUlgxMjh6cHBvQXU4eGo5SmZlVFF6YjRFWjR0cmx1ZlpUNUpTQjk0bGg3NmIyQnV5dFZFcXZ1U04wUzlXWXp5QlRoaGI2RjF1Skt5MVNuRU1JR2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Major Mortgage Deal: Chimera's Latest $288M Securitization Boasts Elite 748 FICO Portfolio - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZzJndVphU3Y4VHhvNzh5T0dtLXFWVi02Q3ZQcndnVmlnSWJteUNzT1RtRUo2ZWhkNUozZklUQW9RM09iRFRWakNpWkhISXJFb1lHUE1UZ3phZjlpVGFBV2YtR01XS3I4Qk8wNFg5NTd6Rl9rYTk4WUxWdHNCSHNfSDlrYzd3QW0td1BWa0tPZjA0UjNOU2Zza3BScldqWWU5U2toZjR4VVZMRFdxZGk2UGpYdjFtc1pIQUZN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chimera Investment Q1 earnings improve as book value grows 7.4% (CIM:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzFLV2RLbW5aN3Jrc2xBQm9reWtVOWNVRkdmVk5SYjNwLUtySVNiUUdkUDVrY2NOWnpXU0dQSU95TGhXSTdmQ2RHeHV0d2haLW8wUWNSU3F6NW1SbnVCX2M2dU0yQXlXZWZNZ2VlczZieXRkWk1jZ0liSFpENlFqcEZCcl96bDBHQ2ZocFFfLVRwN1lHaWZrc3JJeDl4RUJv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Chimera Investment (CIM) Q4 Earnings Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONFk5LVVyX0xEaW45b3YyTl82ZTgtMEpWVjd3bXVBNENLX0MxZWFBU3VBYmNDTGFtT0ZFQmdRTnFETXVhZDRuWWM5TmdsOFhMN01DV2tQaWZkaE9PdXM0VE1CWGU3dzN2NGdSMkk2Q2xuR2hUb3l2LTg1QldLUDNYc0x3SVZTLXM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Acquires New Position in Chimera Investment Co. (NYSE:CIM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdERSeTVRMnFUcWN5SzRjenVCNjNTOFp0Ynk4VnVhMGdHOUVQVWMyQzlsb0QxSlBqNXpZc0RvVDd6WGRQQUkwbzNaWXVTYXVKT3BBUGFDeERKcXRmSk5nRWc4QUE4bnAxV3ZPX2NnemNHREdIaEx1TVU4ZTZDc3BLWkFVcm1WanJZY2U0T3VfVFp3RExxMHkyOGVtSmNBN1VydlNPRXhfbXZfQno4VU1ycHcwaTlvZTkwRFRtSUhLaXQ2bDBrTE8yUHVMSG1ycUo2bmliZEMxQkNDWUZuT2pCRVhOejFTRHdVNGN5QWZ3ZDg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chimera Investment Q4: Mixed Results, Worst Is Over (CIM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObTdiUnU0bVBkc2pMTnh1YWVOZ0ZEX3ZLbDkzc3JQMlljc1J6RGpaWktlMklXOW1iYjBrMzdnVGlMLVBKNUc4QmxtTlVESmUwMjY2SUZlQVVfejZFY1FGV2NIdVA1ZVA1MllJc2FLdWtGZjVENHM3YWlCTVJFellYYTU5Yy1fWXhuX0xaQkJDSGdMMFdD?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Two Sigma Advisers LP Boosts Stake in Chimera Investment Co. (NYSE:CIM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHVDbWdqQWhGdWhrNm0wNzJPaVpjV2NLdmJPWU5IRzVLUTdEbDU1ejFBRW1Ka0JGNWpfWFFpU1NjWkpGckxIeDRvc1p3UTl4OHRmUmp4SVVJU1JHWU5HeGVZSXVxQ3gtczlYNmJSTGNrYUljTm5iSmFtNjZZYzhnVkZQclRZbkVEcUZER0NqVFBaMGdhNjdNUERPRUJ3bkQxUG1lT1lfRUtzbVI1cFl3UzI5XzBkdTZjU1lzYTROazJvV2JLMU5DWkQzc2tNUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Chimera Investment Corporation's Balance Of Leverage And Opportunity Tilts Toward Risk - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNU5CMGI0MzFNa1MyY1FLZVBTZ0U5d3Y3bkdkcmhJZEE5ZjhodWZzM1ltMVoxbENiSkw3LUdfVnozYWU0bFU5MmJGZW1BSG9UX1lxa3dvcHVsWWtmU3VBTTNUNm8wOE1tTWRTZlJFblBqSC1SMm5xSW4wNUM0QnY0SGZCTnJxNjJuOW9CcHVleDQzWTAyWnpwQ0hzd1hxR0duZ0VCcDlFV3BWNEtNUE1YRXY1SzdKX3B2V3BNcTF5a3FxSGVX?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS Group Upgrades Chimera Investment (NYSE:CIM) to Buy - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPam04aDNnSmFYTTZTcGYxOWpRbElrRjE0SHQwR1oyMWljQzYwaDU3dWJWQ09RdV9jT3NsQUZYZ2lpUmJ2c3NnZVNPVGhsaGFOcHF2dWMxRVBHNDc3SUkzTkVRbWlJQ01wdmFFbUgweVFfWGg4aHRqY2x4T1ZnUmZERjN4RS1QRjFVZFFJNFBsV1ptVG1xTS16cUQxVmROaVE1SHo2VVphVW5LLWFYV2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Despite Its Excessive Return, The Preferred Stock Of Chimera Remains Attractive (NYSE:CIM.PR.A) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM3ZsZ3BVUThyUDdNQW15X1QwaHF0bEtSQXhvNEZNdTR3SXJ6LXhQclV1NFZwTHg4Tl93a09Td20xNmdzWXdzWUtFMUNhakV5QXpiZnR1N09SX21RRTR0SE0xbWhCUEQyT1BPNVN4cGpMVDlwbExuTTkxNFp0cUhMdzZqblEwNzdsaDgySGtyUWtUNG9vdERiZ1VoY2kwT0RHc1F3OXJ1bHI3ZHRQbmtkSlhjYW1vX0lkTVhz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cim LLC Sells 8,436 Shares of NIKE, Inc. (NYSE:NKE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOFpJZjljZGlvTU9hM2E1Vm42UjU3a1lzbmtVU1ltbmhVZlk1N0p4ZjF1WERUSGdPTGFJdE5TQkd4YW4xWVZyXzV1cF9xNzVGR2plUmpaaHRuOTlheS1TOURNZTd4RDhuT0xEaGxHX25TVV9sMjYtT1N0THpuS0R3MkNnSzgzeG5RVFc3dko5ek5LVHdZWm5zV0lBYmJ0NjFheUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Grows Stock Position in Chimera Investment Co. (NYSE:CIM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQnd2QTNOcjdCUVdtdmU5SEFTLXV3aDh4bHdZYmhmZ2pxOWFRaEdzMWlrcE5wdmVzdkpLcnU4U0xWLUJwc3ZBZnUtZ05BSnZVSkZ4NDQ1cEtpWm9SRHpfZ2VvclBaUl9zQlFHR1V1b2VPdEVTMVVTZ0tCWktvMGtvUHVNWmpud1RldzI5SWdMN0dzNlM2UDBMVGlmUEVnTHdwU1ZDRGpkbGpaeDQ5Z05HYlpoNm5aQkpqTm55UmRBODd2enJkc2xzcDVPOE5OcDJTM0dRX0ZFaHg1OThFVm84Q3dIMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cim LLC Reduces Stock Holdings in Monolithic Power Systems, Inc. (NASDAQ:MPWR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkY5UzBBVklFZ1FlMERiWC1PS0ZRc3RIbTlpdUlQNlBhVUgyQlJ4dkdzMEs0dDdYV3p1SFVGaElkQzFxcURTamlwN3NTUm1oYXp1Q0xpV0dYMWlLMElDSkpfdjZSWnNHejFNRTgwR0x2cXJjclo5WUVmWkthajdEc0ttN0VqSHdkbGlmR1EzU2U5bk84R3QtS1c1QUlSaTNveVhTN2FKSzZIUjJBT2hCcG5RYnp4OTF6THBkWUMxN0ZDSmR5?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Graham Capital Management L.P. Boosts Stock Position in Chimera Investment Co. (NYSE:CIM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZjR4RVFiYU1kOVF4Yl9RZHM0N0JzbWFQcnZBVkpjQ1E0SVZ4Ty12ZFRlRFdOZXJJQ0d4NDh6SlNoeTl1dUNNNzdOSXl0eVoxWTZYS3M5bGZWMG1KSGRHa0hjZ0FrREdtMlNzQnRkVS1UbThWZmdELVdFUVhHQUljN0xmN21Udl9CMVZtQW5HVFJxT3poc2Z3TzdHeTcwQWVUOWRjUzRycjA3V2R2Tzhzd29OX2phZ2dOYzZUZElyNjdwUWhobWtUSURQNVdVOHM?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 14.79
-      },
-      {
-        "date": "2024-12-03",
-        "price": 14.69
-      },
-      {
-        "date": "2024-12-04",
-        "price": 14.74
-      },
-      {
-        "date": "2024-12-05",
-        "price": 14.66
-      },
       {
         "date": "2024-12-06",
         "price": 14.71
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 13.05
+        "price": 13.06
+      },
+      {
+        "date": "2025-06-03",
+        "price": 13.35
+      },
+      {
+        "date": "2025-06-04",
+        "price": 13.32
+      },
+      {
+        "date": "2025-06-05",
+        "price": 13.55
       }
     ],
     "current_price_data": {
-      "price": 13.05,
-      "change": -0.11,
-      "percent_change": -0.84
+      "price": 13.55,
+      "change": 0.24,
+      "percent_change": 1.8
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nLes titres de Chimera Investment Co. (NYSE:CIM) font figure r\u00e9cemment dans l'actualit\u00e9 financi\u00e8re, avec des signaux positifs et n\u00e9gatifs. Le groupe Jane Street a achet\u00e9 une position de $425,000 dans l'entreprise, tandis que Chimera a lanc\u00e9 deux s\u00e9curisations immobili\u00e8res pour le total de $187M, avec le soutien des institutions financi\u00e8res. Des insiders ont \u00e9galement acquis des actions de Chimera, qui a pr\u00e9sent\u00e9 des r\u00e9sultats mixtes pour le quatri\u00e8me trimestre. Deutsche Bank a achet\u00e9 22,47",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

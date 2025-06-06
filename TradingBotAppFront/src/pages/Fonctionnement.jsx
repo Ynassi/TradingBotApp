@@ -39,10 +39,10 @@ export default function Fonctionnement() {
   return (
     <Layout>
       <div className="w-full px-4 sm:px-6 lg:px-8 py-10">
-        <h1 className="text-3xl md:text-4xl font-bold text-center mb-12 tracking-wider">
+        <h1 className="text-3xl mt-12 md:text-4xl font-bold text-center mb-12 tracking-wider">
             Fonctionnement de NASTRAD
           </h1>
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-6 mt-24 sm:grid-cols-2 lg:grid-cols-3">
           {steps.map((step, index) => (
             <div
               key={index}

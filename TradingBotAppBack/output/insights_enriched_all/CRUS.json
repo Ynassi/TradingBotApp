@@ -1,56 +1,164 @@
 {
   "ticker": "CRUS",
-  "name": "Cirrus Logic, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 5054952448.0,
+  "market_cap": 5158588416.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 16.34,
-    "PB": 2.629758,
-    "EV_Revenue": 2.436,
+    "PE": 16.675001,
+    "PB": 2.683673,
+    "EV_Revenue": 2.508,
     "ROE": 0.17603001,
     "ProfitMargin": 0.17483999,
     "GrossMargin": 0.52532,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 7.372,
+    "CurrentRatio": 6.351,
+    "QuickRatio": 4.302,
+    "FreeCashFlow": 305577120,
+    "OperatingCashFlow": 444366016,
+    "FCF_Margin": 0.16116281721411221,
+    "ROA": 0.11252,
+    "PEG": null,
+    "EV_EBITDA": 10.31,
+    "BuybackYield": null,
+    "PriceToFCF": 16.881461596339413
   },
   "technical_indicators": {
-    "RSI_14": 45.43812145986091,
-    "Momentum_10": -7.709688583824836,
-    "MACD": 0.9111578134776152,
-    "BB_Percent": 0.2179172986858823,
+    "RSI_14": 50.32811237078553,
+    "Momentum_10": -4.0839752723059775,
+    "MACD": 0.6267402351632541,
+    "BB_Percent": 0.3168716578075506,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9316880049889876,
+    "ValueScore": 0.929692946117991,
     "QualityScore": 0.4319583934614266,
-    "SignalScore": 0.5510048853646412
+    "SignalScore": 0.5762409953086187
   },
-  "volatility": 0.0283280495295041,
+  "volatility": 0.0284451992575543,
   "beta": 0.942,
-  "return_6m": -0.0908753315574804,
+  "return_6m": -0.0420336967352269,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "strong_buy",
     "analyst_count": 7,
     "target_mean_price": 123.18857
   },
+  "news_sentiment": {
+    "summary": "Cirrus Logic (CRUS) a récemment enregistré une hausse significative de 4,5% depuis son dernier rapport financier, soutenue par des résultats solides au T3 et des prévisions optimistes. Malgré des perspectives favorables, des inquiétudes persistent quant aux tarifs commerciaux, entraînant une révision à la hausse et à la baisse des objectifs de cours par divers analystes. La performance annuelle positive de l'entreprise a été saluée, mais une baisse de 29% du cours illustre des résultats mitigés et des incertitudes persistantes, malgré des indicateurs financiers solides.",
+    "sentiment_score": 0.35,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Cirrus Logic (CRUS) Up 4.5% Since Last Earnings Report: Can It Continue? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05dGV2a3NpMm9rMVp4OTFMNXZzUU43b0c3M01RT21tMUNDSlZlRnhFMzhBUEtZNWVTdmJJYllNdzZib3pFNlVJVXRrUkRILWpjZDMwekFoUHlPMjM2NlJSVEhpM1l3WUFpazczZnFSb1pXeV95RVhlV1RR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "When (CRUS) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVIxX05TbWpIU1JIQ3lycUs0SFk2TG9oX09Pbmc2TnFabEFUbkw3RGRoUjBqQ3Q2OWRvejI3Vno3clk5UWJUN0IxR0tSb2tkV1A4by1uSFZndVY5NEVoSVBTZG9fOWNHWmR6MTV0aHlRZ041RG5CRTlZQTZSdUlPems0M2lEYmhRQmRMSFh4MmF0bEFUdTZkR0IxWlJuTkN5ZlI4TUk3MjhNV2JpMndGRG1iblg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cirrus Logic Upgraded After Q3 Earnings Beat—More Gains Ahead? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUd6TjNEZERROFNKSkNfcnBnLVpYSC1xSXNsY1V6Wk05S0dVakM5WjFwOHdTV2o0NlJCZ2gyWUdOY0V5SWR6Ui1mMXZqbW1BMEJ3VGtBY2QxV2tPWlRDU1I5emFKTmVMUHZTMkpzczA5Nm5pWkZ2X0R6TjNLU2x6dW4zTGJPZ3Rvb0hTMllLSTNxdGt0SjVMYjktcUdxQzQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CRUS: Is Cirrus Logic (CRUS) a Semiconductor Stock Worth Adding to Your Portfolio? - StockNews",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ1VxS0lOcDV0VFlORlpyMjZvN2dVYXBhYmNDcmw1SzdKdXJCMHhqVVZ0SnNhNkE0bzlXMm9GV0VPbkY3UXR3MEJyZWl1MFJDUTdkUHJ5djA3NnVaLTVnRGtMLVUzS3BMNVZCZG1KSGZ0YV9xSjhLdEZXaThZZFNPMEI3RGJDRkwteTJWOXRqMzVuYlhQNWZxQ0JmLW9yYW5PTm5LOERBXzM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cirrus Logic's Financial Future: Always A Roll Of The Dice, But… (NASDAQ:CRUS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXg3X016S3V2dkpJSjFoTE9yYUlibWRoZ1hObGJkZkVqOERpMmRQeEJyYjJGU3VJSDZaMzhwUEFZTWdTb3QzLWEyTFdIamtfWkh4bXFha1c5aGNCWC1pMFBvYjl4Z2F3YUpLZ1ZaRjFjbFg4bHkzUmdrMzEwV1I0QlR3aEdzb0gyMVRrYmxqbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cirrus Logic, Inc. Just Recorded A 7.9% EPS Beat: Here's What Analysts Are Forecasting Next - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTkxxTFF3UVJrNE54eGxqalBGTkw3SE1OdjdqX2NwaS1XSEdCUDduTHVJelFoVDdhbW1nYWZyYmFrZHIyUmpPVUxOU0RLZjZpdnZmYzM1Zl81bmtTTldid3poTnM0LVhXNEZSMDBVYzRmTG5JT3c1THo3ekhvNFVkQXlnN3cxX3prbkRCR041Rm9UR3ZmSDU1aGlTR2xxN1JmN3NpNkNHbHcwUm43ZWh5YWgzcGh6ZXNUZlJUYU5RRm5pSmhSUEFwWHNSWnVKZ3VvZVkw0gHYAUFVX3lxTE5NcFlFTk9nei1PaW1ienphRGF5aDliU0t6Uk1uSHlzNU8wM21OMWN1WUdyc2p0WDcxa2hNSERJRXNFUUNSWU5rZlVoNURKOE1yS1A4QlNtOXpVbTVxNlpmbEYyZGVZelQtVDJfYjRvSF9DTThtUXpLcFBXSmNseTBDdFlzdEc4SW5ZT0xLZEVJak5lc0N0S0l5QUVtaDh1d2cweTlyc1pSUm4zU2IzNmx4LUpEQ2ZSSFZKQ0QzVXJZcTJtTjhNN3ZOS2xraTdkTjRzaGVQbHpLQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KeyBanc to Host Investor Meetings Featuring CRUS in California | CRUS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFpCQTdoNVJ4ZHZROVp2Q3pfZlFqQy1MaUY2YmdQYnNNVjg3ekt2cmlxQW5sd0FmSklFRnBEWTZLeG9Xb3dEX0ZsRml5RU13UTVoS3RKM19Vc0dYMmd1dFNmdVFLNUl5NDBITnJwZWFNSFVIZ3NPSVROdy1yZVJnRzNCa1Y0NmswY2FCWEViZWYzRjZBNGJmSThSZE1PTDdWQlJscmhKSllrczdzbG9MTDc5MjZPNTI2TEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Cirrus Logic (CRUS) Stock Outpacing Its Computer and Technology Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbl9rOGcwREZNd1F5QmQydjUzVGx5OVBGbk5GMnFzZFRsVUhVMm1VMGkxOUktc3ZENFpTRHg4MVNJSWxyeWRJd0I2bVU5SExGSkRCZWFFd1pETEt2bmRLZDFyU1Zab2UtR1E5TWRuelVTdGpLZThxZUhQLUdfTEQxSTB4MXI4Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cirrus Logic (CRUS) Beats Q4 Earnings and Revenue Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVVpSmdYYl81NlQzcTVLZ0FJdEdYRmE5QnpIeER4OTJTOHdKUnJuZWN4V29kV0IxSmVnZm1xbGNtQi16UWhGWXVVLWNSRW5icmNxb1BGYjV4ZnF2b3hwTzVTSFVtdlhJZl95Q1pZZFB6V0NiZUc0bF9SaHNxVU9oenc0b2ZLUTF3VXhld3haWlBUSE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cirrus Logic: Fiscal Q4 Earnings Snapshot - MySA",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzd4UENGZWpHSFMwTEdOMExoNXpyandicHA4SlZNWXdSVDBUdFpLT1NrY05wcmdpbjI4Zk80c25INnJkTDUtYmZ0cHd5YnYzYmdieDFTSkpIU2VvZ3JUbUEzOFVEVGlLR2Vsb0lqQWNFNFRxaUhBS01iRlZmSFpxZUhmZmxjb25LaGZJUFIwdGZIOVk4RzM2RE51UUJhLTJB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cirrus Logic Inc. (CRUS) reports earnings - Quartz",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DNTYwTEdMeFBsWXg2VkM0MWpMV3J4LVl1Ni1RWjB4TzVNeXZrSmR4YVp0Wl9lRHJfRGhvVTdkUmJoaEE2RGlRWEdWbWRXNDZUTS1BWmUtbVAtRGNJXzJ3WlFTM19pcWV3YWVPV1ZKaEhFQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cirrus Logic Kindly Indicated Potential Timing For Major iPhone ASP Changes (NASDAQ:CRUS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVlHNEszNGxRU0lmeHBGX2FndnhONlNRQ2hub2hNcVZXUXQ1bS15YUZLUll1WjB0SDZEVTk1QzRobTNvY00tUWJlWjg2bkluRnFsZ25LOHltQWZrX1hFX1g5WDhCQTloN0VVOVFNNExJc1pzSjBYdzdwNmtWNmVjVHp0dFJhV0dIdUFELXFoZFExTVJycWpHblRvb3czazJDZ0wxMHdtUEoyVVczYXVUSDFFS0FVcnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Solid Earnings Reflect Cirrus Logic's (NASDAQ:CRUS) Strength As A Business - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVDItNHQ2cFp2TWJGeFBBNi1iQmRneEwyVWtYR3NyNVprQXdLcWU0V0ZENnQteE9LNTY3X2JLbGR3NXI0NVphbGh4VkhKWmdYZ1QtcFdtMVA2WE5HQzBuVXg1RndFQ2U0aFlQUFdKYjF3ZDRfLUt1eDBhVDllLTJvUXNCaTZtQU52LS1ESEpKXzdQZlROcGFFSjdqMzA0MkFLdDg1dFZ1SzFGb0RndmVselVvQkozM2QzYVEzYUI0ZFFXRVFqVnVIQTVzNjRPb0h2dkHSAdcBQVVfeXFMTkkyUzU4djVxVm9nbTZCUmlyS3hIc1Y2cVFsWUo5Qmhkb1NWdVptQ0RJQ0pWR0tiRjBrOVFBTGVrUE41ZTgxdWZFZEh1YjNCRmhKWDNzNFdZMmhLRTFFbU85ZVdZdEVieVdBOEo1WUYxVVhZNXlmRHF4U1hwMmU2cEdVTS1kV0hnaWtsSlczUXNLZmZqdTRIbFh3SDJCaHpEbTQ1QmNESEVpQlRNTGdtY1E0RnU3N19mVlMtTlBjWURRQ0ZwXzJsRnR3MEJWb1hEMTZjT01icFk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cirrus Logic (CRUS) Price Target Revised as Tariff Concerns Loom | CRUS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWg1b2lvU0JmdEFBejlpWUZEbGNxdnEzQ19DVFZWbUd6bnplbWNodklxSGFlcWdhR3U2NDFJX0NQNF9DbEVXQ18tc1pkQk5DUGd3M0VyUURqUkVuclpNMXJFQksya3JheVJBWV85VWtSb1gtOXlnV2NTM3BScWpac3hmYXlSYW9EOVE4TkhlTWxXWnlBTVlPMEc2dW1Qd0s5QTFGLWVjODkwSEZYQzRsU2tZUGVGNnZtRXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Where are the Opportunities in (CRUS) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYW14T1doOVFBVnNvLTVPX0ZaSkpIbXJiX0ZGQTRmNXVaNS0wRVo0cVNVWm5PZ1ctX0xCNS1DUnA2TVl5OEVWN2k4SjhHY05mcXdfeEcyUUxXWHZ5X29uVnVNdGpObUw5QVlSRVBDYzdqOVBTQ1RHanU1RWdZNHQ5TU9pU1A0S1AwNjltdERuSkg2Z1VvMzBENnJIWkdmT1o0M0VqSTItSUhHekZZV2lj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lacklustre Performance Is Driving Cirrus Logic, Inc.'s (NASDAQ:CRUS) 29% Price Drop - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTFYydWh2SHcwZGxMTUw0cG9yaFE3a1l2ZDI0TTZwRWZ1N2V3TzEwS093ODVQTGZKdzdNRFlySFhxQ2hGZ3h0b0otd2J0ZGhLOE5ScmdCQkk2OGFJSU80M2NRc0g3WDNvTzI1UnU0ZUJ2X0xYLXJxRnJrU2cySjhtNXZwZzNiV2JqUFIxQWRDMEVmTkYwaFphZHhzUXhjc0RNUmRpRW01U1ljcFhtLXlFQmJNZjZpeTh5THV6VU42TktRUXhYVFZTV09zck41MktSQnJN0gHYAUFVX3lxTFAxLXpvQXFycWJiR1RqaktZYnVubHhCUml3ZlA1dThUcXh5QUJKWHFGc2t1NHcwd3FYbW5TNDdkaGhPeG5oN0d2U2pJQUVaVmh2ZUpPbENaQVpmd2lmTHdweEVWeFd5TXlXalN4dDgzcGRTSEt2QnkzWkZETHRNNXFpVE1XZk12dFc3bDh2Vl9QSktjLU8xdE5Bcm44QmxabXlKNzhiQjJrMWE1RjlpdENpMDhid1lkMGNEM2hKbjVpRDhUQzJEMlRHY0F1YVZnZlA5eTZaQlpYdg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Cirrus Logic (CRUS) Reports Strong Annual Performance with Record Earnings | CRUS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3dxanNFNk5zamlZaThhdkVldGxKY1puMWpJdFdfN3dtbVk1ZUI1OVh3enZvZlZ4bnZ6ckd5b3pOcXpxUkE4QnpnM1lLUGVkODdId0J2c0VBUjVwVUtJa0JmWWl2VnlCR2VVWmdHNUhTWWR4eGRoam5kRFdRR0pMTW1NN3pjd2dCRjNYaVhsS2RYaGYyNUxiSjdvclpTSC1fVHdDdWpVWnJ6WGVHVTYwUXFtR24xTzYxb1lya0NIRHBpXy01LVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cirrus Logic Inc (CRUS) Q2 2025 Earnings Call Highlights: Record Revenue and Strategic Advancements - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02alh3STFQVjczdW1YMWlIQ1B3eDZKaEliZllBdmREOUJBWXZCTDFYdHRPaGZWOGRPNjJQZWFCamJPYmlXbjA4bTdmMWRGTFN1OW1xNHFKUWoxOFZVeXRKbEgyX1VlSE9IcXA1X1M3aDJ6em1pckhwaUd3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Cirrus Logic (CRUS) Price Target Increased by Barclays | CRUS St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjR3NV83TmQweGdMSmpHLUplcWJKTVBORlNYOEI3QndUd3V4ajFpeWFmcnBObXEwRW5WRk9TU1pib3BtNGE0bFFic2dzc0FIOFhRNllKcXl3VHF0bFAyNy1TVGVaZWV3Vm91VmNZUUdlSXJqVVY4UjdieTNnWEpXVm1fTHNyVVdMWDkyUHlzU0dfWVcxcDZ5QlpfRW1INTRneTNjQTFNczJDWU0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Barclays Raises Price Target for Cirrus Logic (CRUS) to $90 | CR - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHJIOGZDbjctYXZBYm4tNno1ZTZPcFZOYlh2Zzl0MmtyekdhTHVKSU5hdjJpWUtlR0lYU1RHQ3c0VzYzYjYwa1U3U2hNTTMxWU84WGhKQzdDXzZWX0tVdC1QZGpIXzN1UzVFVmdYbzRqZ0VHUWs1dWpyeGVWNE16Y2xNWDQ3UWk5Q0Qya2dKazNLRVZTNW5hb1RnQ3Y3Wnc5WVJHcWZxQlhPSVBZMXdhVQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 107.84
-      },
-      {
-        "date": "2024-12-03",
-        "price": 105.6
-      },
-      {
-        "date": "2024-12-04",
-        "price": 103.7
-      },
-      {
-        "date": "2024-12-05",
-        "price": 103.96
-      },
       {
         "date": "2024-12-06",
         "price": 104.44
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 97.85
+        "price": 97.74
+      },
+      {
+        "date": "2025-06-03",
+        "price": 100.04
+      },
+      {
+        "date": "2025-06-04",
+        "price": 101.01
+      },
+      {
+        "date": "2025-06-05",
+        "price": 100.05
       }
     ],
     "current_price_data": {
-      "price": 97.85,
-      "change": -0.51,
-      "percent_change": -0.52
+      "price": 100.05,
+      "change": -0.96,
+      "percent_change": -0.95
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sent\u00e9s sont tous consacr\u00e9s \u00e0 l'analyse fondamentale de Cirrus Logic (CRUS), une entreprise cot\u00e9e en bourse, sp\u00e9cialis\u00e9e dans la production de solutions audio en artificiel intelligence.\n\nLa principale tendance cl\u00e9 est le potentiel de Cirrus Logic (CRUS) \u00e0 outperformer ses pairs dans le secteur de l'informatique et des technologies en 2021, \u00e0 l'aide de sa production de solutions audio en artificiel intelligence. Les critiques d'analystes concernent son prix, qui est en d\u00e9clin depuis le d\u00e9but de l'ann\u00e9e, et le risque de son activit\u00e9 dans le secteur.",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

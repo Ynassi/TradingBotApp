@@ -2,55 +2,163 @@
   "ticker": "WDC",
   "name": "Western Digital",
   "sector": "Information Technology",
-  "market_cap": 18272485376.0,
+  "market_cap": 19270277120.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 17.936644,
-    "PB": 3.5307403,
-    "EV_Revenue": 5.238,
+    "PE": 18.916096,
+    "PB": 3.7235405,
+    "EV_Revenue": 5.358,
     "ROE": 0.13558,
     "ProfitMargin": 0.10548,
     "GrossMargin": 0.28561002,
-    "DividendYield": 0.78
+    "DividendYield": 0.73,
+    "DebtEquity": null,
+    "CurrentRatio": 1.56,
+    "QuickRatio": 0.954,
+    "FreeCashFlow": 1406375040,
+    "OperatingCashFlow": 1311000064,
+    "FCF_Margin": 0.0901233593525354,
+    "ROA": 0.055609997,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": 13.656196856280953
   },
   "technical_indicators": {
-    "RSI_14": 72.18552090327334,
-    "Momentum_10": 4.800955452288853,
-    "MACD": 2.7106769159306765,
-    "BB_Percent": 0.7979929278790656,
+    "RSI_14": 78.43893879184532,
+    "Momentum_10": 11.664528468894146,
+    "MACD": 2.908740742247396,
+    "BB_Percent": 0.9255036093555916,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8836620035238095,
+    "ValueScore": 0.8800291266860985,
     "QualityScore": 0.275564933802099,
-    "SignalScore": 0.4735354596348952
+    "SignalScore": 0.374370888391258
   },
-  "volatility": 0.0351038127350983,
+  "volatility": 0.0351637518131782,
   "beta": 1.543,
-  "return_6m": -0.0563513191968541,
+  "return_6m": 0.0152831074686554,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 21,
-    "target_mean_price": 57.57429
+    "target_mean_price": 57.86
   },
+  "news_sentiment": {
+    "summary": "Western Digital Corporation (WDC) a récemment été au centre de plusieurs événements marquants. D'une part, l'entreprise a autorisé un nouveau programme de rachat d'actions de 2 milliards de dollars, signalant sa confiance en sa propre valeur. D'autre part, les analystes ont réagi positivement en augmentant le prix cible de l'action à 62 dollars, soulignant le potentiel de croissance de la société. Malgré ces signaux positifs, la vente massive de 17 millions d'actions Sandisk par Western Digital et la baisse récente du cours de l'action dans un marché en hausse pourraient susciter des interrogations chez les investisseurs.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Western Digital Co. (NASDAQ:WDC) Stock Position Raised by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVFEtcnktWkYtRnhnMzg3bWtpb25hcEFKTEIxcEtMQ2RSUWlOMC1NcEpZLXFBVGRZV1MtaDZOcDhadk4zQjlGVTVraWxvcUQ2S29rdm1WU0J0MEtFWEVQRERvTmhHbkcwYmM0TERzZDluZmxXOGVleUZyVjVaZ3ducGxrakVQQ0dwWFRNVWdZbXlLeDl6dUdEMkFmdjRGT3lEampzLU0zU1FOWWNmeTRnb3c3M0ZZUEMyS2p1YkEtbGFncjVhUV9ycmxWZFB3cUU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Citi Raises Western Digital Price (WDC) Target to $62, Reiterates Buy Rating - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3Q1TUtTRXMyV2c1MTQwMHAxeHNEc1Y5Ry1kUm1IRDYwUGMwWnJ4eEhFeWtEM3I1VEl3NXUtZmRSX0JVblZyQzZSSDliQWVvRTduUWxTT0QxN0txYVl5M0hUdHFGMnRUX2lGdm9XU09aVnU3RjlDWkFvVEs1RUtfWm5maEZKN0N5Slo0MjR5NnhiUGx6dnRYRzFLQm1WYVVxRHlzZXZNWUhGRmFXYXR5UzJ4bkxHOF93U2hRbldvSElpdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Western Digital Authorizes New $2.0 Billion Share Repurchase Program - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm5KcGZXSllreEQ4SWVXOXh6ZXF3TF9Gb0JjRkVVaVRob2V0MU9PeGJPQkhVVHJ6ejZyZkQ3dEd2N2YwaXZtMVg4dHB1SW5RWHFtaE5oM0VxTWMyZ0Z4UTVUTG5NeHFxYlEyRC1QNlAzelZmQmZ2S3F4Z3NsOW5BaXdDdDAyNjlvdlVPWjJwUE92MGlIcWl0UmxnVnlKUWd4MnI5S1RJS0R4TDB0eFZKV3Y5LWg5SHlRa2FROWE0MWtOTnZYS2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What’s Behind the Jump in Western Digital’s Stock Price? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRW1sSW5vLXJVN2ZDQlgwWkRFOVpwS0NnZGMzVFVWYzk4WEtGeVEzTm5ySWFnVWhXTWVRaDFwbFBPc05iSU9aVUd1NDRucWp3N2d2dFdVRHdmcXUyVjhCZGF4cG1EcEhRa1JQa1RNSVRfTVcxLXN5dzY3M09EQVVCaVdfTW4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors Heavily Search Western Digital Corporation (WDC): Here is What You Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaVI1WTFmaU9vbWNsem43MEFvSEFQankxQmltTDFSOTFRUFdSMEJ2RThNSE50NEJJSXFYdTBtdjljTVkteGJZRkZrZ3NWeE5pSmtWcGxjOFFzdS00VG5UV2lsQ0NlVmFIYjV5X3FjTE44WkkzM2k5dHU0VkNGWno5YXppeS15R0pvcG9Yb29wYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Digital (WDC) PT Raised by Citigroup, Maintains Buy Rating | WDC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFVHcG1lUWpTRVlza09Bb3UybVJwekx2UWl1TjcwZTVDcG1BZFIwSkoxeVJmcDdLaFgtc0ZWYUVmc1NURGU1UzRGQUR4S2lXb19Zb1V2NFltRzJRZGdrRTJQV2pINGFmUEhMZFh3a1p4eGtheEdabEg5R3BIdkRhaGpSVzVSc2xxbWxRdTZVU0JrNEh2SFJmYm5xWk5SVGVjNjVKNmozZ1Y1akpDbG9OTWNBSmtuLU5v?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "WDC Stock Analysis: Is Western Digital Corp a good stock? - Markets.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWXhXVXFQeGpaQm1scXFpLV9WWjBkVGVtTG90TVJITFRELXZBZHdQR2p3SFgtd3VucGR3enBQWk80NkxPX0c4WElaOTdoVTUwMTJZREhZdHJybHB2X0dnVHJmZWZoVHlvYzcwQWdOX3FjdWVmdkFqdmpCaEZyeFhxME9hXzl2SDlyTGtNQ3JUdHBfdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Digital Cuts Sandisk Stake: Massive 17M Share Secondary Offering Hits Market - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1ZnTHNOMTVoV0cyTEJ4SVdXU3NrNDRUcUJNMlN0eFJNUDhpOEtTM1NwTDlqNE14b2RQbU5pUEl5aU1WZDBtWWlCeDdsMXl2SC1XcnBLemVXdmItMVFfOFU3R3Fwb1k1Zk5MTU13MXc4ekRzSTJnNUN2ZVRTTkVKTzlFU0ZkQ1p3QTJCY3ZfbWZDSm9CdFhlZWFLcDFBV1d1MmlJUndnZ0FtbVAzS3pGNw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What’s Fueling Western Digital’s 40% Rally? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVTNNNWZUbjVDUjBVNFF2WXFDdEplcVFZeUQ5WjQ1TTdnS3NwQlJRREstMkZ4Zkd3NGx3a3V5cUhUaC1DcXBKV09Xc3FNaG1PZjFVNzZ1eGlZdk0xV1F0MWpLc1ZhYlZWR0QtQjhpcDBWSmlkNGlZVXloTkRjckdhOGJDOEpvM2h3R0xUYm1HTDFCdnRqcDFBZHRacVdQYm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Acquires New Shares in Western Digital Co. (NASDAQ:WDC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT3E3bW1lal9heE5pemRYeF9VTDBKSFZ3OHk3SHNmSUY3N05lSWtZZWJjR21vTjNONzVHOFVleDIyN1k5VV93eDlZQ2VhWnhtYTROQk0xdmNENUxmSzN5NEVPeTV0Y0YzclpJbzF6bkNaZEJFTHplM2l1ZXVBa2xMVVVoem1MaDd2Qk1rcVJmaE9VSzZOS1ZUdkNFTXFEQzZsVHotVHR2U0tkZVRHV0tuMGp1by10V2VNMkZDZEkxLVI0N2NEdVlPeFJYV2p1ckpyUjhORGxxY2ZLWndDUkFjdHBLcmdvSnVWaWx6LXVGSTRMUU9aWDhXM3VPRVBNZHczenpaR0lQOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Digital's Game-Changing AI Storage Solution: New Foxconn Partnership Transforms Data Center Performance - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEp2aGxaSHFtVC1mdnNrellSZXFPZHgxVG9xZktlT1Y2dFZDU1NBMHBVbDkzZlFIWGt1NXZUSDhoeDhyZjRJTm1ITDl0WFZKS29kVXg1SXpsVE5QUHFrOU5mazhQbFBUUVdyY0swZ0k3UUxVOTRNS01QSmQ1d2huNHNraW5WSzlsLXU1a3BkV3IwVXljajJvLWFHME1VWEtCR3VValFkOGVLMW1HNWViRVE5c2NHVzZDNEJV?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Western Digital (NASDAQ:WDC) Exceeds Q1 Expectations, Stock Soars - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOFEtZTJvNXJpaUxyS3dzblJOU2VlWFY5aEVJaVV2LTZkUHdYN0FoX1l4TUtSVnhHZUJQdHZhQTBUbmw2SUsxeTZsTHI2bEp5YTBsLXY0ZzM2X0lFTHVqdld2YkJWWmxrNjc1SjNqTU1MOG5kVDRxcXJwcnRaOWdOMy0zY2dRT28?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Western Digital (NASDAQ:WDC) Price Target Raised to $62.00 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDhvWEtEdU1vT01JWU02ckJGTU5TY1BJZ3NWR1lvNTdYWERKendqcXQ0ZzRuS1ZOWkZtVHd6VXAtMjBka1VtQjlncG9kQ3JGcVVyN1IybDFCRDY1c0t5NWhpT2Vqc2dlV1czLXVscXAxTDJJMXl5UlBtTl9wQ3FVY1p3b3lCb2R3eXNHVjYxTkVRRVRBZXc0R1g1bGh0dkd4SWhBSjlNRVIxNms?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is It Worth Investing in Western Digital (WDC) Based on Wall Street's Bullish Views? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDItRFRVQlJzRjhaTHh0VEJqN0xKMndZakpGU0NCbXJQTm5SaUJxbGlkYnQ3T29vQ1BPYzhlZmpTOXNFOG5LTFU2c0NGcEczXzM1anFWcjVzWGN1LTJQZ0tKcV8tS1JHLUNOaWI0dzNBcnowbTZKUWhoNk1HZU5kNlJRWk90U25t?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kera Capital Partners Inc. Invests $237,000 in Western Digital Co. (NASDAQ:WDC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTVB1Y2pGMTM1dGdLdTY4UzhJbk1hRnFKZUxEaVVMcTIzZXpReHJ6RWQ3SjRTZXgxeDlHZGdHWkNiU01ib0tVS0tVUU1kaDdGNTNVVmh4Z08xMnpCdnRkMEJrTWxueHBXNi1mYlNzUldmcWhEYWQ2Zi1aSDJ3RTVRUzdiM1Z5NWVidWZ4bWxJemxCWjd1aUJDbno5SzRsRDZrUU00RzhTbFh2dTIzTGtUSEd1UVpocFRpYVRDVlFacTRzMnJRRW1ib2paQlBKUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Digital Corporation (WDC): Among Billionaire Paul Singer’s Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRXVDZWVxN0xpWFBWLUI5ZVNlNDN2NEN3ai1IRU1SZEx3RERVQU9pYVBUUl83N3V2c3pXRXVGR3dibFEzeERVWkl6R09RZjhoRVNaN29Xa3hWZThfYUxBVnNOay1ocE1hNnFlTDBJTjY5Z0wzRmZ0UXFjdzhTSC1tM2dkeV9vR1VDaXdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Western Digital (WDC) Up 19.6% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wLWJvNzJKMk1pUVFqU0Q2YUNKVEtxQnZyeG5sSUxlTDhwcTdOMDRqUTBMWFJOdTJYYnVmM1ZxbjZacjdRQXhIUVZoU29kRmJvQUtrbDZpSEp1c056QlNSNzJvVU5FWXQweUY4QXhHTzEyZ0YtZDNLdzkwaUs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Western Digital Approves $2B Share Buyback to Boost Stockholder Value - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT21PTUtoOUZhSDlqc2ZkN2JNbkVKRk5YQ01idHl2d05Ec3BkRFRpR1dqNndRakdFMFRMckYzbHRQcVpuNDdzYWs1aXFmWXJYUnBiVVdrU2VFZTVpQmY0a3FvUmpsLVFVbUktY2FZY3Z4WmVhRG9nY0M3aUIxbG90TG1mVWF3QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Western Digital (WDC) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXdnYk9OdDNNd3RyaTdKclFPVGR4ZVBDaExTWVREcS1jaElJYndPY25makZUMkdhWUZRcjhjS3hodE1TclRkQjJhNEcwLUpSMlBlTEJkZDFQQ2FaQlpxQWxweG1wN3B6dW1KYklfNlZWTURNNEpxX0ZDcTV5SFFZaHZPWQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Western Digital Corp. (WDC) The Best Upside Stock To Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX19vOEptckViUXdpNmk2RmRlemxZdF9qWU5GVmtwdVliZTR6eVhfQmZVR0pGQ0lHcFM4dnpHTlRCeEFUNVlacnJsakF3c1RFXy1xaUthSUFLZ2pmeVZSbWNBSE92anpEUDR2MDgtalc0YzU4cS0ya2VOOXphMTlTMw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 55.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 54.19
-      },
-      {
-        "date": "2024-12-04",
-        "price": 54.68
-      },
-      {
-        "date": "2024-12-05",
-        "price": 54.5
-      },
       {
         "date": "2024-12-06",
         "price": 53.72
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 52.23
+        "price": 52.19
+      },
+      {
+        "date": "2025-06-03",
+        "price": 53.77
+      },
+      {
+        "date": "2025-06-04",
+        "price": 54.43
+      },
+      {
+        "date": "2025-06-05",
+        "price": 55.05
       }
     ],
     "current_price_data": {
-      "price": 52.23,
-      "change": 0.68,
-      "percent_change": 1.32
+      "price": 55.05,
+      "change": 0.62,
+      "percent_change": 1.14
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sentent une s\u00e9rie d\u2019articles \u00e9conomiques r\u00e9cents concernant Western Digital Corporation (WDC). Les principales tendances cl\u00e9s sont :\n\n1. Investisseur francophone : Les articles sont \u00e9crits en anglais, ce qui pourrait poser des difficult\u00e9s pour les investisseurs francophones.\n2. Rewards : Western Digital Corporation a annonc\u00e9 un programme de rachat de parts pour 2 milliards de dollars et a \u00e9galement lanc\u00e9 un nouveau programme de dividendes.\n3. Profit : Western Digital Corporation a rapport\u00e9 un b\u00e9n\u00e9fit fort en Q3 et a r\u00e9compens\u00e9 ses actionnaires avec un nouveau programme de dividendes.\n4",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

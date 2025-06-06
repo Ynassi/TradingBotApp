@@ -2,55 +2,163 @@
   "ticker": "INTU",
   "name": "Intuit",
   "sector": "Information Technology",
-  "market_cap": 212388855808.0,
+  "market_cap": 213963505664.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 62.002853,
-    "PB": 10.55836,
-    "EV_Revenue": 5.238,
+    "PE": 62.513443,
+    "PB": 10.63664,
+    "EV_Revenue": 5.358,
     "ROE": 0.17839001,
     "ProfitMargin": 0.19072,
     "GrossMargin": 0.80263,
-    "DividendYield": 0.55
+    "DividendYield": 0.54,
+    "DebtEquity": null,
+    "CurrentRatio": 1.447,
+    "QuickRatio": 0.715,
+    "FreeCashFlow": 5197749760,
+    "OperatingCashFlow": 6242999808,
+    "FCF_Margin": 0.2858419438160512,
+    "ROA": 0.08565,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": 41.14317550831843
   },
   "technical_indicators": {
-    "RSI_14": 80.3675723737118,
-    "Momentum_10": 13.725606609003131,
-    "MACD": 36.32317680284643,
-    "BB_Percent": 0.9328549189492316,
+    "RSI_14": 80.33377056612107,
+    "Momentum_10": 16.0679182829143,
+    "MACD": 38.01416042380151,
+    "BB_Percent": 0.8248293443051297,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8737320407720406,
+    "ValueScore": 0.8703460488671271,
     "QualityScore": 0.3800509194186744,
-    "SignalScore": 0.3665284215475958
+    "SignalScore": 0.3276386842455102
   },
-  "volatility": 0.0236149893092286,
+  "volatility": 0.0234821891561869,
   "beta": 1.283,
-  "return_6m": 0.2049047725340311,
+  "return_6m": 0.1864625153828616,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 31,
     "target_mean_price": 783.5474
   },
+  "news_sentiment": {
+    "summary": "Intuit Inc. (INTU) a récemment attiré l'attention des investisseurs avec une série de transactions d'initiés, dont des ventes significatives de parts par plusieurs cadres de haut niveau. Malgré ces ventes, l'action a connu une forte croissance, soutenue par un partenariat avec Google AI et des perspectives de croissance solides. Cependant, la question demeure quant à savoir si ces signaux contradictoires pourraient affecter le sentiment de marché à l'approche des prochains résultats.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.95,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Marianna Tessel Sells 34,329 Shares of Intuit Inc. (NASDAQ:INTU) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT1gyQ2V6M1lmbndQcjFVMnhvUE5sWE9FSWdHRkxhNzdGd3cyZXA5SDZ5d3ZuMFlSQ3A3dTcwU1NDVWhDMEFMbUIyV09ndzZveFZUcG8xVmJyWmVqdjN6Y2VfZ1c4aEVSVVNpNWJDWEZ0THN4d2lxOGtVclF6SU15aW9PRTl3U0UwbTlvYzVHaGs5Y0VrNTNsallHSzhvM3lqbGRiYlVueWRLNkNvOWlFZFVSd3cxZkEtRkRv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intuit Gains 22% in a Month: Here's Why the Stock Is Still a Must Buy - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmtqdThxMzlDWFQ3UVN5ejBObkdac0hFQkFWdjVUbXJnRGgtR2xMN0EtcGRBMkkzWWc5NVlHZjduYWY0UXhGT0JKdFljeUlZaERKQzBSZ01rTklpMDJaS05mZEFuLS1VSnNvbXE4bE5saFFCSUdScldLSDZyeEdhRDFuc3hyUzBUY3ZPb2ZaNXluUnFlbjZGOFd3Njlia1N6dXcwX0tybFhUdFVsTVVlSi13dl82Z1Q0c0JqdDhBcmE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intuit CEO Goodarzi to Share Future Vision at Major Nasdaq-Jefferies London Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUExZllYZTMzLXYyXzlBUmRGd1Q3dGRhRXJQM0dOLU5KVUhGVXI5bjFfX3NyR0VnOGJBWUZ6ZDNLMk5xTWE0SVZlYW9lZmhoaHEwTGozUGFlZ3J3TjA1eDRJM0xBSEVJNGlOMlFqTmowUlVmQVZOOGNTZmx5VlJjbUU2WEZoOUNLUUd2WlFDQTlFNmFNVGNJUDkxYXNwckNPQ3AxQ2Fsa25fNl9OY192TVZwVmU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Intuit (INTU) Stock Outpacing Its Computer and Technology Peers This Year? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnZWczFfV2k2QW5LUWZJVndsbG8wTjBwVDlQcVVpLVl0NDlEVV94MXJxU2tOOXVlckszcE9fcVQ2MGNNVXZzakhKbG9USHhDdzhzcDFWNmJONVIwUGFpcXIzcXJZZVQ2NHQ4d184aVQ1cGR3Nkplb1hkQWdNMGZTaHRVT1VfcHEyYWpvMTR2ZDNMaW15OUctYXBoY1hFVkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Buy Or Sell INTU Stock Ahead Of Its Upcoming Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelVvMExTY0ZVeWk1cXVsRHF3U0JDWUU0RE93TUlRZ1loY2lUeDhQZVJkeW02OFItLVFmbFNncG1xbWE0c2ZzYndPOTRVUjg1M1VsSmo5Z2FTLXN1SlFRTElObktFSXB6bGpSVTg3TzBMekI4ODlibzZ5dHRGMEJrbFpMVTdFSVUxbmptSFBjU1VuQVVCV3c2SUNkMm1Ra1o0UmhWeTljWHFzVWI5OUtZRGhR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bull of the Day: Intuit Inc. (INTU) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hOGpUSnlUSzRqU0tfT0NsWTcyM1pjbC1wbmRkZlR3UzFiUWRCcGs0RkVqY1MtRkRDZ2ZydVBHN3FVQUM2X1o0WTZ5V3c4UXNETDVkMFRpbkFFaExDRXl6NFpiTnh3MGkyVHYwRTJ0SUJOXy1hNm9oX0dB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TurboTax Maker Soars Past Buy Point On Google AI Partnership, Strong Growth Outlook - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KNTc3cUo3YndnSkQyVHZPWWZHSzB2d1BORGplNUlVS1ctSWZzb2gwNGxPeWswdFFJOVZUNlpJM0lJXy1FcVc5M1VCeWtYN2d0SC1zYjFTc09mNmtHVEs2Y056RGs4Z2RiVjFieFdIVWpMNndQYjd4Qw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intuit Inc (INTU) Insider Sell: Alex Balazs Sells 1,459 Shares - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYTlzUzF1OHl0bHIzQjVvdlNuZWoycU1oVjUwUENIX285bE5wWjFtcXU2VjN5eFMxV0lfN3ZTcGRadmJ1Ungzb2lhci1jaTcySTRiOFNiaUVVME5JbzlRR0F5YWR5WS15cmI3N1lmdjZINzdxUHdVLU5UMDZkQXVSal90a3htMFpGWklMWWZKeTBRSVpjeEoyeXdwejVtdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intuit Inc. (NASDAQ:INTU) EVP Sells $1,124,597.20 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLU01NHYyYjJhZ3cxVXZoc25NWnZ3TmlkS0tOc1p3Z3ctb2YxUVdmUkhERVVMVDFoQ29nSzhSYURkTlhyVEFnc2VWVzdLcWQ4TG5ZcjFJMjh1aGlwQ1UzX01YTURsTmhkVkdCZXZTNTZxOS1MVG9EZjkzWWZhOVhqWHpzLUFoMHNyeDBOVXhUNkp5TzFOSkpkdHdReWszNHlGMk9lRVpyYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intuit Inc. (NASDAQ:INTU) Shares Sold by Patten & Patten Inc. TN - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0x2SV9rekQ0TUdHZ3hCaUh4WE0zSlo5aHBBRlpDMldPMC1WZjJuUnljYXpvWTdMcU14TDhyeDlsN0RZakVYUkNPZmdJLTdGWmlTWHNiS0hJempQZ2VkN2xTRDBVcW03Zzd6R2FHXzFlcjNhSXQwak8yMVBReHVJbnBlRl9lOTc1YnJYcy1YREV2Q2NLcURERm4weG5mbWlRQ2JQUUJob05QQkVIOGRvXzRjVkdMZ3hLTUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intuit Inc. (NASDAQ:INTU) Shares Purchased by Chatham Capital Group Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdzFXeHl2NGliNEZaU3ViSGpudVVuU0ZSaUhzWFhFSTJfNFlya3hCVmlQUTJ1MWYtc3RvVFc4N0k3bHp5UTBURHhibFlEZGQtWGVvRk93enpUcUpqVW1tMmRDUldkc2FkR1NSOVRCcGxBeEd6YU5DX3V4T3R3S05Bcm9tYmFsMDRfQ1NmQUwxZjRjMzBpWW1BMUYxR2dXUDlJaHRCWXVVQXpMeG5tMExTLTd3ZnQtUHZ1NkxHcU84VTRNU2tzejdZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Summit Global Investments Sells 1,779 Shares of Intuit Inc. (NASDAQ:INTU) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHN6d0NtbFo5QURhZmFmc2RVVk9KNmdxdGhQNVQ2X2tkWUNRbS13VXhZZ1FOSmZ3dEwwc01MelFacWpnUjB2WGxiSU9KakhpZGZ4QXlWbWlIUTlsazBWMUNoTE9fYl95MDk0aEdOSEtxZWt1Ui1wQlo0MmRkZlA4OTBiM0dVUi0zME5paWRSWU43ZGRGMk5PUUlZOVQ5SlUyTm83bkU0blZmMnVyeXRROUQzQUlxZk5Pd1RHN0VDY1o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Sells 8,545 Shares of Intuit Inc. (NASDAQ:INTU) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVE1jOFpzQzJCWFloQjlyWWhFa2JiYmlSVGhyNDdXQzVHUlFOQVVPNHJhRW9KYmhPb0c4ZVV2UUNqaWdNQk9XTDJEVmkwb1ZpU2pqTHk2WEJoZmVCQkU1cEZBLURDejlMWl81MEhaQXZyMkhnNm9velU3STBxaXFpQTYzOHcxZ21xRVpaVVhkNFdud2ljaWlWWlZWb2dOM0EwYmhyZkh3aXNaVUhRVXE1VzBNc1ZNcTlFOHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Has $39.48 Million Stock Holdings in Intuit Inc. (NASDAQ:INTU) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZWZsaEZxQ2d3MThMSzl5aFQtV1AteUlPWmtZX3pvVDZFdHRrQU1fM2xacWFocWRsanFnN2dRZlRxTmpEanhtcWd6ZzZjU0V6c0Q5TTJNdUlVR2xxR3NXS21Bd2s4U05DNmE4T21kT2gtdGhwaDlGcFdzY09HcEdfRktwSmFzd2hWOUowcmNaQ3hyS05PMDRRYmxfMk43TXRJbkdZZTJ6TWdVSEJneEkxNC16TllLWG8tQklWNGoyT2JiSHFFU0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Channel Wealth LLC Buys Shares of 380 Intuit Inc. (NASDAQ:INTU) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2ZsNGk1UUt5b3FuUDhpU29LWk9NQTg4dXNlZnNCbk10TWQzMkNuT0hLSVg5dFZra1dCZFBaYWdmVnpCU1ZQM0xSM2VHNEdscFRoc3VYbUExZEZSUERrSk53ZTBPLS04aWR2eTVzSENNdi1NNWlHVzU4NEZOblU4Y2tzMGdFcXE3TWl2U0tOaVZhLVpvZlNkWUt3WENUb2NwaFpza3ZxbGhNYTJlNFoyVTFqUFBCc1EtVERjLQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Has $3.42 Million Stock Holdings in Intuit Inc. (NASDAQ:INTU) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFItYks5WWZNaGlhNVFOU2xXa2lDS0lNWmtlak5rd2h3b1RfMG1Pc2hyeVRBQ0pEeEt6ZmxxdnJhdVo2b0pfX2c4R3hJT3NRZ0tqa3N6a0lCMUUteXJMR0xEWVc2NFo1WHNUVHZHb2ZpajlycFlrVnM4aUcydXJremlEVEY0eVBjSUNiWVRGWG5YeFpWMTBvelVvZ3V6OGFPZFBXU29mbzFrSGp6cHo4bU9xdXhubmwtUXpBVzYydkNYd2lya19JUDBjM0FxQzdBTElNRDhoeGxsUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Laura A. Fennell Sells 25,648 Shares of Intuit Inc. (NASDAQ:INTU) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHdxa1dXMHMxaUFsd2M3bGdYMnVaMjNxVDl6WU94dm1QTGtuUWVfeDJfeWhQNF9HZW5ONGNOSmVuaWVsaWo4d1ltVkpybDBEd1VSd2tZU2ZDWlVROExhRWhCTDBYNkctaWg0bUdmaExRRzdMR0VJSmlqWi1JSG4wTEtoQkxoQlNCeHdCV3hhRDJsUmFlTEk0V1dxZmttX2xmbDJYMHVnRFFqMnd5VXczMXp0c2ZwWmVVTGdj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sandeep Aujla Sells 16,061 Shares of Intuit Inc. (NASDAQ:INTU) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd1h0cldWbEdsWi1YblNUWDVMN3k1SFZZdGVJQnFZTmRveUhXNWYxZGsyWDlOV0dTeGFYc19pZGgzWXpVNVNIajZMbFhWOGkxM041RE9lSExLRmdvWDVvcngyWGp0RFFEU0k3LUczcHFCQmVJOEJvaW1KaU5zOGs4a25yZWV5UWpmSXFHcW9ST1lOYlhfclRzRU9hWFJzQ3o0SkFPa3RqODJsaEJZRXJzY3BuWVFaWGtydFUzODRORC0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Talbot Financial LLC Reduces Stock Holdings in Intuit Inc. (NASDAQ:INTU) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0RNV240QUEtNjMyYUJXUHVSbEo0VFVQZ0NWMnE2TEQ4MmpjVkozT3lwWDliaEt0Z0hsR016c0p6SzZhaUpPZjQ2b3lMNUo0ODhENk1Cc1ctYWRyYy1xTi00RnpDaUQzdWRudkRyQWxISmh2NXlmbmFCNlVMZmpjc2JvR3VfdVl4WDcxR2hNRkJpUUtKWmRRQjdoUXE2Yk8xd0JNdkppd2R0Z1ZKWnNqSjhBRFNwM3JfaHc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kerry J. Mclean Sells 16,700 Shares of Intuit Inc. (NASDAQ:INTU) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlYzYXlyTWh2U2IydlQxQWVLTXVvSll0UlBUSVJFd29JUmFQUHRvWmN3TnRKeGdObFF6R2xXRk5CTnFTQ0FYYnVROXdFdUlCeDBLYVVUNGVudnRBdXAtR3ljYVVrOHBvc1hyblhTdlRqQ3ZBNmhYZEhzVjY1X0RLaEx6U1hDSkFuaWVYWU9QZFJVbURHLWQydF9NdjA2bWx6dUgtaVJmVmk?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 634.07
-      },
-      {
-        "date": "2024-12-03",
-        "price": 636.02
-      },
-      {
-        "date": "2024-12-04",
-        "price": 654.64
-      },
-      {
-        "date": "2024-12-05",
-        "price": 648.7
-      },
       {
         "date": "2024-12-06",
         "price": 646.47
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 762.93
+        "price": 764.99
+      },
+      {
+        "date": "2025-06-03",
+        "price": 764.66
+      },
+      {
+        "date": "2025-06-04",
+        "price": 766.81
+      },
+      {
+        "date": "2025-06-05",
+        "price": 766.64
       }
     ],
     "current_price_data": {
-      "price": 762.93,
-      "change": 9.46,
-      "percent_change": 1.26
+      "price": 766.64,
+      "change": -0.17,
+      "percent_change": -0.02
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sent\u00e9s font r\u00e9f\u00e9rence \u00e0 Intuit Inc. (INTU), une entreprise cot\u00e9e sur le Nasdaq. Les analystes ont soulign\u00e9 plusieurs facteurs positifs, notamment la croissance forte de l'entreprise, ses partenariats strat\u00e9giques, ainsi que le fait qu'elle outperforme le Nasdaq. Toutefois, certains ont \u00e9galement mentionn\u00e9 des signaux n\u00e9gatifs tels que la vente de shares par des investisseurs importants. Il est donc important pour les investisseurs francophones de suivre attentivement les d\u00e9veloppements de l'entreprise et de prendre en compte les facteurs positifs et n\u00e9gatifs pour prendre une",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "SR",
-  "name": "Spire Inc.",
+  "name": NaN,
   "sector": "Utilities",
-  "market_cap": 4392037376.0,
+  "market_cap": 4343053312.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 19.033247,
-    "PB": 1.3444376,
-    "EV_Revenue": 3.882,
+    "PE": 18.82097,
+    "PB": 1.3294431,
+    "EV_Revenue": 3.834,
     "ROE": 0.07308,
     "ProfitMargin": 0.103819996,
     "GrossMargin": 0.41193,
-    "DividendYield": 4.17
+    "DividendYield": 4.28,
+    "DebtEquity": 135.549,
+    "CurrentRatio": 0.43,
+    "QuickRatio": 0.276,
+    "FreeCashFlow": -198512496,
+    "OperatingCashFlow": 806800000,
+    "FCF_Margin": -0.08174957516946571,
+    "ROA": 0.0294,
+    "PEG": null,
+    "EV_EBITDA": 11.531,
+    "BuybackYield": null,
+    "PriceToFCF": -21.880958305012697
   },
   "technical_indicators": {
-    "RSI_14": 48.322661817268354,
-    "Momentum_10": 1.5141190114818697,
-    "MACD": -0.2935942753481697,
-    "BB_Percent": 0.5301449386273974,
+    "RSI_14": 45.22624005320238,
+    "Momentum_10": -0.8755408736294144,
+    "MACD": -0.3336425108294492,
+    "BB_Percent": 0.4316527583123998,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9323587418393552,
+    "ValueScore": 0.930120373098024,
     "QualityScore": 0.4384576048228727,
-    "SignalScore": 0.4809178172865714
+    "SignalScore": 0.5919215986535755
   },
-  "volatility": 0.0138013283074897,
+  "volatility": 0.0139470456685178,
   "beta": 0.658,
-  "return_6m": 0.0499595166627522,
+  "return_6m": 0.0678841760062547,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 10,
-    "target_mean_price": 78.2
+    "analyst_count": 9,
+    "target_mean_price": 78.88889
   },
+  "news_sentiment": {
+    "summary": "Spire Inc. (SR), une entreprise d'énergie, a récemment subi des ajustements de prix cibles de la part de JP Morgan et Morgan Stanley, avec des perspectives contrastées sur sa croissance et sa valeur à long terme. Malgré une série de dividendes étendue sur 79 ans, le titre a connu une baisse de 2% depuis son dernier rapport trimestriel. Cependant, les investisseurs bénéficient de gains provenant d'investissements stratégiques et de l'expansion de la clientèle. Le marché semble réagir à ces nouvelles avec prudence, soulignant des dynamiques mixtes pour les investisseurs potentiels.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Obituary information for Stockton \"Stock\" Tyler Watson, Sr. - altmeyerfuneralandcremation.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWZ1Q05mVmx4M3dURWpSR1VKRURidWU2S0k2Mzdqb01sYXBOZG9SY2ZYZjczbVh1dGtYdENrZ2tYekxxWVJYaW93ZHNQX0l3bGF5V054dS1LcW8tbDlmTlhTZnV5OTJZQkVDZ2liOHktZFp4Zk9XUEFYdDBvYThJVUpiQzhxMHJJQ1FYcElXbWM1RXVka2hYRnhyclVQOGlB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Spire (SR) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WQnFEUlc4V1ZEWHQwTXdwaFkzM3lXNDF0dmhmSFBBUEpTNTlhSXR4ZjUyU2R1STloVVEzdC0wNFY4NjFoSFctV1J4QXRKV2gwY0tPRUtQN1VadnA0SVhNYUNfenN2bTg5cnVwR0o3RlRKM3prY0lub2ZyRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Spire (SR) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZbFhBQ1FydGkxVHo2ME1lT01YWEgyZ2s1enc1X0w0bmphdHBzTDBOdVZ1dUFsaU15Tm1Ga0F3c09Sa2FFdUFfX0x6aGhxZzlndWw1TWFRNTJERmFSVUxXaE5wUG5URDhSbWlzc2VVblNSN2xLdEtva1BlUm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Spire Extends 79-Year Dividend Streak: Here's the New Quarterly Payout for Income Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Fd0JEVlpmcUZlbmRCWkNHWmk1UVRiUzgyUUhKQlViZnN0RTBDZjZnV1oxSk55WEFFWWRJd0NxZ2ExaHZaTjhMMy11U2xtRU9oTGNEM1kxS3VUbUhYbGwzQ0NQRzMxcjMyX0FGSHBUMzFNNUl3eWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Spire (SR) Price Target Revised by JP Morgan | SR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFFXUVhIam9RN214U3ZwVl9Ld2kwdGR6c0QxVlpSSzhSV2xmcHNnTkVkdkpGbm1wZnI1Q1gyTHU4cVM3TGFNUVRHZTlCV3EtTGloTUhLVlJjaGhKc01wdFZfeVA0TzRWREJ0a2UyRThTbEJOSUFCNVc5TTVkbkY1RkpjYVNLWTRHVy1tYkdnYkJqQU9YN3JyUktzSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When (SR) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjlzczNwZkUzd1h0dF84ek1ONGV0TkhIUnhCZlRzTVUweWhvREQyanVsc3JYbHRqUFNGS19QRGRnMUd1UVRIUTY4dUtJZGVRSzVNOTNkU0dCaWFOcFNNVXVrNEZZRUFGdkpBVTNlNmpFSTdOXzc5VjExcGRPQzFUcUpqVzFuWWIxdnJhWFNqdE5wX3RIVlBZRzNKck1GRXhoemlUM3BIYkFTQnFlSTRxQXNB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SR Bancorp Is Likely To Cool Off This Summer - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVi1vOWppVkZDV19QekI3UENrRUpGV3ZVTkgxZ0swekVRLUJmeHE2MEJseEoxQ3BYZ0l4RFhWZXljMTd2ZFpfanlfMU9qM1Y4N3VQQTc3VnNuUk5CdFNKRDd5SHVPa2RGNzEtQ1FyZE1PSGlSZ29rMkNCeE1oUmFDVkxLWTdYRTJkbV82SVhsVXozSHppbEE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "$100 million New Jersey deli fraudsters father and son sentenced to prison - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN195NXpvOG90cGJBci0xanA4VGV2VTRxNTRkMjI4elpIMXRrb3J5Z29VbE5uempfMUxjWFhuM1MwUVZEMHhWUjZydTVEcTF4UVp6MlZrM0ZCZ0FKbWlBZzZhczdyWEVvVXZhdGo4VXBjTERUMW5ZdFdxd0M2OW1OUdIBhgFBVV95cUxPdzRaUnZrcTdscUloLW5HY1lUby1DaVFDZzZqanctSG9sTTVaemNZTXJpcVNzRWk2T1VIc0phaDE5aFVDa3hXRTUxeHcwM0Z4WVZJV1pnSG8zemlmVWJ2c2xpa0hjdTlmNUFNNTc3SG9ZN0lDRTg1emlmcVU5N2Y1aWZSS2lVZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Spire (SR) Down 2% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByQVNlTVREU1pUcFNTNEdkRUxtNmNCZ3ZwLXpNMzFqOGFHV1pLRFBEVDB5bmphSmx1LTFkenFESlBsWmZob3ZYZnk2Znp0bFBYVGNvYXo3NlJRMjA5d2EtWWN5dHNSaWtCcFRIVVNjUk5FY28?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why Spire (SR) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mM3ZpaGtrOGEzWmtzeWZRc3VrdDh5T3Uxb21XYU9sNjY4M0l6aHhlZjF0WVR3M0hTVDhNdUlRN01na1FyQ1FTbDBqdnZrel9YX052ajF0OVZzNVo1M0phR09BR25oQlZyMXlwYlpSZm5BSGE5OFlrbkpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Spire (SR) Price Target Reduced by Morgan Stanley | SR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT05VOVg5bG1rWjhoemE4SXc0VkwyamhFOXNPSU1ucTRIaURJaXNVYTlxU3JSRUpZd05vcmN4dVlPUkZ1WVkzLUhQdFIxeWgyUzQ4c0RScTVLUDN1UUpxaGhYby1GSlo0VDAxRGlZekw0RmstMDNMc2d2ZWJDVU9pZkIzVUJtaUtXakRpcjQwRmdwTC16a3dyWG5wcV96dzZnNGFv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Spire Sets Q2 Earnings Date: Key Financial Results Coming April 30 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVJrd0xaek1qOVB4NjVZcGVRQW1sWUptRl8zTmVNOGhrMlAwc2J4cE9ndURSWS1pRUpZM1VWb3I4UUxoZnduNmE5MkV5UTVuV3NCU2FYLXczVHFMN0JQdVoyajkyR1RkY2NkZ1BOVTVqcHAtaUJmNDRKbFJRM2N5ZUdaWDFacjY3TDJzcTJac0VyaVludG9fWEM2LUN2QmVPdzdMX25fSTViTFpTdWRORklFdk5Ra3ozeGU4Qw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Spire Inc: Buy For Income (NYSE:SR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1ZHlfOVRveHVyRjhwZDI1bkJHdE1UT1VmT0JvcTBHa25BUjNTNWw3YUtHbE9CbVFJSk50UGQyRWczdk1lcFVRSjJQREVnZVpSUFktZWRlbTByNVM3ZjRkVXZrUU1EWDljTnNoeGVBM2ozd2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Spire (SR) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16MGtrWUhBTjIyNVBWQkRhSjgzT3NySTBKSzEtMmZYVmRzTlliT2VHNVBiN2w3eTZheTV6UFp4UjJoMGtKSHAtdXJvZXVBbDNSNzBReUdLZ2poS2FBS3h3ZTB6MGtfdkxwVWgxT09vdjljZnJkRTA0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Sale: Sr. VP & CFO of $GWW Sells 200 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONktBeGI5d3FBNnNkNWpIM3hvWUZ2dDUzWlB1VGs1WEQ2azRZa2xreWVYUU03WHZYQWNOTi1JbmZ0RTJNM3cyVDhGcmJZdnlSX19XeU43VDkyNE9yY0pQSkt0Rm9VbEpfeWdELXFXaVRSbzR0alBWc0ppc3ZRWjI5aA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JPMorgan Adjusts Price Target for Spire (SR) While Maintaining O - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHpqUWxZVTY1emcwczByZG5NZlN0SmNETkQ3VnZZU0Zwb1A1eC0tNjFSczNLYkFneHpvS0pPd1I1ZEJVUEtsUVhIeHBIbDdBU19fWmk0VnFlM25pTFRBR3pDb2ZvV0k0akN1OFZKMXhkV2dsSEg2Q0tTZV9zdEN3eDJJc3N2V2o4R1Z2VzZUN3BPY3VRblMyUUlPZjVzSktYV3RLZzZhZjBoV2xsU2lEOERFTzVOT000alJwWjZaR1F0eGU4NDRMVzhraw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Spire Gains From Strategic Investments and Expanding Customer Base - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNE9PdVMtbE1RUm5iWUt2ZWJqbEp2eDVPLW10Mm11dnBCZXpuaDA5V05ad3EzbWh1V29Dd1FXeS04WU1JYjh6NVozMXpWOGplbmE0VjdMb3JkSFR4YWZnMVcwV21GMWNSS1ptRnJnSzBOZm5JeC1OQVo3U0N3cGFONWVPejlrcFAtZ2V4NXZ1blBsT3lkYmFv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SR Bancorp Insiders Added US$1.05m Of Stock To Their Holdings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2R1BBM1RYSzR1RzRtR1JjRHdrMG51cF9sbWpXdGxmRnRPNzB5OXZtVDNPU2tiZ2ZvMnF6R1Z1YTJBMVVLTmhLUTRMZlZ3cmg4VDk4ZWtUYzJqOFBYRk5FbWhpeU90MGRHUlFTRGFkejBLQkNTOW1JVFF1ZFFZVGM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SR vs. OGS: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RV2RWdG90c215R2NOaXZBZ3Q4RXpHYWRXaXVXQmVUN0FsWWJNbFVWSV9BRXBmTXEtekRpTTZWSzl5dDA4ZzRCM01rYTh5UGZXajk4ZGZxaHJmYlBkMjFrY1h2STc5NUU1eGxfeDFDU3oxbkJPenh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Spire Inc. (SR) The Best High Dividend Stocks Under $100? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWOGMzUzRUWUJuaHFCeWNObGpzUFc0Y1dveE9acDd5UTFCcFNqVHFhMFZyX2h1MG84TEJMR1lUdFVseVlRYmdyNmExeXc1b21xa0tZLXd4VHlFQXdxcG1BcFR4Z255YnF5RjR0WHBjQVB5a19QVTc4?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 72.43
-      },
-      {
-        "date": "2024-12-03",
-        "price": 71.72
-      },
-      {
-        "date": "2024-12-04",
-        "price": 71.8
-      },
-      {
-        "date": "2024-12-05",
-        "price": 70.76
-      },
       {
         "date": "2024-12-06",
         "price": 70.42
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 74.44
+        "price": 74.65
+      },
+      {
+        "date": "2025-06-03",
+        "price": 75.21
+      },
+      {
+        "date": "2025-06-04",
+        "price": 73.31
+      },
+      {
+        "date": "2025-06-05",
+        "price": 73.6
       }
     ],
     "current_price_data": {
-      "price": 74.44,
-      "change": -0.87,
-      "percent_change": -1.16
+      "price": 73.6,
+      "change": 0.24,
+      "percent_change": 0.33
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres de cette liste couvrent un large spectre d'entreprises cot\u00e9es et de sujets \u00e9conomiques r\u00e9cents. Voici une synth\u00e8se courte de ces nouvelles, orient\u00e9e investisseur francophone :\n\nSpire (SR) est une entreprise cot\u00e9e dont les actions ont baiss\u00e9 de 2% depuis son dernier rapport d'activit\u00e9s. Cette baisse a \u00e9t\u00e9 expliqu\u00e9e par des raisons diverses dans les diff\u00e9rents titres consult\u00e9s, telles que des r\u00e9sultats moins bons que pr\u00e9vus, une mauvaise gestion des risques ou un sentiment n\u00e9gatif des investisseurs.\n\nUn autre th\u00e8me r\u00e9current dans ces nou",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

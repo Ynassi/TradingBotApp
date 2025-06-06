@@ -1,56 +1,164 @@
 {
   "ticker": "LCII",
-  "name": "LCI Industries",
+  "name": NaN,
   "sector": "Consumer Cyclical",
-  "market_cap": 2142175872.0,
+  "market_cap": 2231517440.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 13.914754,
-    "PB": 1.567295,
-    "EV_Revenue": 0.823,
+    "PE": 14.495082,
+    "PB": 1.6326605,
+    "EV_Revenue": 0.832,
     "ROE": 0.114379995,
     "ProfitMargin": 0.04079,
     "GrossMargin": 0.23766,
-    "DividendYield": 5.28
+    "DividendYield": 5.2,
+    "DebtEquity": 86.016,
+    "CurrentRatio": 2.964,
+    "QuickRatio": 1.276,
+    "FreeCashFlow": 293380256,
+    "OperatingCashFlow": 420656000,
+    "FCF_Margin": 0.07682587346600196,
+    "ROA": 0.04973,
+    "PEG": null,
+    "EV_EBITDA": 8.717,
+    "BuybackYield": null,
+    "PriceToFCF": 7.613111197230668
   },
   "technical_indicators": {
-    "RSI_14": 48.089216372355665,
-    "Momentum_10": -5.837338173928109,
-    "MACD": 1.2088755628921746,
-    "BB_Percent": 0.3544711234046462,
+    "RSI_14": 56.399373627858786,
+    "Momentum_10": 0.9185819064730378,
+    "MACD": 1.2435921550807052,
+    "BB_Percent": 0.5865950843499804,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9337911302778554,
+    "ValueScore": 0.932084799269104,
     "QualityScore": 0.3325908572778309,
-    "SignalScore": 0.5240088448986595
+    "SignalScore": 0.5148304315071133
   },
-  "volatility": 0.0244616276962578,
+  "volatility": 0.0247318550714486,
   "beta": 1.265,
-  "return_6m": -0.2810430809694753,
+  "return_6m": -0.2319539206256878,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 8,
-    "target_mean_price": 105.25
+    "target_mean_price": 102.125
   },
+  "news_sentiment": {
+    "summary": "LCII, société spécialisée dans l'industrie des véhicules de loisirs, a récemment fait l'objet de diverses actualités. Malgré une réduction de 17% de ses bénéfices sur trois ans, la société a augmenté son objectif de cours à 88$. LCI Industries a annoncé une vaste restructuration de sa dette de 1 milliard de dollars, une initiative audacieuse qui pourrait impacter positivement sa santé financière à long terme. Cependant, la baisse de la note par Wall Street Zen et la vente de certaines parts par des investisseurs institutionnels soulignent une certaine prudence du marché vis-à-vis de la société. La participation à des conférences d'investisseurs et l'acquisition récente de Freedman Seating pourraient offrir des opportunités de croissance futures pour LCII.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "LCII Stock: Hold Rating Maintained, Price Target Raised to $88 | LCII Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkhYdE5EeUEza1MtVUxBS1ZwQWxSVEtpVlJXQndQZmZ2c1JGUWQtTEVFaXh0ZkZScTBhSlBkci1EY1NUWllfSUJJbzFMaDdJNDdxZmlKTjhKQ0kwb3dRYmpzcGNLUFhwa3A3T2hGR1JwT3FlYkNoS1lUTHNWbnU2WWhMTEExQ2gtVDNZSllxWDFxeDBONDFiZTJDa1YxMzhMdTRtbVI2ZDlvbFJvSEZqaEUwTFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LCI Industries (NYSE:LCII) Shares Bought by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNX1N5RnlYeVdadXhHSkdETEZQT3J1LXJuT0t6ZHM4UmZMS3lkY1MzWUxfbjdqV1RkRHJRZ2N0OTVEQmtacTRoM0NuX1RKaXl6Z0JRbmNnRWlwWnlBZEJqOHNFb0szNlZ6aVY0V1NRUTBxQ2xQNnI2U3pFbjQxZVp6eGRvQjZfQjlQNmZSSHFiQUlrUHNkdnQ0MS1BcTQ3WGtpc1ZVOWozZEdBNUsyc0pOa3daMExXMnFhX2IzMW85RENIckpDR3pYbnpJZGdJWkp0U0N4dVFyelV3V2dnYmtvUGYzaDlDZFV6N2ZxTkt6TGFtaWZNY1RLYVYwOEgya3gtZUZZOHpRN3hMWTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Long Term Trading Analysis for (LCII) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3hobUtsOGFyVnh5WWxVbXhhSE1LVS11ZjU3bW14U1dkRXBOUzhTbWkzeFpTaWhKMDd3Ujc2VDlVUWhhVFVkMkt6eVJENzh3SmZwYmdyR044RHFpYnhXN1c5eWJtbDFZbmlVWk1haUExX1hLY1F1LXZCMkZncWhxNUpMZG1VWnNEUDBVX3pERGllREVXdW9CMFhZNElCSnI4QTNaUWE4YUg5bzlXWkNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LCI Industries Lines Up Triple Conference Series: Stifel, Baird, and Wells Fargo Events Coming in June - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3VaaHFXRWdRb3JIMzN2V1JsQ3hvUHJLVlhwbm14cXZtWnZoLWVZWjNZWkQ3R0dlbHAzaF9TZnc1aXFZVWtKaHV0S1lBbV9Kby1nS0pBTGgtYUZUS00xdG9td18zSF8yNG9XcXJ1VWFFX3pqQVFHa1BGeFk5b2R0QTNuMk5tS0dRRGQtZUtuZjkxRHF4R1lBR3psMmhkWEQzbFBTajdQNDc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Read This Before Considering LCI Industries (NYSE:LCII) For Its Upcoming US$1.15 Dividend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmxWVGVFZmtGSTBqNm1KMXhqWk05aFN4eE5XeU10S3pqaVg4eXlrNXNYZjBvUmt4c0cwSWNwTFZ4dUUzX1dKYWx0QWs1VjU1YVVOZkc5djJIb0NuQnR0eEpjeU8zeWpOa25qWWxwTzB2alhfemd3eV9YeHd0b3dmOUZBLURGUmd1eFZZN0JXVzB0eEhxWnNmMHh5b25fQ3luam1MOWNyb1ZLalVPdm9NNEw2MDU0RTdhY09LN2hfdW03UUY5czdZbTZ5M05HSzjSAdQBQVVfeXFMTy1GR3N4b2pnMlJ3OTZwSWEzcU5zcWI2YkZ6UWRJMGUwNVZockZrVWctbDNBRlY1NDliRFIwTV93YWFrbFlwOFY0QzRjbTZZNFBfTGotZU1WQmFaZ250UVVXOFR4XzUybnlvQlpiRXdmRjZWYm13Vzc2SG5RTmxyUkh1WGxDZWJEOERjZkJjekQ1Nk9lMHJZVG1kazhhSEstc0F6YW85enZraFZtY2pzUHZiQXJSWkxfYkFLYUp2ZmhFakFtVW4ycEQydzBZOXoxTFQ5NUs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should Value Investors Buy LCI Industries (LCII) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2YxeG80c0dOWTlySERpLUxyS2gteG50aXJ0TXBueDBhRlk3OHFxNnhtM1JidUx4MGwxU1dxbFcxMGxTbVFxWHlOSlhIR1Jkdkt5MzgyWHJ5Rlh1c3c4RG1xWmJjejFyOTNEXzdydF9HTnJRd0hTb2ZPWVlDM012N0N0amFkT0h3ODFvUmpDMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LCII Price Target Increased by Truist Analyst | LCII Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEQzcV93clpqMTNEMno4T1N5d3dGMG1ORUJrYWlUSTJ3LUd6NDJfMWVobXJNRGpFTXl4RkNXYmk0SmpuZkptSnJScVdLWjFDZW43TnRvU3N5TWtWM01jemg0SHhRcVJIS29pWFdmUHV1SFppU1NhS2hhZzVKZXFZd0llbDNrTnZURDJZQ0lJRU1uMG94SzU2ckxhT0FFYndlVUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LCI Industries (NYSE:LCII) Given New $88.00 Price Target at Truist Financial - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3BzaTQxZ3B2TzBDRDVKNDNhNW5NYkJhUEZrTVo3eUJFUkZBM0F2TGotN1dwemtYQXpxSnQ4QW8zbGlIcTRxUkVac0VrWlJLQllZV1JTMTBhaXZNalcyeW50TDRpM0JITkRrWU5SNjZ1TGNTb05vQVE2S25JZXhrSWE3YjZ1dm9SYW9nOHFZNzJQVWtXMFdQeXJnZzZVRUFGVVNhOVhPc3NRZ3VFLTJfcHZ3ZG1WY0lzX01VTlBTUFFtZEU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LCI Industries Unveils Massive $1B Debt Restructuring: What's Behind This Bold Move? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmZsZ0Jxa0VOQjRKWlZ5REhHeWlCNTVGcTV3c3VORG5DY08zQzZuV2NNb1FaZ2tCTms3MlNoQjVXM0JnQXFuMkUtUVgzNWV2d0JwZ3doQ1REZjVyUUJMOUFsUXFieUVIUzhIbnhSR3Y3WEJsc3dMQ2htcnhFLWo3bkk2d29JUHdFdVkxalRGYUwxME10ZmpIZDdFQjIycFFwVDUtdElxQWd3Zm9pSWVndEtlS25tVWNXbXd6ZU5vZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LCI Industries' (NYSE:LCII three-year decrease in earnings delivers investors with a 17% loss - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN1praUYxQ2RCMENCZVh0cTV3anNLVDNDZnZaaUs2ZFpvMTBSX0NMY043ZENFNUI0TWw1Mm8wZFFCNWJRdklhUWRGUkdLdGRXRG9YWVMyRk43STRJUXN4MWdrdUZrOHJPQzhKMkotX29la25TOEtOMXRXekZ4elF0cmFjV0ZDaW92dlNKVkhnTGpJSHRjZVNWZFZkYXFvdXFNWVlSYnRTRnBYcTRLWFF3RkNLdU1WQi1zR0hFeU12RFFrSFZSNlJQTkhaWmNQUFHSAdQBQVVfeXFMUG5kTDdrV0lyV19wQ1VyUF9ER1pSWkFnaTdQcnJsVnVudGt4RGRybXlPUV9ieG9wbG1DWnBiWmFaa0tIdXdERWlnMmhyVS04Q1BScU1WTXAxQTRpLTdLWkRTNVFhS25YNm9OQTdqZ1hVZU1LcFBxcGtNSk83ZXhqVzdrTkhNTDFhcUNSNE5SUmtRaFNMaHFiZ2JvakFpSEpWNF9qNWhpLWNIa2swT1FyYzQyLWhxWml1R2U5NWx1ZzlabnhVSW5TM254U1JUS0gwSXhNeWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "LCI Industries (NYSE:LCII) Shares Purchased by Nuveen Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcklNanppcWRHdU5xblFMS2YtYndvSkx6Tm04allFNHR3ZENLeldYVWR4SVNhRm1BQVl0MFNaZW1yTTFFOVJCa0xOem51b05XWk0zcVBXZlhxQlhhclB2QXdPdVVKUHU2cDRXVEVSZEJZZmhsbmtzd05CTC1fckNQN2p1aVFUV1dfVU5NZDRkMUhWUE9BdzRkSmdhTDh2WG1jandzZHVVam1reG1pSm4xYW5yVHc0UmJlMThWM0FYNDJDblN0eG9acG9ySF9vak9ZdlRuaEJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LCI Industries to Participate in Upcoming Investor Conferences | LCII Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUndnbFVNOS1SVmREQ3EyTXBHeEwyZ2ZPQ05Udm5Mdm9FWGpRMGE1X3pDQlU4SjQwZ3NrbTZUQ19OZ05TdDVCTTZQN3hGWjBkeXFWYmw3N3Fnd3NibjNuV0J2UWRnTzM1NDZzUVhYZFNtRmNvR2xLTUszNnk4N1hDYnNrUHVRZmNKNWNBdUc4bERnY0Z1WWt6QTUtQmxvUWJJOUZDdVhTTjQ5cm5sc052TUxCd3VWa0hOeDlWY0pqeWhlSDBMdlNZZldLZDB3Y1BBcWljNjIwU3hyY1Btd1pLU1JSQ1NUTFllcERsaC1PVGF2czVyWUNZVV9oSkc1dmFz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Transportation Deal: Lippert Expands Portfolio with Historic Freedman Seating Acquisition - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT3EyaXVxa3RlVm5UbC1tOFBsWlROTmNkblRwRmp5UDZzalJrZ0NJWldndmU4N2oySWlHSTlVUGw0UXhkS2laUDVGVERLakJCV2d4WDU0WVo2TXZ4U2hpb3F3UV9qWU5BcXgwR0RxT3dRS3VuRklOWXFoMDYzY1NiQ2xjVHR3N2NoMjlEYVF0Qk5Ddw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LCI Industries (NYSE:LCII) Stock Rating Lowered by Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZyWjRuM2xFYXZqOFdCV3l1cFRvU0VrdWoyTGRFWExPRnV0SnkxVWtYY1UtUDV5bGFhUDkxLTFQMHZhNndOT05hekdVNXZFUGRRV3p2VV90OVd1czBTRjNJbWxZNDJDdXJyOWthWUFSTXg0eC1XRzM5dkc2WjFfUE90MHB5cDhTRGNVcWdXb0MxSVByNTdHZ1lLdHJEcmh3eElHZXhQN0U?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Former Ernst & Young Senior Vice Chair Ends 22-Year Leadership Run at LCI Industries Board - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDEwV2pSa3NmZGVtWFdSaG55UEhxS2NzSjRBQWRDbW9zcHRkLXJtQ1VFUENVaGtaOHZlVDVzNjdVZnUtT0hxV1FDc2Ztb0xXOTJVVi03OHlGU1RfN0Exc2pFbmU5RHZ3YUkxSUpEbURfTW5WaGxKSHozUUl1LVpLcGZpeDJERTVsWnBHWm9SMm5OTzVFOHVWNkYydEsxQ0JKSVpVSVl6VmpZZDZC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vident Advisory LLC Decreases Stock Holdings in LCI Industries (NYSE:LCII) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1g3VDRtSnJObGFWNTd4R0tBdktQNURDUTNxRG1SQ1Zpbm8tOS1BWlhFcUFKTGhZSWVnZkVaS1JEV0I5cXdudDFjMjVGaUx6UWxOSmhkd0FCc1F3SC0zaU5ZdURwUVJvQVlLbm9WblJWN1hFeHRrdWFGMTJoV1JxSFhvSTd0cnM3cFdxdlh3TmlpaHNfOTJYbW15LTZyRHFEdmp2V1ZtQnUtT1M5S1o2bWdMUHBCeHMxdVFWZFdPMzRKZFlkRi1KU1QtVkdnQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "LCI Industries (NYSE:LCII) Shares Bought by Ameriprise Financial Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkhHMHZVbkJHOGlVMC02RXBDR0loQk0wbkIxSlNhVXZ6Q1c1ZmlKVzAyVVA0WXJDZ2t5V25IVEV5eERpYTR1LVFkbkljendPSXlRdXZ0NHplWEloY3lZYTBWdU1feEJXTVg4eENrYk5PUkFMRVIxX0ZGVVNZWklmWDMzVXlKY3FLMDVMbmg5QkxkUzM1a05pNkFFTmdnQWo0TWRnTzBBQWdtM1pxZWM3ZHlZQXdoc3ZZUmpEVFdZa1M1dk9Ibm1Z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LCI Industries (NYSE:LCII) Receives Consensus Rating of \"Hold\" from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRGl4SEg5Q0prRnU4RmwtUi1XNDdIbDZNZVl2blZhME9ldGlFMzJpcUdPSS13TV9vdTlkVno1RVJwUnJnaFJtUjF0TzFmcjBBa3ZBT2hBalVhUUVXdk9rd3ZTaldSSXM2c0QtQlVDRTlEemlNMWhIZ3A4MFI1ZDRHdzBlVm9NeHJPWXNWdXB4MUU3M2daZVZxdDI4SVpfYlRQNklXV2pLYlpYN3FGM0RYcFpMUkZaNG1rREMyYjE2UQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LCI Industries (NYSE:LCII) Trading Up 4.4% After Strong Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0xSeG9YMnZObUxXUnRQeGtIVTAxb1V2WDZheWM1WG1VdkdZUl9jbkVnVG1leTVkdjJuY044d1NoQ0tzR00yaVc1WHRIM09Da3Bxa19vRUk0TXJhZzE4dDB0TTg0RzBkRFlBaTNPUV83MkFKckJpZlJSZ2N2ZjJWTUxHbnRONDB1dmJnUzFjT3Q3LWwySW1CQzBDejF5eDJhc2xHV0hVZ3FkOGJl?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "LCI Industries (NYSE:LCII) Position Reduced by Kayne Anderson Rudnick Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVVVXVVMxcHhiN2tyNXg4bVdyVXhaMjA4S1ZCbkZHcWU1R2FMb0FhLXFJSzEtSHN6dDE2T3ZWX29rbDgyODhIc3pVTlk4Zmpqd0E1eDE4d2lmQUlzeGZndVJPRUwxQkxDZjVLcWNuRm5JV1lqb3ZLSVkzNzh3T21WNEhJaWFWOXhMR214TFFkUFlWaVBDZGxjYzdOczBwWGJjR3hPYWJ6ck1ERGc2WGMyYzJHUFNaNzZKaFZEdWpaN2diaGhjZDMtY1EybVJSVmNQUy1Fa2pyNUlCR3dfRkh6dEw4cHNTNFQ4V1pLLQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 121.01
-      },
-      {
-        "date": "2024-12-03",
-        "price": 118.25
-      },
-      {
-        "date": "2024-12-04",
-        "price": 118.78
-      },
-      {
-        "date": "2024-12-05",
-        "price": 117.35
-      },
       {
         "date": "2024-12-06",
         "price": 118.0
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 84.66
+        "price": 84.88
+      },
+      {
+        "date": "2025-06-03",
+        "price": 88.09
+      },
+      {
+        "date": "2025-06-04",
+        "price": 88.47
+      },
+      {
+        "date": "2025-06-05",
+        "price": 88.5
       }
     ],
     "current_price_data": {
-      "price": 84.66,
-      "change": -2.48,
-      "percent_change": -2.85
+      "price": 88.5,
+      "change": 0.2,
+      "percent_change": 0.23
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent LCI Industries, une entreprise cot\u00e9e. LCI Industries a des conf\u00e9rences d'investisseurs pr\u00e9vues en juin avec Stifel, Baird et Wells Fargo. UBS AM a acquis 10 498 actions de LCI Industries. LCI Industries a un plan de rachat d'actions de 300M$ et une hausse de dividende de 10%. LCI Industries a des pertes financi\u00e8res de 3 ans qui ont entra\u00een\u00e9 une perte de 17% pour les investisseurs. Vident Advisory LLC a r\u00e9duit ses positions dans LCI Industries.",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

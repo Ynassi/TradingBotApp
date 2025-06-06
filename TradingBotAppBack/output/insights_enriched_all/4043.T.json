@@ -2,55 +2,73 @@
   "ticker": "4043.T",
   "name": "Tokuyama Corporation",
   "sector": "Materials",
-  "market_cap": 202272800768.0,
+  "market_cap": 215690625024.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 8.734621,
-    "PB": 0.77332616,
-    "EV_Revenue": 0.73,
+    "PE": 9.074534,
+    "PB": 0.8037201,
+    "EV_Revenue": 0.751,
     "ROE": 0.08722,
     "ProfitMargin": 0.068169996,
     "GrossMargin": 0.31522,
-    "DividendYield": 4.25
+    "DividendYield": 4.11,
+    "DebtEquity": 40.419,
+    "CurrentRatio": 2.569,
+    "QuickRatio": 1.719,
+    "FreeCashFlow": 24514625536,
+    "OperatingCashFlow": 52367998976,
+    "FCF_Margin": 0.07145600418424229,
+    "ROA": 0.04013,
+    "PEG": null,
+    "EV_EBITDA": 5.189,
+    "BuybackYield": null,
+    "PriceToFCF": 8.798446654110867
   },
   "technical_indicators": {
-    "RSI_14": 55.87024976710665,
-    "Momentum_10": 2.0693410782356145,
-    "MACD": 28.176222446963493,
-    "BB_Percent": 0.548185864047979,
+    "RSI_14": 62.09436553836302,
+    "Momentum_10": 4.86273102458281,
+    "MACD": 45.21323784214201,
+    "BB_Percent": 0.9608985110366568,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8999402118302727,
+    "ValueScore": 0.8969223583991327,
     "QualityScore": 0.4257673716507666,
-    "SignalScore": 0.5708373060478777
+    "SignalScore": 0.4942460869411588
   },
-  "volatility": 0.0194902153004533,
+  "volatility": 0.0203126979393107,
   "beta": 0.184,
-  "return_6m": 0.0668994915972163,
+  "return_6m": 0.1209592333146671,
   "analyst_rating": {
-    "recommendation": "strong_buy",
+    "recommendation": "none",
     "analyst_count": 3,
-    "target_mean_price": 3543.3333
+    "target_mean_price": 3743.3333
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente, Sweeney & Michel LLC a acquis 4 043 actions de QUALCOMM Incorporated, signalant un intérêt accru pour cette entreprise cotée sur le NASDAQ. Parallèlement, le marché du silicate de sodium liquide devrait atteindre un chiffre d'affaires de plus de 30 milliards de dollars d'ici 2035 selon Research Nester. Ces nouvelles peuvent indiquer un certain appétit des investisseurs pour QCOM, tandis que la croissance prévue du marché du silicate de sodium souligne un potentiel de diversification pour les investisseurs à long terme.",
+    "sentiment_score": 0.5,
+    "label": "POSITIVE",
+    "positive_ratio": 0.5,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Sweeney & Michel LLC Purchases Shares of 4,043 QUALCOMM Incorporated (NASDAQ:QCOM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWER1bHk5aml3ejlEXzVKZ05HbXNaYllFRmc5Tkczbk1ZVFNyMGdfVkJ5bEdJZjM4Z2pFcEtnWHNDVFVzOFhrZWQ1UVlZeVdaU3UwVy1jZlZnUWVsYWJnZ3RGQzRiRUhNMzNpUkpaZjhxaWZjOHU4cDlTaFdNZ1k3MWJMWjBxQ0tuS3gwUXFwbzBISmpPS2NuLWoyb0lNMjhSVTFiN0Y3SmZrSE05OXNWLTZwdE1hS1N6Zk55U0xiRDhHREJ5TGdIa19oQjdjMmRRaGlZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Liquid Sodium Silicate Market revenue to cross USD 30 Billion by 2035, says Research Nester - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclJ6TWlKQU85LVFKelk0LXkzc3hIMU5EYXpxRm55M2YyblRCb2N0Y1RyamphZFZSMmN6OUdCbHR1UzRaMHgyV1RZSmtXYldFYlQ5VlF6RG9LZEtuUTZnbjBLajNMdWx1WUstSFJQeVh6R2pMUnh0UUFpd0ZkcUZoN0hZZ29tWlEtamE4?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2680.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2702.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2658.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2651.5
-      },
       {
         "date": "2024-12-06",
         "price": 2638.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 2811.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2828.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2998.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2922.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2985.5
       }
     ],
     "current_price_data": {
-      "price": 2811.5,
-      "change": -9.5,
-      "percent_change": -0.34
+      "price": 2985.5,
+      "change": 63.5,
+      "percent_change": 2.17
     }
-  },
-  "news_sentiment": {
-    "summary": "Sweeney & Michel LLC ach\u00e8te des parts de QUALCOMM Incorporated (NASDAQ: QCOM) - MarketBeat:\nLa soci\u00e9t\u00e9 Sweeney & Michel LLC a r\u00e9cemment acquis des parts de QUALCOMM Incorporated (NASDAQ: QCOM), entreprise cot\u00e9e dans le secteur des t\u00e9l\u00e9communications.\n\nMenopause treatment shortage causing 'national health crisis' - 9News.com.au:\nLa shortage de traitement de la menopause provoque une crise nationale de sant\u00e9 aux \u00c9tats-Unis, selon un article publi\u00e9 par 9News.com.au. Les experts estiment que cette shortage pourrait affecter jusqu",
-    "sentiment_score": -0.5,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

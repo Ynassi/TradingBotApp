@@ -1,56 +1,164 @@
 {
   "ticker": "BMA",
-  "name": "Banco Macro S.A.",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 5292578304.0,
+  "market_cap": 5229084160.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.491602,
-    "PB": 0.011781765,
-    "EV_Revenue": -0.452,
+    "PE": 15.77421325,
+    "PB": 0.010938411,
+    "EV_Revenue": -0.454,
     "ROE": -0.01592,
     "ProfitMargin": -0.02249,
     "GrossMargin": 0.0,
-    "DividendYield": 25.52
+    "DividendYield": 28.4,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": null,
+    "FCF_Margin": null,
+    "ROA": -0.00475,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 37.38909381577767,
-    "Momentum_10": -11.544287780724916,
-    "MACD": -0.1856483119922956,
-    "BB_Percent": 0.0270255945449823,
+    "RSI_14": 30.427460310242992,
+    "Momentum_10": -18.29137029635608,
+    "MACD": -2.2400404851870093,
+    "BB_Percent": -0.0400176842793412,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9357399787476536,
+    "ValueScore": 0.9337399762687482,
     "QualityScore": 0.3234423580192364,
-    "SignalScore": 0.6219098408081978
+    "SignalScore": 0.769138358159896
   },
-  "volatility": 0.0433444857207592,
+  "volatility": 0.0437171189466721,
   "beta": 0.932,
-  "return_6m": -0.0671190934733958,
+  "return_6m": -0.1232971596228356,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 7,
-    "target_mean_price": 108.94418
+    "target_mean_price": 108.26523
   },
+  "news_sentiment": {
+    "summary": "La banque argentine Banco Macro a connu des hauts et des bas récemment. Malgré une hausse de 10,3% de son cours, les derniers résultats trimestriels ont déçu avec une diminution de 59% du bénéfice net. Toutefois, la société a enregistré un record de 97% de croissance des financements. Alors que certains investisseurs comme Chris Rokos voient un fort potentiel de hausse, d'autres comme BNP Paribas et Point72 Asset Management ont réduit leurs positions. La nomination d'un expert en innovation pour diriger la stratégie de croissance pourrait être un signal positif pour l'avenir de la banque.",
+    "sentiment_score": -0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Banco Macro Authorized to Distribute AR $300 Billion in Profits - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUNwWFVIWGdyLXUxc1Rxb29PaHY4ZnpLeGNNc0E1dXVwVGxCTF8xQU1SNHJmVFV6cVBmeVVPY0RmYUQzTEgzV2dQeDhTTW45bFYwRW51YTk3bUdaaUhtN3NJVGVPRjFFamtUeEFac0lEU19oLXowdXBLS3VjS0pyc2NXeWZDcVZqcmVNbXNfbk5NdDFxR0FqRVhpWUktVFlpRE9ySnEydVBtSmcxNGRlYndsb3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Systrade AG Cuts Stock Position in Banco Macro S.A. (NYSE:BMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnVqLWNnNUlIZkdIcXY2VXV6RFd2dHNLVHlDNEs3SVZ1R2lCdkd3eDZkZXBpNnJfNUlTQm84Ym5iYXJCWFdFaExoZ1lXNzRGUGNZVUdTRk9BV1dYUkIzel95Z3I4ck9uWEFrc1k0M1V6RlZZZnpzSm9ONUYtQVczWWNyRFJiaUJYTU96SGd6LXZvQV9oLVNsNmdXVDFicnNvN0l0SXYyekJyZDlFSGFzMHdNMlF5N2syeUE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Banco Macro (BMA) Soars 10.3%: Is Further Upside Left in the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QamxYU09yRm01MFlTVFdCQWdNOFFXR0lUNUd2cEl1QVlIamNtUTRNenZScUdoTmdNdEI4WmI1M3FkRm9kNk5lb2dWWTJJT2xjclBUSTRHRHhIanM0Q0xYSlVFZWZ3TlBTSzNhNk5vZmFWeE9iVHI3RnZB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Banco Macro Latest Earnings Show Record 97% Financing Surge While Net Income Drops 59% in Q1 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXh6VXhuYzdhRkR2VUlEQ2RrLUFpTFhLWUViYTVnVC1PVEFQVG45T3B5U0psWndEbXlWVXBxcUotVF9scmNfdUpEaFFvRDZCaDA3QVA5ZGd6aFBvcFlHalFuenZJNnhyNXVrazRabFlobGRHUllaNTdFUWlfYWFidDNKRlV4VnM1MkF3M3NsVkVkUFQ2ZlV1elRWUDdHem5HOVRxTlNTUzVPU2wy?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Long Term Trading Analysis for (BMA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDg5c0FqMjgwRzhLcklra1RiQjFEMkg5a2VHMUgtbU1hSlpSQ2I1Q3I1MHlOcW1zYzd2SGVXbWg1bWhOUjBkS1dHeERSNWRsUTk1SkpsaGRURE1TNk55TjdkWGhEUG1NTDVHRDYyYWNUT2ctNG1kb1FfMVkwTG5uN3M0MTRBd3RxcDcyMXFvZV9EemVzSGctSnlVVW5VdGFpTUNpdW9xRmVEa2U1b2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banco Macro (NYSE:BMA) Posts Quarterly Earnings Results, Misses Expectations By $1.11 EPS - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORGs3OFZEek1TWVhBZnllR3Z4WlQzRHZ3VVJjekhVTlhmZzhsQTdtUmlNS1NQcUo1Y2VmWnZ0YXJTZ042NkZtTG90X2x0Tk1Bd3RxOUp5SDNxZVB2eW81cXpVT1hnakFvZjVsTVZNN3hhVGVtMUhJbXhVbzZ1ekZqUDBnTHZpYzBFYjhOaGUzUl81bTJiS1hIYU5JZUZyTlNHYkJZUzlQYVlneUg0R1EtdnBqTlNacU5CNkZpY0VVNk4xSFhoRUE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Banco Macro: Key Player In The Argentine Financial Reset (NYSE:BMA) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDJSVDg2aHFQS0VKOUkyZElscGhDTk1wOEpZWjV1VmRFdEZGN1h6LXRPQVhQbUNKTFh5MUMzN1dwLUhhSGVTLUh0aE1uNE0td0gzWlpDMVE4Q0cxUnFCVTRseDRpeHpVWXFqUXBZTkp3QUsxWDNaN29HUDctSVIyZ2xGTWhOdUhsTFRfUU4xcTVZcUVORzBnWk9YR0o?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banco Macro (BMA) May Find a Bottom Soon, Here's Why You Should Buy the Stock Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xTG56SWhpWHFvWXltcndzWTRwcThDbHpJZm9lWTlxb0pWSU90SV9YYjZ1ZVdCalJqbjNYQzFzdnQyaUtoRE9TcUJ0QS1QS2pwRVl3Z3MwbGhsUjcyRUxLOVVqalJtMDRiOUlSWl9XNXFwaWJvSWo3TlJvSTE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banking Giant Banco Macro Taps Innovation Expert Juan Parma to Lead Growth Strategy - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzdDX0xhOXFRNFViMlhMamdsd1NsNXZ6cURraXZFUTZubVNMZkVub2l3UXRpT0h2NE5zVTJMazc1MWgtR3JzbE1kUjMtNzgybldDODgzTkxXNDQxMDhTREJpdmN4c2tuM3hLR1Q2d0tKVHZDZWpVOFEyY0pRT1k0RGU3dEZjVnJ6TnlvX0FkMVJEVjlZYzQ0Rk1rcGQ3dnpMNER1anZscFk3b2dyMG05aXlQNVR0Tzc1ZldJ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(BMA) Trading Advice - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0c5X1J2Q3h6blNhYWlqSXphd0dUSU9VdXl4TDZTWGRieXJEaFdGYlVZZDVTb2VPMDUxNzhyOFVIZ0VQX015V0t1c1RMVHVVMi0zR2xab0Q1SW9Sa0xBRGpoMlZGYzFnU3Y4YVdxckZsSzFQOEptWGt4cXBCQy1SYm9FaWdrSmUxblBWUDJzQmdXLVk0QzN3RA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banco Macro (NYSE:BMA) Trading Down 4.2% Following Weak Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1VvZ2RiaXVFSHlWYlZvN01NNFJyUTRIQ1AwWnpWTlZnVzJhUjdGZDVZV3ZsNktXRnVKWFpUMW9BRlBzSjY3S3ZZVGVFcmFLc00tajRtbHNZNnp3WXBCT3E1c1hTMnhCSzZzcmhNNGI1OWZpMHRzeUtwQWlmVzdkQ2xlM3JWNm4tLXpvMlBDOUNLZ0NXYmREbThjSkJISG84dTFYLUJJSzVBZlhTZEJCRlliQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Banco Macro S.A. (BMA): Among Chris Rokos’ Stock Picks with Huge Upside Potential - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5SWdJWHdVQWxScXQ1WVNuR1lYbjYwQ29zZVJIcERFTGxnWG8xWEJXOWRBZFUtNnY3aWg0T2hZRnoxWVo1dmZ6a2hydF9ZSWZJemFMOW9hOUV2YkVIRGtHX2NqRFA2ZHlVVE5HdEE3czc5b2J2cXFxY0pmRWxkdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banco Macro Releases Complete 2024 Financial Results: Leading Argentine Bank Files Annual Report - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmVWa0pyVV9mZllYRjNpSW5GekRtb2N4RUt5ZmFxSF9OUEZ4WGtFRXVxWjRtTl9tNGdablIwU2FOaWF5THhwNGJDNkpSeFVneklwRHhWSy1LRDBTM1Jab0xnN2h0TW93MFlXZGZ0RHJ1cUlyYlZ2RzZWamw2RUhZNTRsMC1sOGh2Q2hhNkdWdy1lYS1wbkJRYXRjR0V1aDh1c2xyazdvei1aN09Xd2tpVDFpeUFaRTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Lowers Position in Banco Macro S.A. (NYSE:BMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMjFJNXdGcGtSY2ZoUXdGS0xfdlZob3JiMzF3Wmk5b1AtTWtUX2ZZM2pfWWFYSTBQeVpZOWJqMy05U0t6bThhbFkweTdGNFhLeGllc2xETFlRaTJEd3RKRk53V3lGSzFocGdZRWpJVUpYYWc1ZU5BY0NidlZRVi1sWlQyZ3V5WmJvRGJFcjNsbXhscHMxRW9YQUVwa0t6ellVb2NnNzFrV0llRmRtamZudVNDaGhFU2t6OWszbHVvdHBTd0xHdWVFcnVDWS00UU96dHc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Banco Macro S.A. (BMA): Among the Stocks That Outperform the Broader Market - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVExxTGlNZ29aMWQwNDZqTXBwMXcxR05kMnZZTk9qc1JGQnNCX2xQUXV2V0NBWG1qY0F5d2RqR0FXeWtPWEpGMzdIN1BldGpEQWt1ZENqNk9YZHlWLUJPcWJwTGF3UVZtZjZFaUxnd3dLdU5rZmQxWHpFUzF5ZzA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Banco Macro Posts Mixed Q4 Results: Can Its 7.5% ROAE Attract Investors in Argentina's Economy? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUF9TQUkxRm9ZRW9ISEdfaUQyWE8tRkJFbldZRDk1WG95RzE5NldITUVhR24xc0pLZVl2ZHNac184X0s1RFFSczY5a2k5d1VteDhIT3ZLSHQxaVR0Uk9HTGctUnR0NHJEYmEyNVhPSXZ5bWRXMmN5QURoSGtGQUo4WGhYTU9sWkdUcDU5ZUswUXZPbTRkSWdEOUVJOHQ4Sm05aUtIZkxNUEFoN2Zab2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas Financial Markets Sells 49,560 Shares of Banco Macro S.A. (NYSE:BMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY0pQQzZnNzlEQXdTeDRFaVpGWnV5UlJKNk1YalBpVEZ5X3pQdjE0bnBPbm9EbXVQVlhJRmFDQi1xNjBzR3dMcTZuckltMXZxa0pMOW42MUpESDNZX0ZnMlV2WjEzbnJKalh2RlVCdEIzRnU5SlJ1bDEwWEViU1BiUGxhdFYyUUtLUi03WGZUMldBQVRZRFhSRzNqNDZYQ3VucUNaN1JNQ0dwVS1Jb0Q1eURpQkhkSVNyUUxxNlZydTlFTmJDb3JEaEI1U1BMYWVa?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banco Macro S.A. (BMA) is Banking Leader Among Best Performing Cheap Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWRtcjN4T0RocHZUQkx6c0VBT2xTRFBWU2pkMHhjdG9uZVBERF9WMkc3YmpGQ3huTWlCdndHRkR3bHdRTTNwTER4Y2k1aE5FdFM5ejBKZ3ZwaHNqNE5zUlRBeE91LVdTUjFVUXFFT1lmR0FXeTQ2R0NsTy1IcG04M0Jn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Voloridge Investment Management LLC Acquires Shares of 9,503 Banco Macro S.A. (NYSE:BMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNTRfVHhKUFdORnpxYlc3Q2w4WEdJc2VtNkUtZUN5Yk1NVnk5OWlhbkNWNHg2eVJMMUxmaGhiWXU5bzhNYldsaUFFUU5qN0liZkYxeElhZGxLR2xKb2d0NXhuTVVZOXZBMjhlb1NNTXBkdkxzcTFzVzJISFVmSDczd3daeGVLRWtWeFFSM1c3djNWOGxXWDg0dVNPbnRYTzBtWFhSak5QeDk4bTVkQzUyWVFwLUdMTnd3eGxfNDlENXhmelZwcGJjelhoUGZPZVRXbGNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Point72 Asset Management L.P. Sells 11,900 Shares of Banco Macro S.A. (NYSE:BMA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHV2R2paUzdRZWt5Z211Y251M0R4Wm9VZmI4V1ZMQ2NhWVd6X1oxd1l5S0ZYS2xGMnJwYVprVWJBaHkzMlc4QmRwSE5OTmhBQWNxcXYzaE1QbmY1eEFTaXYwcXVzdGduQTkzOHdad3FyNG13a2xSSlJ5RWE5aHMxSkxDZ0ZlUlBObktGdkt1Y3R5OU9YQmVKUjZXd0M1X1E3TXlNaXhmNTh6Tk1vOW5nSm5sWWJVY3AzV0lmUG1wS043cS1K?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 87.68
-      },
-      {
-        "date": "2024-12-03",
-        "price": 84.57
-      },
-      {
-        "date": "2024-12-04",
-        "price": 82.93
-      },
-      {
-        "date": "2024-12-05",
-        "price": 85.92
-      },
       {
         "date": "2024-12-06",
         "price": 86.62
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 81.81
+        "price": 82.32
+      },
+      {
+        "date": "2025-06-03",
+        "price": 81.96
+      },
+      {
+        "date": "2025-06-04",
+        "price": 75.95
+      },
+      {
+        "date": "2025-06-05",
+        "price": 75.98
       }
     ],
     "current_price_data": {
-      "price": 81.81,
-      "change": -2.67,
-      "percent_change": -3.16
+      "price": 75.98,
+      "change": 0.04,
+      "percent_change": 0.05
     }
-  },
-  "news_sentiment": {
-    "summary": "Banco Macro S.A. (NYSE:BMA) has shown a record 97% financing surge in Q1 2025, despite a 59% drop in net income. This suggests that the company is able to maintain strong liquidity while facing lower earnings. The stock has soared 10.3% in recent days, with further upside potential. The company has also appointed Juan Parma as head of growth strategy, indicating a focus on innovation. Despite some volatility in the stock price after earnings, Banco Macro is outperforming the broader market and has been identified as a potential investment opportunity by insiders.",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

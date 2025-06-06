@@ -2,55 +2,163 @@
   "ticker": "K",
   "name": "Kellanova",
   "sector": "Consumer Staples",
-  "market_cap": 28435120128.0,
+  "market_cap": 28494100480.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.644836,
-    "PB": 7.2633815,
-    "EV_Revenue": 2.747,
+    "PE": 20.687656,
+    "PB": 7.2784467,
+    "EV_Revenue": 2.727,
     "ROE": 0.38149,
     "ProfitMargin": 0.10925,
     "GrossMargin": 0.36661,
-    "DividendYield": 2.76
+    "DividendYield": 2.78,
+    "DebtEquity": 155.528,
+    "CurrentRatio": 0.8,
+    "QuickRatio": 0.44,
+    "FreeCashFlow": 722124992,
+    "OperatingCashFlow": 1512000000,
+    "FCF_Margin": 0.057166320672169396,
+    "ROA": 0.081199996,
+    "PEG": null,
+    "EV_EBITDA": 14.518,
+    "BuybackYield": null,
+    "PriceToFCF": 39.468290697242615
   },
   "technical_indicators": {
-    "RSI_14": 42.80039756713614,
-    "Momentum_10": -0.394902266810763,
-    "MACD": -0.028865601160902,
-    "BB_Percent": 0.1017374653488714,
+    "RSI_14": 54.80471210804267,
+    "Momentum_10": 0.614927912938031,
+    "MACD": 0.0395542005032609,
+    "BB_Percent": 0.8069214755654296,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8890537670807565,
+    "ValueScore": 0.8861470349005175,
     "QualityScore": 0.4330061858518503,
-    "SignalScore": 0.6587552197998621
+    "SignalScore": 0.5679482205520106
   },
-  "volatility": 0.0022054822579149,
+  "volatility": 0.0020818520115634,
   "beta": 0.305,
-  "return_6m": 0.0226448297546775,
+  "return_6m": 0.0309898119661917,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 15,
     "target_mean_price": 83.4
   },
+  "news_sentiment": {
+    "summary": "La société K Wave Media a suscité un engouement significatif du marché en annonçant une stratégie d'investissement de 500 millions de dollars en Bitcoin, propulsant son cours de bourse de 133% à 143%. Parallèlement, des acteurs clés tels que la Trade Desk et ARK Investment ont accru leurs participations dans des sociétés comme Kellanova et Guardant Health, respectivement. Ces mouvements suggèrent une confiance croissante dans les perspectives de ces entreprises. Cependant, des ventes de stock importantes par des cadres financiers chez A-Mark Precious Metals et Illinois Tool Works pourraient indiquer des signaux mixtes sur le marché.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Kellanova (NYSE:K) Shares Acquired by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWl9kNmotQzNxMGRIUlpONU5hT1ZzTFdMckQxcWVvZDdqQ3J0cmtWM1RlQjdZTXZvNDBFTXZKREtzcmxjaXdTNk9kWUk3NF9nZkxKS1A4b2ZJR09EVmMyN0tHYTEtcW9TRDVJUjZZR1hjLUNoTDJqQ3hERm5CdExrbFhLUFZzb3VDaGZqZ3Q3WGdKWXRfQ19VeGV6NmRqTHVQajN1b1ZOWFRNckJ2Nk02WGVpeTRVSjdXYVNWLVd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ASAIY or K: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uYkZSNWVaMUdqaHp1T0hsM0d4b3c2bExZR3lyLXdkLWRNa3ZyM2FNLTBKb1JHSWp3SUR0WVQ1d29hcjVkdWl4WEhqLXM3QXdOTkNlVnNnNGw5UHZ3WVdOWGpmRG9SSVBCSjZwS2JINVc2RlliQjdoYkpCLWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "401(k) millionaires became rarer in the first quarter — but it’s not all bad news - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmotY3luWVhGSEF2Y1Y4UFNmZGt5M3JRa0V3cTE0V3NaVEZ1bWd1NjJMQjJDS0w4enZXY2htajQ4VTFDcG5YOTdfdHhSTDVUUnJ4OHQwMmdxa2U0MUxTVjRXZzVQZ0l6RHJGRXBSZXppSTNrX0RlUzBsMEhfVkM2TXhaSEdXblExRUpGWF84bGpLWTZFTkFIM1p4emM1S244QVAzLUhoWU5MeUdZSXI1dlpn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "K Wave Media Announces $500M Bitcoin Investment Strategy, Stock Surges 133% - TronWeekly",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlNXRQYmRBUjFoaW1qZlNXUU9QRldnY2hIc0gtbU05azl5VzFGLW1uTVlZMlRiY21CY3BPeXcxQ1NsRzU4bWZXZGREYW5BMGZJUkpseVBjaC1DbFNxVExHQ3dHdllpckZzOVNtRTVQMHk0eS1FYWw5a2syYnBQdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Super League completes $500K stock offering - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1NFeW9WZnFuQ0RiUzJsUDBmM0t1Y1ExNjl3U0c4T2xsdW9XSFNEREhKd3FOd0taaWJWUzlJLUt0emhEeHRWUzRNZE9EWmZoWS03d0hhdGZPVF9xZURXMnZOSGxSVmxWOE0tZW9ESmxqZGNCMHMzMmQ5d1BaMUVVS0VQMHRzQllJLUhncXozSXBpS25oX1lGX3dGSTMtbVBo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Astria Therapeutics Grants 62,000 Stock Options: New Hires Get $4.78 Strike Price Package - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjB1OGlGOFJscGJSN2QwajFiOWZBd0M5N2VFcTh6cXFRbFNqQzJIM1F6R1lmQ29JOC1iTVFVbWtlVkgxWlN6TU9tTXpkTU9zOFVaWlptSDBaenFvNFZ3d2N1YURENWU0Q1daR0tJN09zSGVwdTN6bl9GblVxTHF2MEJpQXdCeUlIMUxRdXd3TGIwYUpDZGhtUmdYTllNaFZOUEp6VTZSbDhWQkZwbFR2N2pYOS1iYWctYURfSU9FNkQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Movers: K Wave Media, Dollar Tree, CrowdStrike - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2QzVGlVcDR3c0VBdWNaWUEydzJ1ckUtdllQaWEwUFVLRjNmNDM1UlRxNDFUR2hxWngyRXEyYVRqbF9ocHVWeDAwYTBQMGwzNFljYjlvb0JaQk82LUNyMXRKZmNQVWlVT0NQMlNyTnYyUEhNUkxkWG1HVWQ1TTJfZFJSc3pYVm5JWE1peFMyNldFMXpHaFY2SkVRc3JvdUZGdlhDTV9SN2w?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nasdaq-listed K-Pop media firm K Wave stock rallies 130% after announcing Bitcoin acquisition strategy - The Block",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnMzbGlzbEZRWXpuRnBvRjdYeWtTMFhyQ1BGZWxOem9JWUsxdW5JSjNmbldOVDJkbk9CQTBYalphS3g2RlItSjR6bUdNM3l3R2tWazl2RC15TWlPMXdTbHZHbFVtYlh2TTlwYmJlZkktdXliUHZQTzkyOVZFZXRFRlVOX1RoOWlFSHNPRzRNYnFXMjRFazFCSndzZldQYXZfbkZvc0ZFRGpISm1zREx0R1ZFQlpDN1Q2aGp0YU1FSjFydENZcDU0Tk1tWl8xRHl4eC1r0gHYAUFVX3lxTE9Hbk94OVY5OWJCSVBBX2pBaUt5WlhGeW9ka2VUUlVzTHR6b2pOVzlORXlFcmpjdW1DeEx1UUdvdjQzaE5IbmpzRkxJWEdtZWFIaXpHMEJRQ3pOYWVUSjktZ2hFNnJxcnlJZUFYWnRxbXp4amFQSDItZnFTaWtrbUo1NnhwVWZVWm1EYklMMlR0U2V0SVRoSXl0dllpdXYzRTJrUjRZckUzSDlsTnFPdE8tb19RZDFfNTNNbk1NX1NibDI2TjlsN1hkdXVSdHpGeFZuRVFJZ2llRw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "K-Pop Firm's Stock Soars 143% After Revealing Bitcoin Purchase Plans - Decrypt",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRU9VUEs3MlFQT1hnTVVvY0FMQTMyYjRvNzUxSkFlYkZ5SDh5Ul9FRkZMZHlMclVCa042b0hmOUNYWGFPUVRMd2tHRlVvMDBmb1llWUJqdENLNXFJa292aUVRa2d5QldsaGlueVoyYTBLSTY4eXdtbVB1REhRdmNCbFZzY0w0T1BFemfSAZIBQVVfeXFMUHV1UmxYS0F2YjlNeGZHSC02WXRkbVlRYld1T3k1b0p4SUZUaURON0dGWFd3XzZ5MlNXalVxOWlERHFGdllyWTBscTFMRTJ2QXg0YmpyVDd5Z2hzbnNFXzUwd0JuYzdGLUllTlJDX3MtUWJGZm1sZDJPR2wwVTlOQ0pwc25IVzdQOGxRUkJUX21lelE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "If You Invested $1K in Apple Stock in 2012, It Would Be Worth This Much Today - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcm1ySEFlQndiN0dvRzZQMXMydVhXRE9xWVhhQTlodlkxbnNXQ3pKT0VmMFFCdlllV3FuQWF0YmUzMHU5Q2tOSS1TUlAxV0VXOGNBWkVUREdVVXI2Q0JvQnRIYmZDQmh5b3RkR1gtZDl0bEtTX25hTHhRTEJhZTkxTjJYSnF4aXZjMDdMUFV6LWRxNWpkeWZLdTU1S3A2QjlpRnRibWEwTDI2M2l0eTZYOVN6V3hvTHBoanB1QTlsazhNdEZRZlJWWFduOU9aajhLQXc0SFJCM1l3dzVnTFlUQ2ZBVk9LNC1fYUV2a0J4aE00NklITTFN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "K Wave Media Stock (KWM) Rockets 100% on $500M Bitcoin Plan - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0VLakV5RHlLdWptYXdwOWEtNktKWDVsbjNEbEEwZThRZzR4VGxoQi0tZHo0ck93enBzRUE1VkVVQTlTWU5DTHF5WnRoR2lvWFVSaGZuWU1WUlJMN3NoMDd5WTN0cTlyMnZHWlBnU21hV2ZMNEsxN0JOY0VCOTR6blNxNzdhOHpvTk91Tjhn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Director At Trade Desk Buys $169K of Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wQWdYVHJFdTgyeUZDMWdqcl9CYjZ4QjlWLWZXM2dwLWZsNjY5R0RHcV9sMW95SDRDMjRfMmJtSC1Ja2QwRGJIZjc5SUdNQTBPUl9KZDFET0tlang5WS0zaFc4YmhGdEdnTUZHQnZKYzU3elA1VXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ARK Investment Acquires 99.6K Shares of Guardant Health (GH) | GH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWC0wVHl6NGlNM1lXVmVyQzlXYTk3R1VZSEtNMmpWRFNOcEpsbXUzUEhObEVvWnNKQUlSMUlZOUpoOF9Td3dmZHVxMk4xN2FOaDVvNUNnWEIyMDJvS3MtanM2bHJEVy1lSHhLOThLNGxQYTdONkVucjVtR1Fpa3MyOUpFNkFHN2x3U2pkdEVkRlo3Tk9pY08yQUxJUTJhdUV1cmNLaDJxMlBQZDJEMWhWOQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "If You Invested $10K In Realty Income Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXhubVprckg3VHhHM0hrdFNFclVMTXJ5RnlSVTQzOWJySmdlZV9YNENvblR2M3FfTlJ5MmNhdnRHZUtHUHdZelFsMC1FYXB5NFV1bWRSNGprZllKUFBJM3JUY2RlTVJaRTEwQWtfMGUzQXNTWk0xN2FLZHhNdnFlZWV4MWs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "K Wave Media Secures $500M Facility for Bitcoin Treasury Strategy | KWM Stock News - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX0xKZ1otYllTOXVMWEM2NEFTODhJYXZTM0Zqck8xbWVneHlwdGpnRVp2M3dIQXR3dDY0a0JFNkI0S1BJMEpoZ28tZGtFS1RMZmdDVjZGYWJQTUd1dVVRMW45WVhrUGc3NXdhN2l4WUd0ckRJWEZYQ3IyYTB3UG90SXVKdk5TaG9uaDk4Tm95SHVrLWNWaloxZFh4WV91YkJlaVZMOVJtWGVjV1JyZzVwSjUtaWRqOWJVZVZGWUs1Yw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Illinois Tool Works director acquires $210k in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHBZdGNWTjlNT2RVV0kzNG1LM1NnN0Z4UDZwTldHSjU2LUZoUU50TEhRMFpJLUliSjk2WUlXck9yM1FBTEVucGhVVmRmOGdrN2xtQUVEZnUtY3ZRZWJPOHV0UHp0dWoxQzVDZC1NMl9rdTNrOTNlRHlKU1BJcVY0VGFyRVhkVTY4ZWJMSUU4S0hrWGlxUFdNUHV4ZWxyOVlXb1JReTVlVmFoT1dvWVdoSHZhcWVURmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Raises Stock Holdings in Kellanova (NYSE:K) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0J5dE53a3UyNE5sVENCVFlRYWlrWEVtY2pqX2d3RV9lNHFnT0RTWDROcUxhZlFjNUd2MkFoN1FEbnBEQ0NtTS01TEdBOUhnY2dSR21wdmlQdTV4ZTgyWElRbXJVa2JOZHZCZk0yRTdRT3NjZ1RFQW95RUhCMkNXU3h5WmFhVkhLeFQ3VXBndkh4V2t5YVltOUVNZTRzcjUzQWhxOVhobnBCYjQzNUlhbnJUZGZNb3F3LUJXMWtR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "RXBAR's New High-Protein Bar Disrupts Category with 18g Protein, Zero Artificial Ingredients - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWo1ODhMbHRxWGZaU3YtS2lGZmVjelpkc0JtSnhGdWdSaUFfc0ZpMEt4Y0JHOXd1cW13NWhqQWZDWWZzQk42NzdIRmxPOF9NYlZSSDNWaDF1WUdpeGREWldBM2J4OUxQNUt4NU1SdXd3LVlDUzJfb1hpVmFwYkJ4OUNKREJyV25MSUh4MlZtWTRhZVJrLTBNa1RRMW9fdVdGbTJGalpTMS0wQkd1UGJLQ1JsclJuTnRNblBz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A-Mark Precious Metals CFO sells $103k in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeV9vc2lLY0JTWVhYQXVVMzNtZURudC13LV9ESlotTDFNMHlGSE1wT05xSmR5RFJpcncwSlZfa2V4alMxTkctcTVYRFdySGxXbElFekNfUVp2WlQ4RktXVXgzaC1ac0E2a0ZBck96Ym4zZzc4QzYxOTBIRXVFMFRwMGdHa0dmamFDVHVHX1NhRTNkaF9FQUF6YzZ3TkRoUllsb1hIZDFDTDBhRTVuNWJJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "If You Invested $10K In Public Storage Stock 10 Years Ago, How Much Would You Have Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVU1kUjhjakFoS1YwcW9KTi1kanBDU3otbFh3QmNJell2MUdaOU15dmEwdkhNdGNidkZJTGxVTGs1a2g4TDFMaXBBUWpYMVdNWjV4MktYSkN4Z2V5Vm8wejJyYUpsOVZfbjVqaDZjMWs2Mk1DcEVJQ0VxX3Jrdmk1OGIzUUR1QQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 80.7
-      },
-      {
-        "date": "2024-12-03",
-        "price": 80.59
-      },
-      {
-        "date": "2024-12-04",
-        "price": 80.49
-      },
-      {
-        "date": "2024-12-05",
-        "price": 80.77
-      },
       {
         "date": "2024-12-06",
         "price": 80.74
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 82.04
+        "price": 82.13
+      },
+      {
+        "date": "2025-06-03",
+        "price": 81.85
+      },
+      {
+        "date": "2025-06-04",
+        "price": 81.91
+      },
+      {
+        "date": "2025-06-05",
+        "price": 82.15
       }
     ],
     "current_price_data": {
-      "price": 82.04,
-      "change": 0.02,
-      "percent_change": 0.02
+      "price": 82.15,
+      "change": 0.23,
+      "percent_change": 0.28
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nLe sentiment de march\u00e9 pour les titres cot\u00e9s est mixte, avec des signaux positifs sur certains titres et des signaux n\u00e9gatifs sur d'autres. Les titres r\u00e9pondent \u00e0 des \u00e9v\u00e9nements marquants, tels que des offres de financement, des probl\u00e8mes li\u00e9s aux march\u00e9s ou \u00e0 des probl\u00e8mes li\u00e9s \u00e0 la politique. L'actualit\u00e9 globale semble avoir peu d'influence sur le sentiment de march\u00e9.",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

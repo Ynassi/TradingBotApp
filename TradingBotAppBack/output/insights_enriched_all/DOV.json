@@ -2,55 +2,163 @@
   "ticker": "DOV",
   "name": "Dover Corporation",
   "sector": "Industrials",
-  "market_cap": 24130304000.0,
+  "market_cap": 24364752896.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 23.404255,
-    "PB": 3.3806496,
-    "EV_Revenue": 3.304,
+    "PE": 23.631649,
+    "PB": 3.4134958,
+    "EV_Revenue": 3.303,
     "ROE": 0.16876,
     "ProfitMargin": 0.29705998,
     "GrossMargin": 0.39276,
-    "DividendYield": 1.16
+    "DividendYield": 1.16,
+    "DebtEquity": 41.649,
+    "CurrentRatio": 2.129,
+    "QuickRatio": 1.489,
+    "FreeCashFlow": 922395776,
+    "OperatingCashFlow": 738398976,
+    "FCF_Margin": 0.11935378842625755,
+    "ROA": 0.06711,
+    "PEG": null,
+    "EV_EBITDA": 15.32,
+    "BuybackYield": null,
+    "PriceToFCF": 26.344780902379153
   },
   "technical_indicators": {
-    "RSI_14": 48.11206331340789,
-    "Momentum_10": -5.4010568910243935,
-    "MACD": 1.5717244563094823,
-    "BB_Percent": 0.3396198536556739,
+    "RSI_14": 50.625311009079745,
+    "Momentum_10": -0.4636466713017079,
+    "MACD": 1.0362323256707384,
+    "BB_Percent": 0.3193728334876835,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.888739602057753,
+    "ValueScore": 0.8857526024547246,
     "QualityScore": 0.344142513910576,
-    "SignalScore": 0.6647957220021312
+    "SignalScore": 0.5957177814833976
   },
-  "volatility": 0.0200995018004766,
+  "volatility": 0.0201140419935344,
   "beta": 1.268,
-  "return_6m": -0.1354680070644612,
+  "return_6m": -0.1144358537201455,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 20,
-    "target_mean_price": 201.432
+    "target_mean_price": 201.3085
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Dover Co. (NYSE: DOV) suscite un intérêt croissant parmi les investisseurs, avec des recommandations d'achat de Jim Cramer et des acquisitions massives d'actions par diverses entités. Cependant, des sociétés comme AEGON ASSET MANAGEMENT UK Plc ont réduit leur participation. Ces mouvements d'achats et de ventes peuvent indiquer des perspectives divergentes sur l'avenir de l'entreprise. Il est important de surveiller de près l'évolution de ces positions pour évaluer le sentiment du marché à l'égard de Dover.",
+    "sentiment_score": -0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Jim Cramer Says to “Buy Dover (DOV) Right Now” - MSN",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTNYNGcwVHZqM0EwdEoyNWk3YUtLQ1RGSnZHQUNRQ0NMdzdURkRrajVqNmVnOVBSeU1oY2RFclF6aDczU1g2Tjk5eDN0Tl9DUl9QWTI3bmhnSWhVNnY2UFB3SHB4SzZVNExRWGVKdldjYjZ5MHhXU2RyMTZ0cFUtX3FGZHNUMFU4UHJuN0hpckNyUm1tQ1dxdTBJWFNuR29sV2M4cHhLUnkzbkUya2hWdjJTdjNicWRWZWg3Tw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Says to “Buy Dover (DOV) Right Now” - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrLWJkN3RjUV9ralZxNlZrUFZYNVBJLUxEV0JocWxxWC16WkhOb0ozLXFqV3lsLWdCNktlTHFKX3l5TEhhR0F1c1djbjBTUGM4dFBGYURNTGVCT3RYQUdvUElYSWdfNnR4Z1d5TC1zWEhYTThPMElVbXVxeGR0VlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Revolutionary Black Ink Technology Transforms Beverage Industry Safety Standards - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdklLVWtscTFfZFpOV3gxSTZIUzVtRVZqdmI2WldLaDdVUGY0c1E3dlJ6aHZYRUxnZ0ZnUUk2WC1fcEtpUVdjV2gyWEIzckNvN3hTVnlkLWwzT3Blb1o0SElYNUdNZGZwZzloYTB5b1o1ZVVvTmxDdDg4Zl9SNG5Dc1R1SFNpWVB1SW9rdjhsM0x2Y1VGM2ZMUmlwT1dmQWpVTWIwN1dVSXJQQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1,530 Shares in Dover Co. (NYSE:DOV) Purchased by Clarus Wealth Advisors - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkt0UjlYLXdqQWVNN2Nva29waWdiOUZ6dlNkVDkzQy0tY2Q1MUh2SGU4UG5FTXlpa0lObkxaRWwxa2hLVlVXVWFTTF85MTFra1R3MmF6VW9mcjFXOVdfYkVHVHpVZ0JvWDVDUzdkRnpMdk1WLUZEZmlFdHZGcVAtOGZSaDMtdEZPSkdYenIxSmRhbjhhZ0xzODdsUFA2aXYxUHZRZ3o5YzRoRE1PTlpDbjBZdjBVTTdqbUc0UGVHUFBMVzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Markem-Imaje Launches New Black Ink for the Beverage Industry | DOV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTENoeEJnSmtXRW5JMXhNY3o4OUJ4bXhrWEotTmpLY0R1anEwZkF5c3Q3dDYxSHNsVF9vOUhMOGEzeTNYNVM3OGVNY2Iwa1Uwel9ZR2JpRXlfOE8tdTlwWWZJSWNYT082NkVDRElWdlk2RXNtakVweS1VRlN2UGZDVjNqOE43c3k5SHF4WlR1bmFkRWJDVnVick03bEMyNl94bG1Pb2d4M0tuRnVrWkF5bnpkbnA2Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When Should You Buy Dover Corporation (NYSE:DOV)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ0xTN2lRcVJlMWRXZk10UHV5aV9IS01EU1JiN0pJejY5bFpnOUluMl9CNk8wS1p1X2R6RkxjanR2aFFTaGhpM3lYWjhhYkFxVkJrMEd2RlJ5bllyVGc5RXhyRHZpYXBUUGVoRHQ4Sy0tTHdHVWhvdFhJTlR4ajNvakZMbmxqTWdtVVZSSThqa3djSHI5LUR3VE9SMFhPNFJ2VThmOGM0M1hkY210UXNvTlEySdIBuAFBVV95cUxPQnVNYVR0ZFkwT01rSFVkbTZfMkYwQnRGczNLSFhQMVMzWEtPR3RDRndPOW5QSTVpOHZWVVk4TjNDb0JLQWtrTzRmYXNzOWtlRklhZ0FZUWx5YVJhN2Rlc3Zra2tzcEowR1BDQm9NOG9ObDdneTJ5ZmtjcVJNTE5DZHp5YU5XdXoydFc4bFVjZzE4RHpFUVdia08zUjNON1JpeGZSVXBzSGpuY2NHN3gtUWNUbjY3YzBt?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Acquires 1,772 Shares of Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUlSS1FLYnp1TTJ6OWVobklVdXpTeVZWTEE5dW1mNmd3Y3VaNXRxNjliU0xaWlRBbVd2LS01cWlKU3d1cWl2MDA2VGMwdnd1OWFKT2Jrc2pJMW05SGpvdDc4X0NoZ3dXLUJDZlNTRWR5QlN3a2lMU0ZtSUFFU2NGU08yTU1ZSFVqYjMwLVNOQlhSdVhmdjV5RzNEUldzZS1EdjV1cEtLaDZ0SEk2RktZZ2gwRVoyVFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBC Securities Inc. Raises Stake in Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDRQVUhjcS0xTVdGRV9oeER5dmpESDljMHMxR1BZTGVHRmxkQ2h2TUxtSHdGOXI1dW5KVWZzelBKQktLLWlITkFDcG50VmZEZXJrWk9SVHpiREIzNEkyNjhGR1QtdE9OZlRhUlFoeGxKbkNQZ2twSHdzLWgwY2xzWng2TkpmQ0JKVTU5MzRQOUc0dnNBY3Fsb3I5OFFyTDRnS1Q4NmtGM2NhOGltOWtNX3FRQUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Acquires 14,996 Shares of Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjl2ZnJKemQ5aUt5SWxUTWF3UDIwYTRSbXlseC1UZG1DMFY4TVFZZzhLa3ppVWxHbEktWjhMRHY5ZFI0TVpfbmJpZS1KNXFCMEVRXzAzRDJOTzZ4QmhsQ1BfZExIUjgwdy1HQ3RZWkVOVVJ1VDNqc0pZajJjbXA4SWJJX0FyM2wxQ3FyVWhjd0ZyQmdMTmNrV3Y0dE9fbHNwUDlwbjJBenczYXZGbVg1bXRzNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AEGON ASSET MANAGEMENT UK Plc Reduces Stake in Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTR1TTFRVFNQa3hyUTFOUUJhM2h3aWZRdVBLYTQyNTV4SmVfcmZPSGo3My0wN3h2VUYwLTZKVDFpU0MyMDB1N1VqNEdCTjEyRHIzZXJnRzRTZlVkbzE1VFFXXzgwNWRLN0JqOW9CbnlMMHkySm56RFp0WDQxZTZ6dVI4NDRKQ2pPVTFfc1k3b210aXNOY2FoZi1VMVhNS0wyOTZHMVNEZTBacm4tbTREaWh5U19PMl9jLU1peG5SN204c2dzbVd1Y3Z3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "111 Capital Buys Shares of 2,471 Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1NoTFdWcFF3WGVVZGtEQXdESWJ4WnVTdzJhd2p3SThzbkxSbmpLSURPaWlSZUZFc0JOc3N2Wnc5SUhySFQ2aFBTcnNrVnFZRkZiN3J0UkRjbW85STF3Z2RPaFpSR0EtS1pmSEx0eTNxSHFxZnh1RjQ1MGhfZWJLeEgzTTBfdkhWRU9KdVBrY1VVc1M4QzNpRC1RLWx0TEx5d3dxYjZCRl9CZ0hiQ19Pamd2dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toronto Dominion Bank Raises Stock Holdings in Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTAzYWFob1o1ZjFPcGVVYk0xOXlzVmtKRTBGa1M5ODBKM25xdURFWUUwU0VIYUdTbUlkMU9ub2ZiSG5WYVRsNlBwRkVfRWxXalhWeFd4Wk1PTS1abkIzSXdhZ2ZPaE1qVUx4TWdKSWdNNVNqdkJTczFHRmY4ZEUtTW0xaGJpVm1sNm1jVHYwY0RPbWJwRFkxWE1Bd0Z5VTBZdmlUZlNLRUVUYkJqZWJvUlRlZ1VIN1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Squarepoint Ops LLC Sells 56,243 Shares of Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGRSNlpkeW5aN0E3c2VSenhuYmFSLUFIdmhveXhNWTJUclh2MUNBUDAtNXhnU0dWczR0OHhKUVlvMjFMTnA5Q1NEZWlkaEZlOUk4cDk5Zmk2UkhPSlRIZ3V5ZW8xU3REUkdQOFBkTTRtY29ZcURhcmJiejFfV2tIclJ5ZVRpZUw0RDEtanVyX1lBZ3RNM0xYSUpxZjZhM1RHUmUwR25ZT2J3Wmg2UGNRSVRPNVg2SkRWN3NJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dover Co. (NYSE:DOV) Position Boosted by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdnNvUHoxOHZOT3pKcDRva1JuaUQxNW02Z20tODRmR1FhLU53bnkwSmpFUldJeHJQbzBZVkdNeV9NUWtTN0tUNE1tM0RsSlFfazZ0aVBXR3ZZWGtxQm9BMkR5cXhHN3VxRjJKck9WaWc0RG1NM0JIQmdyTnFJa0NGUnQweE54NUhTeUl2VkdmM2hLdEk3ZzlWTmNaS00zc3hyUWNzdU5YSEthc3hTc3Bxdl9R?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Takes Position in Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWm0zVGkzbmtqYVc1YlRyNGhxbS1WNGYweUlTSHNwQUtXSjFwMUh0a3U0dk9ubW10N3ktRXhqZWY4azBEdTN3SXVlRWRZdUhVQ1NEZzk5M2RtZlpPNnJ6U0RGUDJHeHBTTFJ5S1U2M19ENkNJc2s2eEZpZUVmZHREUjE2cVNHTUNESUh3M3pzXy05MTFCY0kyS241M0MwSmNKYjg3ME5BRzFSX0ZMcUVFaERXS19YNm5ETGdQaVdaRFFWb1BPLVljZllRNUdrWW5xblM1Z3MzVEpuWDItN2pSTHZxY0VoY2RO?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "D. E. Shaw & Co. Inc. Reduces Holdings in Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWEU4aUZoSW02Q2RsWEt1dEI1VlNFajVqYnNHUFEwLWlZRHNfNmY1NVpkUi03Y04wN0R6ajJRQ3Y3UnJOOWRNRU15MG1rUU5qN0JmSEVGbTNSbjdWbVlWTHhaWHo2alJNaFlqNkFzOVV1VEllU0MzUXVybkN2SU5yYUZlUkU1TkQ0ZHhYdmljM1dHLVR1cHJEc1JKeGhxVy1pRVIyalV0UjIzeVU1S1ZHS0hKMGUzNnRnS2J6S05lMA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dover Co. (NYSE:DOV) Shares Sold by Public Employees Retirement System of Ohio - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjNtWjBpc3NWc1pKeEN0WGh1RmJTczFwMXBZdm1UM01KSkxTUkliWVRKR3lPWE9PRE0wSmprZUc4TFhYcVBDWU05c2RVQmhkeHNtM2d6SGlxcGNWa2tSZHZ5TGU4MjRxYWZveW9hajMwNTRHb1N6dExPRTNLTjktTXM1TTZlaEo0NkN3bkNzUmtvdmU4QVBYUUJTbGExTTBqa3BtbkJrajVpUzNLQlBRWWd6VkUtUVhNbGoxTGJjeUJhNEJMekFQUXBRU3pKcnNwV1VF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1,810 Shares in Dover Co. (NYSE:DOV) Acquired by IronOak Wealth LLC. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1JRTGIyaTRERkxLbzFMMzQwNEl0TzRlSUhRYmpQb3hvWlM3ZXdCMUU1Z1huU24wa1BjTWZKaS1JemRCREFGSFhTX05hbk9RU3BTdHdBSkFnS1JNcDMwV01OdEExYkhZWHhiOGFvSTZyQ3Z0OU9SU29DSEdrN2c2c3JxUHhYb0k5NzBtZnZ1TkpjWTQ1dm0tVUpUdEJzZHN1dVRMU1dCaDgtOHB4SjNRTEJ0cmg2TlBGV1FiaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "California State Teachers Retirement System Lowers Stock Position in Dover Co. (NYSE:DOV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWVnZDVwUWtkWkxQRlJvNW9BR2pYTElCektrODJKWGo1d242Skp2dmRjUTN1U0tiMjRwc1hka3dYT0k5Mjk3T3FQaXB5WVdNdE1GdEpMc2JaTGpuaU5KZnZYSDRqNmxwTHcwMWhvamZVY1c2M1RobEJQM1ZpTkRud3NQME5WY0JGVVFESlFuWFFSRTVsOGs1WkY3eWxfNmx2eGxqb1h4Rk42YkJrTzBMOWo5TWlfN2dQSFNRZHUzTmtWYXdBdVRwYW81RTkyNktrTmFoTGh5b0dTdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Dover Corporation (DOV) The Best Industrial Dividend Stock to Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXR5SVBTYWpYaDhyMVo2MzJHUmRfUDdlT2EtRjZtekw0Ul9BZ0dWd1ZKSUlIZ0VweU5ZZXpRdGw4LTFOaEZXVU5qN0hHYjRvQWotY0NpYXB1SEJUMFlHVHFTTjRPUWVPcnFOMzFNZVRwWUptc0VycWhZN0FOTHI1TGo2cVpudFlCT04w?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 204.7
-      },
-      {
-        "date": "2024-12-03",
-        "price": 203.77
-      },
-      {
-        "date": "2024-12-04",
-        "price": 203.28
-      },
-      {
-        "date": "2024-12-05",
-        "price": 201.78
-      },
       {
         "date": "2024-12-06",
         "price": 201.46
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 175.89
+        "price": 176.08
+      },
+      {
+        "date": "2025-06-03",
+        "price": 177.97
+      },
+      {
+        "date": "2025-06-04",
+        "price": 177.66
+      },
+      {
+        "date": "2025-06-05",
+        "price": 177.24
       }
     ],
     "current_price_data": {
-      "price": 175.89,
-      "change": -1.76,
-      "percent_change": -0.99
+      "price": 177.24,
+      "change": -0.4,
+      "percent_change": -0.23
     }
-  },
-  "news_sentiment": {
-    "summary": "Dover Corporation (DOV) est l'entreprise cot\u00e9e concern\u00e9e par ces nouvelles. Les principales tendances cl\u00e9s sont :\n\n* Dover Corporation (DOV) a \u00e9t\u00e9 cit\u00e9 comme une entreprise \u00e0 \u00e9viter dans trois articles.\n* Dover Corporation (DOV) a \u00e9t\u00e9 cit\u00e9 comme une entreprise \u00e0 acheter dans un article.\n* Dover Corporation (DOV) a \u00e9t\u00e9 cit\u00e9 comme une entreprise ayant des dividends sustainables dans deux articles.\n* Dover Corporation (DOV) a \u00e9t\u00e9 cit\u00e9 comme \u00e9tant une entreprise ayant des parts de march\u00e9 consolantes dans deux articles.\n\nEn plus de cela, Dover Corporation (DOV) a \u00e9t\u00e9 c",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

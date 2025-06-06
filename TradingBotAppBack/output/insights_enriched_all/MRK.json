@@ -2,55 +2,163 @@
   "ticker": "MRK",
   "name": "Merck & Co.",
   "sector": "Health Care",
-  "market_cap": 190436507648.0,
+  "market_cap": 195458564096.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 11.023255,
-    "PB": 3.9479437,
-    "EV_Revenue": 3.42,
+    "PE": 11.313952,
+    "PB": 4.0520563,
+    "EV_Revenue": 3.476,
     "ROE": 0.39293,
     "ProfitMargin": 0.27274,
     "GrossMargin": 0.7707,
-    "DividendYield": 4.22
+    "DividendYield": 4.14,
+    "DebtEquity": 71.992,
+    "CurrentRatio": 1.41,
+    "QuickRatio": 0.827,
+    "FreeCashFlow": 17124249600,
+    "OperatingCashFlow": 20878000128,
+    "FCF_Margin": 0.26789289500156893,
+    "ROA": 0.13809,
+    "PEG": null,
+    "EV_EBITDA": 7.717,
+    "BuybackYield": null,
+    "PriceToFCF": 11.381880415478177
   },
   "technical_indicators": {
-    "RSI_14": 41.67568251949315,
-    "Momentum_10": -0.269516445227646,
-    "MACD": -1.344674497138655,
-    "BB_Percent": 0.3129417069158005,
+    "RSI_14": 47.85392564185934,
+    "Momentum_10": 0.9352995062499486,
+    "MACD": -0.9100729851175516,
+    "BB_Percent": 0.6369114603320876,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8900095602722203,
+    "ValueScore": 0.8867518834232526,
     "QualityScore": 0.5095805136645691,
-    "SignalScore": 0.6638814722607878
+    "SignalScore": 0.5996611895423054
   },
-  "volatility": 0.0198453612779369,
+  "volatility": 0.0197669006882849,
   "beta": 0.441,
-  "return_6m": -0.2337009401420775,
+  "return_6m": -0.2358698122567025,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 24,
     "target_mean_price": 101.78708
   },
+  "news_sentiment": {
+    "summary": "Merck & Co. (MRK) fait face à des vents contraires récents, notamment liés à sa dépendance à Keytruda et à une tendance baissière sur le marché. Malgré un potentiel de croissance, des avertissements sur de possibles mauvaises nouvelles suscitent des inquiétudes. Les analystes restent divisés, avec Goldman Sachs maintenant un avis d'achat mais mettant en garde contre des risques. Les récents événements, tels qu'une offre pour MoonLake et une participation à une conférence santé, peuvent influencer le sentiment de marché, mais la volatilité persiste.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Merck Stock’s Ticking Keytruda Time Bomb - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaE5kbHZjV0V6WXN5Rkt2dG4xYnhMYWp5Y01rX0JhTVdXX045SFBQZ0pYSjBrSFNJVHhFSTM3Qm5oQlBsNWZCanc2d0VnZmZORDh4NDBBWm9WUm5pWXJoVnI2ZTZwYm5CWlRWckd6Nl8tYjFXcF9BQ2t0TG5DNHA0aHdzWGp0QzFWT21UNWpaRklEWGlqYnh5OHlaeDlLaWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PFE vs. MRK: Which Oncology Drug Giant is a Better Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50ckxfZHp4UnpQM1FocE0xMUJsaFUzaDE0UEpaLVhPRGM3c19pM1drenl4enB2RHVnQ3JPMWY3eTlqeVRHRC01YTB1NERJZV82UDF6SGMyWDJvTmNpcXZsaV9wQUQ2SW15ZVFzS29FMFF6SldFVzdvZk9B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merck & Co. (MRK) Stock Slides on NYSE, Extending Recent Downturn Despite Strong All-Time Gains - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDBDREYzeWV0am9OWHRlb0J2T3lWQzg4WlFPaGUtUnI2TnpIVzA3azZfMFN0U0JvS0RHQ0c0d181NkNVM2REb25fZkstazkzZHdPS0g3Sk9lYi1kZ3NtU3N2WHBjOUlBN0FyeHZpS013ZnJLVWcwT0hmS25ITEdmTlpxQUwyWW9OMWNHR0h6ZklkNUN2a0lFMkhnejN5MkNNZXBNUm5sMHJ5UnN6eF9ueWxxQk9EWjFTT1hFdEd0STNibjZVZmRocEhqVUkxRXM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Merck’s Keytruda Dependency: A Growth Story With An Expiration Date - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejlEU2dpUXBOaVpNaHZ2MWRtR0VCdW5pRVhMRFN5bUpHUnpya1cwTUJLRDZxcmdqRGRMMHBzcnFjTmRPZjh2U3BtSlFHY3JtVUlKYzYtSS00a1JMSWxqMHlZamotX1JVZ2toMVM3YVVMcXdhSGpZSFBiZjF5NG1FVnFsSjItZGNSWFFEcklOYVcyQ1RvUTUyQWJJNmN3QzloLUo4bV9SVGhhWXBRZEdVLVNsb2Vpb0QwQW1sWF9qclBzbHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merck (MRK): Bullish Options Activity Surges Ahead of Earnings | MRK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWWpfcG43Qm5kV1VueEZSNXJBRWVqZkV6QXdKbi1YTTBGVzZ4aUg4bVBmLVBJTW5pOW1GNnpGdF8wUnpQTVJ4MXdXc0txWnlaVVNGNFp0TFF4bWpGYlY4NGh0ejJSaGYyckRaZm9TWmlwS2Y5ZjZOQWNqLVZLeG1NX0xVWEhaN3VBWHVNLU9MdEVnVkkzd0VWalFNZEd1RDhRNk0yanB3UklGMWQycHhsc1BDWkk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Merck Stock Underperforming the Nasdaq? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQcll1VndDTGhpTFFUblpHRHV6bWpwb01NSmNBUXY1SlE2QUpzbHAyTlNUT1paTUtxbER5c0RJZlF6WnlldDhnNDFiV2JjVmRPT2ZjXzV6NzVxcFJvaHFEaXJNdGtfTkRwYmlyUE5UM21RMzROMGF0aFRrSTRnbS1veThfUnRFd3ZpTUhWTTllOEJpSE1ZVUtGcE1udVJIOEhzZDBwQnNVSWtHUFpWV1R0U2dlMlBKWlAzZ0VscER0UEdJdTQtMDE0WXNHNjlUVUJnaHl6Z01JQ3l3VUk3dGpLZFFfZWxod2RnVFotVllPcEJLZ3hHYUpjb21WRExVUW10djVBUDRadDlTbUpGTi1mUlpmd1JGNTRYYjNvQ3l4RXItd2FfX0VkN0ZVQWxIV3Nq?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Merck (MRK) Outpaces Stock Market Gains: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXNiZERxQlZYY0dGRXBCY1gwNloxdi16ek0zTVM0V3pEWVJhMHFnM3k0UVl2WWtoRFFLTHh4amlRTzVvbVJpZ0x4bHNZX2ljS3FRSk53THN0Y2hXQTdPNE5tV2dCWDVDQ3pVMEhpSDdiVDMzM005Rk90NzcwV2pGN21GZzA0R2djR0Fsa195cWtSSTduRjJF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analyst Says Merck (MRK) is ‘Really Cheap’ But Warns About Potential ‘Bad News’ - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXdMRDNRdlpTWHJHTVpyeVV3UkowaEtqeGpwUnFJbTdCejlsUnFFdXdiRU5MRUxQV0h3aG5PcFRvSkRLckppeFlBQUtGd3R2ZjhQTzBPQ1BFSENoUzY5Nld0WWd0YnN1T1VxWjE1UWJTdnJWM2R3eU5kNWxzT1A5RlJ3a0U3VUJLemMzS0pRNm5YSEV0Q21ESDhOOW05bmJ0QWg0cVNUNUZuZzl5RjNfd09zYUE3NDVa0gHAAUFVX3lxTE1RVHBJbm0zLU1hT3NFUnlMNXV1QTE5YThnM01lOUhrVVBob2MzNEJVMFlEVE5fdDFTaVZHejJlQXNIMjd1WXYxTmcybGtUNGM3dTJrel92WV9WRlNwUkM3aFlzaWRUR0Q0ZmNHMDBlUE5SV3lSdk5pQm9oa3ltbC1xd1FTU0tqRm9ZU1dUX1hGU0VCeTFjRXhDdEVkanRkRGVUZFZuYUQzZlVTWjF2SEVxWEx6b3RhVjRYWWlmbDBMUw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "goldman sachs maintains buy rating on merck stock amid oncology strategy - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVzJacVkybEZidGdQaDQydXRXeFBwbEpDQXZadDBSdHZyVnJQbmdqem1GVFBvQVdHR0ROZi10cE5yT01LZk00dDQ1Mmh1M2lkVkVZbkVVYWhfSm1MNzhlQjU1TEV4YnRlUHpTZzRjb3pIYW81a3BnWWhwcjNxNjAyZEdFUk9SelNMeWJZblAxaDRTNGY2MU5kQURSSlhFRS0xZUVaeFRzYlUyTmZJUmdic21mSXFrSXUzbUMtanVCZVhwb0dTNFZOWHgtc2E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merck & Co. Stock: Inventory Doesn’t Lie (NYSE:MRK) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Mb2JkOExIanhqcm1Zd0d0MlVhUVFQSjVpVWViZUVWOFBMYnNabGdPb2RKVnAydE9xTmFCTU5YeWNRM3dld0FUUW1CcXFHM1VVd3BkTFBORXdPdGVoV2R4NERwUFdxTFNFZDM0TDJ1WlFUVkt0T0pkN2l1d2RMQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy MRK Stock At $80? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS3prQnlIb3d5ZFV5Wmx6UmJqeHQ4VWNSdkFmSWdYLUFlc0JIc0M4SnJMNnZ3S2lQbzFOcWxfUlpkcVF0N1g3YXNFUC1qbWpWd0F1QWd0WDBkTzJtNWFBc0V3RHQ5X1AzejM3TFdYUUdzUHJYSUplUWROUVI0OXdHV3FZSmhDTFRWUjVTSGNoU1l0d1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in Merck Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMmZ0UFVFcm1IYXZ0RU15aUZhZjlWdUp6QUNEUFNHUThpS19EZW11amEwNXVLS0preVZfTlhLZW1yU2Y3NUdLRlNRS2RQQ0JpblhFcG42NHh6WjRLcDdHbmdUYm52ZnRxY2R4ME1ZOWRRbnprS2VIdE4xOVNiRFVRQ1ZxaWI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on Merck Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVnJHMHZtbkp1M3pEZnVDX2NzeHRVUmtfLWY4RVk5NlJJSFhWUk9lMzRta2RBS3g1djA3cEdZWS1GY01lZmpsXzJmdF8tcEF5VzhuUGdhcFFZd2xFdDhzUUw0NzBDd3lSV2JOZHZTMDB2YXdGQXBSM1U2LWdhYzcxRkNB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merck made $3B+ offer for MoonLake earlier this year - report (MRK:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFh0R1luNDctNmtDbFBGZ05FTWRiVWFxbGZFdnNDcEpjREJ6MFF4RG9mendDcTZHOXdjUzYzR2NFM2ZGUU5UVm0zZzA0Z3E3dHRuaFNCbTdOd1psUWRnRlBwTVdPRmV4UVVlQXpoRm9CaWlRYU9KaVJ6cTh6T3hXM25qZ0k2c3VNMVZCRDQ1QWR2aUtLLXRKdmZGTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merck to Participate in the 46th Annual Goldman Sachs Global Healthcare Conference | MRK Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZmxzZUhWNFBWbGFoWVJmMzRrd3RtZ3dYb0FlMjZ1b3UzUWQ0VHpzTXJweU5pUC1sZzNFcmFGUkNSa2NrVThRUlNaZF9ZMmppWlNUY3dNangyeGpXRTB0aWM2ZDYzUVhqTDNRS3BMMXFuSEJEVmtrQVNxUW9yWlB3MjhQVGVkWGN3NGtNcnkwRXV0WTQyX0tOUGNTYkRzR0taY3JjLVZLcnY2d19IcjgxY2RVdGJSNUozdDdOM2I3RGNKZEFwUGRPLUNqUDRuRDZObU1Z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Merck Stock About To Crash? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbGw1OWxaQnZ3ZEljLWtKM2xOSlAzRmxfRjJDWHJlTzFydU1NT3ZXeS1FdnN2eUFwZS1IT2t1endzcXR4VTRabWZZYnYzNG05UGlGbG9tUDNHLVNWLUtzYjIzYXRXVm5vOVZxZkZnZC14MHFqZGc1YjFENGtHNHB5VVBYZl9ubjlvNmstSm1MaC1CZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merck (MRK) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMFlkNmJEcDhZMWNLYjZkSFRNandKLUlEVmtVb1R1Z1ZjLWZOeUpfeTdBT0xOVUhWWk9wVW5fV1F4MUtfT2NGSHRMY0tuaUN2V0lFcTRXOG1lV2pEWFo0VlJSdDVDZTdETWVQU3B4aVN6UzlxajdQTlQ3YW1acXdIcHdQTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "MLTX Stock Gains 18% as Merck Reportedly Eyes Buyout - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01OWpndlZYc3Nvdms1bVRib0J1WXdONUw2bXR5Y1FkOU0zZmFGUlRsMkRPYWZ1UHFjekJEWXVZR3JlY05PTHYyQjNtYVlUczBOazlDLXhvRFpweERtUkRGVVV1ckh6Z0xpTUV5VzNiX2pxakRJVGIyOG5qQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should You Buy, Sell or Hold MRK Stock After Q1 Earnings Beat? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aNHoyNlNMUzQ2RUtvSldhc2lIcjVUU2prWlgyV0dvVzEtVU4xQTNKWVo0Q2NrZUhza1FLV3BZcEptU3Etd3hESm1INXdLZ0E3RXh5V1pqc00xYmY0MElhUGozSEp4VGxJNHFadmQ2UTVKYkt6WnBfNg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Merck & Co. (MRK) the Best Pharma Stock to Invest in Amid the Domestic Manufacturing Boom? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jejViZnNpM2V0TU12emV5d0FrY2Z2RDVpenFWTXVseXpMUkp0VURVbEo4VnN4YV9ONnhnMlVxUXVVei1qWjdSeGlwZUpiTW52c3hwZDJCZFlXWGR6R3VkcnFnWERWTnFVeTZSNC10TnFyTXVLLTA2S3Jn?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 100.61
-      },
-      {
-        "date": "2024-12-03",
-        "price": 101.85
-      },
-      {
-        "date": "2024-12-04",
-        "price": 101.37
-      },
-      {
-        "date": "2024-12-05",
-        "price": 103.55
-      },
       {
         "date": "2024-12-06",
         "price": 103.09
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 76.01
+        "price": 76.25
+      },
+      {
+        "date": "2025-06-03",
+        "price": 77.14
+      },
+      {
+        "date": "2025-06-04",
+        "price": 78.27
+      },
+      {
+        "date": "2025-06-05",
+        "price": 77.62
       }
     ],
     "current_price_data": {
-      "price": 76.02,
-      "change": -0.8,
-      "percent_change": -1.04
+      "price": 77.62,
+      "change": -0.64,
+      "percent_change": -0.82
     }
-  },
-  "news_sentiment": {
-    "summary": "Key Trends:\nMerck's stock has been in the spotlight recently due to its dependency on Keytruda, which is facing an expiration date. The company's ADC drug combo also showed antitumor activity in a study, but its stock price has been underperforming the Nasdaq. Additionally, options traders have been betting on a big move in Merck's stock, while analysts are bullish on the company. However, the company's stock price dropped after a BLA for a lung cancer drug was pulled, and investors are questioning whether to buy MRK stock at $80.\n\nSignals:\nPositive signals: Merck's ADC drug combo showed antitumor activity in a",
-    "sentiment_score": -0.3,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 3,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "BSX",
   "name": "Boston Scientific",
   "sector": "Health Care",
-  "market_cap": 153929367552.0,
+  "market_cap": 152642256896.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 75.94525,
-    "PB": 6.928942,
-    "EV_Revenue": 9.51,
+    "PE": 75.31022,
+    "PB": 6.8710046,
+    "EV_Revenue": 9.272,
     "ROE": 0.09498999,
     "ProfitMargin": 0.11581001,
     "GrossMargin": 0.68452,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 52.163,
+    "CurrentRatio": 1.45,
+    "QuickRatio": 0.676,
+    "FreeCashFlow": 2315000064,
+    "OperatingCashFlow": 3812000000,
+    "FCF_Margin": 0.13187877867611278,
+    "ROA": 0.05283,
+    "PEG": null,
+    "EV_EBITDA": 35.881,
+    "BuybackYield": null,
+    "PriceToFCF": 65.71569846142346
   },
   "technical_indicators": {
-    "RSI_14": 53.081420256070224,
-    "Momentum_10": -1.744623215907762,
-    "MACD": 1.118078914456433,
-    "BB_Percent": 0.4280814916003003,
+    "RSI_14": 48.66508505704784,
+    "Momentum_10": -1.5481677714366375,
+    "MACD": 0.5481441521590682,
+    "BB_Percent": 0.2562991713300696,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8603853786730311,
+    "ValueScore": 0.8582480085149339,
     "QualityScore": 0.4327588689357254,
-    "SignalScore": 0.6150752195678093
+    "SignalScore": 0.6130067064599072
   },
-  "volatility": 0.0170932020445052,
+  "volatility": 0.0171338235659172,
   "beta": 0.688,
-  "return_6m": 0.1505584188634607,
+  "return_6m": 0.1396775040645719,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 33,
     "target_mean_price": 117.02273
   },
+  "news_sentiment": {
+    "summary": "Boston Scientific (BSX) a connu une série d'événements contrastés récemment. Malgré des ventes internes de titres par un cadre dirigeant et le retrait d'ACURATE du marché entraînant une baisse de l'action, la société reste solide avec des partenariats importants, dont un accord de plusieurs millions de dollars pour des dispositifs ECG. Les performances boursières de BSX ont attiré l'attention, avec des analystes soulignant à la fois sa croissance solide et des revers inattendus qui ont bénéficié à ses concurrents. Les investisseurs doivent surveiller de près l'évolution des fondamentaux de l'entreprise pour anticiper les tendances à venir.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Boston Scientific (BSX) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc3A5UzM0dTBuZ2NPMkVTamRYbDI2VFFXMUpjcVJKcmsycnVzdkpQZzlEM0FyaFV2dWt1SU5fV2FnbzhoaDV3NC0teG9LZG1XZzBUUlNGZlBheWtEQmk2NncyYWR1N2YzSzF1bG1pa2I0MXlKeFBCSVMtVFYwdVlSczR2aTNNclQ0OGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How Is Boston Scientific's Stock Performance Compared to Other Medical Device Stocks? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYzBXLXlfM293UjBhTW1HRTZhM2h1aTF0MXB1WDRyUVpIRURwcFUyMS1VZmZwek5LTm1ja0NiOEhXNFJHVktaZ2dJQW5wX3E3NEQ4bjdIdWlGSUk3LXEzeHpzOTFybXROcVhjS1ktNjdtbWUxcTc1cmNtXzBjeTZCV1pKVXh4bnZtTW9XZTdBaVRtV3VHVXVtbF9JNEt6Nkxobmt6WTVkRmZOelJyQ1VUUUxfNFgxaGhEVzNqQTZyVTBCSEFWb1hBVHVzRVJMNnVuTE9R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Sale: EVP & Group Pres of $BSX Sells 56,372 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2dYTDVPYWY1dzFqZVBScWVyWUVQZU83RnJGUUp0TUkzcDJMM1lHMVdvTl9nLXNURzdZTUM5R0k1U1ZzaEFEVGw5WFgyNXNRbEtCUjNVTDU1RkcwYktQQVVMa05oY3otQTM1ejNFdDVLaUVSRDRMUXZJUzlZbmx6dVZMM0ZaWEhrVlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boston Scientific Stock Flirts With A Buy Point, Once Again - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnh3ZjBHSjYzTzcyYWNGTmhXRlE3aDQ1TU5UX2ZCcGFpX2RwcTc5c0ZuSGpDOWdUM1AxRDR3UnAwUGktWFFIREh6bW5wUFY0d2FmQUNjUTZTdzdTczI0VXUxTlZaRFhuQklMdDZfb3hxTllTRXljNUp0WUpyUnl1Ymp5c2I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Is Boston Scientific's Stock Performance Compared To Other Medical Device Stocks? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSTB4M0kxdnN2WDdZVklrQTR1UGJ2bFFMcXUxM011cEJZSUtRT3prb0NCY0dTb3pIZnY5R1JUZWNFUzVXaExua2duSS1sSm9wLUhjRnVMX1o1WHFQTjlGRWd2dHVjYlkxZmZOTUZ5ODVaQUdoNzRfcnp1ODROOVlnTW10UEtQZ1B6b1NfWkg0MjN5bVB4V0lvVURXUW1TNFZaRnRSd0VhSkNGYXZtSnpWZGhiNVBIVmtzS1FPR0pBRUladFdFQ3NISw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boston Scientific stock falls as ACURATE is pulled from market - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjRnZ2JWV0pmd1lvNFlMZ1Fkc0ZSLUV1c1R3eEtCM1pWNnVtbmRDeTRZTDNMbHVwUUdERDAxVHEyNGFFSmhRXzhmT3ZteGR0QURCOU4xSFdvQjVxUm13Wml0Vkt3SHVObXpmUk1pMFJNVWFIc3piSFVSOWdBSjN5bDNmUDZBamlpNkhZNjlfTzVkbmRZTGtycjdB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Boston Scientific Corporation (NYSE:BSX) Stock Is Going Strong But Fundamentals Look Uncertain: What Lies Ahead ? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHdDOFZxOU5OVE9VT0dJMWZlcFJQdmJyRkJpd1dsWlN2UEZUSFgySS0yRmo5Q1R3VWZvU1RQaEVDb0NOUVVTLTl6NThHSXU3c1V3TTN3MndxMXJzczV3cFcyMVZMcm5SZTFzUEVubEVqZTlTVUhTYVltZFNNXzZQSk1SRktRaFEwRnV6WDl1WElWY2VEM2ZYNTBucDh5MmRpTDNKdkxPWkszZ21KYjktSUJUWVVCVWt2MTFOTkNVZ195NXlIQTRYVV91cnF5YXPSAdQBQVVfeXFMTXp6YzUwd2RfVkxFMjFfZEhJZHZMR1J3cnB5cU5rekRtREZITDdaVUdwMlNtanp2ZzZtYWVvbTZ3QTRqSnVtWjltUzhyb2huVFp1STNtMjEzMFFkVk16dF9hYjhUWWVXMlM0U2FxN0R3cXM0TlRBT3hZOVVNQnlaTHpGUHpGa09QTFJnSzZTampEQ2loOWhLMTVjckpPdjlITW9NSE43dDlvRm9tcUNDX19qMVJoZ3dfN2NQLW9IaEF5TS1VcEduWmpwZFRzNWduNHZVRk4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What’s Behind The 130% Rise In Boston Scientific Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUkdpUHE2WVJkc0ZTVmNxOVpVMDViUExsZ3g2anJjZVBWS3I2eVdnTzFkWWMzWlV6bXR3QmZHTGlYc01vRmItaGtzOHd3a21hVmhjOTdqb05HRWVwMW5nOHRCNzBSQ2FBQU95U01saC1PdDY1OHpQb2pZUWxxanFJQVpSa19XWGJTSFA1MDR4RkstT2RMWGdFMURWR3V0dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Boston Scientific (BSX) is a Strong Growth Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZU5GblJLa0k1RmFVbG9zRndaOW1LV1c3b05CM0hfc2Y2b0VDbTRfS0hBc09YcVNiUGlKZ3VxSDl3OU9UckFfODIteXpsOW5NbC1DbnM4LU9nOWMxOWZpOWN6T2ZMMVNQMFk1YWxUZURfX2k4U2hJdDVZV1plOV94Szd2MA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Boston Scientific (BSX) is a Strong Growth Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORm1fQnp0UjFCcGNGS3p4S0pJSnNBR3BUc0xvbWIzQ3RSc0Q2UkZTakhzLW5kNEx0RUV6NG1tOXR3LTZTTExKSDlPMHE2cHVzcWpma3AwNEdlZjRweWtza0h2TlBkX2lQS2JaalZ2YUVwekNDMXQ4VHg1T2tKLUI2cmtMTHEtT20xTURuWmxB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How Boston Scientific's Surprise Setback Bolstered Two Of Its Top Rivals - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGhkTm43TVpEOXNRNlhOd3dLckM5WFhuOTg4UVN0NWNmX3NkVk5PdnpZZklBMXB1dmsya1owdnlYS1lfZDl0aFA1aFBnY3NFVTdMdVJfa0pOQ2w1cmhQVlZ5TU95OVY5UmdVV0VleGplZm55NmVoZ0tUM3NHOFVIbUdUMzZGUW5BMGRLTVdsdUg0Yk9kV0VJ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Emerging Markets Power Boston Scientific: Will the Growth Trend Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkNUNHE0VnBzaVZGeFNfdk9qU1dObldpZXYxRnBRaG5HTDE3VlZKaXBFZmlid0NBVkwwMDJ0WVE1djhXWHJvY3I4bHotdUotSTVhdnhSVzF1YUZHYUdtX1JFZVVneWhwaHlsQ1B5eVl0TDNSQk5UeHNHZnFWbV9TQXBSdFo4bkZRZk9vSlJhYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is it Worth Retaining Boston Scientific Stock in Your Portfolio Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXctaUxTMFp1MkR0TS13R0tKaWJuZ045NEU0SHltak5Tc2hUTE1DQ2dwblNIZXRzeHh6TldhVG1Bb0p0N1pkVEVkd1lPMWRQcUZiTjhoX0IwYktycy1GWldCNGFLenIyOGVabWNUamhpVlhWRVVxbDNRMW1abHhnV1VtMzhxY1N4ZmJsd1J0WkdGUjNraGlDbQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boston Scientific, A Whisker Away From Record High, Joins IBD 50 - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc2VmMFJWb0dhLVNRUmkxWGhZTVZQaFFCUXZBbGhGSmlrakFORHJ3YzdjbVpsOTk4VHoweVpCQUxwOHpKY3MwZzB1UE1yRWxTekNheFpmeEZlNElET0xNMHlWUmc1WGhueVgxTVBLTmR0Y2VYLXVIZkdYU3N4QlJTWU9NSDRBYUVteXZ1dA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boston Scientific (NYSE:BSX) Secures US$30-45 Million Deal with Bittium for ECG Devices - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPakxjWXdTMHB3UjN0Q08yVHB6RWkwdFFsZ3AtOUx5V3NyOWZYd1Y0REZVbTA0YmFjN1R2bll0eVhnMm1kTTlKMTVWVnpILU4tSERYZzV6RkNkRjFsZU4wczlZYzVsYzBLTG10cE5acjlOVmhWOVI0V0dpV1hROENjSWVjUHRlcU0?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Boston Scientific (BSX) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUdCUUpBbVFMYUt6cUFSOEJ4di1MWnpVX3Z0aFZrZktKZllTS2FZekRFdHRDbG14blZDX2oxbThvZkswalNlN0ppWW9VQjV3RVVYa0pXRnVVRVBCUzA0WkVfVnEyYjU0dEtFR1JfOGFacjJqS1Y5V3o3V2tJdnhtREVDLXoyNmlZcFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Boston Scientific (BSX) Stock Moves -1.55%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb0kyUHVaeUVOUTFrRkk5MUc3TEktN3ZrQlN0U0kyQTI2TlpwVkt6QTNlVVZpeEZFeVI0VURKaGNIcTNLeVdLS1Nud0I5OERXbUlQS1lQTXpwTVlFcEpLRWxlRWhtVW5Sa2Z4RkNMbHBCamN5Z0Fic3RONXU3eThmY1hzLWNGQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boston Scientific (BSX) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2QzM1JGY1BYc2w2ZWFWUW43R0pHVmtYM2RZTG5FY0lNRUtxWmljMmtLakRPT3dFTHFrbUNZd1NINVBuUTBoelBBX2FiRjM3TExxUmgtalJUOW1rYjZYUGRacmh3cUlMakR4bnZoRGJyS0RiczhETVVfY0xwQ1l3TjhRS2g1aEdacVE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Boston Scientific (BSX) Price Target Raised by Morgan Stanley | BSX Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWDFFSS1jeVF5T1dMUk5FSEZ1YXpzdjd6dDBEQkdhT05uUVctYkwzbklxTTUxdkNmVXRReThDdGdyWFlhTTFfUTNYbGpMLXVKeGpDc3RFUG43NGc5U2tvSjN4akUyYWtrYmlDTThPMFlWZGhWWEZaM2M5dU5LcDRwcHUtYmNBLVdnektwdTZoSEM5TjZPMXVtS3NFWjlKNlk4RzlpUktxUjUzSG5TQkJpR3g3TE0yR3BPN0xsNTB3Umhid0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PAHC or BSX: Which Is the Better Value Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmMm9zM2Eyb01wVHpuVE1lN1ZOTmc2bmJXV3NTZVF1N1JQMDUxNlNuZ3RqLUJlaUhQSV9QQkRQZFVfZGxCRWUwaUhUb3VPY0p1UXBzMEJ3UmN5MXA1a3dsSXZIREFaMElMcVdTQnFESmlOLTNiQnJnYzBfbTUwUQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 90.43
-      },
-      {
-        "date": "2024-12-03",
-        "price": 90.47
-      },
-      {
-        "date": "2024-12-04",
-        "price": 90.84
-      },
-      {
-        "date": "2024-12-05",
-        "price": 90.53
-      },
       {
         "date": "2024-12-06",
         "price": 90.07
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 104.09
+        "price": 104.17
+      },
+      {
+        "date": "2025-06-03",
+        "price": 103.1
+      },
+      {
+        "date": "2025-06-04",
+        "price": 102.43
+      },
+      {
+        "date": "2025-06-05",
+        "price": 102.83
       }
     ],
     "current_price_data": {
-      "price": 104.09,
-      "change": -1.06,
-      "percent_change": -1.01
+      "price": 102.83,
+      "change": 0.41,
+      "percent_change": 0.4
     }
-  },
-  "news_sentiment": {
-    "summary": "Boston Scientific's (BSX) stock has been experiencing ups and downs in recent times, with its market performance improving slightly while the stock price has declined. The company's ACURATE product was pulled from the market, leading to a negative impact on the stock price. Despite this setback, two of the company's top rivals benefited from the situation. Investors need to evaluate the company's fundamentals, which are uncertain, to determine what lies ahead.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "UBER",
   "name": "Uber",
   "sector": "Industrials",
-  "market_cap": 175794208768.0,
+  "market_cap": 178209521664.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 14.722417,
-    "PB": 8.00238,
-    "EV_Revenue": 4.011,
+    "PE": 14.924694,
+    "PB": 8.112328,
+    "EV_Revenue": 3.978,
     "ROE": 0.69382006,
     "ProfitMargin": 0.27074,
     "GrossMargin": 0.33594,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 48.566,
+    "CurrentRatio": 1.02,
+    "QuickRatio": 0.828,
+    "FreeCashFlow": 5420375040,
+    "OperatingCashFlow": 8045000192,
+    "FCF_Margin": 0.11944413455169922,
+    "ROA": 0.05214,
+    "PEG": null,
+    "EV_EBITDA": 39.453,
+    "BuybackYield": null,
+    "PriceToFCF": 32.66551918591965
   },
   "technical_indicators": {
-    "RSI_14": 47.57178913364353,
-    "Momentum_10": -8.617500363017543,
-    "MACD": 1.6724782903887243,
-    "BB_Percent": 0.2156911835793505,
+    "RSI_14": 50.77173873997969,
+    "Momentum_10": -4.33066022012787,
+    "MACD": 0.7907772081410087,
+    "BB_Percent": 0.3183821635721259,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8857971831230822,
+    "ValueScore": 0.8827907419310428,
     "QualityScore": 0.3256867284336671,
-    "SignalScore": 0.689018731807465
+    "SignalScore": 0.6223866976518257
   },
-  "volatility": 0.029065562120035,
+  "volatility": 0.0276638979699493,
   "beta": 1.387,
-  "return_6m": 0.1504721882099697,
+  "return_6m": 0.3064540370232052,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 49,
     "target_mean_price": 95.95306
   },
+  "news_sentiment": {
+    "summary": "Uber Technologies fait l'objet d'une attention soutenue sur les marchés, notamment en raison de son positionnement stratégique dans le secteur de la mobilité. Malgré la concurrence croissante, des investisseurs influents comme Bill Ackman continuent d'accroître leurs positions sur le titre, ce qui renforce la confiance dans le potentiel à long terme de l'entreprise. Cependant, des incertitudes persistent, notamment face à l'émergence de nouveaux acteurs comme Tesla dans le secteur des véhicules autonomes, ce qui peut générer des fluctuations à court terme. La diversification des activités d'Uber, y compris l'exploration de l'intégration de stablecoins pour les transactions mondiales, souligne sa volonté d'innover et de s'adapter aux évolutions du marché.",
+    "sentiment_score": -0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Tesla Robotaxi Service Makes This Firm ‘Aggressive Buyers’ of Uber Stock - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rNUFObEhUVmNWVUlfSDFYZ29fdE5FVWVSLUxMZHZOdG9lbnZGNjJEN01RLWZSM2Z3WWF2cHFxSW40SklpeUFldGJqXzR5N3JYTXhjd2ZSeFRjeUZiMzVQREptcGhucDFRclBPR3dhemw0dkhWWnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Where Will Uber Technologies Stock Be in 5 Years? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYWVpSWNROXBpcl9OQkp2b20xcXFkZ1dGUnhZb0lrcHdiQlNEeW8ybmVmdUVwOXI0T1JYcmtpVDg5VTlCRFZ3REZ1cDA5cDhudHNROURteGQ4T0xOeS1OMTRNOUtrZTBKZUpLNWlndjdrZkE0QngyTl94R19IS29XSHRmQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is It Too Late to Buy Uber? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90c2hSTUZsd2R6YkVyWTJZTUVoYVJFQThaT1otclIxdWhoSktwLTZGYXMxWEpvSGVHSWZDT1pIVWRTYjA3QWdGcUhmOUROV2tENmJTLUhiakVSc0ZmdkRmOEpsdXZQbThHbUNBQS1uSGpOVGVLWnJSQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is It Too Late to Buy Uber? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1bVcyMWtyLWVnTG9BVFZlSmZjYUpkamJSdnNfUHFRSkxoQWVjb2tMSW11MTQ3SHM0eG9INFJlSmpQYWRfOEdCa0pveWVWYWNQa2gwZmUwNlJXcVAwWmtKelYxSGVSSUhwVWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Five Below, MongoDB and Uber rise premarket; Apple slips - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSjFhYjVNRnBKc1N1enpINjJpZGcxWjE2M0hUTFVJQWhrc2liMGhhZkNxVHhLVGVJX2tJMDNuaWlORFNlSWEzRmVoNkhSVkY2My1hNW5EMmlTTV8wQmx1dzNxVkgycWNUVVlHMDl2bDk3enBIVDJGQkRPTVc3blJFZ2gyS0RzUk1XanlkVWV0MVQxb1dmOU00eFc5N3lDaVVuUnlSMFMzN3VuWHdqb1VMNw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bill Ackman's Bold Bet: Why Uber Is His Top Holding - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZUzRxaUhCR1VWT1Rub1VWTVo3VENvdVl5NHY2XzQ3RlVWazl3RVEwTnZtRF90czhINmtnbGQwbFZPTGk1am5ZOTZMd2VaZ3BHc1I1QUUzVTI3MjJsNUk4cml3Z3B2ZDVwS09Jak9GZWFEUDR4dTZBaTI5NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Billionaire Bill Ackman Is Loading Up on Uber Technologies Stock. Should You? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2dHRllqVUFoVXR5bllRaXFjSENLZThKWExtb0cyd29HbGlYMXlkcHhKcjJrQUZERHFYRkNVRS1GQjE4VXY1NjFiRFBKTHIwenN2NmNVXzJhSHI3czhDb3RPZ01iOVRiemt0aWhTbVZqa0E5QVYycHNoNGZQazFLRXpDZUlfSjlMc3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Uber Stock Falls As Tesla Readies Robotaxi Competitor - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcHRkU2ZzR2tkY2NGR1RMOEdkLUpSMXZsZmh1MkZQRjlFenJVVjZzNHJzTnpzRmpjZTR6REtLVmU2Q2hhM1R4cTlrSldRb2dCV193dWppeHdCSGVBSXc0SFJQZjdLVnlHSFRzb2xzMDY3ZllaRVlvUlFmb09MaWcxSzUwbW94bmFnQlZ6V2M4UDg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Where Will Uber Technologies Stock Be in 5 Years? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVNZZW9GMFk2UmxfZXdWUGYyUWdFX3pTNDRQYXIxbjI3VlhSX1hIOGZ4dXYycUtfckRlSFB5U0g5cXRhNzc1Q0lrOUNqX3JJWnpPdUVnS2dOVUZ4aXp1VjdtQlNtdUZpQlBWR3c3ODEyc0RaYUF4UHcyaGlXZ3BOX0FBcUtoamFVaTh0UFMxeUcxenFCWVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Uber Stock Falling and Is It a Buying Opportunity? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWnpLTWFDQ3NXM1VaM0c1Mkx6bmtaV0UtckNZbHVVVG8xVW8wSnRvQ1hWUGtOb1FpRHFNZGNrbXBwQ2wxVk5qdURWM1UtVFZyRzV1a0U2aUhkZy1NRDRMR0NXdldMMWthRHR0clEwUC1GWnNORi1GakdneEoyM0pmMWtIVndWRnM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "After Earnings, Is Uber Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdENRdVZEUVVYX2dNdzlFZFoyeGpNOWNacFYxRVM4dDY5d3d3dTEwZUo0ckNZdk9oaG92X2dMRTk3UjhKUjRfdnB3anJmY05hYlV6ZG0yZVVhbUpqMnBaX3p3Q2RScmpoMlhhWGkwNTJaTjFBT3YxMFIycHNrbloyUDJwUkZnbG5MbFBmVFJ2WUFCSGtuSkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Uber Stock Sets Fresh All-Time High as JPMorgan Increases Price Target - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRklrMzItZWpTTXllOFdZSy03X0hRYVcwZDZJaGJpSnNFTW1iamh4UlA1UGRRUFJPV0pRMVFTOGp6WlM5TlhGclZEV2pScklsQWZuMU1NbV9zN1lqenRLNEhObE5WckxHNmhGVzluY2ZfYmJaSldrZFNZM2ozbk5tbldydGE3QXVZa0pHZUQ2MmxUUVdzcjVmUlhtbzFvSHZyajlNYUtaOVE5WmQy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Uber (UBER) Explores Stablecoin Integration for Global Transactions | UBER Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVDlDZHI5cnBnNENrVGpSZFRlZ19nb3FsbXV0OXcyOWtlUVgxdF91ZW1BZExkRTdqeU1MbXdBb3VLZV83eXBPRE4zTUE4Zzh5Rl9RTXo3RFZUb002enF0MWZGUVNXd3k3SnZhUFZJMWpNbHZjUGhKeHJlR3NfZ1FQSThmdVF1OHp2ZTQyYy1uTUJmeHMzQ1BwUlVqTzlrTklLSWkzRmE1V2xUSTZWWkV1OTNqUUdLRGNvTmkyUy1ZVjdsR01OdmpDbTJBVWpRX1dURFNJdHBCVllYLUVzaHNOVURLWGJpS3l3U3VzT2htT25wVUVBbDloTGdiUzl4MU0yd3Aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Uber price targets revamped as CEO unveils autonomous-vehicle expansion plans - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUU5MbUhQa21nWVFrVGl1dlRQaDlHUURTcEJHbFVMbVpDM2dYWkxRWXAzMXhRMW41aTFVVzBPODM2VHdmOElmSUJkRk8tb0dQc0hMSU1sczMyVEUwREpnejEzR2NxbktfcHJYSnFXc0FMZU15VDAwalFubmVkdTctc2Y0R0ZpZlQzd1hGVXFZQjhaZ3czbUszN3VLT0xxdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Uber stock rises following new senior-friendly features - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZEpjeHV3YkhPeE5zOVFGU01td0d2c054dmNnM3JyTVdjWk1hdV9Qd0U5LWw0aHFtWHdpNk8zX05sdU1MdDZWMGhsQlNQTjlGa1hicXBlTDZBM05Lck9uMlQtSTJ2bklZYThiVzhMNG9fRHY0c3YwY1RmblRRZ2VmNUV3V1B0UWpvOU45YUFjU0lUUnh2aFpZLUhJOEdYVXR0Wm1uaVdPUmJrVEwzTkJIYW5HRmJIakk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Where Will Uber Stock Be in 5 Years? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yQ1dRdDVkNElOMzM3NW9jalZZU0hkdTZ1MHFmRzVVZWJjVWFBY29yM3I2QzUwelZRN0MwcC1xdkR1RzNRRDBlQ3Jib1Z6OXRPUWNVbUk1YjBxT0Ffei14a0pOek8tZmluYU8yUmJYUUJVVUZHdUFwYnpB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bill Ackman's Bold Bet: Why Uber Is His Top Holding - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDNCS3FDRjc1SVFCWmNGaGwzVXhROXlFejI1a0FqNHRscFZEMEo2UDBoTWcwM1dMMDBZd1ItR2FBbnlmM1FTQmZWM2l2MEdicVQ3cU9lRkV2Z2JHMjBmYndjVXZxVEVyX3dZcDdWWkswMk91RUxFQnZ5SldoV2dpWEt6czRPVFByR0JXWWpnVEhwWnlGM0xJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Can Uber Stock Outperform the Market? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pQ3ljZERyLTljMUhnZHlRTlRDdGpGU3FfNi1HOVJHMDg5SEJZMzdwc0NKalROV2owekVHZklZUVBsN3pQN2hDeTN4Tk9xYlZFZXpsVXZQNmtsRlhxVUtrcjZEdlFrQjQwLTUxOXZGbHNDQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Uber Stock Dropped on Fears of Tesla’s Robotaxi. It’s Time to Buy. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzWXI0ZmVqdEtRSzR3SjJfNzh0amd2dDM5M3hkakd2aXRKdEgtWGlXMnRuQVJFYTBpNi0xSGwxX3hBWTd0cFFpQkl4bl9lbElrVE0yZGcweHE3djJiZ3RUSlhtbUdqeVJEOWp6Z0dpU0MzNzRKX3c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Can Uber Stock Outperform the Market? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObll3clZoNnF3d0RxZ3ZmcXZYWVVLeDlkblhMelVnRzhjLWNndUxxeGthQTA5VXNvOU5xbFZQTjZtcWlIWnNiR0xXZmtVRFpXMEs0dnZuTnI2dXFFcGJYeDdSeGRhelJDMC01YjRtMFBsNVc4blpXTWtaN0RFeFZTUjlGcTZKUQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 73.07
-      },
-      {
-        "date": "2024-12-03",
-        "price": 71.27
-      },
-      {
-        "date": "2024-12-04",
-        "price": 72.16
-      },
-      {
-        "date": "2024-12-05",
-        "price": 65.23
-      },
       {
         "date": "2024-12-06",
         "price": 66.09
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 83.49
+        "price": 83.64
+      },
+      {
+        "date": "2025-06-03",
+        "price": 82.53
+      },
+      {
+        "date": "2025-06-04",
+        "price": 83.45
+      },
+      {
+        "date": "2025-06-05",
+        "price": 84.67
       }
     ],
     "current_price_data": {
-      "price": 83.48,
-      "change": -0.62,
-      "percent_change": -0.74
+      "price": 84.67,
+      "change": 1.25,
+      "percent_change": 1.5
     }
-  },
-  "news_sentiment": {
-    "summary": "Une synth\u00e8se courte pour un investisseur francophone concernant 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant une entreprise cot\u00e9e:\n\n1. Signaux positifs:\n* Uber Technologies a \u00e9t\u00e9 fond\u00e9 en 2009 et a depuis conquis la part de march\u00e9 de l'industrie de la location de voitures paritaires.\n* Uber a annonc\u00e9 des plans d'expansion en autonomes-voitures.\n* Billionaire Bill Ackman a investi une grande partie de son portefeuille dans Uber.\n1. Signaux n\u00e9gatifs:\n* Tesla, un concurrent de Uber dans l",
-    "sentiment_score": -0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

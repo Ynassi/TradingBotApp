@@ -2,55 +2,163 @@
   "ticker": "TFC",
   "name": "Truist Financial",
   "sector": "Financials",
-  "market_cap": 51445276672.0,
+  "market_cap": 51870879744.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.4744,
-    "PB": 0.87599784,
-    "EV_Revenue": 5.598,
+    "PE": 16.324617,
+    "PB": 0.8832449,
+    "EV_Revenue": 5.599,
     "ROE": 0.0013400001,
     "ProfitMargin": 0.42338002,
     "GrossMargin": 0.0,
-    "DividendYield": 5.27
+    "DividendYield": 5.26,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 3900000000,
+    "FCF_Margin": null,
+    "ROA": 0.00016000001,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 49.15686145187157,
-    "Momentum_10": -5.08454898393607,
-    "MACD": 0.2510815600405394,
-    "BB_Percent": 0.3605671323140179,
+    "RSI_14": 51.143722256678615,
+    "Momentum_10": 1.1375248133289737,
+    "MACD": 0.1768255920527579,
+    "BB_Percent": 0.3679064258406117,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8840189811195805,
+    "ValueScore": 0.8810008096256143,
     "QualityScore": 0.3599294652874594,
-    "SignalScore": 0.6575673030876439
+    "SignalScore": 0.5820340286957602
   },
-  "volatility": 0.0218361697117238,
+  "volatility": 0.02175305825511,
   "beta": 0.815,
-  "return_6m": -0.1430638513654916,
+  "return_6m": -0.1394548216275922,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
     "target_mean_price": 45.1155
   },
+  "news_sentiment": {
+    "summary": "Truist Financial Corporation (TFC) a récemment suscité un intérêt croissant de la part des investisseurs, avec des achats et des ventes significatifs de parts par plusieurs grandes institutions financières. Malgré des fluctuations récentes du cours de l’action, certains analystes voient un potentiel haussier de l’ordre de 16,8% à 20%, soutenu par un solide rendement en dividendes. Cependant, des signaux négatifs ont émergé avec une baisse de 9,0% cette semaine, accumulant une perte sur trois ans de 13% pour les actionnaires. La volatilité actuelle et les prises de bénéfices pourraient influencer le sentiment de marché à court terme.",
+    "sentiment_score": 0.1,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Rhumbline Advisers Raises Stock Holdings in Truist Financial Co. (NYSE:TFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2dUV1pfV3d6ZVhzRGRxRWxUaHQxcmNXTUN6WFFqVXM5cmp4MjAxLWp3dVNydWQ2SmlnYy1HRGs5UzdCVW5LVjNXeUpLX3ZxV3hfakk1R2RtZ2FXR3JzNTRCRnNXcG5yeXZiaS1jNGdSQ2tITWwwbmNuWENoVFI4TDdabFhKbkx0NmNkcDRqWVNXUTRwNlFzM05FT3pTZ0cyVnZTdndqazdtSDZGbjZydDF1THRxdmZhTXlWRXREZUVXa1ljRF9pR0FhRG4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Truist Financial (TFC) the Best Regional Bank Dividend Stock to Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTRGaERsbUFmZDlVaG5iREVrUW9ZNXc2dFA0Tk5zaXNWbFB0UDMzZER6dlJIa2owaGp4a2RDemJVemprd0dnNjBROHJSdEJ2aG9mSDJOQWlfTDg2Ri04ZHVXRGFwNnEyT3RLY250eG1Jc3FaelVOMFlsT1Nna3V2YkRFdjBpUWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Truist Financial Corporation (TFC) Stock Analysis: Assessing a 20% Upside Potential Amidst Strong Dividend Yield - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOemVkX1d3SEFsR2I5YkJkRUhBcXdrMlNhWHZPeDFzX2MtcWNaT3RUZjVIWVpkNkNhUWJxbkVxenoxWFhHNUh4YThieEhXYWtJVHYwNFFOeGJIVG80aTljaXJCcnRPVkROZHVBZzM4dkpsbnpBYzJXMmVwbmtTVmktTDREMWdXUGd4S0hRUV9oZGxtSjdGOFZmR05zcDFEc29acy1nWGJPczBrc04zeWczU2xsdlpDTkIxNEF3cWQzNGpWbEhXdzhKcGhFU0lMd3BodmFmbkFRYmY3S0NaRWY3bjVzdUZ5VDZ0LWFGNF83d0o?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Truist Financial Co. (NYSE:TFC) Shares Bought by Welch Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0MxQ2o2MDFIeFpqYUZ1QjNpRnptaHpaSVhwcHljVFVvQUF4d0xMc1ZOcm1UeW1VWHk4OGJsUHhEd3djZENoc0hYZXR5aDhOaTlVeDlDcmxyaEp4UG94MF9GNC1TQzRaWnQ2b2NHNHNxa083cEJRcmkzVFhiX0ptM0lkMl9kMnpGY2NDSVdfYmNOUnduUUFseGY0NVAyd2c2QTNkcE5ubjdEc1RHcTBESWkyM2tfLWZqOUVJMVp5aXZXcGV4RU1xYzQyR1A?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in Truist Financial Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmYwYm1BcmxYX0c1UGNrT3NkeU00d1JTVTNpY0FLdzh2ZTdVcGM3NndjQVd4Wk1ENklzSmd1TVZyX3hSNGlGTU8xZC0tdDBLZXRyQjNrRW0zZzNBNjhsMlVWWGdPYWhyQ2dHV2pWdExpLU13d2xyOVloTmRZb080RjdqTEg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Truist Financial Corporation (TFC) Stock Analysis: A 16.8% Potential Upside Amidst Strong Dividend Yield - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOUZ1c2VMb3E1SV8xbno3M3YteFZxWW55bVZCeHRmX0NiN0FzaTNBNkFCXzFaYmpsZ2pLVTNteTA3VXpMcW1Ud1JSX0poNlhDdk5XM2xwN3VGSi1mUmh4MlFlWnk5TEtySnVkWlpnSjIzY0k1WnBvTnhQMGxlY243NERZVll1LUcxR1FzUDFyTGg3NXhwVWRnendfdHNVQUU0TGZFOTJSWENXTDNNTWtWanlHb1pQdzAzOTk3NGh1ZnEyR0duYUxMZUdLLWZZa1RERzhDWnlaVFVqaEc2WU01eG1XWDg1dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Truist Financial Co. (NYSE:TFC) Shares Sold by Rothschild Investment LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkZtMVBSRU1PWkdhY19HRzIydjU1SEl6WEZib3VuOHlyVWtlY1Vid1RKeXVtS0pReGw1VXFIMWwtdXFqd3dvT0dyQXpBTTcwNi1IOVdMckRsTGJ1bnplZ0lSOVZSeEhoOGwtMVA1OFBQWFI3a014SllsUlY3cEtCbVdZVXlQQTJTaDZKaDdjZGpvSHJaaVRVMGtDYXVtSUtULXI5bTJQaExRYXE0VTRJT1NVZmdSYWQ2aS1ydUl5dnVYVkJ0TGJJdi1hd3lfWHhKa3dv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Truist Financial Corporation (TFC) the Best Bank Dividend Stock to Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHhoRHV4VVpMQTVpMFpMTlNnSXpDYkF5MzA3LWRSaGlxMU5RbnFDTmhxaWFJYmJjTTF2Z0JsQVdRQm9NaHg0VGlUb0c2X29xVFVpTVhmVmJFTGhJZmNnaXNwXzNhaVFzM3dnaGh6a2pnRktZWXNxck5lcUhWcHIxUjVOQk9fZlZZdUxV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Truist Financial Co. (NYSE:TFC) Shares Bought by GAMMA Investing LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODVLekdnRURxZTRPWFA5a0wwNzBnTDBvN1loRDhrZlpCXzFhSGVGT3NXXy04TlJnUlVfdml5LXIybm1ZUGFDbFdyc0VFWjR3OVp0dGp2ajVVLTktN2tIbENNWTFCTHE2Y3c4ZThRTHJpOTRaMzZJaHB2d3p4anRzLU5qNldtTVBBX2RXTDRZQnl5dm53S2Y2OE9EVkl0QTlNczJ1b3RXNUc5djAwdUdkQ2tDTUxBczU2enp1ZS1zZGlxWW9BZ29zbDZlT0htX25ZSHFj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Truist Financial Corporation (TFC) The Best Financial Sector Dividend Stock To Buy Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUs0WDdsLUhiY1NSblFLcnRENHZvdkNhWVRCWDd0eWJFSHl3d2JHZGY4UGF6UkkwSFBHd05KdHBvVUVsUGNWT0JHc0NZX21IQjRXdnVEX084dlF0N1ZSMWFSWndiSmJ3aTVTSlpyS0hCOFRfSlJ5aEkyZVN3ZzlnbXprejZzMWJBTFB3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Truist Financial Co. (NYSE:TFC) Shares Acquired by Boston Common Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZGVQQzhVQ3ItUk1QeFJ5azVDRWl1YS1vMWR6TzJmZmFFSmN3V3NVSUNiamUtZXI5OHlFVmphLTkwSHVMcUQ3MThlaExpTWlldFZrdGpXRF9xdTF1MFJtdmJYUF9falMyNEhnMDhiWmdLSmdaWTVIckJaaUNUQk1STVRZNzVwQmZ6RzhpTlowcWFqN3pYMWZRNkxxUi1BNUhsVm5NZUd5QTd0a29zYTVJeE5CWUFyVFNNYTRSaFZKVlk3WGExQm5CUExzcTdqZDJYelZReHVTWVVCakZ2UzltcS13?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Truist Financial (NYSE:TFC shareholders incur further losses as stock declines 9.0% this week, taking three-year losses to 13% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORkRiSEFjQXpFOGxnV196VjN5TjVWa2kxQ19hUG1kZF8zYk81R1ZCUXc1ZFluOUY5VUsxVV93N2lfZ0phTXpIck5zazgyZkZRRGpjbFAwNGhCWlBsQ25Zak90ZEM5OHdya1lBbThaWnlDVHdTcUdIRjNscXJxRWZ4bWhEZnBESTEwMGY1Vw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Douglas Lane & Associates LLC Sells 20,145 Shares of Truist Financial Co. (NYSE:TFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHgtQVRhQ1FHSnpfVjY0ZE1jSzB2Z3YwZ1ZTbU53RmhuNHJRYnN4Tnc5SjBod2lKZk1YRWtiRE44V2tJdW9OMW91cFJFY2h1a2FTNS0yanpSYll0X1Nwbl92ME1yQW5ucDFZeWk3dFJ4Y3hXY0ZVSXYxSEw1UFd5ZElVU2dQTXRiT0JEeERKeXBRN1pxRzZxS25JQXlBSER3TE80ZkVRVGUzZ3NLTDhDaHBYS1I1SmJjNEo5NFByVUhIZWtxdk5LOXFXdzdMRmZ5VUdNRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Purchases 14,417 Shares of Truist Financial Co. (NYSE:TFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMUdQS0ptOHowOXBmZ3NvZC1PYkVyVGIzQnZxc05ib2hUdVJGeFFNZV9xTi13REswWklKUXk5Tnd3Y1lRNlFHczlFRUpSdk1fcjRsRTM1aXZ0cnVjU2JUOWJaYmFIM1ZNWEwxMXcyUEZFVzdhWk1zekhzb1hiNGVfLWpiWUFtUGhBZkwwTGJSME0wdzNUOGlDZ3U0cmlfTXVuZjZ1azFkLUFqQXIwV1cwcHFvSlhVQXZiTXFJc0d0V2Z3eXE0NEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Buys 360,227 Shares of Truist Financial Co. (NYSE:TFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZThqaWJsOWdvX3lFTEVDamJ6SzEtY0FGMFg1d3AtTVJ1QlNXLUF6djVSMGQxWTB1V3VoOEQxcWlVeU9YaEtGSktVbDBGbzBmRENYaE8tNmxteW1DZzFubEpiUmdUclItRXNBX3NLT0JvNTZYek5RbnM0X29NcUhCNW9zNmRXdlZEOG5lNWY0dHZ6clNWWnAtVmxYSENaQ080cFhjM2NNUTlOUGpubjVrY0RTOFgtazdCS1A4LXd6RGJQN0RPRGsxclNSOHpCdU9uWDZKUDlObVBMOW5pSF9zOTJRaE5sUGhkN3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Truist Financial Co. (NYSE:TFC) Position Increased by NBC Securities Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEdEbW0wTXVpWTVDMEJJZFJLQUozSEE3ZFROeFY3RENhVXNlcDRXdHo2YTg4ZkFTSExqRmtreHh1UlRaa2xrMG5NTWF3dGhrMjA5T251dExZN0xPcDAtNm01WnBRX1pFVmhicXVacm1GSWNzZm1VcUhKV2VYaG1iRDdmYUNnLTlPcHQxWWhNcmh5NU05cTdIQlBpRGJMT0Y2bW5wZTh6dnM3R1lPLXRIdTRhWlc4SnA4dl93WGhvN2paVXBTck9WSFNOa0Y?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wellington Management Group LLP Has $5.07 Million Stock Holdings in Truist Financial Co. (NYSE:TFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOWFmVWlmLUdHck5hVDJObXU0X0pROXR4Y0tFVkhmV2wxcENuQy1IZk5ycVpkNkdyZDRqZGpkb3ZHWWdPbmU4Vkp6WklpMmk3b2JWNzhFSWVaQWU2N1hXMWZ0cGFoRUt2MjNUb3NXTzg0cmg1RmZHQ044SWtDaGF2RHp6S3FUcEZNa0U1TG9hR3VrR3lmT0NSb1gzMTJhZS1BNDh1VUdQWWNnSkZvYjVQUXVCSjZHNGdSMDhNTnFQb19IbVN0WjRvZGJpZU16RVVSZ2hha3NLT3JqcGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aegis Wealth Management LLC Makes New Investment in Truist Financial Co. (NYSE:TFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzByMlRLSEhSaUtqVW9qeDRsLUhfMzdZSmx6aUJXSTJDRkNUbWJfTkhWVHQxNFlUdnFOQUhFc0hYQjQyREJ5LU5aazZRbTNUWTRBcWJHd3ZNLXZXLUx3UkJXdWRhM3htUjRwWHVkcVotWnAxajFQbXNyWU1HTWFWVldERDYyV3gwNU9jWmFwRFEtMEp0MnZIM3B5MnJZZVQtWlVnbmJSY2hiTXBFZTd0T1pESGlFUzh3cU5jcDFkSjNtX3VDUWNqRG44WHF4eWJESm05Wg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Makes New $36.75 Million Investment in Truist Financial Co. (NYSE:TFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVElITXhwNzIxUlZRWHBRLVh1MGtCYnNTUjZNMlJQMlYwdlVkWnhNanlFNk5jRzV0MG9NQ1IzaDRrX20yVDRBZlk5RmtqcHFmb1FIZXdqZDFNYXp4enlpbldqSlFSc0p1WUhtLUJic3J3V0k3WlNxNUM2NWpFVjcyeGlSUTVCQ0ZEajNzQlE4enEwekttMmt3NzcwOFVDSFE4WjUwUUQ2YUNNY0s4ZkdseHR2eS1zdlNWcjIzTGF5akl2SnR2UVdudGJ1YmRCdzYxcTZmLU1mTjU3YkoydV9aX2dpaUxYLUpnY3RGMG00eHFXUWpFUmU4RHlmdng?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chancellor Financial Group WB LP Makes New Investment in Truist Financial Co. (NYSE:TFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZmJFX2MwbzEtanMtZEhGdS16eXFzcDdqMUJZZzkzTG5peHZIM01iOExTc29HeHk0RGJmZGdDMUpzdHc1M2FiOXk4WVl1OC1rbFhvMU9DQVg0Wl9sTU5IVlVMMmZ5X1NPSGhESnZOWEx0U3dZTmYxaTZseFkzZExKa1V2MEJvUGVPOTJ1cXVVbkg1X3FHSVo1Z2FZQ183ZTY2RjhLTzJrQXROM2VHLUxqaTdfZnJLT3NTeHRCS0RnLTFEY0tlODNhMkZ5RHRqMUV5cTF6cGV6Zmktc1RiRXpJ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 46.98
-      },
-      {
-        "date": "2024-12-03",
-        "price": 46.43
-      },
-      {
-        "date": "2024-12-04",
-        "price": 46.22
-      },
-      {
-        "date": "2024-12-05",
-        "price": 47.17
-      },
       {
         "date": "2024-12-06",
         "price": 47.26
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 39.24
+        "price": 39.23
+      },
+      {
+        "date": "2025-06-03",
+        "price": 39.62
+      },
+      {
+        "date": "2025-06-04",
+        "price": 39.51
+      },
+      {
+        "date": "2025-06-05",
+        "price": 39.63
       }
     ],
     "current_price_data": {
-      "price": 39.23,
-      "change": -0.23,
-      "percent_change": -0.58
+      "price": 39.63,
+      "change": 0.14,
+      "percent_change": 0.35
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\n* Truist Financial Corporation (NYSE:TFC) est un r\u00e9gional am\u00e9ricain consid\u00e9r\u00e9 comme un favori des investisseurs institutionnels avec 87% d'institutional ownership.\n* Les investissements de Truist Financial Corporation (NYSE:TFC) sont consid\u00e9r\u00e9s positifs, notamment par des grandes banques et des analystes financiers.\n* Truist Financial Corporation (NYSE:TFC) est un r\u00e9gional am\u00e9ricain qui offre un dividende financier \u00e9lev\u00e9, ce qui fait de lui un choix attractif pour les investisseurs.\n* La vente de Truist Financial Corporation (NYSE:TFC) par Rothschild Investment LLC, Douglas",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

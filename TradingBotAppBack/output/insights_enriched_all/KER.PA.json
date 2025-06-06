@@ -2,51 +2,133 @@
   "ticker": "KER.PA",
   "name": "KERING",
   "sector": "Consumer Discretionary",
-  "market_cap": 21152542720.0,
+  "market_cap": 21484249088.0,
   "source_list": "CAC40",
   "fundamentals": {
-    "PE": 18.551949,
-    "PB": 1.4101213,
-    "EV_Revenue": 2.244,
+    "PE": 18.965368,
+    "PB": 1.4415452,
+    "EV_Revenue": 2.27,
     "ROE": 0.07732,
     "ProfitMargin": 0.0659,
     "GrossMargin": 0.73752,
-    "DividendYield": 3.48
+    "DividendYield": 3.41,
+    "DebtEquity": 128.048,
+    "CurrentRatio": 1.107,
+    "QuickRatio": 0.542,
+    "FreeCashFlow": 643374976,
+    "OperatingCashFlow": 4709000192,
+    "FCF_Margin": 0.037418574016009516,
+    "ROA": 0.03769,
+    "PEG": null,
+    "EV_EBITDA": 11.087,
+    "BuybackYield": null,
+    "PriceToFCF": 33.393044320082474
   },
   "technical_indicators": {
-    "RSI_14": 42.785449575026526,
-    "Momentum_10": -2.3915254897027065,
-    "MACD": -2.105446942778798,
-    "BB_Percent": 0.2229801072024348,
+    "RSI_14": 48.16404270184733,
+    "Momentum_10": -0.1595252805841042,
+    "MACD": -1.721179065174795,
+    "BB_Percent": 0.403638226110831,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8935842121727449,
+    "ValueScore": 0.8905189397373459,
     "QualityScore": 0.3729451923100916,
-    "SignalScore": 0.6725131464261944
+    "SignalScore": 0.6060400062278808
   },
-  "volatility": 0.0271947806245471,
+  "volatility": 0.0272537400563886,
   "beta": 1.147,
-  "return_6m": -0.2060684818152399,
+  "return_6m": -0.1961385489807234,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 24,
-    "target_mean_price": 190.79167
+    "target_mean_price": 189.83333
   },
+  "news_sentiment": {
+    "summary": "Le secteur du luxe a connu des turbulences, avec une baisse des ventes de Gucci entraînant une chute des actions de Kering. Malgré cela, des signes de reprise sont apparus, avec une hausse des actions de luxe suite à des résultats encourageants de Richemont. Toutefois, Kering prévoit une forte baisse de son bénéfice opérationnel au premier semestre. De plus, l'intérêt supposé de l'Arabie saoudite pour une participation dans Selfridges n'a pas été confirmé par le propriétaire de Gucci. Ces événements soulignent l'instabilité actuelle du secteur du luxe et soulèvent des incertitudes quant aux perspectives à court terme pour les investisseurs.",
+    "sentiment_score": -0.357,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.07,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.43,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Tesla stock slips, Gucci parent looks to sell NY property - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVFpelA4VWNYS1FPS1cxajdtYVlHb1V0ZlFJMFRFTjY0Vkdhb2xFYk1uN2x1ZlltZjBrS2Q0REk2V3p3bk0xbHB0SXN1MVNnM012NFNuaEhfS29TOGUyN3dwaFVZYnFJOFBfNXlhalh4WUUtTy00Ym1KWlRkNF9uLVE2RQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kering Deepens Austerity Measures as Profit Outlook Worsens - WWD",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWxqR2kyU3h1ZmdWQXNSZEh5eVZGMF9UcFlaMVZQQU5sMEZOR2FsQUZOQjdHRlVpaEV2VDB1SmRmdTZmUGNCdDkwbWl3Vi1FUHc0VDNLNVNSWXF0cnYtdkJBcERVV0FYUGxybzd3Q0ZPeUt0N1JpbXI5M1hTU3lQY094dFlyZF80WkxhZHdjR2RaLUtFbXFJUnRoU1A?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Now An Opportune Moment To Examine Kering SA (EPA:KER)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX1lsRVNza3NBcmZqdkNLNzV5NEhVcWcxVHNEdzItTXprVDM3M3ZkOW9qVWwzTExtM2N6dXE4cThFNG9WSldTVlZpalBLRjV1SFNMZ015REZJWTJxX1o0bllMc0dsdlN6NGpESDRWMGJ1SzFINl92bTZsbVNoZWRPWFg3UnpKUXVzbHNGajloTHRyYXpjdXNsN1V6c2pJMzI3N3ZtTlhXMjNvSXQ4clFjb2FVc25qTDF6blVmVkIzNy14LWtuanZBNFNPeW9kd9IB0wFBVV95cUxPSFBpckItWTJyZzQzNncxWDJoTHNsR3Z4UXJkLUVnSVFOYkphTmhEQkg3aEVGemxJYU1xS1hxUFN1TWZkS3I2ckp2VWIyRG53VjI5NWtfVWpZamV1T3FQYXo0OFBVcWxfUk5pYV9wbEdVYk52bmEwSGE4ZVFoUGhDeGY1aUlOR1c5T1c5NTNSTXpQbUlPMjI4MS1oMHM3U1RTeHlMN0E5dDBTVUhOMXpZOTd4VEZxR1FfcG1FcnlRajJLS3pkUnQ0ZDlaVmRFMTRvT213?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Luxury stocks soar as Richemont sparks rally and hopes of sector turnaround - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnJIM2lSS055M1ZoRm01SnAyeTFVdHh0QUNPU2NDRG9lMV81dWhvTXVoeVRFM0U1ZWlLUkxyMmhSVVlEM2hVcWZPeWxKQXV3YTByam1EOXZXR1ludV9QNmF2TXhiUDgydzhBeFFfUThLOGNFLXFHdGJfeUF1bU56MmZMSE1wakctdC1N?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Kering SA Shares Plunge After Announcing Q1 Gucci Sales Drop - LeapRate",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTm1QZ1RfbjdHc0ZoODNGZFc5bzJBeGhCV1ZUby1lckY0OGpsVjA3Y0VoQlJPV3ZzeE5EaWRkbzhzbUwwRHloUTRtbjJXV3dNSG5EY2NwOG5KS0FRalV1QWZTam9ZQTFuSUVRTExGUTJzNHdySThWeXFWT1pGUFZfU2Z0bUJYM2tVaWc5NzRhOVVZYXg4N25jY2UyMHlkVDdvaktObkYtRQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kering: French Luxury Group - Kering",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ORHdFb21NcUpacDF5TmZsRmE0MnhWTC1fdUZmdWFoeThzdVYzbFFPUTlxejJyUDJMVV8yMEtFNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LVMH's declining China sales drag down luxury fashion stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmJEWTktSWpfblZ2a3ljY3NJd2JoekZWNjVuSlhRWkZxX1VKN0IzdTZ0WlQwRnJCenJMU2VHTm9oNzFyS3B6NTZWcGZDeE5udUdFak9ZdmxJSXlmME5CU1hmMEtLMDE4Sm8tcFVtS3l3Rm8tOGV1VHNZOUdSOU5ocGNGeE5WUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Lanvin Group lacks shine amid luxury market slump - Bamboo Works",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMldtc3N5NjRnWUZpalJOSzlNaXM2UFhnTUVsZmtCQ3NmN0l0TjlkRXRWSEU0MTl0N0xBcG1ucGpScXlUQ1lFWGlnRkJhRV9jWDRYTmh3RkhaRFZpYWlNRDVtYUpyYVo0QnJzUHloS1had1pFRDh3emN4SGFFb3d0dWRJQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kering stock: What next for KER share price after Balenciaga saga? - Capital.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORlUtdXM0Z3FpTkoyWjhCZ0dfeGZ4U3hvX0FHYXAzV0M0TG5jaG50RGtUQkU0SjE0M1dDSGFVWXBNWkxrX1FEVGwwcVpTbXpMTGt4X0tkcjJpQTBsYjJuZ1pIcGpjX3c2bWZOdGw0UUJnLUJCM05uNWtfWFFJeFk3aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kering Forecasts 40-45% Drop in H1 Operating Profit as Gucci Sales Tumble - WWD",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm02OTAtd1VEcjJteTRvaFplTi1CQTFmRGxqYl9RVEN0Z2FzV2ZQLUVGNTFYXy1CTWx1aHJuQW1Da0NCMUFOZGlxQ21WOGFaTFVrRnFGYWZoaHUzdVpJY29EUkU1WTJaUFlxTlF5a3M2SWphUWtBY3VrNFAzclhnbGk1TWhsUGtBVGJSUDladjZkbWxUMWlvTlJSNHdRUHpv?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "£10,000 invested in Scottish Mortgage shares 2 years ago is now worth… - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNkE0aExLY1Z0ek5XZ096TWFXUkhKSmQzdHRxbjV4XzF4RzVuUG5DeTJtaVF0RWE2bjJaU3ByY1Y0OVpLNE5zZm5XaXdGN295aEU5ck1YWUFiOXRKWlhHa0NJajFEN2V4R2Y3Zng4YmtMYzREaXRRejktS0JZczhmcnFWbTRrbFZWR1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kering SA's Dividend Analysis - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0RWZjQzlBN1BxVVpFQ0VUc3g5WllMdFY2QjlCRmNoMHVZVFpRaWlJcEdFVlJMM0tQQ1Y4WGNuVkJCa3FpVHR3OFc3cFZDOWxKRU5lYmh1T1ZUWjZWdTVLdzJZWjFGTHJDdzJfRVdsRDR3dm1TS0RHZlNZa3lJVkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paris just overtook London to become Europe’s biggest stock market - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDVyWUlPa1l6OXJfM255Z1dCbHZzbUZaNEtBektVNFJ4ODZlVVV6cWpfdV96dDdKSHZpNlgycmtiRGdMYXBjQVlFc01wbHh6MDhoMmZHME8tcmNLeTE2bnd2OHJ4TWFXeTdVekdCTkRTdXZPQlUyY2gxZlhVZFZkWlZYeHJrR2dERkp1OUFhSUROVjQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Saudi Arabia reportedly eyes up £2bn stake in Selfridges, Gucci owner denies interest - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekVKbGdjdUw0aE5LWDJGQWlDZGdUbU4wRERyTnh6UEdHV21NZG5lbUt1QUQwVFZTUGkzV2ZqbGVhLTJtY0w1ME9qSks1V014N0RPdFRsY1hUbktNWXBObzd3eWlQdVZ3UEdoZ1Y3MF9DOTducU1Ma0ZMSm95el9zblRBTEc1WUJwLTR5Uw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 222.65
-      },
-      {
-        "date": "2024-12-03",
-        "price": 221.05
-      },
-      {
-        "date": "2024-12-04",
-        "price": 225.05
-      },
       {
         "date": "2024-12-05",
         "price": 224.8
@@ -534,24 +616,24 @@
       {
         "date": "2025-06-02",
         "price": 171.42
+      },
+      {
+        "date": "2025-06-03",
+        "price": 171.4
+      },
+      {
+        "date": "2025-06-04",
+        "price": 176.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 175.24
       }
     ],
     "current_price_data": {
-      "price": 171.42,
-      "change": -0.94,
-      "percent_change": -0.55
+      "price": 175.24,
+      "change": -0.76,
+      "percent_change": -0.43
     }
-  },
-  "news_sentiment": {
-    "summary": "Les principales tendances cl\u00e9s des 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Kering sont :\n\n1. Kering a nomm\u00e9 Pierpaolo Piccioli comme directeur cr\u00e9atif de Balenciaga.\n2. Kering a publi\u00e9 un avertissement de profit pour la premi\u00e8re mi-ann\u00e9e 2021 apr\u00e8s que sa marge brute a \u00e9t\u00e9 enregistr\u00e9e \u00e0 la moiti\u00e9 du niveau de l'ann\u00e9e pr\u00e9c\u00e9dente.\n3. L'examen de l'opportunit\u00e9 de Kering SA (EPA:KER) a \u00e9t\u00e9 propos\u00e9 par simplywall.st.\n4. La hausse des taux de change auraient influ",
-    "sentiment_score": -0.5,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.5,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

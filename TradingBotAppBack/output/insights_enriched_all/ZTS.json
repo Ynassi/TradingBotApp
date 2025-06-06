@@ -2,55 +2,163 @@
   "ticker": "ZTS",
   "name": "Zoetis",
   "sector": "Health Care",
-  "market_cap": 75171143680.0,
+  "market_cap": 75284676608.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 30.367805,
-    "PB": 16.179092,
-    "EV_Revenue": 8.627,
+    "PE": 30.41367,
+    "PB": 16.203527,
+    "EV_Revenue": 8.625,
     "ROE": 0.52085996,
     "ProfitMargin": 0.27116,
     "GrossMargin": 0.70956004,
-    "DividendYield": 1.19
+    "DividendYield": 1.19,
+    "DebtEquity": 145.628,
+    "CurrentRatio": 1.736,
+    "QuickRatio": 0.916,
+    "FreeCashFlow": 2299624960,
+    "OperatingCashFlow": 2944999936,
+    "FCF_Margin": 0.24764430918537741,
+    "ROA": 0.15108,
+    "PEG": null,
+    "EV_EBITDA": 20.713,
+    "BuybackYield": null,
+    "PriceToFCF": 32.642941763860485
   },
   "technical_indicators": {
-    "RSI_14": 63.637605573577055,
-    "Momentum_10": 3.646349097785688,
-    "MACD": 3.0932298079499105,
-    "BB_Percent": 0.8943309192867462,
+    "RSI_14": 61.18854167391795,
+    "Momentum_10": 4.382431145471531,
+    "MACD": 3.291433939868313,
+    "BB_Percent": 0.7916663194067602,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8657198181473635,
+    "ValueScore": 0.8625280118677267,
     "QualityScore": 0.4306438792993105,
-    "SignalScore": 0.5248342121938436
+    "SignalScore": 0.5096759622022371
   },
-  "volatility": 0.0184135457891136,
+  "volatility": 0.0184281653101714,
   "beta": 0.944,
-  "return_6m": -0.0389292077233939,
+  "return_6m": -0.0262427047094487,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
     "target_mean_price": 194.41125
   },
+  "news_sentiment": {
+    "summary": "La société Zoetis Inc. (NYSE: ZTS) a récemment attiré l'attention des investisseurs, avec une augmentation significative de 13% de son cours de bourse en un mois. De plus, des investisseurs institutionnels tels que Chesley Taft & Associates LLC et Fairtree Asset Management Pty Ltd ont augmenté leurs participations dans l'entreprise, tandis que Siemens Fonds Invest GmbH a réduit les siennes. Ces mouvements pourraient indiquer une confiance croissante dans la perspective à long terme de Zoetis, malgré des questions sur sa performance par rapport à l'indice S&P 500.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Is Zoetis (ZTS) Up 8.1% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LamFwN2pfLXZGcW50X2R6SU14cmtqNV9iYWk4MDNfWll2d09CV3pwdHBfby1JajdudDFoQ1M0andrVGl4Q3FCUHN1alVQN29NSFllSDRxVWZRbHpUVGtOMWtkY2UzWVhCdFIxeXFxRGxxZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Zoetis Stock Rises 13% in a Month: Time to Add to Your Portfolio? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTBIa0x2TFBYWGpzc1Z0NHlZYzlxdEYybHFTTFJBMmtlVmJReHJoTWwtbm5qTGxEc2Zhby1oNnpnMVB1eS1FZkpHLTYwa1JteXJIYUZ5X3JIbng3MUt4QnNRRFUwbVhNdDd0OHRwS21aSExTVm9wZ1haeHRZLVJUNTJCX0NSQVJjaGt3Z2hNSFk4SDBmYXgwdG5HSGlnbmc5SmdaTWpYYVRBQm1PY1cwME1UR3Z1cTJvQkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(ZTS) Proactive Strategies - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMER3VDZHRGNTMFItX1ZzQ2VodjExWVFyT1NtbVdWcnBsdWtESHczMnNCWlhpQlJRcWcxakRPWHRVU1hRWWpEUmZqYm8xaTdLYkl3aDlza0NpNFdaTGxldDh4R1dNWTZSaE5HLVAwZll2RGpKMTBhaEZsSHN0MnV6VlhFX2xJTkNrbVRJcGZpUmEzRWdMN1VTU2ZMNlpUbmM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zoetis Inc. (NYSE:ZTS) Shares Sold by Chesley Taft & Associates LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOVVaVG1HQ1ltYV9XUW0tdHFKWHZrbThHSEc4M21GazVNM1JLQXJHV2pCLUljV2FvbDVOd1RsaGZMSmpYbnRNbW5DWkRtOHJ6YzJJT0FwYm9mX3lHZG9JMlBYN2VSeHpfS1QtUm1oM3Q0Wl9yOEFBaVUtRTJsSWpQOTVwSUNZenU3eUJQVll4Yld2RTFORlFKNWhOb3pUNW5HTFlLOUc3blA5dlRKU09FYW56X2xLcUNxMDNnR0dCaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zoetis Releases 2024 Sustainability Progress Update | ZTS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUlllWTJDdG5PYUp2QThEakFCb2xYRDJnLVZ4NlgzbmdkNE1OZG9aSmJYNGJ2T2dCUTd1SGtwZFBFanNRdFRCRmV3VzVJaVZXRWFYaUVpSmJMZFYzV2NhcFBUQW5lOVZUN1RydGhaaWYwRjE3akh0LV8xYWRKSHRMc0ZSSGJ2UnA1OTNmZ1JIVnNfbklUVUM5RDA2cGV1Tk5TV21WUjUycFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 Recession-Proof Stocks to Buy and Hold - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ05sbFh2UHNTRU1Ba3RldmtSOVA0cmhIbzVaMmFiRUN5bS1tU2Z4dlE3czRpNW5YSTdXSW1mN0JXS1dDMEdqbjVLWjR5Q1FVanZjNXRaZlJhaXZiQ2hfUjlaLVZuZzJUaHpLWFJGYzhGRDdVNEtoTjJ0OXZERmkyMkYxUkNlR25HY2ZV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Zoetis Stock Underperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbkM0SjlhVTBTOFJGMi1BT2czUE1HeTlZNkxhUEp3cFZhSlJ1NUU2bi1BdzZyRnBJczFaQkFuQmppSHdtMDROazFNUjlfVUprZlNpSkZBRlNGN3M3WktZWXdmQmozMWdZaUdLWXJ6dkdwRVRxOE5xX184OWc0RS1YM0FXMVVCaTNWcXNHU2ZfS29Danh1bnJHZWZyUTIyU0ZmZU85MzZkRkRBUUh4SXdyVzlndkl5aUVISVV3RjlTVnNiMlowNWYydQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "DSNKY vs. ZTS: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNbXYwWlFFSWVIT1N2MHdwSnh4QUFvd0MxOXhfUk9VZm1qVmE0cllucm5PM1RFMkU3bTBySU13MmIwOE4tLVlMTEZ2OVQ5MEhKUUdjVWFPOG5zTnVqUURCa1hselpZckxxbkg4RElrTGdtU0tiZTh3RkhsNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zoetis (NYSE:ZTS) Stock Acquired Rep. Robert Bresnahan, Jr. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEk0X1hRZUtVY3V0NFJWTklZRFRLeTR1M3MxWURTLWFVTHhVYXFQaVZqYm5ESm52WlR0S0REUVg4azlZRUZFZFJiNUs1M1A1NFNnS2k4cktZUThvSlRObUVFZFUzelBTT01wXzFxQXhmbWlqWG53dUhfelF1R0pLVmY3eXpXdGFKVUFEb3A3YUVPZHZCMDJjM1ZQRnF4a05xLXpJQ2xWUGVMeEND?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Thurston Springer Miller Herd & Titak Inc. Grows Stock Holdings in Zoetis Inc. (NYSE:ZTS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTjVNZG40NXVWVHFGbnk1STdrMEM1N3NoY2FNXzlXWURFaUphX2hwSnpBOEVjV3EwRk5aYnRSOFZaVmtESFA2UG45NVpLOUhNcGJIMGZnLW5WcjRUc1ByS2xWWll2Q1RZNjlmMTFsYVY5OXllODQzaERYdEZzckNXeXFzMHIwa0p3d3BhWGFjMERoTmIwMnV5TUFyb3FvZ3Z0bmJ6ZFRTa094OXZxdkZuQ29TZjlhXzA4R3NOSFBLeE4xN3diS2xRenJsSFltdEMxT3hrQmtPd2xYSFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "West Coast Financial LLC Has $11.23 Million Stake in Zoetis Inc. (NYSE:ZTS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSE9oRlYzQkJLX2xmWjZWZlE3aDhKNkM5dmdZZTJiNjJZUUtPWDlubnViaUZmQ0dJU0wtYnNEeW9UUHgtdkxHVTgtVTFGU0hPQTNRaWdZU2pOTEFtaG5sQzA3YVVuamtSUkhaOUp5bWxVMDFITkwxSm9WR0ltMVFHX2tXejVaMVdPVWVuOXNWZE9SM1pvZUZZdTkybEJjUnRqcFdYZS14OXd3by1zRjBxUkZxSnFIbjROalpFX1QxNmhHYnJXV3VyS1JR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Zoetis (ZTS) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZTNzM0MzZU13R1ZyTFZnZkYwWFEyZXpCa2tIWmc5aUthTUpaS2dkMHFOVjd6RGRlN1RNWjVQaWNuTXZpaDdSUVVBdklVa1FoV25TRU1fQmNPZmNhS2h5WjZSZmtIdXZ6dEhxcG9KcWMydUgyMHlxV3d4Mm9Vdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zoetis Inc. (NYSE:ZTS) Shares Sold by Bath Savings Trust Co - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTZNNTZYZVBqTEZ5dXk0S2pYNzlkZ3lOMkJmWlE0bHJiOWZpbFNqUzJPNFlUMG0tQjBQdnF3QmFmNTJPSDJzeW1qb2NjeUY3RVFKajd6MUw4Rk01YTYwNUM3ZmZHTlVTTnc0SEhTckhmMW1XTW45ajFoTGlWYjAzeThoT3Z3NnVWTC1xT2pJcnhxM1p6ZnNrSUhUckFOaENRWDFnaGlHRnA3OGRWRzFMVlc3ODVxMXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Acquires 51,703 Shares of Zoetis Inc. (NYSE:ZTS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUHc5VXJZSDhGWVJYVi1XcWY5akpfZTN4S25QbG9BY3F0d2FDZHJNakpFUHVuRGtJVFpGb254Zm9rZHluNnFVZ1Uxb0d3YkV5V2JYenF6RUhnMzVUbjlOamc0ODNQR3g4QXdPaDNHalJDY1R2SG1qSTd2LUs4cEVlYTI1TlVnVGhmTU5pLW1DTWlWX0VOcGRHa0tKcUFJa1h1bV9GamY3VTNKRkxWOUR5LTAyXzBleU8yVkN2YjJUVmo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Acquires 5,028 Shares of Zoetis Inc. (NYSE:ZTS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPel9EdWxiNnprTTg0ZGJlWFVpc2NCVzRGVkRxVnJiVHFacUZEbDdhOUZGbFhfSU9IS2RXbWpRY0ttVzY1U01PWGdBMW9aWVB0OVJVcFV0RFlRYXlrcGNTOVdzOWR5V19LdzNoV0V3dFJHUVhGWGs0ZTZ5cFhxbVBqV0p4Mk1MdWkxS3dtSml3LVRDZG5WOTdmOUFVVXZTcnhlX1hjbW50RTA3U2tJdElraHJMYlZNVlpzX2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2,238 Shares in Zoetis Inc. (NYSE:ZTS) Purchased by Fairtree Asset Management Pty Ltd - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMFROYXJOaGI2dzVCNWQzZHhKY3hMb21FT1otNGFEdk9MOFBpRGxGVWNvTW5wZEZ1TnJxSGI4RFZSQ2I0QnJkUEM0OE42NmZwYVFtdkJ6ekYyR1VwcG8yUGh2a1Z0Z29Cd3RDaXNqcHFITnJRNzUyd2tvdEoyY3l0WEcxd253MXRFR2lWd093d2ZtS19aSWgwZjU1eGFZUEpnOTZIaDlPUlAtMEF6ZEo4LWZKZ0ZWMFZxQVllODZsaGgwQWVCcTVDR21MRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2,059,588 Shares in Zoetis Inc. (NYSE:ZTS) Purchased by Sarasin & Partners LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMThIdEVBbG05ZXY4aDVZZ3NxUnJTLUE1bW52Q0Z3Q2VXc1Fvd2h5Sk1rRlNCSmNoQkg4WktXTFViaUUwbURFdTBlck5jUUdZRmt4aXB6R2lUU3h2UWFpb044b0ZIRm91ZFRUcW1RNDN3ckVjclZfclNxT1JxaFZPOVFqdzBuR2RmUHJqeGZ2cVZPaVdiRnY4cGJSZks2Vm95eWN6WXJScjBNdFZnWElvYmVtRkR2N2VENHdCaXZlZEE2STJJSDVtaVNLYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Siemens Fonds Invest GmbH Decreases Stock Holdings in Zoetis Inc. (NYSE:ZTS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT250dWxrajhicEc1OHhHd1UwOUtwVzcxb2xVQVk0T3V1OVhWeHN6SXV4T0RfN2JNZnM2T3lVYVR1Ml9Rd3QtZkRzVnJKWDQwS0l3NWtBaHR4dGxPT0doWjNMdFI0RVpVTWNVaTUtZFZtR3lrMy1lYUxaa0d2U0tyVW5kRTc3LWR3dzF5Wkw2b3FkSlhrMWlWNUc5YjdwcWxfS1pEcHpRdUpPOG0wLTVqT0E1ejhoRlhQZTJwTGhEelE5aHdP?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fragasso Financial Advisors Inc Takes $1.61 Million Position in Zoetis Inc. (NYSE:ZTS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWREZ0F6R0lKOVd3TkRiZ0pCZWJrUGVUb0pOSWM4V0hJeTVpSUw2MGtDeV9sYmV3V3J2TmV6Zm5JaU56cUFDbHkzYVRYWUpIUGxScXphUm5YWThibk5yZEo2d1E0cWdLYlpOZzNxUGR5cXE1VWRXQ3BwN01Pd0tScmkwWmoxLUljQmVtN045RUpzSGkyVXBtX1JlVzhLeExBVkdUb0puLWhvOG50Xy1MV0NvSHBmampPNy1IeHBZSDk4NV85d095V3NDTVhBVjA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NorthCrest Asset Manangement LLC Buys 1,696 Shares of Zoetis Inc. (NYSE:ZTS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcDk4WTVSX3hFTmZ5RjhiczZ4SnczTW9oOUF2UXRuakZCTm9tUEJfYU1GdHJlWXpLX2E1blhnSUZ0VGFXcUIxdGVUMFdlWHFvejFwWXFSTVRIOW8wZkFoMmZkTjZsQmN5bmM1MEV1WDVNSHdaQ2FpT2JTUUFRcy1BbjhJM2pNRU5TT015LWYyZ3M2eGJnLVpUSUV3U29pV1FHbDJSZkRySGJCZEZVLUt5bmI2anJWYWpjUTVaVnJpbTM2NDYtVFY4eWhWbllwejZzaG5N?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 176.81
-      },
-      {
-        "date": "2024-12-03",
-        "price": 176.94
-      },
-      {
-        "date": "2024-12-04",
-        "price": 175.32
-      },
-      {
-        "date": "2024-12-05",
-        "price": 174.77
-      },
       {
         "date": "2024-12-06",
         "price": 176.46
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 169.15
+        "price": 169.42
+      },
+      {
+        "date": "2025-06-03",
+        "price": 170.3
+      },
+      {
+        "date": "2025-06-04",
+        "price": 168.59
+      },
+      {
+        "date": "2025-06-05",
+        "price": 168.61
       }
     ],
     "current_price_data": {
-      "price": 169.15,
-      "change": 0.5,
-      "percent_change": 0.3
+      "price": 168.61,
+      "change": -0.01,
+      "percent_change": -0.01
     }
-  },
-  "news_sentiment": {
-    "summary": "Zoetis Inc. (NYSE: ZTS) has recently attracted the attention of several notable investors, including Paul Tudor Jones, who has included it in his stock picks. The company has also seen significant acquisitions of its shares by major players such as the Czech National Bank and Sarasin & Partners LLP. Rhumbline Advisers and Douglas Lane & Associates LLC have also purchased large positions in Zoetis, indicating a positive outlook for the company. Overall, these developments suggest that Zoetis is considered a promising investment opportunity with significant upside potential.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

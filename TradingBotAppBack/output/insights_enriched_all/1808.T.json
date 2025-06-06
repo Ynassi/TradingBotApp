@@ -2,55 +2,88 @@
   "ticker": "1808.T",
   "name": "Haseko Corp.",
   "sector": "Industrials",
-  "market_cap": 587863752704.0,
+  "market_cap": 592915922944.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.066984,
-    "PB": 1.1037573,
-    "EV_Revenue": 0.64,
+    "PE": 17.211086,
+    "PB": 1.1047826,
+    "EV_Revenue": 0.653,
     "ROE": 0.06604,
     "ProfitMargin": 0.029260002,
     "GrossMargin": 0.14144,
-    "DividendYield": 4.29
+    "DividendYield": 4.14,
+    "DebtEquity": 78.942,
+    "CurrentRatio": 2.378,
+    "QuickRatio": 0.876,
+    "FreeCashFlow": -56901623808,
+    "OperatingCashFlow": 3916000000,
+    "FCF_Margin": -0.048330127745187836,
+    "ROA": 0.03898,
+    "PEG": null,
+    "EV_EBITDA": 8.272,
+    "BuybackYield": null,
+    "PriceToFCF": -10.420017624534642
   },
   "technical_indicators": {
-    "RSI_14": 69.05175391281091,
-    "Momentum_10": 4.692438609287625,
-    "MACD": 29.808185459521155,
-    "BB_Percent": 1.095706371122289,
+    "RSI_14": 66.05019674590028,
+    "Momentum_10": 4.662457503642544,
+    "MACD": 36.32791294722438,
+    "BB_Percent": 0.8885080362086936,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8987937930315162,
+    "ValueScore": 0.8958756221218126,
     "QualityScore": 0.3978607919151569,
-    "SignalScore": 0.4857320307816041
+    "SignalScore": 0.4780397986842634
   },
-  "volatility": 0.0122413285986292,
+  "volatility": 0.0122435560360222,
   "beta": 0.09,
-  "return_6m": 0.0887056098963989,
+  "return_6m": 0.0962211339206253,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 7,
-    "target_mean_price": 2090.0
+    "target_mean_price": 2147.1428
   },
+  "news_sentiment": {
+    "summary": "L'entreprise BioInvent a reçu la désignation de piste rapide de la FDA pour son traitement BI-1808 du lymphome cutané T-cellulaire, suscitant un intérêt croissant. Cette reconnaissance renforce sa position sur le marché et souligne le potentiel de son produit. Cela pourrait générer un impact positif sur la valorisation de l'entreprise et susciter l'intérêt des investisseurs.",
+    "sentiment_score": 0.6,
+    "label": "POSITIVE",
+    "positive_ratio": 0.6,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Some May Be Optimistic About HASEKO's (TSE:1808) Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdFhTY1RfVUR0R1FwdjdhcVpPTkRvanU3T2ktVG9yd05UOVhOeUE0QXRxM2ZDVEo3bm4yM19QeHJjem1zRVB1MmhfMFlSSUtDUmwtWEdLLWVoUkVNZEJrQmlKUGptcG1BZ1BkcUMyWEpvTnBnRjVON0VJYzkxRXFvYUdkX2g5U19hdTFrRGxwN2xvcFdSQWE2Y2VFek1UTmJfR0tIdmlIc2VxSW5XSmI0UTRoa2xmcTZveVJTWE9hZnRldnRSNkpOMURvMNIB0AFBVV95cUxPVEpYT0h0dHZleVcwdGNFbUFfRFdhZHhGUWU0SXE3UlFveC14d25yTnNTSS1QWTFvTjI4Ql82WElEckRkSUQzaTc0OHF3cUoyUG1KbXgyeU51WFd6eEVGVXY2MEFENDdueW9HTngzQXNMVm9YQTVPLXZKS3VoSF90ajh2ckE5TlFibUhwampGdWt5aHF0MGxPdzA4cVYzajlVNlNWb3BkMHVBQnIwTTNUdUxMbUw3UEZSQjI4dlhMZzBxRzl0b3ZSRlYySGVTbzhm?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FDA Grants Fast Track Designation to BI-1808 in Select Cutaneous T-Cell Lymphoma - OncLive",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFZ6YW5IdEFrWC1pYVcwa1A1NE1Va3E2aUU2WlBNUjZFX1prcFp4eTRXcDctNWpLMlV0d1BPaVJkMUptRlZxSEl0Z1RPUUdCT3EzZXhOYnJRSHFHcEk5UFhmWDU4b2twRzdXSC1qQ1VBTUU0eEFPYXdBWW5xZk9uRllGdm5KNFE3Q1Y1ZFotS1lwc25NSF9LRmotTlFTdGQwamV5Q3I1WVk2d2E3Vmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BioInvent Receives FDA Fast Track Designation for BI-1808 for the Treatment of Cutaneous T-cell Lymphoma - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0t4WVZtLUE1WUNfdGlvMDJkbHg3RzBEU0taVm1lOFl3Mk5BYmpBV2NBUWVPXzg4X1JFY0FJV2hBR081NWxXTDlVd2ZKTnIyRGo5NE9uRUwxMmpTX2tPUjhNSjNlNWVCOUNwTzVCQUVkNENXSmt5Q2lTaGtiVHVhM3VPWU8tUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BioInvent's BI-1808 receives broad support from the FDA - Biostock",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZlU0YnJWa1ZJUkVDRWhFRzFab0dlRU9XUGN1dkQwVjFvYUR4ZHZ3WkZDZE5mQ1ZJM0o4V3ltbTUyUE5LS3N5ZzNJc0xPRnNUTlFYZm5BWDdJNy1sZWdjWXFlaXd2RkNrWlZ6MUtfTlN0VkY3Q09uZktINm1KYTZsTXhxSGlVQ25jV1RzX3dPOXhaeGtQY29yM0NoU3ctWDVBSHBXUVlFczNuRjJSaTRGb3NRNHhMT1hjenFjNXRkaGxKX0V2a0dQc1NnWGszQzBoRlVDY2VXZG1vTllsN25HSkl2RnZjUjJkQTRabWRJY2NxbVA4Mkwxamd2djRIVTVHbzJtMUxmUlM3eFV2R1lEQWVXLXphM0tWbk1pRmRmS1Ryby1lbnM3ckNn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BioInvent’s anti-TNFR2 antibody BI-1808 showcased at the 16th Annual T-Cell Lymphoma Forum - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUpLVVdIcHdiTWpjdlhWSTRvdFRCc1RRR1gwTUZNcm1NWWdFNnYydlFEejJyQWVVWDJYLTJyMF9uYi1RVHVKTy1GWDVUbVNqdFNiUG9VcmFLWHhydEUzWThiQVBvc3dmODBMMnRKS1A5aUNEcWNQM0JyWnkzQUJFNTBoZWE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2022.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2037.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2016.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2010.5
-      },
       {
         "date": "2024-12-06",
         "price": 2021.5
@@ -514,24 +547,28 @@
       {
         "date": "2025-06-02",
         "price": 2153.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2148.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2171.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2155.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2157.5
       }
     ],
     "current_price_data": {
-      "price": 2153.0,
-      "change": 54.0,
-      "percent_change": 2.57
+      "price": 2157.5,
+      "change": 2.5,
+      "percent_change": 0.12
     }
-  },
-  "news_sentiment": {
-    "summary": "1. La compagnie HASEKO (TSE:1808) voit des espoirs positifs sur ses r\u00e9sultats d'exploitation.\n2. Le produit BI-1808 de BioInvent obtient une d\u00e9signation de rapide de l'FDA pour le traitement du lymphome T-cell cutan\u00e9.\n3. BioInvent re\u00e7oit une d\u00e9signation de rapide de l'FDA pour le traitement du lymphome T-cell cutan\u00e9.",
-    "sentiment_score": 0.667,
-    "label": "POSITIVE",
-    "positive_ratio": 0.67,
-    "neutral_ratio": 0.33,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

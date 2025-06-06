@@ -2,55 +2,163 @@
   "ticker": "BA",
   "name": "Boeing",
   "sector": "Industrials",
-  "market_cap": 159547670528.0,
+  "market_cap": 158066049024.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 27.319408,
-    "PB": -47.862476,
-    "EV_Revenue": 2.715,
+    "PE": 27.826271,
+    "PB": -47.418003,
+    "EV_Revenue": 2.766,
     "ROE": 0.24987,
     "ProfitMargin": -0.16576,
     "GrossMargin": -0.01791,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 1.232,
+    "QuickRatio": 0.348,
+    "FreeCashFlow": -7940499968,
+    "OperatingCashFlow": -10334000128,
+    "FCF_Margin": -0.11434392838971949,
+    "ROA": -0.041020002,
+    "PEG": null,
+    "EV_EBITDA": -24.982,
+    "BuybackYield": null,
+    "PriceToFCF": -19.847910497718424
   },
   "technical_indicators": {
-    "RSI_14": 73.3025534216093,
-    "Momentum_10": 2.7839838322971513,
-    "MACD": 7.905931701331326,
-    "BB_Percent": 0.8559431322689248,
+    "RSI_14": 65.54942961732515,
+    "Momentum_10": 2.8345033790321073,
+    "MACD": 7.608034474510447,
+    "BB_Percent": 0.7080589691420667,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9135056632455818,
+    "ValueScore": 0.910464117892384,
     "QualityScore": 0.2231422551592178,
-    "SignalScore": 0.4804325434630826
+    "SignalScore": 0.4986238773478443
   },
-  "volatility": 0.0275344142011219,
+  "volatility": 0.0274818437280052,
   "beta": 1.418,
-  "return_6m": 0.3514118571927784,
+  "return_6m": 0.3380672557407944,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
-    "target_mean_price": 213.30519
+    "target_mean_price": 215.4163
   },
+  "news_sentiment": {
+    "summary": "Boeing a récemment suscité un regain d'intérêt des investisseurs, avec des cibles de prix en hausse et des mises à niveau positives, notamment en tant que pion Trump. Malgré des fluctuations récentes, les tendances à moyen et long terme restent favorables pour Boeing, qui a vu son cours de bourse augmenter de 64% depuis son plus bas d'avril. Cependant, des facteurs comme la réduction des commandes, illustrée par le retrait de Qatar Airways, pourraient impacter la valorisation future. En dépit de ces défis, l'expansion de Boeing à St. Louis et l'optimisme de Jefferies quant aux livraisons améliorées reflètent une vision positive à court terme pour l'entreprise.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Boeing Stock Price Targets Are Rising. Where Shares Can Go Now. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tWUZocjRiOGlNbHdpSUhMWEs5dU84MmhDZHJwV2tMM1U3RzNtb0U2Y3dpOHJfNTQ0Xzg3VjNZUWt6Nk1wOWxZSmRsbXAxOWI3VWg1Q3VQMWV6OUo3TTNRLUMtN0NPUHpFdE96QzJmeVpSOVloLTVj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boeing Stock, Up 64% From April Low, Upgraded To Buy As Trump Game Piece - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0RBR3UxdEVyRGt1WVNBa2xiQ0JNVUFlVDczVHhENnhXdnZpbzVzN2VCampVNWJfRzBFcDhfS0lyR3NLOXZEVkc5aDlBX0gxcHBKR3EtNXFiTmYzS3ppczg1cWNfTHZrU0k3SFZkU1gwRmlZYlNqV0xwcVdPY3E4Wkl2SUFUTGVxNnhJczVnRDJ6MkF4S1FxUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Boeing (BA) Secures $227.29 Million Contract Modification for Logistics Support | BA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVpFVDFVcU42c2J1dTQ0WkUwQlRvYlR1dnltYWpIc3VVR25UQ1VYV25fQ0tLSDVoOURjS0VNUmUteEJCa2pZRzczdmpudGJIcFpWVTB4aDdjODF2QXhoSGZnMG96aVpESVdLZzBHRDRyWnV4OFhYVEhJUVFIR21uU0JzQzgyUE9WbVNkaTB4RzNtcVJmUlNvOUwyb3JiS3NSamlheGNES21YTDhYUFpoVzNfcVVISUFGdXpDVTM3d3VYbXlfNGRF?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "After Earnings, Is Boeing Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGs4RE92NXNIMWNGLXAxdUVlTDVFWXFwUC1vZGoxY2wwTWtDY0hVNVI1NHBjWlB6eWVrVThYNlE1RDFxZU9QeXdwbU5nVVk3SDluU3U4MmRha1ZYS2dieVZ3OHRmVy1tZnZEaE1WY0EwdndLMWtmY1ZHaVdxZGJjQnZTbW9RaXNpeUx2cGxROXMweTZ2bzRjdA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boeing's Stock Is Crushing the Market in 2025. Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVHhBM3RrUWRtRUZGMFo0bDZwS1RtT2MyT2JjTUFSSmdRNW5oOUZtT19ySVpndlk4dDJRbDJoQTk1bHFiR3ZIckJsTzFxZTFrMXB3UXJfSlRNUWZCVlRHWkxuVHZNNlZweUUyckVzN0FWOHRacU5hUW1CMFdmeWIwRlZsaU5iLWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wall Street suddenly loves Boeing (BA) stock again — and Trump has something to do with it - Investorsobserver",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTRSTFEwT2NjQlJSODBJVXRlOWhLVkdRVjE3eXhSOFJ5empwS09HYjlsOEdlRjhhbk9qZEV3VU9NYXIzNFlCUzZJQnVGMEVrc0tzY09FNDlnZnRIM1c2WENBWVIyd1Fvb2xCd2szcFNzRG1qamZOWkVycVJySFNodmxCLXUtQ2gyTVhzQ29aUUVKdnNHMzZSX1NNWUtpb2NjRUdkNFNaQktwYVVVWUpoM21od3hEUGVBR3hLWlN1dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KWB Wealth Acquires New Shares in The Boeing Company (NYSE:BA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTDVLR2VraUViRnM0aVY4ZDNJZEhFYnk1aURrZGRBVW1uQkRDOWU4TjYxQ0JpeVpNdGEzWUF2UlE4Q042ZldjZHNkT0dVNEVVOTVTZW9UVUZ0ZUtaZXN4c25qVVlpaGxnQTdEU214YVBmaV94RVJiUDFLQVMzM2cxaGVYdlU4RkhVVFpWMG9OdGc0eGp0WWlzTE91S202VFNnSWt2MzdfTFJnUXN3ZmZPS0VCQ3FYS2F6TXVreg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boeing (BA) Shares Dip on NYSE, Positive Medium and Long-Term Trends Intact - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOazhlaVBtS3FzQ0d4aHh3TmJzRWtTanpOcU9vTG9ZeHFsX3padDA4MzJoWXdLMTU2cC1OZ1BXUUJTakxrT3BEbFppZkgyUzZ6NHhxeW5jNUZCTU5iZWVxemVOZi0tZEgzaEcyMzBadVliVHU3LV9tb0dZSFY0ZkFEVWpTdEJvRERtUzF3ZFVTRkNiUFJ6THF3elNuZmtPVUk3QmVhVXAtS1pEYUhyNGhMYm5oV21SNnJQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "“Not at This Time”: Boeing Stock (NYSE:BA) Slips as Production Cap Stands - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3VsdUZjMFpFbGVxZUtHNnF6SDhUOHozNTVrb1oyMXVaaUxvWmVSc2J3a3Z4SDRxbWtUSkIzeWRrME5KamFYbWJMeHdCT0lFSHFYTnNhd2FCZTJRLWhOYlNFclItQmZXX3ZFVG9oMFhBcVpOejBRYlJwckwxOEl1cXJDTXM2MGJ3dV9VMHlpQ1J0VnIxaUo2TDZldndvUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Northrop Grumman Stock Underperforming the S&P 500? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUzZDVGNxdWFDMEViRXFDc3JTRXZmUUhCamVQVGZLN2h2QWhIZ1F5bmpocWxJNkhONkpKb1BCTVdtMTJJWnZSa1hmTmFmNk8wZjlfdzgxb293cHZJay01UWQxYUEwTERmTVJIU1JLRjExN1dzczBSODFEY2E2bzZiYzBvY3RlQ3ljVVMwRExOV2xqTTZVSzRtc244Zk9RSnJOY3U4NGlBeUptWG1RZUVxSU1XQ1RrcXhheF8xWjlHaDFDOFlqVkhGSzFZVDN5SWVRUk9peQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$BA stock is up 3% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTJOeFdsaTAyZzFDX2tUUXVfYnZGNlNPRENueW9Sb2tvM0ZEWEVtbFp1cHcxYTlTR3ZXUkJFMUdnaC15T1R3bWVDRnYzczBFdHdvUW1aRTdSWGxzbGdBa01vUDdvMGJ0N3RVNkhwcXR6QVYyMi1HaUFwdmd3SUtqNw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Boeing Stock Pops on Upgrade, Street-High Price Target - Schaeffer's Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcEZTSEJpSEppRjlBZTRtVGtLNWwxX09Qcy1uMkFUZU5vQjQ0OVNILWtkOXBlOTNGTDRUZl9pTC1BMjE0eERmVkdqTS1UYkU4SmtCSmtDTzhEVEZic0FKbXBFMmdnSHdqeWw2S256WENvamFlRzctSnJlMGVXbWkwTGNsNGxLTDVnVjFaQmtPdlNqMzEtSUFZM3lrYkpsODBncWtPSFNjakl0Z3NmWnZPc3Fn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boeing's (BA) St. Louis Expansion to Boost Manufacturing Capabilities | BA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzR1RTJlTDdBZEFUbjVycU1EMWRhR0Zab19aWEVsdTdITjI2a0FKcXZMZVVlZmpMOVRhWExDbkt4dDlxRmxFZ1BTRE9DcHJ3SzJhbDNHTnkySF9JbmRmU2tSMUVnc2M1QVNmMTJGQTVJeWFXUGV6U0JJcElfS0NmblRxbVhyNDBGOHlZUW1IYzJ6ZDM2WDJWX0pPaG9nNHctdlhpR2l5WDNOQUlvazY4OXhlbGthcFB5Q3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boeing Stock Wins a New Street-High Price Target - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeDhQMXdPM1JJTGhCNENuQnJfUnh1dktZSzR5dmQ2QzZDb0RFaDhyeGJpb2c5X05hYkZhNi1CVjRKemJiNlMyVV9HZTVKNktPWHoxMlJ6TkJ4M0NySmVwYjFWWFVWQlFjUHVYdGl4UlAycXU1WUtpdkRlcGZXdjF4cWlRSHVDVUs0S1Z2Q3JHY0JiTzYwS2dwdm9TRnNJaWRvNExQXzZmYmNLeW1EVTNpeFVwT0phdjdoSk4tYTh2RlVTUmU0eEFPQUNUd1lsNW8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Boeing Stock (NYSE:BA) Slips as Qatar Airways Pulls Order - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbTVoZUlhQ0EwaTh6a3Zjb0RfNUhGRTdCRzhCWWFtallIV1lsVGRicVFRU3Jfc3hFYlBNeGVwc3c4MzY3QmRJZm9QY3ZqWkxEN2NBY0JJbDI0YUcwM05JSHpsOE1ZMU9KdEdKaFJwTzRYOTQ0Q0NabWUwaU1CTzZ5amc4ZFRwbHBoYzlEYg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Merit Financial Group LLC Acquires 1,551 Shares of The Boeing Company (NYSE:BA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWZWQmpYNkU4bldJZk5GczJWTVZYR1ExSDY5R2RWbDhLdk1kUm9tZGFHdWUtNENXaFFUdVZxQk1yWnNMSkxGVXFTVmtKQ0RyN3ZINlRET01Fb0UteF9JNWVzWjlOQUs0R2pvaDZSX05sVTBkaGtLdzNRLTFUZHZUa2I5emtUMjJJeDNCRy10eUZia0VLU2pKSWNfTEhSQUpPV2VlTlR3Y1MwZThrWFhLZlEweVExVlBvR3FQOVZEdG9DbjQ2dnhqNDYxdTcwMTBlZHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Boeing (BA) Price Target Raised by Jefferies to $250 | BA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2s0MnZJX2plRGNMTW5UeFRiMnY5ZVZuVmV4WGZoZWJVU284N2tkS2xhQm1TQU9GM3h2NTg2dW1NQ1NBSHU3OExMN3FYSTBVVlZIWWllcEVuSzQ5WmE0LTNuUXE0Y2xOY0Vxcml6UWpEbGV4R21EQkVHRHI5OVpMcXdTRU8ycXcyU3dZR3ZKeVh1aVJmM0ZpN0dZZlRCYVdiQzcxZFJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "“A Favored Negotiating Tool” Gives Boeing Stock (NYSE:BA) a Boost - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUJVd0tHYlBkTHZNU1FsTllxZVJwc0xiNV8yWFkwdkcxWjRaUnB5eE1vSUQzYklUZGd3RVF6aF9BcEVhaWRGRi1saG96N2F6aEttaHhoVG9jR3EtdlF0QzF6alJ2VGk4dGlsbnhBQmQ5TkZEMFhHSDIxQnJncGd5elRuOTRZNFRja0M2aDVKMjZZSEdO?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Boeing (BA) Price Target Upped by Jefferies Amid Improved Deliveries | BA Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGN6elVWNWZzdEJIbXduLXc1NDA4ZjJrTnNrOWk5SjRFRnpjQ0JMYXZQdEhmc0c3d2Fjb3pLYkRtX2ZQcE9iVTVWTkZLWHcxVmlYaVUxcmd2VVdkOG43NFhwTENqd1diQlpIQW5Bcm1IQTNxZjBUa1JmOGk0R3k1MmVzMkRoRkRkd25Nc3NIa0hXU2dCZWxVcVg5dzlVUjQ5MGM5SUN6NmhNb1FrVV84YTZRN1V2X1hqVVZnQg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "The Boeing Company (BA): Jim Cramer Is Convinced – “It’s a Very Important Company for America” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xS2xXdlpzVUMxblNuWDhHVFVMUXFweEtFbEF2QXNvaFB1M3NfT1ZZaXNWaDVLVXE5dkdhaUJjYVdTSHE5YkJCQkJOakhKN3F1MThSNmV2UDZFaHFCSGJ6dDNBRl91QzRBTmdVdU1WNUNpQVlhSmxHemZMdHh1N1U?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 156.54
-      },
-      {
-        "date": "2024-12-03",
-        "price": 155.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 158.28
-      },
-      {
-        "date": "2024-12-05",
-        "price": 156.67
-      },
       {
         "date": "2024-12-06",
         "price": 153.93
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 211.12
+        "price": 211.47
+      },
+      {
+        "date": "2025-06-03",
+        "price": 213.43
+      },
+      {
+        "date": "2025-06-04",
+        "price": 211.98
+      },
+      {
+        "date": "2025-06-05",
+        "price": 209.02
       }
     ],
     "current_price_data": {
-      "price": 211.12,
-      "change": 3.83,
-      "percent_change": 1.85
+      "price": 209.02,
+      "change": -2.96,
+      "percent_change": -1.4
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent l'entreprise Boeing et ses actions cot\u00e9es. Les tendances cl\u00e9s sont l'augmentation du prix de l'action, la promotion de la marque dans le secteur financier, et la favorisation de l'entreprise dans les n\u00e9gociations.\n\nL'actualit\u00e9 globale semble avoir un impact positif sur le sentiment de march\u00e9.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "INVH",
   "name": "Invitation Homes",
   "sector": "Real Estate",
-  "market_cap": 20579762176.0,
+  "market_cap": 20218122240.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 43.044876,
-    "PB": 2.1173613,
-    "EV_Revenue": 10.962,
+    "PE": 42.288464,
+    "PB": 2.080154,
+    "EV_Revenue": 10.855,
     "ROE": 0.048070002,
     "ProfitMargin": 0.18225999,
     "GrossMargin": 0.58558,
-    "DividendYield": 3.44
+    "DividendYield": 3.49,
+    "DebtEquity": 83.399,
+    "CurrentRatio": 2.409,
+    "QuickRatio": 0.721,
+    "FreeCashFlow": 977758976,
+    "OperatingCashFlow": 1116736000,
+    "FCF_Margin": 0.37335333350928795,
+    "ROA": 0.023740001,
+    "PEG": null,
+    "EV_EBITDA": 19.744,
+    "BuybackYield": null,
+    "PriceToFCF": 20.649812757126764
   },
   "technical_indicators": {
-    "RSI_14": 48.248224990157915,
-    "Momentum_10": -2.3096984637918494,
-    "MACD": -0.1118128063111427,
-    "BB_Percent": 0.3503001390983128,
+    "RSI_14": 41.1739950198911,
+    "Momentum_10": -1.8016775579031936,
+    "MACD": -0.1774311254274252,
+    "BB_Percent": 0.1483221603158738,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.863214851158132,
+    "ValueScore": 0.8605387854836155,
     "QualityScore": 0.4104805779182836,
-    "SignalScore": 0.643736454378038
+    "SignalScore": 0.6513634860096844
   },
-  "volatility": 0.0144069062984352,
+  "volatility": 0.0143571788567548,
   "beta": 0.817,
-  "return_6m": 0.0078003179073533,
+  "return_6m": -0.0004742846514759,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
     "target_mean_price": 37.68182
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Invitation Homes Inc. (NYSE:INVH) a récemment fait l'acquisition de 300 maisons pour 133 millions de dollars, dévoilant une nouvelle stratégie de financement pour les développeurs. Malgré un recul de 4,6% depuis son dernier rapport trimestriel, plusieurs investisseurs institutionnels ont accru leurs participations dans INVH, tandis que d'autres ont réduit les leurs. Un analyste de Barclays prévoit une hausse du cours de l'action INVH, soulignant un optimisme général autour de la société.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "INVH: Invitation Homes Gains Upgrade to Buy with Optimistic Outlook | INVH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUlVVV09BcExaeWQyR2FMb2dPcmpEREcyRVlVZkN0R25nbzJ3ZVJ0LThIQjd2RlFYaVZLQjZoVnoycFM3aUVnVmdEVUQ3TUgtUU5EODliSzV5UE4zSXlfbnE0cEpKdzN3ZnpFV3hYUjkxczJYTF9ZSVhzbWlXQm9rdHY3ZGo5U2xFOTJxVGNLNm5MLXFGVDNUd05oS2REYmNBNlZrNWNtUGhpUmhQUHItZmhQa1RrYU1sdTRoQk5sTGxuUFJaTzl5LXY3YjRkRlZTRWx6SFBITFBvVDlGSGJCWmF5UXVlSDNHSWtxLV9B?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Invitation Homes Inc. (NYSE:INVH) Shares Bought by BTC Capital Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkxSc2xoYmZHQUZCYUQ0T1FvLWdaek1FQXN6YnN4c1N6V0p0Z0VQQ2hEcFNRNDJDZE00NzdteDRHM3RMYnRXbjJKTnM3QThQSTNOS2p4UkpZQXR1NE5JdllWNWs5a0traDJkd0tneG1FNTRPdEE4dzEzRVhqaXBXVmFDWTIyaXJzM2xDMGhQR0xhd3VhVXd6bjhVd2pkQl9qaDZfZVVuZ0FHVEx4d1VKS3FxUnZyTzhEM0YxUzRlVXRPNXNCZUVCX2ZkT3ppdlpHcjJEMGFiTG9JNFNmX2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Invitation Homes Makes Bold $133M Move: Acquires 300 Homes and Unveils New Developer Financing Strategy - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcTVFR0taNzhldVRnMER2OGMxRHJkUlVFTXFQYkRoRGdtQVJFN01jTXUzTk5ielNQeHpOZ0ZoSVdiQXFMR01NSl9tQmFlb1FFWGRQYmxIdnUtbmljaFdIcEFaUXBxVmJSSmhhdVVZZ3VTX3E1Nng2R3BhTjdkLVN4VmhNV3VTUW1xQVRNeXk0MGVhaFd1dlpaZ0VZRlR0RUxfdDJvVEM0Vkx3R2lxbHRBSzdUVDNTUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Invitation Home (INVH) Reports Q1 Earnings: What Key Metrics Have to Say - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1hGcEgyc1ZmSTI5Zm9zTmZNektOblJwVEJLOTlMdVpaTGxraTJ2a2JaMG9vSzRvdi1NUDBsUGpCc1RBVjlXdXpPc1l4ZVMtQnFxbVZZRmtfUk9IR3p6UXJSS1drbjdOYU9WWnY4LTFrVXlvY3ZBa1N4Y2lQVFJKQTh3RnBZSEdQSnNucUJKSEtmajJLVHl3Skw1cVFlS0VDQ0trcndNR2tJQmMwZnZzOTBkamgzWVloU2FQZDBfOW0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Invitation Home (INVH) Down 4.6% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVRoVEpCcFdSdTlxY1JoZmdCa1Y5a1dWTjMtc2FsV0JTYkh5MFkwUWVfbjE4NDhla2ozUUctUVdXQnh0ZWdrVnhpdmVyamJIaE9rTW5nZ0dObHdMLWlISVZRMm1EOUdFMFlXLThaMDIzOEc5Vy1tTHZSUFc3WXNPUA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Rhumbline Advisers Grows Stock Holdings in Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSHpHZ0RORi1XVzhHd1lYMTQ4U2JFQ3E3T3laaUhZUzhHNGVkUHpnSFVkbEIzVEMxbU5fVGJMTk9lV1lEMlZtUklVZHV0RjVFMUQ0MzdWVnVEdnZSYTU2ZXp0R09RWWxZbDFEOWEtUl84ZFdFVHh2YTBkM0NFTHJ6VlU0eVhZMURqNU95d19tUzhSZG5iNEpKVEhaMnlrYnU5YmYwTVBnX0FzTEp5S1M5VXNaQW8tVXkzMDNEYUMwb3JsbFFMblNkb1h3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Invitation Homes Announces Acquisitions Update and Launch of Developer Lending Program | INVH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb3psVHFJRU9iaVpzX3Q1aDV0ZHRsYi00TVNGYTE0M2YtTjRYYW1HR2N6dHM2M1VQeVVTRk1wRTRabHJ0ckgzS0xVYUxTbm5EMDE3alVjSXdmWV8zbE5rZDBERHR4V3otU29YTGM2QldRakpKRXJZYjFtV0NEWGpmcXMzQzctd253VUtNS2FEVXhEcGlGNFNMLWJyQ1hSLTFRa0c5bkE5S3h1dFMyekJKQS1KNFNnRWRoWUZGWkJIaVVZM2FFMnVEbGgwcnMxM2RvaEQwRnB1ZF8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Invitation Homes Executives Join Elite REITweek 2025 Panel: Key Strategic Updates Expected - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmU0SjhKR1FzcXJ2dTJXLWRVS1U2WFFlc0dQTlktMkp5OUtwYUtZckFKUXo5a0tjMEhWbDB2NlYxZzNjaXZyS1BLRHpjbUN5T05OOVFhc2cwb3RDUVpoM2NtUHIxYVFKdWdSOE03bFZXdXpLaXktUkx5bzIyWU9kX1pqTS1RQzhHUDBnOFJ2MXlhTENDZFh0LVZlNk1VTzRKQkcxR09MdjRyRGpCazF0WnVDQmNZdWQtcklNUThaVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mattson Financial Services LLC Lowers Holdings in Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaE52dVpCMTNJekVWWU9UWkFvSTRQNW1Mb0kxMDhxel9Gd3dsd0VuTVFWbXgzelNZM3FvekcySmM1WlllcTl5RFV2Zmc5Qzh2akdzYUlMR0JsV2k0clFZUHZIYW5tSHVjODVSQkt1RTJyQWFONHgyT1dtRnNtc3AxTTVCZGVydm1ZN3BWOWlEMVBPQmN4NmJSQmtiTW9HUFBLSXZFU19vMlJhT1NuU2ZJOEkzeDBEMHpxbkJIak45bXhVbUpXZjcwNEM3WlpCMVlxb0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Invitation Homes Inc. (NYSE:INVH) Shares Sold by Voloridge Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOF9PdC11RGxoQVBDaHpGYldwajV4ZlFiNEh3S2x1eHR0cmhadXQzODJ6SzAtUDg3c2QzOTFtNGdIazB0NU1XNlBodnIzMmZ0TmNENkE0TVJIcEtnZkpiOHRVR3hMUzNFNnE0YW50TXhwT0NIcjB0MXo3SURLaEZzMzlHUy05cnhpblEwNllNdFFyeXNFZ09XMHNRUlhMS3E0eFNsSGZsVTYycVY5QTVvRml1S2pia01ETVZUZ2hJSGxka05EZ291NF9BRXJ0Qk1kRXVadDBibG9xelhpT00xTGxyMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Increases Stock Holdings in Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNFhWd1FFTkxzQWZ3ZHhMSmluS0MtVHRJUlZiUVlIWG1vSUk0MGIxSm95UXljeHlhNTZDUFFJdi1ySzRQYVBRRURTSGZ1alVvcjZFLWRicWRtQkFUMmRLN3pSclA1QnJKQU5wd3pVR0E1OGp2VTZvUFZ4NEFkcXJuNndNaHhIaERoX0txbDBNUXotX0U2QkM5WUZYTVlTQUt1ZlJRTUNuNGR4alhIQU9MSTVCSlZMNjFIVnVFeHUzV3dZcDhGcDQ5UFVvLWFqcFE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Rothschild Investment LLC Decreases Holdings in Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVl9fSVhRTWFiUmpWcThBYWlucnhDelRtY0xWbDg0SVpNenZyam04ZGhqXzZBQmIxNDdoNlJ6dGg0TnZXeTJjdldweWNVdG5rUzJjaHUzN281ZWw5YXpqcTYyVnRvd0Y0X2g0a0JtSkd2U0pvRTVnbW9qcUFDdGFtc0YxNVBscEM1QXl6NGcxUlV5dTNleXhPUWJWc19yX2wxTE5SNzVuVm9pN3hYUFhsci1DcTI4VWczV0N3UFE3dEdaV1d1N19TUW9Kaw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Unigestion Holding SA Purchases 27,469 Shares of Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcndfYXlXbGVoYm9DcXVyOGpPU2MzWFRHUWcwd1c3c2F2aWF1VlNWRzViZkFOMnUzdVlfbGNsdy1iNUVKRHpOaFZxVVIyN3FLWXltSEF4WlhjRTFfazhlbjdoSm9xc0x6WVM5STBoS0I5VWpfME9zdHVSYVprcFpsR2R4ckF1Zjc5cXludjlWLVJMa2syM3k5aVBoZzNNSS1iZ0J0QzZIb043Q3c5RndXQkhrcGJPdXVhRTFyU1YxV0hma1phaXBDZGJBcUFSTHNQVUplSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mackenzie Financial Corp Has $3.13 Million Stock Position in Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVHYySTZsWndBeVFtZkktaXBwQjhXTGs0LWMtbGJfb1J2VndrZWg3aktPbTluMDBIWTZqeEIxRnVILVljcy1DVGIzZ29tRnktbU02d3FUQzVsMWN6WjRGR3BFSDFqekZJbjBSdWNsSl9oX09wN0hrVlEzRk4ydThTcFo5UTVrTXpDNDNiRXRYdUdFcGRiYjIxUVJSTTdYZ2pkamRsRjltOVlaZlc3SHViaHdud0JxMFBGZmptdFRReDUwT2VWcVhyc0Fn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toronto Dominion Bank Purchases 19,084 Shares of Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmlNR09OdElvbnp2bjE0V0hnT04tMDUtVmxORGVTSlVSclNJMkhLX1ZYUDVfSDNiaThrQkszTWhPckI2c1pPdzVzVlIyVEIzdnlXSndmVkNpSGR6TXA3Ymc5X2hlWVlXcVhOLWJBMDZMTGJTYldodldtZm96U0dpbkVpX05LamlBOGNsV0hleWVjSUlEQ2ZBTXRJUHJMTmtTbGR1amFrcGU1bmR1OHIzWGl3bXhTcVp4MVJiQnl3dmtMRjdzSmxOUGhvcHpqYVJDSlZ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Has $17.57 Million Stock Holdings in Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNR2FiZVB3azBIZkZSZGV5Q1RrR1RSSEEzQVBGdlByQUpNVVA1dDFoRXk4X3UyRDVwMldWLXk1TEdTdHdzZ0xkRkhNWjVuZzZBbWdqb0xydUZGb3lNbENMR2NLQ0JmekNrVTQ3SjdBeTRORmJMYThsd3NaSFRUU09KanAyUVlyNmY2UnozT2RMYl9sb216UUNwNEFBVEE2cXdBY1NTSnFTZDh3d2k0OTVjQy12WElrZ0JTMURhMERtazAxTm1WeWY0eEUxc2RhOFRjOHVyT3dJaDdQNGR0V0tqc01pd29hVXp6cUxxV3ZaODQ3azFfLWJXbXN4bmxXeGtDcEJQYUplUWt5Umc0WUNiWXJkWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Siemens Fonds Invest GmbH Acquires 12,891 Shares of Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVzNFLVFUSUN4OHUxa19WNWZ1MzUwTE1HWkhoYkVaSkh2S3hXX0hLN3h6QlU2LWVNZFFVMlgwMVdNQlk5cHh0bW1JYU02MmduMWhBSmg1LXBxLUNJQUFBRUtYSENWXzdyMVhHR3VLdmFNNHFPT283bHVfSnpTaS1CNDVyMnNEY1hiSjZyTFp5NkVnQ3YwSmdtallPeGxnNlZncm5OQWx3OEpPZk1ZYkNiQVZYeERBTVE4R0pfYlVDWHZIeXBVZnk2SHJqZ2h0bEZZSVNKX293?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Woodline Partners LP Buys Shares of 34,069 Invitation Homes Inc. (NYSE:INVH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3pqRG9JRGVOMHUyZTRlMHBFRmNmc0RiXzlSaDhNRFBKMkF1S3FtX3hkU1ZIaG0wcDd6RTZyYUNGcE00dFk4OFA4eEkzdzB5Z1JRYWl0ejl2VXp2S2RhX1BiaUd0S1NuLUgtWVYtRUNFblM1dmtOZmhWVGxfZlc3eTR4b3Y3VGoza0NtOVFCak1Xek15cXZrVUxxYWczaUtkWEN2cWUzcWdwdlRFalYyNHI5RGdSdFctaktzcHNwYnhycElPUDFLUlJfeTRldldvbGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Invitation Homes Inc. (NYSE:INVH) Stock Holdings Lowered by Zimmer Partners LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWhRbHNrSjBseGdiNkNESV9iYzhPeUhKdTFfSmZkbTIxU2FvY3RuNWJhUlhjOXRnVFRmNktKcW5kNktjYmZDSFU1RkZwLWNMWnc3VXNlSExuem1NU05jeG9SZllBVENHM0lpUUQ1ejhmUnVSS2tSdks3SDU3TENIcXV2Snp6amtZQWV5NVFuZXRHR1pfUUdtWlVkY1lqTFRoOGtEcjVnLTZXeHJ3SzFiMnBJMlYxVmx6d1ZIMWg2eS1uZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Invitation Homes (NYSE:INVH) Stock Price Expected to Rise, Barclays Analyst Says - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSHJOUnJrVVpOREl1V0lFa2VrVE9iX2x1WXpkM04wUjlrREh3Z2trQW9jaUFXZ0R1OWdaMEhCdDNnSERsTDZKYUZlWW9GRXpmTWIzXy03SXd2Y19CVk5EeHRMTlh6RFF6Y1dRUzlMaFQ0V2Fwc2NQZ0pqeHRJVVpMZ1JkN2dMZy11OGVJM3IwbUVfd24tbE9ubk1yVnBiWWlyWFc1OExuaXZRRXpyLTd0N2pja1JJbmRqXzJqYlFIVXNsQkVhYmNZZzBwZnhHQ3c?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 33.9
-      },
-      {
-        "date": "2024-12-03",
-        "price": 33.59
-      },
-      {
-        "date": "2024-12-04",
-        "price": 33.94
-      },
-      {
-        "date": "2024-12-05",
-        "price": 33.58
-      },
       {
         "date": "2024-12-06",
         "price": 33.49
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 33.62
+        "price": 33.67
+      },
+      {
+        "date": "2025-06-03",
+        "price": 33.45
+      },
+      {
+        "date": "2025-06-04",
+        "price": 33.24
+      },
+      {
+        "date": "2025-06-05",
+        "price": 32.94
       }
     ],
     "current_price_data": {
-      "price": 33.62,
-      "change": -0.04,
-      "percent_change": -0.12
+      "price": 32.94,
+      "change": -0.3,
+      "percent_change": -0.9
     }
-  },
-  "news_sentiment": {
-    "summary": "Invitation Homes, a real estate investment trust (REIT) based in Phoenix, Arizona, made a bold move by acquiring 300 homes and unveiling a new developer financing strategy. This acquisition is expected to boost the company's growth and profitability. However, Invitation Homes has seen a decline in its stock price since the last earnings report, with some investors questioning the company's financial health. Despite this, Invitation Homes executives are set to provide key strategic updates at the REITweek 2025 conference. The company's shares have also been sold by several investors, including Voloridge Investment Management LLC and Mackenzie Financial Corp. Overall, while the acquisition and upcoming conference present opportunities for Invitation Homes",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

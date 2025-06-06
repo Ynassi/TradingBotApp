@@ -1,56 +1,164 @@
 {
   "ticker": "SUNS",
-  "name": "Sunrise Realty Trust, Inc.",
+  "name": NaN,
   "sector": "Real Estate",
-  "market_cap": 142267904.0,
+  "market_cap": 141529712.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 17.377048,
-    "PB": 0.7697894,
-    "EV_Revenue": 14.212,
-    "ROE": 0.11125,
+    "PE": 17.286884,
+    "PB": 0.7657952,
+    "EV_Revenue": 13.935,
+    "ROE": 0.109745,
     "ProfitMargin": 0.62797,
     "GrossMargin": 1.0,
-    "DividendYield": 11.13
+    "DividendYield": 11.46,
+    "DebtEquity": 23.376,
+    "CurrentRatio": 4.723,
+    "QuickRatio": 4.71,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": -391864,
+    "FCF_Margin": null,
+    "ROA": null,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 51.50093532034449,
-    "Momentum_10": -3.4608303880603444,
-    "MACD": 0.1254078474170477,
-    "BB_Percent": 0.4873477898226844,
+    "RSI_14": 49.98736412828449,
+    "Momentum_10": 2.5778244183491026,
+    "MACD": 0.0903630286475678,
+    "BB_Percent": 0.3717780090579755,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.930334493665322,
-    "QualityScore": 0.5352447883071004,
-    "SignalScore": 0.4936924166301372
+    "ValueScore": 0.9290115300051968,
+    "QualityScore": 0.535685625773958,
+    "SignalScore": 0.5463118860599607
   },
-  "volatility": 0.032248805946751,
-  "beta": 1.003,
-  "return_6m": -0.223307186666961,
+  "volatility": 0.0327980570204107,
+  "beta": 1.0,
+  "return_6m": -0.2041904599591113,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 4,
     "target_mean_price": 12.5625
   },
+  "news_sentiment": {
+    "summary": "Sunrise Realty Trust (NASDAQ:SUNS) a récemment annoncé une importante offre publique de 5,5 millions d'actions pour son expansion dans le sud, tout en publiant des résultats financiers du premier trimestre 2025. Malgré des achats internes de 22,3 millions de dollars, la valeur marchande de SUNS a chuté à 142 millions de dollars, suscitant des inquiétudes. De plus, l'entreprise a augmenté sa capacité de crédit à 140 millions de dollars avec l'adhésion d'EverBank à son syndicat de prêt, mais le prix cible de l'action a récemment été abaissé à 14,50 $ par Raymond James. Ces événements semblent indiquer une période de turbulences pour l'entreprise, ce qui pourrait influencer négativement le sentiment du marché à son égard.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Sunrise Realty Trust, Inc. (NASDAQ:SUNS) Shares Sold by MIRAE ASSET GLOBAL ETFS HOLDINGS Ltd. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZXRkpMZ09ZQ19XdS03OURHTHZ5LXRPSXlYbjhZbVBiZ1hJSm9RWnNJRWNET3d4dnVGYzE5VmhENHI1MWxUSDk3Q3NIU3U0OFZHMTQzSHVJcW56cDBzVVpnYU9sUkpad245a0RQbUVWcVlaLVdCMVY2Q0tka1h2eGNGSkV4eFcyU0ZTTFJMRG05OTVyUDZocFJtY1NKWkFDMENhZlRIMUJKUGtfb0YyZUh5YjJab05QV3htWENualU3X3FGQlZlWldtTnMydW85TE1IdUJpT1R2VmhUU2pwRGNNUGl2ZzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sunrise Realty Trust Announces Major 5.5M Share Public Stock Offering for Southern Expansion - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU1ZrRmZNcGotY294VjFROFJ5bmJfdHVLeWZXaGhSQ2w2MWdaajdZcDFVZVVyanhEdGcwT2dVVHZrS3BldVNRVGNxdXA0b1l2eTctSDNTVmdJeXp2QVkxT1RNeEVJQ0RaTmJpd2dqdUpIUldSZUxMQi1CNThIU0E1NnprY2FWOVFVOW9GYno0Z2Rmay05RjFXRkhmZ0cxT09xR3JXV2F6MldUb0VGcUtHSTVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sunrise Realty Trust, Inc. Announces Financial Results for the First Quarter 2025 - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSE1rQWNVYmsxNWNIbXhsTjF6b1NwTWpNa3N3NHY1dkZvLWlyWTVDZzRnZExBeVdEZWdMSkhyZU1wdElPMGw1WTVGSGJVR2tZYnRDdnpKVUMwdWd0SmZSUFc1TTlnVy00V01tRWZCSVpHc2JubGFNRGVXSnd1UDdzN2tJdzAtVFljX2hYUXE1WFhzS3FKNzVBM21DS05KN0lZNlNzM1kwa2pTS2gxRTNxOUJfbUtSTHQwTjd0ZVNob2M0VnU0dWxINVppdV9mX3JwNFlWb29mMzFzdTVGOUY1ZHVwZUdhZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Purchases Worth US$22.3m See Losses As Sunrise Realty Trust Market Value Drops To US$142m - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVFpDNDFDeHVkS3hQRkFnM2hMdXAtNFlXUTEwRENjN3lsNU5RWlpFbTl3ZXRxRTNUckpBSXdCVDNPQVRmc2JKWHltVkxXX0xHaDdjSUJxQWxtRzRkRmQ0Wk1rLTY0YzFaQlk2b2ZKWjBWYTNrN0RURFZBeEUxTkVFNEExLUJnTXZoWmJHc2dwTUFmSGczeG9leld0NlpNeE54N3A3MXR0dGxiZGNUQjNvcG5yejVMX1d0M0phYmVta0plRExQY2VlVUYxdENsY0RYaWdqSXJGcXNNQk5CSTZST2gzQzZYSzjSAewBQVVfeXFMTlozWmxSZDc3YlJiUS1RblowY0NydU8xWmpacjVTdlpzV241RFFUdTdlV3Z0bktHUFdRMFI1NnAtQ05Nd05ZZXlfRTYwSHZpVndDSU53Wmw3WEFTZ0F6bGNBa2txd0Jkd21GZHJQRGNLamdESTlfSnYyUldKeFNhQXlPbVpsVldxUWtrNmhURy12VDR2WC1zZU1OaERiMk9hdjJjWjZvWS1Dekl3c0RLV2ZhVlZzM2xxOWU1VFU2MnJkLVg4QmctTE45bHBqSDZqdTdPTG1pbWZ0RXJSN3otOFFWTHVjbXdHWElicWU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sunrise Realty Trust Provides Preliminary Estimate of Distributable Earnings for the Quarter Ended March 31, 2025 and Discloses Other Information - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTE54WlBmRFRYNXJtNVAwcVhRRG1hOGxqRi1nZ0pIMUtRT1JDNXo1bjhGY2ZGYmhsQ2N5bVU3Y0x1XzFjWV9xckN3OENtOFRqWTFTTzMwd2FoOE1WYzdsRUw3d19neHlIbEI3TTFUcXhIcEdMVVgzLWIxM3pBd2NmcjFTY3JUY2RkSEF6YTc3Ny0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Suns Stock Watch: Risers, Fallers, Ticker Symbols, and more - Bright Side Of The Sun",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGF6djFlSUx0elhPMkx2WndtWUNTMjA1U2xPekxhT1NuaDY3UWsyUFM5ZktwSWFGd0Mtd1JBNXVTczEzXzZ0M2E3b3ZBMGFZMEp2MVhsRXlxZWUxcHNvbGh0bkJWT2haemIyYVhGMjVnNlVDZlJTZXpxd1ZhZ0pNQU0yM1RaUmVEdFBZbG9Fci1idDJwdi0yWTZKcW9iZFZmSWxGeE0wN2tZbWk3QUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Devin Booker stands untraded for Phoenix Suns as his value drops like a paradoxical stock exchange - MotorcycleSports",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnRjdVBGTVNyVlhLSUNOSjR5S3g1bUFZR0xuZ2t6REdqdmpya1NhcFFPdDRxRUtfempZWHNHWW9QR0JqT05CeEZHbUlYcktUMTBGeG1Jbnh4eXpPY1FDdXBSQ2lPOU1JNlF6WHg5cHZUODlkQ0F5eENKZHRiY2h5X1l1RkhSSDhIc1hCVnUyTHl1WHlNQUdmQlpRdGtFMlFIeTJITnVJbDRNejFobnNqaXdSeVV0N2lTbEZtMjZsdVNhdWdtbF9r?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sunrise Realty Trust Expands Credit Power to $140M as EverBank Joins Lending Syndicate - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWtnb2o0cXNMOHZrTDBrV3hHMncwUWswN19JQUpnR3pCN1VYZ0xRWmIzdVpHX0Z1N3Q4Sk5Kd3BVdXhGdGJBTFk5YnVyTlN3c2ZzUWR5cTJ0MzBHbkdpd3Nrb2o1ampwbmp5TWNUT19ZZlAwYXU0QWg0Q1k2ZG9oaXp4X0VHbkNOR3ZkQmpxSC1yUzhjVDB4WGhGSjhrS0pLQ1Q3VGtRODltdjYzRDJxYzFwb25jcUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sunrise Realty Trust, Inc. Announces Launch of Common Stock Offering - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHlQdWxmUDEtN0c2UnQycklFRjJCcERMaDFYYjNmRE42b3poUENiVDlwY2dQZy1lT3pBcHpXYTJPd3I4XzYyV1ZZcVpFR01oUGJWTWVNQ2NPakpCSU4teXB6eFhteWw3eEk3MFJ6WVNSSzl3SENScExzZzNiTzd3WU5mQ1JEc09GNWtWQWFFeExLUkpuSFhUaDVFNE1yODlGRWpGLW1jUEpDNUVaNV9EMGxTUmxDTWU3SGdBMjdYeTJnaElFQjdLcVRCM0phbHpiVWw1bA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBA Rewind: How can the Sixers and Suns salvage their uncertain futures? - The Athletic - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVHlKMTVzMFJaRjNSN25qUXM3dzZrbFprUTAtMWE0SHVTRXBldl9uTXJNMHc2R2prdm5kMVdnNGowcW9YLU95N0JuOWxLc1VXYWJNNjV5X3lrYXFzQ0lxWTlYTnBFYXBsSlFyYW54cktvX3REUGJSdFB4cG1oLURmQndJZTlLTXN2RmNXLXlhYV9MUHFiT0Z4OWo0Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ishbia swaps a big chunk of UWM stock — to a fellow Phoenix Suns shareholder - Crain's Detroit Business",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXlNQTNrNnNBVE1EbDl2MXNJWTFzc1dlM19pdG02YmJQd0N5b29RdXdZdXV2Y3ExckJkc1BTQXBZd3h1dW5sdFZZbTg4dm9sb1lxbUU0RUdmdE8wYVdqZ0pPTjJOR3haVEhRQmlhai01bS0yMVVYNm84akg0cmYxZHVZX2tKZUUyM1hHSGFfYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AFC Gamma announces real estate spin-off, SUNS to trade on Nasdaq - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUw2cElPZVcxTm5aS0VhemttMlVyclppLS1FT3VZbEhRMHVwUEMzaDdzUlR6RTRQek8xTHZueDdLRU5SRFh3aUpRVDNyRFVXeUpfbkhkbm5zTDFSVnFNc2UyTGQ5LTZSalJobGtfNjVTRlpoa1gyQXRLeHI0a2QzTGVxSW5YUi1hYTctYWRTa3hpRmJ1bWI2Z1FMZU5obGNvOGdIaFdQSTVnQkhVVEVYU1c2ajhYeWRQZ3g5aA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sunrise Realty Trust (SUNS): Among Stocks With At Least $10 Million In Insider Spending Recently - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTFhhVDRIbktVS2hTQVVJc0dzQTBsck04MXd3SXFCSjVleTJ2SnNpNldMYzhVaW45aWEzTEdqczhoYjRuOWNFak1aX19lY3B4TVhkX3l2ZTA1R1B4eEVOUUJyM21CWjRjdUMzV2pQTUxKeThPZkF4N044QkVxVG5WMmNZMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mock Draft: Florida's Walter Clayton Jr. Drafted by Suns - Sports Illustrated",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3NWNEZmeUlaZEJoaHF4S1oxU2diTnJrZ1RNQndMWTN2d1poSkl4ajNtSzJPYTc4dmk5bU8wLVFNS3BOU0hEYkEzYWtkR0RHdHlHc0xycGtmaFd1ak9kbVNKcllZbjBRbzI2UUdqUTZkeFJkR1dpeFl3T0hFRkpraEZ2SkpiNTREMWJLdEEwNHctYVRyQmJHdGVEN0E4OHdZWjNJU3RIejBNbzVvX1JiRkI0bEs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bad Suns Announce New Album ‘Accelerator’ - chorus.fm",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmSHVSb2ZFX1ZyMHR1bDcxZUYtWTBFWUczSlk3QlFxYWh5bUlOMFBoODNhTnV0Xzh5YWVSaWNaMWdzOExjSU4yWnJLZXV2cWx2MGxsSHVESWFZUWU1ejBkOFJZX0xnY0lJN0tncDBmTzE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sunrise Realty Trust Doubles Credit Power to $90M as City National Bank Joins as Major Backer - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTF84YjUzVG40UGRYSDFENnZoSnd3RUE4MlpkVk9ZdnpDX0FqZEhqblM0emxKR0wxRGc3N2tCZURFb29ocC12MWtCeEdjSldKYjNKWXBOTXg1LXR0TVk1TTdFOHNCUkcwNWlPTExBRWd1TFBPdnFIVS1EWHZKV1lvbG0zUzZOSlFpQVFIcmtLLWVvZHhUMjMyc1R1b3d3NWR3bmo2aUVtVjM5TEFJY0dkNnd4dmZyV0dhdHNz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sunrise Realty Trust Q1 Earnings: Key Date Revealed for Critical Real Estate Update - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDdiLUhNQ3E2V1hwOVltcElwSktsQlR3TDhEbjlwcmUwUmpHbmdIM0w0bW81VUMxSVplcC1JVUF2dDUtLVFSTGRwUm95M0dJSnF3R09ZV3BnQXQzcjNvUmNVYUhwWXBLdkc2Y0tQWmRhaDNJOGNwM3hQcklGNTBLemRhRFFOY2Q0TnJrak0weklEZHA1eGFUVHNBY2p4UUl4SUNUNTNJTFExV3ZVZnQ2YUNBNmNaaG56NXVqcV9BUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Forgotten Sun has revenge game at perfect time to boost stock - Valley of the Suns",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbi11WE9XMU90Vy1QNkFMbUh6NVQ4M3F1WVVmeDZGcGIzekpRSGstUjdaQjVnZjh5bWh4amttd282eU9Meks5NEVMNllaX2xXTTdZSms3VTUxQUsyaV8yZm9vQUdPVmoybWpUaU5KbU45Z24wWkxpaHg1dnAxRlB5U3FYTEREQkpXMzNFRnBvMEZIcmdmN1l2M2pTY04xZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sunrise Realty Trust price target lowered to $14.50 from $15 at Raymond James - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQmRhZjg2ZXhpMjluaTZjVFhTX01uLXBlNmFKZ0djWEFERXE3YUJ2SWE2Z21DUm83YmNQbl9vcmVlaWhjRGsxVzM0NmlHYm03UUZ1Q2VYWHg1NEpoakxrYVhjWThRc3ZLM1d2aERCaEtKWmI0QnNMV3dRbnppZHplR2RWQURHdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "‘Bikies and drugs, laughing stock’: The stigmas that stuck to Suns - CODE Sports",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeUxoMENsUUFiQXJaU2N5Ykp2ZXpLOTJuLVJFbVhwUTU1T2ZFSHMxVThvNWg0NG13TEtXOUlLTTZHNTVHaERkSE5yaTdFM0thNkpTQnB3YTJUdldhTDNtTy1mMXN1MTVDYUNPMXdhME45aUVZMktrOFlfVENGR1p1Y1NfekdCUFBDSS1LdmxJRWRidXRvNWtpSU1QWF9RWExuV1ZTM05qb01tNUZWam1WdFRtdVMzZkhqWjlVOEtMUVpHREFJUmlwQWJqNF9xOGVJQ3BfWkNRMjRUNllYMFI3RHF5c2xCSEJzMDY1VzdMNEtPTG5EVktz?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 14.44
-      },
-      {
-        "date": "2024-12-03",
-        "price": 14.54
-      },
-      {
-        "date": "2024-12-04",
-        "price": 14.47
-      },
-      {
-        "date": "2024-12-05",
-        "price": 14.26
-      },
       {
         "date": "2024-12-06",
         "price": 14.02
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
+        "price": 10.53
+      },
+      {
+        "date": "2025-06-03",
+        "price": 10.95
+      },
+      {
+        "date": "2025-06-04",
+        "price": 10.47
+      },
+      {
+        "date": "2025-06-05",
         "price": 10.55
       }
     ],
     "current_price_data": {
-      "price": 10.55,
-      "change": -0.19,
-      "percent_change": -1.77
+      "price": 10.54,
+      "change": 0.07,
+      "percent_change": 0.67
     }
-  },
-  "news_sentiment": {
-    "summary": "Sunrise Realty Trust Expands Credit Power and Revolving Credit Facility with EverBank\nSunrise Realty Trust has announced the expansion of its credit power to $140 million with EverBank joining its lending syndicate. The company has also expanded its revolving credit facility to $140 million with the addition of EverBank as a joint lead arranger. These developments come as Sunrise Realty Trust prices an upsized common stock offering and announces a major public stock offering for its southern expansion. The company's shareholder meeting was also held recently.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

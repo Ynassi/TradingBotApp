@@ -2,55 +2,163 @@
   "ticker": "FIS",
   "name": "Fidelity National Information Services",
   "sector": "Financials",
-  "market_cap": 41327575040.0,
+  "market_cap": 42236506112.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 50.10191,
-    "PB": 2.7466044,
-    "EV_Revenue": 5.212,
+    "PE": 51.20382,
+    "PB": 2.8070114,
+    "EV_Revenue": 5.249,
     "ROE": 0.05246,
     "ProfitMargin": 0.08056,
     "GrossMargin": 0.37033,
-    "DividendYield": 2.01
+    "DividendYield": 1.99,
+    "DebtEquity": 80.216,
+    "CurrentRatio": 0.634,
+    "QuickRatio": 0.454,
+    "FreeCashFlow": 1938875008,
+    "OperatingCashFlow": 2865999872,
+    "FCF_Margin": 0.1902536643345738,
+    "ROA": 0.034360003,
+    "PEG": null,
+    "EV_EBITDA": 19.806,
+    "BuybackYield": null,
+    "PriceToFCF": 21.824673059069106
   },
   "technical_indicators": {
-    "RSI_14": 52.21333175166987,
-    "Momentum_10": -1.3961906527020531,
-    "MACD": 0.8136789396044861,
-    "BB_Percent": 0.5176290092194681,
+    "RSI_14": 57.7464927770087,
+    "Momentum_10": 1.5978267259132484,
+    "MACD": 0.9059769422004252,
+    "BB_Percent": 0.8053240283550477,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8792139172877697,
+    "ValueScore": 0.8760044554170128,
     "QualityScore": 0.3346695343579342,
-    "SignalScore": 0.6172322153391729
+    "SignalScore": 0.5465350691295161
   },
-  "volatility": 0.021126571480636,
+  "volatility": 0.0211426459033724,
   "beta": 1.077,
-  "return_6m": -0.0668498551417221,
+  "return_6m": -0.050342694435279,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
     "target_mean_price": 87.83773
   },
+  "news_sentiment": {
+    "summary": "Fidelity National Information Services (FIS) a récemment affiché une performance en hausse depuis son dernier rapport financier, soutenue par des acquisitions d'actions par des investisseurs. L'entreprise a consolidé ses opérations avec des partenariats technologiques clés, renforçant ainsi sa position sur le marché. Malgré des résultats solides au premier trimestre 2025 et un potentiel de valeur à long terme, des analystes émettent des avis mitigés sur FIS, ce qui a entraîné une volatilité accrue des options d'actions. Les investisseurs ont cependant subi une perte de 32% sur les cinq dernières années, ce qui souligne les défis et les risques associés à cette valeur.",
+    "sentiment_score": 0.15,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Fidelity National (FIS) Up 6.4% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jSmJjMExfMmFMR09RWnBpWWk5eXFrZ3pRX3ZLR0JzTXNVRWlldUFBMVZ6WTJKZ2oxWGM4ZHRyNVFHYmdfSTB0UVZfMHEwdmJVc2gyclRhNUxxejcxQ3NRRWhlVTRIbjQ1dEVvWFlGMWRwbDQ3OExkUXF1QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fidelity National Information Services, Inc. (NYSE:FIS) Shares Bought by Fluent Financial LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX01veTk4bDlJWmkycGNxUWVZd3lnM1NGSThIVTcwRjAyQmFVZ2dQb0Vza2ZWMWs2c1lRYldiM2NKLUZRVU1TWUFuTFprLVFFU1FlU2kwZldlbFhOWVphdXNPSUZiTDJWZ1BOUmxIRWZjUk04QlFzR1M0VkVlSGcwNXBsc1lZSkZCOHBxWEtnWERZcDJ1VXpBZ200VUhJSjZ3amlmdkxJcFNvbmF5M2wxWjJXaFc0Um9PWkVsN1pzSHJvVjBNS1RqNW52T1NaZXVnTVFnM2NKUkhNY0JlcjBoY3I5SQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Predicting Fidelity National Information Services Stock Will Climb or Sink? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU1l3TEJ4SVlJemo3T1VibXN6bjdvd1EtTHExclB3cHdGSEtHcXhmdE5GWGplS0ZtWnBKLV9RQnpvOEVhUXJmT0NxTmktQ21FQzFWSU5Fci05MWZmLXl1b2JCV3IzVzE0THBQcnJNeWE0TkZxN3pzSFBabkIzdHNxUFJBQjc1Y2o1WEtpREZSNkJYSXQ4QmJzZTJHbVJZNlFZWDR6U2M2ZnVuN19sSHk0c3p6UDQxOUdi?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Non-Bank Lending Market Racing to $3T: FIS Secures Major Tech Partnership with ATLAS SP - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeERyZm53TTBOUEpBUmhJRFFGOE9qTHl6Vm82LUl2UlNCeWtMdWZfWlpWUzdQUEZZNTMxTUZvSm1DeGZ0VDNXVGVXOHo2SnlLZkpUTlNrcmJzWTRxdDcwUTJBYk1Jb0VkQUctTkx3VFVzUmczak8yaU5EcFZjR2QxclNMdzNhWGs2YUdRUlh1MWk2bG1NRFdRRzVoc08wd0wwbFVhVWZNRTdMN1BMU0RzT0JvdWpsYXdSR1Jv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FIS Goes All In on the Issuer - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZnJyUUtKZVA3UU1VcmVpMDg5VnpDMldMamd3alIwcDQ4blJNR3FvcmhlWjcxd0FST2RVVTBBMXZUQm9HRmJ5c2p3UDhkMTlFYWVWY2FxZUdndm1walU0enoxTk80WjZwWmpGcm1tRzdYa1VudzlHNHpPcjhsempuMXJ1aEJzTk5mVEpiNTBTZUd3Y3ZiYlNqbEF5REZadw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fidelity National Information Services (NYSE:FIS) Powers ATLAS With Advanced Commercial Loan Solution - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQR0tUQzMxTDByRmNWdWk5YzY4TVR6ZU12SWI0SGpkR09IY1hJQk8tdVFfR0Jlcm1fNEF4NU1rTHpIZjBrX2xSdVFsNXk0SDFaUUljREQyMzEyU1FGVmJ5TFRscE53VVF6ZXlzUE1BY3FBQTRjZmluN2ppYTZfTHBHRDlmUXh5dkkwc3l1X2k5aldnQk90N1lhNm14dmY3TENjUU9mUmtWRDREY3dXNHNYXzVqSU5QZjdKalFNZnoxSXpzYUU4M3dRMVlWdWpzU0hiNjdZWUpDSEJfUWlWUncyRlVNV29KY0N1QnZlV3RnWTdaSkNublpnZDJab9IBgAJBVV95cUxOd3VudjFSTWYxS1RKYk81VlV2SmVGQmpKM1BUVHdsUjJuSXVPSHB5RFd0Z1pqX2JIWS13MHZFMy1nQUk5c0FEZlpVRjBIRmNjWUZ1SFVaTjlJM1J6RF9GM3gtdE1QVmxxZjhLaVMwdjFWWV9TcXhMdFhubzlQMDh6WmtJVVFCSnotNWJMbkJkZDN1cW5TOFFyWEQzSnpvZ1hxQ2VhRWwwMjFiN18xX1VkWWx1QjNnRHFoekxWNEk0aW5JRi1zYlNJeDFFZFNUVVdUUThhU2gydXdzS1gySTJzcXFZakNLaHpCWkZkby0xUlg1RlA3dGFFTnRSbnhTTjRm?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FIS Receives Hold Rating from Truist Amid Limited Upside Potential | FIS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeDkzeE1qa3hCc0ZDd1pzYncyNHd1aHE3SHBRaTBhV21OdEszZ3BsZkhPODlhdVdzMldzMmZCdXpHWVlVZ21vV0Y5WEFLSjZROHR3ajBmWEg1MG1rRTQ2OFNEeFo3X1ctOC1vb19FUHp5a1gzRWlQNmY0ODk5T1RNbDRoN0RYb25tNV9SUmpPSXhZT1N0T0RKbnI3cERfdlp6WkxWLXZMMDZza2E0VU1jS250Mzd2Q3ozekFDUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FIS Reports Strong First Quarter 2025 Results and Reiterates Full-Year Outlook - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaFBBWUVJQ1A0TVpMQnBHVzVuT3pQOXIxYWswb3YyR0diWmVMcnFPbFJkZExIdzFBSWVadGJVVGt0dzFxd2hLM3lMNmV3cWgwWk9valJXQUw5OUdNbUdPM3VENF9yLUZfVUFteHNEQVVtZ0FqNUtBTTBBSnpiY1NKckUxTGVKTi1RVUNKM3Yxd2JXeVRUc1ZvdjluWlBseDgyWTdJTmdYdEtyT01uWGlTWTE5bDN6ZFVkNmFzS0drTXBPc3F6NXNBLUxqNDgwWEp6?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fidelity National Information Services (FIS) is a Top-Ranked Value Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkEySEctajQyaXd0REdwRm43UVBDbHFHYnJpWlZsdi1BYURsZm9OLVREdm5naWF0MzdVMUcyZmFfdGZiVk9GeVMyVzM0UGQwV0ZpdmU1ckFCUDJ6YVVQMWVDTkVHRmlseHhsMmMyMHVUajU5SEVsZmd0ZF9faXFXdTVQdEQya0Q3dm1SYzVOTWpMQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FIS: Truist Securities Initiates Coverage with a Hold Rating | FIS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXZ0dWJlT1dzTl9reW9lRzBSOVdJTS1icHlpTkc1RnA0Tk9CVWNJa3FBcUNpU0xNVTA2WHdMVWpjd05DZURPRlNrTk5rbWk4S21YRmdmb2VnbFg5N0o5bm0xOWVmeEZNNzR1M3dFNzhKcUJBYzFuLWViSGVXSUFpM182alhXVGpMZVNvT0gxWDMwV3E2bVZHRmJaWkt1ZmpIcW5PYy1oQ0tLQ2Y1WTNyNFZmTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Purchases 4,436 Shares of Fidelity National Information Services, Inc. (NYSE:FIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWXpEQnJqVk1VSndqakU2b3Z4V0pRYjJCQldYcnF6SmJjNXBsYy1NdXg2YTBRSGVrWThtMlNRRnJWNENYWThuMzV4bFU1RmprT0plNjBqY2xWRlRPQUgwbWtQU0drQ0FOdjRYYWR0amJYckh2b3lJWXJSQXo4X1VDMUJqUVloTU1lZ2hpc1pRNWtCZ2NYTjlIelFsV3NNcVJubE9DT0dSYURMNFFvOE9EV1hQVDNhYkdKejE1T2thWmdieVNZSkZhVzRVdDFMY01DVnoybWZxX0JpRncxVTFtaUNDZ2pkMmdzQ2dz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FIS to Enhance Back-Office Operations for MUFG Securities Canada - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaDhSZGZQZm4yWHFGUWdKakdJMW9yUVBqTUJ0M080VVV2bU8wX2hQUm1TTnFKZl9vZmd4TDZzRnVNc3FRemhIN1hxYTRGSDlwc0VyZjAzNUE0S2tUa084ZzRuaTM5NVZIMnFqZFplVWg5QXUtM1hTZUw0NXNIbzVkblB6SEUtc3I2Wm1ybTNXNDd3UlNBN2lGclFJQVoxTHpVbDhhcUkxdmVRV2VtRGtJOEhKUXd1RDJTNzVWTC13?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Fidelity National Information Services (FIS) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFhZeFY1WVJBbTdHYkNfQmp2S2d5cHBMVmg0M0ZMMGxSNDFkcDNfSDJrVkxwQlZ1NVlrWFpTYjBtaWNSb3hIcTdpd3hBRnNpNUxUWjJ6YVVnY2hIMmRZU3BvZ0w0Mk5MWGZibzVEMVdHNUQxazc0c1hRR2VBdVpQVDMxUG85dE9ESE1XelgwMlpqRzZTTHdnR2MzSFZPaDRWem1GcE5mRjJwdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fidelity National Information Services (FIS): Among Most Expensive Stocks Insiders Are Buying After Trump’s Tariff Rollout - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR25CMjZITWpWM2k5WTl1X3BCQUtJVDRfN1h4a0xESVZMcWN2QWQtbEVaaEVrQlBrek9wQVJyWFpfbjNqVlNIcXJkTVlhWnBRWEZPRmo4UzhaUDVLbDVZcnl1RlZQRWhBNUoxRnQ4UU80ZWg4TmU3NEdxcThuS3RPYUR4SEd5bnZyMDE0cUVlNzhhUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Veracity Capital LLC Purchases 4,312 Shares of Fidelity National Information Services, Inc. (NYSE:FIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQLU82eS1EU1pEbThrSGp4WHRLQV9hQkdsX0xhdUpaTEpPUFJHTzUxQmR3eEp6Ul9JT0Zmb0RuMUswZDB6WV85NV9PcDdEeklUWXBZd05LTWlnWHFJenAtQzBTVl9JQ1dpSWVVQ2xtSkQwVHFsSjJTZlBTejlVMHFiSzVmMXZhcHFsUzZqRWktemk1Y1NJMW8ydTYxTmxuZHhpT2JoNGJhMWk0VnBWMW1KLVFyODBFQmV6V0VHMWxNRUJqQnQwSmxpUlIxakdlRkFyR1lPdm50SnVuS0E2QWd5Y1FNUmRkMVl1dTc3eWRnM0NFMC16VzQtbFJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Implied Volatility Surging for Fidelity National Information Services (FIS) Stock Options - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNkhrMURMS1puNHFKdEtlU1p0akFxYUFLNjR1clE2b1BwU3dTTW9hOEZrUk9pZ0FFLVdWSFd6UEJqd2VRT0VOTG9oOWZNVFdNaHhDaEZ1YzBJNUthTnhvQW9JXzRDdU1xQjMyamZuRnZ3R3VtNWxFanlRcndYbVlDYVBrakw1eGhOQXNHdWJJUUNXb0pC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Grows Stock Holdings in Fidelity National Information Services, Inc. (NYSE:FIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdGx4RHRWdmdmUFNrS0phOGFYeUV5cjZSMVltQ1pmbF9Ca3FFOFZmOXpCMVFxWjJoZ0xNaEx5dlAyX3AyOGswa3YtQnRKLVdWeDJ2SjZFa1ozMEhLb2MwYXEyN3hwTGJHWktOWXM3UFFON3hFMl8xOW9NUk93bGxPWWw5VjR5aVRfVVZNd0tDVFhmWGJQN1VmZ1ptYXg4bFY2VjlzbDVJSkNVdTZhVmJQeVZoT0c5UUVBXy1LTmwySXl0U1NjcExKNk5NME5KOU9VV29pMURuY0g5ZXloM0FBcXpLY1NVSEtFVU1n?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fidelity National (FIS) Upgraded to Buy: What Does It Mean for the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3g2N0xGWGZyc3ZBYWVhV3hmQVpXNjAxWE93blo1Z1FwbWVmZzk5My1McWc3QlNBVDNwOXMzMndYTnVRMjV1eV8wa1Iyc0piZ0hKUHhYNnplSVVxeWpubUFfaDZVS0JlYTNDZHVudHVqM21vZmFYWjhtMjdZNFplbDl6eWNVcDQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Fidelity National Information Services (FIS) is a Strong Momentum Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLVA1TWNUZ21BWk5QNHNETW1mSUYwMW5hb1J0RWIyLVZoODBtQ2hyR2VRRHZOaDFKV3JFRTd4c1RzMGdqelg1dGlqcHZDRDZGVWlsaEhiX3ZvNmJfLUI4SzMxcHluTjBTQ0dMT0pFMzVmVWxGRzl2UjRsRmhsUEp5dzM0MlFkak84NUZ2c1pB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors in Fidelity National Information Services (NYSE:FIS) have unfortunately lost 32% over the last five years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTJOTGg3bDNTc1RscU5yUjdIOEg1VnNZQlF6cnljVTFWR0VrQS1idmUyWkRCajJ3TWlaaG5ic19sSXBvWWxKMG1Famw0UVN2LU9MbHVBT1VJRXAybHQzZmtUUTVUN0cxai14VzFnX2NUYUlyNlhkNU1xLWNqUGNFbzliMTBHeGdJWWc4cTNNbS12Zmw1OGlQUU9n?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 85.13
-      },
-      {
-        "date": "2024-12-03",
-        "price": 85.24
-      },
-      {
-        "date": "2024-12-04",
-        "price": 85.25
-      },
-      {
-        "date": "2024-12-05",
-        "price": 85.49
-      },
       {
         "date": "2024-12-06",
         "price": 85.34
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 78.69
+        "price": 79.09
+      },
+      {
+        "date": "2025-06-03",
+        "price": 80.14
+      },
+      {
+        "date": "2025-06-04",
+        "price": 80.34
+      },
+      {
+        "date": "2025-06-05",
+        "price": 80.54
       }
     ],
     "current_price_data": {
-      "price": 78.69,
-      "change": -0.88,
-      "percent_change": -1.11
+      "price": 80.54,
+      "change": 0.18,
+      "percent_change": 0.22
     }
-  },
-  "news_sentiment": {
-    "summary": "Fidelity National Information Services (FIS) is a company that provides technology services to the financial industry. According to recent news, Truist Financial has initiated coverage of FIS with a hold rating, and the company has reported strong first quarter 2025 results and reiterated its full-year outlook. FIS has also expanded its Canadian presence by winning a major back-office tech deal with MUFG Securities. However, some analysts are predicting that the stock's limited upside potential may impact its investment rating, and insiders have been buying the stock after Trump's tariff rollout. Additionally, a recent acquisition by Global Payments of Worldpay has caused the stock to swoon. Overall, the news suggests that while",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

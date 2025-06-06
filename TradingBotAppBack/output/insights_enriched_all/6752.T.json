@@ -2,55 +2,118 @@
   "ticker": "6752.T",
   "name": "Panasonic",
   "sector": "Information Technology",
-  "market_cap": 3817054666752.0,
+  "market_cap": 3845076025344.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 8.598475,
-    "PB": 0.8129706,
-    "EV_Revenue": 0.547,
+    "PE": 8.657786,
+    "PB": 0.7983023,
+    "EV_Revenue": 0.53,
     "ROE": 0.08011,
     "ProfitMargin": 0.0433,
     "GrossMargin": 0.31078,
-    "DividendYield": 3.36
+    "DividendYield": 3.4,
+    "DebtEquity": 32.17,
+    "CurrentRatio": 1.348,
+    "QuickRatio": 0.868,
+    "FreeCashFlow": -204234997760,
+    "OperatingCashFlow": 796083027968,
+    "FCF_Margin": -0.024146432437133308,
+    "ROA": 0.0271,
+    "PEG": null,
+    "EV_EBITDA": 5.519,
+    "BuybackYield": null,
+    "PriceToFCF": -18.826724447405503
   },
   "technical_indicators": {
-    "RSI_14": 51.28048958921588,
-    "Momentum_10": 1.48975791433892,
-    "MACD": 1.7788149310356405,
-    "BB_Percent": 0.4795116974788716,
+    "RSI_14": 47.42214012618607,
+    "Momentum_10": 2.293724115960497,
+    "MACD": 0.7884167715046715,
+    "BB_Percent": 0.3630968143547771,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9004951854347184,
+    "ValueScore": 0.8976617719168163,
     "QualityScore": 0.3578217662213493,
-    "SignalScore": 0.6025609353641044
+    "SignalScore": 0.591849193068881
   },
-  "volatility": 0.027811392715789,
+  "volatility": 0.0278601651523348,
   "beta": 0.753,
-  "return_6m": 0.137637167679326,
+  "return_6m": 0.0985869917035409,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
     "target_mean_price": 2197.2
   },
+  "news_sentiment": {
+    "summary": "Panasonic Holdings Corporation voit une hausse de son cours suite à la vente de sa participation dans Tesla, suscitant des espoirs de restructuration. Cependant, les investisseurs restent prudents malgré une augmentation de 26% des bénéfices. Tesla, de son côté, envisage une augmentation de la capacité de ses batteries, ce qui pourrait impacter l'industrie. Par ailleurs, l'acceptation de l'offre de rachat de Tesla par SolarCity a entraîné une baisse des deux actions. Enfin, l'annonce de KKR d'acquérir Calsonic, un fournisseur soutenu par Nissan, pour jusqu'à 4,5 milliards de dollars, souligne l'importance des partenariats dans le secteur automobile.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.18,
+    "neutral_ratio": 0.64,
+    "negative_ratio": 0.18,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Investors Still Aren't Entirely Convinced By Panasonic Holdings Corporation's (TSE:6752) Earnings Despite 26% Price Jump - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVHhPdWp2OWQ2SW1OVWtuVlNUY0kwUUl2dlhEdUQzdzBFZjM4ZTJLZ2k5eFlMU2dTQ3Y3LTdxalRMdVIwNWxIV3QtVEEzcGRGbThZSVNXcW44RnRTMV94eG5FSWZEdzNOMThEQk82eTcwU3ZBT3JMb19mbkRKclgwaFl5R2VGRkZJSDZMZGpiWDh4Uk9CUkM3RlNMdndPVEYtNXFSNU5SZGRObm8zRzl6Z09jUzF5QVJLbUVaVDVodWQ2bHEwel9FWWNMdEZvNE5ILU9JbjQ4X05IdFJ2WVVQU3VwaXDSAeoBQVVfeXFMTk43RXU2WWluTEtXQ2NhRFRjSG4yZ1pTSzhLV3pYTmVXRjMxZ1p1d21HNTdGVjBDeGg2Qmd5OUtBak95bDRldTdBWHhybGJyOGNuMHFEbzJQaXA0NzhzWkszSEtlbWJaYVM2czk4bjl1UDR2LWRHZmFmUzdoTFB3OU9QZXdHU0RDeDkyVFExOUFtb0RoMnUxUkFQUzVYX19ZV2ptdEJnQ0c1dHY4MDYxWmMwQWJCUDkzMEFwYUtVeXFwb1JxVU5NNkhfRGk3NG1JWFRyZnNyUm1oSU1mT0h3bmp5MVhTbWRPdTdn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Panasonic raises battery unit's earnings outlook, pursues group management reform - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHJnSDNjZ2FfLUVISDYtWVlJV0IwekswZ3NLa19FUHVQZ3NUQS1rZjRUb3JacVd6cngtdDJ4bGtUbHVaMU9SNEg3TkpkaF96YUN0VWgtcGxtRGVoSUdWZFBnM1diN2FDRGJDZ3JKX18tNXVBZnVSS1UwTExHNW16NFNuSHRiWklRVnQwYjZGSTB3ZTQ5elBrMHE3Zmt6M0xoZGY5NXNfUFRVeUZILWRSWU13?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The 8 Biggest Lithium Battery Stocks of 2028 - Nanalyze",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16YUd6UzBvYXNWSm9PcXlncU5Ib3lnRjR2SWpaS1dXTHAzUTZudE1YNXc4OUMydkxBdGE0enlmaVhjUTY5Tk8yWDBzbWw0Z0pnYTFNSGRSS2o4ZGc5WTV5UmhLSzVLS0UtXzVKcWlkUG5NeHRS?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Panasonic shares surge as stake sale plan sparks restructuring hopes - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjNuUjhwQ2ZRLU92aS1majhVbmdVYU1aaDdwLUFuOXJoQlR1eVdoUTNaZThtZXFVUVBxTll1dVowdUpfc1lzb095RE1QdWhzQjNpdkp2NC05bWxyUWJjYk5HSVotcHEzUkZYbS02MWtYRlhjcVhJS1RKdGdsRkJxUzZwZFlsWHg3WUNBS21VT196cjFZaEtxRDNsbTlDYTBkVlk2YjhLZGo0dTJQRG8wYmNn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tesla's Musk hints of battery capacity jump ahead of industry event - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVlMxR0VJSjlNdWNGLW9HTUhUaFZXWFBWUUtBSW4teWF0MXpSYXdLV0JsRkRrRW1lYkpJcjcxOFRXazZ5Vi1DTXpYdFB6WGhUcEdRYkJLSk12ZHZuTFlOM2tQMllQWFU0QzJZdkU0MjlwcXhYcmJTQWdCNGdYUE11NnduWjlvbDFtNTZr?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Forget air conditioners. Midea wants investors to see robotics in its name - Bamboo Works",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVVHYzB6ay15NDRieDcwUFhaWUYtelhsU1hRbl8wZTB1VmtmTXltTTEtREVCU0xrY2VEcXRxRzRnVHNTNWV5a1JLUS1USGw2M2NrM3ZLa1lrdURPSGY3dDliLU15TWhQakM5QVFSN1NXLVlSdGFtNnFSYUJBbGtSeGNYU3ZBSGFIaWR3UDZ5WXdNZENwUE0yZ25EbnRieWo5eXQw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Panasonic sells Tesla stake for $3.6 bln - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbU5aUXVBU3VDeTQxcWRnN3JQazBBM011VnpOUnBmMUlLdnJ0SHN5TzFwNVdqX1RZaDl1V3RNV1pEYUFjbjVYbVBHczEtZk1kQUFONUdnTUtrcWZ6cC1BT1cwZnBMSzZ1TDJpejdsT0llWWQySW1icFZDUjdJX2lacUZZQXNTWjBsN3JGVnhwUFU2aUg4U0V4U3NwNFZMdDljQml6QTlZNjZ5QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla's Musk says open to supplying batteries to other automakers - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW52czlBU1k5Q0FteGp6dEdvX19IRkpQRENpVlJaYmlYbVRqRU1TZGxsN2tXb245U05Pd3VfRndycUVSekpuZW1aZFpoX1V4eVdweWNUUVhYdE9iTno0YUJsZm9CbUZQN2FEY01vU090OHRMYjVzNHVlcmVWbnZGMWNhMjN0UHoyQzB1QnNyb2NXOHhweVlvQlEwMDdnV3dKR3RRWlJaSDZJVUc5bXE1Q3J4UFhnbW5Bb1hiSWpxaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bosch shuns battery cell production in blow to Europe - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNThvRGlJVHBHS2tKRHVqSXZyQTZLeE4yN0NBY082Z21kbWtSenVFSlFUazVscFIxQUdpQmxyeTloelVhQi1LR3d3dzE1LUk3UFhVNEN2aFV3NHhNeUpmc09kR2kyVXduYkdQN2lCOFR1ZzJhbEYya0hCZGRWOUlaR1JSVkZ3WEthRXRiUGRzVFRFa2R4R2lITHFQY2NIVXQ2UDNLVllBY3FtalBneXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SolarCity accepts Tesla's $2.6 billion offer; both shares fall - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb1FFaHRLSWI0eWFQdGFjMXZ0dkhSQUd2dGxic19oODJwcnBMbzdGYjFXNHg2Sl9FWkp1UmY4b3d4MmFidFJSQlNsS01ha0NBQTRaMDQ5WFVPV08zUE05WlJMV2V3NDVqSkFDTzNtZmM1TWNyV0ZjdFpxNUtTaXJCQnZLb21HXzdfNmhjb2ozWEc4US0tMzNuLWg4N0V6SUxYWndLZkYtUVFab3E1WmVuZlV2bl8?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "KKR to buy Nissan-backed supplier Calsonic for up to $4.5 billion - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2J1Q3E5OGZGbGtPeVNSM2tKOEdxYTF5V3phRkk3UTRJa01SMVdheVZlOUk5NDUzMkZfT2hQV2lzb2c1MmZHREZkVFY0amx2WjBBZ0k5bnBvR05hZ0Y2MmxsU2FvaGgweUhJNlp0TkVVSE5JT3BSYnMybmpxUk04cWZCWkZQSkxQdUlablo4RFBYeW1sMmV6R3RYeFVVVkJTNVRFR1F3MFpVaHRyMUhYMEdEUHEzU0s4Uzdr?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1453.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1475.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1454.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1477.5
-      },
       {
         "date": "2024-12-06",
         "price": 1486.0
@@ -514,24 +577,28 @@
       {
         "date": "2025-06-02",
         "price": 1635.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1622.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1647.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1605.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1559.5
       }
     ],
     "current_price_data": {
-      "price": 1635.0,
-      "change": -33.0,
-      "percent_change": -1.98
+      "price": 1559.5,
+      "change": -46.0,
+      "percent_change": -2.87
     }
-  },
-  "news_sentiment": {
-    "summary": "La tendance cl\u00e9 qui ressort de ces articles est l'optimisme investisseur sur certains titres. Par exemple, Panasonic Holdings Corporation a battu les attentes des analystes et a vu son prix augmenter de 26%, ce qui a engendr\u00e9 des espoirs de restructuration. Tesla a \u00e9galement b\u00e9n\u00e9fici\u00e9 d'un sentiment positif, avec Ron Baron annon\u00e7ant qu'il pourrait atteindre 1 trillion de dollars de revenus en 10 ans. Enfin, les 8 principales entreprises fournisseuses de batteries lithium ont \u00e9t\u00e9 d\u00e9sign\u00e9es par Nanalyze, ce qui indique une demande croissante pour ce",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,103 @@
   "ticker": "8630.T",
   "name": "Sompo Holdings",
   "sector": "Financials",
-  "market_cap": 4063808454656.0,
+  "market_cap": 4023720607744.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.050262,
-    "PB": 1.4388227,
-    "EV_Revenue": 0.016,
+    "PE": 9.886837,
+    "PB": 1.4246293,
+    "EV_Revenue": 0.004,
     "ROE": 0.14828,
     "ProfitMargin": 0.07903,
     "GrossMargin": 0.28358,
-    "DividendYield": 3.42
+    "DividendYield": 3.45,
+    "DebtEquity": 24.131,
+    "CurrentRatio": 74.107,
+    "QuickRatio": 74.034,
+    "FreeCashFlow": -488017887232,
+    "OperatingCashFlow": 430675984384,
+    "FCF_Margin": -0.09118993417480048,
+    "ROA": 0.02485,
+    "PEG": null,
+    "EV_EBITDA": 0.028,
+    "BuybackYield": null,
+    "PriceToFCF": -8.245026899661884
   },
   "technical_indicators": {
-    "RSI_14": 45.31393989262628,
-    "Momentum_10": -6.2782197376908195,
-    "MACD": -59.986304496783305,
-    "BB_Percent": 0.3278467546989088,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 43.13354904583813,
+    "Momentum_10": 1.864526787821572,
+    "MACD": -60.13527333656748,
+    "BB_Percent": 0.3287590300411483,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9015898119612288,
+    "ValueScore": 0.8987945689576918,
     "QualityScore": 0.4279012297149942,
-    "SignalScore": 0.6952371071693338
+    "SignalScore": 0.6268278397644356
   },
-  "volatility": 0.0244755298434891,
+  "volatility": 0.0243518752668787,
   "beta": 0.142,
-  "return_6m": 0.0629114850036576,
+  "return_6m": 0.0330301579703207,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
-    "target_mean_price": 5014.0835
+    "target_mean_price": 5055.75
   },
+  "news_sentiment": {
+    "summary": "Toyota lance une offre de rachat d'actions de 5,16 milliards de dollars, tandis que des assureurs et banques japonais vendent des actions Honda pour 3,3 milliards de dollars. De plus, Sompo, compagnie d'assurance japonaise, investit 500 millions de dollars dans Palantir et acquiert Endurance Specialty pour 6,3 milliards de dollars. Ces mouvements suggèrent une activité intense dans le secteur automobile et de l'assurance. Les actions liées aux données des véhicules connectés et à l'analyse de données semblent être des thèmes clés, avec des implications potentielles pour les investisseurs cherchant des opportunités dans ces domaines.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Toyota to launch $5.16 billion tender offer for own shares - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2UtVE5Lb05qOExheDhFWk5HYlBZMlpoM2Roek1JU293c3RzTk8tNVo4ZUwzeUkxMU9US3BRamxCVm5GaUN0T1lCMUgtVW5MTHo3ODRkemxadFJJY3pRR1Rub1hzT2YwQmtSZ1lrTkR6UTc0M0JTc25nbVVucHhQX3RhWnVXOGQzdFdxU0dreFE0MlVBbFhmejV5QmhfYkNHWExaQThndmFjcHRVNHlSMw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Security experts share perspective on killing of UnitedHealthcare CEO Brian Thompson - kare11.com",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTzRXNHZKSGxpQnhDUzlRNk1LSTBUTEFJZjVJbXRMTmNzaU1FbW0zaVlaRXJCd2J3RmE2bG1IMHhrU1ptbk9zQWZWWUg2TjNDbklwSy1DM0Rqb0x5MllBclNONTFqR2hBa2pVZ0VCYno1cW9lZUlmLWVLMGJDQk1xWHpDdzFhTC1YRVhNTlgwUjV4b2VOTF9MSnZuc3R1c3dlZTNpcU43R0RZX01kdDJaT3VTQkFCSFBDenBYVHFYZnhBOTI3QTRpNk9fMzNheW9ON0xVM0NDZ2h4NXhEejlvZS1wSF9YVGJjTUY0UmRsaXY0ODFrVnYyZHNVQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japanese insurers, banks to sell Honda shares worth $3.3 bln, filing shows - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTVh1Y1M4LXNrODZ0SERnaV9OTFZTYURRemZvZW1CMVdNVU1pTHBJUG9qa21Ec3JoSElTM2JtZ01OaFRZcWFpaEM2LTUyQXNwaXN1dFdlT1ZsR3g4VHJkZFE1STFNNmlSbGhDWmtscTM4bTk5WnBZbVJZYVJmTG5Kbk5NN3RiS3lOUWNMSnR6UWNMRzU0d19aSzlvSEZoS19tRUJPYTlfb3BlOWdEZlU1Vk9vVlQxeHhIc0l6Rjg0U3lkR1pUZnpoQ1ZZRFZNZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wejo Stock: Pure Play on Connected Car Data Analytics - Nanalyze",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83cnI5MEZHUFlDTGpwRE5DcXNjVEl3WjJhSmVkeGplOF9lLWNiTTVzTkdleXF5MG9aZjVwWVU0cExlaE0wdkVtQ0h4RnFyd2N6QXBUZk1FZ0xseDQ4NGlZSm12bVdGSFoyUzJrNUc3UnU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exclusive: Major Japanese insurers to offload $3.1 billion of Honda shares - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR3FyRGtXQU5oekl3dGFxdHp3TUxEQXZnV3kwcXFaMEp3SFQ4dTlmaXFUbVZWVWlnR3hqRnJCYlNBWFRkcWktWVZoWll2NzQzZEJPT1EweHZGZDBTZHlnTG04ZFdRNVRlc093TGpVSlo3dHJMWlQzLTJEMG5wdmxRSGF2MUlWT0dEQ0hPZEF1TGpKcFpFR19Ta3g5bzZlRGUtT2F5a1NTelFyNlZnTVowQlZSRTE2WXVzV3MzaUhzNFRuS3dfU2Qxbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "«Commodities are the only attractively valued asset class» - The Market – Analysen und Hintergründe aus der Wirtschaft",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaE9TMWdWTS16X1pYU0ZCWDFvWlV5cGQ4VHoweTh1MEpMMUdiY2VJOXh2QlhwRzhxYkQ1RDRYelczcXFRVGFhSHpuV0tqWnhOMnd1b1BBeFM1c2lrSmViS3JDOE4yeFJ1Y1FvSEE4dkN6Y2p2MEcxVDVoZzNRYzVLTHB3WEZvSzNtazJPaTUtVlIycWlsR3NnXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japanese insurer Sompo investing $500 million in data analytics firm Palantir - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1AwVXJxR2FrRUJnWDFCMnRITG1vaUlvUjV1anl1VGF2aWJRdW9aclMta3hBaHpOYlp1MmFpVWdqMkFFSDhyQUwwMmJmc2lFYy10Qk9Yd2RCQVpFQWxLNktmZzBRdXFPZlJxRG1HdlFpQlVtR0lPSkpSTnNydHdqb2cwYlFUMkJUWExFM1k2bEk0cmxpbno5Sjk3S3RpMUptLWZMY1hmcGxoWW5EeEpaUnN0UVRmWHhuU2ZncGl2aGlhZWlIRzRGM1VwQUo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insurer Sompo to buy Endurance Specialty for $6.3 billion - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblh6UXhxZWdnRmVsQnpTREhzUThCVU1KUm9TVWFsN3VsUkpsbWl0MzNBX3M0eENzcGw0MFFCdXhMV0ViU3d2R1pPYS1XOU94UXZWQmFhV1R2SEVfSnZ0Tnc4LU1aSUFGQXNrZHJOQkxYWFJ1MWUtajc1cGlwSmhzMy1VMzV6aHFzY1Jxa0pyQk9kVUhlbUtYenNiZjNUMmN2Yl9yX0ZjMDJrLWpvZDk1UQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 4101.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 4128.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 4077.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 4178.0
-      },
       {
         "date": "2024-12-06",
         "price": 4090.0
@@ -514,24 +562,28 @@
       {
         "date": "2025-06-02",
         "price": 4359.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 4353.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 4348.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 4316.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 4387.0
       }
     ],
     "current_price_data": {
-      "price": 4359.0,
-      "change": -28.0,
-      "percent_change": -0.64
+      "price": 4387.0,
+      "change": 71.0,
+      "percent_change": 1.65
     }
-  },
-  "news_sentiment": {
-    "summary": "Les principales tendances cl\u00e9s qui ressortent des actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Toyota sont la tendance positive \u00e0 la suite de la d\u00e9cision de l'entreprise de lancer une offre d'achat d'actions propres pour un montant de 5,16 milliards de dollars. L'actualit\u00e9 globale semble avoir peu d'influence sur le sentiment de march\u00e9.\n\nLes principales tendances cl\u00e9s qui ressortent des actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Honda sont la tendance n\u00e9gative \u00e0 la suite de la vente de parts de la compagnie par des assureurs et des banques japonais pour un montant de 3,",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

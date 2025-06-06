@@ -2,55 +2,163 @@
   "ticker": "AJG",
   "name": "Arthur J. Gallagher & Co.",
   "sector": "Financials",
-  "market_cap": 88823939072.0,
+  "market_cap": 84185104384.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 53.36872,
-    "PB": 3.9802728,
-    "EV_Revenue": 7.626,
+    "PE": 50.659477,
+    "PB": 3.772403,
+    "EV_Revenue": 7.373,
     "ROE": 0.092980005,
     "ProfitMargin": 0.13863,
     "GrossMargin": 0.43662,
-    "DividendYield": 0.75
+    "DividendYield": 0.77,
+    "DebtEquity": 60.048,
+    "CurrentRatio": 1.443,
+    "QuickRatio": 0.573,
+    "FreeCashFlow": 2389237504,
+    "OperatingCashFlow": 2665400064,
+    "FCF_Margin": 0.2124994535509172,
+    "ROA": 0.026770001,
+    "PEG": null,
+    "EV_EBITDA": 22.279,
+    "BuybackYield": null,
+    "PriceToFCF": 35.162260543521086
   },
   "technical_indicators": {
-    "RSI_14": 60.63916585925009,
-    "Momentum_10": 1.4668126678627351,
-    "MACD": 3.6624102195506794,
-    "BB_Percent": 0.9567560634307112,
+    "RSI_14": 42.36347642068598,
+    "Momentum_10": -2.6723518046672465,
+    "MACD": 1.8596078415753257,
+    "BB_Percent": 0.0225257423260462,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8708612035117943,
+    "ValueScore": 0.8691465857740313,
     "QualityScore": 0.3912036196211665,
-    "SignalScore": 0.5546071114978539
+    "SignalScore": 0.6513626791619969
   },
-  "volatility": 0.0159648129227919,
+  "volatility": 0.0162480904367707,
   "beta": 0.75,
-  "return_6m": 0.130827742504074,
+  "return_6m": 0.0872336023800441,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
-    "target_mean_price": 338.7307
+    "target_mean_price": 339.51642
   },
+  "news_sentiment": {
+    "summary": "Arthur J. Gallagher & Co (AJG) a connu une baisse de 3,06% le 5 juin, mais les analystes ont revu à la hausse son objectif de prix. La société renforce sa présence à l'Ouest avec l'acquisition stratégique de Wilkins & Associates. Des dirigeants ont vendu des actions, mais les actionnaires semblent satisfaits de l'évolution du cours. De plus, AJG a conclu des accords de parrainage majeurs avec l'équipe de rugby néo-zélandaise, malgré des interrogations réglementaires sur son récent méga-accord d'assurance de 13 milliards de dollars. Ces événements pourraient influencer le sentiment du marché à l'égard de l'action.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Arthur J. Gallagher & Co (AJG) Stock Price Down 3.06% on Jun 5 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEJLOVQ2V1ExTmdsSlVyZ3U2U3ktYmFBLTJNTWY3Wnp6TExuZnlyWnJTT2Vta1BmUnNsMl8zUFV6dGdYcTdMNnZKVWM4Ni13Wi1XYmU5ZjRUZUtROHZycmRMVWxrcDFqUG5PZ0hBN3JwcWdOZ2o0NmdxRklhQnVuZkpkN3RnRkN1YjVxbXR1dXRhcHRWMUtLcEpmaw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Insurance Giant Gallagher Strengthens Western Footprint: Strategic Acquisition of Nevada's Wilkins & Associates - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObFRib2txd0dWNUhJeXFtYkVtUVUwWVRMcTg3WjBrLXNYVTlSY2dFMV9UT29wLXhVTnZKTDdnRDl1LWQ0ZlhibEd0RTBOQjZ0R0tveGRDaTNzcDVVU0FpT1BLV3QyQ2w1S3dWNmt2b3ZvY1YzUjI3OTNYa0N0bTVuRmVRTmhIV1ZUYXJBeHFmQk5sSC1sNHVaMWMxSWc5UUhJY0dtUWdLQW1zdm5JcVQ4eDN4SXo2cmJSVjZvRTNVNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Arthur J. Gallagher (AJG) Price Target Raised by Analysts | AJG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUJRQWxkMGFXdHpPS2ZMVkVrZzhWSU1BMWRDeEt4cFBJcThGSUdPNGd4VWtwM2tJb0x2QTJ5NVdLbk42MkZvN0EzWV9FblAxbl9jSkx3YjZVcng2SnNsSHR2RlZiQkRqcC0yRUtwX0V0ajBtTnN2RnVOV01OX1lyLV9IUThfTkgwSDZKVU5rWHBQZHUtZUVNU19sem1hSlZJbVVBSi0wclkydEthQnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Are Wall Street Analysts’ Target Price for Arthur J. Gallagher Stock? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPOFpZZFhyWFlQcVdGd3dWTHBJdzlWZHd6NklLMm1ub1ByUDFKblBsNUlpRUFkZ1hjVnREQWZLSnNOckhyVUUyOWFmSlFRN3hmVG00Q0pNLWo3dHFmWWt4LVh6emRPWUlxc1RMN3EtTU5lbzdzdFhSTTd3VWNvZG4xU3Y4WU9VbGZ1ZzVNTnpvNEN5RS1xaGQ4bS1TT0NKZ3l5amJ0SmRXZXRibHpVNFpqS0gteVFHZUVmODVLRWxOT1ZmTERYQzZLTjBEQWhmeVJBbWFjZjlYV3g2QnJjZnVKN2xwRFpLUVllUDA4LUl0TVc4cF95YUhLWXl0bUhYeVZPTEZoR0hRdzg4dkg2UXNhTmlSVVRqN0txZ2xTbjhXbmR2WUlFZzUtd1VWSi1wellDTThLSzhnU2JlWnF5bTFoZ1BYT1htb3NNejF3U0ZGVTZfTEVLNXl5LQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top Executives Offload Millions in Arthur J Gallagher & Co Stock! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWDBLV2lKeU00ZU4xYWtwTVJObENLNV9GbzJ3VEpNZktmNVZUalNCeW9jelBRX3o2NVhDdnBTQXducVR5SU5ZaTN6RjdEa2tiN0pqMzNWeFg4eElDSEpRLVRzV0Ezem1wcVF3R09oQWkycUJxZWFJeVVSREZmdTdGMHg3Sm1iYnF6ei0wZVhXMUhiWDFSd0w3aEstRDMtcTZrb2NLTTlubERSdE1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shareholders Should Be Pleased With Arthur J. Gallagher & Co.'s (NYSE:AJG) Price - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUTB6amEtbHlCeTFaT1hMbHdOOW51WS1mWEhQekQxVW1zVlduc080UWsweXJ2bHRVaWdFRzRqTzdWWGFIT2REcVQ1V2ZUTWkzWmE0LUlRU1ZDSEc2ZkVZYkpMS24wM09VVmJNcVJ0ZWJLSkpZOElQWmJkdC1McWt1b09SQUQta0s2RXN1M3h2UTIxcUJGVFBZTkFMcW9xbkltX1BCdFdNZjB5WXE4c3RnUGRZM0g4MDBqSndLaXF6QUlPRGFibmhJd0d2QkFRci020gHWAUFVX3lxTFBqZWNJczJmNXY5bnNZUWh3TnNZUkpnakdnOFdJekZYZkRzQWpWSEFDMjcxamdqU2stMlY4X3BjOVU4VjUyM1MwMEEyWHBaZ25yNXdXODVnQ1JjaVA2a3pKUnJORW9KLUtrV1RhWm8xcWJ2NnBmWnRhUVdIVjNlaFdlLUhWN0hNSFktZG8tMGJ5Z3d2WWg2cUI1X3A3UjBfX19IeVhNVGJwNzBQcGFNaXB0ODZtZDRmU2RNZzlrUzJlU1V6Z3hpV3c0RGVBUkZTb19wTXptcmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Keefe Bruyette & Woods Adjusts PT on Arthur J. Gallagher & Co. to $326 From $315, Maintains Perform Rating - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYmJGazNkX2tQYWVSbEJ2WXVaY0x6bGVlcDd3ZmlWak1HYjIxbHNpcjd5aDRPdzVVckdTb21jbVBRNU80cldSU2oxZVBBU04xdE9qbkE3NV9QU2pISC1uUEFHWjBxc2VGa1oybUlKOUJQdzFoT2x6Zms0RFNHYkpzM1pPemd1YzBRTF9YeHliWU83aG1wWUZmSTcyYWlqOFBTMXJKa1F1ZUlPX3NVeWJJU0tkNFBSWU9FZ2czTndYbFpjNTRHY0d5S3V6SkROdVVXazhCWlVCbkhKaV9BcHhqOXg4cHhCaUVuMHhmaEhTZlpYWWVmMkJRSGdqVk94a1RuaUF1SmNpTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Arthur J. Gallagher Stock Outperforming the Dow? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JWmtRb04teXFzRC1VcHJqZmF1WDhwdk5tcnhzWGo0bmc2ZjRGRmlJLWVEdm45UEo1S3l0R1d1S0hDV2xFOE1CbHFKTzNzWHMzdmVuN3dsalZVRTNXcGZTU282cWVCQU1UTlU4TXNSRXYyb25EVVhKWDZyR2ROSk0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. Acquires First Capital Financial Services - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY3ZEcTVqRXhjem1wYmhYZ2tUR1ZsOG9MNjFuN1NHMW9ITExXRTIyQlN1SG9VWTRuN2RWVlotSVFubXJoSnBkX280TDFzdTNuZjlkU0doNmp3S3o5dDV0OUxXNFJKV3IwSVBZU1kteE9yM0o4cTByWVMzblpzTFQ1Tmc4LWp3WEw3eDhRRnlTMkNuX3l4bnBBTkVpVGVCNXh6YTA3YTBJY2ZnWHkzV0w2cE1pQ3JxSHdURjRuQg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "All Blacks and Black Ferns Land Major Sponsorship Deal as Beauden Barrett Joins Gallagher Insurance - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMm9ia0xWaExHVFJjaEdCLVZNVE1Ndi1QVldRckJIZnVKRHRDVHVXZ09IQ25BellnZ2ZPNlQ0c3UwQnZCdjZEYXFIaEdxX1BfajExb2k5XzdCaThERkc4VFMxYmIwVHFMeGZYQzJzREZITzhkcWVpRV9uTFJMT1d3a1RpQlRNTlhISGd2RVBtUDNWSXFqZlM2WDBLU3M4Qjl6NGdSbGNNbVRvczRodHo2SjFsSzlkM2hJcF9WdnhnUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Arthur J. Gallagher (NYSE:AJG) Joins Forces With New Zealand Rugby In Landmark Partnership - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbnoyT2pwbXIwZDhITFZiS0VMSDdMR3VFUXVMbFdDcHNBbk80WGxGS1U0NmFXNWNVWGZlNEl1SDV6NjJycXNqeXYwQzNqcGZRWFl0aDRUVlN3N2d5dTZwTW55VEp0dDNKUW9rNUU2TU9VLVl2am1HWkFWekltemNwQUpGTHZjUHIxY3J1RHl4OTJOV2ZoS280bDF1a2swVURYNWFaWjNvVnBveTl0dDhzekpUNWpNSUxYZzBQSWZyZExRQXZ6OTJaZXVXdlN0QTV50gHWAUFVX3lxTE1tTEpzd1dfczlNcDlzOTN0ak9DRWdGdXNrSjRUT0ZnMHRMaFpMelplbVdELWhCYmZxaFdENGQxX3FZUjExZjRwNzA0Vzh4U0xZZ2RXeVlucUUtZGV0MzNYRGpCWFNaTWxqaF9TcmJxNXBBQXRSVTJKUHZGcjlfaDZpR1RTT2Q5S1hzSk1NLUdnb3hUNUZFcFc4RmlhRW53bVhqaFRPdUtyTDgxUGFWNnpEU2c3YVNwODVuY0tpVGZFRVI5NGRJajNBX3lJTk9LSVVqTGE1c0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. Holds Annual Stockholders Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3FyY01XcHBMZUFrbzFJdEZoT25aanNEQWRDNFNoUnlEbFowb2RGZWpPQl9qTkFaN1ZUOWdWRC1aSlpPVHpEWTlfTDdtYmN3WkhfZnVnOGZyRXZYb0VpdEhwZHVpOElzS2YyTklZOGlNX3hBc3FPMHljY0VBQjhtb2FiNzFrcHowdGVtbU9GNXNCU1pOTlF6WnhHMlhHZ0VnaVppcE44YjBBOEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher (AJG) Target Price Increased by Analyst | AJG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREpKUkp1dGVQRDNfSnJndVgyUjVCVnRWX2RHaTlIOVRCUTgwbDlPdFNjYW1GdVF6ZWdSX0tJdFZ0WFRfM1FKZkhqdndwOUFCbzBrVjdUTFJWQ2ZULTNmUXBLQnFTTWNZUG1UTUtpOFhDR2dXMy0xRWpqbzdxS1oyMG5WRzlTRXdhLW0zbFRQZ1Exd1ZuQWxYN2FTWDA4aGRoT3BVZVVtTGprS0dsWFRN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Have Insiders Sold Arthur J. Gallagher Shares Recently? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUG5md2QzZmZaR2ttY3ZCWkcwamcwb0NpNHVhZWVQWVlUZGVuNGg4NVdVOVNtR0FqY1NsVU9EdkhZRXk4ZXVEYldMbjlYdzVEZUhIUGFXTEdPdHNEVEhuN3BXOFMtSF90WE9hRWE0czJ6N3FMaWMxcmc5TVd4MTJ6QTRFdkdQM2R6UER6Q2ROV01vSXhsdUVJNjk1S0hoOVd2bHcyVmpDM2x5bXNmd1Z0dnE1X2RKSUZ5dXVRRVM5dDlBbjVpZmw40gHMAUFVX3lxTE9tRjFFT3hESERQUFZFbTZUa1V4d2JCSHk1b2NoYVg0STM4ZGJ0Uk9Wcmk2NnNmc3BxbkZNMnJUN3l2anRldU16Tk5aVVVZQ2FYTEZSOEpNTnFOb0ltWmpCeERyWW9xN0VTNHM5MEZtclVlb0p4NS1ueTFnNDlUMWV0V2dkNlo4bVV3X0Mxb0h1VTZQbDdaa2ROT1VPOTZTVTI0Q1YyLTBEeUlmT3hIQWNlNERsaS0tWGFyWHRCNDBCaW9EZVNlcndrdl85Mw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Will Regulators Reshape Gallagher's $13B Insurance Mega-Deal? Key Updates - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2doZEVfcmNPU0pTZ3UzUWNxa1ZDSGpWT0hpT3hmZHZhQmpXQnF1Tjc4eDJDVkRwbkdNRHpXSWJzSWtvMnZXSVdnQzBGWlFtVElNRE9nNDJKTkxaazJRWkE0UWF4MllZWXByV1czbVJEa281X2t3eGdGZTlxZ0xQQnloR1hBcmhwRzY4MUIyWUQzS2hBMUYyQ2stcmZIaS1pZW5HOHdJc1BkWGJXY05vaUJTRFRoUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher (AJG) Expands by Acquiring Wilkins & Associa - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlhtaWpSX3VvYVEyZkVzbnFOZ01SMGVsNmxCTVQwY09JeUVrUTg2Sl85dW5Ya0hJYkJKbFF0cFRBajhiRzcxWkc0TGp6RElOT3Z1dUw3VnpPVnRzRTdCQUFmRk1VblBTS1A1bjY5U3o2QmhhWlJlTTFxSlJpeWR1N0RYZmpYREF1VUNtZGRZQjdXekNZOGpyVjNUN2hIZ3p4aUEyYmExZ2ZGcU5DT3VtRzZTZ0xnRkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. Acquires Wilkins & Associates Insurance Services, Inc. | AJG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0d6LXphemZneS13VndGVnZNWWRoc19lR1VpaWVjZW5DcnY5MzRDSTBvUTlQTktZa3VNNU5KWEZPaWRNenlOYlZwRjlRMUhWZHRQOVhFeTJwbUVtTS1RSEY3TFZjR1V0RlpHbEFVNVN3LTF5ZlB2N3M1dVJmRlBxQmwyQVByTm5wV1NuenMyak9tME1aSXdSWVEzX0VxT1ZSR3R0QXZKcUw3eHBmYlRVZnhpVTFxemFwakxvWmRMYTlfMXNXR2hkbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. (AJG) Announces Upcoming Investor Meeting - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONVh3ZVppWm50SG5tZm9KUi1KVmFVQnZOZThTLUVwaEQwUERLZmF2VV9MTHVRY3h3cW5zcEVjVkUySWxMb2FwOTlPSmdycl9JVkVhMklCVFlmUlBGNHl3QkFaUDNaU3d1VFpILWhaV0FydGhibjVkRE1sNmV6T0xaRmtpLXpmUl8yRE9ZcmZxSGYzQ2hMU3hpNW9EbHVEOTFBQlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New Zealand Rugby and Gallagher Insurance announce multi-year global partnership | AJG Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVVBXdGhfUVEwYThoelE1dXVySHhRaWg3YkM5MDdCZzdNQ196UFJXeDB1SmlJMWN5XzNUT1BjaGdudUlQNG04dFkxcjNjN1c1UnlETEVHY2ZiOF9jS2lfTUJOdmtUQ2JHcXo4dmpkQ2dOVmJ3R2x3cXA5WlFPcnZ2c2pFeEtFMXR4dXZrbi13bzdfcHFIb3IyZ2ZjN0dXX2E5b2luYkR5QnU4NEVYS3dFbFFSNlV0QkNYMFBqcU5Qb0ZEa19JNm5hWm9WZEt6UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arthur J. Gallagher & Co. (AJG): Among the Top Stocks to Buy According to Citadel Investment Group - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtQUQxXzJqc2VoM3REalVkYmh3ajNubXN6SS1ITUhqT2stVFhvLWNHeW4tOHFNLTZUVHVZc0VZMHMxQVBFT3d0elpURlRLTGRDNURIQmtDbWtFdzBOeVBKeFdJdGRmaTJ3WUg5dUowR1VTNVB4dVh1NDVDSQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 307.96
-      },
-      {
-        "date": "2024-12-03",
-        "price": 309.81
-      },
-      {
-        "date": "2024-12-04",
-        "price": 307.26
-      },
-      {
-        "date": "2024-12-05",
-        "price": 303.58
-      },
       {
         "date": "2024-12-06",
         "price": 296.71
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 347.88
+        "price": 348.77
+      },
+      {
+        "date": "2025-06-03",
+        "price": 345.25
+      },
+      {
+        "date": "2025-06-04",
+        "price": 336.34
+      },
+      {
+        "date": "2025-06-05",
+        "price": 328.1
       }
     ],
     "current_price_data": {
-      "price": 347.88,
-      "change": 0.49,
-      "percent_change": 0.14
+      "price": 328.1,
+      "change": -8.35,
+      "percent_change": -2.48
     }
-  },
-  "news_sentiment": {
-    "summary": "Arthur J. Gallagher & Co. (AJG) is a leading global insurance brokerage and risk management company that has recently made several significant moves. Firstly, AJG's shareholders should be pleased with the company's current stock price, as it has performed well over the past 15 years. Secondly, AJG has just acquired First Capital Financial Services, further expanding its presence in the insurance industry. Additionally, AJG has announced key dividend dates for its shareholders, with a payout of $0.65 per share. According to hedge funds, AJG is one of the best insurance stocks to buy, and Argus has increased its price target for AJG to $370. However, there",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

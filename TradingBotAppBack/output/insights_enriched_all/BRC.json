@@ -1,56 +1,164 @@
 {
   "ticker": "BRC",
-  "name": "Brady Corporation",
+  "name": NaN,
   "sector": "Industrials",
-  "market_cap": 3297424384.0,
+  "market_cap": 3291746304.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 17.207407,
-    "PB": 2.8240874,
-    "EV_Revenue": 2.268,
+    "PE": 17.177776,
+    "PB": 2.8192244,
+    "EV_Revenue": 2.293,
     "ROE": 0.17796,
     "ProfitMargin": 0.13347,
     "GrossMargin": 0.50738,
-    "DividendYield": 1.38
+    "DividendYield": 1.36,
+    "DebtEquity": 13.843,
+    "CurrentRatio": 1.866,
+    "QuickRatio": 1.208,
+    "FreeCashFlow": 162001872,
+    "OperatingCashFlow": 206854000,
+    "FCF_Margin": 0.11098056050794114,
+    "ROA": 0.10176,
+    "PEG": null,
+    "EV_EBITDA": 11.468,
+    "BuybackYield": null,
+    "PriceToFCF": 20.31334630503529
   },
   "technical_indicators": {
-    "RSI_14": 45.18967693595411,
-    "Momentum_10": -2.5587168450147955,
-    "MACD": -0.206656032434779,
-    "BB_Percent": 0.245135414490266,
+    "RSI_14": 45.131862861129314,
+    "Momentum_10": -0.8126599654751947,
+    "MACD": -0.2631924238164771,
+    "BB_Percent": 0.2666128194584238,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9313686555275944,
+    "ValueScore": 0.9294006557487772,
     "QualityScore": 0.4434006058877016,
-    "SignalScore": 0.523235223827595
+    "SignalScore": 0.5919199210371409
   },
-  "volatility": 0.0178136709765006,
+  "volatility": 0.0177900770892866,
   "beta": 0.809,
-  "return_6m": -0.0696083953549722,
+  "return_6m": -0.054539804715523,
   "analyst_rating": {
-    "recommendation": "strong_buy",
+    "recommendation": "none",
     "analyst_count": 2,
     "target_mean_price": 87.0
   },
+  "news_sentiment": {
+    "summary": "Brady Corporation (BRC) a maintenu un dividende stable de 0,24 $ au T3 2025, mais le cours de l'action a chuté malgré une croissance de 11,9% du BPA et des rachats d'actions accrus. Les résultats record du T3 en termes de chiffre d'affaires et de bénéfices ont été salués, tandis que les prévisions de Roth Capital pour les résultats du T2 sont baissières. L'annonce d'une conférence sur les résultats a suscité des interrogations après des résultats mitigés au T1, entraînant une baisse des actions. En parallèle, Black Rifle Coffee a capturé 21% de part de marché malgré une baisse du chiffre d'affaires au T1, ce qui a renforcé son positionnement. Brady a également mis à jour ses perspectives d'EPS pour 2025, reflétant des investissements stratégiques.",
+    "sentiment_score": -0.35,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Brady Corporation Maintains Steady $0.24 Dividend Payout for Shareholders in Q3 2025 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk9VQ0phd1pocnhsaUhES0RBNzBzdkhjY3VpeVVpSUFreE1wUnQ4blJkc1FlSXdSMWItN2RTQmhNZk9wRW42VlcwTG9ORkp6YmExb2hJb1kwNS1PYTNfaTA2Um9DdVRoSlhBQkRCVWh3SkhDYlU0SGNyNnhxTGZESWFpQWpvWDAwbFo5Z0RndV9tcEdjRDFWZjBBTDJXWGs3b3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Safety & Security Services Stocks Q4 Teardown: Brady (NYSE:BRC) Vs The Rest - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUFkU1VTdGljSmI0MU9YVmlhM0ZVbzN1NHhXVU1mSmpfVWZMa1RmTS13Nmp2X1QyUVJpS3U1NDJndnpLbVR4bzZuTXlESFNkSkFHTmczNmxUMTRZVTRTYlUxTkc2eTBBRXpEbFdkWEgweWM5MF9MZjJqUnRYemhIMW40cHNySkk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Brady Corporation (NYSE: BRC) Stock: Dips Despite 11.9% YoY EPS and Raised Buybacks - CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONVhZbHRBaEpkazkwRjZZWVJtcUNaTmRSRFYwT2RwSUZ3TGIzU0VEc0lRNmRwM2tVWFBldU1IVmxoRVZIdDdudVJGM3gtUk5HQ2xvYlowQk1CNUt5RkJ2UUNoMFpuaHUyekM0S1lBbXhob1c4RDlpcjFaVmFidTRaOUw5ZkdpS0Y3NGNQbF9lRGdhcm1xMVJveFdudWpSS0g5U0h1TTdB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BRADY Earnings Preview: Recent $BRC Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREdqOTUwV2xacHUyNlNpamtlbE1rdUN6UUlnbXNfcDlIWFlaclpadjIxZkpPN3c5bmE3MnBvcjlWX0tWbEplVkpONE8wV1d3RHFkRWxzeGt6MWNzTjA1bEk4MXJmakhUMXViaFEybGZfVGk0UzFOWnJNR3AtRVJKeEhaRTFKVXdfSTZfV2p3MFFWQmozWHloYmFZQVBzTHNsZWk5VU9MUmwwZmZUeWlz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(BRC) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2V5WDhlWnExa3hxNGQtMW5Hd3NFdmVmeHZsaG5pYkk5NHAzckQ2Q0xSNXEwZXY2QnUtWFlsOGEwYnhRcHFTQ3RxWExWVXR5ZFl2VHRqRk1XMkVDTXMweTZWMFUxWDhIS3ZLT1BWM0ZxLU5KekZwTlFJdFhHRjZVRUZoRVBIZTc1c3NCWFAtLVpIMy1wREJuNHNJc1R2T05sSXoxUEFSSFpCejU5d21ReDhIWGw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brady Corporation (BRC) Posts Record Q3 Revenue and Earnings | BRC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVY2NWNKb2ZMRWlJSVl6RDFXSkhQZFJZYUxEcGNvTGhfdUhiWktGUjlnS0kwalBZQ1NoNjJqWVEwZkV2NEFNVXVEcWNwSlo2M3dING9DRV9wOWZPLV8zcVkzSkFGQllrQ3FpZW5sSmlZRk14dDBXRG1RVl84WjkxTllGaUNIa28xRmN5Uk03V0d3ODNad2JvMGlWbmVBRjZEWWVCczl3YzJ5LWpITDA4MW83MA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Brady (BRC) Shares Are Falling Today - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjVqYTBFSDVMOTRCRjZnY2huU1I3MEJKV3NqRThIa1lUSnBlblkzb252dG1pN3N2WXlGUnUwYzNwNFhoci1ZOG1XeG5kTGhua1gwM3oxaGpSWTBOQTVYS2dlYkU4TDU1dmdqX1FzdzhkWU5ianZWV1dwVmU4TGtqN3VKNEhZc2RnSUNuM0JBTTN6cEphM3hPZmdld0t2X1MwYTZmNGVyXzZCVTFWZzFnSXdEZlMzaWlESkE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Roth Capital Has Bearish Forecast for BRC Q2 Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTY3UjJWc0Myd1ZXQ18yS3pjclhRcXlsMkM1ZEZPb0hFMmthanZsRzZOMTZtSHZzNWdXZkhCYUhZcEdNcGUtWTNNckc3TlNTcGs4Y3l1M3BCRVg2NUZSRE80bnJmOUx5TnY4TmUtYlU5S1RVaTZSOW1vYWhQUUlCZjRRUk1uVUJja0tVNnE3cHh0N2puVmdUNHdoeFZLLUNZYzlrc0FDTFhfUmlOWUFB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Brady Earnings: What To Look For From BRC - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEtZUlh6aGdxRHJPMHcwTG52ckxIOUFVMFQzTmFQSENWSTVyX084OEJYalppcUpxOU80MXE4UEVUNGlkRTIwUUlqWnRKdVNhUHgwOU5QV2MwMFpVNkxVX0dUMksxX004bWtVbHhpa2tYX3NkLVU1MkZlZjlYMlpiX1ZNcU4xYkkyU0pOcUlqYjBQaFJ3NmVKeWV6Y3ZiM3NhQ3pjRVQ1TGI5OU9oMWhhWmI5QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brady (NYSE:BRC) Has Announced A Dividend Of $0.24 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcFAzUXpNdmdqZXpxUHJkYmZKUjhoWTJFeDQ0X0RBMkwtYnlzakNEUEljVkt2M1BNaGV3OW1ybTNMY0poenIzS1hEZ1RkLVEzWE1Yd0l6bjh4T29zVUFUYzBrbTJ4Y1pvb2pkTzZiMEdJRGxvOTFiV0hydFZOeC1VR1NtY0prVm16TERINi1lUlYwUUNrZkVKUTRKS0dmV19DTDJfVU9pajFYa1hiVVNQQ0htVnVlZWp00gG-AUFVX3lxTFBLQzBqSWtnN19qT2dUYXBPdHh1UDdzYXNROGYwMTdrWk5zNUNBRWhsRHVETVBPa2pqa1NsQzRTVE1DZXRTZzVJYW8xSjllMEhvT1JJa2Z2VjY3WFgxUkh5VWwtVjJkMzVoQ1dPWWwwNHNNZzJGMk1ka1NoQmNLdFNBdWlxb3VVT2pjaVFScjd1Sm05WnNjNkhrRVF3eFB5T0hwNUZOYjl6OGprbFNtcl8yZVhhbjl5NzhBS3BrVmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Applied Materials, Flowers Foods And 3 Stocks To Watch Heading Into Friday - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVM3b2xvMWNwOTEzTGVPN0t1UVJmcUtmRUprN1hSaDVPVDZ0NW4tRkJ2Z0lSWWlxME54ZHRjdkxpYzBxaUJLTW9CQUxvZENXWmF0ZkVjYm5adTFvVUxabkJQdmRCWGFWMFVoRWtRSW9tNFZNZzNSbWh2YW1ERWlyR3Y5VmE1WUdpTWU3SUI5WjRyZFJRRFlDblZSV0pkb2pvQVdBNjh5bVpaMUVzZzI5UlcwUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brady Corporation Announces Earnings Conference Call - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZTV0THpDR1ZjUUdja1poVzd0VG9LLXhGNUtkaXduVG95aGdfdDdoVWVHeWtIcVVtNHUtMDNmaW1sUHdHc3ZKd1RwTUduN1BCZTQyRDJhelNZMTJobHJtSVhicW9xRy1vNlYtb3oxdmRsYUpoTzBZNHhFXy0xX3dlbGYwME5oRFFHTDhvME9YUmJMbUhpSHYwZmJWdVJtWE5MbkR3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Earnings call transcript: BRC Inc. sees mixed Q1 2025 results, stock dips - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSk1FVHNuNUlQcVZBWl9sOVhTdGVETXJtYWxJcHhndUtUWURzdTJSaDY0VXlPenVPdVJXdlFXdGdoVUNsaFBUc0NxNmNYcjc4UmR1bVdGSlVLSENXbUduZXFKSEFkSC1rQ2lsMU13eHNQdmJSYWlNNGxsdm5SYVBiX3ZYLWFuY0drUEhIUE52MXRNR1FvM3pTRExTRkpkNjJkaWU4OTF1WXpJV3Rrdkdac2FSMzRNSUxScm92SGZ3QUY5VERJ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Brady (BRC) Shares Are Falling Today - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFBHQXUwVzBOelpLWEk3SjBsZ25JZnRDOXhSM3FKZDh0RG9NQ0RHUlhEWHJMbXV0MXVaTDBkaGV6V2lyZ0NnTmhJaUZkcmRZa2RsQVhRTTdHZTltLWVMZHBfUGt5S21Bb0FJZFpmbWhUUVl4VUVndkI1eko1RlJZeFFLcw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Brady Corp (BRC) Shares Down 5.16% on May 16 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ295YkRSbFB0ZkZFZzZzRmptN1RwM283MXFNUFl3YmJiMHJfRWFBanBpenNYR0NROTVTWnI0V2R0R09KYkRObW9TbnBqX214bnR1Umt2bWRVaUo4QVdvM3JSQk55ZHhJdGRBRmhKSF9QbXJ2UEtyRHNQZzBsU0ROY0tBaEwtQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Brady Corporation (NYSE:BRC) Third-Quarter Results Just Came Out: Here's What Analysts Are Forecasting For Next Year - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNXlHTGctb1dDRDRVQlllaER6dGJwM1BtS3BTZmFGc21oRHN2VFg5M2V2d0R6dnJIT01ScjZoSjdIRTFMRjd4NGNSdEs0cTd4c2huRGlGV2hBajhBMmVHQVBBMjRMcm9lOExpTUN4V0o4UTZyclkxU2JqRWxSMDQ0QkYwTTRkYmE3MkNRaDdiVEFWNGM5S1N1dnZrZ2txQkZEVk5OVnRuNE1JNU92NmNybTVwaGJrRlM1aWpacjlRaFN3VTFnbVNuNlVWVVjSAdIBQVVfeXFMUGN5eE5QZjZxRVF0RDhCZEtJU2dzcmo3bUdNXzh1ckFVQXg5RFB1X3BDR1NlSThzNUFaY3NMUnV6ZHNPc2Z1R3ZJN09fYXBBTnRPbUJGX01mdnZNZUJSZ2FHQjU2aXNERGdFMWpac1BSZHdlOUhZVWFzd1B2NmM1M0R0d3lGeDhRQUJPRTlrTFk1UjlsaXAzcElzWFBFaWFkZlFXSDNlb1ByR2NiMTFPa0NlOXRPV0psRkdFdTZUZHJhYjlQWElhZ08yYWZOZW1vazNn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is BRC Inc. (BRCC) the Best Coffee Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00bE9mTGJLanp6aVlvVjJVSmdTR015X3FNWTFwZ29RN1RTb1J5bmNXNWhQRVIycnl0YjQ1NmZyT0UzQTRkSmszaktMYnJYMUljQXctY2o3MFNFM3ZqS3RCbFBrMW1xUWcyaUV1YlIxZXpyYXdTRzRBT3NR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Did Black Rifle Coffee Triple Its EBITDA While Revenue Declined? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZFlLY0gyRXdDQWQwZUp1MWdheWJCekZCSkR4VVFGaGRiSFR2T3l1NnphMk03c2hWbGcyLUNIRWFWR3FsY2NrZlg1Y1NoY00zczB1SE9RMjRnMTB6eWEydDhRWkJjMW1mVVBJOTR1TE9yRE0tMkRaUTZkWGNSbG0yQU5NX0dmb0pNcngzanRHQ0VmUDFOa0hBUDBaYUpON3pFaW5PdHA0YUxSTnFCOGUzTXBhZXdIVE0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BRC Updates Fiscal 2025 EPS Guidance Amid Strategic Investments - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWmRSdXllNEFGUDNnSlBCZGJ4bkx1OTd2bjk3MGV0STlCTG96c1Z5c0ZUb3BBMjF1NXZhajV4MHFhRGhIYUhOZ09GdlBINDlwNG4zN2Z4b0V2c3Z3OVBsQ1kwMkNmVDZwbjVXWUdTUFBqZk01MWZULU5pYUFCWmdBTDdnVGxHV2NGR21TcU5neDJhUVBVYTJUaHJiaFRfWTF0REF4VGtLY2VSVEROcS1xNjZkekZBS1JM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Black Rifle Coffee Earnings: New Energy Drink Captures 21% Market Share Despite Q1 Revenue Drop - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORm1WcXdJN0dfMGxfX0RpRjNfQVhzVWs1ZDZSbU1KYTV3SUtRcndDcHJDZ3IzUE9FbTRzUWFramRoMmNuUHZTT09Nd0lhdU95ajZlNFNaNHUwT284SkVPNWY4Y3h4aFZTbnVWTEZQb2ExZldHNmhpZW04WUZtck1BUUxZNldlbTJIQ0EyaFg3ZU10blBMU2NmSmdyVXA2TE1q?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 75.43
-      },
-      {
-        "date": "2024-12-03",
-        "price": 74.64
-      },
-      {
-        "date": "2024-12-04",
-        "price": 76.08
-      },
-      {
-        "date": "2024-12-05",
-        "price": 75.17
-      },
       {
         "date": "2024-12-06",
         "price": 74.1
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 69.65
+        "price": 69.47
+      },
+      {
+        "date": "2025-06-03",
+        "price": 70.41
+      },
+      {
+        "date": "2025-06-04",
+        "price": 70.55
+      },
+      {
+        "date": "2025-06-05",
+        "price": 69.55
       }
     ],
     "current_price_data": {
-      "price": 69.65,
-      "change": -0.17,
-      "percent_change": -0.24
+      "price": 69.55,
+      "change": -0.96,
+      "percent_change": -1.36
     }
-  },
-  "news_sentiment": {
-    "summary": "Brady Corporation (NYSE:BRC) est un titre favori des investisseurs institutionnels qui d\u00e9tiennent 79% de la soci\u00e9t\u00e9 - Yahoo Finance\nMillennium Management LLC ach\u00e8te 1,637,357 actions de BRC Inc. (NYSE:BRCC) - MarketBeat\nBrady Corporation maintient un paiement de dividende constant de 0,24$ pour ses actionnaires en Q3 2025 - Stock Titan\nBrady Corporation d\u00e9clare un dividende r\u00e9gulier \u00e0 ses actionnaires - Le Globe and Mail\n(BRC) effectue des pivots techniques avec des contr\u00f4les de risque - news",
-    "sentiment_score": -0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

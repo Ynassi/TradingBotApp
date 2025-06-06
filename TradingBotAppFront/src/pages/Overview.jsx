@@ -29,10 +29,10 @@ function Overview() {
 
   return (
     <Layout>
-      <h1 className="text-3xl md:text-4xl font-bold text-center tracking-wider">
+      <h1 className="text-3xl md:text-4xl font-bold tracking-wider text-center mb-2">
         Vue d’ensemble des marchés
       </h1>
-      <p className="text-gray-300 text-sm leading-relaxed max-w-3xl text-center mx-auto -mt-4">
+      <p className="text-gray-300 text-sm max-w-2xl mx-auto text-center mb-2">
         Cette page offre un aperçu synthétique et visuel des dynamiques de marché actuelles : sentiment général, volatilité, performances sectorielles et actualité économique.
       </p>
 
@@ -41,6 +41,7 @@ function Overview() {
       ) : !data ? (
         <p className="p-6 text-red-500">Erreur lors du chargement des données.</p>
       ) : (
+
         <div className="p-6 flex flex-col gap-8">
           <HeadlineSummary />
 

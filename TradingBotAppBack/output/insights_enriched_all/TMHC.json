@@ -1,56 +1,164 @@
 {
   "ticker": "TMHC",
-  "name": "Taylor Morrison Home Corporatio",
+  "name": NaN,
   "sector": "Consumer Cyclical",
-  "market_cap": 5608061952.0,
+  "market_cap": 5830376960.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 6.5046563,
-    "PB": 0.94471216,
-    "EV_Revenue": 0.89,
+    "PE": 6.7625146,
+    "PB": 0.9821625,
+    "EV_Revenue": 0.91,
     "ROE": 0.15973,
     "ProfitMargin": 0.108380005,
     "GrossMargin": 0.24634,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 36.234,
+    "CurrentRatio": 7.717,
+    "QuickRatio": 0.58,
+    "FreeCashFlow": 328254112,
+    "OperatingCashFlow": 418047008,
+    "FCF_Margin": 0.039244176081803424,
+    "ROA": 0.0877,
+    "PEG": null,
+    "EV_EBITDA": 5.748,
+    "BuybackYield": null,
+    "PriceToFCF": 17.761778898903785
   },
   "technical_indicators": {
-    "RSI_14": 42.30710991860395,
-    "Momentum_10": -6.890515642706582,
-    "MACD": -0.540610341189705,
-    "BB_Percent": 0.115473277026587,
+    "RSI_14": 51.46422185377921,
+    "Momentum_10": 1.5914652720450209,
+    "MACD": -0.3459009569943205,
+    "BB_Percent": 0.4995155833809301,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9356886049206558,
+    "ValueScore": 0.9356966027128204,
     "QualityScore": 0.3041396921618821,
-    "SignalScore": 0.5670295506549246
+    "SignalScore": 0.5442810290512725
   },
-  "volatility": 0.0219392806567337,
+  "volatility": 0.0219624118195547,
   "beta": 1.575,
-  "return_6m": -0.2364717167670175,
+  "return_6m": -0.156771655287362,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 9,
     "target_mean_price": 73.23444
   },
+  "news_sentiment": {
+    "summary": "La société Taylor Morrison Home (TMHC) a enregistré une croissance annuelle moyenne de 28% sur les cinq dernières années, mais fait face à des conditions de marché peu favorables selon Seeking Alpha. Un changement clé de direction a été annoncé, avec le départ d'un vétéran au profit d'une mission religieuse, ce qui pourrait influencer la stratégie future de l'entreprise. Malgré cela, l'entreprise a récemment lancé un projet de 400 maisons de luxe à Las Vegas, illustrant une ambition de croissance à long terme. Les investisseurs devront surveiller de près les résultats financiers à venir pour évaluer l'impact de ces événements sur la valorisation de TMHC.",
+    "sentiment_score": -0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "How To Trade (TMHC) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcURRdXIwVEwzMmdXU1pEUWhMRkRVOFliN3RIaG1VUlJoUmtrVE1IdWVacDVrQlVOOHRzR3d5RjdGQldhUlpQQ0p0S0NTdHZZNE4wT3NTZEtacXoxNTZ3aFBCSFBSZGtGTHNTU2szaGJjN1VuaFQtNjRqUk9kM1Yxd3BJby02T2I4MzFoMF8yNHB5M1hQVFpn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q1 Earnings Review: Home Builders Stocks Led by Taylor Morrison Home (NYSE:TMHC) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXhTTjNod015V2k0OU1YX1dSN2NkeG5LZ0FfUl9OUGNUS2RLbDRUZlVsREFTVm1LV3piNVlXNFBOdjFtYW1ycFJlVEtVMWN4VVQ2dl9xdjUtUDktcVRNb3ZZNXdDR3p5MVJVdWNxUUVHekdrS3Vkc0FhbmplckN3QnZKbU0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taylor Morrison: A Conservative Homebuilder, But Industry Conditions Are Not Very Supportive - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2QzVGFoSk1KWVF6bnJVa1k5X0JmSEg4ZnJwODMxVndlZklSa05ZVGwzX3AxTWhUNGRBeFp1V1NaTk0yVW13b1c1a3BUdm5zT0NET3Rfaklybmo3SE1HSTZjejNVcDVpMF9oUkNvbXdPRWQ1SE51d3RWZTROaGZySzhhR2JyMU5PUlNLMlN3TjM2QU5tNEwzN2VHY1FlS29rWnNWSlcydGdzUldxU3ZIU3ItamROVW5BWXJyTWNfMnJURGltdExDZEk4NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taylor Morrison Announces Key Leadership Change: Veteran CLO Steps Down for Religious Mission - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObTJzLW5rNUdkOGFBdDg5ajhxMU1XRkZmenBQT2EyTnhHdXZSOUFTRlVQSE9Wc1dKcTYxYWNnVGp6b3Jobks4WmRxS0plTVQ0TFg0eUZ6MEJTQ19sOW5FOUNJNnRDZHRPR2N1dVBscG9SbzZUYndhNHZ2YkItbkk3N2hkSFRITGJkVzR3Y1ZsdV80QWZaUjcwSHlpRm5ETWh4eHI1XzBpdm5FYS1Kb21tUlJlaEJpbHh6ZlE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Taylor Morrison Home (NYSE:TMHC) shareholders have earned a 28% CAGR over the last five years - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3FQaTlKVEloVkRSYmYtb3N0Vm84TjhlNm15YzJiLVNOcGFIaHRiRWlyNEoxeG1FNDJfVm00SVBMbU1UREoxRUJlRHV2R2Q3MlRab05NQThyVXNreHI5N2hyaV95azJwcm5VOGJGNmhlZGVsUE9INUdSSGFGSjRDRm9faDdGdHVXbzBOanBOTmltZ3d0UGUwdU9jZVQ4S2h6STdvU0MwaFItTHd2VmpfbEVnSDNoSllKbXFTTW9tWVBfa05CclNpSVlFckMwSjJFMjlabEtuVGhRd29kblHSAeMBQVVfeXFMTUtNOXJWdmI2VnBlRGh3YXB3NGJDdFFhVGFyelc3bm8zQ1BsenI3TlJHbXFlVU9HamlUZXgxRUh3R084d3V1eDBPTmhtOHBKSzlxNXRBV3Qwc0w2RmI2TmMySnIxeHBzb1FaUGU3d0JlY1puNjc2RzI5Mkt3R3hYWWhudGQtTi1pX0R0WGd1dW9raW51UEVSLXJXYTAzc2tOZ29IblJGY05yTGtnbUxrTGE3aXJzYVJBOFhpdjI2dnBFT1NEY2lhQWxPQkJfZ2UxaXN6Zkx2VFlRWGpmMDIyMHBQdzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taylor Morrison Holds 2025 Annual Stockholder Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnp5YmNMMjlGOWtrYWFseDIwX3NIcHR4MUhnWUR4MndfbE1NSUMxN2x6elNJNGxQMTNpWFIyUDlCYXJTTi1ITzI4LXR4S25tZ0Y5M3pIR2lPS3dOM0dtdnZJUWNhX2dTV0gtM2dfTkFZcW5CSVY5Qm51aW1zemVsU2lQcUduR0ZMRmpiRHlXdlBJa0YtRER4bGNBbE5LOGV2WG5KZUV1aTM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taylor Morrison to Update Financial Targets and Introduce Long-Term Growth Aspirations at Today's Investor Day - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLVZGcUp1cGZRa0tkb3ZPMDFuQXBScWpqWW9oRFNEUkVnVzRqUUhRTTY4ZC1kdU8yNDNrdVNQOUxIeDJGeUhSb0wtb2FTZGRsNFBXQm1FVUdwTHRNU2pfM2JzMjdvTXdyUlA2Qy1wYkdDOEZtenhkSVlHMGZiT2JReTBVQVdEWXE0bnNqNXRKTWE5QUJtT2tlejllRVVlZGhBa0pyVHotRnFPaW9jY0hDN1NOeXJzVmxDc1VlLUM5SjdicGlNZzFkd2V1MW93di1Ud0hiQllKcVhEUG41MHdjUm5Bcmp0bFRVdHJsTl9KbmlyVmF1eHo5Nw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Value Stocks with Questionable Fundamentals - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1dmeld5U1FfVU1TTnZTM2ZZYXB4WXdETW83RDAxbmp6Zy1JbjdBRUVhNnZvNnRKMV9kbFVfdGZ2bHNtcWhHMV9jWDh1enFtVVVaSlFVdmZyWHZwREdHX2twcS1rN0Q4M2ZfYzhFMV9Ydkpya3htLXg1d1RNZmhIRjdsNmFlT1BOcHliRjdqdF9oN2ZLc3JsNllfUm1zWUk1XzNmbEJ0enhHR09kbExsZzVEeHBjV0tR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Taylor Morrison to Expand Esplanade Brand to the Las Vegas Marke - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObFhHU0dwSVRNcEIyMElZMlVIeFBaZzlCUndSbHB3MUM5TG9pWW5ZSUNQMVRVWFBLXzN0ZXlZTVhfTUJsMlBwWGp6NGgxNUl1X01BTWVhbC1vVGVsblV2YXk0U202cTR5dXo3NVF0cjY3Sm8wVGtaQjNyRG9EYjFLLVpCYVlEd0pncEd0SWNBWG9CU1EzVk9vUm8xT0RTbUdjNVZsREQ4QTJ1VU1sdVVKaUhTemFFYUVjS2tYRC1ZSF9vT1YtOUREMkh3bTBFOEhuX2tNQ053?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q4 Rundown: Taylor Morrison Home (NYSE:TMHC) Vs Other Home Builders Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1RBcG5qMWlEWTZYUjNUY1pJVC1YRExLMGVuSmZwUzg4MWN0WFJ4Qjl1RkFWX19vTEJYWTk3UXRHa1JTdXJmNzlRT0tfS1R0bTBtc1paQWozQVo5Qzh6OHVXb3E2RnBTVTBQWDRENTAzMkl1b0xlRkFrSHU3VldLN0J1dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Taylor Morrison Home: Buying This Dip Makes Sense - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQkk4bW52RnFCZHY4UWstZTFOVjdHNWxvNFZKS2g0eC1aZUl1bnBHX1M3azhFUWtfMEs5cDhSY1lxVm45N2FiUEthRmFoX3ZkN3lnZjVDeVhISVJrcENfWGRqSGctN0VoQ1A2eDdvTlRaeFZDeS1hTm5WeFptRmg2cjhuOFFpMThnbVhGYU1DQk9Idms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taylor Morrison Launches Premium Resort Living: 400-Home Luxury Community Coming to Las Vegas Hotspot - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHNKZExybHNoTVpKcGw3UjQtc3hjMEh1QUZtOW1RdmYwSFg5NlFIajV5dVMxdjFLdVo2NFJYSjh5dTNkRHlxSEM2X3FIdGprbmFUMjJaUk4tNk1HM2x0aEs1bTFkbkp3and0alFEbHR1OFMwUnNlWlVlSU5NUzVBcndfanozVG5Rd0FBLXd2cEJnaGlEaHlMWjBNR3RXRXBkaWEzbG1JU3g5ekd4c2RwV1UyYXg4ODZJQUdobg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(TMHC) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVd0QmtsaGZSVVZ1bjZkRkNOMVVobGNNTUhpTnA0Vmt2TnR6OGZYM015Tk9HNTRGak9YQ09meTVpUGdYUENKUkxvVGUwM0ktZVR4UnZHM051OTV1RUJmMzVRbmgyU3BwOThWYkFtZXVKZUxlOG5Gd0VBWmREU3RISmRCWWpVdE1tMFRBcnFWOTBXTGNLemhnMXNRdTlYaTB6RHEybVhNYUItcHhN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taylor Morrison (TMHC) Reports Q1 Earnings: What Key Metrics Have to Say - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRS1UWWVRd291TmpyZVFqbi1LTTFqenpic2swbUxTY21uYUdweDlFWXM0VnZPcWp0eE9xTnVDbGpzNnAyMUhzTFRwRnJMdGFEN01rSlNJX0hCNzFiTnBvRG9LQmlCLVlQdlgyTDZJSWd1QTdmbmYyZkdOWF9mNFI0OWd4dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taylor Morrison Q1 2025 Earnings Date Revealed: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQTFPZEdBOG1Yd1c4aWg5US05Ry1oNmMxX1pXcGlXSGRUTXRBOTFEeDY1S3VfSUNCeVpmbjV3QnRwTGdHbENYbmxzVE5SYUVfQzVrNFUwcnR5b0JYYjF2a2wxV1ZnZmxCeWVma3FzOUNJa1ltcHF6dTAwRG5SZVN6S3pJenN2X0pCdHRrejlvTjdWcEhTd0dQYnhRdWpZTXJ3UGdBOHFISVJRVlZRaUItYzladEtjTVRL?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Avoid TMHC and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MQW9YSHRqY0NsQk53eEZmclRyOHJlaXhOc3JLZ1ZBR3I4cEdsSFZnZ1RCeHZ0RXp1WXByeXRSTk5oZGJBN1VOZ29WY2ZfeHVpRDVudEF0OHdBZjBxV0ZUdFRWZy1SN29oRXpHMk5xUWdUYmdGaE5Z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taylor Morrison Home (TMHC) Reports Earnings Tomorrow: What To Expect - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdlFTQVF5cjk2ZjBzTy0zUS0xbmhfZVFBeFJ6Y05pWXBpZmR4TGV0c0toUjEyVHlzelVxMmlnNHQwUTNGT3BRa0gtNXV1ZTh4SVl6NGRNTUV2M3dKRWZsWVpzeGFER0VLcGZCc3dNOUFjVFIxbXhhTmhwa0Q3ZmVpVS1EakR4QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taylor Morrison Home Corp (TMHC) Q1 2025 Earnings Call Highlights: Strong Revenue Growth Amid ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeDZTWkhJOWlxYlNEN2x2dFN0OUMyUWhiTXhyaUxKYlFMbC1ibGxDN3FaY0Vhb0tnRmdlVU1RZk1Ka2laUTdWUDFnQkQxUUktY3lFYUhBNVU3VVpxWnIxdnN2SUdQeHdqWm41dWQ1eGU3dnJyYlR6Ql9mdUUwRmxRcFBn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Taylor Morrison Home Corporation (TMHC) the Best Residential Construction Stocks to Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzdHYVAyWjRiR2hzenlSR3QxUk9aWGhRMjdWY0RldFpGcVhrdFZWaFhNd1lkOTZsOG9uOUphSkRPMHVtVW83bk9WN202M3k3R256anVtTTRzOXo0VE83QmE0ZGxLaVdGUnlnUmhZS1RBQ2J1NFQ2OUg5aDZCTjcxVWcyd1NRQVZvUzV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Small-Cap Stocks with Questionable Fundamentals - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1FvdENqRFJfS29UYU4zQ1FpVGtNTElPbDhwUWJrOVFoc3ZSWU5MdjEwYmZKU1FZVTREbWVUcVNGOHVuLS1zY1V3cmRfeFFGSG9iTXM1OFNtckpUS2ZyOGRscm9oZ3RXNVBIS1VTNEVvTE1iMkwtd1Y0N1V4NGVrUHlWQQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 73.18
-      },
-      {
-        "date": "2024-12-03",
-        "price": 72.86
-      },
-      {
-        "date": "2024-12-04",
-        "price": 70.42
-      },
-      {
-        "date": "2024-12-05",
-        "price": 69.31
-      },
       {
         "date": "2024-12-06",
         "price": 68.89
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 55.87
+        "price": 55.85
+      },
+      {
+        "date": "2025-06-03",
+        "price": 56.58
+      },
+      {
+        "date": "2025-06-04",
+        "price": 57.94
+      },
+      {
+        "date": "2025-06-05",
+        "price": 58.09
       }
     ],
     "current_price_data": {
-      "price": 55.86,
-      "change": -0.38,
-      "percent_change": -0.68
+      "price": 58.09,
+      "change": 0.15,
+      "percent_change": 0.26
     }
-  },
-  "news_sentiment": {
-    "summary": "Taylor Morrison Home Corporation (TMHC) has announced key leadership changes, with its CLO stepping down for a religious mission. Despite this, TMHC has been performing well in recent years, with shareholders earning a 28% CAGR over the last five years. However, there are concerns about the company's fundamentals, as three value stocks have been flagged for their questionable financials. At its annual stockholder meeting, TMHC announced plans to update its financial targets and introduce long-term growth aspirations. Additionally, the company plans to expand its Esplanade brand to the Las Vegas market. Overall, TMHC appears to be in a positive position, with potential for upside growth.",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

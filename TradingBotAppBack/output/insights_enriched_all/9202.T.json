@@ -2,55 +2,78 @@
   "ticker": "9202.T",
   "name": "ANA Holdings",
   "sector": "Consumer Discretionary",
-  "market_cap": 1335634821120.0,
+  "market_cap": 1345504149504.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 9.771696,
-    "PB": 1.1816463,
-    "EV_Revenue": 0.657,
+    "PE": 9.851013,
+    "PB": 1.1903777,
+    "EV_Revenue": 0.658,
     "ROE": 0.14035,
     "ProfitMargin": 0.06766,
     "GrossMargin": 0.18494,
-    "DividendYield": 2.1
+    "DividendYield": 2.11,
+    "DebtEquity": 118.329,
+    "CurrentRatio": 1.327,
+    "QuickRatio": 1.153,
+    "FreeCashFlow": 59447500800,
+    "OperatingCashFlow": 373033992192,
+    "FCF_Margin": 0.0262826192738404,
+    "ROA": 0.0335,
+    "PEG": null,
+    "EV_EBITDA": 4.359,
+    "BuybackYield": null,
+    "PriceToFCF": 22.633485535930216
   },
   "technical_indicators": {
-    "RSI_14": 53.671224393630695,
-    "Momentum_10": -1.796821008984105,
-    "MACD": 21.122513462013103,
-    "BB_Percent": 0.4822884887288188,
+    "RSI_14": 56.87657187601364,
+    "Momentum_10": 1.632942847000355,
+    "MACD": 18.90241164081681,
+    "BB_Percent": 0.6654018403016562,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8998151257654746,
+    "ValueScore": 0.8969111708657648,
     "QualityScore": 0.3748085612515451,
-    "SignalScore": 0.609066601747756
+    "SignalScore": 0.5472425783568595
   },
-  "volatility": 0.0117362999551202,
+  "volatility": 0.011682428036591,
   "beta": 0.459,
-  "return_6m": -0.0110068598424164,
+  "return_6m": 0.0092983688865952,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 12,
-    "target_mean_price": 3377.5
+    "target_mean_price": 3385.8333
   },
+  "news_sentiment": {
+    "summary": "ANA Holdings Inc. (TSE:9202) fait face à des défis pour stimuler la valorisation de ses actions. Les entreprises japonaises adoptent de plus en plus les incitations en actions pour les employés, une tendance qui pourrait impacter positivement la performance des sociétés à long terme. De son côté, Japan Airlines franchit une étape importante en se rapprochant d'une introduction en bourse de 8 milliards de dollars, signalant un regain d'intérêt pour le secteur aérien malgré les défis actuels. Ces actualités pourraient influencer le sentiment des investisseurs envers le marché japonais.",
+    "sentiment_score": 0.333,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "ANA Holdings Inc.'s (TSE:9202) Prospects Need A Boost To Lift Shares - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbEdkX1lJeld0T3plX25FYk9jWkVyV0JNV2lLZXZQRHRwWnhLZHBLNXpfODRtNjhrN3ExQlVYMWNITFQ5d1I5VFhkdjBia1ZyVXJENVlXTUlhelc0dzZyWUN5M3NIcVJOV3ZUWWJXbG9Cd0p0eWQ1aWEtMkpnMF9wWDVob3c1ZGpCSV9WOHdlZXN0WmFOQ0QwSk5vLXhtVmpzNW5KNHZlekhFV1hxeVdWUjlLdnR3eGZxeVk4b1ZsaC1tX2xocW41VWNObFFTUzktOTFlZXU1VFrSAd4BQVVfeXFMUExnbUVBaUdqUGw3RXdzcTVBcGkyUEtoOEhOTk1RdUlqeUpCSnZSX3NOejNhM3dwOWwzVXE5X3lVRjM4M3dMZmhDMDdPcEFNeHptUXItRVV0QnRkd1oxdEY3dGtRYnprTzNPNlFFZHdWakEwMC1mcHRuSVNvXy1rWl95ek5XcWg0djFFSFp5N0l5V3dqQWw1QUUwamFCTjhuMXEtR2dKcU81ZFZWNzNEUWR6YXNjZ2R0NldLRDF3cUphLUxXUUUtMGE1XzZFV3RjbTVGZmxXT291bXNkWVpR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Japanese companies warm up to employee stock incentives - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGRyeTdDYmV0bDJuNE5NNDJTMjZxYW9yT3JGNVFPcWJ6UDRlVmtyeGVxdFpuLWZJZF9BZXVRRDhHQzhLcFhXdlctVDRNdEFHQXd5ZW1rZ1JJSy1hM0JEYWJpS21FVXJRUEc0MUQzTUxzdmlWeVZ0RW55TE5GdEgzMWZfMjRBLXJvQ0ZpY3FlanR0R3loaHZ3RGk1RnBJOTVQc0t3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan Airlines takes step towards $8 billion IPO, re-listing: sources - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWcwZTJaZFZfZWJwanNBQkljNjR5QnN0TGRhajdidEMzN09vdzNhbEdhSEJFYjVkUzdfekxiVXhfa3BLRkdtNFNDcmhaUVY5d195ODZ5dkhqSVRhVVFPV1pTSUNkOHZOMllHdmR4cFVBWWFnTzZQVG9Pd1ltaUdadGJyZmFBTVAwaFI0RUxYbmlzUTYwSDhqV1NvTnJQcC1hSkpCUFBKYXJMRVdiWHdwZXlxOVdGQkczM0dWekkzRQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2924.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2916.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2882.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2896.5
-      },
       {
         "date": "2024-12-06",
         "price": 2916.5
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 2842.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2845.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2841.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2863.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2881.0
       }
     ],
     "current_price_data": {
-      "price": 2842.0,
-      "change": -15.0,
-      "percent_change": -0.53
+      "price": 2881.0,
+      "change": 18.0,
+      "percent_change": 0.63
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se de l'actualit\u00e9 \u00e9conomique :\n\nLes trois titres \u00e9tudi\u00e9s, ANA Holdings Inc. (TSE:9202), les soci\u00e9t\u00e9s japonaises qui se warm-up aux incentifs en actions pour leurs employ\u00e9s, et Japan Airlines qui pr\u00e9pare un IPO de 8 milliards de dollars, sont tous li\u00e9s aux tendances positives dans le march\u00e9 japonais.\n\nLa performance de ANA Holdings Inc. a besoin de nouvelles forces pour \u00e9voluer, en tant que ses actions ne sont pas encore en plein essor. Les soci\u00e9t\u00e9s japonaises ont commenc\u00e9 \u00e0 s'int\u00e9resser aux incentifs en actions pour leurs employ\u00e9s",
-    "sentiment_score": 0.333,
-    "label": "POSITIVE",
-    "positive_ratio": 0.33,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

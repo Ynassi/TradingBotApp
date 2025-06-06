@@ -2,55 +2,163 @@
   "ticker": "YUM",
   "name": "Yum! Brands",
   "sector": "Consumer Discretionary",
-  "market_cap": 40236822528.0,
+  "market_cap": 39732318208.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 28.835659,
-    "PB": -5.156562,
-    "EV_Revenue": 6.672,
+    "PE": 28.417494,
+    "PB": -5.0919065,
+    "EV_Revenue": 6.675,
     "ROE": 0.317925,
     "ProfitMargin": 0.18416001,
     "GrossMargin": 0.46795,
-    "DividendYield": 1.97
+    "DividendYield": 1.97,
+    "DebtEquity": null,
+    "CurrentRatio": 1.403,
+    "QuickRatio": 1.111,
+    "FreeCashFlow": 1278625024,
+    "OperatingCashFlow": 1730000000,
+    "FCF_Margin": 0.1652397318623269,
+    "ROA": 0.24858,
+    "PEG": null,
+    "EV_EBITDA": 18.802,
+    "BuybackYield": null,
+    "PriceToFCF": 31.061209150869864
   },
   "technical_indicators": {
-    "RSI_14": 45.97557154580402,
-    "Momentum_10": -1.745686113265953,
-    "MACD": -0.8905656190632953,
-    "BB_Percent": 0.3340935367580447,
+    "RSI_14": 39.46812764781731,
+    "Momentum_10": -2.1447408433784396,
+    "MACD": -1.018239563695687,
+    "BB_Percent": 0.0944154864373236,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8816742295567286,
+    "ValueScore": 0.8787066949713284,
     "QualityScore": 0.4078153259130165,
-    "SignalScore": 0.6517057474132826
+    "SignalScore": 0.6622380808236028
   },
-  "volatility": 0.0167565266614366,
+  "volatility": 0.0167502582710137,
   "beta": 0.736,
-  "return_6m": 0.0512296176455921,
+  "return_6m": 0.0448124126763858,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 24,
     "target_mean_price": 158.38834
   },
+  "news_sentiment": {
+    "summary": "Yum! Brands se trouve au cœur de plusieurs événements marquants récemment. La société a intenté une action en justice contre l'IRS concernant une taxe de réalignement de 4 milliards de dollars, tout en bénéficiant d'une mise à niveau de sa recommandation par Goldman Sachs à l'achat avec un maintien de son objectif de cours. Malgré des résultats mitigés avec des ventes en baisse chez Pizza Hut, Yum! Brands est soutenu par des analystes prévoyant une croissance de 16% grâce à une expansion des unités et des investissements en intelligence artificielle. Ces développements ont entraîné une réaction positive sur le marché, avec une tendance haussière du cours de l'action.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Yum! Brands Sues IRS Over $4 Billion Realignment Tax Bill (1) - news.bloombergtax.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTUplWVd6ZVhrVUFxX2VjODBkdks4MDJlZUtGZi01aExacGdlTlBkOGJqVUNlZm9tVC1YaW4wWkNBVEpLX2tFWnN5SEdmVUxsNGxPWjh1WW5FZEpqSkQwU0VOcjZ5OVRoU0dDeXJlZEZtMjlKbU4zOGNnSmNhbnVPcEdqQzY0NFA5NGYzX3M5WnA4M2QtUGEzSmNGY0xXTXYxUkNUU1FiX0lkVjQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KFC Brings Back Fan-Favorite Fill Ups at $7: F1 Movie Partnership Adds Racing Thrills to Value Meals - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTJhWER4bEhGcktmQXlyZnJZY0FrU1ROUG85WU1NWUJNREN4Qzg5a0xqWTJ4azNzc09XMHAydkswZ1BMa01peEl1R3ZxMmRyeUF0YXlBdnpZdVJrT2ZRTGpZdGlnZDBRcjRfR3RHR3ZpM1VxelNOb3N2Rld3dWlfLVBqMF9paDJ1XzM5RktXNVlodDJraFhWN0FvQjZneWVrcHp5ZDRkaVJlWWJJakNEUEJxa3ZoUVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rep. Robert Bresnahan, Jr. Sells Yum! Brands, Inc. (NYSE:YUM) Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdXp6SS1ZNF94MzVhMGN5Y1o1anBYQy1WU0txNFdGUFhBTnFOVDBzVnhpS29iUjhQSFlBTEJyQkxnRE9RajhVVFlnOURVcXFiRUVSWVVMdTRnUWdpR1BqSVNUMjc0aUdjRllMMVAxQ1hvN25DeVc3bFlzaDdEaFhmdDIwMC1jMmNhTDZxOXFsWXc0bExQODRqYW1oWkhtVHROSFAtdDFDVnhVejJMclVYQkRyNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum! Brands Takes IRS To Court Over $4 Billion Tax Bill - Finimize",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXNTeG5tbGM3anBqWGNZRHFORTFhNV83eXVvY1M0ZzZxQVJqcE9RTmY4WlZ1c0NxeVRlcUktTUMzVmlTWWlzWmZaZmNIeUZfd0M0elVlV2NnX1F4ZTBUdUV5TUNyOHVEZGljbC1vNE1iOEFfdDREb0pDVWZ0aURkRlRlR25rel9jWEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Goldman Sachs Upgrades Yum! Brands (YUM) Stock to Buy, Maintains PT - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM3Z0c2I3NkUxeW1tdHZMZ1Y2MEY1WTZfV1pmbmZmYklvc25QTTZyMk9qZkM5X3dQRlRiclcwOEhkemdwZHNWd0ZOSTlvR2Z5X1JMTjhDZGdFRm13MnV3OVNpajBIMWFHa212SzVndkJZU3VuOGRMVG1SQksyY08wVUFXVzR1c1FialRDYmVmelFKX1kzR3dtYnF3Tl9seHVTSGc5c05OSWloQ0YySFFiY1RkUVdrTDZj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Yum! Brands Tipped For 16% Upside As Analyst Points To Strong Unit Growth, AI Investment - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84QVNfRjR5TnRGcnp6enJQU3R6X29BYklQbTdhb01HSWVoLVNiSUpRc2prWm11LW9JdExSaU55dS11cjQ5MXhWeFM3dWR4UUZWaFZXSjhSaFhUVm1DTDBjSUNHWEwtQ2RaSXNMVlJSTzdmNHRVSEd5RTJxc19SZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Yum! Brands Sues IRS to Block $4 Billion Tax Bill on 2014 Reorganization - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUGxabUpXT2JUc1VfRllLenJzam5rRm9SQTBrQThkR0sxRndVMGFhNzl5b05wbXp3Wm9teG1abjlvNjRFbUV2ZXdLWUhWLXh3LU1SOHRvUGJ4Q284N1BCYXdIWWItQWRBbkJhZlhkdkg2STNwMlJHd1lQUmVLTENrTXRGaDd4VkVHNUt6VzlPMy1rWmRkdXhmV3BDbnQxeFZhUm9Ic25VTE04bWFKS3g5a1NENVNuLXVYSTRaZmRXUXZjbi1FaFYzYzVQcFpDX0c2OGVBdk5xWWpKZVlLNTdseGxxNHBhaWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "YUM Challenges IRS Over $4 Billion Tax Dispute in Court | YUM St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWxpTDRHam1ZV3Fvcm1pLUM1dnVBRi1qSHRGc1gzbGU1eTV4c2Y4a3Y5YWg5Y1MzeWNmcFJNc295UXlDankwSHhoWUVuUWQ3ZnU0NUFhS0trZmZ4TUFWdG5RYUt0UUlNaFFBUjZqR2VrdUxmRzNGQmdfdVc3ZkZMY2lDU1paeWl1TmlvZ19DVVhXSk5ldHJ3bHdTSWk1MXh5QTYzSGhoYW9DMkZ1?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Yum Brands revenue misses as Pizza Hut's same-store sales fall 2% - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rQTBZdU1jUUJlZkZQVEpxOUhKNnhWLW5oeUhBQU1pRjBEUDgtckhLSU9nc0xGN1F2YS1YVVFQdzRSa3E1bFJ5cmh5MENIeXFBNDEyWHRoRkVLRmJYWUY3QkpkaF9mUVdSMXkyN1FBQjkzc3lvYmJz0gF8QVVfeXFMTUZXUW1yYU5uVHBHQ0V4RlFCZDBpVXBBcDBXdUxYX1R5QzM0NFd5MVlrS241T3o5YmtMWUg3SzlreTJUTVRWMS1SbmFzdjhNV1QzZkZ1c2NxaTJkWDFGWjNxNTZlRmFEcmdGRjNRVjhsc0ZlQ1p0ejl3YTRwLQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fast Food Stock Flashing Surefire Bull Signal - Schaeffer's Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHVNczBPd0NaTk4yQkJkWDVqNHlHYnUwSk1nVVJLX2dHaTloMzk3QS11WWs0MG1HV2ZQTW5UY0V4Vzh1dTc1VHByTUtual9TR0VEaU9KdlBiZGpZYmFNX0l1Vk9rQzZQWFZkZzA1ZUFkZlpEVXZXdG9zdGQxM2NqaHA3bWlrWVpqOVhkRWVCTEk2UE1YX1ZzdExSLU1tUDR5cVd0S3hjZ3dxTkZf?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eerily Familiar Pattern Forming in Yum Brands Stock - EWM Interactive",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWFNaEUwTnBER3ppUnJIay0wTEtucVBVS1dBZW9zcmxFc25rYXBLRU51c3dSc1RwT19MXzJQTFRCWEhucVZMaGZwZGFvM3RkXzIyTnZlajFiVExKWEc5RHkyRUEwRU1ITkM2RDNGU1ZnUUp3LUl4NmVqUmhneHFSRA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum! Brands (NYSE:YUM) Stock Rating Upgraded by The Goldman Sachs Group - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkd2ZC1WMmc2ZEpmS2t5QllpeTFFMTRnRmJfcHdVQkMxZEpkOHk3eXRkeUZLX1NBYzB6RmpBQWpHTFg4Q1ExeWRrTnpaeHFMdzNUWVI5eFZPbkpCUnN5Njh5ZlBMUGpGWHVPQVpQdHoxaTQ3Ty1FMWxFMzFNOUJJRklqYVFSaU5HV3BmYkdDQ21hRkdpeC1wSi13ZVcwZVFkTVE2YWM5OTVNNVo2VFdHYkxWdjNGRmJKYkdXak5R?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Race Into Flavor: KFC's Iconic Fill Ups Return Alongside Finger Lickin' Good Collab with F1® THE MOVIE | YUM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZGNDcUVGYUFiYjl5Zks5N2VkUVpsSURRNFRZSXFlbXBXUFV3VVE2THdPU0w2YmpvcTAxNENSVmd4NDVzb2FhZFFyLWJXVU56YVdJZEFwdldrb1dDUFJ1MUtfTklhOC10eDRFZFNMQWl2ZTVrWmtjY3VIWlV3S1h5ZlBXRFpnUW83aGZFenFkMjZUS0tBUGZTdVZNVDhRc3RYZVZmYUx5MnEwYUczMEZwVmN0T2FwQi1vbEhMUlJJNFN2RUpJX3Rqdms0Q2J6UEZSSS1malRXU1h1WlBwbUlqVXI2bjdEelU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum! Brands, Inc. (NYSE:YUM) Shares Sold by American National Bank & Trust - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGFuZkZlY0J6UVFwZUlWR190VnFkYlg1YVIwVWNkMDVaV0FUdmJ1bzZZMWIyc1dJUEowYk5IY2NmU0laNF95QzNWMmtWbzV0TjMyU2xOZVZJTU9fZU16bjNkdDExZ1lseHBpOXphdkpUYlhJcDF1OV9oZzZfbE1yMXgzeDQ5OGdENFJMV01DSEVyV3FuSXU5SWRUUjRkd3E1VkJGcExiSG9oYXdEM3BlYk9sZFNsYlFhMWZnRW4yNzN2WWZKUU1SSnQ1N2oyQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "YUM Stock Upgraded by Goldman Sachs for Strong Growth Prospects | YUM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEU4TThwZHFYSzlnT3YxNVY4MFp3R2hwNHpIT2N0bzk2bmlFYWNvUEJaRDhiV1Y3bk1MNGphdHJMbi00WUFfMGdYNHRHVlZQNkZTN0FaelRCN0NuclM0RUJCRzhsTjl4M2NmazVxd3MycG55Vk9CVTZEakxQdkNIZ3Vhdk45N3dzX3VWdnVDT1JyUlFuWXloMmRBbEYzb3hzWGNyWmpWWWl2enN3Skx5N1MzM2IzRXBXX0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum! Brands, Inc. (NYSE:YUM) Holdings Cut by Meyer Handelman Co. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkZaVWdjQVVHcGV3TlZXZF9jZDlBZ29Cb1JSVUZOUUtqdGtRZ0MxcUxnYmpoLS1NRjN1ZXl1MndzWENWcmpjREJlLU9GUWdFX05FSms0MHJ1VFNDYnRyVGp5Y180Nk9zOTdRa18zTHVqTmFIbS1oOHk5WU80Q1A3U1JDT1RGQzRvTjBISUNtM2d1NnZ0NFdhVDNTa0NfVmJ5QUpGU0IxQ1FHSUhPU1pqQmpVY1lyaHlJd09mUE4zeWo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Yum! Brands, Inc. (NYSE:YUM) CEO Sells $39,119.96 in Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM25KbGh4RzhQaG5wR1QzdzltdDF4MmROYkt2cFNGS3hhWGNVUDFDZVJaRDRPSmRKTDVzcEpyNlVfNkdhbFVfOWxrQXVaUzV0Z2VvNTctWkhHSmZqSWQ5dTdoMVhCR3hjNGZCOHpYT1lMMkYwNmhLVG11OFhJMUtrRjBhbXdYMzY1c2FqWC1hSzhkVDd4T1UyWVlXejRwSklXUzRtb1JR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Raises Stake in Yum! Brands, Inc. (NYSE:YUM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFRrQ3J5Q21kUzMtbnBjU21FOGltbW1wY3ZING91NlZYNjFqUWswWXhtMWR0QUtuaEhxUVQ2QVlsdkhDOXB2Rkk5TG55Mmd6MlF3emdRMlJDLTRIYVJsTU8ybXU0Rnk2X2pTT2doRElTaXRWcGl0amg4aHBtZDY0cllSemVfNlpvMUx4OTFUeVNCLVVRV2VSakdISU95aC1kbWRnQjA4bHRlU1VGb0JFY0tFMjhqZ1RHckxFNHZ0NFNYbDJxRlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Q1 Earnings Outperformers: Yum! Brands (NYSE:YUM) And The Rest Of The Traditional Fast Food Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX1YybXNXdWh2U0VXTXBQMXA4RjliMWM1eF9wUWg5UHZFa05uTXVtcE51QVpCUXoyV2VLUmdTdVNVT2VnYnUxMkF5V2VudHN1TnZMb25UcldPN1ZtVjRqOVBjazM1NXhRbm9vX2ZKZHZNRzBjRDdPVjc4VFN0MFplZHQ3M3dSWWxEYlE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Yum! Brands gains after Goldman Sachs turns bullish (YUM:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaktmaWVNVTV5MHl2TFkyTzRvUmRZRTItMUd3ak0wS1IwYXNmNWwxWnF1dy10QzR0dHJiMWllN2VMZDBkVFl0elpWVWkwLWFCWDFId0pKdG5aYTlMUDZmODVuOXNUeHVSWk81eDdVRHBiWHNGb3VncGFwQS1PWGMwZDVJV18tanFfaWQ5ZnRaS21RZw?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 139.03
-      },
-      {
-        "date": "2024-12-03",
-        "price": 137.72
-      },
-      {
-        "date": "2024-12-04",
-        "price": 138.16
-      },
-      {
-        "date": "2024-12-05",
-        "price": 138.13
-      },
       {
         "date": "2024-12-06",
         "price": 137.63
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 144.49
+        "price": 144.63
+      },
+      {
+        "date": "2025-06-03",
+        "price": 143.97
+      },
+      {
+        "date": "2025-06-04",
+        "price": 144.01
+      },
+      {
+        "date": "2025-06-05",
+        "price": 142.88
       }
     ],
     "current_price_data": {
-      "price": 144.49,
-      "change": 0.57,
-      "percent_change": 0.4
+      "price": 142.88,
+      "change": -1.12,
+      "percent_change": -0.78
     }
-  },
-  "news_sentiment": {
-    "summary": "Yum Brands, Inc. (NYSE:YUM) has recently experienced a decline in same-store sales at Pizza Hut and a miss in revenue, leading to a 2% drop in their revenue. However, despite this, Yum Brands continues to see themselves as a growth company and is open to more acquisitions. Rhumbline Advisers has boosted their stock position in Yum, while GAMMA Investing LLC has also increased their holdings. Despite these positive developments, Yum Brands is still down 3.1% since their last earnings report. Overall, the outlook for Yum Brands seems mixed, with both positive and negative signals.",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

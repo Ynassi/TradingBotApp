@@ -2,55 +2,163 @@
   "ticker": "TSN",
   "name": "Tyson Foods",
   "sector": "Consumer Staples",
-  "market_cap": 19959789568.0,
+  "market_cap": 19687270400.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.801556,
-    "PB": 1.0847805,
-    "EV_Revenue": 0.526,
+    "PE": 21.503891,
+    "PB": 1.0699695,
+    "EV_Revenue": 0.522,
     "ROE": 0.051149998,
     "ProfitMargin": 0.01705,
     "GrossMargin": 0.07871,
-    "DividendYield": 3.56
+    "DividendYield": 3.6,
+    "DebtEquity": 48.934,
+    "CurrentRatio": 1.669,
+    "QuickRatio": 0.616,
+    "FreeCashFlow": 1389500032,
+    "OperatingCashFlow": 2259000064,
+    "FCF_Margin": 0.025916254602890845,
+    "ROA": 0.03666,
+    "PEG": null,
+    "EV_EBITDA": 8.026,
+    "BuybackYield": null,
+    "PriceToFCF": 14.162191610514478
   },
   "technical_indicators": {
-    "RSI_14": 47.54041343151487,
-    "Momentum_10": 1.2416604076433753,
-    "MACD": -0.7553341069744945,
-    "BB_Percent": 0.8600536872391854,
+    "RSI_14": 41.93541888834125,
+    "Momentum_10": -1.1885456088878237,
+    "MACD": -0.6463753919685118,
+    "BB_Percent": 0.3826608893761158,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8984273163118469,
+    "ValueScore": 0.8956558697223651,
     "QualityScore": 0.3355574426673953,
-    "SignalScore": 0.6237411120691163
+    "SignalScore": 0.6434113645456638
   },
-  "volatility": 0.0152992566710342,
+  "volatility": 0.015297213718682,
   "beta": 0.585,
-  "return_6m": -0.1140661150703955,
+  "return_6m": -0.1173826487571281,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
     "target_mean_price": 66.10077
   },
+  "news_sentiment": {
+    "summary": "Tyson Foods (NYSE:TSN) a récemment annoncé une expansion de sa gamme Wright Brand avec de nouveaux saucisses premium, suscitant un intérêt croissant des investisseurs. Malgré une baisse des ventes et des prévisions décevantes, la société maintient un dividende trimestriel et continue d'attirer des investisseurs institutionnels tels que Versant Capital Management et Summit Global Investments. Le titre TSN a connu une volatilité récente, avec des mouvements en baisse et en hausse, reflétant l'incertitude du marché concernant la performance future de l'entreprise.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Tyson (TSN) Up 0.1% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xckdmZUZ3RjRhYmVadVQzYnJGS3N3OHdkM0poMHBtOGlNcW9KZWwxUGFUNHVHWmdQUnIzVjE4MzZTSndRNFhMNGI4WWNKY2o0MTZ3SHZrd0poY0hybHhvaTVYc1g1c0s5SHgwNnRoaUs4V0k?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $29.46 Million Position in Tyson Foods, Inc. (NYSE:TSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVTFtbHhqYkVXUGJPV3JkcWpHTTNJVFU5T3R4VF9OemF3VHJLZ3FiVFg1VWwtcEdscmlXWUJYZmd2UF9JREJZV0IxMWh0RGw1SkxBeDV0by1ZOFRobmhObWZEa0R2N1J3WXh2U0NoZ213Nm5BV0cyQko5M1pNQWhNVjg2dldXWXcxeUMxUDVrODdCdGlQRmFwOW53ZFFvTlJGMkF0b2U5RTdRQ2M2OWN0MEE3VmRwUU9aOEZTcS0wZEJnQU1pM3Q1VmV5Z0Jhdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyson Foods Stock Outlook: Is Wall Street Bullish or Bearish? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDRUV0JvNlM0T0RnT1plT3hKUkhWVTBVR2FOSmhMLVhRMkJGWjRCVWdoUTBfUnZSWXZscFZrUnQtWV9FVVFaNWdRNnd4dEMxY1VzUFNCdlhUNHJlS085SkliQ2l6Y3p4UldLT0hEUzRzbjdOUmwtYnB2V1RTOEo0cGdFcVloVnp3bmlLNnhpT1dJUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyson Foods (NYSE:TSN) Expands Wright Brand With Bold New Premium Sausage Links - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWpNNkNBY2dJOGpBMXVKQ2pjM1U2R08yaDdvc1VOQUp4V1gxQlhmZldfNl8xYTVGR1hYaXpPLUJwbG9aTnVNZm5GTTNONzFJVGlfcHRoSkREOVZObHl6RTBQNl9Fa1dwb0s5MWNkUGFYUXZUVWlLM3Q5N2NUZFhKNlFBSHAzUXg5Rkh3TjB4dmNzMWVuNTUtMmpPUHJBMUJJY1ZYODlmbUxWLW5vTk5raUVNbklqZDBYaV8wYTBpNXRwdE9BblAyRmdsNy1vMHc3Y1BRazZnc9IB3AFBVV95cUxOZ09LcnNpN2Y5X3ZMWWdoQXdsQ3dCU0N0QkdfUmVtekItUWhxZERmOWotWjdMWDdGNENVTHB2V0tpNDRvOEo5RWx1aHZUNWhjSnRjenE1bGJZZVBrR0lOVGZTTmVLelJYWm5MV3laclZibTg1QWoxS2R4akZxVlA3dEVtYlhqTDhrdzRZcGNlV2lxNW5UZ1NwQXlMWHVxQWZDQ2VHMUFXOGlfSmhJLUdLemY2V251Zi1XMkU4RHRKWFhnN1EwNGhhR3ZGcFJ1TjR0b2ZHdHhiM2JrNFFk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tyson Foods (TSN) Unveils New Wright Brand Premium Sausage Links | TSN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjNaZWZLN0xEWG44cUpsZUlJcHlpaFcycTgxMFl5ZlBONkI1dFRxTlp1ZS16Vk0tUDV5cHBDbDRhdVg2S25td2V5eldkSjAzdVFWUHBBcEhpVWJObXZsa2l1ZWhzWjBhTUg1Y1pNUFBkdXBDa21yWkdEM2o1cTBzMW1UczlXa0wwVzltX2NHbTdWQTRNYjlXNGpMMjdHUkpBYUlLZ1plbTU0R0lYUzNWb2dpeWFZMElBTFNlRkdDc3hPRnZsQVJoSk9BRHNaZHltSkNBdnVMM3NxOVhnek5IbzIwMWFpZ0tkSlVHN3J4a18wN3lHZmRtTllGVTZDX0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyson Foods Announces Quarterly Dividend - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZU1UTHN0c2FReVF1VjQzZU43ZEZNRGRSNDAzRHVfTWlwNktQemVDalA3eGZWZU5EY21raFd0bkdxX3VvM2Q1bFdwSlRFLW9QeEIxNUg4OVlVSVJNYXgwTW9naWRkTTg4WnYxZmVOeHg1bU45SmEtTnRveVI0eHBzbXBhTFdEblMtczVkZy1R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyson Stock Slumps as Sales Miss Estimates, Outlook Disappoints - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEFXcXF4NnMtYVBwNFVJNE1Ga1F6dlc0UjZqOWNtWnAzSmp2dmNTekxGLXlwTzJfOS1lRmJrcGhSZXdKYnJsQVg0cTBlc0I3NEx0U1Y1S045T1dyVVJZWTI1ZC16WHowbi1XUHFXRU1sbExmNXI3VVZrbkRyNXJzeDQyejNQUXBMMUtvZm40elBhWHIxSDQzbTdLbHhVRlRDaGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Versant Capital Management Inc Buys 6,178 Shares of Tyson Foods, Inc. (NYSE:TSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbWVFd1lpQWZPMDVFZnRmRGYxV2FxdTRNc1FvZENEeGFHc2JLYnN4Um5ETXdBUUwwNUFRQ0dVVkkxejB6V2RBOVh5V0lqLVh5amd4aXNQMnNHOUJuSWtCYlpEUkxUN0JFcm44N1N3d1Fzbk5QY1lRZmt0SElEYzJjOFpITk1Oa0QxMlRLWXc5XzJYWkg0WWxOUHlWUlQzSml4MExhck5NOEVzZDJpVkVCY3JURnZPMmpoaGNBSHdmVEJuY0Y5aUhYVDdQcEFfaENKZzZkdkpCazg0OVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyson Foods (TSN) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TLUpGSmRZNHZLbXpKSk9acFg3MVZuMU13SHFaanQtVGtpbkNtTnJIaEVLTTFhSjdxdG8yZlU1cnRGUkl2Q0JHUExXcXhEMHBQRWNSTjFDdUEtMnhVaGJzTWNDYkdROG10dGpGS2dleFZJSEZrOXVRa1ZOZUx5QQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Summit Global Investments Increases Stock Holdings in Tyson Foods, Inc. (NYSE:TSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMzNHdURuRXQyQVEwWDFrWG9KdXVQaUU1SElFNWtETXpKWGZxOE1KX0gza0FCOXp3OS0wNmN2b3Nrd3JuR0Vhd0NkMnZPNXVTeXBEb1YwTGh4eFVsRkhXOFpiVVFSYWhMaGhlY2xoakMxNldPR2ZQNkdFaUx5YXFDMnFBamxLZVRvOTJmS3pQSU5JM3pIRGlQZDJQandOdzBjNGxGQ2pSVTI4bV9BYjhKVkEwOU1nWVlrOUk4WUJhM0NXMG0xemRlYVpEdTYzUWtNU1ZOMw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tyson Foods (TSN) Stock Moves -1%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MelRQd2pBOEVkSFNXSjAxeDl4MnBxdnE2RUhMald2Ui1fNEl0NGpaQ3pHT0hEeVZzSFV0QU53bzJXbno0UkJVLVZINlF1cXBRMkcxaEdfRHRnQ1RCVDhqb1gwV0h4alRxSnVUM2JFT21oN0ljOGJEckRPeTY5UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyson Foods, Inc. (NYSE:TSN) Position Increased by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0gxeTAyRmNaaVBsYWp0T1JHTFhUQ05fVTJQdF9fbEg1amFTTmF0RjlqSnlzN2l0bG5SOW5DQS05bHZjRmFMYVVwUFpWSUtuY3kxeVhUNmhERVA0aE4ySjBkQlZSVlM5dFdXXzgyOERMM0V5c3cwbFdWYVlHd3lJMUFxd3FTRHJTX2Fsb3VkMFdfbGRXR0tkaGdRRy12M2ZKd1pScGplRFFJQjdQYVBPLTRFdk9vdGxIbnA2VzNueFRnbFE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in Tyson Foods (TSN) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmtrbC1DaFBaeGY1eUIxYlJTUTNZOEhlTGNRZWdfcHZvOUlMbjlrb1RRWGpQSVFBeHViUmU2SU8tZjdMSFB0RmpUcHkxc2pzdGlRSk91TlA2ZUF4Z2ZMQ2F1c3ppbUJ6LXRiRFN6VW1qVG1nd2ZKdUtsc1p0RkNIb2JvMTNNcGlxXzJz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "24,875 Shares in Tyson Foods, Inc. (NYSE:TSN) Bought by 111 Capital - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNHh3Qm9RTzgwdHg3dUdyNmNJeUR1aWl3b0sySlhyd1g0RFVsTWd6V2hKMm42QkQwcGZBU3NjR25qdmJteE13UU0xOVVoLXEtaWZINU9QUkc1eTRKdFBGRWE1MFBJcHdTcnc3THZXa01leUNqN1VVVEdCa2JRUGtUckExWVRXNlJTWkxDajcyQWdFcndsa0pSSlpJZXVVS2dZRUFDRTBaekZpdkFGM0daMVN0RWRCUTRGc01B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Tyson Foods (TSN) Outpaced the Stock Market Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83WjlQS2FYU2EwWjNxM1NvWVdBNUhGS0NQQl90VGFINVpOVlhMOTk4LVkxNm5ZVkRQaHRlS2RpNk9haWd1WDk1VzJHdGVHSmw1UElza1FXSEFkV0czWEhxWDl5eE4yNnZjMVdwd0dkXzJzRnNIb3RIVG1qbXlDaG8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Shareholders Will Be Pleased With The Quality of Tyson Foods' (NYSE:TSN) Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGNWUHlZMWhOd192TjBYdWNFM3ZwT2xWdVh4ZFFYamE5bGN0LVZMVWR4RG9FYlg2NWFldHBUb2JIU0VrUlg2Wlc4cmJ6aVNheUxwd1hIMjVmYlZwcEVBNS1jejJxUFR1YVVqTGxfUllENURYal8ycDZrQU9HYl9VRUJFNElHZGhyUFlYY1Nocw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mackenzie Financial Corp Acquires 56,213 Shares of Tyson Foods, Inc. (NYSE:TSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRldTQmdNRS1jT1h4aTR5WGZjRmVCTVBvemVXTUlESmxGMXgxUWk2clRoVEl4NFd4T0tOS1c1ZmVNVC11NG5QRkhxQWpuVUhRb0RXb0NMRnQ4RVV5QW5UT2ZiWGFFQzFtU2ZRODlfNWtiUXBLWkNpb2xNN2VEN09aTHE0UXpWdU9DU09wZkxMT1oxMy1EcVlPb05lS1VDVEN4ZmYwWDdBNktDdHk4NFFDVGxHYU5yaDZnN051SGRZMHItYlJzTkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tyson Foods (TSN) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtdlRHNGVhNHM2T29fWUwyOEVVUUhKNU9xRUVsLVhwZlBoUml6cFkxZDNybGhfUHQxQ2l1blR4eGFPX3pHR0pqd3NGTld4T2lNVUdIMUpqcHAtV3ZlTGlLRVBlek9mVE9oWlMzTmNybTdiMF8weUQ1cFlLYk5xQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Centre Asset Management LLC Cuts Stock Position in Tyson Foods, Inc. (NYSE:TSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLV9qcHRpMjJnVU5aTnBTWGl4dmVCQmM5LTc4RTlZNVhhZk9ZYThXaDlxRElOdXFWQzhHREdwajRCRXoyX1hsQ1hhV253U0x6VVJjRkhJUkNWRDdLbmpyLUJGc01MRURZcTlZT0lPZ3BXTWNwSTh6ZHZ0NkVhV3RJRU1BaHNwSUdIOTI1REJrbk5YaFp6TTMxcDUxT1pjeGF1Vi1IN1lRTjljQVJTakxWS1lhWDB2VDZYNDdrWnFnWmd4Z3VzZ2VHNTAza254VG1heldsVGQ3bl8tOURObGEw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jefferies Financial Group Inc. Sells 16,939 Shares of Tyson Foods, Inc. (NYSE:TSN) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2hMVDRfOS1QQ0hJY3hBeElCNkI2WndDV3R2d1FyN21KN2s1VDg1cDYxNU1lVWlROHZ1d0FEY0FMaXhYQlpKc0NRVTRFSnAtRmNsaHFDc3lhRnZLb09ObnRnVzhXcFBrQ1hVTDhiMThpWGl6ajRReTdvcW1feGhYVjI5U2NKQUtyaXNxWFFYNUtPdHEzY0dBeUZ0R1pSSTd3ZmpsU3FCMEVYeFo2VEJEX1JNMThBLU11Sy1jMUt5OV90RFB2N000Ng?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 64.34
-      },
-      {
-        "date": "2024-12-03",
-        "price": 64.19
-      },
-      {
-        "date": "2024-12-04",
-        "price": 63.61
-      },
-      {
-        "date": "2024-12-05",
-        "price": 63.7
-      },
       {
         "date": "2024-12-06",
         "price": 62.64
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 55.99
+        "price": 56.16
+      },
+      {
+        "date": "2025-06-03",
+        "price": 55.79
+      },
+      {
+        "date": "2025-06-04",
+        "price": 55.62
+      },
+      {
+        "date": "2025-06-05",
+        "price": 55.24
       }
     ],
     "current_price_data": {
-      "price": 55.99,
-      "change": -0.17,
-      "percent_change": -0.3
+      "price": 55.24,
+      "change": -0.38,
+      "percent_change": -0.68
     }
-  },
-  "news_sentiment": {
-    "summary": "Tyson Foods (TSN) has recently announced the launch of its new premium sausage links, which have been met with positive feedback. However, the company has also faced some negative sentiment due to disappointing sales estimates and a lackluster outlook. Additionally, the company's mixed financials have also caused some concern among investors. Despite this, some investors have shown confidence in the company by purchasing its shares. Overall, while there are some mixed signals, Tyson Foods remains a viable investment opportunity for those willing to take on some risk.",
-    "sentiment_score": -0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

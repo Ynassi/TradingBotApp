@@ -2,55 +2,163 @@
   "ticker": "DAY",
   "name": "Dayforce",
   "sector": "Industrials",
-  "market_cap": 9297879040.0,
+  "market_cap": 9482542080.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 363.46875,
-    "PB": 3.5895932,
-    "EV_Revenue": 5.59,
+    "PE": 370.68753,
+    "PB": 3.660885,
+    "EV_Revenue": 5.662,
     "ROE": 0.01031,
     "ProfitMargin": 0.0143099995,
     "GrossMargin": 0.50345004,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 47.498,
+    "CurrentRatio": 1.021,
+    "QuickRatio": 0.137,
+    "FreeCashFlow": 267812496,
+    "OperatingCashFlow": 321600000,
+    "FCF_Margin": 0.1479381822161952,
+    "ROA": 0.00551,
+    "PEG": null,
+    "EV_EBITDA": 43.901,
+    "BuybackYield": null,
+    "PriceToFCF": 35.32978135568401
   },
   "technical_indicators": {
-    "RSI_14": 50.50015332372413,
-    "Momentum_10": -3.222310713035853,
-    "MACD": 0.2581613587200024,
-    "BB_Percent": 0.46232190449809,
+    "RSI_14": 53.427021586652984,
+    "Momentum_10": 2.7628152452936545,
+    "MACD": 0.4144500950986511,
+    "BB_Percent": 0.6357101176234846,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8300691362614766,
+    "ValueScore": 0.8269992052029632,
     "QualityScore": 0.3383206874498154,
-    "SignalScore": 0.6382694612829201
+    "SignalScore": 0.5593966639749961
   },
-  "volatility": 0.0267557331329907,
+  "volatility": 0.0265653162955698,
   "beta": 1.117,
-  "return_6m": -0.28547734100741,
+  "return_6m": -0.2318352276056615,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 18,
-    "target_mean_price": 67.07444
+    "target_mean_price": 67.29667
   },
+  "news_sentiment": {
+    "summary": "La semaine a été marquée par des mouvements volatils sur les marchés, avec des événements influençant le sentiment des investisseurs. Tesla a chuté de 14% suite à des tensions entre Trump et Musk, tandis que Dutch Bros a connu une croissance explosive de 64%. L'introduction en bourse de Circle a été un succès, avec une hausse spectaculaire de 167%, contrastant avec la chute de Nintendo Switch 2. Malgré des revers, MarketAxess, Tractor Supply Co., West Pharmaceutical, et AES Corporation ont surperformé, reflétant une certaine résilience face à la volatilité. Les investisseurs restent confiants, même si des signaux baissiers ont été observés chez Proficient et Constellation Brands.",
+    "sentiment_score": 0.25,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.5,
+    "neutral_ratio": 0.25,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "S&P 500 closes lower as Tesla shares tumble, traders weigh Trump-Xi talk: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zZUlHQXluVjhSTW5MYl9uVno0b2NSdS1oa1VtMDliMkZxM3VBSG4xMVhRX0VqOXZCdVdyYnZuM19Mb0ZMV0I1ZmhJSHc0VW1DUFUyYVNkblc1XzhlSXJtQUVOdHhvX0VxYVExOUNlTnRHMEFKbnVv0gF8QVVfeXFMTmpPSV95OU04bWtwM3gxQXIzTWRZNXJxVGtBM2hUbWNLWWx3WUxVUm1seDlMSFNVdXpydWJNeDFTSkY5MmxlS2VYZ0I0bnZaM3BtLXJkNnZYX2tUTWVmTWtUaXl3TDhhVkpTa2xlbmhtUTF1V1JkSm5xcDd2Uw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Circle IPO: Stock Jumps Nearly 170% in First Day of Trading - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZENNa3JTQlVxZVZURlkyc3U1bllJVUJfWHlVR2NxTXJlQ0ZXQ3B5cThtanZPOEhkejJZa0FUYm5tVWJCeXpwSjBZN2FKdF9pc25LOUE3ZkJkaFNBSTNGNmt6ZUxnLWVLRHBiNnE1ekhyWGxLc2poS08xRFhGcDFIVk51WDZUTDZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Circle stock price jumps 167% on first day of trading after IPO - Cointelegraph",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWhnbXMwTjBrZ3Q3Z1paaDlXUWxKS0dyaS1ScVJNclh3cEJIeWpkSGNiQ0JEOXZOaE9FZEpSRUJhRXFIWlBzSFMxdkJBWXExSFVKRUJzMHFFUnBEQXNMdEV4NGFvZDMyOFlMMGR6aHh4NDRxak1tekNKWGN3VXJyNGcyZXhkVWhOX3dOdldMVXh5VFVGRkdRbg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Trading Day: Trump-Musk feud slams stocks - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRE1KY243V044WFdaSU5xb1ZpWHAtaldNQ3hQMVJZVENMOGk1S2hReGpWS0hvY3VzNHJkQ1VKMndqQ0lleU0wWURJb3RhVHU5Q2NodzhENUtGQ0hFTTV5TEczTVZPRXVPb042SXFzdGxTTlhYY1loZzhrUlRSRGN0SzVHWkF0WjZ5VFVtanhmdVg0bmw3Q1VrajA4T1VkQldNNVpURGpScw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dutch Bros, Stock Of The Day, Breaks Out With Steaming-Hot 64% Growth Rate - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbnJwQ1g0REc3Y282ZGpmNnB5czRkUUdKNHE1ZVJobWFpLTVnVUVlRGdDVDdtU1BwWjNadldzMks3S1NhTlctVHZiQVc3Q0RaVzFPSkw4SUh0RkZqdVJsRUZIbzgwR3pFTGRIaTNYckpGc2NoNW5nalVtdVJGRS05dXdhdElia2Vrdktqenh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla Stock Drops 14% As Trump-Musk Relationship Appears To Unravel - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMk5SeGhIaHc4UTNieGl6SnEwSm0ybTgwckFIUTA0WWg0aGxjUURUNllDT28zRzc5ckI2cmp1UDVnWmR2bkRBNm9EalVYb0VKRUpwUDl4cXpsMmNZV3JfeEdQWWV2YkJ1YkNBdGZOQ3JDMTVMZnkxbXcxc1dYd29oekQ1M0F1ejFTaDRnYkRGUnVnUnRBV3lYUGNDTGNhNGVxNmx4ZG1wRElockRBdE1TbGFVYmc0UW56QVY0cHp4ZWJaNUFTLUFuWTlFYnBORnM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Circle surges 167% as traders pile into the stablecoin giant's stock-market debut - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHNPeXBYZ2RhNEpFcVI2ZGdvbjRVRUlEMVlobXkwbjY3ZG14LUx4TFk0cENNNmtmZGREMldMT2xxQXJ2cnEza1hfVEQyOE9OdUl0ZThtX1BBbkIwRmVGZ1VmejY1eGFZU2FjVGxPMXJTM0diakxJNWI1Nmh6Q0hkMEg4TzBKYkIzZ2hHeWZfcVpEWGZFZ2hUSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "MarketAxess Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVM2ZElxV2ZpTE5fZkdLM3ZfTjZGM2tXNDdGME5ITl9yb1J6VXg4RUVKVUVPN1BHbkliVGtDQ1p0eF9nMVNXaktOd1J2RC1WMG1QUTBvaXRWdGRoRGQ0bmZITU9uNlpWTWR0a1VYQ19vemh0bVhCUnZLQjMwWjZBNG4zTzNZMmZfYlUzUVVwSzUyLUhtSnRSeDBHQVBYaDB5a0JWcjk5Ym1ReTJxbVp0cUQ1b3NIWTdCVnlVSmZUenYzRVBBcWhEdjh4TDQtV2RObUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nintendo Switch 2 restocks live: Target and Best Buy in-store stock, UK consoles still available, and the latest where to buy info - TechRadar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUJudk81bndsMkNlY3lHb2d1UlRQTjVLbVdBbENIOWY0c0VudlFSY1NacGtSZXN3bVRwWGhBWkE4bUpfNE9ZTWxyZmZLTkE4V2w3ZnhvOHU2WXFXZEMzeTQyb05uelBBSFJ4YWJFN1FpUWRHX2tBOVp1cE5VN0xKZEN5WkF2cURVVGszS3hBM1Bpb3lGRnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street Still Loves This Stock--Even After It Crashed nearly 18% in a Day - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOEZPbE1kbVp1X2RUQW5JLVk4Mll6ZWNDS1RNeWZ3UE4yVGdVQzN5cHBFX0JUcnRUUE4tOVI4RmdXOGxISXZNWEMwcmhOSU5WU0hfVzRBdUZ5UENYOE5NN0xNVE1SWkVZcDR0UkszWGQ4cnNyYlZ6eW42eGNtWUg3cGQyYVY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Nintendo Switch 2 restocks live — where to buy now and latest launch day news - Tom's Guide",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNS14VVJRTlF0SzNnLUNxY1FiNlZGc3JVRFdsZC1wX3VuYmloMUFERlFqblg3WkI1ME5KVmlENmY1U3YtUGpFZGlOd2RyVHlfdW54ZFg5RHNyZ1dWMWVZdTNHSHpYUnhnOFZTSW8teXNuZWpRUUZhYVJPYldWUnVwR1ZUcDAyWnpEWTd4SzhLc20?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NRG is Trading Above 50 Day and 200 Day SMA: Time to Buy the Stock? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0xqWENOMEN6UmdGbTVxMVNRekVaanhhZjlzLTJneTg1amZ1cFZXZ1RlZVBZSnh5YUROemtmS0hYbUlPZVVXMnNzcEYyanJaN1d6RVFMM25XcVpQOFVfY0tFdDQ5M1FSWG1CNEZYOUI3R25NdzB1YlhMd1VmWlBRLXZPaVFpOVNIN3R5WFJRbkFveTA5VjMtVjlJNkttNURUMTRpTXVGRjh5MmQ2S3dEYmtRSUdodHRIZS1FQUxR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nintendo Switch 2 Restock - Where To Buy The Console On Launch Day - GameSpot",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZW9hd29KNlZNVmZaa3dDUzF0NktrXzhKV3ppZFFRNHpQTklUYWZ6WmNyOGtfckRjdEl0bGZESFdmX1pObHBlR3ZtV2pBTUhvMUlsaW5PTjRIdUVOaThZcWpBMTNaNm93aVNwU0Z6RllCMk9WSjVxMkdkZjdodlRpSmRZYXViWF94azRweGNxd0xESlhWV1cyWXREOFZWYkd2bGtWWjRDZVpZcXl0RUxWNWMtUzZDcHlTRFJSeWRFb3VFbzY0eGxfdHBGaFdvQWVyOTVaZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tractor Supply Co. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNzE2UXR0STFKS29pR0xqaTlmSFNfeXA5R3lMbU9XNXBuNmNlZEtjelQzelZNa216aXlKQXdIUFJrMVdGalVoMjJNU19vaFAxbEd4MEo3bDNORk52UEFUX1FVckpEV285Uzh5d0Y0dWtNaXBxZ3FuV3V4ZGlsdWZGaFU1eEtIVjlyNWtYM3R3MzFZM2UtaUNuaTFhT1hLU1lzTFlhRE91UThGLVpEQWhldGVJNFpSTmVLX3MtREdNTjNSYTdsNDg2Ng?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "One-day stock slide at Proficient may be tied to somewhat bearish investor presentation - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEZkRkJfeG9Rbm8tbjBfcUk1ZmgtMmNYdHVjNGhLZTdtdVhjUnctaFRFQXlXYmdfUnl1SlM4N0FiVU5oZHVWdmZnMW5OclFhZTVIQ1kxYlduajM5RWMwaTQ5b29zWW1icjhxa3VLOGppbktCeVk3QXQ1c2ExLTNSTGlR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dow falls, snapping four-day win streak, as soft payrolls report drags down sentiment: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPMHZsY1BydzYwWUgxZUVCSnpmYU1kdXFpSE0zNHJ2RXh2dUUtNGIyWnFvNWZVdXRoaUZ1aEJSaDl4T3pabXFKWW9SN0FDYjlwQU85Tkd5SFEtdExDdUk0bUZranNLdkJEWWsyUlFaYTdROFRQUHc40gF8QVVfeXFMTXhoT0tiWGJWQlB3N3NWZ3VJZG00UzJvNThEcFVSZW5uTkpUdjZ4OVdCSnBxZzVXbGdNbWZiQThhME5NUUc5dzdiQnl2SDczV2hmZGNRaDhTUWxSWXJZNi1zNTgwSWhJN3gydVNPbXcwVzZ1djMweVF2YXA4Rg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "West Pharmaceutical Services Inc. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbFVfNlMtR2F5WTRJVlJpeHg4SmYyeXdBM3lyYWxKRmJSZFc3VVV4QjNONHFqRVhQZWllM2l3d2ZrNTFKbFBUNkgzUW81UC16Z2dvR0VENGdWUFJ3VG5qOEQxbW9PckZFd3cwNE5MR0txc200TlhtOGpBekllOHNOM1VpRy1LbUtqcVU2SjN2VTFobjVCQ043MDNkM3BTLVhWQk9JcVRzSk1XdXU2U19ObHRMU1B4Nmc1VnhZT1ZKcV92cUtESkFKVTBLX3JZYzVkOURWOHA5X0NZUnp1?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AES Corp. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEJFTjMwVHB6ZDB1NzJJMzV4MWJFOTV1SzRhQTZERmVfX1BVMW1nVWVtM2JvLUZrci1fUXVyMHRZRF95MTRfeWw4UVQzcmdqekhJeFl5UGFxQWFjUkk5Q1hTbGlySjJtV3RVTUdZUnJaUS12b0licm93TG5ZMkVFSk9fbHZGdVV3UFFLNkFJMzMxdXpjWGs1aW9WekR6OEN4S1JBU2k4aTY3cXI1dUVFbUhtU0FCLVpoNE1Hdg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Constellation Brands Inc. Cl A stock outperforms competitors despite losses on the day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWs5aDJtcnc3dTVYeGxicjR1R1JMcUk2UGYxR1lPSHU4VDRaSXI1Rm5kSUQ3MlllZERFR1I3OUJ1Y0tWUHI5N1htdzBfMVNzMjl3VHhtMC0wZnZ4dndCNDNhSWZtcHNqb2N5YlVEaXVRNXVfT3dIOHpVcTlTZ1F3SHRzc2xHQ0NKcmRObk1ya3FZV1RYazlzWnI0M0ZkdHJoUDZsX1VKcXZ5M2hxTFlLLThzSkhRSFJCajBIcGtLdWJmYVhtVEtJLWFQN1lpR1ZPckRiLU4tc25lVEp6Qnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Trading Day: Teflon stocks glide higher - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakN4MV91ZDFfeE8xMl9vVEEzQmgtNGVmR1psX2Z3S1BRN1NiQTBlM0JrMTZFNm0zR1pOeTVZWTFKaXNXbGNvcm9kM1JueHF6a1A3em9nb1hHNVUtWXV5ZXI2azRXQU42aDdGTEVyN0htZnVNOFRic3o0VTV2bGpYVVpKdDJCLUtseW9JVjU4VQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 81.39
-      },
-      {
-        "date": "2024-12-03",
-        "price": 80.49
-      },
-      {
-        "date": "2024-12-04",
-        "price": 80.71
-      },
-      {
-        "date": "2024-12-05",
-        "price": 77.21
-      },
       {
         "date": "2024-12-06",
         "price": 78.56
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 58.04
+        "price": 58.23
+      },
+      {
+        "date": "2025-06-03",
+        "price": 58.94
+      },
+      {
+        "date": "2025-06-04",
+        "price": 59.9
+      },
+      {
+        "date": "2025-06-05",
+        "price": 59.18
       }
     ],
     "current_price_data": {
-      "price": 58.04,
-      "change": -1.02,
-      "percent_change": -1.73
+      "price": 59.18,
+      "change": -0.72,
+      "percent_change": -1.2
     }
-  },
-  "news_sentiment": {
-    "summary": "\ud83c\udfaf R\u00e9sum\u00e9 courte :\n\nLes titres d'actualit\u00e9s r\u00e9centes concernant des entreprises cot\u00e9es couvrent une gamme d'\u00e9v\u00e9nements positifs, n\u00e9gatifs et mixtes. Les investisseurs francophones peuvent se concentrer sur les titres qui ont fait ressortir des signaux forts, notamment le stock d'hVIVO qui a fait un rebond apr\u00e8s une chute de 46%, le stock de Vistra Corp. qui a outperm\u00e9 ses concurrents et le stock de Nintendo Switch 2 qui a vu son prix baisser pour la premi\u00e8re fois avant le jour de P\u00e8re No\u00ebl. Les investisseurs francoph",
-    "sentiment_score": 0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

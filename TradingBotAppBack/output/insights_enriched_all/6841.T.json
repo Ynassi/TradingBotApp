@@ -2,55 +2,68 @@
   "ticker": "6841.T",
   "name": "Yokogawa Electric",
   "sector": "Information Technology",
-  "market_cap": 904618967040.0,
+  "market_cap": 906666639360.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.542116,
-    "PB": 1.9531175,
-    "EV_Revenue": 1.372,
+    "PE": 17.574667,
+    "PB": 1.9437115,
+    "EV_Revenue": 1.356,
     "ROE": 0.11995,
     "ProfitMargin": 0.09268,
     "GrossMargin": 0.47554,
-    "DividendYield": 1.8
+    "DividendYield": 1.81,
+    "DebtEquity": 7.158,
+    "CurrentRatio": 2.509,
+    "QuickRatio": 2.136,
+    "FreeCashFlow": 66537750528,
+    "OperatingCashFlow": 99025002496,
+    "FCF_Margin": 0.1183095258182503,
+    "ROA": 0.075050004,
+    "PEG": null,
+    "EV_EBITDA": 7.167,
+    "BuybackYield": null,
+    "PriceToFCF": 13.626349435700599
   },
   "technical_indicators": {
-    "RSI_14": 64.86901059475488,
-    "Momentum_10": 6.646525679758309,
-    "MACD": 132.898993373557,
-    "BB_Percent": 0.7170044963322197,
+    "RSI_14": 62.43985541594533,
+    "Momentum_10": 0.7456266131344996,
+    "MACD": 112.98223446355496,
+    "BB_Percent": 0.6328693276856253,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8961205886450083,
+    "ValueScore": 0.8932831338489767,
     "QualityScore": 0.4069118201872989,
-    "SignalScore": 0.4768024028038025
+    "SignalScore": 0.5093371917094374
   },
-  "volatility": 0.0254743745005136,
+  "volatility": 0.0253356018160877,
   "beta": 0.614,
-  "return_6m": 0.0435227437738148,
+  "return_6m": 0.0185146477351303,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 7,
-    "target_mean_price": 4180.0
+    "analyst_count": 8,
+    "target_mean_price": 4137.5
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Yokogawa Electric Corporation (TSE:6841) a récemment fait l'objet d'une estimation de sa juste valeur par simplywall.st. Cette analyse fondamentale peut fournir des indications importantes aux investisseurs sur la valorisation actuelle de la société. Il est recommandé aux investisseurs francophones de suivre de près ces évaluations pour prendre des décisions éclairées en matière d'investissement. Cette nouvelle peut potentiellement influencer le sentiment de marché entourant Yokogawa Electric Corporation.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Estimating The Fair Value Of Yokogawa Electric Corporation (TSE:6841) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUGMxVWhlYjIyaVprTm5qaVl2bTM0M3FWRElhOGRSOWkxT1dhMUJndHJLQWxPRjRfdlpnS1BOcDhvX3Y4b2U4dlIyWkdrN1g1Z0h5RHY5VjdJMXVnLWloV0dKWWtpMUN0Yk50YnhFWFpFMkkzUnlYUERSRE1EQy0tM3dFYkw0WW90NzNaUVNwTmRzYktsS05QaTNMdDZBRFl6UEtiempGMVlWY09tdkg1YnU1UFhvN0RSNzVEU043ZXhUN2pTank3MUhaWk02bmJyUDZVctIB2gFBVV95cUxQYzhlMlh3Q1ppeWJvUGIzSTRsUzBFUVVKc2RMYzc2LWNHb2NFdkNvaFU5ZFd5OWlFYmtZSkctODJaN2J6amdIc2QtX01qN0lKX3JTMWthY19GVlI5dEl4bkZUc3lac21nNllPOWp0Mm1nYmVEcWZQQVd1RDJsUklObmJXeUNSSkZNZ3VPQktsYTBEZFoxWWtfV0h2Rl9uSTZocEFldWJjX0o2Q2R6WEJndlhhdGJjRkFyQjZCM2I0cnVCX2g4WDN2MmVGbDhtWkl6cUtZYU9VOWx4QQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3415.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3497.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3445.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3482.0
-      },
       {
         "date": "2024-12-06",
         "price": 3493.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 3530.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3535.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3538.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3513.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3549.0
       }
     ],
     "current_price_data": {
-      "price": 3530.0,
-      "change": -19.0,
-      "percent_change": -0.54
+      "price": 3549.0,
+      "change": 36.0,
+      "percent_change": 1.02
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nLe r\u00e9seau industriel est en plein essai avec les nouvelles technologies d\u2019automatisation qui permettent de s\u2019affranchir des d\u00e9p\u00f4ts \u00e9nerg\u00e9tiques et de la main-d'\u0153uvre. Yokogawa Electric Corporation (TSE:6841) est l\u2019un des acteurs majeurs de ce march\u00e9, avec des possibilit\u00e9s de croissance potentielles. La valeur intrinsique de l\u2019entreprise est estim\u00e9e \u00e0 1 148 millions de dollars en raison de sa position de leader dans la technologie de contr\u00f4le industriel. Cependant, la croissance potentielle du march\u00e9 est susceptible d\u2019\u00eatre limit\u00e9e",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

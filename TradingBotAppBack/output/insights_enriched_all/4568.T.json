@@ -2,55 +2,88 @@
   "ticker": "4568.T",
   "name": "Daiichi Sankyo",
   "sector": "Health Care",
-  "market_cap": 7107643441152.0,
+  "market_cap": 6884113776640.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 24.463106,
-    "PB": 4.3877554,
-    "EV_Revenue": 3.517,
+    "PE": 22.778635,
+    "PB": 4.0796003,
+    "EV_Revenue": 3.226,
     "ROE": 0.17860001,
     "ProfitMargin": 0.1568,
     "GrossMargin": 0.77956,
-    "DividendYield": 2.03
+    "DividendYield": 2.2,
+    "DebtEquity": 6.242,
+    "CurrentRatio": 2.532,
+    "QuickRatio": 1.67,
+    "FreeCashFlow": 368703995904,
+    "OperatingCashFlow": 53842001920,
+    "FCF_Margin": 0.19546869635315595,
+    "ROA": 0.05998,
+    "PEG": null,
+    "EV_EBITDA": 15.189,
+    "BuybackYield": null,
+    "PriceToFCF": 18.671112472652524
   },
   "technical_indicators": {
-    "RSI_14": 58.87949122411488,
-    "Momentum_10": 3.19091400757166,
-    "MACD": 108.88280891867134,
-    "BB_Percent": 0.7181005550613629,
+    "RSI_14": 44.99349405855343,
+    "Momentum_10": -5.462296829203304,
+    "MACD": 62.60744974336512,
+    "BB_Percent": 0.3477355162452991,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8874721213022115,
+    "ValueScore": 0.8858037672759951,
     "QualityScore": 0.5077793164782239,
-    "SignalScore": 0.5344833904455843
+    "SignalScore": 0.6472389578760243
   },
-  "volatility": 0.0272342904988428,
+  "volatility": 0.0273755860498886,
   "beta": 0.301,
-  "return_6m": -0.2102479818555974,
+  "return_6m": -0.2460553932072703,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 18,
-    "target_mean_price": 5894.4443
+    "target_mean_price": 5844.4443
   },
+  "news_sentiment": {
+    "summary": "Daiichi Sankyo et Merck voient leur médicament anticancéreux atteindre l'objectif principal de l'essai de phase avancée, mais la FDA refuse l'approbation pour le médicament « missile guidé ». Pendant ce temps, AstraZeneca bénéficie de l'ajout de son médicament Enhertu contre le cancer du sein à la liste d'assurance chinoise. Ces développements contrastés soulignent l'importance des réglementations et des approbations pour les entreprises pharmaceutiques et peuvent influencer le sentiment des investisseurs dans le secteur de la santé.",
+    "sentiment_score": 0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "DSNKY vs. ZTS: Which Stock Is the Better Value Option? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNbXYwWlFFSWVIT1N2MHdwSnh4QUFvd0MxOXhfUk9VZm1qVmE0cllucm5PM1RFMkU3bTBySU13MmIwOE4tLVlMTEZ2OVQ5MEhKUUdjVWFPOG5zTnVqUURCa1hselpZckxxbkg4RElrTGdtU0tiZTh3RkhsNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Daiichi Sankyo-Merck's 'guided-missile' cancer drug meets main goal in late-stage trial - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVzRrdXNIQVpHWW1tWkJOYW9pUVU1b3BGT1ljTklZME5IV1VPakJMaU9FT2xpRnRfUFJ4YmRaRjAwZHdUT2dlcl8zd1RpNXlIeVNuUk1vbWZaUWdxUmVmcU5RdS1rUG9VaHkteTk1TXI1TGllS1dyT2x2Z3JRR1lpOElpQmU3OExHQk1JZ2NaRWFlSjZITUlfamh4LU5HQlByM0RpWlRxOXA2T3JXeTY0MExhTlFWTU5fUWx0M0tLQkc5Z2FEVVp3YkdEYnp0WEZCOGZweg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AstraZeneca's Enhertu breast cancer drug added to China's state insurance list - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNai1TZnItaFdpY3lmYVB4eXhONDdqdWdpQWgzbDdnM0YzS1RtQ3ZuUWUxS1o1NnlObDBzcUkzQlBpTkFkb0RqQTI2QjV6NUlUTFd1Mldwb2FfNG5wSTZJWjdYZ1dobF9IcHNRb2FySXdqY2dWSjBubjVaVW1uZ2RXUGVWMWxaRmtvTUFxOGNNNmVid09xSGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "US FDA declines to approve Merck-Daiichi's 'guided missile' cancer drug - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMUNxQzRYblAyWXgtZkhiVkFIa0dELW5BdGRWaWx1azUxUHU3c1V1VWFJLVJyTzNyRkRNQWoyUGZhZDF2c0VUdHFjVXlMZVJGM0U3MlYzT1AxOXBGckl3aTN3Y3VjWVFKSlM3SVFOYTRrTmVaNl82MU90QUJfMTRNZWFONnNodW5ZOHF6SW8xcjlSMmJUZlpIa2hLWU5ESjRZQ2VOdEJIeHZLZkl2Y2ZhVjRRbDQyeVJzNXJ0NUJzcTZTN1g0Y25XYk1DT0ZEYzJVR2VB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Merck's (MRK) Lung Cancer Candidate Faces FDA Rejection - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRF9WQ3hJYzlyREtqa0RRaHU4QXlMNFJOMkxjUERoNEJSdVhmRVdVdFM0eTEta0d4eWlEYXN4QnJfeXlwVER5MjAwNnVWa2x1ZEhYZFhFVlBzZWpxVjJKeTNTbnAxTVo1TkNsOXVjMmtpVkYwSWJEODhUOXFnU2Uzd1c2Z0s?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 4871.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 4926.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 4921.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 4744.0
-      },
       {
         "date": "2024-12-06",
         "price": 4682.0
@@ -514,24 +547,28 @@
       {
         "date": "2025-06-02",
         "price": 3816.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3702.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3696.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3548.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3546.0
       }
     ],
     "current_price_data": {
-      "price": 3816.0,
-      "change": -26.0,
-      "percent_change": -0.68
+      "price": 3545.0,
+      "change": -3.0,
+      "percent_change": -0.08
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nL'actualit\u00e9 concernant Daiichi Sankyo et AstraZeneca montre des signaux positifs pour les investisseurs francophones. Les profits de Daiichi Sankyo ont augment\u00e9 malgr\u00e9 des pertes pour les actionnaires sur le march\u00e9. AstraZeneca a r\u00e9ussi \u00e0 ajouter son nouveau traitement pour le cancer du sein \u00e0 la liste d'assurance d'\u00c9tat en Chine. De plus, AstraZeneca a battu ses attentes de profit et a smash\u00e9 ses pr\u00e9visions pour le premier quartier. L'exemption des droits de douane r\u00e9ciprocaux pour les entreprises pharmaceutiques indiennes",
-    "sentiment_score": 0.625,
-    "label": "POSITIVE",
-    "positive_ratio": 0.62,
-    "neutral_ratio": 0.38,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

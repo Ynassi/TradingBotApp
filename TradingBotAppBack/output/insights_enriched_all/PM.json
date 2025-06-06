@@ -2,55 +2,163 @@
   "ticker": "PM",
   "name": "Philip Morris International",
   "sector": "Consumer Staples",
-  "market_cap": 283504541696.0,
+  "market_cap": 282734067712.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 28.638365,
-    "PB": -26.005138,
-    "EV_Revenue": 8.551,
+    "PE": 28.65063,
+    "PB": -25.934465,
+    "EV_Revenue": 8.554,
     "ROE": 0.14659001,
     "ProfitMargin": 0.19795999,
     "GrossMargin": 0.65680003,
-    "DividendYield": 2.99
+    "DividendYield": 2.99,
+    "DebtEquity": null,
+    "CurrentRatio": 0.79,
+    "QuickRatio": 0.364,
+    "FreeCashFlow": 8564250112,
+    "OperatingCashFlow": 11626000384,
+    "FCF_Margin": 0.22310868911993728,
+    "ROA": 0.13748,
+    "PEG": null,
+    "EV_EBITDA": 20.218,
+    "BuybackYield": null,
+    "PriceToFCF": 33.07053992960265
   },
   "technical_indicators": {
-    "RSI_14": 72.18638047349378,
-    "Momentum_10": 6.917386245747073,
-    "MACD": 4.278359578932992,
-    "BB_Percent": 0.9182019536810117,
+    "RSI_14": 67.37017967955015,
+    "Momentum_10": 3.8192843519562385,
+    "MACD": 4.287639443316408,
+    "BB_Percent": 0.7795209470871486,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8856256723307453,
+    "ValueScore": 0.8826467822094229,
     "QualityScore": 0.4610185753120338,
-    "SignalScore": 0.4591344515351166
+    "SignalScore": 0.4834114498973086
   },
-  "volatility": 0.0171181423182723,
+  "volatility": 0.017093168361242,
   "beta": 0.544,
-  "return_6m": 0.418015348463532,
+  "return_6m": 0.398471469003411,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 176.02812
+    "target_mean_price": 177.15312
   },
+  "news_sentiment": {
+    "summary": "Philip Morris International a enregistré une hausse de 50% de son cours de bourse depuis le début de l'année, mais certains se demandent s'il est trop tard pour acheter. La société prévoit une croissance de ses bénéfices de 14% suite à la montée en puissance de ses produits sans fumée, représentant 42% de son chiffre d'affaires. Malgré des prévisions de bénéfices solides pour 2025 et une hausse de l'objectif de cours de Bank of America à 200$, UBS maintient une position neutre en raison des perspectives de ZYN. Les mouvements notables de détention d'actions, tant à la hausse qu'à la baisse, soulignent une certaine incertitude parmi les investisseurs.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Philip Morris Stock Records 50% YTD Surge: Is it Too Late to Buy? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0hyM1gwR2l5MzFFNHVvN3d0ai1Ebzh6OEItUGdpcTJTM0RXNUZlQTJpVHlqaE91R243c3lGc0IwWHJSeUc1ZE0zSTlpMFhXVWhhVW9HZnBwalR2cTJHYUgzblRoNmgyQzZWbFdub2VtZks1bzgwTW1FZzU4dTZuV3pZTm9ZSTU4bGo0R0xBc2pKOW4xaHMyY2p6THUyODhZd2ROY3lZbFVoYU1fa0p1M1QwRzRjSk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Forget Philip Morris International and Buy This Unstoppable Growth Stock Instead? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORnRydk84Q0wxQ0NBZy1EdTAyRlhYeXNOeWMxOHVCSVdTcU9ma1I2c2ttV0U5N3ROM0ZiMi1qZWNVNzEwWTk0WVlwaUxYR25BUFA0dHZhME5pVmJsNUhyY2V0NWx2WmozcjQ4R1Npa2RfVVdQME9tMlpBOUJTWmp1TGRQMzd1RDYyMmJZVw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Philip Morris Projects 14% Earnings Growth as Smoke-Free Products Hit 42% of Revenue - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUtYak1HenJqNmlJWjNTUDNQeldiTVlPaC11el8wQTJJdWtRMENKemQ4cVJJV0hfRmlrZ3ZuRFRGb2lDMWxkME1NMmlvNnVBZWV2d3ladDBsNmxiYzZPeXI3eDdQTFB1ZXVaNFo5UThIWmQ4cnZpeVpUUFZKU282RjJfRGlaOWxXUkZNMFRiOVdxYmptQ3k0YkRrTGVRUWpSMERrRE5jMlNDdVlkTE1xV2dLbw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Philip Morris Stock (PM) a Smart Buy Ahead of a Potential Recession? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUdQSTE3dFBsWER3eUFDSURjcEV4RUJHQnhEbWJrOFZWNTdWUktQYk53b0FwSGwtbVBnQ0VzYTlReXF4aGRzaHdNZWpNWGdRVXpleHFudG9xSmdObllkdGlucExBem9KMHhnTWhpTTFlM0cycXYxU1hJeTFoQWNtT0sxRUtkZkRnVVVYSTNrc1ZadWJtTEJ3UGR5bGpZUFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Best Tobacco Stock to Buy Right Now: Altria vs. Philip Morris - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGNwbjh6X0ZMYU9IWFVvamt1STRjVE94QmtCejM2MDM1X3Y4VWQ2dUpMdV9uZFNnVnV5VVB1NEFQRUFGek1FOGNPYzdRMnB6d0xHU3l2V2ttclZRLWlXUENWTHBnVWFrX2FWRFNGTmJCQndaaUNoMFNSaG1FbU9rd1NwRzgwaHdj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Philip Morris International Inc. (NYSE:PM) Stock Position Cut by Bath Savings Trust Co - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVmRoM2hRSllRbER0YTVuY0xBcnpNM2Q3MnEtbmJFTFJQajBNdkFjamhxSTRFOGZLTzJCa3lxOVhPd0FtTThuNUd3d2QwdkpENUtUSm5ERHdJcGZ3NEY2NGdOanRDSzhZb2xVaGZMVXhpZWItdnMwSEJoT2ZCQVpoX2N1RzJlUTFwQlZ0MndXbnkzNl9BR1hJVmtBcDh3R29qbEFqRWpxMG5ET2s4Mk9BMUs3ekMwRS00M3dIaU94SWFGRE04Tno5aHVSTTB2QzR4cHc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Philip Morris International (NYSE:PM) Reaffirms 2025 Earnings Forecast of US$7.01 to US$7.14 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVUk5RnJPc2NrN3EzeURZOHgtTXlZaS1NUS1CX0VEdVBEeklVMmZrMGFzSXpZZ2ozeVVpQnhNRGJ5bUUzUXpoQkxFWG9BaUlHRkx3YXRqckx6TmIyc0RPSWpMNUNtbFVia1ZVNWFSbjludWktZUVld1pTaXpqcEtmTFdIby1pRnJIWWlMM1ptS0o4SThJQVZIOFRsbmV1b1VPZHNPMFYyd3N6VFZZVzZOcWI4blgyMU1qZGs5QWs3NHdTYzF0VDlGc3ZnRU5aeTFQWVpjbEQ1UzZpMDM0amI5UzBPM2N3OTBmNG1r0gHwAUFVX3lxTFBSMkszR3ZVQjhQSWtaczhJV2ZBdXg2eVpkOHRhd3FqNkZRa3EyeGk4dlhsbFgwMGUyNVJFRUVzaDFGaVZ4TmUyMEk1ako0TUdKel9qdk1jbzFoQUNYb05pZ2ZWdFlaTWw1RjNJWmtXUDdvandwMDJiMUNfYUJoV3dSOENyTVpJVGxJMEh5V2RwY1ZaVXgyVXZla2t1QjhMcjUzYWpCS0xiMU42R1BlU3c0ME1fWU9rVG5pVjUzd3dkdEJQcXBhMzJQT1NLMkpDYUQwV0tlekE5aHdPNE5RTmxfVE5YN2pzQmIwMUF1eTF6bg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BofA Securities raises Philip Morris stock price target to $200 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0tpYlpwa3dTNzFIZzdCZ2p5ektwMkMwSXQ5djd0YWZtc2s1S1RzX2tjRUdsUVlncHpxZmM1MmZTazktQVh6Sl9OcnlBcFh4amkxWWxXSkE1U0xOdS00Ym13VV82aFVJa1Fpb21qLTBtV2RiYXRWTTZFYkgzNlhReXJHcnRXSElOaVlCMW4zZ1RwNFZsSVYzSk9WazZXUWtiakhKWWVmNHRucHowRmF3ZWFuWUh5dXFsamFXcDBOYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Philip Morris Stock: Is PM Outperforming The Consumer Defensive Sector? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0hiOXJYLTRxTXNzdDF2WlBfMm1UUnlBUGRuRjQ4T0Ryb2FOT2JGb1hqZEVDb1lvQl9GbVZNOXpza3RCVHhmWExoQjVrZHhlUlZBaWZRZkFpNTE3LXQ4UU5RRDQ5dWdWdDBad0s0WnRKM3dacWpyYWR4N3hvS05nWFhKd1Vqd1NYcjBqem5IUGVueDJwSFByX2hGS0tyX0Voc05tVGhXYjFhOWlOZXpMYnVBUGE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Philip Morris International Participates in dbAccess Global Consumer Conference | PM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONFJWRE1ZRDZhVi1oaFp5RG1TUG0zYUJZQzhmc1FkMW5ieWpkOU9xaVZaMFU2dkstY0pFUldJM24zeHd0emVILU5FVExXY0tKYmUzb0xsa3ZjcXJSY3pMeUhUYkZoRU9xZ05nQm40V2NBOEhVbkFTeXNSQWNoTWxkLXhJYS1OaVR5UWJXMUxzdGxxMGM1dExEZGhCal9IZ2dVc0VBOEZKRnlaNzNNdWpjV2lsbTl4SGdhNlg4TVE3ZUNrbTVBUEVSYUN2MDBFZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Corpay To Present At William Blair Growth Stock Conference; Webcast At 12:20 PM ET - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0ZGYkFUWUtJamljdzJNay12MHgzdjlvc1Jqd2ZUdndSalk1cHZ2aExpUi0zSFU0WU1UbDhERlhLb1ZMREp3YUFDY3JubEVzUE1qZWIwWklxRkFhdEtLUkxtTnRpRGtDRFlkbm5DLVNEa25YOVJZUVdRTUw5OG94WWxBNVRuU1MzN1lOcHNYQ1NIaU9YSHQzU2x4dGVwUEQ0YlZpYWRibw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A Billionaire Just Bought One of My Favorite Stocks. Should You Jump in Too? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFBTLVZfdHBtUjRtdnNzR0tMQzFPVXBUbzlmOXFteV9Sb3FkNHVRZUhSZ04zS25QQ05jR1hzS1FjZll0QjhsUUZQamlzakxqNDBVclZJTks3ZnprZW5wMHY1QnJObUxyeXZrMXhsTHdkWWJhYkVreW5COURpWVdkX1p1QVVYN3QtczBKTG5QMGFEeEdRdUJpXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PM Stock Up 6.9% Post Q1 Earnings: A Green Light for Investors? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wNEc1WXc0TGtzTE9vYkRweVUwdUJ4TW9oeklVbHp6a0g5OVc2ZW02X2lUVFlCRkZIOU5idTFONm81em9Ja19VbHZVMlJmX05oUFA4cV9ERHhPZHh2NmpDNHdXQnltNUl1TVZVSmszenE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bank of America Issues Positive Forecast for Philip Morris International (NYSE:PM) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU01pdU1Bb2tNWEZ6Rk9yczBuT3d3NGdYZENQSzVXY3BGalcydzhsZHpVVWo0MklWOVZtWXVvaTh6VWJnM29JWk5keEVNWXpfb0cxSkZpdjZvejloMi1oNHY2UzR2SGlDU2drTXdFanZrcG5GR3Q4aUNBdG9OZWpIcGhaQ3NDWUdzWVR1bFJ4SXZfdUFpWi1oTDl3OGNVVldBZHZzQ2JtMm56YzVzejdYSjd6alY5WlhHaEVfQnZ4MFg2LUp3RGk3NE9QYXZSN0FFbU8wOWs2T3hGVFlWWmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "UBS maintains neutral rating on Philip Morris stock amid ZYN outlook - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUTFtUnRCcnZJNDlBdy1ROEpTQTEzZS1oYjdoMG9uNTdhY2lJQ3NTQVIxa01lVnBRbVRoWC01aHpMM2ctWURMd1VRYjBueWx3eHJvbWdVTmN2SXQ0ekhkNTduZXdLY1RqUUR3TkN0Rm5ZMDdEMk1aWWJRQ3lQSFJjdVRmNEptMl9TVE82YzdYQUdmZ1U3X19uaS1NZkk3WWd2VmllN2JlbE1FTWZIeXU3VnF1NmpYOFRRczlJQkptelpuNl9oUmtN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Modine Manufacturing To Present At William Blair Growth Stock Conference; Webcast At 1:40 PM ET - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHlPNExvVS12QnRsQzhpOHJ6SDJPVTVuZ2hyM3FkRS1Fd2tKbDFSOW1NQmtXNzZiN3l1cS1xQkNXUExLVW9jQjB5dVNkNjJPWEpiM2Y1ZGw0bU9GVXZQLTF5REhPU1NaTVR5Q0lGdEQ2cWRTWFp1TmRQcjdnNjh2enVmclpFckloZXJoNS1sRUtMVXZmTnp2YVlGUVRzNnpqdDhKSDdwMlJvbUpyTm5YWDd1V2RFZFZl?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A Billionaire Just Bought One of My Favorite Stocks. Should You Jump in Too? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzZLR0hCbHN1YldHSnBoT09ub1BwSWF2UWZWWUp3OHQ5NTZTdlpPNnZEVDhXVDJ0Wm1yb2MtRzdVOU0xT0hDVGxNMS1xYm0wV2tSU0JRWkpHRzhfSk1LUjRWYVIyd1pKVnBRbS1rN3F5dGNHenBoN0tCS3psSVlNOEFiQkZ1VnE5NXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Capital Asset Advisory Services LLC Has $1.01 Million Stock Position in Philip Morris International Inc. (NYSE:PM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbFZ6WlBGMHFDYnBRdmVfM1diWi01WF83LV9pTkExdGY4emRBUFNndXBoNEdmbGFNRkhoYlN3Ungza25POVVHTHkwMzRGbzlNUFRaRk9taV95aFhqMmliV0hFajlHTXFEWGRMd2Jsb0NiZlRsNGQ5UHBjTFRUMXdsb0ctcEpwNzRTbUM4UXVoSE9QdTJJVHdNUEV5MXlsUHdPbzhKYVJmR2IyamVaVHlqdGhIX1BwS2hnSnJlbmRxRE84aHJvalFGNXBqRVRMZ2c4TFVieXFaR3BlRkVWVkdOc3hYZnpwd2RxSWhGUzBwaHNDd0pCRl9pSGtkX2I1dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Forget Philip Morris International and Buy This Unstoppable Growth Stock Instead? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXloeVA4dnljSkVFdlIxX1hEeVVndGZKaVlQTExsTEhoSHhfdzUyVXl5RVBiR2Q0aE1HRHBTNWFMZFg0MEJQc0RlYlZhUVNJU0VORXhfYVU1RmNxS2R4UmlXZVNFdVVGMzVvY3djVG83OWVjYmtWMTA1M2VsVm5zcVN0OHI5VDNaQm1uVg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Veracity Capital LLC Sells 9,888 Shares of Philip Morris International Inc. (NYSE:PM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzVlem91ajJWc1hBbW81OWRRUFpQV3lua25uajBhUTVRU29COFJqWjRlMTJvUS14am9NNFNDQzFEMVlaUGs3NG5PbWdUSk93SG05NFNVX3dWWXpaSlo5MGNRZzFLZzUzZDJzVEZyaU5FTHNBeUI0a2RXNG9VR3NyNEN3Tm1nUDVhSk5Hb053SHZZQlF0VWE2V2k0Q0pYbEx1QktiSGlTUnlBb2x4c0pXaVpoM3B1R0MtMGhnemJubXFuMVE5dUx6UDgyTDFBOTZoa1I3MTJrZmo2NWotaEY4?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 131.02
-      },
-      {
-        "date": "2024-12-03",
-        "price": 129.69
-      },
-      {
-        "date": "2024-12-04",
-        "price": 130.48
-      },
-      {
-        "date": "2024-12-05",
-        "price": 132.49
-      },
       {
         "date": "2024-12-06",
         "price": 130.56
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 182.24
+        "price": 182.75
+      },
+      {
+        "date": "2025-06-03",
+        "price": 182.37
+      },
+      {
+        "date": "2025-06-04",
+        "price": 180.66
+      },
+      {
+        "date": "2025-06-05",
+        "price": 181.96
       }
     ],
     "current_price_data": {
-      "price": 182.24,
-      "change": 1.72,
-      "percent_change": 0.95
+      "price": 181.96,
+      "change": 1.29,
+      "percent_change": 0.71
     }
-  },
-  "news_sentiment": {
-    "summary": "Philip Morris International Inc. (NYSE:PM) a been on a 9-day winning streak, with a 9.4% return on 5/27/2025. The company's stock holdings have been trimmed by GTS Securities LLC, and the Barclays price target for PM has been raised to $205. Philip Morris' smoke-free business has grown to account for 42% of its revenue, and the company's CFO has shared its growth strategy. Despite the court ruling on tariffs, PM is still outperforming the consumer defensive sector. Altria is also a contender for the best tobacco stock to buy. However, there is uncertainty about the impact of a potential recession on",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,68 @@
   "ticker": "6361.T",
   "name": "Ebara",
   "sector": "Industrials",
-  "market_cap": 1055763660800.0,
+  "market_cap": 1045136670720.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.571775,
-    "PB": 2.2655952,
-    "EV_Revenue": 1.244,
+    "PE": 14.42966,
+    "PB": 2.2150283,
+    "EV_Revenue": 1.195,
     "ROE": 0.16551,
     "ProfitMargin": 0.081870005,
     "GrossMargin": 0.33298,
-    "DividendYield": 2.41
+    "DividendYield": 2.48,
+    "DebtEquity": 38.554,
+    "CurrentRatio": 1.674,
+    "QuickRatio": 1.096,
+    "FreeCashFlow": 1731624960,
+    "OperatingCashFlow": 79799001088,
+    "FCF_Margin": 0.001955542338925591,
+    "ROA": 0.06475,
+    "PEG": null,
+    "EV_EBITDA": 8.017,
+    "BuybackYield": null,
+    "PriceToFCF": 603.558330967925
   },
   "technical_indicators": {
-    "RSI_14": 47.52367301681343,
-    "Momentum_10": -5.8702368692070035,
-    "MACD": 34.0486587043456,
-    "BB_Percent": 0.2049499231519242,
+    "RSI_14": 42.648265083458355,
+    "Momentum_10": -4.448246364414029,
+    "MACD": 9.510563694572738,
+    "BB_Percent": 0.0288300837612094,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8968145912713174,
+    "ValueScore": 0.8941145797772233,
     "QualityScore": 0.3571501839088813,
-    "SignalScore": 0.6655028734960542
+    "SignalScore": 0.6611392778780925
   },
-  "volatility": 0.0287554112597413,
+  "volatility": 0.0285074305179616,
   "beta": 0.85,
-  "return_6m": 0.0219222777147949,
+  "return_6m": -0.0660505566617787,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 10,
     "target_mean_price": 3208.0
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Ebara (TSE:6361) a récemment fait l'objet d'une analyse mettant en avant sa capacité à gérer sa dette de manière responsable. Cette nouvelle suggère que la société adopte des pratiques financières saines, ce qui peut être perçu positivement par les investisseurs. Il est important de noter que la gestion efficace de la dette peut renforcer la stabilité financière de l'entreprise, ce qui pourrait potentiellement influencer positivement le sentiment de marché à son égard.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Here's Why Ebara (TSE:6361) Can Manage Its Debt Responsibly - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVJKUHhOdUV3cTUxVnh3NThZS0x4TnpxYUp3ZlRyTG43eDVaQ3g2amJLTnJqTWJLbW1wS0c0Wkg5cllEaWFKQXh5S2YwU1l2R2syR0k4QjNSWDZZWmlhRjlLbTdFY0xkTTdQcjlmZGFKNi1ib1JXXy02ZFV3N1Y0T1M5VlYtUVZZZnVOWEJBNGdwWDQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2264.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2282.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2342.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2422.5
-      },
       {
         "date": "2024-12-06",
         "price": 2465.0
@@ -514,12 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 2285.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2270.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2262.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2234.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2228.5
       }
     ],
     "current_price_data": {
-      "price": 2285.0,
-      "change": -41.5,
-      "percent_change": -1.78
+      "price": 2229.0,
+      "change": -5.0,
+      "percent_change": -0.22
     }
   }
 }

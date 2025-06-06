@@ -8,18 +8,19 @@ import os
 os.chdir(os.path.dirname(os.path.dirname(__file__)))
 
 PIPELINES = [
-    {"name": "1️⃣ ETL Indices majeurs (S&P500, CAC40, Nikkei)", "script": "etl_pipeline.py", "steps": 14},
-    {"name": "2️⃣ Enrichissement Small Caps (filtres supplémentaires)", "script": "enrich_etl.py", "steps": 2},
-    {"name": "3️⃣ Fusion finale des données", "script": "merge_uniform.py", "steps": 2},
+    {"name": " 1️⃣ ETL Indices majeurs (S&P500, CAC40, Nikkei)", "script": "etl_pipeline.py", "steps": 14},
+    {"name": " 2️⃣ Enrichissement Small Caps (filtres supplémentaires)", "script": "enrich_etl.py", "steps": 2},
+    {"name": " 3️⃣ Fusion finale des données", "script": "merge_uniform.py", "steps": 2},
 
-    {"name": "4️⃣ Données Overview Générales", "script": "generate_overview_data.py", "steps": 5},
-    {"name": "5️⃣ Résumé Marchés (GPT)", "script": "generate_overview_summary.py", "steps": 2},
+    {"name": " 4️⃣ Données Overview Générales", "script": "generate_overview_data.py", "steps": 5},
+    {"name": " 5️⃣ Résumé Marchés (GPT)", "script": "generate_overview_summary.py", "steps": 2},
+    {"name": " 6️⃣ Enrichissement Compagnies", "script": "enrich_companies.py", "steps": 3},
 
-    {"name": "6️⃣ Enrichissement Compagnies", "script": "enrich_companies.py", "steps": 3},
-    {"name": "7️⃣ Raffinement Compagnies", "script": "refine_companies.py", "steps": 2},
+    {"name": " 7️⃣ Enrichissement Compagnies", "script": "enrich_companies.py", "steps": 3},
+    {"name": " 8️⃣ Raffinement Compagnies", "script": "refine_companies.py", "steps": 2},
 
-    {"name": "8️⃣ Analyse News (Mistral)", "script": "enrich_sent_mistral.py", "steps": 3},
-    {"name": "9️⃣ Fusion News", "script": "merge_news.py", "steps": 2}
+    {"name": " 9️⃣ Analyse News (Mistral)", "script": "enrich_sent_mistral.py", "steps": 3},
+    {"name": " 🔟Fusion News", "script": "merge_news.py", "steps": 2}
 ]
 
 def run_pipeline_with_progress(pipeline):
@@ -104,3 +105,6 @@ def run_all_pipelines():
         p.wait()
 
     print("\n🎯 Tous les pipelines ont été exécutés avec succès.")
+    
+if __name__ == "__main__":
+    run_all_pipelines()

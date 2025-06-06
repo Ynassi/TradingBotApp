@@ -1,56 +1,164 @@
 {
   "ticker": "DAVE",
-  "name": "Dave Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 2793346304.0,
+  "market_cap": 2790411520.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 58.9831,
-    "PB": 12.310541,
-    "EV_Revenue": 6.965,
+    "PE": 58.75562,
+    "PB": 12.297606,
+    "EV_Revenue": 7.182,
     "ROE": 0.32097,
     "ProfitMargin": 0.13748999,
     "GrossMargin": 0.63362,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 37.836,
+    "CurrentRatio": 8.592,
+    "QuickRatio": 2.533,
+    "FreeCashFlow": -12380625,
+    "OperatingCashFlow": 152040000,
+    "FCF_Margin": -0.032458872018538316,
+    "ROA": 0.14594,
+    "PEG": null,
+    "EV_EBITDA": 42.178,
+    "BuybackYield": null,
+    "PriceToFCF": -225.38535170881923
   },
   "technical_indicators": {
-    "RSI_14": 75.97063535424898,
-    "Momentum_10": 12.909141458809373,
-    "MACD": 26.643278847370823,
-    "BB_Percent": 0.7333869824775782,
+    "RSI_14": 73.89723737496334,
+    "Momentum_10": 7.986577937240134,
+    "MACD": 23.78057385468875,
+    "BB_Percent": 0.7412871332592001,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9121661663431148,
+    "ValueScore": 0.9019814446865492,
     "QualityScore": 0.2960532152773101,
-    "SignalScore": 0.1818844341213384
+    "SignalScore": 0.3103484085771025
   },
-  "volatility": 0.0602319099257472,
+  "volatility": 0.0602495017753592,
   "beta": 3.947,
-  "return_6m": 1.2512632467522988,
+  "return_6m": 1.2743285353122251,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 8,
     "target_mean_price": 201.5
   },
+  "news_sentiment": {
+    "summary": "Dave Inc. (DAVE) a récemment connu une série de nouvelles positives, notamment une approbation des actionnaires lors de l'assemblée annuelle et une augmentation significative des bénéfices et des perspectives au T1, entraînant une hausse de 33% du cours de l'action en une seule journée. Malgré une baisse de 4,93% fin mai, l'action a connu une série de gains, affichant un retour de 92% depuis le début de l'année. Avec un gain de 934% sur l'année, Dave a été le plus grand gagnant parmi les financières, atteignant un sommet de 52 semaines à 189,02 $. Ces performances impressionnantes pourraient susciter l'intérêt des investisseurs, mais certains analystes recommandent la prudence et la prise de profits, soulignant une valorisation élevée.",
+    "sentiment_score": 0.4,
+    "label": "POSITIVE",
+    "positive_ratio": 0.45,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Insider Selling: Dave Inc (NASDAQ:DAVE) Director Sells 5,500 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFJQOERSeERyRlFhX2x0cUpDRk1uV0ZkR2ZoSUlBMVBPenFhOHNvdk53a25haHFpcXBVX1QzY181R1dsLXIwV2QyVWtqVHNlS0JyMEVlUVBGdGpfeXJCanhfdTJER0NQajhPSmtPeENEN0h0NFhoX1dhUkpTcFgyV1BneHhieHNhZVBBNS0xUW5lZUlFOVRnWmhweUJjUkJ3Mk0xR0VuNThHemZZcE9RTnlWVlhpd1I3Q0Q0LUx6S3VKUFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dave Inc. Stockholders Approve Key Proposals at Annual Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3NZU3MwUFlrRm8teWt3ZW5PZXNMMU84QVg4MHRGY0tacVBDczVXTHQzNDJ1S3dCZl96TWdaek5vX0RrUFBQZUFFSkZfZ2diRURNVE5hd1B3UjVBZ3JTbG9XaC1hVm43cFhOR2ZwWFF5cG9SVEdLd0dGSlNoMkdHd3BvaEJrcDV5UG5kX1J4ZldzZks2S1ZDNmwzX29WTXc0bmlzSWFMREpjd203UGpHY2V2VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is DAVE INC (DAVE) Stock Outpacing Its Business Services Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV2VPNzBILTExRTVQeHRwcHJLY09OdXd5dkRKb01WYzFoV0ZHbGxLNU4ta3hnaFZaR2dDQlJwY1FTek5uaW50RHNpbF9PR0JzeUZRdENFYTdhUE8zS1l4bFFwSGJnN0M5YlVJWFVteE1CMl93dnFCWm1xRmpNMU9BVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dave Stock Sees Its Composite Rating Rise To 96 - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFNfWk43S19NMG5uRnpuc3hJT0RzcnotaUFIZ2pXZmV3R0VrakdRUTZCNUxaTFZqNjlWTWlNSkp3Q1lXTjFJSkxGUl9XZWIyVmJQYlctX3BkbDZ2SlNrWnpNdUdzZ0szamNLd3MtZmVRWHcycnhUZ2ZkQzN0OHNhcjlwZzV5Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Top 100 Stocks to Buy: Is DAVE Stock on the Road to Greatness? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSC1ZZ0JvTUJBd0JiOWNjalp1Z085QUx2U1ZQSnBoc1MxZEpwVkkyXzRtY3IzSDg3X2VuSExBMldpQmpTTVAybE1yYmttVTJrQ2ZDcEZYak5fRXB5VzlnOEQ4OGlDNzlvbElBR25rMDJORHNyUFBUMHR3WWZWZFNNRVB6SmRrbl8tTHFIdnR4WjdFMzd6OXM4UmJ5b2FTMFdyMlJ6ZFd0UEptbkRQRzllUFZYWGZEOUhRVExIdUpxbXY0aG5mV3VDdDJoNEdWNE1HUFYxZ1hVcG1sd2E5UDZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dave stock soars after massive Q1 earnings beat, guidance boost - MSN",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLU1Gajg5dEplNmlTZkN0QmZYWTF5LTJmWHZBZUlwRlpXRWxUeDd3cHVFdU0zLUtHQ2U0TlJaN1FSLXBNWkwzbXdlSmdiVFE5bHZVYXhPMmZYNnpEeEFrTmswVDl6ZUl1QlVBNktZZ3pLRnZ6QVVQUzlwSUNBNG83dmxVYlpMUjBVOWJlQ2JnWDZIR0ZTU3h1N3FyeVQxUjAxbWo2bHhGVGNHN2hSSzdDSGVxSXRrYXM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dave Inc (DAVE) Stock Price Down 4.93% on May 30 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT3RrYUJNckFIMlBoTC13dkhSMEFYcTVacjFLSHlyLXRMQTVDcVRFaGNxUnkzSTZVRHh1VXpwc2R2bHBGd1U1SmxBYlYyRlB4c09YLXpZaHo1WWxpUVJkQ2lLVUhLRkZuLTEySW1mVEVvOGhuaEtxSU1meVliZC1zOWVPQ2oxNmpHMlhz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "$DAVE stock is up 33% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHhpc0xqbzgtdHJxbkN3ZGR5NkNGUG9ORGtMNGtQNU11X3JoQTVtSmRxVlNsZjFUdWF3OW56OFlwNWRkWUVLT0x5QTBiNEJjTTEwOHAwUWxSX3l5Ni1GajM5VWxIY0I1UHpUOXktUk02ZzJrMHVyY0M1TDNNN2FDMGVKdFI?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dave: Excellent Opportunity To Sell And Take Profits (NASDAQ:DAVE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFpuUnU0b2piaktMak1EZzl2aDl5ZUhoaUlTcTQyRkdUbjRQenlaT1hsRTM0aUhaLWVzR29FM1ZTaDRmTzg4VGZlLUlyUm9wV05WUmx0Y0tVRXpmdWxMWjhfeEdWUmstRmI2SzRseFV3YnhTZ0lHM2JQRGw1eE5wbUpzZExqUnZlZERMLU96QTZxSXdBX0xB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Day 11 of Gains Streak for Dave Stock with 92% Return (vs. 113% YTD) [5/18/2025] - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTU82eHVmSGpOcHUxMmlfUnBPSlcyTFNRdW1GUG0tYVpjX0NBbUp3UThSSlVKUWpXelpUR29TUXREYkhvTmh2OWJEdU9CXzB5M18tT0Z0d2ZTdlVDUnI1M2MxRE55OEp3bXoxQWViSUdqM0tQZDZlRDhqWE9IQ0piRURrUjFCclF1U0FRRW5kQVEwd3czcFFNWUZOakp1S2JJd21aR29idnpMSXdCaUJiSm1TTUxhcnZPcGIyczdEMFlna1paNnRwRl9nT2dISTh2aVJ2NW50T2xsZ3Rs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Banking app Dave, back from the brink, is this year's biggest gainer among financials with 934% surge - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWktdzFzZk9kOHl4OFZfRHY0a09vdDFUWEpOLWhUMmVrR2g5WTlHU0ZZSElGeVpIYlNsS2RLaHRHNXJweHZ6RHlKZHRIUHkyTlEybzlaaXk5eFdiYXpxWTcwWExUOFlpNDNIVWh6dGJjUXZvOFo4ZUhJNEgyOExodlo5Zk1OZmE1c0cw0gGQAUFVX3lxTE5tRGZoYlJ2M0M0amgyRE5TVFNDZmVDbXlqTHdHZWdXdVRIaC1rdmJMTTNCVUtaT0xoUGc3WlpXdndOY092MDM2cDFYaUV6X0pxNEF3ZEg5azBwcEhmUzRNek9yUEhVU3IyUVg5bktsSHRfUUR3Y3FiZGhfTkZwbERtdFZYdlo3MHZscmFZNWxEZQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dave stock soars to 52-week high, reaching $189.02 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUtXaEVFWHgxNWg5bUg5dWU5S1BzT0RXNlA3d3Y1d0Z2ZTJGdW9ZNGhFTWtyZnZwVFZ6RHJVaGN3MGcyak5NV1doRW9wblBYRzJWelMzaVF6MEV2QW54VmVYMlR5VVNBYlFCTzdtTjBpdk8tVEFOVGo4R0FqMVVTaTdvRTlwV21BN0xwYVRpQ042SC0xQzdtWDF1N3NXSXF5dTg2c2p3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mark Cuban Stock Hits Buy Point; 250% Earnings Spike Seen As Sales Accelerate - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVYxRHREeHlvS0hEOF9lZzlnbnlVX09HSWN5Q0ZSYV9lMlZONmZwQmZvVUE4ei1xdjB2c0pxcXAyZVVoZWRmLTNOSjJMOFFkZ2pkckRKMERnazFDd2h5SVNmSHFyRVY1R09BOXZ3VWlMemVBdDJ3bG1tWHVSeEF1cQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dave’s Stock Soars Amid Strong Q1 Performance - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTEJSa2h2Ukc2ekoyMDlpRDYzZkc5ZkJiMThSNUpmeTJ3SmRFZ1hwVnJZYkh0eXh1Tl9oZ0pLenZDZDZIYmNCSzI2ZUR5eXpLdldvZE9LTWJjT1RmWkU0UnNNZERyYmdCbm1ra3V5VXRTd3FPeGNsN3hEY2IyS3p6NGxmdzRnVTdLRERJ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Dave Inc. (DAVE) the Unstoppable Growth Stock to Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRG4yYjZNcUJvcFRoc1k5bW5MWTA1aUVVWWxGbzdaWUxGZVFDSlN2QXJkWGlJWm92U21JaTgySnNtWjI4ajlnRS1LMXNlUS1GQlAyU0t5bnlXbW1xbm1wWDhKUTM5MlAtRV9jdzNDZ2JSV25kNmdaeTlDb29obmJmNWUyay0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stock Market Rallies On Trump Trade Deal; Axon, Dave, Robinhood Surge - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajE0X3J3OXVORm5ZTjNkRzNDN0g0bjlnTFNxcXVwUHE3THQ5eVppOC1wWWNRLU94UldraG4wZnVDS1NiMkVucWpGREQ0NC1ZVzJFQ2IwSG1mdWdUU0RFLTNXdUVlRXBsYWUzRDViN3hIbTh4WnhjVzByZVdEQ0M2NjZRaXI4TVBLUWNkRHlmNGxkbkJwSzVyTTRSbGNMQUswMzBwT2RRejBDM1RVeXVGZEMxaGNyU2tYM3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Dave Inc. (DAVE) Beats Q1 Earnings and Revenue Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPVXAzZW5yTnp0QVlXaW5IZHM0alZCd1pwaUVyZlpESV9aZTV1VEU3M1YwZUF0V2FpTXk0ZXJhd291X1EyMEhwbnZQR2VyT0ZKc0h2a1c2Ql93UXR5cUFXZThMTkk4OW1UbEVQWlc4RmI4UFFZY2x3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Dave Skyrockets 147% in a Year: Time to Buy the Stock or Stay Away? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uMWNkT01ndEJrRS1Xb2c0YmZ5Vk82UmRSR3BQWVVfOUVwbWhKaFRubzdYY0xZNFdKY0U0VlNPY3FYVkhmb2poY3hLWWtKYzluekVNdGlEaWxpa0J0X1BFaHJkRXF5SHhERGJ5azZFRElybkFHUW1wNk9zTTVBUVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "DAVE Earnings Results: $DAVE Reports Quarterly Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTDlmQ1NDTkhhVWowakhaSmVRa3N5cFd5WDBEYi1BeXl6NEVwWUQwUlI0N0xURllrVzJWcl9SRUREVzYwQ0hkMXJUUnRsQW9rUEZkdmxtSkZxQkpFMDZhWFkzX0FZMU9uT1NCNHN4NHVtbWdEUWh1NEpNZzRKZEFzanhRQlRpTG9KQS1yN1N3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "5 Stocks to Buy to Profit From Trump’s Trade Deals - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPekFFSkpwXzQ4UTFkeDRaNGRuVzZYNkV3TnFZS0xheXlWeExiN3B3YUFfekFHeXFuTTlOVWhhZ3J1cndTQlNHdHFQRDNBVGxLa3hnZV90TXdsSEt6TVNOcExsVEhwbk1MWjRvbkt1UHF6OGdoTW5Tei1RMjA0aUpVdQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 93.01
-      },
-      {
-        "date": "2024-12-03",
-        "price": 89.64
-      },
-      {
-        "date": "2024-12-04",
-        "price": 87.73
-      },
-      {
-        "date": "2024-12-05",
-        "price": 88.46
-      },
       {
         "date": "2024-12-06",
         "price": 91.97
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 208.11
+        "price": 209.08
+      },
+      {
+        "date": "2025-06-03",
+        "price": 210.32
+      },
+      {
+        "date": "2025-06-04",
+        "price": 207.05
+      },
+      {
+        "date": "2025-06-05",
+        "price": 209.17
       }
     ],
     "current_price_data": {
-      "price": 208.11,
-      "change": 7.29,
-      "percent_change": 3.63
+      "price": 209.17,
+      "change": 2.12,
+      "percent_change": 1.02
     }
-  },
-  "news_sentiment": {
-    "summary": "Dave Inc (DAVE) has seen its composite rating rise to 96, indicating strong positive sentiment among investors. The stock has also hit new 52-week highs and is outpacing its business services peers this year. Additionally, the stock has been on a 11-day gains streak, with a 92% return (vs. 113% YTD). Overall, the positive sentiment and strong performance of DAVE stock suggest that it is a promising investment opportunity for investors.",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

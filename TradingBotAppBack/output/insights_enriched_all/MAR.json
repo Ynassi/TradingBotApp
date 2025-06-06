@@ -2,55 +2,163 @@
   "ticker": "MAR",
   "name": "Marriott International",
   "sector": "Consumer Discretionary",
-  "market_cap": 71478640640.0,
+  "market_cap": 71393730560.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 29.68942,
-    "PB": -22.653645,
-    "EV_Revenue": 13.108,
+    "PE": 29.620455,
+    "PB": -22.626736,
+    "EV_Revenue": 13.03,
     "ROE": 0.317925,
     "ProfitMargin": 0.37055,
     "GrossMargin": 0.81891996,
-    "DividendYield": 1.02
+    "DividendYield": 1.02,
+    "DebtEquity": null,
+    "CurrentRatio": 0.452,
+    "QuickRatio": 0.413,
+    "FreeCashFlow": 1812999936,
+    "OperatingCashFlow": 2616999936,
+    "FCF_Margin": 0.2713259459338104,
+    "ROA": 0.09398,
+    "PEG": null,
+    "EV_EBITDA": 20.071,
+    "BuybackYield": null,
+    "PriceToFCF": 39.25037210370867
   },
   "technical_indicators": {
-    "RSI_14": 54.440243092373635,
-    "Momentum_10": -4.185913177659154,
-    "MACD": 5.070524060761954,
-    "BB_Percent": 0.4274528823226438,
+    "RSI_14": 52.52681987670426,
+    "Momentum_10": 0.1134462302895097,
+    "MACD": 3.872596924847244,
+    "BB_Percent": 0.2818755679716359,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8701646426242862,
+    "ValueScore": 0.8672876737701875,
     "QualityScore": 0.3854189908291531,
-    "SignalScore": 0.6237791650589981
+    "SignalScore": 0.5818741462348045
   },
-  "volatility": 0.0212855236667116,
+  "volatility": 0.0212517277943199,
   "beta": 1.422,
-  "return_6m": -0.0838877898020862,
+  "return_6m": -0.1044979093645225,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 25,
     "target_mean_price": 273.2936
   },
+  "news_sentiment": {
+    "summary": "Marriott International (MAR) a connu des mouvements contrastés ces derniers temps. D'une part, l'entreprise a déclaré une augmentation de son dividende trimestriel et a annoncé des projets de croissance significatifs, notamment en Inde. Cependant, des signaux négatifs sont apparus avec des dégradations de recommandations par Goldman Sachs et des ventes d'actions par des initiés. Ces événements semblent avoir influencé le sentiment des investisseurs, avec des réactions contrastées sur le marché.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Is Marriott (MAR) Up 2.3% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EejRxWU1mN3dYTjdFZ1lKd3c5eS1hTEN4UEpmYXYydjN1Y1B1Sk1Ka1R5dkNoZDZkX0hscWlIRC1QVXIyeWRwaF95QVBZUmN6VnVyMHFfbXE5Ti1MRzQzMncyNFVGdGRuTEJ4SldzOF9jeUlC?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Marriott International, Inc. (NASDAQ:MAR) Shares Purchased by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNemhDQXBBYmlrTlZYWGFpSmRPVGFUajBRZFI3TmNyVlRRR1FrdFo2SUN5SWItVGI4RzQ3VC01Y0lHNFI4OWJKM2RuZ0JnX0d3RmpHWEx1UlVOajIzZDJOZUpGaGliRW04ZVktVjRVSUg2N2FYVjZSZmp4Z0x5M2RNTUxsaFpSZFBBVE5fb2hGcUQxT3QzdVY4eWhCc1A2ck02aTJIQ1RuWEtFdWttbE5LMW5qRVR4VEpvXzZfaTNmdHFJelgtYWltRUhhdlczVTJQYmJTTDJPa2ZiaHE2WU1n?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marriott International's (NASDAQ:MAR) Upcoming Dividend Will Be Larger Than Last Year's - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNUJiUVhUWEFYcDlKbnFfeEVybHpKWnBBMWkwNXNOM3lIYkZndDFaWXdEUTdnczNHalJOYTNTQ2x2M055ajl6SklrVmxmRTBwcGVTelJTWUFPU1YxclBjUnhIaWJfVnZLZUJXeWo2VnQ3Y09oMWo1Q0ZVRDZvS3kxUDZLUWV3RzA4MG1yS0FPbGlPMHFVcGxMWkZNWF9xTU9QWV85OF9ZdVo5T3QySE1LYlRqOXpQTV9CVjRsYXpqdUxhNXZYWm5pZjB1SjhuT3BuOEVuQW9BdmhPYWR3aC1mQzZB0gHnAUFVX3lxTE1McF91TC1fRjl5WlhUc0ZRZnpSM0RxdmlQVHd6QWRBUzdtV3llYzhKSF92YlYtQjhBX2R1dEdyYllzci14MVlMRlBUdE1CM2JhWGI5ZDQ0UHZJT3BLNmxIMHB3eU5JeUNiMWJnbVExU1dFR0x4cmQ4ODUwOFc4WlNkcHFwQ2RCNVhVZEYxUUF5by1WUEhfWTIyVm1Sa2d2azJISVdKdkd6Tm5BMGVsdk5KVDFVd2NGWWs0dlNQZW5TRTVsTTNmNkRGUWlxeXIwcDhZcUhSX3RJSHFFV1p0bVNfbXdYdUNRRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marriott International Declares an Increase in Quarterly Cash Dividend - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3pZNWdHVWhXR0xOVkU3MDU0MUF5RGVwenhJUkdrSVZWMUtvbWZhUFRnRFRhM1IwZHl1WlFRVW9UcUozbzlmaWhSRExPUi15X1RkN0dBZnZ6ejJWdlgzWTdDWVdzYmhVb1Y2QWplWHlsYWZSWlpiQW1lN3JGaWx2dnJxS2xjckxZLW1uQ0JDSlNvcm9QTTZqSlhOOFRJY0JaMEFvSWoyQXFSVk9pd3Fxa2xrV2Q2Zw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Marriott International Celebrates Outstanding 25-Year Leadership in Branded Residences with Around 300 Projects in Open & Pipeline Portfolio | MAR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdWRNTmlEcGFkWXFiQkp2dzRSX1RSV2JXOHQxZ0F6WU5LZkVNdkhjVjlmMFFMRU9JMVQxanRBM0F0WW53dk9GOW1NQ09ERkdBRHRrVTh3M1lhZWJ3UXhmSGdXVmpKNHljMkplMWwxU1hDSFZvTkt4WnFaVG5KeXFjejN5bUI1SnFGVlBGSlFNczVweFZEZGY2ejBPQWtqaWlnNUlkM2gxLTlqd1RNUU8zZXB5d24zS1BSNFp1dFJSSVh2aDRaMndxVzFEcmljUzBPRnpuMnJvSjlGVUlRYlhhYUtVV2lKYkUzVjdxUVNsdVBhVWN2WGNfdElNM05rTHhUUGpIWUhlT2dUSW9kT3ZyMDhzN1BXT2RJOGI1dkNR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "BKNG, MAR, or DAL: Which Travel Stock Is the Most Attractive Pick? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQzg2dHF6bnJXc1hhWGtNdkFDZEdSSjFlMk9wNnZzZnFkeHV4WHBEaHVsMkhCVHlCdW5iZTRfSUM1ZEZYdHlKZF9ZeV9Bd1JzUEFvTEFWQU9XUXZYQ3VKMTQ5NnN4OUZDTVVTRnVXbW1TSDE3Szc0X1FWUTNsT2haeHVfb2F0T0VNUEZUbW5WbGNuVl9kUjZn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hyatt, Hilton, and Marriott Stocks Downgraded by Goldman Sachs on Weaker Hotel Outlook - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSm00ZTRVQUNJU2IzV29DcmhtcGFUX3B5OXhfUG1WT05jV0g1SElJcm80NkxTN2VLa3AycWcwcFdQZjBOakJPNld3bzdOLTh6OFZpeVJDNE9oSUlSZDhQMG5zd2FWQ2haU2dDTVN5RF9ETmJxdEVKQTdDN2VuS256c0hvaC1KYWtvdUVxSkpqalZNVmZQTFZZTzlqUnhOUmo1aUFoRWZWQ2F6VXF3eHkxbC1Ra0VQRGw0WmNzdzMyaw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Anthony Capuano Sells 12,000 Shares of Marriott International, Inc. (NASDAQ:MAR) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeHlramRPUVpLMk1CT2I0TW1xbWViNkRlV3lpWFdnYldqUjFwQlpnQ0dxSnJOSVZwR1RfdW5Lam9FR2VFcWlDYVMycGxfeGJrclJ0c2lNaHlua3hZU1VLd195LXJnTExTRHlEUHFMWGp6SFZwem9RYUliNGMydGMtZHNCQUVUb0pZN2IyUE9QZlJtVVRQZk9tVXBTMEFpTnNpY3dFYWswLXpnU0ltNDdxQ09jczBJNDNDWXJfZnl1R210dVI0SUhqcURNZldsaEJvS0JVcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Warns the Travel Boom Is ‘Over’ as Marriott (MAR) Shares Roll Over - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xOWl0U3VDZ1NKSTY1LS1mYVE3cFlfaTlkOG5hNGJuVl9CVDVCRkktYW9PdjU1c05FU1VuUHY1V0xxbjZEY2hOaEtSem95MTlobkdNTUVKM0FUVjJmVDVpZnVFMTBnMzRtbE5tQ213eUxGYjFHS1BtalB6dGNRcFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marriott International, Concord Hospitality and Whitman Peterson Officially Open Doors of First-Ever StudioRes Hotel in Fort Myers, Florida | MAR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbFlYMk91a3gxYVN6VG1TMGR1REZBek9vVWluOVY3YWNPWmZzRE9fcW44YjdZc0NWRUp3SWF6RENmZmtLVDRhcUIxZUxJMlVOV0VXNXBIY1dtM3I4T2duUlY5b2xYLUVUM09FVldUbTRBWUp3d2lvbmVtQmF6QzBFUXNNanYzZU03dm5xMncyakRtY2lKeXVXM2M3S21sQTJ0aDJFaTZZSTM5THB4cFZ5UVUxejdObHZ5XzZzRFZ2SzBsNVh0STBmYk1lVS1yMldFQzhBTWNTRDhVdTl3TVFRRlFzalJXOW1QRDBYTzFCSjNhMksxZWtlYTBGbkQ4bWxLTDl5RWNubGR3SzhYdlVqYnYzYzVKZ3YyVk1J?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marriott's New Series Brand Targets Global Growth with Massive 8,000-Room India Partnership - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3Y5RmU2NnBKazlpd3FuNV9ZQmxJaWkydTdmd3RJSHVfd090NmJrZ21tQWkyVmtsWlEtN0w0Y0tOR3FfbGppcEY1MlRwMFhrejRqYUdGZnVyT2FZWUsta1dud21XcTI3RWFUVTJuSG5aMk9XSDllWkJEUE1fR1drVkRsMmJvSmExRzBQOGhaWG9lNmYyX0FrWHFyTy01V212cUljQzFJSlJVb0lUVUptVlR4dV9Jd0E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Truist Financial Has Lowered Expectations for Marriott International (NASDAQ:MAR) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3RIMUJjaHAxVTlKNFB0MUJuc1ZtZVhtQlVfT2ZZeEhneXVDalZJcmpmMWZOamo4ckx6SzI4d2pyQnNtc1Y5SDZaRjdNY2YwV1libGlGeWdwUzdaZURPZ0ZUcXFVQVZGTnJSYm1hLTdCbVZ4Nlo3ajhYOE5iQUh1eGZTS0hSYUFsSk1pRXh0a2hpcVhYSnA0LUt0eDBXQTM2VzB6dnRUX1M0bWs3RFcxZXhlSDdjckVvbkRNRnA5WF9NN21RdkNWcHF3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "ABNB, BKNG, and MAR: Which Travel Giant Deserves a Spot in Investor Portfolios? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTDA2ODhBTm11Tzk0QTZzZm4xTV9xdlQweXVKX0hwQzZ4WDV0MEF4UnFKOWpMdlJfRjY0bmRUc2swQ1hNU3d4X3hUa0cyWDNhVXBaaW5UZW1JNzhQTGdpUWpNTmtwbkhHd2F4aWJZSUllVGlXWWdCM2dDZkU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marriott International, Inc. (NASDAQ:MAR) Shares Purchased by Wealth Enhancement Advisory Services LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQmY0cUxjY3NfMVc2TC1iS1Rlb05oc3p5cjJ1bmVadDNHZkdBNHRDeWNOekRfblV0Q0trUVJHR2RWQ3hWVW1sdnhydGE2VUlQUm10NXF4WnI2eWI2Rlk0WENJMGkyMUxfUWV4T3dxZXVDRnZTN21BUjNuTy15X0J0cXlqYUlBSFM0c1JMN1dIaEowQ01SbDRnOGk5MmY5WHdRd3ZGY2J3TkNEamQ4RnI5ZEtERHJDclNHRkt3NmdrRXVxYm5HT0tFaDBXendSVnViRE4yRnVoTVB5OHFGd3k3Tk83a3lCbnlzeGN3ZkQtUjJUNzVXSTE4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Marriott (MAR) Shares Are Plunging Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjkxS3JvTVFYSDhFNWhVSmpET19aNGZ2LUJRT05jOTlvcFN5VTE5REU2LUVzWjNvemI0M3BXbE1EQm13NmtHT2NWMlRiMkNyaHFlSkF5UmRsanJ1SS1ycm5HVzk2dTVyR0lWUzJqTzRfeVFzVGZKbFM0TlhyTVE0X2ZjTGI?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Marriott International, Inc. (NASDAQ:MAR) Shares Sold by ST Germain D J Co. Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN0lYeV9MWXh6LXZyTlZiRFZ2U3J4d0VqeXR5UzNoNFRjQmFxb1BUSHdSb3ZhdDZ2MjBPNXZGLWZOeHZqMWRDQVYxUW1HdHkyYXVpNkgxM0pTWmhuNHVmLTd3c0NhcjYtbVJVYVVLMTVpOWI4MlhmaTNPbEZmczF6SE5ybC12X0laOWRaNUZpdzVQZnM4U1k0UUtWUzVTdnJteDdFWmlueFE4eEw2cjh6UlFmSFB5TkxxcVVRTFlmV094UEpvLTRPUFFoc1MxeE8tTWJodA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marriott International, Inc. (NASDAQ:MAR) Shares Acquired by Hennion & Walsh Asset Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaVhkNHRBT19MVEtHLWs0NHMtSjkzRkJwT3JBLXk4U1A5Qy1ubFQtYWNuVEdXZUxOUTBxSHJub1RGdjlCbUR2SnZfa2ZvYjB3Y0lmRUFtQ05PdXg0SkN1MDJIQXpOUEtmTjNpZTlzNld1dlQ2aGNhYkFONVBHRGZPUWhPWTFJeElWMnJHM0VWaVRuclJDbm04NE5CYkIyYkN0aDIzZFdiVm5NaVp5a3VyX05yMWJEMzItQzUtVWQ4V1RiZHdrN2Q5c19XTXpTNjgybGF4RjNzMlhnd1NNNWs3QmVvV2ZIdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Unigestion Holding SA Makes New Investment in Marriott International, Inc. (NASDAQ:MAR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEVVMWtFWDRhS3M4TDdrbzd1SkZvazdJaW8xU1U3bm8yeklCTFpScVFQN01FVW50LVBldFBaWGNXdEozMTV0U3FtYWdRYTNjRl9sRnFrMkUwNkdTRTB3X2VmbE51WHk4NUpRVThfQUNiYk01bmdiUUdLZjEzYjJ4MDZHS09YbmZxT0ZOZ3I4U2tNeGh1eWExUTZJbjR5NF84cEFtdG9YanpGdFJUR1lkVjlsSHhwZFAySldGcDZxX3ZDMkZIaklQVWVBcXZwM0RYVFVuNHpPak95S2dHZmRFeg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PKO Investment Management Joint Stock Co Takes Position in Marriott International, Inc. (NASDAQ:MAR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObnlkZGhFeXc5T1Q5Z0FJTXB3WTU4aXd3MXFPczB0VU83WU0zQWgxcVM5Zm1EaC0wNkhyMjB5Y2lJdWRfZnZxWGpNUHRXRHVyUy1ya2ZKRzgxcjB2dXJJSHNnSTB2LXFRb1gtY3loSllqRFo0d1VaMmlsOUJPOTYtU1JzS1k0ZEoxWWhIUHJVRmJuNGFqNXVUeFdWY2l2YnBpQzJjenctYm5fOUh4Ym4xVXNaRUktN29pY1ZkQU9QUWRsVGQ1aFpnTkw3MHBSb2FLMmV3Yy1QVU05M0Q3U1IzS2tVcjJkVTlSSEcxUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Financial Group Upgrades Marriott International (NASDAQ:MAR) to Buy - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXFGdE9vMXZ4b3lIT2E3OFhIVmR2SHYtS191TGh2QU5vS2JmMXF0R25oM083bk41UG0zTlpDR1laemFKWmJxM0diN3pBTFNVczRJSlU2d2JXOHpkY3paNWlIeWYwU2FqWXBnNlFvMHlqMVJXLW5reEtYZmd3bThLakExWDhLOEtjU2NPYzQteWc5dUxkd2p5OHprSTdSMzVfYTB3RHJaN1ZLM3BWeFY1cmg2SFZZcm84MHpuU1Jsc3duQXRoeG5EWg?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 286.24
-      },
-      {
-        "date": "2024-12-03",
-        "price": 284.93
-      },
-      {
-        "date": "2024-12-04",
-        "price": 289.63
-      },
-      {
-        "date": "2024-12-05",
-        "price": 292.48
-      },
       {
         "date": "2024-12-06",
         "price": 292.59
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 260.94
+        "price": 261.21
+      },
+      {
+        "date": "2025-06-03",
+        "price": 264.4
+      },
+      {
+        "date": "2025-06-04",
+        "price": 261.93
+      },
+      {
+        "date": "2025-06-05",
+        "price": 259.81
       }
     ],
     "current_price_data": {
-      "price": 260.94,
-      "change": -2.89,
-      "percent_change": -1.1
+      "price": 259.81,
+      "change": -2.12,
+      "percent_change": -0.81
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se courte :\n\nLe secteur h\u00f4telier est en crise en raison de la pand\u00e9mie de Covid-19, mais les grandes cha\u00eenes h\u00f4teli\u00e8res telles que Marriott et Hyatt ont d\u00e9voil\u00e9 des plans d'investissement pour r\u00e9tablir leur position de leader. Le sentiment de march\u00e9 est positif pour les actions de Marriott, qui a r\u00e9ussi \u00e0 vendre 3,176 actions \u00e0 Abner Herrman & Brock LLC pour 1,95 milliards de dollars. Les experts ont \u00e9galement soulign\u00e9 le succ\u00e8s de Marriott dans le segment des r\u00e9sidences de luxe, avec plus de 300 projets",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

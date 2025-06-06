@@ -2,55 +2,163 @@
   "ticker": "KR",
   "name": "Kroger",
   "sector": "Consumer Staples",
-  "market_cap": 45416837120.0,
+  "market_cap": 44046176256.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.585423,
-    "PB": 5.5283275,
-    "EV_Revenue": 0.475,
+    "PE": 18.024523,
+    "PB": 5.361485,
+    "EV_Revenue": 0.465,
     "ROE": 0.26879,
     "ProfitMargin": 0.01811,
     "GrossMargin": 0.235,
-    "DividendYield": 1.88
+    "DividendYield": 1.93,
+    "DebtEquity": 229.201,
+    "CurrentRatio": 0.958,
+    "QuickRatio": 0.386,
+    "FreeCashFlow": 2096375040,
+    "OperatingCashFlow": 5793999872,
+    "FCF_Margin": 0.014249132415705468,
+    "ROA": 0.056339998,
+    "PEG": null,
+    "EV_EBITDA": 8.64,
+    "BuybackYield": null,
+    "PriceToFCF": 21.03922241699653
   },
   "technical_indicators": {
-    "RSI_14": 47.84968513560996,
-    "Momentum_10": -0.8133588540372131,
-    "MACD": -0.3947308194870089,
-    "BB_Percent": 0.3967513554706325,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 38.93652835969174,
+    "Momentum_10": -4.107404598520562,
+    "MACD": -0.6788624186936829,
+    "BB_Percent": 0.1389824845625896,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.897025021588851,
+    "ValueScore": 0.894345335757331,
     "QualityScore": 0.3647836705966388,
-    "SignalScore": 0.6358257761525197
+    "SignalScore": 0.6786360438871786
   },
-  "volatility": 0.0166152937076487,
+  "volatility": 0.0166884185228687,
   "beta": 0.574,
-  "return_6m": 0.1450529067730095,
+  "return_6m": 0.1002523924749621,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
     "target_mean_price": 70.68636
   },
+  "news_sentiment": {
+    "summary": "La société Kroger (KR) a récemment lancé une collection de crème glacée estivale en édition limitée, illustrant sa capacité à innover dans le secteur de la grande distribution. Malgré des baisses récentes de son cours en bourse, des analystes estiment que l'action de Kroger pourrait rebondir vers des sommets. De plus, des investisseurs soulignent l'opportunité d'achat offerte par la valorisation actuelle de l'action KR. Cependant, les fluctuations récentes du cours de l'action, liées à des mouvements du marché et des incertitudes commerciales, pourraient influencer le sentiment des investisseurs à court terme.",
+    "sentiment_score": -0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Make Father's Day Extra Special with Kroger | KR Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaS1HZ0dzNmhldW14RHloX3EzMVZ3SGk3RTN4dU1IY0FpVzZudUdzTGRsaDBvNGNqZHQ4VHljRkJnS2ZwdjYtSVNITm03NlplVnhrRDF4RU54SDEtT3doaVd6X2NNOUU4U2dDNTRIcVZrMnJvaFdUVjNjQWlnVHJBdHVSVTcxOUdLSGVubXl2NlVYTDlhWUNkcElHbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kroger (KR) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TSXB1M3hUZEFqNEdxaDhZU3pVbGs0bXdPOVlGb0QydUltbUxFMW5VaGJMRXlYR0xNTEtEWUp5blhuVWExREhYXzZuOVRTUG9reUNpQzcxQmpoYkpjM3RDek9aU092TTBIWVFBbjB6UUd3czFha3RnYXdMODI?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kroger Stock Could Push Back Toward Highs - Schaeffer's Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2t0Q0d5MXFxMDc3QldISkxtcEVrUVVxbHlSS1phZGUxWkVnX0wtOW5iczRFc2VYdTJiOVVVYkVONEpjQWd5WlJOejRyZWh2UjQ1Y2F3ODFVcF9STmtXRlNqZnhBMFhTTnBqYmc1eURhSzNHRWRuUGc5b1pZaXRka1pZb3drQ1NYdGo1MUE2S0VBT1Q4VHVnUUNTc2ZzQ3I4WUNCRFU4Yw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Kroger (NYSE:KR) Debuts 'Summer In A Pint' Ice Cream Collection For Limited Time - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaFFndVIxbExBb0ZmdzEyVDlrUFd5R1JpQU9Jc2FQWWtGYUtwSjJJMGhxX2xZancwdW1lcDZsWXh3bXZaTkoxY0w4Q1RQQ1U5b2VVNUxmLV9tYUd4eDBxTTJsMVVJYlNvaDNEUXdVeE9ZcFlRS0ozaUhOVk10S1c0VVdsRkpZYkdtSFVWZkg4MVhNMGhkd3hERHpvVVdxeF9wWXBVenZtbUozYjlRMkd4NzRaa281UVFUX2lPXzRnOXFRNTlZVXJ2cnprONIB0AFBVV95cUxNYTRuUEhDalE4dWFfOUkzSlNoQkpVU3ljTC1Vamlrc3ZBTVpCTU5uc1MxTThQLXMyMW9iOUlPZ0xfQXlWd2g1OE53RnpiY1VkVG1LTWhKM3ZUYm1tMndESWJXR2VPLUM1WkdkNmhtRlNQWTM3cmVKSVdJTFNWX3JLRTRwQm90OThPZ0syOS1SWDJ0MEVqYXU1UDdkSVBLNklFdjBzZjNPTTZkNEswRENoYzJVRHpTbFFwbmkzM2puN1BIb3hQVWU4VmJ6R1Z3RS1y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Soaring Retail Stocks to Hold for the Next 20 Years - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObGVtVEdHT0d1YVNqWU9HQUlYOUVXaTVOSFVQQ1VjSVFuUWppclNhNE9wZEx4OHhfX0VuSC1SS2tNc2dwY1huYmtFZzAtOExWcC1BWGpYTFEzWVdXNHk5T0hYS2pMODRFZmZNWkhiQ2pRYTJtRlZ1VFRuNmJnNmtWS0dqTUdMajIzckJ3RTZFM2FYZlVxb09B?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kroger Reshapes Retail Future: 40-Year Veteran Takes Senior VP Role in Leadership Overhaul - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVBFWFlIcFVKZ0d6MWgzYUR0cGE5cXFkNmNMSEE3Vm1sV0NOcWl1RkhDOUpCX01IVGNfemtZcUpaQnNhWXU5eWZMdVB3NEwybXhsdFBINDByS2ZjTUJCZVRfQjRzdnlsWGtjV3phMUpkNkVTcGZLQ0pXUzlURGJ2VkVGaUtaZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KR Quantitative Stock Analysis - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3Q3ZNems1OGVSNElLTmp4cUJuUHZVd2tWZVNGOTRyTEM5Ml84MWtzaTM5RHJmX0haazV0T1EtTzdhOTZMZzJfaGd6N0loR3JFRWFGa2xmaFlLUXZiY2Z5dlFTRGZ5eGpIb045U25GYk94UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "10 Unstoppable Dividend Stocks to Buy Now - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcnlOX0Y0em1yOE15Ul9mRnBxZzZwY21rZzVacjZ0cm1URUJMcEF2eU1kTzlTbXVLWTBLdFpjRk45RzVGY1NrbS1VNC1OVDhDZm4tY1ZlTGJzTmdKSnctUmdhTWc2WVVfcFRuOFljaDFCc2xQUU44VnVDN3BGV0NVTGh6M2lZYXVWdXBOU0owTDk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kroger (KR) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLXBPNjhfR05LX3ZqMzk2MG9yOFhaUmg0eUd2elpEWnYzdnJrMnU5U0lhUUwycHNHZ2pqdDJSYVVHLVRMZHk3b0JCSVhuaFpLMFlrSUtTM210VTFzSXB1VkpZMmFjb0xFOTZLNFZEWTlMOHBZVTRRcE1yOGk3X2Njbg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kroger (KR) Stock Dips Amid Shift to Tech Favorites - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMm9FNTJacHFUc2Y1LWNRUGtsVEMxenJvUVJXcVRNaVpMdXBsLU02dFZvbUN3TERzRFJzaUVPUXc3d2s3dVVva0VsQnVOZDdsM2t4MEk5dl9URU1qQURqQVJUWXVRNDhFdnMtb3Rpc0NfVjdnUHRiZW45T1BIZkpwdko3U3lDSjY1cW84TmtoWjR2Zw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kroger (KR) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2ZsbVNuV1FpcjVHZmh3UHZkUmQycVFfc1FUNXNTNXEtSlNEVFFjZkwwanZUR3JRT2xmZlgwRUgwMXk5Z0hzcnNGZ3VZWTZxbjVQTnlRSFQ1Yy16Q0NuTXBNcGxodUNGaU1kQXdsVWJBNUVTTlJMY3dhMVJ5ZjBZVg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kroger (KR) Stock Dips Amid Temporary U.S.-China Tariff Reductio - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWNBdDdjRkVwRmpxcXhLNURGeVYwMC15Y0h0azhsMDEwaFl2OUowNjVOMGdQZy1aVG5IMjFwUUNnVm5hTGZEZjJRZkFPb2RieFhhaUlXNi1MUmN0V2NsdFVGV1RZeGlXaVUyQWRxc29OSk5jcFdaWVJ0a1RNVUFBUXNzb29pekpYZXA0M1U5Sng2aExDMFM5YUdqVUlRcmdTWkNqc3p0RWd6RWRWT3c1TnRn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Does KR Stock's Lower Valuation Present a Smart Buying Opportunity? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ1lZSERzdHg4emUtYlpFWUMtT055Z0hWcjliYXJCaU9iR3EzSl9jZEN5TnZoOUdnLVUyMTNHTTBLSnV2RE92YzE4Njg1Vm1tb1huUU5zTlg2QmJ4MTlfY1NNajhYV3Y0SjBhLXh1a2JOQTNBSmVuWFVtMlNXZjdrNVRR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Makes Kroger (KR) a Strong Momentum Stock: Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeFRoZTlRMWducE1GWDVHX1hIT0pxUTFwaWtvVUpRclhfaUZRU29BdlNhRjJuY2o4SThwOWlQTVJsazRUc1dVWWEzbnpmNzhXY0ptdUg3Vk1qVkJIeVRneUFhcDltTGZBRkdCS01oM0xocUxtajl4aWo4UkRKZEotNHNvRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Kroger (KR) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WX3doZHdYWE9fTEpjcDFWMmtKN3phMEV2bEVrWGlHM1hFYzZVV0ZzNnlSMEQ2TFg3NVJFcmxVcWhSZnlHTHJLdlg4MF9WWk5sbHBPenh5SHVqdUg4S0R2QkVqZzE0UFV0V2doMm1YWVlSX09OQkFIMW1OQ3I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is The Kroger Co. (KR) the Best Large-Cap Value Stock to Buy as the Recession Hits? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNVDZMSmtwczFTelBKNjBQdHM1ZFBTcldEbFJxR3I1aEJsVTZNaEVLaUFDLUIyUF9TRXVGSVhnaDhtMEJ0aGZKcnlYWWc1dG14U1VfbFREeFIxWVdJT012TXhmdFg3ZFh1cHlVVnB1SVhKSmtLdXppQg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is The Kroger Co. (KR) the Best Food Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vcHFJTnpwYVdJcy1vb0JkVmJ6cjJPTTZZVUpZN1RzNHk4MGJDdjJ3XzJicXM3eHFpODdxbGkyMFNYenMza2t4YWw3WFNHajNRMWFDTGMwVmVELWF0QUdjN250dTJRQnJadkVvSXVvbGFpaTk2S1lB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Kroger (KR) is a Strong Momentum Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zWWNpdEVrSWpEcXV6ZnQ1bDd3VkJvUFZYMVdPaWszNk1KSFVrLV91cldQYkNWd1dOOUhEYVRYVkR2alhnUHZaeE13ejhtSnlFbUl6SFFYcHdVMXdDS2p3XzkyX1BLNkVtX0t6Q2dxV2k5YXlXRjdqYWRuM1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Kroger (KR) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yQ3kwcXFIQXhDTTRsakdVYXJXcWhYVTE2UXVROTZTaVpiNVZtVU5lMm1KbzlBNjVsVnk3ak5YdWMxdkFuNVNmOXdteVI5MFBRQXVLNFRwVm1iTjBkZEl6SXJXcjVYaU8xMHZpQUxVR21peUJBLXlzbUNXVXQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Kroger's Complete Memorial Day Feast: How to Feed 16 People for Just $3.50 Each - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXVDZk5fUlpDakhDZURiT2ppbkdNcFV1RmpJSjBjOGZsNWdpc2ZJM2RLQVpDLV9qdUluWm1PeEtFYXpyM3IzOTdmQXVOTXphd2swR0pSVEJlWnNoNHltUlpma09TM3BxLTRPbXk2OURIMW5YakU5X3ZEcGV3LUE5dVlFcVpybTJweFlRS253aXhLMWhwV3ZXVUxHQmYxOE9TaDN3a2VtSkF4WXJ2SWRFQkF4Mm9wSEpDaW54Qg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 60.15
-      },
-      {
-        "date": "2024-12-03",
-        "price": 59.97
-      },
-      {
-        "date": "2024-12-04",
-        "price": 59.91
-      },
-      {
-        "date": "2024-12-05",
-        "price": 60.71
-      },
       {
         "date": "2024-12-06",
         "price": 59.23
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 68.18
+        "price": 68.2
+      },
+      {
+        "date": "2025-06-03",
+        "price": 67.08
+      },
+      {
+        "date": "2025-06-04",
+        "price": 66.34
+      },
+      {
+        "date": "2025-06-05",
+        "price": 66.24
       }
     ],
     "current_price_data": {
-      "price": 68.18,
-      "change": -0.02,
-      "percent_change": -0.03
+      "price": 66.24,
+      "change": -0.1,
+      "percent_change": -0.15
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent Kroger, une entreprise cot\u00e9e dans le secteur de la distribution. Les tendances cl\u00e9s sont les suivantes :\n\n* Les gains boursiers sur le march\u00e9 sont peu concordants avec la baisse de la valeur de la stock de Kroger.\n* Une analyse quantitative de Kroger a \u00e9t\u00e9 r\u00e9alis\u00e9e par Nasdaq.\n* Le guide d'\u00e9t\u00e9 de beaut\u00e9 de Kroger est populaire et offre des dupes \u00e0 moiti\u00e9 prix des marques de luxe.\n* Kroger fait face \u00e0 des tensions commerciales entre les \u00c9tats-Unis et la Chine, qui affecte son prix de vente.\n* Kroger",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

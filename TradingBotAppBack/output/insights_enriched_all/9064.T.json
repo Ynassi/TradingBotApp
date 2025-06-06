@@ -2,55 +2,68 @@
   "ticker": "9064.T",
   "name": "Yamato Holdings",
   "sector": "Consumer Discretionary",
-  "market_cap": 638369988608.0,
+  "market_cap": 642402156544.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.674377,
-    "PB": 1.0954819,
-    "EV_Revenue": 0.357,
+    "PE": 17.790781,
+    "PB": 1.1024013,
+    "EV_Revenue": 0.355,
     "ROE": 0.064330004,
     "ProfitMargin": 0.02152,
     "GrossMargin": 0.03973,
-    "DividendYield": 2.3
+    "DividendYield": 2.35,
+    "DebtEquity": 28.949,
+    "CurrentRatio": 1.47,
+    "QuickRatio": 1.363,
+    "FreeCashFlow": -6444624896,
+    "OperatingCashFlow": 47731998720,
+    "FCF_Margin": -0.003656118243134468,
+    "ROA": 0.0073400005,
+    "PEG": null,
+    "EV_EBITDA": 9.966,
+    "BuybackYield": null,
+    "PriceToFCF": -99.68030209837677
   },
   "technical_indicators": {
-    "RSI_14": 45.3999147085743,
-    "Momentum_10": -1.981178801386825,
-    "MACD": -1.0953508829552447,
-    "BB_Percent": 0.2162489706741884,
+    "RSI_14": 49.06565144002893,
+    "Momentum_10": 0.8609774626487718,
+    "MACD": -3.9133479515303407,
+    "BB_Percent": 0.3795670936651548,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8995597700239107,
+    "ValueScore": 0.8967011792063171,
     "QualityScore": 0.3651163570066233,
-    "SignalScore": 0.6562524316220995
+    "SignalScore": 0.594839947497918
   },
-  "volatility": 0.0159723305802609,
+  "volatility": 0.0160683564163915,
   "beta": 0.226,
-  "return_6m": 0.1688505753673266,
+  "return_6m": 0.150371062805642,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 10,
     "target_mean_price": 1870.0
   },
+  "news_sentiment": {
+    "summary": "La suggestion de supprimer le marché AIM de Londres en raison de son manque de succès dans l'attraction d'introductions en bourse technologiques reflète une préoccupation croissante quant à sa compétitivité. Cette remise en question pourrait influencer la confiance des investisseurs dans la capacité du marché à soutenir les entreprises technologiques émergentes. Les récentes critiques pourraient également inciter les investisseurs à reconsidérer leurs choix d'investissement sur ce marché, mettant en lumière les défis potentiels pour les entreprises cotées sur l'AIM.",
+    "sentiment_score": -1.0,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.0,
+    "negative_ratio": 1.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "London AIM market should be axed for failing to win tech floats, say think-tanks - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ITkNUUXlPYUxLVmVlZkVoUV9jUFlodHVkdFJzU0lSblFYU0ZBc1AwdmlWMGdyTEdJREVLVXVHV2dWcWFXclRVRHN6MFFydjlFZEdUN05mTG9pdDNBS3JYV09BcEhKdzhlVWFudUF3Vzk?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1712.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1744.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1746.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1751.0
-      },
       {
         "date": "2024-12-06",
         "price": 1755.5
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 1979.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1997.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1960.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1991.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2036.0
       }
     ],
     "current_price_data": {
-      "price": 1979.0,
-      "change": -24.0,
-      "percent_change": -1.2
+      "price": 2036.0,
+      "change": 44.5,
+      "percent_change": 2.23
     }
-  },
-  "news_sentiment": {
-    "summary": "Les think-tanks recommandent que le march\u00e9 AIM de Londres soit supprim\u00e9 pour ne pas avoir r\u00e9ussi \u00e0 attirer des flotations technologiques - Financial Times.",
-    "sentiment_score": -1.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.0,
-    "negative_ratio": 1.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

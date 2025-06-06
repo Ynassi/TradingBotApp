@@ -2,55 +2,163 @@
   "ticker": "SNA",
   "name": "Snap-on",
   "sector": "Industrials",
-  "market_cap": 16563174400.0,
+  "market_cap": 16711418880.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 16.566422,
-    "PB": 3.000038,
-    "EV_Revenue": 3.287,
+    "PE": 16.723442,
+    "PB": 3.0268888,
+    "EV_Revenue": 3.28,
     "ROE": 0.19538,
     "ProfitMargin": 0.20136999,
     "GrossMargin": 0.52046,
-    "DividendYield": 2.67
+    "DividendYield": 2.67,
+    "DebtEquity": 23.477,
+    "CurrentRatio": 4.142,
+    "QuickRatio": 3.025,
+    "FreeCashFlow": 811500032,
+    "OperatingCashFlow": 1167299968,
+    "FCF_Margin": 0.16006864639592283,
+    "ROA": 0.10828,
+    "PEG": null,
+    "EV_EBITDA": 11.468,
+    "BuybackYield": null,
+    "PriceToFCF": 20.556837676132094
   },
   "technical_indicators": {
-    "RSI_14": 46.77709334512328,
-    "Momentum_10": -3.7140675141568846,
-    "MACD": 0.7376112145695402,
-    "BB_Percent": 0.3498569387315941,
+    "RSI_14": 48.23976789267728,
+    "Momentum_10": -1.061710841300633,
+    "MACD": 0.2889313195097429,
+    "BB_Percent": 0.3028385061436128,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8900050879289187,
+    "ValueScore": 0.8870268183380958,
     "QualityScore": 0.4125045592147662,
-    "SignalScore": 0.6604860544292797
+    "SignalScore": 0.6116835701520766
   },
-  "volatility": 0.0172371529710807,
+  "volatility": 0.0172859808141405,
   "beta": 0.766,
-  "return_6m": -0.1254642509006966,
+  "return_6m": -0.1041582262194963,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 9,
     "target_mean_price": 321.3889
   },
+  "news_sentiment": {
+    "summary": "Snap-on Incorporated (NYSE:SNA) a récemment vu une diversité d'actions sur le marché, notamment des investissements accrus de la part d'acteurs majeurs tels que American National Bank & Trust et Versant Capital Management Inc. Cependant, des signaux mitigés ont émergé avec des baisses de parts détenues par des investisseurs comme Two Sigma Investments LP et Jefferies Financial Group Inc. Malgré des ventes d'actions par des initiés et des institutions, l'intérêt de certains investisseurs institutionnels importants comme GAMMA Investing LLC et Wellington Management Group LLP semble perdurer, suggérant une confiance dans les perspectives à long terme de Snap-on.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "American National Bank & Trust Makes New Investment in Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeFN1SHMxaE9XVnJIekMwZ3MzdVlPaHpTYzlWTTd1emFfaW5kWUJQLTh5VVNucC1SSnVpejBsYUtJWjNnamljMmRoVy1TUEx0RFFEQzZfV2ZycjVkazlPanpCWmtRMEs1UlljV3Vzb3Fqc0lNNEgySEpSTWVVY1AyY01Md0JJZFVRV1FqeXdZUE9MS2tRSndETV9venhKWmFRZVU1aW9IazVzNDg0WnRkS3cwZldKcF9iWFlMY2pzX3RBU1RLR0ZaNWdyRWIybmhTMlR4RUc3ZmExbmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snap-on Stock Dips 3.4% in a Month: Time to Buy or Red Flag? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsSDloTlJoTTdsdWRmNkpIOGxYVHlwcU1abW8xOC1IdUlLdlNzVmVBUGF4U3hoYl9IU0FWejB0cE56dWYtM3N0SXNyd3YxVUhObm01ajZlT01USURRSmxjSlpsdnVhbWVfOFhMN0FGQWVjdUk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Snap-On: Margins Will Keep Expanding As Vehicles Become More Complex - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNalZJQkxDaXd1OG9GQ09zUWQyMko2d0F0ajBHSTEyd29XMVpfc0xQVXlnV2h0S3lHMTRIVWgyZm1JNGFPMzlLMTltZWVnaThFVlRrU1ZZYXJuRmtKbllhWkRjc181LXJ1bnlsWVAwakNDYU5XTmdualVldlZ5aU9XbUNqYzlWa0p4UElEMlpLQVFpRUw3Y184VHZiWWptaEd2cjFRelREazZWV2ZM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Snap-On (SNA) is a Top Momentum Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YOF9OelZVNlZnYWpQak1saDBoXzVPeEd6VVo5SHp6OUJIczZuemk2azJYclBjMlFCN3l3eEx6SXdzcWcteGViRnM5Z0lXUThpRFE1SS1GTFdhQ3pxWG9LZFF0R0p2elNGWWV2UDBmNUR5TmpjbDVpVFdRdWVRZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investing in Snap-on (NYSE:SNA) five years ago would have delivered you a 193% gain - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUVNhaEtyUXFUV1RjMDB5SHdMRkhQdlFJc0ZWcnh0UU9lS1J3VV9vMlV2WGtpbnNZdW9ITGhWMFQweDJfR0pjZnVyMU1UX3IyaUJzOHJFR0NoVFg1eUhsaTRTUHk0RWFFYXRjQWd2RHp5ZEZKV2Z4VVRXbnM5VEp1MUIxcFVLS1JleE8tekczV2pVUWQ3cGVKTi1iT1NPMC1hUjJQS3BIcFl6a0hYZzBTNVpQMlFLdG1uNDh6aHJab2VnZENNRVhNNHpn0gHPAUFVX3lxTE9BVU5HazJ3WWUyVWlpS3FDQ0dvSVpCbkJJX0FqOGtLeTBBNmJlQ2ZpV09YT1MyUkEwUW5MZ1o2dTV5UHMtcDBhNlJOYmR6b2N4azdjeU95ejJUX0Nta1VSdzNna1R1N0hwX3RzUktCZkhNVk9DVk1OQ09VdlVRdjlxNFp5UGVnb1NWZXRQeEVueXcwRDhNZGQ2VWw1SEt6d2lYbUp5NURUbWU0RWRmMUpPdk1BSy1rMndENEozOWctUkVqWU9yQ2tqbkppdWRnWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Two Sigma Investments LP Sells 18,437 Shares of Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTDFsVllHT3piNnRzcHk5aU0ybXdTb0I1S0hpU2F6NkFQRkVzS21PLW1QY09Ndkp5YzE3OFNXUXZ6RUJyYUV2Q2VGeUl6TUlnTGVsTlY5X0ZDRVR6RVBEM3d0SFNFRURBS3daeThwLXFzbUJnb3JndGVMczZicFh3aDdYQVl5N3ZXbDhzVDBoN3FxQ3pNalZIZk5fRURxbFpOa3NLRlRMLTlRQjhKamwzc3B3cVFmMkl1cFk2Y0VTSElXMTZYZnNqY0p1RURRZk0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons SNA is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lTUhQQkNQQ0JKNFlBYk5YN3l0U3BpdzlaNUhOVFNiMmJhR09KTlFLRXNWWjlablVDWUphdGEzQ3hnVWFpT1h6TXRISjg5YlctTmZHa19HMGdRR0U3U3FDd2oybXE2Znp3TmhSdUdvNUpMTXdhZ0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Versant Capital Management Inc Raises Stock Position in Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTVJVLTRPSl9SRzVGMTJQejZFMjIxUV9md3lZNm5zbGhGVk5vemxKQ3ROcXAxR2lIY3djRHYxTmpaWXd5VVpzOG5xZnlhM2xkR3MzSWxuUkk3WDU3RFhxeWVFTm1ZaFg1S0VEY29MZGViMm5tb1dxZDBNd28wSG8yOUJEbk1fbkpNRzYzYjVhM09RQ295NW43UHBRQWtSWlgzQ1hqemZEUXdtdW9mMmhzSWZ3V1htSVE5Yks5bVR2czhzUzVKdHFiUk43N19ZYWdRNFpSQ3hQYVFBRG01NVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Snap-on (SNA) Shares Are Getting Obliterated Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xdUlqR0RxQVFFbW9WMml1OU53SmhENWpLZGUwZmZrc0s3bkNHaExHUm45UHhtX0lNUENiODVIMzBLTjd5Y25IUnlBU0hOckpiNFRFc3oyenp2NndTSU1DaGdySVhYVjhIdzRUOUs4TmwwTEU4YlhoWDVKc0tMUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Has $236.92 Million Position in Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGRZZ0ZNbTZqemNOWVJCYk9fMDVCU290R3IyRXktZzk0czRrR2l3NzlRVmkySkFSLVpUb0R4LVJ3dFh2c1c5d1lZTlVpVnpRY1RjaGozY2xmNlRRT2VZc0ZOdGtCcG1jR2RtZVFfM2NZTUl1VDdXWjZNcnBGUnRiSUN3Nm8zWGk3N0tWakc1c2lEaFFKZnpWX2YzM0hNLWIyMXFkLTZCOUY5N1lkUVdYTng3SWtqUFR2cm1pamZQR3NLSzNkUjNz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snap-on Incorporated (NYSE:SNA) Shares Acquired by Mackenzie Financial Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUkxIR3QxQ0hsNWstMmt4NDhBM2RsXzBWNlR0ODRGTVpQU3NNYW9KV2pHTU1vYWplWFZJbmZsSnlRMXd6ZlUzWUl4Sk8zR2d5YWNGMDFGYjgyYVNEUGJubkh6SWpDblQtdVR3NFEtcmtIVkJwbExpZ0dScmxqWWRFOXhmdlNDbTVnWVVnUmtBV2RPMWFNT0lNMDJSQno5aE1iNzFkYTB4VEVORm9pdG9Lckp2Zm04U2paQmVrMW5CZEx1VnFSRUpEVGlqbFJKWjhvOUctWg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wealth Enhancement Advisory Services LLC Grows Stake in Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeGpRR01BcFV4S0Z1VVd6QUVpbDg2ZEpLWFJoLTRXcVRCVndEdmxYUjkzUi1EX3Y1ZGtZbDZybkFmcWFLSE9QYm9lY1hCLTVMbHJ5Q2o5TzVmaC1CY1JKU0Y2T3pTOGRReDU2UHE5TzJvZi1jMGVhZVdMUU04UFJsdzRIRHVCeXBPWmpuemZUMU5Sb0RKYXNiWHJ4NDFNUWZIUkRDM2twMEl2alhBbHZTYm1QbUJnZ1VZQmpDRmtMY0lNSnpYck9Kb0d1YVIwZi16UDR1N25Ea0FBWE1jWFVObw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Selling: Snap-on Incorporated (NYSE:SNA) CEO Sells 23,172 Shares of Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMC00eWNfTHJ1bWZUbGU3ZlJqcjJlb2ZoNFJVQlFtN3E3NmczdGE5S1Q2T3JOQS1HeHJ3b3JQTVFFY3M0bHU0LVZKbnM4eFlXckF5eFBiX25YdVJiM1pnV2l3TFlIcHo0aktMQU1hVE1yY0ZfS3BoelVrT0tVM1VQTXMwSXVuX2NKVkFDVTRZMlFUT1ZSbGNhaWxDWXlMaDVhTXFrTEFEdmowNndkazJlWndlY2owaFpZdFRxREpkU0Y1Mk5YdW9BdzdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BTC Capital Management Inc. Has $3.48 Million Holdings in Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZkN5d0p0N3VvTmZmSlV2eVBPWk8zTnpEcFJBWWFud1NiYUw4Wl8yUXMwSnJicVNDRmNGVkVDNmN4Rm1haGJXWEN2dUdjRUFlQlI3TkFzZjlycl9YODdZaExBelFBYkRQWTZXWlVuUExNVmlKc3NFMGhFNi1jdEd4YWRnTko4dklVNEtNbFpEVHFsd2ZNdXdaekpkdDNGNWxZQnhDYjQ2WEFLY0xWVmtVZ25UNHpOdFVybXdkbUFfcnVwTWMyQW9OVmFvdHhmVThDSmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "California State Teachers Retirement System Has $30.78 Million Stake in Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeUdNVHJYTG95S3FJTTl1Mkg2TXp4Z0tRRmJMMXh1YzE4R05BSTYzOGVnaWhSbDJqTHhKWUl1T2JfZXJGbTBITmRyaXhZLVV1YVI0cWhuMWFtNGF4UEpjMzlqZFVYRkpXZmdrYW40dnQ0SXZMNzM0NHN4R3Q3OVh0S3JkdXJvMExHRS1QcFRuY1dPbk1hV2czckx6MkVpYjIxcW1EcFBVZ2hxSnk5bk00Z2J3ZTBJdXNGdVV4c1NEY3FEVHlXd2NtdGJKTzZYY0o0Sm13MUhyZTVaOThmQ1Y1OXZhNXVFdUtLSjlrQVBkRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wellington Management Group LLP Boosts Holdings in Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkIzQzU5S3hEM2w1YkthaURKY0VMamZZcEJydHVqX3E4bTVqRFFWX2R6TExybzJwOElNYWVQVjEwLVpzSUZxbVMwaXpYLW5lQXhyZnc3Uk0tUU1iU21uaVZFblhtdE1RekdZT2VUejhVZGlLbjdHdVdxeENvdGtETFg3c2JrZWUxYTBvX2YxTzJXNjhqZUZfWlRUM3dYTUxoQXBIbzV5S21GRTA1M1l4YjI3cjYxUU5hMDl1RmpFQ21tUUt6Z2Q1bUNRWDhRYjBMb1lQLUhCNA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Sells 848 Shares of Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQckFlQWxhTTg2VUowa2FYZnc0VFFSSWc4WG1CV2hDYVRXWUlmUG42cUV0X3l3aGdDREF4dmcxNkFrbTFjbjF2M0JHU1BMXzd0RmxRdlZaRWRxWXJMaE9RME9HQ2hmeUxDS1pwN3VPQlBXcVB2Y3hlSFdsbkYxRFRkWlVqRmFmbXhwem9tRmY4eldHbEZDN043ZlFNaFdXV2hzZnQycW1ycjFFRTdqeGg1aU95dHhwdkdlcEwzd0wwa1ZpNnRGME4xUjVLYTNtWndTWFAtUlc2cmpFNzZLN002U05MRF9RblU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snap-on Incorporated (NYSE:SNA) Stake Lessened by Jefferies Financial Group Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYk1Fdi1sWnJUQzBoV3Fad2NvOFlvc21NakU5LTdXT3lXdHB4VXNubFJaaHhmLU5GODl6RXRQRUdnalhxOGtxVHNkMkxETkhoN3EydlV3SWhBLTE3N1hhS0thSHZKSmkySHpvNDYycHhvWU1UdmcySHFMRUNQLVpENWRJZzQzbVV5RElqLU54QTRQVnFkQmFtc3BZdlVxVTFJRUI5V1V6Ql9zcVAyXzhlSTlERk43NUVGaWVXNXBpaDIwSm1TcndJci1zY01mWHV2UmVsbEVzaEpVUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Snap-on Incorporated (NYSE:SNA) Shares Sold by Unigestion Holding SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFl5OUpQazVZRUd3VURtemxsUFJoSEJfNGFUMDBWV0hsVFpScDA5bkdoZmNSbFpPVVFxRjJZOXNQdXBwdGtGNTlBNmFRRzRNUk9aWWZDZHBkMlB5Y21xdGdoTjBaRkxnajM2cVlWOV9vRWZRTm5ONlV4NDZvRlpfTGZvTnZRWEcwT2x4cG1oR0RQU3EyYm5WSVFMWVVtZVdJN2cwRUZ0QkwzVDhzdm9YbDZDOTZ3ZTBGeVB6b2FkbXNxYTBR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Has $2.38 Million Stake in Snap-on Incorporated (NYSE:SNA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmR5WGRqYTJpWTZGOFl6a0FLSnlVWGxaczAxTm51Q3ZSSlV0TTNoN2xXV3VSTFJlYmVMWXl4ODE3VG9Dd2dtRV8xN0tRSFdqY1FBN1JWNlg4ZzkzOTZiM0lZdW5XTWpjR1EtQ1dOZlpYU21RZkh4SVhRSXBEa09INERSSzBBbkVtTWVpTWk0Wm92OENlN3RWRnM4dGFPSFFhT0pza0cwWkdqV3loUzZKdUpfdnBGQ01yWmRkVlJZUy14UF9mUko1cERBaVJfMGRYczFPUUNB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 366.88
-      },
-      {
-        "date": "2024-12-03",
-        "price": 365.1
-      },
-      {
-        "date": "2024-12-04",
-        "price": 362.86
-      },
-      {
-        "date": "2024-12-05",
-        "price": 361.36
-      },
       {
         "date": "2024-12-06",
         "price": 357.77
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 316.42
+        "price": 316.49
+      },
+      {
+        "date": "2025-06-03",
+        "price": 321.08
+      },
+      {
+        "date": "2025-06-04",
+        "price": 320.09
+      },
+      {
+        "date": "2025-06-05",
+        "price": 319.02
       }
     ],
     "current_price_data": {
-      "price": 316.42,
-      "change": -4.31,
-      "percent_change": -1.34
+      "price": 319.02,
+      "change": -0.92,
+      "percent_change": -0.29
     }
-  },
-  "news_sentiment": {
-    "summary": "Snap-on Incorporated (NYSE:SNA) is a global provider of tools and equipment for the automotive industry. The company has recently experienced a decline in stock prices, with a 3.4% drop in the past month. However, some investors view this as an opportunity to buy, as Snap-on's margins are expected to continue expanding as vehicles become more complex.\n\nInvestors should also be aware of upcoming meetings for SNA in Milwaukee and Chicago, as well as the company's long-term potential as a top momentum stock. Some analysts also see Snap-on as a quality business, product, and investment opportunity. However, there are also potential risks associated with investing in SNA, and",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

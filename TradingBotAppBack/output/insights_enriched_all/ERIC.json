@@ -1,56 +1,164 @@
 {
   "ticker": "ERIC",
-  "name": "Ericsson",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 28675641344.0,
+  "market_cap": 28631470080.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 170.59999,
-    "PB": 0.33042803,
-    "EV_Revenue": 0.079,
+    "PE": 170.2,
+    "PB": 0.3296533,
+    "EV_Revenue": 0.08,
     "ROE": 0.020550001,
     "ProfitMargin": 0.0064499998,
     "GrossMargin": 0.46208,
-    "DividendYield": 3.12
+    "DividendYield": 3.09,
+    "DebtEquity": 49.987,
+    "CurrentRatio": 1.09,
+    "QuickRatio": 0.852,
+    "FreeCashFlow": 41742249984,
+    "OperatingCashFlow": 45544001536,
+    "FCF_Margin": 0.16724998316172737,
+    "ROA": 0.02646,
+    "PEG": null,
+    "EV_EBITDA": 1.073,
+    "BuybackYield": null,
+    "PriceToFCF": 0.6859110395576323
   },
   "technical_indicators": {
-    "RSI_14": 54.76531376840619,
-    "Momentum_10": 0.70837619894704,
-    "MACD": 0.1225830973314536,
-    "BB_Percent": 0.5455093555830413,
+    "RSI_14": 53.39153007568171,
+    "Momentum_10": -3.9503322952347606,
+    "MACD": 0.0924675046198313,
+    "BB_Percent": 0.4674943408986245,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9104592221388728,
+    "ValueScore": 0.8754914703912159,
     "QualityScore": 0.4593081940168719,
-    "SignalScore": 0.4498151432590574
+    "SignalScore": 0.5599095805049934
   },
-  "volatility": 0.0232201372916182,
+  "volatility": 0.023210951133089,
   "beta": 0.437,
-  "return_6m": 0.0546019105651753,
+  "return_6m": 0.038235761228796,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 6,
     "target_mean_price": 8.10667
   },
+  "news_sentiment": {
+    "summary": "Ericsson (ERIC) a récemment enregistré une forte dynamique, notamment avec une augmentation des ventes en Amérique du Nord malgré les craintes liées aux tarifs. Les résultats positifs ont propulsé le cours de l'action, soutenus par des perspectives encourageantes post-Q1. De plus, l'entreprise prévoit d'investir dans la R&D au Japon, renforçant son positionnement sur le marché. Cependant, des incertitudes persistent concernant des actions de cession de parts par des membres de la direction, ce qui pourrait influencer le sentiment des investisseurs.",
+    "sentiment_score": 0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Ericsson (ERIC) is a Great Momentum Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPblNROG5OTDRWQUNDTVZ4N2tCSndqNGEwenJ6ejlRQUtlc0paZEVZWmdfUERRandpMVRfNnBBQmJTSl9yQlo3VXVEY0NlUGFsbmRBdHpGZ05mU3g0eTlHVE51R09BdjJFcTVFcGpoLXBpOTlHOVc4cDkwMXNsVEd2aWI3QjVGbmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ERIC Elevates Digital Experience in Jordan: Will it Benefit the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdmV3dkVFVmVtM0xLRTZrRU9wX0NIYVBCTHpUcDBkQ3g0QmZwTGg1QUw3NENYMlJWT1VBanU4VURhSlpxQlN3NFJBRVk5Y0I2dHVBQl9kSTNRX3ZoZ25jS2RkeEh0dktjM0ttVXB2amM5cXpBOXpmSGJXanJBeklFc0M1bm5CNk1wYzlreXlCMlNEQjhsYlFsMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What's Going On With Ericsson Stock On Thursday? - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNamotZDJlbDl2WjN4eGNKb3FVMGU1SU85WlZTdmdDeVNTYnk4RlFHM3J1S3BYRWxtWkt6d1lrNTFaVE8zZmx2NDFGU29iRWxpejR6ZmNJVzNLTlo3a2RELVA5SC1hNnJ4bld1elJvZXNwYUVjdGcySnRXWFBTYlJBWTdCU2RmUTNXak5lbDBMRWZUVWJsd25WSHdBQlFGc19zeWpLZVg3V0hBYm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rep. LaHood backs Medicaid work requirements in reconciliation bill - WGLT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTdXYnlFRlZLc0V5YXVnQXE4LTU0U1JNYkhidlBhTWM1eVhkeU5idzVUNjMxTGxiVGZqQXpqZTB4TnY1UVRTUzktVHpNa0hwaS1uZE1wWVpKTXVfNEFramJHMGdrem9fVS1uU3ZHZ3RPWDBzQzhGOVBRLUJMTUZDS2ZXLXRzcGRhN1R2VVB1MmxaZFo5RUZFR1Q5WGVvNTk3VXQ1MzZQYnJrM2lRb2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Will Donald Trump Jr. and Eric Trump sell $9.6 million worth of stock? Here’s what Trump brothers are planning - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNnpxQ2c4U3RlNXBYYWgxRVhEUWJ1bmVxNFNTamZGakJldmoyU1NraldhZ091cVZJaDE3SVl4MjBNbFM1OFJWVWZ5S0ttNTZsQmxyWTljdlpVSVBxdGI1UWdVaXRhNVdwVklyRjR4OGZVQjdqQkUzdkQ1eFBtb2k4ZE5YYktKVWVLSXRCNFQtRUVzcXdEZngtaS1OTHNqUURsTWV5X2lZRVF6NTAzbExtOHBjUW42LU1SMzNESWZiZXVhZ1lzZnpzRnBheEtHamRUcUttODBBeDRQZnRsS2tETUh1ZFZ5dG0tLVZvNnZEQ2ZxeWttZi03cVNrNE13T2wwQ2Y2cFVWR0g3eFpYUjNZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What’s Next For Ericsson’s Stock Post Q1 Results? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSW1wWjVvN050SUNPNWh0S1pfdHdmXzN5Tk5xLXFjMUN4eTNjZTJUWGtkREpfNHNIcU9Qc1JvQXplazRIZmVIbkxHaWp3SWhZYXkxekNfeWphZFN0eUlQdUtIN1Atd3JUa1loSjYyMzZ6QjBwNWpiZGVFS1VSR2tRTVJIbzZEdG9CT0prc1ZQRkxzd2RxeUdJWEtUck9EaGhsdkpfLTBzVnV4S3M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ericsson to utilize mandate to transfer shares | ERIC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1AxN3AxUUJHMng3bkZvUUpIQTM3OWlSZzF2SjZDaUFVWGFla0V6N1VBOVh2MTI1a2lwTy1BZnMwM0JTYkpDX3NhZDhCMmtGVkNxVVYyc0MwWmFUdE5Xa19FTVRHSU5vZmQ1R2RQb3BmQ1ExZkxsQjJzYkhjcUhyTFFYdUVTQnR0NmFZV1RQc1Nsek5LTVZZRmRBZ0U4RmE0cEV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eric Trump-backed American Bitcoin to go public through all-stock merger - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUFB0QU9oYjlIajNRdU5uZ1FMRXNwTkV4OVRwdFV5b0lUR3VFVGY1U054TE01Ym16ZGlndFVHa2g4U3BSMkNuaHhuamRQSFc4MjAtRExWNE5PSFd1b1NPVkF0TmFRU3U4V2RBVWtRSERxNk5CYkxpNXVzUjlabjd5ODVFU0dPVTVlamcwMEpkZEpYSW12ZFBPaGtZS2IyODlTTFJSZlV6QTlUQ3ViNlBxSndEeWo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ericsson Stock Surges as North American Sales Jump Amid Tariff Worries - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYS1TaXEzWWp3a0xnZm95YjVwMXAtaF9iMWEybDduQTVZN1dSeWRDN2dXUnVEb2pFME1GUU1VT3JsN2M4Zl94T1VaeEE2TTJDdnJNTWlIQUpVX3VHRXZ5Xzk0RjNiRnpnMGlTNjNzX0hrMlYxcV9IQUM3NHNPVTItMXVsbUtzaGk5aG5oOGUwWmZJdlRBX0xKX0RwN0JCQnRMcFdra0Z4OHNETEFX?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What’s Next For Ericsson’s Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeWRkVnZsclRKNWNnRC0zRi1tTF9QbnYtOWFtTnBrU0hTb0h5cHMyUGpZVHpLVnNJajNsaTEteFVhWlhrUW1Tdjg2QnBKdVVZREtJQVVOd01naFFyX3UwdklJZDBOSDNKcV9uZlU1UmFXaVBGTWZVcUVUT2RadkJsNUFfQ2JFTTdVVHMweU94QVZUSGRhUEFTVVlzWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ericsson’s stock is climbing after strong results. Thank tariff stockpiling. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMzdUdjl5OUJvVnp0Q214b0R3T2ZtOWtNVGx2YThkM1FTVG1DTGFFa29nd1ItLU1FZmdOUEFVenN6bGk0cDIwUk1vNzV0dFhaUkpuam8yWXI5WDA0dWRVYk9rUHRxaG9YcDlnNnZtT1lpckJfbjlxMEI2NDBsTUlUQlNZTE8wR2k1azlvOV9jM3FJd0V6NHIzWXdteV9oNzVkbElCV202TW40WGtFWjEtZTJsZHJKOVU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ericsson Jumps On Attractive Results, And Shares Deserve To Rise Further (NASDAQ:ERIC) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONTVZaE12bVJkY05JYWpnSUx3aVdPX1RpeTZCWTBydmt0N1Zwb2k0SkdYV0VBeFFkd0tVN2N2dGE3X0NuTmw3OEFiSlJUdG9VbU9EbGstMjZFa21vdmtjWG80ckZnMFVzUzl1OUl4SkV4SE13NTBrYjR5c1hrenZCVk0zeUlHNnNzMUNHaDNoc3hyOWxUVkozZFotNS01RFNlR0ZMRVRiYklDRGh5RkRUY1FB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ERIC Quantitative Stock Analysis - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LTG80VVdubVZoLUJpUzBzS0JmeW9vQWNoY3Qwd3hSS3hkRXVkVW1CMjBIaW5wQU1UX1hQMEZwaC1iT0l4ek9HRm1yeGtrVFhlR0JsYzRuelRpbThaekFLbGtYaEZsbmZ1QUpxbTllODVzUWlWUnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Computer and Technology Stocks Lagging Ericsson (ERIC) This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbXN4Y1VDa09rOE1GWVVoZWY1cF9QeDRXRUc4T283NWNfYTNpLTBXNnQ0SlNUb01xcXFnRl8yNlZzbGF6c0MwQXR0bEJ2akt4VGlQeUVFUmpFckdpWl9uTjNWM3FaQzdFVlZSOGprWGd1WUp4ZzYtQVNhLVBhbnZEenJxM0dsc19uTDIxWGtCV1J3RnM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "New number of shares and votes in Telefonaktiebolaget LM Ericsso - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYU9MRG9NZ1kxUHB1TmdVcXUyQl9OdXlxNlNzaXVIWlJoTVF5R1Ixd2tGajZaUUFYMTkxR3pIVGVxaGphQ2ZkOUlwYi1rOE1XejZOX3NFblE0bENOMjdZRFRDSExDbjlXVzhDeW5seWxJM0lVWUtaSmE3LVVfeVUxTThSZmY3bEFfa2VpdWNDLVhqNTZoSE5ocFhPUUw4cWFBTnJYazlha19JV3c3OVI3WWo1M1ZqMTBEc0MxUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ericsson (ERIC) is a Great Momentum Stock: Should You Buy? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWZaS09uN0J5b3ZQUVI2ajFDd3hhVjh4U0hfUHNGMXhCNG5SNG1EU003SFRfYkhFTThvVkNGbHI0cE44czA3YjFkcHNYWGk5YTJwaTltUGcyQWFrNnV3eEk5VzlTeGs4NjBfUWRIYW9RNVpHRXBoMnRpZTVYckx5NkFJUmZRcEsz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here’s Why Telefonaktiebolaget LM Ericsson (publ) (ERIC) Surged in Q4 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWU2TzZKcV81RnpBTWozRjhHVmFjOFJ3TGJxMWFZSm5KdjJjSnRvZnlveDVfcXdTbmhmRzZ6bzZ1VVJEUXhVdFdseHJvQkVDcXVPMlQ4RTEwUVZLbS1xSHBEZ3JjTnJfb2RveW1iVWZhekxHVlJuYkZ3VkJ5dVppNnlqSTQ3Qmk5eUlWODFrcw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ericsson commits to Japan R&D investment | ERIC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1NCZGl6QmZtSklvellxZ2RELUREeDlpazc4LVpsY3REbWlyYzVTTUR0WjNhem1hdDkwUzlnZndINjg0dDB1MW11TzA1QkRjY3FUemt5RHROU2J1VGpWNHZrR3pUS1J1aWZ3VGswUlVBYmw2dHNBUnM1TU5VLU5mbW8yNjYzeFlsUjBBcE5md3dWUVAwX1FNQzVjMkZxQy1rSVZOOTRQMW55QQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ERIC to Upgrade CelcomDigi's Network System: Will it Aid the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUZoUC1Zck1fV2V4bUlaUDdVMG5mQi1Jcldfa3NmdmNlS0hBR3VNTWVFVmdjTGltQ281ZFE1N0gxZ1puWUZNUTA0MGh0WENNeEZLWk5jQXdhLWxFR3BHb0pKM1dQNXl1T3dPbTJsdG43MHBxR2VjMUN1RldZalVCc0c4NTRsZlVlZnpLcGpKXy1CR0U?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Biggest stock movers Tuesday: ERIC, BA, C, HPE, and more - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN1NmR3NtWDFRQWFCd3U5QmZoYUFpN0pDQXJVUURyeHgxVUJUcG5zRDdlcUJ4aDBzcHU4VXZDSmRRNVozQm8zNHhUR0dQamhEOVFXMWRva2pTbDl5NlIyeGFrMFVaX1Fjbjh5MFhZMnZxUDAwX2c1VXBGbkRPdUh1XzZjUFpnVjhMSzRV?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 8.22
-      },
-      {
-        "date": "2024-12-03",
-        "price": 8.2
-      },
-      {
-        "date": "2024-12-04",
-        "price": 8.28
-      },
-      {
-        "date": "2024-12-05",
-        "price": 8.45
-      },
       {
         "date": "2024-12-06",
         "price": 8.33
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 8.53
+        "price": 8.55
+      },
+      {
+        "date": "2025-06-03",
+        "price": 8.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 8.54
+      },
+      {
+        "date": "2025-06-05",
+        "price": 8.51
       }
     ],
     "current_price_data": {
-      "price": 8.54,
-      "change": 0.07,
-      "percent_change": 0.83
+      "price": 8.51,
+      "change": -0.03,
+      "percent_change": -0.35
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent Ericsson, une entreprise cot\u00e9e. Les cl\u00e9s tendances sont la forte performance financi\u00e8re de l'entreprise, les tariffs, la pr\u00e9sence des Trump en tant que actionnaires et le stockpiling. Les signaux positifs sont la forte performance financi\u00e8re, les tariffs et le stockpiling. Les signaux n\u00e9gatifs sont la pr\u00e9sence des Trump. Les signaux mixtes sont la performance financi\u00e8re. Les \u00e9v\u00e9nements marquants sont les tariffs et la pr\u00e9sence des Trump. L'actualit\u00e9 globale n'influence pas le sentiment de march\u00e9.",
-    "sentiment_score": 0.2,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

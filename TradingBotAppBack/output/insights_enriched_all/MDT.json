@@ -2,55 +2,163 @@
   "ticker": "MDT",
   "name": "Medtronic",
   "sector": "Health Care",
-  "market_cap": 107047559168.0,
+  "market_cap": 111527911424.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 23.131578,
-    "PB": 2.2290585,
-    "EV_Revenue": 3.762,
+    "PE": 24.099724,
+    "PB": 2.3223531,
+    "EV_Revenue": 3.862,
     "ROE": 0.09508,
     "ProfitMargin": 0.13901,
     "GrossMargin": 0.65507007,
-    "DividendYield": 3.42
+    "DividendYield": 3.32,
+    "DebtEquity": 59.093,
+    "CurrentRatio": 1.849,
+    "QuickRatio": 1.202,
+    "FreeCashFlow": 4734249984,
+    "OperatingCashFlow": 7043999744,
+    "FCF_Margin": 0.14116498390765514,
+    "ROA": 0.0461,
+    "PEG": null,
+    "EV_EBITDA": 13.548,
+    "BuybackYield": null,
+    "PriceToFCF": 23.557672662179385
   },
   "technical_indicators": {
-    "RSI_14": 49.366917296608825,
-    "Momentum_10": -3.22189216040016,
-    "MACD": -0.641815505135753,
-    "BB_Percent": 0.4904255430257939,
+    "RSI_14": 60.46028898798117,
+    "Momentum_10": 2.961734263165563,
+    "MACD": 0.0605741238914703,
+    "BB_Percent": 0.8351233364522952,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8879281708091753,
+    "ValueScore": 0.8844841418492594,
     "QualityScore": 0.4133028488756903,
-    "SignalScore": 0.6442042768400873
+    "SignalScore": 0.523848840829352
   },
-  "volatility": 0.0157650522193165,
+  "volatility": 0.0158777758559652,
   "beta": 0.83,
-  "return_6m": -0.0190039649740015,
+  "return_6m": 0.0512074501531512,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
     "target_mean_price": 95.43037
   },
+  "news_sentiment": {
+    "summary": "Medtronic (MDT) a récemment enregistré une série de hausses consécutives de son cours en bourse, malgré des perspectives mitigées. La décision de scinder sa division diabète, évaluée à près de 3 milliards de dollars, pour en faire une entreprise indépendante a suscité des réactions contrastées. Les résultats financiers du quatrième trimestre ont dépassé les attentes, mais des incertitudes persistent quant à l'impact de cette scission. Les investisseurs sont divisés quant à la recommandation d'achat, de vente ou de maintien de MDT à son cours actuel de 87$.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Medtronic shares uptick for eight consecutive sessions (NYSE:MDT) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWGp6T3YtN0xja3l6RmlVcjlZdjM3X3VtZl8xZVRaUnlieXprbTdIQWtRZmhsb3ozOU8zZk1IVWdtMXJvaTV0YVdMYTdvend5ZzZEQnFiWlVhVTQ0OVRubTRxemVzSGdHMW13WlhHQXpIQVpRMm5sQVpvMG1TZEJENUlQM2dCTWJUYWhBUjdQQlpiNWZtMjlz?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How Much Would It Take To Earn $100 A Month From Medtronic Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzMtbzczOW5pUHNieFpjU2N4UnIxMnp2UFZ3dlBZNmV5ZGdRdUV1YjU0am51QWpLdkk3WmNZVVFvNHd1bVJnODRlT191QlM4VmlxU0k0UDlUb0xCWk1PSTJ3X0FWcVB2Ry1LT3ZYOEw4LVVtZXg2alVqa2MwY2YwUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Does This Move Make Medtronic Stock a Buy? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR3FqejcyLWN2N1VwTUhtYmVFYUlKYm5qV2JGY05ma2d1b3RlX291WXVKbEU1RkpvSEtXY19FUDB1bHM2UVFBWmNfYnBvZ0tYQWtRT3o0bnRWcG5tSmhLdkg1bXBSTTd0SWlIZUpMR21veVE3SzVkVmhiN3BMenBKUE0yR1V4RVlHWVhQWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Medtronic Wants To Spin Off Its Nearly $3 Billion Diabetes Business - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUDB0UEV0VVhkNUVfREhRUFZ6WDdqMDh5TmRRbnZPZDZHV1NtWDl6VDh0RVdOSmwyTm5DTEE3SmpYSHVoM1lQdmNST2xyMXlPdmlabkdFMVBuMFVicUNwSFdRbmVhMlVpbV9VaXU5QlZSNEdkNkFTQ24xSDVvUDNkeTM5ang1M1pBWFc3aWVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Medtronic (MDT) Stock Declines While Market Improves: Some Information for Investors - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFdGLWtnM2ZKVzR5SXIyUkNmaVQwdG1yNDd4ZzMwckd1ODFOTkVDUWJKeUM2VjlDbGg5YjV1eUExbHJYY0V0cU1LRGJYc0RjeFBDU18xa2NRazY1bGZIRnppcUdnNVljeEtlMjBQbHJUakxUVUEwcDlkYy1xc19YYmJoeUZOWGVQWlI0SkcySVBoZWpaVDJvLVR4Y2xsSjJYZGZydHVNZk8tVjlhSkE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Will Medtronic's Earnings Move The Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNzBmQnh0YWcwajNEQTNwdl8zdmNEUVFsTjVGcndpRHpLc1ZTdU9zRExEYUI1QmJ1TjZ5UFlIeTd5TUE1U1FIZEgyUk55cUZpaWhWcW1pTXRPcW13dzREMEl2d0RMODlnczdJb3gtZjlrZXp5TDRHSkJZSTJxNzZoVWplR0hnZndwVVlTbVhxTUNFYUtFMkFvY0NkTWZhM1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Medtronic Stock Underperforming The Dow? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDBab0NlWFdjblQwS1IwTk95RnYzbmdtU0NxRG9jM0NiRUk1UFhTSDdNSG45NDZIbWVwcHpDaUZZTkptekxCZm5Sc2JqR2NDdTJ5aVJDSld4UGFyTEhvenhOUkhOdE1Dc01FUTdZd1BfUzAyblJHczNWUGd5bTh3a0s2M05tbnJQZ01BalJwWGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Medtronic Stock (MDT) a Buy Ahead of Earnings? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOE9OTlVnNTRpd1hhUEpaODV2aXhrN3FsdEszU2hWTExSNUkxa2tLMXJrcFdKcUFnV2JaNng1WDg1am9mbFVVRTJwdS1MMWxlS1JXeGxqcmZVeEpEUnZCMnVRUjBkOVRUbjdCMG9OQTI0Rjd1bDZuOEZhQ3k2aFJ0dFZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Will Medtronic Stock Rise When It Reports Earnings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHJsdGRhUTh4WnJScW8wVUpxejNWODd1NU1UU1VMSG0yU2J4Q1NJOEM1T0J3a2pHTGRlUFdXNFhWdDdjYXF0LVBRc0QwdnAybW95WHp0eXFHZlgwNkZZVDNGTko3ZTkxZ0xWVjRDbUV0ekpZZlNIUUJ4SnU5c3JRUXViZkVfUE1kNE1fYkw3OUJIMlF0SUJVYWlaaG9aT0stSFJQdE4xcl9ZM0owa0R3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Medtronic Plans Major Split: Diabetes Division to Become Standalone Public Company in 18 Months - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc19lMGF5d1JIX1R5TjUzTjl4NTNuTUlfVzRGcUlEZFFacHRvVFZYWUNVSThqdHBQbjQ3NzBxcFNHZW9FdzluQkN5dWFFNmwyY3p0blllWTdtUFMtWU00WXVTemRTZGlTeHN6ZFdLSk1UWWdUTy00QU5PUjhnOTE5SkVWSHVScllicC1pQUpuWUQzakZZdTZ6Yi1jSTdrYUV1eE13?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Medtronic plc (MDT): “I Like This Medical Device Powerhouse” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxTGRMM0gzUjFGX3FJcUJRd2dueHV4UkNZdzNMREp6dkRrQUdZXzdRalFpX3pDRWl0VkE1aEh1UUY2eFY5ZGtrdGs2b0tjeWRPcTNMWEc1NExyZU1uR1JwWjZMalRwOEdhZ0pvZ09peldYbDBMVEIxckYxZXZlc2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ISRG vs. MDT: Which Robotic Surgery Stock Is a Smarter Buy Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajZRVEtzalMxUUQ0S3pESjRaeVhKSjBOSy15Y2hsbGJ5VmNsWkV3MldNdU1hTldYeThTZWtsNHJZOERXSE1LRWx0cGo0bHFNSEFuVmNGTGZsU1h1RTd3MjlrSml1NUxlZEI3MFc0N3dtUEdfVUxyZllQUi1QSTRzU2I1Y24wWGpzTDVnQm5OeUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Medtronic stock drops as outlook trails consensus (MDT:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHFlY1hNMFNZTG1rV3VxM3VYNkRzOEQwdnFwa05JXzM2YkxsamVKZWhZSERWd1hmTC1wdjZDUFFyREhOd1BDcEVrMW5vRGpSMjRRVUtIN1ZxRko3cHdDSzdkNEhyRXo1S05qcnZvaHR6ZjRBb2VvSERkQVhINENtUUNkZ2JRMGV4SjF3cw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Medtronic plc (MDT) the Best Medical Device Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUm1SdkNSWWwyUjdnVXotdGFjdmpvcS1YRGM3ZG1mTWdjQXRMVWFLRVJLNXBjN0E2R3J0SDkwMlZuc2lpa3dQWS1WakVqS3AzRTBVVUpQX01xVm1YbWpBNGhCS3p5MTRoTklRMEIxbUdLeU44QU9RZzdoaFRjT3A4ekR3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "I'm Buying 2 Must-Own Dividend Bargains - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNDdHcTNncEtjbDFRNmxPZ21MV2dweVZWc2dHMDI4TjcwamJQR05hTUdhbTRUcnlpV2tzZEo3dm45N0RQQVR3SUdnLUpYbzNWNlhfZXBvVlNUNkdaN3pPeVVnNEdwYVlJZ2RuTk1rSFJjb2FKY3E1bEdMTkMweVFQLVFn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Medtronic plc (MDT): Among the Best High-Yield Dividend Stocks for 2025 and Beyond - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZM0dEUHBhZ1cwNkdrbjRtRUExQ0dFYnp6UjhXY043a1NsWVA3UGJWTzN4NnQ5cUszMEp6NHNNQm44S293aVBvYklXVmlfWTROaEszNlBjNmYtSUF1QVhvSkhpTUxLODhsUy1mSWd6eWo2NnQ2UUp5dnBnOXBmdTg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Medtronic (MDT) Stock Dips While Market Gains: Key Facts - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWZFbWVUOU45dENzZEl6MExLWExHbzAtemE0LUpxSFNOUURGR1hpekVmRXNNaGp1RUpad3JOQjZZcEdiOTBOb2JjWTVwR3ZNeUlkTzhtMjZrZ3JwRlZRejAwMFVUX2t2bGc4bmcyNjljTkh4aUM2U2ZILWxqUk8xV1JpRWR5Z3pUazJ1U1h4YzU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Medtronic (MDT) Q4 Earnings and Revenues Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTjd6VFp4WTVnWG9RNEhfS05TNFhycjVxa3JfS3JndzZxZFcyZTZYNGtCRWQ0Z2dKSUg4REdXd1JLTWhZbTRVNnZKUW1abEpoWDE4X1JmU1J2TS1UdlNoQWk0WGhpc0Z4ZEdvVExCMThwRExIZ1B6YXB0dGJ2N1JGajJaT3FSM2M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Medtronic Stock (MDT) Looks Poorly on Diabetes Arm Spin Off Plans - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDdibXFfNEpvMUVWMUFqRDFWaDY3cEFrSE0wdHdyd2JTYmFQTHRIWktSVHZEaWtvOExKSjdITnlJRk96RUJDM21ldFZNVnhVVl84SDZ0dDdOYlpxTmVwVlk5Wm1DMS1LS3VSb1RDVnF3b19hOW5nWUpRQm1wSEtXT01vRlJSNnVNMExJbzdJdjBhNEFBVGNFaQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "MDT Stock At $87: Buy, Sell, Or Hold? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3ZMbHBFUTBXRDBRck1QbGVsclpBVjZzVWhfUWZwZVR1NElIenBoWEdjRG5tQXVGc3QteWtuZ1o5Ym45WVZwZHVFMVpQNTNLUTVSZlNnLVQ4QUxCRWRCNGxydkE5Tm1ENGV0azlwVkhvNW9oblRUQlhWX25zdWNqTV9aZjk4Q2tfUW5GcHdRZVBDaENCRkE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 86.54
-      },
-      {
-        "date": "2024-12-03",
-        "price": 85.71
-      },
-      {
-        "date": "2024-12-04",
-        "price": 85.32
-      },
-      {
-        "date": "2024-12-05",
-        "price": 84.14
-      },
       {
         "date": "2024-12-06",
         "price": 84.01
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 83.67
+        "price": 83.74
+      },
+      {
+        "date": "2025-06-03",
+        "price": 85.54
+      },
+      {
+        "date": "2025-06-04",
+        "price": 85.6
+      },
+      {
+        "date": "2025-06-05",
+        "price": 87.0
       }
     ],
     "current_price_data": {
-      "price": 83.67,
-      "change": 0.73,
-      "percent_change": 0.88
+      "price": 87.0,
+      "change": 1.39,
+      "percent_change": 1.62
     }
-  },
-  "news_sentiment": {
-    "summary": "In this list of recent economic news, several positive and negative signals are highlighted regarding the stock performance of Medtronic plc (MDT). The company is considered a potential buy by some, with investors looking at its dividend payouts and bullish options activity. However, others are less optimistic and have adjusted their price targets and sell ratings. Additionally, the news of Medtronic's plans for a major split of its diabetes division into a standalone public company has also influenced investor sentiment. Overall, the sentiment towards Medtronic's stock seems mixed, with both positive and negative factors influencing the market.",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

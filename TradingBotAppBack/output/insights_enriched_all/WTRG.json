@@ -1,56 +1,164 @@
 {
   "ticker": "WTRG",
-  "name": "Essential Utilities, Inc.",
+  "name": NaN,
   "sector": "Utilities",
-  "market_cap": 10801422336.0,
+  "market_cap": 10554725376.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 17.278027,
-    "PB": 1.650107,
-    "EV_Revenue": 8.225,
+    "PE": 16.88341,
+    "PB": 1.6124197,
+    "EV_Revenue": 8.075,
     "ROE": 0.09781,
     "ProfitMargin": 0.27166998,
     "GrossMargin": 0.58994997,
-    "DividendYield": 3.38
+    "DividendYield": 3.49,
+    "DebtEquity": 120.576,
+    "CurrentRatio": 0.654,
+    "QuickRatio": 0.504,
+    "FreeCashFlow": -697494720,
+    "OperatingCashFlow": 829147008,
+    "FCF_Margin": -0.30894451120039035,
+    "ROA": 0.03041,
+    "PEG": null,
+    "EV_EBITDA": 14.705,
+    "BuybackYield": null,
+    "PriceToFCF": -15.136355532555143
   },
   "technical_indicators": {
-    "RSI_14": 45.96217262375457,
-    "Momentum_10": -0.8492069631279967,
-    "MACD": -0.2649228416857454,
-    "BB_Percent": 0.3849115031292683,
+    "RSI_14": 40.537764328599295,
+    "Momentum_10": -3.188474886167235,
+    "MACD": -0.3895240850680395,
+    "BB_Percent": 0.2263674896601849,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9310313021930556,
+    "ValueScore": 0.9295496903575448,
     "QualityScore": 0.4682785952430929,
-    "SignalScore": 0.5084799915664833
+    "SignalScore": 0.6302387595390908
   },
-  "volatility": 0.0157168211829646,
+  "volatility": 0.0159159838256792,
   "beta": 0.796,
-  "return_6m": -0.0242000212541904,
+  "return_6m": -0.0158781122235668,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "strong_buy",
     "analyst_count": 9,
     "target_mean_price": 45.55556
   },
+  "news_sentiment": {
+    "summary": "Essential Utilities (WTRG) a récemment battu les estimations de bénéfices et de revenus au T1 2025, avec une croissance sous-jacente solide. Malgré une baisse de -8,73% sur 4 semaines, des signaux positifs émergent, notamment une réduction des émissions de 25% et une reconnaissance pour le leadership climatique. L'entreprise prévoit un vaste programme d'infrastructure de 7,8 milliards de dollars jusqu'en 2029, mais les risques potentiels pour les rendements des actionnaires à ces niveaux de prix nécessitent une attention particulière. Les investisseurs pourraient voir Essential Utilities comme une opportunité potentielle compte tenu de sa croissance et de son positionnement dans le secteur des services publics.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "How to Take Advantage of moves in (WTRG) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaHN6TG9SNmdMZm9ESFFtaUxqVjlYNUsyM01SUW43UUZwVDJ3MXVkbVl5OGJTNHBrZEFOQnRMcXVKSjJYS2xYbURKMWs0bmRPckNTZU9IMkY0TGZHb0JpeUF6clZjck1Xb21LUkhZOWNDMU1ncTgyQWxaOExDR1gyRFlORjFUWlNVSElxTXUwY2lNNE5SSC04UVVDV0NLU1htYnFUbDNBeDdQWVRJb1RMOEVlSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities: A Dividend Champion On Sale (NYSE:WTRG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2tZQ3J5QlVZVkpoVkVNMUdkVG5JWWEwMVBqZ1MwajMxSDNXRWQ4cWJ2V3k4aHlRRVhhY3BqUUhCTmtmQnhsZFhQMkxyVUNjQUM1NUcxRUNQR0loeElvMG1IOUl2WV9rMUNhS1RQZEFGUnBBUHowWVJnMi1wUFhkbTNxMzctUk54d3dkNDBrTlc5dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities (WTRG) Q1 Earnings and Revenues Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1M5UG1VQWg5NGIydE5COWFWMGpIbjVHTmNUSGhtMkw5ejYyU2NjUUpLb3VCcXdEWEh4WHhYaUNKLU1RY1FxVmZROU5xVlZQbFBoM1FTaWV0RTNkbmFabzl5TENyQ2ZRRHZlY2k4c19SNXZLTVRzcjhPSVBiZW02azJfZXpuTVJldlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities Unveils Massive $7.8B Infrastructure Overhaul Through 2029 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFRrYjkxZUMxenJubVhEQXZORUk2bTZTam5BeXpZQm9ONXdYZUtWQ3lQLUpUbVNtaDktR1k1UHZhRWZsOEhVQ3oyMmdOMGcwLWpyRWxwZ0NHQi1rb0xIV0dnLXJYRVFUR3NQTEpKMkRqb2xKVm1nZWlreG9fdC1LUjhPeHN0QzhUeTVraXhxT1U5Z0tJTUZtVzdIR0hzaHRvYnlURTd0SW44Z0h6Q08xTUkwdDJVMENac0RXamY4SQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "While shareholders of Essential Utilities (NYSE:WTRG) are in the red over the last three years, underlying earnings have actually grown - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSHo0QXpHWkg5aWE5T1JfZ2lMWWRlQUdYNVRPM1VPUkZIYXdPNk9vejJjQWFnekhOUGQ0eWxncW8yOUpObFJzcEVORUwzd21KWXhpdkxMc09pdWpmeHF3aHEySnVXc05qLVhOSmpKa05DTUxVQzZKU3dIeVVOVHNSMDA0QzluWFVjT3hsNHgtNExFQ3ZFZFI5MGtQQV90SmFqSVBLUG1HQkE1MXFZYmF5d19JMDVyVXUxb1dEUWUxblpGRXZnN3AtSlZPc3FXNjV1bTF30gHYAUFVX3lxTE9rMW9XamNzWmlXeEswUjJuS0U4aVVHZFlIM091cV9ZZzc2THhKVWRUSldBYmxFVE5MaDJSQ3FUVEYyZ09BVUh0b2dBQzRYQ3FZRVRzQjk5QUNnV1NxQ0JMekZQN2ppNGh3ZG9sU0hhRkRmU0FTX3pSbFhOb18zbFRuNnJ3WGFLdms4XzhZLWd3aXNSZDZxa2wxSnU4VHNNaU05NHFUNURCM3NZMVpCQTJGaTlhdjNzS1hTMlBVc2hMQnE4dHRFcDUxa2hGbkM3RnZWcEp5MUwyeA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Essential Utilities, Inc. (WTRG) Among the Most Profitable Utility Stocks to Buy Now? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYUlBSEdQSFNBaDhqRkYtX0ZRcHkxSVltSjNVS0p4dFdlc2s5anRMQS1KeG1kdmM1RjBJOW5kRkcwOXpwU0VCOUVodFRUYUd5UXQ4Sm1VVXJkcWIwLXZNVzU0eUx4eFlJUmVTRnlsM1NOTzNaVmVJMEhyRWJOWWF2OFVDczBYNnh5MFNjRl9wS3NEUm4yZEhsT3phNjhMd1hvc1ZZN0xTeGppdXAzZ1JidXNULXoxMkk0bVQtTXl2LVFXOGttQ3fSAc4BQVVfeXFMTThYWG95MHlqc0pyd0lYWVlUMnp3MkRfNUxSbUhBeWROeE45cHRQYlFESDZtWTJLTG9MMzNfXzFMNTgyVzYtZGhUWjR2SXpOWlktbmZtWnZTaG9aWXJJSGZJamU1WVI4NnJ5LVVTbV9WSVQtWTZSWGktQlllNS1HVzhfQWVSaVNHV1Ntd2NhQWFDM3p4ZGR4RUcxbUtQVlk0dVB1TzZpTG01Y2ZLMHhzZGdHOWh1and1VEYydmpJbktjZUcwRDM2SzVJczM1M2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities, Inc. (WTRG): Among The High Growth Utility Stocks To Invest In Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRVdiX1N6MHpiRWFTdHZIT25QZEItUGRaNGZMVW1SR2pLbm1CbGFyNi1rWDlUSmtFZXkzc2p2cGd0OVk3TmNPUWZYeFJwUnd4cnRKYUNJUHhpelVUTFVoUHlCUlZyaVpQNG5Yc0dGbWZ3OXlHdGI3dTY1UHNFd2Uwc1RoeTVNUUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities Q1 Earnings Date Revealed: CEO and CFO to Present Key Results May 12 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaTM3VEx6U1VGSElBZTFHLXNBWkFxczBOdWpCNE81Y2Naem9kZlQzVnhnMy1QQkF1dDdsM0owdU02ZFZhckZBNWhLS1lHOFNWdmQwbVNadEhSYTM3XzhqcTNMb1VPR0dDLTZnLS1ramgxSTBfLXpkTmprUk9xeWNFUnVYN1BNeDJrS2R1aWdRV3VLSXlxd3phTlQyU2xLXzk2UkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities, Inc. (NYSE:WTRG) is favoured by institutional owners who hold 80% of the company - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM3RLSlZvYTRIX3J0Zi01NFkxUG00dnJVbjVaMUhFWkVRMDdIMTNsZkwwcTNxV090aW5tZWE5WE1mWC1MT3MzMm5nZHpqb1otVDE4bk1nOERCY0tIcVJxMjFlRXV5Z1RwQWJwc3ppR29tOHNLdlo5ZzJUTVlxdHJrY2tzZmpFaVN6cE9USjRkYUpIU0k0WjRVdUMxV3gtXzFtMjRHc0Q0STJpaFdJQlNjMW9vSXR5QU5HZWRZN0E3Q04wam9lNVk1T0ZManhLN3ZQdmNN0gHYAUFVX3lxTE8yTERBdWJqdkRGZzJpT1BZX29rOElrME9zVFF4NTN2WUNERlZvUm9BeFd3elRvcEdNQVl0R0Nwd3Z1aUwwQ1FCZzI2MlhfakVoVHcyaDlGcGdHSE5XdHlXS0hHZGRzNWNJRGdYaFJSSjlUSmdNZXZaNEZoNXJBQzVfTXQzOWZ6My1Id1NTdWhQRXhGWGhhOXl2czhVaVVubl9hY0FCOTFhQ0p5Vm81TUZIVGNSejVnWW1nYlR4VUZtSDRyQlVEYW90OWJDamZTSHY2RmdsNEJoaA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities’ Secret Growth Engine: PFAS Rules Fuel Expansion (NYSE:WTRG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDZqTENEY2E2Sl81aGgxQ3I5NHN3RmlGYUt0YzFmZzdMVkprNEJHVjJvY0NicFN3T0lEa0JNN3NRX21jbFZIcVJ3VjRrTDBzZEZiZjVVVU9zS2ZidWFLRnVtOC1zaFFqaUpWN1RIM01wa2lMUnNRbl96R25CUmlBWTRLQmtWREVxczBsQlZlYXc2ZXQzQ1VpZVlpU2gwSk1qaFVkTWlPZ3ZXQVNURm5UYzAteDNuclk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities Achieves Major 25% Emissions Cut, Secures Climate Leadership Recognition for Third Year - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3otanJwQUktQ2Q0OTI2S2VRVjU1c3EyVW9ReG5MWkV3TXdTaWFvYjRtWkxOb1JQZVVGZV9oWkxiSkplcE51QkVfYjVHWUJlQmo5d0dPZXdhc3lQUTBtN3NRR0JQRlFqUVNzeDJ5MzZiSXpSSmw4aXZvODhWY1E2bHd6WWNXZmZ0T0xVT0tkMmdfWWQ4ZnhfOXB2NDYxYXliNFc5dnRGVl9LLWdzQmRLNW1sbDJIX3IyUEpCaEpR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Down -8.73% in 4 Weeks, Here's Why Essential Utilities (WTRG) Looks Ripe for a Turnaround - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4waHBLQ1BfLTVRRXZ0aWxwWXY1SkNxdUpGblpTbXZOdHVGOWhrd3RQeGgxak1UVnREMk1wU0xzbC1scGdrYnNyMWotNWpUUGtaWllsdU5KV3NyVm1KQXBXWnBjUVpFOVVzcHN1S3ZsNDg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Estimating The Fair Value Of Essential Utilities, Inc. (NYSE:WTRG) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZnBhbnRsNncwM1Ayb3J4YmVfMVpaWFlFUmtLeEwxeTc2ekVuVmNaRHh3SzRGMnctZEdHOGszd3FEX3BsRWh6Z0FHMXlJQ1RFOXVVZ21FZEVseUZKTEtERmNuemlpckxlalNQVnlwOFlITzBkbzJ5MnN4eFRIbEFfdlJzSmxHc29VX0FRekkwRnBqS2JRUzJEX3pkWFRHMF9rM0hsb1VXeGlWZklwTUt3Z19kOUZ2UlIwdU94WXlJc2lCdmhlSGNHSE9LRE15QmJZN0N30gHYAUFVX3lxTFBNUmJmRndBLWs2SnkwTWg0UFpVQzQzUEc0ZXpfNjRMcWdwTVNSdERwOXA3aTBfQnNSWUQxcFpwa2V1ZnhzQWtCODctX3g1b29jT2Uwd1A3QzRSU1VvdlFVbFg0b2NmdjFyenFnR2lwVldPSFhjQ1hvME5CS3dTTzZjMGhCWHctZVM5VUU4eEdTLXJMaHBuQ1ZSUWlscklDcW1DdFBDTkFyd1B0VXhZUExWR3M1UmE3UmlqUVJvNUF6UFdlMGVfbjhkNHY1YTNCeElXV1hTTmdhaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Dynamite Dividend Stocks To Snatch Up Now - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVlp2RF9FZmZLUkJTUEpGNGgwWEFNeUR3RDdQSTZjRkFFYmRieXhLQ0V6OS15MGUybDdXZjFvajBrUDh0M3R4MTZMck4yUTliYWdXZHZ4Uk1jN21pbTUzc3V0aG1JN0tPSlZXWE1Vd2FuY0FsV3ZBYmI4Y1pZSnoxWXJ3TWluOUpqdGhXbg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities, Inc. (WTRG): Among the Best Utility Stocks to Buy According to Analysts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzc5TzZ2SmJoX0tYTUFjZWtqMm81YWE2aWVHUUhvWENKdEZQVTlnTTM2N2Uyei0zWjNNSGdPaHotUUZncjB3UEZaRVRyb3FFNU8wTC1Xc3l5S1VHcWwxXzBOYldHOXVYYjJTa254MzVfOE1lNXlqN2pkeFhfaW1tZEFva2R5WGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Now An Opportune Moment To Examine Essential Utilities, Inc. (NYSE:WTRG)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnB5X29oWFJCSHRwSEEzUnBKelQxVkNEMktTSTBub25YZFFqd3dXMVZmeGtBeXRxZVJRMEZXZXhpa0pvYklaZEQ4UkMxLXZ4bHBvLWtaaEg0N0ttYlZYWExtRzRZemM4VnZPV2Jab2tqclJiM1BMRW85WUhqa2JMNTNnZ2dXdXVhOUNLaUZRbnNoQmozUnVMdVlnVkRSbmw2U2puekJzdGdFaHZicjlQVDdGZV9JOXRoMmlxbkhVWTVxRUFleUU4S2VZQVc5UWY2LW55Q3Bn0gHbAUFVX3lxTE1kRTA3TzFvdWJHelJDbXBkZWtKMTJFb2p0WU9ZdnJiMVhoRGJzT1Z4WlQzTkJLTVh1VDBCQUxKMnJNbDZwWmVJOVdsQnJnZUZPT09tQnBxNnoxUTZxaDFNVy1xeW5wQ0FBUDFzNlNJb0ZwemQ0eUxlV0ttWm9RSXhNZFVBZ0h0NDBZT0xzY3BnN1EtbzltR1FCM3hOeWJ2ZmVtQlBSdmlWQVF0bzhzOG5lYlNUVUs3Y1lLLWhmVW9lZ2h3dFJCYkJoN2hfXzNiNl80aVhuWS1lelhhUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities Delivers 17% Earnings Growth: What's Behind Their Infrastructure-Driven Success? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFJaU05ZVU5lSWZfQUFuMlQtM2RyWjljNmZNbGtVb2VGek8zZjFiZVg3MXRid294UjJSN2pLLUItOWQ5WlQ3MWtBYk9IemhrbWpmblZFVGt5bjFEU2JhVmNmQjNiS3ZQNE8wUTZrcDlDVFMyU0ZmZTRzMW1nS2V0Y3pKUWo2di11a1QtMTRZby1YejgwU19RNzVPRk5xMExHcm1jY2VhdlgzRF9vcVBHbDFuclc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Revolutionary Home Fuel Cell Technology Eliminates Power Outages Using Natural Gas Infrastructure - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2hyUTJkaFJ4YXdnS3hGV09tdlBfTDdKZTJXMVVHRDRYMmp2eVJKUVZkQjFhanAwU25wRnVaLWdyZlRUZnR1N3RIT3Y1QnNKbnFfdGQzX25jV3NndDFoMmQzQnV2Wl9zZjhYdUN5RkxsRkpzU0t5RUhSNk9PM2xSZm9ON3JGRFR2Qjk1WEg3UHlrUWg3YUxFWVJPcndpajlIQkNVb3QzbW1fNGJfNGtrcjRvVEhBT3Z0dzRMV3N5VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Risks To Shareholder Returns Are Elevated At These Prices For Essential Utilities, Inc. (NYSE:WTRG) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZTVVWjNZdGtjV08ycldTNEpEanlHaUd5ZGxwQzJhbTNaTERXbkptbF8zTkhZUS1nalVqNzBGRGRlV3lWeVpESWNJV0NmM0U0ZS1zQVBidmxCNGh2am9nNnpRZ09lYnVZclFZczFoMHY0LXRLNzVXZ1FLSjdiWFR1TWoyQVB2dkpUaWN5anU5blhCQ004UG9tNlZrdUlhOTh4Z1FvLS1iN0RpRUVFandiNjU3NldFeDFzbmk4Qm5hXzZBeHlGd3NpdkhaTEsyNWZkb0ZkS2dnU2zSAd4BQVVfeXFMTzJ4bUtwcERXT0JXRk9LVUFEQXV5U0F5UFU3QWFXR2JmWW1kcE90MVVPbFhydk1MeFlsNDNKdy0tOXpTX2dVSUlXVG9lX242QzR2MC1JdXpqXzFxbHBuVjBnS1liVmQ0eHRRMFRfR0RyU1NsVjI3amZ4d0pVM0Y4UWpXN2hJN1NRbC1FTzRtbnQxeXItM0g4Rjl0Tk1IV3ExWVctaUJWVTZGRTcxMlZMWHhFcG9MdVRESS1LQkd1RF9WaHpVaWJIT1VnT2F0b0hSVWZsMncyeXJfbFhLdUx3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Essential Utilities Reports Strong First Quarter 2025 Results, 2025 Guidance and Long-Term Targets Affirmed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY1piZ1l1TDRIeEVsZTdIcnBEWk5HVEstNW9vdVQ2NjFDanFBNlBqY2tBRVo4dUZwQldTblNMZDloNDBDQzVVa2wtREtVZnRBZGdrOUdHdTBnRGEtSmlidnI3dmlYMjhDQS1qZzBUWFlLYkVpdmFBMFRUczNUTWItWHQ1ZnBrN1lsNHhlNVVPcWYxUThYaXBIVUI4ZU8tUlVuSXM2YU9uc0QwaWpfTGU5LUVEX2pfb3ZaY1ZyRXRB?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 40.19
-      },
-      {
-        "date": "2024-12-03",
-        "price": 39.67
-      },
-      {
-        "date": "2024-12-04",
-        "price": 39.17
-      },
-      {
-        "date": "2024-12-05",
-        "price": 39.32
-      },
       {
         "date": "2024-12-06",
         "price": 38.94
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 38.54
+        "price": 38.55
+      },
+      {
+        "date": "2025-06-03",
+        "price": 38.45
+      },
+      {
+        "date": "2025-06-04",
+        "price": 37.32
+      },
+      {
+        "date": "2025-06-05",
+        "price": 37.66
       }
     ],
     "current_price_data": {
-      "price": 38.54,
-      "change": 0.01,
-      "percent_change": 0.03
+      "price": 37.66,
+      "change": 0.33,
+      "percent_change": 0.88
     }
-  },
-  "news_sentiment": {
-    "summary": "Essential Utilities (WTRG) is a utility stock with strong growth prospects, driven by its expansion plans and PFAS rules. The company's high growth potential has been praised by analysts, but some believe the stock is overvalued. Despite the company's growth, its shareholders have experienced a decline in stock prices over the last three years. The company's Q1 earnings date has been revealed, and the CEO and CFO will present the key results on May 12. Overall, Essential Utilities (WTRG) is considered a promising utility stock to invest in, but its risks and potential drawbacks should be carefully evaluated.",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

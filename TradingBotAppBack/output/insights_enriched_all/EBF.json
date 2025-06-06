@@ -1,56 +1,164 @@
 {
   "ticker": "EBF",
-  "name": "Ennis, Inc.",
+  "name": NaN,
   "sector": "Industrials",
-  "market_cap": 482544320.0,
+  "market_cap": 483807904.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 12.026948,
-    "PB": 1.5942073,
-    "EV_Revenue": 1.073,
+    "PE": 12.058442,
+    "PB": 1.5983818,
+    "EV_Revenue": 1.061,
     "ROE": 0.123409994,
     "ProfitMargin": 0.10193,
     "GrossMargin": 0.29723,
-    "DividendYield": 5.36
+    "DividendYield": 5.41,
+    "DebtEquity": 3.138,
+    "CurrentRatio": 4.586,
+    "QuickRatio": 3.34,
+    "FreeCashFlow": 56225124,
+    "OperatingCashFlow": 65855000,
+    "FCF_Margin": 0.14247988251848148,
+    "ROA": 0.08454,
+    "PEG": null,
+    "EV_EBITDA": 6.234,
+    "BuybackYield": null,
+    "PriceToFCF": 8.586300743418548
   },
   "technical_indicators": {
-    "RSI_14": 44.02464948984822,
-    "Momentum_10": -5.0179505959535255,
-    "MACD": -0.0519952596604014,
-    "BB_Percent": 0.2633761709558881,
+    "RSI_14": 45.65958028563802,
+    "Momentum_10": -1.8498963005199136,
+    "MACD": -0.0858248653906699,
+    "BB_Percent": 0.2294763798790801,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9339888668331916,
+    "ValueScore": 0.9329824698286348,
     "QualityScore": 0.4447126092027721,
-    "SignalScore": 0.544549468630906
+    "SignalScore": 0.5936049620757198
   },
-  "volatility": 0.015371470782081,
+  "volatility": 0.0154723827509569,
   "beta": 0.493,
-  "return_6m": -0.1112180959825146,
+  "return_6m": -0.1000469294227515,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 1,
     "target_mean_price": 25.0
   },
+  "news_sentiment": {
+    "summary": "La société Ennis, Inc. (NYSE:EBF) a récemment publié des résultats trimestriels décevants, manquant les estimations et entraînant une baisse de 4% de son cours de bourse. Cependant, malgré cette performance mitigée, Ennis maintient un dividende stable et attire toujours l'intérêt des investisseurs grâce à son rendement élevé en flux de trésorerie libre. Des transactions significatives ont eu lieu, avec des investisseurs comme Ameriprise Financial Inc. augmentant leur participation et Two Sigma Advisers LP vendant des actions. De plus, l'acquisition de Northeastern Envelope pour étendre ses capacités de fabrication pourrait ouvrir de nouvelles opportunités de croissance pour Ennis.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Ennis: Stable Dividend Payer In A Declining Industry (NYSE:EBF) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZEFZd1dYVXFuNGZZTlA2NVdTTkZZZDBNdThDaTgxZ0FMQ1ZqTTNNVHlBX3lVM0c2QXU2RjVsVE9kNklfeEVSR19GY0hxQ01qQVhWTnNKMEN2ZWxQWjBlT2o0UHcxZ1FRMWFpYTF2VVQtdkhEZzFjemk0azdmdV9BeEtSNUxiSy1kamEyMXJsTDc5UFZjUG13?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ameriprise Financial Inc. Increases Stake in Ennis, Inc. (NYSE:EBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZzV2MWhBNUpTYXphbzVOU05pTHRidG1nVHllQ3RfenZyY1dQQnViYXRFcjk1RUttZ21yckMzemdaNHc3RWhnRzdkUjludDBhZzBzWXpQMnNRV3JsRVhUUDRnejJwSzRNbGFTbmN5S0VvSGFYdkx4d0twdVlmQjRsd2h1ZFhkelJBM01xTVM4NVVBeVpFVEZWXzJTbmVWbGhzSTh3bVBZUEw0eFJCNE1KblBsQS10ZFczelpnQ0oyLUNXek1XWXVUYkt3TQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When (EBF) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkNzWmZZWkg3TjY5UGVSeTBZdEc4Qjk1V1VEQ3U1d1lxMnhfQmR3RUNEYTB0V1BzZUlUS3Bvd20tc3lmQVV6eldzMUJvbFBiTGRCcnJsLUNyTHd4WHAyTXd3UmZnUndabGRmUTdnMzBGcjBQRFdEYUdWdlJTNjNrWk5ha05vOHpNWFNWOFlFY1AwcEdLMi15a3N0MjJFaTJyRXJQcGZSV08wb2ZMVmpuQktRbw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Have Insiders Sold Ennis Shares Recently? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFQtSlcxMzFSVXB6NVZmb2JidGpqeVk0d1VuQUxaY282M21sNVRYbmx6cXh2SG03QXhPeEF4ejNickx2YTNJTTdlSjVzYTZjMFM3M0VxSV9LVzVEdmdHWDAzT0x6cHhGWjV0Z05LdUtoZGdwcktfTm9BSk1uRXlxYkNwRVJSbFQ3b1BfZkdNTTBjQ09NSnVad1R4UTJQaTNNOV82SFlRVmhPSWtuWDZWZDdR0gG3AUFVX3lxTE9DYTNnYTRMV1hPTmhjRUJDbVBDUEhaT3Voc2lvSU1sY2JVaWp1Nk1qQkhnSjVubzBvYlRhT092czV2dGpWbEtXVVE2UHNBY092MnUwMVBLTk5MUUNZMGdOcjZIQm9aMmZTR1QzS2ZBcGZlY2x0ekdGVktTaXZEbGdxT2k1a2IwZ196UGx3MlBOMTN1WW85Q0NlQkVxVk5lTnZwYTdNQnJEdUpLSEp3ZWxTRFZ5WVBwYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ennis, Inc. Reports Results for the Quarter Ended November 30, 2024 and Declares Quarterly Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWDV4ak1TMHpBbk9XQTlZb3dsUzJXMTVGUVJSRlNMV2thbEFjZFRmRndHNHNBTk5ybTlxd0tIZ1R4djNPanNDZ01DZEZQX2I2c2xrel9jNGFnWHExYUxJQkRTM0JLc3BsYlFhRGpPZi1CVlJEb19hSWZ0MWs1Q1hhbmtZMG5NLVFmZEF3M1hPMUVhZzdDZU9TWUVNbmRqWC1USUlYWlNpcWhZNXUzdFMxZWNNMm1UczcxQ1FnbFQzdDR4OVNsN0ZlN0JFN0tvOERXTjQtQjUtY2dFVXN4aFlhZ2M4VjNLbDJzZXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Sells 30,400 Shares of Ennis, Inc. (NYSE:EBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3VreFMwMWdIc05TMWFzWkRGaGFCVW0ybTU0bWtvb29PY0g5NXZPZDUxYXRYVXYzb0VIc2dfQWFTQlZnQ29rdXNwVHFReTdCaDdIZzFwVXYyeEZaUnFJLVR3VExjWTYwNm9DRnByS3JtenRPU2I1UzFfdnc1dEw2bDVOQUVLaW05T2xUTklWcDV1ZU9zOVB1ZmdiQXk4MHEzTWFfSmdPdDFFLU1kYS1BbHJRNHA1VDBFOFJjNFdXQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ennis Q4 earnings miss estimates, stock falls 4% - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbndtOS1vSDdocFd5Q09qSVM1TzloYUxfQUhad25Yd2dJZGVUTUJ0SVVBcE5OOFJ3ZTU2b2FSbElheEpYMVhXcDdoamV1TlhKdG9yRjJVWGR1RFVNRko0SzdvcmllWGtZUnh3Nk9oUzRHN2VlTzRESUhrRXY3V1FydnhDNUZUWnJQXy1oRHo3R3haM3J4bk53R29hQ0FReGR4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Ennis: Fiscal Q4 Earnings Snapshot - MySA",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS2E1VEQtazJXYkhrbjlCdHNWRnJPTkFqYk4tc2RDc1NnVHkxT2lUbExaRVpHR2MtdDFseUlkMjBFcV82TlB6cGc3SURUNTMyT0F5UFhVdWQ0RnNqTXZtbmxXUWIxNFJUT2xNdU5CMWpxU0dBbS1XZkM1UnVVMU1GbnlUZHpvcEFxTlB6TERsUXM3M3M1UFlR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cash Dividend On The Way From Ennis - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2dEZHR2VfSDdod3Q3SXZrdzhVRWtWV0toQUNOVWVFbURvSmVPSEFCdVNPUkJJeHZDcjRYWi1CR2FtaThxZzJ6VHNJTFktd3ZGNXo0NlU0TmcwcDA4WEhuTVFISzZBUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ennis: Elevated Free Cash Flow Yield To Keep Investors Interested (EBF) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPckJLNEFndXA0M2F0dzdodkhtX2FTQURkQmpDMVFGeFQzUm5MRDBQNGJCcTB3TFlHWXUxYlRWLUlFSlI3bllGZjl0Y1ZCelppTkdjM2ZtZ3kzNUdZZ3VVVWZTOS1qWW52M0x5Zmp4OEk0S01FQnBPaWZ6R0x2RFBzaS1CbmZVdXR4WEFMWHZlY3dzOXlDdW5hekh5YkZFS2dMMHIwTFBMNDU?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "levi: 3 Consumer Goods Stocks With Strong Brand Loyalty - StockNews",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSTNCQ0xnMWR6OEpjRDFvWG9NTE02NmdVOU4ycGFGMnBWZU1UOGxCa0VoRWdLcHlIQ0RlZUxkZUo5cklWNVI4MjhCM1JSMXI4NFVwa0pFM1BpREc5Z3BBanpWSGNUMDB3U25CWjNhWS1KMld5OGJ1TEhLUFNKeFZWR1lHaHdOenRiMnlfMEtMS0t4TDhvX1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of America Corp DE Acquires 38,304 Shares of Ennis, Inc. (NYSE:EBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYTZlWkRmbHNVVkwtMzA1U3AzZzdIQ0E1Ym56QXZqSWpyN3gwUzlLY3daeV9RWFNwdXdOR0ZVLTN2TEhSSmhKcUhHdmpadnVUaE9BOF90VGxkUDV5aDFGVGFUUS13SU94YTE2XzZRel95V0VRWWxNYWxvYkJZSE9WNmptN25La2kxZ3duOGUtVFl1cWV4YXFFLTJNWklVeDh4VWlHYUdxTnJjWk85ZmR1bkI1MlVWQWticldKVlM3Z2xhaWhVMjBR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A $500 Million ETF Will Be Next Big Launch in Tax-Busting Trend - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVd5a04wajJJY1hRaHJnMEV0V1RQM0ZGeTZxeEU3Zkp6MHQ5NVVDMWc5RFRGS2ZudzBUSEhUdkszaG93ZWRkWDNLS3RNZ0dpcXlXVEJQRG9GNWs0ZVhZOFFGMWtJamRtcXFJZEQzVi1aQnVJd3hsSkpwOFZrSUFhUzJHbC05NmZiRFpENVRkWWpoOHlBTzlkVGhQcy1yYV9XXzF3M29qX29XQjNx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Want $2,500 in Passive Income? Invest $43,210 in These 3 High-Yielding Dividend Payers - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb3g5VTVKUmRYOFZxTVRCNVZuN3ViWk1lSzJ3aFZQX0FIb1lvd0xyXzRiek43V202UVAtOWp5YVl5WFJuRWZNZ19VclM3Sk5BcFJGTG84dUFaejVESjkzcFlvS1JGMzBKZzVUT3JjVU9panJNbzMwWjZETkpId1phTU1lb2E1UzNWSEtnQ2hBVEFvQzlMc2lfNkpZTlc4aVUtMWI2OHB2Z0VsN3lNMjYzZnJrcmE3bWVPWklXZll4ZkZmR0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Makes New $2.27 Million Investment in Ennis, Inc. (NYSE:EBF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNS19WclJwVUxRS1ZFOWJJY3czOTZlUnZnZ2toZWVSeGdiWENwcFFkSDNTcjhSN01PZkd4dmtfQWJxbTFYbVhNZ05UenVlMjFRUnI2amlxVUcyR21IdlNjUG5zazRyd1pIbmZpQkNic0M2MHlja2NJMnZXekRTV1QteE1QRkVnM3BGVUtSU0JIU2dZTEh0RURhVTlRZmpkN3UxZXd5VUxZM2F5cGdlbXNYanhIdUp3Z0ZESWhPVnpaNHB5LWJPQTZ3MmhvSTVVc2ltOEl4MlhCTDNYd1p4dkM3Q2M1c2xjR3p6SnlkdlhnODVfb1Fxb3o1Rg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Ennis acquires Northeastern Envelope to expand manufacturing capabilities - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkR5Y2cxRFBKZk9RS1lFTFJXbHhsUWpzbTh1RXpfM1JQbUpHVDlabDkwVDFOZWlwNzZrd3RYNjhYb1NfOFliRTZYSEN5b1Utal9rMmtrVHhOSXVnZVdUejNsTktwMFJzRVNJSTZFMThlUkFweXZuYXMwUUxKTzFxY3I2aWg2QjE3REVydHVWbnk1RVgxcGJqaGVzR2ZVaWpmSDY3LUJqbjZ4SmY1SkRjWg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "7 Ultra-Safe Dividend Stocks to Buy With Yields Over 5% - InvestorPlace",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaF9iSDk3SkpITHktcWpjaVJsQTExSWYyVEE5X0dxbHU0NVFMZUQxZTIyWGM4VXpiUWxmcjBZcWNuYk5lS2VOYl8zdXRYZFNlSVVMSUdkYVpCTkQzd0sxVXpXUF9xV3BqajRvVVI0YVFPV1QteTlzRFkwZ3Q5VElDRjVabGhHbjNPODBCNllaaVlUM2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PG: Is Procter & Gamble a Dividend Stock to Buy Now? - StockNews",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXRfdFNCNFJwN0VmNndYeGtEWWhlY2FyU3dUMEhvZEJpb0hOSEpsZzkxYnNrM3B6a2JWaU1BaEJfMm94aGdocXpSOVlqaHh2Sk9vM1BUbThBaUZDdldSZXkzdE9wZDZhZUVQNUZZTks1V1hMclJwSzNkd25DLTZMaUVjSlFYOFRMd1BVZlRqbnoxUjRuUnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EBF Stock Price and Chart — NYSE:EBF - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iWFpsTENBVVNOeEpIQ09Wd0I2N1M3V2d3X1prR0RKYkxnT2xWZDViQVozNmRKYXF2OF9pX2hmOWZiY0d0Nm9ISGgtN0h4UmdGSWlkSk56V1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "VLO: These 3 Stocks Makes Collecting Passive Income Easy - StockNews",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWo2d0R1WHptMEhXTEJ0b3ZOOEp4VjVHdGxCUUxvS1hMTUttdTVhR0pqbzJqQklLdVd2Mk5DdmVpYkNhd0NOY1pBZlFHdHRyckVDREt2bl9qS2UxUDBwS3FtbjhfRVYwanR1ZWU5dWdvWVpjeXBxTHlPblpoS3ZjNUZyTW1EQWI1MmVQbURMcWtPQjhJR1hB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 21.37
-      },
-      {
-        "date": "2024-12-03",
-        "price": 21.31
-      },
-      {
-        "date": "2024-12-04",
-        "price": 21.29
-      },
-      {
-        "date": "2024-12-05",
-        "price": 21.33
-      },
       {
         "date": "2024-12-06",
         "price": 21.16
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 18.54
+        "price": 18.49
+      },
+      {
+        "date": "2025-06-03",
+        "price": 18.65
+      },
+      {
+        "date": "2025-06-04",
+        "price": 18.49
+      },
+      {
+        "date": "2025-06-05",
+        "price": 18.53
       }
     ],
     "current_price_data": {
-      "price": 18.54,
-      "change": -0.14,
-      "percent_change": -0.75
+      "price": 18.53,
+      "change": 0.03,
+      "percent_change": 0.16
     }
-  },
-  "news_sentiment": {
-    "summary": "Ennis, Inc. (EBF) has been the focus of several recent news articles. The company has reported higher free cash flow yields, which are likely to keep investors interested. Additionally, the company has recently been the subject of insider selling activity, and its Q4 earnings missed estimates, leading to a decline in the stock price. Despite these challenges, the company has also received a significant investment from Bank of America Corp. Overall, the sentiment towards Ennis, Inc. appears mixed, with some positive signals and some negative ones.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

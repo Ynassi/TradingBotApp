@@ -2,55 +2,163 @@
   "ticker": "APD",
   "name": "Air Products",
   "sector": "Materials",
-  "market_cap": 61867233280.0,
+  "market_cap": 61693648896.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 40.057636,
-    "PB": 4.207659,
-    "EV_Revenue": 6.578,
+    "PE": 39.88777,
+    "PB": 4.1958528,
+    "EV_Revenue": 6.602,
     "ROE": 0.095790006,
     "ProfitMargin": 0.12755,
     "GrossMargin": 0.31947002,
-    "DividendYield": 2.57
+    "DividendYield": 2.56,
+    "DebtEquity": 98.527,
+    "CurrentRatio": 0.996,
+    "QuickRatio": 0.77,
+    "FreeCashFlow": -3988649984,
+    "OperatingCashFlow": 3358200064,
+    "FCF_Margin": -0.33181511317224305,
+    "ROA": 0.047020003,
+    "PEG": null,
+    "EV_EBITDA": 18.436,
+    "BuybackYield": null,
+    "PriceToFCF": -15.41150646724684
   },
   "technical_indicators": {
-    "RSI_14": 54.92749330169864,
-    "Momentum_10": -0.3782284815127564,
-    "MACD": 0.5057677502622937,
-    "BB_Percent": 0.8277416333138933,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 51.95441966031049,
+    "Momentum_10": 2.5994656057394363,
+    "MACD": 1.426584962442064,
+    "BB_Percent": 0.6243124025415839,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8759433762563357,
+    "ValueScore": 0.8729008313156816,
     "QualityScore": 0.3581163004922186,
-    "SignalScore": 0.59662485918233
+    "SignalScore": 0.5675291552800457
   },
-  "volatility": 0.018196697270858,
+  "volatility": 0.0181931879614283,
   "beta": 0.873,
-  "return_6m": -0.1615071234354491,
+  "return_6m": -0.1284112964106524,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 23,
     "target_mean_price": 317.93304
   },
+  "news_sentiment": {
+    "summary": "Air Products & Chemicals a récemment annoncé une perte massive au deuxième trimestre suite à des charges de sortie de projet de 2,3 milliards de dollars, sous la direction d'un nouveau PDG. Malgré des fondamentaux solides, la révision à la baisse des prévisions de bénéfices pour l'année a entraîné une chute des actions. Les analystes restent partagés quant à la performance future de l'entreprise, avec des opinions divergentes sur son potentiel en tant que valeur de l'hydrogène. Les investisseurs surveillent de près les mouvements des initiés et les ajustements des objectifs de cours par les analystes, tandis que la participation de grands investisseurs comme Capital International Investors attire l'attention.",
+    "sentiment_score": -0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Air Products & Chemicals a Top Socially Responsible Dividend Stock With 2.5% Yield (APD) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTU0bHNNR19rcVVUNkNyVTByaWtPUk9sQzJEbUxTRzN3M01NQzFWS1hWZ2txUWt4OGoxWDczZTlKSzdWRDRMTkt6VE5nQkRaQkwxNXVwVXFnQnlzYXgyaWR5ZEo5dkxRQ015S20zck8yd1JpS01neG5pVjRuRG1VN0ZpaElURjFMZm43akQyeU5uOE9mbjNDTU55UW5CcjhYaV9OT3RUaUZlOTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Air Products and Chemicals: The Turnaround Will Take Years (APD) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlp3VWpfR1ZTcGZoRFp1anBfRUpQWENpdjZlc3o3YmFZaTN2QnpSUjAzRXowUmg5X3JiZjZ6YTREanRPazZlVTMzWHRMdGZwZDBuQU5XVnhKNzlIb1lEWjVtQXNLMHMtQzRJQWsyb3BCUVZCZ0JWTXVEZXdKM3I4dEZzRUJXdElZb09hREZhQ1lRZVR6a3ptVEpkRzFpMnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Air Products Earnings: $2.3B Project Exit Charge Triggers Massive Q2 Loss as New CEO Takes Helm - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONF9VUnQ1Q21sVGNhY1JhcVdXR2l4cFF5cUk4NTBCY0p1QmJsTzBacEVYWUk0S0hmdzJCM0h1OXNXbDhjLUkwVExhdExXcExtT0JlcTFocWZPTFJLTGlLb1dMRlVSd24zRHI5anFQVmxLUnpKM2tVOFprXzUtOWtnQlY4cklFdDI2MHNveGVrRTQ0Wk9fejIyZmxxV2xSRWlUVHhZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Air Products and Chemicals, Inc. (APD): Among the Best Materials Stocks to Buy According to Hedge Funds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmNEN2tlUmI1aHh2TW82VUhleUtfaUprSHpoSXpid1ZqRUM1cGYySGc1RzF6UEV0Q3c2Rktna1ROYzVTOXp2MFh6bXRmQzdZMGM3RDBaV2JqenVmTHp3dWJjaEdCUE1nbzR0eUQtWkNYcFVaMmQ1NVNPNUxYZURNajNB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Air Products lowers full-year profit forecast, shares fall - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM005bFA1TEJFNmxLUWJiekJ3Nlcxb290Z0k4NlppVVlMbUEwd2FiLS1kNVVBeTFWeFVzSHhzQ2dOdXJ5RTZpMHUybzg5OUNZc1dWNEVieU16QUhwbkZTTTRaVzdRbzVUb2NPVW42N3hiQnc5UEpnZ0hJSVVEMS1CVmVmOHF3QkVpWTQ0emdxV25uQlV6QkktZVlRb1ZLZGtvRlZKeXpDWTJfUTFnZ3c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Air Products and Chemicals, Inc.'s (NYSE:APD) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdzZfQ1lnTUdMaUpCM2V6UU1rTmhOaDVuUXVlRGlJc25NNVdPVkpzb2ZxNEZ6bGlOUDlnZ3dQa3JFMjNWRlQ4bmEwYlBXbHI0V1VIeFR6eDNBWHZBalg0dmpfc2huN19lS1lLM2VpTWRsVjZZQzRXNkNKNmJhbWlzcS0yaDRXS1o1S3RpRWZGQWdKaXlCQmxEVU9ONEo2S0t2V3NHTkZrWGVaOUNpSERQNExWTFgzZENNa0lOaTRTWXdzak90WFdBQmpTUzhuS1ZMR0hNaEVwem1Yd2PSAeABQVVfeXFMUE9Tb2I1UmFpLU5acmZUSG4xZ1dnellIWFM1VUg4OGx6bDB2eG1pNTlEWFhjU3hHeGRYSjRDVE5Ld2U0RGppckp3Tjh3SmFxZzJVdmdQOXNqWnIwaGVkV3g3N1hobm9VU3d4aE1pXzJSQjg4bngzVEUyMmNfdnZrWGs2WS03QU9RUkkwQzhfSmwzdExGZmVsajcxSHB6aXJwQWc1ZFpwdHdoRmFSV1JXY1pVM01BVlpocFRaWWR4dWw0eXdjNS1OYUJfTFh3MU40ZXpLNG9LT2tNVW1CaWtIV3A?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Air Products and Chemicals Earnings Preview: What to Expect - MSN",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalQ5TXRYd1c1U3pQckY2RWhCLXZfTDFtU29SQ3plZ2RIU0JZNGs2djNnQ2hWTV8za1AyOGtNcG55c2M4M0pqT3lVdU5VSTZHZUluejQ4NnVncGt6VHh5dzdlWkZKdjJEQXRVenNHejhUQlBFT2l6WjAtdktWNXo5M05vMFF5bjhmMnc4SkxIQWZwd2pCWVpQTk1fbW40RjFxai1IdlBnbTVkTUUzQnNPWmZR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TD Cowen cuts APD stock target to $315, maintains Buy rating - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjVFU2ZwajJwM0NQZU10MkFhVTlhYU5tcHo2cmYtcGRYdUZQTkJJQUEzdEc5UVIzQS0wcDFhYmg0MzNGR2RNQlJnNENHUC1jbVVkLTNrRFB5cDRtYUFuemN0WnQzNE91dVVTSkR5c2d2TjJNSHp6UHc0VThIajJxUU5menRQWk1NMkZSRnFEMC1faTZWR054UDdkNkp2RHhTS19rU01RQlJ3M3J3Zmhrdnh2bkpoZGpJcEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Air Products Announces $1.79 Dividend Payout - Key August Payment Dates Released - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbW9SU2Nod09QSmFkNW9Ra1NaYW1TbUZoVHpJbXQ1Q0dDdUhsMWJIeTZUWVVHSmlja1NnV3RBQ3dpOU5xSEJrbzNfVmsxZ1owRVNtUEw1ajBCUjNteGw5Qm9iOFVaWm4wZ3BMNkRlR0FCdzl5Y1VYdnluaTNiTTdpRkpxM0JPUTVXbjFJVXBB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Linde Vs. Air Products And Chemicals: It Goes Well Beyond Dividends - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjVENHFuUHN3d09WZ2U3d3p2TG9UTGtEQ0tUcU9sZ3U2SWxxLWN6RzUzbGFXU2NvWWViX05DMlNidUlZVjE5Mm9sUmpKaDdyMVFRZ1lqT1dzVkp3MUhIaWhyVWNoNzctRFZCOTNMMFJrWTRmSkZoSXpfOUpoaU1Pc3J4Zm1OVVBrMFEwcTR5eklKcmJsVW1j?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Air Products and Chemicals, Inc. (APD) the Best Performing Large Cap Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDNSbFV6b2d6cDktLXk1WFJlb2NtMHFvSzl0WjJQQlM1Q2VheWV4RkpkNjhIQ0wxQXJlY0VhelJ5Mm11RlBILXdNc2lKa3JzNklWWm80LWVPODB2UWFNd2dSa0xSVDRJb241NnpyX3FvMTQ3eUNTRktaSk5qWC1JVGhR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fund Update: Capital International Investors added 4,666,069 shares of AIR PRODUCTS & CHEMICALS ($APD) to their portfolio - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlNDbFNCSENfQTZPcnl2bGFqcDExcHVZVU91ZUdtWHpmS2dhY3JTXzJhVDFCSFhZZGhHZzZWYWo5emZsZGRXeXNiQmNteUF5ZnpKZk9sUTk3YUpFWE0yR0ViQ3o1dVBKMkNNT1I4b3NGSTk0b0ZkaDZGb3RoSmJMZmdHTWg4QkhteHhmTTg5OHh6RmwtdE9BQ1pkcng3Tm5JZGt1TlVGZ2l6Q1JYUEJGaFNtbFU4SE5BTGw0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Air Products and Chemicals, Inc. (APD) the Best Hydrogen Stock to Buy According to Billionaires? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDItOFZ2NUstLTJ2UmlFUWx2Tm9FLVNxUnBBeml5VGNMbFo4TXFMUHkwS2xkcy1RZDVtVEt5QmhhWEZ1T1JFTF9oQ2trSkZ5MURUbXB6THJmMkotMUw2UWNQMXhwMW0tRnFvSEUtRGM0cE0xSC1wUTFHTl9SaGhCR1d3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Is Air Products and Chemicals' Stock Performance Compared to Other Materials Stocks? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYl9FRXNJQWVQMWNydWFsRFhNODQwLXg5TmJqVDFZUVZRdnJvVm5jTHlKNkpWRTI3eDJBRVdKSFNhYnI3LXBaSERFYnpldlkwUUYtRlkxNWw3REFDT0ozZkNtYlRUZy1LZk5veUN3Y0VLbzg2eGVXTElRa21fZEhSaTZlMG8xRTNMRThMVDNpTWZkekRIYzl1c0VMYTIzelVxMlNzN1hsZTVkV015UHJJOEt3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Air Products CEO Set to Share Industry Outlook at Major Deutsche Bank Industrial Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWJrWk9ONzNsVVN2NnV4Nk5LOFc3eGVjLWxFc1VVdjVBdGF2b2tDTmk3V3dTRWsxMV9QZ0RPR1VkVUtqSWxxUEY5SEtVRTRjRnFLUVVTSUxqa2ZXOUtfcHlRdkFSdWJLNXVsTjVyQnp0YXE2UlVoZV9CcWNhWHVXVEJ0TU5Hcl9EN2M3OHFZOV8tWThQZkx0alJLT295RzFMQlZkRWs2aEZ1c1o1NThUYnVJWXUwZUxOUGtn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Air Products and Chemicals: Why I'm Bullish On This Hydrogen Stock (NYSE:APD) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWmlfdzZCOUFlWHoxeHNBWkZHOWhnRnVubV9Ob2txSTdwc3gxbXN1YlR0MHhXNFF2NDdiS1FGbndEMEJJYk5kRW1iS2V0cGF1WW51Um9wMU40TXgtT25LUlF5WW8zNHdUbjVfZzE2bXB2dWtmOU95UmlRT3VVYzVjX2dQVEM4Tk1xbjl6TVV6OVlyMkJZNWE2OF91VlpnS3dtNlZRZ3dqako?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Are Wall Street Analysts’ Target Price for Air Products and Chemicals Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWjkxNjNidHBfcFhrYkpMaXVkZHVjRkxxOTZRdy1JeGF5QzZrcmFCakdfZmFrQVk4czZTODJDYUdySmx6cG1oRGphelhyWmZNTU81QnR1VWVxMk1oODJoQjAxY2JhT3gxUGJpY3hEZXY0dld5SDFRUUxNQ0wzZTRNUWFBU2NpS25nVjlVbmJzRDc2MEFiR2tnWkdQUG5EdndBelBpSnJvbURPazQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Air Products and Chemicals (APD) The Best Industrial Dividend Stock to Invest in Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQldQQjVDZWpseXZuWTVhanZHWTN0M2NfWGhMN2dsbVdRMnVBVy1MOTVKU0NoLW5DbTZtMjN3d1c2aXFxYU9CbkI1dWo4dXRBTEZfa2ZMYk11Q29kY2JLTDRUYTJSZDNRTG9vY0Z3LU5lVlpJZ0FLSjNCbTJ0VjVVaHkyNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Air Products and Chemicals (APD) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzJ4SlJUbnpRbWY4R2g0WElIWFF2dlBRSENWZk5KeHRYNHZQbTdKU3pxcVkzT0JQNEkxNFVDSmlVRjJqY09rN054SFNTcHdocXVVRi05SHZlUTVVUkgybV94NFZTNVJDSGtCVnZwekk5cG1vNlpDcGI1cHpmeEIzVw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Insider Sale: Sr. VP of $APD Sells 589 Shares - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01NVJ1TzhYUkRoZExtVVdEaC1wMW1lOEd2eVdjRmthRVNla1A4X2U2V3NsczM0OU9ScFVaenVwbWhhNjh0S2JmZUFZdVQxTlV2M1AzZnczNmNhb2FDcmI0MWxVY0wzclNobVNzQ2FvbjNzb1M4NE9BOENwTQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 335.62
-      },
-      {
-        "date": "2024-12-03",
-        "price": 330.64
-      },
-      {
-        "date": "2024-12-04",
-        "price": 327.48
-      },
-      {
-        "date": "2024-12-05",
-        "price": 321.97
-      },
       {
         "date": "2024-12-06",
         "price": 320.11
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 278.05
+        "price": 278.7
+      },
+      {
+        "date": "2025-06-03",
+        "price": 283.29
+      },
+      {
+        "date": "2025-06-04",
+        "price": 280.21
+      },
+      {
+        "date": "2025-06-05",
+        "price": 276.22
       }
     ],
     "current_price_data": {
-      "price": 278.06,
-      "change": -0.86,
-      "percent_change": -0.31
+      "price": 276.22,
+      "change": -4.06,
+      "percent_change": -1.45
     }
-  },
-  "news_sentiment": {
-    "summary": "Les principales tendances cl\u00e9s des 15 titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Air Products sont :\n\n1. Air Products CEO Set to Share Industry Outlook at Major Deutsche Bank Industrial Conference - Stock Titan : Le CEO d'Air Products, Seamus Quirke, est pr\u00e9vu \u00e0 partager son point de vue sur l'industrie \u00e0 la conf\u00e9rence annuelle de Deutsche Bank.\n2. Linde Vs. Air Products And Chemicals: It Goes Well Beyond Dividends - Seeking Alpha : La comp\u00e9tition entre Linde et Air Products and Chemicals est discut\u00e9e \u00e0 l'article, allant au-del\u00e0 des dividendaires.\n3.",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

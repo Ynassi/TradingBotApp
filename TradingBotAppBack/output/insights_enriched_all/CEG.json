@@ -2,55 +2,163 @@
   "ticker": "CEG",
   "name": "Constellation Energy",
   "sector": "Utilities",
-  "market_cap": 97892663296.0,
+  "market_cap": 91448811520.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.91254,
-    "PB": 7.555029,
-    "EV_Revenue": 4.251,
+    "PE": 30.713684,
+    "PB": 7.057714,
+    "EV_Revenue": 4.165,
     "ROE": 0.23974001,
     "ProfitMargin": 0.123330005,
     "GrossMargin": 0.23108,
-    "DividendYield": 0.51
+    "DividendYield": 0.52,
+    "DebtEquity": 62.682,
+    "CurrentRatio": 1.472,
+    "QuickRatio": 0.977,
+    "FreeCashFlow": 3761374976,
+    "OperatingCashFlow": -1634000000,
+    "FCF_Margin": 0.15546083596827992,
+    "ROA": 0.04676,
+    "PEG": null,
+    "EV_EBITDA": 15.394,
+    "BuybackYield": null,
+    "PriceToFCF": 24.154283801988054
   },
   "technical_indicators": {
-    "RSI_14": 73.35876622906099,
-    "Momentum_10": 7.520960393818492,
-    "MACD": 19.114713534942155,
-    "BB_Percent": 0.8839781866890062,
+    "RSI_14": 55.41894801018152,
+    "Momentum_10": 1.2521338177427344,
+    "MACD": 15.52518666709642,
+    "BB_Percent": 0.4246391846084743,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8825144704798089,
+    "ValueScore": 0.8803712021399124,
     "QualityScore": 0.3148224641606376,
-    "SignalScore": 0.4466354574459517
+    "SignalScore": 0.5576382686922774
   },
-  "volatility": 0.0491916640215423,
+  "volatility": 0.0493875780669586,
   "beta": 1.163,
-  "return_6m": 0.2555176465140156,
+  "return_6m": 0.14246944779294,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 14,
-    "target_mean_price": 295.8393
+    "analyst_count": 13,
+    "target_mean_price": 303.75
   },
+  "news_sentiment": {
+    "summary": "Les actions de Constellation Energy ont connu une forte hausse suite à un accord de 20 ans avec Meta pour l'énergie nucléaire, suscitant des réactions mitigées parmi les analystes. Malgré l'enthousiasme initial, un abaissement de la recommandation par Citi a entraîné une légère baisse du cours, suivie d'une reprise en préouverture. La fusion approuvée entre Constellation et Calpine au Texas pour devenir le plus grand fournisseur américain d'énergie propre a également eu un impact positif sur le sentiment du marché, même si des incertitudes persistent quant aux risques commerciaux et à la valorisation de Constellation Energy.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.3,
+    "neutral_ratio": 0.35,
+    "negative_ratio": 0.35,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Constellation Energy stock soars on 20-year nuclear energy deal with Meta - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzNDVjRwWG1ReUFtMFB4NTQ3Rm9zbFJQc1duM05hN2JxdU03WjFLTklnV1ppWENsRDJBSS1YQ0pfcTd6QnVLeWE5Ui1CQ2ZOLWhNcGVkdzFEQXplUjhjTGM0T2VDUkk5YktPUC1SeU9LZGk1RFVXcm54c0xBcFB3MGRLWmJidlh3RWc4U01WVjdBVXVPZU1RdUFSdFNoSVZJNUNHQndwQjlwMDdNZ3pCc2JyaVV6Y1lEaEVj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Constellation Energy Stock (CEG) Jumps as Meta to Buy Its Nuclear Power Under 20-Year Deal - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVVNVlBXMWZQS0Q5RFF4SktmbWY0MllscU9iQ08zMnlKX2ExU05KeFY5aFN2MTFwQ195bUh6OXhZekZBVFA0b3M4Mi0yczBNTmsxX04wMkE1dGp2T1ZrbnpLUTBVZXVKdHMyU2FnV1MzeGl2emY4eXFqSnU1dEF0ZWRSU1FRanlDTTl5aHlNQ25IdjN4aTFHbHZ2QjJodw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "S&P 500 Nuclear Stocks Receive Price Target Hikes Following 20-Year Meta Deal - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZPdUpaNzZkQzhwY0h4bmpwOFp6TFJEaXlxM0F0OEg0aTczSUZFb1A5U0xSZWRiOXMydmVoVnBNSlhob3dRYzB2NVZBb1dwOVFMSERPNXBGZ0o2dVdEZmhncjJtMENqcTRoOV9aVVFXVmVIX004NHpRWHQ5QzZWb0hZQy0zMkJBWkdwYWllM0REc0VpaWxIcVRQVnh3RklRcEhRRE5TUGRtRl9zdUJ2SllNVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Constellation Energy Stock (CEG) Soars 10% on Nuclear Meta Deal - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeXp5VHlod0d2SjI4TkxYZWhRa3RhLVdjOUsxRC1pVlFvdkFJUmdNNXltSEl2WHpWX1BIV2ZfTnEyaGQ2X1FKaURVWDJ4RG5IeGY0Q1hjb2txNTJaTkV4cmVyU3FFaFhhSlM5YlNRbkJMOXF2c01MNlA5emdvUDdtb3NFVWZYVmZ2T0FBN2t5TXM5VV9X?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Constellation's Meta Deal: Why This Nuclear Stock is a Must Buy Now - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZHBzdTdQNjNuTmVPRkdiWDJPNGM2ZFlYQ0cxWkhGYWtaNW05TDhyZExYMXBWckM3MVZ3T0gySTZfcEFJRXAwQ2FJeGEwOS1sT044c0NhQUpndEdNLW1NWEtKc3FhUkFubC1HY1R2cTNlc2R5Z2Jwanprc3QzVXRnYmhaNk15NnlYRDlXTDFWQlNZazJjd04teGsyU21MRGctakJlYmV0YVpKdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Constellation Energy slips as Citi downgrades after Meta nuclear deal (CEG:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnZKbFFHVXFNdVR4RkVBdmk1dEVLb3B6bXpNRl9LSkhMOURaTy0zRlRkVXhjTUNVVFdYZjZSX0RfMmYwd2JHVFpmMnhLU1pWUmhIcjhvQ0Y0U3B0TE9vZENzLUFOTW9odUkxRnBEODh0OUtwTkZqZXpNQUFOc0Y3SHJ0ODJfTHJ3RlpzSG51ZmYtQWhvSEtLMnpMUDMyeXNtV0hVWlJEX3ZMRXM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Constellation's News Drove Fluor, Centrus, and Vistra Stocks Higher - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnByaG1LUlZzWjVPcDc0b1NmaVBraEE2MGN0Q2E3VEpBUWFqMjhpdGpOZ0RnTnc5Zi0xNjRtR3ZDNW9VYW9TQ01UTTZVRlVZUE8zeU5Zc3c2eG5RQk43Nkg4UWtDa2huY3lIN0ppeVRxXzJETDZObThxRXJEeWZucnBxUG01V3FpZUd4RjVBeHgwSkVG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Constellation Energy surges as Meta signs deal to buy nuclear power (CEG:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFJEUGFKRFNjaUZITmFmRWhLanVNa3NEOU9LQjQxNjNQSXZMd2d0T2tWZjRpRjJiVld4REk0NmdYcU1tLXVMTWdWYzVoMnNOQzFEcWNWSUpoSndHUXFXbkFFSTJETHlBSEdGN0k5ZTBvdXhwb3d5czMzZmptdTJ5clUzaTZWRWFpa3JLS1ZReUFUZ3lRUG00cDlONVItNjRtXzhVa1laZFQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Citi downgrades Constellation Energy after Meta nuclear deal disappoints investors - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmVMYlRvV3p6ODl5N0QzWm54QS1URW5mbmwtYzNOZF9iQ0V2RVlHalYtWlBpaWVUSzBhWDhQMHVjUzlIVTBPUHRrYm1nZmZyVjVNZHdwb0c3Ni1CWmhOTkFsdnpEbE9VNHU2aHNMbnEzRG9hT3JVWndjYUs0Z0o4QnBFY0RzSjVsLTlaVzRSbnFvMldBcHd2clpENEx3SkhZWGFPWQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Oklo Stock Is Trading Volatile Tuesday: Here's Why - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbm9UN2Z2VmxoeFJJaHU5MHVjaWJSWDBkXzN6UHRjeFprZ0xERlZzMXZyY3JzZ3UxNkp5NzFJaVJaRWhTSllCQTdpdUlZTXF6MnRsTWtleW9XWFlHMDFHT0pnU2pWODRSRXdaaHhvQ0stVjE1NzBweGdpcEZObWdoQXNvUVVibWxBRXU2eHZFMzN1c3ptWjlyOURIald0cndPVWxmRkVNbTIyaGNKRHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Texas Greenlights Constellation-Calpine Merger to Create America's Largest Clean Energy Provider - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1otNWNTY2ZiRVZlcXY0RUdxa1JDcFhJWDJtNklLVFNrbm0xcklreWdRT0QxclJzWkt0aVFnQ0hObDR4MWluSkZyVS10b25taHNWNUpuZDhMS1VaOGFkZGRkUmZ3bVo0NHcxMkxtVTQtajYxNi1oMDNyXy1UZkVYZTg0am1QSVo3MVZ3UjhnRUFLU0ZBWW9EX3Nna2tkN1NpeTBWVzR1ZnR5QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Constellation Energy stock soars on 20-year nuclear energy deal with Meta [Video] - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM19jVlFoeVZzWEQxZnZERGtWX21ZeG55aUpUYXRFMWpra1BYbEZINGVxd1hEQXZabGNZMVNha0pzUzlTa000VkdZeFc4VDVCLUZ6azk4TVBRU0d6RnE1VnZTbjR4V0p4MEJiUlN2b3dPNkVaT1hKdVlBNFd1LW5VVXFYelQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: DG, CEG, PINS, HIMS - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPME51RzZkdFd5bGRJTGZMdGhBZUgydHBFdjlWU2drc01rWTAyd2hKMS1pRE9IUVE0NzRjM1g1a1BSVlBHU290NGJ6aUlKY2M5MWNISGdDdDBqLUc4amNIamFDUE9BdDNRVGFOblN1WTFlejBxSVcwZ29hNlEwMFlCbTZZM1Vnb1pPelRBMDYxRFR5d21OM1ZSRS1oVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Constellation Energy Corporation (CEG) Stock; Drops 4% After Citi Downgrade, Rebounds in Premarket - CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlJvMlZac0Rmcmh1cnVfVndiakphNWJkMGNSTkowOVp0azgxcjZLZ0dSQVMtTlhNc1BNZzVncXdHTVFEYzlzcmVZUS1ZTlE4aHd6R2dwWkw5UmY5X2JLY2JxT1oxNWFYZTJERjJVd1Q0WDJ1N05ycmZSZ2I3b1JyRVhzdy0xUTJlakJqbXNR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Constellation Energy On Track To Rebound After Citi’s Downgrade Sends Stock Down By 4% Wednesday: Retail Retains Bullish Bias - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTmRVMkJOeEp3QjhocU56clVnb2RfYm16NXdnS3pQdG01azRGejY0MXlScXNwOXpZQnFCTzVvTU9rZzZfbXM3RWpxVXgwd1Y5S1YwY2g0OWlYVHNPaVIyYzYyUENQb0hyZi1nV1R2c1dsQkoyWVU3SzJrLVl0YVZzalFLY0lDOWVuRjF3OU1MOElZSjdJMFdEZTliWElxT0pDUGxmTk5LNFllM01OcDJGdjA3V1BTYjhiVnhNQm5YME5KeUF4MGpGTXQycUYza080X21qVjE1S01sZFRBTGdjQUhwaW1mZE5yYmwzT1Fabzk2TzU5YnY0Q0RPdU9IbHVJUGhWLTFubFU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "What’s Happening With CEG Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmRYMTc2M2otSHluWDBtRWVRTW9lOHFCZnA5UGl3dGljNm9lV2FqbHRFYnZZZUNFcUZOUDhxVDZSZmJOenNROVhaajItNFNaelM4cjd6Uk5xYzJwRmpWSmVyRnJWdHBPdndQdXdBaEVxVVFWR0tqcTFqZXpIczMzTXZ1SVJ4bzUwSFdObVhOMnpWZEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Constellation Energy, Nuclear Stocks Jump on 20-Year Meta Deal to Power AI - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0pNaldJTjNkUm9tR0tpZldTSHM1ZmoyaXFKN1lSa0txb2Z4dU9NcVpFa1gySVUtLVRfc2NvZk42MnZEMTZESXFhQmZBSGU5MzdGNEJhanRDMUJ6TFFqSWphY0w1Wlp4Zzh3elMyRW9CNks4Y0tXeUt0VDFFNkdtcWZwWlp2STdpNWQtNUxVX1pIOHdVaG9nZ1lmRHc0Zk9rSVRqa3JLSWx6enB5UXE4MQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Constellation Energy (CEG) Stock Slides on Nasdaq, Bucking Recent Upward Trend - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd050R0x0aVRTb2xMOVlnRXBmb180TDg0S2ZkMXFWVEVQY2E2Zl9JdEU5clJ1bXJuR0VmRVlDdF92VzdQMVJ4R25pcnhxUnJjaERrS0p4VHQ3Ylc0aS1UOU5zeFBNVVBJWmpneXY0ZUYyYXl3dTZ5bTdwNDJZcmRXSlNFX2dzZlZZcmxKbmQybEtfc0RWbVNiSHdjVXMxRlo3U20zbjNKQm9XSmk2dmRIajNGRHNxZ0h3T0Z4MA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Constellation Energy: Reduce On Increased Business Risk And Valuation (NASDAQ:CEG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2w1MU9aRjZwTmUyLVIyWVlkWTVvaTRRNHR3NVJNRzdmSWJDd2JlcjZ2b3dRc2FJbXZOTkp0RGZvLUxnbEVJY2NQekh6d1pKOEVXcms3R2p1SzNWSGhnS0xCRjIxeWJHTTNhWl9PLVN0TVVMYTRWWjVjSFpwWDV4RnNpWFNHRFBMYWN5Qm4ta1RRenVEZzBpLUZka2FnLU1lbHUzVw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Citi downgrades CEG stock despite Constellation Energy’s big deal with Meta - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR3lYTTdEb2dHTzRUZFQ4QmdIZGl6bGZObXVNUDlfZ3RXeEJVQkJwSkd6b3VRbXBnZVIzYXdDWG42YVktWkVZczBPTWNaNUwyaEV6RjU0Y19OWnV3QVFjZEZETF9GYlJ4WF9VUWExRFpsX3F1b2RseTg4TXoyeGpNWEpieVNQanJ3LUk0ZlBSZi1Wa1VaUnRCWFVGaFlYZnFQSElLNXM5cW9lX0ZhcWtWaEd3MmtmY1hoMl9jbXRkRk9nT2dFTGV0UC1yV3o?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 249.58
-      },
-      {
-        "date": "2024-12-03",
-        "price": 247.51
-      },
-      {
-        "date": "2024-12-04",
-        "price": 254.2
-      },
-      {
-        "date": "2024-12-05",
-        "price": 256.09
-      },
       {
         "date": "2024-12-06",
         "price": 253.63
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 313.1
+        "price": 313.43
+      },
+      {
+        "date": "2025-06-03",
+        "price": 313.03
+      },
+      {
+        "date": "2025-06-04",
+        "price": 299.54
+      },
+      {
+        "date": "2025-06-05",
+        "price": 289.88
       }
     ],
     "current_price_data": {
-      "price": 313.1,
-      "change": 6.95,
-      "percent_change": 2.27
+      "price": 289.88,
+      "change": -9.66,
+      "percent_change": -3.22
     }
-  },
-  "news_sentiment": {
-    "summary": "R\u00e9sum\u00e9 :\n\nLes titres concernent l'entreprise am\u00e9ricaine Constellation Energy Corporation (CEG) et son activit\u00e9 financi\u00e8re r\u00e9cente. Les analystes ont constat\u00e9 que CEG a connu une performance financi\u00e8re moyenne et que sa strat\u00e9gie n'a pas \u00e9t\u00e9 clairement d\u00e9finie. Certains experts ont signal\u00e9 que CEG est une cible des courtiers de fonds communs et que son prix de bourse a \u00e9t\u00e9 affect\u00e9 par un signal d'achat de l'S&P 500. D'autres ont not\u00e9 que CEG outpeut sa section \u00e9nergie-p\u00e9trole cette ann\u00e9e-l\u00e0 et que le d\u00e9veloppement des accords",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

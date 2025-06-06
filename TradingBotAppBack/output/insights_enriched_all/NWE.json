@@ -1,56 +1,164 @@
 {
   "ticker": "NWE",
-  "name": "NorthWestern Energy Group, Inc.",
+  "name": NaN,
   "sector": "Utilities",
-  "market_cap": 3321557248.0,
+  "market_cap": 3226111744.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.092448,
-    "PB": 1.1466743,
-    "EV_Revenue": 4.302,
+    "PE": 13.687501,
+    "PB": 1.1137245,
+    "EV_Revenue": 4.197,
     "ROE": 0.08266,
     "ProfitMargin": 0.15677,
     "GrossMargin": 0.58300996,
-    "DividendYield": 4.77
+    "DividendYield": 5.0,
+    "DebtEquity": 108.246,
+    "CurrentRatio": 1.189,
+    "QuickRatio": 0.612,
+    "FreeCashFlow": -229383872,
+    "OperatingCashFlow": 398456000,
+    "FCF_Margin": -0.15239569374483067,
+    "ROA": 0.02767,
+    "PEG": null,
+    "EV_EBITDA": 10.861,
+    "BuybackYield": null,
+    "PriceToFCF": -14.064248353083865
   },
   "technical_indicators": {
-    "RSI_14": 39.27737384513144,
-    "Momentum_10": -3.5211240305728024,
-    "MACD": -0.6174028527557169,
-    "BB_Percent": 0.1495151647005952,
+    "RSI_14": 32.737914506543945,
+    "Momentum_10": -5.023488925969713,
+    "MACD": -0.9252803481669574,
+    "BB_Percent": -0.0448457097788915,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9332598202614304,
+    "ValueScore": 0.9322016694092466,
     "QualityScore": 0.509677498132484,
-    "SignalScore": 0.5625427854169851
+    "SignalScore": 0.6852309330119861
   },
-  "volatility": 0.0137985844657116,
+  "volatility": 0.0139702200740284,
   "beta": 0.394,
-  "return_6m": 0.0185816407022434,
+  "return_6m": 0.0081988895117537,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 9,
-    "target_mean_price": 61.22222
+    "analyst_count": 8,
+    "target_mean_price": 61.0
   },
+  "news_sentiment": {
+    "summary": "NorthWestern Energy (NWE) a récemment été le sujet de plusieurs ajustements de cotes par Ladenburg et Wall Street Zen. Malgré des résultats solides au premier trimestre avec une croissance de l'EPS de 18%, la société a été classée en territoire de survente. Une hausse tarifaire majeure approuvée devrait augmenter les revenus de 84,4 millions de dollars au Montana. De plus, un accord de 250 MW avec un centre de données renforce les perspectives d'expansion de l'entreprise. Wells Fargo a même relevé l'objectif de cours à 62 $, indiquant un optimisme croissant malgré certaines révisions à la baisse.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 3,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "NorthWestern Energy (NWE) Downgraded by Ladenburg, Target Price Adjusted | NWE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXZOVmpLOWZTR2FUd2duNnZ1eDVwX2hScXpfcjEtSzBJTGgtODhFbXZJX0pDbmE4dHk5UktmakE2QUJVUFZxSnVSTFN3ZmRsQXBzSjB6cGU4dXVoU3NsdVM3bzVORVdBTUk1NDVMRVkwa1Atc2FreDMxUWRXMVg1RHIxcUc5bEc0ZVQ5VVFwTFZ6QzhqSm9vNkRBR3hEbWJCR2g5Skxidm1ROHBxckNmdmxVLWc2X2Vxa2ZCajlCNGY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Northwestern Energy Group Expects To Maintain FFO/Debt>14% In 2025 And Beyond - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOHFZNkpGUFVFVHRyTHlpMnJKSmtQVlBUdVpDSDJqcXZUQzN6d2g4T3J2NjhjYnk2cnpxZXc5c0RYbEZWN25GNV9WNFZGMjFteXgzQkMxaGhia29PbVkyOGxNTmJ4ZjJMU1FIbC02X3dPTWhTaHd3MmdmTXRtdUdzR0V6S1VuRVRhajh2RkNvVUhGdVI0NEVCQ0o1WjlQMHlObGhLLUZnZDRyU0lBcnBYekNnTy1QMFdYRW5sTUdKZnpZbDg2cGY0VEJOc3h3cXN0N3UxLXVHZHdGSThZa1ZBYmItZ2VnTWhPYVk0cXhFckxaODhNcWJFeFJrdjU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Northwestern Energy Group (NASDAQ:NWE) Rating Lowered to \"Hold\" at LADENBURG THALM/SH SH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVU1FM25IQ0pPNUYxYWwwQy1sYmdRTUxsanNSTnV0ck1WZ0tjWVRIenBhamhpTjFsREVoMlZONUZMS3dMYk1QTmxXa2ZzTGNVZHNrQ0Nfanlzb2NMcnN1b2NmRnhGZFM2NTN4Q2lfMHVUaUlNdFZOV21qX21HWFo1NDdJQ0F3UVFVUnZ3RWQ3YWlKM2xtWHBRekJ3bGUyejdQRlNheFJMVldGN3drdUVnSE9YVjJza3BqRlZMbDZGUlptMzR3cVJES0xKQTdwRW4zM2c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "How To Trade (NWE) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOFBzdVd3MG9tODVsTWRMeW5zNjJmRW92VDhVczI5dHFoemw2ZF9DdlJBZ0FwbHdsLTNFZzlDQzUwRHFfUV9NTUtnTFBncU5iYzVmMjhxdENIZnZmMXBfNmdfN0N2MUdKOEVxbElCdzJKdGVWTU9XV1JHbk0wd2J0SmpLTUFKbWVlUjNWRzVDMkFpQzRp?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Major Rate Hike Approved: NorthWestern Energy to Boost Revenue by $84.4M in Montana - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcGExb1UwejJvUGV0djFHWVJoQlVMVVdZeG45b1pidWpRRGZza0NKYXBCNDNVV21SbWliMGhGWkRfNTU4VWlMUUFwMG5NVkszVmN4YmtRb3FJQnMxdTkxWWlBWlJUQ1N6LVBHZG1LRWx3R3ZMSGhjTTdOc1FxT01PMEl0bGMwQW1LaDNUdXV1Z19NYlJTWkpYNlJrbjJFdEdMRFFxc1FfZV81SEppQ2JrUGluMVRnN3R4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NorthWestern Energy Group Stock: A Deep Dive Into Analyst Perspectives (5 Ratings) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWVVXdUY1bVdGR1F6N1QwQTZaaTVKUnc4QlMtNkFGYWQ0S2NNelFfcXAwRWFxRkVHbk1qWmU1ZXlHWHdBS05aMHVHVHRjekhxZENOWVFCdFZHYVpMYjUxU01heHQxZEk3eWl1SzlZM2hiYTBSeVlFRVhSOURTMG5oUUpETzYwX3VvbGNYYjZGU0t2dHRhZGVCYVpsNmxFZzRGaDFoNDE4el9UUWRzSzY3QnlQM0dzVy1LMHpuNVI4akt2X3NpMkVyWmVSOUs4Q0FGMzY5NzBOQ3JPRURR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Ladenburg Thalmann cuts Northwestern stock rating to neutral By Investing.com - Investing.com South Africa",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVmtqdGNFbFk3b3ZYSEh0YjJQQTdoMVd6dVNBRmVKQ3JET2tDaktMVU1vX2pEOXBMY2k1YWQwMWV5dlRpOENTNkVIOEU2RWp3WU5HYlhjVXhlZWF0WnN1aFZBN0FwcE9QUHV5d0VLTVBlcFdWRFJqZEtDNk1vbDlsVUZiTmNQOE4tQjZXQnBSdFV1dTAyRnNnNVpGSHNVZVZRanJnYVhBSDBMcEhBUzJ1SUVRNUExU1hxS3ln?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NorthWestern Energy Group (NWE) Shares Enter Oversold Territory - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1JLSDk3dHBNc0VueFA0YmtsM2g0X3IxcklpcGxFOGFqcVgxcWNoZE0xUXhFZWJOX1Bxa0VtWWstd29KR2gtYVkyUUMyMC0xczNKOGt4UkJpdHZKQk1oMFNFbzdTUjVsODVnbi14cWE5VzFTQ2Z5ZEVBSmtWdS1NYy1pM3I1TjRaa2FFQ3N0dGhMT0lWZmY5MUxXTQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "NorthWestern Energy Group (NWE) Downgraded by Ladenburg Thalmann | NWE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjVrd2NfTWhPV2RQRi1KcXd1NTRHLVFRSGlQb2VMZXVPZ3FDaGtmMWxDZGNwLXBXTmhNV3JvbmprTlRxeG9Ia0s4Z0MwQ25MWEZ5b0xUVGg3NkE3WG4xcTY0ZUFJT3UyeWhFd1RZNEJoanZNUG1UbktBcVVCWU9ORWdJVnJGcmFUSG85QlVBc1oxTEFtTmhNX2l1SW85MVJVUlVLSXZoT0lmYzFrUjlUQUxMQWtHVUk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Northwestern Energy Group (NASDAQ:NWE) Upgraded at Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUlMSUQ0Z0VWM2FicFlKcFZVQlBEWkdYQU4xdlhSSDlfaVRtcUc2dkFMRWZjdmluOFVhN2VzY2pHNHZVV3R4YURvVDAzTDNqTmVhVmE1eEdyM3lxT0VCWFFwX3UyWlhPU1pHT3R5TEtKRVROblZWSWc5cDFxQUFvXzVRLUlaTTdSeFdRTnUtczJ3RVIzWUl4MU9VWGxIWXRVZEMwSlp2Mk84SFRySjN3QjBrb1VKb29o?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NorthWestern (NWE) Q1 Earnings Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUZyd3AzQW5PWjRMNkdPYVBPRHI4anBBaUNDcU9XcDQyLWh3ZDc3T0lmbFE3NGVxeWxhUDZhN25RVFhlTEJNWG1oejR5bnVqYWpiQmJGZk5DS2hmUDd2cHYzZk5ZN1NvWXdobk5fSHRxdVpka0FCZFZtOVgzQkZfODFaWGpkdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NorthWestern Energy Delivers Strong Q1 Results: EPS Soars 18% Amid Key Regulatory Wins - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTJsMU81ZHFlVUFFU1duQmdzWi1wVVUwTU5tZkZxVDFEejNyb0xYUHIwZHloNHNDRW14UUpxS1NrYnZDQ1diZkxNb3ExQW5Ld0ZIbTZCdENvY1k5M3FpOUhmTVFNbmt0RDdTTjlLSHdYbF9iVHBqcUZWUm1Fd0E2a19PTEIzVGNlZkxjNXpYZ3dsSGN2eU03c011SzVVLURSb3FfT1h2aw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NorthWestern (NWE) Q1 Earnings Beat Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWDYzUEtoNERid0hCMy04TWR2ZFo4UVVaRjZ2c1dKVkhKR3hNYm43d2hHVWkzUkEtaGluRWhkZnB6TkNwXy1zTGRpV2VwQWlaX3otNnlUZDExWFh2YnpuTW5QeF9LeE4wcF82RnVVQktGLVcyLTJ0bUphOGI0VTI5Rw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(NWE) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0kxMWhhb0ZGSnhTeHlYdXJOanBfQkd0bnIyVzhEM0t6aFFlVjdOeEdlbnI3empRdjRsTXBuc1E0ZFVaM2FIaDY3NDZDNHJtTFdmVXkzWXhJeGRoZzdBbWlPaGg5dEtDQnE5X2ZNdnc3OHBIT3JTcDh5eS13dGw3RldoeUZaVXBEWWFpQ2VRdHlZYTRua21YdVJVcmE3XzNZOC1kb2tJMjVIc1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NorthWestern Energy Doubles Down: Q1 Earnings and Annual Meeting Set for April 30 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzNIV3FpbTlJNGhOWTFaOFdwbzZjeldTdmtGd0otS1ZWM1Exdk5MbjFPNnFld2NqUG5sNXBOZ2hzbmZBNm1CUE10N3RqWVJ5bWJ2RldXSTlkYzBpUG80bUdEOEhDTXRvVktwN1cyWllhclNWU1IzZXJMQTZpRXlrWHZnWnd3X19lZ0hfbGs4eDZ1SmdLbDVCZG5JdXVkQmhhLTRKTmJDZ1o5NDE0YVNGaER3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "BMO Capital Rates NorthWestern Energy (NWE) at Market Perform | NWE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVAyTXRfTmdLT2NadHJYeFl6MWhHenI4ckhud1Q2VE1wUTRyU3BOcUJSMUw1bXl0dE5oWHcwdnRwWEZJUWFGRkIwVGZUcTlON2lkWnkxRk5nVmlGVTUxVnEwaG5mUlB4TWZqSjBDSXVUS3kwbGlFaHJXQXJpcklVNGVtZTZMbE82RWJXNjhMOERtN2NqTERIc2RFMUFXUlJWM1FfemxJS3hqcl9wZUlOYi1GV2Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NorthWestern Energy Inks Massive 250MW Data Center Power Deal in Montana, Major Expansion Ahead - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzNQQUZzc0hFU00zeTBfSkoxWFBRc3RLTm0zUGdGdllhQUM3eGVVbFJEYk1EdmtveXlXdXhQSF9OTjdRSVBRcno0UlBZOEx0UHlEN01aeTNhUW9tbGJ3emlXM0p2WElIUWsxc3U3Rm5Edmx5bnozcE4zcnhoZzFyYkViZzNsZVYxal8wYVU0TXZkVTRkUllqNGtxa0NkdTE4N1JOWE93MEhHWndJYmFCejUyYldYOTlfbWp4WGtB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wells Fargo Boosts NorthWestern Energy (NWE) Price Target to $62 | NWE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2dGNkFNaGhtdG5SRTBxcWg0TjNxUFhvdXpnZEpOZjlmTy1iZHctNklGejBNOVdGZFZCZUxLYmoxb3ZTRmF6ZkQ5NjRZVndFczA2SElTYzBSbkd6bUxxeE1KZmU1X0VLNjhodVZQMWd1YkpXV19WcXRwNTZPYmF5cHNmOU9aV1F5bDNPNHc3YzdJVzJuc3NqdmJ0elRvaXZWWHhxZVgxRm9ZbzVRZlJGMGZveDc0REE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "(NWE) On The My Stocks Page - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnQ4dVA4V1l6NFBRYlNnektOV2ZZaUtKMkxLVmhhTzIwZjVHeVFIYjB4bTZBNkQyazQzU281MUNGeWdZM1dWZXQyRHlhUU1BTzFwdkxyTmV3TVVzTzZyamt6bVYzTHBWRjVTZmZLcUw2MHdEdDBQUkhIdWdDeU1rb3VkUE5YSEp5TEdjaVFiM3hSYWo0Mkk0VWhXanlVNTJ2YkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NorthWestern Corporation (NWE) Maintains Earnings and Investment Outlook | NWE Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbzdyYTltekNZbGFBTkZQOXJnM2dtWm5JbC1KRHAzVjV2czJyVEotVEtVOTQ3ZGNiU2Rqak1kSTBKcmRsR09QY19Pa242bkdqV0hwamw0c3VuNWo1eVdUSzFid2ZoX2dNMGxfVHkwY2ZmYlQyYnhpUllrSjNHOER6cVBpdktLWUtYNzRjd2NON3pQTTAxZ3RMZVM3RURqZDRPX0o5WU9YRWJONTZFaG10TkFocWI4NURUckFKVm9laU1lUQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 54.45
-      },
-      {
-        "date": "2024-12-03",
-        "price": 54.39
-      },
-      {
-        "date": "2024-12-04",
-        "price": 54.02
-      },
-      {
-        "date": "2024-12-05",
-        "price": 53.8
-      },
       {
         "date": "2024-12-06",
         "price": 53.43
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 54.13
+        "price": 54.11
+      },
+      {
+        "date": "2025-06-03",
+        "price": 53.91
+      },
+      {
+        "date": "2025-06-04",
+        "price": 52.75
+      },
+      {
+        "date": "2025-06-05",
+        "price": 52.56
       }
     ],
     "current_price_data": {
-      "price": 54.13,
-      "change": -1.2,
-      "percent_change": -2.17
+      "price": 52.56,
+      "change": -0.19,
+      "percent_change": -0.36
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent NorthWestern Energy Group (NWE), une entreprise cot\u00e9e dans le secteur \u00e9nergie. Les nouvelles montrent que l'entreprise a \u00e9t\u00e9 downgrad\u00e9e par Ladenburg Thalmann, un bureau d'investissement, \u00e0 un rating de \"neutral\" apr\u00e8s une s\u00e9rie de mauvaises performances financi\u00e8res. Cette d\u00e9cision a entra\u00een\u00e9 une baisse de la valeur de la soci\u00e9t\u00e9, avec une perte de 4% de son prix d'action. Les autres titres portent sur des analyses positives de l'entreprise par des experts financiers, des nouvelles sur ses activit\u00e9s (dont une majorate des tarifs dans le Mont",
-    "sentiment_score": -0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.3,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

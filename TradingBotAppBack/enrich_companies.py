@@ -34,7 +34,24 @@ def get_company_enriched_data(ticker, row):
                 "ROE": row.get("ROE"),
                 "ProfitMargin": row.get("ProfitMargin"),
                 "GrossMargin": row.get("GrossMargin"),
-                "DividendYield": info.get("dividendYield")
+                "DividendYield": info.get("dividendYield"),
+                "DebtEquity": info.get("debtToEquity"),
+                "CurrentRatio": info.get("currentRatio"),
+                "QuickRatio": info.get("quickRatio"),
+                "FreeCashFlow": info.get("freeCashflow"),
+                "OperatingCashFlow": info.get("operatingCashflow"),
+                "FCF_Margin": (
+                    info.get("freeCashflow") / info.get("totalRevenue")
+                    if info.get("freeCashflow") and info.get("totalRevenue") else None
+                ),
+                "ROA": info.get("returnOnAssets"),
+                "PEG": info.get("pegRatio"),
+                "EV_EBITDA": info.get("enterpriseToEbitda"),
+                "BuybackYield": info.get("buybackYield"),
+                "PriceToFCF": (
+                    info.get("marketCap") / info.get("freeCashflow")
+                    if info.get("marketCap") and info.get("freeCashflow") else None
+                )
             },
             "technical_indicators": {
                 "RSI_14": row.get("RSI_14"),
@@ -86,3 +103,6 @@ for _, row in tqdm(df.iterrows(), total=len(df), desc="Enrichissement global"):
 print(f"\n✅ {len(df) - len(errors)} fichiers générés.")
 if errors:
     print(f"❌ {len(errors)} erreurs (exemples : {errors[:5]})")
+
+with open("errors_to_retry.json", "w") as f:
+    json.dump(errors, f)

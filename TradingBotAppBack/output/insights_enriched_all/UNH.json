@@ -2,55 +2,163 @@
   "ticker": "UNH",
   "name": "UnitedHealth Group",
   "sector": "Health Care",
-  "market_cap": 275253460992.0,
+  "market_cap": 268295733248.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 12.7064495,
-    "PB": 2.9053879,
-    "EV_Revenue": 0.807,
+    "PE": 12.385261,
+    "PB": 2.8319466,
+    "EV_Revenue": 0.804,
     "ROE": 0.22700001,
     "ProfitMargin": 0.05391,
     "GrossMargin": 0.21989,
-    "DividendYield": 2.78
+    "DividendYield": 2.8,
+    "DebtEquity": 77.277,
+    "CurrentRatio": 0.849,
+    "QuickRatio": 0.769,
+    "FreeCashFlow": 20096374784,
+    "OperatingCashFlow": 28515999744,
+    "FCF_Margin": 0.049008733016050014,
+    "ROA": 0.07044,
+    "PEG": null,
+    "EV_EBITDA": 9.095,
+    "BuybackYield": null,
+    "PriceToFCF": 13.354064326749372
   },
   "technical_indicators": {
-    "RSI_14": 31.208646247283568,
-    "Momentum_10": 4.038918980854456,
-    "MACD": -37.41784190715981,
-    "BB_Percent": 0.3571973284299189,
+    "RSI_14": 29.38468298261836,
+    "Momentum_10": -2.465509588036884,
+    "MACD": -31.973143076100428,
+    "BB_Percent": 0.3567058119746415,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8981230176979365,
+    "ValueScore": 0.8953244591933917,
     "QualityScore": 0.3803260559947703,
-    "SignalScore": 0.6945923505557012
+    "SignalScore": 0.7191794258066913
   },
-  "volatility": 0.0359556751774557,
+  "volatility": 0.0357074025429992,
   "beta": 0.453,
-  "return_6m": -0.4973122865125531,
+  "return_6m": -0.4850108726530219,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 25,
-    "target_mean_price": 394.8844
+    "analyst_count": 24,
+    "target_mean_price": 388.33792
   },
+  "news_sentiment": {
+    "summary": "UnitedHealth Group (UNH) a récemment connu une série de fluctuations de cours, malgré un marché en amélioration, en raison de divers événements clés. Les actionnaires ont rejeté une proposition de parachute doré pour le nouveau PDG et ont annulé les unités d'actions restreintes de l'ancien PDG. Bien que certains investisseurs parient sur un rebond du stock après le premier trimestre, d'autres s'inquiètent de la chute de 40,4% depuis le début de l'année. Les inquiétudes concernant les bénéfices et la valorisation ont conduit à des ajustements de l'objectif de prix par Barclays, soulignant une situation instable pour UnitedHealth.",
+    "sentiment_score": -0.55,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.45,
+    "negative_ratio": 0.55,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "UnitedHealth Group (UNH) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcHFILXQyb2xVMmQ2NmlHV1F5Ym9YNWVOS0ZJbzlGSkVjd0l1ZzAtQ3A4bWt3V2FjOWV0SEx0dWE1NDFXWURfUXFUb0gxRnlpR1JQZzBKTmVpTTNXNXVtMFhUVWJaOGJPM0ZOek12YUZpN0cteUZLU0hndE1uN0lYQWZ1OHVLdnpEZ21Z?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UnitedHealth cancels ex-CEO's restricted stock units (UNH:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTdRT185ODllUkRadDZFcERIREM0MDR0QkM3WTExcWh0NXlPT3NHdnBqR2VKc3hyLU1KTUQ2cDhHdjdvd090dXczZW1EUl82TDl4Q2ZJd2tXYUo1aXozLXh2Q3BaWk1mZkhKaUVVelA1cmplanNRWjg5NW9hdnFpQkVtUFpaOXBDM0RnR2hOWQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UnitedHealth shareholders give tepid support to $60M in stock-based pay for new CEO - Star Tribune",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXdESS1hbzBCTklVSXJnYWUxWmFma2YyWExfVUpUeEZVNGtPemcza0pJMkZlNXV4RE8tMzRrTTdsWW9DUm4zSWVIVXhYd3p0ZGpRTVE5dFRjcEh6b00xdHhwZDJPdzk4UkJPU2EzcUZOY19ocjQ0QU9oeEE3X0YyNWNZNkNIc0loUDZVVUFFY0xmU1A1bVZlZFN4LXJtUFZsc2lOYW5Taw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UnitedHealth Group Announces Earnings Release Date - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ05RT3E5Ul82eHJLT29aSUNuaFVVNGtIX2p1RGdLYWlENnFfRk0tMFdvczZXN0xDTU5IYjEtWVVkOWdBWGg2VllmazVPREY0Y04wS0oxRjF0eUQ0d0l4NlhLNjg1em9EaDdnTnRhR2RZblZBSGxSVXZ5bE9qV0VMeVplMVVPTEJraTdWRmliVmR4WHNGSjZDaERTLVNSQ3E0djdnWG1tZkZNX2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth Group (NYSE:UNH) Declares US$2.21 Dividend; Shareholders Reject Parachute Proposal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ0dKeWYxVEx5MlhkcGR3NGRRWmV1dnhXTkYtcVB5SEJ0WVlKYWNDeExoTlhqeGFGNGJqOE1tOGh5bVVjb1JicXp2WXd0NE5FazV1QXRPT1c1cXZHVVFOVXRXeGxVYmN4c18yUjc3d0FfdWRuZ2hMOC1SUDg4NTgweFlybDEwSktDMVE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Options Traders Target UnitedHealth Stock Despite Steep 2025 Losses - Schaeffer's Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTjlrUXRhMTVwcEdqWGU4S2xTZ3ZKOWxwLU1lbFRVZlBsaU90dmNFVGJHU2VMNDVsYTR5UGI3VHN5aUw4Z2s4VjdVa2swLUpKRlJBQkI1WlFacWxWb0JLUFBkZWhVaWlTUmN0bUV4TE41Y05aRkVEdzQ0eGVOdExYTk1DdVRJcUY3c3lXQzJtcUJybWpjVlBhMG04QWRxZGNDeDBTUzg3dVhid2d0akRleTA3MzJkaEhKZ0lRLUJ1QVBLNUc1VDAwMQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "5 Investors Betting Big on UnitedHealth Stock After Q1 - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZE85djhZSVNfdEdqLXVSOE9sa2JodWVZUWV2NG5LNjl5T3pYN1hYSkhNX3FheWdtQVlqUUtFMEx0V01BekxITWpTdnlxWmhlTS1ZcHJqem9Rb3lXRzF6Y2xuNWV5SXJZcGt4R2p4dXc3LWtwT2NuQVpYWWZmY0pKNDJXNFFiVHd3UWNhUm1WQ1NmRndaN2VZaEozakpTNWZxUVpvVTlFRWtPLUhzNWNFelFoX21uU2xKdjZmUUstTGtoVlhpcFFadGtkdUVRYk81NUFSaUdvcms?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth Investors Back CEO’s $60 Million Pay Package - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjV0MEhMY2Jia1lkYVVjeWhzRzRRTXZlaXJNbnN3NjNxS3pWemRBY182aTlJbjRObE9QTDlIb29hODNtM1cwaVc0MkkxcTRLN2dWeGhTUHUzaF8wRFRGMGhGdERTdy02Nm16b3lGRnFPdkdMSDl3NmVUMFk4YkpTNWh2LWtTQnFiTGRRMXFjNlNQSFkzNHZ4SzBfV1hNZHY3bnJHSDlFNmVfZmROLUJNQ0hTWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Barclays Adjusts UnitedHealth (UNH) Price Target Due to Earnings Concerns | UNH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWEpPd0x0TG1YdlZFemRrc196OE44dlhYTWNFV04xSlZaaXVmQUFXOUdEbW1RVGNPYVdtZ0FFR1E1ZFJBREdRdjU1Y096ZXhFUTVtT0FfZjBKZ0Vnb2VsLVdlYkg0Ulprd3B4Y3Z5a3FUaXh5NnQ2YkVna2UtSVZpTEVMcDlubnp5WW9jYmxlLUw5bk8ycHZwck1rRVcyN0NpdzVGWnR3UWRXeEtsZXEyNXE5RVZfX0swSHQxU2RlNEkwOUk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UnitedHealth Group (UNH) Stock Declines While Market Improves: Some Information for Investors - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjY5bnlQMnJxbDJlNzBOQ0ZDNU05dG9xWW8xbldQWHhiNVFaUFJHVlNjRHdiREVhRzFDN05nVTM4OEEzai1aV1VIOVliVzZxdnZtN05KVTdweHZaUk9pN0h0MmFyYzROU2VLTmxqTWY4cWItcmFyRzYwT1U0NUV5ODlfN1ZkSlNhbzFKS0d5X3l4NnBWQTJUVWcxWkNzOXlmWUU5bTBDU19hUXFhZUUtZ2hlc3M0a1U3bjUzUA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Will UNH Stock Rebound? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGNrcVc1S0hyU2p2Z0tYbExCTUZBWXp2aFV1NHZVaGVJc1JiQ0hWaTZGVlpycUtGLUhkVlZHNWhKd0FyTjltT2FVd1NzeUdUeW1pblJBc3ZyVnUyZkQ1NlV3azR4YkhiRFlzNDBWWjgydXJ5MURRWnRPdWVPWmlpWkt3T0dQXzMy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth Declines 40.4% YTD: Here's Why it's Still Not a Bargain - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVU3RzFXVFU2QmFjV2hOYnNyazFzSFdwRDhJR2ZfS05FaEV1emxERjJTT0IteXJhQ1dHTGE0UkIxeVBLS1BpNFRHczBWZXNuSk1uUElJYmNabEh0TGlCdEVLeFpSQ2NhblBHUVhFalZpM20yMThGSzMzcFAwRWs4T3hn?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "What Sparked UNH Stock Crash? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0xzUWdrUHYzbklqN1VPajFTZF9CdFNuWTNoTlAwTm56ajJSNndYYzd6Y1pEa2ZPbzhzaHgwRTVvay11Sk44NU5qaUYtTUJYa3o0Z0xJbThuc09Na1J3MjlPMUdlb0VKeTEwTjJwT3Z4ejJhQm9naWgxYV9aUVJLSElRUmw3TWVUaU9DM1RYclk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth: Profit Margin And Valuation Collapse May Only Be Starting (NYSE:UNH) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW1GUl9MempIcjVvLThRVjJKUkVlSWs0ZmNubEhtVTctb3I5bV9DS1BLLVQ3RFo2eFBrenpfSlo3cUpiUlluNzBnVWxwZ3cxc3cyVzZwZ2VpR0NVbUNDN2JIMVRFNjBkZ2tqcmRDaWZtZW11MThSSjdzSVZwcm9iNGt6UVdhN29wXzVBRVlwY1dObElCbkVFTExIRGlsdzFoVkJheHc5dlZqMzRVNjROUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "UnitedHealth Cancels Stock Units for Former CEO - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3NseVFFTXNjS0VqTF9sV3M4Vy1ZV2tpU0dKVmI2U3JDV1k0ZGhWZjhBOUpITk04N19XSGE3WTZLdE9TVDVrc2RKekNQQlhvSWdrNENpVllpVEc2Rlh1cFplclo0QTdSTFVYQUNfWWxDZTZFMzBWWHFyOG5pbG9UdW15N1NweHhPQmY5QWVJaE5tVkRNNDBwYk9sdWdZUUUw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jim Cramer and Wall Street Are Watching UnitedHealth Group (UNH) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZThLWDY4czdCY1hUTVZKQ0h0bEYyVkRnR0Y1aC1nY3RjR2x3VUdQRUtYSE9idzJwTjQzbVI0eFJHSGpqVUJRUGNDcGtRVlFVWDZHZ3pVbmo5MWxXd3E3ZENHYmRJZmhScXRiaFkyeTVYbkE3cW05eDJfeHkyMmR2UFpFOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Buying the UnitedHealth (UNH) Stock Dip is a Bad Idea - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMUdyVVBxRnNSRW1zSTk4ajVBSm9tVk9XWG5sYUppQm14T24yaUY4N08ta0JxVFFwS0RTQW1wWUItUjVVekUxV3Q3UElEVFRQcXFxRjJPSDNFMHBhMm5hY3R1Y3RRdmtUX2dPLVN4eHVXbnlOOEZHZFVMMFE5aXdObEJYUHFSQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "1 Safe-and-Steady Stock with Exciting Potential and 2 to Question - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15d0NmazFnbHIwV0dMMUVJTm9wal8xa3V0RGhmNG5LTFMxdl91QUZzZ1NSWlpHS2FNMXFYVzVoYk55MVVCTk52bWlyS0JySER2QXp3eGFDeEdwWE55WmJvaV9RekNTdmFuNGVLdkJFV2lVQlFfU0tqUTZXZEpJT3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth Group Announces $2.21 Dividend Payout for June 2025, Shareholders Back Board - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVVOWxuZE5FdkduOElIY2l6YWpuX3FQYndabGV1N05obU5iQVRXZGItSldQbVphczVST1NIQVVXYTduYVpqNGx3VVNZUmJnb1ctS3c0aS1VTzJFUU9jV3ROTlRFeXFqOURXQWduNEtNVzlyN2RRdFpZem1MN0tvSF82azUtNHViNFlwYlJiZVNpWDU0TnBadjJaaklwT3JwamtzM0NQa04tSS1iYkhTWXlJNFVMTnlN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UnitedHealth stock posts worst monthly drop in years (UNH:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMWVGUzh3YmgyZC16TUtJZkZsa05zdTdsZVQwcVFnaTRJNlNJR3VFN0VkU2hIQUNxdUF5RVZGV1RQUUVERi04dkJjd01xQ2x6WkhJTm5GelVtRlRWUHkxY0dvbUlWbUNjVmd3QS1ZN2Z3N1o2aE1PVkg3aDI1RGJhT0pTbXFnNW1HZU5BYU9EcTltOXRi?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 608.52
-      },
-      {
-        "date": "2024-12-03",
-        "price": 605.23
-      },
-      {
-        "date": "2024-12-04",
-        "price": 610.79
-      },
-      {
-        "date": "2024-12-05",
-        "price": 578.97
-      },
       {
         "date": "2024-12-06",
         "price": 549.62
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 304.2
+        "price": 304.72
+      },
+      {
+        "date": "2025-06-03",
+        "price": 301.22
+      },
+      {
+        "date": "2025-06-04",
+        "price": 300.38
+      },
+      {
+        "date": "2025-06-05",
+        "price": 295.84
       }
     ],
     "current_price_data": {
-      "price": 304.2,
-      "change": 2.79,
-      "percent_change": 0.93
+      "price": 295.84,
+      "change": -4.56,
+      "percent_change": -1.52
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent l'entreprise UnitedHealth Group (UNH), et rel\u00e8vent de diverses tendances positives et n\u00e9gatives. Une tendance n\u00e9gative est la d\u00e9clinante performance du stock UNH sur le march\u00e9, qui a baiss\u00e9 de 40,4% au cours de l'ann\u00e9e 2021. Une tendance positive est la pr\u00e9sence de m\u00e9dias financiers tels que Jim Cramer et Wall Street qui veulent suivre UnitedHealth.\n\nLe sentiment de march\u00e9 est positif avec la pr\u00e9vision de Barchart.com que le prix du stock UNH puisse atteindre 552 dollars en 2025, et avec l'",
-    "sentiment_score": -0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

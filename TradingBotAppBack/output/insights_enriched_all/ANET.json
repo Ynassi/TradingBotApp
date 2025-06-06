@@ -2,55 +2,163 @@
   "ticker": "ANET",
   "name": "Arista Networks",
   "sector": "Information Technology",
-  "market_cap": 112115974144.0,
+  "market_cap": 119877558272.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 37.666668,
-    "PB": 11.085309,
-    "EV_Revenue": 13.536,
+    "PE": 40.27426,
+    "PB": 11.852725,
+    "EV_Revenue": 14.938,
     "ROE": 0.33681,
     "ProfitMargin": 0.4072,
     "GrossMargin": 0.64088994,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": null,
+    "CurrentRatio": 3.933,
+    "QuickRatio": 3.071,
+    "FreeCashFlow": 3057000960,
+    "OperatingCashFlow": 3836134912,
+    "FCF_Margin": 0.41107806504098177,
+    "ROA": 0.15675001,
+    "PEG": null,
+    "EV_EBITDA": 34.86,
+    "BuybackYield": null,
+    "PriceToFCF": 39.10318262248763
   },
   "technical_indicators": {
-    "RSI_14": 51.18246546618342,
-    "Momentum_10": -7.311756436678635,
-    "MACD": 1.6772664688295578,
-    "BB_Percent": 0.3355243121871569,
+    "RSI_14": 59.94606067002924,
+    "Momentum_10": 3.0185014673976074,
+    "MACD": 2.175258102649593,
+    "BB_Percent": 0.6664558160563724,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8521332528328116,
+    "ValueScore": 0.8438091849741761,
     "QualityScore": 0.3751514924910045,
-    "SignalScore": 0.6618589063487281
+    "SignalScore": 0.5255636366876899
   },
-  "volatility": 0.0401383960113171,
+  "volatility": 0.0404049999956859,
   "beta": 1.379,
-  "return_6m": -0.1292855858135904,
+  "return_6m": -0.106524428416741,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 24,
     "target_mean_price": 106.005
   },
+  "news_sentiment": {
+    "summary": "Arista Networks (ANET) a connu une volatilité récente, suscitant des avis divergents parmi les analystes. Malgré des hausses significatives et des prévisions optimistes quant à la tendance des bénéfices, des inquiétudes persistent quant à un possible retournement de situation, soulignant une certaine prudence. Les mouvements récents des actionnaires, avec des ventes notables et des achats stratégiques, reflètent une incertitude quant à la direction future de l'entreprise, notamment face à la concurrence et aux évolutions du secteur technologique.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Jim Cramer on Arista Networks Inc (ANET) Stock: “I Don’t Understand Why It’s Down This Much” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHk0US1oRFBrUjY4UzdFNzlhYUxpTzFSZEs5c0xaMGNqMmRtYmd1OV95YWNWSDk2VFNVclRiUU9aTHBqVkNKNjE3V1hYaHY4Y2xSaEJpNk01Q0g0ekJoS00xY1dJanVuMnpQaW04aTIyLWdQbkFsNGtQM2VWRldvTm9n?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Buy Arista Networks (ANET). It’s Proving the Market Wrong. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDBuM2FiRVpCTkNQZ051M052SnUwb3hqU293UGlrZ1JqYkN3OWUzbXYyb1pwU0lqM0Z2cTlwbkc1cklzcDlnakRBcl9JZ09JSkpEY2pXYUdjUUtKQjdPV3JsY2U3S09DZEpBZVFNWmozRWQ3eTlBQWJnck5Na1dqLW5WbEI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arista Networks: The Bottom Might Fall Out (Technical Analysis) (NYSE:ANET) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3JYZm9nN2lLQjJCWDdzZDE4MTN3RnJIRnFhWmlOOFFzZjdKb294RUVzMTduX19IWVBnUUdRQldXVW01Y0ozV3F0LXJReEhReTBBSnF3Y1pBXzVOTXpuWGU3cXpYZHY2T0xuTXRfVlZkbVlSelRlX1ZpYnNXM0V6Z05mc3NpdGdsYkdCdUNkbkRwUmZ2eDF6Q0tXUWZSMnFzclJacWRB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arista Stock Surges 12.5% in 3 Months: Worth a Solid Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rWGxFT0w3SlFTY1YtMG4yOWJLWWZuclJsUHhHczBWeXhvckI0eUV5aWh6VFpEUEF0Qm4xWFRyOXF5WjFpRXRlS3lWQzlKMzFRLTByRUZPOTIxamdheG5YZ3ViYVJHMWV5V1JKT01xdWppSzgxSmhfLXdR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Is Arista Networks (ANET) Up 9.8% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45LTFyaTVudVU5aEg1cV8xVzVHeVJOTWJ1YWxONVVQUFBzRDRzaDB3MG1hRmhqN1pJMm04NGxCd1FkQWtyWVBuT0wxaHJ1N2diS2NzLW9Hb0E0RFJabUZpV05IRXhnNTRLVGcwVVozMl8yd2xqWHVmSzY1bkw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Arista Networks: Betting On Trend Of Surprising With Earnings To Continue - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdXMwaENLSFVPQkJ3ajFVOEdGSFpDNnZvQjFpcnh3ZmtLYTBQM0dCU2dxOWNSZUpIdG9yNUtRMnBlazhKMkxIdmgzSnZic3A4Z1pwZ2VBd2Jia2NkbzBjZUhkelRPYTlRX2swU1dhWlBhRXA3NXY2bTFhbUVlNVpMWGVsWTcyVDc0azdmYnFvVFZldmFHSzFXSWI5cE9HMUtKemJwdkJ6R1J5UHdqYUZTVzJ1TQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Arista Networks: Fair Execution, But Don’t Buy This Stock At A Demand Peak (NYSE:ANET) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNm5FRnZQZ3VvVXZ3bHYxRWxxVnB0VXdibU16SEt2V1RESVZyM0wzeWJZU0JnelNqRmY3cmpGV2o2RTFvaFRTX3djbUhENHdkbWZycEpPeFhZdGxPUkFnb29VcjlXVXhUU1BCTGJ4Y1VITnFBOWZPN1o5NkJDekI0Zko5X0thck82WTk1LUgxZjJyR0JOSUFuN1pFeHhEY2RUZThtWmpPR3NFazhTcDlRZA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Billionaires Are Selling Nvidia Stock and Buying a Stock-Split AI Stock Up 530% in 5 Years - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWdPaUVqYkhZem8xdUs5eUNMQUJ4Q1BDNWlXYTBpRDY3a0NqX0JNay01Vy1PM3FTREJOT1lObnpGZkY3RGFzeExoZWFuNFhhSjNaOGZCY1ZwVHphNk9OU0llN0NvM0xpNFpQV091ODFaUWpMOVVzR1h1dUd0ckFCZ0Z0MGxwSFFVSzVQUUFUaExFRG5LNHdZNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arista Networks (ANET) Surpasses Market Returns: Some Facts Worth Knowing - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3pUR0k0SnJMYVYzTi1pVm9pbjJKUEMyYkt2Q2QzVGxrNXZHM0RhazMzOW5UUXN1VGVBYXNKZmRZZ2MwcFJrNkZaaDBHTnJUenZtNVBnOV83T01XWVNiU1ZTNVY0YW9GQUZTUjVMWkZZRVh6LS14dVRFUGNFTU91dHBsNF9aVVliTWdN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors Heavily Search Arista Networks, Inc. (ANET): Here is What You Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY1lmVDNoWk1sd09rLTdndWZVSl8zbXpvc2I2dmdfbzFSNGF0bHhNeG5JVHZhUXh1OS1mZVdYX2ZxWE9sMnIyUDNjMnRoZ2xOOU5DOFV1VE5YYzU4SFBHN1JyRFVvdl9aNDdsdjc2YVhEU1A0S2tIUWYtaEJYRGNKTEFOVk5oZHpyZVdtNnYtNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Arista Networks Inc (ANET) Stock: “I Don’t Understand Why It’s Down This Much” - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaF85WE5oVTh6amVpbVFnekloMUpnbkhCYkJnOHpDM2NYTVpJdkExT2M2eXppTG5NazdrWVFSazl3WmhSLTJ6QUdESjBOMXFrU2IzZlc3VmIzMkhHRm1MUHZ0aW12ZnZ0NDRERjdNbEdpTTZtSldValhEWl92eTZiWVFfeGlIbk1VR3c3QWF0X3B5YV9yUnMyM1FtajU5Zjdibnhxa3pfNHdjMmFQYlNCTW9hdEVOZDhjSkxQel9FQS1yejVXdklJd1QweDhMS3ZmOVE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Is Arista Networks (ANET) Up 9.8% Since Last Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2YxUGhyVHBoTXJ5MF9ZMEtoTnV4V0pWNGRQOEVUVXNlN3doSjh1QVZYSWtWU1YwUVNqWDliOEs4SGozT2xseThqZHgteWhpVHo5WGg2em51eTF1WXVCb1pOU1hsRDFYZE5xUUUzOVB0ZGJLbDRQaVFsNFd5WUNGaWtZcEt2SzQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Arista Networks, Inc. (NYSE:ANET) Shares Sold by Clare Market Investments LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTTN6ZjZCNXFTT3BxOUFLaWpTOXF1ekExR3VGakNJUHk5aFQzSHJUNU1vME9QUzUxNFdQQWxUcy1EcDBLMWlSTDNxZHZ0cXhLMXc5RW16RVEwTEhfSUg4eGFmUDVCNmhYcm54am1oUGJ4WUY2ZUxaTlc2aE90TVZBY0pNSUp2S2x3SVctRVpxazhUdVFTcmRvejBHRFl1ZkdETjh3V2FYLXlHLXBHcmFCUERfMDRjUUpXUXl1YkI2UU1jUllDajZjTVVLd3Nsdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Arista Retreats As Nvidia Touts Meta, Google As New Networking Customers - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmJwSWpBbHZWQUk1N2NaS19kdFFfcVJ4TC1MY3pXRGhCMFVkd0NGMlAtOW9jVzlybHBjUEhSdlY5cm1YbjBQRVFxUzNUZ2lnMVVRMVNXTEw0Mzh6djl3akYxTjFfUWhSdjlqNlRDSF9BX2p2NHZCcXdfMEJ5Nl9DRDc4SnBSOUlycWgzdHE5T3B2dU95Qm1UVHYxQ0FtbWM4VHc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Arista Stock Surges 12.5% in 3 Months: Worth a Solid Buy? - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQalhmWXhuX3FxdjExdkZmRzVqeWEtMWJMdUR1VnZOb2ExQjNueFA0OVdIWG16LVh3MjNIUm04WEpqMG9iMUF3c3dfSzVTVmQ3S1ozSVNnWFNLNHpGd3phZTJrZ1RfUHU3SUp3TGhDa1hXODA5M0FDSW9RTFN1LUZTaHM5OXJMS1V4UmNtLXhSZ3lyZ1FOZDRkeVBB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Retireful LLC Has $829,000 Holdings in Arista Networks, Inc. (NYSE:ANET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1RBR2V5dGdLZVdWejE5Zld6dzlIeUNNSnJUandpMnNEbEctZTVPeC1xaU9JSkMxMTYzdEJTb0w4c2VaNTNLa1VlcG55UTVrVDZJeUc0Sk9rR2dYSFVfUGxQa25yTFpuZy1yTTJNeGRibTI0ZTczUVlDcWVodlRfeHp4YW5vdUswUXg1bTFPRVhFLUpyQnFHZHhTTzJ6RVc4UDdNMGw5N3VxajRmX2U5TEFrYUZaWGpRWE9idWlFLXFGTnR5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy, Sell or Hold ANET Stock Ahead of Q1 Earnings? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEFnYjdqYVJvV0QtNU9jT0xZN2IyRFZuVVpDSHVzeHFXc2FjVFJNSWFFTW1VQTdqNzYxR2dJVXlzQmtOeS1rLUZOQVNTM3U3SExEU05UeTU1VUlGczYxNDVnVENsdjQ5UkpZbml6VnNzTS01c0ZlaEk1V2FJaVBCT3djMkxnalJQSjgzYV9DX2Qxdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "25,464 Shares in Arista Networks, Inc. (NYSE:ANET) Bought by Salvus Wealth Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcFVVNl9rNmIwWTdWLWkzbEgxY1A4QjRsNDJMZEl2MzBGVzlJdWw2VHhBWW1wcHFVYkVoa0hjYlR2YkNxS3BZVTJ6TXZKbkFJVmVQTHZJNXVtN2Vha1lqWTFZNm5ERC12V1d2ajV0VlJMZHVQNndKZTlfM2hITlpnMXlLS3JkTGdFRUF1VW03LUNaNmxFMEJMNkJKc3kxM2dQeVdpeC1BTVpOVWtFQWJ3YWlRQm15dXBKOFhoSkpLM0Y5ZUh6QkJzX0ZCOWNJMkI2d0dabUk2a0ZiQ1Br?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Milestone Asset Management LLC Cuts Stake in Arista Networks, Inc. (NYSE:ANET) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX1phcXNhMHM1NVhaYmFtNk9odEVNTDNBVnZPM3lUdWxzdFFJYmhpZUwzUGw4bWpCYUxZV1BSaUJWV0REd0JRczJhYkNWWk5JcndsNGpzUXhfY0RLTzZRelhJT25JQjYxcnVYNDZxOFRBLUxmU0tyQ2dhY3haVm9PZHFpc1FUNmUtNlF6YUtjT09maWI3a1JfbUVIVUtPbGhhd0VMMU5tc3p5UDZDaV9OZjNFeGZoSS1EMV9CMkdQbTJiZUdqeG5oVFNWRHFiUElwUUZJS0xhQ29GWEdDMFdHNTdB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Billionaires Are Selling Nvidia Stock and Buying a Stock-Split AI Stock Up 530% in 5 Years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVhqLXpyMVVtMVJFSW5xWWNTZjd1ZHp6cVVMdmN3Y0l6R2RIN1lMZXA3R1lMS1dTOWl3aEM0ak9TRDhHYUFxOVRVeldnc05tc2Y1Zllnb2xsMDhsQ0FBS3A0amRIOFhIcmlfSmpwdWtMdmVERlRVSzJ1QWsxcXJERmJfTWhiUlRxRWpUSnlqVQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 102.53
-      },
-      {
-        "date": "2024-12-03",
-        "price": 103.61
-      },
-      {
-        "date": "2024-12-04",
-        "price": 105.43
-      },
-      {
-        "date": "2024-12-05",
-        "price": 106.83
-      },
       {
         "date": "2024-12-06",
         "price": 108.25
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 89.32
+        "price": 89.78
+      },
+      {
+        "date": "2025-06-03",
+        "price": 94.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 94.94
+      },
+      {
+        "date": "2025-06-05",
+        "price": 95.18
       }
     ],
     "current_price_data": {
-      "price": 89.32,
-      "change": 2.72,
-      "percent_change": 3.14
+      "price": 95.18,
+      "change": 0.26,
+      "percent_change": 0.27
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres concernent Arista Networks, une entreprise cot\u00e9e en bourse. La plupart des titres mettent en \u00e9vidence le bon d\u00e9veloppement du secteur de la t\u00e9l\u00e9communication dans lequel Arista Networks op\u00e8re. Les titres soulignent \u00e9galement la confiance des diff\u00e9rents investisseurs, notamment les institutions financi\u00e8res, dans l'entreprise. Les titres mentionnent \u00e9galement une forte croissance des revenus de la soci\u00e9t\u00e9.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

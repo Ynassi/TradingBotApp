@@ -2,55 +2,163 @@
   "ticker": "A",
   "name": "Agilent Technologies",
   "sector": "Health Care",
-  "market_cap": 31550969856.0,
+  "market_cap": 32468629504.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 27.36946,
-    "PB": 5.141826,
-    "EV_Revenue": 5.098,
+    "PE": 28.15271,
+    "PB": 5.2889733,
+    "EV_Revenue": 5.258,
     "ROE": 0.18882999,
     "ProfitMargin": 0.17592,
-    "GrossMargin": 0.53349,
-    "DividendYield": 0.89
+    "GrossMargin": 0.53576,
+    "DividendYield": 0.86,
+    "DebtEquity": 60.039,
+    "CurrentRatio": 2.091,
+    "QuickRatio": 1.417,
+    "FreeCashFlow": 1048374976,
+    "OperatingCashFlow": 1584999936,
+    "FCF_Margin": 0.15817365970012928,
+    "ROA": 0.08462,
+    "PEG": null,
+    "EV_EBITDA": 18.991,
+    "BuybackYield": null,
+    "PriceToFCF": 30.872891342267216
   },
   "technical_indicators": {
-    "RSI_14": 51.07012615042863,
-    "Momentum_10": -2.263335698532886,
-    "MACD": 0.5167362153249826,
-    "BB_Percent": 0.5265587055151355,
+    "RSI_14": 56.327626465425915,
+    "Momentum_10": 4.861810661004948,
+    "MACD": 0.9486724119730638,
+    "BB_Percent": 0.7381023048916147,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8819099676915354,
-    "QualityScore": 0.3514067091594636,
-    "SignalScore": 0.6289110734922776
+    "ValueScore": 0.878236151995776,
+    "QualityScore": 0.351693820372929,
+    "SignalScore": 0.5303544012183903
   },
-  "volatility": 0.0213520330196496,
+  "volatility": 0.0214369082614051,
   "beta": 1.232,
-  "return_6m": -0.2007314339224089,
+  "return_6m": -0.167661148901436,
   "analyst_rating": {
     "recommendation": "buy",
-    "analyst_count": 17,
-    "target_mean_price": 137.6
+    "analyst_count": 16,
+    "target_mean_price": 136.825
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente, on observe une tendance de vente d'actions Nvidia par les milliardaires au profit d'une action d'intelligence artificielle en forte croissance. La confrontation entre Elon Musk de Tesla et Donald Trump a impacté négativement les actions de Tesla. D'autre part, l'intérêt pour les actions de la société Wise en vue d'une cotation en bourse aux États-Unis est notable. Enfin, l'annonce de Warren Buffett prêt à investir 100 milliards de dollars dans une action répondant à certains critères spécifiques a attiré l'attention des investisseurs.",
+    "sentiment_score": -0.25,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Billionaires Are Selling Nvidia Stock and Buying a Stock-Split AI Stock Up 530% in 5 Years - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWdPaUVqYkhZem8xdUs5eUNMQUJ4Q1BDNWlXYTBpRDY3a0NqX0JNay01Vy1PM3FTREJOT1lObnpGZkY3RGFzeExoZWFuNFhhSjNaOGZCY1ZwVHphNk9OU0llN0NvM0xpNFpQV091ODFaUWpMOVVzR1h1dUd0ckFCZ0Z0MGxwSFFVSzVQUUFUaExFRG5LNHdZNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When risk-on sentiment returns, here's an options trade on a stock that may lead the charge - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGdQaVJnYVd1dHNlSkhvNHRPbXdodXgzYl96Nk9yMnNsbHlLZ3ZaU0NCa3A3d3FYTDBVdW43VmstbmZDczBzSEpzcGY3QlZUSWVtMDh5WUpTUHZ2RXpuN0FDb0k4YVdPa0VaT25tV3Y2VU0yeTFGZkV2WGhCYW96bmZBeExBcjU5Z1ZQanpVNmFQdlR6VmxGZVZqSVByMU9ZWHNPbEVpVGRUNUpNZDBnX2xUNndYY3p3TXJrV1RYLVppSnNv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Constellation Brands Inc. Cl A stock outperforms competitors despite losses on the day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWs5aDJtcnc3dTVYeGxicjR1R1JMcUk2UGYxR1lPSHU4VDRaSXI1Rm5kSUQ3MlllZERFR1I3OUJ1Y0tWUHI5N1htdzBfMVNzMjl3VHhtMC0wZnZ4dndCNDNhSWZtcHNqb2N5YlVEaXVRNXVfT3dIOHpVcTlTZ1F3SHRzc2xHQ0NKcmRObk1ya3FZV1RYazlzWnI0M0ZkdHJoUDZsX1VKcXZ5M2hxTFlLLThzSkhRSFJCajBIcGtLdWJmYVhtVEtJLWFQN1lpR1ZPckRiLU4tc25lVEp6Qnc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Have Trump tariffs guaranteed a stock walloping recession? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjROdFFMVXFqcGZUNV9jb0tTbmEwdGg2UjlraG1Ma01DaVcxa2JlQTdwYk9RTUhmZGN0a0xQaE5PdHF0RW9yQi1PaGQ2Ulk3UWVNejlORnQ3TWlRcWNvWGRwem5FV1ZvdWFtbmVUQVdyTzhBbVV5S0JrQjhzTjRGSU1NdnhWbVFMWC1jZW52LVk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "MayX course features a stock market boot camp and $1M of virtual money - Furman University",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWJhdXl4bGlkdzRHZm1QQ004WkI4OGE4a205dUNvN3ZxZThNR0otcy1UNDNmU2NCckptUnlaLXJIZDQ4SEl1OV9yMVJ1WGNrZHNXbDVZcGxMMVZXR2IxdzVCNW5qQ2syX1hnQzBPYzlrRkN6SmJXVGMyeFFvQVNCUUVnbTlKT1pvemlxYjFXR0JEdmRDdG1TeXNiOGtXWFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla: Shares Sink as CEO Elon Musk Feuds With US President Donald Trump - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT3I3UEthaWpGSW5wT2lMeTd1YmhJMjUzZXQ3T3FuZlFRMjVSLW52YXRvSXEwazg4bE5VMGVxUVMzWFhqRE9YZUpBM3B2MjlXY3o2NjNsaTFQRmd0N0czX0FvVWd2VHRTbHI0NENiSjVfcUdvampUYmF6UTFBRi1EeHEydkFBREtRRnhIc0RvdHg3NHFvNnZ5MDV0RW9VYzRmNFdWOWFR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "US stocks end lower, crude gains as Trump-Musk row distracts from trade talks, data - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tSHl5ZnF4SGNBaHpoa0Y3S1Q2OFkxU29lN1lYX1E2Z3ltbzBWdGxkRDRpOEpxTV9zOGRsaWtncVBrX3d2clEwcGtURzBGOXpWX1NybE1qZUIxVkRkSGlRNGpDM18yaDBOTG9QLUdqSnFERDEyNWlWT01KUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Wise's American ambitions include a stock listing - American Banker",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3BvZ0FBb0Q5RWRSQWFCdVkzR2hPdGJNVWJsYU9BVHZIR0xmMWNBSTZWTDRuZEpMX1RBTE1pSlhIaWVsaEIydUdwN0V3c0drRWhjdXh0cVZDSHZJUDVVZnlNRmlEcnJyZGg3X3dTU3RfYWJGWTJCRnpHUGZyWG1NeW0zTnJJOXNBZFRfR1dqOFdoUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Warren Buffett Is Ready to Invest $100 Billion in a Stock That Meets These 3 Criteria - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbjlubmpQby1tZDFuSU1PWkU1aVVFcXU4RWZsa0c1SGRWYS14UktyNDdkQUVGZ3dZMVFKLTQ5eG85Z2dYTUxMUEdZaWYxZGFpYkt6bHp4aUJkOUdQc1g4eFJpaVFEUDNxaDVMNmoxQWlJaDE1akd4RWR1VVU0aVVIZ1RLNDRDdmZlX1VzcWFSc1h0eGdkRGtFYQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Circle Stock Halted 3 Times After CRCL Triples on NYSE Debut - The Crypto Times",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3lwc2ZfRDlOTlJWb1NnQWQzME9yNENYNks3anAwU3ppektoLXBrRnlxVTJ0NXFvS1EyVGhmb1pSX05ydmdvSExKdkxxWnEwekNGUy1MdEtSZEVNYXhqbkk3UkF1ZGdFNXY4TEdPZmZsWUk3MGVfZ2U2ZERwQWJ6a3NwWXFwdFNEUm45Y3FYNVh5TFJnR0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Short Selling: 5 Steps for Shorting a Stock - NerdWallet",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ISUdWb3Qxdkp3YWwtMXhQNG9sbkhBdnVhZ3c3MGhDYUxzbE9lazJ1S2tuVUNtQjMwVmdqeHd3Z0pLOWczS2M0SjZGRkJUUTlySkZYSkxLSUg2aTczY2VXQTZUckhOOHJoQUQ4b0R3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tesla stock plunges 14% as Trump and Elon Musk break up. Here’s what the numbers show - Quartz",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVBkbGx6cGx5UmlBQTJSV2FHSmVSXzU3YUdsdE9MQXhZVGl3UTdOMlNJWTJvQzl5QlFDRmd5NEhlTWt1RUZSZkFTZ3NuSUhtcXJWRWNOQThsWURNcmo1d1ZsbS0ya2lldGg5QW9CM21SR3ZUajNSektMWXVNa08xUjNXeDM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Billionaires Are Selling Nvidia Stock and Buying a Stock-Split AI Stock Up 530% in 5 Years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVhqLXpyMVVtMVJFSW5xWWNTZjd1ZHp6cVVMdmN3Y0l6R2RIN1lMZXA3R1lMS1dTOWl3aEM0ak9TRDhHYUFxOVRVeldnc05tc2Y1Zllnb2xsMDhsQ0FBS3A0amRIOFhIcmlfSmpwdWtMdmVERlRVSzJ1QWsxcXJERmJfTWhiUlRxRWpUSnlqVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How To Earn $500 A Month From Broadcom Stock Ahead Of Q2 Earnings - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3VFNSNlNVaGJWTDRZdDJTd3ZIN2NlWVRkYUhVeG9mQ1FaczFuSWllWEpnRGhQc3NMUWIwN09aYU9JUENVVTQ5aUJKMlE0RW8tcUcweWJZdUhYamFuM1J0MFlaLUduOV8wbzJLdEp4VDZUdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Affirm Stock Moves Above 200-Day SMA: Time to Buy the Bounce? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnNSTnJUa1ZwamNwaFA4YlEzVXk0STJGR0pZRVVRR0dIRHR1Ty1DSFQ2U3lZMzFwR29ZWGtWODdpMkZkVDl3SXBWdFJPYmVTRVczZVhhTXVhN2JJR1YyNVBWWnNCX0FkZ2F1YTJMYkMtX3h2blluSFY5dUJFUENNWWhJOVRUVkJBOG4tT3BPLUhCYW5kbm15TDhSNzcxUW1reFJOM0JUenRNbjJPdktTN1oxd0EyQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Hedge Funds Warming Up To Google Stock Amid Magnificent Seven Upheaval? - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVpDOGxJMjBGbGtkaUtINGx3Vk9qOUV3RFdDTnlmaGtjMDFSUlU1RlRlZkNVTlVOTHdqN3d1aS1ieUNLb2VjQl8xdU1CSU9EMlBULWQ1MW9SSmc2RGNjcm9GM0d2bmFTTjhPX2p2ODIwdFVrbmVRSktzRkhDejdsTzVORGQ0TmVmSGZQbTlwMnhUU0RxVkhQVkZxWktzRkZFWmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SKU: What It Is and How It Works - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uaHRia1A3NmZYbGljeWplQVBQTTJYNGZrOC13dEFvdG1GY0RJdmtQcGhNRHJvNlRGUlpIZllSZUZESWZxWkNEMkt6NzlrY0Q5MmY3Y0xUTHJkYkR1Q0NkMVpPSVVEQ1NoRUNxVDlCQWo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here is What to Know Beyond Why Plug Power, Inc. (PLUG) is a Trending Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GY1FoZWVPdHViWlhiU1NCa0tONWlnVFNlMTQwTmpudjNwVG8zM2UxSmNqNjBHVEFGb2JNd1pVN3JNZUU1NVpKSTQ2REQybFVRd0kzVEZid1c2WmNvVWF1VnFZckRpdXVVekFjWGhoRFdQV190S3hSNldVY1g?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Arista Networks Inc (ANET) Stock: “I Don’t Understand Why It’s Down This Much” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHk0US1oRFBrUjY4UzdFNzlhYUxpTzFSZEs5c0xaMGNqMmRtYmd1OV95YWNWSDk2VFNVclRiUU9aTHBqVkNKNjE3V1hYaHY4Y2xSaEJpNk01Q0g0ekJoS00xY1dJanVuMnpQaW04aTIyLWdQbkFsNGtQM2VWRldvTm9n?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Earnings Growth & Price Strength Make Bank of America (BAC) a Stock to Watch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTJySnZNdDhiRWZVbHhaUURfS2ZEVDJtM0tVRklDaG9jZVdzbUJsaWpYdkhBaXU4UW0xXzdzdkprUTktcHRxWGlhbGx5OXhlME1FTDlyTTBNRzFSeTd4bTd4d2lucXB4a0s1ZGh3UXFKcG4tX0l3TWlrcEFFZ3dFeTNLaDlsajJh?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 139.58
-      },
-      {
-        "date": "2024-12-03",
-        "price": 139.28
-      },
-      {
-        "date": "2024-12-04",
-        "price": 140.2
-      },
-      {
-        "date": "2024-12-05",
-        "price": 137.87
-      },
       {
         "date": "2024-12-06",
         "price": 140.58
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 111.04
+        "price": 111.05
+      },
+      {
+        "date": "2025-06-03",
+        "price": 112.76
+      },
+      {
+        "date": "2025-06-04",
+        "price": 114.94
+      },
+      {
+        "date": "2025-06-05",
+        "price": 113.94
       }
     ],
     "current_price_data": {
-      "price": 111.03,
-      "change": -0.88,
-      "percent_change": -0.79
+      "price": 113.94,
+      "change": -1.04,
+      "percent_change": -0.9
     }
-  },
-  "news_sentiment": {
-    "summary": "Les tendances cl\u00e9s concernant les entreprises cot\u00e9es r\u00e9centes sont les suivantes :\n\n* Le march\u00e9 am\u00e9ricain est en flottement et la valeur du dollar s'est faible, tandis que la valeur de l'or s'est \u00e9lev\u00e9e.\n* Des tarifs de Trump ont garantie une perte de bourse pour les entreprises.\n* Des piliers de la bourse, y compris Google, sont en flottement et les investisseurs sont de plus en plus int\u00e9ress\u00e9s par les actions de ce dernier.\n* Une entreprise a conclu un contrat de 7 milliards de dollars et a r\u00e9ussi \u00e0 augmenter sa valeur de 45%,",
-    "sentiment_score": -0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

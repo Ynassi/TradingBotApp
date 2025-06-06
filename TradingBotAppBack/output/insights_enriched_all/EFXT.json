@@ -1,56 +1,164 @@
 {
   "ticker": "EFXT",
-  "name": "Enerflex Ltd",
+  "name": NaN,
   "sector": "Energy",
-  "market_cap": 885049472.0,
+  "market_cap": 912842368.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.941667,
-    "PB": 0.82746273,
-    "EV_Revenue": 0.642,
+    "PE": 12.316666,
+    "PB": 0.8534472,
+    "EV_Revenue": 0.664,
     "ROE": 0.07048,
     "ProfitMargin": 0.03179,
     "GrossMargin": 0.23411,
-    "DividendYield": 1.54
+    "DividendYield": 1.47,
+    "DebtEquity": 65.767,
+    "CurrentRatio": 1.119,
+    "QuickRatio": 0.786,
+    "FreeCashFlow": 267875008,
+    "OperatingCashFlow": 319000000,
+    "FCF_Margin": 0.11506658419243987,
+    "ROA": 0.05251,
+    "PEG": null,
+    "EV_EBITDA": 4.065,
+    "BuybackYield": null,
+    "PriceToFCF": 3.4077175575856633
   },
   "technical_indicators": {
-    "RSI_14": 54.40161218909334,
-    "Momentum_10": 0.9154937759653786,
-    "MACD": 0.0544281745933474,
-    "BB_Percent": 0.685272852024272,
+    "RSI_14": 58.7026902202573,
+    "Momentum_10": 7.412786970369423,
+    "MACD": 0.1095238202084667,
+    "BB_Percent": 0.8447867130671034,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9350304368981056,
+    "ValueScore": 0.9338214423549852,
     "QualityScore": 0.2403785414104403,
-    "SignalScore": 0.4506848330023917
+    "SignalScore": 0.4726533799925588
   },
-  "volatility": 0.0292257377125747,
+  "volatility": 0.0293249059622633,
   "beta": 2.204,
-  "return_6m": -0.2160831846043165,
+  "return_6m": -0.1958650485403645,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 2,
-    "target_mean_price": 11.0
+    "target_mean_price": 10.625
   },
+  "news_sentiment": {
+    "summary": "Les récentes actualités d'Enerflex Ltd. (NYSE:EFXT) ont été marquées par une série de mouvements significatifs. La société a annoncé une refonte majeure de son conseil d'administration et s'est fixée un objectif audacieux de diversité de genre de 30% d'ici 2026, renforçant ainsi son engagement envers l'inclusion. Parallèlement, Enerflex a confirmé une hausse de sa participation par plusieurs grands investisseurs institutionnels, tandis qu'elle a mis en place un programme de rachat d'actions massif et augmenté son dividende de 50%. Ces initiatives stratégiques visent à renforcer la confiance des actionnaires et à capitaliser sur les opportunités de croissance dans le secteur du gaz naturel, malgré les incertitudes liées aux tarifs douaniers de Trump qui ont pesé sur les marchés.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Millennium Management LLC Acquires 230,864 Shares of Enerflex Ltd. (NYSE:EFXT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORlIxUHpuaGxxN0tYZXRpUTFVSU1IWkdpLVIyczI4ZkRydDNDOU82MGZNUS1lcGx2ejFsS2NUX0dfNWlRV0VlZ2JObkstMkF5ajNNbTlibE9oMXVNSGhScFRaSzlucjhNRmxHVnIyM1dwUVRSOTJKRGNPaU42Z2ViMGRVdEpaVmRNNmxBSDZuOTNqa2JOWTBOc0xTOHcyakRGc0dUR3d1cERCbHdiel9HTkhMbVVvVk5Xa3ZBUm9tOGNJcjBpcHdxQ0tqaHN0Umc3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enerflex Announces Major Board Shake-up: Sets Bold 30% Gender Diversity Target for 2026 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzB3clRlcThzZ0szbjJ3UHVGYk1JODRaLWx6SnFwYXdkdldiNkRueEx4OEh4Zl9UQUtXZklBUkwyaktPVllOUG9OZDNpcV9lc1RtMEVPbndENTJxT2dkSXk2QnJoSzk2Qm1FclA3UnFwX1I5RGZvZGVXbE9XdWZTQWh6MU5GMFkyQllIRmpxRDJ2NkZWS2hpX2c4bTlSNTdyZTVWN28zOEVMWHBTcEpPTEhpeDFlX1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Does the Stock Market Feel the Holiday Spirit? - Poole College of Management",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDM5dlVIcHpSZlB5eGpabkN0RXg2NnpuWWdsNFNxUXl1NXZ5akcxYjlJZF9YYlRMODZfeG1zWkhTaE5QdjlsN2N2Sno5d2JvTXVBS1pwdEdqZzJiYnNUQmZTVk9vNzIzQjAtTGVHSzRKQXpEQkczd3hrUmZ6SzQ5NjNHLXphdnJuM2pLMkNfSTY4VFRYZjR4ZC1oUW0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Snowball Effect Investing | Compound Your Wealth Like Warren Buffett - Sure Dividend",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtOFFPTVBneFJPV1BwMU94dlY3ajVXTU1SaDJKVzdsbjBnOFVHZHpsU3VkOXF2SkhFYzl4OUI4VlBBb3NINTRHLWZPc3VUV244ck5iempXaXo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Stock Market ‘Wealth Effect’ Could Slow the Economy - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXotVHI1MlhJN0lPS3BjUkRoNUx5VzV1RjFiNEZMOXNWSkw1X3lEdEs1c3hGT01KWS1oRGYzdEpaLUtINV92RFc2VkVEOGpaSEloZU9LUUdnY0huaUxhd3hHYTdXTHRTaFgwUGluR3RKck03RWotSDUyeUd4N1lpZXR3TDcweVl2SF9ZUG9aYkt5YmJaVklnYzRmdWhILTlNTFhWOFpncUw5LTh5NnZnX0hB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enerflex Ltd. (NYSE:EFXT) Stake Raised by Bank of America Corp DE - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWx0Rm9xZlM5Z2w4QUw1RmV6aVNzNjJ0SnNlQkpPLWZJSVpRX05iOEpQb196Z3VPMW9wQXVkdVdUVk9hc0FmSkhtRWo5dGdIOF96M1BJaW1QTkJtdjQ4NGJ1VV9STE5EQXA4Wm91cHNVcmxuVXlyVVh5NmpjVEtBUWR5LUc1T2tJd3ZZYVBRSXRxdF9CNGk3VExXZi1qdGlxLUZzZ1FjNHJPdGVfQXdpeTRsUE1QY2RRMFZrVnh2N0hlQjg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enerflex (EFXT) Upgraded to Buy: What Does It Mean for the Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWG5haVI1LU5sMUpBeFhEdDI2SjdqaW5wZDN1eFBOTEZQMUtweUtFWkJHZG5YZ1pPMTkyUWd0cE5Ec3hpWUtfbmFFQkJqVWg0Rno1YUlJelNlSTBsTlNyMldwM3lfdy1XOXJqdUswamJnSWE4TkFFMkFsZ3ZaZDdTOUNnUjhKZ09zd2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "When (EFXT) Moves Investors should Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVk2eUJacGJZaWhRdXB6NktWR3JSOENKbTR0VHNacjVnY25LU2pxOGN4RHAycHJqYTBDTnhSNFpBdk1rSnZ1N3VxeHh1cDE0WTNhR0pqa3RhVXFtVWdWanJEbkZBMmNMZTgtNnVMazZMY0o5akp6UWdQTnU5RnM4ZTZnZ3ptLW5XWmx5Y1NMOVpCMHRNcHNiUWpJXzRNUkMwVmhrbzYydHdDd1BSRVVsbWxQWmQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks tumble as Trump tariffs create 'uncertainty' in markets - ABC News",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM2N4U0YxUnFYX0IxZjNVdEZFWngzRnJpbzFVeF9Bdk5acWVYa0lDRVBhY1lWZkRXelJDRzcycVE4by1hT1JHWXdHWk1JWWlWMlktYXB4aTljdjBiVUxpZG81QzNHTUdMQkp0amNCSFJ0VWdxQnlJWjRES2ZwbHVZb25xd9IBiAFBVV95cUxNMEhpQ3RTMl8wUUllX1RqZko4WkVNc1NmaHBlZExrclN6SnR5SFFoSHFhT0ljbkZBV0FwMlhaelU5azJnckJJeUNtVDFFdDV3VUF0Zk5WNW9yUGVaNHI4SEV0Ny1ZTk9FVzlSTExnY005cnF3d0NtZnZVR0F1UElEVEx4N0lhSUdq?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Enerflex Is Moving Into A Stronger Natural Gas Market (NYSE:EFXT) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHp3dFFzMU83Rmx3TVhNUFprcjlPUVE4QmR2am5fSWt3eFc3dlJRUTZvbVVYOWNQOXdTRXVUczU1N3E1R203ZndkUklTdkhEQ3ZYSXE4RmZhRFljcWVKUUdSblQtUFRkbzFZMUFoWUlvcUk2TE96dUk3OEViNGdhYi0tN0xyT0duaGpKYnJEeXN4OWdMaHVvTjBR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "DNOW: 3 Under-the-Radar Energy Stocks Set to Surge - StockNews",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjFNU1MzbzNsdjY5MVBkWGJjWDB3ZTZFdjhCOTN6TFpVczdHN2NQNGFhdkt5R1RxckZlZTJkTHFIWnVCdldsd0pZNXk1WTZlVmV5aFJRdHZVM0tBSGd4bUdxWnRTakRzdElhNllvNnlSTkJpY0Y3eGd4S3liN294M3pKTldKbjBWWVlJWEl5Yw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "What’s a “negative wealth effect”? You may be feeling it. - marketplace.org",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYVZDZWxrNHZORWVNVWJwRDNGUFNJZzNUWFVfWkJKZ1lpME9yVUQ0RTBtdDJkMW1IOWJiUEtvUzV5WGItMktBMmh0WUhndFRKRmNzZ0tCcnRrMzBub3pqVV94N19teEpLZzB1eDNNTlB6RzJ1SHhHMW0zZW1sY0k5dExhZGx0TFFzNXVxTjZnZEN4Q2Vucm9uSTNjTVFyQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enerflex Ltd (EFXT) Q4 2024 Earnings Call Highlights: Strong Operational Performance and ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93ek9uVWR1NUF2amU0aG1JNEl5eVdMcmtnUU4zbWE0OEp0UmExODFmZ29PNkVCWm1ETlRUR2RNajAwSm44cFh3dkcyaTRTOEtyZ3J4VTNvYWFmUDV5Q2x2MG1Kbks4b3NhaUY0Tk1WYnZlTTRDV3FLaGR2dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Enerflex Ltd. Announces Normal Course Issuer Bid - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjctTXBScElaMTFwdFllUkZlT1NqV3RnbFpPem1YVHNBTFFudEQ0dm9LNHItRFUtMWkySlBfVC0zUm03V1VkTHFSX0F0R0VwSnktSUI0cE45aFFIWVNXTUxQWmMxZ3B6d3dfQk8xcDB3aDJvVTF3ZEVHN3VIdnhBSTBrekp6YTlON0xzQTR1dVBFMzlETHJwYkpzc1hsaHpRMV81VmdpNnA3LUtybUQ0RFo2eEh5UHhlYldJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enerflex Doubles Down on Shareholder Returns: 50% Dividend Hike Plus Major Buyback Plan - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFoxTkNNcDg3bUo5WnlkTl9EUnZCbWpxR25NTmZPQ2dDYlVaazFMaUZRRnFvcENvWG9XcWpueWNQb29OQlFvMmxnaFNKNHEySzRGVkZpYlQ0cWU1TktYTkNET0lMZGI2WGsxeElQS05MTFM1SDlrb09NOVVUbnVzb2ZfWXV3RlFLeGM4YzQ0WllHOHlSS0lMR2ZUZUhMYms?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Enerflex Ltd. (NYSE:EFXT) Shares Bought by Two Sigma Investments LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcGVNdTdVQ3lDbGlRU0pCbmN6ZGV4YUpfeF9VNFpqSzhwVGE5RHBzc0RGcWhtMGhjX1JnYWgxZU4tQTNJZGFvYWRacGpGUDFIbmZ4cmpwYU9TQk5OMW5BUjBRa2hSRmRnd2EtVkdYWW1ZVy1RVFZybm5idFlQZ2gtQkRmV01yM2kwQUlGT2kzT1oydm1yYnBJaDJZRmNNN1o4NHcwSHVoR0pqNW9WbmUzS2liZENHcmdTdnEyckhDNVd4UUU4TGFxUnRLU0M?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Enerflex Bets Big on Its Future: Announces 6.1M Share Buyback Plan as Stock Trades Below Value - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdElnd3JoUERnQUVjaTg1QlprVXdHSlgwVUlYU0FqTTE0dnIxMXJLeVRHdWRXenVnRG1IcDIyNTk1TUl5RXE4TmFiOW1ONUhOZWhLTm42MW1OU2lPelVvTEVmWmd3dXJPMkREU3RlVGFleDVjWF85Z0lDYjNjT0I4UElRbS1XNThUWnZaYll0NmtfVlpFckJOM3NTUGJROGVIUmxXNnd3ODJKOFlmNnNB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "D. E. Shaw & Co. Inc. Makes New Investment in Enerflex Ltd. (NYSE:EFXT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb1NJWE5mT1dpdDBqdGNUbHd3NUFTVkN3X25kT1NGQmx0MndSSTZFaEFobzJKSG1jTnBxR1VXYUJKWXh1b3VoOGRROW1DZkYyVGJPWThNTExhZE43S0VRbk50TzhnVDN0a2FmRWVxNlQyNkFMaUNhSlJ4NHRkeTh2UFl5ODlzbU5IbmRVTjU5SUM2ZTA3VEJFV21qc1ItVm5TMmFHaHpVbWotQW93ZWhSRXJodWVZQm5NWlVGdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Enerflex Shakes Up Leadership, Rewards Investors with Massive 50% Dividend Hike - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXZjNEpNSVFtUV9KOGhnd2I0Vkl3YlppcndXTEg3M3N3aTh2Y1A4c1dJVW1BS0MtdjdGOEV5aFVWYjR4VVJyUFV6Ukc4WWV3VDJCLWRGaTZZcXNBazlBZmpKOU5nOWUzdkplbWRuTkRuMktFbzFDLTJ1bDRKX21uY3A1emZGRGN6ejVhTFFWQnJPdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Two Sigma Advisers LP Buys 206,559 Shares of Enerflex Ltd. (NYSE:EFXT) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1RvcmhJNDdjQ1ZkUUp4d2RaTlhFWnN3Z3NocW5Ga3luS1J5UFMxYXJJeVZ5UnZ0VDdJcy1CZWRwdC1ucExCU3plV1p0QWVpRlA2Rjl5V0hVenBIb0luRDRpcmxuVnRaeWJRTkVYSWlWRWJuLWxYWjZyTmJLbEdXR1ZDaUdUWFhZdlBDckFqemxOcU4zOFhJUXFVMDVzc2pJMnI5bGI0N21oc2F0MVlYWVRmUk9OMEZaN0x5aWZaRQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 9.14
-      },
-      {
-        "date": "2024-12-03",
-        "price": 9.22
-      },
-      {
-        "date": "2024-12-04",
-        "price": 9.23
-      },
-      {
-        "date": "2024-12-05",
-        "price": 9.52
-      },
       {
         "date": "2024-12-06",
         "price": 9.19
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 7.18
+      },
+      {
+        "date": "2025-06-03",
+        "price": 7.49
+      },
+      {
+        "date": "2025-06-04",
+        "price": 7.43
+      },
+      {
+        "date": "2025-06-05",
+        "price": 7.39
       }
     ],
     "current_price_data": {
-      "price": 7.18,
-      "change": 0.16,
-      "percent_change": 2.28
+      "price": 7.39,
+      "change": -0.06,
+      "percent_change": -0.81
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Enerflex Ltd. (NYSE: EFXT) pr\u00e9sentent plusieurs tendances cl\u00e9s.\n\n1. Un changement majeur dans le conseil d'administration avec un objectif de diversit\u00e9 de genre \u00e0 30% par 2026.\n2. Un article sur les actions \u00e0 \u00e9couter lorsque la valeur de la bourse se d\u00e9place.\n3. Un commentaire sur le sentiment du march\u00e9 pendant la saison des f\u00eates.\n4. Une nouvelle investisseur acqu\u00e9rant des actions d'Enerflex.\n5. Un article sur l'investissement par compounds.\n6. Une \u00e9tude sur l",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,83 @@
   "ticker": "2432.T",
   "name": "Dena",
   "sector": "Consumer Discretionary",
-  "market_cap": 301250445312.0,
+  "market_cap": 299579506688.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.466012,
-    "PB": 1.2465581,
-    "EV_Revenue": 1.698,
+    "PE": 12.209973,
+    "PB": 1.2198297,
+    "EV_Revenue": 1.604,
     "ROE": 0.09713,
     "ProfitMargin": 0.14752,
     "GrossMargin": 0.56491,
-    "DividendYield": 1.18
+    "DividendYield": 1.25,
+    "DebtEquity": 19.723,
+    "CurrentRatio": 1.607,
+    "QuickRatio": 1.553,
+    "FreeCashFlow": 24622000128,
+    "OperatingCashFlow": 38998999040,
+    "FCF_Margin": 0.15013688632183778,
+    "ROA": 0.056739997,
+    "PEG": null,
+    "EV_EBITDA": 6.873,
+    "BuybackYield": null,
+    "PriceToFCF": 12.167147475046914
   },
   "technical_indicators": {
-    "RSI_14": 31.793646484879588,
-    "Momentum_10": -7.96189179993195,
-    "MACD": -184.9685329502595,
-    "BB_Percent": 0.2551235869011573,
+    "RSI_14": 31.31810270600492,
+    "Momentum_10": -7.12280701754386,
+    "MACD": -183.38748045437524,
+    "BB_Percent": 0.2301644213942829,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8962327687028846,
+    "ValueScore": 0.8936579419744413,
     "QualityScore": 0.4889016200270863,
-    "SignalScore": 0.7964259271898227
+    "SignalScore": 0.7702544382329006
   },
-  "volatility": 0.0442687192185712,
+  "volatility": 0.0442835723641638,
   "beta": 0.14,
-  "return_6m": 0.1195237238778672,
+  "return_6m": 0.0535916151221582,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
     "target_mean_price": 3708.0
   },
+  "news_sentiment": {
+    "summary": "Suite à l'analyse des récentes actualités économiques, on observe que Hennion & Walsh Asset Management Inc. a réduit sa participation de 2 432 actions dans Williams-Sonoma, Inc. (NYSE:WSM). De son côté, DeNA Co., Ltd. (TSE:2432) a enregistré une hausse de 38% de son cours, bien que des éléments sous-jacents méritent attention selon simplywall.st. Par ailleurs, les décisions des instances de recours dans l'affaire T 2432/19 sont considérées comme un nouveau \"gold standard\" pour les audiences en personne, d'après JUVE Patent. Enfin, l'analyse des cartes mères Intel B660 par TechSpot indique une certaine activité au niveau des composants pour le segment milieu de gamme. Ces diverses tendances peuvent influencer le sentiment du marché concernant ces entreprises.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Hennion & Walsh Asset Management Inc. Sells 2,432 Shares of Williams-Sonoma, Inc. (NYSE:WSM) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1NkeUdkZ3FpT2dKWFZMY3JPT244TUhTdXZ4REZiSVFCck5CU2U5bHlUc1BTcmNwYzJVMXNpZkRTNFBQRlFLLWZBREkyMmlqeE9QcXBmLURsVGcxVU9PemhkX0cxUDF4YW1jdTVfVXhmZWVLREI5QmFHWHZsemkxdzg4cmV2TE5xN3BFcDJBU2FGcXA1Ujl2UHVKbUU3dXpsNEUyNlg3ZTd4WWRGUmg4SjdfTjhTanY1Q1lpUURpWTZNaVVmaFBzSkVyZE92TmNZb1JhS1FqNlk0b1hx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What DeNA Co., Ltd.'s (TSE:2432) 38% Share Price Gain Is Not Telling You - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM1JCcUhlNXNGZHpWWmUwQmNkUUVQZGUzYnM3bTJRbHFHRXlWMkRUcXFrNG5Lb2ZZaXg5aGdsQzlORzBHV05FZUVaYVhyS0NQbE42VnE1cGcyeDVUR19rSEt1aU1xSkxobjRTcFp1dnFad0o4dXhXQkNjbWxhWEVvUDVINUxZRVJuUno4djlOanZKUGRScFI4RW9XbzJ4eFpFLUZfTEpZT1Nwdk83SVFLek0zMk1HeVJJX010bm5URllzd9IBxwFBVV95cUxPUGphODdWZFJjVEQxdG1UVnBNbnExWnBlWDJkTTJEckpkOTBha0ZtWDFTV19nZGg4akYybGR5N0NhLWFiX3JlR0UzZXNORzJ6WTdET2NnSkhZNEhEMnl0MHUxWUt3MnFMNDllQTFVVVF2UnVUS3dhMTJZS2ExVGJ0dHhyQTBNNUlRMDRVeENVNzJVRm93ZWNKcHdiODhVTFgyeDQ5V2hVbFhoczk3T0dlU0lWd2VQZklXMVBtS21mYjBqb3dfUlFv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "T 2432/19: Boards of Appeal declare in-person proceedings new \"gold standard\" - JUVE Patent",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNazBLMU9EYVFkcGk4STdBdUdQMlJrYzF0cmw5WTJVTlM1emxMc2ZQOWs4dU9EWW5tT3Y0X00zVWN4dGJoSVpQcHpNYjY4bmZISTh3WjZNNllHaEdwRl9TZF9FZl8tSEd1ODA0SjN5end0VmNmXzlQZ20yTGl4djJuNkJiWHRJcmd1eUV4WElOQU5DczRCU1QyNHBGYzZQc0NPMFVYR2E3TFFSR042WjVvcGNBSURvQjlJeGhIQg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Intel B660 Motherboard VRM, Mid-Range Roundup - TechSpot",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TRnc5REhDUmlhYkg5UzFhanhYT2pwV1VIMlNMYmlmcXY4UUwxZDhHdkJWbHd6dVNqblV2NDRkalI3bXpyeEFDN0p0aGEyM2EzWllYQnRZd1lUR05wMjRrcHo4cXlGTFQ5NkpBcE84aEFfSEV6MDVUeW9n?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2437.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2437.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2501.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2534.5
-      },
       {
         "date": "2024-12-06",
         "price": 2545.5
@@ -514,24 +542,28 @@
       {
         "date": "2025-06-02",
         "price": 2705.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2653.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2690.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2647.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2653.0
       }
     ],
     "current_price_data": {
-      "price": 2705.0,
-      "change": -80.5,
-      "percent_change": -2.89
+      "price": 2653.0,
+      "change": 6.0,
+      "percent_change": 0.23
     }
-  },
-  "news_sentiment": {
-    "summary": "DeNA Co., Ltd.'s (TSE:2432) stock price has recently experienced a 26% plunge, indicating some risk for investors. However, a 38% gain in share price due to the launch of the Pokemon mobile card game has been seen as well, which could be a positive signal. Intel's B660 motherboard VRM has been reviewed in TechSpot, highlighting its mid-range capabilities. Meanwhile, Japan's Boards of Appeal have declared in-person proceedings to be the new \"gold standard\" for patent disputes.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,50 @@
   "ticker": "6098.T",
   "name": "Recruit Holdings",
   "sector": "Consumer Discretionary",
-  "market_cap": 12092771926016.0,
+  "market_cap": 11996259942400.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 31.274908,
-    "PB": 7.6138406,
-    "EV_Revenue": 3.417,
+    "PE": 31.056183,
+    "PB": 7.3826237,
+    "EV_Revenue": 3.191,
     "ROE": 0.22448999,
     "ProfitMargin": 0.114829995,
     "GrossMargin": 0.58627,
-    "DividendYield": 0.29
+    "DividendYield": 0.3,
+    "DebtEquity": 12.839,
+    "CurrentRatio": 1.833,
+    "QuickRatio": 1.712,
+    "FreeCashFlow": 351536742400,
+    "OperatingCashFlow": 610362982400,
+    "FCF_Margin": 0.09881627715353267,
+    "ROA": 0.10363,
+    "PEG": null,
+    "EV_EBITDA": 18.927,
+    "BuybackYield": null,
+    "PriceToFCF": 34.12519516594349
   },
   "technical_indicators": {
-    "RSI_14": 50.30065811519611,
-    "Momentum_10": 1.193058568329718,
-    "MACD": 149.87751970695354,
-    "BB_Percent": 0.3401223293385634,
+    "RSI_14": 46.507015912887496,
+    "Momentum_10": -3.0367988567345483,
+    "MACD": 59.46592523977961,
+    "BB_Percent": 0.1189415278682865,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.885254333205584,
+    "ValueScore": 0.88314445879369,
     "QualityScore": 0.3840213633728659,
-    "SignalScore": 0.5847802221196123
+    "SignalScore": 0.6233035667648912
   },
-  "volatility": 0.0322255072672913,
+  "volatility": 0.0322049354139805,
   "beta": 0.97,
-  "return_6m": -0.2081766989128983,
+  "return_6m": -0.2700273649732719,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 9940.0
+    "target_mean_price": 9860.0
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 10620.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 10670.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 10850.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 11170.0
-      },
       {
         "date": "2024-12-06",
         "price": 11120.0
@@ -514,24 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 8397.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 8200.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 8330.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 8142.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 8147.0
       }
     ],
     "current_price_data": {
-      "price": 8397.0,
-      "change": -292.0,
-      "percent_change": -3.36
+      "price": 8146.0,
+      "change": 4.0,
+      "percent_change": 0.05
     }
-  },
-  "news_sentiment": {
-    "summary": "Le groupe ValueAct a acquis des parts dans les entreprises Recruit et Expedia, selon une source exclusive de Reuters. Les experts ont soulign\u00e9 que ces entreprises sont en position de croissance forte, et qu'elles ont des opportunit\u00e9s pour poursuivre leur d\u00e9veloppement.",
-    "sentiment_score": 1.0,
-    "label": "POSITIVE",
-    "positive_ratio": 1.0,
-    "neutral_ratio": 0.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

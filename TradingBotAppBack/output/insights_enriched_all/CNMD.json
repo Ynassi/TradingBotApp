@@ -1,56 +1,164 @@
 {
   "ticker": "CNMD",
-  "name": "CONMED Corporation",
+  "name": NaN,
   "sector": "Healthcare",
-  "market_cap": 1720877184.0,
+  "market_cap": 1749651328.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 14.598425,
-    "PB": 1.7596811,
-    "EV_Revenue": 1.985,
+    "PE": 14.84252,
+    "PB": 1.789104,
+    "EV_Revenue": 1.981,
     "ROE": 0.12962,
     "ProfitMargin": 0.09024,
     "GrossMargin": 0.56278,
-    "DividendYield": 1.41
+    "DividendYield": 1.41,
+    "DebtEquity": 91.257,
+    "CurrentRatio": 2.257,
+    "QuickRatio": 0.906,
+    "FreeCashFlow": 159070752,
+    "OperatingCashFlow": 179380992,
+    "FCF_Margin": 0.12087461971977294,
+    "ROA": 0.04138,
+    "PEG": null,
+    "EV_EBITDA": 11.68,
+    "BuybackYield": null,
+    "PriceToFCF": 11.01281703879793
   },
   "technical_indicators": {
-    "RSI_14": 46.45211365482914,
-    "Momentum_10": -7.745898014142916,
-    "MACD": 0.3495119444179764,
-    "BB_Percent": 0.1716846905270645,
+    "RSI_14": 49.39243597346399,
+    "Momentum_10": -1.4979979317842291,
+    "MACD": 0.1794198225186818,
+    "BB_Percent": 0.2973150790039618,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.933121489725449,
+    "ValueScore": 0.9315134442771216,
     "QualityScore": 0.382991598085949,
-    "SignalScore": 0.5473445423044336
+    "SignalScore": 0.569907614698461
   },
-  "volatility": 0.0296956883020758,
+  "volatility": 0.0298898480990671,
   "beta": 1.244,
-  "return_6m": -0.2631549077627727,
+  "return_6m": -0.2122560512718104,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 6,
     "target_mean_price": 65.66667
   },
+  "news_sentiment": {
+    "summary": "La société CONMED Co. (NYSE:CNMD) a récemment attiré l'attention des investisseurs avec des mouvements significatifs dans ses participations d'actions. Malgré une hausse de 26 % de ses actions, l'activité de l'entreprise reste en deçà du marché. Les résultats financiers du premier trimestre 2025 ont été annoncés, avec des ventes dépassant les estimations et une perspective revue à la hausse, ce qui a propulsé le cours de l'action. De plus, l'arrivée d'un nouveau président du conseil d'administration souligne une refonte stratégique de la direction. Ces événements combinés pourraient influencer positivement le sentiment des investisseurs à l'égard de CONMED.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "CONMED Co. (NYSE:CNMD) Stock Holdings Decreased by Nuveen Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR3Iyb0s2QTQzbzAzYnB0LUlTZ3BIN1BaeGMwX3lwT0h4MEE2NEUxdUtXMmJ5R1RtUEh5UkoyemdRNXVxQ25FYkdDZE1rMlROWjQ5bDFqZGVYTmZuVWxvVDdSdGRNdWNKbzdDX2ZmSGR6cGZVMW9DX3llMEwtcWFSY202UV9NakFZOEFucFJQYVlLRE45dmc3engxay0welRNb3BhQUMtc203WndTOFZpanBPSEpneUZoaDZxVndaSGFDU0hoWkFGYg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Conmed (CNMD) is a Top-Ranked Value Stock: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04RU5fY2JYNk5KWXJ1SWg0Y0l6dmlsTV9HNEtyQXZmX0d1YTFGemJiRmxsQVBUUWFSOG1JNnhvZU1TeEliVk5Zc1pKWU1SOXUtTjFMazROMk1kNkxNQUdPVWhpWlJIQk1ZS2swT2RfQ3NSVm5iVUsxNGZEaUZDSUU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CONMED Sets $0.20 Dividend Payout: Key Dates for Shareholders to Secure Next Payment - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUFpkaTVNREZVY2RXQTJLbTJEeDNIVFRNRC10bDdYU2ZIWXUtRThYY2g1MGx6dFNuV2F5SU0wYnVEOHhXVWF5QmFSQXBpTWdFSW9hd3pmRUxsVVBIWDc2cWc5WWJleXlaNExLelp4NnZzWXNXVFVOT2J2NE51M28xMzNCVVhIcjB4aVI0RUJNNjhNOHJmZWRlbW5sWE5Qa3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Conmed (CNMD) is a Strong Value Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdUw3UVFXMkhSVk9xX0JfUUxiUFR0Y1czNTQzY3UyS253N1VoSjRSd1lySU85a0g1MGZ0QjRWS1BSWWFsWG9JbkxFNVFsWHNfSHlXc2RrdGxHLXRiQ0pvMW5ZRGo3dGRZN3l6RUs1YUpNX2xoRkNrRHFGUkNUYUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(CNMD) Trading Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTk9SaGtZaTNLVGVoanI1c2k0aW5mWGpYM3g4OUFMcVFkNkpHZDJaOTZRX1dEOS1tZUE3UUs1ZVB5ZzFaZl9GNlZzWFFxY3dCaXp2US16Wm9MM1VsazJMSGMyRWNSUmhjd29RRFhfQkRLTXR0R0didkdBNDVRRVNwMVNXZXg0TkpwUGJ3REJJWDM1Nm55WTlVREhB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CONMED Corporation's (NYSE:CNMD) Shares Bounce 26% But Its Business Still Trails The Market - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1pZYjFsblpoZHB2Q0V4NXgzekxHVFpOYlhYTTJmRkdOWlBlOW1jU01Tb19YT1BYUkF2UUFtX3NzVmFWWDVveDd0WnB3a0FWSThfaGhycjFncEs1anRzQUhzdWJsVjBqYURGd0pCRENnYWFKanh6UlZWTUFjcWJOd3lvZHI1MzJsN3lqdG1sSE9JRTRSU0NGR0RSbmxKd1gzMXYtdGQxNWQtTHdtYTZsYTRSTVdHU3NYMkdKcVNoY2tnVjjSAcgBQVVfeXFMUEZOLWRPZmxKNGxTX2ZsTXFoZHdXMjMyMmUwY2Z6dUx6eTN6THFkMTh6NENNSkdFSHBYcmVnRVdTaV8tZzNlZnl2VC02TnlvbVJBS0x1ZDVLNjRxdkdHUDBZMVJNazVwa19xLW91QkpnM0dGc0JqYnh0S3BiaUdXY0ZBOHhGRERlWnZuUVN0V2J3Z3J4cnYwdjFoeFhhM2FHRjNPMEVRVHE2UFZRZDB0T2lPeFhpWTBSSXpiMDhIWWVXdUM5eUFWNGQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CONMED Corporation Announces First Quarter 2025 Financial Results - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOW9iQldrdGhBQnUzdk9yRkZTZzdZR1U2b1RnWXNrN2N3ZGlpUGVFdHRvMDNLZUd6aFlwcDI4emw3SUFGanN1Y3B5QWRMcXhZWmlabGhxUTVwQlNSMnpEUUxiMUVuSWNjUk4tdE1RYm12ZklCbGJaeTdJUUh0ZXRwTkZab1BoMzJEancxdnJzUEpQZU9HOE5wTUZGMkVuNWRlUFl0X1lFdnVsbzYycVY2cEwzVUgzVXkxWEZVOHZKVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why Conmed (CNMD) is a Strong Value Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55SDh4NTVEMFlGTzBPLTFobTc5WlNhOWJVMzZqOGF3NjgzdWRWYlVpOWMtR1U1ZGVySU9PS284OTlrRG41LWxidzg5SXpwS1UyWWsxcjRSWjdWVmNpX3U1dUdWUTVHRUFsVHUzaXY3NjBfZjBGSU9lcTFTdjZBY0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Acquires 11,059 Shares of CONMED Co. (NYSE:CNMD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOEh4WmUwc0diNFhJeFBsMHdRLUNmd3h2SjRtOE1hNkhaUUdiVFQ2Y0NPcFJJaW0tenR3c0dPTXU4c1dlZGxSSllWWG40SzBmQ0hMenZzWjBlTkZpcnZfQmJaUEhiakdzWXQwd0c5NjktSm9jSi1meFVIZFJ3a2lBb1o1WU9kOGNEUXVsTjJSUUZLaE1hS2VMWXliX0djbXd2eDBJa280eWxyY28zS1BZc0djUUNMUWxFdE92Y3NnSllfQkk1Y2F3ZFUyV2c4NkdHcjBpU2J4dzZGMGJBWGJoeDY4dlpiYTZ6RFNGSGlBZ2habXhlRHQwUjAyZ3Y?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CONMED Strengthens Leadership: Tech Veteran LaVerne Council Takes Board Chair Role in Strategic Refresh - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3o1NmpUMFZ0bmVoUFNXRk5UcWdkYXQwNlBob2xqcElpZ1dldnNyMlBqTEFhUDhFNjRtbjZydXRuSG5CdDZMVHJUSGxBbnhKZmVMSGNhelhtaTBjRHZnWnhDTzRyRDhHREViUG5GVWUwNFBUQ3pwV3FnZnRrUV9HUE9qUUtJdXZ6ZExNV1hXTzdPaEhuVDlxbG9ZMEJSQ1d4SHlGUTJNX3I1ekp6MU1GX2UtRFFhN3N3aGZmdGZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's Why You Should Retain CONMED Stock in Your Portfolio for Now - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFQxTV9IMm5xeElFR1VORTRJdlBzUnlhZjlxcDF1VUtlZ3BYTUs4UFFMR3J1YlNJcGdXUWtBT1FoaE5MR0EydzYxNzhBZkEyNjZBYkJjbDZuWC1RenNuWjB5cXBuOWpBVVNjZUNTVDZmTHNRZmcyS29pWXBPR1dfT1IwSWdSMGdRSm1heGxBZzRFUXhwVk1Wdg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Conmed (CNMD) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ubFB6ZHdYQW0zUzBuSFNEeXg5X3BSUzR3bHNhZW5XX19CYTI0TjBtZzhuZ2JUQlEwR2FqR19INUQ1S0d3UnlwSkFhb3BRUy1SSEVnXzRCdHZTOUdyUDFKTGlRbWFmN25BSGJZdFZFR0hUYTZnTi1HRUpKRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jane Street Group LLC Sells 33,640 Shares of CONMED Co. (NYSE:CNMD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQak5FQXZBWk44LXVxV2hhUEpWYTJ6SHhMYmhZWF9sWWFOTkRKQWRHOVVHajlQMHUzcGJlLWtSZy1yWGNSZm02YWRuVXhNTUtqSXJwOGc4Tl9nVkdRTjdJMjB1R2xwMTNjVU5wNnFZSjF0T1NTdm5JOXB2TDdhSEpaSzl5WlAyX3Rrdm92VlNoUnVoX0QxRzZ4a0VZUGZtU1pOMUpRUU40YU05Y2JXYWxEYjFmaGJxczJrQ1dyTW56enI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Sell CNMD and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yOTZIWEFzcXB5MFZHSVRFb0VqTWNCbmt3U19uMU4zY056b3lKUWtYUTgxQk5zcW9kUjRJby1wYVdCZVhFSFlCX3Y2SHp3N2Nhby1tRlZNV2JxbmtVYS1EVi1OSHlDWVpuMmNoNkFmeXRYZEVwR2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Brokerages Set CONMED Co. (NYSE:CNMD) Target Price at $62.20 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVzJmdWtIUGs1ajFUWnlkbWQwNG5BSF9CX0F2UlJDZENUZ0hzN0tEdVk2VXFDYjVaSTBGbWNLMl96TWYwZ29MQ04tNTFqNk9OeW5veDJKSUl1dEdfQl9qRk4zRFZiaWcySFZyRlVIdzhzaktpR1pUQWRsWVZzS213UUZiNUdGUlRsTDlhZ0Y1bEFpNmt2YUk5eUhTUHFUcWltbU0zd2Q2cFZLVllaT0h0Ym1kby1KX1ZXSVl5NVp3dG9GazFhWWZkVmVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Squarepoint Ops LLC Takes Position in CONMED Co. (NYSE:CNMD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTk10T2hsVFR4SHRBMjMyeVIzRzlsSWJKMkFHX191UmNJVm5KNmRDQWttbThDSk5HWWNXNTZUNlhRSUlIakVOV3NKRUU5LUFHM051bkgwcnEzMzlBbG85WWtfLVRwYVhocVNHSEdDblBTV1FjeVV2cXctb0lramtwb1BMX3djUHR4VEZkdDdESUxsZjdubGNsNHFOZURFdWJaT202V0VlRWIxYXNuUWFEbDN2QlpIZXBG?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CONMED’s (NYSE:CNMD) Q1 Sales Beat Estimates, Stock Soars - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxSVE3RXJid1FBNmdiUUVVU1hVR2Y1b203cGIzUkdMMTBzMGlXdmhxNzdXMU9NZXg3aGhxMGFhemZDNDNIRzhNQmNjZHZTck1EekVxdXZYemhrd3VLN2NBUUhITGxoX1NMQVZCcDREM2ltT2tXS0xiNVV6cw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "CNMD Stock Up On Q1 Earnings & Sales Beat, Raised 2025 Outlook - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iZlpRangybUs2eDdBRG9sQ2NVbmgwN1VhMEw1ZExQQkxDYklpZlh4RFREUWpSRmFVQl9yX0JLaW9pcWF0RUpNeUFWaG5TMHVBVGdHMVhpQ1Z1czBBT2gtQXMzaEpTV29OMG02OVhlNjZMbmo1alhmaUF0bTBEM0U?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Deutsche Bank AG Raises Stock Holdings in CONMED Co. (NYSE:CNMD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkk4UkZqZnM5N2pULVF0di1UUVhiOWVxU0lsRUFvRFdycGtsWmxsM2czNXNoY3FaZVdGRVJtT2w2S1kwamZKRXpfNU9RdFVtaVZCZlpCTVV0NzJQYUxCeUFhVmdNdnlRVV96QkVlVEExSGx5ak80M1hoQWZWNFE4Vm0zc21fcUs3REFyODZ2VmZTdzZORGRwWEtiTjExMGdaSnNlRWtNRS1rcmp2dTlpREx4a3ZHM2s?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CONMED (NYSE:CNMD) Beats Q4 Sales Targets But Stock Drops - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lRkJ4Szlpbk9wQTJfZEZhNzhwcmVScGRocHFVUi1tcWk5RzhEV3NoLTVaT3VrT21nNVBpT19oNmpCcjI3OGZjMFpNcjlBdkxwRy1NaG1qUGx6WGhVNXJmUjVnWldUT2JTRTF3Q0d5Z3lPU0Q3SlBHMjNTdw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 75.96
-      },
-      {
-        "date": "2024-12-03",
-        "price": 74.93
-      },
-      {
-        "date": "2024-12-04",
-        "price": 73.8
-      },
-      {
-        "date": "2024-12-05",
-        "price": 72.59
-      },
       {
         "date": "2024-12-06",
         "price": 72.24
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 55.47
+        "price": 55.38
+      },
+      {
+        "date": "2025-06-03",
+        "price": 56.91
+      },
+      {
+        "date": "2025-06-04",
+        "price": 56.57
+      },
+      {
+        "date": "2025-06-05",
+        "price": 56.62
       }
     ],
     "current_price_data": {
-      "price": 55.47,
-      "change": -1.27,
-      "percent_change": -2.24
+      "price": 56.62,
+      "change": 0.06,
+      "percent_change": 0.11
     }
-  },
-  "news_sentiment": {
-    "summary": "Dans cette synth\u00e8se, nous examinons les tendances cl\u00e9s de ces 15 articles d'actualit\u00e9s \u00e9conomiques r\u00e9cents concernant CONMED Corporation (NYSE:CNMD).\n\nPositifs:\n\n* CONMED Corporation's (NYSE:CNMD) Shares Bounce 26% But Its Business Still Trails the Market (simplywall.st)\n* Here's Why Conmed (CNMD) is a Top Value Stock for the Long-Term (Yahoo Finance)\n* CONMED Corporation Announces First Quarter 2025 Financial Results (Business Wire)\n\nN\u00e9gatifs:\n\n* None of the articles mentioned any negative trends regarding CONMED Corporation (NY",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

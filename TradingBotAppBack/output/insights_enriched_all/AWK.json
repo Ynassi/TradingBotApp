@@ -2,55 +2,163 @@
   "ticker": "AWK",
   "name": "American Water Works",
   "sector": "Utilities",
-  "market_cap": 27706329088.0,
+  "market_cap": 27312404480.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.878872,
-    "PB": 2.6301906,
-    "EV_Revenue": 8.764,
+    "PE": 25.55748,
+    "PB": 2.592795,
+    "EV_Revenue": 8.597,
     "ROE": 0.10428,
     "ProfitMargin": 0.22243,
     "GrossMargin": 0.60332,
-    "DividendYield": 2.32
+    "DividendYield": 2.38,
+    "DebtEquity": 137.735,
+    "CurrentRatio": 0.488,
+    "QuickRatio": 0.378,
+    "FreeCashFlow": -1206125056,
+    "OperatingCashFlow": 1994000000,
+    "FCF_Margin": -0.2504932585604219,
+    "ROA": 0.03475,
+    "PEG": null,
+    "EV_EBITDA": 15.909,
+    "BuybackYield": null,
+    "PriceToFCF": -22.639095679312376
   },
   "technical_indicators": {
-    "RSI_14": 48.6589302879423,
-    "Momentum_10": -0.3498197330739396,
-    "MACD": -0.3589091387564451,
-    "BB_Percent": 0.4747443461079851,
+    "RSI_14": 45.133898724840535,
+    "Momentum_10": -2.376629847268535,
+    "MACD": -0.6835121577705081,
+    "BB_Percent": 0.3974364182062847,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8722235991718876,
+    "ValueScore": 0.8696771963118741,
     "QualityScore": 0.4354427288138665,
-    "SignalScore": 0.6285914834408035
+    "SignalScore": 0.6362611456555085
   },
-  "volatility": 0.0175262004665957,
+  "volatility": 0.017475244310382,
   "beta": 0.698,
-  "return_6m": 0.0605900308015592,
+  "return_6m": 0.073211432957112,
   "analyst_rating": {
     "recommendation": "hold",
-    "analyst_count": 13,
-    "target_mean_price": 142.3077
+    "analyst_count": 12,
+    "target_mean_price": 143.5
   },
+  "news_sentiment": {
+    "summary": "Suite à une période mitigée pour American Water Works (AWK) avec des baisses récentes, la société a annoncé des résultats solides au premier trimestre 2025, avec une augmentation des bénéfices par action à 1,05 $ et une hausse du dividende de 8,2%. Malgré cela, le cours de l’action a atteint un plus haut de 52 semaines à 152,13 $, démontrant une croissance robuste. De plus, les rapports sur la qualité de l'eau en Californie montrent des résultats excellents pour les clients de California American Water. Ces développements pourraient influencer positivement le sentiment des investisseurs sur AWK en tant que choix de dividende solide et d'investissement stable dans le secteur des services publics.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Here’s Why American Water Works (AWK) Surged in Q1 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWpINVlmU2F2a1ozYjdpOU56TG8wbU93d3FkQk5uRUNzbkdPcFJnUDduZ3JEVmh5SVY1SFlQVUZ3MUxIRW9aSW92SVI1RW04WmQ0VWVmT1Z6Rm1zRjNCVjBVbTk2VVlvZjFFY0NjcWQ2VEJSdEp4bGtWNkRmZHpzZGdzZGhWUHBrVG5pWXY2WTJlWmRsb2fSAZ4BQVVfeXFMTldPMmtHdE9QUXdRLVNkXzhJUWNSNGVHX1JhSG1OZ3VQMV9pTmFFYV9lSDVZOUh1MU5tUWczUE4tUUxqd2oybjQ3SnQ3ZXliUjc0ZUJ1eXc5THF3TUJZTkFGbWlrQ09TQlhqSmd3R2RDVnUyRkVXN0F5Qm1WZ1gtWXYtMVV6ZTh1Zi1HVHE1UzZjWE5DdE9kbklJX2xEUGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Water Works Company (NYSE:AWK) stock falls 4.2% in past week as three-year earnings and shareholder returns continue downward trend - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1ZtblpoTlZXcXZXMUhsekdRLWFNUjNHeVoyN0x3R2xNYllVMW1QSW1HOENZYjRhanJWT2sxRks5QWlrT19JRkI1UmtpQkdMWVRlVl9NNjZVeWRvMEo2UVh6c3FCcF9NZ2l6cHlZaXJOT09fTlRsdHhfaUZJdDJWOXh1cHhydw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Top Executive Sells Significant Shares of American Water Stock! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVE3TWVtVTQwVTEwc3NiRXpnZl90UXBUc3dneGJDb1Zpa2lJLWJJWkViYkJFRG9wdnc0ZHMyWTNyUFBCaFZwdjhrRkdBaktlZDN6V3NWM1FFc0lKTjJUc2ItSjVRVFFyU2t2UmVhU1Bma3pqV2tOMnFWOWJIMkQ4WFhpTjhSYjJ6Ymg4OHNrMi11clE5RzQ0TTlBeUdSdkh4OEFsYUpTWmlZd0Qx?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's How Much You Would Have Made Owning American Water Works Co Stock In The Last 15 Years - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcWNJdFRoUUZKQVRPRkhGZlpzemllOUVIZlNBdkRKaVhobWdTbkc4dHAySjlrVzRjRWoxUV96U1FjZTU0WDllc1p4WGI4SUFvWWh4ZmNTWGNSQ1F2TVJtTWoxenhDLWtzMDgtTUJlMlFreXZyeEVNX0p1NFZCMDVqUjVfd0ZyUkJ1LUM4QUhwbFR1ZFgxdjB5bG1sT19ZV19fd2tBMWZRcWdyc1dYcXo5Um9fNTNzWEtTRDFuSFdvclBpNGVLcTBrNlNYYWtnTUlud05CVDRJYVJWVkxsVE5R?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Water Works Stock: Is AWK Outperforming the Utility Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWXg1SG1OMU5fM2RmTjVjd19UdXRsaEU2cUlhV0hKUGh0VjJyN09KMUh4RzJSNTRYRjdDbXMwaDRRanZsOTZNRWV2T3VPRWx2SURQR29Zcl8zWWhpZHZHcnBMWUNMa1lVaDVCa2gydFY2OVNiSTJlSk1rOG5IVVdfckFPcndlYWlIeVdNdGk5MjAwQVVicXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Big Money Sits Out S&P 500 Sell-Off By Playing Fierce Defense; Here Is One Stock They Picked - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmE0enNMQm5jR19WSDFybHgyUko5c2phVTVUbFpwZGt4MGdvZUZ6VkdLbm5Td0xHUGtVZDdwTV9HejM2WFVKZzBBWlh4ck1aOWEwZlNlRVZDRHhtZlpFS0lKTjl6RW1DS3dVN3lEWDFtUndFWVFjRDNJQjRGMTlzYjRyUmxOZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Water Delivers Strong Q1 2025: EPS Rises to $1.05, Increases Dividend 8.2%, Affirms Growth Targets - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0Rvdy1WV3R6QmNkc1RQNElaNUJwbUFPLVF4ZVp1aXFfZnYzNmx5N1ZOMzM0M3NEcEdXSE5IYXpGRGdCalBERFJoZk9jWlVuMzFFWFZwWldrUWMyYmpycFlnR0p1MFVNSHF2LWFGcEpPV1pxazJEQ3FDREJPUlZQbFpCZ3NzYVd2Q19SQzdLbG50N3d6UkVVUVZ2NmFwcEUzSk44eDRWMWFVdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AWK stock touches 52-week high at $152.13 amid robust growth - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEYzWUdKUlI2Ylh2LUlpOGZXS3JLeE1DSldyRGJqY3luNkp5bTZrY21LLTBnbDJPU3hjT0MxUFpIOF9LZFc0U0wtb1NPQk9pUlJTSGRXaGxBWGp5cHM2VVpDcG1QZ2VqUWJUQmhHbWdIUGdfTzdnbkNMb3MwTURUZ3ctVnNDZmpEQ00xcF9xR21naHZkelowVVBBMkpDM0xtRXR6MVRMZUFYTy1Vc1NkUmZSOTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Water Quality Reports Show Excellent Results for California American Water Customers - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWVVWNzdRdGdiZEhQdnk0UG50UGxvdndnLWFaWTgxU1pxQUFTQjU2Z1FMbUFEWERuNFJWNTVsbmJ4bS1tbGtwLXl5NVkwMzZ4WkFRMTZ5UHNPQlBlc3RSUjNkZk9sUGJZeFN0Wm9vM2p4ckdFT3hGNkpJOWR1WkhzanowMFZobDhrZEROa3hram9TdDh4c1FpOGRYZHBtVk9yanhuV2Y5dUZ4NTE5WGpNbFBvQk9CSE9wT2dqZUtHOWZBTmRBT2h3WklRdEp6RjNCLTZsWHZZemg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Estimating The Fair Value Of American Water Works Company, Inc. (NYSE:AWK) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON1dxVk0xQ0ZnN0pmMWVDYkR3N3JWM3NERURtdDlPeU9TYjJIeGJFMjl1bGVqV1pIWDFTazQwYXd0QmJsUEo4RmhyMzQ2TkFzZ3M2bVBUUkJDdUswOE9rSlJMTEl2OG5TMGtMSGduRHpJYzRHczdZR01oZWo5bjAwT3BiZlhoZlJYNHJrQnQ2cTh0V2F5WXVxTDhGLVlXbkF3SmdSVjhTNGxJZUh0N2hPdlk1Q1Z0VUlEV1VEekFiWG90R1RsN3BwVkU3dTlaTVp4REUw0gHYAUFVX3lxTE5zRm9TMEFNOS1DLUtTeFNvbTlpblR5aWc2amRQVWR3VER2QXdOQVR6bzR2TkFIcE9tMHVWRlg0WHotTE1uVGxCS0N3LTlpdDRQZk9RRTAtNFFRSE9jdlg3QUVQYks3eFVfM3c1MjNLVHRFMUoxWWRKM2RyWGdKWlp6THo5M2p2eXUxQ2d3ZDJ3b1lrY2dUWGViek9EMzZFYlV2c3RuRDhPd2E3Y0NSWEFYMjJGSV9TT0s1bm53QXVqVkprN2duYmM2VkpNa21vQ1hGbEhsZ2Rpag?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Water Works (AWK) Could Be a Great Choice - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbjdTNlhPOVJmSi1ONkROSnBNZjRIblF5WGpGQWFGbXQ3SE1nVDlGZzFZaVBJMERTRHEtMVlmbXVWMlljTUtBdWQ5X3RBckhFeXRKeERUUUNsSDRtN2w0V2ItOUI1bHdwN0lnb0dhcUwxWkM4SS05b3FmN3V6cjBEdnVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on American Water Works Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2lqOUJBMExmUlp4SU1SWHVnSHRnYnlkYjJId1dIc1pJeGpZZWpJbkZMM0NkQTFlcjYxOU92UkZCeXAyOHlMcXNodVpmaTNhb1hNcHl6UTFmaVFOdEpXUVZpdGM4SFlkeUdGT1pYamhUYkJzLTJtNjV2T05mV0ZGUzVFcEJyLU9YYUwyNG1iRmxpNDF3SXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Pennsylvania American Water Expands Footprint: $21.5M Infrastructure Investment Powers Strategic Acquisition - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnQwUDdZOHRBMU1fY3FQYUNOQjJRMC1vVmtyZG1aMjFicUNiVG5aTlJlaExlcjVNN1pyX3VqLV82cndyNHAtY0pSM1RHd1UxbXpKT2h6R0N6bmI3bnE3Qm9yY1dSWkFyTmRnSTJHRkpGQkZjeGdpdnpHZHZGMDRuelVJQ1EtOW8xRXQweVhkczhvZFZ0bmRUajAyT01VWGZWeG1vU2Zwal94QzV2aDBMRWF1WmRJOUliRG5WVA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Water Works (AWK) is a Top Dividend Stock Right Now: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zSndlNlRLTmhXdnNhZXBacG9iN1E2bjd4UU9CeWtaSXVMeDROWnJCcUhkQzZvdGFSV2Vzbld0c0ZjZ0xzak45OWpQRnVBbUtleHRZNDVHYkZPdkZVS2preXpVSG55a2U0ZUdvWGk1amVLR3laUGFORlpDSHZRNDg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is American Water Works (AWK) Stock Outpacing Its Utilities Peers This Year? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRTFHSE12TDE1SEduTHYwYjlVb2htemdaZ1JZeVljcVd5UzlpS3BCRDZPYVh1OFNZdC03dC1kcDBnRTlhOTZ6Sy1QVVZBNUd6bmZXeUc1cld2a3QtdGczSnZDNnpuWlBNTkRZYUN5ZkFPbW1lUldlMWphalFlMG5Vb0ZKSFZTSlFqdnpOTlN5dmRGUTZ2d0l2bUVHcTFVZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Water Works Company (NYSE:AWK) Reports 8% Dividend Increase - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNW1rTkFtTTExWlRLMXFPTEhVbDJuNFpleTR4dWtYcThIdWFlT3AwYVhZRy1tQjhjeGpQdFhGSE5HRS1HUm5ib3hhZjdZYTE5ZFVPY1M2VnIyRnFJTnZzd0lrd2tvR01XeW9HTFNPdjBLS1JpcFR2akRod3ZXbS1TaU9BaGNoUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Is American Water Works (AWK) Down 3.3% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xam4wNzlvVXpNNlNYYXJWZjBVUE9JOENzdXJsM19HR1RmdUxNRTVpNVljY1phT0J5ZVBVYWR0Yy1ZMnhVaHJRbjA4ZjBaUU51YldnZnRqeE5JQy1jVGhHQXotSUsxeFhHUjJKX2tkWWFUUWRHSWVlZUkxMjJhZ2M?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why American Water Works (AWK) is a Top Dividend Stock for Your Portfolio - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2clo0VkR1R1VuQXpzRDdRLXJ2YkVobkFKLUdZVWZNV3g3Q2RLcjhkWHVUYkdrRkhibUhGdUZNNWc1SzdTVmx4MUVjQm96VnM1MUlWandHbTlLaTdUR19XOHg1N20zbkZ6ZTNhTEp0STdPYmNIR3VwY0M2S29WU0k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is American Water Works Company, Inc. (AWK) Among the Most Profitable Utility Stocks to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLU1XV3d4bm1MMzJpYm9maDgtUzdHc1M2QlJmd2VwaXZwTnNOZ1lwaTVsVU9KaElfWlVXSUtLVVFDVUpoWWZzSkx2aW0xeVdhallfWjFmOWd5LW9jTi1vS210QU4yOVh6aVJYVGV4OHFxN3ByaXdsaXlEOUN4R3Q3VFRBVm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "California American Water Solves Water Quality Issues Through Strategic Mesa Del Sol System Acquisition - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPejd1OFRoY09pMGdnZ1NmOENuWk9uZ0NNaHpZM2V6dVg4WUh2ei1uY3haWWRZMW9fZWFJX25GUVV4OGFBYVZGdHpKWk5Dck9xX3MyOFAzZ05HY2E4WWJuWnJYMWlnOTdHNjN5SlNsSUgyVENIME82WGFhMFdKd253TElZdi1VZmh3bFdNaUdoamFlVVhVQ3Z4SWlaZFdtcm1yVlNJTTVsWktia0dVaHBNbHNoaXJNV04x?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 135.6
-      },
-      {
-        "date": "2024-12-03",
-        "price": 134.1
-      },
-      {
-        "date": "2024-12-04",
-        "price": 131.01
-      },
-      {
-        "date": "2024-12-05",
-        "price": 132.1
-      },
       {
         "date": "2024-12-06",
         "price": 132.37
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 142.29
+        "price": 142.42
+      },
+      {
+        "date": "2025-06-03",
+        "price": 141.86
+      },
+      {
+        "date": "2025-06-04",
+        "price": 138.84
+      },
+      {
+        "date": "2025-06-05",
+        "price": 140.02
       }
     ],
     "current_price_data": {
-      "price": 142.29,
-      "change": -0.69,
-      "percent_change": -0.48
+      "price": 140.02,
+      "change": 1.19,
+      "percent_change": 0.86
     }
-  },
-  "news_sentiment": {
-    "summary": "Keys Trends:\n\n* American Water Works (AWK) stock has been experiencing fluctuations in the market, with a decline of 3.3% since the last earnings report.\n* The company has recently made a strategic acquisition in Pennsylvania, with a $21.5M investment.\n* Big money investors have been sitting out the S&P 500 sell-off by playing defense, with one stock they picked being AWK.\n* Wall Street analysts have mixed opinions on the stock, with some bullish and others bearish.\n* AWK stock has outperformed the utility sector in terms of returns.\n* Water quality reports for California American Water customers have shown excellent results.\n* The fair value of AW",
-    "sentiment_score": 0.1,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,4 +1,3 @@
-@@ -0,0 +1,181 @@
 import os
 import time
 import urllib.parse
@@ -26,7 +25,7 @@ print("🔁 Chargement FinBERT...")
 finbert = pipeline("sentiment-analysis", model="ProsusAI/finbert", device=-1)
 
 # 🔗 Mistral API externe
-MISTRAL_API = "https://8ug9pcnn4g0xwy-8000.proxy.runpod.net/analyze"
+MISTRAL_API = "https://fzhvs2csuz2ezl-8000.proxy.runpod.net/analyze"
 
 # 🌍 Traduction
 def translate_to_english(text):

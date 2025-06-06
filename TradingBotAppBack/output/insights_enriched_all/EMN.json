@@ -2,55 +2,163 @@
   "ticker": "EMN",
   "name": "Eastman Chemical Company",
   "sector": "Materials",
-  "market_cap": 9077465088.0,
+  "market_cap": 9082084352.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 10.015287,
-    "PB": 1.5454779,
-    "EV_Revenue": 1.475,
+    "PE": 10.020383,
+    "PB": 1.5462642,
+    "EV_Revenue": 1.506,
     "ROE": 0.16032,
     "ProfitMargin": 0.09847999,
     "GrossMargin": 0.24909,
-    "DividendYield": 4.24
+    "DividendYield": 4.11,
+    "DebtEquity": 86.003,
+    "CurrentRatio": 1.719,
+    "QuickRatio": 0.739,
+    "FreeCashFlow": 532375008,
+    "OperatingCashFlow": 1136000000,
+    "FCF_Margin": 0.05686552181999432,
+    "ROA": 0.059520002,
+    "PEG": null,
+    "EV_EBITDA": 7.33,
+    "BuybackYield": null,
+    "PriceToFCF": 16.990159658283584
   },
   "technical_indicators": {
-    "RSI_14": 45.06416848735935,
-    "Momentum_10": -4.637928973276425,
-    "MACD": -0.0087107113646283,
-    "BB_Percent": 0.3576277743950199,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 44.58770076085312,
+    "Momentum_10": -3.7739377159402743,
+    "MACD": -0.13451724837536,
+    "BB_Percent": 0.157340413969907,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.897140889231322,
+    "ValueScore": 0.8941296527977975,
     "QualityScore": 0.3017336730003697,
-    "SignalScore": 0.675528230591091
+    "SignalScore": 0.6486953914902227
   },
-  "volatility": 0.0244085386587507,
+  "volatility": 0.0245954000031831,
   "beta": 1.264,
-  "return_6m": -0.2325530978104312,
+  "return_6m": -0.2112855645880504,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 19,
     "target_mean_price": 96.82
   },
+  "news_sentiment": {
+    "summary": "Eastman Chemical Company (EMN) a récemment lancé un nouveau produit biodegradable, renforçant ainsi son positionnement dans les cosmétiques. Malgré une baisse de 3,69% de son cours le 30 mai, la solidité de ses fondamentaux suscite des interrogations sur la temporarité de cette faiblesse. Le conseil d'administration a déclaré un dividende, tandis que des traders d'options anticipent un mouvement significatif sur le titre. Cependant, des annulations de subventions et des baisses de cours récentes questionnent sur la valorisation actuelle de l'entreprise.",
+    "sentiment_score": -0.25,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "EMN Debuts Biodegradable Micropowder Esmeri CC1N10 for Color Cosmetics - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU05zZUZHMGhjZEE1ZEVnRzhPTXFtN2lZbnFhamlkeEdwUW9QRjg0a2NVMTVTZXIwbTdMMlJRR0JVejIwNE5QNHc3ckwxVzl2ZjBDMDdDcjhGZnBMTlZ0a3dfdkJPSUdhY1diQmhUanpDRHV5RUxwMDRGZ3pJYWNUVUt6bE1nbmpPTmZyZi1wTXVhSWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Will Weakness in Eastman Chemical Company's (NYSE:EMN) Stock Prove Temporary Given Strong Fundamentals? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU0Q0R1RVdHMyUDI0X2dTSlRQeVRaRTU0WUgzMVllTktDZVlXME5kaVcxSkhLcnBIQkg4TUFkZEQ4Q0pTSllyeE4xVXdWZGxWcjBHX2pmMjFIN01WOE9oYXhkSm9rcGczX1BEb0w4UDlfbFdYc1hIZkRaY0lnSy1uNUR1dV9SOEpxeU95bjlNYVFiQU11RVJHRTZZdl8xckcxd3N1VVZmVUNFLVpDRVJlcVFRLXZaUUVTck9DZFQ4azd1Nm8wbjViTlBORWt1Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eastman Chemical Co (EMN) Stock Price Down 3.69% on May 30 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRWR0R25DQk96ZDdBUEVIWTZhMWhCa0VNRGZfTE96b1ZwWEdYLWx4TkUwLWpEWEF6U2pfR1lNOXNzbTY2REsyaE5JZE44bWllQVc5dGItY3NRczQyQjAtdC02cDRzWmZIc2Y0ZThvWHZWM1lOUHlDOFh6Zjk4WEpfQmdEblNyZkh6YkxjTmdHSlVYdGJCQmJwWmk3MWJSb0piaTU0X05RYXdLaW5VT3dSZHZ2WVJNeHlaakZNYmpQUW5NRVcxX3MzZW5HeHpNN1I4ZkExUGxYa2MtTDdZRElZ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Eastman Chemical Stock: Is EMN Underperforming the Material Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGZkNTdsaVNjc2F4ODA3MVMxR2tfNjJLOW9pa05xRjJIYWNSLW1LM1lVaHpUTHgwUjg3NDJJODA2eHBsby1meUxKTE04WEFMdEphWkp1ODlFN2xYblgxVllnZTNwcGtScnBUdDN4VWV3ckVvMkdycDdzSS0tRnVMT0JQektwMHM1VTJIOFZoY3BHTGIz?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Eastman Board Declares Dividend - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ19CMVJXdHdpWmlJQTk0ZGp5SEtYWXR2SEtGNjVSbThrbFF2NW1ETS1KczY5Z19sc2pFUWI5TE8xaFR1U0MyemJ2VjlBcmlfM0h0YXRwWUFGMW1ueW91cFdMQWZrUjVES09OSTFpVWFjdENuR21MSzdRWGkzRjNLaWk1T1ZxbzR0RS1VTmRZckdFQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Are Options Traders Betting on a Big Move in Eastman Chemical (EMN) Stock? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZjRpNzJEME5ENFR6Ty1oaHdJRHZ2ZDlETW1jTzdWTFFjVmhvNG5aUGcySVpLOTVXUmFsSThKMDJTYW5RVFI4NGtYUGZvbUpiUEplaE55ckJ6dWZXOUdnOVJpWmtWaXhJb2wtMHI5cWVVWDdLU29YcGZjSnZTYWFpTHl6UTNOR1RNeFVQNDZKQkJZMkctZGZ6RWhEMTZhNE1nNFVlY2dPcTRZZmRHemZBSnhXd3FUVHczLWg5cWNBVHA3RjlTRFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is There Now An Opportunity In Eastman Chemical Company (NYSE:EMN)? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEQ5RUxtWDNSdmJfcUZVU0RZdDMySDVhQUU4dnItb2VhNWtwMkJaZVppNVYyUnQzeXJsdHBsRWhwR0Z4WXdiRUo0dXRja01mWVJDWFYxVHA2VjRTc0xzUGx5TFFCWkMwT2ZiSWc2OXhXVXpka3NOck12emp1SUtYbFAzTEVuZlIxYWM3dm5NVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is There An Opportunity With Eastman Chemical Company's (NYSE:EMN) 40% Undervaluation? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONjNDSG9FY1RWa0dtYXRRc0RKMExyT0JlYmtPSGxpOWdJU1phZkp5R0h0N2s3ZTFibWhpcnpEMkRyV0xaVGY3a2hiS0ZRU0J6dy1UM0VWQmJhMUZDbmtjZUgzQzY1QjNZa24xb3dGRlFzYVhnMmFrSWtEdE9ueGlvVWxyaUQ0eDdTUGFEdzU0bHJ5TVU0NkJIYTZySVJXcXR4T1VSR0tZWGhVaWctV0VZbHJTV1ZFYlZmYWs0ampEMjVsNDBGelV0MWV4cnRXXzhZ0gHWAUFVX3lxTE5Vbm9sZXM4OHdJNGFtVmNDTkRlRFBxeHdFNUhNWlVFZXJ4dml5WjZsR1BVTUIyTFEwaUVlbDMtdTRFdkQtZXRxNWhINU55dlBRczNoMnhkRGJQMlJoZ3E0LVRDYXVaMGM5TEZnQVFxdTlMYlhaZG5odU1NVDF0VWE1T2JEMTZnaV9xejY0aHRMek9CaXZkaHQxOEgxVXRwZkJkTm04WXhPUnNVZGU3dE9tNHBpWVA1WDdVRXdabThacnhmV3NxMTFYNkw4bUlsS1N1Xzh0dWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "What Are Wall Street Analysts' Target Price for Eastman Chemical Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXhjTjVhMXpycHZZelJwajlKZ3BWaHg4ajI4WlVhS2FSSGRLb3ZJLWg5VFBvR3pIbHZ1NmRsUndCVkNId19sSUl0T1ZCOWg4emR1VHVSMUVlY1ZlYXprSS13OEF1aHctT1FoRUdfaHA5WWR1QjhaWGFFVFMxNFpzS3owNzhZNHUybGluY254UEFYVUY4TU5kaE8ydlg4dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Eastman Chemical Company (EMN) the Undervalued Chemical Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3Q5c19BN1MzbGJCSlNZWDZWN29fdVdsbEFfVUVHZ1Y5ellpWXRRcENVUjRIWFJsVkFMVWFHc0NkRU12dUxKVE1pZVB4Wjl0WEJxb3ZQd25BVWZseE9NYThiaWdDZEhnbVJxM3ZQM1NxVmNGY0FTcHdORHZqT19EZUdJNEpzSURqYUtZODUwYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eastman (EMN) Faces Setback as DOE Grant Falls Through | EMN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVUUwamdMbTdMV014NU9mN0JBcHEzTkxJUTk0bUw1YjVKZHlQZGZ6MjJ5aWtCMzQ3TWhXYmctUjhqSXp5LTNoaW05cFJVc2FaWEJnWjZlRjFyYjBERGUxU2tmbG1nVmpZdWVkYVFFZEZsU1M3R3hHTUJYOV9xLUhTN3NWZTJIYlRJS0FHR3RrUE9oSEFiS0lrbEgwSXVzeVRZWkdialdDNUJ2RzA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Investors Give Eastman Chemical Company (NYSE:EMN) Shares A 26% Hiding - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTzhfWm16anVSYm9XMFhQeHFGT1luVHRPYjlxOUxGV3oyd0l3RVpPcXFLZGxYVC0yQndqVFJiMlBPSm56MDA3bE9qOS1wekJfdG1rSlBhUGxZS0xGWUV2N2NJT2hMQ3pPY0wtNVVIRkQ2VTR0aENCamk4Z0xldkFXZGpmTm5qQk5PV3ZMaGt3N0JLbjdSSXRSSUYzSzN1ZmMtVnlOZENyVUlVY1piTnh5anZIOXp2cWpIZHEyam1WbVRFV2FhejJhWXhTb07SAdIBQVVfeXFMTUlsb0tENjZZWV84d3BraVB1UldaVVZDbko4ZkZyOVlTMUhHLWVGN3JPQ3Jmc09rQ3lpeDRTNjhjMGJlZmRJYVREZGRJaVhxR2NQSWx3V2NsNDd1bExHWnNjVHhnc3c2REZrOVh0SzBsNWg1eUhxNkhYOGNrWmQ5dDB6dXVxTk1EOTRQSmJNQU9MRXZwbW5rNEtEc1dackhOdnZLM1FVRXNhS3loVE9ZY2JRVlVmQVR4OWZ2TWFkWnlNM2VhUjZlLVhub09RYXVWQ2pB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's What Key Metrics Tell Us About Eastman Chemical (EMN) Q1 Earnings - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEdZR3ZFVTdqVW5WM2k5N1VmM2x0OGxSZkRPX1V6MWlsUm05LVVwbER4cF9XOTlMRWk2QU4xUHQzOGs5Q3Q2WWhDY3FTbzNBbndNNkR0QzFZQzhnTVpmclA3aVV6MS1takxDcUJxaC0zcGJ4clJ4MW05MklBZmlTNFJOWHdiRlR2Z2JRM2R4QUhYeFVEM0VnTkJ4RFhuVVlaMU9vZmpn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eastman Chemical Company (EMN): Among the Oversold Global Stocks to Buy According to Hedge Funds - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzF6S2NRUy1oczF4UWliZEdSMUM3ZE81N0Z0Z3huWTNfYTBXTFVGNTRrMl9VMFVtQ3d1alJhdTB5c25RZ1dDVlRPaGZWLXZoNnBTbFR4ckFNNXhRX1RtaUFaUk9NdGZUanc3MGdPc2tqXzI3TUd1aHk1dGdNUGxNeVVUR3Q4QWs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Eastman Chemical Co (EMN) Trading 3.17% Higher on Jun 3 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNTdqOVZVdWdkdXE5THRSbVJUZVBlWEE3MlVudlRLazBkc1pCYXM5RTdIMkI5MWt5dmRjWjhENHZMbzdQU1laZXNHbkpESmFfNVJOanJDQjRVcnpnRFVwbnlTaEJrVHA0MjJWbHQ0eUtwSDRkNTYydE8ta0tfM09BOHZMOVlBdnRFVVVLNkUtM0Y1Zm15TmVTVXRxbFhZcEloMzdwZWZpWlJ2OXVrRXNabWNablJzVHFpbGE3UGs2YlZUc2tULURWdFVWN2p2d2ZvZkNrVjNIUkZDbjA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Eastman Chemical Company (EMN): Among Blue Chip Stocks to Invest in at 52-Week Lows - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcG9Yam1jMHJNVk1GVFRxalo2YmVtdWtLa3JrcFBwekdmUDM2S1JRUEM5djlfdjdQUnByOHVOQjFlZkJ2NGthZEtJSUpGSGlnZmRGVEp2WEM5MlZzQklYVmtZWlF6Q3lZemVjT3AwanJPU1lua0l1Mm9wUXFyemVNak5xSmpDelk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Eastman Chemical (EMN) Shares: UBS Maintains Rating, Lowers Price Target | EMN Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2VzbDFFc0REcTFvTDlfUXIxWW83bVZGZ0x6WUpCOEJFNnpQVE45ejFlV3ZGVnRYVlhpUHBoa1RDeGtnSEJUN1pIazlrR25TNDNra1NxZGVZTGtoSm1TSFRpT1VyaVk2VjBrbUhTbFBkcS11WWRiSlRuc0JaNTJadFREWmM0dlh0aDJkVE1hcDZaeGN1bE5zai12cThvT2FLbHhQTUNqR2JyTGFMMzh5VU1rX1lHc2JOTnhHTF9yZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(EMN) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTRhRXVBVzdzUGFQNVRmWC1kRnJ6TnUxZjgtQl9FLVN5X2NOZDlVeHNBRWxhUlp5OEN1Z285d1hkalQwdE52NEt6WlpHRVl6Z2FqamtBQXVJWjI3SkgycjNicWlNbzJodjUzZVg4LUpFQ1ItNWdEZGlDS1NtU2kwN1RmNENZeGxtQ3JmbzhtRGU0M0J5SWNnc3ltSDRMcjI1ekt6OXJ2X19va2Fq?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Eastman Chemical (EMN) Faces $375M Project Cancellation | EMN St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlZDMmZVbnpxOHV0RkZFMjMxLWh3d2t2VFIxYjZQSW9SMG52NkdHSkxLbjlNOENZWWhLNWJrZmNYbnFvbWFBVFZiVWQ1OFdPUjI0emxzZkIxRWhiazJBeDFQVlJONHlCZ1k3MDRFNmlzcjJROUY1WUVCYXNDUHZwWnkwYTMtMW5BaUloRUtqRTRMV2UwZEwxeFdSZ3I4ZVdsbG1NekI4R08tQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Eastman Chemical (EMN) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVJibUpPYXBkLU5QeXlzVHk4VC00ZWJwSEU5UU9RaXVBRWlUYkN3VXJGUG9nYTlWOUlKNk1LR3B3MFozUnZ6NTFVdUhJVWU0VlVmdUV3bmVqVU80YkRiU0hBdVk3M1Y0R1RGV09CUjhTdEwzT28zcDVtcU9GZ1RoZlRhNUtXTFlCMk56eQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 104.27
-      },
-      {
-        "date": "2024-12-03",
-        "price": 102.94
-      },
-      {
-        "date": "2024-12-04",
-        "price": 101.94
-      },
-      {
-        "date": "2024-12-05",
-        "price": 101.51
-      },
       {
         "date": "2024-12-06",
         "price": 101.07
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 78.61
+      },
+      {
+        "date": "2025-06-03",
+        "price": 80.46
+      },
+      {
+        "date": "2025-06-04",
+        "price": 80.83
+      },
+      {
+        "date": "2025-06-05",
+        "price": 78.34
       }
     ],
     "current_price_data": {
-      "price": 78.61,
-      "change": 0.28,
-      "percent_change": 0.36
+      "price": 78.34,
+      "change": -2.51,
+      "percent_change": -3.1
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici la synth\u00e8se de ces titres concernant Eastman Chemical Company (NYSE:EMN) :\n\nLes titres indiquent que le prix d'action de Eastman Chemical Company (NYSE:EMN) a connu une baisse significative le 30 mai (-3.69%). N\u00e9anmoins, les articles soulignent les fondamentaux solides de l'entreprise.\n\nUne analyse de la performance de l'entreprise par rapport au secteur des mati\u00e8res plastiques indique que EMN est sous-performant. Cependant, certains experts recommandent l'investissement dans EMN en raison de ses prix de vente",
-    "sentiment_score": -0.4,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

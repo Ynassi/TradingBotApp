@@ -2,55 +2,73 @@
   "ticker": "6302.T",
   "name": "Sumitomo Heavy Industries",
   "sector": "Industrials",
-  "market_cap": 357114871808.0,
+  "market_cap": 365708836864.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 444.83533,
-    "PB": 0.5727426,
-    "EV_Revenue": 0.482,
+    "PE": 454.414,
+    "PB": 0.575441,
+    "EV_Revenue": 0.476,
     "ROE": 0.00166,
     "ProfitMargin": 0.00058,
     "GrossMargin": 0.23886,
-    "DividendYield": 4.12
+    "DividendYield": 4.11,
+    "DebtEquity": 41.518,
+    "CurrentRatio": 1.828,
+    "QuickRatio": 0.942,
+    "FreeCashFlow": -9006499840,
+    "OperatingCashFlow": 30699999232,
+    "FCF_Margin": -0.008513958950594817,
+    "ROA": 0.02386,
+    "PEG": null,
+    "EV_EBITDA": 5.772,
+    "BuybackYield": null,
+    "PriceToFCF": -40.60499010279225
   },
   "technical_indicators": {
-    "RSI_14": 49.595280208744605,
-    "Momentum_10": 0.1010611419909045,
-    "MACD": 2.9815237841339695,
-    "BB_Percent": 0.4524562099347338,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 49.918326099830786,
+    "Momentum_10": 2.700378396972824,
+    "MACD": 11.3301674103609,
+    "BB_Percent": 0.4732651099697683,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8345165791141733,
+    "ValueScore": 0.8318721827121139,
     "QualityScore": 0.3680576007942794,
-    "SignalScore": 0.6202400242963764
+    "SignalScore": 0.5749159549758065
   },
-  "volatility": 0.0195288640972996,
+  "volatility": 0.0195610275265055,
   "beta": 0.481,
-  "return_6m": -0.066868095914771,
+  "return_6m": -0.0610266979806013,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 5,
     "target_mean_price": 3300.0
   },
+  "news_sentiment": {
+    "summary": "Sumitomo Heavy Industries (TSE:6302) a récemment été signalé pour avoir pris des risques en recourant à l'endettement, ce qui peut influencer négativement sa stabilité financière à long terme. Les résultats du premier trimestre du groupe montrent une performance en regard des attentes des investisseurs, cependant, la question de la dette reste un point d'attention. Ces nouvelles pourraient peser sur le sentiment de marché concernant l'entreprise et nécessitent une vigilance particulière pour les investisseurs francophones.",
+    "sentiment_score": NaN,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Sumitomo Heavy Industries (TSE:6302) Takes On Some Risk With Its Use Of Debt - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWl9idUlTNGxfcjRERV9hMEg2Ung4WEw2NXZPb2VOYkc3cWpaWlBVRFBtM1VMVVJJYTVlWVdDVkMyQmFqbWRDZXN3Vk0yZGdCS3RnNUJDTlV3T01CRG9hazgxN0tXUUNRVWFtRWRzRTdUbFpsZnFkYi1BdFAzdDR2VjgxTUNWaXBaekQwVDQydWtLSXBZM2JqODJfdm84aG1hR1MwY0N1TmVINWdvSF8xRUczVDlSWTI4X0lDdnJ0ZW96bG5wZzNFWlBkREhzLU9XS09oM3JpVzEwaHdCWnhfLXNRZlRXazhp0gHuAUFVX3lxTE9PNmxScXVnbVROTjRLSlJ3YXBWcFJrSEVqLW9YemhNbjhxd1lCdkdGUVljM1d1dkM4YnUtZU4wUk5VZVA4dWYwcDJySk1Gc2JQb1RfUHowc2ZFRjFvMGlncXFIdXF0eHZkX3Jkd3ZMbjNTdHI0UE5uYjdwQ0Z4RS1NMXk3anUyX01kcF9odFk4VXlsNXNNNUh0bTNSb2JhNXhxSjdxdUNlQzVPZzFCV1dlMGl1UDUwdUJ5SXluM2pwdWFfcnpEWkVxRDlCcktJNWJCT2dya0hUUTBFNmk1OHZnQndoMzJZaWxZVHZaMWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "TABLE-Sumitomo Heavy -Q1 group results - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUnA1WDcwMDVlVktSMEMxaXVsa1BEa3JiM0lFQzlYNlRfdlhuQ2RUZUN1OXNHSldIMjd4b2ZTQkJLbkVhZjV3dzM2UmFHSkRFaFJvMWJhTG1UX005MUhxX21kOGprUlVzRUltTVZ2LVRjb1IxUGdjeUlPNGZ6ZmtueHFYelE0Q0NaNXNJcXJ4NHpvQU5jVXZKTnJReExkam81bTlMYTNZQll5Z0VTbEhEUXltQQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3249.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3328.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3233.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3244.0
-      },
       {
         "date": "2024-12-06",
         "price": 3212.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 2971.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3071.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3043.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2985.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2997.0
       }
     ],
     "current_price_data": {
-      "price": 2971.5,
-      "change": -63.5,
-      "percent_change": -2.09
+      "price": 2997.0,
+      "change": 11.5,
+      "percent_change": 0.39
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques concernant Sumitomo Heavy Industries (TSE:6302) sont diversifi\u00e9s et portent sur plusieurs aspects de l'entreprise.\n\nLe premier article, \"Sumitomo Heavy Industries (TSE:6302) Takes On Some Risk With Its Use Of Debt - simplywall.st\", indique que la soci\u00e9t\u00e9 a utilis\u00e9 des pr\u00eats pour financer ses activit\u00e9s, ce qui expose l'entreprise \u00e0 un risque sup\u00e9rieur.\n\nLe second article, \"TABLE-Sumitomo Heavy -Q1 group results - TradingView\", pr\u00e9sente les r\u00e9sultats financiers de l'entreprise pour le premier trimestre,",
-    "sentiment_score": 0.333,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.33,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

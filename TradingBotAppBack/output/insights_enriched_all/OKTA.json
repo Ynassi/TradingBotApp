@@ -1,56 +1,164 @@
 {
   "ticker": "OKTA",
-  "name": "Okta, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 18407174144.0,
+  "market_cap": 18239105024.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 161.75385,
-    "PB": 2.802986,
-    "EV_Revenue": 6.074,
+    "PE": 160.27693,
+    "PB": 2.7773929,
+    "EV_Revenue": 6.233,
     "ROE": 0.020769998,
     "ProfitMargin": 0.04849,
     "GrossMargin": 0.76688004,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 14.421,
+    "CurrentRatio": 1.466,
+    "QuickRatio": 1.349,
+    "FreeCashFlow": 812499968,
+    "OperatingCashFlow": 772000000,
+    "FCF_Margin": 0.30305855553739186,
+    "ROA": 0.0010899999,
+    "PEG": null,
+    "EV_EBITDA": 162.23,
+    "BuybackYield": null,
+    "PriceToFCF": 22.448130144418663
   },
   "technical_indicators": {
-    "RSI_14": 38.407198183684784,
-    "Momentum_10": -17.407700809794584,
-    "MACD": -0.3093711763543325,
-    "BB_Percent": 0.0442127460802646,
+    "RSI_14": 38.47724924875189,
+    "Momentum_10": -14.648531550916053,
+    "MACD": -2.062985320066971,
+    "BB_Percent": 0.1510414279404559,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9072336486445668,
+    "ValueScore": 0.8750148341272047,
     "QualityScore": 0.4572146016384442,
-    "SignalScore": 0.6535450418689941
+    "SignalScore": 0.7047505342404113
   },
-  "volatility": 0.0375559578043862,
+  "volatility": 0.0373461287841358,
   "beta": 0.841,
-  "return_6m": 0.3004329174267359,
+  "return_6m": 0.2286826180007459,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 41,
-    "target_mean_price": 123.4422
+    "target_mean_price": 123.32024
   },
+  "news_sentiment": {
+    "summary": "Okta, une entreprise de cybersécurité cotée en bourse, a récemment fait l'objet d'une volatilité importante de son cours de bourse, affichant des baisses conséquentes suite à des résultats trimestriels et des perspectives jugés incertains en raison du contexte macroéconomique. Malgré ces turbulences, certains analystes restent positifs sur l'action et recommandent l'achat, mettant en avant des opportunités d'investissement. Cependant, d'autres experts soulignent la prudence, appelant à analyser de plus près la situation avant de se positionner. Cette fluctuation de sentiment autour d'Okta reflète un climat d'incertitude dans le secteur de la cybersécurité, incitant les investisseurs à rester vigilants et à évaluer les risques potentiels avant de prendre des décisions d'investissement.",
+    "sentiment_score": -0.4,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.45,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "What’s Behind Okta’s 10% Stock Slide? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHIwSEhsZVJ5OXdxbFB6NUp0MlRhcWhCekVsOUExSURkazd0cmZWSEJ2NXE2LURrYU02c2pBajM2dHdWSlZxTnp0bWY0TDhTU0xiTS1LRkVqc2NKQ256VDlhMENaTGFjWEVhd2ZYZm85RUVBdFQ4S1BuV1RNcTFEZUxiaU1OMjhyVjBMd2pMdjM4alhtY0Y1aHN3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street Analysts Think Okta (OKTA) Is a Good Investment: Is It? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbER3UFJYWXEwS0tTbDQ2SVNwMVloaUZ1WkZjTzdiMmVwZUhaM2x1RHZ0UVE0QThBaFZZR1U2dTd1V2J4MlRJdjVPSnptakVEOUZSRnA0X2ZQVzd6QWIySmlGNFBxQWZBNVJnNVk1WDVSVk5seHNpdk1pank4REdUWS1paw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Okta's 15% Price Drop A Buying Opportunity? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmNXWmV4R1ZxNTVPVVM5cmEzRDJYRmgwVFdrQ2ZtTEVoc0FtM2xfbVNiYUhoRm00RTZkdXRKbWIwdFpqRG1MZVJmcTV3VkdBTXB2NGw0WmFiTnZvRk05RGZpd2Y3d18tRjJLYW9hQWF4alBZakhsRERBQWI3NGUtNnBMa3lPT2xYS2JqTldtQ1NQZFdjTG9jaGotZUx6dTNlQ01CUA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Okta shares plunge 11% as company maintains guidance, citing macroeconomic uncertainties - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nY2IxOWFfS1hMWTdFRDFtZFpQcWJZUkpxTGhWV3lvN0hCMXByd0w2RTVncVJsRzVBWUxHdWJ2TW1HakIyNzBHUlctblpTTEhBVG9fWmdSNWdHUEJCRzgtd2kzMjQzUGg1WEJDMkVhekjSAXZBVV95cUxOZmVNTjVtVVkxVlRVMEt3YmlqWUduUlN0RzVSTU90Y1g1dkhScU5ZUVNvdkp3QmhKQWNleG5fMjB6dElTOGtfZGx0SG1ERGhQVWwtUmR2b3EtY0RqUTRYUWx5SzhtaFBfcU9RQnV5dE44d3NhdERB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Okta Stock Is Falling After Earnings. Why Analysts Still Say ‘Buy.’ - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1b2hBZ2otY25PcjV3QXBjQmRyVjlSdWVZZHlSQ3dkS1U1Y1E2LUM0TjZOVUxVcXJ6dFU2RVlrRlFFZ21ZWFNZWVdqSDg4Q096ckRKSHlHckFlUDJqa1Fzb255UmNMRkJwU2cyNUFteDJUN21UYVdPd29Lbw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Okta Stock Plunged on Wednesday - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaXQ3bmx1TXVnVnBYdDktUWp0bWpwQ0hkaEtTVWhLS0NyY3hfMGl5WVd4Z2p3TTJ1aWNEVzdVMUY3VzFuVTRtT29oZ0pnbk1fekxuRmUxVXBOYWpRUDJMTFJ3dkdFbDNzY09fNFpEdFlDWkRWaFM4MVdkMnNUUV9oTTFPbGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Okta Stock Sinks on Firm's Concern About Economic Uncertainty - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZUg2SGdUVkluVGMxQWtMTUhxZzlOM2NwUVF2YmtCYmRueGF0NVBNS1gtM29yV3VfVmdNYlozekFJZElGRjY3Zi1zM3V4cldBM1NXcFNxVlpYRmNUS2c0TlpEcTV0dEhGa05PMzZaUVU3bDZXaG5xbVRtUXVQOUF4anZlb0pyVGdfc1V1bkxCUHZ3ZEVOSHR2aXpaM0YwdXpNLU91ZVhtNGhiUGs1TzFUNG84Q0I3Rmo1cmFlTFVuYk5xZVFUSHZzZzI2Mnh3Y0dTUi14OEkweEJGV1BWYjR4MWV1ZllrelFsTE1jLU5oMTR1cXFwaUZmalNuZFI2UXdiLWtvS1VrR1BkNGhoMV9iaTdhdGkxdXdSV1pyU0l4YmFDd2xCTzhwNU45eTRhbnkzZGtWejBJanFWTEk0QzJadFJDb1VKZXRPZ1RJ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fluent Financial LLC Has $584,000 Stake in Okta, Inc. (NASDAQ:OKTA) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUlDUTJhbFZoTUQ2dG1qN2ZkalhNYUhNTTRGQlh6YzJNcFY1WXBxSVEwSHR4Sk1WeU5sVldoSElPaGNBUXp2N0NDQlhNRFU1MEhyOWhYcllaT0w1dFJ5amh0RmwtSnFXRWFPZzNDR3QtdFlpSkx1cE9zWk11VnVoQThlNGhrdFpkT2NQN3BmTmJDeGhHbS16d2dyRmd5VjFuR1FDOUFNR2g0d1k2LThaU196RnVRWVJKMW1JeWdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Okta shares tumble after it offers up Q1 results, guidance (OKTA:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVlPODlOM1VzLTMzZG5WYW1oOTRzWWtwaEdfR3BhMEVTLXRIdkk1aUhURDFaV0dLOXZhSjl0Vm5GMVhGRDI0Ym92dTNkWXBZMk56V2xySmU0SVNlU2dfVmZGbUFLdHNRWDg1TWlNQU9KaWhqRE1kb3hKMmpPMVB5Y21ZZkVvVUdmRTVLclUydkdVdXFpalFrekhXQQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Okta (OKTA) Stock Trades Down, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10VUE5QUVIREVCZWhRMDFaeU05TW16TEx2dE9PcUItXzNvaWF1NDR5eVNDMVUwa01IaElSeFUySVBocUlvRE9CWVFWX3BRZkhKbFYxbko3XzdSZHFESTczT1o5Wi1xZGlYTEQ1NUVXT1hqS3lYbEJ5SnB3dHFydw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "What’s Next For OKTA Stock? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVFR1Qjd6VkcwUkQxRl9LRHViOHcySW5CTnVFWU1CZlJtWng4X1RycXllVjBzbjRNLUVhU3NFTExSVjZoZXp0c2EteTVIVEhyblJmQ1RRUFdnMXJiZnY1dTFGcFpCNVBEZ3dFYlN0N192UUMxQTlyVFk3MkZpTzZwOTNkd0dHZGxPRG5lRg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Okta shares fall more than 11% on uncertain outlook - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1ZOSG5peFgwQjRhZ19IRzRrNHFfaXNtc1VVNE82SDBpZXNFTFhjLWpmXzEzNlNSNUM3cS1tQmxCNjcwdjh3Tk1jZVFCQnNsNEVlR1pXWldOTmhmUmZCdkQ5UmN4RVg4eGxFZEJvQWRuZTRQemY2RHhaMlFXNEdGTDZIRWEzR3MyS0x5Ty1rT2xPVFNXLTBiSjlUU0JFZ2F5RUF3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "After a Sharp Rally, Okta Stock Pulls Back on Cautious Outlook -- Time to Buy the Dip? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGlvV2dIZHBkTzhnMDdpMk5IY19iRjVHMUhBMXBQNlVBb1pFYnd3SkEydGRub2M0ZUpNMVFaQWlTRndaYTR2RW50MEQ2MVZqbFBLdkJReHlLZklVeU9mNWZPRGNtSzZVR1Y2WUJ4NWtiSnBBNmZJbS05cGRQT1JSeHQwaXNDekVFemNFdDRzaXFZVFRPVlpJ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Buy The Dip in Okta, There’s Nothing Wrong With the Outlook - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTMzNjBfVEU2VXZWbkM2RzhuV0RLd3A4aUU0TnBhakxpY0RleW0tVmRKZTN1MWJmanRtX0VOelJxbzFsR2lNZXI4ZF9hdVFobklTWHI4Rm90RVpzVVRjZUFoYlZ6UXBzZ3FPNWhQVERlcmhsOXpuRzhKYjAyaHZYU19UT0x6UGhOcjFMYVBuTGx5V1E1LXZ2SThDdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Okta, Inc. (OKTA) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EczdZa0hEY0dTUUcxODE4MjFrLWpYcC1RVWw3MEQ1bWFDXzhkRDFjQmpvdUl4bUdaSTlBTm42Uy1aQWJMUWwzSk9tMkdqcnpVdG1xUnVGcTh1dk5uWFlZOFdFUkJ3blRJWUlWYWlGc1R4T1QyN0VYTExmc1ZpZ2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Buy or Sell OKTA Stock Ahead of Its Earnings? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX2NCWjZCQ3dQQWotZ05zcTJDSDNOeS14X3EyQWdLYXJ5Qm9fbEY4amVoZC1uY0tDcHNwVHpQa2taUWlNMHlhN3FHcjN6WnVtckNYT280aFRRc1dIOWg0YjhPQmMtRTVjengzRU14Z0xnbGlqRUVrUVhDMmpacmROeTRjWC1JeHlkMFhoWnRWTHpWNDNUWjBXYkoxS3pIUE5ZYWpRSEVNN3dNQWd2MnJPNGtFZk8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "OKTA vs. Fortinet: Which Cybersecurity Stock Should You Bet On? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUHg5dUlzNlFSQ1hhRklGNnR4VGQ2VWZMdVgxQ1hNc0NTRmctWmlDU0xBWXdwSEU4MU8zcFZuS1NseWxfRVVwZ2NMNmJVcUpseWVBLTlBRlBUbnBzbzhSdFoxd3FjOW5oMnBrQ1gzVzNmU1Y2MVVmYlQ4eHJNbWVENDRMVk5qSHF4ZGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer Thinks Okta, Inc. (OKTA)‘s “Numbers Will Be Tremendous” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IUWRyTUhOc2NwUXh4ZktSYlZaZ1k0NDdLQWhkTXlXbjFGcElkSndVUGRCZFRHU216WWFTNXB0ZDR4SjAtbzJWN2NmcGdVdVBQMmdFYzJkOENEQ3hlWklJbTk1NnBjU3FaREdWTHhqa3ZBRVNfS0F2YzBSUXE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Okta (OKTA) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZSk9WdXZUdG4tZXV1blpzVi1lcVYzdV9UeTdoeXlpN1BwbDdtZzItalB0dHVTT2FBV25CYlQxVTlhZ2ZkRG5PVUxjbmY3YUkwQ0ptbHNyTE85R2ZPaFZIRHYybnJ5ZlAtV19GQmVvcUZYZ1Q4b280NUsxdUk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights CyberArk, Okta and Qualys - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVzZQQzlueVViOHBOLWpERkVPd1ZnOHF4NTN0eUlEaHFOVGMtN0VvSi1zdk1FNUZ6RENmX1htX1pYcEc0MWo5MkNtb3dKcFVucjBRY2FWMmdtOVlxYUVUY20td0VDVklVVHM3eVlObmdBUzMzbGNPQ3ZXQ2IxQ1doTnNtY2xVcWtyWVd2VQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 80.85
-      },
-      {
-        "date": "2024-12-03",
-        "price": 81.71
-      },
-      {
-        "date": "2024-12-04",
-        "price": 86.11
-      },
-      {
-        "date": "2024-12-05",
-        "price": 83.51
-      },
       {
         "date": "2024-12-06",
         "price": 84.79
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 104.54
+        "price": 104.73
+      },
+      {
+        "date": "2025-06-03",
+        "price": 103.58
+      },
+      {
+        "date": "2025-06-04",
+        "price": 105.6
+      },
+      {
+        "date": "2025-06-05",
+        "price": 104.18
       }
     ],
     "current_price_data": {
-      "price": 104.55,
-      "change": 1.38,
-      "percent_change": 1.34
+      "price": 104.18,
+      "change": -1.42,
+      "percent_change": -1.34
     }
-  },
-  "news_sentiment": {
-    "summary": "Okta stock has experienced mixed signals in recent news, with some analysts advising to buy, while others are concerned about the company's guidance due to macroeconomic uncertainties.\n\nInvestors should monitor Okta's earnings and revenue reports closely, as well as any changes in guidance, as the stock continues to trade down.\n\nIt's important for investors to keep an eye on the broader market and global economic trends, which may influence the sentiment of the stock.\n\nOverall, investors should carefully consider their investment strategy and consult with financial advisors before making any decisions based on the current market conditions.",
-    "sentiment_score": -0.6,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.6,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

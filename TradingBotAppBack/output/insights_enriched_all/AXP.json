@@ -2,55 +2,163 @@
   "ticker": "AXP",
   "name": "American Express",
   "sector": "Financials",
-  "market_cap": 206778843136.0,
+  "market_cap": 207661580288.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 20.611034,
-    "PB": 6.6309447,
-    "EV_Revenue": 3.332,
+    "PE": 20.699022,
+    "PB": 6.6592526,
+    "EV_Revenue": 3.354,
     "ROE": 0.34273,
     "ProfitMargin": 0.16561002,
     "GrossMargin": 0.64315003,
-    "DividendYield": 1.12
+    "DividendYield": 1.11,
+    "DebtEquity": 170.351,
+    "CurrentRatio": 1.574,
+    "QuickRatio": 1.568,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 13262000128,
+    "FCF_Margin": null,
+    "ROA": 0.03727,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 60.29941607854475,
-    "Momentum_10": -1.4697046447871829,
-    "MACD": 6.048318249137878,
-    "BB_Percent": 0.6237876566139208,
+    "RSI_14": 60.37177290713632,
+    "Momentum_10": 3.5944051675863196,
+    "MACD": 5.6080710631886745,
+    "BB_Percent": 0.5920471071652363,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8875836685931117,
+    "ValueScore": 0.8845185477789408,
     "QualityScore": 0.3630697094290539,
-    "SignalScore": 0.5755544932085386
+    "SignalScore": 0.5187973467138312
   },
-  "volatility": 0.0239046813453154,
+  "volatility": 0.023909339860131,
   "beta": 1.254,
-  "return_6m": -0.0179777101737731,
+  "return_6m": -0.0081082212708942,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 26,
     "target_mean_price": 295.48114
   },
+  "news_sentiment": {
+    "summary": "American Express (AXP) a récemment fait l'objet de mouvements de vente importants de la part de plusieurs grands investisseurs institutionnels, notamment Salvus Wealth Management LLC, Douglas Lane & Associates LLC, Baxter Bros Inc., First Hawaiian Bank, Prostatis Group LLC et Sentry Investment Management LLC. Ces cessions massives pourraient indiquer une certaine incertitude ou une prise de bénéfices de la part des investisseurs. Néanmoins, malgré ces ventes, American Express continue d'attirer l'intérêt des investisseurs individuels, comme en témoignent les achats de Merit Financial Group LLC. La diversité des opinions des investisseurs institutionnels et individuels souligne une période de volatilité potentielle pour le titre AXP, nécessitant une surveillance attentive de la part des investisseurs.",
+    "sentiment_score": -0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "American Express (AXP) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUd5QTUzMzBkaDJvOFp2di1MVnpuTHREZnpHZGhqZ205NkJrb2VCX0RBNG5jMk1Ec1c5eUJlVmd2ODFFb2FYenVOUk9seDZiWmRXZHZDVkh5MlZPVFE2bE94ZGdtM2hjRTBYN3ltTUk4c0NNVWQ0TUdrUzZYSEctUW5BVXM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Salvus Wealth Management LLC Sells 4,084 Shares of American Express (NYSE:AXP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRFZxRjJZVmt2SEJKMEpEZXkzbURvQ25uWXVrZDU2dTYwTkYyc0ZxbHVYSmVVZ3FPbjhSRjk5MXVSbVFmTFd6WW1WT3VtTkk2NW1DckhnOWdGV1hxb2dTSTNTWDFhT3RYZ2h4OFlyMjhXemx5ZnNuTGFDd3RMdW11a3pzR2ZRdnl5bmVCV1ZZdzE3cUk2b2MwOVRMYVVkbUJnMXlWN25fa1ItbGFDdjZfRndKUTgzWnYtTjZRY1VRMUVRQnR2VXhZekZuY0x3dXlw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Warren Buffett Stocks to Buy Hand Over Fist in June - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ09qa0UtQ09jbGVJM1dYaVpRVUtyWU5WQmRBZnlWZlFBYWZTaExvLURJRVFZLUx4aEMtbGdzX3FKNmpuUnJ5NHQ4cVpfVjM3NzkyWU9PZUp6NzNhSmgtRVZKTU1KRVFqaEQxNDRFc1I4MFlsQ0NlUDEyenJydnJoc21rdkpMY0E5a2NPUnYxdWZxcVdBQ3RYUg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is American Express Stock Outperforming the Nasdaq? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1ZZbC1NRGpNNWNOblY3dnRqVXBmVHkwVWoxUllJOTJBRnkzLURpWjRDR2t0UmJoTjRQQS1EWmxpOGpfc2ktWjNhTFpjN2pURlcxczk2OGptT1dmdGpsdGUxUFl3MXZVcW1fY2VKUGJFYjZoUGliQXpGLUIzYkpKbUc5cTFBSTBiTTJGX3A4QXlwTlY0MkJ1eGNTTjZacjZOQmxDU2JnYw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "American Express (AXP) Stock Moves -0.14%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWlBRdS1feHRNN202UHBScUtTUXZ6SW5naFZ4d1pFSmZmLXRIZy12TGFrMm5Oc21TeTlCU0VfcW9fZ0dNQ2oxX2JHSUozTkJkRVU0MTl5a2NzLXAwa2RYS1pVX2I1VG1IWkNTTUtZZ2VYeXBxSFJ6UUtOWVJpVW1sVVVSS05JVEstSVZtNVZzeVRZVVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is American Express Stock Outperforming The Nasdaq? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE85SmRxcHRCbnQ5LTBVMnZCSlBIbXJUUTF4YnJkXzVRLVBaRDU2Z25odmh3ak9wYWJ5Wjh2bHhGUk9UWlBCcFgzRjZEYjBOZVFaRkhweXpKYnpXWjJRUTB1Zk1QWGRTLWY4RUhDT0RsWTRSNXIxUzVaRjV1bzhaWnk0LVRselZrYlR0N3NmRkUzUlFVNk5TazkxZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "American Express launches exclusive lounge in Montréal for Formula 1 visitors (AXP:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkZCNVNHQWtHekMxTGtPMmNTeWs1b3VhUHVkZmxFU2pTWkdOUW5jYVN6aTlCN2NSUC12eVJyLWYxOUpHMDVNUFJGVG1sOG9DZXBLYU5TbnctczZHT2V5U1AxNHJhMUFkdTUwdGloemVuRlJRd2w1V3A0UHplRVBUSmlFVF80bWoxMTRkY1F5NTY3N1diTENjRERjV1lqb0s0LTBRbTJ1TXNzVkZfbThneUpOejA3Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chesley Taft & Associates LLC Has $28.33 Million Stock Holdings in American Express (NYSE:AXP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUXYtZFJtSklRV0hNV1laRnJkdGRXV0lUd0xfcUNTWU9MckhGdlpkalJFeFVSMndHS1cxQnBuRXdZWVpLbWFCemxvZTAxay1wdVNldHVKeVJoLWtJdkwwMnlTUlhrcjRyTFBhTzltMEJyc0J2OXpnVXZtWEhCTWt4WC1lVDlHWU8waElVZ0d5VnJIODUtZy1MbXVzNWpnZ1NCc1FqZjdhZTlQRnNRSUxFZE9mUmxWajJ2ZnBGOUhuZVo5NF84ME5zM013OW55dXZ0UkNPSW5OSjZCZmN0UVp2SkJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Express (AXP) Stock Moves -0.14%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1F1M0tpN3dMdFZEcnM2amtNOVpnS3hXNkxfdHdCZzA2cEFVYWJ1M05uOXIwbkJUVnNmdl9vSW1xVUpOMHpNWEdab0w2elprd0VFc2VrXzVXWGd5d1g0cXBqeTBQV01mMjBVbXlMdWpWdXFJRTdnb3FhWlRocHlJRDRiWWw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Best Warren Buffett Stocks to Buy With $500 Right Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFAxeVgxZzg3UE0ySWE1SjIzOHF4bmM2eURibmxGc1QtTy1sRklwRVl1b2FLLUtUazNWNTJLa2x1ZHdFVFFReGJZa3lNQnVXaXhQN3pPQV85SUlza1p5SVk1TXY3OTRwYTlhdHRwRlNkZV9PMHdOUldtN0hCZVBzVl9IM2JZT0F1Rm5iSkhNQTJtUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Express (NYSE:AXP) Shares Sold by Douglas Lane & Associates LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2lIRVc1QzVtdUgtZ0o3ZWVoMTNRdi13V1pPbnJ5VlN4Q0NmSTRWc09XbVBVUTZTRkNrWUV1NWE3RUp2Y05CNU5Zc3RrR1BXOEVLbHQ0cGlfcEhvY0wwVU5pTXA1RmhVQXNfbG9IMmhGTV8zYmd3U3lxZlR2VkFJR1hnc3NaajVKam1TWWlwcWdkYkpud2FmUjJfbm9mT1ZwSmZiTV8yUjBpTUlpYWtYWjJTN0FqN2xSa0FQa3dITGpyX0ktbVlSN3hNMVEwZU9PMnhqTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Czech National Bank Has $34.30 Million Stake in American Express (NYSE:AXP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXMwTXFVbVktRmN2VmhROUtZai1qYUp2eVZZSk5UN2cyb2FNUXZsZUtkSmVsNVI1UWMzOW5FNUNDTkx6d0Y0T3ZNYmFqMUxCTVNJZFFoLW51YVdJWXI2WXV5anJSSXdkV1p3dm5KUTF2NjByWm0weEVLS0hjN2Q0a0pSdXZ0V0Zra29uQk85LXJZb2xyWVRFMXhYek5SVXBjNmpidjF0QkJ6NjBtd0NsdTVkbDk3bUVJYXgzOTlSWE0yR0toZlUzSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Express (NYSE:AXP) Position Decreased by Baxter Bros Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTJubmtTeTdtbTR3OURQMDdGZVM3OHdrUnhPTHNMdnBqZU9PT0JRSjUycDRWbUtsbUJ0T1FrS1VTdy1PRFBKU0pxYmtwUDM4V1AtREx0V1FlZDFaSkgyZWRNYWxFa0Z2R3FKVFdLQkhiZnp1NEZnVnNDVjc3U04yMUlTUmRIV0s4S2dpZndWN2FTYjNlSVFUU3owdnJmblVnMERfNG9nSTRxYm54eDAtTXp0UTZsZWxWVEFIUF9PZEV5bHZUU1c1ZQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "American Express (NYSE:AXP) Shares Sold by First Hawaiian Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWlBMDN2eVJfbFpHVzVFNFJlQTFyZ2tIOTNocW5mTDh1ZnJXRlBZdndPaHhBTU9PNWU5cld3ZFFHNWE3TWg2NzczS0hOSjRaampSSUMyMW5lR3l5ekhVczJuLWdqS3BXWFh4eDZNY0I4VGVjSTJJcFRobjBkdEU4UnBOeDl1dHVxelBEQmlWZVB1eW1WaEFQQ0NzbF9HU3EtUW1sZzBONm9JcTc1OVhjeXJCVHhiN0VqSFRNSw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Milestone Asset Management LLC Sells 8,816 Shares of American Express (NYSE:AXP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcThSOHpPNUxZZXpKWGVEUE1EZWR6T0dPOXVlSmYtUTNNUDhMZEFCY0xGWTdmRjZ6X251a2dEdlR6cTctTTZWeUJNUmJ3aDZwWXZjb2hoblFWZ0NfZ1JDSklrdWR6VmVMQXRLaHVra2Ywb0lkaHdPQ1dBNkpmbGsybmpIcmlqdWplT2pHUVYzVE8xRmlmNEVoUEM4MzNZaWw0di1QdkVmR0VXZTJqdnBwTkp2bHNzTzVKelE3MnhWN05WT0l2azQ3eDhSNzBuVHliSFdKQ0dOWE94RjhLZnM0Wkp6Wm8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Park Edge Advisors LLC Raises Holdings in American Express (NYSE:AXP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLS1Pb1pucHVkZTFha3lEMl8zSFp3UnlLRlY0MnRCaWRITU03Tnl4d1VzRVlLMmpYa1pjYVlzNEVpLUFUa3FET016YXViVUlBLTFHTDdFNGRHM2MzX0dpSV9SVVpTMFJaUGZydnFiemFENC1LUHRnQk9HQUszX295eTVJQkx3bjdZUkVxNUh6bl9YT1pHZ3g5RmR5U2pGblR6dnBWSU9KS0MwcV92ODc4OTVQVFQ0bEFOallWcWxVaFhqWlhBNWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "American Express (NYSE:AXP) Receives $296.05 Average Price Target from Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQl9zekYzN1JiWEdROGRpcUlWRWEwd0pwUWZfcVZzd3E2SllaejNlZWpwaFMyT2k2a2p1STl0QkNWZjRsNklwTVhWSWo2bTBPVDFrczZqOUZPeXlvMkY5emhTamdneUF3RUNkSTF2endILXRIdFl2enBWRVM3b01pLUNSYV9EQ1IxYWRBbmRjbVppNVgzTmJGRTBmR2dqWThsYnJNOXJUVnJWRWpuM0VEMEZVa2lfeVh5LXc3RnZOZXkzd09lV0YzWmk4N3k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "American Express (NYSE:AXP) Shares Sold by Prostatis Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUFIaklGNUdtZk1Wd3R5d1A1Si1DWUNKdWtiSF94UkZSUU1rRVhZWXFnVWYyX3RaamRJaURPMTVrQU5ab2t1QVplcGhXaEFYR0FHa2d3WkVBUzhzTVE0MThqZFk5cVNMNC1IU1BEU3RjaHotdnBSbVFRaGdnQ0s5YlFxVW5PaUwzS2NXMldGb29JUzN3TTJrSVl3aEt1YXhSZl9EVEMxWDlTd0htSDZ0YXRsZmVLUFBXZ3dLMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Buys 2,819 Shares of American Express (NYSE:AXP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVnJOZzNKZXczVmt3NzJfQ2JkQlpEd0tQdTBDWmU3Mmhzd0RUTGFfTnVWckotNHRJNHN6TG54RFdud05NalFuS3VBWVRCVTFwRlZTNVFSSFk2OGtGWFdVWkVYWHZEeUVGbHdSWUZ3Z3lUOS1VVmhFeWc3RjBPMUV2c2tUa3RuV3puczNwanc0QTFabnNuaTAxamw0bUJGN01PVV9QXzhCS0NoT3ZYdThuU0hMQXlkVkF1MENhcjlKYjlfdlFfZFJwWTVlYXQtV3VUdC1fTjdR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sentry Investment Management LLC Trims Stock Position in American Express (NYSE:AXP) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHJqQ3IxcEFHQ1c2dGZOc18zaTRrWXBQdU5OOEZSazB1cVpmWHRFLUsxcGZYZTlMY1lRdDkwdEVDdFE2b3lvaEpCWjZjMmc0ME4yaC1MbVctZmk2cE9NZ2NSTU15bGFGdU51V0hwdkNDVE9JdVhoM1ZYOVRBN0FwY0tLdjJ2WWgtaDg3aDRmVzZ2UjBRT3NiZEhBQnRaMnpzS0dyNGZOZXNwTWdfM1dZV0hVcXBvczdWMHFzZUhxWnVuc3NkbkpYa25tYWw1VThBTzdMZQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 302.26
-      },
-      {
-        "date": "2024-12-03",
-        "price": 302.11
-      },
-      {
-        "date": "2024-12-04",
-        "price": 302.6
-      },
-      {
-        "date": "2024-12-05",
-        "price": 300.53
-      },
       {
         "date": "2024-12-06",
         "price": 303.99
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 295.49
+        "price": 295.33
+      },
+      {
+        "date": "2025-06-03",
+        "price": 297.39
+      },
+      {
+        "date": "2025-06-04",
+        "price": 295.93
+      },
+      {
+        "date": "2025-06-05",
+        "price": 295.96
       }
     ],
     "current_price_data": {
-      "price": 295.49,
-      "change": 1.6,
-      "percent_change": 0.54
+      "price": 295.96,
+      "change": 0.09,
+      "percent_change": 0.03
     }
-  },
-  "news_sentiment": {
-    "summary": "American Express (AXP) stock has been performing well, outperforming the Nasdaq in recent news. The company has also seen interest from investors, with Wright Investors Service Inc. purchasing shares and Rhumbline Advisers trimming its stock position. Additionally, Milestone Asset Management LLC holds a significant stock position in American Express. The positive sentiment towards American Express stock is driven by its strong financial performance and growth prospects. However, the stock market sentiment may also be influenced by global economic events. Overall, American Express appears to be a promising investment opportunity for those seeking exposure to the financial sector.",
-    "sentiment_score": -0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

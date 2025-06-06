@@ -2,55 +2,78 @@
   "ticker": "4661.T",
   "name": "Oriental Land",
   "sector": "Consumer Discretionary",
-  "market_cap": 5214948032512.0,
+  "market_cap": 5218226929664.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 42.140114,
-    "PB": 5.3358283,
-    "EV_Revenue": 7.465,
+    "PE": 41.666668,
+    "PB": 5.2821684,
+    "EV_Revenue": 7.313,
     "ROE": 0.12887,
     "ProfitMargin": 0.18275999,
     "GrossMargin": 0.40213,
-    "DividendYield": 0.44
+    "DividendYield": 0.44,
+    "DebtEquity": 27.283,
+    "CurrentRatio": 2.227,
+    "QuickRatio": 2.086,
+    "FreeCashFlow": 62452248576,
+    "OperatingCashFlow": 195387998208,
+    "FCF_Margin": 0.09192616427553375,
+    "ROA": 0.077010006,
+    "PEG": null,
+    "EV_EBITDA": 20.916,
+    "BuybackYield": null,
+    "PriceToFCF": 83.5554691567876
   },
   "technical_indicators": {
-    "RSI_14": 50.35796410406245,
-    "Momentum_10": -1.7901234567901234,
-    "MACD": 6.54245726467434,
-    "BB_Percent": 0.3554632953372644,
+    "RSI_14": 47.47649904723569,
+    "Momentum_10": 1.1235955056179776,
+    "MACD": 2.603946522620845,
+    "BB_Percent": 0.2801362327389861,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.872429636846156,
+    "ValueScore": 0.869958854972751,
     "QualityScore": 0.4156915126869226,
-    "SignalScore": 0.6283799042068137
+    "SignalScore": 0.5995262040812945
   },
-  "volatility": 0.0179586977674957,
+  "volatility": 0.0179417280512708,
   "beta": 0.564,
-  "return_6m": -0.0856693881158863,
+  "return_6m": -0.0798271880313633,
   "analyst_rating": {
     "recommendation": "none",
     "analyst_count": 13,
     "target_mean_price": 3868.4478
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente fait état du directeur Michael A de Forrester qui a acquis 4 661 actions, signalant une confiance interne. Par ailleurs, l'article du Financial Times expose le contraste entre les prévisions pessimistes et la réalité économique actuelle, potentiellement rassurant pour les investisseurs. Enfin, Rheinmetall envisage une reprise des usines Volkswagen pour produire des chars, une initiative à suivre pour son impact sur les marchés et l'industrie automobile.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Director Forrester Michael A was granted 4,661 shares (SEC Form 4) - Quantisnow",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNjhOaVdTOVdFdkRmQWdUX2FIbXpFQnc0NlFwVUpYVTVDajZPaHZITjRNekNZSXQ2QnNudzZDazJhVVFvUVROdzc4OTg3cTZyMjEwS1RGNDl4VjgyMTlVemFIT21BS2hfZ1VPUC1ZZnIyWl9DV3dZOWxPS3pfZk1RYlR0cUZSejRPTkd6a1FPZ3pDdFFzSEN5dnBaaGgwV2l2TkRObw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The doomsday that wasn’t - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMkFKa3R3bEtKbnRGWTY4UDAtT3FZQVRucnRrczN4UkRqczVWUlc0RFR2Q2YwSlhIcTdfekIwZGhILVJ0cEZOYzFMWVVpVlVMMW1MdmpUazNxck5GUTRLM19Pbm1sQnp4Mm82aFh6ZXA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rheinmetall says it could take over idle Volkswagen plants to produce tanks - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wUjlQNW1tZ011M1lGR1czS3k4QUJxTVVFMm9nWk1feWtPWi01RFdqQlFiLXpQR25iQVZRa25NT0g0T3V5OXMwUktJMzhGYjdCNy03M01uaUh4Z0pNZC1hM1owUDhMLTljX1pmTEhwYUo?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 3488.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 3490.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 3441.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 3431.0
-      },
       {
         "date": "2024-12-06",
         "price": 3426.0
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 3182.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 3191.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 3184.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 3150.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 3175.0
       }
     ],
     "current_price_data": {
-      "price": 3182.0,
-      "change": -31.0,
-      "percent_change": -0.96
+      "price": 3175.0,
+      "change": 25.0,
+      "percent_change": 0.79
     }
-  },
-  "news_sentiment": {
-    "summary": "\ud83c\udfaf Synth\u00e8se de l'actualit\u00e9 \u00e9conomique r\u00e9cente concernant la soci\u00e9t\u00e9 Quantisnow :\n\n* Le Directeur de Quantisnow, Michael A. Forrester, a \u00e9t\u00e9 accord\u00e9 4,661 actions (SEC Form 4).\n* Il n'existe pas de signal n\u00e9gatif ou positif apparent dans cette information.\n* Il n'existe pas d'\u00e9v\u00e9nement marquant apparent dans cette information.\n\n\ud83c\udfaf Synth\u00e8se de l'actualit\u00e9 \u00e9conomique r\u00e9cente concernant la soci\u00e9t\u00e9 Rheinmetall :\n\n* Rheinmetall a d\u00e9clar\u00e9 qu'il pourrait prendre en charge des usines Volk",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "SNV",
-  "name": "Synovus Financial Corp.",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 6578094592.0,
+  "market_cap": 6617018368.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 13.329577,
-    "PB": 1.357274,
-    "EV_Revenue": 3.537,
+    "PE": 13.40845,
+    "PB": 1.3653052,
+    "EV_Revenue": 3.52,
     "ROE": 0.105270006,
     "ProfitMargin": 0.28671,
     "GrossMargin": 0.0,
-    "DividendYield": 3.26
+    "DividendYield": 3.28,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 848856000,
+    "FCF_Margin": null,
+    "ROA": 0.00916,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 52.83521380214091,
-    "Momentum_10": -4.346071301447904,
-    "MACD": 0.7868731694844868,
-    "BB_Percent": 0.4500288840889597,
+    "RSI_14": 53.30002515862809,
+    "Momentum_10": 1.4060499930150567,
+    "MACD": 0.6588818743320815,
+    "BB_Percent": 0.3894944050911207,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9333528727138194,
+    "ValueScore": 0.932176501876153,
     "QualityScore": 0.3337358753604654,
-    "SignalScore": 0.490105853947462
+    "SignalScore": 0.5317150195012856
   },
-  "volatility": 0.0269783431144068,
+  "volatility": 0.0271823581430421,
   "beta": 1.2,
-  "return_6m": -0.1517254952269636,
+  "return_6m": -0.1329359503850837,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 18,
     "target_mean_price": 54.72222
   },
+  "news_sentiment": {
+    "summary": "Synovus Financial Corporation (SNV) a récemment accéléré son expansion dans le sud-est, notamment à Atlanta, avec l'ajout de 30% de nouveaux talents bancaires. L'entreprise a annoncé de nouveaux paiements de dividendes pour ses actions ordinaires et préférentielles, tout en maintenant un dividende trimestriel stable à 0,39 $ par action. Les investisseurs ont apprécié un retour sur investissement remarquable de 173% au cours des cinq dernières années. De plus, des signaux de hausse des estimations de bénéfices pour SNV pourraient indiquer un potentiel de croissance future, attirant des investisseurs tels que Mackenzie Financial Corp, GTS Securities LLC et Voloridge Investment Management LLC.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Synovus Accelerates Southeast Expansion: 30% More Banking Talent Coming to High-Growth Markets - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0dpZzFpN043UF9mNlc2MUpKQWE1SEM4U0Zwc0s3VEQ0QWxibEJaUDg4akdZeXBmbFM3R083ajR3dGJHYmZCN3hBQWh6OERzekUtNGFLNUh4WFhLUkpjTFBpY080UmlkUEJwM2tVRmIxRXVwNFZieEhXbUdibFFBU2hJRzduZGcxY2RHZWVFNE1nOTUtV3ZiSTl4TnVueld1TUg2M0pPUFpSM0lFaVJiWXdn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Synovus accelerates growth in Atlanta with addition of new talent | SNV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU0Nfck9pb3JicW1LaG14VWRUNmZTZlhkay1iS3BWR2xmVC1QMGppRjcxTVJsZzFEd0xQMGxaZTF4QkJ1WUVHSUFWblEyUFVfWDYybEpvTHh0MDEzRHdXa3NhVGZsMlVySTFSY3JQdmo5eHpuc2VEOXhxTWhSZzg4OHBFVmNzdnNJc2RURUtVQ1JKa3gtT1J4Z3lwSlBZVTBpNjh6YV9GSUdMd09fWVdoWnViYy0wbGtpaWR5NG9vRGVvQ0JGZUVaa201OEZTbWxCWHBiQzdzNnVPT3J3REx1S1Q5Y1ZyVHFXYXdpaHpfcUdXUk1iWDJ1Q25zckNZd091VHc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Buys New Position in Synovus Financial Corp. (NYSE:SNV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQS0tCc0hqc2hNS01TXzNyM2gwcnJYcHdBRXptZmpfb3M1T0toeVRpVjgyMVVyMkw4cHk5TDZuVl9HLTZsWG9HbDNNcVc3OGYtTTRZbW9mX0hUS0EwY09fWGs2RXcxV3pWQUNsN0oza2daR013dTdIZXN1d3FKQkpGWXI3YWluLW1nSUhoWEVrc3BweE5JbGVtVVQ2R2E1cGhucU52ek9TOWc3dk5sc0ZWeDBsblBfLUw5LU1ucG9BUnBKQUdRR1dTbFljeS1XakVyOHdGc1VzTlZyNnpQd2J2VHN5V1dEZ1VoeWNiN2pCajlldw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Synovus Announces New Dividend Payments: Common and Preferred Shares Distribution Details Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHlIY0hweDlGX3BHQWt4bzhkSmR3OVdlWll3NnhLVFZ1TEhrR3pGYm1ISDQ3SFhzeFFaOF9Pc2FucVUyYzRCYlJGWGdjVDJaNlI3cXFCR0o5aXk2ZW5XelZsVG5ZdG1PUkFWNWJTZWgwdVNVV0NseGJ6QkZuX1Nhd0R5dDdsM01C?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(SNV) Trading Signals - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVo3NTJxRlpJQnZSbml2M2lIV0kzQy1Td01fWE1kLWM1ZHpxejhKQlYzeC1mYXdvMnR4V0NhaWlnUnNnejhkUEFzMDA3dkRnTGdtZlFhMzZ5OHV0US1IOXh4aEJ4OGtYNVBmcDItQm8yX1Ryd29GSHI4SE5laUpIVG1ncGVrbUVVREVfSVRlNGRFSk5pQzZKUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SNV vs. FBP: Which Stock Is the Better Value Option? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ycTdZdjdtQnZhekVSX2JIN29KSGUtV2tZNjN2VTZZdXdFcVhyTlJjWU5OUEwyTWVjMFh0NUx0cG1mdE51VFVaUjBseTBVSjg3T2NDc2hjRFhjcTJwTXdqYkpVeGpNeVF6a1M1TmVlM3RVT09yc0FVTnhzWFd6QWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Synovus Financial Keeps Quarterly Dividend at $0.39 a Share, Payable July 1 to Holders of Record June 19 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTWxHRUZGWU8zc0MycVdVYXd2UVpjNGxvcFI0bTRsRm4tdXdUcWxEcmZUT2ZxSEFnOEh6czBtVDBXLXVXMFE0ekd4VmRGMlpsNGRra0dWMWZXTU1IM2Zxc1dMb0laNWpCTDRza1UySnItS29hQnBWV2FrMmtBM2ZGaW1sOEdzS1htV2hfdHIzT0RJVXp6MG5haXB4a21pVTQyLTdDLTJBZEZRSlgzX0VPTkpjZGVKSWtmQlQ2MXBOZENYaTdZQ21HS0RhTEc4TjZiWFlTZ2JwZ3lpZVZhMk9VZjhkX1M4NnR4bGtRSTFvaFVpX2RUVmI2MU9ybmZFN2dCb09ieDIwOFdXeDBnN3ZET2RmZjZOZDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Synovus Financial's (NYSE:SNV) investors will be pleased with their splendid 173% return over the last five years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVXhRemI4R205Y2Zkanc2REg4SExaS1dQMGxkZnp4REZsYW1YdmhkV2pOb2hqbWIyazRaLWw1UkxtTmthUTBfVXRmbFJWMWRSUUYtejRMTHA1SXFYYS15Z25feGFGbTdXQVhkQ3BsNkFtcmZ6X2loVnNURUljOVVWc3Z2T2pydlRUZmc4?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Synovus announces quarterly dividends | SNV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX2NCX2ZmaW5Fdkl3NjcxeXFuSXVHV3IwU1IwT0xVbklaOFhMdlE3dnVqSWd6aE5jRkdBdG5vd1hqRlJyQUpmbE1ka19tTEdqNXV5X2p4UW1NWjExVTkwVjdoN2FWclZuMktWU0NLeDIzbXdzMm5hdFl1aDJ4amNXTE5vOXpQcURoNXVSRS1uWmh0U0xtNUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Synovus Financial Corp. (NYSE:SNV) Shares Purchased by TruWealth Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTF4N0M3U1N5cUZvRXJZTEh2dDBIcXdFc2xIVUkxQjZOQm9JSXRMT3VsSlRPMXR3aFZJSnBlRXBibnV3bjRONU1JVDRYTGpYc2dHUDJ6LXJIVGZCZzI2cXRtdDRzbWpvOFRiemhBS3NmNlBMYVl6NEpDeDJxODlIMXNrMHZFMG9WcWhKYVVtSTNYYnBnSm9vU0JPWU44a0V4VkRMZmpKR1FsajhXLWFjVDNfREpDVms1aGxWQVJucDZFMHBmeHJJMGZKYUxyQWs?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Surging Earnings Estimates Signal Upside for Synovus (SNV) Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDVxUE4xV0FGNlU5dTV4MHdLYlRLSVpCVF9LS0tQU1lud1pVallzVGNLbU83S01DNmJnX3ZleW1FdGoyWTNwdG5PQ1pyOVhlNXVPRFlEVUpfRktoSlk1d1Q1czZWVVRwUzAtQi0wd1NERkRsODJ6OFdHT1VtQU02dENqYllXakNVQW5NY29ZY3g2M19y?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mackenzie Financial Corp Takes $521,000 Position in Synovus Financial Corp. (NYSE:SNV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkdJdHAwMURpZ1pYeGVYcTNITEZTOWdfV1BVRGNnOXlLN01CR25yakQtbGozMkxmVGZJRXJndWJ4eldYT0xCWlBBNkl3a193Rk91aFh2S0JvQk9nenN6QVFFQ2YxdFZNTXBuSm8tSXgtdll4eTR6eXVqM3dXenNmaHJISXM3OFd0UWRJOWtsYjBpTmR3V3FZanFEWmxPdnQzWTRUekZUdV9BVmhObThHMUs3RFJQek5hTVp5dlZPRldWODZMXzdXOEY4aW51ZmIyS2ZhYVpTSEM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Synovus Tackles Heirs Property Crisis: $500,000 Grant Helps Families Protect Home Inheritance Rights - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjl0Y1FkdU1pZmRfa1hYUndtQTJOdG5PT3FOTC1wT3J4cFZ3MFQyUEpNa05NVy1GUEJJSWVmeUtEQnZiR21mYTFveXkzM2oyb1dfdnFDTlpmQ3JpMnFLWDFRMTNHQlRTU3h0bmlXTG03TmZVaFJlLUZjbHlBTnhITl9SYkhQdmRRbkJxM3U0Nmx5UlJTUUxibk5td2RnTTExWW9GRXlIV0hoYktwOUhPRmJwWHZuX1BoTFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Initiates Coverage of Synovus Financial - Preferred Stock (SNV.PRE) with Hold Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkg2Ymc5aUZjakNROWVpYzdJYWR4WUV1aHBlWV9Ld1BFSmFxRENOdjVvblUtZ05hQVFOY0pEUVNDNGtTUG9aX0tTRkFCN2hvS3YxNzdBOS1ybnNDd1E0VUdabmdhS19odnVuVUM5UzNLNUVFeW1ZbzdDOXJjdU9kQmN2Y2V0X1FTZnU4Skg5Q2tBX2MzTzdGcEdSa3Q3eUlZYm5UZDd0ZVRfY0tac2RPZHJvUm5vUTQ5M2JGdGt3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Synovus Annual Report Reveals Powerful Growth: $60B Banking Powerhouse Expands Reach - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0xOOEdmTWJIVUJ3bFgxUWducVEyS05JQnRONVFnenRIWENfTFQ3dGgyTERiR3gyR3NCNHBVTmUyLXF2dHlQR3NGSjUwMkxFWFk3a0hQZ0dyYkd5ZzY5NlY2bFFSd3BZYV9Hem5CM21DcTRfNkpELWctaG16N1k3a0FNdDVBMGN1eF9aM0R0Nkc3QlJPRlNORWpnd1FUeWs?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GTS Securities LLC Has $455,000 Stock Position in Synovus Financial Corp. (NYSE:SNV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFoydHVhVm1rUVY4QkFHb3V0eExMYWNlazE1Q0piTjJodjM2WF9GeW5KLUJha1NqTU5NV3gwcWFfMThWM2dZeUxJNUZZRC1PWC1idzhtM09BcVBlV1hqaXpjZVUzdHBka1EzZkRzMEV5ZzhmVEFHa0lxcHF4VTlESDFldllZM2hWN0Zmd1U0QVZ1R0JzYm5IeHNrYXZ4MjR2SC1zZFU4UEZGeUE0a2s2T09tcHllWnJPbUpsVmFCY3JFRXBpMVFUWktR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Synovus Financial (SNV) is a Top Value Stock for the Long-Term - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY3FTTG12MkpDNjFqNnZrMDhHSVV2VlFjQ1V6eTNnbmd1TVVPOHhxcVRyTDhPbHRONGhUU1FnUEpYZnRfWS1FMHctVFVPb015ZTc3RGdiZl9KMDFGTVg5UHNBcnI4dUxSLTNYREJjTXhsY0hENksyWlBKNTVFanlwOXlSYl93TzVsOWp6Yl9B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Initiates Coverage of Synovus Financial - Preferred Stock (SNV.PRD) with Hold Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUNaUk5FbVpaNFB3QUp6Nm5iakVLeW9yTThhWFZ5SXI0czRIV0p5dVJXOWNyVkswY0ZVd1ItTHExSXlJMVN4SFJmM0w3dzczV1VDTUZTZVNpbDJ2dThBMWNUZ2JLelZhWGdoRmx6V1k0S2pDelRkZU12NTVlWGx1MlNaYi1MOHdhNG93RC1tUFFPd1VOU2xSN2RQNDBYVEQ2UTJUZHhnX1NzRldQTzlPcXgxQzJqU3hNMXFLaDVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Voloridge Investment Management LLC Purchases New Holdings in Synovus Financial Corp. (NYSE:SNV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONnVwZzYzWXY3S2JkOEVNTnVwQ1ZRbEI3MzRFeEx4dFJoeGtrOUVlSUVoYTBZaGRHeE5jUHo5LTUxRFVXZEdBeDg3SmVVZTdBMDdvanBmS1lnMXViNjhJbmNWWjV4RTdhV1RPeTFtMGFvdXpfTUdLMTJTb185RHlPbDFVY3FrYk5tMWNoaVFKNzVBZW9uZXVmZHRocE5DSGsxeTdGcElNTjFMVVZSLUlqM2FiZDMtdC1NQ2xVWVlQbG91ei1HZ2ZuY09PaDBjcjd6ckJvOG12WFZpRGExU1ZqNlh4a0JjOW5nVkJWOFp0TzdpVnN2OHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Advisers LP Makes New $1.18 Million Investment in Synovus Financial Corp. (NYSE:SNV) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGxtaU8wNm93UUc1UGRuMGZUUnZoYWpyOF84NUJLQW5BYTVfZ0RqTVRtM0ZYYjBxVDVlUmV2YWwwS3dxeURReWdXOWllSW1PaDlRZkhjOWZoNjlUWXJjRFJ2MmMyMW5kZFl3Y29Vd2U5TEFyM3NYZnJmb3Fad01QREtnMWhSaGhaMzI4SkdMQkJ1ejM3TF9sb083RGdfZjdSdnppMVFLZ3hBMkZiQy1WdmljdE8tNTFWLTU4aDQ1Z0U1eWswcVhuWEhJdDlzT0Q5YnRreHBmaG9hYXowNjhmR1dkTQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 56.67
-      },
-      {
-        "date": "2024-12-03",
-        "price": 56.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 55.67
-      },
-      {
-        "date": "2024-12-05",
-        "price": 55.45
-      },
       {
         "date": "2024-12-06",
         "price": 55.77
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 47.37
+        "price": 47.36
+      },
+      {
+        "date": "2025-06-03",
+        "price": 48.43
+      },
+      {
+        "date": "2025-06-04",
+        "price": 47.59
+      },
+      {
+        "date": "2025-06-05",
+        "price": 47.6
       }
     ],
     "current_price_data": {
-      "price": 47.37,
-      "change": -0.43,
-      "percent_change": -0.9
+      "price": 47.6,
+      "change": -0.02,
+      "percent_change": -0.04
     }
-  },
-  "news_sentiment": {
-    "summary": "Synovus Financial Corp. (NYSE: SNV) has been the focus of several recent news articles. Two Sigma Investments LP recently boosted its stake in the company, indicating a positive outlook for its future. Additionally, Synovus Financial has been tackling a heirs property crisis in Georgia, with a $500,000 grant helping families protect their home inheritance rights.\n\nSurging earnings estimates have signaled an upside for Synovus Financial Corp. (SNV) stock, with investors looking forward to the potential for growth. Synovus Financial has also been recognized as a finance stock pick with huge upside potential by billionaire Ken Fisher.\n\nImproving credit dynamics have created an opportunity for Syn",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

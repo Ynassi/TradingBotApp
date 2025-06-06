@@ -2,55 +2,163 @@
   "ticker": "GIS",
   "name": "General Mills",
   "sector": "Consumer Staples",
-  "market_cap": 29584146432.0,
+  "market_cap": 29868679168.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 11.873626,
-    "PB": 3.1931555,
-    "EV_Revenue": 2.221,
+    "PE": 11.987824,
+    "PB": 3.2238667,
+    "EV_Revenue": 2.231,
     "ROE": 0.26834,
     "ProfitMargin": 0.13024999,
     "GrossMargin": 0.35377997,
-    "DividendYield": 4.42
+    "DividendYield": 4.39,
+    "DebtEquity": 149.142,
+    "CurrentRatio": 0.667,
+    "QuickRatio": 0.294,
+    "FreeCashFlow": 1192574976,
+    "OperatingCashFlow": 3170299904,
+    "FCF_Margin": 0.06070845083212025,
+    "ROA": 0.07201,
+    "PEG": null,
+    "EV_EBITDA": 10.419,
+    "BuybackYield": null,
+    "PriceToFCF": 25.0480137795546
   },
   "technical_indicators": {
-    "RSI_14": 44.42684267959936,
-    "Momentum_10": -1.9590092692367336,
-    "MACD": -0.6849524415584085,
-    "BB_Percent": 0.4338898579137827,
+    "RSI_14": 47.14668174839037,
+    "Momentum_10": 1.9677646646369271,
+    "MACD": -0.4743886587835817,
+    "BB_Percent": 0.6020309246780335,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8938478452378201,
+    "ValueScore": 0.8908413671688569,
     "QualityScore": 0.4661224473296285,
-    "SignalScore": 0.6610049443589721
+    "SignalScore": 0.595722933722078
   },
-  "volatility": 0.0156308425401484,
+  "volatility": 0.0155748988676274,
   "beta": 0.017,
-  "return_6m": -0.1772619366856175,
+  "return_6m": -0.1508478610583488,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 22,
     "target_mean_price": 61.64136
   },
+  "news_sentiment": {
+    "summary": "General Mills, Inc. (NYSE: GIS) a récemment annoncé la finalisation imminente de la vente de sa branche de yaourts aux États-Unis à Lactalis, ce qui pourrait potentiellement impacter sa performance future. Malgré des signaux de vente par certains analystes, des investisseurs institutionnels tels qu'Exeter Financial LLC, HBW Advisory Services LLC et Welch Group LLC ont augmenté leur participation dans l'entreprise, suggérant une confiance persistante dans son potentiel. De plus, la sortie de boîtes de céréales exclusives Fantastic Four pourrait renforcer l'image de marque de General Mills et stimuler les ventes, offrant ainsi un potentiel de croissance intéressant pour les investisseurs.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.85,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Rep. Robert Bresnahan, Jr. Purchases Shares of General Mills, Inc. (NYSE:GIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUhUNmZBeVN5ZHdzT0I2Z2xrUkZRcWUwWGlWNkdmYmF0ai1PZk1tb1R6bTZlRlJKMS1yakoxRDVzVC13WDJCT2VvS1ptbVRFLWZjNzhSTUlURlVkZzZxXy12Y0FNN1UzZ1hITEV1cXZTZUxGSF9VRkFlLXZRQzMwdG55cW5HSFd1eHZBb0IzNTdweHNuOUN1czFZbThTRlVPSG5hVldaR0k3MTVQRHRiMVB4WWE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Mills to Reveal Full Year 2025 Performance: Key Earnings Date Announced - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONTZCdXF6VFFiSllRM25tdl9uMGpHOHdPOTZJZ0JKLXBJOHFJczhFZWxYU3V5N21BZnNaYVM2eDNtR2kxcUdiYkdPNm9QM28zc295WjVseVZ4VDBYRzBLaXV6Wng3UFBudU9zb19aaUtNQUpmb2Z4MkdybzZTWlRFMnIwaUo3R2xMR2xKdnFPMHdrNW9Kd0FkWjQzR2ZLOU5ZV1BKRG1FbUR0ZXl0LXYwV05kRHlWTWFYakZv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is General Mills, Inc. (GIS) the Best Buy-the-Dip Stock to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QWXcxRkQwLVFmbkVGc0JBXzd4eE1FOEZrcV93Z2F2MFhQbXZ1eW16NXZfNS1TVWdrcW0tS1dGU0Z6RFgyTHY2bHEtZVlRcmhfTU1ud3JtVTJNNHRLRV9feHY1TExyenlTYVR6WkZYeXM4UUxXVC1QWFVpOUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Mills: Safe Dividend, But I Wouldn't Be Surprised To See The Stock Below 50 Bucks - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWM5bEZ4UXFKbUpaU012anZ1aFpxckU4RmVzaGc2cGdtUmthSjJDZm5aYldPU2pad2JBRklhc0ZNdzJYclowanJiMDB0dlZhUFJ6OVZCM2dLc25rRWRDRndEQVNidzJzbC1zMmpMcTB0a05OV0FvYklhV19ZUGZ6UW41YmVTU2pERDBnQmF0UWgxRFVNLUwxcnd0Y3JpZWI0S0dUaUdaei03enQzTGZubEZKMzB4Rmg1SV92dTBzSVRGN3M0Z3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Wall Street Analysts Like General Mills Stock? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlo4MGl1NzdneGpYbDUwLUFpTlBmYklmbzBQZTRjNUcxUkdjVkxJcHgzMGF3eWhkSzFhUC1qWmNYR3hjRmNJalp1N2R1a3dpTWl3dXhucURxbXB3Q0VzQ2J5Z0QxMHF4ZWN6Zkc5WUlaUk1ZaTI4ZTdpeGRtNWJGNnVCV0M0eEItaW5WMnV1Y2R6dGdRNzJUQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Mills (GIS) Nears Finalization of U.S. Yogurt Business Sale to Lactalis | GIS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQU5ZUkdjWUQ5RjV6akNxNElEVi1sUS1MSkc4TzEtTk1MMzM3Z2VZUk13TmFwVGZaTVdidmFvTGxySjV2ekU5NGI4c2lwT2xoYU5ra3F6QXlaelpEaU9TOEdocWpOaG84MkZDeEstTmN2eHphQUlKaFp4TnhQZmRFVzBuUmhoeDhGcnNGR2YwZGpqTzlDdV9COWNLNUxyZk4tWkpDOXV6TFdQMUw0NXBnRG5xN2dyeF9GTGhhUFF5OURua2ZTWjU0d2tR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Mills Unveils 7 Collectible Fantastic Four Cereal Boxes: Where to Find Each Exclusive Design - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUEJ4aGJ2TUZPbFpYLWEtMVdGQmM1VkZGd0ljdE5zbmc0bGF1MUdXQ2hYUndGUzRSLUl5bFBEODhQY3pFdU5aNlVoOW8tYWxPYkVkLUplbGNlTm5DSkFwSklxWnJaemx6YlZteFZzZWhkVzlVTWNZNkk3OFhlVm1HVDRGWlVTVEZXc2lzcGgzVzJJeGMzWC1ZVTJYN1pfWVZ4N3dJZFp3NVZrb1dYSHp3c1otTi1IX05HYVRycg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Mills, Inc. (GIS): Among the Cheap Dividend Stocks Being Targeted by Short Sellers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRTm85aHV1ZFFHdlZSNE1Nb3VoSXJWUUhwTWpSODVWeW04VWw3T085SzNrZWF1VVBfZmw4aDZRTlN3T3pXYXRHS1h6em5zVnk2T3VvMVR3ZURuVExVenZ0UGN4RTgtbDd3Wmpja2lxQzZaVTdIWEdZaC1NdmluQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Exeter Financial LLC Boosts Stock Position in General Mills, Inc. (NYSE:GIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkV4N1kzUGZ4MGpTRlMzdUszWVA0SDRJZ1VfWVVwRHQwQ0hfN1haalotYVVwcXN1dUp2Sktha2VRRm9ncmF5ZTNmeElLRlBYRTBCdFJJaDlteENCYmx0aGFDSEl2SXF5YXBlUHhyaDRfSWp3TXo5QlUzY1VHU1M2Sm45TjMzdDB6TExyOFJCSk9RMDNGUkM1U0t4d2NCSVk0bWUzc1VkNGpPNUYtYUtVOFUxcWpHendmWEFLbDhZbTYxZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "General Mills: A Defensive Stock With Strong Yield And Strong Upside Potential (NYSE:GIS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3FPMkNRamVqeXdSdzBQZGE2akJ0SXZEMWdXV1k3RFJDVVNqQnhwZExlVm0wTmlVdTFHVE5kZ2s1cnBkaFg5a1FubUpnT2hqc2FzcDZwUmQ4TGRLay1jYmpyOFROLVVKSkkteWpvY1pxQmRfR2tHMU1fTHdBSWd2TENac1B2N1F0OXcySjRheGRTM0t3SzVpQlZXUnUyYmUtOUczV3AzQ3huS1U?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Mills and Lactalis Receive Regulatory Clearance for U.S. Yogurt Transaction | GIS Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWwydVhiRDRMeXdWSHNxZzM2cV9fTjAya0hvTHBYcXVvU1FSem4yQnhlbWxubkVUeFRGNmJvWWZSdTl0SndOZlh3MlBBUUFXM253cDBqbnhiM0ptV2tTREJrSEJnSnFObnBNczFiRjlJTjAxOWpNNXlhQkR5ZFJpdHdwOWdnWHJpRU1HbFl2LTIxUWFXRFhtRXpoSmdLYjF6Rk5mN2JWaG51aVVqVW9nS3hYZmtZRmRFUVNJQlYzbkFINHIyQXJpUjNqZ1AzRVc2UGt3UTFqQ3BuUS1YTmE3Qw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Was Jim Cramer Right About General Mills (GIS)? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFUktMMzktNmJJZTR3WGJEdG4ycEdvUVVBR3RFQW5KYzJDVmNyTlFxNVRTVlZiTzhHUlNjZTdqY0w5Z0pYT1ZlbkU0UF82M1dtT3puZlYxckV0ZGpicGxHMFlpSnlybW5qVU9xd0ZWSU9aTktqMTZjcE9ENlVOSW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Mills, Inc. (NYSE:GIS) Shares Sold by Unigestion Holding SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNnRqX0JJbGJFZG1NVWMwazdaalFRV0huZXdYaWt5NkZqTllVaTRieFV6TUl2V0poemtHSlliTnppQWNtZGxoSWhocUp0OExJcGJkVkxQSUNuWFBGa2tERTAweXVRZ1NuRkRCYUVrc1BwQkVPYThUaFloYVdCMVlWSFAxUUlCajRmdjNEWHEtLTIxTFoySHRTQ0VQYjRBVC1lSG45M2VsUWhtZGlBZ1dBdERwMUo2SHBtUWs3a3JHcWg3RWxqVW41QVgxcks0dWtmc01B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Billions In Cereal And Pet Food: The Power Of General Mills' Portfolio - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTlZFb3BKSXE0WUFiLWJ5di00OEJyTXhKU2ZVZkFEa2xLay1rVlVwMEl3R2FVNVdhRHZYdHVRZlFOb25nbGxGbzItWUtVYW84SUhiT0x2U1NNRm5SUGgtcVZxRzlLR1BwN3VQTkpvN3B1RGplUUVyTTR3eFFhSjRYRjBWU1NLbWFtaHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "General Mills (NYSE:GIS) Launches Fantastic Four Collectible Cereal Boxes With Marvel Studios - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRVFqYl9Va2s1Zy15YXN5cHlKVmpvdUVEMVEyT21JUjBSUTc1VGp2WElkWGg2YVduOGdYcVBZNTJvWUJwUFFEaDAyWk1UdXV3RWdQSzJ3M2t3TnFKUWVMVDNIaWZuLVduNTl0QmN6Q1ZvaTltdlYxVmtHREdOWFlFRzdvUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HBW Advisory Services LLC Raises Stake in General Mills, Inc. (NYSE:GIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ3VGamotNTNTYlRuZ0Jlc1pfMjR3dUg3TGlFNmJwRFFPU2Z0LXc2U09qdW5LRlpXdWduLU9MMTZxSkRLTGJGRzNZNGxzaXEwck83WnV6MTFicEdTaWp2SHQxdDg2eWZkR2tKd2xwVFU3alpBcGMxeVNidzZFQ0t6alk1RnJzX21Fc2xyVk9hRTBKNURlSTREY2xaWkFUa3RmcHpqSHZTVWF0Q0hZQXozLXZ1cFBQaENJZ2dGelBDX3FQdEFKRE91TWt0YnRPdW9WWFN4N1FEeElxczV0UUZj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why General Mills, Inc. (GIS) is the Best Packaged Food Stock to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EVFBTRE4zY3BWaXd2dFR4QktlVExUMlV1aGs3YWtxQ3RscEEyZ19vbXJLRmNxSk9vZ1NxVDBhT1Bad0poSEUzemhha3JiMWJWbkE1ZndYYkN6U0RWSHM4M3BNUFRkaHlSRURYTzlkSk9JWFNOUkVyV1R1SQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Welch Group LLC Boosts Stake in General Mills, Inc. (NYSE:GIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnhCTGFoODJzZGxoRHF1VUFsQktsLU1ncjl5LTBYM2JsdEJxWlQ1bVFxTlc5LWlJYlRpZFpjQm9OUjF6Z2VVNnhUbF9MU3BpWVFGTHZfMnpGUHljY3QxZTlzcVhaTFJDN1hNXzRZY3U3ZmlKTkZXS3hlSGVWVmZBZGVLUDNyV0VqYjBmYk1UMTZFRXdzRUdrVndfdmJ1NHZkMi1tZWtaWTNDNWlsWEJEc2F0MmdNZDFCQzRxMWVJbFpZQ3Et?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ST Germain D J Co. Inc. Increases Stock Position in General Mills, Inc. (NYSE:GIS) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGtJQnJSWHc4VFdvQ1BFcklZb2NubnBuQ2VxamNmWF9xaHhsQW5jeWwyTEdSZXRlWDJ6MTZ4cXFEV083aG1YdUwzelZGWl9mVUZYOG1EQmZvbWMtS1J6QU1hV0k0eHh4cnRSVUM4YWg3aUdQZlpJOXd1aXhJNzQ1bF83YXdHa190YmNrdTdhbVBIaGc2SVRCTm9JdzBIM25mODZ3UWNQTV80OThsamdJdWFsaWdQME5TMWljZUxuVFEyOXFr?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is General Mills, Inc. (GIS) the Best Large-Cap Value Stock to Buy as the Recession Hits? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqS25SY2FWalRyR1lFR1FLdjRyVldYVDk0UUpFWW9OVkFCVVhDdFVrVVY4UWZNRXZQZGIzN1BrSC1rUV9pQXZwUGZFSXJpU0tiVFd4UEphajdwbFYyeUlkRmU2Mk0wQWloRjdDelZMWGV4OUFrWFUxdlZvWTA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 67.01
-      },
-      {
-        "date": "2024-12-03",
-        "price": 66.24
-      },
-      {
-        "date": "2024-12-04",
-        "price": 65.34
-      },
-      {
-        "date": "2024-12-05",
-        "price": 65.55
-      },
       {
         "date": "2024-12-06",
         "price": 65.06
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 54.03
+        "price": 54.13
+      },
+      {
+        "date": "2025-06-03",
+        "price": 54.31
+      },
+      {
+        "date": "2025-06-04",
+        "price": 54.61
+      },
+      {
+        "date": "2025-06-05",
+        "price": 54.55
       }
     ],
     "current_price_data": {
-      "price": 54.02,
-      "change": -0.23,
-      "percent_change": -0.42
+      "price": 54.55,
+      "change": -0.08,
+      "percent_change": -0.15
     }
-  },
-  "news_sentiment": {
-    "summary": "General Mills a lanc\u00e9 une collection de bo\u00eetes de cereales Fantastic Four en collaboration avec Marvel Studios. Le groupe a re\u00e7u l'approbation r\u00e9glementaire pour la vente de sa division de yaourt aux \u00c9tats-Unis \u00e0 Lactalis. Parall\u00e8le Advisors LLC a vendu des parts de General Mills. Le groupe a perdu plus de 18% de sa valeur dans les 6 derniers mois. L'ensemble de ces nouvelles laisse ressortir des signaux positifs, notamment le succ\u00e8s de la collection de cereales collectibles, le fait que General Mills a re\u00e7u une approbation r\u00e9glementaire pour la vente de son division de yaourt aux \u00c9tats",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

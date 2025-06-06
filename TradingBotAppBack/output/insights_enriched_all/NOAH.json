@@ -1,56 +1,164 @@
 {
   "ticker": "NOAH",
-  "name": "Noah Holdings Limited",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 691615232.0,
+  "market_cap": 732673280.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 10.7835045,
-    "PB": 0.07201427,
-    "EV_Revenue": -0.672,
+    "PE": 11.417525,
+    "PB": 0.07624838,
+    "EV_Revenue": -0.512,
     "ROE": 0.04859,
     "ProfitMargin": 0.19208999,
     "GrossMargin": 0.50719,
-    "DividendYield": 10.25
+    "DividendYield": 9.2,
+    "DebtEquity": 0.631,
+    "CurrentRatio": 4.811,
+    "QuickRatio": 4.536,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": null,
+    "FCF_Margin": null,
+    "ROA": 0.03546,
+    "PEG": null,
+    "EV_EBITDA": -1.538,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 63.10845182168701,
-    "Momentum_10": 6.5173153076580626,
-    "MACD": 0.2178265025326631,
-    "BB_Percent": 0.9835643598562684,
+    "RSI_14": 65.2920678770175,
+    "Momentum_10": 16.21196347937627,
+    "MACD": 0.3769790094753009,
+    "BB_Percent": 0.9763840512426298,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9364834479989752,
+    "ValueScore": 0.9353089468015132,
     "QualityScore": 0.4374658874273986,
-    "SignalScore": 0.3678014872300109
+    "SignalScore": 0.3902948190303418
   },
-  "volatility": 0.0287182490322165,
+  "volatility": 0.030249684883468,
   "beta": 0.838,
-  "return_6m": -0.1724683738895145,
+  "return_6m": -0.1203336239047895,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
-    "target_mean_price": 11.821411
+    "target_mean_price": 11.86112
   },
+  "news_sentiment": {
+    "summary": "Noah Holdings (NYSE:NOAH) a récemment connu des fluctuations significatives de son cours de bourse, avec des baisses de 3,4 % et des hausses de 4 % et 5,9 %. Cette volatilité a été accompagnée d'annonces positives telles qu'une lettre de la présidente aux actionnaires et une augmentation des bénéfices de 27 %, témoignant du succès de sa stratégie d'expansion mondiale. De plus, l'entreprise a réalisé des rachats d'actions et a attiré l'attention d'investisseurs renommés comme JPMorgan. Ces développements pourraient susciter l'intérêt des investisseurs à la recherche d'une opportunité d'investissement potentiellement sous-évaluée et en croissance.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Noah (NYSE:NOAH) Shares Down 3.4% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZk9rUkJOUFFEcGF0czZneTlfZ1paYTZfOFNJZ1p1Mk1EMldQTnUxb0tleWIxSF9mWm5pcVdZQWhyOTRNdmpFd0dOUmdMU0FlMnAwUjFIYXBybU5iYlVSYkRPd1Y5N1JYTmdyYWZ6OEUxRUthRlRxNFY3YW9WWTV3d0djWm5DcGU4OVhUM3l0QlBwN0JOeHlyOE5JSkpvYTNPTjJZVQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Noah Holdings: New Overseas Clients And Significant Undervaluation Make It A Buy - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSldSaGU5WUVwODdpZXdtaE5MSHpvX2cxY05YNGctbndCTVo2NnlxSnNWOVdKajBUNkJfZHJVM1FNaXVfejJPcFJjSW51VGZXQnNyUWZWa2NvRmZTVVBBZFJ6dWhqcDRPT0dOb3htQzV5YWU1bjYwdjVzajV2NnZWUW5iZWhhTVZ2bjdpTzF2WFNGTkdWRnhySnZZQXZjSmQ3cXpJaUpkT0J3QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "George Clooney Shares What He Really Thinks About His 'ER' Co-Star Noah Wyle - parade.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeUZXQnd5ZjQ0T3Z1SGNBQnZJWUVZQjNDTzdOcWxBMjltRVhOUjE0R29pRkdadWhibW82c2FHNlRualVtbko1MFBaZjNMY2gxQmE5U2VKX2xTeklNS29mOEZKeHRtWGNsd3pLTzhfbzFmZUVWVWlXbWZOdzlGTDkyQnAtQkRHNnhianAzTHZYZllCVTRHVmdLYnF2WVM4bUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noah Releases 2024 Chairwoman Letter to Shareholders - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDJYM19fek1SVjFyM3RqaDdqUVVwcmlkVERvZEItblpnUjNqUGo5N3ZyMVVMRDlkbUFQcS1nYnRUNXdEU3pBeDFGN1ZlZFdJWTM5R3pqa3NZb1pzRFFnMHF5VVRBM3dXS2pKdTNmdUxxczJscnQwTlMxZ29zT29aeGh4bFFmdTdfelpQLTljck43bVVuaG9CWFdn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How the (NOAH) price action is used to our Advantage - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbU9XNVM3R2F4WnlJQXZxdTJjcDI1dzFXMXdjSFBRLXZDQnlfbEZZUlhfRkJZdWpmcUNIbGx1ejNTSjNDSWVhWk9IVEh2dDhFYkctc0tXbFRkVzlaNUZZQUdWVEFHdXJ2bjJTQllvSnRta0w0VnFITHJieWxzdnMzM1JnRy1xUnJQVlN5SFMtSmVOd0JEblQ1clhoTTR1Y2tTZU5tdlhiSVhkbW1oU3pUUG4wN1BhaUNMU0JYOXhQQzZBclE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "After Earnings, Is Target Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHRIWERHR0N6bzBMQ0x3SjRPQ2VMN1FRODRrM0RTQ0RVdVg4WVJVYWpaTWZKNXY3QTlQc292dEdVTEtwSTdmNW5FWFBPMDhESktUQWVGYVF5bXJGbTR3YVJGbmhKR1haQXpqSFo2OVJ5NEpWRTZWeTdIN01zOGhwdHNRZ0FkTjYwbGE3SEt1Vjd4MmQ3RzMzRg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noah Holdings Executes Share Repurchase on NYSE - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMjZPTDN1ajBmVENRcnFob1E4anV5WVVHQWFpUUNDMWVnT0h2dWR6OFNXcFZPNHp6amJlOWktVlE5ZkNKWk1YM1RUajVFaVBON3E4SHZiWXhfMHRvSjkwRG1jQ1h4RTJLNlFGa01SUmQ0cVBnVC14LWlBcW81Uk5SMlB5OGNWOXBXMkRHRUs2X1VnY2hUNk9NUU9GRXNWVTlnYWtv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noah (NYSE:NOAH) Shares Up 4% - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2FtX0RaNDhiQkpNNlRReE9uQUhwNFVIZDBxVlA5ZEc1d0RBUDFYeE1kTEF4Y3BEdnI3c292LW9TVVMtckZhOHRpVmpKd0NiVC1vUEM5SVQ0Mk9YeWI5VnMxUkU4SVJsWkhkMVhJVlpjLUZaSnZVcC12b00wX09oUDRPeUxieE9lMmJNMElzOHJfdmI5Rmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Noah Holdings Ltd (NOAH) Shares Gap Down to $10.275 on May 30 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdWtpQjJUeEZoekx0V2pDYU8tWmwtRGR4MnF4ZTBQSGhuY2FITldTakoyY3hYUXVTVjdIcmV2emV3OXpsQndrMWhybnRidEMzR0hzeUM1VnoyN2NwMmNXaElQMFNrc2hqR0FtUXNEM2hWbGU2ZHNIaElRaF8wY0I4ZUNPanQ2RXVZcVNCcDRJMVJSYk9Oc2dEVmh3MGg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "JPMorgan lifts Noah Holdings stock rating to Overweight - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVl0WjdJYUtCd3dLY0NnT3JtN1U4bHFxUFhDODI4ZmhYSGxwZkpWQVdMMUc0SjVHWi1XcG9KZU9kVzdsbFZMT3A0TXU5MklUUWloS3ZWNVBVNGxmWlItYkZ0YVY3Y3A5XzQ2R1Z2MmNwaEZMa1BzdHlsZzFEcUhTdnZJVVlfMUFRX1FXdGJFVmpMU3QwTlQ4cldoNm9YeXh2SkNnODNZSUo2dXdtSlRScHBMN3dFZw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Noah Sets Q1 2025 Earnings Date: What Global Investors Need to Know About $8.8B Wealth Manager - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLWdYYkh5bGlheHJ5VHZqU3FFQnRkbGNwN3VHWXE2N2JFTDlaREVNaWs5dTIzbGFycFpsTHVGU0xfenRuQWcxTTBXWFByMVBta0MzRVlQc3p1M0NrWFlhbW0xOWd6X1lxTThVdnN2U0NvaVh2WTZhZWJEdWNQZXFXeEoteUVWQ1ducHNVbExGa3hYSDEzS0VtZ1YzRTlYYjJDZ3Jmd1hHSmNLN01zeHFnRWtKZVRldDlva1RVX29telk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "After Earnings, Is Walmart Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1BBNUNGbm5ubDlBUWMxLV9zYloxdEF6RWs1OXFtNDFhUWRlSWU1NWRPY0E4bHJYanpUVmVZeTdVRUtmS19WbEdfV2JjeDQtZFRxX0xpeklTdW1YdFVjRGRYalF6TV9sTnNtQ0Z2WjhBVlZxcUNqVkZ6d0JpUC1XQU0yemYxaVJrYmhiOUVzWmFXa1lJQmdUVUhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noah (NYSE:NOAH) Shares Up 5.9% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeGpybHJxdV8yVkRJTzdMQURLVnI4WDBFaktmc2hnSFNCM0drWDhBTW02Mm1VWGpIQmQ1cWp6UWtxYWt1STg1ZTFPVzA4WlM5RDBYOUpWLVVMbERzY2lMM2NJYS0xYVg5bWxGNWVaMFdPbWFQODZhWnZyLWFuMXlZOU5wY0I5bDdfSGhfUDBXQ25DLXZ1bUtrcWFZTnVNNldDdGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noah Holdings Reports Massive 27% Profit Jump as Global Expansion Strategy Pays Off - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVVibndCNVJzc0NYSHQxRG83VG5hczd0N2JGcEtzZXdyb1hCZU8zbXBxeVJUNTF0QjB5cFZkVEpfZnZSMDVfd0JQODZjLTRzTi1YOG5SZG9GRWZ3dHJVaHBYX0ZrZGhmUTNORlBYaU5CR21TT3h3UXdmUmRpYVpvT2hjanhHT1ZKcFJtY21LNzRvSGRPX0FqR0R3c0F3WHpYZWxOMkUydEJwVElMaTRfT2JvSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Going Into Earnings, Is Target Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUHYyaTNBcFJ1N09XQkxDMVI1THdWMFNZbzBYZjVxRWY1cll5MGpkTkhpSlBSVHozYU1sSnhwdEJ4TmtWOXJjeFoyY0QxemJ3OHZCMFhITDJYLVFNTU1QUGtpNWEycm9rbnduVS1oakV2ZzNqYy02bGhYR1UwVzJJUzl4RXBaTzZUd2VtMkFxbksxTVFTc3BZOUktTVJUMnM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noah (NYSE:NOAH) Posts Quarterly Earnings Results - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjFoMlh6NDRDR2k3cURZNWVMcWdrOXRFWE5tdWowRGlkR2UzMEF2MUxBdXhEdHhQVlNOcmhia0syNU0teVh6NU9NcDBHYTJFV3pLVEdiQUllMDF6R3dQOXBQaE1rcVc4aFJ5ZTNGNlZKeUM0RzBXUlZibGV3TE9mLS1Pa3ZRZTlRbHlNNzc5dElLa2gxZ2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noah Holdings Doubles Down on Global Expansion as Overseas AUM Jumps 15% - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckZLTXRMdHJ3MjNvTG5BSlVXNi04ckhnQWF1SVlZcllvaWlqSlR4NGFKX2VhRHNEWGJsXzIzODIyZXNUekZvUVFfTWQtLTZVQ0M2M0N4bFBxRlJDWGhFY292dE1iWU1HVEFZTVZ1VlFVa2F4Q1hpN0o5aTVLekJsVVg5ZUg3aWx6UG9nOENYWld4ZFRUQ1FXUVV4dmdOdndDTmlnMXp4enhFMHFsSG4wcV81RlJXZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Dimensional Fund Advisors LP Buys 34,350 Shares of Noah Holdings Limited (NYSE:NOAH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTUVIdUV3M1M4VGpSNTBKX3p4UTJuS3lKLTF4VHJEeFNrQ24wRmRKbUpQSXJKcGM5RExDRlFMUE1HeDQtT2NzdTFmUTF5MDFRSE1TRHNxLTFYOVlpUXo4aEtqRW9kX0FiTGdIUkpJeDVaZ2dMQ1pINTYzSzVPMF82LV9DXzlNQlNpd09PWHhSVEJiSmVfNy01MWVVc0pZcE9RbnlwQWhXQXFjUDZiSDdBU1BNbzhleFNnWlhLelBITnhEQVJlWlRXaWJxMnpqaTE3X1VWMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "D. E. Shaw & Co. Inc. Acquires Shares of 38,760 Noah Holdings Limited (NYSE:NOAH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU2NlMW5HMmd0bjdMNXhfM0dCMzA0czJlNlcwMGRQZHpzMWpzYXA1RUUxNXNjSHY2eXo1M09DREJTaHNENDBmR2VMWU0weU11SjVsbW9vRGxxZXlVcXM4Y0p3NTY1aVZ2aDBWRUllNmt1SnJna2ZycERDb2hkMlRpYllRVElqTk02M0VIOWRaSDVCQ3NCdFpTbzZyYllkRG5fTm5VRlVPd3FoYnNEdU9kTVgtdGZWdzlEZnJ2YlVEZk5FeGxrYnduNzM3Vk4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noah Holdings Just Filed 2024 Annual Report: Key Financial Insights from Wealth Management Leader - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNlB6eTdFaTlhNVB0NG9MYnZKaG1SWHFuWmxFVUVvdkhMY1paNTRSX1BWQjlhWEY3Q2laR1ZiTDlrQVNzZXZFeEktYlZDLTRUT1hfSXNNNGpBZ0dsS0NOS29sTEduQUhXT1ZWMUxPN1JpUkdUMHVsV0JIeEZfb053TzJmbjBpcmpDMnFac3FuMUVFVDRyR2llYUNmWDVTLURuMUt3SEZCcXZoaTRoY3c0NE53?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 12.64
-      },
-      {
-        "date": "2024-12-03",
-        "price": 12.79
-      },
-      {
-        "date": "2024-12-04",
-        "price": 12.33
-      },
-      {
-        "date": "2024-12-05",
-        "price": 12.45
-      },
       {
         "date": "2024-12-06",
         "price": 12.59
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 10.43
+        "price": 10.47
+      },
+      {
+        "date": "2025-06-03",
+        "price": 10.42
+      },
+      {
+        "date": "2025-06-04",
+        "price": 11.48
+      },
+      {
+        "date": "2025-06-05",
+        "price": 11.08
       }
     ],
     "current_price_data": {
-      "price": 10.43,
-      "change": 0.14,
-      "percent_change": 1.36
+      "price": 11.08,
+      "change": -0.36,
+      "percent_change": -3.15
     }
-  },
-  "news_sentiment": {
-    "summary": "Noah Holdings (NOAH) is a Hong Kong-based investment firm that has recently reported a 27% increase in profits due to its global expansion strategy. The company is now trading at a significant undervaluation, making it a buy for investors. The positive news has led to a 4% increase in stock price and a 5.61% increase in stock price on May 29. Noah Holdings has also executed a share repurchase on the NYSE. The company's Q1 2025 earnings showed year-over-year and sequential growth in profitability and operating margin expansion. Despite mixed performance in Q1 2025, D. E. Shaw & Co. Inc. has recently acquired shares of Noah Hold",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

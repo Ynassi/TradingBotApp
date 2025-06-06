@@ -2,55 +2,163 @@
   "ticker": "PCAR",
   "name": "Paccar",
   "sector": "Industrials",
-  "market_cap": 48213180416.0,
+  "market_cap": 48600707072.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 13.93654,
-    "PB": 2.6752634,
-    "EV_Revenue": 1.758,
+    "PE": 14.048558,
+    "PB": 2.6967666,
+    "EV_Revenue": 1.737,
     "ROE": 0.19899,
     "ProfitMargin": 0.10727999,
     "GrossMargin": 0.16684,
-    "DividendYield": 1.41
+    "DividendYield": 1.43,
+    "DebtEquity": 87.159,
+    "CurrentRatio": 5.395,
+    "QuickRatio": 4.786,
+    "FreeCashFlow": -49712500,
+    "OperatingCashFlow": 4082200064,
+    "FCF_Margin": -0.001536176056199758,
+    "ROA": 0.06702,
+    "PEG": null,
+    "EV_EBITDA": 11.664,
+    "BuybackYield": null,
+    "PriceToFCF": -976.2627009303495
   },
   "technical_indicators": {
-    "RSI_14": 44.8077081072608,
-    "Momentum_10": -5.009824492368357,
-    "MACD": 0.3468020044715985,
-    "BB_Percent": 0.3405185846928058,
+    "RSI_14": 46.99356303274294,
+    "Momentum_10": -1.9983060528362049,
+    "MACD": 0.0760713027134443,
+    "BB_Percent": 0.2612253063541047,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.895170662410947,
+    "ValueScore": 0.8922907721895684,
     "QualityScore": 0.3262539840284407,
-    "SignalScore": 0.6792621322141126
+    "SignalScore": 0.6244040858930489
   },
-  "volatility": 0.0197398957912144,
+  "volatility": 0.0197939398484579,
   "beta": 0.954,
-  "return_6m": -0.181873942034842,
+  "return_6m": -0.1848860562487079,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 19,
     "target_mean_price": 101.13263
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente de PACCAR Inc (NASDAQ: PCAR), plusieurs signaux forts émergent. D'une part, l'entreprise a enregistré un profit ajusté de 769 millions de dollars, avec sa division pièces réalisant un chiffre d'affaires record. Cependant, des experts mettent en garde sur les tests nécessaires pour la sécurité des camions autonomes d'Aurora. Malgré cela, l'action a connu une hausse de 8,7%, suscitant des interrogations sur sa continuité. Les acquisitions et les ajustements de cibles de prix montrent un intérêt accru des investisseurs pour PCAR, bien que la notation reste globalement à \"Hold\".",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "QV Investors Inc. Acquires 3,185 Shares of PACCAR Inc (NASDAQ:PCAR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3BnalNZVXF4NnpnX2xrZ2ZabmljOFhEZ3lfUkZUYjkzZ2dQVVhNdUdGWVkzc3FSRHBUUk05RFZYSmV1UFFhLUNNb3UwQkVKZUV3Z2pPYXZSWHBNT1dPV3l1YUpDTm85ZjdqdmxmeGxkbDF3NV90TG1wVEhPUnN0Y24xVGp6VEwyQWNDLTZGZDNMWmp5eEhuYmNfeXJXWlYxMEI3OEc5OUc0YUxyWnlrSGFFUHJPa0wxZ2Zr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paccar (PCAR) Rises Higher Than Market: Key Facts - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUNlRk5lMzl6TEp0WXdsZU9zbjdKUjRyMDQ5Y0NqOWF4QzBOaXdoQXhjbWhZZHhQSXpkLXhWS2w5OGFGTERYR0UzOUtDTDBobkZ4cXdocUJXU2VUMUJkZnJEVjBfT0M4Nkd3dENBN29aWTNVVVIyaEtGekxaUGNONzBNdDFsZTZKYVdidlRqZ1FQWkZaMFQ5aGswbE1SMFZ3VGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Paccar Stock: Hold On For Now (NASDAQ:PCAR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82a3RVVHZaSC16dHJVc1VnVFpGeFh5c0hZX3JSS2JURW1GRF9ETElwWUI3VE9KVGNnSU9KQjVEU0JRd1dXOTlkZ1pySzZGVHBfRF9jdWlvS2FqckFzbFhycFZvZjZBNWhxQ0Q3V0xYQ1BsNVRKV3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paccar (PCAR) Stock Jumps 8.7%: Will It Continue to Soar? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnlJVkJmZ0VMSTBDZlVqbnhIb2RNdk5ka3NPcW5aRm9TWjJIeFRKbkZtaGc5SUU5TVYwSlJEQ0N6Q09ubWltN0pIMTNCV1FjVEZhc3NGVUlKY1E2ZlRLNWw0WFBrSWZ2ZFdHT0FkZ2plRGlCbTM1cHd3cXN6eXFHdW1tY0hWY0k?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PACCAR (PCAR) Receives Adjusted Price Target from Evercore ISI | - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTRiVVoyNlRNSWVzQ1p0cWpySnVLQkVQS0t6UUFVY3BuRTF6Slg0c0RNYzM4cXh5V3ZwaFdMRFZNYWJYb1dfZGNUeC1Zd1VjVF92WFhPRl9wVU8tODNVRmhnN1k1aTlIdGdTWFJjOEplU0xkR3pHMTBGZ1p5eWUtZ3plTUliZEhQcmx3SWxrVDJGbnBhSTFZck1XSExMUFhSWnk2ZVAzRFdLQkFlSTRlRzNid0t2Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Aurora Self-Driving Trucks Need Billions More Test Miles for Safety Proof, Legal Expert Warns - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOejlRWkRQVVlEM0J6dXBNd3pfLS1BY1BZaDhueUJRRHRIOWFsNjlCejltWDR1Y1dRYlNubE5vQ0NPWVlYSEluOE5PbUphTm9oV05lU3lrVkVVSWhoTXhsVVhvaExFM2dTRW1SWVJEOUlXVjJkRDY2blZob0ZDZlZNZ0lneHBTSl92NU9wLTZvZURQTmNRNTFVRzI1RDdJd2R4aDVDYkJjQ04tRVFjNE1Za0ZreVZBNlFUTnFCNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Paccar (PCAR) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMXR3TEdBZkVGelZlMUNNYmpiSW1SdC1KcDJTRzgxSlFrcFlBbVVrYUVoMjNtcDd5Zm1vbkxZZTV4TnFEYld6dXBzbmlVNTJUQzh0VXhEWFhVRE1sTktuQ3NjNGgteWhLNjZVcU5saDNxTUZTWHdqczhsZzNmSVE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PACCAR Inc (NASDAQ:PCAR) Shares Acquired by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjV0SVNfRkpUN1h2ZU1sd1JPU0I4OENMYWFoUE5nME9LZ2Npcm5YMHFxd2tRQUR2Zl9vNEYyczI1SWZDTDRtR0FOTTR5cUwzWnV1U01oMUxPUzRJeXcxdDR2cWxzbkphRGNNdHhMOWhzam1BVGFUd202VmIwRWdkTF8yM0VjYU9fY0ZpNTVaZGJTYmZjZkhWcVc2a3haVm9ibUxXOVlhQ2NuWDI0YlQ3YWV3LXdaekZsZWljU0Nn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PACCAR Delivers $769M Adjusted Profit as Parts Division Hits All-Time Revenue High - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGR1M3MwZVc0Z1FodnZBU1NMb0tyNE1yTlo2QUVVQV9XeTN6ZEhjNXVnREpMOFl6NHZBOHM5N3QwV3V1R2VUMDhndndvcDFLN1Fxei1IdURkSzRTcGFsY3REX0FObGlTVmRQLXZsdzVWSlVfdHhaNTIxTjJoZGQyYTh3bTJXTDdBVTNrejBUZTRjVnZqNF9YcElzNElUbUxNZ05GSnpwQzR6aVJnM2kzTHlNczE4R3ZRUEhsQ0NB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PACCAR Inc (NASDAQ:PCAR) Shares Acquired by Rhumbline Advisers - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkRpdHFZNllfc0NERHM1d1g0clZqWnNmQnZ3MllJeXlOTjFKLXQxcmp0UlpHRU9iU25GbXEySTJ0YVlwenpadHkybHd2SS1vQzlGR09hekdtV2l5OURWdEE0TF9tTWJLR3lhRUpNQ1E0UEYycGRVQWtwQnk5anNkQ2h0c1RpcF9Wdm5pcF9XeU8tc3piMTFlVlhscGtaR1dXaVJza29mdlpsOHBvUnNCcTZMSFNqY3BJdy1IN3lkSkNyYWRu?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PACCAR Inc (NASDAQ:PCAR) Receives Average Rating of \"Hold\" from Brokerages - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2g5ZmRsemhqXzc3Q3JIVkRHME94Q2FhYUcwazZaUmdXeWMydkJuYVpXWnRQTGhWS2d6WWRQMU5oWUdmTUwydXF5SVpZYXJsNDJlakdhcVFkeUYwR0Q5S0t2U2pxRlU2YTBDSTMwYno4bHExSnlsTnFTN3NIWVZhdVhkNXhqd0tRV0tzZnBqc2FJVlQ4ODF2TjZYTjRycUNuM3VHVF9hdEdWdk1OVHJuSWMzM0N5a3Q4dy1WSQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PACCAR (NASDAQ:PCAR) Stock Rating Upgraded by StockNews.com - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNal9JSzJ0WkR5LVFSVGxZdDNkU3RLdVdYUEUwVnRvREhGYUo1VWFIV25xZTFmUS1FWERTYXh3cVhnR1Z2M3d4SGdmVFFlZDZYZkhHSUhnU2tXOUJUbmh0LW5HWlJOQmxUaXU2RDVyNm4tX1FKNHAtUmpjelg3a0RaLUNKRlNkRm1xWHhhWDB0NFktZjNYTkV6RUZHaU1sUklYYlZpcEZ6Ulc0WnpxbUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "4,044 Shares in PACCAR Inc (NASDAQ:PCAR) Bought by 111 Capital - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWnQ3VlVuOFJCZHhGbFRhQ0NwWXJ1cmhCLVNsOWlTeDFWdTRGeS1tZzk2dFZ0OU5QWGxRY2dYdWdRaWlVOTRJeEhiTWZBNG5tWmVfeEx4aGNuNVZxTVEyZmtBYmhheVpOMENHMVdGMFJSUjRBd1kzdDBOMzk3Yzl1dHFVMVVlbWNjN0tycWlXT3FVNUpxeEd6R1N3Ql9LWVAtbXNkQUZxTWp6czNLSXVMV3JDX1RzbV96aVA0Z2xR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PACCAR Inc (NASDAQ:PCAR) Shares Purchased by Whipplewood Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdUs5V0thT3VyNlo4VXZUVXJDRjVGRDladDB2ejAtUjQ3eW42OEU4TEFSRER3cGlsUDc0LXpuVmk3N1pKMEotazIyVGRIbVJ2WUhZcFdKbUVhdEZTdTRodjc1b2oyR3ZEb0FpNnFZNk1wSUhZWldKaWNzMjllb1ZKVFpNMXRCY083c3JuZVplanpvbWJQdUl4b0FRTndqcGVRUnR0VklKX2pmTGN4aWVjV2RiTjVLOVRZbloyRmVReHBuazJibkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GTS Securities LLC Lowers Position in PACCAR Inc (NASDAQ:PCAR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGx3MzdOSzNhQW1qVGY4NXdxWFVQc3hnSUpldEpfaVZBR3Nsak5ObjNHbFlFX1lOOXZNY0NGWjRPZldYLUFRRmJFV1dGTEt2anNkbnNnbHU3WHpyUGY0QVlrY1dBUXBYaXdzZ0d2YzRLOUEySTJhWnJEVkZ1V0ZvWnN6LWJiRi05SFZCTk5uU1pCamcwY093cEhEQXc0ekxJRXNyMVpuaHZHeFFqOGZjT3NPS3QwTEJnNTZqMExB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PACCAR Inc (NASDAQ:PCAR) Shares Sold by Toronto Dominion Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSnhwZFAxb09KRTAzUlVncmNlR3VQdVRMN3dmZ2pNcnFXbW5vdkUxdVJrV3BFcjNiUkthaWlZNjJwamt3YmFocFFaNndpN3JjOGNTczB5Tk5NOVNTUmVHYmxaeGQtUHZidHU5emtKM1NHbDJwRGZtN0dKX0VaemJzdS1jdEs1TnVYTl9kSVlHWkZucEJkdmpSZGpFWE9nVmItSkMwOHRSTGVCcHRTaWZMNjJjS0hhalJ3a05vWWRuZEZMaWFP?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Boosts Stock Position in PACCAR Inc (NASDAQ:PCAR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVFfc3VEV2pPSUdVREo3SWtaZ19QanZRWVNJWlVYRkJNZHg0TnlBM2tWOVQ4Q3lhSEZyWENYUmhQZmVUc0lkd3BMYlBkNklHczE2LXdoZEhzOU1pZ1RpSVNMMDB5ajNHcFZ0ejZBYzJxanFpS1R3ZFpJaHV1UTNyUWFUVC1fOFRSaG5HM0ZLaDFFT0xuTEE1dmNOVzM5aTJYU0RPcFpySEdXLV9feExHYXZ6OVFMT1lYZlNEeXE4MS1WQW9tX1E?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mackenzie Financial Corp Buys 4,703 Shares of PACCAR Inc (NASDAQ:PCAR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzhRYm9uWFJub3pvNDlSaDdaOHVVYmNqcEY5Z3BFd2ZQWTZRVmw2YVVHLUFka3lGUkNQSWE4YUktc1lLWGduQWdlamlRV2QxZkF2Vzd3MDAtSDVDaGc3R1M1R1lEOWhfclQ3LU5XSUlHMjhZbTZ4WjNIZm9VQW9YdlZwZUZialUtNG15RzlKSk0wa24zM25BNUpCaFFvX0pucDdDVWNCLWpCZkE3cWpfM0pyTktzSEE4XzlOS1pBZ2JmY3JL?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Integrated Advisors Network LLC Decreases Position in PACCAR Inc (NASDAQ:PCAR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYl9jNGNnR1JUUGEwSTk5Q0lqeUs2WGR1ZGZrU1BLUUlvMWxjYXpiOVIwbVV5NGhkR0JrVmFITnhVYjVfMXZQbXFGZ2s5T1VSZmFHRmFEUUlSZU9hemUzRnpYODZjUWJ0SUNDRllQemNmY3ZZQnRMMUhYbzl0Rm5QWWxZYUhwWXJIeUp0VEhPSXVGX1R1R2ZQcDZfT1F6S2RnWmZJVlN4Ri1jdm5DSXZmOFFacF9LYXQycWNJUVRMSGdUYUxPQXJaMW1EeTVQREI2UWFrZWpB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Vise Technologies Inc. Invests $353,000 in PACCAR Inc (NASDAQ:PCAR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWG55ZkFWb3E4V3dKeUNkblpVdTMwNFlfb0o0TjFYcnBKUndrSlhPN2NieDhCNlFieUxxY0ZXcFdMTExvd0xwZnJJNU0zeWJWOTNORTI4cjc3UnkxSk9qNlhSMUEwcXdJcUFWTUw1dWhvMjZ2SzI3M0ZvUXpiT2VlWnBWdzRpNlRfNTBFUV82MnJfR0JSaU9Qd3Ffb0JJRUw4Z2RmcXJRQUVKcnJNSHhnZUUyQVZ4c2ozai1XVjNlQXVXcmxPaFE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 116.24
-      },
-      {
-        "date": "2024-12-03",
-        "price": 116.85
-      },
-      {
-        "date": "2024-12-04",
-        "price": 118.41
-      },
-      {
-        "date": "2024-12-05",
-        "price": 117.62
-      },
       {
         "date": "2024-12-06",
         "price": 115.88
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 91.78
+        "price": 91.77
+      },
+      {
+        "date": "2025-06-03",
+        "price": 93.56
+      },
+      {
+        "date": "2025-06-04",
+        "price": 92.59
+      },
+      {
+        "date": "2025-06-05",
+        "price": 92.45
       }
     ],
     "current_price_data": {
-      "price": 91.78,
-      "change": -2.07,
-      "percent_change": -2.21
+      "price": 92.45,
+      "change": -0.14,
+      "percent_change": -0.15
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se:\n\nPACCAR, une entreprise cot\u00e9e en NASDAQ, a vu son prix augmenter de 4,3% depuis son dernier rapport d'\u00e9arnings. Les investisseurs ont achet\u00e9 de nouvelles actions dans la soci\u00e9t\u00e9 et les positions de certains ont \u00e9t\u00e9 augment\u00e9es. Le prix de PACCAR a \u00e9galement \u00e9t\u00e9 affect\u00e9 par les mouvements g\u00e9n\u00e9raux du march\u00e9.",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.3,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

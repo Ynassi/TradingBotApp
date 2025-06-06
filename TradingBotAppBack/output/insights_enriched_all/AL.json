@@ -1,56 +1,164 @@
 {
   "ticker": "AL",
-  "name": "Air Lease Corporation",
+  "name": NaN,
   "sector": "Industrials",
-  "market_cap": 6342323200.0,
+  "market_cap": 6375291904.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 9.9213295,
-    "PB": 0.80638283,
-    "EV_Revenue": 9.212,
+    "PE": 9.972902,
+    "PB": 0.8105746,
+    "EV_Revenue": 9.177,
     "ROE": 0.092159994,
     "ProfitMargin": 0.24768999,
     "GrossMargin": 0.58502,
-    "DividendYield": 1.53
+    "DividendYield": 1.55,
+    "DebtEquity": 252.898,
+    "CurrentRatio": 0.402,
+    "QuickRatio": 0.251,
+    "FreeCashFlow": -1774503808,
+    "OperatingCashFlow": 1694034944,
+    "FCF_Margin": -0.6318042764118843,
+    "ROA": 0.0277,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": -3.593663014556912
   },
   "technical_indicators": {
-    "RSI_14": 62.66417653832328,
-    "Momentum_10": -1.2184521386308111,
-    "MACD": 2.5174071476404336,
-    "BB_Percent": 0.5704721463738016,
+    "RSI_14": 63.47641576351062,
+    "Momentum_10": 1.1560495008355485,
+    "MACD": 2.067843444755489,
+    "BB_Percent": 0.5706432267246475,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9329168670525256,
+    "ValueScore": 0.9327901855316776,
     "QualityScore": 0.3798728556197464,
-    "SignalScore": 0.4121566407565483
+    "SignalScore": 0.4710671158087627
   },
-  "volatility": 0.0254695205490859,
+  "volatility": 0.02547198784298,
   "beta": 1.379,
-  "return_6m": 0.1318149570700433,
+  "return_6m": 0.1550866824581511,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 7,
     "target_mean_price": 58.85714
   },
+  "news_sentiment": {
+    "summary": "Dans l'actualité récente, on observe une confrontation publique entre Elon Musk de Tesla et le président Trump, entraînant une baisse des actions de Tesla. De plus, la réouverture de la bourse de Damas représente une tentative de reconstruction économique en Syrie. Air Lease (AL) a vu son évaluation augmenter suite à des recommandations de Citigroup et une performance supérieure aux pairs du secteur du transport. Cependant, Prothena a connu un revers avec l'échec de son étude de phase avancée sur l'AL amyloïdose, entrainant une baisse des actions. Les marchés mondiaux sont en chute libre en raison des tensions commerciales de Trump, impactant les investisseurs.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.55,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Tesla shares slide as CEO Musk and President Trump have a public face-off - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWhZR3hpZkVoRXI2Nl9HakZwMk82blM3bThkMXVuakxTdV9iQzRPcUNpY2F1bTBRdFlnV19vWm1STTBqUkpaSURGbS1MeTNrV2p4N05oM01XOEdLd0lUVW9fQ3JaN1YtZ09zSk0zdFNXZEJnSXNvbUlJa0lZTlVWcGViX2pDNFYyd01fRldrTTNqaVQtRllIOWNucXQ2TzY2eHNOUWZvN2NsUHNKa2pQb2pLeDlPUknSAbwBQVVfeXFMUFR2S25YUm5vQmVZdjNLYlVjOUlrY3lxdU5YVm9KU2pMb1RzWmFYcXM0aHR2UnRTeVZxbnpZVE5rckZBeVJQeUV5Y25KQUluRDcxblNJQkdxbm80MmczemRjb3ZaVUV5OEh1NnRSSDVtcENSR1ZSVENqOGgwVFdac2hxVHZvQXdEZEEwc3BhVk0zOFlyN2ZSSmF0VkRmdG8tTmZhWEx5b0ZINjgzRVM1aHEtN1gzOVRTcWkwNkU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Should Value Investors Buy Air Lease (AL) Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTEhBMndTMk1VelZEUzNaU0VJeTdaaE0xLXFtdTI1d1NENXV6enZxX1QwNzdZWlQ0UlBEdlkzWlczWVpwejZBeE1INDRZQkJ0cHpRZDdORUo2RS0tRTJxNXdXZnpWUmN5Zmxiblo1ZXpBMTR3MEJ6Y1VCZm03c09tZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Syria's stock exchange reopens as Damascus aims to rebuild economy - Euronews",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3M3YlhpZ2ZJb000VW5GNzRjdWdLSFZiY1R0dXBTc29PR0wtTndadl9iYncwcEszaWhQNEdBRjJKSFMyRVFRVGlxbjVBV0w4cjE4cjBEaWZLV29lN3VadE0zdWE0R2NoQTR6V1E0RTRfZkc3eEloLTIzRnJRd1V1RVc3ak9fUHk3aEJHcmpwZ2IyRUJRd0E0ak4wRWFkTkNqbzdEaHZMYkVvRHZqYS1ER2dwdVVmMzlhYXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Should Value Investors Buy Air Lease (AL) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS011QjJwNkR0UDBEeGp3cTA5VGdJWXZSd2h5N2tiQnJVMDFVZW9mQUhEY29Gc3Eza0lwV2xxWElidlpKNGZQMnVrRm9vUDc3dGg5YWYtQktnZlJwVUdLeHZYNjQtTkJGei1jczVZLThOMWI2a25CaktFMk5NbEpTRWcyYldtZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rising Demand, Limited Stock At Ternak Maju Al-Barakah Farm - Sarawak Tribune",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRmhsc21CU2NsNjdHQWdaang0dkkyUTRkcGxYd3FRY3pwemRyMWRsWHQwbzhfYVk3bWxnUk1uVnhPZmNHMWhfYksxdUxvc0QwVzlDWGdZSzVDTDJMLWFvVU4yTVJHb1hnWGozNWZQOEVLMXZEbmc5ZjlWbGxqNjM0XzIxTnE3LVEtMnBqYzVGbm1jSUdr?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Damascus stock exchange reopens after 6-month closure - Al Arabiya English",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWZBNmpIa1dHQjVVYkV2RHVEM1RRSTJzOEphYXZ5SWx0M09GcUs0N0NZM1dCXzlsMkNibW0wV2Z3bTFBQldnZWg3X0U4dFJLaDhKZFVfdjkyR2lvaGNJeld1emxtb3JZYlBDVTdCcGlrX2wwU1pKRWJjNzNCcVdPaHBCQm5JOGJneEhBRGkzbDAyVGhZVXQ2aEtYa1VhVlZQbFlDWGk4WUVMMnBLVFNF0gG0AUFVX3lxTE5hYldzX2VQSzc0M0RCbDRKQm1Jbkt2eWlFaTg0ZkxLdGE1Z0pQRTBfN3hSM2R3bVN6WmpnTmV0R29BRXpZeXQ3YnlodmRhRXdaeDFhVmhGR29TVklhd284S1pfTjRiaHBQUTUwYVZqVmJPdGluSnRZcDBVWDBZSTNnTEg0bWlGd0lmVmVxQ2Q1UlI1OGNHRUszU1JEMHlZUk9TMGI0MU15ekcwVHZyaFJpRVF6Qw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Air Lease (NYSE:AL) Stock Rating Upgraded by Citigroup - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3k0MmRvSFZnVVFlS1U0dXBwaUdsNDltOUVQbUItS2tVQmo0UTlGTy10SEtuYnRxWFlBU2JqZDVXdk80dDFreXBTblJPakNPaks0SnA2QkV2bmFTQVptdXVWVGVUcS1OeWp4a2daUmVPbVNQaFBidnM1N3c3YUZTTFNIWnVZUkV5b01wZ0xJQmtoQzFSdDBsSnZYWXpzcnFP?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AL Central roundtable: Taking stock of the division’s contenders in a wide-open AL - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeDdmVmFqQnB4TG43cDRYbmtCUzg5X2FEbUNrRlc1ZkZacjNHOXlTSUJQa0RUeGxhdFJaVzgza2dxaTREQ0tIR0FVdkZWQVRqSjlzQThIVkZLZlZxN0loYWp3STE2MDRYT25mbVEwX1VjYnZ3OWlXeFZOeFZJeS1GT3ZuVE90ZkJ1RGZNdloycWJPNTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tommy Tuberville stock trading: Which Democrats, Republicans trade more than Alabama senator? - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWFVRkVwNElSbzQ3TzVDdDM2S1JsTjFXcjNUN3VrRlhNMFpaTHUxYnRlRjJjX1lzWlNiTm0wbENNdWYzem5zUjM1cHBZWER2WFAwUllkd3NkR3plSkhlY05lT0NCLWZobXAxTVlSN1JhcEJHdmNRRVJJQ2p3QkxxUFZDbktmYWRWOGs5NkR2RG5la29SbVhPeVdYVXowSVI3amRzRVNfNllxWlZPejREMWJyYm03eldsRWhkWl92Vjk0U1Fxcl93Vlp6SdIB3wFBVV95cUxPSDh0SDRiTWRwZjkzcnJtZ2JkWm5kcENmQkxlekQ0WlBGZ3U4eHV1M3l5eVZRZno1MUM1U2xQQUNmdkt5N0lERjJRQTdpandYOHFuQUljWVBiT0hQZTF1RzlQVXRSS1lhVlp6X0w4c2pVLWJJRjFIclhNdFB6YWo4Sng5aXBabG1xSGJuWmxBbmFybFltbXEtbnAtWDdvWTNuTzdWaTRMcnJpdDRlbndjRUh1cHJDdWVnTXNDUlRyMlQwVE11ZV9na1dhMURoSGpxTHZoNmhndUEwdW5WaFNz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank holiday on Friday and Saturday for Eid al-Adha: Are banks and stock market open or closed on June 6 - Times of India",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRXBQVHk3VHJrODNGaWpuU1AxMWtvb09nLWtzRnNtWEx6d2lsWkRNczExcnNMNktjM2RzcmZPRVdlOG5hNzZ4SDVmbi1qVWx4Smo5VExqcmFfa2ZlcEpxenVzQUdkdnBRVG1XSlNfNUpYMmdsTFRyeFpvb294TDBVd2hjZzlZOUlGMDNCVGJKRnpCdG0zdnBXYm5aY3FGR2hldW1FUy1FWlNSN3ltUjdpTHBiVmthQ08tLUo2VVNGTUNYU0lIWlhGZzJNMUNVMHkzVVdzT0o1U196OEd6Y1JyaTNJbGVzdHBySU5MWGNwR3hRdGxiMHFZLWFLempGb25BcEFWcjJ2N2I3UGdyM1dxQ3ZzZENNSWdBSldsMnlB0gGjAkFVX3lxTE0zQkxKZlNlcElySS03ai1kaUI1Mnltd3RUNTJ0ZFR1YkM2MF9WVnFNVFN5NjdvbDFBZXFFbVJtakY0NDZXSmRiaUl3NHlDS2FJU2VVQ2lHSXkxQXUtOV9QYkltVnlBYXVPSzdEOHJSRFNmQXF0bmc4Rzdvbk9YcF9aZGF2ZTJnS2NYVDV5YlFycmlHdVZobEJDZHJHcVFhTzlKWHVoWWpqMWJpUXZodGlUZ0NvTkV0UDFPMllwdmtBWmR2SXVjeGg0NDFwVDN1LWpaWlpDZG5nckJBdEdQVVdiZTVQYlRDUVMxVktyOFZmeTJWYkFSUV9BV1U4YlBmNzJRUkhNVTd1T2FqRGQ5QlZKVVBvWlhLUXhDMVFoRm1ZZXM4RQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Majority of medical equipment supplies at 'stock zero' in Gaza, WHO says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnlEMUplRnEzWm1uVnF2UGZudTBhdXBEMGxrV0R3dlR4VU1IOGRFWUx6SWg3cWNhMXNMb25JZjdJa2E1d3FLTmdJZURPRF9QS1M2emNkQTFINGxFcS0tMlQ3OVgySjNDRTZpZ29iOWM3ZUVxbWY5WTFrUWlIbUZxZU91d0R2WWRqZXRYbjhJZDhGemRxUFh5VUw3REpNWGg2a3pXNFdVN21pTUtVTEtYN1Q1MVhmcWhERmNRdmIwMHRmN1daTFd1ZW9CWTA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Citi Upgrades Air Lease (AL) stock, Lifts PT to $68 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xRGUtTU1jTTdkam1zYlZlTEEyVzlaLVhkdjZmYlRfaTQ1Sm8zQjVCODhrQXFJN2x4djBJNjRXXzlDZ1RwbDRocmh2RWNweVcwRUZuWkJUZzIxZDczQkNHcDVoUFR0bFFsN1hJR3ZrZ0JRMENRcmRreWh5NEc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Air Lease (AL) Stock Outpacing Its Transportation Peers This Year? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZzJHTzdaUkFfY2kxemg4Q1BqOWR0cDJ0QjBwaUhfV29PbUFicVJhSHYwczUwOE1ocnRTX2QzQlpoSHdzZjJXQzlRVFhFMTQ0WmYzRTk1b2szNVFtYUxFSHN4aU5oNjhHbEN4R21leUVWa1hQcHNTUUp4MWJJSzdVWGQ0Vl9WVnhfNnczakt3TVRLSFpi?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Air Lease (NYSE:AL) Shares Up 5.3% After Earnings Beat - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0tSeFNJVU1zMVh3YnFLTk9DQXM3NTdiY29ZSmJTUG8wSVRaQkZwcV9yZHc1LXpNaUpVd0FqbHhNN0hCbUZfTEJFY1E0dzFJVElmMkxVOExoVzFqdV9ZWTRxYUZhZVM3TDBVYzYyOV9ibmtweEVTd1J1UDVQLXdDaXlILVRUdm5YeDItZDhaVnFweXhqdXFlU2o1ajRaMDFlMUlmQldtaUZpVEV3dFZ0VlJ1OVNsNms?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "US stock market sinks lower after wild swings over Trump’s tariff plans - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2o5RElRUC04WHg4WkFvWjEtMzV2bEZlQlduMmxvaTFxU0NZZ21jS2xSdWJYdmZOdzdvbWVwbnBLX0tVTTBFRFZsRHFkNFJ6S0dCLVBEeXc2OElWX0NGVV9vWG1jTVE3WllMRFljMFktTWp6YXNOSXJOMEFjMzBCV3FmaE9yVHdEOTBRem12VFJkWTkxS2tpODdNSm5odHN4dlRROWdwSTdjMVRrZFhsTFIwa9IBuAFBVV95cUxPQ2FpOGJVYnNOZXFFLWxJVW94Uk9LZ2FUdmFGUzZGdXdvck5hUll1Uy10SXg4R0RnYmtYRjNma05iNlgwX2F0WTY2QzNDZzI5dlRVRVMtZTd5R2xpYkdmdm9iZGZBd3hmWjY2U24xTFJyWGFmM01OSjRBQlZBeVRBZGtXSUY5TW44NTUxQzdWZXdqLXNrLVZ6SGJvOUI5cFBqTlFfTjNoS2tCNFRPZFQyU2psNDlJeExk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why Air Lease (AL) is a Strong Value Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUkR1NzRKOHV1NkZDNVBqZlVWR0tLckpRb2lPVXZPUWFKNzMycnNhdUp2RXNwdUpuVmtST2J6LTh3Wml3Y0FYR1dZRkYyeFp3X24wMTFMOFdWcU11RXlzT1VmbE1YbWczVHpRektfOFZSejRGMlV6bkEtcjJrbXBIOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AL vs. WAB: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Pem5LOWJQeS1CWm5UR0E3akJfdmxfemhISi1IYjRHdVd2RDgtWlQ4UndsWEhmT21TUjUxOVFFNmhwZW9JVk5QLXg4b2FOZktoazN5NDhjTnFmbEtfUFJ3dUFNR1haMzhkWFNMMHAwSTNQd3RqRUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Prothena's Late-Stage Study for AL Amyloidosis Fails, Stock Down - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTC14ZDZiZFR1ZXlQYnVGVUxjWm85eS1PM2g0WjJheVRDUVNINEdiSnAyd09DcmpVTmNraFlDcUxZTFh5UHZLZzhWeU9Ec1lKazZuZGNEZXBxZ3libUhoQi1hUU1UX29ZdTdhRFVjUTUtS0ZudVoxbEhOWW04bXhnZjE5a01HNHVhemc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Global markets in freefall as Trump digs in on tariff ‘medicine’ - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFk3S3JWUWNNZWg3M1ZVSGxEWkFrUHR6SjB6QXcyUXZNZ19FQVNVenU4SEY3dDltLWRLRnktT3pLMERVUTdGbDhGQlljQWVFcXg0Qm1JTy1LSnJXOHZNQndkLTdjbjluZHdmX0x5c3hZUTZhOTl0UUZydTZBWlU5WnhyN3JleUNZeWNxdlYwbXV3eFVOVjdmcFlkUUUtNVNLYUNueFUydTd1Q3gy0gGyAUFVX3lxTFB1WW0xaEh0TUgzVnNtdXdpdXl1VzYwQzFKRnpDeHV1V01wS29DTFhRQlhZb05Pd1hTNVZ3ZjZwU0UzR09GRE92RkJwMllwLWpQcm0ycXZzWjlmODVUajlpRzJ2ZnVBVlR2YlFkZHd6ZWZjekIzTm85a1JJUlpNbDJyakNSWkpYNnQtRUwwalpndHlVNV9QVE1mb3psZndXWFdCVGluNGRwdVlZWXUyN3NOSFE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tommy Tuberville is one of the busiest stock traders in Congress. Some deals raise ‘red flags’ - AL.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0NGclU3eFZIdk5ybGtKdWJtaUZnUnBYSTZlWWFta1dfaUxqZ0NRVVpyWERXSW53N1ZZVUJMU2ZuX1dtY1pnVmdKRDFucXlqMVpQSTFMNjgzM29ZcG5yLXlXcVdvVjFsSXo5Yk9lQ1M1bTRGbFpWNl9RRVgtNjduLXo0RFJvY0c3TDhqSmJDaHNyVndRbldrdDdCNlVqOWJxN1EzRFoxYko4WWVQREFtSVRKUXJmT1B5N1hRTm9IRXBKWmRiQzFVSjR2WUjSAeABQVVfeXFMUGM1MWR1V2k0UzR0TU50UUpDcXpxYVR3d3d5eVA1YUZaTS04RFRZQW9XMWZVbHZyT3RhQnZ4dUtkN2F4bzlic3dhSzBmeG1PNlJCUjExT0NHTEdxY2xEWmQ4cTFFTHl6QWtvX3FxTjY4R2ktcWdBWHdRUHNZZFZiT3RGTlQydERzMEFMOWszc2JtcnlNSVdDajZhaVUwMmVhZXhVNXlNQTZvSHl6S19RN1lkUVFBdkk2eHZyWHlBVE10UllPbXU2Vlo0b2c3S0JnVEYyYktsWDBLeW5WUXJ2V18?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 50.6
-      },
-      {
-        "date": "2024-12-03",
-        "price": 50.43
-      },
-      {
-        "date": "2024-12-04",
-        "price": 51.37
-      },
-      {
-        "date": "2024-12-05",
-        "price": 50.6
-      },
       {
         "date": "2024-12-06",
         "price": 50.03
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 56.69
+        "price": 56.86
+      },
+      {
+        "date": "2025-06-03",
+        "price": 57.41
+      },
+      {
+        "date": "2025-06-04",
+        "price": 56.73
+      },
+      {
+        "date": "2025-06-05",
+        "price": 57.06
       }
     ],
     "current_price_data": {
-      "price": 56.69,
-      "change": -0.91,
-      "percent_change": -1.58
+      "price": 57.06,
+      "change": 0.35,
+      "percent_change": 0.62
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres r\u00e9v\u00e8lent des tendances cl\u00e9s concernant les entreprises cot\u00e9es Air Lease et la Damas. Les titres rapportent que le march\u00e9 boursier de Damas a rouvert apr\u00e8s une fermeture de six mois, et que le gouvernement syrien a pour objectif de r\u00e9organiser son \u00e9conomie. Ils mentionnent \u00e9galement que le gouvernement saoudien a d\u00e9cid\u00e9 de r\u00e9\u00e9valuer ses priorit\u00e9s de d\u00e9pense en raison d'un d\u00e9clin des revenus de l'huile.\n\nLes titres sur Air Lease rapportent que le stock de l'entreprise est consid\u00e9r\u00e9 comme un stock fort en valeur, et que Citigroup a upgrade son taux de rating. Ils",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

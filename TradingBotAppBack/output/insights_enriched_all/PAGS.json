@@ -1,56 +1,164 @@
 {
   "ticker": "PAGS",
-  "name": "PagSeguro Digital Ltd.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 2702827008.0,
+  "market_cap": 2644793600.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 7.5410833,
-    "PB": 0.18253757,
-    "EV_Revenue": 0.299,
+    "PE": 7.318181,
+    "PB": 0.17861824,
+    "EV_Revenue": 0.3,
     "ROE": 0.15038,
     "ProfitMargin": 0.11457,
     "GrossMargin": 0.48349997,
-    "DividendYield": 1.57
+    "DividendYield": 1.56,
+    "DebtEquity": 30.583,
+    "CurrentRatio": 1.524,
+    "QuickRatio": 1.422,
+    "FreeCashFlow": -10108684288,
+    "OperatingCashFlow": -4628666880,
+    "FCF_Margin": -0.5364524768377581,
+    "ROA": 0.061189998,
+    "PEG": null,
+    "EV_EBITDA": 0.712,
+    "BuybackYield": null,
+    "PriceToFCF": -0.26119260675044637
   },
   "technical_indicators": {
-    "RSI_14": 50.786882087134344,
-    "Momentum_10": 1.2226019970197142,
-    "MACD": -0.0812122323376343,
-    "BB_Percent": 0.4238980581561982,
+    "RSI_14": 46.642735136708,
+    "Momentum_10": 3.205123787594275,
+    "MACD": -0.0573460921679949,
+    "BB_Percent": 0.3616891352308995,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9365917245997172,
+    "ValueScore": 0.9365396971644256,
     "QualityScore": 0.3310407166922662,
-    "SignalScore": 0.4687638818562252
+    "SignalScore": 0.5625222327755508
   },
-  "volatility": 0.0328792218589281,
+  "volatility": 0.032701992895522,
   "beta": 1.576,
-  "return_6m": 0.1906974088605757,
+  "return_6m": 0.24542888550684,
   "analyst_rating": {
-    "recommendation": "none",
+    "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 10.844243
+    "target_mean_price": 11.038498
   },
+  "news_sentiment": {
+    "summary": "PagSeguro Digital (PAGS) a récemment connu une volatilité significative sur le marché. Malgré des résultats trimestriels encourageants et un premier versement historique de dividende, les investisseurs ont été confrontés à une baisse des actions. L'entreprise fait face à des avis mitigés quant à sa valorisation, mais certains analystes soulignent son potentiel sous-évalué dans le secteur des technologies financières au Brésil. Les performances récentes de PagSeguro semblent attirer l'attention des investisseurs, bien que des incertitudes persistent quant à sa capacité à rattraper sa valorisation historique.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.35,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why PagSeguro Digital (PAGS) Stock Crashed Yesterday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXl0MzN0VHc0LVdZVDh4M3RnY2hpSTZiS3BRekdKU2VFNm1fN2NKTWtxV3JJdTlwMzBUQzloY015MVhvQVJWbzBjNG52N2ZFeTB2b2NMaTNYNjlpSHhidURDZlBhOFFwTXFmX2JKV2xVM094Qlg5bWZvcEpCMXdQbGNXbjc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PagSeguro: Back On Its Feet But Playing Catch-Up (NYSE:PAGS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdjA2ZGVicWJCVXB1YnM5NWlNZjB4azNlLTJreFFlUTI0Z0t3XzhEb3lZN010RFZtMmI0N09GVG1LOGphQmkwNWlNUGxqdjFPdy03MHkzNzZmQjE2S1Q5NDVja2ZYc3NMWmFBeUtzR0Z6T2tUQmtpTGVlWXlOQjcxXzVEWm1kM2xnc3dPdUZSVS1MQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PagSeguro Digital Ltd. (PAGS) Stock Sinks As Market Gains: Here's Why - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3hHQmRvR0RKMFJneDNvMjNqS1l3LV8tVjJGN25hRWxXWkluUnZfOHNpemdmX0dOMFdrbC1lbHZJZGJ1c0FPVE85b1pLYkhMd0x2Y2t4UG1NZWRqNHh1ZFE3Q3BhN3FjS0h1ekxWMm12WTUta2c1VXZGd2RLZU9oQlZfZmNvMEdLRDVEaS1STHZZOFphTmc5eQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PagBank Earnings Surge 13% to R$4.9B, Announces Historic First Dividend Payment of $0.14 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3dQQXFIaTRrMVQ4bmNvZDAwMWktQkM3aHVuRGZkbmdrdFJyblZES1RPUWNJZmt3Z2o4QkM4WGl3cmxjYUVGZlIxTEJWREdRVTg3dWpCcU4yOGN1LVp0bkxyWVpXckFBR1JhcFU3aUtYT1VLVS1GVkJGQ2k5Z1ZoM3FxSkVlNUFBYVR2N2haeURJaVItWkQ4d05nakZRel81WG9YSnp6RldXWGNFUHp6eW9hS2lhaW9US3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PagSeguro Digital Ltd. (PAGS) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzRiOThCdGZoV284VUtEUjB6Y2gtUU5IcHdKX2NMWndRbzNDQl9YYVpxN3F6bzNoSDNEb2pZVDVPNTV1T1ZrbTNpdGM5b2M4bXl4RnVNVm5nM1ktNjMtTkhHWUY3ampjM1NKTFdVLWFnTGpBc2FHVjRCZTR3WnMwdUpCVGo?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PagSeguro Digital Ltd. (NYSE:PAGS) First-Quarter Results: Here's What Analysts Are Forecasting For This Year - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcGZFQ0txZGlmQnZ6TGRfZFdEMzVtMmYzN2s1ZDFWb3J4UGxnUDJ5eUNTZUw1MjFVQUpfS1R4b0FlbXYtSVpsbFI5dHZCSzluYlBOUW5wTEFqbzdLZEYzYnhTQmZxM2Qydm5sWlZ4ZHNreTlRS3dPeDMwR2UxSW9oSTdqZjRhT2VValFKb2MwV3FZaDg4WjZrQWJKbHI1SXlpSUZzZDRLZ3RCVkxTTF9RaE53RkdyalBMQ0pPVGs4cWh2bmtDT2MwbDhlTDVyQUJxVlRoc1Y1cFJWbE94RHIzS3dn0gHnAUFVX3lxTFAyeHVYaG9VelltZXFmQm5tdmRvN01iTHZGaFdwQ1BIZE1QSkhkV194MmxkM05tSTBVWEprNGNIQ0pTUV9nOC1hOG8zeGxqTWJ0aW9XUlZ0aEZSLVF5ZHBta0xTUzhWclRnQllrRWV5aVJkc2otdW9iYXdwWWtIT3ZGa1ZfYjVDT3JZSkNwME9UNDUtQTQ0djQ2U0h6WlVjcnNfTzdOaXMwVjFpTjE4RXl0VjFaSkF6c3BockZHMndzTjdwWW9CZFJuX0xZc3V3eEJaS1BOY2xIMzVwX0Yxa0RfVWFqVVhKTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PagSeguro Digital Announces Dividend and Share Cancellation - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWkJ5OWlIVGY4WFNnYzdSS3FQRHBONTNEYjBubXNKM1F4TWdzX1AxVVVaVW9mcmZLbnI2Sm9JQlAzRzk1enJtN3hTRVZsZjVBZGhXS1NYN0ZTemlDNnFDSjlELXk1RUlHeTVCRjZpbFlBS3l4RzFYejNmQUJJOUtKNng0cnhRZDM1bUpLMVNwX1RzYV9nVndMalZaMnVXTGdNY0ZxV3hjZWNyOFIwRG12cg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PagSeguro Digital (NYSE:PAGS) investors are sitting on a loss of 64% if they invested five years ago - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbW5XRVBoUmp5b1BxUFV4bWpyWFhZdVVUdXZjYmhMc1I1cVhBaFhQcXgyTWhWUkpsQXZoUVhaTDlvUUQ5SFkwQmhBNDFFS3lId2p5dFVmYU5PUENzTThYU1pfWmlVWjhKdWptNk9oVVFpZk9JT3R1TTFlZEI5MGk3ZkxUTUtBX1hzN0I4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PAGS or FOUR: Which Is the Better Value Stock Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1d5bE5nQWNfeXZrS1U0T2JUdEFaWHZBTWVIQ0hJd1BybUcweXkzWEFoZFFOVF8zVU5CZFNfLUFZNmJfc1VsYkdXRUpNTktuZDFfUnhELUNobURCU0FMUlc2VGZTZThQVVhPTWdaYWhWbmI2Tk1hLXJSVGVuNkR3VmNPeXMtQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PagSeguro Digital Q1 earnings, revenue trail consensus; delivers its first dividend (PAGS:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOE9kSWtHcGVMemcyTzZ1S3RoQU1mNzNnNFhVNXVLbFV4eFpCUVVyZWdGUkFUWENuYUpsc3A3bGlwTC1CWHZPT3pqZzh0NC15MFNwbWotenA4ZFh0WGVSNU8ycXNzOGU2MndIVjA4ZW5yWDM3MUtBdXFwQllGYkxyQUIxaWVGbzU0TVdEcy1aMDNMT3VHdmhWMjU4WGRvaFF4TTNRM3g5NDFMdEp5ZlB1bmhsenU4ZWNLSXpF?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How PagBank Achieved Triple-Digit Growth Across 5 Key Metrics in 2024 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEJmdUhWS0JFMDdUZTd2R3hDRS1vZDJpcjVDZk5pRVUzci1uMjVGMkFvdHZOVzdWOTJra1dGQS1sZmt3bm9adF9UVGdzM3JqUGIwclJJOHAyNm9GNXFPbHNJNkdLWkFvTGJ5R1FmYXdTNTd2VFpXb3N5aXhxU2lwc0gzM1N4ZVVhNUptRjQ0X2JfWEhlczVLc0p3ZXZELXo5ZEZKbFgtYTVVZzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PagSeguro Digital Ltd. (PAGS) Q4 Earnings and Revenues Beat Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVd3XzFpZEFWc3pFZHRnZ3M4WEpGRk01QnBfVDR6Tkx3czlhaTlBMkp1U2JQRzJqaVhaeThnN01WcHB4NVI2eFZnUUVQUXlsMzZzcW1wanNOM2ljQXY0LXY3T0ZyVklGcUpyLXp3Rk1HdElUYlhmemRkQklDc1d2YkFJTVlvZEhlakJKRkx2N0RNUUhNRFFxdDVObzVjUG8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PagSeguro: Undervalued Fintech In Cheap Brazil (NYSE:PAGS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXFOWmRNeXgtbGRBTXgtaDhBQ1FTWXp0aHJYRWY0bEpIV21tSVRsNTMtaTBBWE4wbkg1b2ZjM1JpMzRGWWdxS2JpaHNEUjcwdHZGNzg1NlZpdnNwSjRQTTNDSzAzZmpEdkdvbDdfVFg1RFJla2NTRDItTzVEU04xajE5VXpYdTdrZ1ZQOE1jdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PagSeguro Digital Ltd (PAGS) Q1 2025 Earnings Call Highlights: Record Payment Volume and ... - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT09vVEc0X2dXNXM3SzBoSDVUQ2dmdUl3VU12YUJRS0lBUlBiaFdPX1RXVkdHdU9EcVZyV1dTdU9jZ3RKYTFqY0ZJdlM2M1hrZ1AwMHg2RW5CeUgwNW50M3UxMm9Ocm1USHJXUVJfMlR6NU5PUl9zRENUNUZzaHZxMA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is PagSeguro Digital Ltd. (PAGS) The Best Performing Fintech Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZEtqdHJkbWtzMkhFTG1YTVhtSzNSSWlvNlVwUkVEU2dCMUItT3I4LXlpV3U3bkpZSU5UVXpGQy05QU8yRWZ5QVBIWTNTdGVzOHh4M3pPUWNWcEJGN21JTG5SVHdzZjFSZldoRTYyc3pVTkFOZVdwNHlic0pJVGF1cXFCSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why PagSeguro Digital Ltd. (PAGS) Surged on Monday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLU9OTEwxS2locVBlaVdoUEtJMUxIN0l0NFNSNTlWUmpnT0VkeHM5d0RBMHNNSVJFdGVYaUlCc1c0ZXJSU281ZGZhaFJaSGtuTjJVa2dobUpzQmdGQUQ5X2lfWVVpSTJVd2wxcWt5MnBkZ0tuNXQzdHBZRndtZzZoWnFR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is PagSeguro Digital Ltd. (PAGS) the Most Promising Stock to Buy According to Wall Street Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMkd6SVQ5T2hPa3VLWTF6NExwanQ4Y0kwQkpxY1BucjJiaFQwT3BXTGc2M3Z3cjRGWFo4ampqMFlZeFhVRTBaNnlVODVaUWtmZ0VveVNLbloyY3JoUmFlUHlOdDU0cVh6MlpiclZtZjdMZ3A3QkY5YktOQVZ0YlJKWHRqWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "PagSeguro Digital Ltd. (PAGS) Q1 Earnings Beat Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWVlleThlb0RZR0o3dUNQQldyWEJiMWgwb2EwaHh1d01BNS05WURTOTFteDhCUkllclIyWjRYdzhNQkVISWxjNUIyNlRuS1lzOFRYWVdoWDZhak9YeGhiQzdtN1p0ME1VZU9QUkhWRmtDQS1IcGExMlhpMUdLd2xiQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "PagSeguro Digital Ltd (PAGS): This Software Infrastructure Stock Is Outperforming In 2025 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGRBLTk1cGRmWlpEaWM1SkxacldmYXpTQWRGMXg4X1Y4RE1XdmNZQ2lRZkptWjNHWktjTHpkcFFHN2szTzZZWkVTcWlsOHpwRU9RX3Q4ME9pRUtYQUVzRk94N1VXSGJmWlFudUZJRFU4eXFmM0NBUTFGRGFOQV9NVDlmN25Sb28z?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "PagSeguro: A Perfect Buying Opportunity After The Recent Downtrend (NYSE:PAGS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNzdWdy1hSTEtUnhqWnBwa3ZJeExjWDhfZWNsalQ1SDRKT2NfcFB3Q01kc1pvdmJSZ2YtVGQwMkE2Qk84SUJwZTIyTWJWRUxnVzRYSThIZTIzZHNpQklzVlFfZm5sbi03MFhEeEQtbGxETEVDWHZMYnRuWnp6MF83Z0Q2a3dyclA0SFMyQ2NxWWh5R1hxS3hjTC13d2tRbGVKcFpja1JiS09QZw?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 7.6
-      },
-      {
-        "date": "2024-12-03",
-        "price": 7.33
-      },
-      {
-        "date": "2024-12-04",
-        "price": 7.48
-      },
-      {
-        "date": "2024-12-05",
-        "price": 7.36
-      },
       {
         "date": "2024-12-06",
         "price": 7.11
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 9.1
+        "price": 9.12
+      },
+      {
+        "date": "2025-06-03",
+        "price": 9.13
+      },
+      {
+        "date": "2025-06-04",
+        "price": 8.96
+      },
+      {
+        "date": "2025-06-05",
+        "price": 8.84
       }
     ],
     "current_price_data": {
-      "price": 9.11,
-      "change": 0.18,
-      "percent_change": 2.02
+      "price": 8.84,
+      "change": -0.12,
+      "percent_change": -1.34
     }
-  },
-  "news_sentiment": {
-    "summary": "PagSeguro Digital Ltd. (PAGS) has recently experienced fluctuations in its stock price, with its latest news reporting a decline in stock value. Despite this, the company has announced a new $200 million share buyback program, indicating a potential recovery. Analysts have also predicted growth in the first quarter of the year. Meanwhile, PagSeguro has been identified as an undervalued fintech stock in Brazil. Overall, while there have been mixed signals regarding PAGS stock performance, the company's potential for growth and undervalued status make it a valuable investment opportunity for investors.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

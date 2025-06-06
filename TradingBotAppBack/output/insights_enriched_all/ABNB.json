@@ -2,55 +2,163 @@
   "ticker": "ABNB",
   "name": "Airbnb",
   "sector": "Consumer Discretionary",
-  "market_cap": 79527895040.0,
+  "market_cap": 84647682048.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 32.78626,
-    "PB": 10.049135,
-    "EV_Revenue": 6.269,
+    "PE": 34.808376,
+    "PB": 10.69607,
+    "EV_Revenue": 6.516,
     "ROE": 0.3206,
     "ProfitMargin": 0.22596,
     "GrossMargin": 0.83048,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 28.726,
+    "CurrentRatio": 1.273,
+    "QuickRatio": 0.697,
+    "FreeCashFlow": 3194249984,
+    "OperatingCashFlow": 4384000000,
+    "FCF_Margin": 0.28438835327635326,
+    "ROA": 0.06276,
+    "PEG": null,
+    "EV_EBITDA": 28.907,
+    "BuybackYield": null,
+    "PriceToFCF": 26.528033773326616
   },
   "technical_indicators": {
-    "RSI_14": 51.96512047346386,
-    "Momentum_10": -6.55071977256001,
-    "MACD": 1.3079361862415624,
-    "BB_Percent": 0.4408466722934729,
+    "RSI_14": 65.12617781918146,
+    "Momentum_10": 7.787014246063895,
+    "MACD": 2.118757436725786,
+    "BB_Percent": 0.832111014875649,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8752929061279726,
+    "ValueScore": 0.870886523020725,
     "QualityScore": 0.409643772423,
-    "SignalScore": 0.6528413334722087
+    "SignalScore": 0.4666714059381195
   },
-  "volatility": 0.0296279430122581,
+  "volatility": 0.029747979511304,
   "beta": 1.144,
-  "return_6m": -0.062840926936162,
+  "return_6m": 0.0060519139078392,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 34,
     "target_mean_price": 138.95766
   },
+  "news_sentiment": {
+    "summary": "Airbnb (ABNB) fait l'objet d'analyses divergentes récemment. Alors que certains analystes soulignent des raisons d'achat, d'autres recommandent de vendre les actions, mettant en avant un été morose pour les voyages de loisirs. L'annonce d'une expansion massive suscite des interrogations, tout en étant contrebalancée par des préoccupations économiques et réglementaires. La vente d'actions par le PDG et la stagnation de la croissance ajoutent à l'incertitude entourant le titre, qui oscille en réaction aux tendances du marché et à la baisse du voyage aux États-Unis.",
+    "sentiment_score": -0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "AIRBNB, INC. (ABNB) - MSN",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0V0RQR0ZHT2ItQnhGcEg1X3BVMmgzWktVX3ZfYnBaX0lVUFZ5VElSSEJwTVZuUnhGM3RjeS1yZHVTTDNSRGV1WXNKcHI5YzBQckZmYS12MDVsSXhVdk52NE5vV0dRSTFhU3FqZjcxVXYzcVlLWWc0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Don’t Sleep on Airbnb: Why ABNB Stock May Rally Toward the $140 Level - Money Morning",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWQ3S1NYTF9mUzh6YlZLdWZJWFNqOFpaZkNycm5LVGltTUJHemdkamFBdlh4T0xWSHF2T2FxQjNwOUhhVUhNOHd4Nl83RlZSc2dab3lxYXBBOTBDQTVEc0gzZmlTWUpmWGxoaHp1RVZja1Q3VE01MXBUcGdTUWdkQ1E5N2RlVDJCdjMzdHhtYm9reFRlamNHUXcxOURYV0E0YVhhMzZR0gGrAUFVX3lxTE5Fa2o5LWIzWjRMVXZpLUoyYWh4dDRFVEFmY2NRY0gwcFJjb3Y2X1h6aVczeVNYOHpLRk5CbmFNVXpDLXh6b1BQOHQ4ZGZDbDE5V1JDZk1sSHVZeHhMNWtZOVdkb29aUFdHbWhQeUhRRW5ZSHJTdVRDanlRTmdMZWh1YndSOGx3czd1bDMzU1NXUU81QTNJZV9jU2hrMi16MXdjNmpONVFZd28wcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbnb's Latest Product Release Sparks Optimism Among Shareholders. Here's Why. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWZCYUk0TW44QWdvdnRBZmpuSGZBbGJhTEx1akE0dWV5bjNFRU90Yk4wb2t3bGEyT0hTSXJtNjFKd1BnTEpwWjhVeHZfR3lxVEdpT0tFcE9hQ184d2t3R0JqTzBMN2NVX1lXVVVxdmxwOThlU09aSWtkYU9CcUNScUZQaXdaVkx1Z3FiVjdCMFNwNXlBcUNYXzFHSHczWjRfNTF2M2JFLWtnSXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Heritage Foundation Sues Airbnb Over Rejected Shareholder Proposals as Annual Meeting Looms - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUZhMHVzTjZsWnNaZ2I5WDF5aGtsTjdabllsNERPOUhYeEExZFAyZlMtNXQ0VDNjampaXzBzM0lyTTZET2ZzQk9GcG5yZ05xRy1wQnNwcUhtSHVxM1NBLTM0ZXJxdkJtSXpFR1RJb3RtVFMzaVlaNC10TEI3MVZibUd2RlQ0akNzbGdPdXlBdnhOQW5DM2k0R1ZFY2VfVzJBWndJZmtYeEhyRHBvUHhjX2RrSnY?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Airbnb (ABNB) Stock Jumps Over 2.7% on Nasdaq, Strong Monthly Gains Highlighted - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0RtY050QzRWQURhNUgxYnNxeFBKamEybnAzcUN1OWl2VTNsS2JQaVBwcEdxNEp0YXNXeDI4blRMVFZoa1BkMzFiLXo2REtCNUp5Q1BNY254WXkxMkRCZ1gwMXdlMWpYSW1FRmxJeTJCUmRDTlRmRXJyRUFJYjBuMFA0cDZfMDgzd1hUWnRsZWlvTF96SC1xMmtCSHV3RExRazd1TkRCekx4NFNqdk4ydHZ4bmhtTUFtb2JVaA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Truist Downgrades Airbnb (ABNB) Stock to Sell, Reduces PT - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1BQamYyNjFBLVU4TXlDOFh2SXN2cnJQa2phd1Z6YTJRN3hFVW1ZT0ZmNGlZX3VrUk9NNGRTRWFncDVqMXh5c2hqUG9vRmU1OWx2S1E2TlVQRTNVdEtxOG8zTTlJUldYYVdiR25rYjZyUjRwaTZEV0ZIZVB4QlFCam1YdzZqREtBcjFvSk9xNGw1YkVhaUVOQmlFV1lhU1XSAacBQVVfeXFMTmVscE83U0M3SXQ2UTUyVV9kNUhrZ1E4dW0yaFZGOVpMaWIxa1hsUlFxV0VNODJaazhLbFgzdks0azRmMm80aEVaYnVSTl9VNzZHQUloUGRvQXY2LWJqUXVEM2R2RDc3SmVaQ1FaTmpZdnRFSHFISXdPUVlpU1N5c2IzSWxreDZOa3Z1QnhGX002em9MU1RHcThHN2dSVHRpZGJJcFhkbWs?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Airbnb Stock Underperforming the Nasdaq? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWTc0Q1F0b3Y5a09kdUdnTVhaZG95OWNMVnB5WGNPMElrdEdTUmdIVC1Kb2FheU83d0NGaS0zb3hyVTdlUXAzcTFKdEVwTG5sbnhPLU1FVlc1NzNUcXNhSzMtaDFHcy1tdTlla21DUFpVSWhaY0ktVE1BeG1yZjRTSHhacXdnTFlXRDE4NkFtN2VJTlhNSndMcHFMMHdCV1FiMHlDbzhSQVVjaUdnVzJXYjRPRmYxZC0zWDRYWmpoOWtndjk2X3RwYWtR?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Airbnb’s stock is now a sell, as a subdued summer for leisure travel looms, analyst says - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNkVleldmSHFlQ20xSmJWaUo4NE9WTklsV0dCNGlWbm5QZlc1U0JrdkJ5SEdfV0Qydjlwa1BUUUg4M3htbFViclJ5dkJuTjc5SWVvZHk4eHM3NzdRdmtjRk8zcnkxTXY3VWQ3czRmODEyTVVzMWRYekhQa2JRd3BIb1BEZnhwUmRCNjVQYl9SR3ZRUGhxR3VubUM5d1hMcUpDZVE1SGQwQkJaRXBxQVQyVkppekdwdmx0NElnV0pLMUc4SWM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Airbnb Stock Is a Buy for 4 Reasons, Analyst Says. Plus, Norwegian Cruise Line, Hewlett Packard, and More. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNTFYOGE4QzhSSzZLNkt0enBZU3FieDA2bDRkU244cVVCdUJaQXU4R2tzcG5JYUhQdGRtdmF0WlRBUWpZS0huOXZlVG1MTnR4YVU0ekVUd2hrMEFiOXlMenZjcmtUYjE3ZnExdXpGZ19DWGxwN3ota3JfZXVZWkpPSzgtZ3ZVMW1EV0NYS05pd2VldGUwYURwQ2huRm43QUdMamZoVGo2dHpCRkQxVVllRTEtNm90TklndDFEMW9SSDVmSEsyaFBlRlZNQV9uZDYxS3pUalgwTV9WQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbnb provides copies of stockholder complaint and alleged stockholder proposals | ABNB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbVJ3b3djSXVMOHQ2TWZWYXBuMXJNVFVrSFY2Q1E3eHJVMjRRVmhuUjdHWEVuWTJDTVViMlQ2bmhZSEU4eDNKd1p6TkMtTUk1cWhwdGhPWFdaOGJQSVRPRk5JWXNQSFBNVExTSUdiMnlqMVB6NktWTnZZYmVxVFpvdVFnMEg0NFB0RXlSV1VST2VBbjU4LVJDaEtyV0pITVJxMUd5QkxYb2ZDYlk1eVFDa0psclg5U3lMN0RXdTZIM2c1aFpKUDlEZWRsd05sMDNKZXg3czdUVmdfQ3ptZlp6cmUwcmxQVWszc0d0MklfZ2ZhdmRQRDhZdTBTcFU1Qll2S0xwWHNBWExlSG9mMkxzZUJCQlc2cXZWSEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Was Jim Cramer Right About Airbnb (ABNB)? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4NGN2N0szbzgyOXhIUjZiODk5cVdBVWdCcDAtT1JuSDBnUWJnNHZXcEZPVXFsZHBFbTdLU25OQm9MNnpnX3I4VHMtXzNaTUcwOHZjQUVfaDRtek42LXJIeXFDVHNOYjFwRW9fazlCQUJacndVR0Z3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbnb: Priced For Nonexistent Growth (NASDAQ:ABNB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeDRSbkJTVTdEenpWaEREbndQZ2JLRWJJVHE3WV91My1hOEx0eE5UOFJ6eFpTWDQ1dFlNdGRqeExfd3ppRXlhY0cwU29UUkhEMWtIY0k0TktVYWFtZDd3ZGZsR290OW1nSVk4Z3dGc1pHLW1sX0FsM25wWV9icUNwOFBDMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbnb Is Embarking on a Massive Expansion. Is It a Game Changer for the Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGN0NVJMczhHMWlFeXBtTkNQbDNEQzR6ZGx1TkM0YnhQZDMwdTJiVnp4X1NicFMzZXRIOUNFNjdvY2ppUWItbkg3LWFXTjdyT2RPOXdiQi14XzhkNHF4TUFUNmMyWHhERjRoOU5kTlhlLUxucmVZVkJFT3hHcklBYWE0aW5JcE4wSklDQmJlZHJfYkktMnlCbg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vacation Rental Airbnb Stock Gets RS Rating Lift - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONDV1ODhDSWpheXZldGdwQzVmTzBWYWtjc0pTbGtSN3FGOHl1SDhad2FhM015aGIyUnYzLVNGRGlYYU9RZGx5R1VGOC1jSC1oaFEtVHdtUmhkY0ZjSmx4cWRlZk1mdHl5bnRlY2lPZ0pKQVpwZS13SmE3Mm1YTnlqYXFsN3ZIMUk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Airbnb (ABNB) CEO Sells Shares Worth Over $1 Million | ABNB Stoc - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVF6MmNkNjJCQzRKWkNZSjVQYWItdmJIY1dtV3FOYm5nTFZGN3BhWjloaFllS0kwb1ltUi11NDZERkF5WFZCS1ZoNFM1ZnZpRk1WSk5HUkptbWhRZ3NuOWFHR2RpdzhUMVFxbFpldFNhajloV3pybk84X1VXTVlaRmVwdHotWlRJbk9adWhjT1pJZUYyQVMzNWRtZDQ4SHgxZTRFT19xaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Can Airbnb Stock (ABNB) Keep Investors Happy as Growth Stalls? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZTdCWW9iSFAtWElDNG5PdGpaN1pkOXdUSVF3UFFMS2Nfa25MUE91Si1hWkRDMm9XSUJabTZyeVZfUzk0SG5LTW1uM1JlYy1XVmJoZ1RScHhkYldWVVdBR1pvblo5dHVFQ09ZUUNSNTRiZWxCTVc0SFJQdDVzTzlyVFBDb1Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbnb Would Be A Check-In, Save For Economic Concerns And Regulatory Headwinds (ABNB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUjBLek1RY0J5SzI1RE84Z0xuWGZfcHJaZzE0RGN4Mjd0VFVFZmhYTWFpY3RPajVkWFdEN2hPN3J5c1hJWWhYTk4tOGxjT0Z2eEU2MkpzS2pGNmItc3pNbzcwdlJMUnA1RzFCTFppNzM5RVJhN0tMb2pwQmF2eUlHcDg2M0xIb3gwbkw4Z2R5Ny0tZ1I3YVRhTDFQS3d0N0t0dXZrQ1psY3d1QWllWG53c1dEN3pZSkg3UlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Airbnb Stock a No-Brainer Buy? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zcWhLWE9jRnhabzdqazBKS0FqR24xYlo4VXYtV1pyQ0pYeG5JSGpOb21ibC1QRDUyaWpEdVVrMFlfQ2RzYWdlOVVYeXlxMDg0aEQ2ZUdqNk5LRDk4ZS1ITUdHTlZMYlRRbHVz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Airbnb (ABNB) Among the Best Stocks to Buy According to Jim Simons’ Renaissance Technologies? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3lPaC1uSEF6NTFSUUl6bFVCZHdqUkkwLXhRbzZHOFJhY2FRZGU2TDNHbkRTelF3Zk9lazZReWl4b0FtYVYzVWcxaUtyR3BNb0d4TjFtdmhvS3ZsaFhodG1ISE1kY3VrVWdlblpiRlpzMVJnaEJjQm4zczdOVXR1Zg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Airbnb Stock (ABNB) Teeters Like a House of Cards as U.S. Travel Slumps - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLW94cGhGN2Q0UlRJYmJ6MTVURHdhNjFjcEJLcm9FSEdwai1BS1AyUm55NjdMeUk2WFJTb1BoRmRpaGZ2Z21TV3J6ME1HZlJhSzgxUkliQVhNeEFTMWhzT2dxdGNtenJkV0dqb1cxcUJCdDR1ZFl0X2R3TjIxVW53cllXbw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 137.49
-      },
-      {
-        "date": "2024-12-03",
-        "price": 137.46
-      },
-      {
-        "date": "2024-12-04",
-        "price": 139.07
-      },
-      {
-        "date": "2024-12-05",
-        "price": 136.32
-      },
       {
         "date": "2024-12-06",
         "price": 136.92
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 129.28
+        "price": 129.62
+      },
+      {
+        "date": "2025-06-03",
+        "price": 132.9
+      },
+      {
+        "date": "2025-06-04",
+        "price": 133.51
+      },
+      {
+        "date": "2025-06-05",
+        "price": 137.29
       }
     ],
     "current_price_data": {
-      "price": 129.28,
-      "change": 0.28,
-      "percent_change": 0.22
+      "price": 137.29,
+      "change": 3.78,
+      "percent_change": 2.83
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici la synth\u00e8se de ces titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Airbnb :\n\n* Airbnb's stock has been downgraded to sell by several analysts, citing weak summer trends and a subdued leisure travel market.\n* Some investors are questioning whether Airbnb is being priced for nonexistent growth.\n* Airbnb shares have dipped following the downgrade, but some analysts still see the company as a buy for certain reasons.\n* The company's stock rating has been cut to sell by Truist Securities.\n* Airbnb is one of the stocks being discussed by investors on Barron's, along with Norwegian Cruise Line, Hew",
-    "sentiment_score": -0.3,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 4,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

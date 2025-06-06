@@ -2,55 +2,50 @@
   "ticker": "5831.T",
   "name": "Shizuoka Financial Group",
   "sector": "Financials",
-  "market_cap": 925352329216.0,
+  "market_cap": 930229846016.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 12.516494,
-    "PB": 0.7929693,
-    "EV_Revenue": 8.386,
+    "PE": 12.59442,
+    "PB": 0.7820558,
+    "EV_Revenue": 8.372,
     "ROE": 0.06295,
     "ProfitMargin": 0.2839,
     "GrossMargin": 0.0,
-    "DividendYield": 4.26
+    "DividendYield": 4.19,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": -492891996160,
+    "FCF_Margin": null,
+    "ROA": 0.00468,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 69.24812668337138,
-    "Momentum_10": 7.66078184110971,
-    "MACD": 41.87743605606215,
-    "BB_Percent": 0.9563546803373244,
+    "RSI_14": 60.82301791116493,
+    "Momentum_10": 3.5351982785121425,
+    "MACD": 41.878242449309255,
+    "BB_Percent": 0.7626628926649512,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8762407903240773,
+    "ValueScore": 0.8731295823165376,
     "QualityScore": 0.4162408530551154,
-    "SignalScore": 0.4628870116257331
+    "SignalScore": 0.5104206504678974
   },
-  "volatility": 0.0233774373707675,
+  "volatility": 0.023439463306446,
   "beta": 0.107,
-  "return_6m": 0.2750002210402418,
+  "return_6m": 0.2789714921761161,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 8,
-    "target_mean_price": 1922.5
+    "target_mean_price": 1953.75
   },
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1367.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1367.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1341.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1344.0
-      },
       {
         "date": "2024-12-06",
         "price": 1354.0
@@ -514,12 +509,28 @@
       {
         "date": "2025-06-02",
         "price": 1707.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1690.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1716.5
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1684.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1709.0
       }
     ],
     "current_price_data": {
-      "price": 1707.5,
-      "change": 17.0,
-      "percent_change": 1.01
+      "price": 1709.0,
+      "change": 25.0,
+      "percent_change": 1.48
     }
   }
 }

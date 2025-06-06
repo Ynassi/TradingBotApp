@@ -2,55 +2,163 @@
   "ticker": "MDLZ",
   "name": "Mondelez International",
   "sector": "Consumer Staples",
-  "market_cap": 87212605440.0,
+  "market_cap": 86053732352.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.039034,
-    "PB": 3.3822942,
-    "EV_Revenue": 2.908,
+    "PE": 24.706318,
+    "PB": 3.3373506,
+    "EV_Revenue": 2.877,
     "ROE": 0.13302,
     "ProfitMargin": 0.09875,
     "GrossMargin": 0.32736,
-    "DividendYield": 2.79
+    "DividendYield": 2.82,
+    "DebtEquity": 78.051,
+    "CurrentRatio": 0.606,
+    "QuickRatio": 0.325,
+    "FreeCashFlow": 3596750080,
+    "OperatingCashFlow": 4678000128,
+    "FCF_Margin": 0.09863838248667992,
+    "ROA": 0.03691,
+    "PEG": null,
+    "EV_EBITDA": 18.62,
+    "BuybackYield": null,
+    "PriceToFCF": 23.89301431585705
   },
   "technical_indicators": {
-    "RSI_14": 57.33023722355441,
-    "Momentum_10": 3.2192260743085748,
-    "MACD": 0.2331540260894939,
-    "BB_Percent": 0.7593147844418541,
+    "RSI_14": 49.88771016624504,
+    "Momentum_10": 1.746857726527016,
+    "MACD": 0.1962994087649718,
+    "BB_Percent": 0.569434442119768,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8896860847726069,
+    "ValueScore": 0.8869302135862182,
     "QualityScore": 0.3982141641162094,
-    "SignalScore": 0.5603749291035964
+    "SignalScore": 0.5838316048058316
   },
-  "volatility": 0.0151448583274195,
+  "volatility": 0.0149987089481605,
   "beta": 0.499,
-  "return_6m": 0.0480640561249685,
+  "return_6m": 0.0666791648671421,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 27,
     "target_mean_price": 72.70815
   },
+  "news_sentiment": {
+    "summary": "Mondelez International, Inc. (MDLZ) attire l'attention avec des mouvements significatifs de positions d'investissement, notamment des hausses et des baisses de parts par plusieurs acteurs financiers. Le titre suscite des débats sur sa performance relative au sein du secteur de la consommation de base, mais reste attractif pour certains investisseurs, comme en témoignent les acquisitions récentes de parts. Par ailleurs, Mondelez se distingue en rejoignant une initiative mondiale de durabilité, renforçant ainsi son image et son engagement sociétal. La décision de maintenir un dividende régulier démontre la stabilité financière de l'entreprise, tandis que des opinions divergentes persistent quant à son potentiel de valeur pour les investisseurs.",
+    "sentiment_score": -0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Mondelez International, Inc. (NASDAQ:MDLZ) Stock Position Raised by Thurston Springer Miller Herd & Titak Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOXpxYmstNDV6dnZYMTlyTERHamdFWklDWXo2TURLSG1oZTdnaU12R0VDMTZDa0Rzb1JUR0lESkxLUUE2cVBGbkdKM0hnSXZJRlNQa2NDbGY2Z0hTMFdSQWNPN0Z4MnVSem9VZnM5SWVsT0hTd1VvT1BEZmxsRUNUaWRoMThGMENybXAyS3FkdWtObFBsQUkzRUIta3puNlVCVFo0QlhyU1hydC0wOHAwbHVRbFBxcjNfc0o5RlV3MkdjZW9YS0o2REEyWl8wSGhDaWYtOEVIb20xNEtmYnBFeVExMGVqS01pMlBRVmZZN3BEQ0FWUVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mondelez International Stock: Is MDLZ Underperforming the Consumer Staples Sector? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNzd2T0h4LW0tYWU3RDJNclQtdE9NLXRzc2VSRzRoX2NuWUlURHdrMkhfLUc3bnVHZ1lUZkdBUEI5REM4YlltajRIbnJjZERINU5reWxEblE1Wkp2T2JoUVhVOTlCakV1NDByX1FEQ0pSU2lIU2RBeUp2REx5LWZkVmRzSHoyajBFSG5yNk8yRThVZ3VYeDBZU19yWml1d3Q5TWl0UDF2OHVBak5IaHhjczIxN1JadWd3TVlmQVl6Q3dGZ0o3MUZsX2RGYkFmdlk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mondelez International Stock: Is MDLZ Underperforming The Consumer Staples Sector? - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXJ2UWNndU5reE4tYmQ3SjdtZTJSU01EclQ0eHRGZkRZRE1vWEFDaS14UlBITnRJbFRybHBxMDNCbFdWV2xxeTUtN3lIY2JKRmVIaXdJZmpyMG42OE9GVkpoSHJiVFd4a0FDQUNfak9iWFFtWVB1SGQ5MGpXN1NMZDRtSFg0VGk4NXY2cU1QdS14ZjB0ZUx3Um12Q0trN1JzeDdVd0xXeFFUTWY0VVVFYlM3NXNxTWtRQTlBbmlrTWFtYkk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Mondelez International (MDLZ) Stock Outpacing Its Consumer Staples Peers This Year? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGdBSkxQN0JzdVdDQjlkU1VOSFM0TDlLd3l2V3l3cVFZYUJueUo4bmI2ZEpIT3NQWXBWclkzT1daTVRaZ1c3ZWg2dVloRUhaYVY1bmw4SHBxWkYxWEFuLXFvOHVGRzNlR2w4dS1GR2FXakQzSTNUQW1Wc1hQN2VQTUZyNW13Z016Ykc0RGhCS3Z5ZTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Mondelez (MDLZ) Joins Global Sustainability Initiative | MDLZ Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTJhRkpRWWMteHRtNmlkdlI1Q2p2bWY3dzZHYUxGNE43TUlZZXc2WGgxZWpGMW9ydzdTSElUSndjVTlrXzVTRjRQN1FrQ2UzSmY5eUstSURac2dxOUJHdFpURDAxR3d4RlhES3Y3cEpRWXFyMGRqWGZsVHVXRFY1dGdXZXRjN0JiZkFNSVBOMkp0NTBMeEdNM2l3c0s2eDRUZlZ2U1F2UWgwODg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mondelez: Trading at a Premium, But Worth Every Bite (NASDAQ:MDLZ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2h4WFhfUFdVamk4TjZqQ1N0T0xXZmg0eU44dmRhbk9KTlRZcnZvTGhROFpBU1BGNklXdmNYZE12VUMwVEl4RFZybHJKbVAtQUZ6NXN5bjZDUXlaUlBnbkhsby0xbWhkNlBmbENIRVZxaWRmS1FLWnVkVjBmNG9OTlRfUENxdnNrWFpzdGw5SVE5NzVqS0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mondelēz International Declares Regular Quarterly Dividend of $0.47 per share - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPLXNxSjM2QXdPLVQ5cFpWTzFOZHYtMDRJOWNhUUlmaVlxWVlKTDFzejFtcXA2bjVtVS1TUjhqTzdKUXRwZE1DWFl0ekQ4OXNhT2NRSDVjdjJ1NnppbzNUQmZDendsXzcwczY0bERBY2xEcll4S2o0aW00Rjg3c1ZqRldfZXFOV3NQckhHbmVkSmdvRnBERF9aQzQzQlBtNEJLQXNyMk10MFFTLU5URWEwVUFldzFCZFFyWTZyQkJnX1E1SnpTSXBIM0U1d2JEbE1XMDlPblZ6dXZqdGtHSU44WGk3OVpGa3FNRGQ5bTBn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Learn to Evaluate (MDLZ) using the Charts - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2R4eHh5cVJSRF82N1QzLXo1UGVEeDJmOE5fTlluWWxEUjNZc0JpcWhYdVdPYzdOYmg0OGg4MVA0ejFGUUJYV3RjMkh0cTRBdkx0cmlYTWphTGxBNEIxWlhFTUZZWXRYUl9NRGVCTzlOSDZITkdla25JazNqT1lGc1ZIWDBQOFVINUxhYzF4TXRxQ0x6aFQ0QU5pTVByZ3ZPZXpsZEhteGhJWmVZR3o3VVBtRHI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Advisory Alpha LLC Decreases Stake in Mondelez International, Inc. (NASDAQ:MDLZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZlZ6bWttdHNmWHk5ZlhaRVUxQzA5YWhkVE9rblNqWXh0UmtXRzRlc3dxOGt1MWNUWW1fbENGVzIwd1FyeXBlckwtNlFqWmlISFNGU2hmZzFtVF95UWQxQUxWblRjbmJpZkFId2hCaDJ0OWd3T0hLU3NYSkJSYTJFbnNpLWVrSFJfcENpV2NUOTlrZWV6ck1HeDM2Q1dBYUJLczBQaDFad1pjRFBvZW1KWGo1NjJBeWZ1UkdxanQ0Zk9TWktjZXEySXlsQ01TTlhWUGRVVmpPeFhzQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Mondelez International (MDLZ) – “The Best Food Stock – Chocolate’s Surviving GLP-1 and That 3% Yield Looks Tasty” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEpiYnZKRzBCNGlPZ1U0YTJ0amI3eEt1SUR4TWxNd3JoOUJRSjYtYjRBNFRPTGJBMGpHdWNxMklxdFFZMExjT0tuQ3NTZzNVeVV2UXNnVGx2RlgzSEdjc3hVV1Y4c09pRy1WYXFTblFhZ2tXV0lRSDFGQWNGT3dlX0pYeE9SZWMzSWVTdg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "NBC Securities Inc. Acquires 10,149 Shares of Mondelez International, Inc. (NASDAQ:MDLZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1VsQ3BCSmZCbWQzenpja2xxM0J4c1FILUZ1ZDJBZ2x1eXAyWnJKRlRRUjNkcWhXTF9UYl9VODk1NkJmQVVYNkdQbGVlT1dkSjR2dWpoY1JseXVhbWJNZjR0RnBsOE5nQUV0d0RBNElyNFlGZk9VRUdNT3NaZHpfd2piSEpvR2daQ0FITWtJSjB2dXdUUC1PTk1UaG5idWcwaVIzdXQzN2IyZGJvalNNdGtEYmJOX29fU3NVWWFjY3BwcFlpLXR0TkVvWndFUERocEpfcjZnOGFxQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KRYAY vs. MDLZ: Which Stock Should Value Investors Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tYnY3ZWFMaEk0b0Rzb1NMdDlMRVlreHJfOHVzdjJJSmotWUxCZm5GWkpXc3pya2ZrZjlEbW40cy1la2lUU3AySGxUR05jVl9kQmJkMTMySzhONExwdGttcHFHTXRpZkFqOWhVbTI1T2ZpV2xWMGc5Ni1BNA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Merit Financial Group LLC Boosts Holdings in Mondelez International, Inc. (NASDAQ:MDLZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSExGZl9lNkh1V056eFhzT2p1cGJRanJzT0lQRDZpZzhQTlVkb2tXNVlCRzY5UnZfUG1mWkhweGdNbW9BcTVwZEpJTkRfQWt5TTVrcjdNQ0ZWZHJMTzFWWnN3MGhtMkFwOEdZNkJOSjczbURZWG00dk45WXpGR1N1QnJUZ2wza2UxSVVmQTNkYWRzaUp1RGdMU0hRdmN5T1ZtYkg5Wnp6eVk2ZWZBUkVsVEs4S1lRMVZraWlZWk5tNmdWd1dlS1dDVTlrTjZON3JFUEhEcWFKbC1nVXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Fiduciary Alliance LLC Reduces Stock Holdings in Mondelez International, Inc. (NASDAQ:MDLZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRXF3dGpuaGQxd0c0MUt2VHYyLVpPNnBaMndEOVhEQ1Rhb1FFRW9Mdm53Tk5YaWtJZTZUWlRUdDlNWk9VRm1SdHVBbW5yVFh0ZnRMc2ZQVU5BSEdLd2tkbGZjWlBuNU1iTUowTFAtNThabFVzenJkbXhmUENia0pyanFfNGNpT3pWSWl3SDVQR2V0RDJjT3RpbUtxWlBhaDkwMXhJaXV4TFNYSlo0TzBPZU1oWmFaWkVfZE8xY1NSMGlqdllNNzJObTFpZHY1NTNMemUtZTBaSQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mondelez International, Inc. (NASDAQ:MDLZ) Shares Sold by Unigestion Holding SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTWljNVpPZWJBQkU3TEd4c2k2aG94UGxfVmJvcXZYUUZwWlplRm9jNnFxeXNQM09SSGdIV3FxMEt0YWZidll6WGJyS1ZxMGdmM2pRSVIwcTBISHZ1eGlvZDBBQnNlZ1ZzSjFmRklMRUlmbTdSUzRMWk9ydTlEa0p6cmNoR3ZRZHJFSnVCRzROcXZlN2tIb1VJamxnVW1mX0U3anhCZHh4b3dqc3c5RTlKRTBBcTRjY0cydkREYWRuOFI5Z1F5SmlWLVVzckM1RlQtdU9kR0Ftdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mondelez International, Inc. (NASDAQ:MDLZ) Shares Sold by Bath Savings Trust Co - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRlh3YU0wYWFxUmxUcUhhSWNub0xoQkR0d0RYTkpMT2p5YUNZcnBKTHA5NkpIRjBaZzRickgya09rZkpwTGxxM29sUDdPSW1KOG03R1RDUmMwUTM2ZTRzUnpHM09fTVBRWlJNaTZ3NE5YNFhEd19Mdkc4QWgxdV9ka2VQdlhOaUs3YWJib0V3RlV3NF9CTmpHOFh3VTFtaWxUd21HVjlqZXdlVDNnM0NCREVRVDEySjRvUWpkT0RIcHY4Y0xRTWE3N2doQXBZMXJz?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mondelez International, Inc. (NASDAQ:MDLZ) Shares Sold by Town & Country Bank & Trust CO dba First Bankers Trust CO - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWmJ5N0tlM2s3OGliTzdLRXFXQTlfVkNXUEV1aktHQlFpQ3dZenBfQmhpVm4zMmNybHVTZWV5NW1RM3NaVnhldFUxM3RpSjg0eG4tcm8yNHc4Rk0xT0xGSkh6bUlmbTNKZXhkN3N2bEVYQ2NDM0NpOE1xRnpYOXRtN0Z4VHBiaWpuWnNDZmY4TWo1RnpFODdJeDduMTM0SFU2NGdydXBRd0dkWVpJcmp1X1pNLTExcnhDU2JuYzV3RVBKc2tqUjVZOEYyei10SlBGcmZqVVU3eU5CY3lQSXNRaHozUE9obmhBNTVKMjl3RzlOcmtmWmc1X1pwdGM0RTJDSjF3YjA0T18?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wellington Management Group LLP Cuts Holdings in Mondelez International, Inc. (NASDAQ:MDLZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWlpHOUJDbFNveUdqYWNsNTNMV2ZXYU5tYzNCdjdkdHotNjIyZEVuS1BfTm9aeGMwQW5lNDRtX1dfNFYxRDBxcUM1UHV0b2VMUFM3RUpIYl9yNHM5RXpZemNxVXdWV21kSHNkVGs2Y3N1SllCOENYYVM5d0cydVZjZnNKNnhwc05ucUhITkhOOElyVlR1b25BeVRyNHR4TDV0Tjl3Um1EeWhETXk2UmN5ZTNHaTljZk1MTWpHNi01aFpldERJTEVFR2xrZ25zV3lLUC1VbzZ2cFdPTi1wR29lU2FJcHg?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "GAMMA Investing LLC Purchases 1,227,618 Shares of Mondelez International, Inc. (NASDAQ:MDLZ) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeHFtdThROUxHLWxYV2psQWpKaEptb21ydXlNb2lEV1M1R0s2ZEFOVWc4R2V6SnJwM3JUSklmNmRGSHdFVDd0T3IwNnpnU0xSSTVjbTlWME9pVml0X3JPVzY3YkhzQkJrRWJiVmZDczFSRk9xdTlYUzFXYTFrY3RhclJ0bnY2cF9NdUVVUHgtSnM0UHpNTkw2Q1N5d2xON2xoV19GSmVrWVlGZGN0aTRDOXRwVHpQa3Q0THl4WXFGTDFmS3JmS3l4UjRaTzRlUmdmUDh2T3I2N2UzUU5JX3RF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Mondelez International, Inc. (NASDAQ:MDLZ) Position Increased by Douglas Lane & Associates LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYmZoUm5fdkluVk9uOHdwZUUxcGQ2SWVLM0tEVmhkYUk3dGFRUzRjUnhhMFQtdWN5T2R0Um1qa3RkVXJQTlZFcnlrdURTOTlseDNMSkVZWE1FVS1ZTThHenZ3ek9EbjRqTDFCWnFKdnEyLURway1rMXoxQU5ObnJIZTZkVjlaQ1JsTHRiT2VUZ252S1pDSFRWZ29udGNEOTRibGVsVTBKU09rUDgyMGh2MTVCVEdWUlZQUlB0Vnc3R0w5YzZNR1Nob2k2VGlIQnJWb2Q4NktzLWhmR1IzeUtV?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 65.23
-      },
-      {
-        "date": "2024-12-03",
-        "price": 64.81
-      },
-      {
-        "date": "2024-12-04",
-        "price": 63.27
-      },
-      {
-        "date": "2024-12-05",
-        "price": 63.24
-      },
       {
         "date": "2024-12-06",
         "price": 62.86
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 67.39
+        "price": 67.51
+      },
+      {
+        "date": "2025-06-03",
+        "price": 67.04
+      },
+      {
+        "date": "2025-06-04",
+        "price": 66.63
+      },
+      {
+        "date": "2025-06-05",
+        "price": 66.37
       }
     ],
     "current_price_data": {
-      "price": 67.39,
-      "change": -0.1,
-      "percent_change": -0.15
+      "price": 66.37,
+      "change": -0.26,
+      "percent_change": -0.39
     }
-  },
-  "news_sentiment": {
-    "summary": "Liste des titres :\n\n1. Advisory Alpha LLC Lower la position en bourse de Mondelez International, Inc. (NASDAQ:MDLZ) - MarketBeat\n2. Mondelez International rejoint l'initiative mondiale de durabilit\u00e9 - GuruFocus\n3. Mondelez International descend de 2,2% depuis le dernier rapport d'activit\u00e9s - Yahoo Finance\n4. Mondelez International, Inc. (NASDAQ:MDLZ) ach\u00e8te des actions - MarketBeat\n5. Mondelez International d\u00e9clare un dividend r\u00e9gulier de 0,47$/action - GlobeNewswire\n6. Mondelez International rejoint l'ac",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

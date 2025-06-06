@@ -77,10 +77,10 @@ function CompanyDirectory() {
 
   return (
     <Layout>
-      <h1 className="text-3xl md:text-4xl font-bold tracking-wider text-center mb-10">
+      <h1 className="text-3xl md:text-4xl font-bold tracking-wider text-center mb-2">
         Répertoire des entreprises
       </h1>
-      <p className="text-gray-300 mt-2 text-sm max-w-2xl mx-auto text-center mb-10">
+      <p className="text-gray-300 text-sm max-w-2xl mx-auto text-center mb-2">
         Toutes les entreprises actuellement suivies par NASTRAD, triables par indicateur et filtrables par recherche.
       </p>
 

@@ -1,56 +1,164 @@
 {
   "ticker": "EBR",
-  "name": "Centrais Electricas Brasileiras",
+  "name": NaN,
   "sector": "Utilities",
-  "market_cap": 16817240064.0,
+  "market_cap": 17003283456.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 9.878378,
-    "PB": 0.13524264,
-    "EV_Revenue": 1.539,
+    "PE": 10.013514,
+    "PB": 0.13709274,
+    "EV_Revenue": 1.538,
     "ROE": 0.082770005,
     "ProfitMargin": 0.23156,
     "GrossMargin": 0.53571,
-    "DividendYield": 2.99
+    "DividendYield": 3.0,
+    "DebtEquity": 61.574,
+    "CurrentRatio": 2.29,
+    "QuickRatio": 1.379,
+    "FreeCashFlow": 6924738048,
+    "OperatingCashFlow": 14238858240,
+    "FCF_Margin": 0.16535716881150792,
+    "ROA": 0.028870001,
+    "PEG": null,
+    "EV_EBITDA": 3.872,
+    "BuybackYield": null,
+    "PriceToFCF": 2.455440673443363
   },
   "technical_indicators": {
-    "RSI_14": 46.161182110185194,
-    "Momentum_10": -0.5442171751297046,
-    "MACD": -0.0155369328314352,
-    "BB_Percent": 0.2266484914931398,
+    "RSI_14": 50.63591024706304,
+    "Momentum_10": 1.785709256280119,
+    "MACD": -0.0151087379350549,
+    "BB_Percent": 0.4539303828231587,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9359184473630054,
+    "ValueScore": 0.9352940142770012,
     "QualityScore": 0.5164367255320301,
-    "SignalScore": 0.5047683941534145
+    "SignalScore": 0.5469588892872326
   },
-  "volatility": 0.0188913087399321,
+  "volatility": 0.0186197795993459,
   "beta": 0.359,
-  "return_6m": 0.2802101390443783,
+  "return_6m": 0.2288556533313321,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 3,
     "target_mean_price": 8.76667
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente autour de Centrais Elétricas Brasileiras S.A. (Eletrobrás) est marquée par des événements contrastés. D'un côté, l'annonce de nouvelles émissions de titres et d'une augmentation significative de la participation des investisseurs institutionnels a suscité un intérêt croissant, tandis que des changements dans la propriété bénéficiaire ont également été signalés. Cependant, malgré des évolutions positives comme une hausse de 5,3% du cours de l'action, des indicateurs comme la dégradation de la notation par Wall Street Zen et des pertes accrues pour l'année 2024 ont généré des signaux mitigés pour les investisseurs.",
+    "sentiment_score": 0.05,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.35,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Where are the Opportunities in (EBR) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLW95Y192ZU95bTRqODBCNnJUZkd4WTVwUG9QMnpHV2ZpdEhKNWQwRHFVTmpJQ3RYZlVpMHBTbzFjZF9PeklMX0dyckh3WjB0ZTZ5SFNkMU53ekFmOWh5X3hxVzRKcGt0OVBWczFkZkVLdk0wNlk1U0hkVlZrckppaEpmUlFYUGhTcXdSbGtkZHI3akdRRDhteEpVQll6Q1NKVmYySEtlV090N3ZsUHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Increases Stock Position in Centrais Elétricas Brasileiras S.A. - Eletrobrás (NYSE:EBR) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaE9SdHhhOVlmaS1RamIwQXdMRjBkcFBZcEcxOGV3WG1nb1ZHNG8xLUd5WWFTS1hmbG8yUXNRcjYxbGFQa3MxaEJfMXNXZDJSdDNXUkFrOUEyT2tCMGoyYk53U2ttaElWS2d4enpVZE05UDMwU2JPSVc1a2JpWVlYdDVIZGg3cVRKVTlCYzI2RkFGd0RLZHBYeU8wdW1jVTZCMC1qTVU0MFEydHdndld3aFJpY1RNNTFTRWRVUVFjeF9DajMyMm42T1h0QmtQWmR2dElLOVIxdWM1R3FWVXIyVFN4WjZ2VGI0SU1KcnVQSUhjc3pja1RN?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "EBR Systems Announces Changes in Beneficial Ownership - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVk3RnBPdlkyZmVKdDdUU3k0Uk5ZZWJXOW80d3N4SmRZMGpkQi02bUcyWWFzTU85b0NJN1R4NjBTdGo3dURNcGxwS0FIWUpBVGYtZ2JTRHpCOHFnRTBDWTBfaEdKUFRzSjRnTTNzNWVDTnQtNHhfSkRDWEhrVW1ic0FYalVsSmJVMnBvV042UmpMTGRJc1U4WXJFQWJ6NTZZN3pfZUdJQ1I2TVk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EBR Systems Announces Changes in Beneficial Ownership - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWNXdURGN3ZpdE92SnNYNUxXRnl5aDdEdnh0Vl9RRHhUOG1TeW0tc2NBT2dpNXRrb3k3SEc1aXI3RzllNFFESlRjdDdrcTVWdGxnaUFkOGJDUkVka0swSUloWTdnX2MteV9hcnp3UHJYQ2x1bzNnVUVEUjBVZTBza1FaX2JCZFg2NjdUdVZoUWtscHdjWER1dUlaRjF6Z1FzdW5qN1l3bTY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EBR Systems Announces New Securities Issuance on ASX - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMWlpOTdYVGszbFc3bDVGWlRxTzN2dElfMXV2WXJBY203OFFzMG4xZ3JUcEI1TlpFemMxT0xyc3hXV2FwMUU1bXFoVTF4eF9yVlhHVkxYdzJwY2NJTGdjd2N4WXJyN1NyajBVU1QxT05QaGtWZDBFbENZQTVvWDM3Z1AtNlpzajRBYlZjX1JwcGJMc0NyWlRpRGw4RmxvZTNKTTA5alBKVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Etex's (EBR:094124453) earnings trajectory could turn positive as the stock increases 5.3% this past week - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ0VqeEJwclBxV3lBRDhQT1Y2eXFJQmNrNXo3bEdzVVMtVlBxX1dVNEw5ZFJuZXpSZlZmYktfZU1ZSVdZYXB0OUphd052Y2lFbTZpa0VtRWJxRFdwWXpJb01jbThWMXowYkJrTklUQTNIY2J1VGpyUzNOSXFDdlF3MkNmMFdxd2h6YzZHM1hFYUtlQnlRMFZuSTZTazBPMzdLQ3lxRmVuanBRa19lTl9SV3FaZG5IbjhBM1pvdzRfVVBRTWNLXzNNYmxtaE1TNll1WldR0gHYAUFVX3lxTE9kX19YS1pBbld3RG1idUZUbzhqbEozMWp5TU5vR3pVcUUtaGlqaUYzRTNkTU9MUEtUUU9vb1ZYclU2SDM5Z3EtZjRGTTFaRTJvUDJNRUtsSThTXzFSWXZmOTN5X1h2OVMwXzRnenRMaGtNTWhQaFdmNjIyazRRd0tEOEpFYnJ2cFptLWdycDZrLUhxVFdyLW1Dd0hyUVlUUXhJZVhlal9FdEFLczNzcnhUZjdGaWN0eWF5LTBQOGF2Z0xOZ0hoRTZoNEZSbW5YaG1hbXN5VGtPRg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "MELI: 3 Emerging Market Stocks with High Upside Potential - StockNews",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTERuQVRyYzNtVS1OWWpZT0hpSU90MWVDdXAyTUpuZ0Z4eGhwcTZ3Z0YzeEluWklsMTNsdjJFWlh0OU5FQkdPc3A3MVJjcDhSbHNXQ1ZjUFZiRGtCSDc4Q29aODYxQ2hPMXk3RFo5Y2FPQ1kxTjZsRmxrU0ZGdlhDVVZYOGFIMFpCTVFiYW5UaUhXcUw2UEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Centrais Elétricas Brasileiras S.A. - Eletrobrás (NYSE:EBR) Downgraded to Hold Rating by Wall Street Zen - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZlVFY0JDMTZQWEpRVjFaTG1fcFF0VUx1TE1qQk9xSTA4V2ZTbGpOcDF6NDVkYWI4SThXSVM3YjN5a3lUUjk1QUJxTnc2Z1hnZjFYSzA4REhXcGlFSkFGeGVLLS12aTJIRVJadUFUN0o2S2NlaThXTnc1UWhLRXVjNnlCc1hQeW0wWC1WdHZDWVJDYUV1dWlxYVlMSXk4eW14a09pRE5TdHJKSFZPRk5mUmVpWTlOUmt0N2dSWDdyVU1LcF9CdDNBRllhYUNGNjQ4Rk5kaWdWLTJldw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(EBR.B) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUS1Wb0xjU1ZCenBTUlYxeDN2R3BfU3o4Q29FXzkwR2xhcjhQbHpzTmFLMEdEeVVsekxQdmU0dU9jU2Y2LXk5dV9aMkJGUGFNRldnYlVSODktQnZnTjVjbHV0b3MzWTFYS3d1V00xZUV2M0ljY0dnX18tWTZlTVVXV1g5T1FWUjJfa2pjMkRXSEJrUmhIUE96NkhaN2ktSHZwSkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "EBR Systems Announces Capital Raising to Support Commercialization Efforts - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWU2aWZYTUE1MWNrT1A3b2d6TTNpZ2JzT3ptZGRUanFVNnRSenphQTh1NEJsTElVZG9jUXFzTE96d2gtYVZfV05YT1pXSHRNT2k4eEtNYVhUMzdfWnVuSnR3T2JHUWlCbkdHZVprV2ktdVlLOEJmSm1wb0F6RUVyLUJzXzNZTFpKZVRQMzlmd0JlcEZvcEtUOWJFN0s2SHA2ZWdiYU1sRVNtNjIzclloV3MzamVQTDFpckFSNVBjWGtZaUM5?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Institutional investors control 73% of Fagron NV (EBR:FAGR) and were rewarded last week after stock increased 3.4% - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRHRWdUVZUm1BOGtkUlZrV0gtd3MzZ2hRTFQ5SFRvNUpHXzl2d1BRVzlzU1pCc3piaHI0amxiaTluaHd0SDJBR0c3RmhvSEpCXzc4NDFNRkJGU2VyLXhCRlJEd0Z2TkZmUzMxc3EzQldNNEZLQ2liU3BaNVRuSmdvN2drZkpTSzY2bHljaExWMHZEaGVaM2hSSjQ4TlpBTkNqME1ZSHpsUDVvVldhWjYtS3RHRVBQaG03T1plcFVuXzZYS0RKWUEtcTJn0gHPAUFVX3lxTE5XMml3cDZBZHB5bEx0WG1rVGhoeTg0dGFGcjlOdDJZT1lNZ2Z0TUgtYmlYeXpCZlg2dExfOTNYRjJJZUV1eEUzV2R1a0tubXBkYXBiVWtkTlpvaUM4MjVQUWlxLWI1eUlqTDhhZ2EtTm9sUmxYZmw5a01pcWpEdC1jMDU2bWNNUzlLUS1YTVkxS2lJbmF1cE8xMWEyNmh1blp3dzNNRldvOU1Vd3VfeVRXOFRxVEx1RjZvckxPNlV5Ukc3RnFnZjhyRFZmUmVHdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "EBR Systems, Inc. Announces Significant Securities Issue - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZE4xWXVLbVlGMnV1S1RTaGlpZTdtc3RCQ3EtbkprN1NYLUZ4VTktNTRQc3ZNNllUcllnQ19pSUU1Zk81ODVTRUxfVk5XWkNwSTZKdzB4WmY0U1FoUG1kSUNZN09pZ2hyXzNrbjdsdlNOSmRfdDM2a0ZjNU5TdDM4Q1dEdmZpd2c5WXVINEthTm9HMlQ2Y2dwRTBYRnhpb2JNWFFjcGViLUN6Zw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Centrais Elétricas Brasileiras S.A. - Eletrobrás Q1 2025 Earnings Call Transcript - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQzdtZFhSOHllSkE3eFhlV3phQzFLaHBnWG4xOHprRDQ5VU9RVWxDYnRZZTlRN1c5QzBGWnJzV19MT3JnUEptOUdBNGVicHV6UUNNSmE0Z2h3WXktNUUycV9nREpKcGdXdEt4T2ZFc2g5dFZpenJiY2Z2N2JheTI5R2V3VFVfZ0l1Nm9kanJSOW1peTAwOFl2ZkZ2QmNRYVA4d1dwVzl6Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UCB's (EBR:UCB) Earnings Are Of Questionable Quality - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmtaWlJNbUx6NkU0TGVGS0NRWVNGN0RfcGI3T0FSN3E0MkJiZkhYaWxUa3RVLUwzMXFJRmxDb0RKTjlwd0pLekdQQzhzUzIyeWRHOUtkWm1mNElmX0tCdENzSDlaV3VQMHgxb3hsNXRtN3ItWkRtV3lObzUtTXpSSDhyLVRZb2MxQldMTDM0dXJhSnp4Umt2aUlwVTcyQmcxTEwxd2F5M1o4SHUtYUtNYVN1aV9uRFhlbHJjcW5BQjBNa1JZX3lR0gHMAUFVX3lxTE5ZT2REa3hXVE14cF9DaWI2UTlrLVBpREx3REozVXZkOThSajFqODlJOGR4YTdES2NnRHU5b0h1MTVRcXpUNWFfM2xldjIzNUgwbm5nckNWc3Q3SUhwRm1CVklNNm40QldSVUtHOHRxY2p2dWJac0FHMk54bGJDQUhNMGJ1aV92WXNSSjhCTmw5ODZCdmFEb09jVTdaN3Bmb2V2TTZBcFhVWXZtcm9aY2ZXNlFOa2ZrbThVUDBCNnlxZEpBYkJOR3FHWTg3Rw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "EBR Systems Secures FDA Approval and Expands Operations for WiSE CRT System - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWVJUmlLTG5yMHc5ZkRIcVBEQ1pnLUJkZHhlWlc1cXBzUkcwSno0X3Rybm5tZGFqVkItUDJRbUtENkd5Vl8tRTI0Sl9CYzM0WE5ZWURXMGgtYy1VTVJGcVE4YkxKY015QnFsYnhJeGFycHppZmRkdzNPTDVrYmFpd0gwZ3NMb3lqZkxQZmRjbHNFaDVNdThKQmZaaERsOWZLYS1keHdiNVFvYUYxaUVER2tWX0dMLWd1ZmlDRTg1dkxqbVJlYlE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "bpost/SA (EBR:BPOST) stock falls 25% in past week as five-year earnings and shareholder returns continue downward trend - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTll4clZVamZaMDh6THI4R0t1VEt5R1F6bmM5YUpVZllUOUxDSmhpUERWRTZZSDFsRVpLeF9XZF82ZzVWVWxqNi1Rd1VPUXlCVHRibzhncFRHY3dUaFdJNWVOSkRfdzNOejlzR2twVS1mQmRDNFhrX0hoX1oyYWVNNGxyUm8ycU1aODlvaUg4ZjVtQ2FrVThiOFNPSUktUFlBYzR2M1VmQnVTdXJtWWZSRmZUNF9CcjVIcG5nS21OaXVZYlhFNk5SVWlPc0p4WmFkUG9WUdIB2gFBVV95cUxQeU90d0xzeTRqT211WnBRWWJUTVRZaFpDRk43Z0NyTXI3VXJCeURRSnFtRC1MaHF3ODBfRFYzek81RkVMeU9CaE1qc0g0U1MtMGw5bUlEREtHOTBTdEMyV2ZtMjdlTFRObXBhTEx0cWFYakhHU19WT0Z5WHdwVmpTdlFwQ3d0dV9aVmR5RjBOMmhFSUZiR3ZKZ1J0VzI5VjlTdFpvSnEyZ2RUNlVqZ3BGS29oX3lOLU9IRHAzSGVQbUthb2pHSWZyTUVBdmJkRl9mQnZ3U1pzMlk5Zw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Proximus PLC's (EBR:PROX) stock price dropped 3.1% last week; sovereign wealth funds would not be happy - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkg4R1FJcDY3WmFFcFlGdTIwY25GdjdtbzAtWHYxdXhqZ2RfckFfaXpPZEo3ZzQxNWRCcXVqYVQ5WnpWRVI1Ym1rSWR6OXhtMzBsWDN2cmN3VzNTN0tFdEdYeWp3Z0lRTUlmNFpmTEpvRUFCemIzbVNFdmhtY1dKTFU3MWNLTTlYUFhTa2ZuRUZRQXJSRnNhTTRnbUpjWV9kWmVRV2hIY2ZxbFk3bVJPMFJnYWYxaEk0X1k3SlpGT1NrbkpyTVBNUERB0gHPAUFVX3lxTFBkZjBlZi10SXZtcG5fNmZKdWltbzFWNW9TUWl1cVYxck9TamQtTXNQQ25OU3VGRlBTX3JRWFVyVUlwSG1jOUFxcHlWZnlfSG8xSkdXcDdBSVZaYm8yb3dSb2xkTjFfRDQ3SWhwV1pNeVVjeE1YQXlhU2VDNnFCMFZJSEdIeFhsNmVLdlh0QmU4NjNZMTB5T1ZOeGp1d2lGQk9GeVZYWHc5RkNZcnVoN2paV2RiaVpjQ29TWUZkaXprWmE0QmY3U29WRXJ1cFEwRQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "EBR Systems Advances Towards FDA Approval and Market Launch of WiSE CRT System - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbmR1c1Z6YV9WYWlRbE1yRm9tUThhTklta0E1Vk9sQU5sVWtfZlFHQnp1UVI0dDdVWHdOLW1IMXh5ZVAzQ2xhRzIxbGpoODM1blEyZW1VM2JIeEJtZzFkbm50ZWdNRkRIYjlMcTQxMzlJVnJPclZNQkFELUNHbEVSQmZpSFhYLXBkOFdPZHdpaVVRdVdNcUtXQlU0TnhvREQ3MGJnZkhwNTBPSGtxeHEzVWZfOVJkcGpzS0U4UGI0X1psSC0wMkVRQ0RR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Onward Medical N.V.'s (EBR:ONWD) biggest owners are retail investors who got richer after stock soared 11% last week - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRzJxY3ZvNVN2Y28wUUxITTJ4cEhsSHVwVmRkeFB6cVJjd2dqajJlaFhWMkJlMHd4RmdHSnJVQzMwYkdpaUVTVDBYUnRnOFVfVXZZb1REN1dOZFI4bm9HVnNUa2pRc1BfRkFaZkpPWjBRd3VLTmw5ODFrS1FwNUp5c3c2dHNaSnFINS1VMnIwb0R6WXVvaV9Sc2lfR3U0SnlIT283WmtSdnR4Z0ZHMUVuSXVjMHFLZjg0RXpvWFl0cGxMaFlmNU5VNEdrYXAtbUVXQWZScXln0gHbAUFVX3lxTE0zc2FOZ2JXVk9XckxhT3hqTlhzN2pXblBvcjBuUjl3ME1vRGtrZmg3S21GbDRrWnVaaThjZnVGVXZDM3hQd2drQUxqemtnQ0RQdlRycE5YcHVEeGJXVW5KRUxFdnlaYnFibHZmcEdFM3pEZHh6WVdCZnEzQ253YTFsMkFaRDJvVWhTRzF2dU1oVmtWbjhvY1RsajF1R1ozTFZYWWJ5ZzVwck1qc0ZlVHJId2NhLTVKQW8zdGxRVkgwVG9CVF81X1FkMnNnMXFvbjBlalZ4Tmx5Skx5QQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "EBR Systems Reports Increased Losses and Decline in Assets for 2024 - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbng2T2lWSHNDU2EzcmhTalZ3NGdUNXJzZ2xsVWxRWDFZZGE0czhQVGlid200bENOSExaeFFFM24tX0VocV9vbTBMcEZxendFSnRjRGlxaXpXVDZoSjUtd1RLS2tuZWZidHhNSGFIQ1BfVzhoN3VzSmFzOEczZ2pldkRqUnhZVW9WYUpZTTBMVzc5OUhRS1AtN1doZ2VJRWNUdWJIQW1VbV9EaXBjR0RZR0tTcGpiVl9RSWJz?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 5.71
-      },
-      {
-        "date": "2024-12-03",
-        "price": 5.79
-      },
-      {
-        "date": "2024-12-04",
-        "price": 5.82
-      },
-      {
-        "date": "2024-12-05",
-        "price": 6.08
-      },
       {
         "date": "2024-12-06",
         "price": 6.03
@@ -530,24 +638,24 @@
       {
         "date": "2025-06-02",
         "price": 7.3
+      },
+      {
+        "date": "2025-06-03",
+        "price": 7.4
+      },
+      {
+        "date": "2025-06-04",
+        "price": 7.31
+      },
+      {
+        "date": "2025-06-05",
+        "price": 7.41
       }
     ],
     "current_price_data": {
-      "price": 7.3,
-      "change": -0.02,
-      "percent_change": -0.27
+      "price": 7.41,
+      "change": 0.09,
+      "percent_change": 1.23
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici la synth\u00e8se courte :\n\nL'ensemble d'articles fournit des signaux positifs et mixtes sur l'entreprise EBR Systems, qui a annonc\u00e9 une nouvelle s\u00e9curit\u00e9 d'\u00e9mission sur le march\u00e9 ASX, et sur Eletrobr\u00e1s, qui a \u00e9t\u00e9 mis en hold par Wall Street Zen apr\u00e8s avoir \u00e9t\u00e9 downgrad\u00e9e. Les investisseurs institutionnels contr\u00f4lent 73% de Fagron NV et ont \u00e9t\u00e9 r\u00e9compens\u00e9s apr\u00e8s une hausse de 3,4% de la stock. Insider Monkey a indiqu\u00e9 que Centrais El\u00e9tricas Brasileiras S.A. (Eletrobr\u00e1s) peut \u00eatre consid",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

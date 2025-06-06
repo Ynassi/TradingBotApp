@@ -2,55 +2,78 @@
   "ticker": "1803.T",
   "name": "Shimizu",
   "sector": "Industrials",
-  "market_cap": 1091407577088.0,
+  "market_cap": 1097275277312.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 16.867025,
-    "PB": 1.2689722,
-    "EV_Revenue": 0.669,
+    "PE": 16.978596,
+    "PB": 1.2523116,
+    "EV_Revenue": 0.666,
     "ROE": 0.0752,
     "ProfitMargin": 0.03395,
     "GrossMargin": 0.10052,
-    "DividendYield": 2.77
+    "DividendYield": 2.73,
+    "DebtEquity": 64.012,
+    "CurrentRatio": 1.255,
+    "QuickRatio": 1.049,
+    "FreeCashFlow": 103261372416,
+    "OperatingCashFlow": 159093997568,
+    "FCF_Margin": 0.05310815347414672,
+    "ROA": 0.01754,
+    "PEG": null,
+    "EV_EBITDA": 12.382,
+    "BuybackYield": null,
+    "PriceToFCF": 10.626193044302218
   },
   "technical_indicators": {
-    "RSI_14": 64.13385028044888,
-    "Momentum_10": 0.8511979823455234,
-    "MACD": 39.349157747747086,
-    "BB_Percent": 0.8717287424413356,
+    "RSI_14": 55.97329080156995,
+    "Momentum_10": 0.0316856780735107,
+    "MACD": 32.724900718396384,
+    "BB_Percent": 0.5885813140581934,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8986605833126704,
+    "ValueScore": 0.8958015987498995,
     "QualityScore": 0.3796401429362762,
-    "SignalScore": 0.5349043632395172
+    "SignalScore": 0.5604396520870576
   },
-  "volatility": 0.0180691829570229,
+  "volatility": 0.0186213092768761,
   "beta": 0.209,
-  "return_6m": 0.3634971514863176,
+  "return_6m": 0.3489951236773667,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 7,
-    "target_mean_price": 1407.1428
+    "target_mean_price": 1447.1428
   },
+  "news_sentiment": {
+    "summary": "Malheureusement, les titres fournis ne concernent pas des actualités économiques récentes liées à une entreprise cotée en bourse. Pour fournir une analyse pertinente, il est nécessaire de disposer de nouvelles plus spécifiques sur une entreprise ou un secteur d'activité. N'hésitez pas à me fournir des titres d'actualités économiques pour que je puisse vous aider à en faire une synthèse.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Securian Asset Management Inc. Has $9.70 Million Stake in General Electric (NYSE:GE) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkt4QnJrbm8wWEdrRGlGcE1qWkhOTnY1UF9FQ0Naa0NhOTJ6ZmpndFhLQkdLeWVHSFFBTURDRTd4OGljc0o0czMzaWxFaXNVVVE2ZW5EV3Rib0hDeG1icVdDWFNyTWNCSnZ1UVhRMDVPblVJN2RvREJ3Nk5mRWVtbmp2Z3BwYkVOMnNzZWV3UWJ6dUpGbEh6UjNWb1hENW52Sk82VDBlQ21EekNEOXBmMGtrMU1yQUwtZGY5SW04X2x4Yl9fUVRV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferson Buys Louisiana Territory, and the Nation Moves Westward - National Archives (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3lLSHZsSU1abmdZQklvZW13OGtHQ0d0SWpadmU1YUdLVDBBREQzeGs0RjBNQU1hQVVxcHZ6cU95UGdTOU1pekltbXNGMUg1anNNUXZ6VVJ6dWFsa29NMjRwQURDV09zRGY5YXYzSHVaTkJiQy1hTEQ2VW0xYjFoS3d0czRrX3V0X3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Caroline de Maigret Is Obsessed With Paris's Buly 1803 Boutique - Vogue",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUJPOVpSa1hOUDJCdVB1MTZkZTNLcV9EVlFIanhqWFNKVTAzNWd3RnFUWW01OG95ckx5eDJpWnpoWkpYdkhIVlBvSmdacldzMnk4em41Vlp6THA3YXRiby1FT2kybWt3WlZ2cVFrT1Rib3p5c1V0N0g3RHFsS1lYQ284ejE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1190.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1199.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1195.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1187.5
-      },
       {
         "date": "2024-12-06",
         "price": 1192.0
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 1599.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1554.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1610.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1578.5
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1589.5
       }
     ],
     "current_price_data": {
-      "price": 1599.5,
+      "price": 1589.5,
       "change": 11.0,
-      "percent_change": 0.69
+      "percent_change": 0.7
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici une synth\u00e8se courte des 5 premiers articles propos\u00e9s :\n\n1. Chime, un groupe de banque mobile, a d\u00e9pos\u00e9 un prospectus pour une IPO aux \u00c9tats-Unis, tandis que les march\u00e9s r\u00e9cup\u00e8rent. (Positif)\n2. Securian Asset Management a acquis une participation de 9,7 millions de dollars dans General Electric. (Mixtes)\n3. Les acheteurs de voitures automobiles au Canada se tournent vers le march\u00e9 d'occasion en raison de tarifs mena\u00e7ant de ajouter 6 000 dollars aux prix de nouvelle voiture. (N\u00e9gatif)\n4. Jefferson a a",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.17,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.17,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

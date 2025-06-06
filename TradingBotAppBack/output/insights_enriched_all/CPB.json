@@ -2,55 +2,163 @@
   "ticker": "CPB",
   "name": "Campbell's Company (The)",
   "sector": "Consumer Staples",
-  "market_cap": 10221679616.0,
+  "market_cap": 10158779392.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 19.815027,
-    "PB": 2.6126056,
-    "EV_Revenue": 1.716,
-    "ROE": 0.13423,
-    "ProfitMargin": 0.05149,
-    "GrossMargin": 0.31120002,
-    "DividendYield": 4.58
+    "PE": 22.716667,
+    "PB": 2.6237776,
+    "EV_Revenue": 1.696,
+    "ROE": 0.1166,
+    "ProfitMargin": 0.0444,
+    "GrossMargin": 0.30621,
+    "DividendYield": 4.55,
+    "DebtEquity": 187.629,
+    "CurrentRatio": 0.781,
+    "QuickRatio": 0.285,
+    "FreeCashFlow": 681625024,
+    "OperatingCashFlow": 1160000000,
+    "FCF_Margin": 0.066662591113463,
+    "ROA": 0.059899997,
+    "PEG": null,
+    "EV_EBITDA": 9.35,
+    "BuybackYield": null,
+    "PriceToFCF": 14.923446848101634
   },
   "technical_indicators": {
-    "RSI_14": 41.56419781089074,
-    "Momentum_10": -3.702135725681171,
-    "MACD": -0.7344721330297901,
-    "BB_Percent": 0.2842793295672524,
+    "RSI_14": 40.84083081443364,
+    "Momentum_10": -0.3943859869662837,
+    "MACD": -0.6287645936952089,
+    "BB_Percent": 0.3028202818112823,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8944330829327416,
-    "QualityScore": 0.4314256684877801,
-    "SignalScore": 0.6872733019665627
+    "ValueScore": 0.8911654802487499,
+    "QualityScore": 0.4289532828971167,
+    "SignalScore": 0.6431176371921625
   },
-  "volatility": 0.0181600706942984,
+  "volatility": 0.0172733043167483,
   "beta": 0.108,
-  "return_6m": -0.2440353018669677,
+  "return_6m": -0.1850984676664735,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 22,
-    "target_mean_price": 41.21955
+    "target_mean_price": 39.08318
   },
+  "news_sentiment": {
+    "summary": "Campbell's (CPB) a récemment publié des résultats du troisième trimestre solides, dépassant les estimations de bénéfices et de revenus, entraînant une hausse du cours de l’action. Cependant, malgré ces performances, plusieurs analystes ont revu à la baisse leurs attentes en matière de prix cible pour CPB, exprimant des préoccupations quant à la reprise des ventes de snacks. De plus, des institutions financières telles que Citigroup, Stifel Nicolaus et Wells Fargo ont ajusté à la baisse leurs prévisions de prix pour CPB, suggérant une certaine prudence à l'égard des perspectives de l'entreprise. En parallèle, Campbell's a été reconnue par Newsweek comme l'un des meilleurs lieux de travail en Amérique, offrant un contraste positif avec les ajustements de prix cible des analystes.",
+    "sentiment_score": -0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Campbell's (NASDAQ:CPB) Issues Quarterly Earnings Results - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYko4ZlJzTnctN3lnY08tMjRNbFhnd0ZfTFlKX0tqQnZZSDEyT0Z5djdmbnF1aWdyVzAwRzV5YXVtZVFNSVVkeXlkcmJFVjQyeVR0QVRrTUJ5TVhkUFFmbDRDM2xwQUhvYTdQT2V4bWRvZzMyRG5mRlhHdjR4eDdpV3BIcHV1Vi1jNGlrRnM1MHctR0tTeURwS0pPVUJvY1h2TGcxbTFqZnhtTTJ3RC0weFZQdjhBZHdfY3FyU2lKNTdtQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Campbell's Stock: No Longer Attractive As Sales Decline (Downgrade) (NASDAQ:CPB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFFTMi12a0g3ckZUNXNCRUx4b1dmUTk5ZTVud3pYR1VGV3RBZWkxOGZnS2g4VWREcnpKRnYtczFvdFhWSzVLalRrR3l4eF81N2xQODlzWHpUTVdXMFZXOERyWDlyR0pYRkdVVF9ISDRBOF9lajc2OWVfS2lreWFscWxJWnBlY0hPRzd5TDZQS2pHZ3dQaml2b2VPY0gwLUh5V3drV3R3Yw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "TD Cowen Reiterates ‘Hold’ Rating on Campbell Soup (CPB) on Earnings Beat - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3E1R0RZTnpHR3ZQZVMyYUk4dWQyTVlfQ1BmNzl2UmQ0NWtQQ2pMZmpiZVdlTTZPYTJUTDNqUDFfSm5TenhPUjJsN0R6dXd4TlhCWWhvNDdCWDdBbExGWi11Zm9LaWRyaElkbWJFUzJ3cjk1ZVZSRHRGSWJwT096czhUOHpjQlIzaExJM3RWdUVwdjFEN2dJcjNqYllzZzlqWjRPWDVFZ0szSnp4VV92dk8xaTlFYmJDVkJId21ZeVY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jim Cramer on Campbell’s (CPB): “It’s Insane to Blame the Economy for Everything” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQkVhQ2ZCaWwwTDM2U18xbWlCTzVlODNDNUxVanA1bWdkem1RSVVydlQtZ0RWNmdqU1RPdWRyTjdLTWVyRURNODdqSFRvcTU5OTFTOTQxeVJKU0M5b0JNMkNGU3VGbVFUdEx3S0kzdHZnbXhRRl9waFhlS3FNcU92cDBB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Campbell Soup (CPB) Stock Rises with Strong Q3 Sales Performance - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnkzOGQwdjV6SEZHRGQxYVgwQ1RmQUFFQlp1M29OY3JLVXNHVUktOW9wcWVHZGJQN1JmU1JIeExzMnRVbGRleEtVS1VCUzF0bzFxaUY1OV9VRVY1VHQwUGQ4b2tWVEFicXJFeVV1UDNCZ2hIcFhSSUlMa2Jaa3dUYnlieUpsSXc0cS10Sl9MY25PLVFlTGhtTjF4MGJjZFd2YllB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Citigroup Has Lowered Expectations for Campbell's (NASDAQ:CPB) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXhiVW51X2pGZlZtM2dYX2NqTGJLeEZHWmVIMXFVVjRPbU5DdGV2QXJhLWtieEJCenY4N0doOHNMUHpKLUxfMkpTdGJmMnpOUUVWaGpzM29PMHFHNXVzN2NLX2dGS1JCNmtROGIxN21DZ2tSaWxGOEtYV0Q1WlV5SkFtUEFibm1qZUc4aVRhaTNSeVRjdXZFQ19DQnZxOFVDZGZySUZBVWpBRWpELTEtaUhheWl2YlNRRk9GZXRDTzlRdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CPB Stock Update: Evercore ISI Group Lowers Price Target | CPB S - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeHk2c203cTBsNGF5SldPS19PQ3pVenJxenU5Qk5XYzZ5V1BGN1Jod0VuekpMQVdKUkI2MmJsOE9fMHhDRmFEWldJTmd2THlRNllFTzlIREU0aHlwTllwaG16SEp4Nl9teTl6bzQ3LW9aQ3lQZHRxMlUtSkFvSVFZU2JvYWhkLTVoRGRTcUMtTmlUMlYyM3JfdzNIbWxKcm55aUpxY2pydkx2enBVbXc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Campbell's (CPB) Q3 Earnings and Revenues Surpass Estimates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHktb003dDBzWG1IQzlmR3NCci05c2RyTjdLRk11NWc2ODlwM0NuUE85UUxfT2FYRDNyX05EZjJhaG5kcmpMSUR4cjd4bW8ycTF3NlBGckxjUXJKWFloQzh5bFUySlVJYnMydmZmSUhqVGhFdWxxWmRNZUZnQ0JTMTZpdGprNVk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "California State Teachers Retirement System Sells 58,622 Shares of The Campbell's Company (NASDAQ:CPB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUpUdllyV2k1VjFrYk56eVpJZkxNVUQ4a1FGc1ZJazI0RnEwMUxwWHI2dVBzeDBLbmFmODcySHVzR1hnR3dGNXNNWmJfT29YUWV6ejgtazZGYUxDTHBKTTctX01CTjhTdkVkbnhka3k1SXZPX0RyUVVHSnl0OFVtY0htWXV5ZFdDYXYtWWVWZmJqNDlKYzhzYXJ0VXo5YUFfOEZRQ3JSV0tKenM3QWxhT0JCd1NlUTlrdHdjbzhPaVBQbHFVRUhTOTRMdGt3RkF0Rmt6cWwxXzREYURuZ21JcDNvdlhWQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "CPB Stock Target Lowered by Stifel Amid Snacks Recovery Concerns - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHpDTGRGb2RBWTB4RlhZV0FWeXZ0MkNxTmJvVExPSEtsNURsTzFocGxTOHJ0WVRKbERVWjhRQTNvM1RBVW82MzFfRzBJcG9uMTN0Z2psZ2M4TF9EdU1hallpV3lENEliZGdya2Fvc3VzSGNwVjE4ME1nVjhhaVJ3QlNMTm51RTBFX1hCcjc4SDF0ZWJZSFp0SzNYbDhfRDM0NU1Odlo5cjBwVEIwSVpyb1N2ejBLRDl1UGc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stifel Nicolaus Has Lowered Expectations for Campbell's (NASDAQ:CPB) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSkhULWFkNlhpZ3ZsZ2FaUy14YkVLdUlXQkhLZE1aUXpCdE9kZGtDaEFNZ0hlNVJVcWUzNHpfQTg5cWlmVXhYdkdKOXN5Szcza24ySGdiVkpva0hNc0I1Z0l3SlNPaE9LT0xxNjhFbm9sbkg1WG9Cb0QtTDdMOGZNZi1vOWxEQkZsbEhoYTA2S0MzOVBLbHF4YXpZU013MWI3bjBlVWhCODZaY3dPRlU0Z0h1VW1lQW9pdXc3UDdyRDBkM1BKNmZVTDF3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CPB Stock Update: Analyst Maintains Rating, Lowers Price Target | CPB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDRvSHY1YmRYSlo3VUZnX3JhSXcyaDVwa1ZCSHdUT2F5NmlSNkpHdXBqSmM3S1BRcjRKQ0hEbjk0c2ljLUg5WGpjdWFNWUtGcWtNUElxUDdCSnhpNkFyZ1F5RFMzQUN5WFlRcDNaSkhRM2xnZmp2c180SGZSdUNVMnZiVFpQaWJWUW9odGgzOUxneG5hMkZ3MV8xMDVkeEQ5UGxmM0ZUVUNvV3lmT1hxUDllSTRIQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo & Company Has Lowered Expectations for Campbell's (NASDAQ:CPB) Stock Price - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM2g0cldOakoxY1JuYlk4dm1jT1p4d3c5YnBldFJQUEFIMHgzZ25XM253YkExU1JrNTNSMXN6OWxMRGxyV2hZZE5rQ3lyLThjVmVGZWVKdTlPQmRVa2c4RUlHVlFiTmNXcW5BbUUzSlczeFJpTnh5VzRERzNoSzJtZXhERDBDQTVGU25oaXVmYUh5M2d4SmFHOWowSmVfSXlnOW1DbHU2eXV3cGVMcmprVXNDNkVYeXRaZGdTX092U2RQSlpBV1lBSk9ablVKQWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "B of A Securities Lowers Price Target for Campbell's (CPB) | CPB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaFJqbVhEUkZ3NnVnTVY0SXEyVmhURFlaSnV0N3RoMXdxSUUyTmIxTm1UejVrNWYxaDZ3TGV2THhRTVFra0xxOG5lRTVRNERGem1wdngzRTA0VjMwVXF2ZmlGQmE1Qzk5S0dEeEM5VlVEY21yRkFJekdyMEVIa1Zmd0ZyTmlVa3pNQTAxT0NLV1hUcWRiMnJxaG1YRlotZ0VLZ2dpMS1yU1RWb2k0TGYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toronto Dominion Bank Has $4.43 Million Stock Position in The Campbell's Company (NASDAQ:CPB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWstQkFoWW5PaUdpLWxILUdlcW5Wd3ltdjRqVE5HXzFXU3phRnJCa1Vyek1JbDF5bDh2MUlBOEJJNXRGUmlZQ0VyTURxVGYxb3BfME5kSVdnTkUwS3ZFclFXQk15WDRJOXZvYjkyN2tSUnRLXzJNYkFYbm1iemY5RXIwZ3ZBQmNjYnphRDVveHZWZ0hIUDQxeDYxTFFFSHdTRTVQZWtvcDZCVFA2VVpGOHNzN3c2b1VKLThiSk5XZlUtZEVlWVp6dGg4YU0wZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Campbell's (CPB) Price Target Lowered by RBC Amid Mixed Results | CPB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3o3YTVCLWFOWHlaaXpsX1B4X29fbGNnQWxleXFmWWlhcGJyXzk4VGRSZWZkSFJINUtrcU01dEJIZWFSTVgyNjdCR0lqVVhSXzRZVnlJeHhYZ0xwN1FXdS1xcDVqUm4weldKQm15b2VOQ05LeEpSc3ZhVllQaTVudDBCNU1Md2ZOcDY3VEtlUloydlUwYzFfRXdFTDgtVjU2MXZwQlFiSTdIY1duZUZDZ2ZMYXJHZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Newsweek Names The Campbell's Company One of America's Greatest Workplaces | CPB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVW9IUGpVMmFlTzFfVXdtMEplZGwtSHlnNWdmdE1XR1hnei0ybXJtZzFWSzhkRmtFcEY1dEVzNDc2UnBZbXpHeUw2N0RReXdZUGVaZFB5dHUzUnNHMUkwTFpBYkhxWVMzSW5ncW5QeXMxZ0ZtUXlEQ2hWZUJKbTlsTDhMX2VZSGdRbDZMMktuWW5TODExQTI5WTBQWWJPdFV3VEg2S2dnMGc5QzRQbVJMNEZVUmR6b21JZEFWUVlfWG9EcC1J?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Campbell's (CPB) Price Target Lowered by Barclays to $35 | CPB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2JfZ29ydk1lTmVqZjNzRFZrRTI4WmlnTDNISWd5Z2FWVUNzWnhneVVOdnNyMXFsV0JJdmNGOVRLOUlQMVlCd002UGRZUk5GLXRxb1NqS05pZUdIT3RlR0ZLWTZXbTZUdlRpd1kwTzA2OTNWZkxOR1lSSmhPNEEtRHlzekFfV2dvZHIyalpPZWJ3VTNVTVZiR2VIc2VRNTI3dnFERzBuYWNST2M?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "CPB: Stifel Lowers Price Target for The Campbell's | CPB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmRjVV9ObmVjb3FtbmZoNXNoMXNERTZvS0JZZHFVb1F2VDJJaURTZlVHa1FiTzh1TmxzYlNzZXZoekRfcEEtd2NVcVZGZ0FwUW4wMHo5cS1oRWtXQkd0UXJhUDVPNE8xZ1lqWk4xbFp1aXEwX2dQTnIzZ0ZaekNqbWRtZXNQa055Y0s2b1pBd2VIeW1PNjlWSEFSZFh2V1UzSUtDVw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Campbell's (CPB) Target Price Lowered by Morgan Stanley | CPB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQVF2WmtnZVl0cElqUllxNWhfNFZEOE1iQkQyV3VHa2NEZ2dGWkpwbFZwUXBjMndwNG11cjg5alhzQThEUktIN2R0QUs5ZFNmdXRIMmp1MnB4QktCaUdDeFpIS2hpeFhhVUdkWk44R2doQkM5dXZiZWQwc1dzeWMxTXI5cm9Eb0prSUN4Z1Q0M0h6MF9NcldXT3k4aU42MmpIYnBBWXRQemJnZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 46.23
-      },
-      {
-        "date": "2024-12-03",
-        "price": 45.53
-      },
-      {
-        "date": "2024-12-04",
-        "price": 42.69
-      },
-      {
-        "date": "2024-12-05",
-        "price": 42.63
-      },
       {
         "date": "2024-12-06",
         "price": 42.73
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 34.09
+        "price": 34.25
+      },
+      {
+        "date": "2025-06-03",
+        "price": 34.26
+      },
+      {
+        "date": "2025-06-04",
+        "price": 34.28
+      },
+      {
+        "date": "2025-06-05",
+        "price": 34.12
       }
     ],
     "current_price_data": {
-      "price": 34.09,
-      "change": 0.05,
-      "percent_change": 0.15
+      "price": 34.12,
+      "change": -0.16,
+      "percent_change": -0.47
     }
-  },
-  "news_sentiment": {
-    "summary": "Campbell Soup Company ($CPB) stock has recently shown positive momentum, with strong Q3 sales performance leading to a rise in stock price. However, the company's Q3 earnings guidance suggests that more disappointment may be in store. Additionally, the home cooking sector is facing pressure as snack sales decline. Jim Cramer has also expressed his disapproval of the company, stating that he wants no part of it. Despite these mixed signals, Campbell's Q3 earnings and revenues surpassed estimates, and the stock ticked higher after the earnings report. Overall, the sentiment towards Campbell Soup Company appears to be mixed, with both positive and negative factors influencing the stock's performance.",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 4,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

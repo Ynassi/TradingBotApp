@@ -2,55 +2,163 @@
   "ticker": "WFC",
   "name": "Wells Fargo",
   "sector": "Financials",
-  "market_cap": 242843189248.0,
+  "market_cap": 243900792832.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 13.421762,
-    "PB": 1.4980428,
-    "EV_Revenue": 2.723,
+    "PE": 13.480215,
+    "PB": 1.5045669,
+    "EV_Revenue": 2.748,
     "ROE": 0.11021,
     "ProfitMargin": 0.25885,
     "GrossMargin": 0.0,
-    "DividendYield": 2.14
+    "DividendYield": 2.12,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 4123000064,
+    "FCF_Margin": null,
+    "ROA": 0.01031,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 58.12233756175265,
-    "Momentum_10": -1.9690207324639348,
-    "MACD": 1.07485760176651,
-    "BB_Percent": 0.5726539928316486,
+    "RSI_14": 56.54121939403976,
+    "Momentum_10": 2.1177693273123768,
+    "MACD": 1.0397108136600366,
+    "BB_Percent": 0.521355786840907,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8928770296948667,
+    "ValueScore": 0.8898421992739652,
     "QualityScore": 0.3015631128756437,
-    "SignalScore": 0.5908385537104106
+    "SignalScore": 0.5486969968525546
   },
-  "volatility": 0.0209114504490997,
+  "volatility": 0.0208466801863028,
   "beta": 1.155,
-  "return_6m": 0.0016585677167924,
+  "return_6m": 0.0281461514245238,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
-    "target_mean_price": 78.25
+    "target_mean_price": 80.43182
   },
+  "news_sentiment": {
+    "summary": "Suite à la levée de la limite d'actifs imposée par la Fed à Wells Fargo après 7 ans, le stock de la banque a connu une forte hausse, marquant un tournant significatif salué par Jim Cramer. Cette décision devrait débloquer de nouvelles opportunités de croissance et de rentabilité pour l'entreprise, ce qui a été bien accueilli par les investisseurs. Wells Fargo a immédiatement affiché des ambitions d'expansion et a annoncé un programme de rachat d'actions de 40 milliards de dollars, renforçant ainsi sa position sur le marché.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Cramer calls Wells Fargo's asset-cap removal a 'watershed moment,' raises price target on the stock - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUhya0VaZjh4MDIzdlNtbEQ4LUlTVHVGUHVkaHAzMjBKR1phQ195ZkhBS1NoVGlPUGRQSzNxb3lqTTJCTG5zUFZMLWdLNVZkcXJpaGVPai1WZkJXTFJkdnloOU8zTEo0dVJEZzlCTEdLZE95bUFXdHBPQW5fbDNIMzl3MnduM3Q3OGNxZ3p3YlA1cWtoZy1YcGVlMmF3d3NqTXpmZXd4ck9DY3p0TnBGUVRycw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Stock Rises as Fed Lifts Asset Cap After 7 Years - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMlhvZEh2WkZEUzZJeXpWYWpraG9DbENhbFhGejFEM2lLX1JkbVVDTHVYajEyUWlHaEgwTy1TNEJFLXBCQ0JBbGNGZUJBQUFuZy15SGw3eUVta2hMTlBBY1hkUE1jV0plSnVrMmhibmlUUjlzOXA1Y0RkQjRsTVlkaWtiVXVQNGRiX3c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wells Fargo Stock Rises as Fed Removes $1.95T Asset Cap After 7 Years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00QkVPWjBZQU1hNzRGVlVYaGRXQmxxWlRrYTB3UlhtejZVN01NMGVNQUNlVXRUeFNZdGFYMnFrblRacEEzRDcxakQwUDVXSWFzcEViazVnTVU3Uk9iVVlPbVd5M1I5bUlXT0xkRXhveW1FM0xJRUJzdFFzUnJUUQ?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wells Fargo just got a green light from the Fed to grow. Here’s what it means for its business and its stock. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLTZPS2p5aGUtVEVkanVZYXI1QU11M1ZnWWFlLUpfSDRpcF9JaGwtaEhKbExqOEF4NXdiSlZBLU0xMEFVbHdfbFoycHpPcWEzSHJtMWVRdERLUHhSeXU3UWVoSk40Zi1vcFQ1WXY0OFRYYmpyb0RNOHFtX0xrV1lfaFl1TnB5dHo0aERoYzlRdFRVTXRYemtfdDhtVXA1bzMycEJsT1RWNFIxTjRwZ0VIVjFOWEpHX2RSajU3TnU3NzFTR3E2S05LbXFZTDNYSkVOUjFIWFNNS3hpcXNMWklld09OWQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo stock rises as asset cap lift set to unlock new earnings drivers (WFC:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSjViM1czWlVmSFlJWXdqSkdVNzlUVmZkUU5Md1dhclpUUnhYZjFJc05JNndMUWZhQkxBLWVDWDlVbkdkRXM2ckVXbkVIRXpEM2JyRlN4YVN6OTJjMGhSd3QyQ0dNcGJLM3hEWTZxcjhrS0Fob1NnN1RELUZGenJsV0QyeEVMZkxyYjFCMUQtSmNNMUFoa1RZZDRIRGlUVlJGczk3ZHZvYm1LVTlZZ250UkgxVko?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wells Fargo stock rises after Fed lifts growth restrictions - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmZ5Y1lKNGNOQlBPenlnUWY5N0ZjLWtzM2lSOHowVTM4WDVUR0RoOGg3b2IzbFNYQjlQV0xrZkpWWmpQdncxU01HX1F4WEQxNWVVcFhVNmpjTEJwejBmRnNYZDFWSGZ2dDViTDh4anNjaE8yOFQ2Q2c4SEhXTU1zTUtvSWNTNUVURURmS2h5akZaSHVTdTA3ZmtCN2ZnWFVueW1KbzQ5T3M3bk9HdmUyTnBCc1dKZHM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo sets expansion aspirations after asset cap lifted - report (WFC:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXZIREY0UnBERF85VkhZQkQxVU05Mms1czFZc1R2UDV1R0RaNjFRbVR0REZNTm83ejJzc09uNnF4VFhKNmI3cTByZV90c0VCeG9wcjRiUEJfOUNraXJ2bUw5YkJrR0REUkt3clRBTHpCUlR5N2lFYlA5bzZFeGQtQWlWWVhDWU5vbjUxSUIwX2cxRXFjWXdtSlQ1dzdtNUItcFZpNGdrTlJBWkFt?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Asset Cap No Longer Holds, Should You Buy Wells Fargo Now? (NYSE:WFC) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTEZBZmJvQkxwb2syY28xaXc5OEdDV05zTF9TbFZpVWJXRXFUcG53OHJnbXcwVks5MDZ6aGlBU19VaUVLSUNRWng4ZTR3NjliM0RaQUo4SkllejhkN1pKMU5MQk9Pd1B5amIwYm0tQmgzWTBiUzlYRC1Uc3NGZzRlTjIyN3lSVThIUGpjMU51a0NHTWJGSXZHWTFLd3NfUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Biggest stock movers Wednesday: CRWD, HPE, WFC, and more (HPE:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0sxZUFsWHRPT0lOaVQwcWpna1JhQXVZNGYzck5qSXhkNW1UOGJlUDUzZzFaMEVMMGJheU5sZFdBVlM2eHZXSkk2OHFTZmVDaW9kenVTejFmbFBHXzJhVks4ZFFVQWdFX0dXOWFQZ1F1Z0VYR3BUbjRPTmxKRHF5dFpMaDdVZ3UxTk1Za0RaMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks making the biggest moves premarket: Dollar Tree, CrowdStrike, Wells Fargo, Constellation Energy and more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanFvbFZWUGVUVTFlNE96Z3IwYVFVamVyWjNGdm5GLV92OUVhU29INWJyMk5jY3FDXzk5SGxudUJzeS13M0lNR1Z2REV1MG9pMVBaVnpKSjBiN0dLZV81eG1QZks2aVA5S05wMjJ4b0piYkRjYVlvZXhHWDVEa0NuOXViUVlFSmI2bnZ6eDJGb3NXaUh4MXhSOXlpTXhyajgwX2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Confirms that the Federal Reserve Has Removed the Limits on Growth in Total Assets Imposed in its 2018 Consent Order and Announces a Special Employee Award - wellsfargo.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPVmNEYnJ0ME1mS3lUQmpPSXNnd3JVQmh1VFU1RVd0TXl4ZTR3OGFhQWxXeVdhWUt0ellOVDNwM2FRUXZzRTZHSktaSXdjSkYxWFN2d0NQYXR3R09EODB5NXJKWFl5Y2JzS1R5LUsxS1o4SURBSlhNUDExM01nTUw4UjNLVENiczc4MTZ2ZnJqcmJFcE9WQ0JCQ0swZXNQcmNwUkhFbkJlX2lsVkVONHNxOFlDS3dqRjlRM0RrcXZ6Xy1XYXhqYVNuMHpnMnpncWYzTXpvS0lTcFVkNXZYcHV2TUdvWUVXZ0owS1ZyRHdiYWVicmlvazVjcl9kWWxXdjN4V2ZYZ1dwTUM2aFg2dEU0ZmpLemN6UG1OY0QyT3lMRGYtWnpURnMzcy1weU1oWTZsZFZpRHlicmVudmExMV9QRVVtcGpiXzJ2ZGw1a3k5SVV5dncwbzJN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo (WFC) Stock Slides as Market Rises: Facts to Know Before You Trade - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUlNUFpSLWRXUWp4eTJHczhhOVRxWDlFWWZYaDJVcEJBVWlfbTl3U1NMaVJtNFN5V0FXbTk0dUVzNjRQZFFFZUNGMTQ0Nm1GMDllLVlIN2RuamZGV1VuWk9lMWlpQmdxeFRBdEwxalBJT1VYZmxuYmpON3k2UmtFMzFpYnJ0X3czZVZ2VmNiNDRYN3R6QW8wRzYtVDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo (WFC) Explores New Lending Opportunities and Expansion | WFC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMllDTUtGOGVLeTY1LVV0SFFwelBiR21XdG53ZXl1aS1fQmZtanRseXRIWVFHekQxZ29OM0R0VnF5b2d4Z3dCNUNzTkNYcy1GV1phcTFnaUVPeXpDV25abEJCeVhBRGpXMFczTF8wMFNnRGxFZ3A4Z3hOby1JLUZGX0xKYktwMXktZzUyRDBOS0I3MDV4WE5qMW1OVnJtRGxsUmlYdEdrWEVQR21Mdm0xWkZZTF9IWThOTm1zTUpWb1JzV1lkRDh3NTFnMFdQaGxDbVpQaFJ5Szk5TTZaQTdDMkRJdUZjTHZjeEVSYm4wMjM4dnlPcVE0ZFNWWDR3a0o0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Top Stock Movers Now: DR Horton, Wells Fargo, Dollar Tree, and More - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbEhIcXpBdXRiVkhMdzhiQV9TRF9KdmtzQWgzcFVJTlR5RDhEcTAxYkFrSndZMmIyY291Mk5CdzdSV3Vxa25pYXpRMnhlZU5jenlRRFFzb0tUZk50YXNLUDlfUzU3QWhtbWYyemxWcERMUldaNmJIb21CekZRbUxMSUUzeXlRTGJETTFiRGNfQVRCX2NtRkk2YzZYREJrUDBhX0dZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo CEO Charlie Scharf to Reveal Strategic Roadmap at Major Bernstein Conference - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT043cXR6VU5nQUUwa2JIVERMdW4yTXVsa2IwcFhYUy1ncDNVbzVKdDdZSWtQM3V6aWkzbm5yRzh1aGdWY1hmSUtlYi1aZVNrRElZUW5hbFB1MVRFTmxHbTFHVkcxQlYzS2kzWXVqV3VSU1R6aERPdk9xdHc2elZxTHEwMzdUWjFZOGtsSXlHazVqaHk4MUlYb1Z0bnlrTjNBbTNDVWRhaFpzRzJ3c044OGREdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Stock Rises After Fed Lifts Growth Cap - Schaeffer's Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNejhRR1B6QWxmS2NCRGNEV2oyY01XYnNKeDhNdlVvMDg4SVVxeGF0c3VYbWRRRFkwMmE4NUpwYzBEbEVwazNyNWlhb1k4R3doa2ktcTZfYWZ6dmhzRzN2dHNFQ3N5NWp5SUp4RUdyc0JXNVl6dzg3OGhVbEctSkhKNmFKMnJmTHN2QzE5UmJ6cWpTME13RE00U1VlUVBmWEFYeHhsV2VzbjNOUUhwcVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wells Fargo & Company (WFC); Stock Jumps Almost 4% After Seven-Year Growth Freeze Ends as Fed Eases Restrictions - InsuranceNewsNet",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXdqaTdvVFpVVkpkTW1QcUd2eURGdUdiM0ZGREhObTNWOWhVSzdFYUY4NzFMd01GTVZKUTcyRllyUlFwRGpIQ0o1WUlXd3pBVGlvQzNxQ1J5YUJUMXRZU2hfVUdVTm15NDAyNlJNZDJGRmNhNUFNd2dSMWxfckZNQjA1NWlqZFQ3bDRNeXVNdHl1eDdOUHZKMnJTbDNsd05Kd3FqSEZJSHYxNUUyR3VRdl9KRE9ZaG5UNzEzSzgtZzlaMTZCMGhvQ2o3Wi1RRFBtbko1bVA2UHZOQ3FK?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Wells Fargo & Company Announces Common Stock Dividend and New $40 Billion Common Stock Repurchase Program - wellsfargo.com",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV2kxS2tOMVZ5LUg5eVVmU0kwVVJvSVdEU2JlTFIyQ0dkR1pmcm5wUzF3N09hMW4zcFR3NHpNbFYwWUZKZ3V5X3BLUDV4blozVTh5R05UQ1FlVENJWURZcV9aWXFuSGRFMEh0MTJrdGliZHlZeHdlbWM5a0c0U3N4dENDMHBEV2diRVRCVWV3bFRVVUlnNkFIR1pfeTFMT3Z2alNEWmdDaFRteFRxcndWbHJ4QmlWTVNYWkpROFVUR1d6ekF5dGhDQ05wUFMzZ2RoWXZPYkdCamRDTWtCb1dQTzlrc0FTUERXNV9nVk9ZN2dIb1ZYR1BiN0VqOE9UdzIzcGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Fermata Advisors LLC Acquires 9,629 Shares of Wells Fargo & Company (NYSE:WFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORmtZRjVlUkRIT1djOHFPZC04aFU3emw0NUQ3Z3ZuTzNjTW1uT3F3SWx3dmJDSjdjSHVPbGJ0TG4wVDMzd1VSUDFzS21HR3pQakRnWE5HekVfQ0xObGJIOUx5MEtKNW90aGVHUHQ3bzZ5dE9DcjFaSXJVbmlsWGJTQW5WSUtHb1E1VkY4S0RBS3J1VTl1NlcyVG5BSjVsVjhCeEN2RURmY2V5UjdkVm1tM081Vm12T1hxdTczMlZ5ZkJibm53NXM1OEdfZlBaZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Chesley Taft & Associates LLC Has $15 Million Holdings in Wells Fargo & Company (NYSE:WFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWF8ya0FOWGVzODNQNUU0cnNzWV9KWVdnZ3k4bldYaG1aSnNRNmNqVUpjbXdxSkZwUDF3by1aQ1RlQUU5WExnNmVVdm9UTW5sTEpEWDViRHYwOWhuSlZoNERlSV9uVlRLYWdWWGlJeVJrQ1lZWU9veTdZWmQ1N3k1Si1oMTFTbmF2UmZMeU5UMVRsdnBvN3dRQmtReUVuaWdQX3cyak03RzZoMkJMNzNNcVhpbDk3VGV0bnV4Ti1RY1FmS0U5aHdWNWd1NDI4YW83X194R2swaWJTUEk?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 75.28
-      },
-      {
-        "date": "2024-12-03",
-        "price": 74.14
-      },
-      {
-        "date": "2024-12-04",
-        "price": 73.06
-      },
-      {
-        "date": "2024-12-05",
-        "price": 73.66
-      },
       {
         "date": "2024-12-06",
         "price": 74.33
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 74.68
+        "price": 74.72
+      },
+      {
+        "date": "2025-06-03",
+        "price": 75.65
+      },
+      {
+        "date": "2025-06-04",
+        "price": 75.38
+      },
+      {
+        "date": "2025-06-05",
+        "price": 74.9
       }
     ],
     "current_price_data": {
-      "price": 74.69,
-      "change": -0.02,
-      "percent_change": -0.03
+      "price": 74.9,
+      "change": -0.48,
+      "percent_change": -0.64
     }
-  },
-  "news_sentiment": {
-    "summary": "Synth\u00e8se :\n\nWells Fargo est un groupe financier am\u00e9ricain en plein d\u00e9veloppement. L'entreprise a annonc\u00e9 une r\u00e9partition en dividend de 60 cents par action et un programme d'achat de actions pour 40 milliards de dollars. Les actions de Wells Fargo ont \u00e9t\u00e9 achet\u00e9es par la banque nationale tch\u00e8que. La soci\u00e9t\u00e9 a r\u00e9gl\u00e9 une partie de ses obligations de 450 millions de dollars. Wells Fargo est un stock \u00e0 suivre, avec des performances positives par rapport au secteur financier. Des investisseurs ont vendu des parts de Wells Fargo. L'entreprise a fait des progr\u00e8s importants dans le domaine des r\u00e9g",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

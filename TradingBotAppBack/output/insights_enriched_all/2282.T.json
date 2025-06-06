@@ -2,55 +2,68 @@
   "ticker": "2282.T",
   "name": "NH Foods",
   "sector": "Consumer Staples",
-  "market_cap": 503066689536.0,
+  "market_cap": 505540149248.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 19.312572,
-    "PB": 0.9595143,
-    "EV_Revenue": 0.487,
+    "PE": 19.26808,
+    "PB": 0.9557404,
+    "EV_Revenue": 0.486,
     "ROE": 0.05167,
     "ProfitMargin": 0.0194,
     "GrossMargin": 0.1608,
-    "DividendYield": 3.07
+    "DividendYield": 3.08,
+    "DebtEquity": 41.689,
+    "CurrentRatio": 1.576,
+    "QuickRatio": 0.829,
+    "FreeCashFlow": 35069374464,
+    "OperatingCashFlow": 77440999424,
+    "FCF_Margin": 0.025587753992974697,
+    "ROA": 0.024230001,
+    "PEG": null,
+    "EV_EBITDA": 8.465,
+    "BuybackYield": null,
+    "PriceToFCF": 14.415431041319414
   },
   "technical_indicators": {
-    "RSI_14": 42.81375859243504,
-    "Momentum_10": -4.489105935386927,
-    "MACD": -45.162476736975805,
-    "BB_Percent": 0.2941663541541096,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 41.626792350036496,
+    "Momentum_10": -0.4520440251572327,
+    "MACD": -41.90740357093364,
+    "BB_Percent": 0.3034218102986917,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8989809143213372,
+    "ValueScore": 0.8961504217846281,
     "QualityScore": 0.3916331882131411,
-    "SignalScore": 0.6935773963265486
+    "SignalScore": 0.6472148223651151
   },
-  "volatility": 0.0158818963774314,
+  "volatility": 0.0158961874720388,
   "beta": 0.165,
-  "return_6m": 0.0149547274608248,
+  "return_6m": 0.0178858520900322,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 7,
     "target_mean_price": 5442.857
   },
+  "news_sentiment": {
+    "summary": "DSG Capital Advisors LLC a acquis 2 282 actions de McDonald's Co. Cette acquisition pourrait indiquer une confiance accrue de la part de DSG dans la performance future de l'entreprise. Les investisseurs pourraient interpréter cela comme un signal positif quant aux perspectives de croissance de McDonald's, ce qui pourrait influencer positivement le sentiment de marché à l'égard de la société.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "2,282 Shares in McDonald's Co. (NYSE:MCD) Acquired by DSG Capital Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZkJDWVdRN0NvbkRiREQ1d3Z2VHlyV041T3JYMElkcHpHaUIxLXBnSy1IcVl5T1k5eEx4MUd5RzAwelFpNmZGS3V3R1J3ZzZHUEY1WmpvenpEX3Z6YjhMQUVvMENhU29wQUNQbkJiTlcyMGp1X21CUjlwUUhBSWtieUh5VjhhenY4OXEtd25pN3kzdTJLaVBhNDFBSlZPcmd3UjNhSWxwWmFyMS1WTEhpUzRmaVZfTWlsUi14YmliYXNUZm9iMDNJYlRnaTEtTWY2NFJJ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 5146.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 5152.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 5127.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 5111.0
-      },
       {
         "date": "2024-12-06",
         "price": 5120.0
@@ -514,12 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 5085.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 5099.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 5110.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 5065.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 5091.0
       }
     ],
     "current_price_data": {
-      "price": 5085.0,
-      "change": 2.0,
-      "percent_change": 0.04
+      "price": 5091.0,
+      "change": 26.0,
+      "percent_change": 0.51
     }
   }
 }

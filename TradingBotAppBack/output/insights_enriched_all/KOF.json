@@ -1,56 +1,164 @@
 {
   "ticker": "KOF",
-  "name": "Coca Cola Femsa S.A.B. de C.V.",
+  "name": NaN,
   "sector": "Consumer Defensive",
-  "market_cap": 20864819200.0,
+  "market_cap": 20348641280.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 16.633106,
-    "PB": 0.13499178,
-    "EV_Revenue": 0.897,
+    "PE": 16.389172,
+    "PB": 0.13414694,
+    "EV_Revenue": 0.907,
     "ROE": 0.17362,
     "ProfitMargin": 0.08339,
     "GrossMargin": 0.46179,
-    "DividendYield": 3.47
+    "DividendYield": 3.42,
+    "DebtEquity": 49.775,
+    "CurrentRatio": 1.214,
+    "QuickRatio": 0.906,
+    "FreeCashFlow": -12128159744,
+    "OperatingCashFlow": 36742660096,
+    "FCF_Margin": -0.042384340933011425,
+    "ROA": 0.08035,
+    "PEG": null,
+    "EV_EBITDA": 5.325,
+    "BuybackYield": null,
+    "PriceToFCF": -1.6784940711282241
   },
   "technical_indicators": {
-    "RSI_14": 60.85786060863987,
-    "Momentum_10": 5.088950103183962,
-    "MACD": 0.8985351087609672,
-    "BB_Percent": 0.991923367338248,
+    "RSI_14": 57.50722336496789,
+    "Momentum_10": 1.6902893546998032,
+    "MACD": 1.0651684105294663,
+    "BB_Percent": 0.794014422582678,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9350251575073648,
+    "ValueScore": 0.93305749711259,
     "QualityScore": 0.4563913606571647,
-    "SignalScore": 0.3870234027920783
+    "SignalScore": 0.5052384837060504
   },
-  "volatility": 0.0154533935478054,
+  "volatility": 0.0155698034077694,
   "beta": 0.617,
-  "return_6m": 0.231480613049585,
+  "return_6m": 0.1943364468256603,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
     "target_mean_price": 111.63654
   },
+  "news_sentiment": {
+    "summary": "Coca-Cola FEMSA (KOF) a récemment bénéficié de plusieurs améliorations de recommandations, notamment de Morgan Stanley, et a attiré l'attention de la Fondation Bill & Melinda Gates. Malgré une croissance des bénéfices sur cinq ans inférieure aux rendements des actionnaires, la valeur solide de l'entreprise est soulignée. Cependant, des ajustements dans les positions d'investissement ont été observés, avec des investisseurs comme le Public Employees Retirement System of Ohio réduisant leurs avoirs. La performance boursière récente de KOF semble être en phase avec ses résultats financiers, mais des mouvements significatifs ont été enregistrés dans les participations d'investisseurs tels que Summit Global Investments et Vise Technologies Inc.",
+    "sentiment_score": 0.3,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Coca-Cola FEMSA (NYSE:KOF) Upgraded at Morgan Stanley - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzdob3NkTGhiVzZ6TjVBOS1LZGZxa3VMRjBHT21sUy1MX29fbzl5UVR3UG1xUVNzRVN1ZzhEbW9fbktESXBWZXlIM3BpWFd2bDhQSFFneXJGaDFxckFEZWlvU251V21VUmlKVFd0SXZRd19tQ2tWOGxZWVFaV0htLXM1MGlzNUFrbnBfbTd1TTBxaFYwWWRIRU9FeFhpVUwwb21aR040eldxQXZOMG80NFFreVgtWm56?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trading (KOF) With Integrated Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFE0c1FaRkZmTkVETi1qbnJPSUFnMVNib3JMVWNFM3JPbjdrcjZjdko3WXRKcHczOFFTS3otQzI3cmZncVNxNWcxZExOZFZmQmxvelZxOTl3em9ScTBneHA5MEh6UXpzRGpBMjMxa3dPLWtwY0x2ckI5SFVVeEZaSVBzMUdOVUtCaXNhUHpBRGlzbFgyLUVwYTNlTGZTUWozM0JXc3VmUzJXYXQ5R25BaFFxemowWWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coca-Cola FEMSA, S.A.B. de C.V. (NYSE:KOF) Sees Large Decline in Short Interest - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEhtTHkxVnFUVzUzLU5OU3hVNi1hcjJkaVpVOVFnNUliY1laV0ZyemFCWHo5ZzZJbmM3OVRqM2JYd3BHakdMSlRKUGxtTE9jQVJyT3FHemRCSEE4ZzdHdmFWcU5pNVc1dXJEamJfQmZuU1dWeWJxNWJZX2NRNkR5djM3VkhSdmVzN2VINFpjWTl2cW16a1cxVE5TdG01OXN3OFFSeXBUX3Fqa1Y0cW9TNjQtTUh5N1ROQ0E?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Coca-Cola Femsa (KOF) Upgraded by Morgan Stanley with Raised Pri - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX1VVNTBUZjhZWWtqUDRaM1VCdkhGbUtSck5DdGVPMUNPV0RFdFNfVVk1NVFJdl9EMkt1MmVHTVBjMm9Ndi1STnUtOW5IdFQzbXpKQnUwTGNBWmRNYXlDVXVtWWhiVEZ4UzRjVk1tallCRUFnLVNtU05pTXdSWXZwNlVUbV90UmdYNXVvUDhQX1F3WW9MWC0tWUl0S3dQR0g1MHVrM3RPQkhYNWp1QmRmUmM1Q3VwX0piVElDbWNrUEt1eVJPUzBTd1hraE10Q1NfMVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Coca-Cola FEMSA, S.A.B. de C.V. (KOF): Among the Best Stocks to Buy According to the Bill & Melinda Gates Foundation Trust - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyeEdkano4Si13QTNEOVhrTXYzanVTMHF4ZktsZTBnazh5cDdMRkVqRzNRaEVHckFnQlplX2Vja0U1R0pkRC1JdVVmRHlrZGpJYVEzSGlCZVJwMlpjY2xZYWlWWHA1SWVHR2FWZVByZ1MyaUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Morgan Stanley upgrades Coca Cola Femsa stock rating to overweight - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0lJa3ZJb1N5T090WjMtNzB6Ykc4X2lRZFNMd0QtNllXNUticmVtblY3Rzc1eXVtNjRxb29ra1RsUEduWVJVYjNqRlNCaWdyUXBiTmVwbjIyT0t3b1dWb3JiYU5wQmNzejhvR3FXb3AwZldqR2JHcHhNQlV6OExwUUZaaHFBc0dVdkNKOEd4U1Q4REIyZHV2ekcxaTkzd0lNdWUtR2NqMG82RXhJNkxVS0k1MUJsWTZtckxhZFhDaW5uR04w?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Coca-Cola Femsa SAB de CV (KOF): Is This Deeply Undervalued Stock a Hidden Gem? - The Acquirer's Multiple",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNW1BUFhGbGp0Y0tyVzdIdHNySS1vYUplM01aSjZrQzItVG5tYUV0OS1LRnNOV0RrUzRhbDFWcWFZQ0tQY1pWejhCblVPc1paSVlndG91YjVFVUhOcWo1ZjliQktYVmNxTWNidjFuRlVyRFI1eHVlOGNPYVg4SkRPNU81NndaTS1McG94bFNGYWNqOGtXNGxLOXlRbTNMQWtUM1phYkVWWTBZTW1mWG9nRFNrMng?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coca-Cola FEMSA: Solid Value Hiding In Plain Sight - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWN2QnVYcVFMMWpTNDlwVU03NnpzZEFXTmt0V2l6Z3R1M1VQM3A3X3JzbXBweHdpLXQ0N2tzT0tRbUR0b3RQNEN3QkoweXllaFEyUjVMM196SHNSdTR4cENzOHJFLW85eHltQUx6QUJLaVhTVi0teEtGY1JjNDQ2WTRZVkdsNkJTblp6MVpSZzczYzdH?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coca-Cola FEMSA. de's (NYSE:KOF) five-year earnings growth trails the 24% YoY shareholder returns - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ0QtRVpuS3RuaDhxeGF6MUQtRkJTUElMX2N1UnpvQ1pSMklzbTVQRlVMalJ0eldRT01PV3lhd1FqSXcyV3JURFpFUFdsUlljUnNNTTFzRXNnaUpodVlrNk9rdFlaR1FTVEVGVlF1RHM2UldJbmdwWjVHV09OTzNVLV95US1uVDREOTdES3p6c0ZENFhIck1UdlpyNUIxQVlkbUl2WlZMd0NsVzdKMkpmaHp3VThyRUkteWxsMWlsU2F2aEZmcWV5QXdkWm5aNzQ4WHBVS3FaNU83VHV2WnR6VtIB5gFBVV95cUxNOF94bkNsUGNNS2xSUU11Q1NrdjdrWGV6M3JIU0lMVUM1NGNUVk83d3FlajFHTmQ2cWN3bEZYeTBIa3BlVjZhcmh3elhwbmJ2LVk5VlVremdRaWppOXM3QW9SaFhrMDg2SUVtOXlJWjBDQTM4dllqZ3AxSzZrTFNSa05CNjQ5Sk9RcHVTVEljbjNUcTdMWVlCcjVFZmpvTVJKY05mUnk5ZkNPMHg4RXhzcS1NdHpYWlUwcDFIX3FmdktTZk9PZDBkODlPVUJrclZ1MjBoWEltWnVhaWppcS00T3A2R0VUUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Coca-Cola FEMSA (KOF) is on the Move, Here's Why the Trend Could be Sustainable - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pNXViWnUzdGRYdEw1ZnNMbHl4Y0RhVFUtdVA1V0pqMWhPcmtPSUFVTF8wQXJyblhPMUFtZXpVX2ZtRXZEWG8yYkJibEFBS0tNWkVxeVdZRERJb3A1TjVpLWhNT05LemJfLWJWLU5JMFdueVEzcUVBWG9B?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Trims Holdings in Coca-Cola FEMSA, S.A.B. de C.V. (NYSE:KOF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV3VWUl9vTmtOWWxjV19DSFNjeW5HVm42b2ZTdVhXVWtyT3kxNzZKSWpkN0FMZ1ZuQUV5ckVYRy1HMlB1WWVfOUR3WGc3eFlEb1RwWW42RFd4OWRfelpJdm56M1FjV1Ixek03T0VQcGNwU3dnN1ljY3laNl9raVppcV9KSnFDMWhTVnNMRW5KcDZqc21UdVF6WTlBUXlvNF9qZXhNM0gzRDRoS1BzOWVUWUxLcy1kaUxiNlVWSnU3Zy0ybzdyODBKT0gyS256MVhBM1dPWGJtSklEdl9aeDlQT3F5YVl4UkZvdG5iX19HRGJXcENfTGo5Mg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Coca-Cola FEMSA, S.A.B. de C.V.'s (NYSE:KOF) Latest Stock Performance A Reflection Of Its Financial Health? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUNBNWthV2RqYzh6c0FYUEJHMzBRVmlFNnVSc2tWZ1Y0ZlhrSm83S0tFbHQ0bWdmaXZGLUZiano5OUQwdHpmcGh0VzkwS3JzNnVMdVVRYzBXSHU2MEF1NlMtLWtlUHM3RXJXRzRBLTJCZnZsUEgzalZyWXJlUjJvTkc1UU1MSVpjRGJHcEp3YmdFZVh6aWUyaFhYQWpyNzlodmZILXVOaXF6NC02Ry1uVGNjc3IwbUlzeGkzQ2VwdDJSenB6SUVjd256bkZFUUV1M2tUOHhtaWlqeDVfOTlfN9IB5gFBVV95cUxNeGpQdkRZVUZvNjBNdFlBMVBhWVBaaWhaTXVKYXpVWklQS3J5aFk3ZE93NmlkWUZoMi1GYWhQX1kwbTdMYmRmTGViNDV2S05uVWZScUFhbkVudHNvZmh4cEx1NVBjcnBWS2ducHpDYmlZd2hKM1F1NjIxLWZ2WHJ1WFNxRFBGNGNHd01QM1BZZkhXYVBmWEhLdFVkQU00Um9PUjQzZDJxTXluR1lCcXhTY29xeS1hNGxGel9oT2hfVzhIRnlwa2QtWF9EOWhlNVU0NUJocTNLWENkV2RTRGR0bHh6Z01ydw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(KOF) Trading Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHhkY3JXNF9hQ1RYeFE5dzFWWEJUN1RSMVV5S2pxSFpOZVBvQ1RCdmZyX0J0Z2ppbFE4NnlKaGQ3NkxXempEZ01yb0pTRTQta1l5Umx1LTJnaUs3cjd1WFJGRzR0NE5XU1p1ZjQ2OUluSkZKR1BRVFBkQndjOGlvemJLMlZFNVQ4M3hJYk9KTmhlcm5iOUZETg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coca-Cola FEMSA: A Refreshing Stock Trading At An Attractive Price (NYSE:KOF) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQms0MDY4YmdIRVRWeDBRUFdHbHFzQTNpU2t5NW9JTGxvQlllZWZjSmZiS18tY3IwcjNncWRXeFdadnV0MGxwZVZCM3ltcjg5dWFDOE5SS3lnUGFoTHdNWUtUd01DR3V1eS1sM2w5M2x1UFhxOS1jSVNGZzlXOXVOTjlhcjFYVjROOElnY3BNY09PTVJ5dy15Q2V3NTVQT3ZRekFzc1BfSzNDZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Coca-Cola FEMSA, S.A.B. de C.V. (KOF) the Best Stock in Bill Gates’ Portfolio Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIbHpuYUVQYUtxc3RPQzNxbzlYTEJQbGt6LS1XTnlRRVR4NGNuelc1M1ZCc3FIOFUzbFN4T1R6cTZsel91RHdkYllnYzZoZm9BMDZRYUp1aS1FTnNFdmk5MHJvNHJRQkdHOEpDeUJ2YVp6bEk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Coca-Cola FEMSA, S.A.B. de C.V.'s (NYSE:KOF) Price In Tune With Earnings - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTzA3S2JhTlFtZDRybXVvU2RJUDBBQ3djQ3dqLWpMZDFrUkNKdV9GSGRreFFFV1BmU0dDSXBEdmZPblRoeDhFSkdJN1pPMzVGRm95UXItVnZUZlZJbEF5a2FzV080UFJBM2VDZHZwOEl6SkVnNHJIeGJPRXRmSTdfQ0pfTjdycEFfWEJTdFU1dVE2LUFrZy1yVnZRMFBKYUZQTTlzWHppcVBJY1c0MVk3bzJWV2h6NzlXb0xNb244ZjZMVEdGbVZScEVtUkFzX2x3ZTlJQ0c0Z0ZQT0lDNDRadtIB5gFBVV95cUxORTNOZzVyZ3Z3TEVHVVFra3NnNTRHRTJwZjllMnA0RTk3UzM5Q3hpcFN1NnlkOVdBN05STDhoLUduZC1zNzVIYXhUd2VBN1Byb3pLczNZQWg4Y3gzNlo1cEVPbS1qNGRiN0FkN1NEQnNmdjJWbm1sYXlnZGtCMkVHaVdCUlNfdW00aUg3OWhDR2laRGJlN05kX3YyZFRiY2NBZV9USHoteDhwLXBMU2dWdUV0MUVUdG9ZbWF2UmQ1MGxuRUcyMWRrVzJSYWQ2bmZfRWlNelhDSDNhM1h0N0ZHYzgzbEtOdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Summit Global Investments Has $704,000 Position in Coca-Cola FEMSA, S.A.B. de C.V. (NYSE:KOF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcElpNkFidl9ZRUJ3Y1pfUnMtVGR4Z3JfZ0ZXalp4QlN1V3Q1dUNJV0lQNUcySUFSczctXzJVY251dFJmMGZWSXlaRGtLOUFIOGRkS3dicDItNnJPZjNsYzR4ak13UW54bWhxNDd0UUxSSmdHZEFxaDdnVFU4NHNhbDhRX3M4NTdWUHhIZ0F4ZTFGbm9rdU5mczlpMklNbFVFdzl1Q0pUQkVTb3JIaG1MZGhxeDR4cm1yWnlHanlHQWlVbUNTN1Z2a1hrWTh6NjM3eXNyU0IyelItZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FEMSA Stock Shoots Up 24% YTD: Time to Buy or Pause for Thought? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16Q29vUnQtZUx6RGxjVWlJdVJUZjl2UGlITDdkeVhtLUU1T1BaOEs1OU50TDl5LU8zVkJHZ1hQbE9ZTkVlNEFVbmtQZU01U0Q2QUNFV2twVjFVb0lOZnlMTWtXeWNKUG5VbEZ2alJnNmJ0UnVUY080ZVV1NA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Voloridge Investment Management LLC Lowers Stake in Coca-Cola FEMSA, S.A.B. de C.V. (NYSE:KOF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV0kybm9DNlpqdFIxUDVUbllwODE0OGRmWHdYa2xnMXZFQ3pxeUhvRFdGR1h3VlRyWHRQT2IydzRJMF91Wml3ZzVmbEJsdWtXZ2drdEJHYzJLYm1DdlRkUDZlWGhhTVpNcXEtMHhWLWNsb3dadFJ6bDFYeFNFOU9uSDg2SUZoMkEtcjJEMXhrQVFKQnVaY1JoOHFDNjhlWksyV050cFp4WE1HbmloNnFHS0hTODgyd2VIOEJiSTBxVzdINEpWcVhHRUpPZ2w4VGp6R09lZ2J2STM5QTM3OTZfZG5rTWxhMGZWVUV3ay1wYWlxXzU1TXN3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Vise Technologies Inc. Raises Stock Holdings in Coca-Cola FEMSA, S.A.B. de C.V. (NYSE:KOF) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVm1GcVpkNkYzaXA2XzQ1d2ozYl9QU2lnZ2JlcmZEOVBkSUNkRnJsbnFXcG4yb1psQ2pmSlJsUjhlNzNNR0ttSnktMjVBMjhBSm12QXRISk04bWZZUDhDNERLUUJCc3hMRUl4akNOd2dvTmlWdERFeFIzUGJLUVgxcTBQWGJqYmstdHhtMjFJZVdwOW5ZMzVpVVI4N2hlRVI1d1ItQkttR1M2eUxVMkVXM0Qxb21lQU5zZ3E3TndjazJYTGVnM2g1YTM0ZXhZTEljQ3dB?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 80.61
-      },
-      {
-        "date": "2024-12-03",
-        "price": 81.52
-      },
-      {
-        "date": "2024-12-04",
-        "price": 82.42
-      },
-      {
-        "date": "2024-12-05",
-        "price": 83.06
-      },
       {
         "date": "2024-12-06",
         "price": 81.85
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 97.48
+        "price": 97.93
+      },
+      {
+        "date": "2025-06-03",
+        "price": 97.45
+      },
+      {
+        "date": "2025-06-04",
+        "price": 96.4
+      },
+      {
+        "date": "2025-06-05",
+        "price": 96.9
       }
     ],
     "current_price_data": {
-      "price": 97.48,
-      "change": 2.57,
-      "percent_change": 2.71
+      "price": 96.9,
+      "change": 0.51,
+      "percent_change": 0.53
     }
-  },
-  "news_sentiment": {
-    "summary": "Coca-Cola FEMSA (KOF) has been upgraded to \"overweight\" by Morgan Stanley, with a raised price target of $43. This suggests a positive outlook for the stock. The company's solid financials and growth potential make it a valuable investment opportunity. However, it's worth noting that the stock's five-year earnings growth has not kept pace with its shareholder returns. Despite this, many investors and analysts view KOF as a hidden gem with strong value potential. Overall, the trend seems sustainable, with the stock performing well and being a potential addition to any investor's portfolio.",
-    "sentiment_score": 0.4,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

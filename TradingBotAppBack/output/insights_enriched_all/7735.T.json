@@ -2,55 +2,78 @@
   "ticker": "7735.T",
   "name": "SCREEN Holdings",
   "sector": "Information Technology",
-  "market_cap": 977476124672.0,
+  "market_cap": 991641993216.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.265392,
-    "PB": 2.2571695,
-    "EV_Revenue": 1.27,
+    "PE": 14.473974,
+    "PB": 2.3872159,
+    "EV_Revenue": 1.293,
     "ROE": 0.25100002,
     "ProfitMargin": 0.15908,
     "GrossMargin": 0.37631,
-    "DividendYield": 2.71
+    "DividendYield": 2.72,
+    "DebtEquity": 1.084,
+    "CurrentRatio": 2.003,
+    "QuickRatio": 1.235,
+    "FreeCashFlow": 42329751552,
+    "OperatingCashFlow": 71234002944,
+    "FCF_Margin": 0.06769846349087628,
+    "ROA": 0.12560001,
+    "PEG": null,
+    "EV_EBITDA": 5.452,
+    "BuybackYield": null,
+    "PriceToFCF": 23.42659611403145
   },
   "technical_indicators": {
-    "RSI_14": 44.598456861399384,
-    "Momentum_10": -6.118203309692671,
-    "MACD": 140.2818032938958,
-    "BB_Percent": 0.2032611578489362,
+    "RSI_14": 54.55899134630353,
+    "Momentum_10": 0.2386634844868735,
+    "MACD": 100.1430501465984,
+    "BB_Percent": 0.4843897198954462,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8967865215109799,
+    "ValueScore": 0.8937283773911877,
     "QualityScore": 0.3255533348145025,
-    "SignalScore": 0.664332223090379
+    "SignalScore": 0.553585809722158
   },
-  "volatility": 0.0331516265746791,
+  "volatility": 0.0330239425135229,
   "beta": 1.271,
-  "return_6m": 0.0331370398377186,
+  "return_6m": 0.0669256713410486,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 15,
-    "target_mean_price": 13433.333
+    "target_mean_price": 13300.0
   },
+  "news_sentiment": {
+    "summary": "L'entreprise japonaise SCREEN Holdings Co., Ltd. (TSE:7735) est sous les projecteurs avec une évaluation actuelle à JP¥10,690. Pendant ce temps, la Toronto Dominion Bank a augmenté sa participation dans Republic Services, Inc. (NYSE:RSG) de 7,735 actions. Sur le front macroéconomique, l'indice Nikkei du Japon affiche sa meilleure performance en trois mois, porté par l'optimisme entourant un accord commercial, ce qui pourrait influencer positivement le sentiment des investisseurs.",
+    "sentiment_score": 0.333,
+    "label": "POSITIVE",
+    "positive_ratio": 0.33,
+    "neutral_ratio": 0.67,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Should You Investigate SCREEN Holdings Co., Ltd. (TSE:7735) At JP¥10,690? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNE5fWURtaTdjYjA2eVg1SDR5MlFaT1NsS0dlR1NyQkF6cmVwdl8tNGRIRVAtR0hzS2lNTWlvNDRjd1ZGbDI5eFVIdUk2UGZHNnhZQlZvaW00Wm1oZnFQZHBQc3Fad1JxR2V6THhKaVlsOHYzekI2XzA5M1BpcUswQ29DbmE1Q2hKMXJIWHNMOEItT0NRenBtTWwyelk1Z283ODU1SmhFN1BXUHJZUWRMbzdFTlVpajJTT2tFVWVwaUdkNlFCbFBiN2pVVGhQcTE0cEFLOEVFRkFLMzZE0gHiAUFVX3lxTE90SzNqUDNfRTdmUkUxdnFUd0V0cnFDUFdqeHJqMlBrM2FFWEMwN1hTcEZ2QzE4SF9kNE14R19DelVwVmNtVDNsUHJVenFYMkF2aGVqTDVEMlJ0V1A1cE9UNW5EdmtQTUNvbXhYUDRQSVJWUTBUMzhXOGwwYXJWRURzNlVqUk10ZGRYN29wR3JNV2JOOTJOdUcxRnUycmh3VlZRQ2xSdmFYWjV2bFlWbDFhWklUNFJxcUE1aGFMMFNxMHVVMWFEOXVGZE0tdnA4SHpMZmlQb1p0Q3B4UE5rUnF5NUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Toronto Dominion Bank Acquires 7,735 Shares of Republic Services, Inc. (NYSE:RSG) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcVlvODRVMm1DSzFQSmNGbXpOd1lIZXNxc3R2Vnp3ZFBjUFFjcGw4TGZzYy0tTnFzVnN5LUR3NEUwaWVrdk1BODFnV2FsWTQ3SGN0aGd1RTAtSmZGQ19SaG1ZYTlKTGJJb2hJRlNqX0QtUzFGMDZQOG9IdUJ4MDZLYThxSTluT3hXSFJzMjBqdm5jcFBQVnotUFZKZEt3NmhGS1lHYmsybzByb01vRTdlM3B2VlpOYnltMGlhYzgwdlViY3lfYkpPVkNlQ1hSXzVwOWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan’s Nikkei posts best week in three months amid trade deal optimism - Latest news from Azerbaijan",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDZ3MFJheFZ0dl9XYVdMakVnX0lZblF5SjFmTzV1cHVaOFVhc295ejY5enA5WmVEaDRla1N6bUFPTW9mN1F0aWgxSWY4MDk3LXBvVTdKTHhhb0tDQy1mMkdFSWJ2SGtSNFQ4Q2JTNUVwMnVWcXhLTGlidjdkMDRQZEhicVdqblVVaW5kMEExT1QyVnZCb1E?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 9784.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 10190.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 10010.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 10020.0
-      },
       {
         "date": "2024-12-06",
         "price": 9665.0
@@ -514,24 +537,28 @@
       {
         "date": "2025-06-02",
         "price": 9928.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 10070.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 10290.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 10500.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 10505.0
       }
     ],
     "current_price_data": {
-      "price": 9928.0,
-      "change": -422.0,
-      "percent_change": -4.08
+      "price": 10515.0,
+      "change": 15.0,
+      "percent_change": 0.14
     }
-  },
-  "news_sentiment": {
-    "summary": "Les nouvelles concernant SCREEN Holdings Co., Ltd. (TSE:7735) ont signal\u00e9 que l'entreprise est consid\u00e9r\u00e9e comme une bonne opportunit\u00e9 d'investissement \u00e0 JP\u00a510,690. L'acquisition de 7,735 parts de Toronto Dominion Bank (NYSE:TSE) de Republic Services, Inc. (NYSE:RSG) a \u00e9t\u00e9 r\u00e9v\u00e9l\u00e9. De plus, l'optimisme li\u00e9 au trait\u00e9 de libre-\u00e9change entre le Japon et les \u00c9tats-Unis a contribu\u00e9 \u00e0 la meilleure semaine du Nikkei en trois mois. La division des microchips entre les \u00c9tats-Unis et la Ch",
-    "sentiment_score": 0.5,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

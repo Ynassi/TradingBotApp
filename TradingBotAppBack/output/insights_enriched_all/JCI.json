@@ -2,55 +2,163 @@
   "ticker": "JCI",
   "name": "Johnson Controls",
   "sector": "Industrials",
-  "market_cap": 65982369792.0,
+  "market_cap": 67362623488.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 30.29305,
-    "PB": 4.1747856,
-    "EV_Revenue": 3.37,
+    "PE": 30.926739,
+    "PB": 4.262116,
+    "EV_Revenue": 3.397,
     "ROE": 0.13137001,
     "ProfitMargin": 0.10775,
     "GrossMargin": 0.36012,
-    "DividendYield": 1.46
+    "DividendYield": 1.45,
+    "DebtEquity": 65.788,
+    "CurrentRatio": 0.96,
+    "QuickRatio": 0.564,
+    "FreeCashFlow": 2593499904,
+    "OperatingCashFlow": 3392999936,
+    "FCF_Margin": 0.11155798426683482,
+    "ROA": 0.04844,
+    "PEG": null,
+    "EV_EBITDA": 19.196,
+    "BuybackYield": null,
+    "PriceToFCF": 25.961584501373476
   },
   "technical_indicators": {
-    "RSI_14": 73.0148556724337,
-    "Momentum_10": 2.46604810374917,
-    "MACD": 4.436686677532265,
-    "BB_Percent": 0.7406211121421105,
+    "RSI_14": 76.62834408545359,
+    "Momentum_10": 5.256661514738953,
+    "MACD": 4.14934382476082,
+    "BB_Percent": 0.8162346198291132,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8871281190384063,
+    "ValueScore": 0.8839888109877573,
     "QualityScore": 0.3077277597025819,
-    "SignalScore": 0.4846051961021062
+    "SignalScore": 0.4282488761941185
   },
-  "volatility": 0.0234855390298781,
+  "volatility": 0.0234045461475599,
   "beta": 1.339,
-  "return_6m": 0.2093310496140288,
+  "return_6m": 0.2432467467365904,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 21,
-    "target_mean_price": 101.30095
+    "target_mean_price": 102.72952
   },
+  "news_sentiment": {
+    "summary": "Johnson Controls (JCI) a récemment fait l'actualité avec des signaux positifs et négatifs. D'un côté, la société a rapporté des résultats solides au deuxième trimestre, entraînant une augmentation du prix de l'action et une révision à la hausse de ses prévisions pour l'exercice 2025. Cependant, des ventes importantes d'actions par des directeurs ont été observées, ce qui peut susciter des inquiétudes chez les investisseurs. De plus, malgré les bonnes performances financières, certains analystes recommandent d'éviter JCI, suggérant d'autres opportunités d'investissement potentielles. La réaction du marché à ces événements récents pourrait être mitigée, avec des perspectives contrastées sur l'avenir de Johnson Controls.",
+    "sentiment_score": 0.25,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "This Month in History: Johnson Service Company Stock Debuts on the NYSE - Johnson Controls",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzdNbTR1V1lUUFZacHdxNFhtNlN5UlFJbDRnS0ozU3JwSFUtbFhKdThHLUsycVFkWkxEVmoxd3pGemV6YWVWWjMzdE9NRGtZZVdENUlMaFhFSXZOV29rcl9McXo0bXlNU3BXUGlzQzFhNFd3LWJ0LWdId01sTVI3dm93MzBuZGppQmt6dDRLN1hyS3YxWVowNFlEYk0tUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Commercial Building Products Stocks Q1 Recap: Benchmarking Johnson Controls (NYSE:JCI) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcF92S3pGZ3diTFRtaU1oZUQ1alV6NHBja1BiQUNlOUdnLVlQdnVtSmZ2bU9yWnlua3lkMEMwbXZKMjliaUZOS01rNjh3aW5NY0xzWHBPclZKczlmcmZpNUpxcHlkcWZLaHU0OXNSSGFnTFgzdXZRMlZjeENQV3N4NnYzU3ZOaktOQjZSZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Boosts Johnson Controls (JCI) Price Target to $130 | JCI Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVEk3clVMWVJkT2VleUhFOEVWNEFoemFTTDdCRGxuVE1FY3RoUjFOZWNoa3NpaVYxY2xKX0FxZkFpSVFDODhydUx1U3Vmd2VDYkF6ZTJGclNTbWZSdUJCUS02c3dsTi0zZnU4Y1hLS2dpMDkzN2U2VlBaM0RfM2tNX3Ayd1p0bjJ3UFhlMFU0dnhvcXVaUXhkNWhQNmRLU20tSzd4eWNSeEJVdWRLOEdQRG5mRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here's How Much You Would Have Made Owning Johnson Controls Intl Stock In The Last 15 Years - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRHpoMGFRdnFhRmd0UW5abHg1cUg2dHZIZ3h6Q040X3NicHQwdThJNGFPMUoxdUk5NlQyVHY3dXJfMVlneEozeUdUYjF2OVFqX1VELWVnYzNhbVJPUEw5MEtra1J1RVlkRGZkX292MmhGdjExX2lfZUQ4WEc4QlJkQWRqbjMwTlM4alBpRy1VWXl2cG82R1Vtc0pKYUJTck10OEljUnRET0VJYi1UZ0tqUEdsLUYxUVowM0d4NUdfQThRQS01NncyWDgxVlZUeUJwNFRMdHVQWmVNQWts?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Indonesia stock market: Foreign buying lifts JCI as investor sentiment turns By Investing.com - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWE15U083VUtCZDFXT21zbEdQN01zaU90OFJaMV9uV2licEdxanFFSFdQNTdEbGJucEdmazJyM05WSWFBUC1yUE94cG9zSUQ4bmFMeHRLb21HYVNEdi1CUXJ3cGNNRnlVc1dxYTdId05pdl9NLUZVbnBGcUt1RzZfQ0RqM08yRnZYWmFkemdocHdfUURLaFhhbzBFX2k1QlpzeUlpNWpERjlxeW5YOXpIQ0p0aEx6VXJJSDVBS2N1U0gyck1vTDh4c0JpS2UwQlV2TXNF?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Johnson Controls Reports Strong Q2 Results; Raises FY25 Guidance - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnJhVy1YMmFweE54bzdNMnpRVDlWUmwxcEFlbFFqdkJUX0Rfa0ozZlZyMHlVM3VMWW9CNDBsNjNnVHVUb2t6X004RFBlc0NmdG0wM0VRNUtKc2xQXzBEVG8wdGEtLXdONlJja0pzU1RPdGpaTl9aQjVEdGlZdmNBLWFLN05vYUM3c1FteWdGUEoxT01uS1RrZ29jOGRBRmRFeXk1SVRZNUtnZ3Fy?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Director’s Bold Move: Major Stock Sale at Johnson Controls - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVJ2Sjk1ZUxzWEVYNHg3RW55VTM3ZGZpSjhDUmpRUnBBb0NTZFEwcUMzV0tFbjRiQlllWUFoX3hhYlNMM3c5UGplQnlJRE1rQWZWU1V2ODZxUHdYU1R2NC1wR3FhRWFCM01WNTFjVHZzSWhydmlORHJfdFRVdXFfT2hGMXZ4TVdGanRPdXUxd3Vsdm9CY0dTU1dTdGlxQzFkbVRXLQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Johnson Controls Intl Gets IBD Stock Rating Upgrade - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzZNa1ZqYnU0eXZmQVVxTjQzelNJSWxmZXNFdnBmand4N0RldnFOcTlzM3FkR0ItOXN0RzFDRk80TmJFaEhYOXZfWlpkeXByaGtTOGlXdndHUGQ4M1dHMXBLU0dxbTA4djBvQ0dKLTRFdTBoNkRHUnlsYzVLMU9QUmhMOE1zY0xtNTk4RExZWVo3YTdwTEd6Ql8wVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on Johnson Controls Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdTlqZ01HRFBXSEJlU3ZsM2NzV1lSa05PNWcta2p4YmhSSkJLMTh0N3R1eTl4NnhRVDgxcl9tc2oxVEtwQURGZVo4OUpnRFFmN1VNVjFxeHZ0cHNDR3ZjV0lXNnFVOHNlb2sxbVdYcXRKNEUwVkhSMG5Ka2gwbEQ2SFM3R083NHB0cU5VUXljUHo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Will Johnson Controls Stock React To Its Upcoming Earnings? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEo3X1o0emxqSzlRMFhJc0hVaFREcWRGVmVpb2ZxdVBUSjJaTVIyQThRYjFZNGFraFhOYmRyU3BQTzhPNy0xMDlSVEdUZ29vWnY0UkdYVU9FN1ZHdnY3YmxneDh1eEp2UW1PQUtEbjJ3bXluQVRPUV93Q1BZbkRxa2ZZOVkxbVBZZ2sxZzJ1aVphdnhLTGZRcnVkSnNuUm1IMldHSXl2c0ZlUWhaS1p1TXlrMDhNbGFRWFBGcVJOMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wells Fargo Raises Price Target for JCI to $130, Maintains Overw - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeDdoTmNocXNlUFBJeXVBZF9lbFFXb2NUY1RjdGRJaTNPUVFvR2FVeE9JVzVFWE5uMWlONWw4ZXItVE1jbWVVSk00V1ppMVhHS2VCUE1oc2Q4cVJkd1BERlA5MlhmOC1seFZXelRmU01QVUJwOHpHaGdDVVEwai12bkMxQXlScUhfSFFXY3ozZGJjNElDM1VETlhDdUROZmszQktLYzNXT1QtYjg0amh5aU1WN2hWVlBQNmhYTXEwSFE5bnhUSHJv?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Johnson Controls (JCI) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa3FNSGNCaExfU0lfam1zempIbFVfNnk2ZnFKUGowTUdGdGZrWFJWVkZFSUU5eVRoMm5iTkNkWHQxS0llOE5vYzhtc2tXOV80eEpBLUhxdnlOSW0yTUZYYkJzUXdVZ2tHWC03OXNOdE82czRiSHpQZWVpeGlOVlRUUVlOc2Jodw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Johnson Controls stock hits all-time high at $102.38 By Investing.com - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHMyME1TMnk0SjY2ZDg1T2hyV2RRd2Q3UEVDN2Q0ZE43NHYxNE5EeVZjSy1yMkhURDJadlZPQ05sTzRINmFNVXcta1pSc3VodHZ6bGh3Tkd1bXdFNDV5RzVfR2ZOODR3ZllQSW4yckhkMHNtZ2RsVVh6cXlENWFXSVFtMWc0VndCQXNCMWhyaHRFTl9HbjZjb29DRUJ2TER2ajZSaGtQaE4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Johnson Controls (JCI) Stock Is Surging - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGMyTlRHMmdOQnB5SGp0UmEwbGszZHVkN0t6bTJDQTQ3QmJmSzdmYnhMOHRmTmNBTEJzTzNwQnE5Umt2Vnp4YjdVQlROSWRfQ3pZSTNQQUs5M2h4UXJ5ZDZ2NUZESzh3dDRmS1VwcEg4dFN2M194dEp0dVUxT2lzQ2Vn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nathan Manning Sells Shares of Johnson Controls International PLC - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmdoVzIycFlwVUNyNTdDNUVUVlZIMmYtT3NtbURCLUZuVm1jVG1JcGhUc2h0WXdMWUhSNTR6bXhZMEZNZnNINzdJb2ZoUVZNcmNGNUx2aWc2RHFZalg2YkluS0tYeUZIQ1NJLUxKNDItRnVvaUswcjhCUVdUSjRlcnA4ZGduVG9lelZrRUJBS3Q3amxrY3JCNEVxb0JMa0thajlONHQ2NA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Johnson Controls director Oliver George sells $9.17 million in shares - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNelI3aHpGVUNPQUFVM0FOcFNYV1NFNmpmb0VKTDhaem5nM1lSdmhpdUl6NWQ5ZkxlZjYzS21ZRTlXVWVFOTFQRWRPOG84NGZrTWZpNHVpOTlEWklyXzRvZE8wRVNndjAzMkM5QWhZYUtNWF9iVGtsU3FMYWF4YjhQMExxal9LSU5JQ1J2QmRzQmhsaGdfSm55T082ZE9TT2NnYllzclNzSEVRMEhpM3NreEFlQmd6UUg5SFNBbWRmZFZxMWpaUVZVV2J4b3Q?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Johnson Controls’s (NYSE:JCI) Q4 Sales Top Estimates, Stock Soars - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tbU9DZ3hfTHMyWHYtX25ybmpHQ0JNQVJ0cmdoQTdRbTctZDFVdW9SZ2xUVjFwS3Zlak1ZQWM4c1piY1RRS0JycEZQc1RPb3JWb2xUZFJnNDU2bGhxZlRaU3RlaEZ1am8ydDZEeXlNMlVaLUxxMDRlcG9TUDFCMjQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Compared to Estimates, Johnson Controls (JCI) Q2 Earnings: A Look at Key Metrics - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVkk3Y0xOb3p5aEk0VFN4cXIxcjNvcW9FNmRZU0liN3pKLVhVb0FLdGgtWXdGbWhseS0tVDV4cWpFcGZJUkhvUE9EWjIySWhUV1VpTThubzZKQkxBbF9XU192ZkRON2cyV1VEOGoyZ0xGM0E2MVFRVklJSXV6TjFxM01oZUVVX0pkeklPSGJB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Avoid JCI and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ORWdRclZQNEFaWHNCTnk5eFhCUVBlRDVyWTlCQnl1anYyVTA1QnNXUm85U2pZR2xIN3dEbmRpRzJKdGQyRkpYbHc5TnNZM2lyTEMtQm9RYXlUMm9KMG1FVG9QZnVMSnVTUW9HaEc3aHpMd2hvV3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "JCI Q2 Earnings: How Will The Stock React? - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmlJVlo0VEtjQ3hNcXNYanVxcUh1MW9NeWw3dmxvNnEtQmE2NlhrX0tqeGtWZzZtUzJRbXhvMnIzampXTVkzdk81RmpFcXVkcWZ1Yks0aWoxRjBxNUhmVjFHX2F1Z3lpXzB3ekQza0VEdFhpSm96clFtZnhkTzE0OEROSHloZGt2bU5fRDhsQVhsSnUxLVVReEhzX3lkcTdp?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 83.67
-      },
-      {
-        "date": "2024-12-03",
-        "price": 82.48
-      },
-      {
-        "date": "2024-12-04",
-        "price": 83.79
-      },
-      {
-        "date": "2024-12-05",
-        "price": 83.09
-      },
       {
         "date": "2024-12-06",
         "price": 84.34
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 100.35
+        "price": 100.39
+      },
+      {
+        "date": "2025-06-03",
+        "price": 101.18
+      },
+      {
+        "date": "2025-06-04",
+        "price": 102.33
+      },
+      {
+        "date": "2025-06-05",
+        "price": 102.32
       }
     ],
     "current_price_data": {
-      "price": 100.36,
-      "change": -0.94,
-      "percent_change": -0.93
+      "price": 102.32,
+      "change": -0.02,
+      "percent_change": -0.02
     }
-  },
-  "news_sentiment": {
-    "summary": "",
-    "sentiment_score": 0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

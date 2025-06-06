@@ -2,55 +2,163 @@
   "ticker": "DRI",
   "name": "Darden Restaurants",
   "sector": "Consumer Discretionary",
-  "market_cap": 25281126400.0,
+  "market_cap": 25227294720.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 24.300337,
-    "PB": 11.483017,
-    "EV_Revenue": 2.782,
+    "PE": 24.248594,
+    "PB": 11.458567,
+    "EV_Revenue": 2.803,
     "ROE": 0.48222,
     "ProfitMargin": 0.0896,
     "GrossMargin": 0.21548,
-    "DividendYield": 2.61
+    "DividendYield": 2.59,
+    "DebtEquity": 357.83,
+    "CurrentRatio": 0.386,
+    "QuickRatio": 0.127,
+    "FreeCashFlow": 765237504,
+    "OperatingCashFlow": 1667600000,
+    "FCF_Margin": 0.06505849283266157,
+    "ROA": 0.07198,
+    "PEG": null,
+    "EV_EBITDA": 17.768,
+    "BuybackYield": null,
+    "PriceToFCF": 32.88862839634164
   },
   "technical_indicators": {
-    "RSI_14": 66.96041750133828,
-    "Momentum_10": 2.156863960808306,
-    "MACD": 3.7560193378351414,
-    "BB_Percent": 0.9177789105322888,
+    "RSI_14": 62.95486868222204,
+    "Momentum_10": 5.867873488608826,
+    "MACD": 4.075194962661499,
+    "BB_Percent": 0.757104612836434,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8864507265831991,
+    "ValueScore": 0.8834387916742918,
     "QualityScore": 0.3575857865453806,
-    "SignalScore": 0.517702169782629
+    "SignalScore": 0.4904420882645417
   },
-  "volatility": 0.021750550755722,
+  "volatility": 0.0217583917977227,
   "beta": 0.745,
-  "return_6m": 0.2747212003018042,
+  "return_6m": 0.2781749369217829,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 28,
-    "target_mean_price": 208.22037
+    "target_mean_price": 208.93465
   },
+  "news_sentiment": {
+    "summary": "Darden Restaurants, Inc. (NYSE:DRI) a récemment attiré l'intérêt des investisseurs, avec des achats significatifs de parts par des entités telles que Unigestion Holding SA et NBC Securities Inc. La société a également atteint un nouveau plus haut sur 12 mois, suscitant des questions sur le moment opportun pour acheter. Cependant, des ventes importantes de parts par des investisseurs comme Siemens Fonds Invest GmbH pourraient indiquer une certaine prudence. Les analystes fixent un objectif de prix à 201,38 $, ce qui pourrait influencer le sentiment de marché autour de Darden Restaurants.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Darden Restaurants, Inc. (NYSE:DRI) Shares Sold by Investors Research Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ0xsV0xSZkNNM3dWVEpfaEV6QWFDR1RNTlhhVXlxb3R5cEFmZDk4ZHQyQzZPa01DMmkyd2JHbDlaTVgxQmF2QTFMWUthZXJNREdWNTdRNVNxdzFZazVLRld5QU1iMTY0VkhBSlNLUFRoaks1QTZuck5adEt0NWs4ejZHWVkxeExEUURPZU1Ic2RLNHBOY19IcTQtWTZkNnZJZW4xa1NHa01jcFhKNEl6ajVZaHZRUUFVQWo5NWpMc0kyajFqTm9WbGNqRUZSdmdtdmc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Darden's Triumph Amid QSR Woes (Q4 Earnings Preview) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWFc2OUpzUEktUzZ4RUE4T05mQnVHQ0FMSVNEUkszTU9qOTg1NW9lMnljOE9rM2lrVGJMS2FMSjVJWVJMWFdmY0RvWHdoQ3hwT2t3Yk9zMzlrQVl0c1ZGcWstYWc2bkVpVXYtRjlaUXdlLWJ1aElKWGxVeEZ3a0dsbHhzc05Dbzl1bU9qSFRuZXY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Darden Restaurants Stock Is Eating the Competition - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQmUtTmFScWVXMXpBM2RIYWhmT3B0cDdXcWZkamJaYklzd1pVVE8yeXFqTVdvVWFjR0ZIZFFKNGhKV2RBTTgyVnQ5ZmUtU1BUR3pzZXp3VG5sZWFJYXh1OGpMMExHWEt3b0d3WnZROHVKUmlLdWpkWU9BNmwzSEp3NkcxajFqbDlsc0JReVFjVFE2d01HNGRRUDJlc2RzOEpZSEI5ek9JRjh1cmJfZ1pzaDdvUWdqXzljLWFSbEF0Vm15TzR3ZnYyV0hST29iYndzS09z?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Retireful LLC Sells 1,500 Shares of Darden Restaurants, Inc. (NYSE:DRI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUkNwTnNQUkVCWVNIaWo5Z2NteWxJVExBWWxSaEMyMWlybmd3eUJpTndSMEJDWUlBOXFua19Hd25iZko0SzJublFpc0pxcVk0OTh1Y3owbXcyQS1yS1pETzNOVHh6UHhaZm5kdGMzaTM3aVJWb3o4YVZud0xKcGhpY1h0RTlYUnktdlE1M295UEVQRWNwUUZpcC1oMUkzWHoyaVJrYWZfS3pBUHI0SnFrUV9KY29Jd3lqMU9DbmI4azZ5VTIw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "NBC Securities Inc. Invests $701,000 in Darden Restaurants, Inc. (NYSE:DRI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmRlWk1WLVhYSXhuMHp1b2I5VF9JelRMLWpUOExwcmVHblRSRHNFdG4zTVRUZjVlZFJ4MW1aNWdPNTQ4eGs0ZjlDV3BtUmpJd2R6Nlp3TEFiSjhpNTExMHI2RTJqOFhUVzZjOVc0UWtWTnZ2eVBzSlpCaFl1LWVsMEMtaV9YYzlNVXVRWFRiMXpxSEFYUko3M0dScTR4SUxFMEpac2k3RmprQl9TWkVYTUhPNnFzTjd0SXlvSmdzNURjOFNGY2l3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Darden Restaurants, Inc. (NYSE:DRI) Shares Purchased by Unigestion Holding SA - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUFPRmpid25vSG9EUnF2T0xJUllGTkZIdHMyQzhldmFmbWItZENZbDFpSEJDcXpKbzhSVFlQckZOengwb09hSTk1a1I4ZFJpaXNaejFrQU8yRi1sb29Fb3h5QVBxMnFleTQwY1dpUW1pR0t3SUZGUFVSdmpmczczX04tTHdaLU1naUZlaVExYjdmcWhZeUcxcm9ZUkVQdWxyNmJlNHprVHppS28tQ0FkQW9WeC15eGFVX042OWFOeTZWUVZmem5CVzMtQ0Fadw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Darden Restaurants, Inc. (NYSE:DRI) Shares Sold by Siemens Fonds Invest GmbH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY1E2Tm5TN0Q0RXFqRlVKLWt6b1hEMm8ya0tVQlJqcWY0TUlHVFN4WVkyQmpaT3A4a2ZfbDFIalJXbmh3Rzg4dks1dVR1eU1NZmFqSE9ZY1pVZWVhaVdoQ0hzWGJjQk1wN1I0dUNEbnBKaHhDZ1hZNXhyQVdTYW93c0dkeEJpb04xaWtGZUZJT0JBLTAyRFNFMGpwX2h4V09PS3ZHUWNlZkxEa0EwaUdYQ203UGREY01WdmtLTjFPVTBOZjhfWll5dmZLd0FuRWF0WXU4S29fNjlqMTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Darden Restaurants, Inc. (NYSE:DRI) Shares Sold by Fulton Bank N.A. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWFUNUoxYm9KVUxtR1FqYS1HVS1ZZDNUMHVjYV9fSlRMNjlhSzA1MmFvekFGVDVrRmdMNmNfZGxjVjNsZFdSMU9uelFEc1VqdGM0Q0todnFmdmQtb2NTdEl1ZXAzdTJCZFpIUjl6NmQzb3BsLXdaM1hBaUtWMjZYWHVSMTJpc1JCbU02VXVDV1Z1UFlLSHNYTVdhWW0tYWN6Y1lBQjB1WU5ESTNuZ0EzWkNwOFdPV0hsN3ZSQ3ZB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Darden Restaurants, Inc. (NYSE:DRI) Sees Large Decline in Short Interest - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVnVrWXEwWlpjYmg2OGIwdlFCcUI5YWZHNDhlR2hWQklxVjI5cDBvZlE3T1FxZy1qUm43WEdyalIyV1F2Z2preXNOR2x3ODMtaFFjQTBzZTQ3WlE4RjdESE5iVjB6VlEzSEtKTkMzRmVRWG0yNUo2OEo2S0FhMHJlS0JwTDVDSGFid3BOT3phcGFWSFY0ZmtWZ1VETi1Dcl9qeTgzOGwxWU9FMG05dlk2N3VWeGFKczMyN1JzY0dB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Darden Restaurants, Inc. (NYSE:DRI) Shares Purchased by California State Teachers Retirement System - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQmpPeXE1cVM5d0thajg3OWVYUTNtY0w4c2pVdGtPbHZqdHFxUEs3aUxCTGZUUnExT3JOaVJXOWF6Y2F5SHZsR0JZWVRSRUFyaUhscHRwb0dNam9ONG9IblZmaUpkc0JDbUlyN3lDSUFDYkNVN21McGxxb1NJS0E2al9iZ09JYUxydEtFaXpSN3NuNDhXRkhlcWxRWndiX1NCNVNxcHlMdU1EYWFTQlVWUk9zcjJwT09OLVl5SzlseEtZQlozQ2xkSWc2aHJRcUpMZVNwcXo1MFZRai1nN1dSVURmUG5UN19YZkRv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Darden Restaurants, Inc. (NYSE:DRI) Shares Sold by QV Investors Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0d6dWtFdEwydnZhRnVGMjFIMGRjdHhsZExnMGtkVWVvYmllWDJGNWptYWlSeVhGUmlPd0xvUHUxQjZ1Q29IbnZpb3JDWDY0QWRkWXMyVXhFY05lbzJqdllhMTgwRWllcU9DVlJvNTZMcW1EQjJHbk1oamMtckg5UkhYbGJ5MTY2WGRCLWREbTlsTXBLVk94akZjdk9BZFlMdUxyTFUzZTR4cGRNdWJGV2hPb29iWGFSblBwZnIza1QyQ0o3TjRoczZKWVhlZENVMVhj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rhumbline Advisers Grows Position in Darden Restaurants, Inc. (NYSE:DRI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZk01eExlT1AwUXBHUnZvNjFaaHppZEF4Wi1nXzBaaGREbVpqcWthcjRIXzZyaTZhZ25OQ2dBeTJiR2lmYlNDSHFnTVdhZG1YMGJlT0UwMUl1Wi12UWNmUGF3eVJpdFRYZXlSOHhxYWNzdTQ1SlczVHhsNkprMDBReDduOUh5SzRIa09Hc1V5ZGF4N0U2NlJEczF3YnE3dUxuby10bHRVcjVzUjFTN25TbkJiMHl0aTBxS0Foem5EZHlXWk5heGZj?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Darden Restaurants (NYSE:DRI) Reaches New 12-Month High - Time to Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmtpQTNnbHlGZVRheFRjTDhGVndsV2dULWxQV3ZKV0xkRmZERDF0WS0wNm5LOGtPeU5MR1J1aW9ZMng0REFKVkVXUHFzZERtd3BFNlYyY1FsWFFRaUxmdmxCWXJXRnpOaG5YVFNWOGJXUVpnbG5ub0poLW80WFU4LVhlU3FvQlR5YnA1MGVEM3lDa291MHVFWklDWk9HRTZOVXlYV0FRY240MkZtc1VpQnNKTWpfT05IZVE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Czech National Bank Purchases 1,429 Shares of Darden Restaurants, Inc. (NYSE:DRI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDBZakRlck9lYm82UHd6MTZVak1SLWgtRTkwd3c0eGx3bS1rdDBjMjBLbWRIejJEZjdwYXFxdmFRbEt5bDk2Rmpoek9BWHhMTmhnQlhCTmdpTnl1QnRoWmlxWC1vbVRoWXUzdzRNc2J4Qm5SemRNTHh6ZWJoM21hQk1vUFViNGp1Ylc3eV9vZ3k3NWR4MmdzSG5RSVVaMUdJWDhNRThVNElCcWFqd01xc1A1cE9jbGhiRnNNenBXdXZPZHZCakRkTEtzbGVNa1RqX1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vise Technologies Inc. Invests $269,000 in Darden Restaurants, Inc. (NYSE:DRI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMkx6S05mTEdPY2hZT1hRY0h0cVlGRzdWZWNXQVBIWHd1Q19HVW03RUdSZldma2xvQ3I5N1V5Y0JtYnBQOGxibzIwbVBVRjBvV0ptNXUzbTJFcWpPWXNZTTFySi12T2R0Y2t3ekV6YloxNktRQThGRHFSdUZSY0thUGx5eE1Nc1lMcFY0TGJPQkVJZklOMTdRMjVVeFg5UEtCa0paa3pvMzRzRUpGdElsUFBMS3VlYWRFT3YzX2xJcG5JMzNYVEFEZ1ZMMHo2bzEzNTBj?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Set Darden Restaurants, Inc. (NYSE:DRI) Price Target at $201.38 - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM1A4a21DS3hULWd4RTF1TldzdDFuZ01nbVg5MWVVMGVZbms2c0kzTlc2a1pLeHVKbzZjQWptcmtwZDBPalZIcU9XaTI4SnZZMWlIYUlHQmlkQk5jSGFHVWQtTFBSRDM4dEt4LWFFNHVsUnBUX3BqaHpydE9ZTkRGazlkNHdCeHRwVG0weWJndnNNNWxHZlhOWXBWNlpKVVlYRlhsM0lnVkVCZmJCVnhzZms4MHA1cnBKa3BvWDFPUTVrRWpINlREc2Y2N3VWbkpJa3NhZFEwamN1NmNndHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Contravisory Investment Management Inc. Makes New $851,000 Investment in Darden Restaurants, Inc. (NYSE:DRI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON3VTa0lkSDZKSEtlS085UW5MVlZhOWE0ZXY0d01wU1JySzRtUjh2djM3bUM1VkVNbU1pdVdEeHlxS0dDbGFSQlRDZWxhMFdxaFdaRGFtOUtsVUdzU09zZ1JtVkpJUkFtVDEtVjQ5OFpDTXBfSkxUbm9oTWJyRUM1NXBoYnV6TnNqVHZuci05bWZSUmNGWUtoZlB4ZGpFeGx2SHdQZVZkRldNZkxDM2hpb1ZLanRRZ1BZQ0hYYU42cE9IbVlUZGVmaGM4ZGt5eGI4YnVYYjdEVENiODlhLXBqNnBhV0dSS3M4d01WeA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Darden Restaurants, Inc. (NYSE:DRI) Shares Sold by Public Employees Retirement System of Ohio - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS21ERGttWmpaeDExNnFTRFN3WHRieHhxZDYtTUo0UHB3Wnl4bXRFdmtHdG9LZ0x1UzVNeW5OaHhaMVFjZEFwRmdTU0cyS1RQSk9jY1pIbE5zSHhWT2lQTHE5LTE3QnBXaUJ0T2huZldLYUY4VEptRlJhcW9ZSlNwM2g5VXVDVFlTRjlRd1ZDdV9CY1hlZm40dUY2X1k2WmdLaUs4d0ZkNTNMMDQyTUdidHROcHNQQlVGb185eG9tblJ2VllXcklqQVFCR0t0M1hoUU0zSnpOY252a3JHSEotUzBQdWtwSlMzbXR3bzFkZ2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Darden Restaurants, Inc. (NYSE:DRI) Holdings Cut by First Financial Bank Trust Division - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeTdpa0V1OUthWkQ5NHYxZXcwY2R4MjN3dERMTTR2ZkNPQ2J6OFZDb1hhemVxeUd4NUoyZTlvaHVQQlY2NmdKVVdiTW1SRDFvRmJBNXVQSUk0T1hMWTV3dFZ2QUkwVEdJd3o5MzN5Q0pFSjNVX25CRy00Z01VVnBaZlN4c3M3MFhGb2dTNUg2eUNNWDZkTTcxcko2b0V3Rm1WcjA1Qzk3SzR5S2p4dER0LW9rWVFfQmtZQnA5d2dUUW5nRmJJeVJGTm5jVmt3dnNFOEwzckk0YXZJZ0hWTkpHUGVRdGdJMUFFcXVwZy1va2FmeEE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Universal Beteiligungs und Servicegesellschaft mbH Buys Shares of 81,286 Darden Restaurants, Inc. (NYSE:DRI) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYUNDWHNRSTRqeGJvbUxNTy1wNDNWZXFIWmlWVUFQUnVXSGZKUWNqOThFWjhjaGxoczVnZkRmUG1Fd2g5cUs1R2gtbkVGZEROX1d3cklZd3EzWFE2ekw0ZVZPR1B3NXRoV1NaY0dEU0tVMUhacXMzR0NoQ1ZvbzdsUTJMQ2tHTjdtUjZGQzFKODg1WlBBWGVwbm1VQlJXZnVCMERJb19mQUVjZEg3US02RUZ5UG9WOFhZbDZ1UmVXRk8tVWVoQkxJVVpFQ2VvSGNPd25BeWJvRnppNG83UWpOZ0lydWstbnhxb2QyTkNkWjlfV1ZYT0pVTTNiNFVlakxhUUZKMFBHRkxwY0U?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 172.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 170.77
-      },
-      {
-        "date": "2024-12-04",
-        "price": 171.22
-      },
-      {
-        "date": "2024-12-05",
-        "price": 171.17
-      },
       {
         "date": "2024-12-06",
         "price": 169.75
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 216.36
+        "price": 216.85
+      },
+      {
+        "date": "2025-06-03",
+        "price": 217.21
+      },
+      {
+        "date": "2025-06-04",
+        "price": 216.25
+      },
+      {
+        "date": "2025-06-05",
+        "price": 215.06
       }
     ],
     "current_price_data": {
-      "price": 216.36,
-      "change": 2.18,
-      "percent_change": 1.02
+      "price": 215.06,
+      "change": -1.04,
+      "percent_change": -0.48
     }
-  },
-  "news_sentiment": {
-    "summary": "Une br\u00e8ve analyse fondamentale de Darden Restaurants, Inc. (NYSE:DRI)\n\nDarden Restaurants, Inc. (NYSE:DRI) a \u00e9t\u00e9 le foyer de plusieurs transactions r\u00e9centes concernant ses actions sur le march\u00e9 boursier. Les investisseurs de la soci\u00e9t\u00e9 ont \u00e9t\u00e9 attir\u00e9s par le potentiel de croissance de la soci\u00e9t\u00e9, qui poss\u00e8de plusieurs marques de restauration populaires telles que Olive Garden et Red Lobster.\n\nCependant, les signaux mixtes concernant les projets de d\u00e9veloppement r\u00e9centes de la soci\u00e9t\u00e9 ont provoqu\u00e9 une baisse du sentiment positif sur ses actions. Par aille",
-    "sentiment_score": 0.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

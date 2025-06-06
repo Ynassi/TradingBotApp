@@ -1,56 +1,164 @@
 {
   "ticker": "LAD",
-  "name": "Lithia Motors, Inc.",
+  "name": NaN,
   "sector": "Consumer Cyclical",
-  "market_cap": 8173608448.0,
+  "market_cap": 8249227264.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 9.908488,
-    "PB": 1.2127297,
+    "PE": 9.997003,
+    "PB": 1.2239494,
     "EV_Revenue": 0.596,
     "ROE": 0.13145,
     "ProfitMargin": 0.02306,
     "GrossMargin": 0.15394,
-    "DividendYield": 0.69
+    "DividendYield": 0.7,
+    "DebtEquity": 204.972,
+    "CurrentRatio": 1.179,
+    "QuickRatio": 0.247,
+    "FreeCashFlow": 636262528,
+    "OperatingCashFlow": 454800000,
+    "FCF_Margin": 0.017287535576675457,
+    "ROA": 0.04498,
+    "PEG": null,
+    "EV_EBITDA": 11.301,
+    "BuybackYield": null,
+    "PriceToFCF": 12.983745678010445
   },
   "technical_indicators": {
-    "RSI_14": 54.13408763230672,
-    "Momentum_10": -2.9606239476513827,
-    "MACD": 3.942834576294103,
-    "BB_Percent": 0.5356013731186865,
+    "RSI_14": 55.49945315933648,
+    "Momentum_10": 3.678922653425809,
+    "MACD": 3.856601967648487,
+    "BB_Percent": 0.5416305807724778,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9349137695963552,
+    "ValueScore": 0.9342848314662558,
     "QualityScore": 0.2983008904448178,
-    "SignalScore": 0.4652846997667391
+    "SignalScore": 0.4979125878894251
   },
-  "volatility": 0.0241654939823842,
+  "volatility": 0.0243231110276313,
   "beta": 1.459,
-  "return_6m": -0.1864071832328817,
+  "return_6m": -0.1586335051957769,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 384.945
+    "target_mean_price": 385.695
   },
+  "news_sentiment": {
+    "summary": "Lithia Motors, Inc. a récemment publié un chiffre d'affaires record de 36,2 milliards de dollars et s'est hissé à la 124e place du Fortune 500 en tant que principal détaillant automobile. Malgré des impacts de tarifs, la société a abordé ces défis lors de son dernier appel aux résultats du T1. Les investisseurs ont montré un intérêt mitigé pour LAD, avec des mouvements de ventes et d'achats d'actions notables par des gestionnaires de fonds tels que Wellington Management Group LLP et Deutsche Bank AG. L'évaluation \"neutre\" des analystes de Goldman Sachs et la croissance des revenus au premier trimestre soulignent une situation d'investissement à surveiller.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Lithia Motors, Inc. (NYSE:LAD) Shares Acquired by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDdhR0Q2Wm5SdEgtVW5aNDFROFFNcmhPQmlfZDZaRHV4MVRrMUUzNzFzdlVxOXFCWFU3RDlwSjctR05tZ295THNVajRRcHZyVHRMcms4ZkpkWG5RZXdESDViU2xJMWlGZTdTYVc1akpMV1BrQ2NBcnprdGdwZWVydTZORDB4enRncnVrRGNMUVMxUkg3YnhIS1FlUUh0SndpWnFPVWE0ZGoxaC1FOGs5QS1RQWl1dDBoMHA3WHp3cm5IV2dDV3ozdXhkTDJTcVRLSTdJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lithia Motors Hits $36.2B Revenue, Claims #124 Spot on Fortune 500 as Top Auto Retailer - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdENreGxtRnNaeXlmUnRJcWdyZS1DYk04YkwyX21CVzNaaG41cmQ0TFVFbFZYTERMODg4d19SbGhJQ05HTGVpZlFjSkNrdGlNWXBmLWNpZ2tLd2l5dlRXTVFDOU0wVG4wamU0RFlNWFh4azlMT3lwa3hHTnRKLTM2LUR6WUJkNjJ3XzdHUjROekNwS05QS2JVYk5LLUYzLWlrS0NEa0JCdkJvcUFBaXc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Benchmark to Host Virtual Meeting on June 4 for Lithia Motors (L - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRW4zaHBVaElBYVY4OGNxSE4yUWFEVEluNUlIUThSM0FXaDF4ckc3NWVoOHgtVUZ0bXdZaVVrWThDUjQyNGZqVzdabmR1YWptdTdyOVlwc0N4Q19EbW9abWJhSTAtOGJHVE1fZHAyeWRsWk1oX2daQ05KX2ZRakVJeHdGVU84MVJRbERMd3JZWFNCc2JaWWEyT0NlYXJxUGhZeWMyZk1MM1JVZmE0UGNyMGJqajN3YktzdjFlNnNWNVk5dS1HcDR5ZnNyaFBJSXJlaE9KR3lPd1I?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "3 Reasons to Avoid LAD and 1 Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PNE5sc0MtNno1TVlVU0xQczBQR0kxSkVfZTRhb05WeExLVGZ6VTdIX3gyVVdwUVJzMmpTVGtNZ2xPQWpTa0x1eHpVOFI3cU5lMVpUV3dLdHpzWHphTXB4Ni11SkxtRDZRcVVKdTJWZjliaEpJdUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lithia Motors (LAD) was Impacted by Tariffs - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWJaOVA0QzNsZjdZSlM5RnFJT1ZtN0xXQUlodlVGaUFmX0EzLU5ZV05Takh2ZUZBQnRkeUlNY1VGZFVmSkxBalJmRXJfanhTMENocVNJY2NlaUhLVnZMbWs0cUEzSFItR29LZ0VTaTVpVTIzcWV1b2lLSnVBazV3ZU56eDFvUDNqWkEwUWt3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(LAD) Technical Pivots with Risk Controls - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSVJ0bUViT01PWFpmMXc4S1BEaXJlOWpiTEVMaEYyZERPdUhELWxoZWtmbzlqODl4dHp2OTNDOUhjalduaFl2VncycnlBRzNMQWFlbXVCZTVFemJxRFozaWxnTlJtclRpenBiajEtMkhMdUVtdFMzd3FGbnhvQzV2em5MajlvaEk2Qmc4TVdqZU9rZ0hHMHoxdFdDb3NUR0RDYk1iYmc2TmNFZ1NiaDRGVnNkRFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lithia & Driveway (LAD) Rises to Number 124 on 2025 Fortune 500 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV2g2aW1Rb3lpb3ZiZ3FPNGlpX3hfMDlzYXM0RV91a3llMGc2NG9HTks2WndOTHdsYlFHb3VNem1kSi1POE5rZFN2VHk0NFpRYnUzVnRjbndJVUM3cEZXR2s5aGpQWkhPaFJwbnVSSmg5b3F1QXNjajFyUV9RMzBnckg1al9DS0x1aWRxd3FrSkRzVlVJUGdmbjVXNnNUb3p1OGhyLWk1VldfbVVLeW1lNENRX3RTdHl1bHRCUnF6ZTZBdjhiY21MX2xpRlZxMy1uVl9YRDFKTnY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "180 Wealth Advisors LLC Makes New Investment in Lithia Motors, Inc. (NYSE:LAD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUUpETXI3LW0yb3R6TTZCLTdyWUV2TE9uQktYNzNQWUhKcVhUM2YtSUl4QWFRRkY2YzBPcEQ0VzVPUHplUzMwWHVTWHlFdlo0djIxeFliYy1QdDdpNkdTdGtyY0lzTXJsall5MGhjWEw3NjVwNjdqbVJRTmY1dnpCcEpRaTJmWXJmT3ZWTXVNUHR1M1pkMGtCTEV1TndoVjVDa0lYZElTLW9ubVU0a0FRMUEycDQzbGJCSVJJVDFYcXJfdVBiTmc5MUZWUmhSNW9obzFXQVdSbWZxLXVITEk4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Lithia Motors (LAD) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11OW5lUUkza0tIMFA5eUItaEc1MFF1ellJUkNTSndXMThNeHZrSzFXbVo4LVB1WlJ4eFdjTGM4LWdHdlphNTdobGd2NDFsV0ZjUE9nMGMtNXRIaXo2SWVOVUdFYU85SkFkcm9SU055QURYLWdXMXM0WGVKcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lithia Motors, Inc. (NYSE:LAD) Shares Sold by Voloridge Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNF90TXFvRDUzLVR4QWtXLVJsWE0wY0N2dUpheVEtMGZTZ1QtTE9nUnJNb016N3hMZWZKSElacjlPQWwyaVd6endiUFRlMUJLbHBMc0xaMkttNk5BV1kxRTlOREJCT1B6Y21QQ1gySEVhQnNrZG9UT3JUMXZBV1hxaVY5eVlQcHN1alRYSmxoVUE3ZEgtVVdGWUtQbEZlNGd3TUxqUDFfZ3loZmZJaElHX0JPR0hMWEJFNnZDOTJCOHpPcGtOS2YzSkR3WjdhdXp1ekJtN1VfYTdQVTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "LAD Q1 Earnings Call: Lithia Addresses Tariffs, Operational Efficiency, and Future Growth Mix - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rb3ZSUU1icll6YlFsTWdfcmFwandtMVJWQUZ4NkpnVFFBRTkyc0M2Mk9Va05pNG5kZm5TQnRTbW05TUNORmEyNURILUtpWkF3MEJtZlRGdFk0THlMV3VCN2pPRjVUTkdlMWtJaWF3OHFqNHJuMmlZSWl2b2prdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lithia Motors, Inc. (NYSE:LAD) Shares Purchased by Sendero Wealth Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVnhYRzBDT05nZlgtRHY5MzdIaU5lc242Tmp3TTc4RWVCaUlSaWRwV0NWVjF3allrU1BMTWxjTUVzMmdHQ004RnhDXzR3SWEyUDFNY2wtM25nWkZmb1VoeHlUaHdLUDhUY3F4ZTA3cjhNWkxzaFZMWTA3OW5OODBDUkhxczFCWWxVaDNoRjRpZ0ZSQVJjN2xVY1U3WU1zcWluYnFKdlpPT0VtNDZ2US16TXFCNDY3ZXRKX2d5cTR3ZEVMSFkzOUxCR2NoV1Q5bFlMbnc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Red Spruce Capital LLC Lowers Stake in Lithia Motors, Inc. (NYSE:LAD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdEhzWmUtN2YwWjNPSVlNNzhvdzQ2Sk85T2NWT1htRlljNVB5ZE9IR3pLcTJ6UDZGcWlueFU2WDBOeXRkd1pWRWp3d0xEeXVPT1UtaVFuSnV3WGVNRTBhZjlXdGREQU9QQmpTbFdKbW1XVlc3Zy1WZWM5R0lBcTZaODlvV2FqaWZYWDJvbnNCYWtobzdTaWxHTXp2OEd0b3hoSVpjcTc0eGdYVWtUYlY2TnJFME8xWFdlRFZ5SDdxRmpvcmhjSURjanE5SXh6czVuNk00VXJEdmI1dlE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lithia Motors, Inc. (NYSE:LAD) Given Consensus Recommendation of \"Moderate Buy\" by Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWDBnYXk3ckVPaVFiTVJRMGhEYUtLWGlXek1aYWhqNDVWYnIzWFFnLWR0dkk3RkpPbXY3aVZ0SFNhbFpWajVZZjU3aThocjdqaHNiSEdCa2xrRHhPNmNaM3lZUTRWeHpXQkhBbGFRbzI5NDZFeS1JZHNyVTFRanFaUHE2enFIVEw5bXoyNFhTWk9ROHZFbTZwckM0T29FWlpaUzdhSjV4d0RzYXdhWVluNmxUZlJLQ19YT0EtbGxkU3A5bjlObTZkYXlR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Millennium Management LLC Sells 269,477 Shares of Lithia Motors, Inc. (NYSE:LAD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczh4enVaWURsVzlrR1FOUHlhYTJaYnBBOW9EejNrbW0zMUx3WVhjbmZvVnY2WGczMVF5dUl0U0JBVnNJRnJwUTYxS0drQnRQVGZQUTJTODFlVmpnMzNOeWxmcEJwZFVzWFpGYUJ6b2tpY0VyNzBSeEZXWm1GZFlhZlRXdFNQOXN1Snc4QmF6bUw0TG5IMGs3TWtTUUc2ZDRCU1J0ZktMTXg2NHRKTy1fTGthNVB3dWRLdjQwYUFvOFVnS3VFVkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Public Employees Retirement System of Ohio Lowers Stock Holdings in Lithia Motors, Inc. (NYSE:LAD) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPamw1QjdSeXh0alR4UmM2YllGdjJrOXpGLURpUnlZMlgtaHltbTdaSlIwMFNyV2NPcE4xR0JHZUxsY21qNXhWaElqbnJRZXJQQlRvSWdITk5RdTBUbnNibGp1NmViYm5VWkV2REhVNkpaaEliaHdSNm5NWmtsRUhodjF0SWxKSm1UcnVTc2ROMndBRmFQNlNQWmZLYzhRbUI2N1p1d2xUc3ZIWEl3LW1mYllUVU93MWt3SGhQNVJpQTE4b25EVTZ3T1JEckVybnFWVVI0amppTDRsZXM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Lithia Motors, Inc. (NYSE:LAD) Shares Bought by Deutsche Bank AG - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQThrTjN6ZFRhRnRIY3loS3RPbVE2RC1FbVVjTTd3cjRna3A5dG10NjJHbG5HVDZoX0RMcjczVVFlSkktU1J0MDNTTFlWcEM3XzZQSkk5eFJHQUNVakFydjdlamNNck5MekNDSFZWU0FYYWtidmJyLWtrY2NzYjFWSnJrSU13NkYzY3ZOcW15c2tjWF9HWjNHdGZzRVJ2czdSVDU1MG5IdUdmMTZHZUVxWk1aYXhOLV80cVZCNzhvaVhMQVJjRUxV?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lithia Motors (NYSE:LAD) Earns Neutral Rating from Analysts at The Goldman Sachs Group - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQczF6R1Z6SmpQSGtZd0xZejNkdkVYZU9HaFZpYV9LSmlERlEwUVAyS2pmUndDeTIySjR2ZE96U0xqNk1sVURzY3gtYWh3cV9UYVVrVHY1UlFSMGhWQjdhbW1wWldYZ2k2bUJJVHNVMHpfQkZpVXVMU25HLVlZZ2NqZUpjZThqRVpsTmFsNnJGMGxEUFgzY2lGRjN5TGFfdHF3WXBxTlNtZzI3M3VtQ1JyZTdOWjlnRUpFWGhmYldhVVI4Q081LUhEME1KR3dkZTZBY1B3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Lithia Motors (LAD) Up 5.3% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxQ1ZwWjBzX0Vwcm9ZNXhvZ2lQNHlkZDFZeEk1ZlF5T0JCOUJGM2lNWkgtZXJTVFhrVjdHMEpqOFpOaFlzVldIdVd0TUV1NndwOXg1MUNzX2xfblJzZVNUWUNkWDNGQ2NMUkZpTWFhWVlKNzlsMGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Lithia & Driveway (LAD) Reports Record First Quarter Revenue of $9.2 billion, Achieves 35% Increase in Diluted Earnings Per Share, 25% Increase in Adjusted Diluted Earnings Per Share - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQamxnZGpqSnZaZ1VFRXlWTkNfODJSaHpFUURzTmtpaXowTzhsclZneXFGX1FqbVVFOEFrdkgtY1habjRweTdiRzRPZC1ESjhidVpKVzdlbUo1ZFlITHR0aGprMHRFQUdseTI2cnhkTHRxWG1TUEhFVUo4X3lPNzdMYURaYlJnYjlFUkktSFZGdFNIM29kS2t2NFBjMDJScGNUWkNNQ3I4RFZvVE55OUZxNVlzWjRLNUxydzZwV2t5NzRlb0QzUC1nY1BocDQyNW42RFRuRTNreW9FYlZ4eEVDaDg2Nmlad2FEdks0RU41c1I5QnZNMVRMc2xBR2RqUmhDeTZINzJLai1aVFUzdEY0NmdqQTJXVUVTSy1qeWhqbVNTS1YzcUJHOWRqTk4wWHloQktnR0d3eGxyakozMjdqU0ktRDB6cENILTQwTlRqTQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 387.3
-      },
-      {
-        "date": "2024-12-03",
-        "price": 384.33
-      },
-      {
-        "date": "2024-12-04",
-        "price": 382.45
-      },
-      {
-        "date": "2024-12-05",
-        "price": 376.89
-      },
       {
         "date": "2024-12-06",
         "price": 377.98
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 313.86
+        "price": 313.75
+      },
+      {
+        "date": "2025-06-03",
+        "price": 320.08
+      },
+      {
+        "date": "2025-06-04",
+        "price": 316.36
+      },
+      {
+        "date": "2025-06-05",
+        "price": 317.36
       }
     ],
     "current_price_data": {
-      "price": 313.86,
-      "change": -2.95,
-      "percent_change": -0.93
+      "price": 317.36,
+      "change": 1.11,
+      "percent_change": 0.35
     }
-  },
-  "news_sentiment": {
-    "summary": "Lithia Motors, Inc. (NYSE:LAD) has recently reported a 35% increase in diluted EPS and achieved a record first quarter revenue of $9.2 billion. However, the company's returns on capital have raised concerns among investors. Meanwhile, two Lithia executives have been recognized in the elite circle of most powerful women in North American auto industry. The company's position has also been trimmed by Public Employees Retirement System of Ohio. Despite these mixed signals, Lithia Motors is considered a top value stock for the long-term by some analysts.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

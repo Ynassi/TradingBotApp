@@ -2,55 +2,88 @@
   "ticker": "5406.T",
   "name": "Kobe Steel",
   "sector": "Industrials",
-  "market_cap": 645778702336.0,
+  "market_cap": 645187633152.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 5.3793626,
-    "PB": 0.55621165,
-    "EV_Revenue": 0.547,
+    "PE": 5.373482,
+    "PB": 0.5482342,
+    "EV_Revenue": 0.539,
     "ROE": 0.102180004,
     "ProfitMargin": 0.04704,
     "GrossMargin": 0.16564,
-    "DividendYield": 4.81
+    "DividendYield": 4.89,
+    "DebtEquity": 71.648,
+    "CurrentRatio": 1.549,
+    "QuickRatio": 0.677,
+    "FreeCashFlow": -71302373376,
+    "OperatingCashFlow": 148260995072,
+    "FCF_Margin": -0.02790665619642401,
+    "ROA": 0.03205,
+    "PEG": null,
+    "EV_EBITDA": 5.078,
+    "BuybackYield": null,
+    "PriceToFCF": -9.048613708126114
   },
   "technical_indicators": {
-    "RSI_14": 47.073831112272686,
-    "Momentum_10": 0.0916310323762981,
-    "MACD": -1.978136188959752,
-    "BB_Percent": 0.3442961539460692,
+    "RSI_14": 41.468822594837846,
+    "Momentum_10": -0.4929143561306223,
+    "MACD": -3.7494034892949912,
+    "BB_Percent": 0.0175519870872446,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.9011024868739212,
+    "ValueScore": 0.8982375496125737,
     "QualityScore": 0.3382189036171676,
-    "SignalScore": 0.6340087034090629
+    "SignalScore": 0.6413278402664055
   },
-  "volatility": 0.0172046906438476,
+  "volatility": 0.0168572985794933,
   "beta": 0.743,
-  "return_6m": 0.0520064205457464,
+  "return_6m": 0.0932123574060599,
   "analyst_rating": {
-    "recommendation": "hold",
+    "recommendation": "none",
     "analyst_count": 7,
     "target_mean_price": 1905.7142
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente met en lumière une situation contrastée pour les investisseurs : la vente d'actions par Teresa Wynn Roseborough de The Home Depot, Inc. peut susciter des interrogations, tandis que la question du rendement des dividendes chez AT&T reste un sujet d'intérêt. Par ailleurs, le scandale de Kobe Steel, en quête de prêts, est contrebalancé par le soutien des actionnaires, illustrant des enjeux de confiance. En parallèle, la performance du S&P 500 masque une réalité plus nuancée avec une majorité d'actions affichant toujours des pertes, tandis que les défis de contrefaçon et de qualité en Chine soulèvent des préoccupations dans le secteur aérospatial. Ces éléments complexes peuvent influencer le sentiment des investisseurs et nécessitent une analyse approfondie.",
+    "sentiment_score": -0.4,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.4,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Teresa Wynn Roseborough Sells 5,406 Shares of The Home Depot, Inc. (NYSE:HD) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLW9mWkpWR0pxZDlTZldZem5pZ3lfVkJqQVViSzBxNURuVlNNTWJHUlJyMHVJY0V1amdDUnM5c0xnUGYyR3ZFaWtUUkN4OVdYQkViUEg1ZGFOVDZlNEZ5bm4wMUtKNTB5ZWx4VUQ3bTBWZWs3TWVMbGE0Yk5oV1IwSzZ4aDYxM0lFZEpWbWdZRjBwcHc1UEVYRmJLaVhnNVZCYnFxTTh1OURmaHNnVS03V2l0UXpLMHgtMnJwcW1wV0V0UG8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's How Many Shares Of AT&T You Would Need To Earn $500 Per Month In Dividends - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCeGoxNFFDbUYwRm5GWFhCX0p3UjRoREJtZVYydlJnLUFaS2NsbEhydThVYzdyb012RWN6blFIMEJKMTVjYnFaTXk2aTl3b2pkc251X0syRS04T2FDanhNaF9MWDNpWW1sUGMtSGlES21nM1k1VUp1V3lR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Scandal-hit Kobe Steel seeks loans, shareholder offers support - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXJNUkczQnRYVFhzVElkYVptN0RCMUdGN2VpQU1CZ2Iyd1I5ZHRIUmJFYUVVeXZwaWhsX3A5TWVOdENUTjBnM2VEeDl5QUREYW5WTGlCQzNFVDNiV2JYVzRhNGdtdDVuOE5uMkg0RWpoVDlOZzByRVlLMFlNQVZldFlJYkZJTFRmM1dNMUt6YWs3YkMxOWQ3ZFFreDVMelhTZ3Y2QndFMW9hYTljT28wcWZGb1JuTTA2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The S&P 500's return to a record doesn't tell the full story with 60% of stocks still with losses - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOFp4U09MUDRlRkctaVlZcGtOcERGaEdoZkdrZVBiRldzTDkzeXlkX1R2c3gwelljSk96RE5va1JUZHJ1eWIwbmg5Q1dFYm43N3htNW1YdEN0M3R5Q0NVQUFOamNrT0JoSEwwcmlmZXNESzRqYXEtTy04cm1xUVo4ZjBtOWhhNmxJVjN2SVhIVEhGTzhwMlFGdWhZUkdSS1VV0gGmAUFVX3lxTFBKZ3F0T0lYUmZUM2JpakFKY19OVmNzUFVpQ2Nxdk9FVk5kY21KTGhhb0M3SFFwbm1yLVVNc3RoU0lKd2UtekpjeU1qWHVsc2d6aXNuX19qMlIxM2hvYk1vN2tZSjE1U0JkcmhjSGhtZkY3bnJTRkNYNmFIa0R2OW83dXVtcG42ajZxY0VPY1hnT1BaYk1LTkpLMzdlS3hTel9GWUk2d3c?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Fake paperwork, poor parts challenge China's aerospace boom - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3R1dXlGNkMtR25YOC11M3dBYzlDYjlCSmpZSkkyazc5NGNpc1J5bXJONHFoaDVqdFlaa002SkY0ckh4Umh1eTU2RGF0R2dxOXQ4TFhLWmJobk8xQnpXX05xM1R3OG1zZzB0UWR4Snl5ZHZEX1gwa0xxY0tSWFNZd2pERm5DcUhpcFNYUzdBYUFoeFpFVWdpZHcxRU0yVjg4Qmhpa1Zmcm4zWFJiaktWUkd1RQ?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1557.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1564.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1544.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1522.5
-      },
       {
         "date": "2024-12-06",
         "price": 1529.0
@@ -514,24 +547,28 @@
       {
         "date": "2025-06-02",
         "price": 1638.5
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1637.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1637.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1615.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1615.0
       }
     ],
     "current_price_data": {
-      "price": 1638.5,
-      "change": -25.0,
-      "percent_change": -1.5
+      "price": 1615.0,
+      "change": 0.0,
+      "percent_change": 0.0
     }
-  },
-  "news_sentiment": {
-    "summary": "1. Kobe Steel (TSE:5406) : Positive earnings, good news for shareholders.\n2. AT&T dividends : Achieving $500 monthly dividends with shares.\n3. Kobe Steel loans : Seeking financial support amid scandal.\n4. S&P 500 : Return to record but not complete story with 60% losses.\n5. China's aerospace industry : Fake paperwork and poor parts pose challenges.",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.4,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,93 @@
   "ticker": "6367.T",
   "name": "Daikin Industries",
   "sector": "Industrials",
-  "market_cap": 4756487012352.0,
+  "market_cap": 4847262236672.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 17.972519,
-    "PB": 1.6954503,
-    "EV_Revenue": 1.073,
+    "PE": 18.314915,
+    "PB": 1.7090181,
+    "EV_Revenue": 1.061,
     "ROE": 0.09919,
     "ProfitMargin": 0.055710003,
     "GrossMargin": 0.34229,
-    "DividendYield": 1.99
+    "DividendYield": 1.99,
+    "DebtEquity": 34.425,
+    "CurrentRatio": 1.849,
+    "QuickRatio": 1.061,
+    "FreeCashFlow": 224877002752,
+    "OperatingCashFlow": 514449997824,
+    "FCF_Margin": 0.04731926399105949,
+    "ROA": 0.05014,
+    "PEG": null,
+    "EV_EBITDA": 7.782,
+    "BuybackYield": null,
+    "PriceToFCF": 21.555170948350295
   },
   "technical_indicators": {
-    "RSI_14": 50.750528850696895,
-    "Momentum_10": 1.913425345043915,
-    "MACD": 4.162987668290953,
-    "BB_Percent": 0.4887462491189253,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 52.33920023441758,
+    "Momentum_10": 3.7705956907477822,
+    "MACD": 48.73743349806682,
+    "BB_Percent": 0.6835784119463937,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8970765402824351,
+    "ValueScore": 0.8941840144186479,
     "QualityScore": 0.3682246846371368,
-    "SignalScore": 0.6020391591630678
+    "SignalScore": 0.5487690669533649
   },
-  "volatility": 0.0182992781760078,
+  "volatility": 0.0183094418130095,
   "beta": 0.721,
-  "return_6m": -0.0988377604816461,
+  "return_6m": -0.0895879549359068,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 19198.836
+    "target_mean_price": 19011.336
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Daikin Industries, Ltd. (TSE:6367) suscite actuellement des inquiétudes parmi les investisseurs en raison de son ratio cours/bénéfice (P/E) en baisse et de la décroissance de ses rendements. Malgré des fondamentaux solides, le marché semble remettre en question son évaluation. Par ailleurs, l'acquisition de Goodman pour 3,7 milliards de dollars a renforcé la présence de Daikin en Amérique du Nord, mais les actionnaires ont subi une perte de 23% au cours de la dernière année. Ces éléments créent un environnement d'incertitude qui peut influencer le sentiment du marché à l'égard de Daikin Industries.",
+    "sentiment_score": -0.5,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Some Confidence Is Lacking In Daikin Industries,Ltd.'s (TSE:6367) P/E - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNndzekxGM2hWQ0hPUFpES1hRWUN3TXVkdGNkZUxTTzhqNWxPWjhpZlNISkdMdUJQZ1lpWnpQU3pFUUhtaHp4Vmo4NmdaMVdBTDlQRmx5MGltWUF4T1Z4dW5UMzBaZHRrZE8xZ0RWX3FWQ0lPRk5hRzJrdzhmR3FmUFhjYUxmTHFrNjdEV1VXaHczR1podnVLU1k4VXVwb1pVM0lnR2ttNkFNVGQ0YmR6T3NGUEpCYjU2ZkFuQVBlY0Qwdl93QmdfZE4xckFHR3MyelFJOWNCSG5RajIzTjJzedIB5gFBVV95cUxOQWNPazhYRmVXV0l6Q0hYWldtb3ZGeXMyemJJX2NfSUFaOXdFcTVWTkxCUXY5cmx4LVRJZ2dkRnlEZUt6MGpOalFDbE0zazUzS0pRSU1BR21nTHNfZlBJMF9UN2ZsOUhYczBFNU4zcF9feC1GQzc5VFRHWGdxNmNodGpSN0k3OWlUdUxHUDloSUZTUl94a0R6VDVjd1RKVEEtcUxwLXhtU3FxQnd5Yk93aURsaXJ0SS1rQUFkSWRkUm1XVC14VGotdVB4SXNnTndpdlpCM1l5dU0zYjB6ZWN1eVNDZ2I3dw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Analysts Have Made A Financial Statement On Daikin Industries,Ltd.'s (TSE:6367) Yearly Report - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZU94VHhoNEdyeXJWajhhZ2t0d1hJc1N5U1JTVG9PbWZ5RmFwZ1dqVTFDeXl6LWowaXlrX2g2TEluSWJYdXBuVWlxdXMwM0s2b2dPSEd2R0tzcGRIczNNY080YXNmVG5YZ29SRUI0UGVycFlWdlVkaUx2aFRkcmV0VFpSemlmdXkyeFpwdHQwcmhuOTBacmtXUUtMRXlud0dONXdqRUFEcy1FRm4ydElXeUQyOVIzSTlGNEx1ZzRXYUtyT1VaVWZuYVlWVWdDdzZmR0g0WHE4eDA5eV9IYnE4UFF30gHnAUFVX3lxTE5sTTk4VmtLX05ZODI3c1lESjN4WFk1UkF1MGdERHdCSDBlbmZFMVBrZ3NURG5SZ0d3ZlJiUVNwMmN4TkJBUl9OMi1zUjhKQ3BoU0pqbmh0N0tFbThJV0xZakdURThZVnJld2E3ZFAyVl9lYjdGclI4Vk1TcmVwZGJXMUdwNnNTVTZlVUU4Ymk1cmMtUk1mUnFRLWZpN2NIc2tqWnNVWmhIT1N4NzM3MU5wclFtSV9xTFBJdVRELTZuVFFSYTVEbTY4TGNvTXZ3c3l6QnhoblhLLUx6U2MxdjJRZ3Jmc2J2Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Declining Stock and Solid Fundamentals: Is The Market Wrong About Daikin Industries,Ltd. (TSE:6367)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVE4xTDlrWGtQVzRBY1NhT3hlOEdiMDdvQTRGdm03ajlxaHRXYjNFUnJPM25yd0FmUU9vVjNFZkQyd2xZeG50RzlCRVdvSjZNX21fX2FVQnFzR2Etel91ZDVaWVlzaVBUSEdlY1gyM0dmSHRyRDBMNlh2MWV0V2ZoVXgxZ3Ztd3lYTldjMzFEUjM1RkttU3ZnbldhYWxMRFhDSGdVSHU3N3dZMzhOVVQ3ZHdGSlhXMGlDZ1VoQWFsZ0s3bVVTdVhSTThQNzIzNFVNSDhBMVE2OC1JQXFfQ2R3SzN2bFBOaHV30gHuAUFVX3lxTFBLajlLOW5GNFNUMGg2N2JpcDhCZmtXb3Z0V1dqZzYyaV90Yy04TVVOdGJ3M3pSWklNd09Dbm5PYmtqUS1jUC1SSk95NTVRMDlfVHAzM2JVRVZ6eFJEY3hsaW03UldWZUNsWWVEUGpCU1REaFJIbEFhOEtuSDBlVHFKVXNfYlJibTVVa0hvU05PS2dEUXNmM1p0V2ZZdWlveHY1dWRZR3JnS0RONzRoOEF3eTdlUTBMSDBjMG93SUtCN0t6eE1SbWktRU8zTnUzbFFsRkNDMXBXX3RPeVY2dDZqNWtKd1FqUm85R09UUmc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's What To Make Of Daikin IndustriesLtd's (TSE:6367) Decelerating Rates Of Return - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR2xOeFJTOUYydTcybVRQaVVwbGFNSmR1Rmk2NzN5OFJoZko3YUpGZ1ZSOXhWZFZneHk3d1NReEI5V0JpZG5xQ0xJQmxqdVZrVDNHMmZvTF9Nbkt5VjNjNGxVRWZiclhwYl8tanViMjZ4dXR3RkNwcU1uSGFqOWpYcm84akFKb0JmYlNTSEFrRmstZmV0RzJuOWR4aXZueU12dFRMTjQ2MDMwOUwyZmprVGtrZm9aNVU1dkRVT3lJT3hqclY0TDEzLXl4QUhlUzEwYk9tNHBUZk5wV3lIRkhCdUdR0gHnAUFVX3lxTE0tSVNtMUM5akpELVZrbzRDZTV6SER3NEE0SDJBUVRyaTBtNWl1bmhOQ1NoUDhFRnpPU3o5Zk9HUW5YSVBkUFNSNnZBaFZYSWlTcnZoQkNOWTk5TS03Q0ZZVi1wcHZJazZ3N0lFZXMwam0za1J6dmUzdkV2WWpyT2tJbXYzMlBrekRGYXNSbHBteWQzTzV1dHR4bkFrS0twYVVmeTZ3MExLUmdEckZOOXhBckV2djZPUzEySGJLcVlSZUJtVU0td2VncG1CejVtbDB2TUlESk02Mm51S0JGanZYTzA4ZzRkaw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Daikin buys Goodman for $3.7 billion, gains North America reach - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzNPanhVeC03M0hITmREVG9NTG1WS2loeGNjLUZfeVkxcFM0OXU4OGRabVdTQzdSRm5DWjZjcFJKODRuUkhNeXZUdGJJZFdPS2FWV25aODN3Ti1JbzFMSUwzY0hBaFFCNDE1ZzdZYktNN1ZZQUwzTGdnTF9UYzFBTTNwZHlZMTBBeHBwVUxTNWxpV1hLVm1UV0JtZVNYZEdOckYtY3JOazZIbWpFUGVxQUpfMVhKNVU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors in Daikin IndustriesLtd (TSE:6367) have unfortunately lost 23% over the last year - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNGRrbUlDd1VpVUtXc0IxQV9lekRvWU1zdV8xc0pwalh4bklyOVRhazNzM1JTM3h1SEhJS29vYWcwVjJ6Smw1T3BTVWw5b0FicjFmOWlzVlFlWm5aMW93OEUzVGZ5VWc0YTBMLV9rUDQ4TWFKSVh3WjU4WVZLVzBBZnFpM3REX2RUYUctRzlrX2FhbndMMzlaSHlXS0dMdUY0dmo4ektyYUlkT004b2hYdXdSNGFkSWZVQnhERG42cGxCb25raHZTNjlSdFVjczg3TzZCU1Y0NmR2Q1J1RnEwNS1GVkfSAeoBQVVfeXFMT0xFd1ZIanIyQlpaOEM1VjN0emVfblZNQnJ6a0dLWXVlazlITnYwbGhMOXlWemtpUjRBOGVNUlIxWVEwM0ZRd00zZkI4QUVVdjFKWlBFSTFYOUVDZDNyamJvbFZKeHEyczFKTUswNWVtWnZ3U3J1b0dwS2NVOGlQWHNoWm1xMWFnWUVMWjM2UVBkTWZpMzFCOVNUTk9QdWZpd242S2ZDSk41c1F2NDRpdzVXVzRtQ3Bub1Q2Qk4zZ2NEQXZkSEkzM01JX2szZGVybnNRV0FTQ2hnMGEyU1BvT1VFeldvaG04LXNB?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 18170.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 18400.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 18260.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 18140.0
-      },
       {
         "date": "2024-12-06",
         "price": 18210.0
@@ -514,24 +552,28 @@
       {
         "date": "2025-06-02",
         "price": 16245.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 16425.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 16555.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 16375.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 16430.0
       }
     ],
     "current_price_data": {
-      "price": 16245.0,
-      "change": -340.0,
-      "percent_change": -2.05
+      "price": 16430.0,
+      "change": 55.0,
+      "percent_change": 0.34
     }
-  },
-  "news_sentiment": {
-    "summary": "Les tendances cl\u00e9s des actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Daikin Industries, Ltd. (TSE:6367) sont :\n\n1. Les analystes ont signal\u00e9 une hausse du P/E de Daikin Industries, Ltd. (TSE:6367) \u00e0 12.99.\n2. Forum Financial Management LP a achet\u00e9 6,367 actions de British American Tobacco p.l.c. (NYSE:BTI) pour 65,7 millions de dollars.\n3. Les analystes ont \u00e9tabli une \u00e9tude financi\u00e8re sur le rapport annuel de Daikin Industries, Ltd. (TSE:63",
-    "sentiment_score": -0.6,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.4,
-    "negative_ratio": 0.6,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

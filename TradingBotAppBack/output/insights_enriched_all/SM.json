@@ -1,56 +1,164 @@
 {
   "ticker": "SM",
-  "name": "SM Energy Company",
+  "name": NaN,
   "sector": "Energy",
-  "market_cap": 2718472448.0,
+  "market_cap": 2747087872.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 3.3309958,
-    "PB": 0.61731607,
-    "EV_Revenue": 1.915,
+    "PE": 3.3660588,
+    "PB": 0.6238141,
+    "EV_Revenue": 1.945,
     "ROE": 0.20276,
     "ProfitMargin": 0.28847998,
     "GrossMargin": 0.80189,
-    "DividendYield": 3.42
+    "DividendYield": 3.31,
+    "DebtEquity": 62.938,
+    "CurrentRatio": 0.573,
+    "QuickRatio": 0.466,
+    "FreeCashFlow": -1837684864,
+    "OperatingCashFlow": 1989499008,
+    "FCF_Margin": -0.6454283328795781,
+    "ROA": 0.096599996,
+    "PEG": null,
+    "EV_EBITDA": 2.654,
+    "BuybackYield": null,
+    "PriceToFCF": -1.4954863904239024
   },
   "technical_indicators": {
-    "RSI_14": 49.43388206856176,
-    "Momentum_10": -2.8629887161414422,
-    "MACD": -0.1536837797471903,
-    "BB_Percent": 0.5502543808120421,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 50.25174025295378,
+    "Momentum_10": 3.8961021803801863,
+    "MACD": 0.0189990962499919,
+    "BB_Percent": 0.4998409187304046,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9362868290811086,
+    "ValueScore": 0.937135363429999,
     "QualityScore": 0.317820137592441,
-    "SignalScore": 0.5019600260953003
+    "SignalScore": 0.538405531363662
   },
-  "volatility": 0.0404779011450166,
+  "volatility": 0.0407490784998582,
   "beta": 2.192,
-  "return_6m": -0.4556604564589654,
+  "return_6m": -0.3943486456428174,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
     "target_mean_price": 38.64286
   },
+  "news_sentiment": {
+    "summary": "Les actualités récentes autour de SM Energy (SM) montrent une dynamique contrastée pour les investisseurs. Certaines nouvelles positives incluent l'augmentation des actions de SM Energy de 3,71 % le 2 juin, la hausse de l'objectif de cours de Raymond James à 34 $ avec une recommandation \"Surperformance\", et l'attention croissante des investisseurs en raison de son statut de titre tendance. Cependant, des signaux négatifs émergent également, tels qu'une baisse de 20 % récente des actions, des préoccupations sur la rémunération du PDG et une vente de la participation de Hybe dans SM Entertainment à Tencent Music pour près de 180 millions de dollars. La décision de Tencent de devenir le deuxième actionnaire de SM Entertainment pourrait influencer le sentiment de marché, soulignant une situation à suivre de près pour les investisseurs.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Is It Worth Investing in SM Energy (SM) Based on Wall Street's Bullish Views? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wU1JOX1o4UjVPR2RRVXhxRW1xX0NiYkhIT2hHc1B1cWRJX2p0S0lJM0hLZW5KaXZraUFLOGRZVnBfNHhiNGZqcTZ6X28wanIwSVdpUkltRmhOWEJzY2xUaHUydkFNbmJfNk5rWm1MRU44b3dZQlFXSGJUa1UwdW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SM Entertainment Shares Update On Legal Action Against Malicious Posts Targeting aespa - Soompi",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVmFaQXkyNkZXaE0yam9uWnRpVG1QaVotbzcydUpMLXdZZmtNV21GNW1kcVZ2TGQ3Wmp3Z0NCcjlMOXgwY0UzVjFrSFE1MDUteHJEZk9TUmlfOHlLdVFaVngtMHlBVUk1eXlLYlZJUTczbWQ0b2x1UFhrWXdwMndCcGpBTXVMU0p5dExTR3NUalhkRVBKMHppWDMxelhkM2dER01jNTl1bHNEd2loYlAyNExmRGN2MnZNZFdha0JueEtCT0V2SEpj?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "SM Energy Co (SM) Shares Up 3.71% on Jun 2 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaURFM2Zhc2lLSWdXMHd1ZWJ3TG9Gd2NMUkpwYl9CcERNUzZjQnR5N0JHZU5jRGI4VVViMFJzX2w0X192Mjh2bnFwVF9FZk1ETVVvRldRcGVTbmY3Nk1uN3RPM1puNHBaeUc1UThqY2tKRGxYSklMeGt3bWpyc1NZYXJuejZSWEpxSnFXX2Y2S3dCVmJRanFLWW1BbGJxb1paWlhuSmVUdDhGRzFpMklQTVN2dWdnNHJvSXFWb2lpR1ZERC1NeXpabC1n?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Shareholders May Not Be So Generous With SM Energy Company's (NYSE:SM) CEO Compensation And Here's Why - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUc4anpEbkZKUEE2NmJ5ZWRmR2xOZG00SUFlaHYtUGprOF82VHU5TTZxTzRteDZSNFpMWGU0MjJMRkFfdFNHV1JtaFlHcVlGY05VR0tOYkZmV1dnRExLN1BLRUgxVkpuUlNSZFZybHRQWElMMVFxcjBqTnNRZnk5WWFQa1ZNcUZNVnVIbFE0a2tFWTZtUFZuSl9CeXdjTmlnMS1VVFhaNlJzY1lWU0hXek9uVWZ0WGxtVDdaYTVn0gHDAUFVX3lxTE41NWZXOTduMF9BNEo2ZlZoWHlGQzllWWtsdkhVRmFHTnhiZXNkbC02YWJjNy0wYVVMcG5WN3Bsei1nT0JmZU9TVFFjZmhjT2UwYmRndmdpLTN5ME5KOUozV2drWkVMNnV0dlliWEdMeVNOS01scnR0QTJGUGQ2TXdzdURJa1V3RVJSeHVhVnV3VXlhWjZXcndSdi1UbWN4RnNXM3VvRjNGeUpXa182d1F2NjBqeEZmUG9OWWl5eV84SFhKRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tencent to become SM Entertainment's No. 2 shareholder via HYBE deal - KED Global",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xRGdaemVJQm1fTlgwOHp4NnJYM21xekRyaVhEZm4zZmQtS05QVm0tSlhIcmc2eU9VZTB2YzNlR2tvQ3Q1LUJfT2dXclNjRnNZNmMzb0RXZjlvaGMwWkhEcjRPUk1XRWhJbUFlTTY2ZV9yUdIBXkFVX3lxTE1vRkpJOUVJcll2QWYzemVrQW5JQTZqWndLalpxek4wbThaNlBlV1JfS2RNVHpQaXZLay1vT1RwSkRPMUIzc3Q0Q2VjVndZWVhPVWhtdi1SSHRnT2dSNHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "HYBE is selling its entire stake in K-Pop rival SM Entertainment to Tencent Music for nearly $180m - Music Business Worldwide",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQzJndWo3VG1YamhxRzhHOUd5RUYyMmlxVG5RQkVfdkZvbkQzVUpNMm5ocnJpdUZGZGc0RzU0MlJIU0VGSko4STVUWXZDejhZMlhfczNjSFJzQ3lPSWZENXAzTG5VSjRkS0t2VnJOWUZCTjRPaDI4Rm1tV3ZwT01TRm5qdmh4clRrNFhSdHVlMGJfRGFFV3l5NFV5eUxBUTZwdXJaQTl2a0hrNENnUm0yRFZFVjh0TFRGSkVfaDFMcEozSVVZTVZ1TTVn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Hybe to Transfer All SM Entertainment Shares to China’s Tencent for 243 Bil. Won - Businesskorea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FUlRCd1ZFRENDaGxPN3J0bmxXYkF3dGhnM2ZFLUVaUHVqLUl2MFpyeFhiTmt0U1J4YWFxOXJ4WXVvbFZ0QUNJZE5PbXdIbDNITnJnV3Y3Ym92VGFSOGp2aG5peG5WU3BZMFJNT3RDT1ZuMFgy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raymond James lifts SM Energy stock target to $34, retains Outperform - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDB4WmVOT1lkM3d6SVVnWGtaamRXUGQzRGp0WGF4Zy1mWFZMRlg3Mm95dFhZN1dhN1RuUXlZX3FPV1N5NDJNVDNrMWQtSFNEUGZ4ODlMdi1IQlVYMmFBcW5XOHJaMEdYX001NkN1QllVYVZHTXBRNUh5X0lhWHBIN3ZuZnRZTUFWUVhoUHUzNURUUm5DbVNEUW42cml5NTNZSVZId3A3eDBScGxaR3JwT1E2XzVNOWFxNXk3X1pZMmJMS3BEclE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "SM Energy: Exploring The Factors Behind The Recent -20% Fall - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb200R2N1QmlleFo0UW01eDBNOWtfSTlnSkJFQl9NMHVrc2pIUG5mWXgxLW9weVpTZ1NlM0hSeDl2bEg4RFg1TmdHVnBZV2xERkdlTnJlRXlSUlBXT2VxSHRoNnZwNWczYy1kLXpRbF81cFBlaHNpd1ljaGxGOXNZVzEydVJPaThKYzZsdmhlRV94Z0JBTUhvMi1yTHQ0MUkwN0xqQzRTalNvUWdNdmxoMFh3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SM Energy Company (SM) Is a Trending Stock: Facts to Know Before Betting on It - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUI3c25QTjZScXpMMlJLZ2RSZjk0cGR4WW9aV1dxWndhSWw2TFVKbUVnOGdfcU5lWGl2UlFYd0ZYQ3pueVlxbHdjWmVFTGdMNDNUQUJ1SmY3T0ZpZzI1MEdhU1lMckdHQTNoTnVvMjBhallxNW02RmxOVlBqdlRUNHFlNFJraDAzSGdlQklUT0lndHU1Y3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Tencent raises K-pop exposure by buying BTS agency Hybe’s SM Entertainment stake - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdWxlREl5OHdDVGhFbUxnT3o0dHFwVHpheHlQdDNoY3B2aE1JdXRNZklGdkJpdmdpVHRhLThOeWItXzZQWnhlNTZPSHA4M29ETTZfaWlaV0FXS1ZwbW56cjlwd3I4QmwzZmtWYkF4MU51WkpIWWgzYlpDaG40Yi1pRDItR3NuR2NtQWVOZTI4Q093UmFzOUlwVFF0Wk1TOTN3cG4taDlJcGZFN25IR2xmTk9IR3RCM2cyUldvSlhUY2NzM0ZRWnhKMWhXbzZIQdIBzgFBVV95cUxQVTBOSTBJYlBqM1Q2TXZpaHlMVEk4N184djRHczM3cUpHUVFsMFVsNkFnVE1sMk4zd3J2bHZQNUJVdUY5cFNjSWs4NEtQYldvWkVUbEpLazlKMWwyZjdVQzlLa0pBbnZXVEF5RnNzMUUxZHZQRy03dGhDbFR5UXJmenZjMDZST2p0a3NTUFhjQk9RSE5wYmtEZUhmUzkwQ3dHVm1hbXZDejFtdDktMjJQWm1aMWVuS2ZDaFByNXlyM1NPQzAzNUdqV0ZlT2NEdw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Transcript : SM Energy Company Presents at BofA Energy and Power Credit Conference, Jun-04-2025 10 - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxObnA1bTlsQnlKYWkwejJZV3M4aGNHQVAyd1ZlN3hYeEdjSENmVnNZN0JrN3JMWXUxbEZ3al9kYXN3MGpfcW16dVNuZGtiNkVnTEdjcldSMnN1b09UTGxINEtXYkhfdmV6d2VobHpPUW5oVFRGYk9QalZwb2FKb21GTzJEMGswQ3h3blV1eUcyU0x1M29qTXFiMHpONnB3WGFHWkt4UjVPVVpmOURVUlRNX3JHZHFQMFVvWl9kLUN1dkZidURJdTVXQjhPMFRqTUdhWkNxR3VvZ0QyQ0Y4SWYzQ1lxbWNSSVpJeDAxaDc4UHQzUFBfZHVkTXY0WHhBMGZLbVZ0WjlCOTdiUHJNaURF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Investors Shouldn't Be Surprised By SM Energy Company's (NYSE:SM) 26% Share Price Plunge - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZERhVVVtUWV1Y2o4MGQ0U0M1eGlzM2ZPT0JjNmRoQlZ4MnJ0bVg3clQ3YUlMUTZUaE5TakZVRlZyVjMtS3lkUGlFcFNaNDdkdzY4VkU2a0pEODZheXVzR1RIeFVraURfU0locWN5VG5PTld4ek1pcUJ0RUxOWTluYl9jVHJwelRZcE8za3JUS1ZIT01VZ0hiZ1A1U21PRS1XSUZYbHB6UEpGWFdqb3dKSDBhd3V3OU9QSlpqQlRLSdIBxAFBVV95cUxOT0JIYXNETU9Tc2plSmwzWGNGdVhhS2doVDB0N1BrUi11bDRXNzVUUGNWOU1oNWZVY1Z0U2RSWnJUMWNVRWRNczltUS1sTXdScUlCa25QVU1FWXA4cXV2d1FSWUdDUUN3anBJRUo2SktPbWZWM1VQUGljaTVuVi1BdEpmU295VEtnODZWUlVNUXE0bncxSFRqZVB2TTF0TUdEMlVmN2tDXzltaERDckpwcVFHTG5LcVNxNVBnS1U0M1NCY0dh?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Raymond James Raises SM Energy (SM) Price Target to $34.00 | SM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGo4Z3YxdE5zMmk0SU0zR3A1eGpOMjlOUEdfZl8yc2phZG1kdWd6UEc2UE9FX0lkUlJEbGJuTDhBcXVnOFBLY3g2eEUwaG1RX0xLVzJjb281VHpTZVZrWUtqUzNDNldqODYtdUpOMmtlRXVmQ2VxXzktblJ3TXB0TlFnZXRfVGVvSFJQa0lNSG5MeEV5WHRfOERtb0FkNElVM0tOcWI0cERTQTQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Investors Heavily Search SM Energy Company (SM): Here is What You Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVDJndVRwbnQyQWtTMjlTdUdKN1E5M2IxZjdaaGk0M3h4VFl4N3R4M1F3UEFkUzRwOUhqRy1ZdHlVd0ZoWjNjN2RPVVJmbmJZOUxQVm55UTlfd1Jza0dTbjAzLVFfR0cyT2haaUpDTkFnMjMya3FhRlQ5b0xCcFZIdGpXY3FCOWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SM Energy Company (SM) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU2JRRDYtOUdCVm5mOUlrYW15TjM5UWMyMkJ4UEtESVVuWUUxVE9OMGEwUGszanJQYWx0MmswdU1xOHVFQjh3Sjc4X210ZzBnRWF1Y3JPR1U0WWYyV0FQOHZGM2R3WW83MG1HN0FVVGQxZEh5c21NRGZlcWlndnAzNQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why SM Energy (SM) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4td3N6Q3FzQmYzNXMwcE9iZnAzRngyZzMxMV9PcWg5dG5IZS1QRndVeVRpZ2xSTTFRM3BIMHF5M3NCS0doeHJtZUxndkRVZXRodlNBT2FBSVNMT2VpVmhrc3hNelJydTRKZG90bGlORVQxbFlm?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is It Worth Investing in SM Energy (SM) Based on Wall Street's Bullish Views? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55THRqeVAzcjV4aExYZEpXX1pZRi0ySWZONDZieTE3TUxlVlZZemVuY0NwZ2JkbjM0Y3Vnal96WG1JUFdlUXU0RG14Rm0tZzlucDZnMUpERmg3T3BwNkx6LTZFblBDMk9YaUFxbUk2cF9KVVFzMHAyUGlpcFF3TmM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SM Energy Company (SM) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSXdMV1JDZkFFX0wzdXdzMkxaQjQwVGtKa2M3bVFkN0gxWExOT3E5cmxmZEp4UmtUN01rTU5wU09wcE1pUG1JT3NFcF9LTTFVc2syRjJhVFZGNFVQak9pNWRzdXJEWkhZaTBRc2x5VEVuUWExX2lJdURJbUNxVjVtdkFkSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is SM Energy (SM) The Most Undervalued Stock With Smart Money Ratings? - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1Y4dFFXNXJIVEsya3lkQWpjQ0dlZVFTTzN5dE9NZ2N2TFRqUkkyeXA5MTZwVFlNRjVmQnVQLVJFN1NyYWtCblRrVnRjU21wZ2lQRFlCLVhoRUJvcW9WcUNaa0wwRDBvbnhzSExVUk5GbmdyeHYza0pnUmJjNzlIanUzajBCbmVjSGgxbUxsbHh6YmFYN2ZaSGZyVzRZbTYyblVhNEFOMkZFc24wOVlfTtIBuAFBVV95cUxPaW9jcGxjWnBFWVE4RXA5ZmZacjZGalpYSkxhNjBEN1lRRzRRa2lyQTJfWDRmUF9YUjdEY1h2WVFwZGk2a2ZmcE5tM0JpX2JBYmFwWUtpLWQ3NHRhbV8tMHZENFRQcE5aaDVNREQ2a2NGSzY4OGY0UDBJTVNaRFYyeHlwZjRvUkwzNmdWWWJlNjVVRktqMHZjRUF0TlhJX1BJYUY5U0ZOX2ZyWVVzc1JiQXg2Z24tVzRp?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 44.24
-      },
-      {
-        "date": "2024-12-03",
-        "price": 44.51
-      },
-      {
-        "date": "2024-12-04",
-        "price": 41.93
-      },
-      {
-        "date": "2024-12-05",
-        "price": 41.81
-      },
       {
         "date": "2024-12-06",
         "price": 40.18
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 23.74
+        "price": 23.92
+      },
+      {
+        "date": "2025-06-03",
+        "price": 25.24
+      },
+      {
+        "date": "2025-06-04",
+        "price": 24.16
+      },
+      {
+        "date": "2025-06-05",
+        "price": 24.01
       }
     ],
     "current_price_data": {
-      "price": 23.73,
-      "change": 0.29,
-      "percent_change": 1.24
+      "price": 24.01,
+      "change": -0.16,
+      "percent_change": -0.66
     }
-  },
-  "news_sentiment": {
-    "summary": "SM Energy Company (SM) has been in the news recently due to its recent stock price fall of 20%. Raymond James has lifted its target price to $34, while Nasdaq has provided expert outlooks from 7 analysts. Meanwhile, Tencent is set to become SM Entertainment's No. 2 shareholder via a HYBE deal, and Hybe is selling its entire stake in SM Entertainment to Tencent Music for nearly $180m. The acquisition by Tencent is expected to increase K-pop exposure and SM Entertainment's reach in China. Investors should keep an eye on SM Energy's stock price movements, as it has experienced a 26% share price plunge in the past.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

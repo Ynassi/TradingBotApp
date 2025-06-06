@@ -1,56 +1,164 @@
 {
   "ticker": "INDB",
-  "name": "Independent Bank Corp.",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 2601220096.0,
+  "market_cap": 2640216064.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 13.746621,
-    "PB": 0.85736555,
-    "EV_Revenue": 4.28,
+    "PE": 13.9527025,
+    "PB": 0.8702187,
+    "EV_Revenue": 4.27,
     "ROE": 0.06379,
     "ProfitMargin": 0.28851998,
     "GrossMargin": 0.0,
-    "DividendYield": 3.84
+    "DividendYield": 3.85,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 192118000,
+    "FCF_Margin": null,
+    "ROA": 0.00963,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 47.209109154887145,
-    "Momentum_10": -5.664601659505412,
-    "MACD": 0.3095634000883578,
-    "BB_Percent": 0.2435946443911852,
+    "RSI_14": 51.480286943153224,
+    "Momentum_10": 0.8136696400198427,
+    "MACD": 0.1910388672087535,
+    "BB_Percent": 0.3803733367784087,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9336624991622507,
+    "ValueScore": 0.9323616836771156,
     "QualityScore": 0.3716098781132608,
-    "SignalScore": 0.5302870519086862
+    "SignalScore": 0.5464363226388416
   },
-  "volatility": 0.0213197089339256,
+  "volatility": 0.0213750721544495,
   "beta": 0.861,
-  "return_6m": -0.1446909225815005,
+  "return_6m": -0.1209822655134807,
   "analyst_rating": {
-    "recommendation": "buy",
+    "recommendation": "none",
     "analyst_count": 4,
     "target_mean_price": 74.5
   },
+  "news_sentiment": {
+    "summary": "Suite à l'acquisition finale de Enterprise Bank par Independent Bank Corp., prévue le 1er juillet, les actions de INDB ont attiré l'attention des investisseurs institutionnels, avec des mouvements significatifs de UBS AM, Silvercrest Asset Management, Nuveen Asset Management, et d'autres. Les analystes prévoient une croissance des bénéfices de INDB, soutenue par un objectif de prix moyen de 71,00 $. Malgré ces signaux positifs, la réduction de positions par certains investisseurs tels que Millennium Management et Man Group, ainsi que le renforcement de la position par Deutsche Bank AG, peuvent susciter des interrogations sur le sentiment du marché à court terme. L'annonce d'une augmentation du dividende de 4% à un nouveau record de 0,59 $ par Independent Bank pourrait toutefois maintenir l'intérêt des investisseurs pour la valeur.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Independent Bank Secures Final Regulatory Green Light for Enterprise Bank Acquisition: July 1 Merger Date Confirmed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNenp2T3VhR0pKQ296ejNLZFlVcFNfaDQ5dlM0VG9MVlB4SU5LVEN3S2paWXpLcFhKOVNIRXVVWXpab2xIZFBCUzVHU3ZWbFB4eGtmMk5hRmg5N0xqdnBiNDkyUnNBYjBIb3Q2Wm50dElXM0tSSFlGOGFyQjRPV095Y2c0S0FmbEFlUTlzdmhzVXUteVVCQlFmTkd0NmVrNU1yd3N2dXp5aEVkQldMa0pVMHhfakNSamc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Independent Bank Corp. (NASDAQ:INDB) Shares Acquired by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWlNMTEFwRG0yRnVRZGIyZnV0VXVUOGVxSGNXbWE3WWtLS2xVcXRJSEFSajJJWjEza0JjU3BWbEo4NTNrN0pVb0Z0WnNGX1RkeGdmRTRDcGo2SzRvZFlJVGtXUXJ2SGRpSTVwbFFTY1hZRmhyalA2MU9ZeUlFZGVaWC1QU0E4ZkxfaHF5b1FRMjJfSnQzMWJwaFNlT0tGb3ptUkk1eEdWQ0kzYzgzRkduQjhrTElUVWx3dkRCMlZZb0o5R1RONzlwMFYyZmlBWG5wWDhTSFNJTS1JTnhJemJjdnFGRTZmbzZiNURCMDM1elBPWHAwN3hTN2xmQzN6TUVJVzlRckRHOGNDaHRTYW81ekhPN1pkUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Independent Bank Corp. and Enterprise Bancorp, Inc. Announce the Receipt of All Regulatory Approvals and Anticipated Closing Date | INDB Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNQ1Z0NG5GTC16c0s2bkwzRkUwZHMxdW5JeGxOVWllakowNGZRNkhXYW9xcVpNRWRJU19GcUdXSUc5cVpQYUllUlltV0Y4dHlkTEdBR3lqc1lHZXJLaFQ3Q1RGMkdfOVd6Q1dSeUFKMnU2WDV1MVJxalZ2cVZLWWpVZzlnVUhoejlTM1JSQ3pVcHhIY3c5ZGVxY1I3R3pfeXozQzdzLUZ5V0R4dFBab3YxUGwtVnh0ckdDcWFBelhjRXRoMF9DQ2dsRmhtU1NHbHdwcVl5MW9GcDBWdmRGYnNfR2ZlVUktTTBtQkVjNkNpX19wX0YtZnVFdFVPNnRRdklKWTNjdkt6Zi1HS0hSSEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Independent Bank Receives Approval for Enterprise Acquisition - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMEhQWnVhaHo1em9XczVKQ2VKdTZiWlY2akFjUEhGMkpjTFFmR2VzLVVuZFpzOUxId2Rib2lIcU5hNEdmMjYteUt1YnlZdEw4M0lJOXNINWtNeUZVZU9IRXEtZlFURWtOd0Z3a2o3a2FwOS1CZTFyVVBVR25PeGdHMXp2UDNFRnkxYVRBX0kyRkpkRUZwQUpTV3l0aXZpSmpTdWR5VlhMVFdmcmR0Q2t3RjUzTQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is the Options Market Predicting a Spike in Independent Bank (INDB) Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY0VybGNjWVdfcmpJQm1NbUVEZ1lOS3hOeThQOW1tYWphdlZwUFRsc3RnQTBaM05reEpDeXlUZzVrdGhXMTBfZ0FsUzlVMnZfVmZ1S2FnZERrMjV3bVRjcHRKQmZQNDRPVFF2WjZ5UGgxNlJ2dkV1UXVMek90VFRvay1RTEc3Wk9xQm1MZnFXdUZ2THFDMFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Independent Bank Corp. (INDB) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNC1FRXFXVGN6TkJHQWIwZHJVMTVHd0NaUS1hbkVwSTZjSlVfQUpkdkttN2VURHI5bEFSYmlQa3FfdWZ6eWdfdUhfNkRLYjVxV2RBeGkzbVJPUUFkSHJMazdSZWw3VEU3TVRsdGFzLXhIOFpqTkJZMXVxYkpKTTZQY1d1NEhIR01C?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(INDB) Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQekNZeXFHQVdUc2poSnR2b2lReFpvNWNGWGVpbUpiUTNEUkpwWjBiQm0wOTdUSlhwMm43R1dTUXdNRlZiM1RFUlozcWpaUFk4T21ZRDltdEpPeldBWDEzU1Z4MEhTYzhfOHl5Nk9kZFc5M2hWOWY4UkdxSkJXc25rWkp6azVvYzVnUFNmb1g5QXNQUFRIOEZlQV9CQWtTVEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Silvercrest Asset Management Group LLC Sells 50,035 Shares of Independent Bank Corp. (NASDAQ:INDB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRXQtQVR2UjI0b2NrajRES2I4UnowakNIbktWLWtkUmdUNDNmbjA5Q3VaUUhMY0lFX2VQRU81ZEZuQ0dINTkwVk5PbVItSE16eFZjRFI3N1NQYW8wczU2ME1rWWlGQy1IaHZ3aEVoNTJpeEZ6UlhNczFxVV81bWx3T1hNUUZTNkNZaThpQkZEOXZfNEZIMi1WdWVrajZpbU40dXE2dHNuWk96X2tVZ2tUYlMxRWUtQjRLUk1PZ0E5ZjI2Tl80ZjNFWjdKVzRQdlltQjd3eG9WckZsUnk1QzZkbDhn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Independent Bank Announces Acquisition of Enterprise Bancorp - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnliaE9XTVAzN0ZWdU4zNDBRMnlxNl8wbnQzVklJcDN1SGcxeWFtX1pIelk0TGZNWm51aVFBTF82MnZPTXllTjNGSE9wWndPaUlUbXptMjF4TG5LZW5jTWZGUWFjZkJaNU9UQUI4MUNtWmItSmZZMGxET0pabHIyYV9TaU9yRzJuS3J6R0Y5SG8ySmJUOVlSSm5tWEJCbGpaMUYxSUJObV9UVkNHWFJnbHJB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Independent Bank Q1 Earnings Call Scheduled: Key Details for Investors - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWTFjODZybDc1UXJVb3FNeGpiZTI3Sm5aTWNZRWJJcEhSZTVtbGZxVmNVUDFpNlF6M2Z3X3hoRGtyWnhPM25Ca1RaUk0yTktXMlRDMGdYZTVSOHNwOE1vVDJhbmdaZTVONWhMa3VVX3l2T3FjUFFhbkNtMEd3UDN1dDEwTUpkd3g1aW1fS2FLTldMVG9YeU8wVXEwZ21HYjMwc0lYZ2QtQnlFVjV0V3BrY0NWdlpqQWM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Independent Bank Corp. (INDB) Q1 Earnings: Taking a Look at Key Metrics Versus Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeWQ1TVdrYVo1N2doRjQ1endyeXNYTWktZTFBQnpHZW1mb3g2OUpjcDVBWWx0SXlLc2JuLTdqRVhLNm1ITnh2aG1FSXpyWE81ZEZmbXZGaUV4bmtnNlhDYUpjbGZPc1dNSGpFTEthQUpBVlV2OS1xUzAzbzJtT1JBZTRlZzJNLWwwUUJFTXZCbm1oSnl6WlF2T01ETVplWHAwUkVVdWwxLXkwNDNYT1Z2Tg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Independent Bank Corp. (NASDAQ:INDB) Receives $71.00 Average Price Target from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXdDdmZXUXRhZDdRcUgxVHd1T2tWZFlleGR1amROYzV1UnR1SmN3RmxZN1Mxb2M5UUJTaUlhTno2c2NxQ0x4MG1kV2thOEJjZGREdHpUMlBwcnJ0TnNrTTJWZTg1cnlhYldLTE1LNmpOU0N1WGlJaXRMVEh1aUJraWN1MmlSSHozOG9IMHhLa0toOEZNTlQ2ak9LbzViUEIxRUl2YzJ1Ymd4QTBVel8zVE0yakpDMXlONDNWeE9GeDg0cl9OamM4SUx3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Independent Bank Boosts Investor Returns: Dividend Jumps 4% to Record $0.59 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVMaWJzMGRNNUNQTlllMkR2MklQSG1oQXpTNV9kMy12UzZ6X3F3WTdrVHU2X3FtZDNvNGpNQWx1NFpWZmpwd3dDOHhHSUJTcFlXenJTRnBfcDJzdDBEc2FVV19ma0Yya3J3cGVHNmR2RGMzZUE1MXVyX0lFRTJuc1ZBMGl4VVl1VDVyTlZHNTNZYzFJTDN5VlNCUzhKaTJJSmI5Q0dFbVpCZjBYa2xV?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Independent Bank Corp. (NASDAQ:INDB) Stake Reduced by Nuveen Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSDY5bEhja3ZoY0R5RmxaMUxTYkdEWWZHQTJYSXdXdlgybjdDZnVjUlhDY1M1bVNZamxhZVZraHpkRUtCRV9rMC1LU0JiSXl0X01xX2Fod0JPQ09ZTUpUXzBKSWlvald6V3ZUckllM3BHZkp1YkVHc3FuNFhxUURZZjNIWjhpSXQ1MXNuZnJMNF85clNfU3Jsbm5xZnR4RWhGNmUzakNzWFdMMFNyU0tSeHlCNUxDeGdoTG1vTDN2a19qVlBwNnpucmY3RklMQVo2YjZvQjNUdlNlc1I3U0tEbW9ZUDg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Independent Bank to Acquire Enterprise Bancorp in $562M Strategic Merger, Creating $25B Banking Giant - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRDlOTU5xT2NidXlIVEI2Tkd6bVBHamRGZVhvdm1ONE1rNnlhODVDNFprNTB2YzluMkc3SDdaQkVqbTktQk5XWkFiLVFGUExaYXA1cW5KNmRSWGtfdkJvNkktbWd5cGpzRTNMQ29BN0JEakFuM1pNT0h0ekl6dDhXQzlxZjV2M1puTm1iWVd3b1dOa2pyanIxWWxZa2hKSDNBeDRiOWhMa1NqVGVQV1VpbzJOcVNTUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Man Group plc Reduces Stock Position in Independent Bank Corp. (NASDAQ:INDB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVkU0RzMyekw3bmZJRXNOaXBKTUtKazNabkR6Vnp4aGdPUzVtM3B0N1Z5RmNrQUIwWThrSDNCSUx0b1pKS1VVZG02c3FlRHNNR3N3MExEYnNfbVA3Tk82cGlSYmM2Rnd2d1puaWtJcVMwa19VN3lTTVduQkJtLVBiTFpBaHpSOXZaMllVay1Ja3poVnc0Y0tBYUZRc2htM0lrbWdPTDdvb3pINFhPRzlRRjYzSGo1WEJIdkpqSTFkQWZkQXl6dGdUX0RmNA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jefferies Financial Group Inc. Makes New Investment in Independent Bank Corp. (NASDAQ:INDB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ19qTy03OFdndkVsVXkxR212NmJqQlROOEl5ZEtOd3ctRlZxM2VMNDdPUy1kY3VRcDNKV1QwRU9LSmJHRGFhd3BvcG8xRTRWenpHaElSdDN3cm5ETWZYX1V5U1RMYXhWeE9pVmNDWlhuVjRGZ3hsNDg1YnhUa05IeDVZMzg1UHZvXzhxVk1fYmtGa3NLRE5WSndROWQ4STN6RTdOcXZQSU43cGlLYjEtR0haOFJ3MFNHOHRQSWxncTIwd2FfVHdwQTcydzhyYjYzM3diUm50U3hKdWczRDdHOFR0aw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Squarepoint Ops LLC Takes Position in Independent Bank Corp. (NASDAQ:INDB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWNKVTNVTWMxRjdmS25IaE9kZmVmMUM1NFFVUFFrangtR2Rtb192bXdzM0hSZVl4Z3pidm9seTNBdzBpR3gxRUtNM1kzOGxfd05XclpUM0I0ZC04X29iMi1ydEdqcDh4UktpVFMtOWFGZkUzMGx4Mjg4SXV0VzlPUjZnOHE2ZUZBMUZFaThvM0tuWHRDWmJ1QTZMVlFUNE1PWlAwMy1VX2JycXBkT3dfVk91dmtodGNyZlotY0hVSmd5X3dVZEpxWkxSYzFHYlYxME1DUmJ3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Millennium Management LLC Decreases Stock Position in Independent Bank Corp. (NASDAQ:INDB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdnRnUnRLNjVLVEVHMXktRkRoQUZXUUVFelM2ZzhJVmstWG9NQkdjZEZwUlNjMUxPLV9qWFplcVVKZmgwTUhuajFSMi1sdjItZ1I5MGlsdU5wXzFycDM0eUlGekhEMmxNWE83YnpMQnZlR0ZxNmNqWlEzMVpRc2dNMWJzdGd0WFAxMHhCa3pKcmhGSFJyVUZmQWlMSVJTQkQ3WnM5T29BcFMwSVcxUGR5MlcyU1M1RmhvN3F5Q0RiUXpWQlpua3ZpLW1IV3Z3UDNkS09rdEpVWHk3ZXRVQl84ZC0tU25WSlBT?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Deutsche Bank AG Boosts Stock Position in Independent Bank Corp. (NASDAQ:INDB) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV1Z4QTlFbTZnTUlwM3F5YU9zWUgwOTJwaUY0dmN2UlUweXUtQkFMLVRIbEhlRlFMRk5UR01RV3luOGpHRHpyM2MxZmtmTzVuWkk2dlVpWERoUnI3NW1Ba2cxWmk5SkRVaHlZaThTRDFIcVptSnJjZ3pja1Y2bS00em9mVGk3Ykh5MVJ2QlRWbU8zOEE5MmVXY2ZPQ1NCVGJmM3J5clFQeHRvTDFieF9IV2dNM01ZZ1lDRjUtbkRSZzNBXzJxSlkwZFNEMA?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 72.67
-      },
-      {
-        "date": "2024-12-03",
-        "price": 71.58
-      },
-      {
-        "date": "2024-12-04",
-        "price": 72.34
-      },
-      {
-        "date": "2024-12-05",
-        "price": 71.43
-      },
       {
         "date": "2024-12-06",
         "price": 71.77
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 60.89
+        "price": 60.97
+      },
+      {
+        "date": "2025-06-03",
+        "price": 61.72
+      },
+      {
+        "date": "2025-06-04",
+        "price": 61.35
+      },
+      {
+        "date": "2025-06-05",
+        "price": 61.95
       }
     ],
     "current_price_data": {
-      "price": 60.89,
-      "change": -0.61,
-      "percent_change": -0.99
+      "price": 61.95,
+      "change": 0.6,
+      "percent_change": 0.98
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres pr\u00e9sent\u00e9s sont concern\u00e9s de l'entreprise cot\u00e9e Independent Bank Corp. (INDB). La plupart des titres ont un sentiment positif, avec des analystes donnant une note de \"Buy\" \u00e0 INDB, des signaux techniques favorables, un dividende augment\u00e9 de 3,5%, et une acquisition strat\u00e9gique. Le march\u00e9 options pr\u00e9dit \u00e9galement une hausse potentielle de la valeur de la soci\u00e9t\u00e9. Jefferies Financial Group a pris une position dans INDB. Les titres mentionnent \u00e9galement des d\u00e9tails des appels de pr\u00e9sentation des r\u00e9sultats financiers, ainsi que l'influence du march\u00e9 options sur les pr\u00e9dictions.",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
-    "neutral_ratio": 0.8,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

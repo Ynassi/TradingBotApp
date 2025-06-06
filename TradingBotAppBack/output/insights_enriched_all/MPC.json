@@ -2,55 +2,163 @@
   "ticker": "MPC",
   "name": "Marathon Petroleum",
   "sector": "Energy",
-  "market_cap": 48684204032.0,
+  "market_cap": 48613548032.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 21.7978,
-    "PB": 2.9865627,
-    "EV_Revenue": 0.612,
+    "PE": 21.766163,
+    "PB": 2.982228,
+    "EV_Revenue": 0.603,
     "ROE": 0.15524,
     "ProfitMargin": 0.01764,
     "GrossMargin": 0.0867,
-    "DividendYield": 2.26
+    "DividendYield": 2.32,
+    "DebtEquity": 139.332,
+    "CurrentRatio": 1.194,
+    "QuickRatio": 0.701,
+    "FreeCashFlow": 2657750016,
+    "OperatingCashFlow": 7069000192,
+    "FCF_Margin": 0.019263386450403094,
+    "ROA": 0.03469,
+    "PEG": null,
+    "EV_EBITDA": 10.477,
+    "BuybackYield": null,
+    "PriceToFCF": 18.287774147077645
   },
   "technical_indicators": {
-    "RSI_14": 60.14141543063406,
-    "Momentum_10": -2.6106167136691742,
-    "MACD": 5.197614571549536,
-    "BB_Percent": 0.5793048826279535,
+    "RSI_14": 56.07006429805646,
+    "Momentum_10": 0.8104686006346371,
+    "MACD": 4.14328116980812,
+    "BB_Percent": 0.4246277264969949,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8972930084569215,
+    "ValueScore": 0.8944782497278951,
     "QualityScore": 0.3105136388110791,
-    "SignalScore": 0.58412313256696
+    "SignalScore": 0.5596651087580569
   },
-  "volatility": 0.0266402412567722,
+  "volatility": 0.0266564159485931,
   "beta": 0.868,
-  "return_6m": 0.0182643593502553,
+  "return_6m": 0.0663049464277856,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 20,
-    "target_mean_price": 165.103
+    "target_mean_price": 165.653
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente de Marathon Petroleum Corporation (MPC) montre une forte activité d'acquisitions de parts de la part d'investisseurs institutionnels et de fonds, avec des mouvements significatifs de titres MPC. Malgré une performance en bourse fluctuante, l'entreprise attire l'attention des investisseurs, notamment avec des analystes attribuant en moyenne un objectif de prix de 175,29 $ à l'action MPC. Ces acquisitions massives pourraient indiquer un intérêt accru pour MPC malgré des mouvements de marché contraires, suggérant une confiance persistante dans le potentiel de l'entreprise à long terme.",
+    "sentiment_score": 0.05,
+    "label": "POSITIVE",
+    "positive_ratio": 0.15,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Marathon Petroleum Schedules Q2 2025 Financial Results: Key Details for August 5 Earnings Call - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2RRSEFvNjljLVlySVJLVjgzLU5jMDE1YlZkS2kyV3pKRWhuemhfSlBGOEtCZWZPRm9aYnI3U2JuREgtXzNReGV4ZFE2NkFXckhSaXlTelR3MFJMZzBxMmxla3AzZjRod1dXWjVaSGoxN1RpbmJyeHRpVVg3NmhOVG03QUVCRkRjREZ0aU8tTUVmeE5qVjQ0ZXNMYjVRSnZncldGQ185TmRmcDFDaWVnX1dWbHpFcHJSTE55bw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Marathon Petroleum (MPC) Up 8.5% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qOHZtOFg4d0xfa0JOcnZZRjV2SVVkYVktNjRialRUSVgyMFlkb0lzVDRtT1pqbVdfVGc5bGhMaUVRZW5TYXQ0SUphbTdSRVFiR2E5RVVaZE1jVHZCQnV0S0JyYVMwUGw2akRTNnkwbGRyNkFBTlFvOXNBMnFOVFk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Bought by Czech National Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnQzR2xhZXVCNVFWSGdZaFB2T3ROWGdCR1hNQkY4bDZKWGtOOWtrcG1uQW1fRmx3WlhXZGR0Qnc5Wjg4eTlvSmVsX3BQYmM0bFNpNHhRaG5wUUlYY01qWE13aDVLQzVUTkZrYXFkdW5CUkVJRVYyVzdTT2I1OExDd284WXRTbTlkMGo1YVNtSUY5OXlKTFJmNFhaVnIySTFLZ19RZW5TMkllaWwxaEZadmMxajBNY1JXaV9yaWhwMU9hSlFUYWFUQmlxSHQ2UzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Marathon Petroleum Stock Underperforming the S&P 500? - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRWN4dHZkdUh5WXBsUk1IQ0tFN1J2cmJFbC1ybkJIckRPYzN3QVJPejhnb05VOUlDYU9NSmREeFRRcnMtRy1zdkFZREFUMlNiWHZ1SFRKY0Qway1CT3JjT0ZtSFpMSzk2MlgzRW1sejRHUTBwd05ZdWNTSVU1cWpIaEx5TEEyQURWQmkyRHJVeHJVMEpnb3U1TDJFQVpRR2JtVGdMMVZfZDVoa0t3bU8wdkhSNVRMSzhBbmliV1JpVDl3WjVYQUhzY3BnRkZ5OUp5?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Stock Market Highlights: Sensex Ends 443 Points Higher Ahead Of MPC Decision; Nifty Settles Above 24,700 - NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTS1VaWdVSkdvUTdlYmRzTWFpTTk2RmxaSGkzQ3NWRk4tX2g4b1JLc2JwaF82OFpkb2FJYVk2ZFp6dWRxUnVLQjU0MGlITkw2emZaZE9XbUZhS2I1dUdTRHZ1SHNVRWhtMVFQWTBRcmhZWl9jTU9OelZmRHdVenl2aFp3SzBIaDRhRlJxZTZoS0IwNjdBUWMwTlk5SkJzS0dhVUtiWnVHSnpEdW1RbmwzY0xmRGVRYl9uX3JJQzBtMzhzaUN1bS1qNlpyNnF2Yms3Y2fSAdcBQVVfeXFMUER1bkhxU0V1ZWY1RTVkZUNPcFRHQ28wazJLbVh5aDF5elk5RzVzeDVaeGRXTzY0SjVfcEV0Q0VOdHlLeDJBY3JXNWVpTHZqUHE5WG9MOE55MUpHVTdaNjh0NUZCczRqbHNZRjJrTXRjQUZLdmhfM19tZ3IxNGI3M3d5MGFRZGVwbEJyT2ZhaGxsUWp2bEhUSm55Y0gxY21wMFVqSXRqNGoza09teEYtM1pJWHMxS0p6NmVIY0d0TDN1Y0dOUS1zV2xkcVp3RzdnVUQza0ZtQ3M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Rhumbline Advisers Has $97.48 Million Stock Position in Marathon Petroleum Co. (NYSE:MPC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQblR2U1JrR0xVWnpCLTVQamRMcHBNYzdDbUdGQU44N0ZQWGF5OTd3X25CeDBVLWp4b2ZmQlVLX0MwZ3NmQlQ1WXRBYThucVpwV2VUQzMyMW1qWTF3Y092Y19yZWRGRlRJWmx1RHhKVGJPUjkwcUNfc3JVZFZKSVlHQ1dQbi11akQ2c2lWSHhFZnJxZWxNS2g0TndJSFJKbUdIUXhMM2wxdWxvSHBCZGJRSGoxNVdSX3BqVlFaYjZtVFkxM2dwaFRJREJFMjVubzg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum (MPC) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGFmTWFNM1NyWGYwZEdIOC00aXQzWkdpSG1vMjRHTmNKNm1DRjg0X19tN3c5VElGLWkwVXB3R25sUDAxMXlIeGJQTWFDd0hheFRyS1pybkFsbzEyc3kwU2pleHhjNzV0TEJ2VkVlcGpPSUQwb253WGpESVRJdmpsSXJUY2JkVlE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Mirador Capital Partners LP Takes Position in Marathon Petroleum Co. (NYSE:MPC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ3ExRFlyby1XU000YmN4N29Oc2t2Zk00R19wUjVVUHhCVjdacTZvbk1QYzBJV3doMEJYdDk4aEVoZWlyUS14VG94V00yN1puRGJCNlFFenRmZDBZRW9RZXNJQmt6UEFwMm45T1J2eklFWkt2VkpTYm9MX1NrS1F3azZPYlRMQTYtRFdJbWEtSlZ1ZlFwZnVDU0dHUkcwQWZMbEk4OWlXUkJSRzZrbTVTdEFYTkxPSkVOWUlwUEJhQ0dkS05vcEZyQzdrbmtXRUtfNzFNSA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here is What to Know Beyond Why Marathon Petroleum Corporation (MPC) is a Trending Stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkN1OWtZV3JsNWotUlV6S3p1eXdDaEhxS3hwN3YxRkdTeUVnX2tpempiTmdPbnB4OGEzVnlmZ0xVOGg0N3prbVcwMTY1TGNXbGZ2M3ZJWjFTcHhnbGdobXdMSWNJSUhZdENpVWVIMGhubGlkeFdCNG5jcFFTNmVDal9iS3pEMUk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Acquired by Rothschild Investment LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanVBMHVwSk1KQ09pRGRhdnRsRGRiNUNBWmdzeXg0dHl5TEd0QVRENFQxd281dk9WN1EtTzkxVzlFbm94ZFNkZno0dG1nOTM4OXp2bTd4WTJmWGZIZjctRmJBUUs0b3NUNnlPVWJRb1JqUEprdlhiaVlmYnFCSTZxUElZcFRDVE9leGhPTWhBT19Wc1FyVkpNNEp4b0U4QnB2OVNlUDNZR1ppRzl4ekIwZzlFdmt6ZHZUVGF2TVFpQ0N1aUVTU2xaS2J6UEE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Marathon Petroleum Corporation (MPC) Stock is Gaining This Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzM2RUV4bW5vXy1ERmpZbTNubU5vS0tPYkxQc3FnQmlpOWpkcXpmaTZ5dDBoM2NUVGQ5WGt6b05BOWVkVEVCN3dJSTBnaUpPa055NU9RVVBMX3JFYzNCSlA2bHFfV1Y3bmlxeXNXTUN0Q3ZPdkwxZFBIVUl6UzhRcGpFTGxMWEtBVnpPZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Rep. Robert Bresnahan, Jr. Buys Marathon Petroleum Co. (NYSE:MPC) Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFZ3cVc1cm9hS0JjV05Ua1lxbUkwcjVhS3ZVMU50N1RBQlZUamt6SjQwcTNVS19NbXNkNWlWcUNwSjFWMmhheXY1aTQyTEY5czJwd1FxSFNYYmF6NWV4d3BPeElQLXNvYUtDZWVrZlV6eGltM3k4RnM1OGlTc2hLUDNXNnpXUktTX2p2RVQtTlducUM2NnBBRGp4eTVVeHZYV3diaGdrUG9MQnZlZER4cXdrVzVsTzBsV0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum (MPC) Stock Moves -0.78%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0hzZ1ctLXRDUkxlTmhmMTZvTzBMTmE5ZTlhQVlHanhJQlV5WFB3ZVZOVkxBRUVGUmlCWFhPWXVOeUpoandTbmROVUJrUWJpcnZ3WW4xNWRUQkZrTERrNHZlR182YVotdUxmdEpXQ3hmeTlkcUtPV0VXNXBqcURrdVQxYTQ4aHc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Acquired by Wealth Enhancement Advisory Services LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQko3RXJOeEMyX2ZvQ2tYTGhRZjIyWnZXd3RUVm1FSUhvc2YwNTBVNHZiVWxEaEV4TVBfTTdhNDg1VFZ2dnE3RHR5bk42d2tzc21CcU9EV1NHdE42ZEFoY2xKN0c5Rm9nY3FmMVBfRVVFX0dXOUt2LUZMTklnTXlBb0o5YUFVSVhPNUxHN3FUb0IwZktkZW1sZlRxU0tubTVOWXVhd3BNdFpReDZqR3duYnVyaV9EdG91WHA1czI0ZEN0dThxSURCTXZyeWx5bjc2S1laejRIX1FDRkZVbDJVN1R1WnJJT0UtbVBSVDI0YlI0dw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Shares Acquired by NorthCrest Asset Manangement LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdkxVMVZMWUZkeG9aOW90WU1wVUQxcl9MY1RtbjJlbV82RnZwM05CU1FvRzNUZUtCS2F6WFhEbHdqWTNKT2xLQXo0dHFpZGptTzdTZzhHaHk5akRGZFAwUGtQeWQ4Qy1hOHhUQ3NOUUZvTUtnTklTdGJJT0RZLUlCRHNrbjJSMHh0ZUNnS3VIRjUzU0JQdEJENzVRd3VaeDJPNVB2QndKTndQZUcwTFR5NDA1YVpIZnJfY0p4RnpydlhsVW0wREhYYTV3MlNnV2podWxTUUxwMkpWaEZnQ3NOMg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Holdings Boosted by Granite Bay Wealth Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcjM2b0xNM1p2VXdtX1RHNVpRakJoczZ1dVFYVVE3Qkp4U3VUaEZWUkdGSGtoUzNJTzZpcHQ5V0R4aEJ6cDVuZThBNFowclFMMV90bHZ2dEpOQzRYaFRROU83d1l0LU05TThkX2VfOEh2QXN2OU9EekVPZFpkWTlNekk0Z3o2Qm1nck5jc0t2REpYWXlMMmVzVlR2RFd3S2JIUnJmdzc4NTZCS3AtbFRBR05hU0VGOVhqdm01RHU3azNqeEYxVWs4Ylctb2NJejdiZ1dnOFRpVTY0dWd0RVN2QWxYVQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Acquires 1,530,737 Shares of Marathon Petroleum Co. (NYSE:MPC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGdTc3JFc2stRVRDMkM1YWJRblJTdE9GdllzVnVfYnNkaDF4X05IbVhLNk1aLXNwOXZCMUZZa2lrYjFBSnpIbFdFRXVPNzdDbnJMUlZONFEyWGV1bjEtQWRpTVZxUE1YUHpXY1FZRzZsV1dFUTF5MVd2X1RrRGlJTVlsV1pTekhOdS1HTWtPakRiRE9pVS0wcUZWRXZSRE5DMTVxeUZUODZBWnlUZHlrX05Da0VjQks5RFYwaEptcHJoTG5KWHVEM0xGcnRFUGFhNzI0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Cullen Investment Group LTD. Lowers Holdings in Marathon Petroleum Co. (NYSE:MPC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQXYwdURpaWgtZXJkN1FERWl1ekJ0MDNvWlZ1OUVBdmxqXzgxLUN4Rk9DWmdxMUw4eTF3cVNBZlpDRkVjMTRTaUVYSndENGNSbHhuRTFZaktrQ2VUbWE1Qk92RmMwbXFtdVRHUTFBQjhfS0V4VWphaHZNTVhia2ZDYkd5UU5WSEpPYmhrS2FWMlJsRXMyRFdaSG82OWFwem1iUFlfRHlCVks0NmF0NnljajNqcm95WjZCYW9BQUQ5bC1zRXlUZFA4cWpSd0t1VzBhQnk2b1M2N0Ria1E2NE5XYkFyeUFTT1k?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Stock Holdings Lowered by Janus Henderson Group PLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlQ2ZmI1NmRyaEc2LXJGN01wSGx6M00yUzBDd0lpbkRmX2hrazY2VmowcFRkdUluVzJqMGY5V2VwUG1MRklGSGhTZlR1TGlGX0V6TTRMUjFlYmpGazQwb3BMUE5XUElaRUlZM0lRZVdUemhiWHliem5sSGV6bjVCSF9ETjVkYzJBN21DNlVYY3ZYYnoybk9pQjJzajhyRlFKTlpfd0diS2JsZDlVdEY0YmNPeUF0OXkwcmhpRHFvR3Q3Umo4dE16ZTYtdFl0dHBmQXc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Marathon Petroleum Co. (NYSE:MPC) Receives $175.29 Average Price Target from Analysts - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbkhoU0JfUmp1ekxWeVBoMkZLWDJ1M2R3ZTNLQktYZ0V6OVlLalVVb01KLXdZVy1WeFdtbEVMb21IeFlxRTZTTWlLRkE1by1BVkR4bjZvRzlnZ1VrVUVSRVZwZUZ6LXQ0eWIyTzFJMUgydXBwMEZuRTdfVS1qSlNzRmM0SWFyTXlmZzJ4bnNqRnhSRzBHYXJOV01qR2FrS0RlWjVCSUFOMzcwSHhzYVZqejI3aWoteTZUdUhZVnNtNG9YTTV3bGwyMm16RG1kNDQ2cHNnc29RM0l1QQ?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 157.41
-      },
-      {
-        "date": "2024-12-03",
-        "price": 155.49
-      },
-      {
-        "date": "2024-12-04",
-        "price": 150.4
-      },
-      {
-        "date": "2024-12-05",
-        "price": 150.1
-      },
       {
         "date": "2024-12-06",
         "price": 150.94
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 158.39
+        "price": 158.75
+      },
+      {
+        "date": "2025-06-03",
+        "price": 161.97
+      },
+      {
+        "date": "2025-06-04",
+        "price": 156.95
+      },
+      {
+        "date": "2025-06-05",
+        "price": 158.21
       }
     ],
     "current_price_data": {
-      "price": 158.39,
-      "change": -2.43,
-      "percent_change": -1.51
+      "price": 158.21,
+      "change": 1.24,
+      "percent_change": 0.79
     }
-  },
-  "news_sentiment": {
-    "summary": "La tendance cl\u00e9 dans les actualit\u00e9s r\u00e9centes sur Marathon Petroleum Co. (MPC) est la transition vers un \u00e9poque de croissance accr\u00e9tive. Les achetes d'acquisitions par des institutions financi\u00e8res de Marathon Petroleum Co. ont \u00e9t\u00e9 signal\u00e9s, notamment par la Cullen Investment Group LTD et le California State Teachers Retirement System. Toutefois, le stock de Marathon Petroleum Co. a \u00e9galement subi des baisses, ce qui a contribu\u00e9 \u00e0 une sentiment de march\u00e9 mixte.",
-    "sentiment_score": -0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.3,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

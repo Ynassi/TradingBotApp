@@ -1,56 +1,164 @@
 {
   "ticker": "ZS",
-  "name": "Zscaler, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 45556649984.0,
+  "market_cap": 46845812736.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 15.491602,
-    "PB": 25.111568,
-    "EV_Revenue": 16.072,
+    "PE": 15.77421325,
+    "PB": 25.953592,
+    "EV_Revenue": 17.45,
     "ROE": -0.02676,
     "ProfitMargin": -0.01523,
-    "GrossMargin": 0.77454,
-    "DividendYield": null
+    "GrossMargin": 0.77463996,
+    "DividendYield": null,
+    "DebtEquity": 68.101,
+    "CurrentRatio": 1.236,
+    "QuickRatio": 1.148,
+    "FreeCashFlow": 733933504,
+    "OperatingCashFlow": 925406016,
+    "FCF_Margin": 0.28818354849637173,
+    "ROA": -0.016139999,
+    "PEG": null,
+    "EV_EBITDA": -608.076,
+    "BuybackYield": null,
+    "PriceToFCF": 63.82841562714652
   },
   "technical_indicators": {
-    "RSI_14": 83.57473936306698,
-    "Momentum_10": 16.341950736984344,
-    "MACD": 14.2202593403959,
-    "BB_Percent": 1.254193657434986,
+    "RSI_14": 85.39901498921849,
+    "Momentum_10": 20.97137480142777,
+    "MACD": 18.6410732341798,
+    "BB_Percent": 1.006817956415324,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.901395690147188,
-    "QualityScore": 0.4127268139993494,
-    "SignalScore": 0.1547963237265864
+    "ValueScore": 0.9002212551283562,
+    "QualityScore": 0.4127404595930184,
+    "SignalScore": 0.1959504500274181
   },
-  "volatility": 0.0300452187161623,
+  "volatility": 0.0295780163756318,
   "beta": 1.089,
-  "return_6m": 0.4032900763129741,
+  "return_6m": 0.4193122179645154,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 43,
-    "target_mean_price": 283.0365
+    "target_mean_price": 287.7807
   },
+  "news_sentiment": {
+    "summary": "Zscaler (ZS) a connu une forte hausse de 46% en 3 mois, avec des ventes massives de parts par un directeur. Malgré cela, Piper Sandler a dégradé le titre mais a augmenté son objectif de cours. Lancement d'une plateforme de sécurité Zero Trust et l'éloge de Josh Brown ont suscité de l'intérêt, tandis que le titre a atteint de nouveaux sommets et est en pleine ascension. Les avis d'analystes sont partagés entre Zscaler et d'autres acteurs du secteur, mais la confiance des investisseurs reste forte avec des gains significatifs récents.",
+    "sentiment_score": 0.15,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.75,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Should You Buy, Sell or Hold ZS Stock After a 46% Rise in 3 Months? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WWnNCNkZoU0p2cUdmelR4Z0FOQ1ZsX1VjaFdIZ0RTRzlFZUYxMEx1M3Bybk02WGRZeFFJS0pCS3hiTHBaREwzWWs2d0c0bkJWamxIZWM5TFU1Sks3UGRRV0ZfUVdTRFlJRmxTUGZJNmN3emdUWDVB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zscaler (ZS) Director Sells 17.8K Shares in $5.2 Million Transac - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWjFuVy1TeDVDUEgyQzZRcUFnS2Qwc005RWdXVmhOT0l1SEJkYXJEcmpraGJ5bkIyay1TQTUtanZodzNIbUpCOXFIY0NZVlRVY0o4Q28tODhmR2Eyams5WDhHTGhGV1Z2bHVvRkRmeS1IaVNGWVlxRG05UU5QNmxuR2MxNlFiN0JIVE1MbkhFV2kwdFhkcVh2THpmR29MenZzU19BMV9nRE9SMTMyaDE1QmlUT1prZkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(ZS) Investment Analysis and Advice - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTk81Wm5xOWpTZWlNSzZKaEFMNFFENUtOdVMwelNKb2lWR2R2UjVLNU1YT3VYRGdINHBWVnYzTXBpZXh0T0VwUE9ZQmdIUnpGZFZtcmlRaFoxSjN6R01YR21rS3o5WV8wMGR0V21JelR6cWoxR1pMcUNnMjFRTkhIZF9wNFAwVVBRTThZQ09ETlRyS2tUSktZRjViVHE5RzQ4NEkzTi1rbHppLXM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Piper Sandler Downgrades Zscaler (ZS) Stock, Raises PT - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjNrMWhKNUozLUljaEloRHU5TXd5cEVySkhja2JpUnlNNmhLRFY3ZEZLSXE0NlczQ3hSR1kwcTZKenZhQ2k2clV6anpMMXZTZUN5WHR4YUE5dXc3eHMzNTlJZXNJZTZ5RXZTUWc1dUJaLV85WFZYNldlVTFuTm5uX3VubGtNajAtaDltTjRWTHNzTWtTeUtwV2paeXh2cjhpMUhUZVhQM0lzSThXOGFoZHBzWi1pemJTR1VsOEtVSV9DWXJzVm93TlNDOA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Zscaler (ZS) Stock Climbs Over 1.5%, Continues Strong Upward Trajectory - Daily Chhattisgarh News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWVCZk83WlI0QW1POGh4amltcjlTc2xldzlCNzVNMWtyV3hCWG1UczNOSHU5R3hQTVhjVW5yeU5vRE1ZYXF6ajFFdldpTF8zUWhfbU5mTURpaWdCazlDa3M2WUZGTFNEMXNPanFwN2FvZlpCRExzMWRNVzZFRThubGZUOFJyWENrRWZLbkgxSzdJd2ZfQjlDQ2lVWUFPbXZmRndJbEdFa2JQc1ladVhkRDhKQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Zscaler (ZS) Receives a Rating Update from a Top Analyst - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdzc0NjJwOW1oc3hSblQ3aHl1ZmNBVlAwVHl3a1AwYktjV2Q2SjYxWTFKaVdFaEltR25JSmU5RmdaSk0wUF9EWW94N1hRcFpYellEOVV0MGZRZFc5Vmttb2pKcVZLd0gxTjh2anN5Y0kyS3lLMUVSaDNtdWhqbDlDYW5uNE5KVERFX2wtemlfTENMWTlzNEJhWDA4TnZITDZzSzBKcHR3eDdYS2lWMnFDNFlrZVFKc1otaXJHVFVxdXQ2Y0NkZ3ZOSUdEMXJQeXJwdHc4Rg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zscaler Transforms Enterprise Security with Zero Trust Everywhere Platform Launch - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPblRKMmYwd1F3cE95Y2JvcXYxTXhWOW4wdEtoSjlwVktQU3E1YWxYcy10bzU4SkFsTG0zZjkySHYxaGdhQ3JidjhvYmhPTFI4cHRxZUR6V2FLMG42VFQ4ZHpzYmJkTHhGWm5Ib19WSWtVUXVNY3RLYkZxNVpKZTBtdkR4NHdybEZhajdhRmZuV2pqZktYaVpjRnhKRWd0UWhLNWZyQXBsUHV4M0hTQ2VRMjB0Nk1iZXJtZWtr?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Josh Brown Says Zscaler (ZS) ‘Dominant’ Cybersec Stock for ‘Years to Come’ - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0Z09PblNVS285VE52ejRNb0xnNlR2eXlrUlRQTTdwTTBSTjNRVVNTWlBFTGsxVWhFUzZROXZRbDRKeTJTLUlDYzRzaTczWjROUGhJTm5EanFiOFlkajU1b1ViaWp0blZrY3NOVWMwVWZOZkNBeHplMF9ncFU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Analysts Offer Insights on Technology Companies: Zscaler (ZS) and CrowdStrike Holdings (CRWD) - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQkZFT25oMzFWaFBsTUZJanJjeGIwbHdaX0lNZ0t2RmpPVmNRLXpKOVdxMGtkSzVJZmtwOWwxWmJPVHkxMFY2cEp1ZmtfYW5tVzd3SlZlWjJBMGRIYW5GR3BENlVGN1ZJUFRwaVBmWWVJQlJFRFFSeTFlWWtMSEhWVE9zUnN6MlRmNmw4dWVTZWtCWHJDamY1eGFmbVRZRVNSbGUtSkNRV1JGZlAtRXEtaEh2N3RGRjdhSTZ5SDh1RGM4ZEs0NDI1a0N0R192eXR3dTVSdW1LZG9tN3E4YTIyOXEtSlNLeXJNeFpSNTctR3IteHZBQ3ZSYWYzREk3VnpUT0E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zscaler Revolutionizes Enterprise Security with AI-Powered Platform Processing 500 Trillion Daily Signals - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWNjR2FyUGMydk1rVmI4dzBaWjhsY3kzYlNhcUo2cGRZQXZJUWN6a0ZsMTk2U2JKVklwQ1ZkeGE5N3NYS05BNzZJSUJUTDRLZ2YwamptTHl3U05BQ29OeDdNWnJrZ0lTbzBxS3RqQWZ1TzFmdENwZzc1VTUzc3ZoalZpYWt5RkhPTmtzMmNGMnJRQ3R3cmNFY095QjlfblozRFRoTk1YVFQtOE5fZDdJejFKWFlCZEl1NnpHcA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Are Zscaler (ZS) Shares Soaring Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRG5hOXQ3dkdxWC1SdGRBSmNoRUdHZzhyVlh6UFZXcy1BVDR0ZnVRNXRhZHpsUjhlWGxPWXVzaWRhT1g0QWoyaUZFQ3ZpYnFHcmFLN0d2ZlE3U3FlZm9zTFdEbFpaN2xza0dlRzBYZWFwMXpMcWZfdWdEU2k1LUIweQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "This Top Nasdaq-100 Stock Could Hit a New 52-Week High Soon - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM1ozOVVVWWFMY1BSZzVRX2tfSlBlUGtHS3Q2MV9uZmxQVDlmZi0xYjlPdmRZYmdaM3o2Rm5wWHFhUWo2YXlQVFpUd1lVbVc2SERxUlJiZ3ZVRXlWUmxtdnRPQnBFbVl1YmhKYUpMQXlaOElNY3hKbnZyTUhmbHlmTzlQa29XRG82VmdJV2VEZEFJak1KMjFkcll3Z25pbmprcjRGSklfODBhdWstWEFDQXVIM1R0YjJxcVlIeHNad3lPR04zaHVkd3FVNWZrMDJVV2otaklR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ZS vs. PANW: Which Cybersecurity Stock is the Smarter Pick Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbnJFQ0VxVURlcTZ3S3g0WkxTcEpyZko1UjMwRVZmM2xid0wzTnhMZVg5VFBTR3pRMEpWdUYxdWxMa3dCVDdYSldsbnc4U1diMkZYd3B4VkYwdWZpeFJROTVwWExCQUV0NkVUbFhUd3R5SlBLZmpTWDBHalRWUWpYdFd3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zscaler (ZS) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XaV9fVUdrcmVzaG5ubG5fNWQ5bWxsZk5fT2VUQjZJUWVqeGpQNGl1dXdaLTFmZ0hRMU9oRkk5aDlHRFEyTllyU0N4ZWNpUFhaM3V2bDBGa1NyTmxIclNaazJkU1JrdUpXSjJSMUdpQ3RZXzRsY0gwalJxMDFOQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wall Street Bulls Look Optimistic About Zscaler (ZS): Should You Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVENZYWFnakpveXNIOFp2U2FjMEd6OFFHZ0RfNU1RekZHaW5UOEdFUHlMYzRwX00tNXd2UEdvT19sOF94NWlYNGhPd3ZSMkNMTUNaLXZUTmxNQjRkLWptWWk5bWdMR295LXBsVU9uWkp5NWljRjk2bVRpUmszZkphX1pSTnZSdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "$ZS stock is up 8% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPenpJdXdQd1ZSblNqRDZsNnB5QlZDWjRWQnE1YXRCd0JGQVhCbXNmOG9UbXRtNFVNNEZscWtJdTZaeE5HLWhKLXpCelZSaUp3UmQwdHlaSS0weERtQ0VTalUtQXFXSDVBYW5nYVJWQmRwdWNhejdBZEVSZFJ5cFhHUg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jefferies Maintains Buy Rating on Zscaler (ZS), Raises Price Target to $350 - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0hMZlAwQXRadmRkdzh1VVR1bkFyQlhRU2Jaei1ORHkzV3Z5eVFfVnk1dko2ZkNKaThpM2Vsb3dvNjdCUFJOX1BYTFdMcGNRT2diMUZuZ0VySFdKWHA4QmNXV1V2cTJyaFgzRDZETFFDakh3Yk12bkx5XzlwalVXbnBTSnB6UWRDUFdmdGtUYXAzZ2VxTGpScDFyXy1JbVNoMGlVQkhSRmpFS1U4WFFSdVF3aFRDQdIBvgFBVV95cUxOeFFNTGYyNmM0cXExVVJVbUwtMnpfaFlObzNQT1U0eG9FbWpwUnNwT3BiZEtpUHZ0YVdGLUh1dHZOLVhsdUMtdjA3N19ERjJqMkNVdEppWWVOOFduSVZ0cnJXa2tQcHpjbm90ZGM1endvSWotTlphOEdaMlhVMUpDUk9VczBaN0JPb3BoN2hjbU5TdUFDTFRJTjEyN1pKZ1hZV1Vyb1hfdjRvNVBjcDhFSTczYXdjWHJ5Z3UwMmhR?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Here is What to Know Beyond Why Zscaler, Inc. (ZS) is a Trending Stock - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUTJSVGVIbEZQbDFNZVJzcnM1YWVDYWQ3NzB1ODg0c0d5ZDBDVExKbGlkdWtuUHhPbi1hZ0NjZ0t5UXJ0NjZsQnRqQlJOY0pwdW54aE01bnhLcURsYXM0U2ZSc2IwQXhjWWo1Zk1sbllrMWRXT3EtV3lsdUhWd3BCeVh3SkViNHZfa0drOUhTNDdsZlU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Trending Stock Zscaler, Inc. (ZS) a Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVk5eVhyOU1pMVlVZndWOVNmRVA2aXpxNzRkQXBhLUhMbl9fOW14UWJRZ0kydzNIa1kxRWtEZ2t3eUp2VUR1cXdBMVBnM3J4eFZuM3JXRUNCVHRfdXJKcDNrWk8yajJfVnlOd1JIRC1zOVRkdHdvRUh0aDEwZEFIeA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Zscaler (ZS) Stock Is Trading Up Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NTZjUjJDT2pCX2RFYXU5MjdGRzV5VXZKTmhLTElWbXgzb0VUX0dGZk5GLUM2aFNkeDR1Uk5uc2hMaTdjcDJjcllfbHpubUwwM3ZLQ00ydF9mUjBLcUQ0ZWsza3F2bWlHd2tINnFYaDlqUlAwSDF6dlhzeDJLZFk?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 208.51
-      },
-      {
-        "date": "2024-12-03",
-        "price": 198.64
-      },
-      {
-        "date": "2024-12-04",
-        "price": 206.36
-      },
-      {
-        "date": "2024-12-05",
-        "price": 205.61
-      },
       {
         "date": "2024-12-06",
         "price": 211.99
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 292.89
+        "price": 293.18
+      },
+      {
+        "date": "2025-06-03",
+        "price": 295.03
+      },
+      {
+        "date": "2025-06-04",
+        "price": 296.85
+      },
+      {
+        "date": "2025-06-05",
+        "price": 300.88
       }
     ],
     "current_price_data": {
-      "price": 292.89,
-      "change": 17.19,
-      "percent_change": 6.24
+      "price": 300.88,
+      "change": 4.03,
+      "percent_change": 1.36
     }
-  },
-  "news_sentiment": {
-    "summary": "Les titres d'actualit\u00e9s \u00e9conomiques r\u00e9centes concernant Zscaler (ZS) stock signalent plusieurs tendances cl\u00e9s. La premi\u00e8re tendance est une hausse rapide du prix du stock dans les trois derniers mois, avec une hausse de plus de 46%. Cela a conduit \u00e0 une hausse des prix cibles des analystes, avec un prix cible de 305 $USD \u00e0 Piper Sandler et de 292 $USD \u00e0 JP Morgan.\n\nLa deuxi\u00e8me tendance est la forte popularit\u00e9 du stock sur le march\u00e9, qui est consid\u00e9r\u00e9 comme un stock tendance sur plusieurs sites financiers. Cela est attribu\u00e9 \u00e0 la",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

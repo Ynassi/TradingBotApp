@@ -2,55 +2,73 @@
   "ticker": "8830.T",
   "name": "Sumitomo Realty & Development",
   "sector": "Real Estate",
-  "market_cap": 2651119681536.0,
+  "market_cap": 2579631964160.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 13.717573,
-    "PB": 1.2317569,
-    "EV_Revenue": 6.318,
+    "PE": 13.626716,
+    "PB": 1.1985425,
+    "EV_Revenue": 6.302,
     "ROE": 0.09087,
     "ProfitMargin": 0.18899,
     "GrossMargin": 0.34634998,
-    "DividendYield": 1.55
+    "DividendYield": 1.54,
+    "DebtEquity": 179.508,
+    "CurrentRatio": 1.415,
+    "QuickRatio": 0.154,
+    "FreeCashFlow": 17065124864,
+    "OperatingCashFlow": 253171007488,
+    "FCF_Margin": 0.016825545872175857,
+    "ROA": 0.02533,
+    "PEG": null,
+    "EV_EBITDA": 18.451,
+    "BuybackYield": null,
+    "PriceToFCF": 151.16396655273837
   },
   "technical_indicators": {
-    "RSI_14": 64.0816130846442,
-    "Momentum_10": 6.01644245142003,
-    "MACD": 35.922858898664344,
-    "BB_Percent": 1.0627389785911674,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 53.74442409139032,
+    "Momentum_10": 4.802581624905088,
+    "MACD": 42.100426779318695,
+    "BB_Percent": 0.6517701030202437,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8821002588783291,
+    "ValueScore": 0.8791060804278052,
     "QualityScore": 0.4039784425604418,
-    "SignalScore": 0.5012483004236428
+    "SignalScore": 0.5358474116649579
   },
-  "volatility": 0.0217238443729096,
+  "volatility": 0.021796347392356,
   "beta": 0.592,
-  "return_6m": 0.220980474360712,
+  "return_6m": 0.1747358924002111,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
-    "target_mean_price": 5900.0
+    "target_mean_price": 5936.364
   },
+  "news_sentiment": {
+    "summary": "Malheureusement, il semble y avoir une erreur dans la liste des titres d'actualités économiques que vous avez partagée. Les deux titres mentionnés ne sont pas directement liés à une entreprise cotée en bourse. Pourriez-vous s'il vous plaît fournir des titres d'actualités plus pertinents concernant une entreprise spécifique ? Cela me permettra de vous fournir une synthèse précise et pertinente.",
+    "sentiment_score": -0.5,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Boeing shares fall on report that China has halted its deliveries as part of trade war - CNN",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pMFdFM2dCLXhlSzZuNC1UbmN5NmNTclZLNXNUYUJtUXUtT3pQcU9rSEdWdV9qNDBQdE9SSDhhNjJYTEhnRDkxTHVfdFhqUC1ISmtzT2YtbTJKZm9vNFNUUXVSUm5ZVmxrN2pnaE82VG7SAXZBVV95cUxOTzMycS1uZTRFU3dIU2VSX1E5UVhEa01ySkl6aUhXRUM1dlh5dF90blZLZmNKRFdMVzhCSHVQS2xDUmRrTFdPUVhDemtpLVNhblVzdjlDM2Zpa29Mb2JSRzFHd1NqRElWUS1DTDlBR2dHQW96ZXJB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Inside the secret, often bizarre world that decides what porn you see - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yTlJjWjRSMkdoYWZGd1kyRTBCaVloX0xGOXFlQ3NVU1AwVnlCdWstSkxreEFzQWNpdFpaMk90Zno5LS1qY19tb0d3WDlzTUJsWS1PZTU3Y1JDYl8xWFdXSk9fWjVzWllYSWFFODFWM0s?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 4674.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 4758.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 4728.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 4727.0
-      },
       {
         "date": "2024-12-06",
         "price": 4686.0
@@ -514,24 +532,28 @@
       {
         "date": "2025-06-02",
         "price": 5674.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 5548.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 5573.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 5521.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 5490.0
       }
     ],
     "current_price_data": {
-      "price": 5674.0,
-      "change": 119.0,
-      "percent_change": 2.14
+      "price": 5490.0,
+      "change": -31.0,
+      "percent_change": -0.56
     }
-  },
-  "news_sentiment": {
-    "summary": "Japanese stocks close down by 1.55% and Boeing shares fall on news that China has halted its deliveries in the ongoing trade war. These events suggest a negative sentiment towards the global market, but it is important to note that the impact of these developments may vary depending on the specific circumstances of each individual company. Investors should carefully monitor the situation and consider seeking professional advice before making any investment decisions.",
-    "sentiment_score": -1.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.0,
-    "negative_ratio": 1.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

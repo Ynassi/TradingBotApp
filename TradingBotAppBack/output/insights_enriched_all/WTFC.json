@@ -1,56 +1,164 @@
 {
   "ticker": "WTFC",
-  "name": "Wintrust Financial Corporation",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 8006537216.0,
+  "market_cap": 7957343232.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 11.844059,
-    "PB": 1.2936628,
-    "EV_Revenue": 3.255,
+    "PE": 11.7596445,
+    "PB": 1.2857143,
+    "EV_Revenue": 3.27,
     "ROE": 0.11578,
     "ProfitMargin": 0.29232,
     "GrossMargin": 0.0,
-    "DividendYield": 1.68
+    "DividendYield": 1.67,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 770185984,
+    "FCF_Margin": null,
+    "ROA": 0.01129,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 56.84479262690608,
-    "Momentum_10": -2.1872469215113113,
-    "MACD": 2.152503212537141,
-    "BB_Percent": 0.5337222577406338,
+    "RSI_14": 52.85744575990186,
+    "Momentum_10": 0.6433608345897756,
+    "MACD": 1.8322523585186443,
+    "BB_Percent": 0.3293432081974647,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9337459247233804,
+    "ValueScore": 0.93294092190653,
     "QualityScore": 0.3807375220651019,
-    "SignalScore": 0.4508682016094189
+    "SignalScore": 0.5344104753810359
   },
-  "volatility": 0.0231434625231883,
+  "volatility": 0.023381944994591,
   "beta": 0.817,
-  "return_6m": -0.1214539873395592,
+  "return_6m": -0.1234041361110817,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 13,
     "target_mean_price": 137.3077
   },
+  "news_sentiment": {
+    "summary": "Wintrust Financial Corporation (WTFC) a récemment annoncé avec succès une importante offre de stocks privilégiés, ce qui a conduit à une hausse significative de son cours. Malgré des améliorations claires dans l'entreprise, certains analystes estiment que l'opportunité d'achat s'est estompée. Néanmoins, plusieurs investisseurs institutionnels renommés ont accru leurs positions dans WTFC, ce qui témoigne d'une confiance persistante dans la société. Les recommandations d'achat de Jefferies et les dividendes en espèces récemment annoncés pourraient influencer positivement le sentiment de marché à l'égard de Wintrust.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.05,
+    "neutral_ratio": 0.9,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "GAMMA Investing LLC Has $30.15 Million Stake in Wintrust Financial Co. (NASDAQ:WTFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc0JKaG1fbk5CT3BZZmt5UUNfSzZ4b3lUeTk2dkQxMzFQdHBNMDdqNWFlVjVqdjEtM2FnQjhBVkU3amotY0dIZnhLcDVRMThBTFBHU3pRMWVxeGQwZzZlWkFlMXVnM0JMcnYyXzl3ZHRQSlZyd0wtWkVoRTEwSExkeU5iYWF0TzN4ZGoxWUE0WFhaRV9zRkdsLXc1STNWUlc1SGxhOGpKOGN1NTU1Sk1JcUkzWjRBbElTTDVaQjJicDIxa2o1QUVhUWJsbU91bE5mcFB2TElB?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The Preferred Stock IPO Market 'Unfroze' In May (NYSE:FOUR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV1prTFhlMjQzWTBNdkNKdkNRVDJTbkI1SEVwZG9IU2l5YUFkSlZQZllXWXBqQ0k3UGpiLVZkLUY5aWNQeUpXbVZnNk5IUDRNdFVORTEtYnVKNGJCZ2h2bUptOUJhMG0xWVo5cUJpU2Ixc1lPUmI3dzJ2X3UwN1JyWnhKeUZnaEFTcTZLV2pLYw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust (WTFC) Soars 9.4%: Is Further Upside Left in the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2M2g5T0FnMGh6MndJYVlyVUcxakVkUmdlVWNvVWhOSW8ydUNSVkpFNGpZX25YTTdCN0I3YWhVeWZBMEQ4OUxodF9yTnhZRE9CdzFpRWJzdlFDYm12V1VSQmU0WWx5M3gyVDJ6c1VsYTBLMXpXWHdENA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Wintrust Financial Corporation Announces Pricing of $425 Million Preferred Stock Offering - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOazA0VFpkdG1kYUJOaTRDNVRLNnB5LUJESlY2b2JLYWxObGlVS0xmVFp3OVc0Wk1JbWlCX1ZQU2o3a1E0UkpjUnJuUWNvU0pMeXNGTDFPMk12MWVUeE5YNWlJWVRpb1NsRENUMnJVRWx5aU16R2ZNd3pKUjRoWVNNdEdzT2RZOEVFem8yQWNxMGRYVGtxdHdOYXE1S0dyRU40UUVXblBiYWZjUkRUN1hwalN1eFRWTThzeVphbUdnamNDSlUxeVpIQi1JcEpMMGJOblFHT1kyWDB0OXh1VnllWDJvS1ZObW84ZDZTSzJ2V3VxQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust Financial Earns RS Rating Upgrade - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjBfOGp2NEFMS0xLSmVXSjVEak1HZjRPNTl2OWxHQlNHSEtmMzljU3ZKMG9UUGRZMWdUZDQ4OXYxblQ4VFJuWHk5eTFlSGZwRE5rRm1SeHM0SE5fVDB6TGtySzJfeUctQzRWdFBYRkcyNFU1SlNKM0dEcEpVV2xBcFluaExhcjdxYnlEbVBrYw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "GTS Securities LLC Takes Position in Wintrust Financial Co. (NASDAQ:WTFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM1JlTV9Nal8ydUNKMlBZUG5JZUpEM2xPclM5eU5wc0txQ0kxUG5Ibk5oVEpDcmJyQ1c5V0lWZGlYT1RVQUZ6SUFRT1AzT0ZWZnBZUkFTUHhWbWNhT1pIZ1dwR3FrYTMxX0tZeXNTZnFzemNvd1RpMk00TDZHQlRvR1dTbWFqbjRfN0wtT2taOUMweDV6TUtsbDBSY1VYa2hxcWNBRHNaNnU5eXpPUjhVY1V2SEZudkxCLTFuVWtPcGlEOXI5QmFkalRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust Financial Completes Major Preferred Stock Offering - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDQ1dUF2X0NDRVM0eGNZeVBMVlhLN3hyWnZJWjhpdTBrb25TeXNTcENCZjMwNVZTdGZkYjg5UWMtOGNuM1dBVXZxZnpDbmlReU92bGpKRTJrYzJzYTlxY2J6SmlocEIwRFlaUWxucWhrRE9RZ2Z4MkJrUUJQVjBzbmhIOG5wbUppQ05uTDFoem5kQ2dQaFZKZkpZNDFMVTljdnF3VG4wQlowU1NjbmdoOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "KBRA Assigns Ratings to Wintrust Financial Corporation | WTFC St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM3R2OFNmbkVxcXo0dllXb3hmbXBQd0RlVm1nY2hzZ0ZNc1RQNDhhbFV5eE1yLWQwSnNCaE9QUzhQajBNM1VjR29jTXdKdHdpZ054QTB3Nnp3T2I5dUZndHU0UWxxVzlhcmdWdkpDdlJQOW5FQkk1eEY3b0lOWGNaSW11MnJCWmZpajZyUS1ucWtzQVU3VDZTWWtSaFRjX1V1cXV4Yi1DZmRVc2V2OVE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Trend Tracker for (WTFC) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUd1TXA4LU9qNWFXalBsTlU3ZEJNc3ZZN2d1VGZya3VtMjhQVkw2ek1uamJxRVA3MWg0VUtoNzg1a1QzVk1KeThCSWFlalBuQmZTbk94X3VlOFdta3UwNnVaRGJkRHRGeTFRandCSU1tcDd3a0o0TUxhd1ZMcm5SU0JRX3U3bVFhdmQ5bzhYRUxucXVfWXFRWEJ5TmotZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust Financial Corporation: Clear Improvements, But The Opportunity To Buy Has Faded - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXBzb2xZajhJdXpRNHVObUdZSGdURUJqYjdsWnJILW8tb3Z2MXpUYkZXb003TFh2SWxybWswRXlyRENnUlpmUm9odEUwcTdrYUNDY2huOGEtTi1RNkJRLVM2ZlYtM2FGbU80cGVlRWRNcjhKQXdsLUlsMjBXTUVIWFowT1o1MTNMNmNjeW1xcXVDVWxDdWNzRDFqU09OcVZQYm0wLUFZUGRSRmc3N0NyX21nWTFEa2xaLXUteUNvSTNNX0VuSUE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ProShare Advisors LLC Sells 2,688 Shares of Wintrust Financial Co. (NASDAQ:WTFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOVM2T2JDSTFXbERaUngtc19NVzdVMXMwODlXaDVmVXFhMmNJa0d5SUNmajVKTFJFdE1GR2NySlh3MzUtR080V041eDJQcG40eWRSdWktYzlBY3pDZXRZdnoyU2lsRjBmaFp3MnI5ci1FQkE0RlM2RlhSMkhYTnZPM0ZSQXdQZmU0aEtDTDhxUG8wUkVnYVhBM0hjenZWd1NTRi1lQ1dtdUlPaVl1SnUxd3k3SnFESHRTTVpzNEd0cHFJUUJOTGg0eDl6OWRKTzRo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust (WTFC) Reports Q1 Earnings: What Key Metrics Have to Say - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU1BBS285dGpPdlZzam9iT05xQ1NKTFJqVUZXdW9nbTJ4R1IxUkFuU0stMV90bnhiM2RqRlltRzlhVU1XMjJXV0lWSWVzYVN3b1NwbUE0dHplOHlNY3Y0TjRBVkExNHRKOVFNYXg2ZEE1bmZLQTlvbHNBQzBZVl9kaUhVRjI2Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust Financial Approves 2025 Stock Incentive Plan - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHFEMWI2aG5zNDdMSlVTd1pVYjh0X0tmalFqOG9rWXFBcVFpQmZGTTZxYkx3R2dPcktPYmU3Q3d6VGlZQlpMZ3V6U3hZWC1ORjZBdVJ3ZWo5SlZHblRHdHJvTWt1TGxMT1d5RlhLYVVQSGN3VkhxYW9qVWg3V0FyWFJuTV82OU16V1I1Y2IwZ0xxeUZ6MGVRemNTWWxjZWwxVU1aX2tyYUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust Financial Corporation Announces Cash Dividends - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFY4aENWSGl4bWswRTFnNDR1czZmaFAyWGhSRHk4OVRzTjU1R1R2LWR1OHJETXNsUEZoZmFmQ2tZMGJ2Vk5qNWFsUFdyLWJmOHZBQzNUSGhxWXpWdGZGb0cwOW1uYUJFUjBIV1ItcUtfMEdHdUNtWEk5eHFSN29XNlZQLWVJcnhKdHc0M2VNWFhmajQ4QTI4anhiT1g2V1l4d0FEdUFNQjZiOEJ1U203WnYwQTF5cEZ0ZmxKZF9udWhPRERiemc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Initiates Coverage on Wintrust Financial (WTFC) with a 'Buy' Rating | WTFC Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUmQ2OGNMZVdhTWs5Q2tIWU9VaWNpYTR4OEJBVGliN0R2b3E4SDZnYzNWdWlaWVVXbGUwOS02T1VBMGdBRFp1ZHRRT3JoN2ZRTzE1UHVUaTIzRC1JeXZDSFNPajAyNGpLODcwYXhsNnlWdURaMUgwUDYyemgxMTViWkNUNXRQVnljbDBNLTluQ18tZS1fek5pUmxSTW9sUWhZWVJaeklUenZycV9yY3VDcGVrQWo1aDluT0l3ZUMtWjF5Qk1yYzZN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Wintrust (WTFC) Q1 Earnings on the Horizon: Analysts' Insights on Key Performance Measures - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeURVM0RqQzZtVE5IbGtuNUxac2tVUDJxSGVIdWtFQ2FPYnhVaV9ldk9XOHFWd19qU1M3aHJGZk9KU3NtS0g0Q1VDbmNrV2JodGJPUDdFbHZqYTdLNmVCTHhLZWZVWkFBb0Zzd3J6YkJYVlB2djhHYTZ2VVktV19NaWl4WThoQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Jefferies Recommends Wintrust Financial (WTFC) with a Buy Rating - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcVQyYnBHNGJheXVhZjF5TTY2OXY2ckYwZ1ZkRXpHOER4WGJJXy1kQnBGVHF2bVgwcHlWRzVaWlFESmNqX2FvM1lJTHhDNnB4OXZZQ2lSeml5QVRpdmc5MXZqanBTTkVyUTBvNURHajAtelU0QV9LaTZBNHlqcE5NbVRYVHhWR3ZrMlQyQ191dXAya3ZtMHJLVzUwRmhBWmtiaEt0ajI5dEFld3h4NE9wUE5kbWUxSi01?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Purchases 27,892 Shares of Wintrust Financial Co. (NASDAQ:WTFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNal9XMllBb0M5dlRuX1RlRU8yaXNFME1MN01kbFVza2JOTlFoM1VYbE1mMngydTdqV3BOU2l6RHNCZ3VCN2NPUUpJQ1RCSFpLSmJnVXgxcUxSN1M1MVlqZmY4bFZ2bGxpR2hCQlQ1WWZ6ejJ3dVkwcjVkNkFra0lSOGwwZ0oxc2pRUnZncWk1UXk1Zng2RFEtU2kyNFB2QlNsdU9hN19TajZBcGZnek5lQUJQUEozV2ZUSGdFdktpaGhfZ3g2SllwVk9GWVpTczVDNi1JLXZxV1I4RERuc0lMMi1KR0RTbUJIa2NYSGJKYlR1TmxKcG9OdVJRbWRlMEQ2M1luRHpsZ0NLbUQxOEx0U3FjNjk2V3kzZGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Westwood Holdings Group Inc. Has $25.06 Million Position in Wintrust Financial Co. (NASDAQ:WTFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSDg2NVlPNV92SUg3MWNOSnN6SUpwdllEaUFtemYxMGJfd1BEaU90WnkzTDc3SDlhVk9taTZIRlJkdEVhRXVQcFBISU8yclJNTkpUUjJGNWhwZEpXQ0lHTXp2eDFGMlNLWUFUT1NzTzh2NEIyV1c4b0FSaFNEeWpZdmFsejBkMHJaS2ZBSVpWV1l1YVNyRHZOa2llMno0MFFEaGFGS2FBZERzbXA3VGFZX0F6Y3ZqZ0p4a0dvaDlZQmNVb21oeC1FWjBHSTFSQ1lGU3VMM3dnUXVDZXdpZ3oyR294Yw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Price T Rowe Associates Inc. MD Has $4.79 Million Stock Holdings in Wintrust Financial Co. (NASDAQ:WTFC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0tJV3JuOWxjZDBPTzIybFk3NVByYkIwUEZjVFVvNnFMTWg4dXg1VzFYMGtaZ2JPbzZCaFYwaVR3enZyYUY5REZKY1lxaFlnazBET2VKdUxhaGFvbm5DRG02WVk0SFBRMTN3VVFPQjNnYmQzSE0wS2ZxNzllc1M0Zk90UXhWNEVpVGdWU292S1Y3dHdnQ002NV9FRjB0Ym84ZWhNU1ZhM3pua2lqZDRaR3FEOGdMNEN3S0FhYXdZM21hNHFEbDNGLTRiYUZ5YnpieXpB?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 137.29
-      },
-      {
-        "date": "2024-12-03",
-        "price": 136.27
-      },
-      {
-        "date": "2024-12-04",
-        "price": 137.48
-      },
-      {
-        "date": "2024-12-05",
-        "price": 136.46
-      },
       {
         "date": "2024-12-06",
         "price": 136.75
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 119.59
+        "price": 119.56
+      },
+      {
+        "date": "2025-06-03",
+        "price": 122.34
+      },
+      {
+        "date": "2025-06-04",
+        "price": 119.92
+      },
+      {
+        "date": "2025-06-05",
+        "price": 118.89
       }
     ],
     "current_price_data": {
-      "price": 119.59,
-      "change": 0.18,
-      "percent_change": 0.15
+      "price": 118.89,
+      "change": -1.03,
+      "percent_change": -0.86
     }
-  },
-  "news_sentiment": {
-    "summary": "Wintrust Financial Corporation (WTFC) has recently completed a major preferred stock offering of $425 million, and its stock holdings have decreased due to the sale of preferred stock by Millennium Management LLC. The preferred stock IPO market \"unfroze\" in May, and Wintrust Financial Corporation has approved a 2025 stock incentive plan. Wintrust Financial Corporation's stock price has soared by 9.4%, but further upside may be limited. KBRA has assigned ratings to Wintrust Financial Corporation, and ProShare Advisors LLC has sold 2,688 shares of Wintrust Financial Co. (WTFC). Overall, the company has seen clear improvements, but the opportunity to buy has",
-    "sentiment_score": -0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.9,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 3,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -2,55 +2,163 @@
   "ticker": "SYY",
   "name": "Sysco",
   "sector": "Consumer Staples",
-  "market_cap": 35394166784.0,
+  "market_cap": 35731070976.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 18.866926,
-    "PB": 18.41488,
+    "PE": 19.046513,
+    "PB": 18.590164,
     "EV_Revenue": 0.6,
     "ROE": 0.93613,
     "ProfitMargin": 0.023629999,
     "GrossMargin": 0.18346001,
-    "DividendYield": 2.96
+    "DividendYield": 2.96,
+    "DebtEquity": 751.105,
+    "CurrentRatio": 1.262,
+    "QuickRatio": 0.72,
+    "FreeCashFlow": 2215365888,
+    "OperatingCashFlow": 2932999936,
+    "FCF_Margin": 0.027421968352481937,
+    "ROA": 0.085710004,
+    "PEG": null,
+    "EV_EBITDA": 10.921,
+    "BuybackYield": null,
+    "PriceToFCF": 16.141871990402336
   },
   "technical_indicators": {
-    "RSI_14": 55.7253174254498,
-    "Momentum_10": 0.8420770151753749,
-    "MACD": 0.2822424976037325,
-    "BB_Percent": 0.8199015294300565,
+    "RSI_14": 57.7007364867028,
+    "Momentum_10": 2.049004096297045,
+    "MACD": 0.4454732362114555,
+    "BB_Percent": 0.9024589965428342,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.890674316002322,
+    "ValueScore": 0.8876155604290042,
     "QualityScore": 0.3422238697532069,
-    "SignalScore": 0.5844382390817053
+    "SignalScore": 0.5436519797431532
   },
-  "volatility": 0.0151386767144709,
+  "volatility": 0.0145952148959771,
   "beta": 0.817,
-  "return_6m": -0.0296221008224598,
+  "return_6m": -0.0862761209253683,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 17,
     "target_mean_price": 79.77824
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente de Sysco Corporation (NYSE: SYY) présente des aspects contrastés. D'une part, l'entreprise a été sélectionnée comme l'une des 10 meilleures actions par Diamond Hill Capital, et des analystes comme BofA et JP Morgan ont ajusté à la hausse leur objectif de cours pour SYY. D'autre part, le titre a atteint un plus bas sur 52 semaines à 68,74 $ et est actuellement en sous-performance par rapport au Nasdaq. Malgré cela, Sysco est considéré comme une valeur de dividende grandissante et socialement responsable, bien que certains estiment que ce n'est pas le moment idéal pour acheter. Les investisseurs doivent donc surveiller de près les résultats du troisième trimestre à venir pour évaluer la croissance potentielle de l'entreprise.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.2,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Sysco Corporation (NYSE:SYY): One of The Top 10 Stock Picks of Diamond Hill Capital - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0llZlNpV0R5SEtIQzV5aVRTbHVYWHdaeTN5MUtScU16UjdsU0oyXzhfTDNkTFZFNXU1NTVYcFpnN1hDUVE3cmtzMGNzQUhULXZTalR1eG9IVUt6OEU4SUVqMkpTdFU4MmNHeVlFMWYwZ3lMQUh3c213cWVlNnJFeEF3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "SYSCO Earnings Preview: Recent $SYY Insider Trading, Hedge Fund Activity, and More - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUMxMFlfLXFEX3JKZEdKV05FSloxWEZuYVV3VTY0SlVfQUQ5QzU5WXBZNUN6NW9jS0hUVFVCeEVnVGFmVkxMYWdaSmpOQzI5cFhTWWVSaXJQVlNYU1JJZTVaY2IxaC1jVmIxSmhteTVWeEFYUTZQaGMxV1J2STYwSnppZEV0LWxyam81bFViNG5QTFNycVFoSFdMNGR1R1R4UVE4OEo1SEZrZFFhaVA4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sysco (SYY) Target Price Adjusted by BofA Analyst | SYY Stock Ne - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN0MwejVTLUFWR1FtbmZOV0ZLcDJDeXhuNTJTbDVISGt0akF6TDNXdUF4eGNKMXRkbkhkY2ZHZThfOUxIX0ZOMjN1Y1E5WktRM0hOUjktZFVCRzI2VlZjaWRnbFB4QVE5Q21YZ0FKQUc2eXEwNWN6akFrakgxeUtNdGIxclZwYU9sVHY0RGJnLWppaDBCUUJSY0tvS0hkZ0psRllR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Here's How You Can Earn $100 In Passive Income By Investing In Sysco Stock - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUThySnBIclVsMjlPSEI5V1FNVjJoSnExTWl2emRCdHVacTBuU05SUUM0Wk1ZX1RwMUlCU1ZvN0s2aG1URzd1VVBZOGo4SER1WmFsWHpxN2pfUXd3OHFHSXFIY1pxT2R2S213WjhCRWFIY1U0SjF6T2VQYXV6VFE4Y3pQNFlhRTdBRHpUd01xNVFSV1JyU2VUM0RrRkVZblhKWTdsaUExUFk4NlBVcTFmWE1ZZ2J4ck92X1FqRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sysco stock hits 52-week low at $68.74 amid market shifts - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3NGbThPalZ0amxHYVVDdER1V3BrTTZPMHp2Tkg1alc3b0s1bk5xZTJlOXJjZlE1R3RiMDVlRER6TFhRVnVKeC1SWTdLQ25LQThBZnNsRkdJX24waWNYSGtUaGZXNjJkSnEyU3gxVTV4bVhLNmh1TUF0QVFUbFNBa1p2cUQzYlp0ZjcweGs4S04tc0EwV0ZhLWNrSkFUcEhEeWdPNVlhTDI2M3RwUEVLMw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "(SYY) Long Term Investment Analysis - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeW9nSS1lUzlXOWNFekc3OFlMRmRwWFVtOTNvNWdzWFNTOGVqcEc5aXg4ZXdCYTNHMFZGdE1wX1p3bkJOTkUxYXJnY3pMR25IcVZOY0VmcWVDR0kxN29ramp5T2hhREw5VkFuVFM5N05ZcVNUbnNzYjNwUkg0NnlfT05KNG1ULTk3TkM3TVMzSEVuNFgzTHdRYW53S1N1Ml9QQkNWdVlXWmJ0UTg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Should You Think About Buying Sysco Corporation (NYSE:SYY) Now? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzB1WXNleHhDUXR6V2c4NnFQV21GVHJqa3FRUHg1eGxBX0Y2UWhPX2R5TGFpTjR0QzF1SXhIYnZ6THV4RDVPbWF1aWxiekxuMlZnbWYyTlpiQXAtVWtFYkFrR0ZXeWJpdUJ3MWRGY2V0Z3FUNWRkcERXWFpnTkktT09pLUdUWWNRS1pNNlBYLU15UEZ2V1ZjdzJzc3lqQXJOYkxzZ2VEcDk4NlkzcjRGSXR0bzIzS1c3Ul9tUGUyYjFMV24yQUVuM1l30gHPAUFVX3lxTE5zazFyMWhWNXllSS11UEh3ZG9EOTRvTUJ2bmNwRzZyUUY1Q01YNm44WEExVUVCU3NIa0UwWjhTR2tXUkh3NDM2MXgxUEQ1Vk16ZllZa3RtVFFUcmlZcURvaVVCYldPOExidGxaXzZxTHA1OUtTT21PcTRxcC1wVWRhVm9uY280MUd3WDNCVUhYVzNxZE05YUtTUzc0TUpIUzAzanYwd29yRTdzcnIybFZhV1RwYUdFQnV0MjNVY0g3RGpEVkE0NFVYYmVDTF82cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sysco: Buy This Growing Dividend King (NYSE:SYY) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRFc1bHh6dmpCM1ZHS3JxQnhhaUNOQVVXdGhmcTEwWEdoQXdEV3hzZHpkYzBVSlNWanNzcndPMm5qeHZwTmlMRldRUjA3V0pLMVBMZ3JIX3hZMy1aRTRtQnRtMkZuaTJWOTlwelc1TDhaYW9YQ1Z4d2g0ci1CX3JxSGNfRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sysco Corporation (NYSE:SYY): Among the Best High Yield Stocks to Buy in April for Dividend Capture - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRC1IQ0gySnV1ckg1TU03V3RhcEV1RVZiLTBCUEh3bVlLSVlPTW4zU3BTLUxndkxpdTBiX0MtTnkyQnp2V244RWprTUxZQjhEcFV0bFVNWWVrQ0FnM3VibGo2NWpJMlBwaTBZSlhscGpNN1hLUnZDZkdGRk1LS2hTa1RpZjk?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Is Sysco Corporation Stock Underperforming the Nasdaq? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMllXYUktWjZtSFEza0xzbUZMWHdNLVdRUkROZEhlOEFHckQ3UWtIS3lRM3FyQ2Fnc3VSek5Wb24wYVgxMkZubTJmRmhZdXNqcUp5WFdXUWRDR1g5NC1LRlJoQVg1cmJOdnA0b25vNXU5N1RUdWwxUnFUdnZndnBGT0JBTFM?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Sysco (SYY) Coverage Initiated with Neutral Rating by Citi | SYY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeERETG9rZnE2N0JGWUhBSWNiUURrRXdpVS01Qkd5M0lwa3JVTU1aT0RZaThkYlhrdDhFdmRyV1Itbklfckh1T0c5NnBFQjBROWpUV1owVjdNTTBUd1NsQ1NEcFQ5bmE5ZEJjcVk5U042cHRTcnYzMGlmN3FBWkpfV0RhOVVHSnc0VHlCeld5STY0UkpHT29VcTFPdWdDNUlXdFZFWHpXNXpVUHhkN1Utcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sysco (SYY) – “Terrific, But Not the Right Moment,” Says Cramer - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQemtZaDluSi1hQzB3WkNpa2NOXzYyRUdJWDFIbno4UVpydkJyanRKZzdVTmFZN1dsLUpTakZjOGt3WHg4OVJqNnpTeUROMUl6dDgwZktaZHB5XzBZY29lcjhWXzljRC04cS04cHg1MVY4RDJBOERlTklVOTFPM2xvMw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Is Sysco (SYY) Up 0.2% Since Last Earnings Report? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MbmdKa0huemF0NEp3ekxnTHNCRUxJM040cTcxZF8tWnI5Q05KZjAtQ3J3M0JndFN2WmRKOXRpajlFb2dEcGZQQWpFS0ZQUV9ZQVVfZmFpbFpOeUFsYnM1bkl6endqb0dubENBN0lOa0t6TW5vTzBpMg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sysco (SYY) Price Target Raised by JP Morgan Analyst | SYY Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGV6R3VfSkNxWmVMQmhJV2tOcXRxaHExRnRrR25fN2VPSHVUMnp0MkdJRnhIdDVUNkgxZjlDRVVaMjBoaGxZaUZpcU9tOWhWMDBSOVZwSGpsaDBNWmdtWDg4eXVYb3d4Wk50M0ZVVjJvX2tMbzA1eHR0alEyYTdKM3gzOTB5OXNpU2FXTzFuLTZYam5WWFoyaXNadm9ZWHNDOFRQZmR5OA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Sysco (SYY) Up 0.2% Since Last Earnings Report? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SaEFwempud2tYM2FUWi1TWDg3REJKVGVCYVV5NGxVbzc2bGJTcDMydmNPYzhuNkc4MEFtbzI2U0pqVXJ0Qk40Z3F4SXFtUHo0eDNTLUFMcjZnVDlOR2d1NmRMTzZGUHpIY3VsWGg1cnY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Sysco (SYY) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbktLUGF5ODNoUjlBa1hFOFZkajBwVG1qS1czTmNjUTBTeFZtRjZtdTJMZktjRmVPZ1BzVmE3OFh3MG04SVBSbWFYb2pDZFVTYmpoNWg3VVFuVENGTzBiVUFCQXdNeXh6RFpoLXZvSDc2T2NENGduM2VlUlpaSzFnNzZ4X2NLcEtQOXowTURseDVQZ3VIQmo1T3ViMU14dEN5?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sysco's Secret Sauce: How SYY Stock is Positioned for Growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlVzNXN5VDBpX1RlOHJEaUQxWVFUZ0h5MnNPWmNkZG0zbS1KQkJwejhxRmxGelRjQVIySzI4aTd4N0N5dDJZTUxuMm9QdzZ5UnJqOUhhMEV3bzdUYjBaX1R5RXQ4R2QzUVI5cGhrSkJaWHAyb3FDSS12azRsNTRERA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Sysco is a Top Socially Responsible Dividend Stock (SYY) - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlNWNEpzZm5ySkV3WjlkSnp1aUhIZGNxcE1MR0tiU2t6UmoybkxVaGpWQmRpaVNoUXZmRGZFcjc5MzdSaGVLY0dfUS1mNFFrRy14RWoydXFIdUxWOEkyOGdWYWdSVzdIaWtvUWMwNVRJenlNZjh1a3NXTkxCYVZTVEYzTXRWOTdDZTcyTTV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Sysco (SYY) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaDhWWnhpeS1WRlRMOExoc1RkTkNiazNXTi1wYTlDdjVFQ2RYR0s1Nk5vZm9wMU1nT2ZsZXh6Wl9Hd1B5Y3hUVzVzU0pxbF9HZWtLYVRGRGU5ODczZW5qV2ttWGUzd2lrM2lYbTYwYk1pVDRfZjZucXpGNXZBQTFBeG45RVM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Sysco (SYY) is a Top Value Stock for the Long-Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GeU5lY2h1XzQ2WFVjYkVIbWxHRHVwOGN0czJPVGJGM1pvSTNQbGdrNlhPMzNhRXQ2eXpWSHkyNF9NR0x6RTBGVFI5ZWJzY0d3V0FVWE5Va0JJcGRTVWhkUG5GV3ZRSVVFRzZCSXJyUnVSQkV5TkZNTQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 76.27
-      },
-      {
-        "date": "2024-12-03",
-        "price": 79.49
-      },
-      {
-        "date": "2024-12-04",
-        "price": 80.37
-      },
-      {
-        "date": "2024-12-05",
-        "price": 81.77
-      },
       {
         "date": "2024-12-06",
         "price": 80.73
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 73.04
+        "price": 73.06
+      },
+      {
+        "date": "2025-06-03",
+        "price": 73.63
+      },
+      {
+        "date": "2025-06-04",
+        "price": 72.9
+      },
+      {
+        "date": "2025-06-05",
+        "price": 73.77
       }
     ],
     "current_price_data": {
-      "price": 73.04,
-      "change": 0.07,
-      "percent_change": 0.1
+      "price": 73.77,
+      "change": 0.85,
+      "percent_change": 1.17
     }
-  },
-  "news_sentiment": {
-    "summary": "Sysco, a leading food service distributor, has seen mixed signals in recent news. While the company has reported steady growth and is favored by institutional owners, it has also hit a 52-week low amid market shifts. The long-term investment analysis suggests that Sysco's growth prospects are positive, but the stock's recent performance is uncertain. The company's stock price has been adjusted by BofA analysts, and it is being compared to Freshpet, Inc. in terms of growth potential. Despite these mixed signals, Sysco is still considered one of the top stock picks by Diamond Hill Capital. Overall, Sysco's future prospects look positive, but the company's recent performance is uncertain.",
-    "sentiment_score": 0.2,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 5,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

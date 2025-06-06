@@ -2,55 +2,113 @@
   "ticker": "1605.T",
   "name": "Inpex",
   "sector": "Materials",
-  "market_cap": 2336517521408.0,
+  "market_cap": 2371253436416.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 5.5173783,
-    "PB": 0.50461227,
-    "EV_Revenue": 1.607,
+    "PE": 5.5991554,
+    "PB": 0.5074573,
+    "EV_Revenue": 1.613,
     "ROE": 0.0915,
     "ProfitMargin": 0.19575001,
     "GrossMargin": 0.59474,
-    "DividendYield": 4.61
+    "DividendYield": 4.55,
+    "DebtEquity": 22.647,
+    "CurrentRatio": 1.37,
+    "QuickRatio": 0.618,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": null,
+    "FCF_Margin": null,
+    "ROA": 0.0975,
+    "PEG": null,
+    "EV_EBITDA": 2.401,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 60.80585666548839,
-    "Momentum_10": 3.4738796075311584,
-    "MACD": 21.66772523172881,
-    "BB_Percent": 0.8389632010625296,
-    "SMA20_above_SMA50": 0.0
+    "RSI_14": 60.41456013519905,
+    "Momentum_10": 3.263157894736842,
+    "MACD": 27.511989740705303,
+    "BB_Percent": 0.8081037889149271,
+    "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8979048080791081,
+    "ValueScore": 0.8949421702210376,
     "QualityScore": 0.4797879070239184,
-    "SignalScore": 0.5373408351682201
+    "SignalScore": 0.5169446978361383
   },
-  "volatility": 0.0180985038946306,
+  "volatility": 0.0181422014513429,
   "beta": 0.315,
-  "return_6m": 0.0013219315587791,
+  "return_6m": 0.0067147286336162,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 10,
     "target_mean_price": 2216.0
   },
+  "news_sentiment": {
+    "summary": "Inpex (TSE:1605) augmente son dividende à ¥45.00, signal positif pour les investisseurs, renforçant la confiance dans la société. L'approvisionnement d'Inpex en pétrole vers l'Allemagne depuis Kashagan souligne sa présence sur le marché mondial de l'énergie. La démission du PDG de Nomura suite à un scandale d'initiés crée une incertitude et une volatilité potentielle pour les investisseurs. Les récents développements dans le secteur de l'automobile avec des projets comme Project VW MK4 GTI 1.8t et des améliorations de puissance de MotorTrend pourraient indiquer des opportunités de croissance pour les entreprises du secteur.",
+    "sentiment_score": NaN,
+    "label": "POSITIVE",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.8,
+    "negative_ratio": 0.1,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Inpex (TSE:1605) Is Increasing Its Dividend To ¥45.00 - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcDdTek11QkJfT3JmMmRjUkxZVGNSdDdYWXNOcXFvMmdjc01Xc1ByeEx0TDFfV1ItM0JXQjRmamxBU3hsX1BZMU41ai1oWUxaX3ZlVm1fcEZHQjg1RFJYcFpwYmVNdWpOUDJkcW9jNldYRktZTklYdHN5bzVXaDk3SHU5RW9BNk1lMzhjYmdKT1lEbUhCQ2c3TWhCSk5PaVczc0hwMzV1WENQbWVsUE1ocUVVUEFEUUHSAbwBQVVfeXFMTW51S040NGUyM0lZRjlKR0RFTk1VcnlVYWN0cjgyT3Z5MmJ0Zk1jWVhtdWlqQnZKN0Y4NDdxb013WGFOVEFYZF9DdTFOcmYyOGF2bkNaM2pyWE1sOFpEQ2dNcVZjLS1ESURIWEtpcnNQZVNseVlrZ3VuZkRQeUhBbWdORjA0U0duSmpGUi1ZSDV5cWtPZURqbXVYOGdqMlJrcERCNGR4M2VVdzQ5Vm1SWUthY3VsUTJfUTltQkM?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Alaskan Officials to Seek Investors in Japan as Trump Touts LNG Exports - gCaptain",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUHl3d1E0MGJtc0hlSjA2MFFLR3dyZXpmLU01R0luZ1VyakJDUkZpVjhzNmNONmc5dEJ4VUZrb3FFZU1hSVE0anVDRGVhbTRjNE1DX1hpZlRaemFKOW95b3kzbzJibnJMUWptVTRSRWZucFk1ZjZIOGdxRnJRaXpYN3JBYzNhWC1qZ1l3S0ZncEdWTFo2OTRpOA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan's Inpex supplied oil to Germany from Kashagan, sources say - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTFEb2ZreWwxVi1xd2h2dlNUWW43UjVoZGQyTG1tNHNJVUJDVWk0Mm9TdkZ5Wm84ZXE1TVlpc1NSeFN5TEFkeU5NMFNTNHQyeWw5VzFERjA2anVRdlZDQ1owWnQ1c25FSXhaMlJ2OVAxZEt5Mlo0NGQzR2F0QjdaVWZIRlZVeGdRU3pXemZzYU83OWlCTlhJdHRrdXlFMDZKcW1HRk12NEF0ZTJONzdN?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "How Texas’ Sweeping Curriculum Overhaul Is Already Changing the Market - Education Week",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjVKT2N0cUx3VTZCVUR1SHhJNk80a0Y5dVVGRDZvLVlxMkNBcFlpSHpxM2E5NmFUUGE0SzBhZUxUMXYtTzllZmQ2a1lpbldTYmQyYmc1R3BfaC12REJUX3N3WWp2WmgyZjBrQ0VSRS1pajdQb1F6MUlxWndSS0c1TnhjdHhhdFYzNHZETU5GemJHVnFhdEs3ZHFaX2pIU25QbUJfa2RwQWRIaTBaMWR0WUxxNjNPRWNQVnIxU285SFJpcUU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Is Chartreuse Hard to Find Right Now? Ask the Monks Who Make It. (Published 2023) - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hSEpFZVVXVlNseTZ2b2Z6WU00b0RtbkQ3OTN6MHN0Y0xhcmdDTjBEUWIyMWpZNmJ4aDV0aERwYTN4Tzl5NG9XdnFWOTVfX2oxMlROSzdYN08xNUt3bzhwTmRaSl9rejJ3ZE8tamN1N1FVaFgxeXZMVzRXcndPZw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Restoration of lymphoid organ integrity through the interaction of lymphoid tissue–inducer cells with stroma of the T cell zone - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KQUc3cUI1WmRabVp3OGotQkx5RjY3bnZDd2hIdlRleF9ieG9NWlhwS0o4cV9lUm5hdlV5X3h1a0JLZ1JsaHo4amdXMnlEVkpy?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Legends - The History of Winnebago - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmUWE0UkRCMXpZcUw5YW5UVmRlUnVsSHZJSURRRzNRWWhxZGp3NmoxNW9pMUVGcjBoaFlYLTNSLUxMMkd6b2RMd3FMTWNzWnVQdFhDeGxKYlFVQ01IQ3BqUlZiU3h0X19vNlZkaHBCNFBIY1BTMU9WdDNyX3k3UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Nomura CEO quits as insider trading scandal widens - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVNDOTJtbEU4Vy1teWd6WGlUZEI5emwzZ2hCYW5VS3NseEhEYnBnMlcweWZMZDVfaTlwY09saDMtVlBQYl9FRkMwYmhSWGlGZEJqTk9rQUoxUTFNT1NRY2FnSXZVU3puM3g0R3hvUzl6T29yR0puT0lDeFU4OFFWeUJkMlEzWUNXYXliNURzNV9lazBVX2phaGFsWEFtQzZVcmdDX0YzRUxvdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Project VW MK4 GTI 1.8t - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIV3cyM2ZKR01jY1ppX21yX0hZSHltWVJxRmtPSDFEOEFhSHBXSDVXNTlmRFZaMEM0aWR3VHNTNTN0clZJb0VCaFJRdm1ubHkwQk9VTVN2OGMySXJsTG9ub1Z1anR4R0VFZVRxclVoUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Big Bolt-On Power for Your Focus ST - MotorTrend",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRjFRck9uUWpDbGVfb3pmU1F2dDlLdzhWVDBhdkNuYTFzOGZLUi1OOHd0R2Vvb0l6UjZSSGNBMFJVazQwbWlDUEp0MGg5Ul9rMFdSZHhGUk5NLVd4MDFibUpuUnQyWjMydDNPd2JHOXc3M1JuOHhfRkpIYzh2RlE?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1991.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1985.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1999.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1992.0
-      },
       {
         "date": "2024-12-06",
         "price": 1993.0
@@ -514,24 +572,28 @@
       {
         "date": "2025-06-02",
         "price": 1951.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1976.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1980.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1962.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1967.0
       }
     ],
     "current_price_data": {
-      "price": 1951.0,
-      "change": -0.5,
-      "percent_change": -0.03
+      "price": 1967.0,
+      "change": 5.0,
+      "percent_change": 0.25
     }
-  },
-  "news_sentiment": {
-    "summary": "1. Alaskan Officials to Seek Investors in Japan as Trump Touts LNG Exports - gCaptain: The US is looking to increase exports of liquefied natural gas to Japan, with officials seeking investment in the sector.\n2. How Texas' Sweeping Curriculum Overhaul Is Already Changing the Market - Education Week: Texas is implementing a major curriculum overhaul that is already affecting the market, with some educators concerned about its impact on students.\n3. Japan's Inpex supplied oil to Germany from Kashagan, sources say - Reuters: Japan's Inpex has been supplying oil to Germany from the Kashagan oilfield, according to sources.\n4. Why Is Chart",
-    "sentiment_score": -0.125,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.88,
-    "negative_ratio": 0.12,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

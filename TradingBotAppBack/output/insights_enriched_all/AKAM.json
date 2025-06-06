@@ -2,55 +2,163 @@
   "ticker": "AKAM",
   "name": "Akamai Technologies",
   "sector": "Information Technology",
-  "market_cap": 10827499520.0,
+  "market_cap": 10865929216.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 25.526846,
-    "PB": 2.424001,
-    "EV_Revenue": 3.582,
+    "PE": 25.617449,
+    "PB": 2.4326046,
+    "EV_Revenue": 3.607,
     "ROE": 0.09821,
     "ProfitMargin": 0.11262,
     "GrossMargin": 0.59073,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 100.746,
+    "CurrentRatio": 1.178,
+    "QuickRatio": 1.032,
+    "FreeCashFlow": 514483488,
+    "OperatingCashFlow": 1418493056,
+    "FCF_Margin": 0.12800207922851037,
+    "ROA": 0.03916,
+    "PEG": null,
+    "EV_EBITDA": 12.886,
+    "BuybackYield": null,
+    "PriceToFCF": 21.064744141992755
   },
   "technical_indicators": {
-    "RSI_14": 44.623451939598226,
-    "Momentum_10": -2.473408093513714,
-    "MACD": -0.7851163434084185,
-    "BB_Percent": 0.2962156074210882,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 45.712382998165666,
+    "Momentum_10": -0.0654219099204294,
+    "MACD": -0.6843933553895596,
+    "BB_Percent": 0.3695548013440951,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8880179729478052,
+    "ValueScore": 0.8849868301956593,
     "QualityScore": 0.4079059563734594,
-    "SignalScore": 0.6634530502406826
+    "SignalScore": 0.6171096564554195
   },
-  "volatility": 0.0308888853870386,
+  "volatility": 0.0308979977020397,
   "beta": 0.769,
-  "return_6m": -0.2232206733608702,
+  "return_6m": -0.2162218157911701,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 22,
     "target_mean_price": 102.62955
   },
+  "news_sentiment": {
+    "summary": "Akamai Technologies (AKAM) a récemment reçu une recommandation \"Underweight\" de la part de KeyBanc, ce qui pourrait peser sur le sentiment du marché. Malgré une stagnation des bénéfices, l'annonce du nouveau service VPU d'Akamai, réduisant les coûts de traitement vidéo de 90%, pourrait être un point positif. Cependant, les actionnaires ont subi une perte de 26% sur trois ans, ce qui souligne la volatilité du titre. Les investisseurs surveillent de près la publication des résultats du premier trimestre 2025 le 8 mai pour évaluer le potentiel de croissance d'Akamai.",
+    "sentiment_score": -0.2,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.1,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.3,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Akamai (AKAM) Receives Underweight Rating from KeyBanc | AKAM St - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUZJTVB6WjhsNHhoeGJ0SFpRWmVmUFN2WDh3ZXVVSTBVbDVNY3U1MnpVeGNuRTA1OHQ0R2twdGFLajJOTC1MQzZQOWdudkpOQTB3a1F6OEFJeHJrY3JRSHdYeERHSGE2Wloyd3BMUlh0VndhTzU5U3lPZVZRbk1wZUJ1aTJQOU5KcnEzeFlYRFdYWExWbUZDYjBYYUNvTVRZb0ktUUhNQ0NidFk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Akamai Technologies (AKAM) Stock Moves 0.74%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmEzTXc5S2U2SGtUWTNjNDNTMDZnSERkMjZqTnlXUlg3RlEtRWtSZl91VW9ZLWJ0WTBPNHFreDNCQjg1Y3hNNGJrOXJMWDQ4MGJ6b0VLUWpMSG55VzZwaDJLOWE0UjM5SkZLRWVrclNZY3FvYUNTRjhyN3VxT3AtYkhuUFZMTTFGcHJzWjVoLU15cGpHSXZ0bA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Akamai Technologies: Continued Earnings Stagnation Rightfully Triggers A Reset (AKAM) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlpvMXd2WEx1cGtJUEhBSzFrd2QzNVo3SzZkMG50RER6X01BUG5VXzVlVk5oV2hVODdOcm9nMUJGQWJWWXhFVDF4cXdxRkxsRmYyM2s5SHAzbW5oWTlCcVFXdUs3dHBGQ1VCMTIxMGxKZmU1Nnk0bzhEV3Z5aWJydk1zQ0RPYVoxZ0ZCaDZCaHNmb2hJOE84WEpVYXNNZmkxVF9KZmtoS0NTNnJrTWtTUUNCc3lJdGFZYWc?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Game-Changing Cloud Innovation: Akamai's New VPU Service Slashes Video Processing Costs by 90% - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnVWalNDLS1sSUdYRTNzenNNWFlBQWwwVEFGRU1tMkFvbDg4UllYWGN3WjU2clZsa2pLREQwc0RzcDNFckdHR3hxRm10VXM2NzR1NDJkS09Fa0lJc1g5dTFlczFmOVZWRU16cmRudEZkVmZSMl80RVhDTFdCdFB3MWhfSmsxZHRsMUc2UllNWFRISzA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Akamai Approves Key Amendments at Annual Meeting - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzNJV1o2QlZpMGJiSV8wajcweEFpbWtMMFhuRklmaEVWNGhaajJxWDBKcHQyNzVPRHpqekhmR3J5clZuZUFQeXNzYy1mMXFTZ2tFRmVNYmdCdlBRbXN3aVB6SXMySFdzUTREU2VFSWFxZXF4aHpwQWNIN0U1c0tWcFhCTTh4bV9ZVktrOTVBMlJtQVBGdWNyLS00VklJaGc1bkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Noteworthy Thursday Option Activity: SANM, BROS, AKAM - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXhrSHVRdFA4djZjSzNIMGxKVzVUTXhaTklvY2diMkpIbm1Kd3lNTFpmTHFCc2phM1hndW1HRGh3VkUtSUhVOXgxLTNKMHk0cTBDNnQ0dTRqNVpLYUNtSHZnWFU1WlNEcTVSVzNiS3RnYkNxanlnRl9USmhwN28yaHE3aXlaSHdfeGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Akamai (AKAM) Stock Is Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWExfTFpXM19QbGZEUGMyNVd1dGdSaVFheU9UYWhkVHFPWXYzSjR0NDUyUGZaYmd1SDFGeklWQWZUN2RNWERiZ0VFcFZ5c2x3YkdLYjVKcFVqM2k4S3hnUGRNVFV4dnpTTGVQVUpWYVRfbmxlNUQyb09qR3pHZ0ZtXw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Akamai Addresses DNS Security and Compliance Challenges with Industry-First DNS Posture Management | AKAM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPekNfV09yWG4tdGJMWlk2b3hwaXMzcHpYNEs0aW5LbmpyeGZBdHB6XzEyOE5NbURwNm9DeWJDRElnSndmTng0NldLVVdFakE4YWZ3OTZPdWJkR0hMMnV0aUV6WnBMZTAxNGNkZkk2MDVxQmNHengzVTl1U010SlVSUmt1MXdoczJ4ZThtVGRjNk1jMXViMVVCSDhkOE82TV9HWlk1Q3hfdDRDbXNNVGYzLUJuYmltWksydklvV04temZ4aDY1UzJGUlJfdVE0aGJWWktqS3hiRE9ZTXZzVV9TMklUSDJta3RPX3R2dUxUYXAyWmF0dTVVNmtJbFJOeDZBT1VQZHRXdUtsd2FBYV8zLWZtS3I5THc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Akamai Earnings Preview: Tech Giant Sets Q1 2025 Investor Call for May 8 - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNERnQ3ktWnd0R0p0c1VfZjV1SGJDWV80eVBZSzRLcHNsUzF6WTRZS0QyXzNaakhWWV9lOFJpeXhNSXJDOW9yalppY1lzSTh1a0xfRXFjeDIyd2cxN3JTanNCWFFXa0VjRmswREhlcGZsUGI2cU1xUHhzUjNJdjFEXzlZOEtuMlJPa2JjUk1lcXVfOGJTd3UzNDVkZkJUSUZwbklnY3BUb3FWSHBPNm5YQ2VoVk45elhqYkw3M053?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Akamai Technologies (NASDAQ:AKAM) shareholders have endured a 26% loss from investing in the stock three years ago - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXR1ejVxQVJzUVgyX2ktQl94bkNpN1ViQzlkZWpWd2xVNWZlQzNRcHFwenhzQWw3QzdhVWlNLU9lWG43R3J4UWtfOWk3TlhrU2k0ZEhxRFFFLTFhNG14ZkVoMnQtdF9yU1lBZ2V1VjBJRHd1aFRWZWNYUXRBcWY4bTRpSU8xeFpTeXhHOHkzMEN4Q184?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Do Wall Street Analysts Like Akamai Technologies Stock? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNREd5T1ZoajlmLXVVR19nRU9xemRXSFVIeWxGUkdpZGZHMDAwdEQ3bmVBTWlHbi1lYlZId1BaY2JzRzJHUktYekRwM051S0tnXzRfbzdOTXNBWDEtV0F5STlVdV9tcG1xSDR2YjhqS3MwZ09LME9ZTnNRQ0NxLWczR1ZseXlrSFNf?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Akamai Technologies (AKAM) Target Price Raised by Piper Sandler | AKAM Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb1R6aU0yMWdZRVp5WjMwV3VCcE1uQngwNUhYZ29YSDlQNmdXcG1LbU1ERkNOckVKOXl1emttZGZ5d1p4VmFWUkU0bWFYaktOSTZnVkotUkI2cXE5OVctUHZjY3o5YloyTFRvTUtrb0hyaTdOSUd6VHZGRVVEWk1XRlE4THdBVXBCaEFEd28zVXZVV3FyVWdybWhNd2FpcFhVMk1UMmFmQnRoaW50ZW5ObE44b2FVRVZo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Akamai Technologies (AKAM) Stock Moves -0.46%: What You Should Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWRWeUtyUjdfOXFJajV0R1JOei1YaWlOLU1RMzFiaGhmSmJQOHJyajZLSUpMVktIVTYzZk94ZlVNeE1mTHRpLTNUVmJMM20xZm9vMDVNZFRQMDdGMG9hYUxUeTl4c2hJa05lclE1NlhyQ0Y4LVBlcm1FQU5LajdzdVUzM3JPeEI4WWc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Akamai Technologies Stock: Is AKAM Underperforming the Technology Sector? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjdFQ0s3aFl3Z2lVOWlkaEFNc00ySFlEcHF2TWlRWkt2bVljSy1yN2gzUmtvMTRaZlpUd19URWV3cFl4c2pKWnFvTGJnUmw2djlyb2VOUDBEQnhkbmt1c2RNSFlGWFNsdjFNeDd5eDEtVWVBWENsZzBVUGNIbERERldkRmtOTWtWVEdfMjRGT3U2MWZOZEtCSE5JaS0?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Akamai Technologies (AKAM) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUFM2eDdJS0ZFNmRTR29LSmJTS1p5UlNjS1Mtdy0tQm1BVXRlU0t3ejM0clk2clg3ejNUMjBKNGpmSFE3c01wX1ZJaTRKVlNxWTVIX1FHS1ozMUVhZUhXN083X1VmWHNXYko2R3dZTkVDVVJzTHMyZDNpVUJVWUh2XzBQSlFJRW5LYVE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Akamai Technologies (AKAM) Expected to Beat Earnings Estimates: Can the Stock Move Higher? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUDZxLTBMWC1aWjJWdm5sZklEXzNEc0x5Z3ZqbjhlUXRUVEJpZDF2X254TGtJWHFkRmpGMVBiZXh1d0VPOVV2UVJfelVrODlocXBXd1pRanMyMmp6STVmOHJQLWJUN3YtcVFoa1RXSHBDMTJOcDltQU5UZ2lISFg2MXEya2RiOTNYRWxZTA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Three Reasons Why AKAM is Risky and One Stock to Buy Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45Zy1XR2VDVjM1WHRwYVEwTmZSZEduenJIMGdKNzBnbGJ4WHBiNTFIVFdndFp5SkJMN0VXT2hFcFJfTzNYdEdkSzFLTWczZVZYLWJrcDRQTG5tTVgtMkNETWdmUzZRUU1FWlA5RklIUVNITzlvekpkdXpfSjFBMW8?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Will the Launch of Cloud Inference Platform Benefit AKAM Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMF8zSWpEdnJaUWJ4MGxHSVVDcnYySU45dmVTdE9CZXhVRmNTUkpLeEx2bFRFbUpvNTA2SWlRMk9rZGFGVnJlemFWN1FlUHhOTm4wM0JRRnBsbE1wMS1BOXNWZ054VGVRb1hzeFVpQVBiTTB6TXdrN0Etc0pjRlU1dzhOWFlXZUtNc3Rjdlln?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Akamai (AKAM) Stock Trades Down, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmM0QndBR1dVa3lfckJKNUROMUtnbUJfakRxZ3FENkVNU1A4aWlxX3ZUWW9hVzJEdjVMQ0x2TTYzLXkwUlFWQXVPTGx0b0RDd2t0Z19CUUtpVTVlRXJyNERELXFkcVk5V1dTSndwMm1NMWVsTFM1a2lHakFLT3FwZw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Is Akamai Technologies, Inc. (AKAM) the Best Low Beta Tech Stock to Buy According to Analysts? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlpfeU90N0JUOHNPV2JzYkprWlVLWm9mSElNY2FqV2c3azc3cWU3TTkybjRlM21maVhhMU5wZHJEOVBsSVU2SVdjajdXeWswX1RMdFAxVnFreFpyVWpIVmFIbGlQdTc5akZHeW5reFBlWnNwZ05BWGpIdzFGZDJ4Rzh0UUdUdw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 97.93
-      },
-      {
-        "date": "2024-12-03",
-        "price": 97.53
-      },
-      {
-        "date": "2024-12-04",
-        "price": 98.3
-      },
-      {
-        "date": "2024-12-05",
-        "price": 97.4
-      },
       {
         "date": "2024-12-06",
         "price": 98.06
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 76.16
+        "price": 76.17
+      },
+      {
+        "date": "2025-06-03",
+        "price": 77.09
+      },
+      {
+        "date": "2025-06-04",
+        "price": 76.6
+      },
+      {
+        "date": "2025-06-05",
+        "price": 76.14
       }
     ],
     "current_price_data": {
-      "price": 76.16,
-      "change": 0.23,
-      "percent_change": 0.3
+      "price": 76.14,
+      "change": -0.46,
+      "percent_change": -0.6
     }
-  },
-  "news_sentiment": {
-    "summary": "",
-    "sentiment_score": -0.1,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.1,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

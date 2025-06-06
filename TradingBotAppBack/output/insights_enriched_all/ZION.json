@@ -1,56 +1,164 @@
 {
   "ticker": "ZION",
-  "name": "Zions Bancorporation N.A.",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 6923294208.0,
+  "market_cap": 7036185600.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 9.163086,
-    "PB": 1.1057556,
-    "EV_Revenue": 2.513,
+    "PE": 9.3125,
+    "PB": 1.1237861,
+    "EV_Revenue": 2.523,
     "ROE": 0.13179,
     "ProfitMargin": 0.25789,
     "GrossMargin": 0.0,
-    "DividendYield": 3.63
+    "DividendYield": 3.61,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 1066000000,
+    "FCF_Margin": null,
+    "ROA": 0.00915,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 49.470064089909656,
-    "Momentum_10": -4.683056172307127,
-    "MACD": 0.3207626108437011,
-    "BB_Percent": 0.4034112594784763,
+    "RSI_14": 52.74696325200505,
+    "Momentum_10": 2.229847618218811,
+    "MACD": 0.3392154036146237,
+    "BB_Percent": 0.4661570640974299,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.934608415758898,
+    "ValueScore": 0.934211517573879,
     "QualityScore": 0.372372575828554,
-    "SignalScore": 0.5118237855861167
+    "SignalScore": 0.5316892151881647
   },
-  "volatility": 0.0243235894967222,
+  "volatility": 0.0245781744878753,
   "beta": 0.863,
-  "return_6m": -0.2040148736803789,
+  "return_6m": -0.1806431325103595,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 21,
     "target_mean_price": 52.33333
   },
+  "news_sentiment": {
+    "summary": "Suite à l'acquisition de dépôts de 630 millions de dollars en Californie, Zions Bank a enregistré une croissance des bénéfices de 18%. Malgré des incertitudes économiques croissantes, ses actions ont progressé de 8,4%. L'entreprise a dévoilé une stratégie de croissance lors d'une conférence Morgan Stanley, et a annoncé un nouveau plan de retour aux actionnaires de 40 millions de dollars. Bien que les prévisions de bénéfices soient optimistes, des cessions d'actions par certains dirigeants ont été observées, ce qui pourrait susciter des interrogations parmi les investisseurs.",
+    "sentiment_score": 0.1,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Why Zions (ZION) is a Great Dividend Stock Right Now - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXVwYWN3SnJtVnhZYmhNamd4SnI1YmFRaU9yNk5obmNwRWVibjNwVS11UHBHNHd5TUVYNDJKQmZWSkpqZDc1cS02V2d2Nm5MYk5ROUQtU1c3QU1QQ1RFMTBKQVJ1WmNCdkZIYzVaUzdqQ0RsNjJ4ZTY4dlFJWGh0WnI4R1owdw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zions Bancorporation, National Association (NASDAQ:ZION) Shares Sold by Wellington Management Group LLP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdk1sNHp3cG1JME5SemFJVmd0SzRoTXU2MTdnRTVTcFl4N2V2cC14U08wZXhGQlozWVZFbDZ2SG12aEJ6OWJ1aFpmZmhjandRYWlUc3pibHE4dlRzcGFiaTNLRmF3aENQVWlKTllkbnhBanRnRE5YeWRMcWItdkVLUDlMdG55NzBJdUxWN0pGb0xoTGFmRHlKU3hBWkU5NDBzWVZlS2h4ZmV0MlZaZW5UQ3ZuaUtlS2E0ZmRuNmN0VnhXUnNXQkR4Y2NKOGpSU3BPRGxkODlTMnhsRDRyZElQMmktckd1YXlGU2tsYmdlR3hnTmNfWm9FNHJCM1JvQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zions Bancorporation: Shares Remain Cheap Despite A Slightly Softer Pre-Provision Outlook - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlU5OXhMUmNPRlIydVdSd0plS2tPTXhCUTJnak1WdzZxd3lLU19xRjVmQUVOWGtfN0NTQkREdkhibU1vZmtDZHVJbGRZUHZES1Y4dkFFcmJMR0ZkTmFGWVdJdmpWVE9XUUNCaVM4RG15YV9mc1JHbXVrNS04RkZfN2pOTzlCT21w?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Duke Blue Devils News: Maluach stock rising, Zion on the move, Football faces major expectations and more - Ball Durham",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaVpTUWljQWlDd2JBMU15Z1JGbUhlQTg1QVVNQ3VsdjNoNUNmLU5QSXd3UndhOE00UHNXdEtRWm5CUkdSYXlZSTNvMkF6V3JJRlBvdnBNZk9reGJ3ZUg4Z0ZlZDlWbV9RcGxwY0Q4SnlJOFVVbGVHQXNsa3VqbFJ6ellzdUEtTkVob2pIMldJakFCU0k5bkczandLT0tfcUpqeEY0c0J6cy1iYTFVX1ZDX0g5RVhtM1ZGUkFJcTFKSy1Dbk1DTm9Lelk5azhvWkJUZUlUQQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Zions Bank Reports 18% Earnings Growth as California Branch Acquisition Adds $630M Deposits - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNHZVUEVPQ3ZKZ0xLQjBaRHNyeEpPWDJSSUgxY0JsNnlWYXJNblVPcUdjUFNleVE4QVBDeVJpcTJLQVlIV0IxZndZT2ZIaXZ4SzBvbUdzbl9PbXdXR0tWZ2hTODRfb2J2aHdaSzVRQ21iaWI3dlYzX3ZFNHg3TXhvSDdDYlFuR2FOblREZlV0SE5UTlQ4aDMxNXFXT1NGaHBnVmUxYXNjZTZsN2YxMEQ4d1lrS1Q4Q3EzaWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Zions (ZION) Surges 8.4%: Is This an Indication of Further Gains? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2SWtENmh5RldYckEwLXljZThIOG5BalhEeldrYktkbk1MLUp1MDBhR05TaWw5WnN6dXRWcDhRb3g3SC11cjFsLXE3NU5KLW5ZbEhHUlZRTEhhZnRsQ3Z0Y3gzUmhEbmUwUDBzT19hRmdPYmtnV2c?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "ZIONS BANCORPORATION'S BOARD DECLARES DIVIDENDS ON COMMON AND PREFERRED STOCK - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU1g0U3g4d05CNTA2NWJNdlNuamduNHltU19xNm0yVXQ1WWp0NU1SOURSMnJ2YXFoLS1EZno1cUFWTU9PSTduUUJCVE9SbG5lLTlYWmw4THdyUGFDY094UzV0dE1Xc1RTUHZ1Rk5OSlZyOFJhME9BVEIzWGpUVEhyLWNRZEdTTmUwY3BTR1pmYVQ2Sm84aVp4ZDJUdENBMTlpNmM5SEl0cm5NYzlDeGZHYnJqSUxUdGJfNGc5QmNVenpNYlVuZWlfbVAzakk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zion Williamson’s girlfriend Ahkeema’s shares self-motivation story on Instagram amid r*pe allegation on - Times of India",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOaTgyTWNOZmdjV1JwYVktZnp4U2czbEU4UXdNMG1DS3lxTFN2STVPTXZ2SExUaUZCZkk2eUdiWWVNQk5pbXliOWtUY1J3NE9SR183Z3ZVb3BRRndUNlB1SUg0WkRrQ3Z1Sk12S2FTUEhyWU5YdW1fa0xqQTh0MS14X3NIV3NrbnRoTDdlRmhocDhrMEY2b1FaYWl6N2FYYW5NXy05bkJSSUpyTzd5ZndQU09ES0hqaVVsbmtZR25YYm1RMTltb2lKUFdlaGlFVTdQbjBzZndIZkZHVV9qWXV6ajAzeHlPaEltbGFnOUtsZ1E4UE5qTDBZRWxSTWsweWkxb0NxVmJOaVpNOG1MRVJ1Ym9aMnl5cnQyNDJVY3FFZE1hd1BQSWxqUGxxZ0tUd2lrUnVyUllqNNIBvAJBVV95cUxQZUk0TFV2NjhlVU5ZTWRLa2hneDhOZ1dQR2FhZXgxUzN2R1dSQ0JiX1I0MUc2VnY1SG5mZnB0dE1fVlZPalBON1FTZVNTdThxdGktNUpkQks0WnZWMHJtOXZ3MHhua3dGb1h2SUhmSy1YWjBqTDd4RTltMUVhWkVFV1Bmcm51aEF1VElLYjExVEVKSkhESEN2bVBHQllueXRhWmRZWUVSVG8zNHhhNjNCelJobDZrRFJjaHZTdEhTS0o1S0l2OHlWS25ja0dYY0k5bXNVTGpydzlVYVlhNmI5T25YTGJKaXhJeUd0ZnhxV2otel9DeFMtVjZkSWJaMlJhUXZGejM4dl9PNHFLclVuazg4amkxUFRIenpVZl9HX2V5bGJ3TmRUZ3JybVdfZUJHaW54aUNHRnNmZWxf?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GAMMA Investing LLC Acquires 541,389 Shares of Zions Bancorporation, National Association (NASDAQ:ZION) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaUZhUkN0U1J4NFFJLTVseUJNcDE0TWlTUzVxUHUzQWNfWjhIbWZoYlUtQy1DbFdMN0UwY3FkSHJIRzczeUNQRWhDYUk5UFJOR1o2ZG9xLWJ5MTBZTEQxVDlOdjA4WVlzRmpYYVM3NVNCV3ltRFo4OERNY1dlZDV4RDVvQ0VjWUZHaHRkSzVWTDRCeWdzZGlFRXItQjlKLUZuaEhPVDRHUklNY1JsR1YxSEVHTDh2S0Z3bnp4cjRkQjVvR0RGa0xVVDM2aGQwX3RJWVJjVGtOdVBRQTRWUVpIeC1aUmJ6cVRMS1ptZDdNejE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zions Bank Executive to Reveal Growth Strategy at Morgan Stanley Conference - $89B Regional Leader Takes Stage - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMEVGMnhubUJFazlReHlVbWgtU0trRzVzRWwwd1gzUHkxZDk2RDNQa3ozNHVSODQ2V1ZBdzlod0ZaVmdPWnNEbGkyeWFaVElUSlZZd2lYV3dSUThYQnN3TXF2VnVKQzlGUU44LURCVDdSQmFwRW03X0ViTFhxUmlPZzRxUGxqWm9URV9Pb2JBYzg2WTZqNE5qM0h6QlYzUVpkWEJ0T2FaMVRNRDVYU0M1ekNwMEhKMTlmVmpfMjQwRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zions Bancorporation: Hit By Growing Economic Uncertainty - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFdYRkhiUFdSMEpsNUtnYWp4Rm40cy1odzVxSE9jd2xwTm1sMUpJckpFLUpla0Rjdkc3d1l3MmlLSHVFVHhNOTZCMzY1VGE1WHoxZmJwM3ByODkyWnF1OVY0ay1lbER4U1BlTUltSzdoY0RKSlUxWndqUGthU3JZSG9KenJZS29SSWpwRnZwX3kxN2l4djM3V0RKMVgwdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jason D. Arbuckle Sells 294 Shares of Zions Bancorporation, National Association (NASDAQ:ZION) Stock - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHZ4alNSNzRSb05FOWlxMWlfbGNoaXpGM3lMUElUYVJoRThMaVlMbDg4Y1Q5LV9IZjRzUXgyUkVRcl9ycDVhcTlVSFA5clpUZ3JmY1ZjYV9uRWFYQ3FmRlR6OGxTcUNkS0ZqQUNwci0yaDdtUXc5azA5a19jak5uVk5jWE9aSERaRlIzUmJCX3loT3A0Ui1idXFIVjNabEY1ZlJ6NnM2VXlsd3pjVUNRSjVnMGpIS3VwVDc3UjJxVzRXUzNIQVdyR1Iya3c3dzcxb0lIZG5FTm1QZzhZ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Zions Bancorp Q4 Earnings Surge 72% YoY to $200M, Revenue Grows 9% Despite CRE Challenges - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaERZZXViMVpaa1FYTHBKNnZGalJTRmhTMlFXVzJHRG50UXZGSWp3TUVna3RZME0yUC01QlQ4Ykh2cE8tcVdXR1RlaW5yZXV3ZXZmcVllOTlhcFp0NVpNVE1hVld4clJ1WDljVlRIcjVUdlA5LWZYR3pwVEZNWmV3cENTck5BaDN4cHFDa3JPNHFyblphSG12QzJQR19mNDg1M0xKVDNzRmNZamVveWh2WEowZUp2QjU3U3J3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Zacks Research Issues Optimistic Estimate for ZION Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQWFoUjdWbnZjTVBtaTlfNVZ5QXFjQ3BBNUI2NmhTaVJES1Y4SzhWYTg0WTBiUm5EbzE4aTR5dG5mc3lPTGRTVF9GZGY4RXh6MnJfM2IzUlNRTUtqTXQwNEFyeXNITVR6c1YzZS1JejJ1OFBWUkxWamNMNmM3YnNwOWs1dlN0SzdLc3lDR1ZsSFdsTnAyTGpmNTM0RmlQS1Zqa2ZuRUNMU2RFbGs5VGc?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Regional Banking Giant Zions Unveils New Shareholder Return Strategy - What's Behind the $40M Plan? - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1NLTWxNX3FJcUVndTlDZnRiN2dkVlM5NElkTm1pOXVPVmxzX09rVklkaXR4WlhqNndGU21naU45Y0s5MkFxRWJGaEtnZlZoX19pWGpXaVJnRjR1a2ZFUG1YRFIwS2FiVXc1VUZQS3l2d3ZSUU1XTzdRVEZ5TGIwczZCS3lWd21ZU1U4YnlXV2VkYndyY25OUV9BS0FfcjZkTVpnTFlXa3I5WEg1TmY3Zw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Equities Analysts Offer Predictions for ZION FY2027 Earnings - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXE1MzRzWHh4QWpEUTJhMG4tWXViSVdBWXVvSFJDV2Q4UnR3NVFLb2tFY3hMZXhzTTlnMVRkSUdDOS1KVU1DYldHeXZTcFFSdGVOR0pWRjdPOFMyd0lOamxWOXcwNGh2LTlPbHNOZ092UWtIZ1ZFU1lXeXB4VTNYU3llYlZET2RlaDAzZS1Wa19jVWVqeFF3TDcteC01akh5RkRzOUhFVmFSV2FFNlpwcjJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GTS Securities LLC Decreases Holdings in Zions Bancorporation, National Association (NASDAQ:ZION) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbGtwQXFZV055OV9UMkVrNWdMX21SVTRycFdkMjgwRXNWU2E2WjlNRVlZUXVGc1RjNmt4WDYteVl3X1gza096UE1Ra01OUDNxaG1ib1VTUloyOW43OXBVTjZWaEo3LXA5c0ZEY0FJZVlQZ3VpRkVHclQwdld2QlVIc2ptaVF0bTNUUjVLYnB0LXRlOHZlcV9aYVhVa19ncW0zS0x1SF9hUnFoUjZMMTVrUXk2bkNES3BwQXNVLXBoUTlXbVVjSjJ4V0l5TDVySWhGbFUxaGRBYUktOHVsaUpnQkpTVzQ5ejRaNXY4?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Zions Bancorporation, National Association (NASDAQ:ZION) Shares Bought by UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxObGR0dF85bGFxODFNTXZEVW9va1FNQmc3QVVFbUw2TC1MWTlidnRoNDQyZ2hCcm5xbWRmTnFEdEZpMjZEVTRCdnd1U3J1TzNobFR3QXhIQmJZd2pZY0NvLXFGbkhmTExHeExRVklubGRvSEQxY1R4ZWtvWjJRUGEzczZuREhBS2UzSGMzYXF4Q29LQkJoUEhUNTJxVEdXcU1qMUpOQVJjWUFuMFktVk5xSVU4eldSVjhQRDRiUlo1NVYwMmtSVWl5eUlfbW1HNDh1b0JWa0NkVHYyd2F1RDNDcmZzVk5vSmNpMTZWZGlUanBrUVZjUXpkR2lNZ1JGdU9ZTE9hb3hjX28yeWw1SW9vOU5KZmdOV3hUYndtaEp0dXBoSUtiaUR0N0lNU3NJT0Jo?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Vident Advisory LLC Cuts Holdings in Zions Bancorporation, National Association (NASDAQ:ZION) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPa1ZVa2xMY1BNRTJqM1BlZUd5RFc0OUM1c2UzeUJpbktjVS1idU1lNWhDanNxeVY3ODJxUGJTak9fWlo4SjVBNXZ2MG1UUk1uUjA3RlV6cjAzUXpKNmRuMVlzOHJhZW1VUmFuTHdHSUhFRVJUWTk3Y1BtYVRZeWtDRVA4S192dUNXMmVncE90a05PNTExX3E0bDNoYWJUUzVIZWp1VnhqNHItdFhrcFlkeldXeEd0V3BTazQ3OWhTc2YyMzdrbTN1ZzRhQVFUVVZteE5oMlFzMEtlTHVBMVU0Sk53?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Two Sigma Investments LP Has $4.38 Million Position in Zions Bancorporation, National Association (NASDAQ:ZION) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQmxlRFUwbXNCRldkd1RwckxyZVdibU9mQWlFZDFUUGtnVHp4NUhWMTU1RElteW1aNGJvaDZMck5FZjRVNUkyRm5sOV9vYjZyR1hMNFVucVpBbXdKUWx0MEJRNXpsSHE4a1BJdEtyVEFHLXAwWVFfMC1OREFNVlFvYUdKa2FtcUJSN1I2c2hwVS1GUjA0bEp4U0FDVm9XR3VGczdwRzVJRENyM1ZaUTRwaFc1RUZrbDBwaDhEUEZEalgyZXhNWFlKaGJvZXFxamJxUGloa1JvMHhYX0w3N0dpbFZoZlFHT1VsUm5fY255OTZndWM?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 59.92
-      },
-      {
-        "date": "2024-12-03",
-        "price": 59.28
-      },
-      {
-        "date": "2024-12-04",
-        "price": 59.17
-      },
-      {
-        "date": "2024-12-05",
-        "price": 59.13
-      },
       {
         "date": "2024-12-06",
         "price": 59.16
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 46.97
+        "price": 46.95
+      },
+      {
+        "date": "2025-06-03",
+        "price": 48.25
+      },
+      {
+        "date": "2025-06-04",
+        "price": 47.58
+      },
+      {
+        "date": "2025-06-05",
+        "price": 47.68
       }
     ],
     "current_price_data": {
-      "price": 46.97,
-      "change": -0.39,
-      "percent_change": -0.82
+      "price": 47.68,
+      "change": 0.1,
+      "percent_change": 0.21
     }
-  },
-  "news_sentiment": {
-    "summary": "Voici la synth\u00e8se courte des titres d'actualit\u00e9s r\u00e9centes concernant Zions Bancorporation:\n\nZions Bancorporation (NASDAQ: ZION) a rapport\u00e9 un revenu d'exploitation de 18% apr\u00e8s l'acquisition de sa branche de Californie, qui a ajout\u00e9 630 millions de dollars de d\u00e9p\u00f4ts. L'entreprise a \u00e9t\u00e9 f\u00e9licit\u00e9e pour son acquisition et sa strat\u00e9gie d'expansion.\n\nAhkeema, la petite-amie de Zion Williamson, a partag\u00e9 son histoire d'auto-motivation sur Instagram en r\u00e9ponse \u00e0 des all\u00e9g",
-    "sentiment_score": 0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

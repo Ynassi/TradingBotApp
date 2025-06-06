@@ -2,55 +2,103 @@
   "ticker": "9001.T",
   "name": "Tobu Railway",
   "sector": "Consumer Discretionary",
-  "market_cap": 507001798656.0,
+  "market_cap": 496821829632.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.041511,
-    "PB": 0.9143986,
-    "EV_Revenue": 1.995,
+    "PE": 9.836,
+    "PB": 0.89603865,
+    "EV_Revenue": 1.975,
     "ROE": 0.093669996,
     "ProfitMargin": 0.08129,
     "GrossMargin": 0.31306,
-    "DividendYield": 2.55
+    "DividendYield": 2.6,
+    "DebtEquity": 138.93,
+    "CurrentRatio": 0.403,
+    "QuickRatio": 0.238,
+    "FreeCashFlow": -18655500288,
+    "OperatingCashFlow": 90071998464,
+    "FCF_Margin": -0.029543393298413236,
+    "ROA": 0.026970001,
+    "PEG": null,
+    "EV_EBITDA": 9.73,
+    "BuybackYield": null,
+    "PriceToFCF": -26.631386023540554
   },
   "technical_indicators": {
-    "RSI_14": 39.796583204159944,
-    "Momentum_10": -2.5700038358266206,
-    "MACD": -20.81711722664022,
-    "BB_Percent": 0.217180798998261,
-    "SMA20_above_SMA50": 1.0
+    "RSI_14": 32.416156285854484,
+    "Momentum_10": -2.5259447816722145,
+    "MACD": -29.213444503307528,
+    "BB_Percent": 0.107269082124938,
+    "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8958572994254861,
+    "ValueScore": 0.8930273095261296,
     "QualityScore": 0.442705976225557,
-    "SignalScore": 0.6920974611326474
+    "SignalScore": 0.7043609659521335
   },
-  "volatility": 0.013011660185549,
+  "volatility": 0.0129138152092993,
   "beta": 0.051,
-  "return_6m": -0.0124416796267495,
+  "return_6m": -0.0134625602872519,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 4,
-    "target_mean_price": 3012.5
+    "target_mean_price": 3025.0
   },
+  "news_sentiment": {
+    "summary": "L'entreprise Worksport obtient une certification ISO qui ouvre des opportunités de partenariat avec Toyota, GM et Ford, ce qui pourrait stimuler sa croissance. En revanche, Sarepta Therapeutics est confrontée à des retards et à des incertitudes de la FDA concernant son traitement génique pour la DMD, ce qui pourrait impacter négativement sa valorisation boursière. Les inquiétudes persistantes de la FDA soulignent les risques réglementaires dans le secteur de la biotechnologie, tandis que l'efficacité opérationnelle reste un enjeu majeur pour les entreprises cotées.",
+    "sentiment_score": -0.125,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.12,
+    "neutral_ratio": 0.62,
+    "negative_ratio": 0.25,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Worksport's Game-Changing ISO Certification Opens Doors to Toyota, GM, Ford Partnership Opportunities - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVdrOGdfTWNzWFNMZ2RmMk8xMXhOcnZleW9uQkxIQ2FTSUdSOUVPYk5zZDVMSUQyWHh1bXZidTRHMjMwTm5RZG95VjFuT0t6QXR4eXVENEp6dE9JVGVaQmVqdElZVWFqamJiUDhnZENDM3VFZUw2bE9TMGV5cm1rMU5uVXBTOW5BeUVHcXk4MXVmX3BvQndTR1IxUzIwT0VqeTBOb2hQaDl3bkxqNVNjcUNna0wxNzhzZHRRTg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "FDA shocks Sarepta, ordering AdComm for DMD gene therapy in sudden change of heart - Fierce Biotech",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGloY1JQNHRRZTFiQjQwbUVvWk9USFh4TEhIRGNTeEd6dzc0ZnJldnExUEg2ZnJxNGVMWFNwSElOSXdMQk42TG5JT3VUenBBOE85ampKMmdYbDZqeURDeG0yNEJoblNwWjRlSXUwb1l5eWNrMnBUY2Y2aVZkQ05ES2ZoSTh1cmxMM2d4NUxTZkpjZFk2MFIxdG5NOWJmMXBJVXpnaVIzalFjazNFdFE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "SRPT Stock: Positive Spin Isn’t Working for Sarepta Therapeutics - InvestorPlace",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzRtOEp1SVFaMklDX0U1ZGljZ0lTT2pIR0dGYV9jejAzREFEUnZhVTlnN092YkE4eVYzdmRmMEZGNlp1aVVvX2pCR2hON0hEb3ktcmVocWtmWTlqLUZCOXhYdEFZNDJkdXY1cVo4WU5xOEV1b3hoVFFzOHliUkg2Vg?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Update: FDA Delays Decision on Sarepta’s DMD Gene Therapy - BioSpace",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZzRpNk1ZdEZzZmo1bTBLVW9HWXhBcnAyS3JSbG9NSjFUbFFsa2ZSQXRxWXUzSHFwWDVtWlFBYWhmc28zRGRnUU9uZUpoTTJVekxnZFhJTlBvZmVNWVhBeGJuMm5hVXk4Sy1EWlNIdGxHN3FRT2N0NGs4QndlRS1Ra2JsckJyWmh5ckZUa2FpclFReVNnam1NZFhINlU5bnpTdnBfaw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Operational and quality effectiveness - Quality Digest",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHczUTZqV3Y2RWhlZ256aFJhQ3NHVExUNzNic3k1V1V3OWk4cGdVVnVkeF9oWTI5UDhPWG1DSWFXb3h1MmdfWXpnYVppY0EzZ1J0WnRCSnFwWHNEMnF4cWxKQVp6QVc5UURJS0ZmU0E0aWZKMEdGTGdGZHVBZ1h6R2c4VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(PDF) Benefits of the ISO 9001 and ISO 14001 standards: A literature review - researchgate.net",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOW1EQnpVakhjWDJTbVBaRk9fbkZGNmJtR0RJa29uTnlYRXlDX0FEekQ5TnpIYThDZmFPUnFjRmJkX2t3Q2I1TWlXdjE0ZkZ1YUFqdmxuZzVmQktPQ1A3Qk5nN2RjR1Bvd3I5OVJ6SjY3d3VTdloyQU9rYWh6Y0hzM3NFeTY2MnEtNnJ4dWlJbnFGZkpVc1BWeHpQMDdQV2MtSE02TFZpaVdpUjBqRGk2aExlSVlUV2JnRGlv?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "FDA's nagging doubts about Sarepta's DMD gene therapy won't quit as advisory meeting looms - Fierce Biotech",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVdENHNlZVhaRTljWVBEUFVkem1UX0IxendMbE5uZERYQmZfbW90MWdIcUJNc1ZSV01tRDAtUjVvQm9EbFFTQm43cTFQY3JYdGtqS3RENUNOYXMwb3Y2VjAyajRBSV9KWkZoMWJhbWN0bXlhZ1NuWXZnYUJuX2RZNHVRbV9UWmlxTEVnc2lUMGhBRWZXM3hsZkp3bFlJLXRzWmFMTWdSVk84NjhvM2dJc1Q0WElEb1piZ1E?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Panerai P.9001 Calibre - Cigar Aficionado",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwdDlERUVVRTR6UWc2OEdxZUNHaE9YVDhSV3M4MUFxQWJJTFhkWWJtcU41SXQ4eE15aWlDalVrZ0NRMHF6eF8zUDlsOG1Vajlvc3VDRmp5QXg2TmJnN2p2TVVNeTQ5S2hyM3JtT1F3WGZ4S1U?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 2572.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 2593.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 2560.5
-      },
-      {
-        "date": "2024-12-05",
-        "price": 2549.0
-      },
       {
         "date": "2024-12-06",
         "price": 2558.0
@@ -514,24 +562,28 @@
       {
         "date": "2025-06-02",
         "price": 2540.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 2518.5
+      },
+      {
+        "date": "2025-06-04",
+        "price": 2498.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 2489.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 2511.5
       }
     ],
     "current_price_data": {
-      "price": 2540.0,
-      "change": -12.5,
-      "percent_change": -0.49
+      "price": 2511.5,
+      "change": 22.5,
+      "percent_change": 0.9
     }
-  },
-  "news_sentiment": {
-    "summary": "La certification ISO de WorkSport a ouvert des opportunit\u00e9s de partenariat avec Toyota, GM et Ford pour des produits de sport - Stock Titan. La FDA a ordonn\u00e9 une r\u00e9union du comit\u00e9 consultatif pour une th\u00e9rapie g\u00e9n\u00e9tique pour la maladie de Duchenne (DMD) de Sarepta en changement de c\u0153ur. L'efficacit\u00e9 op\u00e9rationnelle et la qualit\u00e9 sont des th\u00e8mes cl\u00e9s de la revue Quality Digest. L'ISO 9000 et l'ISO 14001 sont deux standards ISO qui offrent des avantages pour les entreprises. Une \u00e9tude de recherche sur les avantages des standards ISO",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.14,
-    "neutral_ratio": 0.71,
-    "negative_ratio": 0.14,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

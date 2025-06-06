@@ -2,55 +2,68 @@
   "ticker": "8308.T",
   "name": "Resona Holdings",
   "sector": "Financials",
-  "market_cap": 2938188857344.0,
+  "market_cap": 2913032470528.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 13.849816,
-    "PB": 1.0767514,
-    "EV_Revenue": -8.937,
+    "PE": 13.766233,
+    "PB": 1.0700216,
+    "EV_Revenue": -8.955,
     "ROE": 0.07767,
     "ProfitMargin": 0.21624,
     "GrossMargin": 0.0,
-    "DividendYield": 2.27
+    "DividendYield": 2.24,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 24790999040,
+    "FCF_Margin": null,
+    "ROA": 0.0028,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 62.024072701541314,
-    "Momentum_10": 7.24759111855886,
-    "MACD": 43.5255896536396,
-    "BB_Percent": 0.7297300055494563,
+    "RSI_14": 58.66361777309302,
+    "Momentum_10": 1.8414731785428344,
+    "MACD": 39.60198652115787,
+    "BB_Percent": 0.6547809167075901,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.928210865266682,
+    "ValueScore": 0.925753627122736,
     "QualityScore": 0.3952203478063255,
-    "SignalScore": 0.5022620410137293
+    "SignalScore": 0.5333102091597788
   },
-  "volatility": 0.0317824245823319,
+  "volatility": 0.0316213134050237,
   "beta": 0.196,
-  "return_6m": -0.0038193183672903,
+  "return_6m": 0.0312854806043321,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
     "target_mean_price": 1368.1818
   },
+  "news_sentiment": {
+    "summary": "Malheureusement, je n'ai reçu qu'un seul titre d'actualité économique concernant une entreprise cotée, et il ne semble pas pertinent pour une analyse financière. Pour pouvoir fournir une synthèse pertinente et utile, j'aurais besoin d'autres titres d'actualité liés à des entreprises cotées. N'hésitez pas à me fournir davantage d'informations pour que je puisse vous aider de manière plus efficace.",
+    "sentiment_score": NaN,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 4,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "A look at revised Form 8308 - The Tax Adviser",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QRS1WMkFvU1RMQ0gwNGFnalFTQnlRNXQzVi1nWERTcE0xU0EzaVNKSFdjbDE2N25pWXJlU1hvYnlFOEtXYzVKWVFwUGlxSHg1bzlJa1dQREFLWGw5WUh6VFNiQmR0dzNnZUF1c1ZaY2RGWWxmSktxOUlYQjlRYU0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 1297.5
-      },
-      {
-        "date": "2024-12-03",
-        "price": 1300.5
-      },
-      {
-        "date": "2024-12-04",
-        "price": 1245.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 1245.5
-      },
       {
         "date": "2024-12-06",
         "price": 1225.0
@@ -514,24 +527,28 @@
       {
         "date": "2025-06-02",
         "price": 1280.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 1274.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 1296.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 1272.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 1281.5
       }
     ],
     "current_price_data": {
-      "price": 1280.0,
-      "change": 0.5,
-      "percent_change": 0.04
+      "price": 1281.5,
+      "change": 9.5,
+      "percent_change": 0.75
     }
-  },
-  "news_sentiment": {
-    "summary": "\"La Form 8308 a \u00e9t\u00e9 r\u00e9vis\u00e9e pour simplifier les proc\u00e9dures fiscales internationales pour les entreprises am\u00e9ricaines\".\n\nLa Form 8308, qui permet aux entreprises am\u00e9ricaines de d\u00e9clarer des revenus internationaux, a \u00e9t\u00e9 r\u00e9vis\u00e9e dans le but de simplifier les proc\u00e9dures fiscales internationales. Cette r\u00e9vision pourrait \u00eatre b\u00e9n\u00e9fique pour les entreprises qui op\u00e9raient dans plusieurs pays, en facilitant le d\u00e9claration de leurs revenus internationaux.",
-    "sentiment_score": 0.0,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

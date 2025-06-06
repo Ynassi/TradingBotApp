@@ -39,7 +39,8 @@ export default function Extraction() {
   const indicesChartData = [
     { name: 'S&P 500', value: 500 },
     { name: 'CAC 40', value: 40 },
-    { name: 'Nikkei 225', value: 225 }
+    { name: 'Nikkei 225', value: 225 },
+    { name: 'Us Small caps', value: 500}
   ];
 
   const sources = [
@@ -56,7 +57,7 @@ export default function Extraction() {
       </h1></div>
 
       <p className="text-gray-300 text-sm leading-relaxed max-w-4xl mx-auto text-center mb-8">
-        Cette étape vise à centraliser automatiquement les données financières, techniques et sectorielles des entreprises composant trois indices boursiers majeurs (S&P 500, CAC 40, Nikkei 225). Ces données sont ensuite nettoyées, normalisées et archivées localement afin d’alimenter les étapes suivantes du processus analytique.
+        Cette étape vise à centraliser automatiquement les données financières, techniques et sectorielles des entreprises composant trois indices boursiers majeurs (S&P 500, CAC 40, Nikkei 225) ainsi que des petites capitalisation américaines. Ces données sont ensuite nettoyées, normalisées et archivées localement afin d’alimenter les étapes suivantes du processus analytique.
       </p>
 
       <p className="text-gray-300 text-sm leading-relaxed max-w-4xl mx-auto text-center mb-10">

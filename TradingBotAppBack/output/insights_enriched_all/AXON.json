@@ -2,55 +2,163 @@
   "ticker": "AXON",
   "name": "Axon Enterprise",
   "sector": "Industrials",
-  "market_cap": 58945126400.0,
+  "market_cap": 61418053632.0,
   "source_list": "SP500",
   "fundamentals": {
-    "PE": 183.7755,
-    "PB": 23.062197,
-    "EV_Revenue": 26.095,
+    "PE": 191.02179,
+    "PB": 24.029726,
+    "EV_Revenue": 27.132,
     "ROE": 0.15166001,
     "ProfitMargin": 0.14897999,
     "GrossMargin": 0.60599,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 80.08,
+    "CurrentRatio": 2.825,
+    "QuickRatio": 2.5,
+    "FreeCashFlow": 483596640,
+    "OperatingCashFlow": 450044000,
+    "FCF_Margin": 0.217221047858905,
+    "ROA": 0.00677,
+    "PEG": null,
+    "EV_EBITDA": 534.439,
+    "BuybackYield": null,
+    "PriceToFCF": 126.91249428035728
   },
   "technical_indicators": {
-    "RSI_14": 70.60402740427146,
-    "Momentum_10": 3.3660325424824853,
-    "MACD": 37.745531214411585,
-    "BB_Percent": 0.7484404787998482,
+    "RSI_14": 75.56637020401375,
+    "Momentum_10": 7.105850653518879,
+    "MACD": 38.657169368670566,
+    "BB_Percent": 0.9957253038319328,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.7865010495899248,
+    "ValueScore": 0.7785423520533151,
     "QualityScore": 0.3498527095527577,
-    "SignalScore": 0.48533601303371
+    "SignalScore": 0.4140616997561086
   },
-  "volatility": 0.0370997472406222,
+  "volatility": 0.0368361737399048,
   "beta": 1.285,
-  "return_6m": 0.1897657283563005,
+  "return_6m": 0.1437269120625879,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 14,
-    "target_mean_price": 710.95856
+    "target_mean_price": 721.31573
   },
+  "news_sentiment": {
+    "summary": "Axon Enterprise, le fabricant de Taser, a récemment attiré l'attention en raison du salaire élevé de son PDG, estimé à près de 165 millions de dollars l'année dernière, ce qui en fait un milliardaire. Les ventes importantes d'actions par un directeur et l'augmentation significative du cours de l'action d'Axon ont également été observées. Malgré ces signaux positifs, la question de savoir si le titre d'Axon est trop cher ou s'il est en phase de démarrage suscite des débats parmi les analystes. Avec l'entreprise atteignant des sommets historiques et des recommandations d'achat émanant de diverses sources, les investisseurs sont attentifs à l'évolution de la situation pour déterminer s'ils doivent acheter maintenant ou attendre.",
+    "sentiment_score": 0.35,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.35,
+    "neutral_ratio": 0.65,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "The maker of Taser is the highest paid CEO, taking home $165 million—his new pay package and soaring stock made him a billionaire last year - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS25oSDZFaGJxakVuSDZJS0k3NjVEemNmay1ZTkxNZk1EOGFRQTNwNmtITUNtTEllLVdEX3V6U1RoOC1HSXNEdEpJSkJYNm9iTnRpOGtMSHJSRXNvUnFJNHpza0NBRExOVzdUMDRXTWlldmpFMVFkWUQ0VEVXNHpyZE1qeElGOEpoSjlyNnBFVks2cm1HSG1nWkRiQkcyQkhpRlZDS3cwUElJUno4dEp3Sw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Director Cashes Out Millions in Axon Enterprise Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeDIyYUZSTlJmTlhXa2lNR3ZCYUF3bWlkRzdYN2wtbGw5VDBtQjlSNWVXdkV0RDNsdzUzM3ZiVDZKMmY5MnA0Z050NUVUcEpKbVJjdmdTZnRTR1BaZEFxZC1jMktYVm5xUzF5Z2IyRHBQTUYyaDZtdTFnWmxQSEJ5YXhteHRsbnVaVG5lU01jTE9lOWFLekdNc1dLVUlQVFBfUHR0Wm44VFNraEwyNXVHcm9EaWI3UGlDNWY1VQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "This CEO collected almost $165 million last year — more than the boss of Apple or Blackstone - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRzRkMTdQcTZ6NHBHYWM0VlcwWmk3UDJDRU5ieE10LWpIVzM4b3RfcjUxb0RPM1BDbnh6eW93QVZpZ0FMZTdMQVNPQ0pEUFpzTTdGTDRjT3Jja2YxczBVOGRlVDNfVXVPQnNCZzZSenpGV3B2djhELXg3WkROOTVGWmExdzdVWlp4V2JiX192VTVkTUpBS3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Axon Stock Too Expensive—or Just Getting Started? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaVk4QnNOYUZfUkowcTFZV0pjRlhma2dQdFR5ZVJaUE1rWVVDVkhTN2I1WTI0UmpQRzdlaTFrQm9zb19Ya1B3eHRkVG9YVlJaeHlMLUYwWTBQNjRSWTJHcHQ3anFQejd3SWszZjBjdmhVMU92ZEJJYk1WWWdaWkg1STlBNTZkVmxwbEtSOVh1dVNWUQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "1 Potential Stock-Split AI Stock Up 1,780% in 20 Years to Buy in 2025, According to Wall Street - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BYzk3bklwYjF4VFBYREdRSzNLRDBwQnhlSFpNN0FyS1ByRTJSWjJWNlNGN29kdWFnVzNsb2lmLUxlVzZtemQ5SU01eVhlX1JrUV96X0lkRVlvU1I5a3k5alozbnVyZkhjVmdMQndn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Broadcom Results Ahead - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Axon Stock Is In A Buy Zone After Reaching A New High - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU0w5OHN5eS1NYzFxSjdfUHpxVGoxaFVLREk5UUVQUV90V24tekVQaFVjUW1QNjZRVFNRLVhwMzZLSHRQT0JZYkVwV09rbGFWNmxmeXZ2TVBDSFk2TG1hU2JIRVE4WUY4N1NKQUZTSEhjY05uc2NjdXZvekRQU0JuNTAzR083cG16ZXpKdElYNmw4dHhPajhmcHIway1mSTE3U0tJcExfaE9JV2M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Axon stock soars to all-time high, reaching $756.7 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeExURTc1MTFyaDFoemZ1YnVoVDdYOWJwYklrRkxEbXNUVUdBa0hMbXpUSmF4T2M2M25xTWNRc3NaMENCd0VJVU9Oak4yN3VDWjJVZ2toblNlUThIZDB4YzdTVFZvdzhDME42RzJNRk84cEM0c2RXMktxRjVfWW0tZnhJaHBkX0d0X3RuV0cyS0ZmYWNhamNmVHE5VHdyRl9fb2hHYUlB?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Axon Enterprise Trades Near 52-Week High: Should You Buy Now or Wait? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWJhaUF6MmU5NmQzVV9fcXczX29wbXU4VlprQWpHWHBNdHNCcWFGZWozNUZyRnhQMFlfU2M1eXdyV2VMVzBzZG1oSjJNRnljT2VKaVpnWjNOVWFKUDh2WjI3dHJ3LWp6b25Lc1hWaVd4dWR2eVJBN3FrRTdrUThXQ3E3Q19vZzVIeXlSZVd2WlZPYVlOM3BCTGRiRGJlMFFqWExPV2xTQzdVZ20yWkhFUUo5MmVncExkZGVfaElXQmk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "2 Tech Stocks That Could Help Make You a Fortune - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNelVLT29qdEFLd2h5MVZmem40Si12RVVJX09ndzBuRUs0NTV0bVotdGpQQkJIYU5xQXRTX1k3SGg1Y3dlNWFNWlowazd5eGN6QVZnR1ZXMVJiV3VIVUl2RUJOTE1LTUpDNFBOR1VoRFFHMXhiUTFHa1FyOWhiZmx2clE1RXY2ZkpfaWN2RXRJU1hoV0ozU2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Take the Zacks Approach to Beat the Markets: StoneCo, Axon, Intuit in Focus - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcC1KWnlnMUs0VFhKWFREQm5xOGxKemo5a1dLd0hvdFA3ekgtdjRodTlnNGhtMWhfUmh3NDJhWlZtNlp2YjkwNFNNOE5NRzI2aG1BRU1tamVTY0NSVXNuYjJ2RWdieWdtbzU3OFZGWFhwc2duVjlPbFpzTkxFQURVbWFDdEgtUk5LaXE1YngzdGRQV1dk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "This CEO collected almost $165 million last year — more than the boss of Apple or Blackstone - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR01yZHotRW9RUk13Rl9jaE9hT1BBSXg2UDFSYnpUQW9vUjlqaktta2M4YVRoQWJmQ1BnWGwycUlMa0lFY1RIRXNnRXA2bjB4Yk9xOHdHTGtaR1hvN0FFZXNPSlpTMjNpWS02d0djSjlLclFYcTRHVUVjZEVXV3lHOVFxMVg3Tk1L?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Taser Maker Axon Enterprise Stock Soars To Lead S&P 500, Nasdaq - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTU9mOTF2VmI3X25lNWdtVFc4blNWcDc2STlablZQWXFHei10SDVHcURxX0JYZmJ3ZzlacWt6bmR5Z2puUWlWaUhjemlVMnA4NkVkZXhVUjRSUk9FVlVaeUFmcjRTVDJqSlJMS3h1SEdiTEVWYlo2LUw3bGdkZG14SENRZTRwTDcycnhNWFpIVlNPSGtwTlU5T3ZMQkhzeUowUkdpZ2ltWQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "This Insider Has Just Sold Shares In Axon Enterprise - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ3Fqa1M3Yy1qMmo4bVE5LXdCQzVXS2R6dG4xaERaU1VVREl0Q0dieXZmRmdYNG44VjV3RWFHVzBNbXMxdEZPNjk3UFViVjV0YjRIUU0zbXdVejBYc19FanZjQjMyemFFRS13cncwQlVyc1hpSVd6NkdJZk1tYmlfbWhvMGE5YWJBNm9CMXVDNnZSUlhYem5fbWhnRE5VOF9kTFJXbmVuU3o1c3N0cHM1R2hxRS1LeDgwMmxySVdDUl9SclRfYl9pTDlJRdIB0AFBVV95cUxQNXRmaXpVMUxVbDNIY3JzNlhpckVwbjl0dGZRODgxTERGQVduT1dtWWlTQ19YbjdrbUtzcGpwTEFjWXRpMW95anlvRmdkZjlWUV9OS2hMN0phMkZyVUxvZ2FibGdMckhNcXhsU3d2bE1YWVdvT2Rsa1U1NFo0ZmRWaDdxdmZSUzBPWkZFVkIxWGhaS0gxRXgwb2o1cHY3V1FTY0FIUW0tN0RZOWlVNV9LWFRQNmt3cDRQTU5fdXBKM2lSNVhFTVR0Y1ROWWVjMmxR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BofA Boosts Price Target for Axon (AXON) Amid Strong Growth | AXON Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0xGeEVVMU90XzJhRVBIc1NiQTg5dUxBUkVzbHpOaWYyRmRYOS1oQjZqV2ZtbEZlT2tNbnlfdXQ1X0IyQUFLYjAzZkYwMlQ0VmJtdHBVWDMxMzd6cnB3a3NOUlZHTWNEbkRQX1M5bzRMMWg0dVFweHllZFJWN2ttTTE0M0k2QndMdE1WQVRWeG9pbmpSTzhMcEdSMGp2dzJsV3FnSzVITXVfRlFHcUFhM09INA?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "How To Trade Stocks, Like Market Leader Axon, During Earnings Season - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXpWMmZjenQ2akpqcXRnQWhOSk90OGVhRVhhMzBZNFBZQk9hVnZzdnZmMVA1SXNidzg4RHdlQnJaS1hSNEJraW1ucC10R2lZX2tTR1lVSjd2U3c1OVJESllkMmNFN3pHUzFPWlFiakRqMHlJSldvcmctNGJkanJwX2tfcDlFZk8wcWlEajlMSDE0TUxQSERqeGJ0QllScXl3Vks5Unhvcw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Axon Enterprise CRO Makes a Multi-Million Dollar Stock Sale! - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUNYcWJoS1MyRHRSekZQTEZRZW16Z0w5dm5fMXNmZThPNWpqVWw2UnRWYVdTaFVxTXZFVjdZdElmb0hrS0htel9OcUc1Z0R6UVVCdWc5LVFyQ2MzU2hIWlZfVzV3ZUljdnRNVmR0b2g3LXhqcjZyU0Z2eFo2bC1oZFlkM1NZa3MzM0hpQVpQTFRkY2FQQ2xkcnRlUmVQV2tvaXJScnI4dDA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AXON: Competition Intensifies as Motorola Makes $4.4B Acquisition - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTWV0YzJscFlfMVF2Umdtc0VVeWpFZVZDVTB5YjQ5QUgyZ1p0LWRwbUJMd05EMGNlQ29YV3BjNWhDZTQ4b19MZnVCRmxMLXI2elBZNndldUwtUkp5Qm1IR0VNQ2kwTWJUVDZXcTBUN2c0bUpQdEpEMm81N1J3ZDE3NUg1WGtTTmVEXzJ6SFp2MVZTdmo0dFhZRVNFMEtSazMyTmc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Axon stock soars to all-time high, hitting $742.74 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUTVMZDdlTnQtUTlXNFgweUxqZHVteDFEa0d4dWJ4dFNMMXYtT3FicXVaQ2ctXzJUUVlHLVNtRkhSdExBRFZaVnRyMDFlMWJNX3Bnd3B6QWZ4VDF5aVpYSXZoaXNFTWdDdU1kc1B4T25kaGlhOEgxc29yRThlRjB4X01qM1Q0UkFFZnNyWDk4OGJSeTZ6dU9hUW5tUmdoeGRjQjRCTGp3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Axon Enterprise Stock Is Charging Higher Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQU1pVkJQS0RRZzhhRkhGWVB3THRUdFMtcVFkUnA0MUpLd0ZSN0FScjhpcFhWLTAzcVh4bXRhekk5d04tUlV5LVNkM2NnWmVLcGdsSDBERjNKMW00VllYVE9KWkRZeTg0YXlTQ0ZHRGd5YTFVQ2xSUGhEZ2JIMk45YmhmUjBsQlBHckdMZGJhNFM4NWZRdmo1dg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 636.39
-      },
-      {
-        "date": "2024-12-03",
-        "price": 669.87
-      },
-      {
-        "date": "2024-12-04",
-        "price": 687.39
-      },
-      {
-        "date": "2024-12-05",
-        "price": 689.78
-      },
       {
         "date": "2024-12-06",
         "price": 687.69
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 759.03
+        "price": 758.57
+      },
+      {
+        "date": "2025-06-03",
+        "price": 759.07
+      },
+      {
+        "date": "2025-06-04",
+        "price": 780.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 788.36
       }
     ],
     "current_price_data": {
-      "price": 759.03,
-      "change": 8.67,
-      "percent_change": 1.16
+      "price": 788.36,
+      "change": 8.36,
+      "percent_change": 1.07
     }
-  },
-  "news_sentiment": {
-    "summary": "Axon Enterprise, the maker of tasers and body cameras, has seen its stock price soar to an all-time high of $756.7. The company's robust financials and positive outlook have driven the recent rally, with investors focusing on three telltale clues. However, some analysts are questioning the sustainability of the stock's performance and have advised selling. The CEO of Axon has also discussed the impact of tariffs on the company's full-year outlook. Meanwhile, Axon is leading the S&P 500 and Nasdaq, with Wall Street bullish on the stock, while VnExpress International reports on the CEO who surpassed Apple's Tim Cook to top the US pay list",
-    "sentiment_score": 0.2,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.6,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

@@ -1,56 +1,164 @@
 {
   "ticker": "QRVO",
-  "name": "Qorvo, Inc.",
+  "name": NaN,
   "sector": "Technology",
-  "market_cap": 7126660608.0,
+  "market_cap": 7267128832.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 132.08621,
-    "PB": 2.0984442,
-    "EV_Revenue": 2.06,
+    "PE": 134.68967,
+    "PB": 2.139805,
+    "EV_Revenue": 2.14,
     "ROE": 0.01601,
     "ProfitMargin": 0.01495,
     "GrossMargin": 0.42036,
-    "DividendYield": null
+    "DividendYield": null,
+    "DebtEquity": 47.492,
+    "CurrentRatio": 2.767,
+    "QuickRatio": 1.812,
+    "FreeCashFlow": 743259904,
+    "OperatingCashFlow": 622201984,
+    "FCF_Margin": 0.19985633875143438,
+    "ROA": 0.03765,
+    "PEG": null,
+    "EV_EBITDA": 11.829,
+    "BuybackYield": null,
+    "PriceToFCF": 9.777372346995325
   },
   "technical_indicators": {
-    "RSI_14": 58.13984763531202,
-    "Momentum_10": -3.804619289952823,
-    "MACD": 2.2183044893153863,
-    "BB_Percent": 0.5560622615470814,
+    "RSI_14": 59.75743088724514,
+    "Momentum_10": 2.1043008304781687,
+    "MACD": 2.2548365720591903,
+    "BB_Percent": 0.6173863378195641,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9139515204969292,
+    "ValueScore": 0.8862493632134233,
     "QualityScore": 0.334194889688107,
-    "SignalScore": 0.4538030828280094
+    "SignalScore": 0.4867392673507339
   },
-  "volatility": 0.0403370622081191,
+  "volatility": 0.0405980916192368,
   "beta": 1.372,
-  "return_6m": 0.0820621088723172,
+  "return_6m": 0.1432752912802934,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 21,
     "target_mean_price": 81.53381
   },
+  "news_sentiment": {
+    "summary": "Qorvo Inc. (QRVO) a connu une volatilité significative récemment, avec des hausses et des baisses importantes de son cours de bourse suite à des publications d'analystes et des résultats trimestriels contrastés. Malgré une baisse de 13,4% depuis le dernier rapport financier, le titre a rebondi avec des annonces dépassant les attentes, entraînant des hausses notables. Les incertitudes liées aux tarifs et la dépendance à Apple suscitent des préoccupations, mais des signaux positifs récents pourraient indiquer un potentiel de croissance intéressant dans le secteur des semi-conducteurs.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.4,
+    "neutral_ratio": 0.4,
+    "negative_ratio": 0.2,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Qorvo Inc (QRVO) Stock Price Up 3.21% on Jun 3 - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObm1HdVNmQWdIalpacGJIX1A4YXE0clVMakRvc3ZaLWxGb1NXNjhnYzdrblpBUnMyQzhfTWQ0LWFTRi1OelVfeWdGSkdHWGRXVE9qZnBIZTZUSG1CUnJqT2JLZ05vZURaWTc1bG05dkdjdWo4VlluNFBhY2NIYVdYRE5kLVJ5SmEt?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Qorvo, Inc. (QRVO) Stock Analysis: Evaluating 14.66% Potential Upside in the Semiconductor Space - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY0JfZ2c5RU95ZWh2MlpPc0lxTWNkSm9wRE1tSEl0RklZMlc0X0J2NXROM1hScUwtNWxkT1NkUHlQOHhCNnM1RVJnMmdYMnloeTdMd3IyV1Q0RjExVDF4Q1BoMFF2ZEcxSmkwbnhHVW42WTI5eG1jUmVOTXpNbnVqRTRSbGpvck5fM21TUDVxd2FxbDNtZy1VU3NxY0RQa3NpZ2Z6WWNZWjhsVkdLTkJMU1liRUx1TGREOHlaaHdHMmthWmVFWVNqU0g4Q2c4eVpsOGxaWktRVnY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(QRVO) Investment Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzMyaHVwaU5oTkl6d3U5N2wyMnFpWW4tWm13YXVGQUtKX3Rpcmw1LTZmZHpzaW5oRzVvTnZ2U0hrc1gxTFBmQTZsVDF6bkhNZ2dnYU42LWJ6VlowbmRKVHduZFc2RUVoaW9wb0dLeTEtY3FKWU9zWVpJcWFBUDRGV1FHUnhndm9KenJicU0zWU51Ui1iV2JVQWxORVMtQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Qorvo Stock Popped Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QSWpNVFgxTFJSTW5BSW9VQkJOcFNxaGpacjRtanRZNjNqN09Rc1p0VG9Icm5OR1hObVdIUWlSaTBDNGdQTGhJOE5vT3JmbmlTVUVteWRIM0ZVWE5IUHhqZWFpbE9SOWdRWTFMVW9xYWd6YnJKY3lyUVZyQQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Qorvo (QRVO) Up 5.9% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GNjlLbEk5SzNiSm5hcm5nYURpNzAtTHhDUXpkR2kwWUZGZWtXRTdQbFc2MENMTkM1c00wSHNWUkZ4emJnTG5Bc2tqa3Z2RUROWVppdl9iRkltUFpFTXhKWnlndkF3WTNSWkxCOU55UXpfc3VE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Qorvo, Inc. (NASDAQ:QRVO) Looks Inexpensive After Falling 27% But Perhaps Not Attractive Enough - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQzNpelVBa2VRZXgxbU5uc3Z0U3VKcHNZMG44MWFPbDhHYXI5MURqMXVzc3ZwT3VsTENmclJNbmdVZ3VCYjBJLUZuVGM1cm9EVW55aVdmR3hBcFFxeWtFWkc0TkFYajhqbDFRYkhNQUtmZHdiQXk3blcyazZ3MGtHQnNpWE5adEhBVnBaLXlXZU1qcnpDcUJ5SHpscXQ3bFlVRXRCMHlOTU44djhEaFBwR1dwaXlKdzI4TzVlVjNFMWFxUzVFSkdWRdIBzgFBVV95cUxQTy1yX3dnZGVBVnJQTFVxc19oVHZCeVR0OXBfNnZhOFlMOFZIbjhjZS1Femx5TzkxcDRoUkZ2U1pJRC16MDM3Zm8wYm5hT0I3dEZSekpEUVVrQUVja0dZeEZpM1V6QmRCZVhRdGx0VDl1UTczdjBMSU9mTDlUMU1vU19CUVNoMC10WWtwZkd5TnFFYnRYNmctWmR5emhuaE0yQkVVWlliaGRsNEVyTkJ3UkJRUGl3ZkY0bGZGTkhaU00wVnlUYzBtbXVCX0Zzdw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "$QRVO stock is up 10% today. Here's what we see in our data. - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXFVcHA4ZjlMWkJnclZobVZlSllrUVpwUjcyNEZveE93T1JWUS1EejBvT09fdmNva1BUT2pIemtneHpXUEcwdWRtMGR0Vk9zdVNaNjVadFVaSmJZbmxFUXpReXhkcnNkcHZhZnVqeGJTakxOQ2NLSGh6X0QxMHU1emIyZ1k?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Gauging Qorvo's Financial Stance (NASDAQ:QRVO) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YMGpRdkpDeDdDZXoxX3VORTNzQ2lCTTBpbUFwUmVORnpBYktNcXNvQ0FlZVFpQ2ZfU2RMVk5WeGxyM3NmdmwzVEMwdmxKcU5tdlcwdzU0bFUta3k4WkF2MFN3MmhCZHczcFBQN29LdXZiWG5OY1NlUjdUdzk?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Upcoming Meetings for QRVO Scheduled in London and Paris | QRVO Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa2ZRa3FPcWxVZXdHbFY5dFVnUy1kWHZrNGRvaVlWYkhZVUhYRzM4VmFxT25hODNGcGExV25JSUhVX1Y5UkxIcWZaTTlCNXk3eUp4SWc1NllaQzlaVXdyaWlxc25WMEdJdVljcWRsekVvZlpxWkNuMWwyLWtBVUdnRGVNSGlQZWw1bHM1Q0hiNThhWWJIanFIUUN2WERoVk1MT3FqR0NxaUJKWFBPTFR1eA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Qorvo Inc. (QRVO) Stock Analysis: Exploring a 63.59% Potential Upside in the Semiconductor Sector - DirectorsTalk Interviews",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYzhfaXB6cVJRMHliREg5NkdmZnNKR09oaVZ3TlhsRTM4ZVhUNUdKR0VweGpsb3pxSkN0NEVoSWE0M3o1NWQ3ME01VFZqU0x2WHUtMGowbVFjQzNYZW0yYmRPLXNyT2Q0aU8wR3VNYmRfUEpKSFJtMTVkWlUzTTFGRHY5NE1QUjlQOXNOOWtWS3VCdUhUYk40UDI3bDJ5SHUxdFVfY2FXTDNFZW5Qa08yblhBZTBhMjZOUlFFVjVJelJnOHM4dDBscHJoLTZON0xQTDY4YUZ5cFJWVFE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Qorvo (NASDAQ:QRVO) Exceeds Q1 Expectations, Stock Soars - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMT0h3MDVOMXRwWXZSZjltby1MQkpBX2hHc19GekprUHh2OGVPQ010VWhiT0k5WTRSLWRXeThqZ0k0QkExeFk2anN4NUVSYzNiZS16ejNXUjMwQTROOS1yX1FVbWctUjhLRXVhaUpnaXE2Tmd1YzJ1TTVEbndIZkE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Qorvo (QRVO) Up 5.9% Since Last Earnings Report: Can It Continue? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDNzX1lEdFhCelBSeXNtMlBiaXNrY1dMWXBxT05kWEN3UVhLQl9WSVFHeWpUdnRma3A5RDk4MVExN0k3eWFZNFc5U0p1a3FlTFlTcHV4cHRNYnF6Tk42Um91R0NJaFp4VDlYTDMtWkluREZYV2ltUHBfV0lOTFZYZHZmVDdRQnQ4RGc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "QRVO Q1 Earnings Call: Revenue Beats Estimates, Margin Initiatives and Tariff Uncertainty in Focus - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkN4NFk5TkxGU2Z0d2JhQjhIWW9aTFZJWm1sU0pCSTlmVjhiTGNKOTF1QWo1UDBFUEFkRmlMUUcwamxWckRBZUlvbFI1TmhoZlhHN3lzdVFhdkMwUEQxQThTRmZHN1p6eGJYd3NEdGJzbWY0S3pMTS1fUHExMEk5bQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Qorvo Inc. (QRVO) Surged on Wednesday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DZndyejNMS09YQkdRMTFudWlsOGNuVnR5NkhFLUdNS1hwSXVKWVZTX1pCdDFvRTdjQkJuWnFPMWFkcVphSFRFZ3Q1elh3VHlsN3FrYVcwZ0ZuRGZtLWJxRDhtQjUxQktzRXNCX3hDWUtTSThNUHB4X0dIUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Qorvo (QRVO) Down 13.4% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PWTlkaGRES0tfTnpGdlViRWtTR21BMVZqOWozNk1EMUdiNWVCOVBwYWZyczJIN1cyUk1sMl9jNDdlb0lna2FmUzh4bklsWlQ0aE0yRmJmWEVZbjRlZXUwd1pzTzd2cWJoUS1hRTZMSGFGd29F?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Why Qorvo (QRVO) is Poised to Beat Earnings Estimates Again - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DRDdmYUhvUWxia01nVTVGZ2RqZEpfY29UTVFLZVAxZG1mdkF2YUoydlBCb2lzeWJqbjI2ZmkxRVRDQzk4Mk0tLURZdHc1V2x6NEhBb1cwSHJLcldpNzhuMkcwckJEQmZFb0xCY2J5TlhfMkZ4X1BidG9aNmw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Why Qorvo, Inc. (QRVO) Skyrocketed on Friday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMFpJRm5Kek9wRVRFWmVDMHFXLXdhRnl5VEctaElTTFRJUmx6eUktVWxYVjRoakpsTTZ3a0tYbXc4a1NGYURVMzBGV0lxZGphcVZOVUpKdlVXcUExY0NrR0ZJNGFwU1BTMXFHX2FNS0tUa2stcEdILXlCdkxrSXdubDh3?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Qorvo (NASDAQ:QRVO) Surprises With Q4 Sales, Stock Jumps 14.9% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVzZ6QWx3cWdrRl83a2Qxd3dyYmE5MFRXRnZvdk1FMWJaWHpYeEo5VEl4MTJxY09hWjZhUTZvcnJaT0RCeGlMS1l4OVpDcUx3Ym5iUkszamhaU2NHTTBWNmRQa0hBTktGWUs2aEdwLUlKaHl4WlpMRTZUcE9kNVlJTGd3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Q4 Earnings Roundup: Qorvo (NASDAQ:QRVO) And The Rest Of The Processors and Graphics Chips Segment - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFZlbk9sQ1ZMNUlEVGFsaVhKdWdvZ19lWTlyRTlXVWtiVHMtYVJqUWliZU1DU1NXenNuRXdpWHp6LU9IUnpNTTlFOVA4RHRONThIWmpPdl90U0VadVlmT3RmakJIQXo3S2Jrek1tUFNDZjVZZGNhYVpZZjFvSzI5cUtuMUY?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Apple supplier Qorvo sees swift reversal in stock price after warning of weakness in smartphone parts - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3BCNnkxczVwRHpjbTdaQWdocFBWbkNua0R5OVVnNmxYYnlWX0pDOXhaNV9aS1huMDN4NmNwVjdfMVVkeG5pRUpibTNNTmdIZmdRRFgxMGk4c2NiYld4ZzJZUnFnY0F3M2hoZ1h2YnVBM0lEeTlFcnI0MVAtNnpBbVNDekJLMDZEZHF6U9IBkgFBVV95cUxNcGZWYWp4Vl94eUx1Rk5uVUdiSHZSZGtLbklhOTRXYUR6Z2o0NVFINHdLZkRtbVE3SlFWeHd1ajJiSmtsOE5OWlNiOFBwM01SQUg3bU41dXdmbUpOWEtWRkFDQW1SanM5U1dQalVwb052a0V0R2N4WmxDNmVKQ0tscFh3ZTc1REJOTVYyZjhsUDZLZw?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 70.8
-      },
-      {
-        "date": "2024-12-03",
-        "price": 70.43
-      },
-      {
-        "date": "2024-12-04",
-        "price": 70.08
-      },
-      {
-        "date": "2024-12-05",
-        "price": 68.69
-      },
       {
         "date": "2024-12-06",
         "price": 68.33
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 76.21
+        "price": 76.37
+      },
+      {
+        "date": "2025-06-03",
+        "price": 79.26
+      },
+      {
+        "date": "2025-06-04",
+        "price": 79.23
+      },
+      {
+        "date": "2025-06-05",
+        "price": 78.12
       }
     ],
     "current_price_data": {
-      "price": 76.21,
-      "change": 0.19,
-      "percent_change": 0.25
+      "price": 78.12,
+      "change": -1.11,
+      "percent_change": -1.4
     }
-  },
-  "news_sentiment": {
-    "summary": "Qorvo (QRVO) has experienced a 5.9% increase in stock price since its last earnings report. This growth has led to questions about the sustainability of this momentum. Analysts are evaluating the potential upside in the semiconductor space and the impact of tariff uncertainty on Qorvo's performance. Additionally, Qorvo has fallen 27% in value and is viewed as inexpensive, but may not be attractive enough for investors. Qorvo is an Apple supplier that has seen a swift reversal in stock price after a warning about weakness in smartphone parts. A recent move by Starboard to take a stake in the company has also contributed to the stock price increase. Qorvo's Q1 earnings call",
-    "sentiment_score": 0.1,
-    "label": "POSITIVE",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.2,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 2,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

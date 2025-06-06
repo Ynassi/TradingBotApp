@@ -2,55 +2,103 @@
   "ticker": "9531.T",
   "name": "Tokyo Gas",
   "sector": "Energy",
-  "market_cap": 1772733726720.0,
+  "market_cap": 1728980582400.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 25.276838,
-    "PB": 1.0412542,
-    "EV_Revenue": 1.111,
+    "PE": 24.6735,
+    "PB": 1.0155548,
+    "EV_Revenue": 1.097,
     "ROE": 0.04112,
     "ProfitMargin": 0.02814,
     "GrossMargin": 0.15406,
-    "DividendYield": 1.65
+    "DividendYield": 1.69,
+    "DebtEquity": 72.608,
+    "CurrentRatio": 1.716,
+    "QuickRatio": 1.152,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 363120001024,
+    "FCF_Margin": null,
+    "ROA": 0.02148,
+    "PEG": null,
+    "EV_EBITDA": 7.285,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 60.36692088214459,
-    "Momentum_10": 3.866695150608844,
-    "MACD": 25.83865150525253,
-    "BB_Percent": 0.937202113567602,
+    "RSI_14": 50.439067029112145,
+    "Momentum_10": 1.65058949624866,
+    "MACD": 11.505346053899302,
+    "BB_Percent": 0.5325623895106032,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8961529962672264,
+    "ValueScore": 0.8934549587166567,
     "QualityScore": 0.4086509235941087,
-    "SignalScore": 0.5362614719260401
+    "SignalScore": 0.5797725570071484
   },
-  "volatility": 0.0166602817020033,
+  "volatility": 0.0169705972011949,
   "beta": -0.21,
-  "return_6m": 0.0854932364998444,
+  "return_6m": 0.0613249776186213,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
     "target_mean_price": 5038.0
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente autour de Tokyo Gas Co., Ltd. (9531.T) montre une volatilité des investisseurs institutionnels, avec une perte de 3,9% la semaine dernière malgré une croissance à plus long terme. Tokyo Gas annonce un rachat d'actions de 40 milliards de yens, prévoyant davantage l'année prochaine. Parallèlement, sa filiale envisage l'acquisition de Rockcliff Energy aux États-Unis pour 2,7 milliards de dollars. En parallèle, Woodside enregistre un profit au plus bas depuis trois ans, mais se positionne dans des discussions pour un projet de LNG en Louisiane. Ces événements soulignent l'importance des marchés du gaz et du pétrole dans un contexte économique mondial en mutation.",
+    "sentiment_score": 0.125,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.62,
+    "negative_ratio": 0.12,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Institutional investors in Tokyo Gas Co.,Ltd. (TSE:9531) lost 3.9% last week but have reaped the benefits of longer-term growth - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHAtZi1URUpuTnFuUEt2d29hSTVvX2pEakFySVpiNkNfSmRZcEhjZUVJZzZQUHA0cm9qSEhPSHYzalNsYWNhVTNSSHBzeEhCREtHZkNNSFlxRUp6YUVyMmhlSUhocWdtc0stbEZmS05mQ1BibzNCRk9PYmlkZDg1cy03ajJRRDh1cVV4UDFTcF9hd1FwNmN6akYteWRVbUM1NkdkcS13WnRNS0JWT0x3d09aUzJZREpmS01HQ3E4Rjd6OG9Va2dNTnNjSFhrbVA3aUHSAdcBQVVfeXFMTS1lem5DQ0Q0bEJLVDQ3ekV5OURYM0VRUnZVTjY1Y1ZERTJ0V2o1UW1oN1hoaFpMbjY1MkV1c3I3MDU1VWR4bXRjeEdhcmI1Tk5qTTFKQXhnN0RqcWdjQWVIQWJVa0dOQlNZS01QM0JlM3g3ekxEVTNHMFROdnh6STVvcnY0bWdmRWxsRGpHREtITTg4VVhhQ3RWZlV0SjZKTHJRX1NWRnE3emFCWHhrWUpjOHBKUm1Odm1JWFlKaWdGOFlORlZEZkpVSW43S0ozeHhEdUxEalE?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Tokyo Gas unveils 40 bln yen share buyback, plans more next FY year - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUE5d3JFeHVwb3NBc1VKQXZSTkJTSVh6bEN4bENfTVhSSEtrR0ExckhlTUY1Zk91c0tXc3JVMWZmb0tEa1dxWVFaaEVVbEVYb1Y2ckJGNEV2dDlkOU81V3VTWnVfNVo1OFlCTE9YSHVsblhVX2gzQldHNXVDNjVRU2phY3Z5M05RQjJRWU1yeWppUUs0U0loWXpjR291cDNna3hQSjJVTGZLVzlqeTZSTGhwZGxEWEU?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Woodside’s Profit Hits Three-Year Low - Offshore Engineer Magazine",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRzhzdVF4U0lOY2dMdTBUTVhoXzNtTDRIRDF3TzAxaEp2cDB0a3VMaWNYVTRqQXhqTm9YRjRsWVhzX0wyYnVQdkhPb1F6Wk9jc2xvR282T3dEVDBzR2xzajhZdnJFV2pSMGw5Mm9UN2ZZX3VuQkp1STNvSHVVTVdWRQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Exclusive: Australia's Woodside in talks with at least three partners for Louisiana LNG, sources say - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaEdwWmxZc285cWxZbWJCbkFXR0w3SG1qOU56MWc1Z3ZReF83RVYtZkRhRkhfNVJrRnBZdmNEYU5DZk0xbGI5Q1A4MnF3ZWJjUHpfYURnZWVmZHFubm80T2J0UEFCNXIyeGk4V0ZOcWptTkJjNnptanZRV1YyM1VpY2hmUjM2b1dWbWhVV2pBQlpDNjFpVlJZcF9FM1ktSHNyNXJWWkhXUGhKSXc4dE5hRTQ3bW1NQTZEYkc3NE1nVHBLR1JSY0gwcA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "9531.T - | Stock Price & Latest News - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1YnJ3OU1wM3pNaDdBU2l5ZDZra1ZGT0pfd3VRZmRYcE9MMEZJdm5BTmM1eDl0TkxaYlZCVXJlUHhSZUFtRExsY2YxbkRhaHNlZXRFMFBwQXBOMjll?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The lesson of Biden’s transformational first term - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92eHdSRHRFYXB5UHR5NDhfUGZZMWdLTFB5Uy1lSEZCeV9DMl9hbDFqcTRIVVEtcjFYYi1aOGpvVHFwQllJallZc3lrYnZGa01kbkFmWUhsSVlhaV94OGM5RmJKa2ZpUFl6YzRJbXlDTmE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Japan builds gas markets in Asia to boost LNG trading, energy security - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3RrQUJIUGpqbnJLd2JmMDZyc2Y2TzhBT3JTb3QtZThWVXRIU214dS1xdXBkei1mOWFXWEFjTnBZVEdFay1pazJOZU51LXdkM211TnY0alV0NERQNkk3YjJGQk1NdXV4MUlHcWpwSTBoWDVfelM0QkZwWG1xMFk0dzFLTno2U2o4c0VHQm1VS2pJcVlPUGlOdW1rdWxneFFwalB6bWJFV2FoZUhRR1cxMnptLVVSUQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Tokyo Gas unit to buy U.S. natgas producer Rockcliff Energy for $2.7 bln - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOC12V3k4UFp5UVQ0QUlvUGdULThxV3JoQ2hkOE1DaFlUcEZOaURpTDVldHlGNDNoTzdEemtzNWRMMlg1SVlfNDBYMFlhRjViN21qYnlycWY5bnNOazNQNkwzMEZvaXAzb1hDV2ZuZ0JCMFJyVXZTWm9idTJOdzhJWERUQ3dJU1NlaFVEOXZZQzlkSVVKbTl2SGlZclpLTVBaTlRERmVEVzFjd3UwSTZrZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 4521.0
-      },
-      {
-        "date": "2024-12-03",
-        "price": 4540.0
-      },
-      {
-        "date": "2024-12-04",
-        "price": 4510.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 4468.0
-      },
       {
         "date": "2024-12-06",
         "price": 4558.0
@@ -514,24 +562,28 @@
       {
         "date": "2025-06-02",
         "price": 4862.0
+      },
+      {
+        "date": "2025-06-03",
+        "price": 4695.0
+      },
+      {
+        "date": "2025-06-04",
+        "price": 4722.0
+      },
+      {
+        "date": "2025-06-05",
+        "price": 4742.0
+      },
+      {
+        "date": "2025-06-06",
+        "price": 4780.0
       }
     ],
     "current_price_data": {
-      "price": 4862.0,
-      "change": 17.0,
-      "percent_change": 0.35
+      "price": 4780.0,
+      "change": 38.0,
+      "percent_change": 0.8
     }
-  },
-  "news_sentiment": {
-    "summary": "Le secteur de l'\u00e9nergie est marqu\u00e9 par des mouvements positifs et n\u00e9gatifs ces derni\u00e8res semaines.\n\nLes investisseurs institutionnels ont perdu 3,9% dans Tokyo Gas Co.,Ltd. (TSE:9531) dans la derni\u00e8re semaine, mais leur perte a \u00e9t\u00e9 compens\u00e9e par des b\u00e9n\u00e9fices \u00e0 long terme.\n\nTokyo Gas a annonc\u00e9 un achat de 40 milliards de yens de ses actions et planifie de faire plus dans l'ann\u00e9e suivante.\n\nWoodside est en n\u00e9gociation avec au moins trois partenaires pour la construction d'un terminale LNG en",
-    "sentiment_score": 0.0,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.17,
-    "neutral_ratio": 0.67,
-    "negative_ratio": 0.17,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

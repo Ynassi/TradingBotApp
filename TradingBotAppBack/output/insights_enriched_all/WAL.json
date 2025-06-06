@@ -1,56 +1,164 @@
 {
   "ticker": "WAL",
-  "name": "Western Alliance Bancorporation",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 7911550976.0,
+  "market_cap": 7960128000.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 9.843407,
-    "PB": 1.1790451,
-    "EV_Revenue": 3.337,
+    "PE": 9.903846,
+    "PB": 1.1862845,
+    "EV_Revenue": 3.324,
     "ROE": 0.12092,
     "ProfitMargin": 0.26543,
     "GrossMargin": 0.0,
-    "DividendYield": 2.1
+    "DividendYield": 2.11,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": -4089499904,
+    "FCF_Margin": null,
+    "ROA": 0.01012,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 45.834527234714784,
-    "Momentum_10": -8.281062100031686,
-    "MACD": 0.1581217053324763,
-    "BB_Percent": 0.2633138596712841,
+    "RSI_14": 47.22394680829082,
+    "Momentum_10": 0.3479471194283253,
+    "MACD": -0.0629451591406535,
+    "BB_Percent": 0.2700544831285065,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9341768124148258,
+    "ValueScore": 0.9337353866328038,
     "QualityScore": 0.3228768795333379,
-    "SignalScore": 0.554605719803968
+    "SignalScore": 0.5736308419606715
   },
-  "volatility": 0.0304767053810276,
+  "volatility": 0.0306374737137865,
   "beta": 1.281,
-  "return_6m": -0.2239846287715476,
+  "return_6m": -0.2238008832134738,
   "analyst_rating": {
-    "recommendation": "strong_buy",
+    "recommendation": "none",
     "analyst_count": 15,
     "target_mean_price": 91.13333
   },
+  "news_sentiment": {
+    "summary": "L'actualité récente autour de Western Alliance Bancorporation (WAL) met en lumière des signaux mitigés pour les investisseurs. D'un côté, les gains en prêts et dépôts ont stimulé les bénéfices du premier trimestre, mais des préoccupations persistent quant à l'exposition hypothécaire et les problèmes de crédit. Malgré des recommandations d'achat et un prix de l'action parmi les meilleurs du secteur, des abaissements de notation récents et des ventes d'actions par des grands investisseurs ont semé le doute. Les événements positifs, comme l'attribution d'un BBB Rating à sa filiale REIT, se mêlent à des incertitudes, tandis que le marché surveille de près les résultats trimestriels à venir. Par ailleurs, Walmart fait face à des pressions, avec des hausses de prix liées aux tarifs et des avertissements de son PDG sur des prix plus élevés à l'avenir, impactant négativement son action en bourse.",
+    "sentiment_score": 0.1,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.6,
+    "negative_ratio": 0.15,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "When the Price of (WAL) Talks, People Listen - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR1l1VmxPS0kzUldBYVFNOUtKbThaZmM5T1NBdVlvOEp3Z1ozWE42VUc1V0tRNE5Qd0Jlc3kzWFRJUmc1ZVcwcFNHaW1wQlNzR0RzTjA1SVFIQ2FGMVYtUk1KVUlsU2pJRTc0NldCNUVOOTFVWFpHUWpGSzNJQTFIaEhwVmpQOVdLaHBHV0ZXNFIwYTVPbFgySEJYYWdnWHZfTzRWbWc3QS0tYTRXV1dpZGo0bFJ3Wkp1ZW9PMQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Alliance Bancorporation (NYSE:WAL) Shares Sold by ProShare Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVkF3TDFoamQtSEZzWDRnNmJRNzRJQ09LUk1Zc1paX1VlOXFjM212RmhTQmFRUUhzT3E4a0VWVmROb0JyWk03bjBGN2QzMFRoUEVLZkJ1eG9JNFNjRUtWWjBVZzlHd1BHTG5nN1dpUGgzQ3JzSy1KclRJczdpNWpobGx0UE8zSHpJRWkyVUZWS2Yyb2xlZmszb2czVmQ3TTlOSHBpbEhkejJ2QlpxaTlqVUFyYW1sanZkbTdVOTlRakF4NUtCZm85VmFUVk03OE5QYnppN3FR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Alliance Sets Key Q1 Earnings Date: What Investors Should Mark on Their Calendar - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3ViNEI0aUpCVEhRV1M2MnREVnA4eHp2cFIwT01LbDBGdDh2bUl5NDI1ckJLMmF3dUotMm9zMndBYmU1U211cXVzNzdSOFY5Z1dGSExRaFJuVzdfd2gtZUJ5dHVLcE9XT3M1TXU2clBhY0huMC1tNUlUaEU2WFhrZUV5VDdMb01jVEVvTXBSZ0czTGU2Q28xcmxNYW9MY3RXbmhveFBGeDdMd3FyeGRqenQzWHQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Walmart stock slips as Trump takes aim at retail giant over tariff-fueled price hikes - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPazFZX0hla196TkZ2bVdZb193R2sxWjdmSl9IRVFZQTdLYjVELV9rV2c0aEVOU2I4UkR6Q1hqVnJXOVRUaEJacFc2dVFiOFVkSVJUTEZKWnRWUWIzUVdXMVdPcDNjdlZhdFFLSjlvS3A1d2RRRjY2c3gyemxIaEFEaFRoMGpnYXNTWW5DR3UyWWIxWldmOS12cHBXRHQzOGlfX3FfQzVpdjZITkJHbDVoMVVVcEIzbkNSRGNmVEF2Z2Z1NERmc3RSWWp1MA?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Jefferies Initiates Coverage of Western Alliance Bancorporation - Preferred Stock (WAL.PRA) with Buy Recommendation - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzRreUZnTE5oWHk2b01hMlhtTnpUZnVoX1ZWZEdvdEhtM0VfWjlReWtDZ1NnOTJaRVlyd01aT1lZQkYxRVQxd1hFNnBUYUY5dGdpVUtPN2NhRXNfX3c5WFJWejFrNVZLSWJhNVc1QTR2ZzhxdlFxWmQ4TlZQWUgzcjM2Z1RucW1SeXZuU3lJdkxuT2pGamVOaDdOSzRJTy1fdXdlWHdDUlh3SmFqd25rNi1vQkE0cWlMZ0x3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Stocks to Watch Recap: Walmart, Nvidia, Tesla - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNWVpfRXRvQnZfTHRrOHdmRGIyUVhxby1rR1cydnZrbnRSTHNCVGpHV2ZhVFFqMVl2ZkpIeERTeDIwbUNqal9BaUhiVFpUam5yNjVkemZqTXAtM1FaUmRPZ0VheWxFbGdBY1BNY1Z3NWw4WjgtYzAxNTVXMVlWdU5oYmR5a0FuTkoteEgwWG1EaXYxTEEwaHdoN3lDNTdZdDRNTWhNOTNiUy1JWXpuUGhJWkItM1VMcGYyTS1ybEJweDAyZFN6S19iSnpuaDdmak1keXNlTFFWa0hwdjFmYWltWURSR0tmU21mYzJlbUtVUnIzU251S2dVRHlDOXp4dFh1VTZmOGJWdENDVXNPbU9pckF1cGZrUFF2NVRpMnlMUGpRSm9EbDdlM3RTa0ZqaTRJQWdsT2M3d01kS2NkQkw4VzI5bnlxVzRNb3NHdWhBNWQxRWxMcjVsOTktcnNEVHFZZldscEJjbEh1V1lKNy1wc1JYZG4wenJabGtEaXc5WWFBbUdQU2haVURXVUFFSGNoTUY5MXZaSGgxdWJQS0FiaS1mM3FJN3NzdzRhc01KY1Y2VjVOTWc5YmhhNzZuci1vUDFwVDhNSUVBNGdFbU85dkRtTzVubXpaVWs1TjRNczI0d0o0ZEs0ejV3?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Alliance Bancorporation (WAL) Stock: Loan Growth and Deposit Gains Lift Q1 Earnings - CoinCentral",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY28xYUdnVG4tRW1SSHlDUUpLa1llbXNZYlBBb0lPUHktamQzNjlDMkRkYmlTOU9fQ01vS0YtZkNjeUlnRzEyZ200RjVEaUE4c093WlRFWGtjNHZSdE93a3hCTWZMS0xYNkdja2c3SjY3UDJtZ2RORVVyVFB4WE9aNVItbXY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Walmart’s CEO says Americans should brace for higher prices - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXgzVmFxWjFUajh4U2tWcUprUk9SeWdEU3FELXc2QWEwal9UZ0l1Q0NOS3BLNkhOSUY4RDdMZVNZNk5VbUNGZ1FzMWptc1VtT1Jjb2FUVVRYQS1QZ1FNVDl0RnhPTnVGcHBoaTRlYzZvZURNY1g3VVBxZklBZTRiVkUtMWUtQXo4NzZ1aXo1Nk9Ic0FtOWhWVUZ0UEhSVFRwdnhtbFc3aHlkUnNnSG13UnFrS0JRa3dzMVRn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Alliance: Mortgage Exposure And Credit Concerns Dent The Bull Case (Downgrade) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMFEtUFNsdzRJYU93cE1ZeVZDdl9OQ3JXMExpOXJaRGhFbkVidkhFRFhnTmNVV1F4WGpmZWQwUi1DVkY0OWRLTG5wYlBTSldmcE1BZlhwVEJHWEdDMmF1RTVZc3NYS0E1bVFCeVk0ZGQxWmpnWGRXcUNhRERVZGdHLW05Y1c0NWI4MnFFT0pmOEhFQUkwaF8yamlDN20tM1FkUF9RT3RlSDZBQlRUa3FIX2cwdzQ1dk51ZG5QVTRZanlUdHIwbENzXw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Truist Financial Begins Coverage on Western Alliance Bancorporation (NYSE:WAL) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYVhqYVJwcnlTeG5KYThyajhINy1yN0pzZE96cTF0XzJZaV83WkFqOVZzSjc0b09IXzMzY29qSDRucDBLQ1h1WkNiMUNURzdWWEdWLXZicnRKWm5MSVY3U2tUYTQybDFMcDNRRS1HVUNKMHJHbS1nZFNqYklJaUZIN2swVkNscDhzckgzN2o3eGp2YnZPZnZfemt0UEdrNkcyMmNWaDh2T1Fnck5faHNyUVZFYTl0V01PRTM2TU1GcEZWN2tNNUVQbkNpQWpybEpxam04UVh6N0RPZks2?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is Western Alliance Bancorporation (WAL) the High Growth Financial Stock to Invest In? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSE1ER2EybXFfV3BFUEwwai0teExNMk9uRnhfeGx1S19YQVhfdlBSNzY5dlVMaGdIOVl0ZlNESWN6RFAtdmgtY1ZsTXhGV3NyMHF6SGFKSTNpQTNlNlQ1cUN6VWxPLVFFTnh3S0htRHhUcHVkVmw0T2huUl90ek12S3MtUDI0NVhKUDI1cDFPRQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Banking Giant Stops $100M Fraud Scheme: Western Alliance's New Tech Wins Innovation Award - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkFOSnV1MmFWNHRBaW40d1FHZFNxbURJa3Nvamo5MWRNR05oSGhMUVNFZldobjlxN3hXR3pFLVpuUC1WNlU5Wnc4dmp2MUhOOVVxVXBnbVBGX1RwQnRHOGpMX1lTeXNvbUktb3A5MjlCWHhGT1Z2VFV2aUFqV3VvcW1wOEFMdTlfTE5TY2puT1JoMWEweEpYdFhrOVJvU3lqc2R5dTR1N3poZV8zaGRxVkYxXzg1OEdoeWpEQUNn?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Western Alliance: Mortgage Headwinds And Credit Cracks Appear In A Mixed Q1 (NYSE:WAL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc3lCd2hELVpmRl9UakE3MU1UTlp2aVdlVkd5NHRUaWZUZ1JfZ0NTN1JZemRjWWxYZmFKN0JYTUlmVERYVnRwQVFSeTlQdzNRdXpBVDZSS1ktOFM5NzBmMmpZWkY4enhqeDVtSXpQdkxPbjQ3UHAwa2FzeTdUdmpmMXhXOHV6cnVoTUZBSFNyYUVKZ3VQbi1aQmxWTWhEek5qNzNqSldWYXFmbHRMSHZudUdtTl93Tk4zUlc0MjE3S3FmUHY0MkJOWjZRejNpWlk?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Western Alliance Bancorporation (WAL) Among Best Local Bank Stocks to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeW5TWE01YURQSTJrdDN0czFkeHVvdE50QXM0Zy1JVjJicHhEN191Z244NGhwZkxFQWktcjlEUHhlUFhyMzAxbmlGekRJcVFKOVdFdU5UZkNSVGdIZjZNNlJoVC1sNDNBamZDNlFKd2xxRExNRUlrS2RkbnAtT3U5LTJOOVdHTVdzOXdzWmpORk8?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Western Alliance Bank Finances 80 New Affordable Apartments in Carson City - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkMyalo5ZS0yR1J3b2ZWb1dmdExoa0xzb0hwTUdKa1IwR3kwLURUWnpmNTlsU29qLTI0WmNsY254MGhmc2g4TkJpdXRXMjAyTzhRbFVoNXQtYnM3OUNod0NoanlSb0VaRUVrdGZlU1hsdDUtdU1NTS1Ecm00dEtBdk1FMEppZk5Fb3lsWTJfR1ppdmx5bEdTdElpNnJaVklxN2lYRk8zUEp1eUJaeUxpbUVaeXhBdzA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Alliance Bancorporation (NYSE:WAL) Stock Rating Lowered by StockNews.com - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd2ZZTDlEUHRnSmFJNFJKMngtSWpVUmU0LUZCQmI0dnlmZTg2RnlwLUlsM0V6a2kyc3BWczdWbk9MbmtTTXc4MmlpZVBfbUNQdmpTMGpaTkFQLVdubzEyNkdPd3JTZk1kS2dRQVphTHRkcTFrV0RZWnJnLU5TTUVQeUNLQzN5bDNVNkJMek5MeDJ2ZWtOVEl4Y0g3ZFkxVU95RUxfYU1CaFNYM1kyX2tjMm5falJoUjRtbGNURFlnQWlNRjlyWW1qVGNB?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Western Alliance (WAL) to Report Q1 Results: Wall Street Expects Earnings Growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeVo2akU5WFlvbHhqZ3NRdHFMYzdtbHFzTHpybHRwTUhFbXVfWXNESjdQNGFaTWpNa051SW8xWl8zS1NNUU84RjhXVzBHSzZMSHdtUVFDMmE1QUx6V0M0emVJTEprV3pzMHFRTzRZUklTbVUtZFdsN0tGWGVJOUFnTFh3?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Walmart Stock Alert: Big Price Move Expected Soon - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM21zejJBdTZ2MkJtcExiOWpPeFNVaGxEM2lkSGtsSGFiYVJCaWlqVDhxLURmc3FScTd0RXA1aEk4RGJNcXB2ei1GNkZ4QkRyRGlUZ3k1MThLUndXc3dMaTlCajhLdE1qTU1wWTF6RFEwV2RpS1R2LWVYYXNYbkpmUWl6amlZZVZSUllKaFlOSQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Western Alliance Strengthens Position: KBRA Awards BBB Rating to REIT Subsidiary - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQXYxTnp6eUVlNi1IZkFndHdrZjRKLThnbkp0d0REUGF2Vi1hZVFBd285QVVsVVBRdWJCMGFNV3o5SUoyVmJvbVVNdkxENE9fVkJuck5UMTIySnA1VlN6d0piWVhtSGJsOFNlR01RSW01bTAtWExLeWlmYzVBY3RjdGlnMjVNNE44Y0Y0eVZ2ekRFYXk2a2lwYmZhdkxfTkRBY09fTWM4Si11VUpyM0lrUV9RNVU5TWc?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Western Alliance Bancorporation (NYSE:WAL) Shares Sold by Nuveen Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdDFvOG4tTWx6SHZOZzlndmk5UjZ3UEZnVl8tOVYxQUxHUnBlSkVlZ3lzc2RJTXF6aUhKeVh4MDRJZHBNdkRrSkZXTVlxUEdaZWkzazVBOHloOVZ4Umswc1BiSlBwaDVUczBYYjVKaFZTTjMxeFZnaHo2dFRiVlV6bUhGdTBTdk9vemNNR0Q5YUpUZ2wzeDBycHc2RE5ONFpoQzVSRjBiRnJPWl9mT2wtX0pueXFtVDVSdDlRM1JNQ2hEM3VwN2dRSld0Vm9INmx1RjhiVUg3NzlRVDdlWkF1RHF5UHpmX0thNE1veQ?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 93.19
-      },
-      {
-        "date": "2024-12-03",
-        "price": 92.77
-      },
-      {
-        "date": "2024-12-04",
-        "price": 92.36
-      },
-      {
-        "date": "2024-12-05",
-        "price": 91.96
-      },
       {
         "date": "2024-12-06",
         "price": 93.74
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 71.73
+        "price": 71.71
+      },
+      {
+        "date": "2025-06-03",
+        "price": 73.22
+      },
+      {
+        "date": "2025-06-04",
+        "price": 72.03
+      },
+      {
+        "date": "2025-06-05",
+        "price": 72.12
       }
     ],
     "current_price_data": {
-      "price": 71.73,
-      "change": -0.6,
-      "percent_change": -0.83
+      "price": 72.12,
+      "change": 0.09,
+      "percent_change": 0.12
     }
-  },
-  "news_sentiment": {
-    "summary": "Western Alliance Bancorp (WAL) Shares Sold by ProShare Advisors LLC - MarketBeat: A negative signal for the bank's stock as ProShare Advisors LLC sells off its stake.\n\n3 Reasons to Buy Walmart Stock Like There's No Tomorrow - The Motley Fool: A positive signal for Walmart's stock as the Motley Fool lists three reasons to buy.\n\nAfter Earnings, Is Walmart Stock a Buy, a Sell, or Fairly Valued? - Morningstar: A neutral signal for Walmart's stock as Morningstar analyzes its performance after earnings and determines its fair value.\n\nIs Western Alliance Bancorp. (WAL) the Best GARP Stock",
-    "sentiment_score": 0.3,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.3,
-    "neutral_ratio": 0.7,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 1,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }

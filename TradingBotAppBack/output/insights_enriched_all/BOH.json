@@ -1,56 +1,164 @@
 {
   "ticker": "BOH",
-  "name": "Bank of Hawaii Corporation",
+  "name": NaN,
   "sector": "Financial Services",
-  "market_cap": 2615543040.0,
+  "market_cap": 2616735488.0,
   "source_list": "AltScreen",
   "fundamentals": {
-    "PE": 18.490168,
-    "PB": 1.9232453,
-    "EV_Revenue": 4.31,
+    "PE": 18.498596,
+    "PB": 1.924122,
+    "EV_Revenue": 4.276,
     "ROE": 0.10035,
     "ProfitMargin": 0.24610001,
     "GrossMargin": 0.0,
-    "DividendYield": 4.21
+    "DividendYield": 4.24,
+    "DebtEquity": null,
+    "CurrentRatio": null,
+    "QuickRatio": null,
+    "FreeCashFlow": null,
+    "OperatingCashFlow": 141454000,
+    "FCF_Margin": null,
+    "ROA": 0.00666,
+    "PEG": null,
+    "EV_EBITDA": null,
+    "BuybackYield": null,
+    "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 44.636050336314725,
-    "Momentum_10": -4.978148798307808,
-    "MACD": -0.012470848882998,
-    "BB_Percent": 0.152069980410678,
+    "RSI_14": 45.09995519642625,
+    "Momentum_10": -1.2529753961465335,
+    "MACD": -0.1745696631147382,
+    "BB_Percent": 0.2009523324586305,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9316399370028468,
+    "ValueScore": 0.9294653562812442,
     "QualityScore": 0.3815414520123349,
-    "SignalScore": 0.5408679737164308
+    "SignalScore": 0.5940406672416703
   },
-  "volatility": 0.0178559815441487,
+  "volatility": 0.0178889738386898,
   "beta": 0.756,
-  "return_6m": -0.1461393940665503,
+  "return_6m": -0.1205988538719897,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 5,
     "target_mean_price": 72.2
   },
+  "news_sentiment": {
+    "summary": "Bank of Hawaii Co. (NYSE:BOH) a récemment attiré l'attention des investisseurs avec plusieurs actualités positives. L'entreprise a vu ses actions augmenter de 4% depuis son dernier rapport financier, ce qui a conduit à des recommandations d'achat renforcées par des analystes de Barclays et Nasdaq. De plus, Bank of Hawaii semble bien positionnée pour faire face à des temps incertains, ce qui a suscité l'intérêt des investisseurs institutionnels tels que Jefferies Financial Group Inc. et Bank of America Corp DE. Ces signaux positifs pourraient indiquer un potentiel de croissance continue pour l'entreprise.",
+    "sentiment_score": 0.2,
+    "label": "POSITIVE",
+    "positive_ratio": 0.25,
+    "neutral_ratio": 0.7,
+    "negative_ratio": 0.05,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Bank of Hawaii Co. (NYSE:BOH) Stock Holdings Trimmed by First Hawaiian Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTBzQ1FDQnhSQjZBRGJnS0NIX0MwTHEtUXdMZ0ZlOW5kR0I4LWRmdXg3eS1XTUtrd3B0ei11NGNWMG9zdkttRGI1WktJQXlmdFBkMFBEMHdmS0lOWC1sTFZwcUVrd1RNUVA2Ul9md1FTTmpCQy12N3RiTWRGQ3VrMUlNYzRiVXZ6MllibDBLeXlvQnk4amlfR1NVSC1pODVDRHgtVTlQZGhjXzFiVkVrdGtqaEl5ay1XeTdXMkxxeU1xTGV6Y1BF?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of Hawaii: Higher Yielding Series B Preferred Shares Still Best Option (BOH.PR.B) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSHJ2UWVBWG1ENUhjV25VXzh1TS1wRHhGMjBNYk1meWhtMWVJY1RJQld4cm4ybGZrMy1kT1YwYjg5cWJ6YlZnQXpVekZab1NzSGxoTHg1S2hoSXZ3ajlfQVFMX1VMRzNHVGxGVnFVdUJkREZxWjVsSUhhWFN0NHdGOTNYQkZvR1AySHhDVldOemhsTUwwYXVyQjk1YXEwVk1vZm5WODJFX09fNTI0V3Nha0RGUXY?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bank of Hawaii Schedules Q1 Earnings Release: Key Dates and Dividend Details Revealed - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZW1RYXZaVGQtM2NqdjhCNV9BWTVRcGFYNjQ1V1pfUHhUQk5aa2Vvc2JGT0F1aF9NSkQ2Q0xnQlZDTjdOWnBBUFdEUmUyd3QtQW9WQk5LcGVGRkhtRFkzUmlzMVBfUTNxd1VVRG1fdXpvaTZpNUpfaGRRSlliQTNyc1c2a3MwUVMtOUtqb2FrTzVZWktBREZDWExVb0Y2R1ZzYlM4T09wT2VtckRqTVNyUlNSYjVLZHJlb05YcGc5cw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(BOH) Investment Report - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWVGdXFCMWE1Wk5fd2Z6bXBQOE9zYThJQVRxbzlpSW5lZTlydGExRzVRSHdQYkhfLVpzVXhibWRWMFVHbXJWaEdSZGQwd0U0X1Z3OTdYRjNyWmdlQVBJYkpjOGFvMUN3QUZJN2Fob1NKY1NvSmZKamdDdVFvLTJWcDZVUExtRlBrT1c4dnd4OTlOcDQ1V1F6Y1J4YUw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of Hawaii (BOH) Up 4% Since Last Earnings Report: Can It Continue? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFh4bk9CT3ZKOVFqWTJhYThIT1FqMmJQWGpIekVjeHdqTGRsQ0ZVTlJ0dXZRWU9PblAzZW9tU3YtVTNEOVJLSEk5aFI2ODRGVEpsRDFLc2NNaUo4dWF3dVZ3b2ZQWWRuczlqZm5NaVR5MEE2VXZaMDU1VFJWSHcxamF1endfUjl6cVVrSU15aw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bank of Hawaii (BOH) Price Target Raised by Barclays | BOH Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3l6ekE3Q1hqXzVHalMzT0xRTW5BcDdIeVQ4ZWpvSkdnZUhmeWpnLXd6UVU3YnFFVkxobXExS2oyVnhWdVl3XzlOQmdJdElsOUI4UmZmMkJRODZRMFIyck53R0ktYktMaUZwZW1aTmFueXJMRE96cEpuczlXT1V6NE82QmV3WGh2Q2hibTFRdEZHMGdnZ3VTNkk4bzZiR0RKN0NMbFREMA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of Hawaii (BOH) Upgraded to Strong Buy: Here's Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzMybFg1ckZYOUFZMkpqdkNxeVhIWFNtTmttd0JIQWRCT2RKS01SdlFkb1BtM3N4UWdhVXZRazVUQnlQaG9yN0hsaFgwNFZvTXJfanh0bnVLMS1ETDlsem51TkxVZkNnR05BSjZ5azVLUXRkTXlIT2NCMGxNMXdzZVVnVQ?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Jefferies Financial Group Inc. Lowers Stock Holdings in Bank of Hawaii Co. (NYSE:BOH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaFpMVEdKdndFR0N1eUlhWVgzRXNra3ZxV2I2MEZjMThyMEZFbEs0VmZpbnUzWGlTXzl5TWtTMXpZbU93MF9VcXRFdmsyNXdtWU1RbnROQXFWQnB0MUZVbXA1WGRLTkRsNE9YTlZCMzN3RmNYanFyUXZHRmRTQklNSTN4SldvUE9uUWNmbkEyNVI2Wnl2UzIwV0ZYMEpjTDBfd3FBOHllak1OQUVvUUFGczNlSnZHUTNQZnZnZXFIdnpjX0JWVEdONC1ZUWlHRlFTUlVyV0g0bDJCUDR6SmotUVV2VUU?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Here's Why You Should Add Bank of Hawaii Stock to Your Portfolio Now - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUgtZzAyUXBqc2pTYW50eUd6Tk84ZWVTNE1kaTFCUWR2cmdtczFqVXFscF9ENXlVWXN1NElBQkN5MkMzdFhRdTBBOWR5UURpV2xNQ09faXRneURtMXh0N1ZfNkZ6azJyQlBjV3RiMlBUMWwxQ2R6WUtOQ2FhRjRZdm5sUVUzRjNTYlFaRG8xc3UydkRvMGlJMQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of Hawaii Corporation 2025 Q1 - Results - Earnings Call Presentation (NYSE:BOH) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRElld0dJLUxjUkxqNWxNWXBBaExUTlVtd085TVdpby04RS1sQVJfZC0xaTgzYS10RHhMd01JSHRaRXNfNm9sb19DSkhpcE5pT1g5UEJLTHVaYXVYVS04NURmbnZoMTV0Vk9oVV90VUgwcFBVeDRnc2NoQ0ZPZUxoZnpVWVBBWHhmU2NTUUVLQnl0bU8xOFd6SjlSQkpwalJSNG4zRmhLdFBoMlkyZ2k0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Best Income Stocks to Buy for May 15th - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IYTVpNnJ2a2FKTkNPTlMtcjBxMzNzcWFRWVdvSFVVdWwxdXF6TFVsUXJKQm9YYWkxcG12aFlveXZaQ2prZE1CM2NFbEM3UFd0MzNmSmhhdXlNUHBjVlNvQ3NYN3hmbWJaY2t3YXI5T3RRMlhPM3VoemliOEI?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "(BOH) Trading Signals - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2owUnZnaG40TkZGN0o3c2NJT3dFOEd4NG5qa19WWllrSllhYWxBQ3FYMDN1X1hMSkZDWDBONkZGcC1CcFVjcUhyMnNFWUxmYUxFUVFadWZUQnotLWptWWUwTmpoMkdBS1dJS0p4NkNTTUpIUVFhaUU5cHFwVHY2b1Q0TWp2Wk45WHdHZFB1akJNU0JsSHdoSA?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Two Sigma Investments LP Has $3.24 Million Stock Holdings in Bank of Hawaii Co. (NYSE:BOH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSVNwQlJZdW5rbFJNMFlGaHVlMkM4aW9jUk9nYlh0MnFkMXYwOGFjQjFvVU9HVTVkaktwV1NseVpUYVQ4SS1ESTNMNDdMbDV0aDlDZW1LUGxmN25vSTM1bURUQUZweG5GdnJJY3I3aEdUTkxQTGdmenk5RjEyd28yOU1sSXFEVk10SEg5QUFGTXlJN2hFV19ocVhnb1M1ZlF3U1RtV2Z6WTRtaExnSWFXSEd2QjRDLWtQYjVKc1VRTzRkbVl0YWFjUGRqUG5fNUtMOFl2X3V3dk5LU2N0blE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of Hawaii (BOH) Upgraded to Strong Buy: Here's Why - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdHo3UEV4SkJJVGlBajNoc29nc195NUUxWmRDSEp2dV84cG9NT2hkalBWcTJxMWNUbElhNmxBd0N5aWtpVEJuaEF6alZQdmphNS1qd3JEVkhzLXlGbUdheTlKWUVsU1AxMFVBY3lvQjJUaFZpaVVfNWpqNU54RG1uMGJnYw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bank of Hawaii: Well Placed For Uncertain Times - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ3NmQzlnTUJ3U01IU0FtLXV0eEZKY1RDSDNTSDFDYkxqY2owQjF2NGdmZ2V4aGNTbDNZaHBjZnBGNlhyQjBVUWp3QlVaNVdSYTBMZ0ZTRFg4Y0puZG1vTERLXzZLU1ZRYzY3RHB4SEpSZlc5T2ZrcW5BUnpqbFg3U0lxVFRWWlRaREg5c1JUT1M?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Bank of America Corp DE Purchases 29,272 Shares of Bank of Hawaii Co. (NYSE:BOH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS1NRcnpiRm5lRV9yMXFKWXBGVmVfVFc0QjhOVXk3eHZvZVl2N1B3MXMyWkVHLVVSWHN2RGlEYmYycFUtSmI1SmJkQ3k2RTZpNW1aLThRZ0E1c2w5ZnAxaXI5NXd2dERyV1FDWDNGQmtOcHQ5QmhXekVRNFVJNUFSU2tTSG9LTG9GVWZ2ZVFaRGFBSmJsZEt3cVdpNWtmSWUwcGw5WGx5QllrOEQwZHZGVV94V2FGZGJDWTFTWmV3NXlSRlYxWjd1bTJVenNJcmxNc3c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of Hawaii Co. (NYSE:BOH) Shares Sold by Kayne Anderson Rudnick Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTlVNYnZHcEYtVE1EYWlhQTh1SXcwUldmc3pPRWdkclRmdWJyU1pzN1NObUNxdmgzSmMzS0RSZ3FXSVVLVHBMRURuR25JR3ZaYTFIOVJYdUFHVmI5M2Vfa3FLUTZXVXlJaTZqOUtaWlpNNUhSU3BUb21MSldKTkRqV2hMQmlQMURZNkplU2hEU1JTbG52bXVXOEd0LUEyWHR0LUsxQ2cxemlITFlSaDVzQl9nVmZZTm5hZjYwb2M4M0lCdHBndlBvVWE3X01TOXFENFN2OFNRV3NoMnlnZEtZTDY0Rk5sX0FYS2c?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "BNP Paribas Financial Markets Has $1.33 Million Stock Holdings in Bank of Hawaii Co. (NYSE:BOH) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHlfbDBRaThfVTVCVkoyQkE5WnQxLXdKUTlvQ3huMFpPX1JMNTNtOGtDY3p0Q2tUVVZxSnFZdW1lc2FabDBkQnRPSWdtMV9vZlA5ZXA3SHVwcUpEZE9XSy03S0lsTjlGdDNpMzJObDBlZzNqVnV5NFJ5bjhuQkthSzA1X2VZbmU0blhpTXJFcmRraVNZQldNOGpQeVc4NFVPZkg2N2tQTHhtYkZrcTdfc1kxWE12Zmt1Y1NCS1E5MDdORzVBR01tbWVqeGNMUFRSenpUbWdPR0dPNEJn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Bank of Hawaii Co. (NYSE:BOH) Shares Sold by Rafferty Asset Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb0VOQ2tjWV9Pdmp3Tnh1MlJRMGlPamNVU19MTEdQSDhkT3dJcUNJMzZIMnljX0JIcDcweERuS2ZKZ1pwWjlkRGppZ0U0dkRTblhVRjhlNGlHMUp2UkRndm9NMEZEZ3NuWWFXYmdwTEp3Q05fTEFialBkd1phcDlXX1J1OHVGWGdBQkFfTzExOWF1bkVTVlNMbEsxU0I2SFNvcE1fRnVYalUtN3A5Y0FLOGhwcDRZbEcwNm5vY19yTFI3THRWbW5fNy1NVkJhdE9QMTNJ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "New Strong Buy Stocks for May 15th - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlOWY1MzBIa0ticHE4T1I1TzRINkpVSTRmYnNfME5BVXFsYVNwcDFPUHVCWG1ScURCcHd2RU51UWxBUFBjU3dGRnBwb1JUekdvRzZoQ0ZWY3BCMGlpZVJaN2JNbV9ScTQtMHB3ZnBwZw?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-02",
-        "price": 78.67
-      },
-      {
-        "date": "2024-12-03",
-        "price": 78.27
-      },
-      {
-        "date": "2024-12-04",
-        "price": 78.0
-      },
-      {
-        "date": "2024-12-05",
-        "price": 76.55
-      },
       {
         "date": "2024-12-06",
         "price": 76.42
@@ -529,25 +637,25 @@
       },
       {
         "date": "2025-06-02",
-        "price": 65.72
+        "price": 65.87
+      },
+      {
+        "date": "2025-06-03",
+        "price": 66.51
+      },
+      {
+        "date": "2025-06-04",
+        "price": 65.96
+      },
+      {
+        "date": "2025-06-05",
+        "price": 65.9
       }
     ],
     "current_price_data": {
-      "price": 65.72,
-      "change": -0.78,
-      "percent_change": -1.17
+      "price": 65.9,
+      "change": -0.01,
+      "percent_change": -0.02
     }
-  },
-  "news_sentiment": {
-    "summary": "Bank of Hawaii is a regional bank based in Hawaii that has been experiencing growth and positive sentiment in recent weeks. Its high institutional ownership and strong financial performance have led to a rise in its stock price, up 5.5% over the last week. The bank's conference call on its first quarter financial results and the recent dividend announcement have also contributed to the positive sentiment. Bank of Hawaii's strong buy rating from Barclays and Nasdaq's recommendation to add it to portfolios also signal a positive outlook for the stock.",
-    "sentiment_score": 0.3,
-    "label": "POSITIVE",
-    "positive_ratio": 0.4,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.1,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 0,
-    "headlines": []
-  },
-  "extraction_date": "2025-06-02"
+  }
 }
