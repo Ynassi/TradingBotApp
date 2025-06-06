@@ -226,6 +226,8 @@ def clean_json(obj):
 
 @app.get("/api/companies")
 def get_companies():
+    import traceback
+
     directory = os.path.join(OUTPUT_FOLDER, "insights_enriched_all")
     companies = []
     erreurs = []
@@ -233,25 +235,36 @@ def get_companies():
     if not os.path.exists(directory):
         return JSONResponse(status_code=404, content={"error": "Dossier JSON introuvable"})
 
-    for filename in os.listdir(directory):
+    for filename in sorted(os.listdir(directory)):
         if filename.endswith(".json"):
             path = os.path.join(directory, filename)
             try:
                 with open(path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    data = clean_json(data)  # Nettoyage ici 👈
+                    raw = f.read()
+
+                    # Remplacement brut NaN/inf → null
+                    for bad in ["NaN", "Infinity", "-Infinity"]:
+                        if bad in raw:
+                            raw = raw.replace(bad, "null")
+
+                    data = json.loads(raw)
+                    data = clean_json(data)
                     companies.append(data)
+
             except Exception as e:
                 erreurs.append(f"{filename}: {str(e)}")
+                print(f"❌ ERREUR FICHIER : {filename}")
+                print(traceback.format_exc())
 
     if erreurs:
         return JSONResponse(status_code=207, content={
-            "error": "Certains fichiers ont échoué",
-            "errors": erreurs,
+            "error": "Certains fichiers JSON sont invalides",
+            "errors": erreurs[:5],  # Limiter le retour à 5 erreurs pour éviter de tout casser
             "loaded": len(companies)
         })
 
     return JSONResponse(content=companies)
+
 
 MISTRAL_API_URL = "https://8ug9pcnn4g0xwy-8000.proxy.runpod.net/analyze"
 

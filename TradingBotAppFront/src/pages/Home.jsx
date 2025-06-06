@@ -17,7 +17,7 @@ export default function Home() {
         <img
           src={logo}
           alt="Logo NASTRAD"
-          className="w-44 h-44 drop-shadow-xl mb-6 animate-logo-pulse"
+          className="w-44 h-44 drop-shadow-xl mb-6"
         />
         <h2 className="text-3xl font-bold tracking-wider">Bienvenue sur NASTRAD</h2>
         <p className="text-sm mt-2 text-gray-400">
