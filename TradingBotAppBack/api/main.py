@@ -8,6 +8,9 @@ from pydantic import BaseModel
 from fastapi import FastAPI, Request
 import numpy as np
 from fastapi.middleware.cors import CORSMiddleware
+import math
+from fastapi.responses import JSONResponse
+
 
 #  Corrigé : dossier racine du projet (pas "api/")
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -210,21 +213,33 @@ def get_index_data(symbol: str):
             return json.load(f)
     return JSONResponse(status_code=404, content={"error": f"Données indisponibles pour {symbol.upper()}"})
 
+
+def clean_json(obj):
+    if isinstance(obj, float) and (math.isnan(obj) or math.isinf(obj)):
+        return None
+    elif isinstance(obj, dict):
+        return {k: clean_json(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [clean_json(i) for i in obj]
+    else:
+        return obj
+
 @app.get("/api/companies")
 def get_companies():
     directory = os.path.join(OUTPUT_FOLDER, "insights_enriched_all")
     companies = []
+    erreurs = []
 
     if not os.path.exists(directory):
         return JSONResponse(status_code=404, content={"error": "Dossier JSON introuvable"})
 
-    erreurs = []
     for filename in os.listdir(directory):
         if filename.endswith(".json"):
             path = os.path.join(directory, filename)
             try:
                 with open(path, "r", encoding="utf-8") as f:
                     data = json.load(f)
+                    data = clean_json(data)  # Nettoyage ici 👈
                     companies.append(data)
             except Exception as e:
                 erreurs.append(f"{filename}: {str(e)}")
@@ -236,7 +251,7 @@ def get_companies():
             "loaded": len(companies)
         })
 
-    return companies
+    return JSONResponse(content=companies)
 
 MISTRAL_API_URL = "https://8ug9pcnn4g0xwy-8000.proxy.runpod.net/analyze"
 
