@@ -2,13 +2,21 @@
 <html lang="fr" class="h-full bg-neutral-950">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" href="/logo Nastrad new taureau.png" type="image/png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NASTRAD</title>
+
+    <!-- PWA + plein écran mobile -->
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   </head>
   <body class="h-full text-neutral-100 font-sans antialiased">
     <div id="root" class="min-h-screen flex items-center justify-center">
       <div class="text-center">
+        <!-- Logo affiché dans la page -->
+        <img src="/logo Nastrad new taureau.png" alt="Logo NASTRAD" class="w-20 mx-auto mb-4">
         <p class="text-lg text-neutral-400">Votre assistant de décision boursière alimenté par l'IA.</p>
       </div>
     </div>
