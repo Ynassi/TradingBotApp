@@ -2,16 +2,16 @@
   "ticker": "6645.T",
   "name": "Omron",
   "sector": "Information Technology",
-  "market_cap": 733436772352.0,
+  "market_cap": 718670397440.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 45.0427,
-    "PB": 0.92824596,
-    "EV_Revenue": 1.14,
+    "PE": 44.183514,
+    "PB": 0.93105185,
+    "EV_Revenue": 1.143,
     "ROE": 0.01578,
     "ProfitMargin": 0.02029,
     "GrossMargin": 0.44544998,
-    "DividendYield": 2.79,
+    "DividendYield": 2.86,
     "DebtEquity": 19.713,
     "CurrentRatio": 2.312,
     "QuickRatio": 1.375,
@@ -20,48 +20,30 @@
     "FCF_Margin": 0.05371074496190057,
     "ROA": 0.024349999,
     "PEG": null,
-    "EV_EBITDA": 10.585,
+    "EV_EBITDA": 10.61,
     "BuybackYield": null,
-    "PriceToFCF": 17.03181407060174
+    "PriceToFCF": 16.688910412810664
   },
   "technical_indicators": {
-    "RSI_14": 29.484228139241665,
-    "Momentum_10": -4.034810126582278,
-    "MACD": -118.98093331245218,
-    "BB_Percent": 0.126087683311851,
+    "RSI_14": 30.66298970704875,
+    "Momentum_10": -3.388035997882478,
+    "MACD": -120.36770208365488,
+    "BB_Percent": 0.1802393954117506,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8903456989504928,
+    "ValueScore": 0.9298217348581176,
     "QualityScore": 0.3507474680050277,
-    "SignalScore": 0.7456229730850263
+    "SignalScore": 0.7429934632669202
   },
-  "volatility": 0.0237561014098115,
+  "volatility": 0.0234826953723772,
   "beta": 0.95,
-  "return_6m": -0.2386231313877814,
+  "return_6m": -0.2637317979178597,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
-    "target_mean_price": 5718.1816
+    "target_mean_price": 5590.909
   },
-  "news_sentiment": {
-    "summary": "Les entreprises japonaises montrent un intérêt croissant pour les incitations en actions pour les employés, susceptible de renforcer l'engagement et la productivité. Cette tendance reflète une volonté de fidéliser les talents et d'aligner les intérêts des salariés avec ceux de l'entreprise. Ces initiatives pourraient également avoir un impact positif sur la valorisation des actions des sociétés concernées, offrant ainsi des perspectives attrayantes pour les investisseurs à long terme.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Japanese companies warm up to employee stock incentives - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGRyeTdDYmV0bDJuNE5NNDJTMjZxYW9yT3JGNVFPcWJ6UDRlVmtyeGVxdFpuLWZJZF9BZXVRRDhHQzhLcFhXdlctVDRNdEFHQXd5ZW1rZ1JJSy1hM0JEYWJpS21FVXJRUEc0MUQzTUxzdmlWeVZ0RW55TE5GdEgzMWZfMjRBLXJvQ0ZpY3FlanR0R3loaHZ3RGk1RnBJOTVQc0t3?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -542,13 +524,36 @@
       },
       {
         "date": "2025-06-06",
-        "price": 3635.0
+        "price": 3650.0
       }
     ],
     "current_price_data": {
-      "price": 3635.0,
-      "change": -4.0,
-      "percent_change": -0.11
+      "price": 3650.0,
+      "change": 11.0,
+      "percent_change": 0.3
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "L'entreprise OMRON (TSE:6645) a subi une baisse de 5,8% de son cours de bourse au cours de la dernière semaine, en raison de trois années consécutives de déclin des bénéfices. Cette tendance négative soulève des préoccupations quant à la performance future de la société. Par ailleurs, les entreprises japonaises semblent de plus en plus enclines à utiliser des incitations en actions pour motiver leurs employés, ce qui pourrait indiquer un changement de mentalité en matière de rémunération et de gouvernance d'entreprise. Cette évolution pourrait potentiellement impacter la valorisation des sociétés cotées au Japon.",
+    "sentiment_score": -0.5,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.5,
+    "negative_ratio": 0.5,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "The three-year earnings decline is not helping OMRON's (TSE:6645 share price, as stock falls another 5.8% in past week - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXB4UmM5OVZTQW43U3BRT1RhbVZzdFV0b2hHVVdRSzJuLXNnMVljdnltU2FzdnJIT3FLeGlHTXh2akExN09pMWMydk5pX2kzM3J2dnVEWjBWNWcxcU0wT2NhUWczajc5NmI4dDRGaHZVV3lDanVGRmR3QmlvTURVZEtpdWZncXg0VWZOOG9LUXB6TF9XaVRNeHk0T2d4LXZ2OUlMVnFNZDdoSmNnREd1eURqVF9sZ3ZRc0JEd0VxSnhIZ9IBxwFBVV95cUxOa1czSmdjbGQtb3JpZDJMMEdSMGZuSDVyejRCUzhFRWFyeVZyZDR5OEx0UXlrOEtTU1V3QkRpWktfUGxtT29oWXdhdGRZOUdUTmY0dmNvNFJmNkNwYkwwLVVMZWpqT2xkUGF1ZEdZV1RBbTBQTkVBTmhiUlctTmRMcXhHWkFBMzRxY3pyUVE1SmFHOGdhVFlvZlAwYlF6ODlmQTROdE9WVy0tTVlrUXBZeGVsQjlCVUNXU3JBTlRUc2Zpb0ZBZUUw?oc=5",
+        "label": "NEGATIVE"
+      },
+      {
+        "title": "Japanese companies warm up to employee stock incentives - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGRyeTdDYmV0bDJuNE5NNDJTMjZxYW9yT3JGNVFPcWJ6UDRlVmtyeGVxdFpuLWZJZF9BZXVRRDhHQzhLcFhXdlctVDRNdEFHQXd5ZW1rZ1JJSy1hM0JEYWJpS21FVXJRUEc0MUQzTUxzdmlWeVZ0RW55TE5GdEgzMWZfMjRBLXJvQ0ZpY3FlanR0R3loaHZ3RGk1RnBJOTVQc0t3?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }

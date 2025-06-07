@@ -45,15 +45,25 @@
     "target_mean_price": 209.60889
   },
   "news_sentiment": {
-    "summary": "AbbVie (ABBV) fait l'objet de diverses opinions contrastées sur le marché. Alors que certains analystes recommandent un positionnement à l'achat en raison de la hausse des options et d'une vision positive à long terme, d'autres soulignent la prudence, notamment suite à des échecs de levée de cours malgré des approbations de médicaments. L'attention des investisseurs est attirée par la récente révision à la hausse des perspectives d'AbbVie, portée par le succès de certains médicaments phares. La volatilité du titre et les incertitudes entourant le secteur pharmaceutique pourraient influencer le sentiment de marché.",
-    "sentiment_score": -0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.2,
+    "summary": "AbbVie (ABBV) a connu une série de sept séances de hausse consécutives, attirant l'attention des investisseurs avec une perspective prometteuse. Malgré une approbation de médicament contre le cancer, le titre n'a pas décollé, suscitant des inquiétudes. Les analystes restent partagés sur l'opportunité d'acheter, de vendre ou de conserver les actions après les résultats du premier trimestre. Les mouvements récents du titre et l'activité des options reflètent un momentum haussier, mais la baisse de 13% en trois mois interroge sur un éventuel rebond.",
+    "sentiment_score": 0.15,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.3,
     "neutral_ratio": 0.55,
-    "negative_ratio": 0.25,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
+      {
+        "title": "AbbVie continues gains for seven straight sessions (ABBV:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUG1HSmllNG1XS21YSHNaMlA1WmluSkh5VDU3YXU1Y19xelBSRTRBYWZ3YnVBVWVhbm9ZZHNRRUlweEFJTWpkUVhIdW5OVjE5M2dWa09PdEpDRjBUdmlxN19udGF0cnhNejdsT2l1cGpqbncwVWFBeEhwRWd1Rl9YVUg2UVhHRE1vZlNPQS16cHh1dw?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AbbVie (ABBV) Stocks Surge with Promising Outlook - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUUw5Z1lhVU9rOUR4cmdHNk5LaEVuZHhpMkp4TmhNY1c5YzhjLVhlUnM4Y2NLVF9BcXVuMmI4RmpXMTgxUzlUeWVQRlNoMHJTdzQwUFlMYXdFRFZlaXdlTFVIYXNHZnRmbkpISTdoamxjS29nbXlqeE9RZ0lWZmxhWlJoZmVCSWdYMDUxd1RSQQ?oc=5",
+        "label": "POSITIVE"
+      },
       {
         "title": "Jim Cramer On AbbVie: Makes “Sense To Start a Position in the Stock” - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX3lYeXBXNkNtTzJLeHY2cGNRT3pLM3JSS2FvNzdxd0RXdVljSW5FUlZ6bm10ZnZiSm45NjcybWVMVTZNbkl2czJ3SVhqMXJVRkhIVDV1bXFodmtpSVdkVlRpVXpfVllSbVdMb2tCb0ZyNmdiRVZNbnRfWENiTFRuZg?oc=5",
@@ -63,6 +73,11 @@
         "title": "Don't Fall for These 3 Dividend Stocks: They May Have to Make a Cut. - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTJQLXMtenVxbG0temVUNmV6a0syT3RMVE1hbVM2WGl3WC1vU09JYTlRTTJhNTc4aVJFMmVIUGdaYjV1cHRONGxSSXByeFNsR3BqWDcxQVduSHc3TzZWUUFyNmZZRmE4ZkNnMmZCaklpNW52dnR6Zl93VTB2cXNIZF9JLWFRdzcyUFZqWWwzMXhJNWYyYWNvXw?oc=5",
         "label": "NEGATIVE"
+      },
+      {
+        "title": "AbbVie continues gains for seven straight sessions - MSN",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3k4UG5VS3ZtajY4Z3ByVXo4eXB2YTRaZ0pMWHczc3VYb2pnWTBrUUZtcDdXc2NuZ04yMm9DTmM4bmRsbkd3c3NER1haV1l0N3pnMC1VbEk3U1RfNTBJSHFJbHR2X202dlBQM2hfTmJ3b1N2UDZsTGtTbnlEQ1JYVG5GV1NLb0JyMHNMWGJOY1BGMW1wWkItWFlmMlFHS0FfWDYtNXMtMWF3aXpRWG5KVjJDMEh5QWRFX3E4aGRibm9CWVFubWFZclhn?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "Is It Time To Buy AbbVie Stock At $180? - Forbes",
@@ -75,19 +90,14 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "Levi & Korsinsky Reminds Shareholders of a Lead Plaintiff Deadline of June 3, 2025 in Cerevel Therapeutics Holdings, Inc. Lawsuit - ABBV - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSjd5XzFScWl6cWVJYUdsMEdhWmFwNkRUeXVud21Hc3VRUzA3bDJfUDlqZGtaNlV4ZkhNOUVTenlBWnVLS2tYNi0zU001aEQ3Z29ERVliN1M4alZUd1pJNWxudmphYUdjWERHLUdfVG9aXzZfRDh3MllzX2sxYkVpUDVteXo2OHQtZnJ0cHRZb2JCQXJNVFFWbTNwUjJJNmFTcTlUVlU4c0RPNnFpUnJwVUhaQmpTT01YdzNTYi1WUlMwa2hwX2JtMDNyNmx3ckZ5bVAwcktkTlpzdkVydy1zLUF3SUY2b2FpV0pfNXVLeWYxam1lQV96Y1R5R19FbGhld3lqMTlRYzBNcXlCbmxtclpQWmFPQQ?oc=5",
+        "title": "AbbVie Inc. (ABBV) Is a Trending Stock: Facts to Know Before Betting on It - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2MxX0xRU1VCQU9iRW1OcDlNbnZBQnRIbHVIVVVWeE14VVpZY1djdVY4ZmVySWRreVFDeFJzelFYTE5tcERncExVd2pRbmVPZzdmZy1vR2F5dURJRUMwUVUzZHIyLWJXYXdsd0VYaDhmUklUVjZUSjh1aVNoTFFQb0NBcU44REo5d3JSdG9VSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "ABBV: Bullish Momentum Evident in AbbVie Options Activity | ABBV Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXJFX3d4MVRpcThRMHlDbWVxa3JYZTVEcHdMRlZNQVNkLUFDZ2NoN1lna0pIUzdCLVR6N1N6MHdrOWpLTmdrdWxQcXNST01sWnVjUXJ3MS1kTWlfcFJZODJSLW4yaXNEVGNUZnNQVTZseVpiYXBLSzFwRUFBRzBGdmtTeHFKZUpPLWNhaU4tU09TN2ZvY2NTU3RoMWhxdGdFRG9fX1JtV0ItQ2Q3djdWOVJ3?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "AbbVie (ABBV) Gains As Market Dips: What You Should Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLW12eGJnQ1FHWmVXVmNaMnRFZGdNcUJ4ZGVPTU16QnNGZjhNeDV4bDVMZWJYOXJ1NXFmSndUenhUWmxDNkFFSF9hVjZZb3JsMFg0WFdMZzl0ZUJocFRtN1R4V1p2UDJoZmR3dmdfNnYySTl6bkVUMUlkdHBWSHVORWl1NmxfaU1VTms5cw?oc=5",
-        "label": "POSITIVE"
+        "title": "Levi & Korsinsky Reminds Shareholders of a Lead Plaintiff Deadline of June 3, 2025 in Cerevel Therapeutics Holdings, Inc. Lawsuit - ABBV - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSjd5XzFScWl6cWVJYUdsMEdhWmFwNkRUeXVud21Hc3VRUzA3bDJfUDlqZGtaNlV4ZkhNOUVTenlBWnVLS2tYNi0zU001aEQ3Z29ERVliN1M4alZUd1pJNWxudmphYUdjWERHLUdfVG9aXzZfRDh3MllzX2sxYkVpUDVteXo2OHQtZnJ0cHRZb2JCQXJNVFFWbTNwUjJJNmFTcTlUVlU4c0RPNnFpUnJwVUhaQmpTT01YdzNTYi1WUlMwa2hwX2JtMDNyNmx3ckZ5bVAwcktkTlpzdkVydy1zLUF3SUY2b2FpV0pfNXVLeWYxam1lQV96Y1R5R19FbGhld3lqMTlRYzBNcXlCbmxtclpQWmFPQQ?oc=5",
+        "label": "NEUTRAL"
       },
       {
         "title": "Pharma Stock Regeneron Is a Buy, Says Citi. But Be Cautious on AbbVie, Merck. - Barron's",
@@ -100,19 +110,14 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "3 Stocks That Will Profit From Trump's Drug Price Cut - AbbVie (NYSE:ABBV), Amgen (NASDAQ:AMGN) - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkktdDdtY0dEeE13WE5pczVPeTBEWXZuR1c4Q0Y1bUZnNjk0SG81RHU2dEljNVZrTXRTNTlpak03S2tHTG85WXh4dV9Bc2lJSzUtU0VpTGlxeE8talFTWmlXXzdjSTdUdEkxckNzZFU5SVE5YzNiU01NWEg3YUx1SFZEMkx0VFA1VkhfbHRqNzM1NzFBbElORnZyOXFLNHZGYUE?oc=5",
+        "title": "AbbVie (ABBV): Buy, Sell, or Hold Post Q1 Earnings? - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOal9vby1CalY1Um4wM0NiUGFkNWNvZ0JBYk5LQzBBRW1VbXBxNzg2cjExV3p3N0NSdjVGQ1NRMWo4NE8zWWR5dTI0TU1MNTF3dE9rUkNaTHdxbklmOUZvUVpxa0VtVV8yRDd5UDZIV2p0clNyLWlTWTA0bkVIMGVGTGpUTml3bnRtREFPMjhMRkNIS1pSOVE1aGVkMmRwTmZJZlBMdll4NURaNDR4WXR5LXFRMjMyZDM4?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "ABBV: Bullish Momentum Evident in AbbVie Options Activity | ABBV Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXJFX3d4MVRpcThRMHlDbWVxa3JYZTVEcHdMRlZNQVNkLUFDZ2NoN1lna0pIUzdCLVR6N1N6MHdrOWpLTmdrdWxQcXNST01sWnVjUXJ3MS1kTWlfcFJZODJSLW4yaXNEVGNUZnNQVTZseVpiYXBLSzFwRUFBRzBGdmtTeHFKZUpPLWNhaU4tU09TN2ZvY2NTU3RoMWhxdGdFRG9fX1JtV0ItQ2Q3djdWOVJ3?oc=5",
         "label": "POSITIVE"
-      },
-      {
-        "title": "AbbVie (ABBV): Buy, Sell, or Hold Post Q1 Earnings? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvWGxUSkFRcHRiRTZwdXNveHN3b04xME9PSFJlTWZjSHFRd3diQ1RwTDJKNTBSNE43Z1hQMl9hdU1RSlFtN1pXWWU4NFh4NUtodjU3NWpYcmtJNTRUaHJsX2JLQWhsUEs1TjFWaC1rUjNMMmc1WWh5UFhYbw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "AbbVie (ABBV) Stock Moves -1.64%: What You Should Know - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXM0MEVCVkJkVEhrR0psOVY1cldNcC1pZnlTdDdXdW1BeF9NT3lTSTItMm8wdEFYa0duc1hNSlhvUGxZSW84RWM0S1hnWURjNGdORGo5eS1UNVlTaC1mQjlvWkJGUGZ6RVZGTFFITDZ2aHg5eTUxOWpzekVSRHRvUGxZcmxHVzQ?oc=5",
-        "label": "NEUTRAL"
       },
       {
         "title": "AbbVie Inc. (ABBV): Among the Best Dividend Growth Stocks with High Yields - Yahoo Finance",
@@ -130,39 +135,30 @@
         "label": "NEUTRAL"
       },
       {
-        "title": "AbbVie Inc. (ABBV) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3g4T0tlVFdwUXFVM3I5Vy1ETnpINjZtbnBwZ3F5YTllMkUyY05NYlZSZzdzbE84WHk5ZmdXNVc1N2trZzktTEdRaWFsVEdDZllMLXNrT1JrTV9XeTc5YU11bXFUOTc4X1NjTExZT3pQYTRKNWdxay1ZZGpyZVNoX0E1TmJoRGw4?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
         "title": "Is AbbVie Inc. (ABBV) the Best Large-Cap Value Stock to Buy as the Recession Hits? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5bnRtS1Fla0h0YlBqUjlyRXVCbmxlNEJWdjh4VHhWa3JYMHJWWllWT1phVS1YbllCNG5rR1FUSkJpdzZHQV9wSHA2dFRNdnZqT3ZxM1VxZlR2RHpTWXR0MVNjZFpjck5SSjdXTkN2aU5CUksxNzVlWFgxY2Q?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "AbbVie (ABBV) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0RtRllLX2VOSXpvSUduZkFGdlJCRXdtQnYxNzExN0xEX0hRRTZTdTZuTEdGeTBCUXR5Mzhfc2Ytd28xcC1HQ1Q3UjdZQjFyam9JOEVJTXE5S3F6ZFhidzY5MkFTSmVrY1JVR2FHQ3lHX2VZckxVQ2NrbVRtRS1IRFB3?oc=5",
-        "label": "NEGATIVE"
-      },
-      {
-        "title": "ChatGPT Stock Advice: AbbVie Inc. (ABBV) Among Top Stock Recommendations - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcjJkOGYtUzVrV0VJTkdnZnJsbEJobkNZbXJMbUtOOVZqMkFNUWNsLWY1bFFYX05uYXBEaGNadmU4cl9xSm5VZmRZTWFCTWhXT1ZYNWhQT2NhaGx2TDZrRUpVaWEtUjhtMEtUMkRnRUhOZktFbHp3Z0ZuNHhpcUJna2VERQ?oc=5",
+        "title": "Is AbbVie Inc. (ABBV) the Best Stock for 15 Years? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zb1ZlbmFpOC1Ybm5uSk9Odi02RHA5RldoVFUtWU4wT1pkbEY3dmRpZEtqVzZJSS0wb0tuckZLLXd3Y1VXeTJWMHQ3cHlIMng4TllHRHFSdV9RVG4tM0phbDZPbjVsMUU0dHk5b1IxbG1Vb0F2b0VqM3E2aDk?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "AbbVie Hikes Its Outlook On The Back Of Two Powerhouse Drugs - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX1V1RUI2aGxBRGdHbWRBRmpZOE92andxR3FveE12cTBoS2tXalBtejhhbVY5bXEzNmJuUFlRNV9DTnVCb2lWLVI5a3BzNzdISDlPQlBQQjRYQkIyc1Z6aEF0blpSTU4zMjE3VTEyanZkb3U4eV9TZVdlSzhLRTk1YVVvZXlQdw?oc=5",
-        "label": "NEGATIVE"
+        "title": "3 Stocks That Will Profit From Trump's Drug Price Cut - AbbVie (NYSE:ABBV), Amgen (NASDAQ:AMGN) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUkktdDdtY0dEeE13WE5pczVPeTBEWXZuR1c4Q0Y1bUZnNjk0SG81RHU2dEljNVZrTXRTNTlpak03S2tHTG85WXh4dV9Bc2lJSzUtU0VpTGlxeE8talFTWmlXXzdjSTdUdEkxckNzZFU5SVE5YzNiU01NWEg3YUx1SFZEMkx0VFA1VkhfbHRqNzM1NzFBbElORnZyOXFLNHZGYUE?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "AbbVie (ABBV) Stock Moves -1.64%: What You Should Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUXM0MEVCVkJkVEhrR0psOVY1cldNcC1pZnlTdDdXdW1BeF9NT3lTSTItMm8wdEFYa0duc1hNSlhvUGxZSW84RWM0S1hnWURjNGdORGo5eS1UNVlTaC1mQjlvWkJGUGZ6RVZGTFFITDZ2aHg5eTUxOWpzekVSRHRvUGxZcmxHVzQ?oc=5",
+        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-05",
+  "extraction_date": "2025-06-06",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 176.19
-      },
       {
         "date": "2024-12-09",
         "price": 176.57
@@ -650,12 +646,16 @@
       {
         "date": "2025-06-05",
         "price": 187.47
+      },
+      {
+        "date": "2025-06-06",
+        "price": 189.83
       }
     ],
     "current_price_data": {
-      "price": 187.47,
-      "change": 0.12,
-      "percent_change": 0.06
+      "price": 189.83,
+      "change": 2.39,
+      "percent_change": 1.28
     }
   }
 }

@@ -2,16 +2,16 @@
   "ticker": "8304.T",
   "name": "Aozora Bank",
   "sector": "Financials",
-  "market_cap": 298487808000.0,
+  "market_cap": 298764566528.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 14.009222,
-    "PB": 0.66122603,
-    "EV_Revenue": -0.617,
+    "PE": 14.018571,
+    "PB": 0.6618391,
+    "EV_Revenue": -0.614,
     "ROE": 0.04616,
     "ProfitMargin": 0.18595,
     "GrossMargin": 0.0,
-    "DividendYield": 4.12,
+    "DividendYield": 4.08,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,43 +25,25 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 66.82468213752855,
-    "Momentum_10": 4.202898550724638,
-    "MACD": 40.25510280308481,
-    "BB_Percent": 0.8277128900300889,
+    "RSI_14": 67.02344456647815,
+    "Momentum_10": 4.856726566294318,
+    "MACD": 42.04608147757335,
+    "BB_Percent": 0.8208841150866348,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.9004365607753149,
+    "ValueScore": 0.9345563539179292,
     "QualityScore": 0.3870328899307125,
-    "SignalScore": 0.4768071065004187
+    "SignalScore": 0.4490992618529847
   },
-  "volatility": 0.0187912967359236,
+  "volatility": 0.0187961281751975,
   "beta": 0.219,
-  "return_6m": -0.1182872617648561,
+  "return_6m": -0.1195944859567914,
   "analyst_rating": {
     "recommendation": "underperform",
     "analyst_count": 6,
     "target_mean_price": 2060.0
   },
-  "news_sentiment": {
-    "summary": "Suite à l'acquisition de 8 304 actions par FORA Capital LLC dans Invitation Homes Inc. (NYSE: INVH), l'entreprise immobilière semble susciter un intérêt accru des investisseurs. Cette opération pourrait indiquer une confiance renouvelée dans le potentiel de croissance de INVH sur le marché immobilier. Cette acquisition pourrait également signaler une vision optimiste quant à la performance future de l'entreprise, suggérant un sentiment positif parmi les investisseurs à l'égard de la société.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "8,304 Shares in Invitation Homes Inc. (NYSE:INVH) Purchased by FORA Capital LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWm5ZV28wTEdDZExUZnZjVnBiZ1QxekFYa0RMT201UTc2Q241TjN5VnByUXVXbXo4TEFyd2FOTWJERjJZd0l5c0o5YUJScHh0azNwWXQyelNXeTQ5aXlOX1J5OFFnNVNnWm8wME5IV01yblhYZk9Sa2lFZHd3cjYxSlVhdHNUb0NBb3lxTkRISnFrb0NPQ203Q1IwZTFyalUxdnRGN19oMVllUG5aSG5ISFdpd2dqV0FxSlF4Tm1FMnUtdTg?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -542,13 +524,31 @@
       },
       {
         "date": "2025-06-06",
-        "price": 2161.0
+        "price": 2159.0
       }
     ],
     "current_price_data": {
-      "price": 2161.0,
-      "change": 4.0,
-      "percent_change": 0.19
+      "price": 2159.0,
+      "change": 2.0,
+      "percent_change": 0.09
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Suite à l'acquisition de 8 304 actions d'Invitation Homes Inc. (NYSE: INVH) par FORA Capital LLC, l'entreprise semble susciter un intérêt accru des investisseurs. Cette opération pourrait indiquer une confiance croissante dans les perspectives de croissance de la société immobilière, ce qui pourrait potentiellement soutenir sa valorisation boursière à moyen terme. Les investisseurs pourraient être attentifs à l'évolution des performances financières d'INVH dans les prochains trimestres pour confirmer ou infirmer cette tendance positive.",
+    "sentiment_score": null,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "8,304 Shares in Invitation Homes Inc. (NYSE:INVH) Purchased by FORA Capital LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWm5ZV28wTEdDZExUZnZjVnBiZ1QxekFYa0RMT201UTc2Q241TjN5VnByUXVXbXo4TEFyd2FOTWJERjJZd0l5c0o5YUJScHh0azNwWXQyelNXeTQ5aXlOX1J5OFFnNVNnWm8wME5IV01yblhYZk9Sa2lFZHd3cjYxSlVhdHNUb0NBb3lxTkRISnFrb0NPQ203Q1IwZTFyalUxdnRGN19oMVllUG5aSG5ISFdpd2dqV0FxSlF4Tm1FMnUtdTg?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }

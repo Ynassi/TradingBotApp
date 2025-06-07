@@ -2,11 +2,11 @@
   "ticker": "9532.T",
   "name": "Osaka Gas",
   "sector": "Energy",
-  "market_cap": 1439045255168.0,
+  "market_cap": 1439839158272.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 10.875435,
-    "PB": 0.85211474,
+    "PE": 10.887314,
+    "PB": 0.85258484,
     "EV_Revenue": 1.098,
     "ROE": 0.08076999,
     "ProfitMargin": 0.06497,
@@ -20,48 +20,30 @@
     "FCF_Margin": -0.013033712815708628,
     "ROA": 0.032509997,
     "PEG": null,
-    "EV_EBITDA": 7.88,
+    "EV_EBITDA": 7.883,
     "BuybackYield": null,
-    "PriceToFCF": -53.363195994981574
+    "PriceToFCF": -53.39263579667484
   },
   "technical_indicators": {
-    "RSI_14": 53.011581481075254,
-    "Momentum_10": 0.49902966454117,
-    "MACD": 28.11630267047485,
-    "BB_Percent": 0.3424719337156908,
+    "RSI_14": 53.32075026428722,
+    "Momentum_10": 0.3597122302158274,
+    "MACD": 25.178056068025853,
+    "BB_Percent": 0.3755694771466016,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8955728750225006,
+    "ValueScore": 0.9347679918281726,
     "QualityScore": 0.4238033773326044,
-    "SignalScore": 0.5723788009690471
+    "SignalScore": 0.5634636968824855
   },
-  "volatility": 0.0142086157751854,
+  "volatility": 0.0142080358053184,
   "beta": -0.172,
-  "return_6m": 0.1479762048531374,
+  "return_6m": 0.1453892318613006,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 5,
     "target_mean_price": 4308.0
   },
-  "news_sentiment": {
-    "summary": "L'analyse récente de la puce Intel Broadwell Xeon E3 v4 révèle une gamme de versions à consommation d'énergie variable, avec des modèles de 95W, 65W et 35W intégrant de la mémoire eDRAM. Cette diversification pourrait renforcer la compétitivité d'Intel sur le marché des processeurs, offrant des options adaptées aux besoins spécifiques des utilisateurs. Toutefois, la réception du produit par les consommateurs et les performances réelles par rapport à la concurrence seront des éléments déterminants pour évaluer l'impact financier de cette nouvelle gamme.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "The Intel Broadwell Xeon E3 v4 Review: 95W, 65W and 35W with eDRAM - AnandTech",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamllV2VpTTV6WG9VMDlDZGNoZHhOdkVzODVZSEdPQzQyTVlVVzhmRTF2RlRNYXd6WUlSbF81RGtfZWgtOG5uRUN4OEtvZ2xuaktYMzFFdDEyTGt2WVF3MFFEZmZxZFhTa3FsV25zWEZqcllKdjg4OHJUc2JfVzJKb2t4ZEZRczBSeU1Tc2xsRUI4ZjhmV01qbl9nNGp4bGlFZGhj?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -542,13 +524,31 @@
       },
       {
         "date": "2025-06-06",
-        "price": 3625.0
+        "price": 3627.0
       }
     ],
     "current_price_data": {
-      "price": 3625.0,
-      "change": 0.0,
-      "percent_change": 0.0
+      "price": 3627.0,
+      "change": 2.0,
+      "percent_change": 0.06
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "L'analyse des dernières actualités révèle qu'Intel a récemment lancé la gamme de processeurs Broadwell Xeon E3 v4, offrant des variantes de 95W, 65W et 35W avec eDRAM. Cette annonce souligne l'engagement continu d'Intel dans l'innovation technologique pour répondre aux besoins du marché. Les performances et l'efficacité énergétique améliorées de ces processeurs pourraient potentiellement renforcer la position concurrentielle d'Intel sur le marché des serveurs et influencer positivement le sentiment des investisseurs à l'égard de la société.",
+    "sentiment_score": null,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "The Intel Broadwell Xeon E3 v4 Review: 95W, 65W and 35W with eDRAM - AnandTech",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamllV2VpTTV6WG9VMDlDZGNoZHhOdkVzODVZSEdPQzQyTVlVVzhmRTF2RlRNYXd6WUlSbF81RGtfZWgtOG5uRUN4OEtvZ2xuaktYMzFFdDEyTGt2WVF3MFFEZmZxZFhTa3FsV25zWEZqcllKdjg4OHJUc2JfVzJKb2t4ZEZRczBSeU1Tc2xsRUI4ZjhmV01qbl9nNGp4bGlFZGhj?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }

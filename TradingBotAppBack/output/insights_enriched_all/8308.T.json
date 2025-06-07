@@ -2,16 +2,16 @@
   "ticker": "8308.T",
   "name": "Resona Holdings",
   "sector": "Financials",
-  "market_cap": 2913032470528.0,
+  "market_cap": 2933643542528.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 13.766233,
-    "PB": 1.0700216,
-    "EV_Revenue": -8.955,
+    "PE": 13.871142,
+    "PB": 1.0775926,
+    "EV_Revenue": -8.934,
     "ROE": 0.07767,
     "ProfitMargin": 0.21624,
     "GrossMargin": 0.0,
-    "DividendYield": 2.24,
+    "DividendYield": 2.28,
     "DebtEquity": null,
     "CurrentRatio": null,
     "QuickRatio": null,
@@ -25,43 +25,25 @@
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 58.66361777309302,
-    "Momentum_10": 1.8414731785428344,
-    "MACD": 39.60198652115787,
-    "BB_Percent": 0.6547809167075901,
+    "RSI_14": 59.92747782953126,
+    "Momentum_10": 1.1049723756906076,
+    "MACD": 38.014603574944886,
+    "BB_Percent": 0.6946277913578268,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.925753627122736,
+    "ValueScore": 0.935167810922112,
     "QualityScore": 0.3952203478063255,
-    "SignalScore": 0.5333102091597788
+    "SignalScore": 0.5200680998411171
   },
-  "volatility": 0.0316213134050237,
+  "volatility": 0.0315952213714153,
   "beta": 0.196,
-  "return_6m": 0.0312854806043321,
+  "return_6m": 0.0544317989307727,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 11,
     "target_mean_price": 1368.1818
   },
-  "news_sentiment": {
-    "summary": "Malheureusement, je n'ai reçu qu'un seul titre d'actualité économique concernant une entreprise cotée, et il ne semble pas pertinent pour une analyse financière. Pour pouvoir fournir une synthèse pertinente et utile, j'aurais besoin d'autres titres d'actualité liés à des entreprises cotées. N'hésitez pas à me fournir davantage d'informations pour que je puisse vous aider de manière plus efficace.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 4,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "A look at revised Form 8308 - The Tax Adviser",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QRS1WMkFvU1RMQ0gwNGFnalFTQnlRNXQzVi1nWERTcE0xU0EzaVNKSFdjbDE2N25pWXJlU1hvYnlFOEtXYzVKWVFwUGlxSHg1bzlJa1dQREFLWGw5WUh6VFNiQmR0dzNnZUF1c1ZaY2RGWWxmSktxOUlYQjlRYU0?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -542,13 +524,31 @@
       },
       {
         "date": "2025-06-06",
-        "price": 1281.5
+        "price": 1281.0
       }
     ],
     "current_price_data": {
-      "price": 1281.5,
-      "change": 9.5,
-      "percent_change": 0.75
+      "price": 1281.0,
+      "change": 9.0,
+      "percent_change": 0.71
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Désolé, mais je n'ai trouvé qu'un seul titre d'actualité économique dans votre liste. Pour pouvoir fournir une synthèse pertinente des tendances clés, j'aurais besoin de plus de titres d'actualités concernant une entreprise cotée. N'hésitez pas à en ajouter davantage pour que je puisse vous offrir une analyse approfondie.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "A look at revised Form 8308 - The Tax Adviser",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QRS1WMkFvU1RMQ0gwNGFnalFTQnlRNXQzVi1nWERTcE0xU0EzaVNKSFdjbDE2N25pWXJlU1hvYnlFOEtXYzVKWVFwUGlxSHg1bzlJa1dQREFLWGw5WUh6VFNiQmR0dzNnZUF1c1ZaY2RGWWxmSktxOUlYQjlRYU0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }

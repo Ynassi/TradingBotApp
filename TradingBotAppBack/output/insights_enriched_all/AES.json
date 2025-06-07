@@ -45,63 +45,33 @@
     "target_mean_price": 13.70846
   },
   "news_sentiment": {
-    "summary": "L'entreprise AES Corporation a récemment fait l'objet d'un fort intérêt des investisseurs, avec une augmentation des appels d'achat et des achats massifs d'options d'achat. Cependant, des analystes ont revu à la baisse leur évaluation de l'action AES, citant des défis de marché et un potentiel de baisse du prix cible à 9 $. Malgré des baisses récentes du cours de l'action touchant un plus bas sur 52 semaines, certains experts comme Jim Cramer voient une opportunité d'achat avec un rendement de 5%. La performance de l'entreprise a été médiocre par rapport à ses concurrents, mais des acquisitions importantes d'actions par des fonds d'investissement signalent un certain intérêt pour l'entreprise.",
-    "sentiment_score": -0.05,
-    "label": "POSITIVE",
-    "positive_ratio": 0.15,
+    "summary": "L'entreprise AES Corporation a connu une année difficile avec une baisse de 41% de son cours de bourse, incitant Jefferies à abaisser son objectif de prix à 9,00 $. Cependant, malgré les défis du marché et une récente baisse à un plus bas de 52 semaines, certains investisseurs voient des opportunités d'achat, notamment Jim Cramer qui souligne un rendement de 5%. Par ailleurs, les mouvements récents des options et des volumes d'achat semblent indiquer une certaine volatilité et incertitude entourant AES.",
+    "sentiment_score": 0.05,
+    "label": "NEGATIVE",
+    "positive_ratio": 0.2,
     "neutral_ratio": 0.65,
-    "negative_ratio": 0.2,
+    "negative_ratio": 0.15,
     "bullet_positive_count": 0,
     "bullet_negative_count": 0,
     "headlines": [
-      {
-        "title": "AES Corp.: One Of The Best Times To Buy - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhRzJYb1dxRy1wYjZ6QXJLYTl0bzhsNDlhemhsYTdYakhTVlltcEJPR1FYekJ3ZmUtYkNrVW1iSThXTnJyWjkxX1hZb0toa0ZfeFgybjlfTG1nSF80c3k1UjlpbHg4bGxaV1dJX2tuVzRONHRmWGlmc2pNTkNVbzQ?oc=5",
-        "label": "NEUTRAL"
-      },
       {
         "title": "AES Stock Loses 41% in a Year: Should You Buy on the Dip? - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFM1ZTVWs1eUVkT0ZoUnl2cG5NM2t3WjlMWVFEd2RUUnlWZHNiOHdnOUh3Q1RjbUNuczlHcGd3WUtxYk44S1NNM3h1dFF4TFo5d3hSZi1nS2ZCYzllUnlRUTNXYUxKSkF0dGJaUXpkTWF2SEpsblZR?oc=5",
         "label": "NEGATIVE"
       },
       {
-        "title": "AES Sees Increased Call Activity Amid Rising Implied Volatility | AES Stock News - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZjFSQjhRcXBydWVmZVlkMVNGYjRhYTJSaGVmdl90YU5EdlNnN0ZiUWpPZ2ZXMUQ4N21xb3Z6SlhDblFtSnNnLUFXeC1jcm1YN2Z1VG5KQThpdVdoSV93RzUzYm5wYUlia0o4RXF1YlVBVkh6Z1FNQ0Y0VkxPaGs5YmN0Y1lQbnlNZHNHeVllcnc4X1E1UHJLSzdZNEhTWk5uSDBiTGU5dVU4Mld1UTZwUC03ZjFoNTVmZi1tM3J3dEZKVWdMU2NidHVJQmpUSVJUWlh5Q1JHcEV2ZHI0VXplQnF1SE41aXE3WmJfNVV6R1liVVg3MzFOdWxGUWVaVEE?oc=5",
-        "label": "POSITIVE"
-      },
-      {
         "title": "AES Corp. stock outperforms competitors on strong trading day - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEJFTjMwVHB6ZDB1NzJJMzV4MWJFOTV1SzRhQTZERmVfX1BVMW1nVWVtM2JvLUZrci1fUXVyMHRZRF95MTRfeWw4UVQzcmdqekhJeFl5UGFxQWFjUkk5Q1hTbGlySjJtV3RVTUdZUnJaUS12b0licm93TG5ZMkVFSk9fbHZGdVV3UFFLNkFJMzMxdXpjWGs1aW9WekR6OEN4S1JBU2k4aTY3cXI1dUVFbUhtU0FCLVpoNE1Hdg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdU9BV2NHZjJjOVF0dWpOWWhhR1JoajB3MXJ1U0JaendtNlB0d3Zza1ZORGwwMVJMWXhYQmhuWHZsc3Z2TUZGekJ3TE5MM2JsdzNGVTFsTDB6YTJsNDNBVkRoMjJYYlJ3NllGT1RycklFeHFPYV9aXzRvMDBkaG5fQXc1OG8tazVkcnprMWZQNTRUbF9QOUV0aXBITWIzRHJGU2tXdEVOMDI0OGczcnQtNGNOdUVYNS1NMWFSaQ?oc=5",
         "label": "POSITIVE"
       },
       {
-        "title": "Investors Purchase Large Volume of Call Options on AES (NYSE:AES) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnZ1VDlKRU96OGszTV9wVGhXZW9oX0RsLWQ4QnpNalhlR3FJSjAxNjNnUEVMRm5ySkx1RUFZQVBvMGJFV05LUW1oWURhSnpraTdJbGxnXzlWODBXWEpUUm9uNjh5SW5XZ1R4Z1h2M3BISHVMOXRheTdxZko1ZEwxa1pXUnd6ZnY2RzVNMHVRQWxnNzVKeUxCdG5YZ2Q0aTR3dUNYNV9tSTh1UXRCUHc5Y1BLREJGSmM?oc=5",
+        "title": "The AES Corporation As An Income Investment (Technical Analysis) (NYSE:AES) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU19RdkhFaVFpdEdrZU9sMUY1NUdVVERxOXVReWE1OGpYVVhfS1R5OU1kRExyYmtLVHYyLU00Zl9JbGNyZHQ3UEVQaFRHZ2NkbGVUc05lemZLUW9qQ29penlvUy0wWFd1YTZsd0J0S1pDYlBFUXBSampmVFVBY3V2SWlfcUIteEUyRFlGUFB4QTdkYS1WY2tjeVVBZ1lXSXAyT21EZUl3?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Jefferies cuts AES Corp stock rating, lowers price target to $9 - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1VoaC1ERmFpUFFla1JHbnlTc2c0bmdvcE5MejJQNU45Z3ZYRjlSMGhyS19vV3dGMVMwZTlUcGlOWTZqNVExcEZhTlN6VkJyRWg5aU13ZmZoQ0Eyc0psMjRleC1hdVhGVFQxazhzSTRZc1diUF9Jei1qcnRONG9HLTNWemJ1MnQzMzh0RjVMNEJtaU1IMkN2Q2kxNDBGY3pXWk9FSTVTZlpZdlk2cTNIVnM0bTZHcW9XS1kxb0Rn?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why Oklo and Centrus Energy Stocks Popped, but AES Dropped - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZC1mR0RBNnNfWkZ4QThRNWNVeHVwNUZMT3JrWjZhaHhKSTktemxnQVcyMDZMQ0FXbXZScldNRm5JQ2JOMUxqS0NiaGoyQW1taDJhUWhyUHIyaFd0QmZfNnp0dzJ2Y2RWWjV0LVZNMFFoX2lLWnhzT1JySS1ndnRpbFJiVzVkN0NiNFVPeFNtX0p6UEpLSUIw?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Is AES (AES) Stock Undervalued Right Now? - Nasdaq",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByNkcxeFJYVmhKYzlTWVFoeVFuZ1R6dWVwZFh6VWpjVjA5VVhmczhVdk1Jc2NnWjBNWXU5SjI2XzBPNXJFcS1EZEhfRnQyQXZiOWg2eGMySUhIQzdCeGhoLW4tOTRKYl9Ha3d6QzNNU1JJTU1PREt3UQ?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "The AES Corporation Remains Unscathed By Tariffs And Economic Downturns - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0FwM3Y0SkNOb0tDSnUyd09YNnNDVWFUTnBObmtCaU0wNWFuMklHVDg5NzhwcjJVYVdhdGw5VFJsRm9WOUtKSjE4UjZFc3pHNmZqdHpjM1FEcnJISGNKeFBYem93cTZWaHFxQlJHZ2NWMHpfazlEU2JPMGZ4bTRPWHhwcnJvdENlUHNrSlhKMU5hM2lUNENTOEZKN1M1N0g5a011RmtUdDVtdWUySlNHOFlB?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "GTS Securities LLC Sells 34,273 Shares of The AES Co. (NYSE:AES) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWJ0UmZJbXhhV0pyVWo2clFYcVZfajkwbVV5SXVDdWEtZDdXVWJCbDEyc0RLUkgya3k4cHJlTE0yazlpYjZTNF9Fd2ZvRUpaUW9YenBYM29aU21PNEQ2WUZ1LXJSVURmNUhiN0RrbFJaV2VKYjFsN0tKMW1oQXFVWF9GSlJXbXgxYWpIVXg5TVhsZTFUOGZQdkRHeDFqeWJLQXJZb1F4VldzNWFzSnZ4RjBGenhKdw?oc=5",
+        "title": "Leibman Financial Services Inc. Acquires 121,680 Shares of The AES Co. (NYSE:AES) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYUJmd0FnV3VpT0lSaHV3eVctQnFMQnFBRzNhYllWcldmajEwODZ1ektyemZxOUdIN2lGMWNRUEoxdHFndjNoVWJjOFVZaUlOdENGanVONjFwZkZTVHQ3U1k3N1IybngyNWVpaEZNbklHUjJ2VGdoYWU5VWpUY1pZdVIyWHphMndBY1RQYWpueWlPaUhxUWJCdlhLYWwxeTN0ZzMzM1hGQU50elIxelRseXlLTU9GaFBtM1pYVGc4MHl1M1kyRElHY3Q1VTY3MUxaZ2pBLQ?oc=5",
         "label": "NEUTRAL"
       },
       {
@@ -110,9 +80,39 @@
         "label": "NEGATIVE"
       },
       {
+        "title": "Jefferies cuts AES Corp stock rating, lowers price target to $9 - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT1VoaC1ERmFpUFFla1JHbnlTc2c0bmdvcE5MejJQNU45Z3ZYRjlSMGhyS19vV3dGMVMwZTlUcGlOWTZqNVExcEZhTlN6VkJyRWg5aU13ZmZoQ0Eyc0psMjRleC1hdVhGVFQxazhzSTRZc1diUF9Jei1qcnRONG9HLTNWemJ1MnQzMzh0RjVMNEJtaU1IMkN2Q2kxNDBGY3pXWk9FSTVTZlpZdlk2cTNIVnM0bTZHcW9XS1kxb0Rn?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Is AES (AES) Stock Undervalued Right Now? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByNkcxeFJYVmhKYzlTWVFoeVFuZ1R6dWVwZFh6VWpjVjA5VVhmczhVdk1Jc2NnWjBNWXU5SjI2XzBPNXJFcS1EZEhfRnQyQXZiOWg2eGMySUhIQzdCeGhoLW4tOTRKYl9Ha3d6QzNNU1JJTU1PREt3UQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Why Oklo and Centrus Energy Stocks Popped, but AES Dropped - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZC1mR0RBNnNfWkZ4QThRNWNVeHVwNUZMT3JrWjZhaHhKSTktemxnQVcyMDZMQ0FXbXZScldNRm5JQ2JOMUxqS0NiaGoyQW1taDJhUWhyUHIyaFd0QmZfNnp0dzJ2Y2RWWjV0LVZNMFFoX2lLWnhzT1JySS1ndnRpbFJiVzVkN0NiNFVPeFNtX0p6UEpLSUIw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "AES Corp.: One Of The Best Times To Buy - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhRzJYb1dxRy1wYjZ6QXJLYTl0bzhsNDlhemhsYTdYakhTVlltcEJPR1FYekJ3ZmUtYkNrVW1iSThXTnJyWjkxX1hZb0toa0ZfeFgybjlfTG1nSF80c3k1UjlpbHg4bGxaV1dJX2tuVzRONHRmWGlmc2pNTkNVbzQ?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "A. D. Beadell Investment Counsel Inc. Trims Stake in The AES Co. (NYSE:AES) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVnJOWmZvdkVVSXUzQWtuQml5VUhUdWtCcVRuLTN6MjlLTnlxLThBWXJRTFh5YXdLYjRYVlNKQnVfWFlCRE0wUldMVk1IUnVfdHU3LUdYS2xIZmNxekV5NjVhRzB6WXkzd3dYSXd5UDNxOVBtVkJQSlZINGw3RWVRSElUSTQ0TngtVnpOWEhRaGRrckg1NVdZQXJGOXdnUmg4ZDkzNmVKV2ppaTd6WFFubWlsZ3ROOEJRRUZQSFpNRWFUbkUyRFF6Tw?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
         "title": "Jim Cramer Says ‘Time to Pick Up’ The AES Corporation (AES) Stock for Its 5% Yield - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5lZm5xWmFJejktOTBYVXhyZ2RmUGZiZWtKWjFmVC1HRTBmRnlLSkVYdDhlb1VJVmxwYzZ6TXczNm9UZEFDQjBxSzRNNjBrZUFySFZuLUpnVzBTZzFCMHRmalhfaU5feHF5MjJWRllOazFqUHZQZUhVR3hQMA?oc=5",
         "label": "NEUTRAL"
+      },
+      {
+        "title": "AES Sees Increased Call Activity Amid Rising Implied Volatility | AES Stock News - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZjFSQjhRcXBydWVmZVlkMVNGYjRhYTJSaGVmdl90YU5EdlNnN0ZiUWpPZ2ZXMUQ4N21xb3Z6SlhDblFtSnNnLUFXeC1jcm1YN2Z1VG5KQThpdVdoSV93RzUzYm5wYUlia0o4RXF1YlVBVkh6Z1FNQ0Y0VkxPaGs5YmN0Y1lQbnlNZHNHeVllcnc4X1E1UHJLSzdZNEhTWk5uSDBiTGU5dVU4Mld1UTZwUC03ZjFoNTVmZi1tM3J3dEZKVWdMU2NidHVJQmpUSVJUWlh5Q1JHcEV2ZHI0VXplQnF1SE41aXE3WmJfNVV6R1liVVg3MzFOdWxGUWVaVEE?oc=5",
+        "label": "POSITIVE"
       },
       {
         "title": "AES stock touches 52-week low at $9.56 amid market challenges - Investing.com",
@@ -120,49 +120,45 @@
         "label": "NEGATIVE"
       },
       {
-        "title": "AES Corp. stock underperforms Monday when compared to competitors - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNck1YUHVmSkloOTYtLWVJYklrTVhYeV91bjBGNk50TWJMd2k0N3k4cUNzLXhaOUY1Mm9vMkh0elZmNlB1dkVvVGI5OVdRRkFzd2RjdnRzeWtTckJVc1JlTmx5Ukc3TVJ5NV9iUERWWFIzMEx1SGNSQVBHRlVvYmUtYWFvNHd2NUJlZTc4TUdVNFVOVTBIWk1tVHhabGVfTVZORkF5eXhQU21FSi1UMnhGWVBRMHFKQ253NklaR1hZeHI4dw?oc=5",
-        "label": "NEGATIVE"
+        "title": "The AES Corporation Remains Unscathed By Tariffs And Economic Downturns - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0FwM3Y0SkNOb0tDSnUyd09YNnNDVWFUTnBObmtCaU0wNWFuMklHVDg5NzhwcjJVYVdhdGw5VFJsRm9WOUtKSjE4UjZFc3pHNmZqdHpjM1FEcnJISGNKeFBYem93cTZWaHFxQlJHZ2NWMHpfazlEU2JPMGZ4bTRPWHhwcnJvdENlUHNrSlhKMU5hM2lUNENTOEZKN1M1N0g5a011RmtUdDVtdWUySlNHOFlB?oc=5",
+        "label": "POSITIVE"
       },
       {
-        "title": "The AES Corporation As An Income Investment (Technical Analysis) (NYSE:AES) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU19RdkhFaVFpdEdrZU9sMUY1NUdVVERxOXVReWE1OGpYVVhfS1R5OU1kRExyYmtLVHYyLU00Zl9JbGNyZHQ3UEVQaFRHZ2NkbGVUc05lemZLUW9qQ29penlvUy0wWFd1YTZsd0J0S1pDYlBFUXBSampmVFVBY3V2SWlfcUIteEUyRFlGUFB4QTdkYS1WY2tjeVVBZ1lXSXAyT21EZUl3?oc=5",
+        "title": "100,000 Shares in The AES Co. (NYSE:AES) Bought by Avity Investment Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREFETjdrSmlpUnJRLVRjaHEtZVlqbUJnSHVNWHU0eWVRV3Y1S3pISXlHdmloaGJoR3Rwcm45RjFVbkNtNVpMZVdUam1Rd0pZT1V1TURGRy1aZHBJd3JXSmtOaERxVkdha2xIQWRadlR0MEZVWFZRM1R2cHVycTg1QnVLc3VXNHQyVHhzdS1Cb3Q5ekktdGtSUmc2ZW1VZFFWMWhGNTNrdTNERFJVdmJkNTBIQmJqYWUtMFc1MlFXNmpkZlk3X1NsdmZvSXhwRUlYUmZRSQ?oc=5",
         "label": "NEUTRAL"
       },
       {
-        "title": "Douglas Lane & Associates LLC Purchases 189,503 Shares of The AES Co. (NYSE:AES) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSmtwRUNsOVlOXzIyV096M3hNNU9vcXJ4SUtNMzItaWZPTlJwRm4tcUdoNHhFaE9ocDE3OUZDalZIYk9aNmItTnZ5Z2puQ3RHeU5pWTdaeGNFR050YlFjRzZORDN4SThLQ0txY21zWFdya3FHdEFzQldiRGwtQVFndTVFUWZCeGxrbnU3WHBnZWpYbDhtVnpfeTc2Rzg3SjJWTnc5UXdkYzU4X0drMnUxYTl4UWlWUjFrRm5GWXdRYTdnQ3l2eEtTdU9tUTRYdw?oc=5",
+        "title": "AES Corp. stock outperforms competitors on strong trading day - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEJFTjMwVHB6ZDB1NzJJMzV4MWJFOTV1SzRhQTZERmVfX1BVMW1nVWVtM2JvLUZrci1fUXVyMHRZRF95MTRfeWw4UVQzcmdqekhJeFl5UGFxQWFjUkk5Q1hTbGlySjJtV3RVTUdZUnJaUS12b0licm93TG5ZMkVFSk9fbHZGdVV3UFFLNkFJMzMxdXpjWGs1aW9WekR6OEN4S1JBU2k4aTY3cXI1dUVFbUhtU0FCLVpoNE1Hdg?oc=5",
+        "label": "POSITIVE"
+      },
+      {
+        "title": "Traders Buy High Volume of AES Call Options (NYSE:AES) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnZ1VDlKRU96OGszTV9wVGhXZW9oX0RsLWQ4QnpNalhlR3FJSjAxNjNnUEVMRm5ySkx1RUFZQVBvMGJFV05LUW1oWURhSnpraTdJbGxnXzlWODBXWEpUUm9uNjh5SW5XZ1R4Z1h2M3BISHVMOXRheTdxZko1ZEwxa1pXUnd6ZnY2RzVNMHVRQWxnNzVKeUxCdG5YZ2Q0aTR3dUNYNV9tSTh1UXRCUHc5Y1BLREJGSmM?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Do Options Traders Know Something About AES Stock We Don't? - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUGhpZko5U0hQb3IwaTJoMGNlUEpOR1FXckNVZlVsbmZOUGE5czM4TmRwZ3FkSlRYWHNFX3llb2F1Ym1PUGIxVnhnSnRJTzFmc3EtWWszMElkT1ROSndPNnZINnlPM2ZDR3FCdV81S1FrQmh4UXVaWDNYc3BoVExXVUdZWkd3YzliUUtBbHpyeVhIVThYMkE?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "GTS Securities LLC Sells 34,273 Shares of The AES Co. (NYSE:AES) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWJ0UmZJbXhhV0pyVWo2clFYcVZfajkwbVV5SXVDdWEtZDdXVWJCbDEyc0RLUkgya3k4cHJlTE0yazlpYjZTNF9Fd2ZvRUpaUW9YenBYM29aU21PNEQ2WUZ1LXJSVURmNUhiN0RrbFJaV2VKYjFsN0tKMW1oQXFVWF9GSlJXbXgxYWpIVXg5TVhsZTFUOGZQdkRHeDFqeWJLQXJZb1F4VldzNWFzSnZ4RjBGenhKdw?oc=5",
         "label": "NEUTRAL"
       },
       {
         "title": "Why AES Corporation (AES) Crashed Today - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc1g5UDF0alN4Mkducl9JZ0NwRFlBX1pCaTZjaFRTa0k3Vks1ZlJWOHM2SGdRdHdvLWNaWkdnUzB0SWh2SVRtTzh5QWwwdkJXdnU1Z2pkRjNRMVFYQjlENlZtanFod1pnQ0lSeXk4WTNROXh1b0ZLbHRhNjN1ekNQQlJuVQ?oc=5",
         "label": "NEUTRAL"
-      },
-      {
-        "title": "The AES Co. (NYSE:AES) Shares Acquired by Viking Fund Management LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXy0waFkxVG5lWVN1OGdEWUhpblZQbjFBbEpJUHVHdmpBSnFoU2t0ek54ZHBsdzB6ZGxta3R2NHNPWWRYMmxPeFQtaDBmTTVwUWQ0WU96aThJVFZlTGZPT3M2SThjYUlBWV80SEowWEdnWXJ6VjAyOGluRWZRelFHaFFkLWxIbkFqdkM3dGhZN3NoOGEzNzVDNjRrajI5MjJNYU52amQ4R1AwbEJsZVcyWXFhS3dfYVJhMW1qQTdDX29nQkhRcWpTMktIdXJES3VrR2ZiNUE3NA?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Why AES (AES) is a Top Momentum Stock for the Long-Term - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qOUw1NTFyVVA5T3k0cWQyaTBMdEpWZTVfT01kY2xHNjFiWHFTOHU4eDRwWEVOWFpORjJsaUJHQV9XTy1zd3pCOFVORTJxdFpxS09OUWJuMktvekxuTVozZnVIX0g2SUhKQXNvUmU2eG1aWFAycEFqT3NR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "California State Teachers Retirement System Has $10.89 Million Stock Position in The AES Co. (NYSE:AES) - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYUstYmtBX0pULWoxc2F2V2V4ZlFCbnN2dUZqOU5ia1dfRmx5MmoyaDlITlU3NC02Yjg4VkNjaWVWRWlyMXBnbFRQTzhiQ1FkZkExZ0NVSUNMR1U0bGc4SEFsbkpUQTZxM3Y0aU15d3hTWXcwSDROX283SzZYM040MzNXNzFKNjBEbllrWW5ZcWk2SmRmdzY4OWNYYk5MbkVsS3Nud2N4SFhxVjFpR3NUYlVoYlZXLUF4Zmp2b2lLYjhxNTZYcHBINENWMXFVZ1paYk1UNTVnTENfNDBkREJ4cGZzcVVWdXc?oc=5",
-        "label": "NEUTRAL"
       }
     ]
   },
-  "extraction_date": "2025-06-05",
+  "extraction_date": "2025-06-06",
   "visual_data": {
     "sparkline": [
-      {
-        "date": "2024-12-06",
-        "price": 13.05
-      },
       {
         "date": "2024-12-09",
         "price": 13.6
@@ -650,12 +646,16 @@
       {
         "date": "2025-06-05",
         "price": 10.51
+      },
+      {
+        "date": "2025-06-06",
+        "price": 10.89
       }
     ],
     "current_price_data": {
-      "price": 10.51,
-      "change": 0.32,
-      "percent_change": 3.14
+      "price": 10.89,
+      "change": 0.38,
+      "percent_change": 3.62
     }
   }
 }

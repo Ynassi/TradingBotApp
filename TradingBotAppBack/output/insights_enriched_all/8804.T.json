@@ -2,16 +2,16 @@
   "ticker": "8804.T",
   "name": "Tokyo Tatemono",
   "sector": "Real Estate",
-  "market_cap": 527271297024.0,
+  "market_cap": 529457840128.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 7.7058864,
-    "PB": 0.9876948,
-    "EV_Revenue": 3.543,
+    "PE": 7.742083,
+    "PB": 0.9917907,
+    "EV_Revenue": 3.547,
     "ROE": 0.13017,
     "ProfitMargin": 0.1446,
     "GrossMargin": 0.27763,
-    "DividendYield": 3.82,
+    "DividendYield": 3.87,
     "DebtEquity": 232.88,
     "CurrentRatio": 2.717,
     "QuickRatio": 0.518,
@@ -20,48 +20,30 @@
     "FCF_Margin": null,
     "ROA": 0.025309999,
     "PEG": null,
-    "EV_EBITDA": 15.634,
+    "EV_EBITDA": 15.654,
     "BuybackYield": null,
     "PriceToFCF": null
   },
   "technical_indicators": {
-    "RSI_14": 47.09764281472983,
-    "Momentum_10": 1.1182108626198082,
-    "MACD": 3.4174895132168785,
-    "BB_Percent": 0.3125144195628778,
+    "RSI_14": 49.16144822149472,
+    "Momentum_10": 0.6532066508313539,
+    "MACD": 2.4779589021359243,
+    "BB_Percent": 0.4189667920663744,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8885102053151074,
+    "ValueScore": 0.934936282600133,
     "QualityScore": 0.438317045683513,
-    "SignalScore": 0.6012587697598128
+    "SignalScore": 0.5868822672638949
   },
-  "volatility": 0.0190070429881185,
+  "volatility": 0.0186691240403571,
   "beta": 0.14,
-  "return_6m": -0.008698654320872,
+  "return_6m": -0.0172013915732508,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 9,
     "target_mean_price": 2805.5557
   },
-  "news_sentiment": {
-    "summary": "Delta Airlines étend ses services vers Los Angeles et La Nouvelle-Orléans, visant à attirer les fans de football universitaire. Cette expansion stratégique pourrait renforcer la présence de la compagnie sur des marchés clés et stimuler la demande de voyages. Cependant, la concurrence féroce dans le secteur aérien et les incertitudes persistantes liées à la pandémie pourraient peser sur les perspectives à court terme de Delta. Les investisseurs devraient surveiller de près l'évolution de la demande de voyages et la capacité de la compagnie à maintenir sa rentabilité face à ces défis.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Delta caters to college football fans with added service to Los Angeles, New Orleans - Delta News Hub",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkI4N2ItSU5RUU1LSld0Q0M2ZU1Hc0l6YmlrT2taOFg2NnhfZmZCM0pQZ05UWHJ5YTIwUG9xWk5LdGEyd2Q3Um9QazRqRlY3N2RMSm9rN1N5Yzcxd25SZzF4ZkczSEpVV3FnMHhRUDJSY0RsVHBqSUR4V1ZLOHc3X1BXQXo4UThCTVl1N1JIaTZ5UkR2aFphajlNNA?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -542,13 +524,31 @@
       },
       {
         "date": "2025-06-06",
-        "price": 2548.0
+        "price": 2542.5
       }
     ],
     "current_price_data": {
-      "price": 2548.0,
-      "change": 16.0,
-      "percent_change": 0.63
+      "price": 2542.5,
+      "change": 10.5,
+      "percent_change": 0.41
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Delta Airlines a récemment étendu ses services pour répondre à la demande des fans de football universitaire en ajoutant des vols vers Los Angeles et La Nouvelle-Orléans. Cette expansion stratégique pourrait renforcer la présence de la compagnie aérienne sur des marchés clés et augmenter sa part de marché. Cependant, l'impact financier à court terme de cette décision reste à surveiller, en particulier dans un contexte de volatilité accrue du secteur aérien due à la pandémie.",
+    "sentiment_score": null,
+    "label": "POSITIVE",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Delta caters to college football fans with added service to Los Angeles, New Orleans - Delta News Hub",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkI4N2ItSU5RUU1LSld0Q0M2ZU1Hc0l6YmlrT2taOFg2NnhfZmZCM0pQZ05UWHJ5YTIwUG9xWk5LdGEyd2Q3Um9QazRqRlY3N2RMSm9rN1N5Yzcxd25SZzF4ZkczSEpVV3FnMHhRUDJSY0RsVHBqSUR4V1ZLOHc3X1BXQXo4UThCTVl1N1JIaTZ5UkR2aFphajlNNA?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }

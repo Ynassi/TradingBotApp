@@ -24,7 +24,8 @@ def archive_nastrad_daily_snapshot():
         "data/sector_volatility.json",
         "data/headline_summary.json",
         "data/news_summaries_full.json",
-        "output/insights_enriched_all"
+        "output/insights_enriched_all",
+        "output/df_sentiment_full.csv"
     ]
     
     print(f"📦 Création de l'archive : {archive_path}")

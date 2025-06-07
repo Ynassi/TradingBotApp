@@ -2,16 +2,16 @@
   "ticker": "6506.T",
   "name": "Yaskawa Electric Corporation",
   "sector": "Information Technology",
-  "market_cap": 854027075584.0,
+  "market_cap": 816421208064.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 15.083279,
-    "PB": 1.9499626,
-    "EV_Revenue": 1.673,
+    "PE": 14.406664,
+    "PB": 1.8934245,
+    "EV_Revenue": 1.628,
     "ROE": 0.13613,
     "ProfitMargin": 0.10599,
     "GrossMargin": 0.35612,
-    "DividendYield": 2.06,
+    "DividendYield": 2.1,
     "DebtEquity": 24.914,
     "CurrentRatio": 2.578,
     "QuickRatio": 1.185,
@@ -20,48 +20,30 @@
     "FCF_Margin": 0.033659533491639096,
     "ROA": 0.042940002,
     "PEG": null,
-    "EV_EBITDA": 12.762,
+    "EV_EBITDA": 12.416,
     "BuybackYield": null,
-    "PriceToFCF": 47.1887051847493
+    "PriceToFCF": 45.11081767233697
   },
   "technical_indicators": {
-    "RSI_14": 48.17876077203731,
-    "Momentum_10": -1.369029510191664,
-    "MACD": 32.64665657036312,
-    "BB_Percent": 0.2919514540218326,
+    "RSI_14": 43.87484596990724,
+    "Momentum_10": -3.376304481276857,
+    "MACD": 17.344167190696226,
+    "BB_Percent": -0.0840691991488715,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8926810318770153,
+    "ValueScore": 0.9337161198384808,
     "QualityScore": 0.355671510510228,
-    "SignalScore": 0.6082641321874178
+    "SignalScore": 0.6472153017482658
   },
-  "volatility": 0.0365879105719566,
+  "volatility": 0.0366741318926623,
   "beta": 0.918,
-  "return_6m": -0.1838199166587687,
+  "return_6m": -0.2108352397571047,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 16,
-    "target_mean_price": 4080.5
+    "target_mean_price": 4049.25
   },
-  "news_sentiment": {
-    "summary": "Dans un récent article comparatif entre ABB, FANUC et Yaskawa, ABB semble se démarquer comme un concurrent solide. Les avantages compétitifs et la diversification de ses activités pourraient en faire un choix attrayant pour les investisseurs. FANUC et Yaskawa, bien que performants, pourraient être confrontés à certains défis dans un contexte de concurrence accrue et de volatilité du marché. Cette analyse souligne l'importance pour les investisseurs de surveiller de près ces entreprises pour prendre des décisions éclairées.",
-    "sentiment_score": null,
-    "label": "POSITIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "ABB vs FANUC vs Yaskawa – The Winner Is? - Nanalyze",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KdzlYYVJfVWduRElNaFpieDBZcV9NWjhGTjlZU2RCRldYcFd1S2VpYzRfbnEzdlZzNkJITFpuTkptNkZHTFNpcnlmeTg5dW5kZjNMYTlRcEd2WTFNbmFEM2ZDd3pDdFFC?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -542,13 +524,36 @@
       },
       {
         "date": "2025-06-06",
-        "price": 3220.0
+        "price": 3148.0
       }
     ],
     "current_price_data": {
-      "price": 3220.0,
-      "change": -22.0,
-      "percent_change": -0.68
+      "price": 3148.0,
+      "change": -94.0,
+      "percent_change": -2.9
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Malheureusement, je ne peux pas accéder à des actualités en temps réel. Si vous avez des titres d'actualités spécifiques que vous souhaitez que j'analyse, n'hésitez pas à les partager avec moi. Je serais ravi de vous aider à en tirer des tendances clés et des implications pour les investisseurs.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "ABB vs FANUC vs Yaskawa – The Winner Is? - Nanalyze",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KdzlYYVJfVWduRElNaFpieDBZcV9NWjhGTjlZU2RCRldYcFd1S2VpYzRfbnEzdlZzNkJITFpuTkptNkZHTFNpcnlmeTg5dW5kZjNMYTlRcEd2WTFNbmFEM2ZDd3pDdFFC?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "The biomass distribution on Earth - PNAS",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KbGpPU3VvVE1PeUR5SXoxR0dBUlc0NE9XZXNJNC10cklYSmNKRHd5a3dLdHRJUDRBb0g1TmxfdF9mcE5HMUVyTkptSzNZcHM2NkluZXNWT2J4Szda?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }

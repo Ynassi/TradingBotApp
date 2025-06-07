@@ -2,12 +2,12 @@
   "ticker": "4385.T",
   "name": "Mercari",
   "sector": "Consumer Discretionary",
-  "market_cap": 409505464320.0,
+  "market_cap": 427424415744.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 25.64076,
-    "PB": 4.834471,
-    "EV_Revenue": 2.137,
+    "PE": 26.762737,
+    "PB": 5.0460157,
+    "EV_Revenue": 2.231,
     "ROE": 0.21622999,
     "ProfitMargin": 0.08625,
     "GrossMargin": 0.70908,
@@ -20,53 +20,30 @@
     "FCF_Margin": -0.07205030565052677,
     "ROA": 0.03103,
     "PEG": null,
-    "EV_EBITDA": 15.216,
+    "EV_EBITDA": 15.885,
     "BuybackYield": null,
-    "PriceToFCF": -29.820167486351327
+    "PriceToFCF": -31.125024635280408
   },
   "technical_indicators": {
-    "RSI_14": 62.40549846890729,
-    "Momentum_10": 3.791666666666667,
-    "MACD": 31.14963553165444,
-    "BB_Percent": 1.1316260454753273,
+    "RSI_14": 69.20619759035908,
+    "Momentum_10": 11.972437553832902,
+    "MACD": 44.69681872467709,
+    "BB_Percent": 1.295059543502419,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8883545359227184,
+    "ValueScore": 0.9303745003884956,
     "QualityScore": 0.3943271239250145,
-    "SignalScore": 0.5028637517275074
+    "SignalScore": 0.3738838851818157
   },
-  "volatility": 0.0334801284508137,
+  "volatility": 0.0336901898755982,
   "beta": 0.99,
-  "return_6m": 0.3055555555555556,
+  "return_6m": 0.357347950926651,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 13,
     "target_mean_price": 2568.4614
   },
-  "news_sentiment": {
-    "summary": "La demande exceptionnelle pour la console PS5 de Sony a entraîné des ruptures de stock en ligne, reflétant un fort intérêt des consommateurs malgré les défis du commerce de détail en personne dus à la pandémie. De son côté, Canadian Pacific Kansas City Ltd a publié ses résultats financiers, offrant des informations clés aux investisseurs sur sa performance récente. Ces événements indiquent une dynamique contrastée entre le secteur technologique et celui des transports, pouvant influencer le sentiment de marché à court terme.",
-    "sentiment_score": 0.5,
-    "label": "POSITIVE",
-    "positive_ratio": 0.5,
-    "neutral_ratio": 0.5,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 2,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Sony PS5 sold out online as pandemic chills real-world retailing - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVEY4LUVDOGgyNDg5djNOV0RWam92VE1tMGZoWU1WRlM3V0pVOFIwYUdtVmFYN2QwMmstVzFYQWNRUGFLM0Robmk0ZlR3ak40NS1GUFRTVFFXSzM4YjlHcVJXYnJQeEpib0JSWXdLSTQ2dHJxd3g5cU1FNHBVcW83dkVyTVR6bHp3emNtRWFsYURUYjNuQjlRUTB0WjZtX0lHbWQyWmFfdEhHLXdxakZ4Z0Y0UnVjUVFVUElnTDJHcw?oc=5",
-        "label": "POSITIVE"
-      },
-      {
-        "title": "Canadian Pacific Kansas City Ltd CP-T Earnings - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PeUEzQmdTUzFDWVZZUjZoQWVxeWxhWE1TNDAzSllxcmQtdUxrcTVlVVZPWk9taVFWYUpwWTZXU29PZ1d0RFYyZTJ6cUQzUzIxYzZIeXI3cHNxS3hLdmVicVpTMGNzS25nTzlrZE1qNkRSWXNVR3luLTRtdVZjQQ?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -547,13 +524,31 @@
       },
       {
         "date": "2025-06-06",
-        "price": 2627.0
+        "price": 2600.0
       }
     ],
     "current_price_data": {
-      "price": 2626.5,
-      "change": 135.5,
-      "percent_change": 5.44
+      "price": 2600.0,
+      "change": 109.0,
+      "percent_change": 4.38
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "L'actualité récente montre que la PS5 de Sony est en rupture de stock en ligne, témoignant d'une forte demande pour la console de jeu. Cependant, la pandémie impacte les ventes en magasin. Cette situation souligne le potentiel de croissance de Sony dans le secteur du divertissement interactif, tout en mettant en lumière les défis posés par l'évolution des habitudes d'achat des consommateurs dans le contexte actuel. Cette tendance pourrait influencer le sentiment des investisseurs en soulignant à la fois les opportunités de croissance et les risques associés à la transition vers le commerce en ligne.",
+    "sentiment_score": 1.0,
+    "label": "NEGATIVE",
+    "positive_ratio": 1.0,
+    "neutral_ratio": 0.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Sony PS5 sold out online as pandemic chills real-world retailing - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEdhdG5OZGtNUG92UEphTlVzandIRHpIRDF2SXRNZzNkUTVITkVReTJEOC0zdlVnTVJ3SlIwUUdMOG1VX09MWGl6a2FucEgyRGY4Y0FyMm5EWU9zSWZtRDN4eW15RnVEZmd2dE9vd3Z6YThSUnpRVVB6VXJDQkl0aF93enhKOWNxcXFCbmFTWkNlTkpQV09pVnp2emVZSm1xUkJQd3hvQTFnV1RqWno4UUxSa2N3SGMwMnpRMkhHc3ZuTjJSQ3VIZGNXbENraU9XMFU0?oc=5",
+        "label": "POSITIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }

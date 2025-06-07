@@ -5,13 +5,13 @@
   "market_cap": 1302798794752.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 4.481552,
+    "PE": 4.4823313,
     "PB": 0.79032654,
     "EV_Revenue": 1.405,
     "ROE": 0.18631001,
     "ProfitMargin": 0.29141,
     "GrossMargin": 0.17391,
-    "DividendYield": 5.51,
+    "DividendYield": 5.82,
     "DebtEquity": 20.559,
     "CurrentRatio": 1.963,
     "QuickRatio": 1.545,
@@ -25,48 +25,25 @@
     "PriceToFCF": -60.86849167844233
   },
   "technical_indicators": {
-    "RSI_14": 45.97024576264798,
-    "Momentum_10": -5.172413793103448,
-    "MACD": 40.956217146790095,
-    "BB_Percent": 0.1633552047109009,
+    "RSI_14": 46.13959338353373,
+    "Momentum_10": -5.128794848206072,
+    "MACD": 33.02427214572572,
+    "BB_Percent": 0.095598907552808,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.895611361741181,
+    "ValueScore": 0.9357116798113284,
     "QualityScore": 0.311479056204717,
-    "SignalScore": 0.6443795400369441
+    "SignalScore": 0.6479944550449463
   },
-  "volatility": 0.0237429920274325,
+  "volatility": 0.0234768213144515,
   "beta": 1.31,
-  "return_6m": 0.0012135922330096,
+  "return_6m": 0.0274871669005614,
   "analyst_rating": {
     "recommendation": "hold",
     "analyst_count": 10,
     "target_mean_price": 2075.0
   },
-  "news_sentiment": {
-    "summary": "Le titre de presse souligne la récente baisse de 660 milliards de dollars de la valorisation de Tesla, mettant en lumière les défis auxquels fait face Elon Musk. Par ailleurs, le rapport sur le marché des transporteurs automobiles met en avant des acteurs clés tels que K Line, NYK Line, et Hyundai Glovis, suggérant une concurrence accrue dans ce secteur. Ces nouvelles pourraient impacter le sentiment des investisseurs envers les entreprises du secteur automobile, avec une attention particulière portée sur les performances de Tesla et des autres acteurs mentionnés.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Musk can’t dodge Tesla’s $660 billion slump - The Philadelphia Tribune",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkVmTFJtOUdDNVpGRGhIZHpDdXlJQy1YODVTQmVqZTR5ZlJQV2l5RFVLZXJuRnhGYlAwWWRZRHBmOGt2NjZKVEE3NS0xOEdoVlEzWWJaS2M5elZTZzU0RERxclpkS2Q5Uk9uYVNfOEVNUU1FakNuWjJPdW9QRklJWGhOVGVneUlRQnRSaTgzY0xPcmpfbUM3dXJXRFdNMVE5TTNwVHFOWWNURDEwSk0tY1BROG15aDdmR1I4RjAtTzhlR1pIdEVsR0tR?oc=5",
-        "label": "NEUTRAL"
-      },
-      {
-        "title": "Global Car Carrier Market Insights & Forecasts Report 2023-2027 Featuring Leading Players - K Line, NYK Line, MOL, Grimaldi, Wallenius Wilhelmsen ASA's, and Hyundai Glovis - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWZHekVKRFg1ZkJ3Ri1JTjR1OVZNZ0FqaWJ0VTB5ZEJONm9jT0tCX2E4SHVnZmx4SGF3VER4dG9qTXBCOFZaem5GQkZuY1VFVUVkV1VKZFdmVVZ0VXZRcHFUQnFBeFhJZFFiZEt5dU9NVENCWUZwZ054Qmtuci1Qb0N5b3dJWndNUGw0?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -547,13 +524,41 @@
       },
       {
         "date": "2025-06-06",
-        "price": 2073.5
+        "price": 2062.5
       }
     ],
     "current_price_data": {
-      "price": 2073.5,
-      "change": 11.0,
-      "percent_change": 0.53
+      "price": 2062.5,
+      "change": 0.0,
+      "percent_change": 0.0
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "L'actualité récente met en lumière la baisse significative de la valeur boursière de Tesla, malgré les efforts de Musk pour la maintenir. Parallèlement, le marché mondial des transporteurs automobiles fait parler de lui, avec des acteurs clés tels que K Line, NYK Line, MOL et Hyundai Glovis. En outre, le classement des 20 plus grandes compagnies maritimes souligne l'importance de suivre de près l'évolution de ce secteur pour les investisseurs. Ces tendances pourraient influencer le sentiment de marché envers les entreprises du domaine de l'automobile et de la logistique.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 1,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Musk can’t dodge Tesla’s $660 billion slump - The Philadelphia Tribune",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkVmTFJtOUdDNVpGRGhIZHpDdXlJQy1YODVTQmVqZTR5ZlJQV2l5RFVLZXJuRnhGYlAwWWRZRHBmOGt2NjZKVEE3NS0xOEdoVlEzWWJaS2M5elZTZzU0RERxclpkS2Q5Uk9uYVNfOEVNUU1FakNuWjJPdW9QRklJWGhOVGVneUlRQnRSaTgzY0xPcmpfbUM3dXJXRFdNMVE5TTNwVHFOWWNURDEwSk0tY1BROG15aDdmR1I4RjAtTzhlR1pIdEVsR0tR?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "Global Car Carrier Market Insights & Forecasts Report 2023-2027 Featuring Leading Players - K Line, NYK Line, MOL, Grimaldi, Wallenius Wilhelmsen ASA's, and Hyundai Glovis - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWZHekVKRFg1ZkJ3Ri1JTjR1OVZNZ0FqaWJ0VTB5ZEJONm9jT0tCX2E4SHVnZmx4SGF3VER4dG9qTXBCOFZaem5GQkZuY1VFVUVkV1VKZFdmVVZ0VXZRcHFUQnFBeFhJZFFiZEt5dU9NVENCWUZwZ054Qmtuci1Qb0N5b3dJWndNUGw0?oc=5",
+        "label": "NEUTRAL"
+      },
+      {
+        "title": "20 Biggest Shipping Companies In The World - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkZ1YUMxUFVJTzNscG1LWmJwWWhacDRLcHlRNWEyTlFVSWwwc19Ca1lVaFJwdGEyR3NyWloyVnRxS2lNUzVEMFNFQTVRU3RxMDdlek9VNnV4QVRVMXBVOW03dkdEQ0NQN2Q5X1REazUxNFl1VENMV0puMHp4SU16VE1QRG1NdFg0?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }

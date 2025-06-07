@@ -2,16 +2,16 @@
   "ticker": "7911.T",
   "name": "Toppan Printing",
   "sector": "Industrials",
-  "market_cap": 1061488230400.0,
+  "market_cap": 1048889851904.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.809766,
-    "PB": 0.8102511,
-    "EV_Revenue": 0.502,
+    "PE": 11.666178,
+    "PB": 0.80063456,
+    "EV_Revenue": 0.495,
     "ROE": 0.06664,
     "ProfitMargin": 0.052010003,
     "GrossMargin": 0.24043,
-    "DividendYield": 1.5,
+    "DividendYield": 1.55,
     "DebtEquity": 32.962,
     "CurrentRatio": 1.71,
     "QuickRatio": 1.472,
@@ -20,48 +20,30 @@
     "FCF_Margin": -0.004960680108217024,
     "ROA": 0.021240002,
     "PEG": null,
-    "EV_EBITDA": 5.207,
+    "EV_EBITDA": 5.132,
     "BuybackYield": null,
-    "PriceToFCF": -124.55492393520704
+    "PriceToFCF": -123.07663144892587
   },
   "technical_indicators": {
-    "RSI_14": 32.30460421322772,
-    "Momentum_10": -9.58322934863988,
-    "MACD": -95.61115029009852,
-    "BB_Percent": 0.0943896742627763,
+    "RSI_14": 30.69835794068196,
+    "Momentum_10": -8.626850433894845,
+    "MACD": -107.1777696031495,
+    "BB_Percent": 0.0923041033110328,
     "SMA20_above_SMA50": 0.0
   },
   "scores": {
-    "ValueScore": 0.8972746344697518,
+    "ValueScore": 0.9347341114442624,
     "QualityScore": 0.386033509016531,
-    "SignalScore": 0.7668756849645418
+    "SignalScore": 0.7868674289470557
   },
-  "volatility": 0.0261157544761821,
+  "volatility": 0.0261257495508413,
   "beta": 0.403,
-  "return_6m": -0.0914078768119269,
+  "return_6m": -0.0942863315905911,
   "analyst_rating": {
     "recommendation": "strong_buy",
     "analyst_count": 4,
-    "target_mean_price": 5077.5
+    "target_mean_price": 5102.5
   },
-  "news_sentiment": {
-    "summary": "Le Nikkei japonais clôture en baisse en raison de prises de bénéfices et d'un yen plus fort. Cette conjonction a pesé sur les actions, soulignant une certaine prudence des investisseurs. L'impact négatif de ces facteurs sur le marché boursier japonais pourrait inciter à la vigilance dans un contexte de volatilité accrue.",
-    "sentiment_score": -1.0,
-    "label": "NEGATIVE",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 0.0,
-    "negative_ratio": 1.0,
-    "bullet_positive_count": 0,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Japan’s Nikkei Stock Average Ends Lower on Profit Booking, Stronger Yen (Update 1) - The Japan News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JT21WVDBtT29iV3B5WG5uam9TMUhuRl9kbE9sUzdxVUdRdjJzWW1aTzRzNkZBd1libHJMMEh1aVRQaGVrUk1tbjBoc05DbjA5dC1VMmtjQ0JzV0MzUVRvcGRXY1BCYThKMVNmdlZHZlFSNmxIRXcxSHJ3?oc=5",
-        "label": "NEGATIVE"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -542,13 +524,31 @@
       },
       {
         "date": "2025-06-06",
-        "price": 3611.0
+        "price": 3580.0
       }
     ],
     "current_price_data": {
-      "price": 3611.0,
-      "change": -12.0,
-      "percent_change": -0.33
+      "price": 3580.0,
+      "change": -43.0,
+      "percent_change": -1.19
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Le Nikkei Stock Average du Japon clôture en baisse, impacté par des prises de bénéfices et un yen renforcé. Cette tendance souligne une certaine prudence des investisseurs face à la volatilité actuelle du marché. Il est essentiel de surveiller l'évolution du yen et les mouvements de profit booking pour anticiper les prochaines fluctuations boursières.",
+    "sentiment_score": -1.0,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 0.0,
+    "negative_ratio": 1.0,
+    "bullet_positive_count": 0,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Japan’s Nikkei Stock Average Ends Lower on Profit Booking, Stronger Yen (Update 1) - The Japan News",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JT21WVDBtT29iV3B5WG5uam9TMUhuRl9kbE9sUzdxVUdRdjJzWW1aTzRzNkZBd1libHJMMEh1aVRQaGVrUk1tbjBoc05DbjA5dC1VMmtjQ0JzV0MzUVRvcGRXY1BCYThKMVNmdlZHZlFSNmxIRXcxSHJ3?oc=5",
+        "label": "NEGATIVE"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }

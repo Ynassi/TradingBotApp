@@ -12,15 +12,17 @@ PIPELINES = [
     {"name": " 2️⃣ Enrichissement Small Caps (filtres supplémentaires)", "script": "enrich_etl.py", "steps": 2},
     {"name": " 3️⃣ Fusion finale des données", "script": "merge_uniform.py", "steps": 2},
 
-    {"name": " 4️⃣ Données Overview Générales", "script": "generate_overview_data.py", "steps": 5},
-    {"name": " 5️⃣ Résumé Marchés (GPT)", "script": "generate_overview_summary.py", "steps": 2},
+    {"name": " 4️⃣ Données Overview Générales", "script": "generate_overview_full.py", "steps": 5},
+    {"name": " 5️⃣ Index Data", "script": "Index_data.py", "steps": 2},
     {"name": " 6️⃣ Enrichissement Compagnies", "script": "enrich_companies.py", "steps": 3},
 
-    {"name": " 7️⃣ Enrichissement Compagnies", "script": "enrich_companies.py", "steps": 3},
-    {"name": " 8️⃣ Raffinement Compagnies", "script": "refine_companies.py", "steps": 2},
+    {"name": " 7️⃣ Raffinement Compagnies", "script": "refine_companies.py", "steps": 2},
+    {"name": " 8️⃣ Analyse News (GPT)", "script": "enrich_sent_gpt.py", "steps": 3},
+    {"name": " 9️⃣ Fusion News", "script": "merge_news_gpt.py", "steps": 2},
+    {"name": " 🔟 Nettoyage fichiers JSON", "script": "clean_json_files.py", "steps": 1},
 
-    {"name": " 9️⃣ Analyse News (Mistral)", "script": "enrich_sent_mistral.py", "steps": 3},
-    {"name": " 🔟Fusion News", "script": "merge_news.py", "steps": 2}
+    {"name": " 🔁 Génération df_sentiment_full", "script": "generate_df_sentiment_full.py", "steps": 2},
+    {"name": " 📦 Archivage du snapshot quotidien", "script": "archive_daily_snapshot.py", "steps": 1}
 ]
 
 def run_pipeline_with_progress(pipeline):
@@ -46,7 +48,7 @@ def run_pipeline_with_progress(pipeline):
         sys.stdout.flush()
         if any(kw in line.lower() for kw in [
             "étape", "step", "extraction", "nettoyage", "short", "midterm", "shortterm",
-            "résumé", "visualisation", "enrich", "fiche", "json"
+            "résumé", "visualisation", "enrich", "fiche", "json", "lecture", "sauvegarde", "df"
         ]):
             progress = min(progress + step_percent, 100)
             progress_bar.n = progress
@@ -82,7 +84,7 @@ def run_all_pipelines():
         print(f"▶️ Lancement parallèle : {name}")
         overview_proc.append(subprocess.Popen(["python", script]))
 
-    # Attendre la fin du batch 1 avant batch 3
+    # Batch 3 - enrich + refine
     if not run_pipeline_with_progress(PIPELINES[5]):  # enrich_companies
         print("⛔ Arrêt du pipeline suite à une erreur (Batch 3.1).")
         return
@@ -91,20 +93,33 @@ def run_all_pipelines():
         print("⛔ Arrêt du pipeline suite à une erreur (Batch 3.2).")
         return
 
-    # Attendre la fin du batch 3 pour lancer enrich_sent_mistral
-    if not run_pipeline_with_progress(PIPELINES[7]):  # enrich_sent_mistral
+    # Batch 4 - Analyse GPT & fusion
+    if not run_pipeline_with_progress(PIPELINES[7]):  # enrich_sent_gpt
         print("⛔ Arrêt du pipeline suite à une erreur (Batch 4.1).")
         return
 
-    if not run_pipeline_with_progress(PIPELINES[8]):  # merge_news
+    if not run_pipeline_with_progress(PIPELINES[8]):  # merge_news_gpt
         print("⛔ Arrêt du pipeline suite à une erreur (Batch 4.2).")
         return
 
-    # Fin des scripts parallèles (overview)
+    if not run_pipeline_with_progress(PIPELINES[9]):  # clean_json_files
+        print("⛔ Arrêt du pipeline suite à une erreur (Batch 4.3).")
+        return
+
+    # Batch 5 - Sentiment full + archivage
+    if not run_pipeline_with_progress(PIPELINES[10]):  # generate_df_sentiment_full
+        print("⛔ Arrêt du pipeline suite à une erreur (Batch 5.1).")
+        return
+
+    if not run_pipeline_with_progress(PIPELINES[11]):  # archive_daily_snapshot
+        print("⛔ Arrêt du pipeline suite à une erreur (Batch 5.2).")
+        return
+
+    # Fin des scripts parallèles
     for p in overview_proc:
         p.wait()
 
     print("\n🎯 Tous les pipelines ont été exécutés avec succès.")
-    
+
 if __name__ == "__main__":
     run_all_pipelines()

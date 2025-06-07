@@ -2,16 +2,16 @@
   "ticker": "1801.T",
   "name": "Taisei",
   "sector": "Industrials",
-  "market_cap": 1379733209088.0,
+  "market_cap": 1382118195200.0,
   "source_list": "Nikkei225",
   "fundamentals": {
-    "PE": 11.876499,
-    "PB": 1.5816982,
-    "EV_Revenue": 0.66,
+    "PE": 11.906471,
+    "PB": 1.6120467,
+    "EV_Revenue": 0.672,
     "ROE": 0.13745,
     "ProfitMargin": 0.05748,
     "GrossMargin": 0.1073,
-    "DividendYield": 1.85,
+    "DividendYield": 1.88,
     "DebtEquity": 35.301,
     "CurrentRatio": 1.237,
     "QuickRatio": 0.959,
@@ -20,48 +20,30 @@
     "FCF_Margin": -0.03210496195502676,
     "ROA": 0.02997,
     "PEG": null,
-    "EV_EBITDA": 10.412,
+    "EV_EBITDA": 10.605,
     "BuybackYield": null,
-    "PriceToFCF": -19.949513268230454
+    "PriceToFCF": -19.983997697374072
   },
   "technical_indicators": {
-    "RSI_14": 57.69171582080942,
-    "Momentum_10": -0.2252252252252252,
-    "MACD": 189.64017432496257,
-    "BB_Percent": 0.5419085313883083,
+    "RSI_14": 62.619075442095934,
+    "Momentum_10": 0.6564280406242259,
+    "MACD": 188.00925506829935,
+    "BB_Percent": 0.833066687629488,
     "SMA20_above_SMA50": 1.0
   },
   "scores": {
-    "ValueScore": 0.8964225008221286,
+    "ValueScore": 0.9343051363025678,
     "QualityScore": 0.368797176853537,
-    "SignalScore": 0.5253420795597008
+    "SignalScore": 0.4804454062236972
   },
-  "volatility": 0.0184699588548026,
+  "volatility": 0.0185163626895173,
   "beta": 0.378,
-  "return_6m": 0.2213563431358185,
+  "return_6m": 0.2544995036374171,
   "analyst_rating": {
     "recommendation": "buy",
     "analyst_count": 7,
     "target_mean_price": 8457.143
   },
-  "news_sentiment": {
-    "summary": "Malheureusement, je ne peux pas accéder directement à des articles d'actualité ou à des titres spécifiques pour fournir un résumé. Si vous avez d'autres informations ou des données spécifiques que vous souhaitez discuter ou analyser, n'hésitez pas à les partager pour que je puisse vous aider de manière plus précise.",
-    "sentiment_score": null,
-    "label": "NEUTRAL",
-    "positive_ratio": 0.0,
-    "neutral_ratio": 1.0,
-    "negative_ratio": 0.0,
-    "bullet_positive_count": 1,
-    "bullet_negative_count": 0,
-    "headlines": [
-      {
-        "title": "Quantifying Wikipedia Usage Patterns Before Stock Market Moves - Scientific Reports - Nature",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xMGZQd1hmelJidjB2RzlJM1d6VXVlZDItQVRuY1VPNVpXeTduLVVWc2JVYmNUZmdxcjBwdE1MRGVaVVhYMWJ6MWJ5RGd0SkFNNndj?oc=5",
-        "label": "NEUTRAL"
-      }
-    ]
-  },
-  "extraction_date": "2025-06-05",
   "visual_data": {
     "sparkline": [
       {
@@ -542,13 +524,31 @@
       },
       {
         "date": "2025-06-06",
-        "price": 8122.0
+        "price": 8127.0
       }
     ],
     "current_price_data": {
-      "price": 8122.0,
-      "change": 148.0,
-      "percent_change": 1.86
+      "price": 8127.0,
+      "change": 153.0,
+      "percent_change": 1.92
     }
-  }
+  },
+  "news_sentiment": {
+    "summary": "Malheureusement, je ne peux pas accéder à des informations en temps réel ou lire des actualités spécifiques. Cependant, si vous avez d'autres sujets ou des questions plus générales sur l'analyse financière, n'hésitez pas à les poser.",
+    "sentiment_score": null,
+    "label": "NEUTRAL",
+    "positive_ratio": 0.0,
+    "neutral_ratio": 1.0,
+    "negative_ratio": 0.0,
+    "bullet_positive_count": 2,
+    "bullet_negative_count": 0,
+    "headlines": [
+      {
+        "title": "Quantifying Wikipedia Usage Patterns Before Stock Market Moves - Scientific Reports - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xMGZQd1hmelJidjB2RzlJM1d6VXVlZDItQVRuY1VPNVpXeTduLVVWc2JVYmNUZmdxcjBwdE1MRGVaVVhYMWJ6MWJ5RGd0SkFNNndj?oc=5",
+        "label": "NEUTRAL"
+      }
+    ]
+  },
+  "extraction_date": "2025-06-06"
 }
